@@ -1,0 +1,8 @@
+Spektrogrammanalyse zur Erkennung außerirdischer Signale mittels Convolutional und Recurrent Neural Networks
+Bis heute ist völlig unbekannt, ob wir allein im Universum sind. Um auf dieses Thema eine Antwort zu finden, überprüft diese Bachelorarbeit, ob Convolutional (CNN) und Recurrent Neural Networks (RNN) für die Erkennung außerirdischer Signale geeignet sind.
+
+Das Ziel war dabei, in einem Datensatz bestehend aus Spektrogrammen mehr als 50% aller außerirdischer Signale zu erkennen, da nur so ein Neuronales Netzwerk ein besseres Resultat als eine zufällige Klassifikation liefert, bei der im Mittel 50% aller Signale erkannt werden.
+
+Dabei zeigte sich, dass sich mit beiden Varianten der Neuronalen Netzwerke bis zu 90% aller Signale erkennen lassen, die Vorhersagen von CNNs allerdings verlässlicher sind. RNNs bieten hingegen aufgrund ihrer geringeren Größe einen deutlich leichtgewichtigeren Ansatz und führen zu einer signifikanten Speicherersparnis.
+
+Daraus folgt, dass Neuronale Netzwerke bei der Suche nach außerirdischem Leben im Universum helfen können, um die Frage „Sind wir allein im Universum?“ endgültig zu beantworten.

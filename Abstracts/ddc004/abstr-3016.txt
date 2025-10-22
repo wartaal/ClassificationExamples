@@ -1,0 +1,8 @@
+Bluetooth Exposure Logging zur Besucherstromanalyse im Außenbereich
+Bluetooth ist ein weit verbreitetes drahtloses Übertragungsprotokoll, das in vielen mobilen Geräten wie bspw. Tablets, Kopfhörer oder Smartwatches verwendet wird. Bluetooth-fähige Geräte senden mehrmals pro Minute öffentliche Advertisements, die u.a. die einzigartige MAC-Adresse des Gerätes beinhalten. Das Mitschneiden dieser Advertisements mittels Bluetooth-Logger ermöglicht es, Bewegungen der Geräte zu analysieren und lassen somit Rückschlüsse auf die Bewegungen der Besitzenden zu. 
+
+Zum Schutz der Privatsphäre werden seit 2014 zufällig erzeugte MAC-Adressen in Advertisements verwendet. Eine sog. randomisierte MAC-Adresse bleibt durchschnittlich 15 Minuten lang gültig und wird dann durch eine neue zufällige Adresse ersetzt. Der Aufenthalt eines Geräts zu einem späteren Zeitpunkt kann nicht bestimmt werden. Dennoch kann der Wechsel eines Geräts von einem Bluetooth-Logger zu einem anderen innerhalb dieser 15 Minuten erkannt und somit eine Bewegung des Gerätes abgeleitet werden. 
+
+Durch Apps der Kontaktpersonennachverfolgung wie die Corona-Warn-App (CWA) senden auch vermeintlich inaktive Smartphones Bluetooth-Advertisements. Mit etwa einem Viertel der Aufzeichnungen unterstützt die CWA die Auswertungen dieser experimentellen Arbeit. 
+
+Um die praktische Anwendbarkeit zu demonstrieren, wurde der Erlebniszoo Hannover als Testgelände genutzt. Die Auswertung der über sieben Wochen gesammelten Daten ermöglichte die Analyse von Stoßzeiten, stark besuchten Orten und Besucherströmen.

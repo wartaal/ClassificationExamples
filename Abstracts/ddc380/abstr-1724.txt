@@ -1,0 +1,9 @@
+Automatisierte Kundenkommunikation: Bot or Not? Eine Untersuchung der Akzeptanz von textbasierten Dialogsystemen in der Kundenkommunikation von Unternehmen
+Die Nutzung von Messenger-Diensten hat die Nutzung von sozialen Medien übertroffen. Diese Mediennutzung bringt veränderte Erwartungen an Unternehmen mit sich. Unternehmen begegnen den Erwartungen ihrer Kund*innen in der Online-Kundenkommunikation mit dem Einsatz textbasierter Dialogsysteme. Im Facebook-Messenger wurden 2018 bereits über 300.000 Chatbots angeboten. Das Problem ist, dass Studien seit mehreren Jahren aufzeigen, dass diese Kommunikationstechnologie sich bei den Kund*innen noch nicht durchgesetzt hat und häufig noch skeptisch betrachtet wird. Für Unternehmen ist es daher notwendig zu verstehen, welche Kriterien erfüllt sein müssen, um die Akzeptanzbildung der Kund*innen gegenüber textbasierten Dialogsystemen positiv zu beeinflussen.
+
+Das Ziel dieser Arbeit ist es zu betrachten, inwiefern die Eigenschaften textbasierter Dialogsysteme die Akzeptanzkriterien der Kund*innen erfüllen können. Dazu wird die folgende Forschungsfrage gestellt: Wie akzeptieren Kunden den Einsatz textbasierter Dialogsysteme in der Online-Kundenkommunikation von Unternehmen?
+
+Um die Forschungsfrage zu beantworten, wird eine Literaturanalyse durchgeführt. Die Literatur wird mit Studienergebnissen verglichen, um Übereinstimmungen und Abweichungen herauszuarbeiten. 
+Eine Akzeptanzanalyse hat ergeben, dass Kund*innen textbasierte Dialogsysteme vor allem akzeptieren, wenn sie darin einen Nutzen erkennen. Jedoch beeinflussen neben nutzenorientierten Faktoren auch emotionale Faktoren die Akzeptanz.
+
+Auf dieser Grundlage ist es empfehlenswert, positive und negative Einflussfaktoren des Akzeptanzprozesses zu identifizieren und die Gestaltung textbasierter Dialogsysteme an die Kund*innen anzupassen, bevor diese eingesetzt werden.

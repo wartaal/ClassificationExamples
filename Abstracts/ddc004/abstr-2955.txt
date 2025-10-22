@@ -1,0 +1,2 @@
+Implementierung und Vergleich zweier Skelettierungsalgorithmen für Baum-Punktwolken
+Im Rahmen dieser Bachelorarbeit werden zwei Skelettierungsalgorithmen für Baum-Punktwolken implementiert und miteinander verglichen. Darüber hinaus werden zwei Erweiterungen für einen der beiden Algorithmen präsentiert.

@@ -1,0 +1,2 @@
+Wie benutzerfreundlich sind OPACs? : Evaluation von WebOPACs mit Usability-Methoden
+Die vorliegende Arbeit bietet eine Einführung in die am weitesten verbreiteten Methoden der Usability Evaluation, die heuristische Evaluation und den Usability Test. Beide Methoden werden vorgestellt und anhand von vier Bibliothekskatalogen angewendet. Untersuchungsgegenstand sind die Bibliothekskataloge der Stadtbücherei Bamberg, der Stadtbücherei Würzburg, der Stadtbücherei Augsburg und der Stadtbücherei Osnabrück.

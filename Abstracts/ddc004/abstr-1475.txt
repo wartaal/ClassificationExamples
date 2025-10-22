@@ -1,0 +1,2 @@
+Machine Learning mit Genetic Programming für Klassifizierungsprobleme
+Praktische Anwendung des evolutionären Algorithmus "Genetic Programming" auf Klassifizierungsprobleme sowie Erläuterung der Grundlagen und Probleme des Algorithmus.

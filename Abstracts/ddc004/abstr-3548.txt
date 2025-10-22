@@ -1,0 +1,6 @@
+Entwurf einer zukunftsfähigen Architektur für einen H5P-Inhaltstypen am Beispiel einer Lernanwendung
+In dieser Bachelorarbeit wird eine zukunftsfähige Architektur für einen H5P-Inhaltstyp am Beispiel der Lernanwendung „Collect Skills“ entwickelt. Ziel der Arbeit ist es, zu klären, wie eine Softwarearchitektur für H5P-Inhaltstypen so gestaltet werden kann, dass Aspekte wie Wartbarkeit, Modularität und Wiederverwendbarkeit verbessert werden.
+
+Zu Beginn wird eine Analyse der bestehenden Architektur durchgeführt, wobei technologische Schwachstellen und Optimierungspotenziale identifiziert werden. Basierend auf den gewonnenen Erkenntnissen werden Anforderungen an eine nachhaltige und erweiterbare Softwarearchitektur definiert. Im weiteren Verlauf werden alternative Architekturen evaluiert und ein komponentenbasiertes Architekturkonzept auf Basis von React implementiert. Anschließend wurden die ursprüngliche Anwendung und die neue Anwendung anhand zuvor definierter Kriterien verglichen.
+
+Die Ergebnisse zeigen, dass eine gezielte Verbesserung der Architektur die Zukunftsfähigkeit eines H5P-Inhaltstyps erheblich steigern kann. Die Wahl von React hat sich dabei als besonders vorteilhaft erwiesen.

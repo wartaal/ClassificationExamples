@@ -1,0 +1,4 @@
+Konzeption und Umsetzung eines IPv6-VPN für die Abteilung Informatik
+Im Rahmen dieser Masterarbeit soll ein IPv6-fähiges VPN für die Abteilung Informatik der Fakultät IV der Hochschule Hannover konzipiert und umgesetzt werden.
+Im Rahmen der Softwareauswahl fällt die Wahl auf OpenVPN.
+Als Authentisierungsmethode werden X.509-Zertifikate gewählt.

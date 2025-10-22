@@ -1,0 +1,10 @@
+Die Anwendung des Modells „Komplexitätsstufen von aktivierenden Lernressourcen“ auf die Förderung von Informationskompetenz in deutschen Hochschulbibliotheken
+Das Stufenmodell „Komplexitätsstufen von aktivierenden Lernressourcen“ wurde von einem Projektteam der Fachhochschule Hannover für die Produktion von E-Learning Materialien entwickelt. Die Bachelorarbeit soll beantworten, ob das Modell in der Praxis anwendbar ist. Hierfür wird eine Analyse des Stufenmodells angestrebt. 
+
+Um die Anwendbarkeit zu überprüfen, wird das Stufenmodell mit Beispielen aus wissenschaftlichen Bibliotheken abgeglichen. Die Beispiele basieren auf Lernressourcen, die aus Bibliotheken entnommen werden, die mittels E-Learning Informationskompetenz vermitteln.
+Für die Analyse werden die Angebote anhand der Parameter und der Lernziele des Stufenmodells kategorisiert. Um die Ergebnisse anwendbar zu machen, wird weiterhin ein Konzept für die Förderung von Informationskompetenz mit E-Learning Werkzeugen vorgeschlagen. 
+
+Die Analyse des Stufenmodells zeigt auf, dass das Modell eine gute Orientierung ist, um E-Learning Ressourcen zu kategorisieren. Der Parameter Komplexität eignet sich, um die Ressourcen umfassend abzubilden, da die meisten Beispiele in das Modell einsortiert werden
+können. Der Schwachpunkt des Modells besteht jedoch darin, dass zu viele Parameter berücksichtigt werden, die sich gegenseitig ausschließen können.
+
+Die Ergebnisse der Analyse werden abschließend zu einem Konzept für Bibliotheken zusammengefasst. Die Theorien der Didaktik, sowie das Schwellenkonzept der Association of College & Research Libraries dienen hierbei als Grundlage. Dies zeigt auf, dass Informationskompetenz mit E-Learning Werkzeugen vermittelt werden und das Stufenmodell als Instrument dienlich sein kann.

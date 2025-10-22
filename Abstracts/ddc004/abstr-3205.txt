@@ -1,0 +1,2 @@
+Realisierung eines Document-Retrieval-Systems mit Large Language Models
+In der Bachelorarbeit wird ein Document-Retrieval-System zur Suche von geeigneten Kandidaten anhand von Lebensläufen (CVs) entwickelt. Das System soll die CVs dabei nach semantischer Ähnlichkeit zu der Anfrage suchen und nicht nach dem Vorkommen der Anfragewörter. Dafür werden Large Language Models verwendet, die mit ihrer erlernten Sprachfähigkeit neben generativen Aufgaben auch Texte semantisch in Embeddings abbilden können.
