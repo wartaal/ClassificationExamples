@@ -1,0 +1,1165 @@
+﻿Zivilgesellschaftliche Organisation 
+und Praxis im Themenfeld Polizei und 
+Rassismus/Diskriminierung
+
+Thomas Görgen und Daniel Wagner
+
+Zusammenfassung
+
+Rassistische und diskriminierende Einstellungen und Verhaltensweisen von 
+Polizeibeamt:innen sind auch hierzulande zu Gegenständen politischer, 
+medialer, wissenschaftlicher und gesellschaftlicher Diskussion geworden. 
+National wie international bemühen sich zivilgesellschaftliche Bewegungen 
+und Organisationen, diesen Diskurs ins Licht der Öffentlichkeit zu bringen, 
+ihn im Sinne betroffener Gruppen zu führen, Reformen zu initiieren und 
+mitzugestalten. Sie setzen sich in ihrer alltäglichen Arbeit mit polizeilichem 
+Rassismus und Vorurteilen, diskriminierender Kontrollpraxis und exzessiver, 
+dabei möglicherweise selektiv ausgeübter Polizeigewalt auseinander. Der 
+Beitrag stellt Entwicklung und Arbeitsweisen einschlägiger Initiativen und 
+Organisationen im deutschsprachigen Raum dar und bezieht – auch mit Blick 
+auf grenzüberschreitende Vorbildwirkung von Bewegungen wie Black Lives 
+Matter – vergleichbare Entwicklungen im Ausland, insbesondere in den USA, 
+ein. Der Schwerpunkt der Betrachtung liegt auf der Auseinandersetzung mit 
+diskriminierenden polizeilichen Praktiken, die primär an wahrgenommenen 
+Kategorien ethnischer Zugehörigkeit und Herkunft festgemacht werden.
+
+T. Görgen (*) · D. Wagner 
+Department Kriminal- und Rechtswissenschaften, Deutsche Hochschule der Polizei, 
+Münster, Deutschland
+E-Mail: thomas.goergen@dhpol.de
+D. Wagner 
+E-Mail: daniel.wagner@dhpol.de
+
+© Der/die Autor(en) 2022 445
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_21
+
+
+
+446 T. Görgen und D. Wagner
+
+Schlüsselwörter
+
+Zivilgesellschaft · Polizei · Rassismus · Diskriminierung · Racial Profiling
+
+1 P olizei und Rassismus als Gegenstand 
+zivilgesellschaftlicher Auseinandersetzung
+
+Wo die Polizei zum Bezugspunkt von Protest und zivilgesellschaftlicher Aus-
+einandersetzung wird, kann dies im Hinblick auf eine Vielzahl von Problemwahr-
+nehmungen geschehen. Stets geht es dabei um Verhalten, das insgesamt oder in 
+selektiver Weise als unangemessen, illegitim, gegen Grund- und Freiheitsrechte 
+verstoßend und unfair erlebt wird. Dazu gehören polizeiliche Überwachung 
+und Kontrolle und die als damit einhergehend wahrgenommene Beschränkung 
+individueller Freiheiten, Übermaß und Unverhältnismäßigkeit polizeilichen 
+Handelns, insbesondere in Bezug auf die Ausübung von Zwang und Gewalt, 
+polizeiliche Unfairness im Sinne perzipierter prozeduraler Ungerechtigkeit1 
+und nicht zuletzt als rassistisch wahrgenommene Handlungsmuster und Ein-
+stellungen.2 Polizeilicher Rassismus auf der Handlungsebene lässt sich als die 
+Gesamtheit von Prozessen verstehen, durch die bestimmte soziale Gruppen und 
+deren Angehörige stigmatisiert, selektiv kriminalisiert, schikaniert oder in anderer 
+Weise diskriminierend behandelt werden.3
+
+2 „ Black Lives Matter“ – Entstehung und 
+Entwicklung zivilgesellschaftlichen Widerstands 
+in den Vereinigten Staaten und international
+
+Die zivilgesellschaftliche Auseinandersetzung mit Rassismus und Dis-
+kriminierung in Deutschland kann nicht losgelöst von internationalem Protest, 
+insbesondere in den USA, verstanden werden. Kritik an polizeilicher Brutalität, 
+exzessiver Gewalt und Machtmissbrauch ist in den USA regelmäßig verknüpft 
+
+1 Vgl. Roux (2018).
+2 Zur Legitimität polizeilichen Handelns und Vertrauens in die Polizei (bzw. zu Vertrauens- 
+und Legitimitätsbrüchen) siehe den Beitrag von Laila Abdul-Rahman in diesem Band.
+3 Vgl. Chan (1997), S. 25.
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 447
+
+mit der Thematisierung rassistischer Einstellungen und rassistischer Praxis. Fälle 
+der Tötung unbewaffneter People of Color (PoC) durch die Polizei wie diejenigen 
+von Eric Garner (2014), Michael Brown (2014) und George Floyd (2020) haben – 
+auch in Kombination mit selektiver polizeilicher Milde gegenüber Weißen4 – zum 
+Aufstieg der Black Lives Matter-Bewegung beigetragen.5 Bereits 1991/1992 
+hatte Gewalt von Beamten des LAPD gegen Rodney King sowie die Nicht-
+sanktionierung der Täter zu Protesten und Unruhen geführt.6 Die Geschichte 
+der Auseinandersetzung mit Polizeigewalt und Rassismus in den USA reicht 
+mindestens bis in die Zeit der Bürgerrechtsbewegung zurück.7 Offener Rassismus 
+wurde lange Zeit offiziell toleriert und zum Teil gefördert; die Polizei sei ein Hort 
+rassistischer Einstellungen und ein Instrument zur Sicherung Weißer Hegemonie 
+gewesen.8 „What would be identified today as unconscionable racial profiling 
+would have been an accepted and expected strategy of policing in many areas of 
+the country, even as late as the 1960 s.“9 Roscigno und Preito-Hodge kommen 
+auf Basis von General Social Survey-Daten der Jahre 1986–2018 zu dem 
+Schluss, dass Polizist:innen, insbesondere männliche Weiße, konstant rassistische 
+Positionen stärker unterstützen als die Allgemeinbevölkerung.10
+
+Die Black Lives Matter-Bewegung (BLM) entstand 2012/2013, u. a. als 
+Reaktion auf den Freispruch des Todesschützen im Fall des 17-jährigen Trayvon 
+Martin (Sanford/Fl.). „Three young black women started using #BlackLivesMatter 
+on social media as a call to action to protest this decision and, subsequently, 
+spontaneous demonstrations took place across the country. The hashtag was quickly 
+adopted by other like-minded young activists and soon there were numerous 
+loosely formed groups that held demonstrations in reaction to the numerous 
+and frequent police shootings of unarmed African Americans and the deaths of 
+African Americans while in police custody.“11 BLM wird als eine Bewegung 
+charakterisiert, deren Schwerpunkt Gerechtigkeitsdefizite auf der Grundlage 
+rassistischer Zuschreibungen insbesondere im Bereich der Strafverfolgung sind, 
+die sich zugleich durch einen starken Fokus auf Intersektionalität (i. S. der Berück-
+
+4 Vgl. Kahn et al. (2016).
+5 Zu tödlicher Polizeigewalt in den USA siehe u. a. Zimring (2020).
+6 Vgl. Cannon (1999).
+7 Vgl. Nodjimbadem (2020); Niedermeier (2014).
+8 Vgl. Smith und Alpert (2007).
+9 Smith und Alpert (2007), S. 1264.
+10 Vgl. Roscigno und Preito-Hodge (2021).
+11 Tourse et al. (2018), S. 132; zur Entstehung von BLM siehe auch Hillstrom (2018).
+
+
+
+448 T. Görgen und D. Wagner
+
+sichtigung multipler diskriminierungsrelevanter Merkmale) auszeichnet.12 BLM 
+betrachtet Strafverfolgung und polizeiliche Praxis in den USA als Instrumente 
+rassistisch motivierter Unterdrückung, durch die insbesondere Prinzipien 
+prozeduraler Fairness systematisch verletzt werden und nimmt dabei nicht in erster 
+Linie den einzelnen Funktionsträger, sondern das System in den Blick.
+
+In jüngster Zeit entwickelte sich, z. T. aus BLM heraus, eine „Defund-the-
+Police“-Bewegung13, deren Grundgedanke der des Umschichtens von Ressourcen 
+von „Police“ zu „Community“, d. h. zu sozialen Diensten und einer in der Zivil-
+gesellschaft verankerten Prävention ist. Teilweise werden auch weitergehende 
+Positionen eines „Polizei-Abolitionismus“ vertreten.14 In einigen US-Großstädten 
+(siehe Abschn. 3.3) wurden 2020/2021 Entscheidungen getroffen, die polizeiliche 
+Ressourcen reduzieren, für soziale und zivilgesellschaftliche Aktivitäten ver-
+fügbar machen und insofern als partielle Umsetzung des „Defund“-Gedankens 
+gelesen werden können.
+
+Eine (zivil-)gesellschaftliche Auseinandersetzung mit polizeilichem Rassis-
+mus ist in Europa u. a. im UK15, in Frankreich16 und in den Niederlanden17 zu 
+verzeichnen. In allen drei Ländern kann dies auch vor dem Hintergrund der 
+Geschichte als „Kolonialmächte“ gesehen werden (etwa, wenn in den Nieder-
+landen der durch Polizeikräfte verursachte Tod eines von den ehemaligen Nieder-
+ländischen Antillen stammenden Mannes zum Bezugspunkt von Protesten gemacht 
+wird18). In Frankreich reichten sechs NGOS, unter ihnen Amnesty International 
+und Human Rights Watch, eine Sammelklage gegen Ethnic Profiling und dis-
+kriminierendes Polizeihandeln ein.19 SOS Racisme engagiert sich für die Ver-
+besserung der Beziehungen zwischen Polizei und Bevölkerung und macht dabei 
+weniger die ethnische als die soziale bzw. sozialräumliche Herkunft zum Bezugs-
+punkt von Diskriminierung.20 Im UK attestierte in den 1990er Jahren – initiiert 
+durch den polizeilichen Umgang mit dem rassistischen Mord an Stephen Lawrence 
+
+12 Vgl. Tourse et al. (2018), S. 132 f.
+13 Siehe dazu u. a. Fleetwood und Lea (2020); Jacobs et al. (2021).
+14 U. a. unter Bezugnahme auf Vitale (2017).
+15 U. a. Joseph–Salisbury et al. (2021).
+16 U. a. Hirsch (2017).
+17 U. a. Beau Segers (2020).
+18 Vgl. Beau Segers (2020).
+19 HRW (2021).
+20 SOS Racisme (2018).
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 449
+
+1993 – der Macpherson Report der Metropolitan Police institutionellen Rassis-
+mus.21 Obwohl die Zahl der im UK durch die Polizei getöteten Menschen (nach 
+dem Ende der „Troubles“ in Nordirland) eher gering ist, haben immer wieder Fälle 
+wie diejenigen von de Menezes im Jahr 2005 oder Duggan 2011 zu Protesten und 
+Rassismusvorwürfen geführt. Zugleich gibt es hier eine von der Wissenschaft mit-
+getragene Tradition kritischer Auseinandersetzung mit selektiver Kontrollpraxis, 
+die wiederholt gezeigt hat, dass Angehörige ethnischer Minderheiten in dis-
+kriminierender Weise kontrolliert werden.22
+
+3 Z ivilgesellschaftliche Praxis im Themenfeld 
+Polizei und Rassismus im deutschsprachigen 
+Raum
+
+3.1  Entstehung und Entwicklung
+
+Im Vergleich mit den USA haben hierzulande tödlich verlaufene Fälle von Polizei-
+gewalt eine geringere Rolle für die Genese zivilgesellschaftlicher Auseinandersetzung 
+mit Polizei und Rassismus gespielt. Die jährliche Zahl durch die Polizei getöteter 
+Menschen lag in Deutschland nach 2000 stets unter 20 und meist im einstelligen 
+Bereich23, während in den USA etwa im Jahr 2020 nach Daten der Police Shootings 
+Database24 988 Personen durch Polizeischüsse ums Leben kamen (für junge – ins-
+besondere nichtweiße – Männer damit eine der führenden Todesursachen25).
+
+Der vorliegende Text konzentriert sich im Folgenden auf aktuellere Ent-
+wicklungen in Deutschland etwa seit der Jahrtausendwende. Es sei kurz darauf 
+hingewiesen, dass zivilgesellschaftliches Engagement in dem hier behandelten 
+Themenfeld durchaus auch hierzulande auf eine längere Tradition zurückblickt. 
+Spätestens mit der unter der Chiffre „68er“ zusammengefassten Protestbewegung 
+wurde auch das Thema selektiver Ausübung der umfassend kritisierten staatlichen 
+Überwachung und Repression zum Gegenstand politischer Auseinandersetzung 
+(mit der Polizei als zwar nicht einzigem aber besonders relevantem und sicht-
+barem Bezugspunkt); in diesem Zusammenhang lassen sich etwa die sogenannten 
+
+21 Macpherson (1999).
+22 U. a. Vomfell und Stewart (2021).
+23 Vgl. Lorei (2020).
+24 Washington Post (2021).
+25 Vgl. Edwards et al. (2019).
+
+
+
+450 T. Görgen und D. Wagner
+
+„Black-Panther-Solidaritätskomitees“ nennen26. Zudem gibt es auch in Deutsch-
+land eine Jahrzehnte zurückreichende Linie des „Schwarzen Antirassismus“, 
+der vor allem seit den 1980er Jahren auch organisierte Formen annahm (etwa in 
+Form der „Initiative Schwarze Deutsche“ als Vorläufer der heutigen „Initiative 
+Schwarze Menschen in Deutschland“).27
+
+In Deutschland haben sich zivilgesellschaftliche Initiativen vor allem in der 
+Befassung mit diskriminierender Polizeipraxis entwickelt. Dies betrifft ins-
+besondere als Racial Profiling charakterisierte Verfahrensweisen. Racial Profiling 
+wurde von der Europäischen Kommission gegen Rassismus und Intoleranz 
+(ECRI) definiert als „the use by the police, with no objective and reasonable 
+justification, of grounds such as race, colour, language, religion, nationality or 
+national or ethnic origin in control, surveillance or investigation activities“28. 
+Herrnkind verweist auf die Vielgestaltigkeit von Racial Profiling, das sich u. a. 
+in selektiv durchgeführten Personen- und Fahrzeugkontrollen, an Gruppenmerk-
+malen orientierter Rasterfahndung, (Sonder-)Datenerfassungen mit Gruppen-
+bezug und in Ermittlungsstrategien und -taktiken manifestieren kann, in denen 
+rassistische Kategorisierungen deutlich werden.29 Prototypische Erscheinungs-
+form von Racial Profiling sind verdachtsunabhängige Kontrollen, bei denen 
+gruppenbezogene Merkmale ausschlaggebend für Zustandekommen und Art der 
+Durchführung der Kontrolle sind. Verdachtsunabhängige Kontrollen sind nach 
+dem Bundespolizeigesetz und auch nach Länderrecht grundsätzlich zulässig, 
+insbesondere, wenn sie in polizeirechtlichen Sonderzonen stattfinden, die – je 
+nach Diktion – z. B. zu „Gefahrengebieten“, „kriminalitätsbelasteten Orten“ 
+oder „Kriminalitätsbrennpunkten“ erklärt worden sind. Sie bieten in besonderem 
+Maße Spielraum für eine an Gruppenmerkmalen festgemachte Kontrollpraxis.30 
+In Bezug auf verdachtsunabhängige Kontrollen in Zügen und Bahnhöfen 
+durch Beamt:innen der Bundespolizei stimmen mehrere obergerichtliche Ent-
+scheidungen31 darin überein, dass Kontrollen in Anknüpfung an die Hautfarbe der 
+Kontrollierten auch dann unzulässig sind, wenn dieses Kriterium für die Kontroll-
+entscheidung nur eines unter mehreren war. Auseinandersetzungen um Racial 
+
+26 Zu diesen Komitees siehe z. B. Klimke (2006).
+27 Vgl. Florvil (2020).
+28 Council of Europe, Commission against Racism and Intolerance (2007).
+29 Vgl. Herrnkind (2014).
+30 Hierzu u. a. auch Cremer (2017, 2019).
+31 So OVG Rheinland-Pfalz, Urt. v. 21.04.2016 – 7 A 11108/14; OVG Münster, Urt. v. 
+07.08.2018 – 5 A 294/16.
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 451
+
+Profiling knüpften sich in besonderem Maße auch an die „Kölner Silvesternacht 
+2016“, als – nach sexuellen Übergriffen im Umfeld des Kölner Hauptbahnhofs 
+an Silvester 2015 – die Polizei insbesondere junge Männer aufgrund ihrer wahr-
+genommenen „nordafrikanischen“ Herkunft kontrollierte (und öffentlich wahr-
+nehmbar als „Nafris“ bezeichnete).32
+
+Daneben sind Erfahrungen mit der polizeilichen Bearbeitung von Fällen gegen 
+Migrant:innen gerichteter Gewalt Ausgangspunkte für eine Auseinandersetzung 
+mit polizeilichem Rassismus.33 Insbesondere stellt der NSU-Tatkomplex, dessen 
+rechtsextremistische Orientierung lange nicht (hinreichend) wahrgenommen 
+wurde, bei dem vielmehr hartnäckig nach Verdächtigen in migrantischen 
+Populationen gesucht wurde, einen Bezugspunkt von Kritik an „strukturellem 
+Rassismus“ in der Polizei dar.34 Auch im Kontext anderer Straftaten, wie etwa 
+des Anschlags in Hanau 2020, werden Klagen über mangelnde polizeiliche 
+Sensibilität gegenüber migrantischen Opfern und daraus entstehende Störungen 
+des Vertrauens in Staat und Sicherheitsbehörden laut.35 Neueste Erkenntnisse zu 
+rechtsextremistischen Einstellungen von Mitgliedern des SEK Frankfurt, welche 
+in Hanau in der Tatnacht im Einsatz waren, verdeutlichen eine wohl noch weiter-
+reichende Dimension des strukturellen Problems.36 Im Kontext diskriminierender 
+polizeilicher Praktiken ist also nicht zuletzt auch das Phänomen sekundärer 
+Viktimisierung zu beachten, welche etwa in Form geringeren Verständnisses für 
+migrantisch gelesene Opfer und Zeug:innen (im Extremfall bis hin zur Täter-
+Opfer-Umkehr) beziehungsweise einer weniger effektiven Bearbeitung schwer-
+wiegender (z. B. politisch motivierter) Straftaten zum Schaden migrantisch 
+gelesener Bevölkerungsteile thematisiert wird.37
+
+32 Siehe u. a. Initiative Schwarze Menschen in Deutschland und Schweizer Allianz gegen 
+Racial Profiling (2017).
+33 Zu Einstellungsforschung am Gegenstand der deutschen Polizei siehe den Beitrag von 
+Maren Wegner in diesem Band.
+34 Vgl. u. a. Bozay et al. (2016); Singelnstein (2016). Zu den Dimensionen strukturellen, 
+institutionellen und individuellen Rassismus siehe auch den Beitrag von Alexander Bosch 
+und Roman Thurn in diesem Band.
+35 Siehe z. B. Beeko (2021) sowie den Beitrag von Hannes Püschel in diesem Band.
+36 Vgl. Rafael (2021); Initiative 19. Februar Hanau (2021).
+37 Zur Problematik „sekundäre[r] Viktimisierung durch die Polizei“ siehe etwa Walser 
+et al. (2021), S. 2 (Policy Paper des Projekts CLAIM – Allianz gegen Islam- und Muslim-
+feindlichkeit in Trägerschaft von Teilseiend e. V.); dazu und zur „Vernachlässigung rechts-
+extremer, antisemitischer und rassistischer Motive in Ermittlungsverfahren“ siehe auch 
+Deutsches Institut für Menschenrechte (2020), S. 10.
+
+
+
+452 T. Görgen und D. Wagner
+
+Zugleich ist Polizeigewalt als Bezugspunkt zivilgesellschaftlicher Aus-
+einandersetzung auch in Deutschland von Bedeutung. Diesbezüglich kommt 
+dem Tod von Oury Jalloh besondere Bedeutung zu. Jalloh, ein geduldeter Asyl-
+suchender, verbrannte 2005 in Polizeigewahrsam.38 Die Todesumstände waren 
+Gegenstand zahlreicher Verfahren und Untersuchungen39 und die Versionen der 
+Geschehensabläufe reichen von einer Selbsttötung bis zum Mord zur Verdeckung 
+vorangegangener polizeilicher Misshandlungen. Todesfälle in Polizei- und Justiz-
+gewahrsam – wie z. B. der ungeklärte Tod von Amed Ahmad in der JVA Kleve 
+2018, ebenfalls infolge eines Zellenbrandes – werden von der Initiative Death in 
+Custody online dokumentiert.40
+
+3.2  Akteur:innen, Inhalte, Ansätze
+
+In Deutschland hat sich in jüngerer Zeit eine heterogene „Landschaft“ zivil-
+gesellschaftlicher Organisationen und Initiativen entwickelt, die polizeilichen 
+Rassismus und entsprechende Praktiken sowie deren Auswirkungen auf die 
+betroffenen Gruppen zum Thema machen. Diese Akteur:innen sind in unterschied-
+lichen Feldern zivilgesellschaftlicher Arbeit verankert und unterscheiden sich 
+hinsichtlich der von ihnen vertretenen Standpunkte und Inhalte im Themenfeld 
+Rassismus und Polizei sowie der gewählten Ansätze, Ansatzpunkte und Aktions-
+formen, des geografischen Betätigungsfelds und der ihn ihnen organisierten 
+Akteur:innen und deren Vernetzung. Es handelt sich also um keinen monolithischen 
+Block, sondern um eigenständige (wenn auch vielfältig vernetzte) Akteur:innen 
+mit je eigenen Inhalten und Herangehensweisen. Die im Folgenden namentlich 
+genannten Organisationen und Initiativen stellen einen Ausschnitt aus dieser viel-
+fältigen Landschaft dar, der die Bandbreite an Akteur:innen und Ansätzen illustriert.
+
+Das Spektrum reicht von Initiativen, deren Fokus vorwiegend bis exklusiv 
+auf der Auseinandersetzung mit Diskriminierung von als nicht-weiß gelesenen 
+Menschen durch (Funktionsträger:innen von) Polizeibehörden liegt, über 
+Organisationen, die sich umfassend mit Antidiskriminierung, Gleichbehandlung, 
+Teilhabe, Vertretung von betroffenen Bevölkerungsteilen beschäftigen, bis 
+zu solchen mit einem breiten allgemeinen Menschenrechtsansatz und darauf 
+gründender Befassung auch mit den hier behandelten Themen und Interessen.
+
+38 Vgl. Narr und Vogelskamp (2010).
+39 Zuletzt Landtag Sachsen-Anhalt (2020).
+40 Vgl. auch Death in Custody (2020).
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 453
+
+So steht die Auseinandersetzung mit Polizeigewalt und mit rassistischen 
+Haltungen und Praktiken in der Polizei bereits seit längerem auf der Agenda auch 
+in Deutschland aktiver internationaler Menschenrechtsorganisationen. In den 
+Jahren 2010 bis 2012 führte etwa Amnesty International eine Kampagne gegen 
+rechtswidrige Polizeigewalt, ausgehend von dem Bericht „Täter unbekannt“. 
+In diesem Bericht erhob Amnesty u. a. die Forderung nach spezifischen „Aus-
+wahl-, Ausbildungs- und Kontrollprogrammen für Beamte mit Polizeibefugnissen 
+und […] im Strafvollzug tätige Beamte, um eine Vermeidung rassistischen oder 
+diskriminierenden Verhaltens zu gewährleisten, sowie eine Einbeziehung anti-
+rassistischer Konzepte als grundlegende Elemente bei der Ausbildung dieser 
+Beamten. […]. Spezifische Polizeieinsatzstrategien sollten darauf geprüft 
+werden, sicherzustellen, dass keine Gruppen rassistisch oder aufgrund ihrer 
+Hautfarbe, Herkunft beziehungsweise ihres nationalen Ursprungs oder ihrer 
+ethnischen Abstammung diskriminiert werden.“41 Den letztgenannten Aspekt 
+aufgreifend und spezifizierend, veröffentlichte Amnesty 2014 ein „Positions-
+papier zu menschenrechtswidrigen Personenkontrollen“42. Antirassismus-
+Trainings als fester Teil von Aus- und Fortbildung sollen Wandel innerhalb der 
+Institution befördern und Polizist:innen befähigen, die eigene Rolle und eigenes 
+Handeln zu reflektieren, um Fehlverhalten zu vermeiden, rassistisch motivierte 
+Gewalt effektiv zu verfolgen und angemessen mit betroffenen Menschen umzu-
+gehen.43 Auch Human Rights Watch ist international präsent mit einschlägigen 
+Forderungen und Empfehlungen, etwa nach Monitoring und Veröffentlichung 
+von Fällen von Diskriminierung im Allgemeinen und durch Sicherheitsbehörden 
+im Speziellen sowie dem Ergreifen von Maßnahmen zur Abhilfe und Prävention, 
+etwa durch unabhängige Kontrollinstanzen, Unterstützung für Betroffene (z. B. 
+Rechtshilfe) sowie „training for all those involved in the administration of 
+justice“44.
+
+Darüber hinaus sind weitere Organisationen auf nationaler Ebene im Rahmen 
+allgemeiner Arbeit für Menschen- und Bürger:innenrechte auch hinsichtlich dis-
+kriminierender polizeilicher Praktiken aktiv. So etwa das Deutsche Institut für 
+Menschenrechte e. V.45 oder die Humanistische Union, welche u. a. in Form von 
+
+41 Amnesty International (2010), S. 57.
+42 Amnesty International (2014).
+43 Vgl. z. B. Scharlau (2021).
+44 HRW (o. J.)
+45 Z. B. Cremer (2013); Deutsches Institut für Menschenrechte (2020).
+
+
+
+454 T. Görgen und D. Wagner
+
+Beiträgen in der von ihr herausgegebenen Zeitschrift vorgänge46 und der Buch-
+reihe Grundrechte Report47 Öffentlichkeit schafft und sich am Diskurs beteiligt. 
+An dieser Reihe sind z. B. auch das Komitee für Grundrechte und Demokratie 
+e. V. sowie weitere Organisationen und Gruppen beteiligt, die regelmäßig mit 
+kritischen Stellungnahmen zu polizeilichen rassistischen/diskriminierenden 
+Praktiken und Einstellungen aktiv sichtbar werden. Auch Pro Asyl beteiligt 
+sich aktiv an Forderungen, insbesondere rassistisch motivierte Polizeigewalt 
+zurückzudrängen und aufzuklären sowie den polizeilichen Umgang mit von 
+entsprechenden Handlungen Dritter betroffenen Personen und Gruppen zu ver-
+bessern.48
+
+Eine ganze Reihe Organisationen setzen sich exklusiv oder jedenfalls 
+schwerpunktmäßig (kritisch) mit Fragen Innerer Sicherheit, Sicherheits-
+behörden und polizeilicher Arbeit auseinander. Das Institut für Bürgerrechte & 
+öffentliche Sicherheit e. V. betreibt u. a. dokumentarische und wissenschaft-
+liche Arbeit zu strukturellen Problemen und Fehlverhalten vonseiten der Polizei 
+und ihrer Vertreter:innen; in der von ihm herausgegebenen Zeitschrift Bürger-
+rechte & Polizei/CILIP wird etwa Racial Profiling regelmäßig zum Gegenstand 
+gemacht.49 Berufsständisch ausgerichtete Vereinigungen wie der Republikanische 
+Anwältinnen- und Anwälteverein (RAV) nehmen regelmäßig Stellung, sprechen 
+dabei über rassistische und diskriminierende Praktiken hinaus deren strukturelle 
+Dimension sowie die Verweigerung von polizeilicher beziehungsweise politischer 
+Seite an, diese zu thematisieren und etwa der unabhängigen wissenschaftlichen 
+Untersuchung zugänglich zu machen.50
+
+Eine zahlenmäßig breit aufgestellte und, hinsichtlich Inhalten und Beteiligten, 
+sehr vielfältige Gruppe von Nichtregierungsorganisationen (NRO) sind solche, 
+die umfassend Arbeit gegen Diskriminierung, Rassismus und Menschenfeind-
+lichkeit beziehungsweise für Teilhabe, Repräsentation und Inklusion leisten, und 
+innerhalb dieses Kontexts mit Aktivitäten im Feld diskriminierender polizeilicher 
+Praktiken initiierend wie unterstützend präsent sind.
+
+Dabei handelt es sich teils um deutschlandweit aktive Organisationen, in 
+Vielzahl und Vielfalt aber vor allem um lokale Akteur:innen, die zugleich meist 
+nicht nur auf kommunaler Ebene vernetzt, sondern auch Teil überregionaler 
+
+46 Z. B. Egenberger (2013).
+47 Z. B. Rotino (2017).
+48 Z. B. Pro Asyl (2020).
+49 Z. B. Institut für Bürgerrechte & öffentliche Sicherheit e. V. (2013).
+50 Z. B. Düsberg (2020); von Klinggräff (2020).
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 455
+
+Strukturen sind. Beispiele für entsprechende Dachverbände, Kooperationen und 
+Netzwerke sind etwa der Migrationsrat Berlin-Brandenburg51, die LAG Anti-
+diskriminierungsberatung Baden-Württemberg52 und das Informations- und 
+Dokumentationszentrum für Antirassismusarbeit in Nordrhein-Westfalen53, 
+das Netzwerk gegen Diskriminierung – ADBs für NRW54 und der Antidis-
+kriminierungsverband Deutschland55.
+
+Deutschlandweit aktiv und thematisch breit ausgerichtet sind Interessen-
+vertretungen besonders von Rassismus betroffener Menschen wie etwa die 
+Initiative Schwarze Menschen in Deutschland e. V. (ISD-Bund). Als eine von 
+mehreren „Initiativen gegen Rassismus, Diskriminierung, Verdrängung und 
+Kriminalisierung“ beteiligt sie sich an der Berliner Kampagne „Ban! Racial 
+Profiling: Gefährliche Orte abschaffen!“, die Praktiken des Racial Profiling 
+und die damit verknüpfte Definition gefährlicher Orte kritisiert, da diese eine 
+polizeiliche Kontrollgrundlage mit unverhältnismäßig hoher Belastung sicht-
+barer Minderheiten konstituiere.56 Weitere von Rassismus und Racial Profiling 
+besonders betroffene Menschen sind Rom:nja und Sinti:zze;57 entsprechend 
+fordert auch der Zentralrat Deutscher Sinti & Roma u. a. unabhängige 
+Beschwerdestellen für Betroffene rassistischer Diskriminierung, eine eigen-
+ständige wissenschaftliche Studie zu Racial Profiling, antiziganismus-kritische 
+Aus- und Fortbildung in der Polizei und Bemühungen um effektiveren Opfer-
+schutz in Polizei und Gesamtgesellschaft.58
+
+Eine ganze Reihe NROen sind an den seit 2005 (zunächst für Berlin-Pankow) 
+aufgebauten und seit 2016 in allen Berliner Bezirken eingerichteten Berliner 
+Registern („Register zur Erfassung rechtsextremer und diskriminierender Vorfälle 
+in Berlin“) beteiligt, welche seit 2020 „Vorfälle von Racial Profiling sowie Dis-
+kriminierungsfälle aus Behörden und Institutionen“ in einer eigenen Kategorie 
+„Strukturelle Benachteiligung“ ausweisen.59
+
+51 Z. B. Migrationsrat Berlin-Brandenburg (2014).
+52 Z. B. LAG Antidiskriminierungsberatung Baden-Württemberg (2021).
+53 Z. B. Thompson (2020); Barry und Fochler (2020); Randjelović (2021).
+54 Z. B. ADBs für NRW und ADB Köln (o. J.)
+55 Z. B. Antidiskriminierungsverband Deutschland (2019).
+56 KOP (2017).
+57 Vgl. z. B. Randjelović (2021).
+58 Vgl. Zentralrat Deutscher Sinti & Roma (2020).
+59 Vgl. Koordinierungsstelle Berliner Register (2021), S. 10.
+
+
+
+456 T. Görgen und D. Wagner
+
+Auch im Rahmen der vom Verein The African Network of Germany e. V. 
+(TANG) initiierten Kampagne #beiunsauch soll unter Bezugnahme auf die 
+Tötung von George Floyd Bewusstsein für alltägliche „Rassistische Polizeigewalt 
+gegenüber People of Color, insbesondere Black People of Color und Racial 
+Profiling“ geschaffen werden.60 Die Kampagne wird auch „von der Türkischen 
+Gemeinde Deutschland (TGD), Each One Teach One (EOTO e. V.), der Bundes-
+versammlung der Immigrantenverbände (BAGIV), der Bildungsinitiative German 
+Dream, der Kurdischen Gemeinde Deutschland und mehr als 120 weiteren 
+Migrantenorganisationen unterstützt“61. TANG fordert unter anderem ver-
+pflichtende Antirassismustrainings für Polizeibeamt:innen und einen Dialog 
+zwischen Polizei und afrikanischer Community.62
+
+Nicht wenige Organisationen sind auf dem Feld der Opferberatung und 
+-betreuung aktiv. Hier lassen sich z. B. ReachOut – Opferberatung und Bildung 
+gegen Rechtsextremismus, Rassismus und Antisemitismus und OPRA – die psycho-
+logische Beratung für Opfer rechter, rassistischer und antisemitischer Gewalt 
+nennen, beide in Trägerschaft des Vereins Antirassistische interkulturelle Bildungs-
+arbeit e. V. (ARIBA). Das Spektrum derartiger Angebote umfasst Beratung und 
+Unterstützung von Opfern entsprechender Angriffe sowie von Angehörigen und 
+Zeug:innen, zum einen psychosozialer Natur, zum anderen auch in praktischen 
+Fragen, etwa hinsichtlich rechtlicher Möglichkeiten (Strafanzeige, Anwaltssuche, 
+Prozesskostenhilfe), Behördengängen, weiterer geeigneter (z. B. therapeutischer) 
+Angebote und gegebenenfalls auch Öffentlichkeitsarbeit.63 Hilfe für Betroffene, 
+oft verbunden mit allgemeiner Aufklärungsarbeit und Interessenartikulation aus 
+Sicht der Betroffenen, bieten etwa der Verband der Beratungsstellen für Betroffene 
+rechter, rassistischer und antisemitischer Gewalt (VBRG) und dessen Mit-
+glieder. Der Verband startete im März 2021 eine „Open Lecture Series [zu] extra-
+legaler und rassistischer Polizeigewalt, den rechtsterroristischen Attentaten in 
+Hanau und Halle, verschleppter Strafverfolgung und Tötungsdelikten im staat-
+lichen Gewahrsam“ unter Beteiligung von Betroffenen und Expert:innen aus 
+Praxis und Wissenschaft.64 Insgesamt lässt sich feststellen, dass es eher die Regel 
+als die Ausnahme ist, dass zivilgesellschaftliche Akteur:innen, die allgemein 
+
+60 Vgl. TANG (2020a).
+61 TANG (2020a).
+62 Vgl. TANG (2020b).
+63 Siehe z. B. ReachOut (o. J.)
+64 VBRG (2021).
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 457
+
+ Antirassismus,  Antidiskriminierung und den Kampf gegen Rechtsextremismus und 
+Menschenfeindlichkeit zum Inhalt haben, sich auch mit der Rolle der Polizei in 
+diesem Themenfeld auseinandersetzen, da diese als Institution regelmäßig mit dis-
+kriminierenden Praktiken zulasten nicht-weiß gelesener Menschen (als Verdächtige 
+wie auch als Opfer) sowie einer diesbezüglich mindestens fragwürdigen Fehler-
+kultur in Erscheinung tritt. Dies schließt Zusammenarbeit entsprechender Initiativen 
+mit der Polizei keineswegs aus, vielmehr wird die Wichtigkeit von Austausch 
+betont. So versucht etwa die Stiftung für die Internationalen Wochen gegen Rassis-
+mus durch Dialog „zwischen Menschen mit Migrationsgeschichte bzw. Rassismus-
+erfahrung und Polizist*innen“ Vertrauen aufzubauen.65 Es wird aber die Wichtigkeit 
+bis hin zur Unverzichtbarkeit eines externen Blicks betont, um Missstände abzu-
+bauen. So fordert etwa die Amadeu Antonio Stiftung: „Öffnung der Behörden für 
+Expert*innen aus der Zivilgesellschaft und Wissenschaft, unabhängige Beschwerde-
+stellen für Betroffene“, Studien zu (fremdenfeindlichen) Einstellungen und Racial 
+Profiling und die Einbeziehung der Erfahrungen Betroffener.66
+
+Eine Reihe von Initiativen konzentriert sich auf diskriminierende polizei-
+liche Praktiken als alleinigen oder jedenfalls dominanten Fokus. In Berlin, 
+Bremen und Kiel aktiv und darüber hinaus sichtbar ist etwa die Kampagne 
+für Opfer rassistischer Polizeigewalt (KOP), deren Aktionsfeld oben bereits 
+angeschnitten wurde.67 Sichtbarkeit stellt sie auch über Dokumentation und Ver-
+öffentlichung einer fortgeschriebenen „Chronik rassistisch motivierter Polizei-
+vorfälle für Berlin“ her, deren Ziel es sei, „die Öffentlichkeit über rassistische 
+Polizeigewalt zu informieren, die Position der Betroffenen zu stärken und die 
+Polizei rechenschaftspflichtig zu machen“.68 Unter dem Namen Copwatch sind 
+ähnliche Initiativen in verschiedenen Städten aktiv, u. a. in Leipzig, Hamburg 
+und Frankfurt/Main; Forderungen bestehen etwa in einer Kennzeichnungspflicht 
+für Polizist:innen, Demilitarisierung von Einsatzkräften, Abschaffung anlass-
+loser Kontrollen, und Einrichtung unabhängiger Beschwerdestellen, bis hin zu 
+grundlegenderen Anliegen wie denen einer „Abschaffung der Polizei“, der „Ent-
+wicklung alternativer Konzepte zu Polizei und Strafsystemen“ und des Vorrangs 
+„soziale[r] Lösungen für soziale Probleme“.69
+
+65 Vgl. Stiftung für die Internationalen Wochen gegen Rassismus (2021).
+66 Amadeu Antonio Stiftung (2020).
+67 Vgl. KOP Berlin (2017).
+68 KOP Berlin (2021), S. 2; vgl. auch Lindemann und Schmid (2020).
+69 Copwatchffm (2021).
+
+
+
+458 T. Görgen und D. Wagner
+
+Manche Organisationen entstehen anlässlich und im Gedenken an schwer-
+wiegende Fälle, bis hin zu durch polizeiliche Maßnahmen oder in Gewahrsam 
+zu Tode gekommenen Menschen. Diese Arbeit wird mitunter darüber hinaus ver-
+stetigt und fortgeführt. Hier lässt sich etwa die Initiative in Gedenken an Oury 
+Jalloh e. V. nennen, die eine Chronologie zum Tod Oury Jallohs in Gewahr-
+sam fortschreibt und dabei auch polizeiliche Repressionen gegen die Initiative 
+thematisiert.70 Der Fokus liegt auf dem Umgang von Polizei und Justiz mit der 
+Frage nach der Todesursache und dem „strukturell rassistischen politischen 
+System sowie dem rassistischen Konsens innerhalb der Gesellschaft“, welche 
+„diesen und viele andere Morde des politischen Systems erst möglich gemacht“ 
+haben.71 Entsprechend beschäftigt sich die Initiative mit weiteren Todesfällen 
+in Gewahrsam, Racial Profiling und (weiteren) Opfern rassistischer Gewalt. Mit 
+mehreren weiteren Initiativen (einige bereits oben genannt) ist sie Teil des Bünd-
+nisses Death in Custody und der gleichnamigen Kampagne.72 Ziele beziehungs-
+weise Inhalte sind die Dokumentation von Fällen in Gewahrsam verstorbener 
+nicht-weißer Menschen, die Forderung nach staatlicher Aufklärung, Rechen-
+schaft und Schutzmechanismen, sowie die Stärkung der Rechte Betroffener und 
+die Solidarisierung mit Betroffenen rassistischer Gewalt und Vernetzung ent-
+sprechender Akteur:innen.73
+
+Zusammenfassend lassen sich also eine ganze Reihe von Akteur:innen, 
+Blickwinkeln, Herangehensweisen und Aktionsformen identifizieren. Wesent-
+liche Arbeitsinhalte und Aktionsformen umfassen zum einen Opferberatung/-
+betreuung, in Form psychosozialer Unterstützung und Solidarisierung, aber auch 
+als praktische Unterstützung bei der Navigation durch das deutsche Rechts-
+system. Des Weiteren wird anlässlich konkreter Fälle und struktureller Kritik-
+punkte Öffentlichkeit geschaffen, um gesellschaftliches Bewusstsein zu wecken 
+und politischen Druck auszuüben, etwa hinsichtlich institutioneller Reformen, 
+Gesetzgebung, Aufarbeitung von Vorfällen; dazu dienen etwa Monitoring/
+Dokumentation von Fällen, Demonstrationen und andere öffentlichkeitswirksame 
+Aktionen, Stellungnahmen u. a. in Form von Presse-/Rundfunkinterviews und 
+Pressemitteilungen sowie Teilnahme an und Ausrichtung von Diskussionsrunden. 
+Insbesondere Organisationen, die allgemein Teilhabe und Rechte von Menschen 
+
+70 Z. B. Initiative in Gedenken an Oury Jalloh (2020, 2021).
+71 Initiative in Gedenken an Oury Jalloh (o. J.)
+72 Vgl. Death in Custody (2020, 2021).
+73 Vgl. Death in Custody (2020).
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 459
+
+mit Migrationshintergrund vertreten, sind auch formalisierter am politischen 
+Prozess beteiligt, etwa durch Einbindung in Gremienarbeit auf kommunaler 
+Ebene. Einige Akteur:innen bieten selbst Antidiskriminierungstrainings und 
+ähnliches an, etwa zur Qualifizierung von Fachkräften. Abschließend ist eine 
+vielfältige Vernetzung und gegenseitige Unterstützung entsprechender Initiativen 
+festzustellen, in verstetigter Form über Dachverbände und Bündnisse, in 
+temporärer Zusammenarbeit in gemeinsamen Kampagnen und Aktionen, und 
+in ad hoc Kooperationen und Solidarisierung vor allem anlässlich konkreter 
+aktueller Fälle und Debatten.
+
+3.3  Zivilgesellschaftliche Aktion und Resonanz in Staat 
+und Gesellschaft
+
+Zivilgesellschaftliches Engagement ist weit davon entfernt, sein wesentliches Ziel – 
+eine nicht rassistische, diskriminierungsfreie Polizeipraxis – bereits erreicht zu 
+haben. Zugleich lässt sich – sowohl bei einem Blick in die USA als auch hier-
+zulande – feststellen, dass jedenfalls in Teilen politische und gesetzgeberische 
+Prozesse in Gang gekommen sind, die dem dienlich sein können.
+
+Im März 2021 wurde der „George Floyd Justice in Policing Act“ vom US-
+Repräsentantenhaus verabschiedet („an act to hold law enforcement accountable 
+for misconduct in court, improve transparency through data collection, and 
+reform police training and policies“74).75 Daneben sind auf unterschiedlichen 
+Ebenen zahlreiche (Gesetzes-)Reformen erkennbar, die auf Floyd und andere 
+Fälle exzessiver Gewalt Bezug nehmen.76 Sie betreffen u. a. Verbote von Würge-
+griffen (chokeholds) und limitieren den Einsatz von Einsatzmitteln wie Tränen-
+gas, Pfefferspray, Gummigeschossen oder Blendgranaten. Weitere Reformen 
+und Gesetzesvorschläge beziehen sich auf eskalationsgeneigte Praktiken wie 
+unangekündigte Wohnungsdurchsuchungen (no-knock warrants), auf die polizei-
+liche Qualifikation (Optimierung der Ausbildung, Deeskalations- und Anti-
+Bias-Trainings etc.), die Personalauswahl (background checks, mental health 
+screenings), die Prüfung und Überarbeitung polizeilicher Standards zum Einsatz 
+von Gewalt, Melde- und Berichtspflichten in Bezug auf  Gewaltvorkommnisse und 
+
+74 Gesetzestext unter https://www.congress.gov/bill/116th-congress/house-bill/7120/text. 
+Zugegriffen: 18. Juli 2022.
+75 Siehe auch New York City Bar (2021).
+76 Siehe hierzu u. a. Rummler (2020).
+
+
+
+460 T. Görgen und D. Wagner
+
+den Schutz von Whistlebowern, den verpflichtenden Einsatz von Bodycams zur 
+Dokumentation des Handelns der eingesetzten Beamt:innen, das systematische 
+Sammeln von Daten zu Gewalt durch Polizeibeamt:innen sowie zu Ungleichbe-
+handlung aufgrund zugeschriebener ethnischer Merkmale, spezielle (unabhängige) 
+Ermittler:innen in Fällen polizeilichen Schusswaffeneinsatzes und – hier wird 
+die Verbindung zu „Defund the Police“ sichtbar – die Kürzung polizeilicher 
+Ressourcen (wie etwa im Falle von New York City, Los Angeles oder Portland/
+OR). Die Maßnahmen sind somit in sehr unterschiedlichen Handlungsfeldern 
+lokalisiert und betreffen u. a. polizeiliche Handlungsbefugnisse, Qualifizierung, 
+Personalauswahl sowie interne und externe Kontrollmechanismen. Welche 
+Effekte sie – sofern wie vorgesehen umgesetzt – zeitigen werden, lässt sich kaum 
+abschätzen. Zu kurzfristig sind die Reformansätze bisher, und es ist davon auszu-
+gehen, dass die meisten Maßnahmen nicht systematisch evaluiert werden.
+
+In Deutschland ist die Entwicklung der letzten Jahrzehnte u. a. dadurch 
+charakterisiert, dass polizeiliche Eingriffsbefugnisse insgesamt ausgeweitet 
+wurden und sich in zunehmendem Maße auch auf das mögliche Vorfeld von 
+Gefahren erstrecken.77 Gerade die Möglichkeit zu anlasslosen Kontrollen etwa 
+in als kriminalitätsbelastet angesehenen Räumen bringt auch das Potenzial einer 
+in diskriminierender Weise selektiven Kontrollpraxis mit sich.78 Zugleich deuten 
+sich vereinzelt Entwicklungen an, die den Zielen von NROen entgegenkommen 
+können. Welche Rolle die Bemühungen der NROen und anderer engagierter 
+Akteur:innen dabei spiel(t)en ist an dieser Stelle nicht zu beurteilen. Die Ent-
+wicklungen sind inhaltlich weniger breit gefächert als in den USA und bislang 
+auf einige Bundesländer begrenzt.
+
+Zu erwähnen sind Reformansätze in Polizeigesetzen der Länder in Bezug auf 
+die Durchführung verdachtsunabhängiger Personenkontrollen. In der Novelle des 
+Bremischen Polizeigesetzes vom 24. November 202079 wurden in § 27 Identi-
+tätsfeststellungen an besonderen Kontrollorten grundsätzlich an die Voraus-
+setzung geknüpft, dass sie „auf Grund des Verhaltens der Person erforderlich“ 
+sein müssen. Da Merkmale wie das Erscheinungsbild einer Person und ihre wahr-
+genommene Herkunft nicht unter „Verhalten“ zu subsumieren sind, soll dies dazu 
+
+77 Vgl. Aden und Fährmann (2018).
+78 Vgl. Aden (2017).
+79 Bremisches Polizeigesetz (BremPolG) in der Fassung vom 6. Dezember 2001 (Brem.
+GBl. 2001, S. 441; 2002, S. 47), zuletzt geändert durch Artikel 1 und 2 des Gesetzes vom 
+24. November 2020 (Brem.GBl. 2020, S. 1486, 1568).
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 461
+
+beitragen, hierauf Bezug nehmende Kontrollentscheidungen zu unterbinden. Ab 
+September 2021 haben von Maßnahmen Betroffene zudem Anspruch auf eine 
+sog. „Kontrollquittung“, in der auch der Kontrollgrund zu benennen ist. § 181 der 
+im März 2021 in Kraft getretenen Neufassung des Polizeigesetzes Schleswig–
+Holstein80 regelt zur Identitätsfeststellung: „Die Auswahl der von der Identitäts-
+feststellung betroffenen Person anhand gruppenbezogener Merkmale im Sinne 
+des Artikels 3 Absatz 3 des Grundgesetzes ohne sachlichen, durch den Zweck der 
+Identitätsfeststellung gerechtfertigten Grund ist unzulässig.“ In Berlin sollen mit 
+der 2021 anstehenden Novellierung des Polizeirechts bislang anlasslos mögliche 
+Kontrollen an „kriminalitätsbelasteten Orten“ an das Verhalten der Kontrollierten 
+geknüpft werden.81 Soweit erkennbar, zieht die Mehrzahl der Bundesländer 
+derzeit noch keine gesetzlichen Maßnahmen in Betracht, um eine auf gruppen-
+bezogene Merkmale rekurrierende Kontrollpraxis zu unterbinden.
+
+Zu den von zivilgesellschaftlichen Akteuren erhobenen Forderungen 
+gehört regelmäßig auch die nach einer unabhängigen Kontrolle polizeilichen 
+Handelns. „Unabhängige Polizei-Beschwerdestellen“ oder auch „Polizei-
+beauftragte“ sollen, so der Grundgedanke, aus einer nicht in die Polizei ein-
+gebundenen Position heraus Beschwerden von Bürger:innen bearbeiten, ebenso 
+auch Meldungen von „Whistleblowern“ aus der Polizei.82 Einige Länder haben 
+inzwischen unabhängige, den Landesparlamenten verantwortliche Beauf-
+tragte implementiert (Rheinland-Pfalz im Jahr 2014, Schleswig–Holstein 2016, 
+Baden-Württemberg 2019, Mecklenburg-Vorpommern 2021). Derzeit steht 
+die Einrichtung unabhängiger Polizeibeauftragter u. a. in Hessen, Berlin und 
+Bremen bevor. In anderen Ländern (so in Niedersachsen, Nordrhein-Westfalen, 
+Thüringen, Sachsen) sind Polizeibeauftragte oder Beschwerdestellen eng an 
+Polizei bzw. Innenressorts gebunden, was die Perspektiven einer unabhängigen 
+
+80 Allgemeines Verwaltungsgesetz für das Land Schleswig–Holstein (Landesverwaltungs-
+gesetz – LVwG) in der Fassung der Bekanntmachung vom 2. Juni 1992, Gesamtausgabe in 
+der Gültigkeit vom 19. März 2021 bis 19. März 2024 (GVOBl. 1992, S. 243, 534), zuletzt 
+geändert per Beschluss des Landtags vom 26. Februar 2021 (GVOBl. 2021, S. 222).
+81 Vgl. Raddatz (2021). Am Rande erwähnt sei hier auch das im Juni 2020 in Kraft 
+getretene Landesantidiskriminierungsgesetz (LADG) Berlin, das Menschen vor behörd-
+licher Diskriminierung schützen und dazu zivilrechtliche Klagen mit Beweiserleichterung 
+ermöglichen soll. Innerhalb des ersten halben Jahres wurden in Berlin nach polizeilichen 
+Angaben „31 Vorfälle wegen möglicher Diskriminierung durch Polizisten registriert“, nach 
+Angaben der Justizverwaltung nur 23 Fälle, vgl. MiGAZIN (2020).
+82 Vgl. u. a. Aden (2013); Kreuzer (2020); Töpfer (2014).
+
+
+
+462 T. Görgen und D. Wagner
+
+Kontrolle begrenzt. In Hamburg wurde ein beim Polizeipräsidenten angesiedeltes 
+„Beschwerdemanagement“ eingerichtet, das sowohl für Bürger:innen als auch für 
+entsprechende Meldungen aus der Polizei offen ist. Insgesamt sind im Hinblick 
+auf Kontrollmöglichkeiten polizeilichen Handelns durch unabhängige Instanzen 
+in einigen Ländern positive Entwicklungen zu verzeichnen; von einer flächen-
+deckenden unabhängigen Kontrolle kann aber keinesfalls gesprochen werden. 
+Eine unmittelbare Kausalität zwischen zivilgesellschaftlichem Protest und 
+Reformen lässt sich für die erwähnten Maßnahmen nicht belegen; zu Wirkung 
+und Wirksamkeit mangelt es an systematisch erhobenen Informationen.
+
+4  Ausblick
+
+Während also international wie auch in Deutschland eine Entwicklung fest-
+zustellen ist, die nicht nur auf eine größere Sichtbarkeit der Thematik dis-
+kriminierender polizeilicher Praktiken und fremdenfeindlicher Einstellungen in 
+der Polizei, sondern mitunter auch auf gesellschaftliche und gesetzgeberische 
+Resonanz für Forderungen zivilgesellschaftlicher Akteur:innen hindeutet, ist 
+schwer einzuschätzen, inwieweit mittelfristig tiefgreifende und nachhaltige Ver-
+besserungen zu konstatieren sein werden.
+
+In den USA ist auf politischer Ebene wie in der Bevölkerung eine starke 
+gesellschaftliche Spaltung zu erkennen, was die Behandlung dieses Symptoms 
+fest verankerten Rassismus anbelangt. In Deutschland geht Widerstand gegen 
+institutionelle und rechtliche Reformen insbesondere von der Polizei, ihren 
+berufsständischen Vertretungen und nicht zuletzt auch den Innenressorts aus. 
+Begründet wird dies vor allem damit, dass man die Polizei nicht unter General-
+verdacht stellen und ihre Handlungsfähigkeit bewahren wolle; stringente 
+Argumente, inwiefern ergebnisoffene Untersuchungen und die Förderung 
+unabhängiger, transparenter Strukturen zur Bearbeitung von Verdachtsfällen 
+unzulässiger polizeilicher Praktiken die organisationale Handlungsfähigkeit 
+gefährden würden, werden nicht angeführt.83 Exemplarisch kann hierfür die 
+ablehnende Haltung gegenüber unabhängigen wissenschaftlichen Studien spezi-
+fisch zu Racial Profiling stehen, die damit begründet wurde, diese Praxis sei 
+ohnehin nicht zulässig und daher auch nicht untersuchungsbedürftig.84 Die 
+
+83 Vgl. u. a. Hunold und Wegner (2020), S. 32.
+84 Leitlein (2020).
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 463
+
+Reformansätze in Polizeigesetzen einiger Länder stellen noch keinen grund-
+sätzlichen Bruch mit der Entwicklung der letzten Jahrzehnte dar, polizeiliche 
+Kontroll- und Eingriffsbefugnisse eher auszuweiten. Es besteht insofern weiterhin 
+auch zivilgesellschaftlicher Handlungsbedarf im Hinblick auf die (polizeiliche) 
+Diskriminierung von PoC und anderen als nicht-weiß gelesenen Menschen, ob 
+nun als Kontrollierte, Tatverdächtige, Inhaftierte, Zeug:innen oder Opfer.
+
+Literatur
+
+ADBs für NRW, & ADB Köln (Hrsg.) (o. J.). „Menschen wie DU neigen zu Straftaten“ 
+(Rassistische) Diskriminierung bei der Polizei: Ursachen, Folgen und Möglichkeiten 
+der Intervention. https://www.oegg.de/wp-content/uploads/2019/11/Polizeibroschuere_
+fin_web.pdf. Zugegriffen: 18. Juli 2022.
+
+Aden, H. (2013). Polizeibeauftragte und Beschwerdestellen in Deutschland. Erfolgs-
+bedingungen und neue Trends in den Ländern. vorgänge, 52(4), S. 10.
+
+Aden, H. (2017). Anlasslose Personenkontrollen als grund- und menschenrechtliches 
+Problem. Zeitschrift für Menschenrechte, 11(2), S. 54.
+
+Aden, H., & Fährmann, J. (2018). Polizeirecht vereinheitlichen? Kriterien für Muster-
+Polizeigesetze aus rechtsstaatlicher und bürgerrechtlicher Perspektive. Berlin: 
+Heinrich-Böll-Stiftung e. V.
+
+Amadeu Antonio Stiftung (2020). Lagebild Rechtsextremismus in den Sicherheits-
+behörden: Eine interne Lösung des Polizeiproblems ist nicht mehr möglich. https://
+www.amadeu-antonio-stiftung.de/pressemitteilungen/lagebild-rechtsextremismus-in-
+den-sicherheitsbehoerden-eine-interne-loesung-des-polizeiproblems-ist-nicht-mehr-
+moeglich/. Zugegriffen: 18. Juli 2022.
+
+Amnesty International (2010). Täter unbekannt: Mangelnde Aufklärung von mutmaßlichen 
+Misshandlungen durch die Polizei in Deutschland. Berlin: Amnesty International 
+Sektion der Bundesrepublik Deutschland e. V.
+
+Amnesty International (2014). Racial/Ethnic Profiling: Positionspapier zu menschen-
+rechtswidrigen Personenkontrollen. Berlin: Amnesty International Sektion der Bundes-
+republik Deutschland e. V.
+
+Antidiskriminierungsverband Deutschland (2019). Falschaussagen und Abwehrhaltung 
+zur Kritik von Polizeiverbänden am Landesantidiskriminierungsgesetz. https://www.
+antidiskriminierung.org/neuigkeiten-1/2019/9/4/pressemitteilung-zur-kritik-von-
+polizeiverbnden-am-ladg-berlin. Zugegriffen: 18. Juli 2022.
+
+Barry, C., & Fochler, N. (2020). Polizei und Gewahrsam: Für PoC lebensgefährlich! Erste 
+Befunde der Kampagne „Death in Custody“. Überblick, 26(2), S. 5.
+
+Beau Segers, I. (2020). Why Black Pete matters: Institutional racism and police violence in 
+the Netherlands. https://www.sv.uio.no/c-rex/english/news-and-events/right-now/2020/
+why-black-pete-matters.html. Zugegriffen: 16. August 2021.
+
+Beeko, M. N. (2021). Ein Jahr Hanau: Vom Gedenken zum Handeln für die Überlebenden. 
+Ein Aufruf. https://www.amnesty.de/informieren/aktuell/deutschland-hanau-gedenken-
+anschlag-rassismus. Zugegriffen: 18. Juli 2022.
+
+
+
+464 T. Görgen und D. Wagner
+
+Bozay, K., Aslan, B., Mangitay, O., & Özfirat, F. (2016). Die haben gedacht, wir waren 
+das: MigrantInnen über rechten Terror und Rassismus. Köln: PapyRossa.
+
+Cannon, L. (1999). Official negligence: How Rodney King and the riots changed Los 
+Angeles and the LAPD. Boulder, CO: Westview Press.
+
+Chan, J. B. L. (1997). Changing police culture: Policing in a multicultural society. 
+Melbourne: Cambridge University Press.
+
+Copwatch Ffm (2021). Solidarität statt Polizeigewalt! https://copwatchffm.org/?p=407. 
+Zugegriffen: 18. Juli 2022.
+
+Council of Europe, Commission against Racism and Intolerance (2007). ECRI General 
+Policy Recommendation No. 11, on Combating Racism and Racial Discrimination in 
+Policing (June 29, 2007), COE Doc. CRI(2007)39. http://hrlibrary.umn.edu/instree/
+COE_gen-rec-11.html. Zugegriffen: 18. Juli 2022.
+
+Cremer, H. (2013). „Racial Profiling“ – Menschenrechtswidrige Personenkontrollen nach 
+§ 22 Abs. 1a Bundespolizeigesetz: Empfehlungen an den Gesetzgeber, Gerichte und 
+Polizei. Berlin: Deutsches Institut für Menschenrechte.
+
+Cremer, H. (2017). Racial Profiling: eine menschenrechtswidrige Praxis am Beispiel 
+anlassloser Personenkontrollen. In K. Fereidooni & M. El (Hrsg.), Rassismuskritik und 
+Widerstandsformen (S. 405–414). Wiesbaden: Springer VS.
+
+Cremer, H. (2019). Verbot rassistischer Diskriminierung. Methode des Racial Profiling ist 
+grund- und menschenrechtswidrig. Deutsches Polizeiblatt, 37(3), S. 22.
+
+Death in Custody (2020). Pressemitteilung: Recherche zu Todesfällen in Gewahrsam 
+in Deutschland bekräftigt: „Auch in Deutschland tötet institutioneller Rassismus!“. 
+https://deathincustody.noblogs.org/post/2020/06/08/pressemitteilung-recherche-zu-
+todesfaellen-in-gewahrsam-in-deutschland-bekraeftigt-auch-in-deutschland-toetet-
+institutioneller-rassismus/. Zugegriffen: 18. Juli 2022.
+
+Death in Custody (2021). Todesfälle in Gewahrsam. https://doku.deathincustody.info/
+recherche/. Zugegriffen: 18. Juli 2022.
+
+Deutsches Institut für Menschenrechte (2020). Stellungnahme – Nach den Morden in 
+Hanau. https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/
+Stellungnahme_Nach_den_Morden_in_Hanau.pdf. Zugegriffen: 18. Juli 2022.
+
+Düsberg, B. (2020). Der alltägliche Verfassungsbruch. Zur Rechtswirklichkeit des racial 
+profiling. RAV InfoBrief, 41(120), S. 14. https://www.rav.de/fileadmin/user_upload/rav/
+Infobriefe/RAVinfobrief120_web.pdf. Zugegriffen: 18. Juli 2022.
+
+Edwards, F., Lee, H., & Esposito, M. (2019). Risk of being killed by police use of force in 
+the United States by age, race-ethnicity, and sex. Proceedings of the National Academy 
+of Sciences of the United States of America, 116(34), S. 16793.
+
+Egenberger, V. (2013). Polizeiarbeit auch ohne ‚Racial Profiling‘? Aufmerksamkeit für dis-
+kriminierende Polizeikontrollen in Deutschland steigt. vorgänge, 201/202(1/2), S. 134.
+
+Fleetwood, J., & Lea, J. (2020). De-funding the Police in the UK. British Society of 
+Criminology Newsletter, 85, S. 25.
+
+Florvil, T. N. (2020). Zur Beständigkeit der Graswurzel. Transnationale Perspektiven auf 
+Schwarzen Antirassismus im Deutschland des 20. Jahrhunderts. Aus Politik und Zeit-
+geschichte, 70(42–44), S. 33.
+
+Herrnkind, M. (2014). „Filzen Sie die üblichen Verdächtigen!“ oder: Racial Profiling in 
+Deutschland. Polizei & Wissenschaft, 15(3), S. 35.
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 465
+
+Hillstrom, L. C. (2018). Black Lives Matter: From a moment to a movement. Santa 
+Barbara, CA: Greenwood.
+
+Hirsch, N. A. (2017). Advocacy and anti-racism: How institutions shape organizational 
+responses to racially biased policing in France and the United States. Dissertation 
+Harvard University, Cambridge, Massachusetts.
+
+HRW (2021). France: End systemic police discrimination: Civil society organizations file 
+class action challenging ethnic profiling. https://www.hrw.org/news/2021/01/27/france-
+end-systemic-police-discrimination. Zugegriffen: 18. Juli 2022.
+
+HRW (o. J.). Racism and the Administration of Justice. https://www.hrw.org/legacy/
+campaigns/race/criminal_justice.htm. Zugegriffen: 18. Juli 2022.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei: Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Initiative 19. Februar Hanau (2021). Pressemitteilung: 13 der 19 rechtsextremen SEK-
+Beamten waren in Hanau im Einsatz. https://19feb-hanau.org/2021/06/16/presse-
+mitteilung-13-der-19-rechtsextremen-sek-beamten-waren-in-hanau-im-einsatz/. 
+Zugegriffen: 18. Juli 2022.
+
+Initiative in Gedenken an Oury Jalloh e. V. (2020). Chronologie im Fall Oury Jalloh 
+7.1.2005 bis 2020. https://initiativeouryjalloh.files.wordpress.com/2020/06/chronologie-
+im-fall-oury-jalloh-2005-bis-2020.pdf. Zugegriffen: 18. Juli 2022.
+
+Initiative in Gedenken an Oury Jalloh e. V. (2021). Jahrelange gezielte Repression gegen 
+die Initiative in Gedenken an Oury Jalloh. https://initiativeouryjalloh.files.wordpress.
+com/2021/01/chronologie-repression-initiative-stand-2021-1.pdf. Zugegriffen: 18. Juli 
+2022.
+
+Initiative in Gedenken an Oury Jalloh e. V. (o. J.). About us. https://www.betterplace.org/
+en/organisations/24330-initiative-in-gedenken-an-oury-jalloh-e-v. Zugegriffen: 18. Juli 
+2022.
+
+Initiative Schwarze Menschen in Deutschland, & Schweizer Allianz gegen Racial Profiling 
+(2017). Stopp Racial Profiling: Sicherheit für alle – ein Menschenrecht! https://bdb-
+germany.de/wp-content/uploads/2017/06/Grundsatzerkla_rung_Racial-Profiling.pdf. 
+Zugegriffen: 16. August 2021.
+
+Institut für Bürgerrechte & öffentliche Sicherheit e. V. (Hrsg.) (2013). Schwerpunkt: Racial 
+Profiling. Bürgerrechte & Polizei/CILIP, 104.
+
+Jacobs, L. A., Kim, M. E., Whitfield, D. L., Gartner, R. E., Panichelli, M., Kattari, S. K., 
+Downey, M. M., McQueen, S. S., & Mountz, S. E. (2021). Defund the police: moving 
+towards an anti-carceral social work. Journal of Progressive Human Services, 32(1), 
+S. 37.
+
+Joseph–Salisbury, R., Connelly, L. & Wangari-Jones, P. (2021). „The UK is not innocent“: 
+Black Lives Matter, policing and abolition in the UK. Equality, Diversity and Inclusion, 
+40(1), S. 21.
+
+Kahn, K. B., Goff, P. A., Lee, J. K., & Motamed, D. (2016). Protecting whiteness: White 
+phenotypic racial stereotypicality reduces police use of force. Social Psychological and 
+Personality Science, 7(5), S. 403.
+
+Klimke, M. (2006). Black Power, die Black-Panther-Solidaritätskomitees und der 
+bewaffnete Kampf. In W. Kraushaar (Hrsg.), Die RAF und der linke Terrorismus. Bd. 2 
+(S. 562–582). Hamburg: Hamburger Edition.
+
+
+
+466 T. Görgen und D. Wagner
+
+Koordinierungsstelle Berliner Register (2021). Auswertung für 2020 der dokumentierten 
+Vorfälle der Berliner Register. https://berliner-register.de/sites/default/files/Register-
+Auswertung2020_0.pdf. Zugegriffen: 31. März 2021.
+
+KOP Berlin (2017). Die Berliner Kampagne: Ban! Racial Profiling – Gefährliche Orte 
+abschaffen! https://kop-berlin.de/beitrag/die-berliner-kampagne-ban-racial-profiling-
+gefahrliche-orte-abschaffen. Zugegriffen: 18. Juli 2022.
+
+KOP Berlin (2021). Chronik rassistisch motivierter Polizeivorfälle für Berlin von 2000 bis 
+2021. https://kop-berlin.de/files/documents/chronik.pdf. Zugegriffen: 18. Juli 2022.
+
+Kreuzer, A. (2020). Lücken im Ombudswesen: Polizeibeauftragte. Neue Kriminalpolitik, 
+32(3), S. 361.
+
+Landtag Sachsen-Anhalt (2020). Bericht der vom Ausschuss für Recht, Verfassung und 
+Gleichstellung des Landtags Sachsen-Anhalt beauftragten Berater Rechtsanwalt 
+Jerzy Montag MdB von 2002–2013 nichtberufsrichterlicher Richter am Bayerischen 
+Verfassungsgerichtshof und Manfred Nötzel Generalstaatsanwalt in München i. R. 
+Magdeburg: Landtag Sachsen-Anhalt.
+
+LAG Antidiskriminierungsberatung Baden-Württemberg (2021). Diskriminierungsschutz 
+gewährleisten – die Schutzlücke schließen: Für ein Landesantidiskriminierungsgesetz in 
+Baden-Württemberg. http://lag-adb-bw.adis-ev.de/wp-content/uploads/sites/16/2021/03/
+Diskriminierungsschutz_gewaehrleisten_20032021.pdf. Zugegriffen: 18. Juli 2022.
+
+Leitlein, H. (2020). Racial Profiling. Bundesinnenministerium sagt Studie zu Rassismus 
+bei der Polizei ab. Zeit Online. https://www.zeit.de/gesellschaft/zeitgeschehen/2020-07/
+racial-profiling-studie-polizei-abgesagt-justizministerium-horst-seehofer. Zugegriffen: 
+16. August 2021.
+
+Lindemann, S., & Schmid, L. (2020). Rassistische Polizeigewalt in Deutschland. 
+https://heimatkunde.boell.de/de/2020/09/08/rassistische-polizeigewalt-deutschland. 
+Zugegriffen: 18. Juli 2022.
+
+Lorei, C. (2020). Statistiken zum polizeilichen Schusswaffengebrauch in Deutschland, 
+Stand 11. Dezember 2020. http://www.schusswaffeneinsatz.de/download/statistiken.
+pdf. Zugegriffen: 16. August 2021.
+
+Macpherson, W. (1999). The Stephen Lawrence inquiry: Report of an inquiry. London, UK: 
+Her Majesty’s Stationary Office.
+
+MiGAZIN (2020). Polizei registriert erste Beschwerden über Diskriminierung. https://
+www.migazin.de/2020/12/21/berlin-polizei-registriert-erste-beschwerden-ueber-dis-
+kriminierung/. Zugegriffen: 16. August 2021.
+
+Migrationsrat Berlin-Brandenburg (Hrsg.) (2014). Rassismus und Justiz. http://www.
+migrationsrat.de/wp-content/uploads/2018/07/MRBB_Broschuere_Rassismus-und-
+Justiz-1.pdf. Zugegriffen: 18. Juli 2022.
+
+Narr, W. D., & Vogelskamp, D. (2010). Der Mord in Dessau im Schoß der Polizei – mit 
+gerichtlichen Nachspielen. Köln: Komitee für Grundrechte und Demokratie.
+
+New York City Bar (2021). Report in support of federal police reform efforts: the George 
+Floyd Justice in Policing Act and Justice in Policing Act. https://s3.amazonaws.com/
+documents.nycbar.org/files/2020761-FloydJusticeInPolicingAct.pdf. Zugegriffen: 16. 
+August 2021.
+
+Niedermeier, S. (2014). Rassismus und Bürgerrechte. Polizeifolter im Süden der USA 
+1930–1955. Hamburg: Hamburger Edition.
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 467
+
+Nodjimbadem, K. (2020). The long, painful history of police brutality in the U.S. 
+Smithsonian Magazine online. https://www.smithsonianmag.com/smithsonian-
+institution/long-painful-history-police-brutality-in-the-us-180964098/. Zugegriffen: 16. 
+August 2021.
+
+Pro Asyl (2020). Rassismus als „Vater aller Probleme“ – Innenministerkonferenz muss 
+handeln! https://www.proasyl.de/pressemitteilung/rassismus-als-vater-aller-probleme-
+innenministerkonferenz-muss-handeln/. Zugegriffen: 18. Juli 2022.
+
+Raddatz, B. (2021). Neues Berliner Polizeigesetz: Von Bodycams bis Kontrollen – was 
+sich künftig ändert. rbb24. https://www.rbb24.de/politik/beitrag/2021/03/polizeigesetz-
+polizei-bodycams-racial-profiling-berlin-.html. Zugegriffen: 30. März 2021.
+
+Rafael, S. (2021). 13 SEK-Polizisten unter Rechtsextremismus-Verdacht waren im Einsatz. 
+Belltower News. https://www.belltower.news/terror-in-hanau-13-sek-polizisten-unter-
+rechtsextremismus-verdacht-waren-im-einsatz-117435/. Zugegriffen: 16. August 2021.
+
+Randjelović, I. (2021). Rassismus gegen Rom*nja und Sinti*zze. Überblick, 27(1), S. 3.
+ReachOut (o. J.). Was ist ReachOut. https://www.reachoutberlin.de/de/Unsere%20Arbeit/
+
+Beratung/. Zugegriffen: 18. Juli 2022.
+Roscigno, V. J., & Preito-Hodge, K. (2021). Racist cops, vested „blue“ interests, or both? 
+
+Evidence from four decades of the General Social Survey. Socius, 7, S. 1.
+Rotino, S. (2017). Weil nicht sein kann, was nicht sein darf. Immer noch – Racial Profiling 
+
+bei der Bundespolizei. In T. Müller-Heidelberg, E. Steven, M. Pelzer, M. Heiming, 
+C. Röhner, R. Gössner, J. Heesen & A. Helwich (Hrsg.), Grundrechte-Report 2017 
+(S. 51–54). Frankfurt am Main: Fischer Taschenbuch Verlag.
+
+Roux, G. (2018). Perception of police unfairness amongst stigmatized groups: The impact 
+of ethnicity, Islamic affiliation and neighbourhood. In S. Roché & M. Hough (Hrsg.), 
+Minority youth and social integration: The ISRD-3 study in Europe and the US (S. 193–
+217). Cham, CH: Springer.
+
+Rummler, O. (2020). The major police reforms enacted since George Floyd’s death. Axios. 
+https://www.axios.com/police-reform-george-floyd-protest-2150b2dd-a6dc-4a0c-a1fb-
+62c2e999a03a.html. Zugegriffen: 18. Juli 2022.
+
+Scharlau, M. (2021). Antirassismus zum Alltag machen – auch in der Polizei. https://www.
+amnesty.de/informieren/aktuell/deutschland-antirassismus-polizei-alltagsaufgabe. 
+Zugegriffen: 18. Juli 2022.
+
+Singelnstein, T. (2016). Confirmation Bias – die Bestätigungsneigung als kognitive Ver-
+zerrung bei polizeilichen Ermittlungen im Strafverfahren. Strafverteidiger, 36(12), 
+S. 830.
+
+Smith, M. R., & Alpert, G. P. (2007). Explaining police bias: a theory of social 
+conditioning and illusory correlation. Criminal Justice and Behavior, 34(10), S. 1262.
+
+SOS Racisme (2018). Adresse citoyenne: Les propositions de SOS Racisme pour 
+l’amélioration des rapports police-population. https://sos-racisme.org/wp-content/
+uploads/2018/02/Adresse-Citoyenne-de-SOS-Racisme.pdf. Zugegriffen: 18. Juli 2022.
+
+Stiftung für die Internationalen Wochen gegen Rassismus (2021). Mit der Polizei ins 
+Gespräch kommen, Zusammenhalt in der Gesellschaft stärken. https://stiftung-gegen-
+rassismus.de/wp-content/uploads/2021/01/12012020_PM_Gespraeche-mit-der-Polizei.
+pdf. Zugegriffen: 18. Juli 2022.
+
+TANG (2020a). Pressemitteilung TANG-Aktion #beiunsauch. http://tang-ev.de/
+pressemitteilung-aktion-beiunsauch/2020a/06/. Zugegriffen: 31. März 2021.
+
+
+
+468 T. Görgen und D. Wagner
+
+TANG (2020b). Positionspapier von TANG zum Thema Rassismus gegen Schwarze 
+Menschen in Deutschland. http://tang-ev.de/positionspapier-von-tang-zum-thema-
+rassismus-gegen-schwarze-menschen-in-deutschland/2020b/06/. Zugegriffen: 31. März 
+2021.
+
+Thompson, V. E. (2020). Racial Profiling, institutioneller Rassismus und Interventions-
+möglichkeiten. Überblick, 26(2), S. 8.
+
+Töpfer, E. (2014). Unabhängige Polizei-Beschwerdestellen: Eckpunkte für ihre Aus-
+gestaltung. Berlin: Deutsches Institut für Menschenrechte.
+
+Tourse, R. W. C., Hamilton-Mason, J., & Wewiorski, N. J. (2018). Systemic racism in the 
+United States: Scaffolding as social construction. Cham, CH: Springer.
+
+VBRG (2020). Open Lecture Series. https://verband-brg.de/open-lecture-series/. 
+Zugegriffen: 18. Juli 2022.
+
+Vitale, A. (2017). The end of policing. London: Verso.
+Vomfell, L., & Stewart, N. (2021). Officer bias, over-patrolling and ethnic disparities in 
+
+stop and search. Nature Human Behaviour, 5(5), S. 566.
+von Klinggräff, U. (2020). Keine Einzelfälle: Diskriminierung und rassistische Gewalt-
+
+erfahrungen von PoC. RAV InfoBrief, 41(120), S. 14. https://www.rav.de/fileadmin/
+user_upload/rav/Infobriefe/RAVinfobrief120_web.pdf. Zugegriffen: 18. Juli 2022.
+
+Walser, E., Ceyhan, G., & Hanano, R. (2021). Policy Paper: Antimuslimische Vorfälle 
+erkennen und erfassen. https://www.claim-allianz.de/content/uploads/2021/07/i-report-
+policypaper-1-1.pdf?x34334. Zugegriffen: 18. Juli 2022.
+
+Washington Post (2021). Police shootings database 2015–2021. https://www.washington-
+post.com/graphics/investigations/police-shootings-database/. Zugegriffen: 16. August 
+2021.
+
+Zentralrat Deutscher Sinti & Roma (2020). Erwartungen des Zentralrats an den Kabinetts-
+ausschuss gegen Rechtsextremismus und Rassismus. https://zentralrat.sintiundroma.de/
+download/12409. Zugegriffen: 18. Juli 2022.
+
+Zimring, F. E. (2020). Police killings as a problem of governance. The Annals of the 
+American Academy of Political and Social Science, 687(1), S. 114.
+
+Prof. Dr. Thomas Görgen ist Professor an der Deutschen Hochschule der Polizei 
+(Münster) und leitet dort das Fachgebiet Kriminologie und interdisziplinäre Kriminal-
+prävention. Arbeitsschwerpunkte liegen in den Bereichen der Viktimisierungs- und 
+Gewaltforschung, der politisch motivierten Kriminalität sowie der Kriminal- und Gewalt-
+prävention.
+
+Daniel Wagner ist wissenschaftlicher Mitarbeiter im Fachgebiet Kriminologie und 
+interdisziplinäre Kriminalprävention an der Deutschen Hochschule der Polizei (Münster). 
+Seine Schwerpunkte sind politische Soziologie und Kommunikationsforschung, Jugend-
+soziologie und Soziologie abweichenden Verhaltens und sozialer Kontrolle.
+
+
+
+Zivilgesellschaftliche Organisation und Praxis … 469
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

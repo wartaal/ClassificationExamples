@@ -1,0 +1,229 @@
+﻿3 Methodisches Vorgehen
+
+Die Studie folgt einem Mixed-Methods-Ansatz und setzt sich zusammen
+aus einer quantitativen Online-Befragung von Betroffenen sowie qualita-
+tiven, leitfadengestützten Expert*inneninterviews (vgl. Abbildung 2). Das
+Forschungsdesign macht damit die Perspektive von Betroffenen in ihrer
+Breite und Vielschichtigkeit zum Ausgangspunkt und ergänzt diese qua-
+litativ um die Sichtweisen weiterer Akteur*innen aus Polizei, Justiz und
+Zivilgesellschaft.
+
+Nachfolgend wird für beide Projektteile das methodische Vorgehen dar-
+gestellt und begründet. Im Anschluss werden die Limitationen der Studie
+aufgezeigt.
+
+3.1 Quantitative Befragung von Betroffenen
+
+Bislang gab es in Deutschland keine systematischen Untersuchungen der
+Perspektive von Personen, die von polizeilicher Gewalt betroffen waren, die
+sie als übermäßig bewerteten (s. Kapitel 2). Mittels einer breit angelegten
+quantitativen Online-Befragung wurde ein explorativer Forschungsansatz
+gewählt, der einen möglichst breiten Überblick über ein wenig erforschtes
+Feld geben sollte.
+
+Dabei war insbesondere das Dunkelfeld des Deliktsbereichs von Interes-
+se: Es sollten nicht nur die Fälle betrachtet werden, in denen offiziell wegen
+Körperverletzung imAmtermitteltwurde,sondernauch solche, indenendie
+Betroffenen zwar die erlebte polizeiliche Gewalt als übermäßig bewerteten,
+aber dennoch keine Anzeige erstatteten. Denn sowohl über das Dunkelfeld
+desDeliktsbereichs als auch über dessen Struktur lagen bislang kaum empi-
+rische Daten vor.
+
+
+
+34 Methodisches Vorgehen
+
+Abbildung 2: Forschungsdesign
+
+Aus diesen Gründen wurde sich für eine Viktimisierungsbefragung als
+klassische FormderDunkelfeldforschung (vgl.Guzy et al., 2015;Haverkamp,
+2019, S. 16; Prätor, 2014, S. 45) entschieden. Solche Befragungsdaten bilden
+dieWahrnehmung der betroffenen Personen ab und sind damit immer sub-
+jektiv.DasErkenntnisinteressederBetroffenenbefragung lässt sichwie folgt
+zusammenfassen:
+
+– Wer sieht sich inwelchen Situationen von übermäßiger polizeilicher Ge-
+walt betroffen?
+
+– Wie gestaltet sich aus Betroffenenperspektive der Interaktionsprozess?
+Was führt zur Eskalation?
+
+– Welche Art der Gewalt wird angewendet, welche Folgen hat sie und wie
+wird damit umgegangen?
+
+– Warum nehmen die Betroffenen die Gewalt als nicht notwendig oder
+übertrieben, und damit aus ihrer Sicht rechtswidrig war?
+
+
+
+Methodisches Vorgehen 35
+
+– Aus welchen Gründen entscheiden sich Betroffene für oder gegen eine
+Strafanzeigewegen Körperverletzung imAmt?Welchen Verlauf nehmen
+eingeleitete Strafverfahren?
+
+3.1.1 Grundgesamtheit und Stichprobenziehung
+
+Im Vorfeld einer jeden quantitativen Befragung muss festgelegt werden,
+über welche Zielgruppe Aussagen getroffen werden sollen (die sogenannte
+Grundgesamtheit) undwie diese erreichtwerden kann.Da es in denmeisten
+Fällen u.a. aus zeitlichen und finanziellen Gründen nicht möglich ist, alle
+Personen der Grundgesamtheit zu befragen, muss ein kleinerer Teil der
+Zielgruppe, eine Stichprobe, ausgewählt werden.
+
+Um verallgemeinerbare Aussagen über die Grundgesamtheit treffen zu
+können,müssen Stichproben repräsentativ sein. Repräsentativität liegt vor,
+wenn die Befragten zufällig ausgewählt werden und alle Personen aus der
+Grundgesamtheit die gleiche Chance haben, in die Stichprobe zu gelangen.
+Genau dies ist aber praktisch kaum umsetzbar, wenn man Phänomene wie
+die Viktimisierung durch polizeiliche Gewalt untersucht, die auf die gesam-
+te Bevölkerung verteilt vergleichsweise selten und/oder in der Gesellschaft
+mutmaßlich sehr ungleich verteilt sind (vgl.Diekmann, 2021, S. 399 f.; Trüb-
+ner & Schmies, 2022). In diesem Abschnitt wird deshalb erläutert, wer die
+Zielpopulation des quantitativen Studienteils darstellt, und warum sich in
+der vorliegenden Studie für ein nicht repräsentatives Verfahren der Stich-
+probenziehung (nämlich das Schneeballverfahren) entschieden wurde.
+
+3.1.1.1 Zielpopulation
+
+Ziel der Befragung war es, Personen zu erreichen, die Gewalt durch die Po-
+lizei erlebt hatten, welche sie als übermäßig bewerteten. Denkbar wäre zu-
+nächst gewesen, eine repräsentative Stichprobe aus der deutschen Wohn-
+bevölkerung zu ziehen, und dann mittels einer Screeningfrage nur solche
+Personen weitergehend zu befragen, die bereits eine solche Erfahrung ge-
+macht hatten.Der Vorteil eines solchen Vorgehenswäre gewesen, die Präva-
+lenzrate desPhänomens innerhalbderdeutschenBevölkerungberechnenzu
+können, alsowie viele Personen inDeutschland innerhalb eines bestimmten
+Zeitraums bereits polizeiliche Gewalt erlebt haben, die sie als rechtswidrig
+einschätzen.DerNachteilwäre allerdings gewesen,dass eine sehr großeAn-
+
+
+
+36 Methodisches Vorgehen
+
+zahl anPersonenhätte befragtwerdenmüssen,umüberhaupt eine relevante
+Zahl an Personen aus der Zielpopulation zu erreichen.
+
+Es ist nämlich davon auszugehen, dass ein Großteil der Bevölkerung kei-
+nerlei Erfahrungmit polizeilicherGewalt,die als rechtswidrigbewertetwur-
+de, gemacht hat. Eine bevölkerungsrepräsentative Befragung aus Niedersa-
+chen hatte im Jahr 2012 u.a. danach gefragt, ob Befragte im vergangenen
+Jahr von Polizeibeamt*innen geschubst, festgehalten, geschlagen oder ge-
+tretenwordenwaren: »[…] 0,47% der Befragten [gaben an], Polizeigewalt er-
+lebt zu haben.Die Befragten dürften diese Erlebnissewahrscheinlich gerade
+deshalb berichtet haben, weil sie die Gewaltanwendung als übermäßig ein-
+stuften« (Ellrich & Baier, 2015, S. 39). Legt man diese Zahl zugrunde, so hät-
+ten für die vorliegende Untersuchung etwas mehr als 21.000 Personen be-
+fragt werden müssen, um 100 Betroffene zu finden, für 500 Betroffene wä-
+ren es schon über 100.000 Befragte gewesen.Deutlich wird dies auch an der
+Befragung aus Niedersachsen, denn obwohl 5.866 Menschen befragt wur-
+den,waren bspw.Aussagen zumAnzeigeverhalten nur für 19 Personenmög-
+lich (ebd., S. 30 f.). Da solche Fragestellungen allerdings zentral für die vor-
+liegende Studie waren, hätte eine sechsstellige Anzahl an Personen befragt
+werdenmüssen, umeine hinreichend große Stichprobe vonBetroffenen aus
+der Bevölkerung in Deutschland zu gewinnen. Dies hätte einen unverhält-
+nismäßigen Kostenaufwand und eine ineffiziente Stichprobenziehung dar-
+gestellt (Trübner & Schmies, 2022, S. 1239). Zwar kann logischerweise davon
+ausgegangen werden, dass die Lebenszeitprävalenz höher liegt als die Jah-
+resprävalenz von 0,5%, dennochwäre nicht damit zu rechnen gewesen, dass
+sie so viel höher liegt, als dass eine ausreichende Stichprobengrößemit ver-
+tretbarem Aufwand hätte erreicht werden können.
+
+Die Ergebnisse sind somit nicht bevölkerungsrepräsentativ. Darüber
+hinaus war auch eine repräsentative Befragung von Betroffenen rechts-
+widriger Polizeigewalt nicht zu realisieren, da die Zusammensetzung der
+Grundgesamtheit unbekannt ist: Da keine vollständige Liste über Betrof-
+fene existiert, kann keine Zufallsstichprobe aus der Population »Betroffene
+rechtswidriger Polizeigewalt« gezogen werden. In Fällen, in denen entwe-
+der ein solcher sampling frame vorliegt oder ein relevanter Teil der Befragten
+nicht durch einen solchen zu erreichen ist, kann eine nicht zufällige Auswahl
+(non-probability sample) sinnvoll sein, in der die Rekrutierung über entspre-
+chende (analoge oder digitale) Aufrufe, gestreut über Gatekeeper*innen,
+Internetseiten sowie Social Media und damit unter Weiterverbreitung mit-
+
+
+
+Methodisches Vorgehen 37
+
+tels Schneeballverfahren erfolgt (Berg & Lune, 2017, S. 38 f.; Diekmann,
+2021, S. 399; Pötzschke &Weiß, 2021; Trübner & Schmies, 2022, S. 1237 ff.).
+
+Dass von übermäßiger polizeilicher Gewalt Betroffene nicht nur einen
+eher kleinen Teil der Gesamtbevölkerung darstellen, sondern auch eine spe-
+zielle, durch Bevölkerungsumfragen eher schlecht zu erreichende Populati-
+on,1 ergab sich durch zunächst durchgeführte Recherchen zum Feld: Bereits
+der internationale Forschungsstand deutete darauf hin, dass sich die Vikti-
+misierungbeipolizeilicherGewalt sehrunterschiedlichauf verschiedeneBe-
+völkerungsgruppen verteilt (Lersch et al., 2008, S. 295; Lersch & Mieczkow-
+ski,2005,S. 556; Terrill&Reisig,2003,S. 306).Auch fürDeutschland ließsich
+eine besondere Belastung spezifischer Gruppen annehmen, etwa bei Perso-
+nen aus dem Bereich Aktivismus und politischer Protest (vgl. u.a. Hunold
+et al., 2018; Malthaner et al., 2018; Nassauer, 2019; Schmalzl, 2011; Sturm &
+Ellinghaus,2002;Ullrich,2018),bei (aktiven) Fußballfans (Barczak,2014; Fel-
+tes, 2010,2013; Kruszynski, 2016) sowie bei rassifiziertenodermarginalisier-
+ten Personen (Bruce-Jones, 2015; Hauprich & Lukas, 2018;Thompson, 2018).
+Gerade in Bezug auf Letztere war weiterhin zu bedenken, dass etwa nicht
+behördlich registrierte Personen mit bevölkerungsrepräsentativen Umfra-
+gennicht zu erreichen sind.ErfahrungenvonwohnungslosenPersonenoder
+solchenmit prekäremAufenthaltsstatuswaren für die Untersuchung jedoch
+durchaus relevant. Aus diesen Gründen und auch aufgrund der Sensibilität
+derThematik für die Betroffenen wurde sich dazu entschieden, ein Schnee-
+ballverfahren mit Gatekeeper*innen als vertrauensbildenden Mittler*innen
+einzusetzen, um jene Gruppen erreichen zu können (s. Kapitel 3.1.1.2).
+
+Dies bedeutet nicht, dass sich aus den Ergebnissen keine Schlussfolge-
+rungen ableiten ließen. Zwar dürfen die Ergebnisse nicht einfach verallge-
+meinert und es können auch keine Prävalenzraten für die deutsche Bevöl-
+kerung ermittelt werden. Der explorative Fokus der Studie ermöglicht es je-
+doch aufgrund der Vielzahl und Bandbreite der geschilderten Fälle (s. Kapi-
+tel 3.1.4), grundlegendeErkenntnisse über die BedingungenunddenVerlauf
+von Situationen zu gewinnen, in denen polizeilichesHandeln als übermäßig
+bewertet wurde, sowie über das Anzeigeverhalten der Betroffenen und die
+anschließende juristische Aufarbeitung solcher Vorfälle.
+
+1 Aus diesem Grund wäre ein repräsentatives Vorgehenmittels Screeningfrage, wie etwa von Bai-
+er und Pfeiffer (2021) vorgeschlagen, auch bei entsprechenden finanziellen und personellen Res-
+sourcen nicht unbedingt besser geeignet gewesen, die genannten Gruppen zu erreichen.
+
+
+
+38 Methodisches Vorgehen
+
+3.1.1.2 Schneeballverfahren undÖffentlichkeitsarbeit
+
+Da keine Zufallsstichprobe gezogen werden konnte (s. Kapitel 3.1.1.1), wur-
+den die Befragten im sogenannten Schneeballverfahren mithilfe von Gate-
+keeper*innen sowie einem öffentlichen Aufruf (Social Media und Flyer) re-
+krutiert. Ein solches Vorgehen ist vor allem für schwer auffindbare oder er-
+reichbare Zielpopulationen geeignet (Atkinson & Flint, 2001; Berg & Lune,
+2017, S. 39; Diekmann, 2021, S. 400; Penrod et al., 2003; Pötzschke & Weiß,
+2021; Trübner & Schmies, 2022). Gerade für die Befragung vulnerabler oder
+stigmatisierter Gruppen bietet sich das Verfahren an, wie zuletzt auch der
+deutsche Afrozensus zeigte (Aikins et al., 2021, S. 57).
+
+In einem ersten Schritt wurden durch die Analyse des Forschungs-
+felds (Literatur, Medien und Hintergrundgespräche) die zu adressierenden
+Gruppen identifiziert: Organisierte Gruppen wie politisch Aktive, Fußball-
+fans oder Journalist*innen, aber auch nicht an bestimmte Organisationen
+angebundene Personen und insbesondere marginalisierte Bevölkerungs-
+gruppen. Im nächsten Schritt wurden zivilgesellschaftliche Organisationen
+mit Bezug zu diesen Gruppen kontaktiert und um Unterstützung bei der
+Verbreitung des Fragebogens gebeten. Aufgabe der Gatekeeper*innen sollte
+es sein, den Kontakt zu Betroffenen herzustellen, durch die persönliche
+Beziehung zu den Betroffenen Vertrauen zu schaffen und deren Teilnahme-
+bereitschaft zu erhöhen.Das Gatekeeper*innennetzwerk wurde von Beginn
+des Projekts an aufgebaut und bestand zuletzt aus 1.669 Kontakten. Wie
+häufig die Gatekeeper*innen ihrerseits den Fragebogen weiterleiteten, ist
+durch das Projektteam nicht überprüfbar.
+
+Über die Gatekeeper*innen waren vor allem Betroffene erreichbar, die
+schon einmal wegen einer Erfahrung mit polizeilicher Gewalt nach Bera-
+tung gesucht hatten, die stark in bestimmte Communities eingebundenwa-
+ren oder die den Gatekeeper*innen im Rahmen von aufsuchender Sozial-
+arbeit bekannt geworden waren. Um dem explorativen Charakter der Un-
+tersuchung Rechnung zu tragen, sollten aber auch solche Personen erreicht
+werden, die nicht bereits in Kontakt mit spezifischen Organisationen wa-
+ren. Dazu wurde mit Pressemitteilungen, mehrsprachigen Flyern und ei-
+nemAufruf auf SocialMedia (Facebook und Twitter) gearbeitet.WeitereDe-
+tails zur Rekrutierungsstrategie, deren praktischer Umsetzung und Reso-
+nanz sind nachzulesen bei Abdul-Rahman et al. (2019a).

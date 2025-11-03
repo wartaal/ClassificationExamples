@@ -1,0 +1,7 @@
+Empfehlung zum Einsatz kardialer Biomarker in der ESC-Leitlinie für perioperatives Management von Patienten bei nicht-kardiochirurgischen 
+Operationen: Herausforderungen und Chancen
+
+Der perioperative Myokardschaden (PMI) ist eine häufige Komplikation nach nicht-kardiochirurgischen Operationen und assoziiert mit einer 
+hohen postoperativen Mortalität. Die aktuellen ESC-Leitlinien für perioperatives Management von Patienten bei nicht-kardiochirurgischen Operationen empfehlen ein routinemäßiges Troponinmonitoring vor nicht-kardiochirurgischen Operationen mit mittlerem und hohem Risiko bei Patienten mit erhöhtem Risiko für perioperative kardiovaskuläre Ereignisse, um einen PMI zu detektieren. Eine präoperative Troponinmessung wird empfohlen, um von einer chronischen Myokardschädigung als Ursache der Troponinerhöhung zu unterscheiden. Da die postoperative Mortalität von Patienten mit und ohne zusätzliche ischämieverdächtige Symptome oder EKG-Veränderungen signifikant erhöht ist, wird die Diagnose PMI allein anhand der Troponindynamik (z. B.: hochsensitiver Troponin-T-Assay: Anstieg ≥  14  ng/L) gestellt (im Vergleich zur 
+Diagnose eines akuten Myokardinfarkts). 
+Die Ursachen eines PMI sind heterogen und Patienten mit PMI benötigen eine systematische Abklärung sowie eine an die genaue Ursache angepasste Behandlung. Ein interdisziplinärer Ansatz ist wichtig für die erfolgreiche Implementation eines PMI-Screenings.

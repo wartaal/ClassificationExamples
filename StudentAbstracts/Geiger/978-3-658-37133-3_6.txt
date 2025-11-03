@@ -1,0 +1,892 @@
+﻿Rassistische Einstellungen von 
+Polizeibeamt:innen
+
+Maren Wegner und Karoline Ellrich
+
+Zusammenfassung
+
+Der Aufsatz unternimmt den Versuch, Forschungsergebnisse aus drei Dekaden, 
+die Rückschlüsse auf die Verbreitung und Ausgestaltung rassistischer Ein-
+stellungsmuster innerhalb der Polizei liefern, pointiert zusammenzufassen 
+und eine zeitgenössische Neubewertung selbiger vorzunehmen. Im Zuge 
+dessen werden Forschungsdesiderate identifiziert und eine ganzheitlichere 
+Betrachtungsweise, die verschiedene individuelle wie strukturelle Analyse-
+ebenen in einem multimodalen Ansatz vereint, aufgezeigt.
+
+Schlüsselwörter
+
+Empirische Polizeiforschung · Rassismus · Einstellungen
+
+M. Wegner (*) 
+Münster, Deutschland
+E-Mail: maren.wegner@posteo.de
+
+K. Ellrich 
+Hochschule für Polizei Baden-Württemberg, Villingen-Schwenningen, Deutschland
+E-Mail: KarolineEllrich@hfpol-bw.de
+
+© Der/die Autor(en) 2022 107
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_6
+
+
+
+108 M. Wegner und K. Ellrich
+
+1  Einleitung
+
+Sowohl die in jüngster Vergangenheit aufgefallenen zahlreichen Chatgruppen von 
+Polizeibeamt:innen, in denen rechtsextremistische Inhalte verbreitet wurden, als 
+auch die aufgetretenen Fälle des NSU 2.0, des „Hannibal“-Komplexes und seines 
+Ablegers „Nordkreuz“ sowie des Vereins „Uniter“ und des Bundeswehrsoldaten 
+Franco A. können das gesellschaftliche Vertrauen in Sicherheitsbehörden, ins-
+besondere der Institution der Polizei, nachhaltig negativ beeinflussen. Besonders 
+besorgniserregend erweist sich hierbei, dass eine „reale und digitale Vernetzung“ 
+feststellbar ist, die sich „in rechtsextreme[n] organisierte[n] [Netzwerk-]Strukturen 
+mit Bezügen zur Bundeswehr und anderen Sicherheitsbehörden“1 manifestiert. 
+Dies wirft die Frage nach der Verbreitung von rechtsextremistischen, rassistischen 
+Einstellungen bei Polizist:innen auf. Die differenzierte Betrachtung solcher 
+Haltungen erscheint von hoher Relevanz, stehen sie doch im Widerspruch zur 
+polizeilichen Aufgabe, die gerade den Schutz der freiheitlich demokratischen 
+Grundordnung und der darin verankerten Grund- und Menschenrechte, welche sich 
+in einer Gleichbehandlung aller Bürgerinnen und Bürger manifestiert, zum Ziel hat.
+
+Eine weltanschauliche Nähe von einigen Polizeibeamt:innen zu zumindest 
+rechtspopulistischen Positionen wurde bereits im Juni 2019 diskutiert, als der 
+stellvertretende Vorsitzende der Gewerkschaft der Polizei (GdP), Jörg Radek, 
+konstatierte, dass „bei vielen Beamten [der Bundespolizei] etwas in Schieflage 
+geraten [sei], was sich in Sympathien für das rechtsnationale Parteienspektrum 
+ausdrückt“2 und zugleich Friedrich Merz davor warnte, dass die konservative 
+Politik der CDU/CSU „Teile der Bundespolizei an die AfD“3 verliere. Auffällig 
+ist an diesen Kontext anknüpfend, dass sich in der AfD im Vergleich zu den 
+anderen in den Landtagen und im Bundestag gewählten Parteien bemerkens-
+wert viele (ehemalige) Polizeibeamt:innen als Mandatsträger:innen befinden,4 
+was angesichts der Einstufung des sog. Flügels der AfD als rechtsextremistisch5 
+
+1 BT-Drs. 19/25180, S. 5.
+2 Der Tagesspiegel (2019).
+3 Dpa (2019).
+4 Laut einer Recherche des MDR sitzen für die AfD mit 5,9 Polizeiangehörigen auf 100 
+Abgeordnete fast doppelt so viele wie für die CDU/CSU (2,6) und für die SPD (3,1) in den 
+Landtagen und im Bundestag – die Anzahl bei den anderen Parteien wie Die Linke, Bünd-
+nis90/Grüne und FDP sind verschwindend gering, vgl. Siepmann und Pöls (2020).
+5 Cremer (2021).
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 109
+
+und der Einstufung der AfD als Verdachtsfall durch den Verfassungsschutz ein 
+alarmierendes Zeichen ist.
+
+Im Gegensatz zur Allgemeinbevölkerung, in der in regelmäßigen Abständen 
+Forschungen zu antidemokratischen, darunter auch rechtsextremen, fremden-
+feindlichen Einstellungen, durchgeführt werden,6 liegen für die Polizei nur 
+punktuell Studien vor, die teils mehrere Jahrzehnte alt sind.7 Zwar ist anzu-
+nehmen, dass analog zur Gesellschaft auch innerhalb der Polizei eine gewisse 
+Streuungsbreite diesbezüglicher Einstellungen vorliegt,8 eine exakte Bezifferung 
+ist derzeit jedoch nicht möglich. Der Mangel an empirisch fundiertem Wissen 
+erschwert die aktuell emotional geführte Diskussion, welche Walter zufolge 
+„zwischen Beschwichtigungsritual und Generalverdachtsrhetorik“9 rangiert. 
+Dieser Umstand wird der Bedeutung, die dieses Thema zweifelsohne für die 
+Polizei hat, nicht gerecht.
+
+Aktuelle Aussagen verschiedener Akteur:innen zur Verbreitung des 
+Phänomens, die von Einzelfällen bis hin zu einem strukturellen Problem in der 
+Polizei reichen, haben daher allenfalls hypothetischen Charakter. Das nach-
+folgende Kapitel soll einen Beitrag zur Versachlichung derzeitiger Diskussionen 
+leisten, indem es den Forschungsstand zum Ausmaß rassistischer Einstellungen 
+innerhalb der deutschen Polizei überblickartig darstellt,10 einer Neubewertung 
+unterzieht und Forschungsdesiderate identifiziert.
+
+2  Einstellungskonstrukt
+
+Unter Einstellungen kann ganz allgemein ein zeitlich variabler innerer Zustand 
+(„psychologische Tendenz“) verstanden werden, „[…] der sich in einer positiven, 
+negativen oder neutralen Bewertung gegenüber einem bestimmten Objekt 
+(Person, Gegenstand, Idee, Verhalten, etc.) ausdrückt“.11 Die Gesamtbewertung 
+
+6 Vgl. Decker et al. (2020), S. 27.
+7 Hunold und Wegner (2020); s. a. Schiemann (2021).
+8 Baier und Peiffer (2021).
+9 Walter (2021), S. 11.
+10 Vgl. hierzu ebenfalls Hunold und Wegner (2020); Schiemann (2021); Feltes und Plank 
+(2021); Singelnstein (2021).
+11 Fischer et al. (2013), S. 80; s. a. Garms-Homolová (2020), S. 5.
+
+
+
+110 M. Wegner und K. Ellrich
+
+eines Einstellungsobjekts kann sich dabei in drei Komponenten manifestieren: der 
+kognitiven, der affektiven und der verhaltensmäßigen.12
+
+Die kognitive Komponente bezieht sich auf die mit dem Stimulus ver-
+bundenen Gedanken, Überzeugungen, Glaubensgrundsätze sowie Eigenschaften 
+und ihnen entsprechenden verbalen Bewertungen. In der affektiven Komponente 
+schlagen sich hingegen Gefühle, Befindlichkeiten, subjektive Vorlieben und 
+Emotionen nieder, welche mit dem Einstellungsobjekt assoziiert sind. Dabei 
+können negative, wie positive affektive Reaktionen, die bei Konfrontation mit 
+dem Stimulus präsent waren, Einstellungen auf vielfältige Weise verändern.13 
+Die behaviorale Komponente betrachtet, welche Verhaltensweisen gegenüber 
+dem Einstellungsobjekt in der Vergangenheit ausgeführt wurden oder in der 
+Zukunft gezeigt werden könnten; der Fokus liegt damit auf Verhaltenstendenzen 
+und -absichten. Einstellungen umfassen in der Regel zwar alle Komponenten, sie 
+können jedoch schwerpunktmäßig auf einer Komponente beruhen – gleichzeitig 
+können einzelne Komponenten sowohl Konsistenzen als auch Inkonsistenzen 
+aufweisen, was sich in der Differenzierung von homogenen bzw. ambivalenten 
+Einstellungen manifestiert.14 Eine bedeutsame Rolle bei der Einstellungsbildung 
+spielen Erfahrungen und soziale Lernprozesse in Form von bewusster Reflexion, 
+klassischer und operanter Konditionierung sowie Rückschlüssen auf Basis 
+der eigenen Verhaltensbeobachtung und -analyse gegenüber dem spezifischen 
+Stimulus.15
+
+Es ist mittlerweile vielfach belegt, dass Einstellungen nicht zwangsläufig auch 
+das Verhalten von Personen vorhersagen, die Korrelationen liegen generell eher 
+im kleineren bis mittleren Bereich.16 Die Stärke des Zusammenhangs hängt dabei 
+von verschiedenen Bedingungen ab, wobei sich u. a. direkte Erfahrungen mit 
+dem Einstellungsobjekt, die Zugänglichkeit und Stabilität der Einstellung sowie 
+die Einstellungssicherheit als günstige Moderatorvariablen erwiesen haben.17 
+Darüber hinaus legt die Forschung eine Unterscheidung zwischen expliziten und 
+impliziten Einstellungsmaßen nahe. Erstgenannte, die über Einstellungsfrage-
+
+12 Haddock und Maio (2014), S. 200 f; vgl. auch Garms-Homolová (2020), S. 9.
+13 Haddock und Maio (2014); Kessler und Fritsche (2018), S. 53 f.
+14 Werth et al. (2020), S. 244 f; vgl. Garms-Homolová (2020), S. 9 ff.
+15 Für einen Überblick s. Fischer et al. (2013), S. 87 f.
+16 Kraus (1995); Doll und Ajzen (1992), zit. N. Fischer et al. (2013), S. 84; sowie Beitrag 
+von Gutschmidt und Czudnochowski.
+17 Vgl. Fischer et al. (2013), S. 85; Kraus (1995).
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 111
+
+bögen illustrierbar sind, weisen eine höhere Vorhersagekraft für wohlüberlegte, 
+deliberative Verhaltensreaktionen auf, während implizite Einstellungen über 
+unbewusst ausgelöste Aktivierungsprozesse (im Rahmen der Konfrontation mit 
+dem Stimulusobjekt) vor allem spontane, weniger kontrollierbare Handlungen 
+(z. B. auch nonverbal) zu beeinflussen scheinen.18
+
+Den bisherigen Ausführungen folgend lassen sich Rassismus bzw. rassistische 
+Einstellungen19 als feindselige, abwertende oder herabwürdigende Über-
+zeugungen, Gefühle und Verhaltenstendenzen konzipieren, die aufgrund der 
+zugeschriebenen ethnischen Herkunft oder phänotypischer Merkmale (bspw. 
+in Form von Hautfarbe, Sprache, Religion) von Personen bestehen.20 Sie sind 
+gekennzeichnet durch die (zumindest implizite) Annahme der Ungleichheit sowie 
+Ungleichwertigkeit einer „allochthon“ gelesenen Person bzw. Personengruppe 
+gegenüber der eigenen, „allochthon“ gelesenen Personengruppe. Basis sind in 
+diesem Kontext vermeintlich biologische bzw. kulturell gemutmaßte Unter-
+schiede.21 Rassismen können somit unterschiedliche Dimensionen aufweisen 
+und manifestieren sich bspw. in antisemitischen, antimuslimischen Haltungen 
+sowie der Abwertung von nicht als weiß22 und damit zumeist auch als der 
+
+18 Dovidio et al. (2002); Gawronski und Conrey (2004).
+19 In diesem Kontext ist es notwendig auch die Kategorien „Stereotyp“ und „Vorurteil“ 
+im Blick zu behalten. Diese sind als spezielle Varianten von Einstellungen zu verstehen, 
+insofern sie sich auf die Bewertung von sozialen Gruppen bzw. den diesen als zugehörig 
+wahrgenommenen Mitgliedern beziehen (Näheres s. Fischer et al. 2013), S. 98 ff. Als 
+Stereotyp bezeichnet man eine verallgemeinerte Eigenschafts- bzw. Merkmalszuschreibung 
+auf alle Gruppenmitglieder, ohne Berücksichtigung individueller Unterschiede. Die 
+Zuschreibungen können positiv, neutral oder negativ sein und bilden vornehmlich die 
+kognitive Komponente ab. Demgegenüber findet sich beim Vorurteil eine eindeutig 
+negative Valenz, d. h. dass einer Person allein aufgrund ihrer (vermeintlichen) Gruppen-
+zugehörigkeit eine v. a. emotional ablehnende Haltung gegenüber eingenommen wird 
+(überwiegend affektive Komponente). Kommt es aufgrund von Stereotypen bzw. Vor-
+urteilen zu entsprechend unfairen und abwertenden Verhaltensweisen, spricht man von 
+Diskriminierung (verhaltensmäßige Komponente; s. ebd.). Studien belegen moderate 
+Zusammenhänge zwischen Stereotyp/Vorurteil und Diskriminierung (Talaska et al. 2008).
+20 Vgl. Clark et al. (1999), zit. n. Fischer et al. (2013), S. 99 f.
+21 Mit Blick auf polizeiliche Diskriminierungspraxen hinsichtlich marginalisierter 
+Bevölkerungsgruppen stellt sich darüber hinaus das Konzept der Gruppenbezogenen 
+Menschenfeindlichkeit als relevant dar, siehe den Beitrag von Groß, Clasen und Zick in 
+diesem Band.
+22 Weiß wird in diesem Zusammenhang als zentrale, normstiftenden Position im Sinne 
+eines unsichtbaren Maßstabs verstanden, der das „Nicht-Weißsein“ über zumindest 
+unbewusste Prozesse als Abweichung begreift.
+
+
+
+112 M. Wegner und K. Ellrich
+
+Mehrheitsgesellschaft nicht oder nur in Abstufung zugehörig gelesenen 
+Menschen.23 Der nachfolgende Überblick skizziert Befunde, die Hinweise auf die 
+Verbreitung entsprechend fremdenfeindlicher bzw. rassistischer Grundhaltungen 
+innerhalb der Polizei liefern können.24
+
+3 Ü berblick über die Forschung
+
+Erste Untersuchungen zu diesem Themenkomplex fanden bereits vor drei 
+Dekaden statt. Franzke veröffentlichte 1993 eine nicht repräsentative Unter-
+suchung über Fremdenfeindlichkeit in der Polizei und konstatierte, dass 44 % 
+der damals befragten Polizeibeamt:innen angaben, dass ihnen eine Gesellschaft 
+ohne Ausländer besser gefallen würde.25 Eine im gleichen Jahr in Rheinland-
+Pfalz durchgeführte standardisierte Befragung von 547 Polizeibeamt:innen ergab, 
+dass 16 % integrierte Ausländer:innen als soziale Bedrohung für die Gesell-
+schaft wahrnahmen und ca. 35 % eine multikulturelle Gesellschaft ablehnten.26 
+Dies wurde in der zeitgenössischen Forschung bereits als „bedenkenswertes 
+Potential von skeptischen bis ablehnenden Auffassungen, die durchaus offen sein 
+könnten für manifest […] rassistische Überzeugungen“27 gedeutet. Der Arbeits-
+kreis II der Innenministerkonferenz regte Mitte der 1990er Jahre die Polizei-
+liche Führungsakademie (seit 2006 Deutsche Hochschule der Polizei) dazu an, 
+ein Forschungsprojekt umzusetzen, welches die „spezifischen Ursachen und 
+Ausdrucksformen von Rassismus und Fremdenfeindlichkeit“28 zum Gegen-
+stand haben sollte. Anhand qualitativer Erhebungen u. a. in Form von Gruppen-
+diskussionen und vertiefenden Einzelinterviews mit 115 Beamt:innen aus der 
+Bereitschafts-, Schutz- und Kriminalpolizei sowie mit Führungskräften sollten 
+„Bedingungen, Situationen und Konfliktfelder in der Polizei, durch die fremden-
+feindliche Einstellungen, Emotionen und Handlungsweisen entstehen, sich 
+
+23 Zum Begriffsverständnis des Rassismus siehe auch den Beitrag von Karakayalı in diesem 
+Band.
+24 Einen weiten Rassismusbegriff zugrunde legend war die explizite Erfassung bzw. 
+Benennung rassistischer/fremdenfeindlicher Einstellungen bei der Auswahl der Studien 
+nicht zwingend.
+25 Franzke (1993).
+26 Jaschke (1998), S. 196.
+27 Projektstudie zitiert nach Jaschke (1998), S. 196 f.
+28 Bornewasser et al. (1996), S. 11, Jaschke (1996).
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 113
+
+ verfestigen und zuspitzen können“29 identifiziert werden. Quantitative Aussagen 
+über die Verbreitung ausländerfeindlicher Einstellungen sowie Übergriffen und 
+Straftaten innerhalb der Polizei waren jedoch explizit nicht das Ziel der Studie.30 
+Gleichwohl zeigte sich, dass als Ausländer:innen markierte Personen als „Gäste 
+im Land“ wahrgenommen wurden, die sich der deutschen Rechtsordnung anzu-
+passen hätten.31 Diese Formulierung als „Statuszuweisung“, lesbar auch als 
+zugeschriebene Differenzkategorie, offenbart bereits einen Vorgang der Ab- und 
+Ausgrenzung auf Wahrnehmungsebene. Dies wird insbesondere dann deutlich, 
+wenn als subtextliche Perspektive hierbei der Anspruch der Rechtsstaatlich-
+keit vorausgesetzt und für der Mehrheitsgesellschaft zugehörige Personen gar 
+nicht erst genannt oder mitgedacht wird. Erwähnenswert ist darüber hinaus der 
+Befund, dass polizeiliches Fehlverhalten in diesem Kontext wiederholt als Aus-
+druck subjektiv empfundener Arbeitsbelastung interpretiert und damit zugleich 
+diskursiv gerechtfertigt wird.
+
+Jaschke führte 1995 eine schriftliche, standardisierte Befragung unter 352 
+Frankfurter Polizeibeamt:innen durch, die u. a. Haltungen zu „Ausländer[:inne]
+n“ zum Gegenstand hatte. Ein wesentlicher Befund war hierbei, dass sich das 
+Meinungsklima diesbezüglich sehr polarisiert ausgestaltete und im Grundsatz 
+eher eine skeptische Einstellung gegenüber ausländisch gelesenen Personen deut-
+lich wurde.32 Er schätzte in diesem Zusammenhang das Ausmaß „fremdenfeind-
+licher“ Einstellungen auf 10 bis 15 %.33 Hierbei wurden vier Bedingungsfaktoren 
+diskutiert, die ein Mehrebenen-Problem von „Fremdenfeindlichkeit“ beschreiben: 
+Ethnisierungsprozesse auf der Makroebene, spezifische Konfliktfelder 
+in situativen Kontexten, die soziale Konstruktion des „Fremden“ in Polizeiaus-
+bildung und -praxis sowie eine Verbindung mit der beruflichen Unzufriedenheit 
+von Polizeibeamt:innen.34
+
+Ferner ließen sich auf dieser Grundlage vier Deutungsthesen identifizieren, die 
+Abwehrnarrative bzw. Strategien zur institutionellen Selbstentlastung bezeichnen: 
+Nach der Theorie der schwarzen Schafe handele es sich bei „fremdenfeind-
+lichen“ Vorfällen um absolute Ausnahmesituationen und damit um Einzelfälle. 
+
+29 Bornewasser et al. (1996), S. 12.
+30 Bornewasser et al. (1996), S. 12.
+31 Heuer (2009), S. 80.
+32 Jaschke (1997), S. 130.
+33 Jaschke (1998), S. 197.
+34 Jaschke (1998), S. 208 f.
+
+
+
+114 M. Wegner und K. Ellrich
+
+Die Relativierungsthese hingegen betont die Existenz „fremdenfeindlicher“ Ein-
+stellungen auch bei anderen Berufsgruppen und schlussfolgert hieraus eine Art 
+Automatismus für polizeiliche Strukturen. Auch die Spiegelbildthese greift auf 
+eine vergleichbare Argumentationslogik zurück, rekurriert jedoch auf gesamt-
+gesellschaftliche Tendenzen. Die Manipulationsthese schließlich adressiert die 
+Medien, wonach „Fremdenfeindlichkeit“/Rassismus sowie die Nähe zu rechts-
+extremen Akteur:innen als mediales Konstrukt fungiere, das einer zielgerichteten 
+Diffamierung der Polizei durch eine tendenziöse Berichterstattung diene.35 Vor 
+allem letztere ist mit Blick auf die Rolle der Medien in einem demokratischen 
+Staatsverständnis nicht unproblematisch, weil die zielgerichtete Manipulation ein 
+Narrativ darstellt, das eher von den politischen Rändern bedient wird und eine 
+gewisse Verschwörungsmentalität zum Ausdruck bringt.
+
+Ebenfalls im Jahr 1995 führte Lindner eine quantitative Vollerhebung der 
+Absolvent:innen des 2. Ausbildungsjahres in NRW durch (1425 Befragte). 
+Zielsetzung war es u. a., Erkenntnisse über das Ausmaß fremdenfeind-
+licher Einstellungen zu gewinnen.36 Hinsichtlich der Einstellung gegenüber 
+Ausländer:innen37 lässt sich konstatieren, dass die befragten Beamt:innen im 
+Vergleich zur gleichaltrigen Bevölkerungsgruppe38 Ausländer:innen weniger 
+für soziale Defizite bzw. sozialpolitische Mängel verantwortlich machten. So 
+stimmten beispielsweise lediglich 3 % der Aussage zu, Ausländer:innen seien 
+für die Arbeitslosigkeit in Deutschland verantwortlich, während in einer heran-
+gezogenen Referenzstudie fast ein Drittel einer ähnlichen Aussage zugestimmt 
+hatte.39 Gleiches gilt für explizit rassistische Äußerungen, die einen bio-
+logistischen Ansatz zugrunde legen. Interessant erscheint in dem Zusammenhang, 
+dass kontrastierend zu diesen sozialen bzw. sozialpolitischen Bewertungen, Ein-
+stellungen und Zuschreibungen der Beamt:innen im praxisrelevanten Zusammen-
+hang davon deutlich abweichen. So zeigte sich, dass jede:r vierte der Befragten 
+Ausländer:innen ein im Vergleich zu Deutschen erhöhtes Aggressions- bzw. 
+
+35 Vgl. Heuer (2009), S. 76; Heitmeyer (2020).
+36 Lindner (2001), S. 15.
+37 Die zeitgenössische Forschung problematisiert in diesem Zusammenhang zudem noch 
+nicht die Zuschreibungskategorien Ausländer:innen und Deutsche im Abgleich mit dem 
+Status einer vorhandenen Staatsbürgerschaft. Wer als Ausländer:in gelesen wird, basiert 
+u. U. bereits auf rassistischen Stereotypen, die phänotypisch basiert sind.
+38 Lindner zog zum Vergleich eine Studie des Ministeriums für Gleichstellung von Frau und 
+Mann aus dem Jahre 1994 heran, vgl. Lindner (2001), S. 27.
+39 Vgl. Lindner (2001), S. 25 ff.
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 115
+
+Gewaltpotential zuschrieb bzw. Ausländer:innen explizit für Straftaten ver-
+antwortlich machte. Insbesondere der Frage nach einem Missbrauch von Sozial-
+leistungen durch „viele Ausländer[:innen] und Asylbewerber[:innen]“ stimmte 
+über die Hälfte der Befragten zu.40 Ebenfalls sprach sich mehr als die Hälfte 
+der Befragten dafür aus, dass in Deutschland wieder Ordnung und Sicherheit 
+geschaffen werden müsse,41 was als ein Hinweis auf die Verbreitung einer Law-
+and-Order Position betrachtet werden kann. Bemerkenswert ist darüber hinaus, 
+dass „fremdenfeindliches“ bzw. „rechtsextremistisches“ Potential vielfach sogar 
+recht umfangreich für die eigenen Reihen diagnostiziert wird: ein Viertel der 
+Befragten vermutete rechtsextreme Tendenzen innerhalb der Polizei und fast 
+40 %, dass Polizeibeamt:innen „gegen Ausländer eingestellt sind“.42 Wie diese 
+Diskrepanz zustande kommt, erscheint hier als eine interessante Fragestellung. 
+Unklar ist jedoch, ob diesen Einschätzungen eigene Stereotypisierungen gegen-
+über der Polizei zugrunde liegen oder sie auf bereits Erfahrungen in der Ein-
+satzpraxis basieren. Individuell spräche dies für eine Abgrenzung gegenüber 
+rassistischen Denkmustern, gleichzeitig allerdings für eine strukturelle Ver-
+ankerung dieser.
+
+Mletzko und Weins untersuchten 1996 in einer weiteren Studie, bei der 500 
+Polizeibeamt:innen aus einer großstädtischen, westdeutschen Polizeidirektion 
+befragt wurden (Rücklaufquote rd. 30 %), inwieweit „Belastungen im Umgang 
+mit strafverdächtigen Fremden zur ablehnenden und feindseligen Haltung gegen-
+über Angehörigen fremder Nationalitäten“ führe und ob die „vorwiegend negativ 
+geprägten [beruflichen] Erfahrungen […] bei (fehlendem) privaten Kontakt 
+[…] zu Vorurteilen […] verallgemeinert“43 würden. Hierbei wurde indes einer-
+seits eine kohärente „Fremdenfeindlichkeit“ verneint und andererseits darauf 
+verwiesen, dass 15 % der Befragten „verfestigte fremdenfeindliche Vorurteils-
+neigungen“ als eine weniger intensive Dimension von Fremdenfeindlichkeit 
+aufwiesen. Dies wurde als „nicht zu übersehendes Potential fremdenfeindlicher 
+Einstellungselemente“ gewertet.44 Als Erklärungsansätze für die Entwicklung 
+fremdenfeindlicher Einstellungsmuster zogen sie drei Hypothesen heran. 
+Demnach begünstige ein berufsbedingter negativer Kontakt bei mangelnden 
+
+40 Vgl. Lindner (2001), S. 25 ff.
+41 Vgl. Lindner (2001), S. 37.
+42 Vgl. Lindner (2001), S. 49.
+43 Mletzko und Weins (1999), S. 77.
+44 Mletzko und Weins (1999), S. 91.
+
+
+
+116 M. Wegner und K. Ellrich
+
+positiven, privaten Erfahrungen fremdenfeindliche Vorurteile, das Verhältnis 
+zwischen Polizeibeamt:innen und „fremden Straftäter:innen“ sei durch besondere 
+Belastungen gekennzeichnet und sie stellen die These auf, dass Aus- bzw. 
+Fortbildungsmaßnahmen negativen Entwicklungen entgegenwirken könnten.45 
+Ein linearer Zusammenhang zwischen Konflikt-/Stressbewältigungsmechanismen 
+und fremdenfeindlichen Einstellungen wie ihn bspw. die Studie der Polizeilichen 
+Führungsakademie vermutete, konnte hier nicht nachgewiesen werden.
+
+Ähnliche Hinweise auf die Verbreitung von rassistischen Einstellungen 
+fanden Schweer und Strasser bei einer in Duisburg durchgeführten Befragung 
+von 245 Polizeibeamt:innen, von denen das Gros (zwischen 80 und 95 %) eigene 
+in der Praxis vorgenommenen Ungleichbehandlungen gegenüber ausländisch 
+gelesenen Personen negierten, jedoch fast die Hälfte (44,6 %) entsprechend 
+benachteiligende Verhaltensweisen gegenüber ausländisch gelesenen Personen 
+durch Kolleg:innen wahrnahmen.46 Schweer und Strasser schlussfolgerten, dass 
+zumindest Vorurteile und Stereotypisierungen gegenüber ethnischen Minder-
+heiten sowie sozialen Randgruppen in der Polizei weit verbreitet und häufig das 
+Produkt berufsspezifischer Alltagserfahrungen seien. Insbesondere konstatierten 
+sie das Bestehen ausgeprägter Vorurteile gegenüber „Asylbewerber[:innen] und 
+Aussiedler[:inne]n“ sowie die tendenziell problematische Verknüpfung von 
+negativen Eigenschaften mit als ausländisch markierten Menschen.47
+
+Krott et al. untersuchten im Rahmen einer vierjährigen Längsschnitt-Studie 
+von 2013 bis 2017 bei anfänglich 160 Polizeikommissaranwärter:innen von zwei 
+Studienstandorten aus Nordrhein-Westfalen (entspricht 10,8 % des Studien-
+jahrgangs), die Prävalenz fremdenfeindlicher Einstellungen und deren Ent-
+wicklung im Laufe des Studiums sowie im ersten Jahr der Berufspraxis.48 Als 
+Ergebnis konstatierten sie eine – gemessen an Altersgruppe und Bildungs-
+milieu – vergleichbare Verteilung und damit keine überproportional verbreiteten 
+„fremdenfeindlichen“ Einstellungsmuster. Hinsichtlich der Entwicklung war eine 
+Abnahme innerhalb der ersten drei Befragungszeitpunkte während des Studiums 
+sowie eine leichte Zunahme während des ersten Jahres der Berufspraxis ersicht-
+lich, die jedoch den allgemeinen positiven Trend nicht gänzlich relativierte.49 Den 
+
+45 Mletzko und Weins (1999), S. 79 ff.
+46 Vgl. Schweer und Strasser (2003), S. 256; ähnlich Schweer et al. (2008), S. 21 f.
+47 Vgl. Schweer und Strasser (2003), S. 256.
+48 Krott et al. (2019).
+49 Krott et al. (2019), S. 135 f.
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 117
+
+Autor:innen zufolge unterstreicht dies die Relevanz sozialer und interkultureller 
+Kompetenztrainings zum Abbau „fremdenfeindlicher“ Haltungen innerhalb des 
+Polizeistudiums, wobei dieser Effekt zugleich durch negative Erfahrungen mit 
+ethnischen Minderheiten innerhalb der ersten polizeipraktischen Sozialisation 
+abnimmt. Im März 2019 wurde die Studie neu aufgelegt – die Abschluss-
+befragung soll demgegenüber erst 18 Monate nach Beendigung des Studiums 
+erfolgen, um Erkenntnisse darüber zu gewinnen, wie sich die längere Berufs-
+praxis auf Einstellungen in Bezug auf „Fremdheit“ auswirkt.50
+
+Nachdem im Bundesland Hessen innerhalb eines überschaubaren Zeit-
+raums neben dem sog. NSU 2.0 mehrere Verdachtsfälle rechtsextremer Ein-
+stellungsmuster innerhalb der Polizei an die Öffentlichkeit gerieten und zu 
+einem Polizeiskandal avancierten, wurde im Auftrag der hessischen Landes-
+regierung von November bis Dezember 2019 eine Befragung zum Thema 
+„Polizeiliche Alltagserfahrungen – Herausforderungen und Erfordernisse 
+einer lernenden Organisation“ von rund 17.000 hessischen Polizeivollzugs-, 
+Verwaltungsbeamt:innen und Tarifbeschäftigten bei einer Rücklaufquote von 
+ca. 25 % durchgeführt.51 Gegenstand waren Belastungssituationen im Arbeits-
+alltag, Arbeitszufriedenheit sowie Einstellungen. Dabei bewerten 97 % der 
+Befragten die Demokratie als beste Staatsform. Mit Blick auf die politische 
+Orientierung verorteten sich 64,4 % selbst in der „Mitte“, 18,8 % als „mäßig 
+rechts“. Die Aussagekraft mit Blick auf die Verbreitung rassistischer Ein-
+stellungen dürfte aufgrund definitorischer Unschärfen der Begrifflich-
+keiten, welche der individuellen Auslegung der Befragten unterliegen, jedoch 
+begrenzt sein. Ferner sieht jede:r vierte Befragte die Gefahr, dass Deutschland 
+ein „islamisches Land“ werden könne, worin sich die Zustimmung zu einer 
+„rechtsoffenen“ Position manifestiert bzw. ein Bedrohungsstereotyp gegen-
+über Muslim:innen zum Ausdruck kommt, welche im Widerspruch zur Selbst-
+verortung steht. Darüber hinaus gaben 12,5 % der Teilnehmenden an, häufiger 
+rassistische Äußerungen durch Kolleg:innen gehört zu haben.52 Unklar bleibt 
+allerdings auch hier, ab wann eine Äußerung als rassistisch eingeschätzt wird und 
+in welchem Kontext (z. B. in kollegialen Gesprächen, in direktem Bürgerkontakt) 
+
+50 Krott et al. (2019), S. 135 f.
+51 Vgl. Hessisches Ministerium des Innern und für Sport (2020).
+52 Vgl. Hessisches Ministerium des Innern und für Sport (2020).
+
+
+
+118 M. Wegner und K. Ellrich
+
+diese erfolgte. Darüber hinaus ist bemerkenswert, dass mehr als die Hälfte der 
+Befragten die Akzeptanz des staatlichen Gewaltmonopols bedroht sieht, da dieser 
+Umstand zumindest Law-and-Order Positionen sichtbar macht.
+
+Eine aktuelle Studie aus Hamburg, die den Zusammenhang zwischen anti-
+muslimischen Einstellungen und Vorurteilen, Stereotypen sowie Intergruppen-
+kontakten unter direkteinsteigenden – also ohne Berufserfahrung – und – mit 
+polizeipraktischer Berufserfahrung – aufsteigenden Kommissaranwärter:innen 
+untersuchte, verdeutlichte, dass gegenüber als muslimisch wahrgenommenen 
+Menschen negative Stereotype insbesondere unter denjenigen bestanden, die von 
+beruflichen Kontakten mit dieser Gruppe berichteten.53 Positive private Kontakte 
+mit Muslim:innen standen mit geringeren Vorurteilen in Zusammenhang.54 
+Weiterhin zeigte sich, dass berufserfahrene Aufstiegsbeamt:innen signifikant 
+negativere Stereotype und Einstellungen gegenüber dem Islam wie auch stärker 
+ausgeprägte Bedrohungsstereotype gegenüber Muslim:innen aufwiesen als die 
+Direkteinsteigenden, wobei sich beide Gruppen hinsichtlich Alter und Bildungs-
+grad unterschiedlich zusammensetzten.55 Im Vergleich zur entsprechenden 
+Allgemeinbevölkerung wies die Polizeistichprobe jedoch keine negativeren Ein-
+stellungen auf.
+
+Im Rahmen einer Untersuchung zu rechtswidriger Gewaltanwendung durch 
+Polizeibeamt:innen berichteten Abdul-Rahman et al. basierend auf Aussagen von 
+Betroffenen sowie einzelnen Befragungen von Polizeibeamt:innen ebenfalls von 
+Hinweisen auf explizit-rassistische Einstellungen, ohne dass sich jedoch eine 
+valide Aussage über die Verbreitung treffen ließ.56 Entsprechende Einstellungen 
+wurden hierbei in der Abwertung und gezielten Benachteiligung von Personen 
+mit Migrationshintergrund und insbesondere People of Color durch eindeutig 
+rassistische, antisemitische oder muslimfeindliche Aussagen und Beleidigungen 
+sichtbar.57
+
+53 Kemme et al. (2020), S. 135 ff.
+54 Kemme et al. (2020), S. 135 ff.
+55 Kemme et al. (2020), S. 135 ff.
+56 Abdul-Rahman et al. (2020), S. 37 f. für eine kritische Betrachtung s. Baier und Pfeiffer, 
+(2021).
+57 Abdul-Rahman et al. (2020), S. 37 f.
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 119
+
+4 F azit und Ausblick
+
+Obgleich die Forschung zu rassistischen Einstellungen in der Polizei nunmehr 
+30 Jahre umfasst und entsprechende Tendenzen bereits seinerzeit problematisiert 
+wurden58, ist der Kenntnisstand bemerkenswert fragmentarisch.59 Hinsicht-
+lich des methodischen Zugangs lässt sich konstatieren, dass qualitative Ansätze, 
+bei der die Analyse von Interaktionen resp. polizeilichen Praktiken im Vorder-
+grund stehen, dominieren. Sie ermöglichen zwar Rückschlüsse auf die Existenz 
+rassistischer Einstellungs-, Wahrnehmungs- und Deutungsmuster, führen jedoch 
+zu keinen validen Erkenntnissen über deren Umfang und Verbreitung. Zugleich 
+erschweren unterschiedliche Konzeptionen und Operationalisierungen von 
+rassistischen bzw. fremdenfeindlichen Einstellungen die Vergleichbarkeit der 
+Befunde. Darüber hinaus nehmen bisherige Studien nur regionale Ausschnitte 
+und einzelne Arbeitsbereiche des polizeilichen Alltags in den Blick, sind teilweise 
+schon Jahrzehnte alt und umfassen meist nur kleine, für die Polizeipopulation 
+nicht repräsentative Stichproben zu einem konkreten Erhebungszeitpunkt. Auf-
+fällig sind auch die teils geringen Rücklaufquoten, die Ausdruck von Widerstand 
+bzw. Furcht vor Stigmatisierung sein könnten und auf die Sensibilität des Themas 
+hinweisen (s. unten). Vor diesem Hintergrund sollte zukünftige Forschung auch 
+implizite Einstellungsmaße berücksichtigen, welche nicht nur weniger ver-
+fälschbar sind, sondern zugleich spontane, automatische Verhaltensreaktionen 
+besser vorhersagen können, die gerade im polizeilichen Kontext bedeutsam sein 
+dürften.60 Lückenhaft ist auch das Wissen über Veränderungen von rassistischen 
+Einstellungen sowie den diesen zugrundeliegenden (beruflichen wie privaten) 
+Einflussfaktoren. Zwingend notwendig sind daher längsschnittliche Studien-
+designs. In diesem Zusammenhang gilt es auch den Blick für Ressourcen zu 
+schärfen und diese gezielt zu stärken, um der Entwicklung und Verfestigung 
+demokratiegefährdender rassistischer Grundhaltungen entgegenzuwirken.
+
+Trotz aller Kritik lassen sich dennoch vielfach Hinweise auf Abwertungs-
+tendenzen von „allochthon“ gelesenen Personen erkennen. Obgleich die 
+Eingangsfrage nach dem Ausmaß rassistischer Einstellungen aufgrund der vor-
+genannten Einschränkungen nicht eindeutig zu beantworten ist, so kann als 
+erste Annäherung zumindest die Streuungsbreite zwischen den Studien dienen. 
+
+58 Vgl. Jaschke (1998), S. 196.
+59 Vgl. ebenso Schiemann (2021), Hunold und Wegner (2020), Singelnstein (2021).
+60 Dovidio et al. (2002); ebenso Krott et al. (2018).
+
+
+
+120 M. Wegner und K. Ellrich
+
+Die Anteile variieren dabei etwa zwischen 5 % und 25 %. Die Schätzungen 
+der Polizeibeamt:innen für ihre Peergroup überschreiten diese sogar deut-
+lich (zwischen 12,5 und knapp 45 %). Wirft man zusätzlich einen Blick auf 
+aktuelle Befunde aus der Allgemeinbevölkerung, so stimmten im Jahr 2020 
+ebenfalls zwischen 6 % und 46 % verschiedenen Dimensionen rechtsextremer 
+Einstellungen zu, die antisemitische (rd. 6–10 %), ausländerfeindliche (rd. 
+19–28 %) und muslimfeindliche (rd. 27–47 %) Aussagen umfassten.61 Ein 
+solcher Vergleich ist insofern naheliegend, als dass bislang keine substanziellen 
+Unterschiede im Ausmaß rassistischer Haltungen zwischen Polizeikohorten 
+und alters- und bildungsentsprechenden Allgemeinbevölkerungsgruppen nach-
+gewiesen werden konnten.62 Resümierend scheint also ein gewisser Anteil an 
+Polizeikräften rassistische Einstellungen zu teilen,63 die von mehr oder weniger 
+verfestigten rassistischen Überzeugungen über ein Bedrohungsempfinden bis hin 
+zu Ungleichbehandlungen reichen können.
+
+Eine genauere Betrachtung des skizzierten Forschungsstands verdeutlicht 
+darüber hinaus erstens, dass es an einer allgemein anerkannten Rassismus-
+definition mangelt. Die Forschung aus den Neunziger Jahren und der anfäng-
+lichen Nuller Jahre näherte sich über einen analytischen Feldzugang des 
+Konzepts der Fremdenfeindlichkeit und des Rechtsextremismus, bei der die 
+Zuschreibung und Einordnung der Kategorie „Fremdenfeindlichkeit“  als Rassis-
+mus reproduzierende Zuschreibung noch nicht hinterfragt wurde. Dies erscheint 
+mit Blick auf die Ansätze der jüngsten Rassismusforschung hinsichtlich des 
+Verständnisses von Rassismus als nicht mehr zeitgemäß.64 Grundlegend für die 
+Forschung wäre folglich ein gesamtgesellschaftlicher Konsens dahingehend, 
+dass Rassismus als ein Phänomen – frei von moralischer Konnotation – begriffen 
+
+61 Decker et al. (2020), S. 37 ff. dargestellt sind die von den Autoren als manifest ein-
+gestufte Zustimmungen für Gesamtdeutschland; der Range bezieht sich auf die 
+Einzelitems, wobei dem Item „durch die vielen Muslime fühle ich mich manchmal wie ein 
+Fremder im eigenen Land“ (S. 64) mit 47 % am häufigsten zugestimmt wurde. Zudem sind 
+die Werte in Ostdeutschland signifikant höher als in Westdeutschland, inwieweit dies für 
+die Polizeipopulation gilt, wäre spannend zu prüfen.
+62 Kemme et al. (2020), Krott et al. (2019). Zugleich überrascht dies, insofern negative 
+Kontakterfahrungen mit bestimmten Personengruppen beruflich bedingt bei der Polizei 
+deutlich häufiger vorkommen und als bedeutsamer Einflussfaktor für Rassismus diskutiert 
+werden.
+63 Ebenso Singelnstein (2021).
+64 Insbesondere für die qualitative Forschung scheint es relevant, die angelegten Aus-
+wertungsperspektiven erneut in den Blick zu nehmen und nicht einfach zu rezitieren.
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 121
+
+wird, das historisch und strukturell gewachsene Dimensionen aufweist, die in der 
+heutigen gesellschaftlichen Struktur nach wie vor verankert sind und die Identi-
+fikation von Rassismen nicht von der Intention, sondern von der Wirkung, der 
+individuellen Erfahrung und der Perspektive, die darauf eingenommen wird, 
+abhängt. Voraussetzung hierfür ist die Sensibilisierung weißer Menschen für das 
+Vorhandensein spezifischer Privilegien, die sich in einem strukturellen Chancen-
+ungleichgewicht manifestieren. Polizist:innen befürchten in diesem Zusammen-
+hang häufig, dass ihr Handeln stigmatisiert wird. Solche wahrgenommenen 
+Stigmatisierungen verhindern allerdings die selbstkritische Reflexion polizei-
+lichen Handelns und eine Neujustierung vorhandener Strukturen und lassen sich 
+als Abwehrreflexe im Sinne der sog. weißen Fragilität65 begreifen.
+
+Zweitens imponiert, dass Selbstbeschreibungen und Deutungsmuster durch 
+die befragten Polizeibeamt:innen, die Übergriffe gegenüber als fremd wahr-
+genommenen Personen als Einzelfälle beschreiben, welche sich als Reaktionen 
+auf Stress und Überbelastung und „die Ausländerkriminalität“ selbst zurück-
+führen ließen, häufig vorbehaltlos im Diskurs übernommen wurden,66 ohne dass 
+sich hinreichend empirische Belege dafür ergaben. Die unkritische Übernahme 
+der polizeilichen Konstruktion von Wirklichkeit führt zur Negation von persön-
+licher Verantwortung und Selbststilisierung als „Opfer“ von Justiz, Politik, 
+Medien und „Kriminellen“. Entsprechende Prozesse sind von dem Bemühen um 
+Rechtfertigung und Legitimation des polizeilichen Handelns geprägt, welche als 
+Abwehrhaltung und Immunisierung gegenüber Kritik verstanden werden können.
+
+Ein dritter bemerkenswerter Befund, der als wiederkehrendes daran 
+anknüpfendes Muster identifiziert werden konnte, stellt die Diskrepanz 
+zwischen individueller Selbstverortung und der relativ verbreiteten Einschätzung 
+rassistischer Tendenzen in eigenen Polizeikohorte dar. Dies verdeutlicht, dass 
+Rassismus nicht nur auf individueller, sondern auch auf struktureller Ebene und 
+ihren wechselseitigen Wirkmechanismen untersucht werden muss, was auch 
+Aspekte der Fehlerkultur miteinschließt.
+
+Um der Komplexität des Phänomens mit seinen vielen Nuancen und Ressenti-
+ments Rechnung zu tragen, bedarf es letztlich eines ganzheitlichen Forschungs-
+ansatzes, der unterschiedliche analytische Perspektiven sowohl hinsichtlich 
+
+65 Die amerikanische Soziologin beschreibt unter dem Konzept der „white fragility“ 
+Mechanismen der Abwehr, Emotionalisierung, Empörung sowie Rückzug als Reaktionen 
+auf die Konfrontation mit Rassismus. DiAngelo (2020).
+66 Vgl. Proske (1998).
+
+
+
+122 M. Wegner und K. Ellrich
+
+der einbezogenen Sichtweisen als auch des methodischen Zugangs vereint, 
+und die zuvor identifizierten Forschungsdesiderate adressiert.67 Dabei dürfte 
+die Betrachtungsebene von ausschließlich rassistischen Einstellungen zu kurz 
+greifen. Vielmehr gilt es den Blick auf Gruppierungen zu wenden, bei denen sich 
+polizeispezifische Diskriminierungspraktiken als relevant im Sinne von gefährdet 
+oder auch besonders betroffen erweisen. Neben Menschen, die nicht als „weiß“ 
+gelesen werden bzw. Angehörigen ethnischer Minderheiten, trifft dies auch auf 
+marginalisierte, soziale Randgruppen wie Sexarbeiter:innen, wohnungslose oder 
+drogenabhängige Menschen sowie Personen zu, die dem „linken Spektrum“ 
+zugeordnet werden.68 Die simultane Berücksichtigung mehrerer Dimensionen von 
+Ungleichwertigkeitsvorstellungen impliziert zugleich intersektionale Aspekte – 
+also die Frage der Mehrfachdiskriminierung. Eine weitere einzubeziehende 
+Analyseebene, die im Zusammenhang mit Strukturmerkmalen steht, stellen 
+Werte z. B. in Form autoritärer Tendenzen, (übersteigerter) Law-and-Order-
+Positionen sowie zur Ausübung des Gewaltmonopols dar, weil sie sich auf das 
+System beziehen, das durch die Exekutive geschützt werden soll. Forschung 
+sollte, daran anknüpfend, nicht nur individuelle Einstellungen auf der Mikro-
+ebene betrachten, sondern ebenso Strukturmerkmale und Machtverhältnisse auf 
+der Makroebene, die besondere Rolle von Organisationseinheiten hinsichtlich 
+der Themen Cop Culture69 sowie männlicher Dominanzkultur auf der Mesoebene 
+und deren Wechselwirkungsprozesse in den Blick nehmen. Überdies ist auch der 
+Frage nachzugehen, in welchen Formen (subtil wie direkt) und unter welchen 
+Bedingungen sich entsprechende Einstellungen auf der konkreten Verhaltens-
+ebene manifestieren.70 In diesem Zusammenhang dürften gerade unbewusste 
+Prozesse bspw. im Kontext von Gefährlichkeitseinschätzungen bestimmter 
+Personengruppen näher zu beleuchten sein, insofern diese ein ggf. schärferes 
+
+67 Neben Befragungsstudien in der Polizei ist dabei auch an Viktimisierungssurveys, Ana-
+lysen von Beschwerdestellen/Anzeigen etc. zu denken (vgl. hierzu auch Baier und Pfeiffer 
+2021), wobei quantitative und qualitative Methoden i. S. eines Mixed-Method-Ansatzes 
+wünschenswert wären.
+68 S. hierzu das Konzept der gruppenbezogenen Menschenfeindlichkeit im Beitrag von 
+Groß, Clasen und Zick in diesem Band.
+69 Behr (2008).
+70 Dabei dürfte eine differenzierte Betrachtung kognitiv versus affektiv betonter Ein-
+stellungskomponenten gewinnbringend sein, insofern sich letztgenannte als bessere 
+Prädiktoren für selbstberichtete wie auch beobachtete Diskriminierung erwiesen haben 
+(Talaska et al. 2008).
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 123
+
+Einschreitverhalten begünstigen und damit auch Eskalationsdynamiken Vor-
+schub leisten können, was wiederum Rassismen reproduziert. Zuletzt ist – wie 
+Schiemann71 bereits formulierte – im Rahmen eines ganzheitlichen Ansatzes auch 
+der interne Umgang mit extremistischen Haltungen einerseits sowie konkreten 
+Verdachtsfällen andererseits zu evaluieren.
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020). Rassis-
+mus und Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. 
+Zweiter Zwischenbericht zum Forschungsprojekt „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). https://kviapol.rub.de/images/pdf/KviAPol_Zweiter_
+Zwischenbericht.pdf. Zugegriffen: 18. Juli 2022.
+
+Baier, D., & Pfeiffer, C. (2021). Rassismus in der Polizei: Wege und Irrwege der wissen-
+schaftlichen Forschung. Kriminalistik, 75(1), S. 3.
+
+Behr, R. (2008). Cop Culture – Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur in der Polizei. 2. Aufl. Wiesbaden: Verlag für Sozialwissenschaften.
+
+Bornewasser, M., Eckert, R., & Willems, H. (1996). Die Polizei im Umgang mit Fremden 
+– Problemlagen, Belastungssituationen und Übergriffe. In Polizei-Führungsakademie 
+(Hrsg.), Fremdenfeindlichkeit in der Polizei. Ergebnisse einer wissenschaftlichen Studie 
+(S. 11–15). Münster: Schriftenreihe der Polizei-Führungsakademie.
+
+Clark, R., Anderson, N.B., Clark V.R., & Williams, D.R. (1999). Racism as a stressor for 
+African Americans. A biopsychosocial model. American Psychologist, 54(10), S. 805. 
+https://doi.org/10.1037//0003-066x.54.10.805. PMID: 10540593.
+
+Cremer, H. (2021). Nicht auf dem Boden des Grundgesetzes: Warum die AfD als 
+rassistische und rechtsextreme Partei einzuordnen ist. (Analyse/Deutsches Institut für 
+Menschenrechte). Berlin: Deutsches Institut für Menschenrechte. https://nbn-resolving.
+org/urn:nbn:de:0168-ssoar-73597-5. Zugegriffen 18. Juli 2022.
+
+Decker, O., Kiess, J., Schuler, J., Handke, B., Pickel, G., & Brähler, E. (2020). Die 
+Leipziger Autoritarismus Studie 2020: Methode, Ergebnisse und Langzeitverlauf. In 
+Decker, O. & Brähler, E. (Hrsg.) Autoritäre Dynamiken. Alte Ressentiments – neue 
+Radikalität. (S. 27–88). Gießen: Psychosozial-Verlag.
+
+Der Tagesspiegel (2019). Gewerkschafter bestätigt Hang von Bundespolizisten zur 
+AfD. https://www.tagesspiegel.de/politik/sympathien-fuer-rechtsnationale-parteien-
+gewerkschafter-bestaetigt-hang-von-bundespolizisten-zur-afd/24485264.html. 
+Zugegriffen am 18. Juli 2022.
+
+DiAngelo, R. (2020). Wir müssen über Rassismus sprechen. Was es bedeutet in unserer 
+Gesellschaft weiß zu sein. Hamburg: Hoffmann und Campe.
+
+71 Schiemann (2021), S. 4 f.
+
+
+
+124 M. Wegner und K. Ellrich
+
+Doll, J., & Azjen, I. (1992). Accessibility and stability of predictors in the theory of 
+planned behavior. Journal of Personality and Social Psychology, 63(5), S. 754.
+
+Dovidio, J. F., Kawakami, K., & Gaertner, S. L. (2002). Implicit and explicit prejudice 
+and interracial interaction. Journal of Personality and Social Psychology, 82(1), 
+S. 62. https://doi.org/10.1037/0022-3514.82.1.62.
+
+Dpa (2019). Merz: Verlieren Teile von Bundeswehr und Polizei an die AfD. https://www.
+zeit.de/news/2019-06/23/merz-verlieren-teile-von-bundeswehr-und-polizei-an-die-
+afd-190623-99-760391. Zugegriffen am 18. Juli 2022.
+
+Feltes, T., & Plank, H. (2021). Rassismus und Rechtsextremismus in der Polizei? Ein Bei-
+trag für und über eine „rechtschaffen(d)e“, demokratische (Bürger-)Polizei. https://
+www.thomasfeltes.de/images/2021_0415_Feltes_Plank_aktualisiert.pdf. Zugegriffen 
+am 18. Juli 2022.
+
+Fischer, P., Asal, K., & Krueger J. (2013). Sozialpsychologie für Bachelor. Berlin, Heidel-
+berg: Springer Verlag.
+
+Franzke, B. (1993): Die Polizei in Kontakt und Konflikt mit Menschen ausländischer Her-
+kunft: eine Bestandsaufnahme und Vorschläge zur Sensibilisierung für Vorurteile und 
+Diskriminierung. Frankfurt am Main: Amt für Multikulturelle Angelegenheiten.
+
+Garms-Homolová, V. (2020). Sozialpsychologie der Einstellungen und Urteilsbildung. 
+Lässt sich menschliches Verhalten vorhersagen? Wiesbaden: Springer Verlag.
+
+Gawronski, B., & Conrey, R. (2004). Der Implizite Assoziationstest als Maß automatisch 
+aktivierter Assoziationen: Reichweite und Grenzen. Psychologische Rundschau, 55(3), 
+S. 307. doi: https://doi.org/10.1026/0033-3042.55.3.118.
+
+Heitmeyer, W. (2020). Der Abwehrreflex hat Geschichte. Die Zeit. https://www.zeit.de/
+gesellschaft/zeitgeschehen/2020-07/rassismus-polizei-wilhelm-heitmeyer-forderung-
+untersuchungen. Zugegriffen: 18. Juli 2022.
+
+Hessisches Ministerium des Innern und für Sport (2020). Polizeiliche Alltagserfahrungen – 
+Herausforderungen und Erfordernisse einer lernenden Organisation. Forschungsbericht 
+2020. https://hke.hessen.de/sites/hke.hessen.de/files/Bericht%20Polizeistudie%20
+Hessen_final_1.pdf. Zugegriffen: 18. Juli 2022.
+
+Heuer, H.-J. (2009). Devianz durch Fremde als Stressor für die Polizei? In L. Lehmann 
+& R. Prätorius (Hrsg.). Polizei unter Stress (S. 71–94). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei: Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Jaschke H.-G. (1996). Rechtsextremismus und Fremdenfeindlichkeit bei der Polizei. 
+Expertise im Auftrag der Polizeiführungsakademie. In Polizei-Führungsakademie 
+(Hrsg.), Fremdenfeindlichkeit in der Polizei. Ergebnisse einer wissenschaftlichen Studie 
+(S. 199–218). Münster: Schriftenreihe der Polizei-Führungsakademie.
+
+Jaschke, H.-G. (1997). Öffentliche Sicherheit im Kulturkonflikt. Zur Entwicklung der 
+städtischen Schutzpolizei in der multikulturellen Gesellschaft. Frankfurt a. M.: Campus.
+
+Jaschke H.-G. (1998). Fremdenfeindliche Tendenzen in der Polizei. Anmerkungen zu 
+einem umstrittenen Phänomen. In W. Gessenharter & H. Fröchling (Hrsg.), Rechts-
+extremismus und Neue Rechte in Deutschland (S. 191–209). Wiesbaden: VS Verlag für 
+Sozialwissenschaften. https://doi.org/10.1007/978-3-322-97413-6_11.
+
+
+
+Rassistische Einstellungen von Polizeibeamt:innen 125
+
+Haddock, G., & Maio, G. R. (2014). Einstellungen. In K. Jonas, W. Stroebe & M. 
+Hewstone (Hrsg.), Sozialpsychologie (S. 197–222). Wiesbaden: Springer-Verlag. 
+https://doi.org/10.1007/978-3-642-41091-8_6.
+
+Kemme, S., Essien, I., & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei?. 
+Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereo-
+typen gegenüber Muslimen. Monatsschrift für Kriminologie und Strafrechtsreform, 
+103(2), S. 129.
+
+Kessler, T., & Fritsche, I. (2018). Basiswissen Psychologie. Wiesbaden: Springer-Verlag.
+Kraus, S. J. (1995). Attitudes and the prediction of behavior: A meta-analysis of the 
+
+empirical literature. Personality and social psychology bulletin, 21(1), S. 58. https://doi.
+org/10.1177/0146167295211007
+
+Krott, R. N., Krott, E., & Zeitner, I. (2018). Xenophobic attitudes in German police 
+officers: A longitudinal investigation from professional education to practice. Inter-
+national Journal of Police Science & Management, 20(3), S. 174. https://doi.
+org/10.1177/1461355718788373.
+
+Krott, N., & Krott E., & Zeitner, I. (2019). Umgang mit Fremdheit – Entwicklung im Längs-
+schnitt der beruflichen Erstsozialisation (UMFELDER). Die Polizei, 110(5), S. 129.
+
+Lindner, M. (2001). Fremdenfeindlichkeit, Rechtsextremismus und Gewalt. Meinungen 
+und Einstellungen von Auszubildenden der Polizei des Landes Nordrhein-Westfalen. 
+Hamburg: Verlag Dr. Kovac.
+
+Mletzko, M., & Weins, C. (1999). Polizei und Fremdenfeindlichkeit. Monatsschrift für 
+Kriminologie und Strafrechtsreform, 82(2), S. 77.
+
+Proske, M. (1998). Ethnische Diskriminierung durch die Polizei. Eine kritische Relektüre 
+gefälliger Selbstbeschreibungen. Kriminologisches Journal 30, S. 162.
+
+Schiemann, A. (2021). Rassismusvorwürfe in der Polizei und Unschärfen im Diskurs – 
+Racial Profiling und Rechtsextremismus. Polizei Info Report, 1, S. 2.
+
+Schweer, T., & Strasser, H. (2003). Die Polizei – dein Freund und Helfer. In A. 
+Groenemeyer, & J. Mansel, (Hrsg.). Die Ethnisierung von Alltagskonflikten (S. 229-
+260). Wiesbaden: Springer Verlag.
+
+Schweer, T., Strasser, H., & Zdun, S. (2008). „Das da draußen ist ein Zoo, und wir sind 
+die Dompteure“. Polizisten im Konflikt mit ethnischen Minderheiten und sozialen Rand-
+gruppen. Wiesbaden: Springer Verlag.
+
+Siepmann, M., & Pöls, M. (2020). Polizisten in der AfD. MDR. https://www.mdr.de/nach-
+richten/deutschland/gesellschaft/thueringen-afd-polizei-100.html. Zugegriffen: 29. Mai 
+2021.
+
+Singelnstein, T. (2021). Rassismus in der Polizei. In T. Singelnstein & A. Ruch (Hrsg.), 
+Auf neuen Wegen. Kriminologie, Kriminalpolitik und Polizeiwissenschaft aus 
+interdisziplinärer Perspektive. Festschrift für Thomas Feltes zum 70. Geburtstag 
+(S. 379–392). Berlin 2021.
+
+Talaska, C. A., Fiske, S. T., & Chaiken, S. (2008). Legitimating Racial Discrimination: 
+Emotions, Not Beliefs, Best Predict Discrimination in a Meta-Analysis. Social justice 
+research, 21(3), S. 263. https://doi.org/10.1007/s11211-008-0071-2.
+
+Walter, S. (2021). Rechtsextremismus bei den Polizeien – ein Phänomen zwischen 
+Beschwichtigungsritual und Generalverdachtsrhetorik. Polizei Info Report, 1, S. 11.
+
+Werth, L., Denzler, M., & Mayer, J. (2020). Sozialpsychologie – Das Individuum im 
+sozialen Kontext. Wahrnehmen – Denken – Fühlen. Wiesbaden: Springer-Verlag.
+
+
+
+126 M. Wegner und K. Ellrich
+
+Maren Wegner war wissenschaftliche Mitarbeiterin an der Deutschen Hochschule der 
+Polizei. Ihre wissenschaftlichen Schwerpunkte liegen in der Empirischen Polizeiforschung, 
+insbesondere mit Bezügen zu Rassismus, Gewalt im polizeilichen Kontext, Protest 
+Policing.
+
+Prof. Dr. Karoline Ellrich ist Professorin für Psychologie an der Hochschule für Polizei 
+Baden-Württemberg. Ihre Interessensschwerpunkte liegen im Bereich der Gewalt-
+erfahrungen und Folgen im polizeilichen Kontext, im Umgang mit psychsich auffälligen 
+Menschen und der Aussage- und Vernehmungspsychologie.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

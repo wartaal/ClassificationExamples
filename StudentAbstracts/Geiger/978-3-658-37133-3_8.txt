@@ -1,0 +1,1648 @@
+﻿Ursachen und Präventionsmög­
+lichkeiten bei Vorurteilen und 
+Diskriminierungen in der Polizei
+Zur Relevanz des Syndroms der 
+gruppenbezogenen Menschenfeindlichkeit 
+für die Analyse, Prävention und Intervention in 
+Polizeiforschung und -arbeit
+
+Eva Groß, Julia Clasen und Andreas Zick
+
+Zusammenfassung
+
+Der Beitrag diskutiert den Wert der Konzeption des Syndroms der Gruppen-
+bezogenen Menschenfeindlichkeit (GMF) für die Prävention von und Inter-
+vention gegen Vorurteile in der Polizei. Unter GMF werden Zuschreibungen 
+der Minderwertigkeit von Gruppen in einer Gesellschaft als zusammen-
+hängende Phänomene verstanden. GMF bzw. die Elemente des Syndroms 
+können sich in Vorurteilen und rassistischen Konstruktionen, also in Ein-
+stellungen, Überzeugungen, wie auch Diskriminierungen äußern. Kern 
+
+E. Groß (*) · J. Clasen 
+Hochschule in der Akademie der Polizei Hamburg, Hamburg, Deutschland
+E-Mail: eva.gross@poladium.de
+J. Clasen 
+E-Mail: julia.clasen@poladium.de
+
+A. Zick 
+Institut für interdisziplinäre Konflikt- und Gewaltforschung (IKG),  
+Universität Bielefeld, Bielefeld, Deutschland
+E-Mail: zick.ikg@uni-bielefeld.de
+
+© Der/die Autor(en) 2022 145
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_8
+
+
+
+146 E. Groß et al.
+
+des Syndroms ist eine Ideologie der Ungleichwertigkeit von Gruppen 
+wie Menschen, die Gruppen zugeordnet werden. Das Konzept bietet ein 
+universelles und interdisziplinäres Verständnis, welches auch für eine 
+Annäherung an den Phänomenbereich „Rassismus in der Polizei“ sinnvoll 
+ist. Es trägt empirischen Befunden zur Generalisierung von Abwertungen 
+Rechnung und löst die Fokussierung der Prävention und Intervention auf 
+spezifische Menschenfeindlichkeiten bzw. zwingt sie dazu, multiple Vorurteile 
+und rassistische Abwertungen zu bedenken. Dieser universale Ansatz ist für 
+die Prävention und Intervention bei der Polizei bedeutsam, weil diese gehalten 
+ist, jedweder Form von Rassismus und Menschenfeindlichkeit Einhalt zu 
+gebieten. Zugleich eröffnet der Ansatz Möglichkeiten für die Entwicklung 
+von polizeilichen Strategien gegen Ungleichwertigkeitsideologien und 
+demokratiegefährdende Orientierungen. Der Beitrag fasst Erkenntnisse aus 
+bestehenden Studien zusammen und überträgt diese auf den Kontext Polizei. 
+Die institutionellen und kulturellen Rahmenbedingungen polizeilicher Praxen 
+sowie spezifische Arbeitsbedingungen im polizeilichen Vollzug werden dabei 
+im Besonderen bedacht, und es werden Implikationen für zukünftige Polizei-
+forschung präsentiert.
+
+Schlüsselwörter
+
+Gruppenbezogene Menschenfeindlichkeit · Autoritarismus · Rassismus · 
+Polizeikulturen · Polizeilicher Arbeitsalltag · Arbeitsbelastungen · 
+Arbeitszufriedenheit · Stress
+
+1 E inleitung: Aktuelle Debatten zu Rassismus 
+in der Polizei
+
+In Politik und Gesellschaft werden seit dem Frühjahr 2020 Forderungen nach 
+sofortigen Maßnahmen gegen Rassismus durch die und in der Polizei laut. Die 
+öffentlichen, v. a. zivilgesellschaftlichen Forderungen folgten auf die Ermordung 
+von George Floyd am 25. Mai 2020 durch einen Polizisten und die folgenden 
+Black Lives Matter Proteste1, die insbesondere auch in Deutschland gegen ein 
+Racial Profiling bei der Polizei und andere Formen des Rassismus protestierten. 
+
+1 Die sich in den USA als Bewegung gegen Gewalt gegen People of Color begründet hat.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 147
+
+Verstärkt wurde die Aufmerksamkeit auf die Polizei auch durch menschen-
+feindliche Chats unter Polizeibeamt:innen wie Verfassungsschützer:innen im 
+Herbst 2020 und zuletzt im Juni 2021. Sie scheinen den schon seit den ersten 
+„NSU 2.0-Aufdeckungen“ entstandenen Eindruck einer demokratietheoretisch 
+problematischen Entwicklung in den Organisationskulturen der Polizei zu 
+verstärken. Die Vermutung, dass gerade in der Polizei gruppenbezogene 
+Abwertungen im Rahmen von beruflichen Alltagspraktiken sagbar sind, hat sich 
+in öffentlichen und medialen Debatten deutlich verstärkt. Auch ein Zusammen-
+hang mit gesamtgesellschaftlichen Radikalisierungen und Polarisierungen seit 
+der verschärften Einwanderungslage im Jahr 20152 liegt nahe. Parteien und 
+Gruppierungen des (neu)rechten, autoritär-nationalradikalen3 Spektrums haben 
+seit 2015 deutlich an politischer Macht gewonnen. Sie greifen Sicherheitsdis-
+kurse auf und verschieben gezielt im öffentlich-politischen Diskurs die Grenzen 
+des Sagbaren, was menschenfeindliche Äußerungen bis hin zu rechtsextremen 
+Ansichten angeht, gerade indem sie diese durch autoritäre Law-and-Order-
+Parolen rechtfertigen und vorgeben, „das Volk“ sei nicht hinreichend sicher.4 Sie 
+finden damit sukzessive Eingang in parlamentarische und öffentliche Debatten, 
+aber auch in das politische Agenda Setting und in die öffentliche Meinung, wie 
+die jüngste Mitte-Studie zeigt.5 Die Polizei hatte in den Debatten immer eine 
+besondere Bedeutung, ob ihr das gefiel oder nicht. Ihre besondere gesellschaft-
+liche Verantwortung aufgrund des staatlichen Gewaltmonopols zwingt sie 
+aber noch mehr als andere Institutionen, sich mit den kritischen Stimmen der 
+Öffentlichkeit auf eine nachvollziehbare und glaubhafte Art auseinanderzusetzen. 
+Nur so können berufliche Integrität und Identität der Polizist:innen geschützt 
+werden. Eine sachliche und evidenzbasierte Diskussion über demokratierelevante 
+Einstellungen und Werthaltungen innerhalb der Polizei auf Grundlage von 
+wissenschaftlichen Erkenntnissen ist dazu eine Grundvoraussetzung. Sie wurde 
+auch im Kabinettsausschuss zur Bekämpfung von Rechtsextremismus, Rassismus 
+und anderen Formen der Menschenfeindlichkeit im November 2020, wie auch 
+mit NGOs und Forschenden kontrovers diskutiert.
+
+2 Siehe z. B. Küpper et al. (2019); Häusler und Küpper (2019); Zick (2019).
+3 Zum Begriff des autoritären Nationalradikalismus, bzw. autoritär nationalradikalen 
+Milieus siehe Heitmeyer (2018); Heitmeyer et al. (2020)
+4 Vgl. Struck (2019); Häusler und Küpper (2019).
+5 Zick und Küpper (2021).
+
+
+
+148 E. Groß et al.
+
+Leider scheitert die systematische Aufarbeitung oft an einer Abwehr- und 
+Verteidigungshaltung von einflussreichen Akteur:innen in Politik und Polizei. 
+Die Abwehr bezieht sich, neben den bereits aus den 1990er Jahren bekannten 
+Argumentationsmustern6, insbesondere auf eine unterstellte Vorverurteilung: 
+Kritiker:innen würden ungeprüft unterstellen, die Polizei habe ein strukturelles 
+Rassismusproblem.7 Der Begriff Rassismus wird im engen sicherheitsbehörd-
+lichen Verständnis implizit extremistisch konnotiert, also klar gegen die FDGO8 
+verstoßend aufgefasst. Das führt dazu, dass Rassismusdiskussionen als vor-
+weggenommenes und vorverurteilendes Ergebnis statt als Analyseraster für 
+eine wissenschaftliche Untersuchung in der Polizei aufgefasst werden. Die Dis-
+kussion von Rassismus wurde so aus Sicht der Polizei als „Frontalangriff“ ver-
+standen, und umso mehr musste sich die Polizei mit dem Generalverdacht der 
+Leugnung von institutionellem wie strukturellem Rassismus und der Anfällig-
+keit ihrer Mitglieder für individuellen Rassismus auseinandersetzen. Die Frage, 
+wie innovative Maßnahmen zur Stärkung der Resilienz, Toleranz und Offenheit 
+auf den Weg gebracht werden können, verblasste in der Debatte. Dabei geht es 
+überhaupt nicht darum gesellschaftliche Stereotype, Vorurteile, Rassismen wie 
+auch rechtspopulistische und -extremistische Ideologien zu finden, um General-
+verdächtigungen wie -abwehrhaltungen aufrechtzuerhalten. Die Polizei stammt 
+aus der Mitte der Gesellschaft, gehört zu ihr und soll sie repräsentieren wie 
+schützen. Gerade das Wissen um die Bedeutung unterschiedlichster Vorurteils-
+muster in der Gesellschaft, die Vielfalt der Abwertungsmuster und die empirisch 
+nachgewiesene Wahrscheinlichkeit, dass mit der Akzeptanz des einen Vorurteils 
+die Akzeptanz weiterer Vorurteile steigt9, ist für die demokratische Resilienz der 
+Polizei hilfreich und gibt Impulse für eine weitere Professionalisierung. Das ist 
+darüber hinaus auch deshalb relevant, weil die Polizei selbst diverser wird, sich 
+öffnet und immer mehr mögliche Betroffene von Vorurteilen und Rassismus in 
+der Polizei arbeiten.
+
+Damit Polizei präventiv gegen Vorurteile und Rassismus in den eigenen 
+Reihen und darüber hinaus handeln und resilienter werden kann, braucht sie ein 
+solides Verständnis der Risiken, gegen die sie sich schützen soll. Im Folgenden 
+wird dazu ein Konzept vorgestellt das Ideen innovativer Polizeiprävention und 
+-arbeit eröffnet.
+
+6 Siehe Heitmeyer in diesem Band sowie Jaschke (1997).
+7 Z. B. Stuttgarter Zeitung (2020).
+8 Freie demokratische Grundordnung.
+9 Allport (1954).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 149
+
+2 D as Syndrom Gruppenbezogene 
+Menschenfeindlichkeit (GMF)
+
+Das Konzept eines Syndroms der Gruppenbezogenen Menschenfeindlichkeit 
+(GMF) wurde von Wilhelm Heitmeyer10 erstmals ausführlich beschrieben und 
+durch eine Forschungsgruppe, zu der auch die Erstautorin und der dritte Autor 
+gehörten, in einer zehnjährigen empirischen Studie entwickelt. Die Ergeb-
+nisse wurden regelmäßig in der Reihe Deutsche Zustände beim Suhrkamp-Ver-
+lag publiziert. Seit 2014 werden die Studien unter Verantwortung des Drittautors 
+im Rahmen der Mitte-Studien fortgeführt, die von der Friedrich-Ebert-Stiftung 
+gefördert werden. Das GMF-Konzept ist auch in der internationalen Forschung 
+aufgenommen. Mehr noch hat es sich in Deutschland zur Grundlage für Analysen 
+und vor allem für die Prävention gegen Intoleranz und Stärkung von Demokratie 
+etabliert. Es steht sogar im Koalitionspapier der gegenwärtigen Bundesregierung, 
+im „Nationalen Aktionsplan gegen Rassismus“ und ist Thema von Aus-
+schreibungen sowie dem Bundesprogramm „Demokratie leben!“.
+
+Das mag darauf zurückzuführen sein, dass das Konzept als Kern von 
+Menschenfeindlichkeiten die auch im Grundgesetz zentrale Norm der Gleich-
+wertigkeit berührt: GMF markiert und legitimiert die Ungleichwertigkeit von 
+Gruppen oder Menschen, die in Gruppen kategorisiert oder klassifiziert werden, 
+sodass deren Diskriminierung wahrscheinlicher wird.11 Menschenfeindlichkeit 
+bezieht sich dabei auf das Verhältnis zwischen Gruppen und meint kein inter-
+individuelles Feindschaftsverhältnis. Das besondere Kennzeichen des Syndroms 
+ist die Spannbreite: GMF umfasst negative Stereotype, Vorurteile, rassistische 
+Ideologie, wie auch soziale Distanzierungen oder Schädigungsabsichten gegen-
+über unterschiedlichsten Gruppen. Sie richten sich dabei nicht nur gegen 
+Personen vermeintlich fremder Herkunft oder Abstammung12, wie Sinti:zze und 
+Rom:nja oder Einwandernden, sondern auch gegen solche gleicher Herkunft, 
+die als „von der gesellschaftlichen Norm“ abweichend stigmatisiert werden, 
+wie z. B. obdachlose oder arbeitslose Menschen, oder Gruppen die nach ihrer 
+
+10 Heitmeyer (2002), S. 3 ff.
+11 Vgl. Heitmeyer (2002); Zick et al. (2008); Groß et al. (2012); Klein et al. (2014) zum 
+Verhältnis GMF und rechtsextremen Einstellungen.
+12 Wie z. B. im Rassismus gegeben, der in einer engen Definition (individueller Rassis-
+mus bzw. Rassismus als Einstellung in Abgrenzung zu institutionellem oder strukturellem 
+Rassismus (siehe z. B. Bosch und Thurn in diesem Band) als Teilelement des Syndroms 
+Gruppenbezogener Menschenfeindlichkeit (GMF) verstanden wird (vgl. Zick 2021).
+
+
+
+150 E. Groß et al.
+
+Religion als „anders“ markiert werden, wie z. B. Jüd:innen oder Muslim:innen. 
+Theoretisch können je nach gesellschaftlichem Kontext die unterschiedlichsten 
+Ungleichwertigkeitszuschreibungen bzw. Elemente zu einem GMF-Syndrom 
+gehören. Dieses wird durch einen gemeinsamen Kern bzw. eine generelle Ideo-
+logie zusammengehalten, nach der die Gesellschaft eine mehr oder minder natür-
+liche, zu akzeptierende Ordnung zwischen höher- und minderwertigen Gruppen 
+aufweise.13 Das heißt zugleich, dass eine Person oder Gruppe, die eine andere 
+Gruppe menschenfeindlich markiert, mit einer höheren Wahrscheinlichkeit 
+auch andere Gruppen abwertet oder diskriminiert. In empirischen Analysen ist 
+näher zu bestimmen, welche Abwertungen ein Syndrom bilden, und das kann 
+variieren.14 In Betrieben, Schulen, Nachbarschaften, wie auch Polizeien kann 
+das Syndrom empirisch anders sein als es sich in den GMF-Studien gesamt-
+gesellschaftlich abbildet.
+
+Abb. 1 zeigt schematisch das in einer Bevölkerungsumfrage des Jahres 
+2018/19 empirisch ermittelte GMF-Syndrom.
+
+Das Syndrom bietet einen möglichen Ausgangspunkt, um über GMF in der 
+Polizei theoriegeleitet und mit empirischem Interesse zu diskutieren. Vorab sei 
+bemerkt, dass die Aufdeckung von strafrechtlich relevanten Menschenfeindlich-
+keiten oder gar rechtsextremen Orientierungen15 nicht im Vordergrund unserer 
+analytischen Ideen steht, weil sie Aufgabe von unabhängigen Beobachtungs-/
+Beschwerdestellen oder internen Ermittlungsstellen sein muss. Vielmehr sind 
+die Konzeption des GMF-Syndroms und seine Manifestationen relevant für 
+Fragen der Prävention und Professionalisierung polizeilicher Arbeit.16 Zudem 
+trägt die Frage nach GMF bei der Polizei zur Diskussion über den Zusammen-
+hang von gesellschaftlichen Ungleichwertigkeitsvorstellungen und ihren Ein-
+fluss auf Polizei sowie ermöglichende (Sub-)Kulturen und Rahmenbedingungen 
+in der Polizei bei, ohne die es keine Legitimationsgrundlage für radikalere 
+Aktivitäten und Akteursgruppen innerhalb der Polizei geben könnte. Diese 
+Abhängigkeit rechtsextremer Handlungen von Einzelpersonen und klandestinen 
+Gruppen von GMF beschreiben Heitmeyer und Kollegen im konzentrischen 
+
+13 Diese Annahme hat sich im empirischen Test bestätigt (Zick et al. 2008).
+14 Vgl. Zick et al. (2011), die ein GMF-Syndrom in europäischen Ländern untersucht haben 
+und die Frage gestellt haben, welche Elemente in allen Ländern, also europaweit, relevant 
+zur Konstitution eines Syndroms sind.
+15 Siehe hierzu z. B. Meisner und Kleffner (2019).
+16 Beinhaltet sind kognitive, affektive und verhaltensbezogene Facetten.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 151
+
+Abb. 1  Syndrom Gruppenbezogener Menschenfeindlichkeit (GMF).17 
+
+17 Zick et al. (2019), S. 58. Die Abbildung allein würde mit dem Blick auf die Polizei schon Fragen aufwerfen: Welche Elemente des 
+GMF-Syndroms sind in der Polizei zu beobachten? Welche Elemente hängen enger und weniger eng zusammen? Welche Elemente 
+prägen die Polizeiarbeit darüber hinaus? Wie drücken sie sich in Wahrnehmungen und Verhaltensweisen aus?
+
+
+
+152 E. Groß et al.
+
+Eskalationskontinuum.18 Über solche ermöglichenden Einstellungen von GMF 
+in Organisationskulturen der Polizei19 ist fast nichts bekannt20. Umso mehr 
+zwingt die GMF-Konzeption, genau hierauf zu blicken. Sie zwingt dazu, über 
+Entstehungsbedingungen von Hasstaten, antidemokratischen Organisations-
+formen (Chatgruppen, menschenfeindliche Netzwerke etc.), Handlungen (Racial 
+Profiling, Fehleinordnungen von Taten nach Herkunft) sowie auch verzerrten Wahr-
+nehmungen und interkulturellen Inkompetenzen, die die Polizeiarbeit beeinflussen, 
+nachzudenken, weil sie fragt, wie Ungleichwertigkeit von Gruppen reproduziert 
+wird.21
+
+Eine Ausgangsthese wäre: Was für die Gesellschaft gilt, dringt in die Polizei. 
+„Menschenfeindlichkeit beginnt unauffällig.“22. Es gibt „[…] keine einzige Hass-
+Tat von rechtsextrem orientierten Personen oder Gruppen und auch keine Hass-
+Reden von „Durchschnittsbürgern“ ohne eine menschenfeindliche Einstellung, 
+die dem zugrunde liegt“.23 Erkenntnisse dazu, von welchem gesellschaftlichen 
+Reservoir auszugehen ist, werden im folgenden Abschnitt diskutiert.
+
+3 T heoretische Perspektiven und Kernergebnisse 
+bestehender Forschung zu Ursachen und 
+Entstehungsbedingungen Gruppenbezogener 
+Menschenfeindlichkeit (GMF) in Deutschland
+
+Die interdisziplinäre empirische Forschung zu GMF basiert vor allem auf den 
+GMF-Langzeitstudien wie sie in der Reihe Deutsche Zustände dokumentiert 
+sind, sowie seit 2014 den Mitte-Studien.24 Das zentrale Ziel der Studien ist die 
+
+18 Heitmeyer et al. (2020); siehe auch Heitmeyer in diesem Band.
+19 Diese bilden im Eskalationskontinuum – nach Heitmeyer (2018) sowie Heitmeyer et al. 
+(2020) – die äußere Schale.
+20 Vgl. Heitmeyer in diesem Band; Gutschmidt und Vera (2019), S. 19; erste aktuelle 
+Studien, die Teile von GMF in der Polizei untersuchen z. B. Krott et al. (2018); Gutschmidt 
+und Vera (2019).
+21 Dies unterstreichend ist die GMF nach vielen Definitionen aus der Rechtsextremismus-
+forschung und nach Beobachtungen rechtsextremer Milieus und ihrer Propaganda ein 
+genuiner Bestandteil des Rechtsextremismus (siehe zum Beispiel Heitmeyer (1987); Stöss 
+(2007); Decker und Brähler (2006).
+22 Heitmeyer (2002).
+23 Zick und Klein (2014), S. 22.
+24 Zick und Küpper (2021).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 153
+
+Dokumentation von Verbreitungen von GMF und deren Ursachen in der Gesell-
+schaft. Dazu werden repräsentative Bevölkerungsumfragen durchgeführt. Zur 
+Analyse der Ursachen, soweit dies mit korrelativen Daten möglich ist, greift die 
+Forschung vor allem auf soziologische und sozialpsychologische Erklärungs-
+ansätze zurück, die empirisch untersucht wurden und zentrale mikro-soziale 
+(individuelle), meso-soziale (gruppenbezogene) und makro-soziale (gesellschaft-
+liche) Einflussfaktoren auf GMF hervorheben. Auf einer mikro-sozialen Ebene 
+spielen individuelle Orientierungen wie Autoritarismus, Patriotismus, soziale 
+Dominanzorientierungen oder auch Anomie (Orientierungslosigkeit) eine Rolle. 
+Auf der meso-sozialen Ebene werden soziale Identifikationen, Bedrohungen von 
+Gruppen, Konkurrenzen zwischen Gruppen oder auch Kontakte untersucht. Auf 
+der makro-sozialen oder soziologischen Ebene werden Einflüsse wie die Öko-
+nomisierung des Sozialen25, Entwicklungen eines „autoritären Kapitalismus“26, 
+soziale Desintegrationsbewegungen27, Demokratieentleerungen28, institutionelle 
+Formen der Anomie29, wie auch sozialdemografische Einflüsse untersucht. 
+Neben diversen sozialpsychologischen Ansätzen aus der Vorurteilsforschung wie 
+der Theorie Sozialer Dominanz30, der Kontakthypothese31, der Theorie Sozialer 
+Identität32, oder Gruppenbedrohungstheorien33 und soziologischen Ansätzen wie 
+relative Deprivation, (institutionelle) Anomie und Theorien zur Ökonomisierung 
+des Sozialen, ist eine der zentralen theoretischen Brillen in den Langzeitunter-
+suchungen die Theorie Sozialer Desintegration (TSD).34 Sie bietet einen breiten 
+und theorieintegrativen Rahmen in der bestehenden Forschung zu GMF und 
+hat den interdisziplinären Anspruch, aus mehreren Forschungsperspektiven35 
+
+25 Z. B. Mansel und Endrikat (2007); Groß et al. (2010).
+26 Heitmeyer (2001).
+27 Z. B. Mansel und Kaletta (2009); Endrikat et al. (2002).
+28 Z. B. Klein et al. (2009).
+29 Z. B. Hövermann et al. (2015); Groß et al. (2018).
+30 Sidanius und Pratto (1999).
+31 Allport (1954).
+32 Tajfel und Turner (1986).
+33 Z. B. Stephan und Stephan (1985).
+34 Anhut und Heitmeyer (2000, 2005).
+35 Darunter z. B. Relative Deprivation, Anomie, Kontroll- und Bindungstheorien, Theorien 
+Sozialer Identität und Anerkennungstheorie.
+
+
+
+154 E. Groß et al.
+
+ gleichzeitig individuelle, institutionelle und strukturelle Einflussfaktoren auf 
+GMF zu berücksichtigen und zu analysieren.
+
+Es ist kaum möglich, die Befunde der 20-jährigen Forschung in den jeweiligen 
+historischen Kontexten zusammenzufassen. Daher sollen nur einige universale 
+empirische Befunde genannt werden, die sich immer wieder beobachten lassen 
+und die im Kontext der Polizei relevant sein können.
+
+Die Ursachen der GMF lassen sich, so Zick et al.36, grob nach zwei 
+Dimensionen unterscheiden37: einerseits nach der eigenen Zugehörigkeit zu 
+bestimmten gesellschaftlichen Gruppen (z. B. entlang der Soziodemographie 
+oder institutionellen Zugehörigkeit)38 und andererseits, in Anlehnung an Fiske39, 
+nach fünf „sozialen Motiven“, die Menschen durch die Abwertung anderer in 
+ihren Bezugsgruppen erfüllen können: Zugehörigkeit, positiver Selbstwert/soziale 
+Anerkennung, Sicherheitsbedürfnis/Vertrauen, Verstehen, Einfluss/Kontrolle.40 
+Den sozialen Motiven können Orientierungen zugeordnet werden, die neben 
+Gruppenzugehörigkeiten einen maßgeblichen Einfluss auf GMF haben. Sie 
+drücken sich in Wünschen, Meinungen, Ideologien und Verhaltensabsichten aus 
+und sind durch Zugehörigkeiten geprägt.
+
+Zugehörigkeit, also der Wunsch, zur Gesellschaft oder Gruppen dazuzu-
+gehören, ist über soziale Identität definiert, wobei es unterschiedliche Zugehörig-
+keitsangebote gibt, von unterschiedlichen Gruppen, die sich z. B. in kulturellen, 
+nationalen oder auch extremistischen Identitäten ausdrücken können. Auch eine 
+soziale Identität als Polizist:in kann das Motiv der Zugehörigkeit bedienen. Soziale 
+Identitäten erzeugen Abwertung, wenn sie gefährdet erscheinen.41 Der Wunsch 
+nach positiver Bewertung des Selbst, also Selbstwert und soziale Anerkennung 
+durch andere, lassen sich u. a. über soziale Vergleiche herstellen. Wenn sie bedroht 
+werden, können sie sich in negativen Gefühlen der Benachteiligung und Minder-
+wertigkeitsgefühlen ausdrücken, die Abwertung auslösen. Dem Sicherheits-
+bedürfnis entspricht ein Bedürfnis nach Vertrauen zwischen Menschen, in die 
+
+36 So formuliert in einem rückblickend zusammenfassenden Aufsatz am Ende der 
+10-Jahres-Untersuchung zu den Deutschen Zuständen.
+37 Zick et al. (2012).
+38 Sozialen Kategorien sind offen und unterliegen gesellschaftlichen Diskursen und 
+Zuschreibungsprozessen.
+39 Fiske (2000).
+40 Zick et al. (2012), S. 70 ff.
+41 Zick et al. (2012), S. 71.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 155
+
+gesellschaftlichen Verhältnisse und deren Entwicklungen. Das Sicherheitsmotiv 
+kann Abwertung anderer erzeugen, wenn Misstrauen und Unsicherheit entstehen 
+und Vertrauen wieder zurückerobert werden will (die entsprechenden Ideo-
+logien sind Autoritarismus wie Law-and-Order Haltungen). Soziale Umstände 
+wollen zudem verstanden werden. Der Wunsch nach einem mit anderen geteilten, 
+gemeinsamen Verständnis der Welt und der gesellschaftlichen Verhältnisse kann 
+auch zur Abwertung von Gruppen führen, wenn Werte und Normen sich ändern 
+und verlorenzugehen erscheinen (Orientierungslosigkeit als Verstehensverlust). 
+Das Motiv der Kontrolle und Einflussnahme ist eng verbunden mit einem Macht-
+motiv und dem Streben nach Dominanz und sozialen Hierarchien. Das Kontroll-
+motiv erzeugt GMF wenn die Eigengruppe ihre Kontrolle über und ihren Einfluss 
+auf Fremdgruppen bedroht sieht.
+
+Empirisch zeigt sich in vielen Analysen eine besondere Erklärungskraft für 
+GMF durch Faktoren, die das Kontroll- und Machtmotiv42 sowie das Sicher-
+heitsbedürfnis43 scheinbar befriedigen. Beide Motive, die sich auch in Werten 
+oder Ideologien ausdrücken und sich teils überschneiden, dürften sich, so 
+unsere Vermutung, leicht in den Polizeikulturen der Alltagspraxen wiederfinden. 
+Erste Pretest-Ergebnisse unter Studierenden der Hochschule der Akademie der 
+Polizei Hamburg44, in denen berufserfahrene, also in Polizeikulturen und deren 
+Alltagroutinen bereits sozialisierte Aufsteiger:innen mit berufsunerfahrenen 
+Direkteinsteiger:innen verglichen werden konnten, liefern Indizien dafür, dass die 
+Alltagsroutinen und -praktiken im Polizeivollzug autoritäre Haltungen (Motiv 
+Sicherheit wie Macht/Kontrolle als ausgeprägter Bestandteil von Polizeikulturen) 
+tatsächlich begünstigen könnten (vgl. Abb. 2).
+
+Es lassen sich zwischen Aufsteiger:innen und Direkteinsteiger:innen 
+systematische Unterschiede45 in der erwarteten Richtung beobachten: Die berufs-
+
+42 Operationalisiert über soziale Dominanzorientierung.
+43 Operationalisiert über Autoritarismus.
+44 Die Daten basieren auf einer nicht repräsentativen Stichprobe, die über eine Online-
+Befragung der Studierenden der Hochschule in der Akademie der Polizei Hamburg erhoben 
+wurden. Sie können daher lediglich als Indizien bewertet werden, nicht als statistisch 
+abgesicherte Aussagen über die Studierenden der Polizei Hamburg.
+45 Signifikanzen sind hier zwar ausgewiesen, sie sind aber nicht ausschlaggebend für 
+Interpretationen dieser ersten Indizien, zumal die Stichproben nicht repräsentativ sind 
+und daher keine induktiven Rückschlüsse auf eine Grundgesamtheit gezogen werden 
+können; die berichteten Ergebnisse stellen lediglich deskriptive Befunde für die gezogene 
+Stichprobe dar. Um verallgemeinerbare Aussagen treffen zu können ist eine größere und 
+repräsentativere Stichprobe notwendig.
+
+
+
+156 E. Groß et al.
+
+Autoritäre Unterwürfigkeit
+
+Mittelwertskala Autoritäre Unterwürfigkeit (Zustimmung 19,7
+>3)* 33,8
+
+Wir sollten dankbar sein für führende Köpfe, die uns
+genau sagen, was wir tun können (stimme 41,7
+
+etwas/ziemlich/voll und ganz zu) 42,3
+
+Wir sollten wichtige Entscheidungen in der Gesellschaft
+Führungspersonen überlassen (stimme etwas/ziemlich/voll 40,2
+
+und ganz zu)* 54,9
+
+Wir brauchen starke Führungspersonen, damit wir in der
+Gesellschaft sicher leben können (stimme 74,8
+
+etwas/ziemlich/voll und ganz zu) 83,1
+
+0 10 20 30 40 50 60 70 80 90
+
+Direkteinsteiger (n=127) Aufsteiger (n=71)
+
+Abb. 2  Autoritäre Unterwürfigkeit bei Aufsteiger:innen und Direkteinsteiger:innen im 
+Vergleich; *= p < 0.05 (eigene Berechnungen und Darstellung).
+
+erfahrenen und polizei-sozialisierten Aufsteiger:innen weisen tendenziell autori-
+tärere Haltungen auf als die berufsunerfahrenen Direkteinsteiger:innen (Abb. 2). 
+Dies spricht für unsere Annahme einer Kulturalisierung der oben beschriebenen 
+Motivdynamiken mit Blick auf das Sicherheits- wie Macht-/Kontrollmotiv.46 Die 
+Zusammenhänge werden wir weiter unten, im Rahmen der zentralen Annahmen zu 
+Entstehungsbedingungen der GMF in der Polizei, theoretisch weiter aufschlüsseln.47
+
+Bei der Migranten-,  Muslim- und Islamfeindlichkeit, dem Antisemitismus 
+und Etabliertenvorrechten zeigt sich in der bisherigen GMF-Forschung zudem 
+das Motiv des „Verstehen-Wollens“, gemessen über Orientierungslosigkeit 
+(Anomia), als Faktor, der die Abwertung erklärt. Soziale Identifikationen wie 
+eine Betonung von Nationalstolz (Operationalisierung des Motivs Zugehörig-
+keit) und die relative Deprivation (Operationalisierung des Motivs Anerkennung) 
+hatten unter Kontrolle der anderen Einflussfaktoren vergleichsweise schwache 
+
+46 Vgl. auch Derin und Singelnstein (2020), S. 131; Tränkle (2020), S. 144 ff. (Zentralität 
+von Autoritätserhalt in der Interaktion mit dem Gegenüber z. B. bei „Widerstandshand-
+lungen“; die „Autoritätsverteidiger“, S. 145; oder „Bedrohung der hoheitlichen Autorität“, 
+S. 146); Tränkle (2017); Gutschmidt und Vera (2019), S. 8 ff.; Behr (2021).
+47 Möglicherweise zeigt sich hier nicht nur ein Effekt der beruflichen Sozialisations-
+erfahrungen, sondern auch der Selektion in unterschiedliche Laufbahngruppen und Aus-
+bildungsbedingungen in Hamburg, wo die Aufsteiger:innen noch für den mittleren Dienst 
+eingestellt wurden.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 157
+
+Effekte in der  Allgemeinbevölkerung, was aber teilweise auch auf unzuverlässige 
+Messinstrumente zurückzuführen ist.48 Detailliertere Auswertungen zum Effekt 
+von Anerkennungsdefiziten und sozialer Desintegration deuten an, dass diese 
+zur Erklärung von GMF hingegen sehr bedeutsam sind.49 Bezüglich der sozio-
+demografischen Zugehörigkeiten stellten die Analysen für alle Syndromelemente 
+das Bildungsniveau, Alter, Einkommen und politische Selbstpositionierung 
+als relevante Einflussfaktoren heraus. Weniger gebildete Befragte, ältere, ein-
+kommensschwächere und solche, die sich politisch eher rechts einstufen, neigen 
+eher zu Feindseligkeiten.50 Ob sich Polizei oder bestimmte Organisationseinheiten 
+bezüglich dieser soziodemografischen Merkmale, die GMF begünstigen, von der 
+Allgemeinbevölkerung, bzw. untereinander unterscheiden, bleibt zu untersuchen.
+
+Neben den beschriebenen Ursachen nennt Heitmeyer im Rückblick auf 
+die 10-Jahres-Untersuchung „erregende Signalereignisse und schleichende 
+Prozesse“ als Einflüsse auf GMF.51 Damit spricht er gesamtgesellschaftliche 
+Entwicklungen, Diskurse und Ereignisse an52, welche die Wahrscheinlichkeit 
+erhöhen, dass Minderheiten, über welche Stereotype, Vorurteile und Minder-
+wertigkeitsvorstellungen vorliegen, verantwortlich gehalten werden für Krisen 
+und Konflikte. Solche gesamtgesellschaftlichen Kräftefelder nehmen Ein-
+fluss auf Artikulationen und Sagbarkeiten von Ungleichwertigkeit und sollten 
+bei einer Analyse von GMF in der Polizei, neben den (sozial)psychologischen 
+Aspekten, mitberücksichtigt werden. Das ist für die Frage nach GMF in der 
+Polizei relevant, denn Polizei wird von den gesellschaftlichen Prozessen beein-
+flusst. Konfliktäre Debatten, Polarisierungen, Proteste gegen den Staat, all das 
+erreicht die Polizei nicht nur in ihren Schutzaufgaben. Sicherheit und Polizei sind 
+
+48 In diese Analyse wurden nur Konstrukte aufgenommen, die über die gesamte Projektlauf-
+zeit (10 Jahre) in der Untersuchung beinhaltet waren; vgl. Zick et al. (2012), S. 72.
+49 Z. B. Endrikat et al. (2002), S. 37; Mansel und Kaletta (2009), S. 88 ff.
+50 Beim Alterseffekt stellen die Abwertung von Langzeitarbeitslosen und Obdachlosen 
+Ausnahmen dar, zwei Gruppen, die eher von Jüngeren abgewertet werden. Ähnlich beim 
+Einkommen: Ausnahmen des negativen Einkommenseffektes sind die Abwertung von 
+Langzeitarbeitslosen, Obdachlosen und Asylbewerbern, also jenen, die auf Unterstützung 
+angewiesen sind; siehe Zick et al. (2012), S. 78.
+51 Heitmeyer (2012).
+52 Z. B. der 11. September 2001 mit seinen Auswirkungen auf Islamfeindlichkeit, die 
+Einführung von Hartz IV (2005), die Statusbedrohungen und -abstürze für manche 
+Bevölkerungsgruppen bedeuteten und Diskriminierungen wie Abwertungen von Langzeit-
+arbeitslosen nach sich zogen, ökonomisch verursachte Krisen wie die Finanzkrise (2008), 
+die sich zu einer Wirtschafts- und Fiskalkrise entwickelte; vgl. Heitmeyer (2012), S. 19.
+
+
+
+158 E. Groß et al.
+
+selbst Adressat neuerer demokratiefeindlicher Bewegungen. Gerade die neueren 
+rechtspopulistischen Gruppierungen versuchen das Thema Sicherheit zu besetzen 
+und inszenieren sich als Anwälte der Polizei. Zugleich ist die Polizei Zielscheibe 
+von menschenfeindlichen Angriffen, wie die jüngsten Ausschreitungen auf den 
+Coronaprotesten zeigen, und zurecht fragen sich Polizeien, welche gesellschaft-
+lichen Entwicklungen dahinterstecken. Auch die zunehmende Ökonomisierung 
+von zentralen Institutionen, die Privatisierung von Sicherheit und die Dominanz 
+von Marktgesetzen53, auch im Bereich der Sicherheit, berühren die Polizei und 
+führen zu Verunsicherungen, die dann Polizist:innen öffnen für gesellschaftlich 
+vorhandene menschenfeindliche Ideologien.
+
+Das Verständnis von GMF bietet eine Perspektive für die Erklärung mög-
+licher erhöhter Anfälligkeiten für GMF in der Polizei. Die oben beschriebenen 
+Pretest-Ergebnisse unter Studierenden der Hochschule der Akademie der Polizei 
+Hamburg liefern auch für diese Annahme erste Indizien (Abb. 3).
+
+Bei fast allen GMF-Elementen stimmen die berufserfahrenen Aufsteiger:innen 
+stärker der Abwertung zu als die unerfahrenen Direkteinsteiger:innen. Als 
+Vergleichswerte sind zudem je die Werte der Allgemeinbevölkerung aus der 
+Mitte-Studie 2018/2019 angegeben. Diese liegen bei der Abwertung von lang-
+zeitarbeitslosen Menschen, obdachlosen Menschen, asylsuchenden Menschen, 
+der Abwertung von Sinti:zze und Rom:nja und der Fremdenfeindlichkeit 
+deutlich unter den Werten aus der Polizeistichprobe (Aufsteiger:innen und 
+Direkteinsteiger:innen). Keinen Unterschied zwischen der Allgemeinbevölkerung 
+und Aufsteiger:innen finden wir dagegen bei der Muslimfeindlichkeit, Antisemitis-
+mus und Etabliertenvorrechten. Hier scheint die Abwertung in der Allgemein-
+bevölkerung gleichauf mit jener der bereits berufserfahrenen Aufsteiger:innen.
+
+Dies sind erste Indizien für einen Effekt der Alltagsroutinen und -praktiken im 
+Polizeiberuf in der erwarteten Richtung. Feinere Mechanismen der Abwertung 
+lassen sich anhand dieser Daten jedoch noch nicht untersuchen. Weitere Studien 
+sind notwendig um diese systematischer zu erforschen.
+
+Übertragen auf die Polizei legen die bisherigen Ausführungen nahe, dass 
+einerseits Bedrohungen der zentralen sozialen Motive aus polizeispezifischen 
+Arbeitsstrukturen, -kulturen und -tätigkeitsmerkmalen entstehen und GMF 
+befördern können. Andererseits sind auch Befriedigungspotenziale aus mög-
+lichen Unterstützungsangeboten bzw. emotionalem Rückhalt in der Gruppe ent-
+scheidend dafür, ob Polizist:innen menschenfeindliche Ideologien akzeptieren 
+und subkulturell in Gruppen teilen, bspw. um solchen Bedrohungen zu begegnen.
+
+53 Groß und Hövermann (2014).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 159
+
+Gruppenbezogene Menschenfeindlichkeit im Vergleich
+
+Der Islam gehört nicht zu Deutschland* (Stimme voll/eher
+zu; Aufst n=58/Dirketeinst n=159) 12,6
+
+25,8
+
+20,3
+Etabliertenvorrechte* 11,8
+
+23,2
+
+0
+Abwertung Menschen mit Behinderung (p=0,49) 0
+
+1,4
+
+46,7
+Abwertung langzeitarbeitloser Menschen (p=0,42) 59
+
+62,3
+
+3,9
+Abwertung obdachloser Menschen (p=0,35) 16,2
+
+15,9
+
+4,2
+Abwertung von Trans*Menschen (p=0,17) 5,5
+
+7,2
+
+0
+Abwertung homosexueller Menschen (p=0,39) 1,8
+
+2,9
+
+0
+Sexismus (traditionell) (p=0,12) 1,8
+
+4,3
+
+33,1
+Abwertung asylsuchende Menschen** 41,3
+
+66,7
+
+14,8
+Abwertung von Sinti & Roma*** 16,5
+
+43,5
+
+7,4
+Muslimfeindlichkeit* 4,4
+
+7,2
+
+2,1
+Sekundärer Antisemitismus (p=0,09) 1,9
+
+2,9
+
+2,3
+Fremdenfeindlichkeit (p=0.13) 6,3
+
+10,1
+
+0 10 20 30 40 50 60 70 80
+
+Mitte (n=235) Direkteinsteiger (n=271) Aufsteiger (n=69)
+
+Abb. 3  Zustimmungswerte zu GMF im Vergleich zwischen Aufsteiger:innen, 
+Direkteinsteiger:innen und der Durchschnittsbevölkerung aus der Mitte-Studie 2018/2019; 
+Stichproben bezüglich Alter und Bildung angepasst, also vergleichbar; Angaben zu 
+Signifikanz beziehen sich auf den Gruppenvergleich zwischen Aufsteiger:innen und 
+Direkteinsteiger:innen; *= p < 0.05, **= p < 0.01, ***= p < 0.001; Werte > 3 bei zwei 
+5-stufigen Items werden als Zustimmung bei den Mittelwertskalen gezählt; Einzelitem 
+„Islam gehört nicht zu Deutschland“ Zustimmung wie in Beschriftung Abbildung (zusätz-
+liche Stichprobe, darum leicht veränderten) (eigene Berechnungen und Darstellung).
+
+
+
+160 E. Groß et al.
+
+Um zu verstehen, wie und wann Polizei sich für menschenfeindliche bzw. 
+demokratiegefährdende Ideologien öffnet, müssen allerdings die spezifischen 
+Entstehungsbedingungen im beruflichen Polizeialltag identifiziert werden. Das 
+soll unter Berücksichtigung von arbeits- und organisationspsychologischen 
+Befunden nun erfolgen.
+
+4 E influssfaktoren auf GMF im polizeilichen 
+Arbeitsalltag
+
+Empirische Studien geben Hinweise auf einige Faktoren im polizeilichen Arbeits-
+alltag, die Anfälligkeiten für GMF hervorbringen oder verstärken können. 
+Eine geringe Arbeitszufriedenheit geht mit negativen Einstellung gegenüber 
+Muslim:innen, Islamfeindlichkeit und Distanzverhalten gegenüber Muslim:innen 
+sowie „Fremdenskeptizismus“ bzw. „-feindlichkeit“ einher.54 Ebenso scheint das 
+Stresserleben von Beamt:innen in einer positiven Beziehung zu „Fremdenfeind-
+lichkeit“ zu stehen.55 Die Ursachen für die empirischen Zusammenhänge sind 
+bis heute nur in Ansätzen erforscht, geben aber Hinweise auf den Einfluss der 
+Arbeitsbedingungen, die die Arbeitszufriedenheit56 und das Stresserleben57 beein-
+flussen. Das gibt Anlass zur Formulierung weiterer Annahmen auf der Grundlage 
+der skizzierten GMF-Konzeption.
+
+Es ist davon auszugehen, dass insbesondere solche Arbeitserfahrungen 
+GMF bei der Polizei begünstigen können, die der Befriedigung der zentralen 
+sozialen Motive der Arbeitenden nach 1) Zugehörigkeit und positiver Identität, 
+2) Anerkennung und positivem Selbstwert, 3) Vertrauen und Sicherheit, 4) einem 
+geteilten Verständnis sozialer Umstände sowie 5) Kontrolle und Macht58 entgegen-
+stehen könnten. Der Beruf ist für viele Menschen ein wichtiger Teil ihrer sozialen 
+Identität.59 Er vermittelt an der Schnittstelle zwischen individuellem Handeln 
+und gesellschaftlichen Anforderungen und Chancen intensive und prägende 
+
+54 Mescher (2008); Backes et al. (1997); Bornewasser und Eckert (1995); Bornewasser 
+(1996); Eckert et al. (1996).
+55 Backes et al. (1997); Mletzko und Weins (1999).
+56 Six und Felfe (2004).
+57 BAuA (2017).
+58 Zick et al. (2012); Fiske (2000); North und Fiske (2013).
+59 Semmer et al. (2015a).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 161
+
+Erfahrungen.60 Es ist davon auszugehen, dass berufliche Erfahrungen einen bedeut-
+samen Einfluss auf die Befriedigung bzw. Bedrohung zentraler sozialer Motive von 
+Individuen und Gruppen leisten können. Bedrohungen dieser identitätsgebundenen 
+Motive begünstigen die Überzeugung, dass „die Anderen“ Schuld seien. Gerade 
+extreme Gruppen suggerieren Menschen eine unmittelbare Motivbefriedigung, 
+die sie aber nur auf der Grundlage einer Identifikation mit ihnen und einer Unter-
+ordnung unter die Gruppe erhalten. Angesichts des Arbeitsalltages kann es kaum 
+verwundern, dass auch in der Polizei extremistische wie menschenfeindliche Chat-
+gruppen auftauchen. Im Folgenden gehen wir genauer auf Befriedigungs- und 
+Bedrohungspotenziale von zentralen Motiven für GMF im Polizeialltag ein.
+
+4.1  Soziale Anerkennung und Polizeialltag
+
+Eine gesellschaftlich positiv bewertete berufliche Rolle als Polizist:in oder die 
+Mitgliedschaft in einer positiv bewerteten Organisation Polizei kann zur Motiv-
+befriedigung und der Herausbildung einer positiven sozialen Identität beitragen. 
+Auch wenn Umfragen der Polizei in Deutschland regelmäßig ein hohes Ansehen 
+in der Öffentlichkeit bescheinigen61, werden in der Literatur jedoch auch Angriffe 
+auf das Ansehen von Polizist:innen durch die Öffentlichkeit62 und die Medien63 als 
+Belastungsfaktoren thematisiert, die das Anerkennungsmotiv von Polizist:innen 
+von außen bedrohen können und zugleich jene meso-sozialen Einflussfaktoren 
+befördern, die in den GMF-Studien identifiziert wurden (s. o.).64 Auch die aktuell 
+öffentlich geführte Diskussion um Rassismus in der Polizei und rechtsextreme 
+Gruppenchats in einigen Dienstgruppen dürften ein entsprechendes Bedrohungs-
+potenzial für die Polizeiidentität haben, welches ideologisch orientierte Gruppen 
+aufgreifen. Dass dies wirkt, zeigen entsprechende Chatgruppen, welche die Polizei 
+als Opfer darstellen und Verschwörungs- und Unterdrückungsfantasien anbieten.
+
+Anerkennungsbedrohungen können unter Arbeitsbedingungen entstehen, die 
+mit dem Erleben von Abwertungen und Ungerechtigkeit bzw. mangelnder Fair-
+ness verbunden sind; auch wenn dies objektiv nicht der Fall sein muss. Aus der 
+
+60 Siegrist (2018), S. 82.
+61 Z. B. NPoD Befragungen des LKA NI und SH, ESS etc.
+62 Bornewasser und Eckert (1995); Reinecke et al. (2006).
+63 Backes et al. (1997); Bornewasser und Eckert (1995).
+64 Vgl. Zick et al. (2012).
+
+
+
+162 E. Groß et al.
+
+Gerechtigkeitsforschung ist bekannt, dass faire Interaktionen in Organisationen 
+Anerkennung und Respekt vermitteln, während erlebte Ungerechtigkeit u. a. 
+zu Leistungseinbußen, kontraproduktivem Arbeitsverhalten und Stress führt65. 
+Aspekte distributiver66, prozeduraler67 und interaktionaler68 (Un-)Gerechtigkeiten 
+wurden auch im Polizeidienst in verschiedenen Studien als relevante arbeits-
+bezogene Stressoren untersucht. Ungerechtigkeitserfahrungen und Anerkennungs-
+bedrohungen können die Anfälligkeit für GMF erhöhen und zur Entstehung von 
+menschenfeindlichen wie extremistischen Überzeugungen beitragen.69 Zudem 
+weisen Studien auf polizeiinterne Status- und Anerkennungsprobleme der Polizei-
+arbeit und unklare Zukunftsaussichten von Polizist:innen70, unbefriedigende 
+Karriere- bzw. Aufstiegschancen71 und eine unzureichende Bezahlung72 als 
+Belastungsfaktoren hin. Frühere Studien, die den Ursachen von „Fremdenfeind-
+lichkeit“ in der Polizei nachgingen, konnten schon Belastungen durch polizei-
+interne Statusverluste einzelner Beschäftigtengruppen als Gefährdungsfaktoren 
+für diskriminierendes Verhalten in der Interaktion mit „Fremden“ aufzeigen.73
+
+Weitere wichtige Aspekte nennt das Modell beruflicher Gratifikationskrisen.74 
+Es postuliert, dass ein Ungleichgewicht zwischen beruflicher Anstrengung und 
+materiellen sowie immateriellen Gratifikationen (Anerkennung, Wertschätzung) 
+soziale Reziprozitätserwartungen verletzt und über erlebte Frustrationen lang-
+fristig Gesundheit und Wohlbefinden beeinträchtigt. Gratifikationskrisen als 
+Ausdruck unfairer Tauschprozesse zwischen Leistung und Gegenleistung sind 
+insbesondere in solchen beruflichen Bereichen zu erwarten, in denen – wie im 
+Polizeidienst – kaum berufliche Alternativen verfügbar sind.75 Die Relevanz 
+von Gratifikationskrisen wird als Belastungsfaktor im Polizeidienst durch ver-
+
+65 Semmer et al. (2015b, 2019).
+66 Beerlage et al. (2008).
+67 Beerlage et al. (2008); Klemisch (2006); Reinecke et al. (2006); Steinbauer et al. (2002); 
+Wössner und Binninger (1997).
+68 Beerlage et al. (2008); Hallenberger und Müller (2000); Hallenberger et al. (2002); 
+Reinecke et al. (2006).
+69 Zick und Küpper (2018).
+70 Reinecke et al. (2006).
+71 Backes et al. (1997); Bornewasser (2000); Ohlemacher et al. (2002).
+72 Bartsch et al. (2012); Bornewasser (2000); Strohmeier (2011).
+73 Bornewasser und Eckert (1995), S. 41.
+74 Siegrist (1996, 2017, 2018).
+75 Siegrist (2017).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 163
+
+schiedene Studien belegt.76 Erlebte Gratifikationskrisen blockieren im Kern die 
+Befriedigung des grundlegenden Motivs nach sozialer Anerkennung und einem 
+durch fairen Umgang und Wertschätzung gestärkten Selbstwertgefühl.77 Ent-
+sprechend der weiter oben berichteten Forschungsergebnisse zu den Ursachen 
+von GMF vermuten wir, dass das Erleben von Gratifikationskrisen im Polizei-
+beruf die Entstehung von GMF begünstigen kann.
+
+Das Stress-as-Offense-to-Self-Konzept (SOS) fokussiert direkte und indirekte 
+Interaktionen, die durch mangelnde Fairness und Wertschätzung geprägt sind. 
+Diesem Konzept nach verursachen bestimmte Arbeitssituationen deshalb Stress, 
+weil sie eine Bedrohung für den sozialen Selbstwert der arbeitenden Person dar-
+stellen.78 Dieser wird bedroht, wenn das Handeln anderer direkt oder indirekt einen 
+Mangel an Akzeptanz oder Respekt signalisiert („stress as disrespect“ (SAD)). 
+Beispiele für Belastungsfaktoren im Polizeidienst, in denen dieser Stress offen-
+sichtlich eine Rolle spielt, sind soziale Stressoren, die aus herabwürdigendem Ver-
+halten anderer resultieren. Soziale Stressoren durch Kolleg:innen, Vorgesetze und 
+Bürger:innen wurden in der polizeilichen Stressforschung des Öfteren untersucht.79 
+Auch Aggressionen gegen Polizeibeamt:innen80 gehören unseres Erachtens dazu. 
+Mit Blick auf zentrale GMF-Faktoren (s. o.), sollte hier auch die Qualität inter-
+kultureller Kontakte bedeutsam sein.81 Frühere Untersuchungen zu Entstehungs-
+bedingungen von „Fremden“- bzw. Muslimfeindlichkeit in der Polizei identifizierten 
+negativ gefärbte berufliche Kontakte mit ausländischen Bürger:innen82, 
+„Fremden“ als Interaktionspartner:innen83 sowie negativen beruflichen Kontakt 
+mit Muslim:innen84 bzw. Stress in der beruflichen, interethnischen Interaktion85  
+
+76 Bartsch et al. (2012); Beerlage et al. (2009); Fährmann et al. (2007); Wössner und 
+Binninger (1997); Klemisch (2006); Georg et al. (2019).
+77 Siegrist (2018), S. 85.
+78 Semmer et al. (2007, 2019).
+79 Backes et al. (1997); Beerlage et al. (2008); Fährmann et al. (2007); Hallenberger und 
+Müller (2000); Hallenberger et al. (2003); Klemisch (2006); Reinecke et al. (2006); Stein-
+bauer et al. (2002); Wössner und Binninger (1997).
+80 Beerlage et al. (2008); Ellrich und Baier (2015); Wössner und Binninger (1997); Zietlow 
+(2015).
+81 Vgl. Mescher (2008).
+82 Eckert et al. (1995), S. 76 ff.
+83 Backes et al. (1997), S. 150.
+84 Kemme et al. (2020); Mescher (2008).
+85 Mletzko und Weins (1999).
+
+
+
+164 E. Groß et al.
+
+von Polizist:innen als Risikofaktoren für die Entstehung von „Fremden“- bzw. 
+Muslimfeindlichkeit im Polizeidienst, die u. E. nach in die Kategorie sozialer 
+Stressoren eingeordnet werden können. Ebenso zeigen Projekte zur Stärkung der 
+interkulturellen Kompetenz bei der Polizei, dass diese stressreduzierend sind und 
+dies gerade, weil dadurch Ressentiments reduziert werden können.86
+
+Mangelnde Anerkennung drückt sich dem skizzierten Konzept zufolge nicht 
+nur in der direkten sozialen Interaktion aus. Sie wird vielmehr auch indirekt 
+durch die Gestaltung von Arbeitsbedingungen vermittelt. Hierzu gehört z. B. 
+die Übertragung „illegitimer Aufgaben“, die von den Arbeitenden als unnötig 
+bzw. unzumutbar erlebt werden, weil sie im ersten Fall als ungerecht87 oder 
+im zweiten Fall als nicht zur Berufsrolle passend und damit als Bedrohung der 
+eigenen Identität erlebt werden.88 In beiden Fällen wird die Übertragung solcher 
+Aufgaben als Respektlosigkeit empfunden, die Bedrohungen des Anerkennungs-
+motivs von Polizist:innen befördern kann. In der polizeilichen Belastungsliteratur 
+finden sich Hinweise auf belastende, polizeifremde Aufgaben89, sowie Büro-
+kratie90, die als Hinweis auf die Existenz illegitimer Aufgaben im polizeilichen 
+Vollzug interpretiert werden können.
+
+Ein weiterer, bisher kaum erforschter Belastungsfaktor, der dem SOS-
+Konzept nach Anerkennungsbedrohungen beinhaltet, ist das Auftreten illegitimer 
+Stressoren. Diese sind dadurch gekennzeichnet, dass ihr Auftreten aus Sicht der 
+Beschäftigten von Personen in verantwortlicher Position verhindert werden könnte 
+und sollte.91 Wir vermuten, dass die in einigen polizeilichen Belastungsstudien 
+untersuchten Regulationshindernisse z. B. in Form von mangelhaften Arbeits-
+mitteln, bürokratischen Verwaltungsvorschriften und fehlenden Informationen92, 
+aber auch hohe Arbeitsbelastungen aufgrund von Personalmangel93 hier 
+
+86 Leenen et al. (2005).
+87 Weil ihr Auftreten nicht (von Vorgesetzten oder Dritten) im Vorfeld verhindert wurde.
+88 Jacobshagen (2006); Jacobshagen und Semmer (2018); Semmer et al. (2019).
+89 Wössner und Binniger (1997).
+90 Fährmann et al. (2007).
+91 Semmer et al. (2019).
+92 Backes et al. (1997); Bartsch et al. (2012); Beerlage et al. (2008); Fährmann et al. (2007); 
+Klemisch (2006); Ohlemacher et al. (2002); Reinecke et al. (2006), S. 6.
+93 Backes et al. (1997); Bartsch et al. (2012); Beerlage et al. (2008); Bornewasser (1996); 
+Fährmann et al. (2007); Hallenberger und Müller (2000); Hallenberger et al. (2003); 
+Klemisch (2006); Steinbauer et al. (2002).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 165
+
+ einzuordnen sind. Sie sind besonders belastend, wenn sie mit der Erwartung ver-
+bunden sind, dass diese Probleme von Autoritäten (in Politik, Behördenleitung, 
+polizeilicher Führung) beseitigt werden könnten und sollten.
+
+Neben selbstwertschädigenden Belastungen wird auch die Bedeutung 
+von zwischenmenschlicher Wertschätzung als zentralem, selbstwertförder-
+lichen Schutzfaktor im Arbeitsleben hervorgehoben94, der zur Befriedigung des 
+Anerkennungsmotivs beitragen kann. Zur Motivbefriedigung geeignet sind 
+demnach Situationen im Arbeitsalltag, die Wertschätzung ausdrücken bzw. 
+als wichtiges Element enthalten. Dazu gehören z. B. wertschätzende Inter-
+aktionen mit Kolleg:innen, Vorgesetzten und andere berufliche Kontakte, die 
+Lob und Dankbarkeit oder Vertrauen ausdrücken, sowie die Übertragung von 
+Verantwortung, die Demonstration von Unterstützung und Respekt, aber auch 
+konkrete Belohnungen und Beförderungen.95 Förderliche Wirkungen für das 
+Befinden von Polizist:innen sind für soziale Unterstützung und wahrgenommene 
+Fairness nachgewiesen.96 Wir nehmen an, dass die genannten Faktoren im 
+Polizeidienst auch dazu beitragen können, das Motiv nach sozialer Anerkennung 
+zu befriedigen und damit der Entwicklung von GMF vorzubeugen.
+
+Es lassen sich aus der Forschung also eine Reihe von Belastungsfaktoren im 
+Polizeidienst identifzieren, deren Auftreten den Selbstwert der Arbeitenden in 
+direkten und indirekten Interaktionen durch einen objektiven oder subjektiven 
+Mangel an Respekt und Fairness verletzen können. Durch die Bedrohung des 
+sozialen Motivs nach Anerkennung können sie eine Anfälligkeit für GMF 
+begünstigen. Das alles muss allerdings noch genauer mit Blick auf GMF 
+ermittelt werden. Erste empirische Hinweise auf Zusammenhänge zwischen 
+geringer sozialer Anerkennung von Polizist:innen und der Ablehnung von 
+Muslim:innen97 sowie zwischen (negativen) beruflichen Kontakten zu „Fremden“ 
+und Muslim:innen98 und GMF-Elementen liegen vor.
+
+94 Semmer et al. (2007, 2019).
+95 Semmer et al. (2007, 2019).
+96 Ellrich und Baier (2015); Wolter et al. (2019).
+97 Mescher (2008).
+98 Backes et al. (1997); Bornewasser (1996); Mescher (2008).
+
+
+
+166 E. Groß et al.
+
+4.2  Zugehörigkeiten im Polizeialltag
+
+Dem Motiv nach Zugehörigkeit liegt der Wunsch nach befriedigenden und 
+engen sozialen Beziehungen in Gruppen zugrunde.99 Zugehörigkeit wird durch 
+die Identifikation mit Gruppen und Institutionen hergestellt100, und dazu gehört 
+auch die berufliche Identität101. Gerade für die Gesellschaft und die Polizist:innen 
+selbst ist die Zugehörigkeit zur Polizei ein zentrales Identitätsmerkmal. Sie muss 
+daher Selbstwert schaffen ohne massive negative Vergleiche zu anderen Gruppen. 
+Tut sie dies nicht, kann Entbindung oder Öffnung für alternative Identitäten und 
+Ideologien von Gruppen resultieren, die ihren Mitgliedern mehr Selbstwert ver-
+sprechen. Die wichtige Bedeutung enger sozialer Bindungen für die Befriedigung 
+des Zugehörigkeitsmotivs und die Gesundheit sind u. a. durch sozioepidemio-
+logische Studien gut belegt, und umgekehrt stellen der Verlust enger sozialer 
+Beziehungen (Partnerschaft, Freundeskreis), instabile Paarbeziehungen und 
+familiale Desintegration ein Risiko für die individuelle Gesundheit102 sowie die 
+Anerkennung103 dar. Einflussreiche arbeitspsychologische Stressmodelle wie das 
+Demand-Control-Support Modell104 und das Job-Demands Resources Modell105 
+weisen auf die wichtige Funktion von unterstützenden sozialen Beziehungen bei 
+der Arbeit hin.106 Diese können als Schutzfaktoren der negativen Wirkung von 
+Belastungen entgegenwirken, indem sie die Befriedigung grundlegender mensch-
+licher Bedürfnisse nach Zugehörigkeit ermöglichen.107
+
+Das Zugehörigkeitsmotiv kann auch durch Gruppenmitgliedschaften 
+außerhalb des Berufskontexts befriedigt werden. Studien legen jedoch nahe, 
+dass Schichtdienst für Polizist:innen nicht nur einen gesundheitlich relevanten 
+Belastungsfaktor darstellt108, sondern auch mit einem erhöhten Risiko für fragile 
+
+99 Fiske (2000); North und Fiske (2013).
+100 Zick et al. (2012).
+101 Semmer et al. (2015a).
+102 Siegrist (2018).
+103 Anhut und Heitmeyer (2000).
+104 Karasek und Theorell (1990).
+105 Bakker und Demerouti (2017).
+106 Semmer und Zapf (2018).
+107 Bakker und Demerouti (2008).
+108 Fährmann et al. (2007); Hallenberger und Müller (2000); Hallenberger et al. (2003); 
+Opielka (2018); Ottmann et al. (1989); Reinecke et al. (2006); Steinbauer et al. (2002); 
+Violanti et al. (2017); Wirtz und Nachreiner (2012); Sun et al. (2018); Torquati et al. 
+(2019); Wang et al. (2014).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 167
+
+Partnerschaften, fehlende Zeit für die Familie, fehlende Möglichkeiten für 
+Treffen mit Freunden und Hobbys sowie erschwerter Teilhabe an regelmäßigen 
+sozialen Aktivitäten in Vereinen, am öffentlichen und politischen Leben ein-
+hergeht109. Auch Konflikte zwischen Beruf und Privatleben werden immer 
+wieder als Belastungsmomente im Polizeidienst beschrieben.110 Wenn zeitliche 
+Anforderungen im Polizeidienst die Aufrechterhaltung und Pflege enger sozialer 
+Beziehungen und Gruppenzugehörigkeiten außerhalb der Arbeit beeinträchtigen 
+und grundlegende Bedürfnisse nach sozialer Zugehörigkeit im Privaten in der 
+Form bedrohen, dass der Zugang zu wichtigen und alternativen Zuwendungs- und 
+Aufmerksamkeitsressourcen erschwert wird, fehlen wichtige Ressourcen, um 
+Identitätsbedrohungen in anderen Lebensbereichen (z.B im beruflichen Kontext) 
+begegnen zu können. Auch dann steigt das Risiko für Abwertungstendenzen 
+gegenüber als ungleichwertig markierten Gruppen.111
+
+4.3  Vertrauen und Sicherheit im Polizeialltag
+
+Vertrauen in Gemeinschaft ist ein hohes Sozialkapital wie zentrales Element 
+sozialen Zusammenhalts und es schafft Sicherheit. Misstrauen und Unsicher-
+heiten öffnen dagegen für sozialen Einfluss und auch Abgrenzungen, wie sie 
+sich in GMF manifestieren. Dieses Grundprinzip der Gruppendynamik ist 
+u. E. auch relevant für den polizeilichen Arbeitsalltag. Polizeiliche „Gefahren-
+gemeinschaften“ sind Belastungen durch Eigengefährdung aufgrund erhöhter 
+Unfallrisiken sowie potenziell gesundheits- und lebensgefährlicher Situationen – 
+inklusive Gewalterfahrungen – ausgesetzt112, die das Sicherheitsmotiv bedrohen 
+können.113 Auch das Miterleben (lebens-)gefährlicher und potenziell traumatischer 
+Situationen, die andere Personen betreffen, wie z. B. schwere Verkehrsunfälle, 
+Gewalttaten, persönliches Leid und Tod114 können eine Bedrohung des Sicher-
+
+109 Bürger und Nachreiner (2019).
+110 Beerlage et al. (2008); Steinbauer et al. (2002); Wössner und Binninger (1997).
+111 Anhut und Heitmeyer (2000); Zick et al. (2012).
+112 Hallenberger und Müller (2000); Hallenberger et al. (2003); Klemisch (2006); Stein-
+bauer et al. (2002).
+113 Vgl. hierzu auch Behr in diesem Band.
+114 Beerlage et al. (2008); Fährmann et al. (2007); Hallenberger et al. (2002, 2003); 
+Klemisch (2006); Reinecke et al. (2006); Steinbauer et al. (2002); Wössner und Binninger 
+(1997).
+
+
+
+168 E. Groß et al.
+
+heitsmotivs auslösen. Wir vermuten, dass sowohl ein erhöhtes Bewusstsein für 
+Gefahren als auch die tatsächliche Konfrontation mit (lebens-)gefährlichen und 
+leidvollen Situationen Misstrauen und Unsicherheit erzeugen können, die die Ent-
+stehung von GMF begünstigen können, da hierdurch der verstärkte Wunsch nach 
+Sicherheit kompensiert werden kann. Und ebenso ist Misstrauen in die eigene 
+Bezugsgruppe, auch berufliche Gruppen, ein Einfallstor für andere, die versuchen 
+Polizist:innen in ihren Belastungen anzusprechen, um sie für menschenfeindliche 
+Interessen zu gewinnen. Dabei rekurrieren sie auch auf das folgende Motiv.
+
+4.4  Kontrolle und Einfluss
+
+Menschen streben danach, ihre soziale Umwelt beeinflussen zu können, Wirkung 
+zu entfalten und letztlich Kompetenz zu erleben.115 Werden eigene Handlungen 
+als wirkungslos und wenig erfolgreich erlebt wird das Kontrollmotiv bedroht. 
+Gefühle von Ohnmacht und Machtlosigkeit sind die Folge. Die in der Literatur 
+berichteten Kooperationsprobleme zwischen polizeilichem Vollzug und anderen 
+Stellen innerhalb116 und außerhalb117 der Polizei sowie eine erlebte Macht- 
+und Erfolglosigkeit von Polizist:innen118 deuten auf als wirkungslos erlebte 
+Interaktionen mit verschiedenen Kooperationspartnern hin und können das 
+Kontrollmotiv bedrohen und Ohnmachtsgefühle provozieren. Die wiederholte 
+Befürchtung und das tatsächliche Erleben von Kontrollverlust bzw. Machtlosig-
+keit in beruflichen Interaktionen könnte daher eine Abwertung von Fremdgruppen 
+erzeugen, wenn die eigene Kontrolle über Fremdgruppen bedroht erscheint.119 
+Gruppen, die Polizist:innen für ihre ideologischen Ziele rekrutieren möchten, 
+setzen an dem Kontrollmotiv an, gerade indem sie die Kontrolllosigkeit und das 
+Versagen von Staat und Institution, eben Polizei, hervorheben.
+
+Empirische Zusammenhänge zwischen wahrgenommener Ohnmacht bzw. 
+Erfolglosigkeit im Polizeidienst und Abwertungstendenzen gegenüber „Fremden“ 
+
+115 Fiske (2000); North und Fiske (2013).
+116 Kriminalpolizei: Wössner und Binninger (1997).
+117 Externe Organisationen (z. B. Krankenhäuser), andere Behörden, Justiz, Politik und 
+Öffentlichkeit: Beerlage et al. (2008); Bornewasser und Eckert (1995); Eckert et al. (1996).
+118 Backes et al. (1997); Beerlage et al. (2008); Bornewasser und Eckert (1995); Eckert 
+et al. (1996); Fährmann et al. (2007).
+119 Siehe hierzu auch die bei Behr in diesem Band beispielhaft wiedergegebenen 
+Situationen.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 169
+
+wurden bereits in den neunziger Jahren aufgezeigt. Bornewasser et al. identi-
+fizierten in ihrer qualitativen Studie als zentrale Gefährdungsfaktoren für 
+diskriminierendes Verhalten von Polizeibeamt:innen u. a. die Vereitelung polizei-
+licher Erfolge im justiziellen Verfahren und Selbstwertbedrohungen des Wach- 
+und Wechseldienstes durch Erfolglosigkeit120, was im Kern auf Bedrohungen des 
+Kontrollmotivs hindeutet. Backes et al. berichteten einen positiven Zusammen-
+hang zwischen wahrgenommener Wirkungslosigkeit polizeilicher Arbeit und 
+„Fremdenskeptizismus“.121
+
+5 A nnahmen zum Zusammenhang zwischen Stress 
+und menschenfeindlichen Polizeikulturen
+
+Auf der Grundlage der bisherigen Ausführungen lassen sich zentrale Annahmen 
+zur Frage, wann und warum sich Polizist:innen in ihrem beruflichen Alltag für 
+menschenfeindliche Einstellungen, Gruppierungen und Propaganda öffnen, 
+ableiten. Sie erläutern, warum sich menschenfeindliche Polizeikulturen bzw. 
+-subkulturen bilden können.
+
+These 1: Die sozialen Motive der Macht und Kontrolle, wie sie sich in sozialer 
+Dominanzorientierungen manifestieren, und das Sicherheitsbedürfnis, wie es 
+sich in autoritären Orientierungen manifestiert, sind zentrale Bausteine des 
+Arbeitsalltages und der Arbeitskultur der Polizei. Bedingt ist dies z. B. durch 
+ihren Charakter als „Gefahrengemeinschaft“122, wie auch durch die Zentrali-
+tät von Autoritätserhalt123 in Interaktionen mit dem polizeilichen Gegenüber 
+z. B. bei „Widerstandshandlungen“ (§ 133 StGB).124 Auch eine möglicherweise 
+generellere Bedrohung der hoheitlichen Autorität125 kann u. E. die beschrieben 
+Mechanismen begünstigen. Als Ausdruck dafür steht auch der Diskurs um den 
+vermeintlich schwindenden Respekt der Bürger:innen gegenüber der Polizei.126
+
+120 Bornewasser und Eckert (1995), S. 41.
+121 Backes et al. (1997), S. 92.
+122 Siehe hierzu die Ausführungen weiter oben zur polizeilichen Stress- und Belastungs-
+forschung; wir vermuten, dass sowohl ein erhöhtes Bewusstsein für Gefahren als auch die 
+tatsächliche Konfrontation mit (lebens-)gefährlichen und leidvollen Situationen Teil der 
+gefahrengemeinschaftlichen Polizeikulturen sind.
+123 Siehe hierzu auch die „Authority Maintenance Theory“ von Alpert und Dunham (2004).
+124 Tränkle (2020), S. 144 ff.
+125 Tränkle (2020), S. 146.
+126 Derin und Singelnstein (2020), S. 131; Behr (2021).
+
+
+
+170 E. Groß et al.
+
+Die beruflich erforderte Anwendung von Gewalt, und die diskutierte 
+Wirkungs- und Erfolglosigkeit, wie sie die polizeiliche Belastungsforschung in 
+den Fokus rückt, heben die Zentralität des Kontrollmotivs hervor, und können 
+Polizist:innen anfällig machen, sich im Austausch mit anderen zu Gruppen 
+zusammenzufinden, die radikal menschenfeindliche Überzeugungen entwickeln 
+und Kontrolle wie Macht anbieten. Darüber hinaus konkretisiert die Stress-
+forschung Merkmale polizeilicher Gefahrengemeinschaften über Stressoren, die 
+u. a. gesundheits- und lebensbedrohliche Situationen im polizeilichen Berufsall-
+tag berücksichtigen und damit die Relevanz des Sicherheitsmotivs in der polizei-
+lichen Interaktion mit dem Gegenüber unterstreichen, das in einer Kultivierung 
+asymmetrisch autoritärer Interaktionen – z. B. zum Eigenschutz – münden 
+kann.127
+
+These 2: Die Polizeikultur kann geprägt sein von autoritären Vorstellungen 
+und Dominanzansprüchen, weil die Polizei hierarchisch organisiert ist. Polizei 
+ist mit Blick auf die gesellschaftlichen Erwartungen an Ordnung und Sicher-
+heit immer in einem Dilemma, weil sie mit Blick auf GMF wissen könnte, 
+wie sehr Autoritarismus und Dominanzorientierung sie selbst anfällig für 
+Intoleranz machen können. In der US-amerikanischen Forschung ist gut unter-
+sucht, dass autoritäre und dominanzorientierte Personen die Polizei als Arbeits-
+stelle mögen.128 Polizist:innen mit einem höheren Grad an autoritären und 
+dominanzorientierten Überzeugungen sind aber eben anfälliger für GMF, und 
+umso mehr gilt es den möglichen Selektionseffekt vor und in der Ausbildung zu 
+kontrollieren. Durch regelmäßige unabhängige Studien zur Rekrutierung, zur Ver-
+dichtung von Überzeugungen in der Polizeiarbeit und die Öffnung der Polizei 
+für Vielfalt und Diversität kann der Selektionseffekt möglicherweise gebremst 
+werden.
+
+These 3: Da die Berufsrolle für viele einen zentralen Bestandteil der sozialen 
+Identität darstellt, können eine positive berufliche Identität und die Zugehörig-
+keit zu einer angesehenen Organisation das soziale Motiv nach Zugehörig-
+keit von Personen befriedigen. Im Idealfall können die Polizei bzw. kleinere 
+Organisationseinheiten das Zugehörigkeitsmotiv durch einen starken Zusammen-
+halt befriedigen und zu einer positiven sozialen Identität beitragen. Es besteht 
+in Eigengruppen wie z. B. der Organisationseinheit, ein starker Zusammenhalt 
+nach innen, was nicht zuletzt die Studien zur „Cop Culture“, Schweigemauern 
+
+127 Siehe hierzu auch Alpert und Dunham (2004).
+128 Correll et al. (2014).
+
+
+
+Ursachen und Präventionsmöglichkeiten … 171
+
+und Korpsgeist oder Kameraderie nahelegen.129 Ist die soziale Identität innerhalb 
+der Eigengruppe130 durch interne oder externe Statusbedrohungen (vgl. Kap. 4) 
+in ihrer positiven Konnotation gefährdet, erhöht dies die Gefahr, dass über 
+Abwertung versucht wird, die eigene Identität wieder aufzuwerten.131 Öffentliche 
+Diskurse, die Polizeiarbeit kritisch hinterfragen, aber auch interne Konflikte 
+können dies auslösen, was GMF zur Wiederherstellung einer positiven sozialen 
+Identität wahrscheinlicher macht.
+
+These 4: Die Vorurteils-, also auch GMF-reduzierende Wirkung von spezi-
+fischen gleichwertigen Formen des Kontakts mit als ungleichwertig markierten 
+Gruppen132 ist auch in der Polizei wirksam, wie es die GMF-Forschung nahelegt. 
+Einseitig konflikthafte berufliche Interaktionen mit markierten Minderheiten-
+gruppen als polizeiliches Gegenüber befeuern die bekannten Mechanismen und 
+fördern eine Einstellung, die in den frühen Studien der 90er Jahre bereits als 
+„resignativer Fremdenskeptizismus“133 beschrieben wurde.134 Interventionen 
+gegen GMF in der Polizei können dann an ein großes, bestehendes und wissen-
+schaftlich begleitetes Repertoire an vorurteilreduzierenden Kontakt-Inter-
+ventionen z. B. in Schulen, Nachbarschaften oder Betrieben135 zurückgreifen und 
+diese auf den Polizeikontext übertragen.
+
+These 5: Soziale Anerkennung von Polizist:innen, wie sie aus der Perspektive 
+der Stressforschung und den oben genannten Theorien dargestellt wurde, 
+könnte einen bedeutenden Einfluss auf die Abwertung von Minderheiten durch 
+Polizist:innen haben. Neben der Identifikation mit der eigenen Berufsgruppe, wie 
+
+129 Behr (2008); Schwind (1996); Bericht des Parlamentarischen Untersuchungsausschusses 
+zum Hamburger Polizeiskandal, HH-Bürg.-Drs. 15/6200, S. 949, 1125.
+130 Siehe auch Maibach (1996), S. 195 ff.
+131 Tajfel und Turner (1986).
+132 Zur generalisierenden Wirkung interkultureller Kontakte auf GMF allgemein siehe 
+Christ und Wagner (2008), S. 155 ff.
+133 Hiermit ist gemeint, „daß kein offensiver oder gar militanter Einstellungskomplex 
+gegenüber Fremden“ bestehe, „sondern eher ein aus Überdruß und Resignation erwach-
+sender skeptischer Zynismus gegenüber der Ausländerproblematik“, Backes et al. (1997), 
+S. 85. Ausländer seien einfach ein (weiterer) Stressfaktor unter vielen: „Der Streß im 
+Umgang mit Ausländern wird bei den Beamten dieser Stichprobe aufgrund zu hohen all-
+gemeinen Stresses durch den Wechseldienst eher abgewehrt, um eine Überforderung zu 
+vermeiden.“, Backes et al. (1997), S. 166.
+134 Backes et al. (1997), S. 85; ähnlich wie unsere Annahme zur Wirkung von Kontakt, 
+allerdings mit Fokus auf privaten Kontakt siehe auch Mletzko und Weins (1999), S. 17 ff.
+135 Siehe z. B. Christ und Wagner (2008), S. 165.
+
+
+
+172 E. Groß et al.
+
+bereits oben ausgeführt, spielt auch die soziale Anerkennung innerhalb der beruf-
+lichen Kontexte eine ausschlaggebende Rolle mit Blick auf das soziale Motiv der 
+Zugehörigkeit. Anerkennungsverletzungen begünstigen demnach das Bedürf-
+nis nach Wiederherstellung von Anerkennung, das subkulturspezifisch über 
+Abwertung, z. B. in Form von menschenfeindlichen Gruppenchats, zu erreichen 
+versucht wird. Der berufliche Kontext Polizei weist dabei besondere Spezifika 
+auf, die es zu berücksichtigen gilt.
+
+Die genannten Thesen enthalten bereits wichtige Impulse für die Prävention 
+und Möglichkeiten für die Entwicklung von Schutzfaktoren gegen menschen-
+feindliche Tendenzen bei der Polizei. Es ist angesichts der Fakten und der vielen 
+Hinweise über die Wechselwirkungen zwischen gesellschaftlichen Stimmungen 
+und polizeilichen Arbeitsbedingungen geraten wie möglich, ein zuverlässiges 
+Präventionssystem zu entwickeln und nicht nur an den Symptomen zu operieren 
+und sich auf disziplinarrechtliche Maßnahmen zu verlassen. Dazu allerdings wäre 
+es wünschenswert, diese Prävention auf viel mehr und umfangreichere Forschung 
+zu stützen, damit wir bessere evidenzbasierte Vorschläge machen können als jene, 
+die wir in diesem Beitrag angeboten haben.
+
+Literatur
+
+Allport, G. (1954). The Nature of Prejudice. Reading: Addison-Wesley.
+Alpert, G., & Dunham, R. (2004). Explaining Police Use of Force: The Breakdown of 
+
+an Authority Maintenance Ritual. In G. Alpert & R. Dunham (Hrsg.), Understanding 
+Police Use of Force (S. 170–187). Cambridge University Press.
+
+Anhut, R., & Heitmeyer, W. (2000). Desintegration, Konflikt und Ethnisierung. Eine 
+Problemanalyse und theoretische Rahmenkonzeption. In W. Heitmeyer & R. Anhut 
+(Hrsg.), Konflikt- und Gewaltforschung. Bedrohte Stadtgesellschaft (S. 17–75). Wein-
+heim und München: Juventa.
+
+Anhut, R., & Heitmeyer, W. (2005). Desintegration, Anerkennungsbilanzen und die Rolle 
+sozialer Vergleichsprozesse für unterschiedliche Verarbeitungsmuster. In W. Heitmeyer 
+& P. Imbusch (Hrsg.), Integrationspotenziale moderner Gesellschaften (S. 75–100). 
+Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Backes, O., Biek, T., Dollase, R., Heitmeyer, W., Meyer, J., Spona, D., & Wilkening, F. 
+(1997). Risikokonstellationen im Polizeialltag. Ergebnisse einer mehrperspektivischen 
+Untersuchung zum Verhältnis von Polizei und Fremden in Konfliktsituationen. Bielefeld: 
+Universität Bielefeld: Institut für interdisziplinäre Konflikt- und Gewaltforschung.
+
+Bakker, A. B., & Demerouti, E. (2008). Towards a model of work engagement. Career 
+Development International 13(3), 209–223. https://doi.org/10.1108/13620430810870476.
+
+Bakker, A. B., & Demerouti, E. (2017). Job demands–resources theory: Taking stock and 
+looking forward. Journal of Occupational Health Psychology, 22(3), S. 273.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 173
+
+Bartsch, N., Maier, F., & Pedal, W. (2012). Die Bedeutsamkeit von administrativen Stress-
+faktoren. Prävention und Gesundheitsförderung, 7(1), S. 62.
+
+BAuA (2017). Psychische Gesundheit in der Arbeitswelt – Wissenschaftliche Standort-
+bestimmung. Dortmund: Bundesanstalt für Arbeitsschutz und Arbeitsmedizin.
+
+Beerlage, I., Arndt, D., Hering, T., Nörenberg, L., & Springer, S. (2008). Netzwerk 
+Psychosoziale Notfallversorgung – Umsetzungsrahmenpläne. Bd. 3: Belastungen und 
+Belastungsfolgen in der Bundespolizei. Bonn: Bundesamt für Bevölkerungsschutz und 
+Katastrophenhilfe.
+
+Behr, R. (2008). Cop Culture – Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur in der Polizei. 2. Aufl. Wiesbaden: VS Verlag.
+
+Behr, R. (2021). Dominanzkultur als Rahmung von Gewalt und Rassismus in der Polizei. 
+In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechtsextremismus, Polizeigewalt. Bei-
+träge für und über eine rechtschaffen(de), demokratische Bürgerpolizei (S. 251–261). 
+Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Bornewasser, M. (1996). Feindselig oder überfordert? Soziale und strukturelle Belastungen 
+von Polizeibeamtinnen und -beamten im Umgang mit Fremden. In Polizei-Führungs-
+akademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? Ergebnisse einer wissenschaft-
+lichen Studie (S. 16–55). Lübeck: Schmidt-Römhild.
+
+Bornewasser M. (2000). Mitarbeiterzufriedenheit in der Polizei: Weg von der abstrakten 
+Beschreibung, hin zur konkreten Veränderung. In K. Liebl & T. Ohlemacher (Hrsg.), 
+Empirische Polizeiforschung (S. 35–47). Herbolzheim: Centaurus Verlag & Media.
+
+Bornewasser, M., & Eckert, R. (1995). Belastungen und Gefährdungen von 
+Polzeibeamtinnen und -beamten im alltäglichen Umgang mit Fremden – Abschluss-
+bericht zum Projekt „Polizei und Fremde“. Münster: Polizei-Führungsakademie.
+
+Bürger, B., & Nachreiner, F. (2019). Erkenntnisse zu Belastung und Beanspruchung im 
+Wach- und Wechselschichtdienst der Polizei. Ausgangslage, Folgen und Gestaltungs-
+bedarf. In A. Fischbach & P. W. Lichtenthaler (Hrsg.), Gesundheit in der Polizei 
+(S. 49–94). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Christ, O., & Wagner, U. (2008). Interkulturelle Kontakte und Gruppenbezogene 
+Menschenfeindlichkeit: Die Wirkung von interkulturellen Kontakten auf eine Ideologie 
+der Ungleichwertigkeit. In W. Heitmeyer (Hrsg.), Deutsche Zustände. Folge 6 (S. 154–
+168). Frankfurt am Main: Suhrkamp.
+
+Correll, J., Hudson, S., Guillermo, S., & Ma, D. (2014). The Police Officer’s Dilemma: A 
+Decade of Research on Racial Bias in the Decision to Shoot. Social and Personality 
+Psychology Compass, 8(5), S. 201.
+
+Decker, O., & Brähler, E. (2006). Vom Rand zur Mitte. Rechtsextreme Einstellungen und 
+ihre Einflussfaktoren in Deutschland. Berlin: Friedrich-Ebert-Stiftung.
+
+Derin, B., & Singelnstein, T. (2020). Polizei und Gewalt. In D. Hunold & A. Ruch 
+(Hrsg.), Polizeiarbeit zwischen Praxishandeln und Rechtsordnung. Empirische Polizei-
+forschungen zur polizeipraktischen Ausgestaltung des Rechts (S. 121–141). Wiesbaden: 
+Springer VS.
+
+Eckert, R., Jungbauer, J., & Willems, H. (1996). Zur Feindschaft verdammt? Belastungs-
+situationen der Polizei im Umgang mit ausländischen Tatverdächtigen und ihre 
+Konsequenzen. In Polizei-Führungsakademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? 
+Ergebnisse einer wissenschaftlichen Studie (S. 88–108). Lübeck: Schmidt-Römhild.
+
+
+
+174 E. Groß et al.
+
+Ellrich, K., & Baier, D. (2015). Gewaltausübung durch Polizeibeamte – Ausmaß und Ein-
+flussfaktoren. Rechtspsychologie, 1(1), S. 22.
+
+Endrikat, K., Schaefer, D., Mansel, J., & Heitmeyer, W. (2002). Soziale Desintegration. Die 
+riskanten Folgen negativer Anerkennungsbilanzen. In W. Heitmeyer (Hrsg.), Deutsche 
+Zustände. Folge 1 (S. 37–58). Frankfurt am Main: Suhrkamp.
+
+Fährmann, A., Remke, S., & Reschke, K. (2007). Der Einfluss des Kohärenzgefühls auf 
+das subjektive Erleben berufsbedingter Belastungen bei Polizeibeamten. In C. Lorei 
+(Hrsg.), Polizei & Psychologie (S. 107–124). Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+Fiske, S. T. (2000). Stereotyping, prejudice, and discrimination at the seam between the 
+centuries: evolution, culture, mind, and brain. European Journal of Social Psychology, 
+30(3), S. 299.
+
+Georg, S., Wolter, C., Santa Maria, A., Kleiber, D., & Renneberg, B. (2019). Berufliche 
+Gratifikationskrisen, arbeitsbezogene Erschöpfung und Frühberentung bei der Polizei. 
+Zeitschrift für Arbeits- und Organisationspsychologie, 63(4), S. 191.
+
+Groß, E., & Hövermann, A. (2014). Marktförmiger Extremismus – Ein Phänomen der 
+Mitte?. In A. Zick, A. Klein & R. Melzer (Hrsg.), Fragile Mitte, feindselige Zustände. 
+Rechtsextreme Einstellungen in Deutschland 2014 (S. 102–118). Berlin: Dietz.
+
+Groß, E., Gundlach, J., & Heitmeyer, W. (2010). Die Ökonomisierung der Gesellschaft. 
+Ein Nährboden für Gruppenbezogene Menschenfeindlichkeit in oberen Status- und Ein-
+kommensgruppen. In W. Heitmeyer (Hrsg.), Deutsche Zustände. Folge 9 (S. 138–157). 
+Berlin: Suhrkamp.
+
+Groß, E., Zick, A., & Krause, D. (2012). Von der Ungleichwertigkeit zur Ungleichheit: 
+Gruppenbezogene Menschenfeindlichkeit. Aus Politik und Zeitgeschichte, 62(16–17), 
+S. 11.
+
+Groß, E., Hövermann, A., & Messner, S. (2018). Marketized Mentality, Competitive/
+Egoistic School Culture, and Delinquent Attitudes and Behavior: an Application of 
+Institutional Anomie Theory. Criminology, 56(2), S. 333.
+
+Gutschmidt, D., & Vera, A. (2019). Cop Culture und Gruppenbezogene Menschenfeind-
+lichkeit in der Polizei: eine empirische Analyse. In H. Groß & P. Schmidt (Hrsg.), 
+Empirische Polizeiforschung XXIII: Polizei und Migration (S. 227–250). Verlag für 
+Polizeiwissenschaft.
+
+Häusler, A., & Küpper, B. (2019). Neue rechte Mentalitäten in der Mitte der Gesellschaft. 
+In A. Zick, B. Küpper & W. Berghan (Hrsg.), Verlorene Mitte – Feindselige Zustände. 
+Rechtsextreme Einstellungen in Deutschland 2018/19 (S. 147–172). Bonn: Dietz.
+
+Hallenberger, F., & Müller, S. (2000). Was bedeutet für Polizistinnen und Polizisten 
+„Stress“? Polizei & Wissenschaft, 1(1), S. 58.
+
+Hallenberger, F., Heiderich, M., & Rieger, S. (2003). Stress und Stressbewältigung im 
+Polizeiberuf. Polizei & Wissenschaft, 4(3), S. 36.
+
+Heitmeyer, W. (1987). Rechtsextremistische Orientierungen bei Jugendlichen. Weinheim 
+und München: Juventa.
+
+Heitmeyer, W. (2001). Autoritärer Kapitalismus, Demokratieentleerung und Rechtspopulis-
+mus. Eine Analyse von Entwicklungstendenzen. In D. Loch & W. Heitmeyer (Hrsg.), 
+Schattenseiten der Globalisierung (S. 479–530). Frankfurt am Main: Suhrkamp.
+
+Heitmeyer, W. (2002). Deutsche Zustände. Folge 1. Frankfurt am Main: Suhrkamp.
+Heitmeyer, W. (2012). Deutsche Zustände. Folge 10. Frankfurt am Main: Suhrkamp
+
+
+
+Ursachen und Präventionsmöglichkeiten … 175
+
+Heitmeyer, W. (2018). Autoritäre Versuchungen. Berlin: Suhrkamp.
+Heitmeyer, W., Freiheit, M., & Sitzer, P. (2020). Rechte Bedrohungsallianzen – Signaturen 
+
+der Bedrohung II. Berlin: Suhrkamp.
+Hövermann, A., Groß, E., Zick, A., & Messner, S. (2015). Understanding the Devaluation 
+
+of Vulnerable Groups: A Novel Application of Institutional Anomie Theory. Social 
+Science Research, 52, S. 408.
+
+Jacobshagen, N. (2006). Illegitimate Tasks, Illegitimate Stressors: Testing A New Stressor-
+Strain Concept. Unveröffentlichte Dissertation, Universität Bern.
+
+Jacobshagen, N., & Semmer, N. K. (2018). Kann das Sinnerleben der Arbeit durch 
+illegitime Aufgaben erschüttert werden? In B. Badura, A. Ducki, H. Schröder, J. Klose 
+& M. Meyer (Hrsg.), Fehlzeitenreport 2018 (S. 133–142). Berlin: Springer.
+
+Jaschke, H.-G. (1997). Öffentliche Sicherheit im Kulturkonflikt: Zur Entwicklung der 
+städtischen Schutzpolizei in der multikulturellen Gesellschaft. Frankfurt am Main: 
+Campus Verlag.
+
+Karasek, R. A., & Theorell, T. (1990). Healthy work: Stress, productivity and the 
+reconstruction of working life. New York: Basic Books.
+
+Kemme, S., Essien, I., & Stelter, M. (2020). Muslimfeindliche Einstellungen in der Polizei: 
+Der Einfluss beruflicher Kontakthäufigkeit. Monatsschrift für Kriminologie und Straf-
+rechtsreform, 103(2), S. 1.
+
+Klein, A., Küpper, B., & Zick, A. (2009). Rechtspopulismus im vereinigten Deutschland 
+als Ergebnis von Benachteiligungsgefühlen und Demokratiekritik. In W. Heitmeyer 
+(Hrsg.), Deutsche Zustände. Folge 7 (S. 93–112). Frankfurt am Main: Suhrkamp.
+
+Klein, A, Heitmeyer, W (2010). Wenn die Wut kein politisches Ventil findet; In: Heitmeyer, 
+W. (Hrsg.). Deutsche Zustände. Folge 8. Berlin: Suhrkamp: S. 164–185.
+
+Klein, A., Groß, E., & Zick, A. (2014). Menschenfeindliche Zustände. In A. Zick, A. Klein 
+& R. Melzer (Hrsg.), Fragile Mitte, feindselige Zustände. Rechtsextreme Einstellungen 
+in Deutschland 2014 (S. 61–84). Bonn: Friedrich-Ebert-Stiftung.
+
+Klemisch, D. (2006). Psychosoziale Belastungen und Belastungsverarbeitung von Polizei-
+beamten. Unveröffentlichte Dissertation, Universitätsklinikum Münster.
+
+Krott, N. R., Krott, E., & Zeitner, I. (2018). Xenophobic attitudes in German police 
+officers. International Journal of Police Science & Management, 20(3), S. 174.
+
+Küpper, B., Berghan, W., & Rees, J. (2019). Aufputschen von Rechts: Rechtspopulismus 
+und seine Normalisierung in der Mitte. In A. Zick, B. Küpper & W. Berghan (Hrsg.), 
+Verlorene Mitte – Feindselige Zustände. Rechtsextreme Einstellungen in Deutschland 
+2018/19 (S. 173–202). Bonn: Dietz.
+
+Leenen, W. R., Grosch, H., & Groß, A. (2005). Bausteine zur interkulturellen Quali-
+fizierung der Polizei. Münster: Waxmann.
+
+Maibach, G. (1996). Polizisten und Gewalt. Innenansichten aus dem Polizeialltag. Reinbek: 
+Rowohlt.
+
+Mansel, J., & Endrikat, K. (2007). Die Abwertung von „Überflüssigen“ und „Nutzlosen“ 
+als Folge der Ökonomisierung der Lebenswelt. Langzeitarbeitslose, Behinderte und 
+Obdachlose als Störfaktor. Soziale Probleme, 18(2), S. 163.
+
+Mansel, J., & Kaletta, B. (2009). Desintegrationsprozesse, Anerkennungsprobleme und 
+Gruppenbezogene Menschenfeindlichkeit Ein Ost-West-Vergleich. In W. Heitmeyer 
+(Hrsg.), Deutsche Zustände. Folge 7 (S. 73–92). Frankfurt am Main: Suhrkamp.
+
+
+
+176 E. Groß et al.
+
+Meisner, M., & Kleffner, H. (2019). Extreme Sicherheit. Rechtsradikale in Polizei, Ver-
+fassungsschutz, Bundeswehr und Justiz. Berlin: Herder.
+
+Mescher, H. (2008). Policing and Islamophobia in Germany: The Role of Workplace 
+Experience. International Journal of Conflict and Violence, 2(1), S. 138.
+
+Mletzko, M., & Weins, C. (1999). Polizei und Fremdenfeindlichkeit. Monatsschrift für 
+Kriminologie und Strafrechtsreform, 82(2), S. 77.
+
+North, M. S., & Fiske, S. T. (2013). Driven to exclude: How core social motives explain 
+social exclusion. In C. N. DeWall (Hrsg.), The Oxford handbook of social exclusion 
+(S. 31–42). Oxford University Press.
+
+Ohlemacher, T., Bosold, C., Fiedler, A., Lauterbach, O., & Zitz, A. (2002). Polizei im 
+Wandel: Erste Ergebnisse der Befragung der Vollzugsbeamtinnen und -beamten der 
+niedersächsischen Polizei im Jahre 2001. Hannover: Kriminologisches Forschungs-
+institut Niedersachsen.
+
+Opielka, S. (2018). Psychisches Befinden von Polizeibeamten in Abhängigkeit von Schicht-
+arbeit. Unveröffentlichte Dissertation, Heinrich-Heine-Universität Düsseldorf.
+
+Ottmann, W., Karvonen, M. J., Schmidt, K. H., Knauth, P., & Rutenfranz, J. (1989). 
+Subjective health status of day and shift-working policemen. Ergonomics, 32(7), S. 847.
+
+Reinecke, S., Runde, B., Bastians, F., Bär, O., Weiss, U., & Heuft, G. (2006). Quali-
+tät, Intensität und Quantität von psychischen Belastungen innerhalb der Polizeiarbeit. 
+Bericht über ein Forschungsprojekt. Polizei & Wissenschaft, 7(2), S. 4.
+
+Schwind, H.-D. (1996). Zur „Mauer des Schweigens“. Gedanken zum sogenannten 
+„Hamburger Polizeiskandal“ aus kriminologischer Sicht. Kriminalistik, 50(3), S. 161.
+
+Semmer, N. K., & Zapf, D. (2018). Theorien der Stressentstehung und -bewältigung. In 
+R. Fuchs & M. Gerber (Hrsg.), Stressregulation und Sport (S. 23 – 50). Heidelberg: 
+Springer.
+
+Semmer, N. K., Jacobshagen, N., Meier, L. L., & Elfering, A. (2007). Occupational stress 
+research: The „stress-as-offence-to-self“ perspective. Occupational Health Psychology: 
+European Perspectives on Research, Education, and Practice, 2, S. 43.
+
+Semmer, N. K., Jacobshagen, N., Meier, L. L., Elfering, A., Beehr, T. A., Kälin, W., & 
+Tschan, F. (2015a). Illegitimate tasks as a source of work stress, Work & Stress, 29(1), 
+S. 32.
+
+Semmer, N. K., Jacobshagen, N., Meier, L. L., Kälin, W., Keller, A. C., Igic, I., & 
+Elfering, A. (2015b). Stress als Angriff auf das Selbst. In A. Fischbach, J. Boltz & P. 
+W. Lichtenthaler (Hrsg.), Stark trotz Stress (S. 19–43). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+Semmer, N. K., Tschan, F., Jacobshagen, N., Beehr, T. A., Elfering, A., Kälin, W., & 
+Meier, L. L. (2019). Stress as Offense to Self: a Promising Approach Comes of Age. 
+Occupational Health Science, 3(3), S. 205.
+
+Sidanius, J., & Pratto, F. (1999). Social Dominance: An intergroup theory of social 
+hierarchy and oppression. New York: Cambridge University Press.
+
+Siegrist J. (1996). Adverse health effects of high-effort/low-reward conditions. Journal of 
+Occupational Health Psychology, 1(1), S. 27.
+
+Siegrist, J. (2017). The Effort-Reward Imbalance Model. In C. L. Cooper & J. C. Quick 
+(Hrsg.), The Handbook of Stress and Health: A Guide to Research and Practice 
+(S. 24–35). West Sussex: Wiley.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 177
+
+Siegrist J. (2018). Soziale Stressoren und stressbedingte Erkrankungen. In R. Fuchs & M. 
+Gerber (Hrsg.), Handbuch Stressregulation und Sport (S. 79–92). Berlin und Heidel-
+berg: Springer.
+
+Six, B., & Felfe, J. (2004). Einstellungen und Werthaltungen im organisationalen Kontext. 
+In H. Schuler (Hrsg.), Organisationspsychologie – Grundlagen und Personalpsycho-
+logie (S. 597–672). Göttingen: Hogrefe.
+
+Steinbauer, M., Jagsch, R., & Kryspin-Exner, I. (2002). Stress im Polizeiberuf: Ver-
+arbeitung belastender Ereignisse im Dienst. Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+Stephan, W. G., & Stephan, C. W. (1985). Intergroup Anxiety. Journal of Social Issues, 
+41(3), S. 157.
+
+Stöss, R. (2007). Rechtsextremismus im Wandel. 2. Aufl. Berlin: Friedrich-Ebert-Stiftung.
+Strohmeier, G. (2011). „Klartext 2010“ – Studie zur Berufszufriedenheit in der Bundes-
+
+polizei. Technische Universität Chemnitz. https://www.gdp.de/gdp/gdp.nsf/id/
+p110402/$file/StrohmeierStudie.pdf. Zugegriffen: 25. Januar 2022.
+
+Struck, J. (2019). Digitale Vorwärtspanik. Monatsschrift für Kriminologie und Strafrechts-
+reform, 102(1), S. 54.
+
+Stuttgarter Zeitung (2020). Polizeigewerkschaft weist neue Idee für Rassismus-Studie 
+zurück. https://www.stuttgarter-zeitung.de/inhalt.vorschlag-aus-niedersachsen-polizei-
+gewerkschaft-weist-neue-idee-fuer-rassismus-studie-zurueck.df28eb3e-abfb-4cb0-
+b2a8-d444e6622fc0.html. Zugegriffen: 18. Juli 2022.
+
+Sun, M., Feng, W., Wang, F., Li, P., Li, Z., Li, M., Tse, G., Vlaanderen, J., Vermeulen, R., 
+& Tse, L. A. (2018). Meta-analysis on shift work and risks of specific obesity types. 
+Obesity reviews: an official journal of the International Association for the Study of 
+Obesity, 19(1), S. 28.
+
+Tajfel, H., & Turner, J. C. (1986). The Social Identity Theory of Intergroup Behavior. In 
+S. Worchel & W. Austin (Hrsg.), Psychology of intergroup relations (S. 7–24). 2. Aufl. 
+Chicago: IL.
+
+Tränkle, S. (2017). „Begonnene Maßnahmen werden durchgezogen“ – Widerstands-
+lagen als Testfall für die Legitimität polizeilicher Maßnahmen. In B. Frevel & M. 
+Wendekamm (Hrsg.), Sicherheitsproduktion zwischen Staat, Markt und Maßnahmen 
+(S. 31–46). Wiesbaden: Springer VS.
+
+Tränkle, S. (2020). Autoritätserhalt um jeden Preis? Was Streifenbeamt_innen bewegt, 
+bei drohenden Widerstandslagen auf die Durchsetzung des Gewaltmonopols zu ver-
+zichten und Handlungsspielräume zur Deeskalation zu nutzen. In D. Hunold & A. Ruch 
+(Hrsg.), Polizeiarbeit zwischen Praxishandeln und Rechtsordnung (S. 143–164). Wies-
+baden: Springer.
+
+Torquati, L., Mielke, G. I., Brown, W. J., Burton, N. W., & Kolbe-Alexander, T. L. (2019). 
+Shift Work and Poor Mental Health: A Meta-Analysis of Longitudinal Studies. 
+American journal of public health, 109(11), S. 120.
+
+Wang, F., Zhang, L., Zhang, Y., Zhang, B., He, Y., Xie, S., Li, M., Miao, X., Chan, E. Y., 
+Tang, J. L., Wong, M. C., Li, Z., Yu, I. T., & Tse, L. A. (2014). Meta-analysis on night 
+shift work and risk of metabolic syndrome. Obesity reviews: an official journal of the 
+International Association for the Study of Obesity, 15(9), S. 709.
+
+
+
+178 E. Groß et al.
+
+Wirtz, A., & Nachreiner, F. (2012). Effects of Lifetime Exposure to Shiftwork on Fitness 
+for Duty in Police Officers, Chronobiology International, 29(5), S. 595. https://doi.org/
+10.3109/07420528.2012.675844.
+
+Wössner, R., & Binninger, C. (1997). Zum Anforderungsprofil für Streifenbeamte im 
+Polizeidienst. Die Polizei, 88(1), S. 3.
+
+Wolter, C., Santa Maria, A., Wörfel, F., Guys, B., Lesener, T., Kleiber, D., & Renneberg, B. 
+(2019). Job Demands, Job Resources, and Well-being in Police Officers – a Resource-
+Oriented Approach. Journal of Police and Criminal Psychology, 34, S. 45.
+
+Zick, A. (2019). Die Macht der Vorurteile für die Radikalisierung der Mitte. In Schriften-
+reihe der Bildungsabteilung des Zentralrats der Juden in Deutschland (Hrsg.), 
+Perspektiven jüdischer Bildung. Diskurse – Erkenntnisse – Positionen Band II (S. 378–
+404). Leipzig: Hentrich & Hentrich.
+
+Zick, A. (2021). Menschenfeindlicher Rassismus und Ungleichwertigkeitszuschreibungen. 
+In A. Zick & B. Küpper (Hrsg.), Geforderte Mitte: Rechtsextreme und demokratie-
+gefährdende Einstellungen 2020/21 (S. 141–171). Bonn: Dietz.
+
+Zick, A., & Klein, A. (2014). Fragile Mitte, Feindselige Zustände. Rechtsextreme Ein-
+stellungen in Deutschland 2014. Bonn: Dietz.
+
+Zick, A., & Küpper, B. (2018). Menschenfeindliche Vorurteile im Kontext von 
+Radikalisierungsdynamiken und rechtsextremen Handlungen. Monatszeitschrift für 
+Kriminologie und Strafrechtsreform, 101(2), S. 140.
+
+Zick, A., & Küpper, B. (2021). Geforderte Mitte: Rechtsextreme und demokratie-
+gefährdende Einstellungen in der Mitte 2020/21. Bonn: Dietz.
+
+Zick, A., Wolf, C., Küpper, B., Davidov, E., Schmidt, P., & Heitmeyer, W. (2008). The 
+Syndrome of Group-Focused Enmity: The Interrelation of Prejudices Tested with 
+Multiple Cross-Sectional and Panel Data. Journal of Social Issues, 64(2), S. 363.
+
+Zick, A., Küpper, B., & Hövermann, A. (2011). Die Abwertung Der Anderen. Eine 
+Europäische Zustandsbeschreibung Zu Intoleranz, Vorurteilen Und Diskriminierung. 
+Berlin: Friedrich-Ebert-Stiftung.
+
+Zick, A., Hövermann, A., & Krause, D. (2012). Die Abwertung von Ungleichwertigen. In 
+W. Heitmeyer (Hrsg.), Deutsche Zustände. Folge 10 (S. 64–86). Berlin: Suhrkamp.
+
+Zick, A., Küpper, B., & Berghan, W. (2019). Verlorene Mitte – Feindselige Zustände 
+Rechtsextreme Einstellungen in Deutschland 2018/19. Bonn: Dietz.
+
+Zietlow, B. (2015). Gewalt gegen Polizeibeamte – DER oder ein Stressfaktor im Polizei-
+alltag? In A. Fischbach, J. Boltz & P. W. Lichtenthaler (Hrsg.), Stark trotz Stress – 
+Gesundheit und Leistungsfähigkeit in der Polizei (S. 44–68). Frankfurt am Main: Verlag 
+für Polizeiwissenschaft.
+
+Prof. Dr. Eva Groß ist Professorin für Kriminologie und Soziologie an der Hochschule 
+in der Akademie der Polizei Hamburg. Ihre soziologischen und kriminologischen Unter-
+suchungsperspektiven, u. a. auf die Themen vorurteilsmotivierte Kriminalität/Hass-
+kriminalität, Gruppenbezogene Menschenfeindlichkeit und Kriminalitätswahrnehmungen, 
+schließen dabei an die Radikalisierungsforschung, empirische Polizeiforschung und 
+Dunkelfeldforschung an.
+
+
+
+Ursachen und Präventionsmöglichkeiten … 179
+
+Prof. Dr. Julia Clasen ist Professorin für Arbeits- und Organisationspsychologie an der 
+Hochschule in der Akademie der Polizei Hamburg. Ihre Forschungsschwerpunkte sind 
+die Themen Wirkung von Arbeit, Arbeitsanalyse, betriebliche Gesundheitsförderung und 
+Evaluation.
+
+Prof. Dr. Andreas Zick ist Direktor des Instituts für interdisziplinäre Konflikt- und 
+Gewaltforschung (IKG) und Professor für Sozialisation und Konfliktforschung an der Uni-
+versität Bielefeld.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

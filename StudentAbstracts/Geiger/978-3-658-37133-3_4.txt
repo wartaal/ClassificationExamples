@@ -1,0 +1,1198 @@
+﻿Menschenrechtliche Grundlagen 
+polizeilicher Praxis
+
+Cengiz Barskanmaz
+
+Zusammenfassung
+
+Als einer der Grundpfeiler der freiheitlich demokratischen Grundordnung 
+sind Menschenrechte für die polizeiliche Arbeit unverzichtbar. Im Kontext 
+der polizeilichen Praxis erlangt das allgegenwärtige Diskriminierungsverbot 
+aufgrund der Rasse zentrale Bedeutung. Mit der Antirassismuskonvention 
+(ICERD 1965), der europäischen Menschenrechtskonvention (EMRK 1949) 
+und der europäischen Grundrechtecharta (GRC 2009) ist mittlerweile ein 
+wirksames Normengeflecht gegen Menschenrechtsverletzungen in der polizei-
+lichen Praxis vorhanden. Das ICERD und die EMRK knüpfen an ein den 
+wissenschaftlichen Erkenntnissen entsprechendem Bild von Rassismus an und 
+verpflichten Deutschland zur umfassenden Bekämpfung und Sanktionierung 
+von Rassismus sowohl auf der Rechtsetzung- als auch Rechtsanwendungs-
+ebene. Im datenschutzrechtlichen Bereich wird zudem die GRC eine 
+zunehmende Rolle spielen.
+
+Schlüsselwörter
+
+Menschenrechte · Rassismus · Diskriminierungsverbot aufgrund der Rasse · 
+Polizeigewalt
+
+C. Barskanmaz (*) 
+Sozialwesen, Hochschule Fulda, Fulda, Deutschland
+E-Mail: cengiz.barskanmaz@sw.hs-fulda.de
+
+© Der/die Autor(en) 2022 55
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_4
+
+
+
+56 C. Barskanmaz
+
+1  Einleitung
+
+Polizeiliche Handlungen sind rechtfertigungsbedürftige Eingriffe in die (Grund- 
+und) Menschenrechte, die sowohl völker- als auch unionsrechtlich verankert 
+sind. Menschenrechte gelten unmittelbar und sind auch im Rahmen einer völker-
+rechtsfreundlichen und -konformen Auslegung und Anwendung nationalen 
+Rechts, einschließlich des Verfassungsrechts, stets im Blick zu halten. In 
+diesem Beitrag liegt der Fokus auf dem menschenrechtlichen Diskriminierungs-
+verbot aufgrund der Rasse, das insbesondere in den letzten zwei Jahrzehnten 
+sowohl in den höchstrichterlichen Entscheidungen als auch in den Arbeiten von 
+Menschenrechtsausschüssen eine Belebung, Konturierung und nicht zuletzt eine 
+Dogmatisierung erfahren hat.1 Menschenrechtliche Diskussionen und höchst-
+richterliche Entscheidungen hatten vor allem die Praxis des Diskriminierungs-
+verbots aufgrund der Rasse sowie rechtswidrige Anwendung der Gewalt zum 
+Gegenstand. Auch im Kontext neuer Sicherheitsrechtsarchitektur bleibt das Dis-
+kriminierungsverbot aufgrund der Rasse im Hinblick auf die Gefahrenabwehr 
+relevant.
+
+Dieser Beitrag wird die menschenrechtlichen Vorschriften, die für die polizei-
+liche Praxis relevant sind, systematisch darstellen und im Hinblick auf die im 
+jeweiligen Normbereich entwickelten Grundsätze diskutieren. Zu diesem Zweck 
+werden zwei menschenrechtsrelevante Normebenen herangezogen: Völker- und 
+Unionsrecht. Bevor die Regelwerke dieser beiden Ebenen detailliert ausgearbeitet 
+werden, ist zu fragen, inwiefern das Diskriminierungsverbot aufgrund der Rasse 
+auch zwingendes Völkerrecht ist (Abschn. 2.1). Auf völkerrechtlicher Ebene 
+wird der Fokus insbesondere auf der Antirassismuskonvention (Abschn. 2.2) 
+liegen, nicht zuletzt, weil diese eine praktikable Definition von rassischer Dis-
+kriminierung bietet, die die Bundesregierung für ihre Würdigung national-
+rechtlicher Vorschriften zugrunde legt (Abschn. 2.2.1). Außerdem werden die 
+einschlägigen Allgemeinen Empfehlungen (General Recommendations) des UN-
+Antirassismusausschusses, insbesondere die letzte Allgemeine Empfehlung zu 
+„Preventing and Combating by Law Enforcement Officials“ (2020), diskutiert 
+(Abschn. 2.2.2).
+
+Des Weiteren werden die zu Art. 2, 3 und 14 der Europäischen Menschen-
+rechtskonvention (EMRK) entwickelten Grundsätze in der Rechtsprechung 
+
+1 Für die verfassungsrechtliche Perspektive siehe den Beitrag von Ruch in diesem Band.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 57
+
+des Europäischen Gerichtshofs für Menschenrechte (EGMR) im Hinblick auf 
+polizeiliches Handeln thematisiert. In dieser sehr umfangreichen Rechtsprechung 
+werden die menschenrechtlichen Maßstäbe anhand von Beispielen von polizei-
+licher Gewaltanwendung, Tötung und Gewahrsam eruiert. Hier wird anhand 
+des Verständnisses des Diskriminierungsverbots in seinen materiellen und 
+prozeduralen Aspekten, der Rechtfertigungsanforderungen und der Beweislast-
+regelung gezeigt, dass der EMRK – wie auch der Antirassismuskonvention ein 
+strukturelles Verständnis von Rassismus zugrunde liegt (Abschn. 2.3).
+
+Auf unionsrechtlicher Ebene werden das Diskriminierungsverbot aus Art. 21 
+EU-Grundrechtecharta GRC und die Rechtsprechung zum Schengener Grenz-
+kodex vorgestellt. Die Rechtsprechung des Gerichtshofs der Europäischen Union 
+bietet für die Interpretation nationaler Polizei- bzw. Sicherheits- und Ordnungs-
+gesetze eine wichtige menschenrechtliche Orientierung.
+
+2  Völkerrechtliche Grundlagen
+
+Das Verbot der Diskriminierung aufgrund der Rasse ist im Völkerrecht all-
+gegenwärtig. Neben der Allgemeinen Erklärung der Menschenrechte (AEMR) 
+enthalten nahezu alle UN-Konventionen ein Verbot der Diskriminierung aus 
+Gründen der Rasse innerhalb ihrer allgemeinen Diskriminierungsklauseln, 
+exemplarisch sei hier auf Art. 2, 26 UN-Zivilpakt2 sowie Art. 2 Abs. 2 UN-Sozial-
+pakt verwiesen. Im Bereich von rassistisch motivierter Gewalt, einschließlich 
+solcher Gewalt, die im Kontext von Polizeiarbeit auftreten kann, rücken ins-
+besondere das Internationale Übereinkommen zur Bekämpfung aller Formen 
+rassischer Diskriminierung (ICERD 1965) und die europäische Konvention zum 
+Schutze der Menschenrechte und Grundfreiheiten (EMRK 1950) in den Vorder-
+grund. Die wichtigen Beiträge des Menschenrechtsausschusses3 sowie des Aus-
+schusses gegen Folter sollten an dieser Stelle ebenso Erwähnung finden.4
+
+2 Internationaler Pakt über bürgerliche und politische Rechte (Zivilpakt 1966) und der Inter-
+nationale Pakt über wirtschaftliche, soziale und kulturelle Rechte (Sozialpakt 1966).
+3 Der Ausschuss gegen Folter zeigte sich besorgt über Gewalt und rassistisches Verhalten 
+von Polizeibeamt:innen und Ausländerbehörden gegenüber rassifizierten Personen, vgl. 
+CAT, Abschließende Bemerkungen zur Schweiz, 2015, CAT/C/CHE/CO/7, Rn. 10.
+4 Kälin (2020), Rn. 24.
+
+
+
+58 C. Barskanmaz
+
+2.1  Das Diskriminierungsverbot aufgrund der Rasse als 
+zwingendes Völkerrecht
+
+Über seinen völkergewohnheitsrechtlichen Charakter hinaus, stellt sich die Frage, 
+inwiefern das Verbot rassischer Diskriminierung auch als zwingendes Völker-
+recht (ius cogens) gilt. Das ist insofern wichtig, weil Menschenrechte mit einem 
+ius cogens Charakter abwägungsfest sind.5 In der deutschen Fachliteratur, wird 
+der ius cogens Charakter des Diskriminierungsverbots aufgrund der Rasse nicht 
+eindeutig beantwortet.6 Der Internationale Gerichtshof hat dem Verbot der Dis-
+kriminierung aufgrund der Rasse eine erga omnes Wirkung zugeschrieben.7 
+Weitere Belege lassen sich in den Arbeiten von dem International Law 
+Committee finden.8 Auch in der internationalen Literatur findet diese Rechtsauf-
+fassung weitgehend Zustimmung.9
+
+Teilweise wird argumentiert, dass lediglich dem Verbot von systematischen, 
+staatlich geförderten Formen von rassischer Diskriminierung wie etwa 
+Apartheid der Charakter des ius cogens zukommt. Dies kann schon deshalb 
+nicht überzeugen, weil die Geschichte des Rassismus an Belegen überfüllt 
+ist, dass Rassismus nur strukturell erfasst werden kann und erst durch staat-
+liche Diskriminierungspolitiken begründet wurde und wird: paradigmatisch 
+und exemplarisch: Segregation, Apartheid, NS-Rassenpolitik. Genau das ist der 
+wesentliche Grund, warum völkerrechtliche – und auch verfassungsrechtliche – 
+Diskriminierungsverbote primär vor staatlichen Ungleichbehandlungen schützen 
+sollen. Eine Grenzziehung zwischen krassen (z. B. Apartheid) und vermeintlich 
+weniger gravierenden Formen staatlicher Diskriminierungspraktiken ist außerdem 
+historisch und sachlich kaum zu rechtfertigen. Zudem können „weniger krasse“ 
+Formen von rassischer Diskriminierung ebenso systematisch erfolgen, etwa – und 
+gerade – beim Racial Profiling oder bei anderen kriminalpolitischen Maßnahmen, 
+die entlang der Einteilungen nach Rasse, ethnischer Herkunft, Hautfarbe und 
+
+5 Vgl. Hong (2019).
+6 Bestätigend Langenfeld (2020), Art. 3 Abs. 3 Rn. 48 m.w.N.; Wollenschläger (2015), Art. 
+25 Rn. 18; nicht bestätigend Aust (2021), Art. 25 Rn. 15; Herdegen (2020), Art. 25 Rn. 32.
+7 In IGH, Urt. v. 24.07.1964 – Barcelona Traction, Rn. 34 wurde dem Diskriminierungs-
+verbot aufgrund der Rasse eine erga omnes wirkung zugeschrieben.
+8 ILO, Kap. 5: Peremptory Norms in General International Law, S. 146 f., unter: https://
+legal.un.org/ilc/reports/2019/english/chp5.pdf. Zugegriffen: 05. November 2021.
+9 De Schutter (2019), S. 85–89; Lerner (2015), S. XXV m.w.N.; Malaihollo (2017), 
+S. 138 f.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 59
+
+in der neuen Sicherheitsarchitektur aufgrund des Merkmals Religion gestaltet 
+werden.10 Die Historie der Völkermorde veranschaulicht nicht zuletzt, dass diesen 
+immer eine Phase von Staatspraktiken mit „weniger krassen“ rassischen Dis-
+kriminierung und Entrechtungen vorangingen.11 Daher spricht Vieles dafür, das 
+Diskriminierungsverbot aufgrund der Rasse kategorisch als zwingendes Völker-
+recht zu verstehen. Folglich scheidet eine Rechtfertigung von rassischer Dis-
+kriminierung aus. Aus dem ius cogens Charakter des Diskriminierungsverbotes 
+aufgrund der Rasse lässt sich zudem schlussfolgern, dass dieses auch für Staaten, 
+die menschenrechtliche Verträge mit einem solchen Diskriminierungsverbot nicht 
+ratifiziert haben, verbindlich ist.12
+
+2.2  Antirassismuskonvention
+
+Das Internationale Übereinkommen zur Beseitigung jeder Form von rassischer 
+Diskriminierung vom 21. Dezember 1965 (ICERD, Antirassismuskonvention)13 
+gilt seit der Ratifikation Deutschlands als Bestandteil des bundesdeutschen 
+Rechts und erzeugt damit unmittelbare Wirkung.14
+
+2.2.1 A rt. 1 Abs. 1 ICERD: Diskriminierungsverbot aufgrund 
+der Rasse
+
+Die Antirassismuskonvention ist der erste rechtsverbindliche Text mit einer 
+Legaldefinition von rassischer Diskriminierung.15 Gemäß Art. 1 Abs. 1 
+
+10 Im Zusammenhang mit der Sicherheitsrechtsarchitektur, siehe Samour (2020); hinsicht-
+lich rassialisierender Selektivitäten im Strafrecht, siehe Singelnstein (2022).
+11 Vgl. Moses (2021), wonach Genoziden, als Ergebnis eines Imperativs der permanenten 
+Sicherheit, stets diskriminierende Staatspraktiken vorangehen.
+12 Siehe dazu: Barskanmaz (2019), S. 145 f.
+13 BGBl. (1969) II, S. 961, in der Bundesrepublik Deutschland in Kraft getreten am 15. Juni 
+1969.
+14 Vgl. dazu ausführlich: Barskanmaz (2019), S. 183–249.
+15 Im deutschen Vertragstext wird der Begriff in Vergleich zu den authentischen Text-
+fassungen, die von „racial discrimination“ (Englisch), „discrimination raciale“ (Französisch) 
+und „discriminación racial“ (Spanisch) sprechen, mit „rassistische Diskriminierung“ über-
+setzt. Da der Vertragstext nicht das Adjektiv „racist“, sondern „racial“ verwendet, muss 
+die Übersetzung konsequenterweise „rassische Diskriminierung“ sein, weshalb dieser 
+Begriff auch im vorliegenden Text so verwendet wird, vgl. zur ausführlichen Begründung: 
+Barskanmaz (2019), S. 190 f.
+
+
+
+60 C. Barskanmaz
+
+ICERD ist unter „rassischer Diskriminierung“ jede auf der Rasse, der Haut-
+farbe, der Abstammung, der nationalen oder ethnischen Herkunft16 beruhende 
+Unterscheidung, Ausschließung, Beschränkung oder Bevorzugung zu ver-
+stehen, die zum Ziel oder zur Folge hat, dass dadurch ein gleichberechtigtes 
+Anerkennen, Genießen oder Ausüben von Menschenrechten und Grundfrei-
+heiten im politischen, wirtschaftlichen, sozialen, kulturellen oder in jedem 
+sonstigen Bereich des öffentlichen Lebens vereitelt oder beeinträchtigt wird. 
+Der Anwendungsbereich der Antirassismuskonvention erstreckt sich auf 
+den politischen, wirtschaftlichen, sozialen, kulturellen und jeden sonstigen 
+öffentlichen Bereich (Art. 1 Abs. 1 ICERD).17
+
+Aus Art. 1 Abs. 1 ICERD lassen sich folgende Strukturmerkmale ableiten: 
+Erstens die Diskriminierungsmerkmale Rasse, Hautfarbe, Abstammung, nationale 
+oder ethnische Herkunft, die als Tatbestandsmerkmale rassische Diskriminierung 
+(umfassend) erfassen sollen. Diese sind in der Konvention nicht näher definiert. 
+Merkmale wie Religion und Sprache fehlen, obwohl diese rassistische Hand-
+lungen mitbedingen oder begründen können. Zudem normiert die Konvention 
+eine Ausnahme für Ungleichbehandlungen aufgrund der Staatsangehörigkeit.18 
+Eine unterschiedliche Behandlung muss zweitens in einer Unterscheidung, 
+Ausschließung, Beschränkung oder Bevorzugung liegen. Dies soll anhand 
+eines Vergleiches zweier Sachverhalte festgestellt werden. Drittens muss ein 
+Zusammenhang bzw. Kausalität zwischen Handlung und Diskriminierungs-
+merkmal vorliegen, das heißt, die Ungleichbehandlung muss auf dem Dis-
+kriminierungsmerkmal „beruhen“ (based on) bzw. „aufgrund von“ (on the 
+grounds of) dem Diskriminierungsmerkmal erfolgen.19 Dabei genügt es, wenn 
+
+16 In der Übersetzung wird der Begriff „Volkstum“ verwendet. Dieser lautet allerdings im 
+authentischen Text „ethnic origin“, sodass dies – auch in terminologischen Anschluss mit 
+neueren deutschen Rechtstexten wie dem AGG – eher mit „ethnischer Herkunft“ übersetzt 
+werden sollte.
+17 Im Sommer 2017 beschloss die Bundesregierung den „Aktionsplan gegen Rassismus – 
+Positionen und Maßnahmen zum Umgang mit Ideologien der Ungleichwertigkeit und den 
+darauf bezogenen Diskriminierungen“ (NAP), in welchem unter anderem festgelegt wird, 
+dass die Definition von rassischer Diskriminierung aus Art. 1 Abs. 1 ICERD in der Ver-
+waltung, bei Gerichten und im Sicherheitsbereich bekannt gemacht und darauf hingewirkt 
+werden soll, dass diese Definition auch in der behördlichen Praxis als Maßstab angewandt 
+wird, vgl. S. 47. http://www.bmjv.de/SharedDocs/Publikationen/DE/ICERD.pdf?__
+blob=publicationFile&v=4. Zugegriffen: 05. November 2021.
+18 Vgl. Barskanmaz (2019), S. 192–211.
+19 CERD, General Recommendation No. 14 v. 22.03.1993.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 61
+
+die Ungleichbehandlung nicht ausschließlich auf das Diskriminierungsmerkmal 
+Rasse zurückgeführt werden kann, sondern Rasse neben weiteren Faktoren die 
+Ungleichbehandlung mit sich bringt. Dies ist im Lichte des Zwecks der Kon-
+vention, umfassenden Schutz vor Diskriminierung zu garantieren, zu sehen. 
+Eine vierte Voraussetzung für das Vorliegen einer rassischen Diskriminierung ist 
+Absicht oder diskriminierende also nicht notwendigerweise intendierte Wirkung 
+sowie Nachteil bzw. Schaden, welcher in der Vereitelung oder Beeinträchtigung 
+der Anerkennung des Genusses und der Ausübung von Menschenrechten und 
+Grundfreiheiten liegen kann.20 Der Ausschuss sieht im Tatbestandsmerkmal der 
+„diskriminierenden Wirkung“ den Verweis auf mittelbare Diskriminierung, auch 
+wenn die mittelbare Diskriminierung nicht in der Definition der „rassischen 
+Diskriminierung“ in Art. 1 Abs. 1 ICERD enthalten ist. Für diese weite Aus-
+legung spricht auch Art. 2 Abs. 1 lit. c ICERD21 (sogleich unten) sowie All-
+gemeine Empfehlungen des CERD22. Eine mittelbare Diskriminierung liegt dann 
+vor, wenn ein Verfahren, ein Kriterium oder eine Maßnahme zunächst neutral 
+erscheinen, faktisch aber eine bestimmte Gruppe benachteiligt.
+
+Art. 1 Abs. 1 ICERD legt also ein differenziertes Verständnis von Dis-
+kriminierung zugrunde, insbesondere verdeutlicht dieser, dass danach Rassis-
+mus kein Problem individueller Vorurteile darstellt, sondern institutionell und 
+strukturell in der Gesellschaft verankert ist, einschließlich in staatlichen Ein-
+richtungen. Die Kategorien Rasse und Ethnizität sind als soziale Konstruktion zu 
+verstehen und beruhen deshalb gerade nicht auf der Vorannahme, es existierten 
+homogene oder biologische rassische und ethnische Gruppen.23
+
+2.2.2 A rt. 2 Abs. 1 ICERD: Staatliche Verpflichtungen
+Art. 2 Abs. 1 ICERD normiert staatliche Verpflichtungen in Bezug auf die 
+Bekämpfung von rassischer Diskriminierung und ist damit charakteristisch 
+
+20 Barskanmaz (2019), S. 214 ff.
+21 „Für die mittelbare Diskriminierung spricht hingegen Art. 2 Abs. 1 lit. c ICERD wonach 
+die Vertragsstaaten dazu verpflichtet sind, wirksame Maßnahmen zu treffen, um alle 
+Gesetze und sonstigen Vorschriften zu ändern, aufzuheben oder für nichtig zu erklären, die 
+eine rassische Diskriminierung bewirken, oder bereits bestehende Diskriminierungen zu 
+beenden.“, Barskanmaz (2019), S. 216.
+22 CERD, Allgemeine Empfehlung Nr. 14 v. 22.03.1993, Definition von Diskriminierung, 
+Rn. 1.
+23 Barskanmaz (2019), S. 248 m.w.N.
+
+
+
+62 C. Barskanmaz
+
+für ein Menschenrechtsregelwerk. Nach Art. 2 Abs. 1 ICERD sind rassisch 
+diskriminierende Handlungen und Strukturen in allen staatlichen Behörden 
+zu beseitigen. Die Antirassismuskonvention begründet keine unmittelbaren 
+subjektiven Rechte, sondern verpflichtet lediglich die Vertragsstaaten, umfang-
+reiche Maßnahmen zu ergreifen.24 In Bezug auf staatliche Handlungen inklusive 
+solche der Polizei sind insbesondere lit. a, der sowohl eine Unterlassungs- als 
+auch Gewährleistungspflicht normiert, und lit. c25, der die Vertragsstaaten dazu 
+verpflichtet staatliche Politiken im Hinblick auf Rassendiskriminierung zu über-
+prüfen, von Bedeutung.26
+
+Art. 2 Abs. 1 lit. a ICERD verpflichtet die Staaten einerseits mit allen 
+geeigneten Mitteln unverzüglich eine Politik der Beseitigung der rassischen 
+Diskriminierung in jeder Form und der Förderung des Verständnisses unter 
+allen rassischen bzw. ethnischen oder nationalen Gruppen zu verfolgen und zu 
+diesem Zweck „Handlungen oder Praktiken der Rassendiskriminierung gegen-
+über Personen, Personengruppen oder Einrichtungen zu unterlassen“ (sog. 
+Unterlassungspflicht), und andererseits „dafür zu sorgen, dass alle staatlichen 
+und örtlichen Behörden und öffentlichen Einrichtungen im Einklang mit dieser 
+Verpflichtung handeln“ (sog. Gewährleistungspflicht). Adressat der Pflichten 
+aus Art. 2 Abs. 1 lit. a ICERD ist der Vertragsstaat. Er muss gewährleisten, dass 
+Behörden auf nationaler und lokaler Ebene das Diskriminierungsverbot ein-
+halten. Der Begriff der „staatlichen und örtlichen Behörden“ ist im Hinblick auf 
+den Zweck der Konvention weit und unabhängig vom nationalen Verständnis von 
+„Behörden“ auszulegen. Mit „Behörden“ im Sinne der Konvention sind staat-
+liche Verwaltungsorgane gemeint, die unter einem unmittelbaren oder mittelbaren 
+
+24 Barskanmaz (2019), S. 188 f.
+25 „Daneben verpflichtet lit. b die Vertragsstaaten, rassische Diskriminierung durch (private) 
+Personen oder Organisationen weder zu fördern noch zu schützen, noch zu unterstützen, 
+also ebenso eine Unterlassungspflicht. Lit b. wird durch lit d. dahingehend ergänzt, dass 
+der Staat über eine Unterlassung hinaus verpflichtet wird, rassische Diskriminierungs-
+handlungen von Personen, Gruppen oder Organisationen zu verbieten und bestehende Dis-
+kriminierungspraxen mit allen geeigneten Mitteln, einschließlich Gesetzgebung, wenn die 
+Umstände es erforderlich machen, zu beenden. Schließlich enthält lit. e die Verpflichtung 
+zur Unterstützung von multirassischen Organisationen und Bewegungen mit Integrations-
+zwecken, zur Förderung von sonstigen Mitteln zur Beseitigung von rassischen Schranken 
+und zum Entgegenwirken von rassischer Trennung.“, vgl. Barskanmaz (2019), S. 189.
+26 Barskanmaz (2020), Art. 2 Rn. 5. In Bezug auf die Ausbildung im Menschenrechtsschutz 
+für die Polizei ist insbesondere CERD, Allgemeine Empfehlung Nr. 13 v. 16.03.1993 zu 
+erwähnen.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 63
+
+Weisungsrecht stehen.27 Für die Polizei ist dies unproblematisch zu bejahen. Die 
+Unterlassungspflicht umfasst sowohl die mittelbare als auch die unmittelbare Dis-
+kriminierung.28
+
+Art. 2 Abs. 1 lit. c ICERD normiert die staatliche Verpflichtung zur Über-
+prüfung von staatlichen Politiken. Die Vertragsstaaten müssen also wirksame 
+Maßnahmen treffen, um das Vorgehen der Behörden zu überprüfen, und alle 
+Gesetze und sonstige Vorschriften ändern, aufheben oder für nichtig erklären, die 
+eine rassische Diskriminierung – oder dort, wo eine solche bereits besteht, ihre 
+Fortsetzung – bewirken.
+
+Wenn der Vertragsstaat sich Art. 14 unterworfen hat, können Betroffene von 
+Diskriminierung (Individuen oder Personengruppen, einschließlich juristischer 
+Interessenvereine) individuell gegen den Staat verfahren, wenn dieser seinen Ver-
+pflichtungen nicht nachkommt in dem Sinne, dass entweder legislativ gar keine 
+Rechte eingeräumt wurden oder im Einzelfall gerichtlicher oder behördlicher 
+Rechtsschutz nicht gewährt wurde, z. B. wenn „die Verweigerung der Strafver-
+folgung durch die nationalen Behörden offensichtlich willkürlich ist oder auf eine 
+Rechtsverweigerung hinausläuft.“29 In diesem Sinne begründet die Antirassis-
+muskonvention über die positiven Verpflichtungen hinaus – jedenfalls in Art. 4, 5 
+und 6 ICERD – auch subjektive Rechte gegen den Vertragsstaat.30 Schließlich ist 
+festzuhalten, dass bei der Erfüllung ihrer Verpflichtungen den Vertragsstaaten ein 
+Ermessensspielraum zukommt.31
+
+2.2.3 A rt. 4 ICERD: Verpflichtungen zu strafrechtlicher 
+Bekämpfung von Rassismus
+
+Deutschland ist nach Art. 4 ICERD zudem verpflichtet, einen strafrecht-
+lichen Rahmen zur Bekämpfung rassisch diskriminierender Äußerungen und 
+Handlungen zu schaffen.32 Dazu gehört die Inkriminierung der Verbreitung 
+von rassistischen Ideen und des Aufreizens oder Unterstützung rassischer 
+
+27 Barskanmaz (2020), Art. 2 Rn. 20.
+28 Barskanmaz (2020), Art. 2 Rn. 14.
+29 CERD, Mitteilung v. 08.08.2007, Nr. 40/2007 – Murat Er/Dänemark, Rn. 7.2; zuletzt in 
+CERD, Mitteilung v. 26.02 2013, Nr. 48/2010 – Türkischer Bund in Berlin-Brandenburg 
+e. V./Deutschland, Rn. 12.5.
+30 CERD, Mitteilung v. 22.05.2005, Nr. 30/2003 – Jüdische Gemeinde Oslo et al./
+Norwegen, Rn. 7.3; eingehend Payandeh (2020), Art. 4 Rn. 83 f.
+31 Vgl. CERD, Mitteilung v. 08.08.2007, Nr. 40/2007 – Murat Er/Dänemark, Rn. 4.6.
+32 Payandeh (2020), Art. 4 Rn. 5.
+
+
+
+64 C. Barskanmaz
+
+ Diskriminierung, die gesetzliche Untersagung rassistischer Organisationen 
+oder sonstiger Propagandatätigkeiten, die Unterbindung der Förderung der Dis-
+kriminierung durch staatliche Behörden bzw. öffentliche Einrichtungen.33 
+Gerade die Verpflichtung für staatliche Behörden erscheinen im Hinblick auf 
+die zahlreichen Vorfälle in unterschiedlichen landespolizeilichen Behörden, in 
+denen rechtsextreme Chatgruppen Strukturen aufgedeckt wurden, relevant.34 
+Dementsprechend obliegt es nach der Antirassismuskonvention der Bundes-
+republik Deutschland, neben dienstrechtlichen Maßnahmen auch einen wirk-
+samen menschenrechtsorientierten strafrechtlichen Rahmen für diskriminierende 
+Praktiken und Propagandatätigkeiten zu schaffen.35
+
+2.2.4 U N-Ausschuss gegen Rassismus (CERD)
+Im Hinblick auf polizeiliche Praktiken liegen mittlerweile einige Allgemeine 
+Empfehlungen des UN-Antirassismusausschusses vor, die regelmäßig auf die 
+Dringlichkeit und Notwendigkeit einer antirassistischen und menschenrechts-
+geleiteten polizeilichen Arbeit hinweisen. In seiner Allgemeinen Empfehlung 
+Nr. 30 zur Diskriminierung von Nicht-Staatsangehörigen36 werden die Ver-
+tragsstaaten zur Einhaltung der Menschenrechte gegenüber allen ausländischen 
+Personen unabhängig von ihrem Aufenthaltsstatus gemahnt. Speziell müssten die 
+Staaten garantieren, dass Gesetzgebung keine diskriminierenden Auswirkungen 
+auf Nicht-Staatsbürger:innen hat37, und insbesondere rassistischem Verhalten 
+von Polizei entgegen zu wirken.38 Zu diesem Zweck seien auch menschenrechts-
+orientierte (Weiter)Bildungsangebote geboten, eine Empfehlung, die bereits 
+in der früheren kurzen Allgemeinen Empfehlung Nr. 1339 (1993) enthalten 
+war. Sicherheitsrechtlich relevant verweist der Ausschuss zudem auf mögliche 
+
+33 Dies folgt auch bereits aus dem in Art. 3 Abs. 3 S. 1 GG verankerten Benachteiligungs-
+verbot aufgrund der Rasse, das im Lichte der Vorgaben der Antirassismuskonvention auszu-
+legen ist; dazu Ruch in diesem Band.
+34 Für einen Überblick der Vorfälle, siehe https://www1.wdr.de/nachrichten/uebersicht-
+polizei-rechtsextremismus-100.html.
+35 Zuletzt noch in CERD, Mitteilung v. 26.02.2013, Nr. 48/2010 – Türkischer Bund in 
+Berlin-Brandenburg e. V./Deutschland, Rn. 12.3.
+36 CERD, General Recommendation No. 30 v. 12.03.2004.
+37 CERD, General Recommendation No. 30 v. 12.03.2004, Rn. 7.
+38 CERD, General Recommendation No. 30 v. 12.03.2004, Rn. 21.
+39 CERD, General Recommendation No. 13 v. 16.03.1993.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 65
+
+Gefahren der Stereotypisierung und Reproduktion von Vorurteilen, die bei der 
+Terrorismusbekämpfung aufkommen können.40
+
+In der Allgemeinen Empfehlung Nr. 31 des Ausschusses zur Rassismusprä-
+vention in der Verwaltung und im Strafrechtssystem von 201541 werden die Ver-
+tragsstaaten aufgefordert, Indikatoren für rassistisches Verhalten, bspw. durch die 
+Erhebung von Daten zu Betroffenen von Gewalthandlungen durch die Polizei 
+oder sonstige Sicherheitskräfte, zu bestimmen, und dabei die Pluralität der 
+Betroffenengruppen zu berücksichtigen.42 Die geringe Anzahl an Beschwerden 
+über das Verhalten der Polizei dürfe dabei nicht als Realität verstanden werden.43
+
+In seiner (bisher umfangreichsten) Allgemeinen Empfehlung Nr. 36 zur Prä-
+vention und Bekämpfung von Rassismus durch Justizbeamt:innen hebt der 
+Ausschuss hervor, dass diskriminierende Kontrollen der Polizei basierend auf 
+„Rasse, Hautfarbe, Abstammung, nationaler oder ethnischer Herkunft“ in den 
+Anwendungsbereich des allgemeinen Diskriminierungsverbotes (Art. 2 ICERD), 
+sowie des Grundsatzes der Gleichheit vor dem Gesetz (Art. 5 ICERD) fallen, 
+und somit strengstens verboten sind.44 Unter „Racial Profiling“ versteht der UN-
+Antirassismusausschuss eine „Praxis, bei der Angehörige der Polizei und andere 
+Vollzugsbehörden in einem bestimmten Grad die Rasse, Hautfarbe, Abstammung 
+oder nationale oder ethnische Herkunft als Grundlage für Ermittlungen gegen 
+Personen oder für die Feststellung, ob eine Person einer kriminellen Tätig-
+keit nachgeht, heranziehen“45. Der Ausschuss betont auch, dass rassische 
+Diskriminierung oft mit anderen Diskriminierungsgründen, etwa Religion, 
+Geschlecht, sexuelle Orientierung und Geschlechtsidentität, Behinderung, Alter, 
+Migrationsstatus und Erwerbs- oder sonstiger Status einhergehen.46 Staaten 
+müssten gegen Racial Profiling vorgehen, indem sie u. a. folgende Maßnahmen 
+ergreifen: Entwicklung von exakten Leitlinien für P ersonenkontrollen, 
+
+40 CERD, General Recommendation No. 13 v. 16.03.1993, Rn. 10.
+41 CERD, General Recommendation No. 31 v. 19.08.2005.
+42 CERD, General Recommendation No. 31 v. 19.08.2005, Rn. 1 ff.
+43 „States parties should take the necessary steps to prevent questioning, arrests and 
+searches which are in reality based solely on the physical appearance of a person, that 
+person’s colour or features or membership of a racial or ethnic group, or any profiling 
+which exposes him or her to greater suspicion.“, CERD, General Recommendation No. 31 
+v. 19.08.2005, Rn. 20.
+44 CERD, General Recommendation No. 36 v. 24.11.2020, Rn. 23.
+45 CERD, General Recommendation No. 36 v. 24.11.2020, Rn. 18.
+46 CERD, General Recommendation No. 36 v. 24.11.2020, Rn. 18.
+
+
+
+66 C. Barskanmaz
+
+ Menschenrechtsbildung und Sensibilisierung von Polizeibeamt:innen, auch 
+im Hinblick auf intersektionale Diskriminierung, Einführung von Quoten für 
+marginalisierte Gruppen innerhalb staatlicher Behörden und der Polizei, Inter-
+aktion der Polizei auf Augenhöhe mit rassialisierten Gruppen, Einführung 
+einer vom Justizapparat unabhängigen Beschwerdestelle, und Maßnahmen ins-
+besondere in Bezug auf diskriminierende Effekte, die durch den Einsatz von 
+Algorithmen und Künstlicher Intelligenz (KI) entstehen können.47
+
+Nicht unbedeutend ist schließlich der Verweis des UN-Antirassismus-
+ausschusses auf die negativen Folgen von Racial Profiling für die Opfer: 1) 
+Bestimmte Kategorien von Personen werden durch Racial Profiling über-
+kriminalisiert, 2) Stereotypisierungen und Assoziationen zwischen Straffälligkeit 
+und ethnischer Zugehörigkeit werden verstärkt und missbräuchliche operative 
+Praktiken werden kultiviert, 3) die Inhaftierungsraten für rassialisierte Gruppen 
+steigen durch Racial Profiling, 4) Angehörige rassialisierter Gruppen sind 
+stärker der Gefahr des Gewalt- oder Amtsmissbrauchs durch Polizei ausgesetzt, 
+5) rassische Diskriminierung und Hassstraftaten werden seltener angezeigt 
+und 6) Gerichte verhängen härtere Strafen gegen Angehörige der betroffenen 
+Bevölkerungsgruppen.48
+
+Speziell zu Deutschland49 hat der Ausschuss bereits in seinem letzten 
+Schlussbericht50 aus 2015 seine Sorge über den sehr weiten Anwendungs-
+bereich des § 22 Abs. 1 Bundespolizeigesetzes ausgedrückt. Die Vorschrift 
+führe faktisch zu rassischer Diskriminierung. Zumal die Polizei die Kontrollen 
+auf „das Gefühl für bestimmte Situationen“ oder auf „das äußere Erscheinungs-
+bild einer Person“ abstelle, so der Ausschuss. Außerdem sei das Fehlen umfang-
+reicher rassismussensibler Daten zu den Opfern von willkürlichen rassistischen 
+Kontrollen ein großes Hindernis. Neben einer Änderung des § 22 Abs. 1 Bundes-
+polizeigesetz forderte der Ausschuss die Einführung von spezifischen Modulen 
+in die Aus- und Fortbildungseinheiten der Polizei und Sicherheitsüberprüfungen 
+
+47 CERD, General Recommendation No. 36 v. 24.11.2020, Rn. 39, 41 ff., 46 f., 52 ff., 58 ff.
+48 CERD, General Recommendation No. 36 v. 24.11.2020, Rn. 30.
+49 Auch Österreich und der Schweiz empfahl der Menschenrechtsausschuss in seinem 
+Staatenbericht gesetzlich eindeutig zu verbieten, Polizeibeamt:innen im Hinblick darauf 
+auszubilden und bei Verstößen das Verhalten zu sanktionieren, vgl. CCPR, Abschließende 
+Bemerkungen zu Österreich, CCPR/C/AUT/CO/5 (2015), Rn. 19 f.; CCPR, Abschließende 
+Bemerkungen zur Schweiz, CCPR/C/CHE/CO/4 (2017), Rn. 22 f., 28 f.
+50 CERD, Concluding Observations on the combined nineteenth to twenty-second periodic 
+reports of Germany v. 15.05.2015, Rn. 7 f. (CERD/C/DEU/CO/19–22).
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 67
+
+von Polizeianwärter:innen, die Einrichtung unabhängiger Beschwerdeverfahren 
+im Bund und in den Ländern, um polizeiliche diskriminierende Handlungen zu 
+untersuchen und die Durchführung umgehender, gründlicher und unparteiischer 
+Ermittlungen zu allen Anschuldigungen von Racial Profiling. Dabei sollten die 
+Verantwortlichen zur Rechenschaft gezogen werden sowie wirksame Rechts-
+mittel, z. B. Entschädigung und Garantien der Nicht-Wiederholung, vorgesehen 
+werden.51
+
+2.2.5  UN-Menschenrechtsausschuss
+Neben der Entscheidungs- und Empfehlungspraxis des Antirassismusausschusses, 
+ist auf die Arbeiten des UN-Menschenrechtsausschusses hinzuweisen.52 Dieser 
+verlangt wie der UN-Ausschuss gegen Rassismus z. B. von Staaten regelmäßig, 
+dass rassistisch motivierte Polizeigewalt durch die Polizei oder andere Staats-
+organe untersucht und sanktioniert wird.53 So stellte der Menschenrechts-
+ausschusses in einem Fall gegen Griechenland, in dem ein Angehöriger der 
+Sinti:zze und Romn:ja behauptete, von der Polizei misshandelt und während-
+dessen rassistisch beschimpft worden zu sein, fest, dass das jahrelange Verzögern 
+einer Untersuchung nicht nur das Verbot unmenschlicher und erniedrigender 
+Behandlung verletze, sondern auch akzessorisch das Diskriminierungsverbot aus 
+Art. 2 Abs. 2 des Zivilpaktes (ICCPR).54
+
+51 CERD, Concluding Observations on the combined nineteenth to twenty-second periodic 
+reports of Germany v. 15.05.2015, Rn. 11.
+52 Der UN-Menschenrechtsausschuss, auch bekannt als Ausschuss für bürgerliche und 
+politische Rechte, ist ein Kontrollorgan, welches die Umsetzung und Einhaltung des UN-
+Zivilpaktes überwacht.
+53 Außerdem fordert der Ausschuss, dass unabhängige Beschwerdestellen eingerichtet 
+werden, damit rassistische Hintergründe eines Falls konsequent von Amts wegen ermittelt 
+werden. Schließlich sollen nach dem Menschenrechtsausschuss Polizist:innen rassis-
+muskritisch geschult werden. Wenn der Verdacht einer rassistisch motivierten Straftat im 
+Raum steht, ist gemäß der Praxis des Menschenrechtsausschusses, nicht nur die Tat selbst, 
+sondern auch das der Tat zugrunde liegende Motiv zu untersuchen. Sollte ein solches Motiv 
+bejaht werden, so ist dieses bei Strafzumessung zu berücksichtigen, um die Schwere der 
+Tat angemessen zu sanktionieren, vgl. Kälin (2020), Rn. 25 f.
+54 CCPR, Nikolaos Katsaris v Griechenland, CCPR/C/105/D/1558/2007 (2012), 
+Rn. 10.1 ff.; In dem Fall Rosalind Williams Lecraft/Spanien (CCPR/C/295/D/1493/2006 
+(2009), Rn. 7.4.) stellte der Menschenrechtssausschuss die Verletzung von Art. 26 i.V.m. 
+Art. 2 Abs. 3 ICCPR fest, weil die Beschwerdeführerin im Gegensatz zu weißen Personen 
+vor Ort von der Polizei kontrolliert wurde.
+
+
+
+68 C. Barskanmaz
+
+2.3  Europäische Menschenrechtskonvention
+
+Die Konvention zum Schutz der Menschenrechte und Grundfreiheiten 
+(Europäische Menschenrechtskonvention, EMRK)55, die 1950 vom Europarat 
+verabschiedet wurde, ist das wichtigste (regionale) Regelungswerk zu Menschen-
+rechten in Europa.56 Im Hinblick auf institutionellen Rassismus ist insbesondere 
+das Diskriminierungsverbot in Art. 14 EMRK sowie im Kontext von Polizeigewalt 
+das Recht auf Leben in Art. 2 EMRK und das Verbot erniedrigender Behandlung 
+aus 3 EMRK von Bedeutung und soll im Weiteren dargestellt werden.57
+
+2.3.1 A rt. 14 EMRK: Diskriminierungsverbot
+Im europäischen Menschenrechtssystem existieren in Bezug auf den Schutz vor 
+rassischer Diskriminierung zum einen das akzessorische Diskriminierungsverbot 
+des Art. 14 EMRK und zum anderen das generelle Diskriminierungsverbot des 
+Art. 1 des 12. Zusatzprotokolls58.
+
+Art. 14 EMRK normiert ein Diskriminierungsverbot, das besagt, „der Genuss 
+der in dieser Konvention anerkannten Rechte und Freiheiten ist ohne Dis-
+kriminierung insbesondere wegen des Geschlechts, der Rasse, der Hautfarbe, 
+der Sprache, der Religion, der politischen oder sonstigen Anschauungen, der 
+nationalen oder sozialen Herkunft, der Zugehörigkeit zu einer nationalen Minder-
+heit, des Vermögens, der Geburt oder eines sonstigen Status zu gewährleisten“. 
+Die Aufzählung enthält neben den von der Antirassismuskonvention gedeckten 
+Diskriminierungsmerkmalen (Rasse, Hautfarbe, nationale und ethnische Her-
+kunft) zusätzlich die Merkmale Sprache, Religion sowie Zugehörigkeit zu 
+
+55 BGBl. (1952) II, S. 688, 953.
+56 Siehe dazu ausführlich: Barskanmaz (2019), S. 251 ff. Die Europäische Kommission 
+gegen Rassismus und Intoleranz (ECRI) arbeitet dem EGMR unterstützend zu.
+57 Im Rahmen des Europarats ist auf das Rahmenübereinkommen zum Schutz nationaler 
+Minderheiten vom 01. Februar 1995 hinzuweisen, das die rassismusrelevanten Antidis-
+kriminierungsvorschriften tangiert, vgl. BGBl. (1997) II, S. 1408, in der Bundesrepublik 
+Deutschland in Kraft seit dem 01.02.1998.
+58 Art. 1 ZP 12 enthält ein selbstständiges Diskriminierungsverbot, das in Anlehnung an den 
+Diskriminierungsbegriff von Art. 14 EMRK definiert wird. Der Artikel normiert in seinem 
+Wortlaut ein Diskriminierungsverbot für Behörden. Deutschland hat das 12. ZP bisher nur 
+unterzeichnet, eine Ratifikation bleibt bis heute aus. Die Relevanz des Zusatzprotokolls 
+bleibt allerdings gering, da es der EGMR nur prüft, wenn wegen fehlender Berührung 
+des Anwendungsbereichs eines Konventionsrechts Art. 14 EMRK nicht zur Anwendung 
+kommt, vgl. Barskanmaz (2019), S. 258.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 69
+
+einer nationalen Minderheit.59 Dabei handelt es sich aufgrund des Wortes „ins-
+besondere“ (such as) um eine nicht abschließende Aufzählung. Aus dem Wort-
+laut des Art. 14 EMRK geht außerdem hervor, dass das Diskriminierungsverbot 
+akzessorischen Charakter im Hinblick auf die in der Konvention anerkannten 
+Rechte und Grundfreiheiten hat, sodass das Diskriminierungsverbot zunächst 
+nur in Verbindung mit einem oder mehreren Konventionsrechten gerügt werden 
+kann.60 Die Akzessorietät hat der EGMR allerdings früh, im Belgischen Sprachen-
+fall61, zugunsten einer effektivitätsorientierten Auslegung abgeschwächt, sodass 
+die Prüfung von Art. 14 EMRK nicht notwendigerweise die Verletzung eines 
+Konventionsrechts voraussetzt62, sondern es ausreicht, dass der Sachverhalt den 
+Anwendungsbereich einer oder mehrerer Konventionsbestimmungen berührt63.
+
+Im Regelfall prüft der Menschenrechtsgerichtshof in einem ersten Schritt, ob der 
+weit auszulegende Schutzbereich64 eines anderen Konventionsrechts eröffnet ist, 
+und ob zweitens eine Diskriminierung also eine Ungleichbehandlung wegen einer 
+der inkriminierten Unterscheidungsgründe ohne sachliche Rechtfertigung vorliegt.65 
+Umfasst ist sowohl die unmittelbare als auch die mittelbare Diskriminierung.66
+
+59 Diese Aufzählung entspricht der Liste der Merkmale in der Definition der rassischen Dis-
+kriminierung der ECRI. Vgl. General Policy Recommendation No. 7 v. 13.12.2002: „direct 
+racial discrimination shall mean any differential treatment based on a ground such as race, 
+colour, language, religion, nationality or national or ethnic origin, which has no objective 
+and reasonable justification“; siehe ausführlich zu den einzelnen Merkmalen Barskanmaz 
+(2019), S. 260–276.
+60 Hofmann und Malkmus (2020), Rn. 10–37.
+61 EGMR, Urt. v. 23.07.1968 – 1474/62, Belgischer Sprachenfall, Rn. 9; zuletzt EGMR, 
+Urt. v. 14.02.2012 – 36571/06, B./Vereinigtes Königreich, Rn. 33 f.
+62 So in EGMR, Urt. v. 27.10.1975 – 4464/70, Nationale Belgische Polizeigewerkschaft/
+Belgien, Rn. 44 f.
+63 Peters und König (2013), Kap. 21 Rn. 33.
+64 Sauer (2012), Art. 14 Rn. 15 m.w.N.
+65 Hofmann und Malkmus (2020), Rn. 15 ff.; allerdings hat der EGMR diesbezüglich nicht 
+immer ein konsequentes Prüfungsverfahren angewendet. So hat er im Urt. v. 06.04.2000 – 
+34369/97, Thlimmenos/Griechenland, Rn. 53 zuerst das Vorliegen einer Diskriminierung 
+geprüft, dies bejaht und die Verletzung der substanziellen Garantie nicht mehr für not-
+wendig erachtet; so auch in der Rechtssache EGMR (GK), Urt. v. 22.12.2009 – 27996/06, 
+Sejdić und Finci/Bosnien und Herzegowina, Rn. 51; zuletzt EGMR, Urt. v. 16.03.2010 – 
+15766/03, Oršuš et al./Kroatien; kritisch zu dieser Entscheidungspraxis Gilbert (2002), 
+S. 736, 741.
+66 EGMR, Urt. v. 13.11.2007 – 573250/00, D.H. et al./Tschechien, Rn. 182 ff.; zur Recht-
+sprechung Peters und König (2013), Rn. 78 ff.
+
+
+
+70 C. Barskanmaz
+
+2.3.2 D as Diskriminierungsverbot und Polizeigewalt
+
+Tötungen durch Polizei: Art. 14 i.V.m. Art. 2 EMRK
+Im Kontext von polizeilichen Misshandlungen67 mit Todesfolge oder Tötungen 
+mit rassistischem Hintergrund ist Art. 14 i.V.m. Art. 2 EMRK einschlägig.68 Der 
+Menschengerichtshof stellte in seinem Grundsatzurteil Nachova/Bulgarien69 einen 
+materiell- und verfahrensrechtlichen Verstoß gegen Art. 14 i.V.m. Art. 2 EMRK 
+fest. In dem zugrunde liegenden Sachverhalt ging es um zwei Romani, beide 
+21 Jahre alt, die als Häftlinge von einem Bauplatz flüchteten und anschließend in 
+einem Nachbardorf untertauchten. Die Militärpolizei kam den beiden vier Tage 
+später auf die Spur und betrat das Versteck, um beide zu verhaften. Die beiden 
+Männer versuchten abermals zu entkommen. Die Militärpolizei schoss und traf 
+die beiden unbewaffneten Männer im Kugelhagel, wodurch sie schwer verletzt 
+wurden und wenig später an ihren Wunden verstarben. Nach Zeugenaussagen 
+fiel am Ende des Kugelhagels die Aussage „ihr verdammten Zigeuner“. Laut 
+EGMR stellt jener Fall einen materiell- und verfahrensrechtlichen Verstoß gegen 
+das in Art. 2 EMRK enthaltene Recht auf Leben dar70, weil die staatliche Pflicht, 
+Leben zu bewahren (preserve life), missachtet und exzessiv Gewalt angewendet 
+wurde. Behörden seien zudem in verfahrensrechtlicher Hinsicht ihrer Pflicht 
+nicht nachgekommen, alle möglichen Schritte zu unternehmen, um zu ermitteln, 
+ob und inwiefern rassistische Beweggründe eine Rolle gespielt haben.71 Der 
+Menschenrechtsgerichtshof hob hervor, dass zwischen Gewalthandlungen mit 
+einem rassistischen Hintergrund und ohne solchen zu differenzieren sei, will man 
+rassistisch motivierte Gewalthandlungen nicht verharmlosen. Die Ermittlungs-
+pflicht sei zwar nicht im absoluten Sinne zu verstehen, Behörden müssten aber 
+den Umständen entsprechend angemessene und objektive Ermittlungen führen, 
+um alle Indizien auf diskriminierende Beweggründe hin zu prüfen.
+
+Das Urteil wurde jedoch 2015 von der Großen Kammer aufgehoben.72 
+Das Gericht bejahte zwar die Verletzung von Art. 14 i.V.m. Art. 2 EMRK in 
+
+67 Zu staatlichen Gewalterfahrungen aus rechtsethnologischer Perspektive, siehe Bruce-
+Jones (2017).
+68 Siehe hierzu: Barskanmaz (2019), S. 290 ff.
+69 EGMR, Urt. v. 26.02.2004 – 43577/98, Nachova et al./Bulgarien.
+70 EGMR, Urt. v. 26.02.2004 – 43577/98, Nachova et al./Bulgarien, Rn. 107, 115, 141.
+71 EGMR, Urt. v. 26.02.2004 – 43577/98, Nachova et al./Bulgarien, Rn. 158 f.
+72 EGMR (GK), Urt. v. 06.07.2005 – 43577/98, Nachova et al./Bulgarien.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 71
+
+ verfahrensrechtlicher Hinsicht, verneinte allerdings die Verletzung von Art. 14 
+EMRK in materiellrechtlicher Hinsicht und begründete dies hauptsächlich mit 
+einer strikteren Auslegung des Beweiskriteriums beyond reasonable doubt73, nach 
+welcher es dem Staat nicht zumutbar sei, beweisen zu müssen, dass die Militär-
+polizei keine Diskriminierungsabsicht gehabt habe. Ohne dessen Vorliegen, 
+fehlte es an einem kausalen Zusammenhang zwischen der Erschießung und den 
+behaupteten rassistischen Beweggründen. Die Differenzierung nach materiellem 
+und prozeduralem Tatbestand bei der Prüfung einer Verletzung von Art. 14 i.V.m. 
+Art. 2 EMRK hat die Folgerechtsprechung des Gerichts in Bezug auf Polizei-
+gewalt insofern wesentlich geprägt, als dass der EGMR bis heute nur in den 
+wenigsten Fällen eine materiellrechtliche Verletzung von Art. 14 i.V.m. Art. 2 
+EMRK angenommen hat und sich mehrheitlich auf eine verfahrensmäßige Ver-
+letzung beschränkte.74
+
+Ein weiterer bedeutender Fall ist Mizigarova/Slowakei75 (2010). In dem 
+zugrunde liegenden Sachverhalt starb ein Romani infolge seiner Schusswunde im 
+Polizeigewahrsam. Da sich lediglich das Opfer und der Polizist am Tatort befanden, 
+konnte nicht eindeutig festgestellt werden, ob – wie von der Polizei behauptet – 
+eine Selbsttötung mit der polizeilichen Waffe vorliege, oder das Opfer von dem 
+Polizisten, von dem es verhört wurde, erschossen wurde. Verwandte hatten geltend 
+gemacht, dass wirksame Ermittlungen zur Todesursache fehlten, insbesondere vor 
+dem Hintergrund der ethnischen Herkunft des Opfers und der gut dokumentierten 
+und weitverbreiteten Praxis der Misshandlungen von Sinti:zze und Rom:nja durch 
+die slowakische Polizei. Der EGMR verneinte auch hier Diskriminierungsabsicht, 
+betonte jedoch anschließend, dass für Sinti:zze und Rom:nja in bestimmten Fällen 
+unabhängige Beweise, die ein „systematisches Problem“ darlegten, durchaus aus-
+reichen könnten, um einen rassistischen Beweggrund zu bejahen.76
+
+Polizeiliche Folterpraktiken: Art. 14 i.V.m. Art. 3 EMRK
+Neben den zahlreichen Todesfällen haben auch etliche polizeiliche Folter-
+praktiken den Menschengerichtshof beschäftigt. Bei Fällen, in denen eine 
+
+73 EGMR (GK), Urt. v. 06.07.2005 – 43577/98, Nachova et al./Bulgarien, Rn. 147 f.
+74 Einen Überblick bieten Rubio-Marín und Möschel (2015), S. 881, 888 f.
+75 EGMR, Urt. v. 14.12.2010 – 15250/02, Mizigarova/Slowakei, Rn. 117 f., 122 f.
+76 EGMR, Urt. v. 14.12.2010 – 15250/02, Mizigarova/Slowakei, Rn. 122.
+
+
+
+72 C. Barskanmaz
+
+ Verletzung von Art. 14 i.V.m. Art. 3 EMRK geprüft wird, handelt es sich um die 
+Fragen nach möglichen rassistischen Beweggründen, insbesondere bei polizei-
+lichen Folterpraktiken, Misshandlungen und anderen Übergriffen. Auch in diesen 
+Fällen liegt die Herausforderung in der Beweiswürdigung der diskriminierenden 
+Handlung.77 Die Europäische Menschenrechtskommission wies 1973 bereits 
+darauf hin, dass, sofern der erforderliche Grad der Schwere erreicht ist, eine 
+diskriminierende Behandlung einer Bevölkerungsgruppe als erniedrigende 
+Behandlung im Sinne des Art. 3 EMRK gelten kann.78
+
+Im Fall Stoica stellte der Gerichtshof eine Verletzung des Diskriminierungs-
+verbots aufgrund der Rasse fest, da in der stereotypisierenden polizeilichen 
+Berichterstattung die angebliche Aggressivität der Menge als „typisch Zigeuner“ 
+(„purely Gypsy“) bezeichnet wurde.79 Zusammen mit weiteren Umständen 
+nahm der Gerichtshof, prima facie, rassistische Beweggründe an. Im russischen 
+Fall Makhashevy/Russland wurde Russland aufgrund einer Verletzung des Dis-
+kriminierungsverbots i.V.m. dem Folterverbot (Art. 3) verurteilt, weil drei 
+tschetschenische Brüder während sie durch die Polizei schwer misshandelt 
+wurden rassistisch beleidigt wurden, was behördlich nicht bestritten wurde.80 
+Während der EGMR in diesen beiden Fällen eine materiellrechtliche Verletzung 
+des Diskriminierungsverbots aufgrund der Rasse annahm, hat der EGMR sich in 
+weiteren Fälle mit einer verfahrensrechtlichen Verletzung begnügt, obwohl die 
+Beweislage nicht wenig überzeugend war.81 Daneben entschied der Gerichts-
+hof über Fälle, bei denen die rassistische Gewalt nicht von der Polizei ausging, 
+
+77 EGMR (GK), Urt. v. 21.01.2011 – 30696/09, M.S.S./Belgien und Griechenland, Rn. 
+303–311.
+78 EKMR, Bericht v. 14.12.1973 – 4403/70 et al., East African Asians v Vereinigtes König-
+reich, Rn. 207.
+79 EGMR, Urt. v. 04.03.2008 – 42722/02, Stoica/Rumänien.
+80 EGMR, Urt. v. 31.07.2012 – 20546/07, Makhashevy/Russland, Rn. 9, 17, 26: „Ihr 
+Tschetschenen seid alle Schwuchteln. Warum seid ihr hierher gekommen? Geht zurück 
+nach Tschetschenien“; „ihr verfickten Tschetschenen, wir werden euch jetzt ficken“; „Wir 
+hassen alle von euch Tschetschenen. Wir werden euch hier nicht leben lassen. Wir werden 
+auch alle ficken. Ihr seid Tiere. Geht zurück nach Tschetschenien und kämpft gegen Russ-
+land.“
+81 EGMR, Urt. v. 24.05.2007 – 17060/03, Zelilof/Griechenland; EGMR, Urt. v. 13.12.2005 
+– 15250/02, Bekos und Koutropoulos/Griechenland; EGMR, Urt. 10.03.2009 – 44256/06, 
+Turan Cakir/Belgien.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 73
+
+sondern von Privaten, der Polizei aber fehlende wirksame Ermittlungen vor-
+geworfen wurde.82
+
+Erwähnenswert im Zusammenhang mit Art. 3 EMRK ist – wenngleich 
+keinen Bezug zu Rassismus – zudem der deutsche Fall Hentschel und Stark.83 
+Der Menschenrechtsgerichtshof hat hier zwar einstimmig entschieden, dass die 
+Gewaltanwendung bei einem Fußballspiel durch die Polizei im Hinblick auf Art. 
+3 EMRK nicht zu beanstanden war. Die Ermittlungsschritte hingegen wurden 
+beanstandet. Denn eine fehlende Kennzeichnung der Polizeibeamt:innen könne 
+praktisch zur Straffreiheit führen.84
+
+2.3.3  Racial Profiling
+In seinem Timishev-Urteil hat der EGMR die konzeptionellen Überschneidungen 
+zwischen Rasse, Hautfarbe, Ethnizität, nationaler Herkunft und Religion hervor-
+gehoben. Die ethnische Diskriminierung gilt für den Menschenrechtsgerichtshof 
+als eine Form der rassischen Diskriminierung.
+
+In dem zugrunde liegenden Sachverhalt wurde einem tschetschenischen 
+Anwalt behördlich der Zugang in das Gebiet Kabardino-Balkarien verweigert. 
+Der Menschenrechtsgerichtshof entschied, dass die Kontrollmaßnahme eine Ver-
+letzung von Art. 14 EMRK i.V.m. Art. 2 ZP 4 darstelle, da sie eine unzulässige 
+Einschränkung der Bewegungsfreiheit aufgrund der Ethnizität sei. In seinem 
+Urteil beschrieb der EGMR zum ersten Mal Rasse und ethnische Herkunft:
+
+82 Siehe EGMR, Entsch. v. 06.05.2003 – 47916/99, Menson et al./Vereinigtes Königreich, 
+wo der Gerichtshof die Beschwerde wegen offensichtlicher Unbegründetheit nicht zur Ent-
+scheidung annahm. In dem Fall wurde ein Schwarzer Mann von vier weißen Jugendlichen 
+in London schwer geprügelt und anschließend angezündet. Die beschwerdeführenden 
+Familienmitglieder machten geltend, dass die Ermittlungsbehörden die tatsächlichen 
+Umstände bewusst verharmlost hätten und aus rassistischen Gründen keine wirksamen 
+Untersuchungen geführt hatten. Trotz der Aussage des Opfers, dass es von vier Jugend-
+lichen angegriffen worden sei, ging die Polizei nämlich von einer misslungenen Selbst-
+tötung aus.
+83 EGMR, Urt. v. 09.11.2017 – 47274/15, Hentschel und Stark/Deutschland.
+84 Der Gerichtshof stellte hier (lediglich) eine verfahrensrechtliche Verletzung des Art. 
+3 EMRK fest. Nicht zuletzt wurde im Sondervotum bemängelt, dass in Deutschland die 
+Polizei selbst gegen polizeiliches Fehlverhalten ermittle, dadurch sei keine zuverlässige 
+Ermittlungsarbeit gegeben, auch wenn es sich – wie in diesem Fall – nicht um „unmittel-
+bare Kollegen“ handle, vgl. EGMR, Urt. v. 09.11.2017 – 47274/15, Hentschel und Stark/
+Deutschland, Sondervotum Lәtif Hüseynov.
+
+
+
+74 C. Barskanmaz
+
+„Ethnicity and race are related and overlapping concepts. Whereas the notion of race 
+is rooted in the idea of biological classification of human beings into subspecies 
+according to morphological features such as skin colour or facial characteristics, 
+ethnicity has its origin in the idea of societal groups marked by common nationality, 
+tribal affiliation, religious faith, shared language, or cultural and traditional origins 
+and backgrounds.“85
+
+Anstatt Ethnizität86 zu definieren versucht der Gerichtshof die Begriffe Rasse 
+und ethnische Herkunft konzeptionell zu umreißen, wobei es nicht für notwendig 
+erachtet wird, in einer ersten Beschreibung des Begriffs Rasse zunächst festzu-
+stellen, dass die Existenz und Überlegenheit von menschlichen Rassen mit einer 
+evolutiven Auslegung zu verwerfen ist. „[E]ine Diskriminierung aufgrund der 
+Ethnizität einer Person [wird als] eine Form von rassischer Diskriminierung“87 
+und treffend nicht als Ersatz für Rasse verstanden.
+
+2.3.4  Intersektionalität
+Ein für die Polizeiarbeit ebenso wichtiger Fall ist B.S./Spanien88, in dem der 
+EGMR das Vorliegen von intersektionaler Diskriminierung, wenn auch ohne den 
+Begriff der Intersektionalität zu nennen, anerkannt hat.89 Im vorliegenden Fall 
+wurde von der beschwerdeführenden Partei, einer Schwarzen Sexarbeiterin, erst-
+mals intersektionale Diskriminierung ausdrücklich vor dem Gerichtshof geltend 
+gemacht, da diese von denselben Polizisten mehrmals kontrolliert, misshandelt 
+und rassistisch beschimpft90 worden war, während andere weiße Sexarbeiterinnen 
+nicht kontrolliert wurden.91 Der Gerichtshof bejahte die Verletzung von Art. 
+14 i.V.m. Art. 3 EMRK im verfahrensrechtlichen Sinne wegen mangelnder 
+wirksamer Strafverfolgung der spanischen Justizbehörden und der nicht aus-
+reichenden Berücksichtigung der besonderen Verletzlichkeit der Beschwerde-
+führerin als eine „afrikanische Frau, die Prostitution ausübt“92. In diesem Urteil 
+
+85 EGMR, Urt. v. 13.12.2005 – 55762/00, Timishev et al./Russland, Rn. 55.
+86 Das Gericht spricht von Ethnizität statt ethnischer Herkunft.
+87 EGMR, Urt. v. 13.12.2005 – 55762/00, Timishev et al./Russland, Rn. 56.
+88 EGMR, Urt. v. 24.07.2012 – 47159/08, B.S./Spanien. In diesem Fall hatte die 
+Beschwerdeführerin, eine Sexarbeiterin mit nigerianischer Herkunft, geltend gemacht, auf-
+grund ihrer Hautfarbe (und ihres Geschlechts) von der Polizei kontrolliert worden zu sein.
+89 Barskanmaz (2019), S. 343 f.
+90 EGMR, Urt. v. 24.07.2012 – 47159/08, B.S./Spanien, Rn. 71.
+91 EGMR, Urt. v. 24.07.2012 – 47159/08, B.S./Spanien, Rn. 8.
+92 EGMR, Urt. v. 24.07.2012 – 47.159/08, B.S./Spanien, Rn. 62.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 75
+
+erkannte der Gerichtshof zudem die Praxis des „Racial Profiling“ als strukturelle 
+Diskriminierung an. An diesem Fall wird deutlich, dass es auf der Tatbestands-
+ebene von Art. 14 EMRK keine Engpässe gibt. Die Auflistung von Geschlecht 
+und sozialer Herkunft in Art. 14 EMRK macht es möglich, auch intersektionale 
+Diskriminierungsformen zu erfassen.93
+
+3  Unionsrechtliche Grundlagen
+
+Diskriminierungsverbote sind ebenso fester Bestandteil des Unionsrechts. So 
+enthalten Art. 19 des Vertrages über die Arbeitsweise der Europäischen Union 
+(AEUV), sowie Art. 21 der Europäischen Grundrechtecharta (GRC) und die 
+Rasse-Richtlinie 2000/43/EG das Diskriminierungsverbot aufgrund der Rasse. 
+Die EU-Richtlinie schließt an die humangenetische Erkenntnis der Rasse als 
+invalide biologische Kategorie an94, um in einem zweiten Schritt eine Lösung für 
+weiterhin hartnäckige diskriminierende rassische Zuschreibungen zu finden.
+
+3.1  Art. 21 Grundrechtecharta: Diskriminierungsverbot
+
+Art. 21 GRC ergänzt den allgemeinen Gleichheitssatz aus Art. 20 GRC um 
+besondere Diskriminierungsverbote. Gemäß Abs. 1 sind „Diskriminierungen ins-
+besondere wegen des Geschlechts, der Rasse, der Hautfarbe, der ethnischen oder 
+sozialen Herkunft, der genetischen Merkmale, der Sprache, der Religion oder der 
+Weltanschauung, der politischen oder sonstigen Anschauung, der Zugehörigkeit 
+zu einer nationalen Minderheit, des Vermögens, der Geburt, einer Behinderung, 
+des Alters oder der sexuellen Ausrichtung […] verboten“. Damit formuliert Art. 
+21 Abs. 1 GRC einen eigenständigen Anwendungsbereich und eine eigenständige 
+Zielsetzung neben Art. 19 AEUV, an den er sich hauptsächlich anlehnt. Art. 19 
+AEUV gilt dabei als Kompetenzgrundlage der Union für den Erlass von Gesetz-
+gebungsakten. Art. 21 GRC soll keine neue Zuständigkeit schaffen, sondern 
+Erlass und Anwendung des Unionsrechts grundrechtlich umfassen.95 Art. 21 
+
+93 Barskanmaz (2019), S. 277.
+94 Vgl. Erwägungsgrund Nr. 6 der EU-Rasserichtlinie 2000/43/EG wonach die Verwendung 
+des Begriffs Rasse nicht die Akzeptanz von Rassentheorien impliziere.
+95 Michl (2017), Art. 21 Rn. 1 ff.
+
+
+
+76 C. Barskanmaz
+
+GRC enthält als rassismusrelevante Diskriminierungsmerkmale Rasse, Hautfarbe, 
+Sprache, Religion, ethnische Herkunft und Zugehörigkeit zu einer nationalen 
+Minderheit. Auch hier wird durch den Wortlaut „insbesondere“ deutlich, dass es 
+sich nicht um eine abschließende Aufzählung handelt. Art. 21 GRC ist außerdem 
+ein allgemeines Diskriminierungsverbot, das unmittelbar anwendbar ist.96 Für 
+die Auslegung der unionsrechtlich rassismusrelevanten Merkmale ist hier die 
+Rechtsprechung des Gerichtshofs für Menschenrechte zu Art. 14 EMRK heran-
+zuziehen, wie dies der Gerichtshof der Europäischen Union (EuGH) im CHEZ-
+Urteil97 ausführt.
+
+3.2  Schengener Grenzkodex
+
+Der Schengener Grenzkodex98 ist eine EU-Verordnung zur Regelung von Identi-
+tätskontrollen bei Grenzübertritten innerhalb des Schengen-Raums und bei 
+Eintreten in den Schengen-Raum. Der EuGH entschied bereits mehrere Fälle 
+in Bezug auf das Diskriminierungsverbot aufgrund der Rasse und Schleier-
+fahndungen. Unter einer Schleierfahndung wird eine verdeckte verdachtsun-
+abhängige Personenkontrolle verstanden. Im vorliegenden Fall ging es um die 
+Identitätskontrolle eines Schwarzen Mannes in Frankreich. Der EuGH stellte 
+in seinem Urteil fest, dass eine Regelung, die den Polizeibehörden die Befug-
+nis einräumt, in einem Gebiet von 20 km entlang der Landgrenze die Identi-
+tät jeder Person unabhängig von deren Verhalten und dem Vorliegen besonderer 
+Umstände, aus denen sich eine Gefahr für die öffentliche Sicherheit oder 
+Ordnung ergibt, dem Schengener Grenzkodex entgegenstehe, der den Zweck hat, 
+Grenzkontrollen abzuschaffen. Identitätskontrollen im Grenzraum, die die gleiche 
+Wirkung wie Grenzübertrittskontrollen haben, sind demnach unionsrechtlich 
+nicht zulässig.99 2017 stufte der EuGH außerdem systematische Grenzkontrollen 
+im Schengen-Raum auf der Grundlage von § 23 Abs. 1 Nr. 3 Bundespolizeigesetz 
+als unzulässig ein, nachdem ihm diese Frage vom Amtsgericht Kehl am Rhein 
+
+96 Barskanmaz (2019), S. 162 ff.
+97 EuGH (GK), Urt. v. 16.07.2015 – C-83/14, CHEZ Razpredelenie Bulgarie AD.
+98 VO(EU) 2016/399.
+99 EuGH, Urt. v. 22.06.2010 – C-188/10 und C-189/10, Melki und Abdeli.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 77
+
+im Rahmen eines Strafverfahrens wegen Widerstand gegen Vollstreckungsbeamte 
+vorgelegt worden war.100 Soweit Identitätskontrollen nicht die gleiche Wirkung 
+wie Grenzkontrollen haben, müssen diese zudem gesetzlich dahingehend 
+konkretisiert und eingeschränkt werden, dass ihre Intensität, Häufigkeit und 
+Selektivität festgelegt ist. Dazu entschied im Jahr 2008 der Verwaltungsgerichts-
+hof Baden-Württemberg, dass § 23 Abs. 1 Nr. 3 Bundespolizeigesetz zur Zeit der 
+Identitätskontrolle auf Grund seiner gegen Unionsrecht verstoßenden Auslegung 
+nicht anwendbar war.101 Auf dessen Grundlage war im vorliegenden Fall ein 
+Schwarzer Mann im Zug anlasslos kontrolliert worden.
+
+3.3  Rasse und Ethnizität im unionalen 
+Datenschutzrecht
+
+Das EU-Datenschutzreformpaket besteht aus der Datenschutzgrundverordnung 
+(DSGVO) und der Richtlinie für Datenschutz in den Bereichen Polizei und 
+Justiz (JI-RL). Die DSGVO gilt seit 2018 durch ihre unmittelbare Wirkung 
+(Art. 288 Abs. 2 AEUV) im gesamten Unionsgebiet und enthält Vorschriften 
+zur Verarbeitung personenbezogener Daten durch private und öffentliche 
+Akteur:innen.102 Nach Art. 7 Abs. 1 DSGVO ist es grundsätzlich untersagt, 
+personenbezogene Daten zu verarbeiten, aus denen die rassische und ethnische 
+Herkunft hervorgehen. Rassische und ethnische Herkunft, religiöse Überzeugung 
+etc. werden demnach unionsrechtlich als besondere Kategorien konzipiert, gerade 
+weil sie Anknüpfungspunkt für Diskriminierungen sein können.103
+
+Die Verarbeitung von Daten zur inneren Organisation der Polizei, zur 
+allgemeinen Gefahrenprävention und -aufklärung sowie zur Fahndung 
+
+100 Tischbirek und Wihl (2017).
+101 VGH Baden-Württemberg, openJur 2019, 39752.
+102 Johannes und Weinhold (2021), Rn. 10 f.
+103 Von ihrem Anwendungsbereich ausgeschlossen sind unter anderem die Datenver-
+arbeitung der staatlichen Nachrichten- und Sicherheitsdienste zu Zwecken der nationalen 
+Sicherheit, sowie die Verarbeitung von personenbezogenen Daten zu Zwecken der Ver-
+hütung und Verfolgung von Straftaten und der Abwehr von Gefahren für die öffentliche 
+Sicherheit, sodass sich der Datenschutz der Strafverfolgungs- und Polizeibehörden des 
+Bundes und der Länder nach der JI-RL richtet, wenn sie Daten zu diesen Zwecken weiter-
+verarbeiten, vgl. Art. 2 Abs. 2 lit. a und d DSGVO.
+
+
+
+78 C. Barskanmaz
+
+nach Vermissten ohne Bezug auf das Vorliegen einer Straftat fallen in den 
+Anwendungsbereich der DSGVO. Die JI-RL hingegen ist allgemein anwend-
+bar für die Verarbeitung von Daten in den Bereichen Polizei und Justiz sowohl 
+zu repressiven als auch zu präventiven Zwecken.104 Wie die DSGVO kennt auch 
+die JI-RL ein grundsätzliches Verbot der Verarbeitung von besonderen Kate-
+gorien, wie die rassische und ethnische Herkunft, personenbezogener Daten (Art. 
+10). § 22 Bundesdatenschutzgesetz sieht ebenso ein Verbot von Verwendung 
+von besonderen Kategorien vor. § 22 Abs. 2 Nr. 2 Bundesdatenschutzgesetz ent-
+hält jedoch eine Ausnahme vom Verbot für bspw. Strafverfolgungsbehörden 
+(„öffentliche Stellen“), wenn Rasse und Ethnizität zur Abwehr „einer erheb-
+lichen Gefahr für die öffentliche Sicherheit erforderlich ist“. Dies dürfte jeden-
+falls in einem Spannungsverhältnis mit dem völkerrechtlichen Verbot der 
+Diskriminierung aufgrund der Rasse stehen.
+
+Inhaltlich ähnelt die JI-RL der DSGVO, allerdings müssen die Regelungen 
+aufgrund ihres Richtliniencharakters von den Mitgliedstaaten in nationales Recht 
+umgesetzt werden (Art. 288 Abs. 3 AUEV) bzw. Bundes und Landesgesetzgeber 
+müssen ihre Vorschriften auf Konformität mit der Richtlinie prüfen und dafür 
+alle im Widerspruch dazu stehenden nationalen Vorschriften mittels einer Norm-
+bereinigung anpassen. Einzelne Fachgesetze müssen insbesondere die „einzel-
+nen Verarbeitungsbefugnisse, die Bestimmung der Löschungsfristen und ggf. das 
+bereichsspezifische Ausnutzen von (Quasi-)Aufnahmen“105 richtlinienkonform 
+umsetzen. Diesbezüglich wird beanstandet, dass die Aufsichtsbefugnisse des 
+Bundesbeauftragten für Datenschutz und Informationsfreiheit (BfDI) sich, vor-
+behaltlich fachrechtlicher Erweiterungen, auf die unverbindlichen Instrumente der 
+Warnung und Beanstandung beschränken, was mit Art. 47 der JI-RL unvereinbar 
+sein soll.106 Zudem seien insbesondere Anpassungen in der Strafprozessordnung, 
+dem BKA-Gesetz, dem Bundespolizeigesetz und dem Zollfahndungsgesetz, 
+soweit ersichtlich, bislang nicht erfolgt.107
+
+104 Johannes und Weinhold (2021), Rn. 14 ff.
+105 Schröder (2021), Rn. 54 ff.
+106 Vgl. Schröder (2021), Rn. 54.2.
+107 Schröder (2021), Rn. 55.4. Zur Umsetzung der Richtlinie auf Länderebene, vgl. 
+Schröder (2021), Rn. 56–60.2.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 79
+
+4 Z usammenfassung und Ausblick
+
+Aus polizeilicher Perspektive dürfen Menschenrechte nicht als Bedrohung oder 
+Einschränkung hoheitlicher Handlungen, sondern als einer der Grundpfeiler der 
+freiheitlichen demokratischen Grundordnung betrachtet werden. Die Antirassis-
+muskonvention knüpft mit ihrem durchaus umfassenden Anwendungsbereich 
+sowie ihrem Merkmalskatalog (Rasse, Hautfarbe, Abstammung, nationale und 
+ethnische Herkunft) an ein adäquates Bild von Rassismus an. Sie verpflichtet 
+Deutschland zu einer umfassenden Bekämpfung und Sanktionierung von Rassis-
+mus sowohl auf der Rechtsetzung- als auch Rechtsanwendungsebene. Die All-
+gemeinen Empfehlungen Nr. 30, 31 und 36 bekräftigen zudem, dass polizeiliches 
+Handeln stets im Hinblick auf das Diskriminierungsverbot aufgrund der Rasse zu 
+beurteilen ist. Das Potenzial der Antirassismuskonvention für das deutsche Recht 
+ist allerdings längst nicht erschöpft. Zu hoffen bleibt, dass deutsche Gerichte, 
+einschließlich des Bundesverfassungsgerichts, ihr Achtung und Rezeption 
+gebühren. Konkrete Anhaltspunkte hierfür sind in den Schlussbemerkungen zu 
+Deutschland (2015) formuliert.
+
+Der Menschenrechtsgerichtshof hat in seiner Rechtsprechung das Dis-
+kriminierungsverbot einerseits im Hinblick auf unmittelbare und mittelbare 
+Diskriminierung, und andererseits in eine materiell- und verfahrensrechtliche 
+Dimension nuanciert. Außerdem hat er die in der Antidiskriminierungspolitik 
+nachdrücklich eingeforderte Beweislastumkehr in seine Judikatur eingeführt. 
+Dieser Bestand ist für polizeiliche Ermittlungsarbeiten gewiss als eine Stärkung 
+des Diskriminierungsverbots zu sehen. Denn Opfer polizeilicher Gewaltan-
+wendungen oder verdachtsunabhängiger Kontrollen genießen somit auch bei 
+nicht-intendierten Formen von Diskriminierung menschenrechtlichen Schutz. 
+Auch bei Fehlen einer materiellen Menschenrechtsverletzung – etwa bei 
+schwächerer Beweislage – wird es möglich, durch die verfahrensrechtlichen 
+Garantien des Diskriminierungsverbots die Opfer von rassistischer Polizeigewalt 
+oder anderer Diskriminierungspraxen menschenrechtlich aufzufangen. An dieser 
+Stelle wurde die Notwendigkeit von unabhängigen Berichten wie etwa der ECRI 
+eindrücklich. Dem Menschenrechtsgerichtshof (und dem UN-Antirassismusaus-
+schuss) ist es zudem gelungen, auch Diskriminierungsfälle mit intersektionellen 
+Aspekten Achtsamkeit zu schenken.
+
+Künftig dürften auch unionsrechtliche Vorschriften im datenschutzrechtlichen 
+Bereich eine zunehmende Rolle spielen. Die Benutzung der Kategorien der Rasse 
+und Ethnizität bleibt im sicherheitsrechtlichen Kontext europarechtlich und durch 
+das Bundesdatenschutzgesetz auch nationalrechtlich möglich, wenngleich unter 
+
+
+
+80 C. Barskanmaz
+
+strikten Bedingungen. Daher wird es umso wichtiger, das Diskriminierungs-
+verbot aufgrund der Rasse stets in den Blick zu nehmen, um diskriminierende 
+Wirkungen, die aus solchen Datenerhebungen hervorgehen können, entgegen-
+zutreten. Im Anwendungsbereich des Unionsrechts ist Art. 21 EU-GRC hier der 
+Maßstab.
+
+Literatur
+
+Aust, H. (2021). Kommentierung zu Art. 25 GG. In I. v. Münch & P. Kunig (Hrsg.), Grund-
+gesetz-Kommentierung. 2. EL. München: Beck.
+
+Barskanmaz, C. (2020). Kommentierung zu Art. 2 ICERD. In D. Angst & E. Lantschner 
+(Hrsg.), Kommentar zum Internationalen Übereinkommen zur Beseitigung jeder Form 
+von Rassendiskriminierung. Baden-Baden: Nomos.
+
+Barskanmaz, C. (2019). Recht und Rassismus. Berlin: Springer.
+Bruce-Jones, E. (2017). Race in the Shadow of Law. London: Routledge.
+De Schutter, O. (2019). International Human Rights Law. Cases, Materials, Commentary. 
+
+3. Aufl. Cambridge: Cambridge University
+Gilbert, G. (2002). The Burgeoning Minority Rights, Jurisprudence of the European Court 
+
+of Human Rights. Human Rights Quarterly, 24, S. 736.
+Herdegen, M. (2020). Kommentierung zu Art. 25. In T. Maunz & G. Dürig (Hrsg.), Grund-
+
+gesetz. 2. EL. München: Beck.
+Hong, M. (2019). Abwägungsfeste Rechte. Von Alexys Prinzipien zum Modell der Grund-
+
+satznormen. Tübingen: Mohr Siebeck.
+Hofmann, R., & Malkmus, M. (2020). Instrumente des Europarates zum Schutz vor 
+
+Rassendiskriminierung. In D. Angst & E. Lantschner (Hrsg.), Kommentar zum Inter-
+nationalen Übereinkommen zur Beseitigung jeder Form von Rassendiskriminierung. 
+Baden-Baden: Nomos.
+
+Johannes, P., & Weinhold, R. (2021). Datenschutz im Polizei- und Sicherheitsrecht – Ein-
+führung. In I. Spiecker gen. Döhmann & S. Bretthauer (Hrsg.), Dokumentation zum 
+Datenschutz. Baden-Baden: Nomos.
+
+Kälin, W. (2020). Kommentierung zur Bedeutung der übrigen UN-Übereinkommen für den 
+Schutz vor Rassendiskriminierung. In D. Angst & E. Lantschner (Hrsg.), Kommentar 
+zum Internationalen Übereinkommen zur Beseitigung jeder Form von Rassen-
+diskriminierung. Baden-Baden: Nomos.
+
+Langenfeld, C. (2020). Kommentierung zu Art. 3 GG. In T. Maunz & G. Dürig (Hrsg.), 
+Grundgesetz. 2. EL. München: Beck.
+
+Lerner, N. (2015). The UN Convention on the Elimination of All Forms of Racial 
+Discrimination. Leiden und Boston: Brill Nijhoff.
+
+Malaihollo, M. (2017). The International Convention on Elimination of All Forms of Racial 
+Discrimination – Reviewing Special Measures Under Contemporary International Law. 
+Groningen Journal of International Law, 5, S. 135.
+
+Michl, W. (2017). Kommentierung zu Art. 21 GRC. In M. Pechstein, C. Nowak & U. Häde 
+(Hrsg.), Frankfurter Kommentar zu EUV, GRC und AEUV. Tübingen: Mohr Siebeck.
+
+
+
+Menschenrechtliche Grundlagen polizeilicher Praxis 81
+
+Moses, D. (2021). The Problems of Genocide. Cambridge: Cambridge University Press.
+Payandeh, M. (2020). Kommentierung zu Art. 4 ICERD. In D. Angst & E. Lantschner 
+
+(Hrsg.), Kommentar zum Internationalen Übereinkommen zur Beseitigung jeder Form 
+von Rassendiskriminierung. Baden-Baden: Nomos.
+
+Peters, A., & König, D. (2013). Kapitel 21: Das Diskriminierungsverbot. In O. Dörr, R. 
+Grote & T. Marauhn (Hrsg.), EMRK/GG Konkordanzkommentar zum europäischen und 
+deutschen Grundrechtsschutz. Tübingen: Mohr Siebeck.
+
+Rubio-Marín, R., & Möschel, M. (2015). Anti-Discrimination Exceptionalism: Racist 
+Violence before the ECtHR and the Holocaust Prism. European Journal of Inter-
+national Law, 26, S. 881.
+
+Sauer, H. (2012). Kommentierung zu Art. 14 EMRK. In U. Karpenstein & F. Mayer 
+(Hrsg.), Konvention zum Schutz der Menschenrechte und Grundfreiheiten (EMRK). 
+Kommentar. München: Beck.
+
+Samour, N. (2020). Politisches Freund-Feind-Denken im Zeitalter des Terrorismus. In 
+A. Kulick & M. Goldhammer (Hrsg.), Der Terrorist als Feind? Personalisierung im 
+Polizei- und Völkerrecht. Tübingen: Mohr Siebeck.
+
+Schröder, M. (2021). Datenschutz-Richtlinie (EU) 2016/680 (JI-RL). In M. Möstl & T. 
+Schwabenbauer (Hrsg.), BeckOK Polizei- und Sicherheitsrecht. München: Beck.
+
+Singelnstein, T. (2022). Strafgerechtigkeit? – Selektivität, Gleichheit und Diskriminierung 
+im Strafrecht. Verfassungsrechtliche und strafrechtliche Anforderungen an Gleich-
+heit im Strafrecht als Dimension von Strafgerechtigkeit angesichts der Selektivität der 
+strafrechtlichen Praxis. In M. Bäcker & C. Burchard (Hrsg.), Strafverfassungsrecht. 
+Tübingen: Mohr Siebeck (im Erscheinen).
+
+Tischbirek, A., & Wihl, T. (2017). Schengen schlägt zurück!? Verfassungsblog. https://ver-
+fassungsblog.de/schengen-schlaegt-zurueck/. Zugegriffen: 18. Juli 2022. doi: https://
+doi.org/10.17176/20170622-095758.
+
+Wollenschläger, F. (2015). Kommentierung zu Art. 25 GG. In H. Dreier (Hrsg.), Grund-
+gesetz-Kommentar. Tübingen: Mohr Siebeck.
+
+Prof. Dr. Cengiz Barskanmaz ist Professor für Recht der Sozialen Arbeit an der Hoch-
+schule Fulda. Seine Lehr- und Forschungsschwerpunkte liegen im Bereich der Grund- und 
+Menschenrechte, Recht der sozialen Arbeit, Rassismus und empirische Rechtsforschung.
+
+
+
+82 C. Barskanmaz
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

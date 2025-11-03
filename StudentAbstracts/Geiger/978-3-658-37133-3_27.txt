@@ -1,0 +1,841 @@
+﻿Internationale Perspektiven: Was 
+kann die deutsche Diskussion von der 
+internationalen Forschung lernen?
+
+Maximilian Pichl
+
+Zusammenfassung
+
+Die internationale Polizeiforschung beschäftigt sich schon lange mit dem 
+Problem des institutionellen Rassismus in den Sicherheitsbehörden. Ethno-
+graphische Perspektiven erlauben es dabei, Einblicke in den ansonsten 
+abgeschotteten Polizeiapparat zu erhalten. Anschlüsse an solche Forschungs-
+perspektiven sind für die deutsche Debatte lohnenswert. Darüber hinaus ist 
+ein Blick auf die Behandlung von Rassismus vor internationalen Ausschüssen 
+und Gerichten gewinnbringend, indem Rassismus dort mitunter klarer benannt 
+wird, als in nationalen Kontexten.
+
+Schlüsselwörter
+
+Internationales · Ethnographie · Institutioneller Rassismus
+
+Für wertvolle Hinweise danke ich Vanessa E. Thompson.
+
+M. Pichl (*) 
+Fachbereich Gesellschaftswissenschaften, Universität Kassel, Kassel, Deutschland
+E-Mail: uk052687@uni-kassel.de
+
+© Der/die Autor(en) 2022 579
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_27
+
+
+
+580 M. Pichl
+
+1  Einleitung
+
+Als im Zuge der globalen Black-Lives-Matter-Proteste auch in Deutsch-
+land die Kritik von Aktivist:innen, Wissenschaftler:innen und Politiker:innen 
+erhoben wurde, institutionell rassistischen Strukturen und Einsatzroutinen in 
+den Polizeiapparaten nachzuspüren, gab es hiergegen deutlichen Widerspruch 
+aus den Reihen der Polizei, der Politik, aber auch in Leitkommentaren großer 
+deutscher Tageszeitungen. Rassismus in Polizeibehörden sei überwiegend ein 
+Problem von Einzelfällen, man dürfe Einsatzkräfte nicht unter „Generalver-
+dacht“ stellen, lautet der Tenor in Teilen der deutschen Öffentlichkeit (vgl. 
+Reimer 2020). Diese Annahme ist nicht zuletzt auf die durchaus erfolgreiche 
+Strategie von Innenministerien und Polizeigewerkschaften zurückzuführen, die 
+in den Polizeieinheiten für ein „unbewusstes Unfehlbarkeitsparadigma“1 und eine 
+„Wagenburgmentalität“2 gesorgt haben.
+
+Über institutionellen Rassismus in der Polizei in Deutschland zu forschen und 
+politisch zu streiten bleibt schwierig.3 Dies hängt mit verschiedenen Faktoren 
+zusammen. Die Rassismusforschung ist insgesamt an den Universitäten sehr 
+schwach institutionalisiert4, es gibt kaum eigene Forschungsinstitute oder ent-
+sprechende Denominationen von Professuren. Eine Verzahnung bzw. Ver-
+netzung zwischen Rassismus- und Polizeiforschung gab es daher lange Zeit 
+kaum. Hinzukommt, dass Forschungszweige wie die postkolonialen Studien, 
+Genderwissenschaften und eben auch die Rassismusforschung vor allem von 
+autoritären und rechten Akteuren immer wieder unter Druck geraten.5 Auch gibt 
+es in Deutschland nur wenige Stimmen in der wissenschaftlichen Literatur, die 
+die Polizei aus einer gesellschaftstheoretischen oder rechtsstaatlichen Perspektive 
+grundlegend kritisieren6, wozu auch die Verdichtung institutionell rassistischer 
+Praktiken gehören würde. Schließlich gestaltet sich der Feldzugang zu den 
+Polizeiapparaten sehr schwierig: Die Polizeibehörden zeigen sich gegenüber 
+
+1 Salzborn (2016), S. 18.
+2 Sturm (2019), S. 113 f.
+3 Dies zeigt auch der öffentliche Umgang bzw. die diffamierenden Kritiken aus Reihen von 
+Politik und Polizeigewerkschaften ggü. dem Forschungsprojekt KviAPol an der Ruhr-Uni-
+versität-Bochum unter Leitung von Tobias Singelnstein.
+4 Bojadzijev et al. (2019), S. 60.
+5 Röhner (2020).
+6 Denninger und Lüderssen (1978); Loick (2018); siehe dazu auch den Beitrag von Atali-
+Timmer, Fereidooni und Schroth in diesem Band.
+
+
+
+Internationale Perspektiven: Was kann … 581
+
+kritischer Forschung wenig bis gar nicht transparent.7 In Bezug auf die Forschung 
+über institutionellen Rassismus wird konsequenterweise kritisiert, „dass hier der 
+Zusammenhang von Gesellschaft und Institutionen reichlich unklar bleibt, auch 
+woher der Rassismus und die definitorische Arbeit kommt, die zur Ausgrenzung 
+führt, ist völlig undurchsichtig“8.
+
+Eine Berücksichtigung internationaler Perspektiven ist lohnend, um öffentlich 
+verbreiteten „Einzelfallthesen“ in Bezug auf rassistische Polizeigewalt entgegen-
+zutreten. Auch wenn die Ursachen institutionell-rassistischer Strukturen in den 
+Polizeiapparaten in Abhängigkeit vom jeweiligen historischen und gesellschaft-
+lichen Kontext variieren, teilen viele internationale Forschungsperspektiven eine 
+Gemeinsamkeit: Sie arbeiten mit qualitativen Forschungsmethoden, oft unter Ein-
+beziehung der Perspektiven von Betroffenen, und formulieren eine systemische, 
+gerade keine personalistische Kritik der Polizei. Auch ein Blick auf transnationale 
+Vereinbarungen und Rechtsprechungslinien von Gerichten sowie auf rechts-
+staatliche Untersuchungen in anderen Ländern, die institutionellen Rassismus 
+in der Polizei zum Gegenstand haben, sind hilfreich zur Weiterentwicklung der 
+deutschen Debatte.
+
+Zunächst wird ein Blick auf methodische Ansätze aus der Forschung über 
+institutionellen Rassismus geworfen, wobei drei exemplarische Ansätze dar-
+gestellt werden (II.). Anschließend wird gezeigt, wie mit institutionellem 
+Rassismus in völkerrechtlichen Kontexten umgegangen wird, wobei hier der 
+UN-Ausschuss gegen die Beseitigung der Rassendiskriminierung (CERD), 
+der Europarat und der Europäische Gerichtshof für Menschenrechte (EGMR) 
+im Fokus stehen (III.). Am Ende werden Schlussfolgerungen für die deutsche 
+Debatte gezogen (IV.).
+
+2 M ethoden und Perspektiven aus der 
+internationalen Forschung
+
+2.1  Intersektionale Ansätze und Herrschaftskritik
+
+Die Debatte um institutionellen Rassismus, u. a. initiiert von sozialen 
+Bewegungen und Betroffenen rassistischer Diskriminierung, reicht in den USA 
+
+7 Weinhauer (2020).
+8 Bojadzijev (2008), S. 39.
+
+
+
+582 M. Pichl
+
+und Großbritannien bis in die 1960er Jahre zurück und hat eine entsprechende 
+Resonanz in der Forschung und Politik gefunden.9 Einen großen Raum in der 
+Forschung nehmen auch dezidiert abolitionistische bzw. polizeikritische Bei-
+träge ein, die im Gegensatz zur liberalen Reformdebatte Ansätze diskutieren, um 
+über die Institution der Polizei bzw. das Polizieren selbst hinauszukommen.10 Die 
+Black-Lives-Matter-Demonstrationen haben solchen Forderungen zusätzlichen 
+Schub verliehen.11 Unter dem Stichwort „Defunding the Police“ wird gefordert, 
+finanzielle Mittel, Kompetenzen und andere Ressourcen aus den Polizeiapparaten 
+abzuziehen, in soziale Projekte oder Bildungsangebote zu reinvestieren und so 
+schrittweise Formen der Polizierung aus dem gesellschaftlichen Lebensalltag 
+hinauszudrängen.12
+
+Polizeikritische Positionen und ein Verständnis über institutionellen Rassismus 
+basieren in internationalen Debatten vielfach auf empirischen Erkenntnissen und 
+intersektionalen Analysen, die die Polizei- und Rassismusforschung liefern. In 
+vielen Studien werden stringent verschiedene Herrschaftsverhältnisse zusammen-
+gedacht, um die spezifische Polizierung, zum Beispiel von Schwarzen Frauen, 
+sichtbar zu machen.13
+
+Die Thematisierung institutionell rassistischer Strukturen, wie das Racial 
+Profiling14, beschränkt sich dabei nicht auf die Gesellschaften und Staaten des 
+Globalen Nordens, kennzeichnend sind gerade transnationale Forschungsdialoge 
+und auch ein kritischer Blick auf den Globalen Süden. Zum Beispiel beschreibt 
+Jaime Amparo Alves’ ethnographische Studie The Anti-Black City eindrücklich, 
+wie die Polizierung in brasilianischen Favelas rassistische Kategorisierungen und 
+eine „Regierung durch Tod“ (governing through death) hervorbringt.15
+
+Die interdisziplinäre Polizei- und Rassismusforschung ist sowohl in 
+Großbritannien als auch in den USA institutionell verankert, wodurch kritische 
+Räume geschaffen wurden, die eine kontinuierliche Bearbeitung dieser Themen 
+ermöglichen. Beispielhaft anzuführen ist in diesem Zusammenhang das Institute 
+
+9 Gomolla (2016), S. 135 ff; Carmichaels und Hamilton (1969).
+10 Neocleous (2000); Avitale (2018); Maynard (2020). Siehe für die deutsche Debatte: 
+Loick (2018); Loick und Thompson (2022).
+11 Camp und Heatherton (2016).
+12 Für einen Überblick: Pichl (2020) sowie das Themenheft „Lieber ohne Polizei?“ der 
+Zeitschrift Bürgerrechte & Polizei/CILIP, Heft 125/2021.
+13 Maynard (2017); Ritchie (2017).
+14 Glover (2009).
+15 Amparo Alves (2018).
+
+
+
+Internationale Perspektiven: Was kann … 583
+
+for Race Relations (IRR)16, das ursprünglich wissenschaftliche Politikberatung 
+anbot, sich aber in den 1970er Jahren in einen anti-racist thinktank wandelte.17 
+Durch die Zeitschrift Race & Class fungiert das IRR als Herausgeberin eines 
+zentralen wissenschaftlichen Debattenforums für die intersektionale Rassismus-
+forschung.
+
+2.2  Ethnographische Forschung und Feldzugang
+
+Ein großes Problem der deutschen Polizeiforschung liegt darin, dass sie oft keine 
+Daten oder einen Feldzugang zum Polizeiapparat erhält. US-amerikanische, 
+französische und britische Forscher:innen haben hingegen den Vorteil, dass sie 
+auf systematisierte Datensätze von Identitätsfeststellungen zugreifen können, die 
+von der Polizei selbst erhoben werden – wobei diese Daten selbstverständlich 
+auch Gegenstand wissenschaftlicher Reflexion und Kritik sind. Auf Grundlage 
+dieser Datensätze kommen quantitative Analysen zum Schluss, „dass Angehörige 
+ethnischer Minderheiten überproportional häufig von Polizeikontrollen betroffen 
+sind“18 – inwiefern diese Befunde aber auf institutionell-rassistische Strukturen in 
+der Polizei zurückzuführen sind, bleibt in den quantitativen Studien oft unklar.19 
+Auch deshalb zeichnen sich die besonders anregenden Forschungsbeiträge über 
+institutionellen Rassismus in der Polizei gerade nicht durch eine Auswertung 
+quantitativer Daten, sondern durch die Entwicklung qualitativer Methodologien 
+und ethnographische Beobachtungen aus. Drei solcher qualitativer Forschungs-
+zugänge sollen hier vorgestellt werden.
+
+Die erste Untersuchung stammt vom französischen Soziologen Didier Fassin. 
+Er hat in seiner Studie Enforcing Order über fünfzehn Monate lang die Praktiken 
+einer Pariser Polizeistation beobachtet, just zum Zeitpunkt als in Frankreich die 
+Banlieu-Aufstände von 2005 ausbrachen.20 Seine Beobachtungen verdichtet 
+Fassin in einer dichten Beschreibung alltäglicher Polizeiarbeit, in der er fest-
+stellt, dass weitreichende Ermessensspielräume der Polizei die Definitionsmacht 
+einräumen, wie sie die „Ordnung durchsetzen“ soll. Dabei geraten vornehmlich 
+soziale Problemviertel und Angehörige marginalisierter Gruppen in den Fokus.21 
+
+16 https://irr.org.uk. Zugegriffen: 18. Juli 2022.
+17 So die Selbstbeschreibung des IRR.
+18 Zitiert nach Hunold und Wegner (2020), S. 30.
+19 Siehe Kreuzer (2020).
+20 Fassin (2013).
+21 Fassin (2013), S. 217.
+
+
+
+584 M. Pichl
+
+Rassistische Kontrollen beschreibt Fassin nicht als Probleme einzelner bad 
+apples, sondern als Ergebnis kollektiver Praktiken:
+
+„It is the institution of law enforcement, and society more broadly, that produce 
+the racialized categories that officers put into action on the ground, transforming 
+minority youths into suspects, just as political discourse has done in recent 
+decades in linking immigration and crime. Rather than focusing attention on racial 
+discrimination as an individual act, we need to examine institutional racism as a 
+collective practice.“22
+
+In dieser Hinsicht war Fassins Untersuchung im französischen Forschungskontext 
+durchaus exzeptionell, weil die französische Sozialwissenschaft und Krimino-
+logie mit ihren traditionellen Perspektiven, die auf die Handlungen einzelner 
+Polizist:innen im Dienst zielten, institutionell-rassistische Strukturen nicht in den 
+Blick bekamen.
+
+Instruktiv sind darüber hinaus Fassins methodische Reflexionen: Ihm ist 
+bewusst, dass er keinen vollständig authentischen Einblick in die Polizeiarbeit 
+erhalten hat, obgleich er Polizist:innen bei ihren Einsätzen begleiten konnte 
+und vergleichsweise unbeschränkten Zugang zu der Behörde hatte. Aber die 
+Polizist:innen brachen Gespräche über bestimmte Themen ab oder unterließen 
+Maßnahmen, wenn er anwesend war. Diese Umstände betrachtet Fassin aber 
+nicht als Defizit seiner Beobachtungen, sondern er macht die „Selbstzensur“ der 
+Polizist:innen zum Gegenstand seiner Forschungsergebnisse:
+
+„I should add that what I saw and heard, hence what got through their self-
+censorship, seemed interesting to me precisely for this reason: it allowed me to 
+understand what police officers believed to be normally acceptable. For an observer 
+from outside their world, that was already a considerable insight.“23
+
+Fassin beschreibt detailreich die Schwierigkeiten ethnographischer Polizei-
+forschung: Während er 2005 noch beobachtend an Einsätzen der Pariser Polizei 
+teilnehmen konnte, verweigerte ihm das französische Innenministerium seit 2007 
+beharrlich die Fortführung seiner Forschung.24 Das Verbot über die Arbeitsweisen 
+der Polizei zu forschen führt faktisch dazu, dass in bestimmten Konstellationen 
+neben den Berichten von Betroffenen nur Journalist:innen mit investigativen 
+
+22 Fassin (2013), S. 168.
+23 Fassin (2013), S. 26.
+24 Fassin (2013), S. 15 ff.
+
+
+
+Internationale Perspektiven: Was kann … 585
+
+Mitteln in der Lage sind, Beschreibungen aus dem Polizeialltag zu liefern und 
+Macht- und Herrschaftsverhältnisse des Polizierens sichtbar zu machen. Dem 
+Journalisten Valentin Gendrot gelang es, undercover in der französischen Polizei 
+zu recherchieren und seine Beobachtungen in dem vielbeachteten Buch Flic einer 
+breiten Öffentlichkeit zugänglich zu machen.25 Er beschreibt darin Arbeitsweisen, 
+die das französische Innenministerium gerade nicht offenlegen will: Rassistische 
+Sprache und Gewalt gegenüber Menschen aus marginalisierten sozialen und 
+ethnischen Gruppen gehören Gendrot zufolge zum selbstverständlichen Alltag 
+des Polizierens.
+
+Da das Innenleben von Polizeiapparaten nicht nur in Deutschland oder Frank-
+reich für die Forschung eine Black Box ist, ist die Arbeit On the Run der US-
+amerikanischen Soziologin Alice Goffmann äußerst interessant. Wie Fassin 
+benutzt sie ethnographische Methoden, aber sie wechselt die Perspektive 
+und bekommt einen einzigartigen Feldzugang: Sie lebte in einem Ghetto in 
+Philadelphia (auf der 6th Street) und knüpfte dort Freund- und Bekanntschaften 
+mit Schwarzen Jugendlichen. Kontrollen, Gängelungen und die immerwährende 
+Gefahr der Inhaftierung oder des Todes durch die Polizei oder verfeindete 
+Gangs gehören dort zum Alltag. Goffman verzichtet in ihrer narrativen Studie 
+auf übergeordnete Thesen oder abstrakte Analysen. Dafür ist ihre Untersuchung 
+narrativ gestaltet wie ein Roman und zeichnet sich durch eine feingliedrige Dar-
+stellung der Biographien derjenigen Personen aus, die ein Teil der sogenannten 
+„Community der Flüchtigen“ sind.26 Sie zeichnet demgegenüber das Bild von 
+der Polizei als einer „weißen, anonymen Besatzungsmacht“27, die auf soziale 
+Probleme ausschließlich mit repressiven Mitteln reagiert bzw. nur auf diese Weise 
+reagieren kann. Interessanterweise zeigt Goffmans Studie auch kontraintuitive 
+Ergebnisse dieser Polizierung: Die Betroffenen der rassistischen Polizeikontrollen 
+wenden die repressiven Mittel in eigene Vorteile und Ressourcen, wenn sie bei-
+spielsweise strategisch einen Gefängnisaufenthalt nutzen, um sich lebensgefähr-
+lichen Auseinandersetzungen zwischen verfeindeten Gangs zu entziehen.28
+
+Zuletzt soll noch die Studie Race in the Shadow of the Law von dem britischen 
+Rechtsanthropologen Eddie Bruce-Jones vorgestellt werden.29 Er engagierte 
+sich zeitweilig als Beobachter des Prozesses rund um den Mord an Oury Jalloh, 
+
+25 Gendrot (2020).
+26 Goffman (2014), S. 195.
+27 Goffman (2014), S. 201.
+28 Goffman (2014), S. 91 ff.
+29 Bruce-Jones (2017).
+
+
+
+586 M. Pichl
+
+der 2005 in einer Dessauer Polizeizelle verbrannte. Ziel seiner Studie ist es 
+u. a. juristisches Wissen und die juristische Definitionsmacht mit den sub-
+alternen Praktiken der Schwarzen Community in Deutschland zu konfrontieren. 
+Diese Perspektive soll zeigen, dass das Recht sich als unzureichend erweist, 
+um rassistische Ungerechtigkeit zu benennen. Er verschränkt dabei Rassis-
+mus- und Neokolonialsmustheorien mit der Psychoanalyse und Rechtsanthropo-
+logie. Methodisch arbeitet er mit Expert:inneninterviews und teilnehmender 
+Beobachtung, zum Beispiel im Rahmen seiner Prozessbeobachtungen. Bruce-
+Jones ordnet die widerständigen Praktiken der Schwarzen Community aus 
+Deutschland in größere historische Kontexte wie den spezifisch deutschen 
+Kolonialismus oder globale antirassistische Befreiungsbewegungen ein.30 
+Daraus ergibt sich ein Facettenreichtum widerständiger Praktiken gegenüber der 
+Polizierung und juristisch fragwürdigen Zuschreibungen. Dies wird besonders 
+deutlich bei Bruce-Jones’ Darstellung des Oury Jalloh-Prozesses, in dem bereits 
+die grundsätzliche Perspektive des Gerichts, rassistische Gewalt nicht als 
+strukturelles Problem zu begreifen, dem Sachverhalt nicht gerecht wird. Diesem 
+Narrativ setzen die Schwarzen Aktivist:innen eine Praxis entgegen, die den 
+Prozess als Inszenierung demaskiert: „The activists who call for truth around the 
+death of Oury Jalloh speak of the trial in a way that configures the legal process 
+as a show trial, a mask of sorts.“31
+
+2.3  Gemeinsamkeiten der intersektionalen und 
+ethnographischen Ansätze
+
+Auch im deutschsprachigen Raum gibt es zunehmend Forschungsbeiträge, die 
+sich intersektionale und ethnographische Perspektiven zu Eigen machen und 
+innovative Einsichten in alltägliche Polizeiarbeit leisten.32 Die drei vorgestellten 
+Ansätze aus dem internationalen Kontext weisen Gemeinsamkeiten auf, die 
+typisch sind für die kritische Forschung über Polizei und institutionellen Rassis-
+mus im anglo-amerikanischen Raum und die in die deutschsprachige Debatte um 
+Rassismus und Polizei produktiv einbezogen werden können.
+
+30 Bruce-Jones (2017), S. 121 ff.
+31 Bruce-Jones (2017), S. 91.
+32 Hunold (2015); Howe und Ostermeier (2019).
+
+
+
+Internationale Perspektiven: Was kann … 587
+
+Die Arbeiten von Fassin und Goffman teilen eine Perspektive, die den sozialen 
+und urbanen Raum als genuinen Ort des Polizierens begreift.33 In dieser Hinsicht 
+sind ihre Analysen anschlussfähig an humangeographische Forschungen über 
+Polizei- und Sicherheitsbehörden: „Die Polizei setzt nicht nur Recht und Gesetz um, 
+sie gestaltet Räume und Gesellschaft nach eigenen Vorstellungen.“34 Räume sind 
+also nicht etwas natürlich gegebenes, sondern werden gesellschaftlich produziert – 
+und die Polizei ist vor diesem Hintergrund eine eigenständige Akteurin, die durch 
+ihre Kontrollen den sozialen Raum rassistisch kategorisiert und stratifiziert.
+
+Der Ansatz von Bruce-Jones und Goffman verbindet zudem, dass sie die 
+widerständigen Praktiken gegen das rassistische Polizieren sichtbar machen: 
+Die Betroffenen der Polizeigewalt und -kontrollen sind keine passiven Opfer, 
+sondern handelnde Subjekte, die sich kollektiv in ihren Stadtteilen oder in anti-
+rassistischen Netzwerken organisieren. Die antirassistische Widerständigkeit, 
+gerade der Schwarzen Communities, steht bei vielen Forschungsbeiträgen aus 
+dem internationalen Kontext im Zentrum.35
+
+3 I nstitutioneller Rassismus der Polizei 
+in rechtsstaatlichen Verfahren
+
+Nicht nur die internationale wissenschaftliche Debatte über institutionellen 
+Rassismus in der Polizei sollte im deutschen Kontext stärker rezipiert werden. 
+Auch die rechtsstaatliche Aufarbeitung hat in Großbritannien oder vor der 
+europäischen Gerichtsbarkeit dazu beigetragen, dass durch jahrzehntelange anti-
+rassistische Kämpfe institutioneller Rassismus im Recht benannt wird.
+
+3.1  Institutioneller Rassismus als Gegenstand 
+in staatlichen Kommissionen
+
+In Großbritannien haben sich in den 1980er und 1990er Jahren staatliche Unter-
+suchungskommissionen mit dem institutionellen Rassismus in Behörden 
+
+33 Siehe dazu auch den Beitrag von Belina in diesem Band.
+34 Belina (2018), S. 130.
+35 Camp und Heatherton (2016); Elliot-Cooper (2018); Maynard (2020, 2017); Osuna 
+(2019).
+
+
+
+588 M. Pichl
+
+beschäftigt. Ihre Ergebnisse werden sehr oft in der Forschungsliteratur rezipiert.36 
+Der im Jahr 1981 erschienene Scarman-Report hatte eine brutale stop-and-
+search-Kontrolle in London zum Gegenstand. Die Autor:innen des Reports 
+sprachen die Polizeibehörde zwar vom Vorwurf des Rassismus frei, betonten aber, 
+dass Ungleichheiten aufgrund der race im britischen Staats- und Gesellschafts-
+system vorhanden seien.37 Vorgeschlagen wurden affirmatice actions38, um diesen 
+Formen von Diskriminierung zu begegnen.
+
+An diese Vorarbeiten konnte der ein Jahrzehnt später herausgegebene 
+Macpherson-Report anschließen. In diesem ging es um den rassistischen Mord 
+an dem jungen Schwarzen Stephen Lawrence, der 1993 von Rassisten erstochen 
+wurde. Die Polizei ermittelte in diesem Fall zunächst gegen die Betroffenen und 
+ging nicht gegen die Täter:innen vor. Im Abschlussbericht zu den Vorkomm-
+nissen heißt es, die mangelhafte Ermittlung der Tatumstände sei Folge eines 
+institutionellen Rassismus in den Polizeibehörden. Die Kommission erarbeitete 
+dabei einen Begriff vom institutionellen Rassismus, der auch in der Rassismus-
+forschung stark rezipiert wird.39 Sie versteht darunter das kollektive Versagen 
+einer Organisation, Menschen aufgrund ihrer Hautfarbe, Kultur oder ethnischen 
+Herkunft eine angemessene oder professionelle Dienstleistung zu bieten.40 Diese 
+Definition stellt gerade nicht auf das individuelle Fehlverhalten oder Einstellungs-
+muster Einzelner ab, sondern rückt das „kollektive Scheitern einer Organisation“ 
+ins Zentrum der Analyse. Auch wird in dem Report auf Definitionen des 
+institutionellen Rassismus Bezug genommen, demzufolge solche Maßnahmen 
+nicht immer mit Vorsatz oder Wissen der Beteiligten erfolgen41 – eine wichtige 
+Klarstellung, da gerade in der öffentlichen Debatte Handlungen der Polizei nicht 
+als rassistisch bewertet werden, wenn im Einzelfall keine Kausalität zwischen der 
+
+36 Bruce-Jones (2017), S. 33.
+37 Scarman-Report (1981), § 9.1.
+38 Dabei handelt es sich um Maßnahmen, die die Partizipation und Gleichstellung von 
+Angehörigen sozialer oder ethnischer Minderheiten verbessern sollen, zum Beispiel durch 
+Quotenregelungen oder erleichterte Zugänge für Klagen.
+39 Siehe dazu die Beiträge von Karakayalı und Weinhauer in diesem Band.
+40 Ausführlich: „The collective failure of an organisation to provide an appropriate and 
+professional service to people because of their colour, culture, or ethnic origin. It can be 
+seen or detected in processes, attitudes and behaviour which amount to discrimination 
+through unwitting prejudice, ignorance, thoughtlessness and racist stereotyping which dis-
+advantage minority ethnic people.“, vgl. Macpherson-Report (1999, § 6.34).
+41 Macpherson-Report (1999, § 6.30).
+
+
+
+Internationale Perspektiven: Was kann … 589
+
+politischen Einstellung der handelnden Polizeibeamt:innen und der Maßnahme 
+hergestellt werden kann.
+
+Auch in Deutschland gab es staatliche Untersuchungsausschüsse und Enquete-
+kommissionen, in denen institutionell rassistische Strukturen in der Polizei 
+eine Rolle spielten und an die eine kritische Polizeiforschung anknüpfen kann. 
+Die NSU-Untersuchungsausschüsse aus Bund und Ländern haben in ihren 
+Abschlussberichten zahlreiche Handlungsempfehlungen vorgeschlagen, um 
+rechtsterroristische Straftaten zukünftig zu verhindern. Vor allem der NSU-
+Bundestagsuntersuchungsausschuss befasste sich mit dem Umgang der Opfer 
+durch die Sicherheitsbehörden und dokumentierte sehr genau, wie die Polizei 
+bundesländerübergreifend immer wieder die gleichen rassistischen Routinen 
+in der Ermittlungsarbeit verfolgte.42 Das Problem ist aber, dass die Mehrheit 
+des Ausschusses diese Polizeiarbeit nicht als institutionell-rassistisch bewertete 
+und keine, dem Macpherson-Report vergleichbare, eigenständige Begriffs-
+arbeit zu diesem Machtverhältnis geleistet wurde – dies blieb den Sondervoten 
+der Oppositionsfraktionen vorbehalten.43 Parlamentarische Untersuchungs-
+ausschüsse und Enquetekommissionen, die immer öfter zu Themen des Rassis-
+mus, Rechtsextremismus und Rechtsterrorismus eingesetzt werden44, bieten 
+aber das Potenzial für eine kritische Polizeiforschung sich einerseits an der 
+dortigen Wissensproduktion zu beteiligen und andererseits die Abschlussberichte 
+systematisch in die eigene Forschung als Quelle einzubeziehen.
+
+3.2  Institutioneller Rassismus vor internationalen 
+Gerichten und Organisationen
+
+Abseits von nationalstaatlichen Kommissionen haben sich auch internationale 
+Ausschüsse und Gerichtsbarkeiten mit Fällen von institutionellem Rassismus 
+beschäftigt. Das Europa- und Völkerrecht enthält dabei ein Bündel von Normen, 
+
+42 BT-Drs. 17/14.600, S. 729.
+43 BT-Drs. 17/14.600, S. 872, 983, 1036.
+44 Eine Enquete-Kommission des Thüringer Landtags hat sich zum Beispiel als eine der 
+wenigen staatlichen Kommissionen systematisch mit Rassismus in verschiedenen staat-
+lichen und gesellschaftlichen Bereichen auseinandergesetzt und dabei auch eigene Begriffs-
+definitionen für einen institutionellen Rassismus erarbeitet, siehe dazu TH LT-Drs. 7/7709, 
+S. 59.
+
+
+
+590 M. Pichl
+
+um unterschiedliche Formen von rassistischer Diskriminierung – sei sie unmittel-
+bar oder mittelbar – zu adressieren.45 Das Internationale Übereinkommen zur 
+Beseitigung jeder Form von Rassendiskriminierung (ICERD) statuiert, dass die 
+Unterzeichnerstaaten Opfer und Betroffene von rassistischer Diskriminierung 
+aktiv durch politische und gesetzliche Mittel zu schützen haben (Art. 2 Abs. 1 
+ICERD). Das explizite Verbot rassistischer Diskriminierung findet sich darüber 
+hinaus noch in weiteren völkerrechtlichen Konventionen, wie in Art. 14 der 
+Europäischen Menschenrechtskonvention (EMRK) und in Art. 2 Abs. 1 und 
+Art. 26 des Internationalen Paktes über bürgerliche und politische Rechte 
+(IPbpR).
+
+Es hat sich gezeigt, dass die internationalen Ausschüsse und Foren genutzt 
+werden können, wenn es nicht gelingt, institutionellen Rassismus im Rahmen 
+nationalstaatlicher Verfahren zu thematisieren. Auch hier ist die Aufarbeitung 
+des NSU-Komplex paradigmatisch: Für den 19.–22. Staatenbericht der Bundes-
+republik Deutschland an den UN-Ausschuss zur Beseitigung rassistischer Dis-
+kriminierung (CERD) kritisierten Anwält:innen der Nebenklage im NSU-Prozess, 
+Stiftungen, Wissenschaftler:innen und Organisationen in einem Parallelbericht, 
+dass institutioneller Rassismus als eine wesentliche Ursache des NSU-Komplex 
+weder im Strafprozess noch in den Untersuchungsausschüssen aufgearbeitet 
+wurde. Der UN-Ausschuss übernahm in seinem Abschlussbericht die Kritik 
+zivilgesellschaftlicher Akteur:innen und hielt es nicht für ausgeschlossen, dass 
+institutionell rassistische Strukturen die Ermittlungsarbeit beeinflussten.46 Einen 
+Einfluss auf die weitere Arbeit der nationalen Untersuchungsausschüsse hatte der 
+UN-Bericht jedoch nicht.
+
+Wie die UN-Ausschüsse setzt sich auch der Europarat mit institutionellem 
+Rassismus auseinander, dokumentiert Vorfälle und weist die Konventions-
+staaten auf ihre menschenrechtlichen Schutzpflichten hin. In einem Bericht des 
+Ausschusses für Gleichheit und Gleichbehandlung des Europarats steht, Rassis-
+mus spare keinen Teil der Gesellschaft aus und auch die Polizei sei hiervon 
+keine Ausnahme. Rassismus finde sich in Einstellungen und Verhaltensweisen 
+von Polizeibeamt:innen, aber auch in Regeln und Gesetzen, die die Polizei 
+anwendet und die als institutioneller Rassismus zu qualifizieren seien. Der Aus-
+schuss ermahnte die Konventionsstaaten anzuerkennen, dass es Rassismus in der 
+
+45 Siehe für einen Überblick: Holzleithner (2016); Liebscher (2021), S. 206 ff.
+46 CERD (2015).
+
+
+
+Internationale Perspektiven: Was kann … 591
+
+Polizei gibt und diesen mit geeigneten Maßnahmen zu adressieren.47 Während 
+sich die parlamentarischen Untersuchungsausschüsse und andere staatliche 
+Stellen bislang scheuen, den Begriff des institutionellen Rassismus in Bezug auf 
+die Ermittlungen zur NSU-Mordserie zu verwenden, haben Vertreter:innen und 
+Organe des Europarats dazu Stellung genommen. Der frühere Menschenrechts-
+kommissar des Europarats Nils Muižnieks erklärte gegenüber der deutschen 
+Bundesregierung:
+
+„Nach Meinung des Menschenrechtskommissars ist es das Hauptmerkmal dieser 
+Affäre, dass die Polizei, die Staatsanwaltschaft und die Richter nicht in der Lage 
+waren, die rassistischen Motive der Verbrechen zu erkennen. Vielleicht noch 
+wichtiger ist indes, dass diese Unfähigkeit auf eine strukturelle Voreingenommen-
+heit gegen Ausländer zurückzuführen ist oder Personen, die als solche wahr-
+genommen werden, die bei Polizei und Strafverfolgungsbehörden vorherrscht, 
+sowie auf ein weit verbreitetes Misstrauen gegenüber Ausländern in der Gesell-
+schaft.“48
+
+Schließlich haben Fragen zur Aufarbeitung institutionell rassistischer Vorfälle 
+auch in der Gerichtsbarkeit an Relevanz gewonnen. Der Europäische Gerichtshof 
+für Menschenrechte (EGMR) hat das Diskriminierungsverbot aus Art. 14 EMRK 
+als Maßstab genommen, um eine Rechtsprechung zu entwickeln, die auch die 
+mittelbare Diskriminierung aufgrund von rassistischen Gründen erfasst.49 Spezi-
+fisch mit institutionellem Rassismus hat sich der EGMR in einer vielbeachteten 
+Entscheidung von 2019 auseinandergesetzt.50 Der Fall behandelte einen Polizei-
+einsatz in einem Dorf von Roma, in dessen Zuge 85 bewaffnete Beamt:innen 
+die Bewohner:innen geschlagen und verletzt haben. Der EGMR erachtete nicht 
+nur den Polizeieinsatz für unverhältnismäßig, sondern kam zum Ergebnis, die 
+Betroffenen seien ins Visier der Polizei geraten, gerade weil sie Roma sind.
+
+„The Court considers that the applicants were targeted because they were Roma and 
+because the authorities perceived the Roma community as anti-social and criminal. 
+This conclusion, also supported by the general reports of racial stereotyping of 
+Roma presented by the third party, goes beyond a simple expression of concern 
+about ethnic discrimination in Romania. It shows concretely that the decisions to 
+organize the police raid and to use force against the applicants were made on 
+
+47 Europarat (2014).
+48 Menschenrechtskommissar des Europarates (2015), S. 41.
+49 Siehe dazu: Barskanmaz (2020), S. 251 ff.
+50 EGMR, Linguar v. Rumänien, Urt. v. 16.04.2019 – 4874/14.
+
+
+
+592 M. Pichl
+
+considerations based on the applicants’ ethnic origin. The authorities automatically 
+connected ethnicity to criminal behaviour, thus their ethnic profiling of the 
+applicants was discriminatory.“51
+
+Zum ersten Mal benutzte der EGMR den Begriff des „ethnic profiling“. Diese 
+Klarheit ist darauf zurückzuführen, dass die rumänischen Behörden in offiziellen 
+Dokumenten eine deutlich diskriminierende Sprache gegenüber der Minderheit 
+der Roma verwendeten, ein systemisches Problem daher erkennbar war. Viele 
+Polizeibehörden verzichten jedoch auf solche eindeutigen Zuschreibungen, auch 
+wenn die konkreten Maßnahmen einen institutionell-rassistischen Charakter 
+haben. Und trotz der klaren Benennung des Problems in diesem Fall, zeigte der 
+EGMR, dass er in anderen Konstellationen institutionell-rassistische Strukturen 
+auch ausblendet.52
+
+4 S chlussfolgerungen für die deutsche Debatte 
+über institutionellen Rassismus
+
+Die genannten Beispiele aus anderen Ländern und vor inter- und transnationalen 
+Foren zeigen, dass „außerhalb des deutschsprachigen Raums […] die Ver-
+wendung des Rassismusbegriffs und die Benennung rassistischer Praxen selbst-
+verständlicher“ gelingt.53 Forscher:innen aus der Soziologie und Kriminologie 
+beschäftigten sich in Deutschland schon in den 1970er Jahren mit institutionellem 
+Rassismus in der Polizei.54 Der zwischenzeitliche Abbau der kritischen Krimino-
+logie an den Hochschulen und auch der schwierige Stand der Rassismus-
+
+51 EGMR, Linguar v. Rumänien, Urt. v. 16.04.2019 – 4874/14, Rn. 76.
+52 Dies gilt zum Beispiel für die Externalisierungspolitik der EU-Mitgliedstaaten in der 
+Migrationskontrollpolitik: Obwohl das spanische Grenzregime in den Exklaven Ceuta 
+und Melilla darauf basiert, dass vor allem subsaharische Geflüchtete im Vorfeld der 
+europäischen Grenzen durch rassistische Kontrollen der marokkanischen Polizei von 
+weiteren Migrationsbewegungen abgehalten werden, spielte dies in der Bewertung des 
+Zugangs von Geflüchteten zum Recht in der einschlägigen Entscheidung keine nennens-
+werte Rolle, siehe EGMR, N.D. und N.T. gegen Spanien, Urt. v. 13.02.2020 – Individual-
+beschwerdenummer 8675/15.
+53 Heinemann und Mecheril (2015), S. 22.
+54 Behr (2016), S. 302.
+
+
+
+Internationale Perspektiven: Was kann … 593
+
+forschung in Deutschland dürften dazu beigetragen haben, dass es lange Zeit nur 
+wenige wissenschaftliche Anknüpfungen an die damaligen Erkenntnisse gab.55
+
+Die deutsche Debatte kann von den internationalen Perspektiven viel 
+lernen. Wichtig ist es Rassismus nicht als individuelle Einstellung, sondern als 
+strukturierendes gesellschaftliches Verhältnis zu verstehen56, das sich spezi-
+fisch in öffentlichen Diskursen und Staatsapparaten verdichtet. Ethnographische 
+Methoden der Beobachtung, Teilnahme und Interviews mit Betroffenen schaffen 
+methodologische Zugänge, um sich den ansonsten weitestgehend abgeschotteten 
+Polizeiapparaten zu nähern bzw. Formen der Polizierung zu verstehen. Die Aus-
+einandersetzung mit widerständigen antirassistischen Praxen macht zudem die 
+Betroffenen von Polizeigewalt als handelnde Subjekte sichtbar.
+
+Gerade die Auseinandersetzung mit der internationalen wissenschaft-
+lichen Debatte hat unterstrichen, dass sich institutioneller Rassismus in urbanen 
+sozialen Räumen verdichtet. Dies ermöglicht Anschlüsse an kritische humangeo-
+graphische Ansätze57, die sich in Deutschland zum Beispiel rund um die Zeit-
+schrift sub\urban vernetzen und in der Praktiken der Polizierung kontinuierlich 
+im Fokus stehen.58 Wichtig ist es zudem, die Polizierung in den Städten nicht 
+losgelöst von historischen Kontinuitäten zu betrachten. In den Worten der Sozial-
+anthropologin Vanessa E. Thompson:
+
+„Die Militarisierung der Polizeien in den deprivilegierten und rassifizierten Vor-
+städten des Globalen Nordens beispielsweise kann nicht losgelöst werden von den 
+Kontinuitäten und Brüchen der Militarisierung der Polizei aus historischer sowie aus 
+transnationaler Perspektive und einer Analyse entlang vermachteter postkolonialer 
+Nord-Südverhältnisse.“59
+
+Die Menschenrechtskommissarin des Europarats Dunja Mijatovic sagte, das 
+nicht eingehaltene Versprechen der Gleichheit stehe im Gegensatz zu einer 
+langen politischen, philosophischen und juristischen Tradition, die die Gleich-
+heit in den Mittelpunkt der europäischen Demokratien stellt. Dennoch würden die 
+europäischen Staaten „nur langsam gegen die diskriminierenden Praktiken [vor-
+
+55 Siehe für aktuelle Forschungen: Abdul-Rahman et al. (2020).
+56 Rommelspacher (2011), S. 29.
+57 Belina (2018).
+58 Siehe zum Beispiel die 2014er Ausgabe „Illegalität – Stadt – Polizei“, 2(2). https://zeit-
+schrift-suburban.de/sys/index.php/suburban/issue/view/28. Zugegriffen: 18. Juli 2022.
+59 Thompson (2018), S. 202.
+
+
+
+594 M. Pichl
+
+gehen], die Schwarze Menschen zu Bürgern zweiter Klasse in unseren Gesell-
+schaften machen“60. Eine Mahnung, die auch in der deutschen Debatte um 
+Rassismus Gehör finden sollte.
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020). Rassis-
+mus und Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. 
+Zweiter Zwischenbericht zum Forschungsbericht „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). Ruhr-Universität Bochum.
+
+Amparo Alves, J. (2018). The Anti-Black City. Police Terror and Black Urban Life in 
+Brazil. Minneapolis: University of Minnesota Press.
+
+Avitale, A. S. (2018). The End of Policing. London/New York: Verso.
+Barskanmaz, C. (2020). Recht und Rassismus. Das menschenrechtliche Verbot der Dis-
+
+kriminierung aufgrund der Rasse. Wiesbaden: Springer VS.
+Behr, R. (2016). Diskriminierung durch Polizeibehörden. In Scherr et al. (Hrsg.), Hand-
+
+buch Diskriminierung (S. 301–319). Wiesbaden: Springer VS.
+Belina, B. (2018). Wie Polizei Raum und Gesellschaft gestaltet. In D. Loick (Hrsg.), Kritik 
+
+der Polizei (S. 119–133). Frankfurt am Main: Campus.
+Bojadzijev, M., Braun, K., Opratko, B., & Liebig, M. (2019). Rassismusforschung in 
+
+Deutschland. Prekäre Geschichte, strukturelle Probleme, neue Herausforderungen. In 
+T. Dürr & R. Becker (Hrsg.), Leerstelle Rassismus? Analysen und Handlungsmöglich-
+keiten nach dem NSU (S. 59–73). Frankfurt am Main: Wochenschau Verlag.
+
+Bojadzijev, M. (2008). Die windige Internationale. Rassismus und Kämpfe der Migration. 
+Münster: Westfälisches Dampfboot.
+
+Bruce-Jones, E. (2017). Race in the Shadow of Law. State violence in contemporary 
+Europe. Oxon/New York: Routledge.
+
+Camp, J. T., & Heatherton, C. (2016). Policing the Planet: Why the Policing Crisis Led to 
+Black Lives Matter. London/New York: Verso Books.
+
+Carmichael, S., & Hamilton, C. (1969). Black Power: Die Politik der Befreiung in Amerika. 
+Frankfurt am Main: Fischer-Verlag.
+
+Committee on the Elimination of Racial Discrimination (2015). Concluding observations 
+on the combined nineteenth to twenty-second periodic reports of Germany. CERD/C/
+DEU/CO/19–22. https://tbinternet.ohchr.org/Treaties/CERD/Shared%20Documents/
+DEU/INT_CERD_COC_DEU_20483_E.pdf. Zugegriffen: 12. April 2021.
+
+Denninger, E., & Lüderssen, K. (1978). Polizei und Strafprozeß im demokratischen Rechts-
+staat. Frankfurt am Main: Suhrkamp.
+
+Elliot-Cooper, A. (2018). The struggle that cannot be named: violence, space and the re-
+articulation of anti-racism in post-Duggan Britain. Ethnic and Racial Studies, 41(14), 
+S. 2445.
+
+60 Mijatovic (2021).
+
+
+
+Internationale Perspektiven: Was kann … 595
+
+Europarat (2014). Ausschuss für Gleichheit und Gleichbehandlung. Bericht: Tackling 
+racism in the police. http://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.
+asp?fileid=20325&lang=EN. Zugegriffen: 18. Juli 2022.
+
+Fassin, D. (2013). Enforcing Order. An Ethnography of Urban Policing. Cambridge/
+Malden: Polity Press.
+
+Gendrot, V. (2020). Flic – Un journaliste a infiltré la police. Paris: éditions Goutt d’Or.
+Glover, K. (2009). Racial Profiling: Research, Racism and Resistance. Lanham: Rowman 
+
+& Littlefield.
+Goffman, A. (2014). On the Run. Fugitive Life in an American City. Chicago: Chicago Uni-
+
+versity Press.
+Gomolla, M. (2016). Direkte und indirekte, institutionelle und strukturelle Dis-
+
+kriminierung. In Scherr et al. (Hrsg.), Handbuch Diskriminierung (S. 133–155). Wies-
+baden: Springer VS.
+
+Heinemann, A. M. B., & Mecheril, P. (2015). Institutioneller Rassismus als Analyse-
+perspektive. Zwei Argumente. In Weiterdenken – Heinrich Böll Stiftung Sachsen 
+(Hrsg.), Alles im weißen Bereich? Institutioneller Rassismus in Sachsen (S. 17–25). 
+Dresden.
+
+Holzleithner, E. (2016). EU-rechtliche Bestimmungen zum Diskriminierungsverbot. In A. 
+Scherr et al. (Hrsg.), Handbuch Diskriminierung (S. 211–237). Wiesbaden: Springer 
+VS.
+
+Howe, C., & Ostermeier, L. (Hrsg.) (2019). Polizei und Gesellschaft. Transdisziplinäre 
+Perspektiven zu Methoden, Theorie und Empirie reflexiver Polizeiforschung. Wies-
+baden: Springer VS.
+
+Hunold, D. (2015). Polizei im Revier: Polizeiliche Handlungspraxis gegenüber Jugend-
+lichen in der multiethnischen Stadt. Berlin: Duncker & Humblot.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei: zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Kreuzer, P. (2020). Tödliche Polizeigewalt in den USA. PRIF-Blog. https://blog.prif.
+org/2020/11/30/toedliche-polizeigewalt-in-den-usa-rassismus-armut-ungleichheit-
+gewaltkriminalitaet/. Zugegriffen: 18. Juli 2022.
+
+Liebscher, D. (2021). Rasse im Recht – Recht gegen Rassismus. Genealogie einer 
+ambivalenten rechtlichen Kategorie. Berlin: Suhrkamp.
+
+Loick, D. (Hrsg.) (2018). Kritik der Polizei. Frankfurt am Main: Campus.
+Loick, D., & Thompson, V. E. (2022). Abolitionismus. Ein Reader. Berlin: Suhrkamp.
+Macpherson, W. (1999). The Steven Lawrence Inquiry. Report presented to the Parliament 
+
+by the Secretary of State for the Home Department by Command of Her Majesty. 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attach-
+ment_data/file/277111/4262.pdf. Zugegriffen: 18. Juli 2022.
+
+Maynard, R. (2017). Policing Black Lives: State Violence in Canada from Slavery to 
+Present. Winnipeg: Fernwood Publishing.
+
+Maynard, R. (2020). Police Abolition/Black Revolt. Canadian Journal of Cultural Studies, 
+41, S. 70.
+
+Menschenrechtskommissar des Europarates (2015). Bericht nach seinem Besuch in 
+Deutschland am 24. April und vom 4. bis zum 8. Mai 2015, CommDH(2015)20. 
+https://www.bmjv.de/SharedDocs/Archiv/Downloads/Bericht_des_Menschen-
+rechtskommissars_ueber_seinen_Besuch_in_Deutschland_im_Jahre_2015.pdf?__
+blob=publicationFile&v=5. Zugegriffen: 18. Juli 2022.
+
+
+
+596 M. Pichl
+
+Mijatovic, D. (2021). Rassismus und Afrophobie in Europa bekämpfen. Deutsche Welle 
+21.03.2021. https://www.dw.com/de/gastkommentar-rassismus-und-afrophobie-in-
+europa-bekämpfen/a-56935073. Zugegriffen: 18. Juli 2022.
+
+Neocleous, M. (2000). The Fabrication of Social Order. A Critical Theory of Police Power. 
+London: Pluto Press.
+
+Osuna, S. (2019). The Psycho Realm Blues: The Violence of Policing, Disorderung 
+Practices, and Rap Criticism in Los Angeles. Chiricú Journal: Latina/o Literatures, 
+4(1), S. 76.
+
+Pichl, M. (2020). Zwischen Defunding und Abschaffung. Zur aktuellen Debatte über 
+Polizei und Rassismus. Prager Frühling. https://www.prager-fruehling-magazin.de/de/
+article/1553.zwischen-defunding-und-abschaffung.html. Zugegriffen: 18. Juli 2022.
+
+Reimer, S. (2020). Racial Profiling: Dein Freund und Helfer? Das Parlament, 70(26–27), S. 
+9. https://www.das-parlament.de/2020/26_27/im_blickpunkt/702034-702034. Zugegriffen: 
+12. April 2021.
+
+Ritchie, A. (2017). Invisible No More: Police Violence Against Black Women. Boston: 
+Beacon Press.
+
+Röhner, C. (2020). Die Verschiebung des Sagbaren. Wie Universitäten dem Druck der AfD 
+nachgeben. In N. Austermann et al. (Hrsg.), Report Recht gegen Rechts (S. 71–76). 
+Frankfurt am Main: Fischer-Verlag.
+
+Rommelspacher, Birgit (2011). Was ist eigentlich Rassismus. In P. Mecheril & C. Melter 
+(Hrsg.), Rassismuskritik. Band 1: Rassismustheorie und -Forschung, 2. Auflage 
+(S. 25–38). Schwalbach: Wochenschau Verlag.
+
+Salzborn, S. (2016). Der NSU und die Folgen für die politische Kultur in Deutschland. 
+Demokratie gegen Menschenfeindlichkeit, 1(2), S. 9.
+
+Scarman-Report (1981). The Brixton Disorders, 10–12 April 1981. London: Home Office.
+Sturm, M. (2019). Nichts gelernt? Die Polizei und der NSU-Komplex. In T. Dürr & R. 
+
+Becker (Hrsg.), Leerstelle Rassismus? Analysen und Handlungsmöglichkeiten nach dem 
+NSU (S. 110–123). Frankfurt am Main: Wochenschau Verlag.
+
+Thompson, V. E. (2018). „There is no justice, there is just us!“: Ansätze zu einer 
+postcolonial feministischen Kritik der Polizei am Beispiel von Racial Profiling. In D. 
+Loick (Hrsg.), Kritik der Polizei (S. 197–219). Frankfurt am Main: Campus.
+
+Weinhauer, K. (2020). Rassistische Praktiken als Probleme zeitgeschichtlicher Polizei-
+forschung. L.I.S.A.: Wissenschaftsportal Gerda-Henkel-Stiftung. https://lisa.gerda-
+henkel-stiftung.de/rassismus_und_geschichtswissenschaft_weinhauer. Zugegriffen: 18. 
+Juli 2022.
+
+Dr. Dr. Maximilian Pichl vertritt derzeit die Professur für Politische Theorie an der Uni-
+versität Kassel. Seine Schwerpunkte liegen in der Kritischen Rechts- und Staatstheorie, 
+Asyl- und Migrationsrecht und in der Polizeiforschung.
+
+
+
+Internationale Perspektiven: Was kann … 597
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

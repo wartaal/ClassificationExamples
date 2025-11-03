@@ -1,0 +1,930 @@
+﻿Rechtlicher Schutz vor polizeilicher 
+Diskriminierung aus rassistischen 
+Gründen
+
+Andreas Ruch
+
+Zusammenfassung
+
+Der Beitrag legt dar, dass die Rechtsordnung nicht nur die zielgerichtete 
+Ungleichbehandlung aufgrund rassistisch motivierter Zuschreibungen ver-
+bietet. Die Polizei hat es auch zu unterlassen, die Hautfarbe mit anderen 
+Kriterien zu verbinden und auf dieser Grundlage über die Durchführung von 
+Eingriffsmaßnahmen zu entscheiden. Dieser Diskriminierungsschutz ist auch 
+dann keiner Einschränkung zugänglich, wenn polizeiliche Lagebilder die 
+erhöhte Auffälligkeit einer bestimmten, anhand phänotypischer Merkmale ver-
+meintlich eingrenzbaren Täter:innengruppierung nahelegen. Konkretisiert wird 
+dieser verfassungsrechtliche Schutzauftrag durch landesrechtliche Antidis-
+kriminierungsvorschriften. Deren Regelungsinhalt umfasst auch Kriterien zur 
+Verteilung der Beweislast bei Diskriminierungsklagen.
+
+Schlüsselwörter
+
+Diskriminierungsschutz · Gleichheitssatz · Racial Profiling · 
+Landesantidiskriminierungsgesetz
+
+A. Ruch (*) 
+Hochschule für Polizei und öffentliche Verwaltung NRW, Gelsenkirchen, Deutschland
+E-Mail: andreas.ruch@hspv.nrw.de
+
+© Der/die Autor(en) 2022 83
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_5
+
+
+
+84 A. Ruch
+
+1 E inleitung und Gang der Darstellung
+
+Die unterschiedliche Behandlung von Personen gehört zum Polizeialltag und ist 
+Ausdruck gesetzlicher Handlungsspielräume, welche die Polizei dazu befähigen 
+und verpflichten, individuell und situativ angepasste Maßnahmen zu treffen. 
+Hieraus resultierende unterschiedliche Vorgehensweisen sorgen in der Regel für 
+keine Diskussionen, solange sie sich durch eine offen zu Tage tretende Gefahr-
+verantwortung der betroffenen Person begründen lassen. Demgegenüber sind 
+Maßnahmen im Einzelfall aufwendiger zu begründen, wenn der Eindruck ent-
+steht, sie seien durch das von der weißen Mehrheitsgesellschaft abweichende 
+äußere Erscheinungsbild einer Person beeinflusst worden. In diesen Fällen hat 
+sich die Polizei regelmäßig mit dem Vorwurf auseinanderzusetzen, sie verstoße 
+gegen die in der Rechtsordnung normierten Verbote der Ungleichbehandlung aus 
+rassistischen Gründen.
+
+Der Beitrag befasst sich mit zwei zentralen Diskriminierungsverboten im 
+deutschen Recht. Abschn. 2 zeigt den Anwendungsbereich des in Art. 3 Abs. 3 
+Grundgesetz (GG) formulierten besonderen Gleichheitssatzes auf und legt dar, 
+in welchen Fällen polizeiliche Maßnahmen mit dem Verbot der Ungleichbe-
+handlung „wegen der Rasse“ in Konflikt stehen. Hierbei ist umstritten, ob es 
+der Polizei ausnahmsweise gestattet ist, eine Eingriffsmaßnahme an die Haut-
+farbe einer Person anzuknüpfen. Der Meinungsstand zu dieser Frage wird in 
+Abschn. 3 abgebildet und einem eigenen Lösungsvorschlag zugeführt. Abschn. 4 
+befasst sich mit den landesrechtlichen Entwicklungen im Antidiskriminierungs-
+recht. Exemplarisch wird anhand des Landesantidiskriminierungsgesetz (LADG) 
+Berlin der Inhalt des dortigen Diskriminierungsschutzes vorgestellt und mit der 
+verfassungsrechtlichen Regelung verglichen. Daran anknüpfend wird die auch bei 
+Art. 3 Abs. 3 GG relevante Frage nach der Beweislastverteilung bei behaupteten 
+Verstößen gegen das Diskriminierungsverbot behandelt sowie ein Ausblick auf 
+die zu erwartenden praktischen Folgen gegeben.
+
+2 V erfassungsrechtliches Verbot rassistischer 
+Diskriminierung
+
+Neben dem allgemeinen Gleichheitssatz des Art. 3 Abs. 1 GG („Alle Menschen 
+sind vor dem Gesetz gleich.“) formuliert die Verfassung in Art. 3 Abs. 3 GG 
+spezielle Diskriminierungsverbote, die das Anknüpfen staatlicher Maßnahmen 
+an unveränderliche persönliche Merkmale untersagen. Der besondere Gleich-
+heitssatz besagt, dass niemand wegen seines Geschlechtes, seiner Abstammung, 
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 85
+
+seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, 
+seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt 
+werden darf. Die in die Verfassung aufgenommenen und in späteren Jahren um 
+das Benachteiligungsverbot wegen der Behinderung ergänzten Diskriminierungs-
+verbote fügen sich ein in das europäische und internationale Menschen-
+rechtsschutzsystem.1 Zugleich formulieren sie eine deutliche Abkehr von den 
+menschenverachtenden Diskriminierungen im Nationalsozialismus2 und sind 
+daher in einem engen Zusammenhang mit der Menschenwürdegarantie des 
+Grundgesetzes zu lesen.3
+
+In verfassungsgeschichtlicher Hinsicht wurde das Verbot der Diskriminierung 
+„wegen der Rasse“ als Gegenentwurf zur rassistischen Ideologie des National-
+sozialismus formuliert.4 Zentrales historisches Anliegen war es, sich von der 
+Unrechtsherrschaft des Nationalsozialismus abzusetzen.5 Die sprachliche 
+Wendung „wegen der Rasse“ findet sich nicht nur im Grundgesetz, sondern 
+ist auch in einzelnen landesverfassungsrechtlichen Diskriminierungsverboten 
+sowie im Allgemeinen Gleichbehandlungsgesetz enthalten.6 Zunehmend stößt 
+die Verwendung des Begriffs „Rasse“ im Grundgesetz und in weiteren Rechts-
+texten allerdings auf Ablehnung.7 Kritisiert wird, dass das historische Motiv der 
+Ablehnung rassistischer Konzepte im Wortlaut nicht zum Ausdruck komme und 
+stattdessen der Eindruck vermittelt werde, der Staat gehe von einer Existenz ver-
+schiedener menschlicher Rassen aus.8 Um das Fehlen jeglicher wissenschaftlicher 
+Grundlage für diese Annahme9 klar zum Ausdruck zu bringen, zielen rechts-
+politische Forderungen auf eine Streichung des Begriffs „Rasse“ und Ersetzung 
+durch „rassistisch benachteiligen“10 bzw. einer „Benachteiligung aus rassistischen 
+
+1 Cremer (2013), S. 25. Zur Entstehungsgeschichte Langenfeld (2020), Art. 3 Abs. 3 Rn. 
+9–11.
+2 Langenfeld (2020), Art. 3 Abs. 3 Rn. 9.
+3 BVerfG, Beschl. v. 04.11.2009 – 1 BvR 2150/08, Rn. 21.
+4 Langenfeld (2020), Art. 3 Abs. 3 Rn. 45.
+5 BVerfG, Beschl. v. 04.11.2009 – 1 BvR 2150/08, Rn. 65.
+6 Art. 7 Abs. 1 Bayerische Verfassung; Art. 2 Abs. 2 Bremische Verfassung; Art. 1 Abs. 1 
+Hessische Verfassung; Art. 3 Abs. 3 Niedersächsische Verfassung; § 1 Allgemeines Gleich-
+behandlungsgesetz.
+7 Vgl. zum Meinungsstand Ludyga (2021), S. 911.
+8 Ludyga (2021), S. 912.
+9 Kattmann (2015).
+10 BT-Drs. 19/24434.
+
+
+
+86 A. Ruch
+
+Gründen“11 ab. Diesen Vorschlägen wird wiederum entgegengehalten, dass sie 
+die Umdeutung des Konzepts „Rasse“ innerhalb der Sozialwissenschaften über-
+sehen und damit möglicherweise die Umsetzung des Antidiskriminierungsrechts 
+erschweren.12
+
+Ungeachtet dieser Diskussion lässt sich der Inhalt des Diskriminierungsverbots 
+„wegen der Rasse“ für den Bereich polizeilicher Maßnahmen folgendermaßen 
+eingrenzen. Verhindert werden soll, dass Beamt:innen ihre Entscheidung über 
+das Ob und Wie einer Eingriffsmaßnahme anhand unveränderlicher äußerer 
+Merkmale einer Person, insbesondere deren Hautfarbe  treffen.13 Unzulässig ist 
+es daher, die Hautfarbe einer Person zu einem Entscheidungskriterium bei der 
+polizeilichen Gefahrenabwehr und Strafverfolgung zu machen, das heißt mittels 
+der Hautfarbe die Grenze zwischen polizeilichem Handeln und Nicht-Handeln 
+zu markieren oder die Eingriffsintensität einzelner Maßnahmen zu steuern. Eine 
+derartige Ungleichbehandlung aufgrund der Hautfarbe, der Gesichtszüge oder 
+vermeintlich herkunftsbezogener äußerer Merkmale einer Person würde an den 
+Kerngedanken rassistischer Konzepte anknüpfen, wonach sich Menschen anhand 
+physischer Merkmale in Gruppen mit unterschiedlichen sozialen oder kulturellen 
+Eigenschaften oder Verhaltensweisen einteilen lassen.14 Dem einzelnen Menschen 
+wird hierdurch nicht als Individuum begegnet, sondern er wird als Merkmals-
+träger begriffen, der auf Grund der Hautfarbe anders zu behandeln ist als andere 
+Menschen. Wird das polizeiliche Handeln durch derartige Zuschreibungen beein-
+flusst, steht die Maßnahme im Widerspruch zu Art. 3 Abs. 3 S. 1 GG.
+
+3  Verfassungsrechtliches Diskriminierungsverbot 
+und polizeiliches Handeln
+
+3.1  Verbot der Diskriminierung „wegen der Rasse“
+
+Allerdings verbietet der spezielle Gleichheitssatz des Art. 3 Abs. 3 S. 1 GG 
+nicht jede polizeiliche Maßnahme zu Lasten einer Person, die sich auf Grund 
+
+11 Bundesministerium der Justiz und für Verbraucherschutz (o. J.)
+12 Barskanmaz und Samour (2020); Krieger (2018), Art. 3 Rn. 80.
+13 Vgl. Langenfeld (2020), Art. 3 Abs. 3 Rn. 46; Boysen (2020), S. 1195 f; Krieger (2018), 
+Art. 3 Rn. 79; Liebscher (2016), S. 2779; Drohla (2012), S. 413. Grundlegend mit den 
+unterschiedlichen Dimensionen von Rassismus befasst sich der Beitrag von Karakayalı in 
+diesem Band.
+14 Cremer (2013), S. 25.
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 87
+
+ihrer Hautfarbe vom Erscheinungsbild der weißen Mehrheitsgesellschaft unter-
+scheidet. Unzulässig ist die Ungleichbehandlung „wegen der Rasse“, weshalb der 
+Anwendungsbereich des speziellen Gleichheitsgrundsatzes über die Auslegung 
+des Begriffs „wegen“ zu bestimmen ist.
+
+Unstreitig von Art. 3 Abs. 3 S. 1 GG verboten sind finale Diskriminierungen, 
+also Fälle, in denen es der Polizei darauf ankommt, eine Person gerade wegen 
+ihrer Hautfarbe zu benachteiligen.15 Hier tritt der Bezug zum Kerngehalt des Dis-
+kriminierungsverbots besonders offen zu Tage, da die Hautfarbe einer Person 
+zum Anlass genommen wird, diese einer belastenden polizeilichen Maßnahme 
+zu unterwerfen. Da polizeiliches Handeln regelmäßig in der Öffentlichkeit statt-
+findet, geschieht dies auch deutlich sichtbar für die übrige Bevölkerung. Die 
+Ungleichbehandlung wiegt daher besonders schwer und ist zugleich geeignet, in 
+der Bevölkerung bestehende Vorurteile zu verfestigen.16
+
+Weit häufiger als die zielgerichtete Ungleichbehandlung von Personen auf-
+grund ihrer Hautfarbe dürften Fälle auftreten, in denen die Hautfarbe inner-
+halb eines sogenannten Motivbündels mitursächlich für die Durchführung einer 
+polizeilichen Maßnahme ist. Auch in diesen Fallgestaltungen liegt ein Verstoß 
+gegen Art. 3 Abs. 3 S. 1 GG vor.17 Zwar kann die Polizei ihr Handeln hierbei 
+auch durch weitere Umstände begründen, beispielsweise das verdächtige Ver-
+halten der Person oder den Besitz gefährlicher Gegenstände. Ein Teil der Ent-
+scheidung darüber, ob eine Maßnahme getroffen und – bejahendenfalls – wie 
+diese ausgestaltet wird, wird aber auch durch die Hautfarbe der Person beein-
+flusst. Damit wird aber der Hautfarbe eine Bedeutung für die polizeiliche 
+Gefahrenabwehr oder Strafverfolgung zugeschrieben. Unabhängig davon, dass 
+diese Annahme sachlich unbegründet ist,18 verbietet Art. 3 Abs. 3 S. 1 GG die 
+Ableitung individueller Eigenschaften oder Verhaltensweisen aus der Hautfarbe – 
+und zwar auch dann, wenn dieser Vorgang in einem Motivbündel verborgen wird.
+
+Vorstehende Erwägungen stehen im Einklang mit dem traditionellen Ver-
+ständnis polizeilicher Eingriffsmaßnahmen. Nur im Falle einer Gefahr für ein 
+polizeiliches Schutzgut darf der:dem hierfür verantwortlichen Bürger:in eine 
+
+15 Krieger (2018), Art. 3 Rn. 63; Drohla (2012), S. 411; Langenfeld (2020), Art. 3 Abs. 3 
+Rn. 46; Boysen (2020), S. 1198.
+16 Drohla (2012), S. 415.
+17 Kischel (2021), Art. 3 Rn. 212 f.; Cremer (2013), S. 26; OVG Koblenz, Urt. v. 
+21.04.2016 – 7 A 11108/14.OVG, Rn. 105.
+18 Grundlegend mit „Ausländerkriminalität“ und dem Verhältnis von Migrationserfahrung 
+und Kriminalität befasst sich der Beitrag von Walburg in diesem Band.
+
+
+
+88 A. Ruch
+
+Handlungspflicht auferlegt werden. Adressat:in einer polizeilichen Maßnahme 
+darf nur werden, wer zumindest eine gewisse Gefahrnähe aufweist.19 Aus-
+gangspunkt und zugleich Begrenzung hoheitlicher Eingriffsmaßnahmen bilden 
+die Gefahr und die hierfür verantwortliche Person, nicht aber Hautfarbe oder 
+Gesichtszüge. Demzufolge kann sich die Polizei nur dann von dem Vorwurf 
+einer Ungleichbehandlung „wegen der Rasse“ frei machen, wenn die Hautfarbe 
+keine Rolle bei der konkreten Entscheidungsfindung spielt und die Einleitung und 
+Durchführung der Maßnahme ausschließlich im Zusammenhang mit der Gefahr-
+verantwortung der Person erfolgt.
+
+Dies bedeutet jedoch nicht, dass im Falle einer Gefahrverantwortung einer 
+Person of Color der Anwendungsbereich des Art. 3 Abs. 3 S. 1 GG zurück-
+tritt. Die Person of Color hat auch im Falle einer Gefahrverantwortung einen 
+Anspruch darauf, ebenso behandelt zu werden, wie eine weiße Person behandelt 
+worden wäre. Gleichheitswidrig ist es daher, bestimmte Begleitmaßnahmen 
+wie z. B. Personalienabgleich bei der Leitstelle, Durchsuchung nach gefähr-
+lichen Gegenständen oder Fesselung beim Verbringen zur Wache auf Grundlage 
+polizeilichen Erfahrungswissens über People of Color zu treffen und nicht durch 
+konkrete Umstände zu begründen. Die Differenzierung anhand der Hautfarbe 
+erfolgt hier subtiler, da im Vordergrund nach wie vor die Gefahrverantwortung 
+der Person steht. Gleichwohl ist die Polizei innerhalb ihres Auswahlermessens an 
+Art. 3 Abs. 3 S. 1 GG gebunden. Werden also die Angaben von Personen eines 
+bestimmten Phänotyps eher als unglaubhaft eingestuft, wird ihnen eher das Mit-
+führen gefährlicher Gegenstände unterstellt oder wird bei ihnen eher ein Wider-
+stand gegen die polizeiliche Maßnahme prognostiziert, dann liegt unabhängig von 
+der Gefahrverantwortung der Person of Color ein Verstoß gegen Art. 3 Abs. 3 S. 1 
+GG vor.
+
+Zu eng ist es daher, den Bereich der Kontroll- und Fahndungsmaßnahmen im 
+Zusammenhang mit bestimmten Täter:innenbeschreibungen generell aus dem 
+Schutzbereich des Art. 3 Abs. 1 GG auszuschließen.20 Zwar wäre eine Maßnahme 
+gegenüber weißen Personen ermessensfehlerhaft, wenn Zeug:innen eine:n 
+Verdächtige:n als Person of Color beschreiben. Daher ist es ausnahmsweise 
+zulässig, anhand des Kriteriums „Hautfarbe“ zu entscheiden, wer nicht von einer 
+polizeilichen Maßnahme adressiert wird. Im Umkehrschluss ergibt sich daraus, 
+
+19 Vgl. Denninger (2018), Kap. D Rn. 77–79.
+20 So aber wohl Tischbirek (2019), S. 18; Pettersson (2019), S. 303; Kischel (2021), Art. 3 
+Rn. 323c.
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 89
+
+dass gegenüber People of Color die erforderlichen Maßnahmen getroffen werden 
+dürfen – solange sich diese auf konkret verdachtsbegründende Verhaltensweisen 
+stützen. Unzulässig bleibt es aber in jedem Fall, eine Maßnahme nur deshalb 
+zu treffen, weil das polizeiliche Gegenüber ein:e Person of Color ist. Ebenfalls 
+unzulässig ist es, gegenüber einer Person of Color zu einer eingriffsintensiven 
+Maßnahme zu greifen, die bei einer weißen Person nicht getroffen worden wäre 
+(z. B. Verbringen zur Wache bei einer Identitätsfeststellung, wenn hingegen bei 
+einer weißen Person die einen Verdacht beseitigenden Angaben für glaubhaft 
+erachtet worden wären).
+
+3.2  Zur Rechtfertigung von Ungleichbehandlungen 
+„wegen der Rasse“
+
+3.2.1  Grundsätzliche Erwägungen
+Für einzelne der in Art. 3 Abs. 3 GG formulierten Gleichheitssätze ist anerkannt, 
+dass diese zwar als grundsätzliches, nicht aber als absolutes Diskriminierungs-
+verbot wirken.21 Beispielsweise sind an das Geschlecht anknüpfende 
+Differenzierungen gerechtfertigt, soweit sie zwingend zur Lösung von Problemen 
+erforderlich sind, die ihrer Natur nach nur bei Personen eines bestimmten 
+Geschlechts auftreten können.22 Fehlt es an zwingenden Gründen, kann eine 
+Ungleichbehandlung nur über die Abwägung mit kollidierendem Verfassungs-
+recht legitimiert werden.23
+
+Dieser für Ungleichbehandlungen „wegen des Geschlechts“ entwickelte 
+Rechtfertigungsmaßstab lässt sich allerdings nicht ohne weiteres auf 
+Differenzierungen anhand der Hautfarbe übertragen.24 Zunächst ist festzuhalten, 
+dass es keine für das hoheitliche Handeln relevanten Unterschiede zwischen 
+Personen aufgrund ihrer Hautfarbe oder bestimmter physiognomischer Merkmale 
+gibt. Daraus folgt für die im vorherigen Abschnitt beschriebene Fallgruppe der 
+finalen Diskriminierung „wegen der Rasse“, dass diese unter keinen Umständen 
+gerechtfertigt werden kann. Eine andere Auffassung wäre verfassungsrecht-
+lich nicht hinnehmbar, da das Diskriminierungsverbot „wegen der Rasse“ 
+
+21 Krieger (2018), Art. 3 Rn. 61.
+22 BVerfG, Beschl. v. 25.10.2005 – 2 BvR 524/01, Rn. 25.
+23 BVerfG, Beschl. v. 25.10.2005 – 2 BvR 524/01, Rn. 25.
+24 Vgl. Kischel (2021), Art. 3 Rn. 214.
+
+
+
+90 A. Ruch
+
+gerade verhindern will, dass über die Hautfarbe unterschiedliche Verhaltens-
+weisen oder Eigenschaften konstruiert werden, die sodann Anlass für hoheitliche 
+Eingriffsmaßnahmen bilden. Dies entspricht im Ergebnis allgemeiner Ansicht, 
+sodass eine polizeiliche Maßnahme unter keinen Umständen zu rechtfertigen ist, 
+wenn sie ausschließlich mittels der Hautfarbe der betroffenen Person begründet 
+wird.25
+
+3.2.2 P ersonenkontrollen und der Vorwurf des Racial 
+Profiling im Lichte des Art. 3 Abs. 3 S. 1 GG
+
+Uneinheitlich beantwortet wird die Frage, ob die Anknüpfung polizeilicher 
+Maßnahmen an die Hautfarbe gerechtfertigt sein kann, wenn darüber hinaus 
+zumindest ein Gefahrverdacht gegenüber der Person besteht. Adressiert sind mit 
+dieser Frage sämtliche zuvor beschriebenen Fallgestaltungen, bei denen die Haut-
+farbe innerhalb eines Motivbündels für die Entscheidung darüber herangezogen 
+wird, ob die Polizei tätig wird und wie eingriffsintensiv sie eine Maßnahme 
+ausgestaltet. Innerhalb der Rechtsprechung und Teilen der Literatur wird 
+argumentiert, dass eine Anknüpfung auch an die Hautfarbe als Ergebnis einer 
+Abwägung mit kollidierendem Verfassungsrecht möglich sei.26 Denkbar sei dies, 
+wenn die Maßnahme zur Erfüllung der staatlichen Schutzpflicht für Leib, Leben 
+oder Eigentum erfolge27 oder der Verhinderung und Unterbindung unerlaubter 
+Einreise sowie der damit zusammenhängenden Schleuserkriminalität diene28.
+
+Relevant wird diese Diskussion vor allem bei bestimmten Konstellationen des 
+Racial Profiling, in denen Polizeibeamt:innen die Kontrolle einer Person of Color 
+zwar vorrangig auf deren gefahrverdächtiges Verhalten stützen (z. B. Suchen 
+von Blickkontakt zu Passant:innen in einem als Drogenumschlagplatz bekannten 
+Park), sie eine weiße Person in derselben Situation aber nicht kontrolliert 
+hätten.29 Befürworter:innen einer Rechtfertigung wollen eine Anknüpfung an 
+die Hautfarbe zulassen, wenn die Polizei „objektiv fundiert“ weiß, dass an einem 
+bestimmten Ort besonders häufig Personen ohne gültige Aufenthaltserlaub-
+nis anzutreffen seien und aus eben diesem Grund „viele ‚nicht phänotypisch‘ 
+
+25 Krieger (2018), Art. 3 Rn. 63; Drohla (2012), S. 411; Langenfeld (2020), Art. 3 Abs. 3 
+Rn. 46; Boysen (2020), S. 1198; OVG Münster, NVwZ (2018), 1497 (1500).
+26 OVG Münster, NVwZ (2018), 1497 (1500); Krieger (2018), Art. 3 Rn. 61; Waechter 
+(2021), § 13 Rn. 66.
+27 OVG Münster, NVwZ (2018), 1497 (1500).
+28 OVG Koblenz, Urt. v. 21.04.2016 – 7 A 11108/14.OVG, Rn. 132.
+29 S. dazu auch den Beitrag von Niemz und Singelnstein in diesem Band.
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 91
+
+Deutsche“ kontrolliert würden.30 Erlaubt sei etwa die gezielte Kontrolle von 
+People of Color zur Abwehr von Straftaten, wenn die Polizei „weiß (…), dass der 
+Drogenhandel im Bahnhofsviertel einer Stadt von Schwarzafrikanern dominiert 
+wird“31. Auch dürften Maßnahmen der Schleierfahndung mittels Aussehens und 
+Sprache einer Person eingegrenzt werden, um damit zielgerichtete Kontrollen 
+zur Unterbindung von Verstößen gegen das Aufenthaltsgesetz zu ermöglichen.32 
+Das „Wissen“ über eine erhöhte Gefährlichkeit oder Kriminalitätsbelastung einer 
+durch äußerlich erkennbare Merkmale definierten Personengruppe dürfe dabei 
+jedoch nicht auf bloßen Behauptungen, vagen Eindrücke oder polizeilichem 
+Erfahrungswissen beruhen.33 Erforderlich seien polizeiliche Lagebilder oder 
+Statistiken, die eine erhöhte Belastung innerhalb der durch äußerliche Merkmale 
+erkennbaren Personengruppe belegen.34
+
+3.3  Ungleichbehandlungen „wegen der Rasse“ sind 
+unter keinen Umständen zu rechtfertigen
+
+Auf den ersten Blick scheint für die vorstehende Ansicht die polizeipraktische 
+Perspektive zu sprechen, aus der heraus bei Kontrollen an bestimmten Örtlich-
+keiten35 überdurchschnittlich häufig tatverdächtige Personen mit bestimmten 
+Staatsangehörigkeiten angetroffen werden.36 Bei genauerer Betrachtung 
+führt diese Begründung aber nicht zu der zwingenden Schlussfolgerung, 
+bestimmte Täter:innengruppen seien anhand äußerlicher Merkmale erkennbar. 
+Problematisch ist zunächst die Generierung des polizeilichen Wissens über die 
+Belastung bestimmter Täter:innengruppierungen. Polizeiliche Lagebilder und 
+Statistiken trifft der Einwand der Selektivität, da nur Ergebnisse polizeilicher 
+
+30 Goldhammer (2020), Art. 5 Rn. 33–34a.
+31 Kischel (2021), Art. 3 Rn. 323d.
+32 Rachor und Graulich (2018), Kap. E Rn. 349.
+33 Krieger (2018), Art. 3 Rn. 63; Goldhammer (2020), Art. 5 Rn. 34a; OVG Münster, 
+NVwZ (2018), 1497 (1500).
+34 Albrecht (2019), S. 14; Froese (2017), S. 294.
+35 In der Regel handelt es sich um verdachtsunabhängige Kontrollen nach den landesrecht-
+lichen Vorschriften über „gefährliche Orte“ (vgl. Feltes und Ruch 2015), um Maßnahmen 
+der Schleierfahndung (vgl. Groh 2016), S. 1678 oder um bundespolizeiliche Personen-
+kontrollen an Bahnhöfen und in Zügen (vgl. Schenke 2019, § 22 Rn. 15.).
+36 Gottschlag (2019), S. 21.
+
+
+
+92 A. Ruch
+
+Kontroll- und Ermittlungstätigkeiten abgebildet werden, das Dunkelfeld also 
+außer Acht gelassen wird. Ferner kann angesichts der nicht auf einer Zufallsaus-
+wahl gründenden Erfassungsmethoden nicht ausgeschlossen werden, dass eine 
+etwaige erhöhte Belastung bestimmter Täter:innengruppen auf einen erhöhten 
+Kontrolldruck oder unbewusste Stereotypen gerade gegenüber dieser Gruppe 
+zurückzuführen ist.37 Schließlich stellt sich die ganz grundsätzliche Frage, wie 
+das Kriterium der „Hautfarbe“ in einer Statistik erfasst werden soll. Wann ist 
+man nicht mehr weiß genug, um in die Kategorie „dunkelhäutig“ eingeordnet zu 
+werden und wer hat hierüber die Entscheidungshoheit? Richtigerweise erübrigt 
+sich jeder Versuch einer Beantwortung dieser Frage, da die präventiven oder 
+repressiven Zwecken dienende Erfassung, Speicherung und Verarbeitung des 
+personenbezogenen Datums „Hautfarbe“ ein Ausdruck der Annahme wäre, 
+mit der Hautfarbe seien für die Gefahrenabwehr oder Strafverfolgung relevante 
+Eigenschaften oder Verhaltensweisen verbunden – dies wiederum wäre eine ziel-
+gerichtete Ungleichbehandlung „wegen der Rasse“ und daher ein unter keinen 
+Umständen zu rechtfertigender Verstoß gegen Art. 3 Abs. 3 S. 1 GG.38
+
+Ein umfassendes Verständnis von Art. 3 Abs. 3 S. 1 GG verlangt, dass 
+Personenkontrollen auch auf Grundlage der Hautfarbe einen unter keinen 
+Umständen zu rechtfertigenden Verstoß gegen das verfassungsrechtliche Dis-
+kriminierungsverbot darstellen.39 Wenn eine auch an die Hautfarbe der Person 
+anknüpfende polizeiliche Maßnahme zur Erfüllung der staatlichen Schutzpflicht 
+für Leib, Leben oder Eigentum40 gerechtfertigt werden könnte, dann brächte dies 
+letztlich die Annahme zum Ausdruck, eine dunkle Hautfarbe gäbe irgendeine 
+Auskunft über kriminelles oder gefahrträchtiges Verhaltens und rechtfertige es, 
+diese Person anders zu behandeln als eine Person mit weißer Hautfarbe. Gerade 
+dies ist wiederum ein rassistisches Begründungsmuster, dessen Anwendung Art. 3 
+Abs. 3 S. 1 GG verhindern will. Denn die Hautfarbe einer Person lässt keinen 
+
+37 OVG Münster, NVwZ (2018), 1497 (1500); Pettersson (2019), S. 305; Tischbirek (2019), 
+S. 19; Tischbirek und Wihl (2013), S. 223.
+38 So im Ergebnis auch OVG Münster, NVwZ (2018), 1497 (1500).
+39 Cremer (2013), S. 30. Kritisch auch Liebscher (2016), S. 2781, die betont, dass ein 
+Motivbündel den Kreis der Betroffenen zwar verkleinere, letztlich aber doch nur Personen 
+kontrolliert würden, die die phänotypischen Auswahlkriterien erfüllten. Vgl. ferner 
+Tomerius (2019), S. 1587, die auf die problematische Grundannahme hinweist, man 
+könne anhand der Hautfarbe auf die Staatsangehörigkeit schließen. Kritisch hierzu auch 
+Pettersson (2019), S. 302.
+40 OVG Münster, NVwZ (2018), 1497 (1500).
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 93
+
+Rückschluss darauf zu, ob von dieser Person eine erhöhte Gefahr für ein polizei-
+liches Schutzgut ausgeht oder nicht.
+
+Die Anerkennung eines absoluten Verbots der Anknüpfung einer polizeilichen 
+Maßnahme an die Hautfarbe berücksichtigt, dass der allgemeine Gleichheits-
+satz eine für das gesellschaftliche Zusammenleben relevante objektive Wertent-
+scheidung beinhaltet.41 Das Bundesverfassungsgericht betont die stigmatisierende 
+Wirkung sich überwiegend gegen Personen ausländischer Herkunft richtender 
+polizeilicher Maßnahmen, da hiermit stets das Risiko verbunden sei, Vorurteile zu 
+reproduzieren und unbewusste oder bewusste Stereotypen unter Außenstehenden 
+zu bekräftigen.42 Ein absolutes Diskriminierungsverbot „wegen der Rasse“ 
+erkennt ferner die freiheitliche Dimension des Gleichheitssatzes43 an und berück-
+sichtigt, dass Verstöße gegen das Diskriminierungsverbot stets auch die Selbst-
+bestimmung der betroffenen Person beeinträchtigen. Deutlich macht dies ein 
+Vergleich mit Fallkonstellationen, bei denen die Polizei ihre Entscheidung anhand 
+des äußeren Erscheinungsbildes von Personen trifft, ohne an ein von Art. 3 Abs. 3 
+GG besonders geschütztes Merkmal anzuknüpfen. Wer etwa im Zusammen-
+hang mit Fußballspielen oder Demonstrationen aufgrund des Kleidungsstils 
+zur:zum Adressat:in einer polizeilichen Maßnahme wird, kann das Risiko 
+künftiger Kontrollmaßnahmen durch Anpassung des äußeren Erscheinungsbildes 
+minimieren. Wer allerdings im öffentlichen Raum auch wegen der Hautfarbe 
+kontrolliert wird, kann Freiheit von hoheitlichen Eingriffsmaßnahmen nur durch 
+Verzicht auf Teilhabe am öffentlichen Raum erreichen. Eine derartige Verhaltens-
+anpassung würde nicht nur das Selbstbestimmungsrecht der:des Einzelnen erheb-
+lich einschränken, sondern „auch das Gemeinwohl, weil Selbstbestimmung eine 
+elementare Funktionsbedingung eines auf Handlungs- und Mitwirkungsfähigkeit 
+seiner Bürger begründeten freiheitlichen demokratischen Gemeinwesens ist“44.
+
+Der Gedanke eines absoluten Diskriminierungsverbots steht schließlich 
+auch im Einklang mit der Rechtsprechung des Europäischen Gerichtshofs 
+für Menschenrechte, wonach aus Art. 14 der Europäischen Menschenrechts-
+konvention (EMRK) ein umfangreiches Verbot von Personenkontrollen auch 
+aus Anlass der Hautfarbe abzuleiten sei.45 Danach sei „eine unterschiedliche 
+
+41 BVerfG, NJW (1974), 1609 (1613); Krieger (2018), Art. 3 Rn. 9.
+42 BVerfG, Beschl. v. 04.04.2006 – 1 BvR 518/02, Rn. 111 f.; Cremer (2013), S. 29.
+43 Vgl. Krieger (2018), Art. 3 Rn. 60.
+44 BVerfG, NJW (1984), 419 (422); Drohla (2012), S. 415.
+45 S. dazu auch den Beitrag von Barskanmaz in diesem Band.
+
+
+
+94 A. Ruch
+
+Behandlung, die ausschließlich oder wesentlich mit der ethnischen Herkunft einer 
+Person begründet wird, niemals in der demokratischen Gesellschaft, die auf den 
+Grundsätzen des Pluralismus und des Respekts für unterschiedliche Kulturen 
+beruht, gerechtfertigt“46.
+
+4  Landesrechtliche 
+Antidiskriminierungsvorschriften
+
+Die Inhalte der verfassungsrechtlichen Diskriminierungsverbote sind 2020 vom 
+Land Berlin in einem Landesantidiskriminierungsgesetz (LADG) konkretisiert 
+worden. Die Vorschriften des LADG Berlin entsprechen weitgehend dem 
+Schutzbereich des verfassungsrechtlichen Diskriminierungsverbots, haben aber 
+ungeachtet dieser Tatsache für rechts- und innenpolitische Kontroversen über die 
+Bedeutung des Gesetzes für die Polizeiarbeit geführt.47 Ähnliche Diskussionen 
+sind auch in Baden-Württemberg zu beobachten, wo die Regierungskoalition 
+beabsichtigt, innerhalb der Legislaturperiode 2021–2026 ein Landesantidis-
+kriminierungsgesetz auf den Weg zu bringen.48 In den übrigen Bundesländern 
+sind bislang keine vergleichbar weit vorangeschrittenen Bestrebungen der 
+jeweiligen Gesetzgeber zu beobachten. Einzig in Hamburg und Brandenburg sind 
+von der Opposition Entwürfe für ein Landesantidiskriminierungsgesetz in das 
+Parlament eingebracht, dort aber nicht umgesetzt worden.49
+
+Die folgenden Abschnitte befassen sich am Beispiel des LADG Berlin mit 
+dem Schutzbereich der landesrechtlichen Antidiskriminierungsvorschriften 
+und ordnen die für Bürger:innen geschaffene Beweiserleichterung bei Dis-
+kriminierungsklagen rechtlich ein. In einer zusammenfassenden Bewertung wird 
+ein Ausblick auf die praktischen Folgen der Antidiskriminierungsvorschriften 
+gegeben.
+
+46 EGMR, NVwZ (2008), 533 (534); vgl. auch Drohla (2012), S. 414.
+47 Vgl. für die einzelnen Positionen Tischbirek und Wihl (2020) sowie Kappler und Werner 
+(2020).
+48 Bündnis 90/Die Grünen Baden-Württemberg und CDU Baden-Württemberg (2021), 
+S. 88.
+49 Bü-Drs. Hamburg 22/35282; Bürgerschaft der Freien und Hansestadt Hamburg (2021), 
+S. 5; LT-Drs. Brandenburg 6/4492.
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 95
+
+4.1  Diskriminierungsverbot im 
+Landesantidiskriminierungsgesetz Berlin
+
+Kern des LADG Berlin ist das in § 2 formulierte Diskriminierungsverbot, 
+welches die in Art. 3 Abs. 3 GG genannten Diskriminierungsgründe auf-
+greift und um die Merkmale der chronischen Erkrankung, des Lebensalters, der 
+Sprache, der sexuellen und geschlechtlichen Identität sowie des sozialen Status 
+erweitert. Bezogen auf das Verbot der Diskriminierung „wegen der Rasse“50 ent-
+spricht das LADG Berlin daher dem Schutzniveau des Grundgesetzes, welches 
+die Anknüpfung hoheitlicher Maßnahmen an die in Art. 3 Abs. 3 GG genannten 
+Merkmale untersagt. Anliegen des Berliner Gesetzgebers war es daher auch 
+nicht, den Schutz vor rassistisch motivierten Diskriminierungen zu erweitern. 
+Ziel war es, bestehende Schutzvorschriften zu konkretisieren und hierdurch 
+für Bürger:innen und Behörden Rechts- und Anwendungssicherheit über Dis-
+kriminierungsverbote herzustellen.51 Ähnlich formuliert es auch der Koalitions-
+vertrag des Landes Baden-Württemberg. Neben dem Schutz vor – von Verfassung 
+wegen ohnehin verbotener – Diskriminierung zielen die Gesetzgebungspläne 
+darauf ab, das Vertrauen zwischen Bürger:innen und Staat durch Ausformulierung 
+eines staatlichen Schutzauftrages gegen Diskriminierung zu stärken.52
+
+Hinsichtlich des Verbots von Ungleichbehandlungen aufgrund rassistischer 
+Zuschreibungen hat das LADG Berlin daher überwiegend eine klarstellende 
+Funktion. Ein darüber hinaus gehendes Motiv des Gesetzgebers war es auch, 
+den Diskriminierungsschutz des hoheitlichen an denjenigen des zivilrechtlichen 
+Bereichs anzugleichen.53 Dort finden sich im Allgemeinen Gleichbehandlungs-
+gesetzes (AGG) vergleichbare Regelungen, die allerdings auf das Privatrecht 
+beschränkt sind und daher keine Wirkung im hoheitlichen Verhältnis zwischen 
+Staat und Bürger:innen entfalten.54
+
+50 Der Berliner Gesetzgeber hat bewusst den zum Teil als problematisch empfundenen 
+Begriff „wegen der Rasse“ durch „auf Grund einer rassistischen Zuschreibung“ ersetzt, vgl. 
+Abgeordnetenhaus-Drs. Berlin 18/1996, S. 20. Vgl. zur Diskussion um den Begriff oben 
+unter 2.
+51 Abgeordnetenhaus-Drs. Berlin 18/1996, S. 16.
+52 Bündnis 90/Die Grünen Baden-Württemberg und CDU Baden-Württemberg (2021), 
+S. 88.
+53 Abgeordnetenhaus-Drs. Berlin 18/1996, S. 1.
+54 BT-Drs. 16/1780, S. 20.
+
+
+
+96 A. Ruch
+
+4.2  Beweiserleichterung beim Vorwurf 
+diskriminierender polizeilicher Maßnahmen
+
+Bei Kontakten zwischen Polizei und Bürger:innen werden typischerweise 
+Maßnahmen getroffen, deren Anlass sich kurzfristig durch Zeitablauf erledigt. 
+Bürger:innen, die sich gegen polizeiliches Handeln zur Wehr setzen möchten, 
+sind daher auf nachträglichen gerichtlichen Rechtsschutz angewiesen. Hier-
+bei stehen sie vor der Schwierigkeit, dass Anlass und Begründung für eine 
+belastende Maßnahme weder zwischen Bürger:in und Beamt:in ausgehandelt 
+werden, noch verpflichtend schriftlich festzuhalten sind. Die Motive für eine 
+polizeiliche Maßnahme liegen damit allein innerhalb der hoheitlichen Sphäre und 
+sind dem Zugriff der:des Adressat:in entzogen. Vor Gericht wären Bürger:innen 
+bei Anwendung herkömmlicher Beweisregeln55 daher praktisch nicht in der 
+Lage, den Nachweis für die von ihnen behauptete Tatsache zu erbringen, dass 
+ein diskriminierendes Merkmal zumindest mitursächlich für eine polizeiliche 
+Maßnahme war.
+
+Der Berliner Gesetzgeber hat hierauf mit Schaffung einer Beweiserleichterung 
+reagiert (§ 7 LADG Berlin) und mit dieser Vorschrift hergebrachte Verfahrens-
+grundsätze übernommen, mit denen Gerichte auf die Beweisnot von Bürger:innen 
+in asymmetrischen Rechtsbeziehungen reagieren. Bei Kontakten zwischen Polizei 
+und Bürger:innen sowie in anderen Lebensbereichen, in denen das Wissen über 
+bestimmte Tatsachen außerhalb der Sphäre der:des Bürger:in liegt, verlangen 
+Gerichte lediglich, dass Tatsachen glaubhaft gemacht werden, die aus objektiver 
+Sicht die Rechtsverletzung überwiegend wahrscheinlich machen.56 Dies ent-
+spricht dem Gebot effektiven Rechtsschutzes nach Art. 19 Abs. 4 GG und wird 
+von den Gerichten auch bislang schon zwecks Herstellung prozessualer Waffen-
+gleichheit so gehandhabt. An diesen etablierten Verfahrensregeln orientiert sich 
+§ 7 LADG Berlin. Gelingt es der:dem Bürger:in, eine Ungleichbehandlung etwa 
+wegen der Hautfarbe glaubhaft zu machen, so muss die Polizei den Vorwurf 
+der Diskriminierung entkräften. Die abgeschwächten Anforderungen betreffen 
+
+55 Grundsätzlich tragen Beteiligte in einem Rechtsstreit die Beweislast für Tatsachen, aus 
+denen sich eine für sie günstige Rechtsfolge ableiten lässt, vgl. Breunig (2021), § 108 
+Rn. 17.
+56 Für den polizeilichen Bereich vgl. OVG Koblenz, Urt. v. 21.04.2016 – 7 A 11108/14.
+OVG, Rn. 113. Für das Arzthaftungsrecht vgl. BVerfG, NJW (1979), 1925. Für das 
+Prüfungsrecht vgl. BVerwG, Urt. v. 20.09.1984 – 7 C 80/82. Für den Anwendungsbereich 
+des AGG vgl. Thüsing (2018), § 22 Rn. 10 f.
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 97
+
+also ausschließlich die Beweislast, wohingegen die:den Kläger:in die volle Dar-
+legungslast für die von ihr:ihm behauptete Ungleichbehandlung trifft. Eine ohne 
+nähere Ausführungen vorgetragene Behauptung eines diskriminierenden Ver-
+haltens seitens der Polizei genügt daher nicht, um die Beweiserleichterung aus-
+zulösen.
+
+Die Polizei kann den Vorwurf der Ungleichbehandlung entkräften, indem 
+sie nachvollziehbar und transparent darlegt, dass unzulässige Merkmale wie 
+etwa die Hautfarbe bei der polizeilichen Maßnahme keine Rolle spielten. 
+Gelingt dies, gelangen die herkömmlichen Beweisregeln zur Anwendung und 
+die:den Bürger:in trifft die volle Beweislast dafür, dass – entgegen der polizei-
+lichen Entkräftigung des Vorwurfs – die Hautfarbe ein tragendes Entscheidungs-
+kriterium gewesen ist. Der Vorteil der Beweislastumkehr entfaltet sich demnach 
+in der Praxis nur in den seltenen Fällen, in denen der Polizeibehörde keine 
+schlüssige Darlegung ihrer Auswahlentscheidung gelingt57 oder in denen sie 
+einräumt, dass die Hautfarbe zumindest mitursächlich bei der Durchführung 
+der Maßnahme war58. In diesem Fall müsste die Polizeibehörde nämlich den 
+praktisch kaum zu leistenden Nachweis erbringen, dass die unschlüssige bzw. 
+gleichheitswidrige Begründung ausnahmsweise nicht zur Rechtswidrigkeit der 
+Maßnahme geführt hat.59
+
+4.3  Praktische Auswirkungen landesrechtlicher 
+Antidiskriminierungsvorschriften
+
+Bei der Bewertung des LADG Berlin und der Gesetzgebungsvorhaben in 
+weiteren Ländern muss man sich zunächst vor Augen führen, dass die Inhalte 
+des Antidiskriminierungsrechts wesentlich durch unions- und verfassungsrecht-
+liche Vorgaben geprägt sind und dem Gesetzgeber daher nur wenig Spielraum 
+verbleibt. Unabhängig von der Existenz landesrechtlicher Vorschriften handelt 
+es sich beim verfassungsrechtlichen Diskriminierungsverbot um unmittelbar 
+
+57 So im Falle OVG Koblenz, Urt. v. 21.04.2016 – 7 A 11108/14.OVG.
+58 So im Falle OVG Münster, NVwZ (2018), 1497.
+59 Vgl. OVG Koblenz, Urt. v. 21.04.2016 – 7 A 11108/14.OVG, Rn. 113. Praktisch kaum 
+zu leisten sein dürfte dies, da die Rechtsprechung hohe Anforderung an die Rechtfertigung 
+von Ungleichbehandlungen „wegen der Rasse“ bzw. „auf Grund einer rassistischen 
+Zuschreibung“ stellt, vgl. OVG Münster, NVwZ (2018), 1497 (1500). Vgl. dazu auch oben 
+3.2.
+
+
+
+98 A. Ruch
+
+geltendes Recht im Sinne des Art. 1 Abs. 3 GG, welches alle Träger:innen hoheit-
+licher Gewalt dazu verpflichtet, die Schutzbestimmungen des besonderen Gleich-
+heitssatzes einzuhalten und Ungleichbehandlungen unter Anknüpfung an die in 
+Art. 3 Abs. 3 GG genannten Merkmale zu unterlassen.
+
+Im Hinblick auf polizeiliche Ungleichbehandlungen „wegen der Rasse“ 
+erweitert das LADG Berlin daher weder den Diskriminierungsschutz, noch 
+werden neue Beweisregeln etabliert. Vielmehr werden transparente Regelungen 
+geschaffen, an denen jede:r Polizeibeamt:in nachvollziehen kann, wozu sie:er 
+auch bislang schon rechtlich verpflichtet gewesen ist.60 Dies ist letztlich auch das 
+Ziel des Gesetzgebers, und zwar sowohl beim Berliner LADG als auch in Baden-
+Württemberg beim dort geplanten Gesetz. In beiden Ländern geht es darum, die 
+Wirksamkeit des Antidiskriminierungsschutzes zu steigern und die Verwaltung 
+dazu anzuhalten, ihr Handeln nachvollziehbar und transparent auszugestalten.61
+
+In der Praxis dürfte der teilweise prognostizierte Anstieg von Klagen gegen 
+polizeiliche Maßnahmen vermutlich nicht eintreten.62 Zwar besteht nun in Berlin – 
+und dies ist in der Tat eine Erweiterung des Rechtsschutzes – für anerkannte Anti-
+diskriminierungsverbände die Möglichkeit, Klage gegen polizeiliches und sonstiges 
+Verwaltungshandeln zu erheben (§ 9 LADG Berlin). Einschränkende Voraus-
+setzung hierfür ist allerdings, dass die behaupteten Verstöße nicht nur im Einzel-
+fall bestehen, sondern Ausdruck struktureller Diskriminierung sind.63 Dies stellt 
+eine prozessuale Hürde dar, welche dafür sorgen dürfte, dass die Zahl der Verfahren 
+wegen behaupteter Verstöße gegen das LADG Berlin überschaubar bleibt.64 Im 
+Bereich des Individualrechtsschutzes dürfte es sich ähnlich verhalten wie unter dem 
+Anwendungsbereich des AGG. Auch dort ist trotz gewährter Beweiserleichterung 
+die Zahl der Klageverfahren hinter den Erwartungen zurückgeblieben.65
+
+Selbst wenn angesichts zunehmender Sensibilisierung gegenüber Diskriminie-
+rungsbelangen mit einer vermehrten Inanspruchnahme der Gerichte zu rechnen 
+wäre, dürfte sich die Zahl erfolgreicher Klagen auf dem bislang üblichen niedrigen 
+Niveau bewegen. Die Beweiserleichterung entbindet Kläger:innen zunächst nicht 
+
+60 Vgl. Tischbirek und Wihl (2020).
+61 Bündnis 90/Die Grünen Baden-Württemberg und CDU Baden-Württemberg (2021), 
+S. 88; Abgeordnetenhaus-Drs. Berlin 18/1996, S. 17.
+62 So auch Tischbirek und Wihl (2020) sowie Kappler und Werner (2020), S. 211.
+63 Abgeordnetenhaus-Drs. Berlin 18/1996, S. 33.
+64 Abgeordnetenhaus-Drs. Berlin 18/1996, S. 3.
+65 Tischbirek und Wihl (2020).
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 99
+
+von ihrer Obliegenheit, die behauptete Diskriminierung substantiiert darzulegen. 
+Wird diese Voraussetzung erfüllt, liegt es an der Polizeibehörde, die beanstandete 
+Maßnahme gegenüber dem Gericht nachvollziehbar ohne Rückgriff auf ein dis-
+kriminierendes Merkmal zu begründen. Es besteht wenig Anlass zu der Annahme, 
+der Polizei werde dies nicht gelingen. Einen wesentlichen Faktor im Macht-
+ungleichgewicht zwischen Bürger:innen und Polizei lässt das LADG Berlin näm-
+lich unangetastet. Polizeiliche Standardmaßnahmen sind in der Regel erst dann 
+schriftlich zu begründen, wenn sich Bürger:innen hiergegen zur Wehr setzen. Sie 
+entstehen also stets unter dem Eindruck einer Verteidigung gegen den Vorwurf 
+rechtswidrigen polizeilichen Verhaltens. Ein unmittelbar nach der polizeilichen 
+Maßnahme und damit in Unkenntnis über etwaige nachträgliche Beschwerde- 
+oder Klageverfahren erstellter Kurzvermerk, in dem der Anlass und die Art und 
+Weise der Durchführung der Maßnahme begründet werden,66 steht Bürger:innen 
+und Gerichten demgegenüber nicht zur Verfügung. Auch unter dem LADG Berlin 
+werden sich Bürger:innen bereits dann in einer Aussage-gegen-Aussage-Situation 
+wiederfinden, wenn der Polizeibehörde eine nachträgliche diskriminierungsfreie 
+Begründung der von ihnen getroffenen Maßnahme gelingt. Angesichts der auf-
+fallend hohen Glaubwürdigkeit, die Polizeizeugen vor Gericht genießen,67 dürfte 
+es Bürger:innen in diesen prozessualen Konstellationen kaum gelingen, Dis-
+kriminierungsprozesse zu ihren Gunsten zu entscheiden.
+
+5 Z usammenfassung und Ausblick
+
+Zunehmend wird innerhalb des gesellschaftlichen Diskurses über Rassismus 
+anerkannt, dass eine Diskriminierung nicht zwingend eine zielgerichtete Herab-
+setzung beinhalten muss, sondern auch in nicht-intendierter Weise auftreten 
+kann. Die Rechtsordnung erkennt dies an und fordert im Verhältnis zwischen 
+Staat und Bürgern einen umfassenden Schutz vor rassistisch geprägter Ungleich-
+behandlung. Art. 3 Abs. 3 GG verbietet der Polizei daher nicht nur die ziel-
+gerichtete Ungleichbehandlung aufgrund rassistisch motivierter Zuschreibungen. 
+Beamt:innen haben es auch zu unterlassen, die Hautfarbe mit anderen 
+Kriterien zu verbinden und auf dieser Grundlage über die Durchführung von 
+Eingriffsmaßnahmen zu entscheiden.
+
+66 Entsprechende Verfahren sind als Kontrollquittungen z. B. in Großbritannien oder New 
+York etabliert, vgl. Aden et al. (2020), S. 20.
+67 Theune (2020), S. 229.
+
+
+
+100 A. Ruch
+
+Ob in den letztgenannten Fällen ausnahmsweise eine Rechtfertigung des 
+Verstoßes gegen Art. 3 Abs. 3 GG in Betracht kommt, ist bislang nicht höchst-
+richterlich geklärt und innerhalb der Literatur umstritten. Bejaht man dies mit der 
+wohl überwiegenden Auffassung, muss die Polizei mittels methodisch sorgfältig 
+erstellter Statistiken eine erhöhte polizeiliche Auffälligkeit derjenigen Personen-
+gruppe belegen, welcher die von der Maßnahme betroffene Person ausweislich 
+ihrer Hautfarbe zugerechnet wird. Nach hier vertretener Auffassung führen die 
+mit diesem Ansatz verbundenen verfassungsrechtlichen Bedenken jedoch dazu, 
+dass polizeiliche Maßnahmen mit Bezug zur Hautfarbe unter keinen Umständen 
+zu rechtfertigen sind.
+
+In der Praxis bleibt abzuwarten, ob die zunehmende Sensibilisierung für Dis-
+kriminierungsbelange in einem Anstieg der Beschwerde- und Gerichtsverfahren 
+zum Ausdruck kommt. Bürger:innen wird hier seit jeher eine Beweiserleichterung 
+bei der Darlegung rassistisch geprägter Ungleichbehandlung gewährt. Dass dies 
+nun im LADG Berlin klar zum Ausdruck kommt, mag auf den ersten Blick 
+dafür sprechen, dass Bürger:innen vermehrt gerichtlichen Rechtsschutz ersuchen 
+werden. Ein Anstieg erfolgreicher Klageverfahren dürfte hingegen nicht zu ver-
+muten sein, da sich die Beweiserleichterung in der gerichtlichen Praxis als weit-
+gehend stumpfes Schwert erweist. Der Vorwurf diskriminierenden polizeilichen 
+Handelns gilt nämlich bereits als entkräftet, wenn die Polizei nachvollziehbar 
+einen diskriminierungsfreien Prozess der Entscheidungsfindung darlegt.
+
+Innerhalb der Polizeibehörden wird die Notwendigkeit eines umfassenden 
+Diskriminierungsschutz zunehmend erkannt. Aus rechtlicher Sicht ist die dabei 
+zu beobachtende Abwehrhaltung gegenüber landesrechtlichen Konkretisierungen 
+des Diskriminierungsschutzes nicht nachzuvollziehen, da der Schutz vor 
+rassistisch motivierten Diskriminierungen unter Gewährung prozessualer Beweis-
+erleichterungen ohnehin tief in der Verfassung verankert ist. Wünschenswert ist 
+daher eine konstruktive Diskussion über die Frage, wie die Gründe für polizei-
+liche Maßnahmen transparent gemacht werden können, um auf diese Weise allen 
+Beteiligten zu verdeutlichen, wo die Grenze zwischen diskriminierenden und 
+diskriminierungsfreien Maßnahmen verläuft. Dieser Prozess liegt sowohl im 
+Interesse der Beamt:innen, die den Diskriminierungsschutz in ihrem Dienstalltag 
+umsetzen, als auch der Bürger:innen, die sich mit der Frage konfrontiert sehen, 
+ob ihre Hautfarbe einen Anlass für eine polizeiliche Maßnahme gegeben hat.
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 101
+
+Literatur
+
+Aden, H., Fährmann, J., & Bosch, A. (2020). Intransparente Polizeikontrollen – rechtliche 
+Pflichten und technische Möglichkeiten für mehr Transparenz. In D. Hunold & A. Ruch 
+(Hrsg.), Polizeiarbeit zwischen Praxishandeln und Rechtsordnung (S. 3–22). Wies-
+baden: Springer.
+
+Albrecht, F. (2019). Probleme der polizeilichen Praxis. Das Ende der verdachtsun-
+abhängigen Kontrollen? Deutsches Polizeiblatt, 3, S. 12.
+
+Barskanmaz, C., & Samour, N. (2020). Das Diskriminierungsverbot aufgrund der Rasse. 
+Verfassungsblog. https://verfassungsblog.de/das-diskriminierungsverbot-aufgrund-der-
+rasse/. Zugegriffen: 18. Juli 2022.
+
+Boysen, S. (2020). Racial Profiling. Juristische Ausbildung, 42, S. 1192.
+Breunig, G. (2021). Kommentierung zu § 108 VwGO. In H. Posser & H. Wolff (Hrsg.), 
+
+Beck’scher Online-Kommentar VwGO. 57. Edition 01.04.2021. München: Beck.
+Bundesministerium der Justiz und für Verbraucherschutz (o. J.). Diskussionsentwurf des 
+
+Bundesministeriums der Justiz und für Verbraucherschutz. Entwurf eines Gesetzes zur 
+Ersetzung des Begriffs „Rasse“ in Artikel 3 Absatz 3 Satz 1 des Grundgesetzes.
+
+Bündnis 90/Die Grünen Baden-Württemberg, & CDU Baden-Württemberg (2021). Jetzt 
+für morgen. Der Erneuerungsvertrag für Baden-Württemberg.
+
+Bürgerschaft der Freien und Hansestadt Hamburg (2021). Kurzprotokoll zur Tagesordnung 
+der Bürgerschaft vom 24.03.2021.
+
+Cremer, H. (2013). „Racial Profiling“ – Menschenrechtswidrige Personenkontrollen nach 
+§ 22 Abs. 1 Bundespolizeigesetz. Berlin.
+
+Cremer, H. (2019). Verbot rassistischer Diskriminierung. Methode des Racial Profiling ist 
+grund- und menschenrechtswidrig. Deutsches Polizeiblatt, 3, S. 22.
+
+Denninger, E. (2018). Polizeiaufgaben. In M. Bäcker, E. Denninger & K. Graulich (Hrsg.), 
+Handbuch des Polizeirechts (Kapitel D). 6. Aufl. München: Beck.
+
+Drohla, J. (2012). Hautfarbe als Auswahlkriterium für verdachtsunabhängige Polizei-
+kontrollen? Zeitschrift für Ausländerrecht und Ausländerpolitik, 32, S. 411.
+
+Feltes, T., & Ruch, A. (2015). Das Stadion als Gefahrengebiet. Grenzen polizeilicher und 
+privater Eingriffsbefugnisse im Umfeld von Fußballspielen. In J. Albrecht (Hrsg.), 
+Polizeiarbeit ohne Generalverdacht. 4. Grüner Polizeikongress. Die Dokumentation 
+(S. 86–103). Berlin: o. A.
+
+Froese, J. (2017). Gefahrenabwehr durch typisierendes Verhalten vs. Racial Profiling: Die 
+Debatte um den Kölner Polizeieinsatz in der Silvesternacht 2016/17. Deutsches Ver-
+waltungsblatt, 132, S. 293.
+
+Goldhammer, M. (2020). Kommentierung zu Art. 5 BayPAG. In M. Möstl & T. Schwaben-
+bauer (Hrsg.), Beck’scher Online-Kommentar Polizei- und Sicherheitsrecht Bayern. 16. 
+Edition 15.03.2021. München: Beck.
+
+Gottschlag, E. (2019). Kontrollen wegen Hautfarbe sind rechtswidrig. Wann sind Personen-
+kontrollen verbotenes „Racial Profiling“?, Deutsches Polizeiblatt, 3, S. 19.
+
+Groh, T. (2016). Schleierfahndung auf dem Prüfstand. Neue Zeitschrift für Verwaltungs-
+recht, 35, S. 1678.
+
+
+
+102 A. Ruch
+
+Kappler, K., & Werner, M. (2020). Antidiskriminierungsgesetze: Droht nach dem Ende der 
+Privatautonomie nun das Ende der Polizeiarbeit?, Zeitschrift für das Gesamte Sicher-
+heitsrecht, 3, S. 206.
+
+Kattmann, U. (2015). Rassen? Gibt’s doch gar nicht! Bundeszentrale für politische 
+Bildung. https://www.bpb.de/politik/extremismus/rechtsextremismus/213673/rassen-
+gibt-s-doch-gar-nicht/. Zugegriffen:18. Juli 2022.
+
+Kingreen, T, & Poscher, R. (2020). Polizei- und Ordnungsrecht mit Versammlungsrecht. 11. 
+Aufl. München: Beck.
+
+Kischel, U. (2021). Kommentierung zu Art. 3 GG. In V. Epping & C. Hillgruber (Hrsg.), 
+Beck’scher Online-Kommentar Grundgesetz. 46. Edition 15.02.2021. München: Beck.
+
+Krieger, H. (2018). Kommentierung zu Art. 3 GG. In B. Schmidt-Bleibtreu & F. Klein 
+(Hrsg.), Kommentar zum Grundgesetz. Köln: Carl Heymanns.
+
+Langenfeld, C. (2020). Kommentierung zu Art. 3 GG. In T. Maunz & G. Dürig (Begr.), 
+Grundgesetz. Kommentar. München: Beck.
+
+Liebscher, D. (2016). „Racial Profiling“ im Lichte des verfassungsrechtlichen Dis-
+kriminierungsverbots. Neue Juristische Wochenschrift, 69, S. 2779.
+
+Ludyga, H. (2021). Rasse als Rechtsbegriff. Neue Juristische Wochenschrift, 74, S. 911.
+Pettersson, P. (2019). Racial Profiling. Eine Systematisierung anhand des Verfassungs-
+
+rechts. Zeitschrift für Ausländerrecht, 40, S. 301.
+Rachor, F., & Graulich, K. (2018). Das Polizeihandeln. In M. Bäcker, E. Denninger & K. 
+
+Graulich (Hrsg.), Handbuch des Polizeirechts (Kapitel E). 6. Aufl. München: Beck.
+Ruch, A. (2018). Polizeiliche Entscheidungsspielräume als Einfallstor für Diskriminierung. 
+
+Zum Bewertungswandel polizeilicher Definitionsmacht innerhalb der polizeiwissen-
+schaftlichen Forschung. Monatsschrift für Kriminologie und Strafrechtsreform, 101, 
+S. 328.
+
+Schenke, W.-R. (2019). Kommentierung zu § 22 BPolG. In W.-R. Schenke, K. Graulich & 
+J. Ruthig (Hrsg.), Sicherheitsrecht des Bundes. München: Beck.
+
+Schütte, M. (2002). Befugnis des Bundesgrenzschutzes zu lageabhängigen Personen-
+kontrollen. Zeitschrift für Rechtspolitik, 35, S. 393.
+
+Theune, L. (2020). Polizeibeamte als Berufszeugen im Strafverfahren. Baden-Baden: 
+Nomos.
+
+Thüsing, G. (2018). Kommentierung zu § 22 AGG. In F. Säcker, R. Rixecker, H. Oetker 
+& B. Limperg (Hrsg.), Münchener Kommentar zum Bürgerlichen Gesetzbuch. Bd. 1. 
+8. Aufl. München: Beck.
+
+Tischbirek, A. (2019). Racial Profiling vor Gericht. Deutsches Polizeiblatt, 3, S. 17.
+Tischbirek, A., & Wihl, T. (2013). Verfassungswidrigkeit des „Racial Profiling“. Zugleich 
+
+ein Beitrag zur Systematik des Art. 3 GG. Juristenzeitung, 68, S. 219.
+Tischbirek, A., & Wihl, T. (2020). Keine polizeilichen Hilfseinsätze mehr für die Haupt-
+
+stadt? Verfassungsblog. https://verfassungsblog.de/keine-polizeilichen-hilfseinsaetze-
+mehr-fuer-die-hauptstadt/. Zugegriffen: 18. Juli 2022.
+
+Tomerius, C. (2019). Die Identitätsfeststellung im Licht der neueren Rechtsprechung. 
+Deutsches Verwaltungsblatt, 134, S. 1581.
+
+Trurnit, C. (2021). Kommentierung zu § 1 PolG-BW. In M. Möstl & C. Trurnit (Hrsg.), 
+Beck’scher Online-Kommentar Polizeirecht Baden-Württemberg. 21. Edition 
+01.01.2021. München: Beck.
+
+
+
+Rechtlicher Schutz vor polizeilicher Diskriminierung … 103
+
+Waechter, K. (2021). Kommentierung zu § 13 Niedersächsische Polizei- und Ordnungs-
+behördengesetz. In M. Möstl & B. Weiner (Hrsg.), Beck’scher Online-Kommentar 
+Polizei- und Ordnungsrecht Niedersachsen. 19. Edition 01.05.2021. München: Beck
+
+Prof. Dr. Andreas Ruch ist Professor für Strafrecht, Strafprozessrecht und Eingriffsrecht 
+an der Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen. Seine 
+Forschungsschwerpunkte liegen in der Polizeiforschung, der Kriminologie und dem Straf-
+prozessrecht.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

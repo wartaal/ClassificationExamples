@@ -1,0 +1,207 @@
+﻿1 Einleitung
+
+Polizeiliche Gewaltausübung wird in Deutschland zunehmend thematisiert
+undproblematisiert:Wie sindkonkreteGewaltanwendungendurchdie Poli-
+zei zu bewerten? Was sollen Polizeibeamt*innen dürfen? Welche problema-
+tischen Praxen und Strukturen gibt es möglicherweise? Die Ergebnisse un-
+serer Forschung sollen dazu beitragen, diese gesellschaftlichen Debatten zu
+fundieren, indem sie insbesondere die Perspektive der Betroffenen solcher
+Gewaltausübungen einbringen und sichtbar machen.
+
+1.1 Ausgangspunkte
+
+Der Alltag polizeilicher Gewaltanwendung betrifft eine große Bandbreite an
+Situationen, Betroffenen und Schweregraden. Allerdings stehen einige Be-
+reiche besonders im Fokus, wie z.B. Demonstrationen und Protestgesche-
+hen.Sowird etwaderG20-Gipfel im Jahr 2017 inHamburg immerwieder als
+prominentes Beispiel für die fehlende Aufarbeitung übermäßiger polizeili-
+cher Gewalt angeführt. Im Jahr 2021 gingen Beschwerden beim damaligen
+UN-Sonderberichterstatter für Folter, Nils Melzer, über Gewaltanwendun-
+gendurchPolizeibeamt*innen imRahmender sogenanntenCorona-Protes-
+te ein. Das Ergebnis von Melzers Untersuchung fiel deutlich aus: Er sei zu-
+tiefst besorgt über die Situation in Deutschland; insbesondere kritisierte er
+die »dysfunktionalen Befehls- undKontrollstrukturen, die zwar auf demPa-
+pier alle normativen und institutionellen Anforderungen erfüllenmögen, in
+
+
+
+14 Einleitung
+
+der Praxis aber nicht dazu in der Lage sind, amtlichem Machtmissbrauch
+effektiv zu begegnen« (Übers. d. Verf.).1
+
+Besondere Aufmerksamkeit ziehen Gewaltanwendungen durch Poli-
+zeibeamt*innen auf sich, wenn sie mit gravierenden oder sogar tödlichen
+Folgen verbunden sind. Im August 2022 löste der Fall des 16-jährigen Se-
+negalesen Mohamed Lamine Dramé eine große öffentliche Debatte aus.
+Der Jugendliche war von Dortmunder Polizeibeamt*innen mit einer Ma-
+schinenpistole erschossen worden. Die Folge war eine Kontroverse darüber,
+welche Gewaltmittel durch Beamt*innen in welchen Situationen und in
+welchen Grenzen eingesetzt werden dürfen.2 Im Januar 2020 wurde die
+33-jährige Maria in Berlin von einem Polizeibeamten erschossen. Der Mit-
+bewohner hatte die Polizei aufgrund häuslicher Gewalt gerufen. Der Fall
+verstärkte die Debatte über den polizeilichen Umgang mit psychisch er-
+krankten Personen.3 Zu den bekanntesten Fällen in Deutschland zählt der
+Tod von Oury Jalloh, der 2005 in einer Dessauer Polizeizelle verbrannte.
+Die bis heute gescheiterte Aufklärung des Falles offenbart die Dimensionen
+des institutionellen Problems der Aufklärung umstrittener polizeilicher
+Gewaltanwendungen wie unter einem Brennglas.4
+
+Aktivistische Initiativen undBetroffenenvertretungen kritisieren bereits
+seit Jahrzehnten,dasspolizeilicheGewalt inDeutschland rassifiziertePerso-
+nenbesonders betreffe.AuchderUN-Sonderberichterstatter fürRassismus,
+Githu Muigai, hatte Deutschland bereits im Jahr 2009 dazu aufgefordert,
+insbesondere in der Polizei mehr gegen institutionellen Rassismus zu tun.5
+In den vergangenen Jahren haben die Stimmen von Betroffenen verstärkt
+Gehör in der öffentlichenDebatte gefunden, insbesondere durch die auch in
+Deutschland erstarkendeBlack LivesMatter-Bewegung.Zufällig aufgedeck-
+te polizeiliche Chatgruppenmit rechtsextremen Inhalten und nun vermehrt
+wahrgenommene Berichte über Racial Profiling setzten das Thema Rassis-
+
+1 Mandate of the Special Rapporteur on torture and other cruel, inhuman or degrading treat-
+ment or punishment (29.03.2022). AL DEU 2/2022. S. 9. https://spcommreports.ohchr.org/
+TMResultsBase/DownLoadPublicCommunicationFile?gId=27163 [02.03.2023].
+
+2 https://www1.wdr.de/nachrichten/landespolitik/landtag-polizei-dortmund-schuesse-
+ermittlungen-100.html [02.03.2023].
+
+3 Joswig (2020), Ermittlungen eingestellt. https://taz.de/Gedenkdemo-fuer-Maria-B/!5695403/
+[02.03.2023].
+
+4 https://initiativeouryjalloh.wordpress.com [02.03.2023].
+5 Report of the Special Rapporteur on contemporary forms of racism, racial discrimination, xeno-
+phobia and related intolerance, Githu Muigai. Addendum – Mission to Germany (22.02.2010).
+A/HRC/14/43/Add.2. S. 16.
+
+
+
+Einleitung 15
+
+mus in der Polizei auf die Agenda,was wir in unserem zweiten Zwischenbe-
+richt thematisiert haben (Abdul-Rahman,EspínGrau,Klaus&Singelnstein,
+2020).
+
+Dass Racial Profiling immer wieder auch mit physischer Gewalt einher-
+geht, zeigt etwa ein Fall aus Bochum, bei dem im Jahr 2020 ein 16-Jähriger
+auf demWeg zur Schule von Zivilpolizisten überwältigt wurde. Er wollte ih-
+nen seine Personalien nicht geben, da er sie nicht als Polizeibeamte erkann-
+te. Statt die Situation zu klären, brachten die Beamten ihn gewaltsam zu
+Boden. Sie hätten nach Drogendealenden gesucht, der Junge sei ihnen da-
+bei verdächtig und gefährlich vorgekommen. Er war der Einzige auf dem
+Schulweg,der einen türkischenMigrationshintergrundhatte.6Diebesonde-
+re Betroffenheit marginalisierter Personen von (übermäßiger) polizeilicher
+Gewalt wurde in der Literatur immer wieder beschrieben und betrifft neben
+RassismusauchKlassismus,Sexismus,Ableismus sowieweitere Formenvon
+Diskriminierung und ihre Verschränkungen (z.B. Bruce-Jones, 2015; Keitzel
+& Belina, 2022; Loick, 2018; Thompson, 2018). In der öffentlichen Debatte
+finden diese Perspektiven zumeist wenig Gehör.
+
+Betrachtenwir die Gesellschaft inDeutschland insgesamt, so ist das Ver-
+trauen in die Polizei hoch und es dominiert die Vorstellung vom »Freund
+und Helfer«. Je intensiver die Identifikation mit der deutschen,weißen7 Do-
+minanzgesellschaft (Rommelspacher, 1998) ausfällt, desto stärker wird po-
+lizeiliches Handeln als legitim wahrgenommen (vgl. Abdul-Rahman, 2022).
+Polizeiliche Gewaltanwendung gilt insofern »als fundamental unbestritten«
+(Brodeur, 2002, S. 259). Fälle von übermäßiger polizeilicher Gewalt stellen
+einen irritierenden Bruch mit dieser dominanten Vorstellung dar. Die Be-
+troffenen sind angesichts dessen in derRegel in ihrer Beschwerdemacht ein-
+geschränkt, was durch ihre jeweilige gesellschaftliche Positioniertheit noch
+verstärkt werden kann. Trotz der zunehmenden gesellschaftlichen Debatte
+umübermäßige polizeilicheGewalt werden in denmeisten Fällen keine offi-
+ziellenKonsequenzen gezogen.Diemedial verhandelten Fälle zeigen zudem
+nur einen kleinen Ausschnitt des Problems.
+
+6 https://www.bo-alternativ.de/2020/09/15/racial-profiling-und-polizeigewalt-in-bochum
+[02.03.2023].
+
+7 Die Bezeichnung »weiß«wird im Folgenden kursiv gesetzt, um sichtbar zu machen, dass es sich
+um eine rassifizierende Konstruktion und kein biologisches Kriterium handelt. »Schwarz« wird
+aus diesem Grund großgeschrieben (vgl. IDA e.V., 2020).
+
+
+
+16 Einleitung
+
+Vor diesem Hintergrund nimmt das vorliegende Buch, welches die
+Ergebnisse unseres Forschungsprojekts präsentiert, die Perspektive der Be-
+troffenen auf Situationen übermäßiger polizeilicher Gewaltanwendungen
+und deren Aufarbeitung in den Fokus. Dafür wurden 3.373 Personen zu
+ihren Erfahrungen mit polizeilicher Gewalt, die sie selbst als rechtswidrig
+einordneten, und ihren individuellen Umgangsweisen damit befragt. Im
+Anschluss daran haben wir Expert*inneninterviews mit Personen aus Po-
+lizei, Justiz und Zivilgesellschaft durchgeführt. Die Zusammenschau der
+erhobenen Daten ermöglicht aus verschiedenen Perspektiven eine Analyse
+von Situationen und Eskalationsdynamiken polizeilicher Gewalt, deren
+Bewertung und von strukturellen Problemen bei deren strafjustizieller
+Aufarbeitung.
+
+1.2 Über Gewalt und polizeiliche Gewalt
+
+Die Beschäftigung mit übermäßiger polizeilicher Gewalt und ihrer Aufar-
+beitung setzt zunächst eine Präzisierung des Gegenstands voraus. Gewalt
+kann auf einer gesellschaftlichen Mikro- oder Makroebene stattfinden und
+Wirkung entfalten.Wenn wir im Kontext unserer Forschung über polizeili-
+che Gewaltanwendungen sprechen, dann meinen wir physische Gewalt, die
+Polizeibeamt*innen während ihres Dienstes gegenüber anderen Personen
+ausüben.Es geht in dieser Studie also um interpersonale körperlicheGewalt
+auf der Mikroebene, die jedoch aufgrund der Amtsträger*innenschaft der
+Gewaltausübendennicht ohne ihre institutionellenund strukturellenBedin-
+gungen und Auswirkungen gedacht werden kann (Collins, 2011, S. 57 ff.; vgl.
+auch Koloma Beck, 2011). Ausgeklammert sind damit rein psychische oder
+(sonstige) verbale Formen der Gewalt. Gewalt verstehen wir dabei mit Ko-
+loma Beck als einen körperbezogenen, sozialen Prozess, der ein asymme-
+trisches Verhältnis zwischen (mindestens) zwei Personen produziert (2011,
+S. 349).
+
+Gewalt ist keine ontologische Kategorie; eine Handlung wird vielmehr
+aus moralischen, ethischen oder normativen Erwägungen heraus als Ge-
+walt bestimmt (vgl. Christ, 2017, S. 11; Koloma Beck, 2011, S. 351). Sie gilt in
+westlichen Gesellschaften primär »als Modernisierungsdefizit, als Hand-
+lungsweise von ›Rückständigen‹ oder ›Rückwärtsgewandten‹« (Koloma
+Beck, 2017, S. 16). Diese »ordnungsstörende« Dimension von Gewalt wird
+unterschieden von einer »ordnungsstiftenden« Funktion polizeilicher Ge-
+
+
+
+Einleitung 17
+
+waltanwendungen für die Gesellschaft (vgl. ebd., S. 17).8 Ob Gewalt als
+legitim oder illegitim verstanden wird, ist dabei kontingent und hängt
+von der Definitionsmacht derjenigen ab, die eine Handlung als Gewalt
+beschreiben. Entscheidend ist somit nicht nur die Frage, ob und wie Gewalt
+ausgeübt wird, sondern wer unter welchen Bedingungen legitimerweise
+Gewalt anwenden kann (vgl. Zuckerhut, 2010, S. 291).
+
+Der Staat beansprucht für sich das »Monopol legitimer physischer Ge-
+waltsamkeit« (Weber, 1926, S. 8), überträgt die Anwendungsbefugnis (potes-
+tas) dazu einzelnen Institutionen wie Polizei und Militär und legalisiert da-
+mit bestimmte Gewaltakte. Die Polizei ist infolgedessen eine der wenigen
+Institutionen,die (teils) legalisiert und legitimiertGewalt anwendendarf. Je-
+doch ist diese Gewalt der Verfassung und dem einfachen Gesetz nach streng
+begrenztundwird indieserBegrenzungals »unmittelbarerZwang«bezeich-
+net (vgl. Neuwald, 2022): Diese Gewalt darf nie um ihrer selbst willen einge-
+setztwerden, sondern nur, umeine andere polizeilicheMaßnahmewie etwa
+einen Platzverweis durchzusetzen. Der Gewalteinsatz ist zulässig, wenn er
+sich auf eine Rechtsgrundlage stützen kann,wenn kein anderes gleich effek-
+tives Mittel zur Durchsetzung zur Verfügung steht und wenn die Nachtei-
+le, die aus der Gewalt resultieren, noch in einem angemessenen Verhältnis
+zum Zweck der Gewaltanwendung stehen. Da eine polizeiliche Gewaltan-
+wendung in der Regel in die körperliche und seelische Unversehrtheit der
+jeweiligen Betroffenen eingreift, betrifft sie meist auch die Menschenwür-
+de nach Art. 1 Abs. 1 GG. Insofern ist rechtlich ein strenger Maßstab zur Be-
+wertung der Verhältnismäßigkeit anzulegen. Ausdruck dessen ist das Prin-
+zip der ultima ratio, wonach polizeiliche Gewalt nur als letztes Mittel zur
+Durchsetzung einer Maßnahme angewendet werden darf. Ein Überschrei-
+ten der Grenzen macht aus der eingehegten »potestas« einen Akt der »vio-
+lentia«. Das Gesetz spielt insofern eine ambivalente Rolle: Es begrenzt die
+polizeiliche Gewaltausübung einerseits, gestattet sie aber zugleich in diesen
+Grenzen und verleiht der Polizei damit die besondere Befugnis zur Gewalt-
+ausübung.
+
+In der Praxis gehört Gewalt zum Alltag der Polizei. Was vom Gesetz als
+Ausnahme formuliert wird, ist aus Sicht der anwendenden Beamt*innen
+normaler Teil ihrer Berufsausübung. Insofern ist die Tatsache der Gewalt-
+
+8 DerVorwurf, eine vermeintlichordnungsstiftendeGewaltanwendung sei ordnungsstörend–wie
+er im Begriff der »Polizeigewalt« mitschwingt – wird angesichts dessen häufig als Affront ver-
+standen (vgl. Espín Grau und Klaus, 2022).

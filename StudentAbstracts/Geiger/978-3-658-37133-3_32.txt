@@ -1,0 +1,1622 @@
+﻿Polizeikultur(en)
+
+Welche Aspekte verhüten, welche Aspekte 
+begünstigen Rassismus und Diskriminierung?
+
+Udo Behrendes
+
+Zusammenfassung
+
+Zunächst werden kurz Entwicklungsprozesse der Polizei der Bundes-
+republik Deutschland betrachtet, die in den vergangenen 70 Jahren für 
+Veränderungen ihres Berufsbildes und ihrer Organisationskultur(en) bedeut-
+sam waren. Auf Grundlage dieser Bestandaufnahme werden dann solche 
+Aspekte der Polizeikultur(en) näher beleuchtet, die besondere Relevanz für 
+das Themenfeld „Rassismus und Diskriminierung“ haben. Davon ausgehend 
+werden „Kulturentwicklungspfade“ zur Minimierung entsprechender Risiko-
+konstellationen markiert.
+
+Schlüsselwörter
+
+Polizeikultur · Polizeiliches Gegenüber · Bürger(rechts)orientierung · PDV 100 · 
+Interaktionsmanagement
+
+U. Behrendes (*) 
+Lohmar, Deutschland
+E-Mail: behrendes@web.de
+
+© Der/die Autor(en) 2022 693
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_32
+
+
+
+694 U. Behrendes
+
+1 E inleitung und Eingrenzung
+
+Im Jahr 2020 bestimmten Vorwürfe über Rassismus, Rechtsextremismus und 
+illegale Gewaltanwendungen den öffentlichen Diskurs über die deutsche Polizei. 
+Bei den Erörterungen zu möglichen Hintergründen für die bekannt gewordenen 
+Sachverhalte1 wurde häufig (zuweilen auch relativ pauschal) auf strukturelle und 
+kulturelle Defizite in der Polizei verwiesen. Auch wenn Struktur- und Kultur-
+fragen in einer engen Wechselbeziehung zueinander stehen2, soll in diesem Bei-
+trag insbesondere zwei Fragestellungen nachgegangen werden:
+
+• Welche Aspekte der Polizeikultur können Rassismus und Diskriminierung in 
+der polizeilichen Praxis begünstigen?
+
+• Welche Aspekte der Polizeikultur können Rassismus und Diskriminierung in 
+der polizeilichen Praxis verhüten?
+
+Angelehnt an die allgemeine Kultur-Definition der Unesco-Kommission3 kann 
+man Polizeikultur als Gesamtheit berufsspezifischer Traditionen, Wertmaßstäbe, 
+Einstellungs- und Verhaltensmuster beschreiben, die das Rollen- und Selbstver-
+ständnis der Mehrzahl der Polizist:innen prägen.4 Diese Arbeitsdefinition, die den 
+folgenden Überlegungen zugrunde gelegt wird, muss jedoch ihrerseits bereits 
+wieder relativiert werden, da es die Polizeikultur in Form eines konsistenten 
+Gesamtbildes nicht gibt.5 Berufsspezifische Kulturen entstehen und entwickeln 
+sich immer in Wechselwirkungen zu dem jeweiligen Aufgabenbereich, den 
+konkreten Organisationsstrukturen und Arbeitsabläufen sowie dem unmittelbaren 
+beruflichen Umfeld.6 So bringen etwa die unterschiedlichen Funktionsbereiche 
+des Streifendienstes, der Bereitschaftspolizei und der Kriminalpolizei auch 
+unterschiedliche organisationskulturelle Ausprägungen mit sich.7 In der Polizei-
+
+1 Vgl. den Überblick bei Diederichs (2021).
+2 Vgl. exemplarisch für den Entwicklungsprozess in einer großstädtischen Brennpunkt-
+dienststelle Behrendes (2014).
+3 Deutsche UNESCO-Kommission (1983), S. 121.
+4 Vgl. auch Vera und Jablonowski (2017), S. 478.
+5 Vgl. Vera (2015), S. 64 f.
+6 Vgl. dazu auch die Beiträge von Gutschmidt und Czudnochowski sowie von Hunold in 
+diesem Band.
+7 Vgl. auch Singelnstein (2021), S. 386.
+
+
+
+Polizeikultur(en) 695
+
+wissenschaft wird darüber hinaus auch noch generell zwischen den Kulturen 
+der „Management-Cops“8 und der „Street-Cops“9 differenziert und insoweit ein 
+„kultureller Graben“ beschrieben.10
+
+Dennoch gibt es Aspekte, die man „vor die Klammer“ ziehen kann, zumal 
+die unterschiedlichen Teilkulturen ja auch miteinander verwoben sind und in 
+Wechselbeziehung zueinander stehen.11 Bereits das 1972 von der Innenminister-
+konferenz in Auftrag gegebene Saarbrücker Gutachten über das „Berufsbild des 
+Polizeivollzugsbeamten“ kam zu der Einschätzung:
+
+„Die Polizei ist nicht nur in rechtlicher und formeller Hinsicht eine organisatorische 
+Einheit, sondern wird darüber hinaus von einer Reihe gemeinsamer Verhaltens-
+standards und Wertorientierungen ihrer Mitglieder getragen, die sie auch in sozialer 
+Hinsicht als System erscheinen lässt.“12
+
+Leider beließen es die Verfasser des Gutachtens überwiegend bei dieser all-
+gemeinen Feststellung und arbeiteten die „gemeinsamen Verhaltensstandards und 
+Wertorientierungen“ im Verlauf ihrer Untersuchungen nicht systematisch heraus.
+
+Da sich Kulturen über längere Zeiträume bilden und verändern, werden für 
+die Bestandsaufnahme aus Sicht der 2020er Jahre im nächsten Abschnitt zunächst 
+kurz solche Entwicklungsprozesse der Polizei in den Blick genommen, die sich 
+seit Gründung der Bundesrepublik13 unmittelbar oder mittelbar auf ihr Rollen- 
+und Selbstverständnis, auf ihre Traditionen, Wertmaßstäbe, Einstellungs- und Ver-
+haltensmuster ausgewirkt haben und die daher sowohl eine Relevanz für heutige 
+Standortbestimmungen als auch für neue Zielsetzungen haben. Dabei wird deut-
+lich werden, dass es zumeist externe Einflussfaktoren aus Politik, Justiz, Wissen-
+schaft, Medien und Gesellschaft waren, die polizeiinterne Entwicklungsprozesse 
+und damit auch Kulturveränderungen angestoßen haben. Zu diesem Aspekt 
+konstatierte bereits das Saarbrücker Gutachten:
+
+8 Vgl. Jaschke (2006).
+9 Vgl. grundlegend Behr (2000a und 2006) sowie den Beitrag von Behr in diesem Band.
+10 Vgl. Vera (2015), S. 65.
+11 Vgl. Dübbers (2015), S. 150.
+12 Helfer und Siebel (1975), S. 921.
+13 Parallel wäre es interessant zu untersuchen, welche berufsspezifischen Kulturaspekte aus 
+der 40-jährigen Geschichte der Volkspolizei der DDR noch heute eine Relevanz in den ent-
+sprechenden Länderpolizeien entfalten – vgl. dazu etwa Weijers (2010) und Liebl (2010).
+
+
+
+696 U. Behrendes
+
+„Das interne Innovationspotential der Polizei ist nicht groß, aber die Bereitschaft zu 
+induziertem Wandel ist vorhanden.“14
+
+Auf Grundlage dieser Bestandsaufnahme werden in den weiteren Abschnitten die 
+aufgeworfenen Fragestellungen behandelt, wobei der Fokus der Betrachtung auf 
+den polizeilichen Organisationseinheiten liegt, die überwiegend „auf der Straße“ 
+arbeiten. Abschließend werden Orientierungspunkte für „Kulturentwicklungs-
+pfade“ zur Minimierung rassistischer und diskriminierender Dispositionen 
+markiert.
+
+Der Verfasser dieses Beitrages war über 40 Jahre Polizist in Nordrhein-
+Westfalen und hat dabei sowohl die Funktionen des „Street Cops“ und des 
+„Management Cops“ als auch Basis-Führungsfunktionen wahrgenommen, die 
+zwischen diesen beiden Ebenen angesiedelt sind. Auch wenn nachfolgend der 
+Versuch unternommen wird, die eigenen „Insider-Erfahrungen“ mit weiter-
+gehenden Erkenntnissen zu reflektieren, bleiben die Überlegungen natürlich 
+gleichwohl subjektiv und verstehen sich daher in erster Linie als Impuls für die 
+weitergehenden Erörterungen der Thematik.
+
+2 D er (holprige) Weg von der Staats- zur 
+Bürger(rechts)polizei
+
+Rolle und Selbstverständnis der Polizei in der Bundesrepublik Deutschland 
+haben sich zwischen den 1950er und 2020er Jahren sukzessive von einer sich 
+eher obrigkeitsstaatlich gerierenden zu einer vermehrt bürger(rechts)orientierten 
+Institution gewandelt. Diese Wandlungsprozesse verliefen weder linear, noch sind 
+sie vorrangig „von innen heraus“ entstanden.15
+
+2.1  „Übersprungrestauration“ und „Scharnierzeit“
+
+In der Frühphase der Bundesrepublik Deutschland orientierte sich die Polizei 
+bei ihrem Wiederaufbau nach der NS-Diktatur und der Besatzungszeit an den 
+Organisationsformen und dem beruflichen Selbstverständnis aus der Zeit der 
+
+14 Helfer und Siebel (1975), S. 1313.
+15 Vgl. etwas ausführlicher zu diesen Entwicklungsprozessen: Behrendes (2013a).
+
+
+
+Polizeikultur(en) 697
+
+Weimarer Republik16 – nicht zuletzt, weil die berufliche Sozialisation der meisten 
+Polizeibeamten, die nun Ausbilder und Führungskräfte waren, in dieser Zeit 
+erfolgt war.17 Viele von ihnen hatten mit ihren Grundeinstellungen und -haltungen 
+zumeist auch die NS-Zeit unbeschadet überstanden.18 Mit der „Übersprung-
+restauration“19 zum vermeintlich unbelasteten Polizeibild der Weimarer Republik 
+wurde das kollektive Selbstbewusstsein der neu gegründeten Bereitschafts-
+polizeien durch die Konstruktion positiver historischer Referenzpunkte unter-
+mauert.20
+
+Vorrangige Bezugspunkte der Polizeiarbeit nach dem I. Weltkrieg waren die 
+teilweise bürgerkriegsähnlichen Auseinandersetzungen anlässlich regionaler 
+sozialer Unruhen21 sowie militanter Aufmärsche rechter22 und linker23 Parteien 
+und Gruppierungen gewesen. Die insbesondere im Verantwortungsbereich 
+des preußischen Innenministers Carl Severing eingeleiteten Reformansätze zu 
+einer entmilitarisierten, bürgerorientierten Polizei24 (damals wurde der Slogan 
+Freund und Helfer geprägt) konnten unter diesen Rahmenbedingungen letztlich 
+keine nachhaltige Wirkung entfalten.25 Ausgehend von den „Straßenkampf“-
+Erfahrungen wurde der polizeiliche Nachwuchs in den seit 1951 parallel mit 
+dem Bundesgrenzschutz als Militärersatz26 aufgestellten Bereitschaftspolizeien 
+der Bundesländer27 mit soldatischem Drill ausgebildet.28 Der damit verbundene 
+autokratische Führungsstil im Binnenverhältnis korrespondierte mit einem 
+autoritären Habitus im Außenverhältnis.29 Ausgehend vom Selbstverständnis 
+
+16 Vgl. dazu generell Werkentin (1984).
+17 Vgl. Weinhauer (2003), S. 85–116.
+18 Vgl. dazu Noethen (2003) im Hinblick auf die Polizei in Nordrhein-Westfalen.
+19 Gintzel (2015), S. 37.
+20 Sturm (2009), S. 30.
+21 Z. B. anlässlich des „Mitteldeutschen Aufstands“ 1921 – vgl. Behrendes (1991), S. 9 f.
+22 Z. B. beim „Blutsonntag von Altona“ am 17. Juli 1932 anlässlich eines Aufmarsches der 
+SA – vgl. Leßmann-Faust (2012), S. 307–311.
+23 Z. B. beim „Oktoberaufstand“ 1923 in Hamburg – vgl. Zaika (1979), S. 128–134.
+24 Vgl. van den Bergh (1926), S. 117–130.
+25 Vgl. Heuer-Schräpel (1993), S. 55 ff.
+26 Die Gründung der Bundeswehr erfolgte erst im Jahr 1955.
+27 Vgl. generell dazu Behrendes (1991).
+28 Dams (2008), S. 11 f.
+29 Vgl. Schulte (2019), S. 75.
+
+
+
+698 U. Behrendes
+
+als  „staatliches Werkzeug“30 (womit sie sich im Übrigen nicht wesentlich von 
+anderen Verwaltungszweigen unterschied31) pflegte die Polizei in der Frühphase 
+der Bundesrepublik den Korpsgeist einer gegenüber der Gesellschaft weitgehend 
+abgeschlossenen, hoheitlich agierenden Institution.32
+
+In den 1960er Jahren machte die Polizei bundesweit die Erfahrung, dass die 
+überkommenen, konfrontativen Einsatztaktiken („intensive Überwachung“ und 
+„entschlossene Härte“33) beim Umgang mit Jugend- und Partyszenen34 und 
+dem politischem Protest der „Studentenbewegung“ in der zweiten Hälfte der 
+1960er Jahre zunehmend zu gesellschaftlicher und medialer Kritik führten.35 
+In der Folge wurden dann in einigen Großstädten erste Ansätze zur Dialog-
+orientierung und gesellschaftlichen Öffnung der Polizei entwickelt. So kann 
+z. B. die nach Aufarbeitung der Schwabinger Krawalle Mitte der 1960er Jahre 
+konzipierte Münchener Linie, deren Kernpunkt die Einrichtung eines psycho-
+logischen Dienstes war, als die erste konzeptionelle Deeskalationsstrategie der 
+bundesdeutschen Polizei angesehen werden.36 Polizeiforscher beschrieben sie 
+seinerzeit als „innoviertes System von Strukturen, Verfahren und Ideologien 
+institutionalisierter Prävention“37.
+
+Die Gewerkschaft der Polizei (GdP) rief 1970 in ihrer Denkschrift Polizei-
+notruf dazu auf, „das Konzept einer zivilen, bürgernahen Polizei zu entwickeln, 
+die den Anforderungen in der modernen, demokratischen Gesellschaft optimal 
+gerecht werden kann“38. Das (neue) polizeiliche Berufsbild wurde in Abkehr 
+von der militärischen Herleitung verortet: „Es muss deutlich werden, dass es der 
+Schutzpolizei primär um Sicherheit, um die Erhaltung des Rechtsfriedens, um 
+den Ausschluss von Gewalt bei der Austragung von Konflikten geht. […] Jeder-
+mann muss überzeugt sein, dass der Polizeiberuf ein Sozialberuf ist.“
+
+30 Dierske (1952), S. 43.
+31 Vgl. Czerwick (2001), S. 45 f.
+32 Vgl. Weinhauer (2008), S. 21–24, 32–34 sowie den Beitrag von Weinhauer in diesem 
+Band.
+33 Weinhauer (2011), S. 304 ff.
+34 „Halbstarkenkrawalle“ in den 1950er Jahren, „Schwabinger Krawalle“ im Juni 1962.
+35 Vgl. Winter (2000), S. 207.
+36 Vgl. Sturm (2020), S. 132 ff.
+37 Goerschel und Schmidbauer (1971), S. 168.
+38 Gewerkschaft der Polizei (1970), S. 63.
+
+
+
+Polizeikultur(en) 699
+
+In der Gesamtbetrachtung gelten die 1960er Jahre als „Scharnierzeit“ 
+des kulturellen Wandelns der Polizeiorganisation von einer noch stark durch 
+Reminiszenzen an Traditionen der Weimarer Zeit geprägten Ordnungsmacht zur 
+modernen Polizei des demokratischen Rechtsstaats der Bundesrepublik.39
+
+2.2  Ausbildungsreformen, Terrorismus und 
+gesellschaftliche Öffnung
+
+Seit Ende der 1960er Jahre wurden im Zuge der allmählichen Loslösung von 
+einem militärisch geprägten Berufsverständnis auch Forderungen nach einer 
+polizeilichen Führungslehre in Ergänzung zu der bislang nur auf die reine 
+Polizeitaktik bezogenen Polizeiverwendungslehre laut. Mitte der 1970er Jahre 
+konzipierten Dozenten der Polizeiführungsakademie in Münster-Hiltrup40 das 
+Kooperative Führungssystem (KFS)41, das nun vom „Mitarbeiter“ an Stelle des 
+„Untergebenen“ sprach und den Dialog an die Stelle von Befehl und Gehorsam 
+setzte.42 Wenngleich ein umfangreicher Modernisierungsbedarf besteht43, 
+bleibt dieses Modell ein Meilenstein für die innere Demokratisierung und 
+Humanisierung der Polizei. Die internen Reformprozesse stehen im Übrigen in 
+unmittelbarer Wechselbeziehung zum Verhältnis Polizei und Bevölkerung – es 
+gibt keine bürgernahe Polizei in einem autoritären Binnenklima.44
+
+Ab Mitte der 1970er Jahre wurde die bis dahin polizeiinterne Ausbildung für 
+den gehobenen Dienst („Kommissars-Ausbildung“) in allen Bundesländern als 
+Fachhochschulstudium (heute als Bachelor-Studiengang) konzipiert. Der zuvor 
+in erster Linie von Recht und Einsatztaktik dominierte Fächerkanon wurde um 
+sozialwissenschaftliche und verhaltensorientierte Lehrveranstaltungen erweitert 
+und führte zur stärkeren Beteiligung polizei-externer Dozent:innen am Lehr-
+betrieb.
+
+39 Vgl. Kawelovski und Mecking (2019), S. 40.
+40 Heute Deutsche Hochschule der Polizei.
+41 Vgl. zum Entstehungshintergrund Thielmann et al. (2020), S. 20–23.
+42 Altmann und Berndt (1976).
+43 Vgl. dazu Barthel und Heidemann (2013).
+44 Gintzel und Möllers (1987), S. 11.
+
+
+
+700 U. Behrendes
+
+Der durch das Umdenken beim Umgang mit politischem Protest45 und die 
+Reformen in den Bereichen Führung und Ausbildung eingeleitete Prozess zur 
+gesellschaftlichen Öffnung der Polizei wurde Anfang der 1970er Jahre durch 
+das Bild eines omnipräsent gewordenen Links-Terrorismus46 zum Teil wieder 
+zurück geworfen. Angesichts einer starken Fokussierung auf die Eigensicherung, 
+die sowohl zur optischen Abschottung (schusshemmende Verglasung von 
+Polizeiwachen, Sicherheitsschleusen) als auch zur Aufrüstung der polizeilichen 
+Bewaffnung und Ausstattung führte, vergrößerte sich die mentale Distanz zu den 
+Bürger:innen (wieder).47
+
+Ende der 1970er Jahre führten sowohl der prognostizierte Mangel an männ-
+lichen Bewerbern als auch die Emanzipationsbewegung zur sukzessiven Öffnung 
+der uniformierten Schutzpolizei für Frauen.48 Zur gleichen Zeit sorgte die Ein-
+stellung eines Türken in die Berliner Polizei für Schlagzeilen.49
+
+Auch wenn die Polizei im Zuge der Entwicklung der letzten drei Jahrzehnte 
+nach wie vor kein Spiegelbild der Gesellschaft ist (und in der Gesamtbetrachtung 
+auch nicht sein sollte!50) hat sie sich durch die vermehrte Einstellung von Frauen 
+und von Menschen mit Zuwanderungsgeschichte sukzessive vom Status einer 
+„weißen Männergemeinschaft“ zu einer deutlich diverseren Organisation mit 
+einem (zwangsläufig) offeneren Binnenklima entwickelt.51
+
+2.3  Amnesty-Studie und „Hamburger Polizeiskandal“
+
+Nach den Polizeireformen seit den 1970er Jahren und der gesellschaftlichen Öffnung 
+der Polizei seit den 1980er Jahren wurde Mitte der 1990er Jahre bundesweit über 
+Vorwürfe rassistischer Verhaltensweisen in der deutschen Polizei diskutiert:
+
+45 Vgl. Schulte (2019), S. 75–80, 84.
+46 Vgl. Busch et al. (1985), S. 229 ff.
+47 Heuer-Schräpel (1993), S. 59.
+48 Murck und Werdes (1996), S. 1268 f.
+49 Vgl. Wüller (2010), S. 165 f.
+50 Vgl. Christe-Zeyse (2020), S. 12 f.
+51 Vgl. Singelnstein (2021), S. 388.
+
+
+
+Polizeikultur(en) 701
+
+„Ausländer als Opfer. Polizeiliche Misshandlungen in der Bundesrepublik 
+Deutschland“ lautete der Titel einer Fallsammlung von amnesty international.52 
+Wenig später wurden die Ergebnisse zweier Studien zum Thema Polizei und 
+Fremde53 präsentiert, die von der Innenministerkonferenz in Auftrag gegeben 
+worden waren. Gleichzeitig arbeitete ein parlamentarischer Untersuchungsaus-
+schuss zwei Jahre lang den Hamburger Polizeiskandal auf, bei dem es um zahl-
+reiche Diskriminierungen und Misshandlungen von Migrant:innen ging, die 
+überwiegend als Tatverdächtige von Drogendelikten im polizeilichen Fokus 
+gestanden hatten.54 Parallel dazu führte das Bielefelder Institut für Konflikt- und 
+Gewaltforschung eine Untersuchung zum Verhältnis von Polizei und Fremden in 
+Konfliktsituationen in Hamburg durch.55
+
+Der Hamburger Polizeiskandal56 wird auch heute noch mit der Metapher 
+Mauer des Schweigens konnotiert, die in der Polizeibelegschaft gegen die Auf-
+klärung der Vorfälle errichtet worden war.57 Nach Bekanntwerden der Übergriffe 
+war der damalige Innensenator Werner Hackmann zurückgetreten, da er ein 
+„Zeichen gegen Korpsgeist und Rassismus in der Polizei“ setzen wollte.58
+
+Wenn solche Themen nun 25 Jahre später erneut (bzw. immer noch) auf 
+der Agenda stehen59, drängt sich natürlich die Frage auf, ob die Reformen der 
+Aus- und Fortbildung, die im Zuge der Bachelor-Studiengänge veränderten 
+Herkunfts- und Bildungshintergründe von Polizist:innen60 und die Öffnungen der 
+Schutzpolizei für Frauen und für Menschen mit Zuwanderungsgeschichte (zu) 
+wenig bewirkt haben und wo noch ergänzender „Kulturentwicklungsbedarf“ zur 
+Verhinderung von Tendenzen gruppenbezogener Menschenfeindlichkeit61 besteht.
+
+52 Amnesty International (1995).
+53 Bornewasser und Eckert (1995).
+54 HH Bürgerschaft-Drs. 15/6200.
+55 Backes et al. (1997).
+56 Neben dem Hamburger Polizeiskandal wurden in den 1990er Jahren eine Reihe weiterer 
+ähnlich gelagerter Vorfälle in der bundesweiten Öffentlichkeit diskutiert – vgl. Bürger-
+rechte & Polizei/CILIP und Diederichs (1995), S. 7–39.
+57 Vgl. Schwind (1996).
+58 Schwind (1996), S. 164.
+59 Zum aktuellen, themenbezogenen Forschungsstand vgl. Hunold und Wegner (2020) 
+sowie den Beitrag von Wegner und Ellrich in diesem Band.
+60 Vgl. dazu Dübbers (2015), S. 123–166.
+61 Vgl. dazu den Beitrag von Groß, Clasen und Zick in diesem Band.
+
+
+
+702 U. Behrendes
+
+3 A spekte der Polizeikultur(en), die Rassismus und 
+Diskriminierung begünstigen können
+
+Die nachfolgend angerissenen Themenfelder wirken sich weder zwangsläufig 
+noch monokausal auf polizeiliches Verhalten aus. Je nach Konstellation „vor 
+Ort“ können sie sich aber kumulativ bzw. in ihren Wechselbeziehungen zu den 
+jeweiligen beruflichen Herausforderungen zu einem Nährboden für Fehlent-
+wicklungen verdichten.62
+
+3.1  Der Blick auf „das polizeiliche Gegenüber“ und das 
+Denken in Freund-Feind-Schemata
+
+Obwohl sich die Polizei in der Bundesrepublik im Laufe der Jahrzehnte immer 
+mehr aus ihrer gesellschaftlichen Isolation gelöst hat, blicken nach wie vor 
+viele Polizist:innen (aller Hierarchie- und Funktionsbereiche) mit einer sehr 
+auf sich selbst bezogenen Perspektive auf die beruflichen Interaktionen mit 
+der Bevölkerung. Nach wie vor ist es sowohl in der internen als auch externen 
+Kommunikation üblich, Personen, Personengruppen und soziale Milieus, mit 
+denen man berufliche Kontakte hat, als das polizeiliche Gegenüber zu bezeichnen. 
+Polizeiintern sieht man diesen Begriff überwiegend als eine neutrale, professionelle 
+Bezeichnung an und hat daher wenig Verständnis dafür, dass man damit auch 
+Assoziationen von misstrauischer Distanz und Konfrontation verbinden kann.63
+
+Beim Blick auf das polizeiliche Gegenüber neigen viele Polizist:innen 
+(aller Hierarchie- und Funktionsbereiche) nach wie vor zu dichotomen Kate-
+gorisierungen.64 Sowohl einzelne Personen als auch Personengruppen, Institutionen 
+und Organisationen des (jeweiligen) dienstlichen Umfeldes werden im internen 
+Sprachgebrauch (ebenfalls seit Jahrzehnten) häufig in die Cluster polizeifreund-
+lich oder polizeifeindlich (zuweilen auch in die Kategorien „anständiger Bürger“ 
+und „Drecksack“65) eingeordnet. Bei unterstellter Polizeifeindlichkeit können dann 
+
+62 Vgl. Feltes und Plank (2021), S. 273.
+63 Vgl. auch Schiewek (2012), S. 98 f.
+64 Vgl. Herrnkind (2021), S. 92.
+65 Behr (2000b), S. 232.
+
+
+
+Polizeikultur(en) 703
+
+schnell für selektive Wahrnehmungen anfällige Einstellungen und ein von Miss-
+trauen geprägtes Klima entstehen. Während man zu als polizeifeindlich markierten 
+Politiker:innen, Pressevertreter:innen und Wissenschaftler:innen (lediglich) auf 
+Distanz geht, können sich gegenüber Personengruppen und sozialen Milieus, die 
+man entsprechend apostrophiert und mit denen man im beruflichen Alltag wieder-
+kehrende Begegnungen hat, negative gruppenbezogene Stereotypisierungen 
+bilden, auf deren Grundlage sich eine generelle konfrontative Grundhaltung und 
+undifferenzierte Kontrollpraxen etablieren können66 – wobei es jedoch keine 
+Zwangsläufigkeiten zwischen entsprechenden Einstellungen, Haltungen und dis-
+kriminierenden Verhaltensweisen gibt67.
+
+3.2  Eigensicherungskultur68, Gefahrengemeinschaften, 
+Korpsgeist
+
+Im Zuge der terroristischen Bedrohung, aber auch aufgrund zahlreicher Alltags-
+einsätze, bei denen Polizist:innen Opfer von Gewalttaten geworden waren69, trat 
+seit den 1970er Jahren das Thema Eigensicherung immer mehr in den Fokus der 
+polizeilichen Aus- und Fortbildung. In den Vorbemerkungen zur Ausgabe 1973 
+des Leitfadens 371 (Eigensicherung im Polizeidienst), der praktische Hand-
+lungsanleitungen für das entsprechende Vorgehen in unterschiedlichen Einsatz-
+situationen gibt70, wurde u. a. appelliert, stets den „Argwohn wachzuhalten“ 
+sowie „im Zweifelsfall immer das Schlimmste anzunehmen“.71 Der bundesweit 
+
+66 Vgl. dazu den Beitrag von Espín Grau und Klaus in diesem Band.
+67 Vgl. hierzu den Beitrag von Gutschmidt in diesem Band.
+68 Vgl. hierzu auch den Beitrag von Herrnkind in diesem Band.
+69 Allein im Jahr 1972 (in welchem der Verfasser Polizist wurde), wurden in der (alten) 
+Bundesrepublik 15 Polizeibeamte durch Gewalttäter getötet – vgl. Pütter und Neubert 
+(2010), S. 26.
+70 Da der Leitfaden als Verschlusssache (VS – Nur für den Dienstgebrauch) eingestuft ist, 
+kann hier nicht näher auf weitere Einzelheiten eingegangen werden.
+71 PDV 371 (Eigensicherung im Polizeidienst), Ausgabe 1973, in Nordrhein-Westfalen 
+eingeführt mit Erlass des Innenministers des Landes Nordrhein-Westfalen – IV A 1–1593 
+(20530) – vom 05.03.1974, S. 7.
+
+
+
+704 U. Behrendes
+
+gültige Leitfaden wurde anschließend mehrfach überarbeitet72 und sieht sich seit 
+Anfang der 2000er Jahre als Bestandteil der Sicherheitskultur der Polizei73.
+
+Auch unabhängig von den Empfehlungen des Leitfadens 371 haben sich in der 
+polizeilichen Alltagsarbeit sukzessive Kontroll-, Durchsuchungs- und Festnahme-
+praktiken etabliert, die zwar einerseits das Ziel der Eigensicherung verfolgen, 
+andererseits aber wegen ihrer nicht selten als unangemessen und erniedrigend 
+wahrgenommenen Wirkung selbst Ausgangspunkt für Widerstandshandlungen 
+und Eskalationen sein können. Das gilt insbesondere für das „zu Boden bringen“ 
+und die Fesselung einer Person, um sie vor dem Transport zur Polizeiwache voll-
+ständig unter Kontrolle zu haben. Abgesehen von den damit verbundenen Rechts-
+fragen (die an dieser Stelle nicht vertieft werden74) zeigt sich hier die Ambivalenz 
+von vordergründig „nur“ der Eigensicherung dienenden technischen Verhaltens-
+standards.75 Aspekte der postulierten Sicherheitskultur können dann mit denen 
+einer Dominanzkultur76 verschwimmen. Das ständige Denken in „Worst-Case-
+Szenarien“ kann darüber hinaus den Blick insgesamt verengen und zu einem 
+durchgängig konfrontativ-misstrauischen Habitus führen, der seinerseits latentes 
+Eskalationspotential in sich birgt.
+
+Mit der sich in den letzten Jahrzehnten immer mehr verfestigten, eher 
+legalistisch-technisch orientierten Eigensicherungskultur77 korrespondiert das 
+Selbstverständnis von Polizist:innen in Basis-Organisationseinheiten (z. B. 
+Dienstgruppen im polizeilichen Streifendienst und Einsatzhundertschaften in 
+der Bereitschaftspolizei), sich in einer Gefahrengemeinschaft78 zu befinden, in 
+der sich alle Mitglieder uneingeschränkt aufeinander verlassen können müssen. 
+Kollegialität, Loyalität und Solidarität sind daher die wichtigsten Kodizes dieser 
+Teams, die Tag und Nacht „auf der Straße arbeiten“.79
+
+72 Die aktuelle Fassung datiert aus dem Jahr 2021.
+73 Leitfaden 371 (Eigensicherung im Polizeidienst), Ausgabe 2001, in Nordrhein-West-
+falen eingeführt mit Erlass des Innenministeriums des Landes Nordrhein-Westfalen – IV C 
+2–1593 – vom 04.05.2001, S. 9.
+74 Vgl. generell zu Rechtsfragen im Themenfeld Eigensicherung: Mentzel et al. (2003).
+75 Vgl. Steffens-enn (2014), S. 9–12.
+76 Vgl. hierzu den Beitrag von Behr in diesem Band.
+77 Vgl. dazu etwa Thiel (2019).
+78 Vgl. Seidler (2013), S. 62 ff.
+79 Ausführlicher zu den spezifischen Handlungsfeldern des Streifendienstes und der Bereit-
+schaftspolizei: Behrendes (2003), S. 160–171.
+
+
+
+Polizeikultur(en) 705
+
+Die Gruppenkohäsion kann sich letztlich zu einem Korpsgeist80 verdichten, 
+in dem sich ein eigenes Werte- und Regelsystem entwickelt. In diesem selbst-
+gesetzten Rahmen wird dann evtl. auch klares Fehlverhalten (z. B. Provokationen, 
+Diskriminierungen und ungerechtfertigte Gewaltanwendungen) einzelner 
+Mitglieder toleriert.81 Es können sich nicht nur Abschottungstendenzen zur 
+Außenwelt, sondern auch innerhalb der Polizeiorganisation entwickeln.82
+
+Diese „Wagenburgmentalität“ wird im Übrigen aber auch dadurch gefördert, 
+dass Reaktionen auf öffentlich bekannt gewordene Fehlverhaltensweisen durch 
+die politische (z. B. Innenminister) oder professionelle Polizeiführung (z. B. 
+Dienststellenleiter:innen) in den Basisorganisationen als ungerecht bzw. unan-
+gemessen angesehen werden (z. B. reflexhafte Suspendierungen, die anschließend 
+wieder von der Justiz aufgehoben werden) – zumal wenn dabei der Ein-
+druck entsteht, dass sich Vorgesetzte und politisch Verantwortliche mit solchen 
+Maßnahmen in erster Linie gegenüber der Öffentlichkeit selbst „reinwaschen“ 
+und als „Aufräumer:innen“ präsentieren wollen.
+
+3.3  Die Ambivalenz zwischen Kämpfer- und 
+Opferimage
+
+Schon immer hat die Polizei der Bundesrepublik die auch in Gesetzen und 
+politischen Verlautbarungen formulierten Kernaufträge, Verkehrsunfälle und 
+Kriminalität präventiv und repressiv zu „bekämpfen“, wobei die Kriminalitäts-
+bekämpfung83 im Selbstverständnis der Gesamtorganisation stets die Priorität ein-
+nimmt. Im Rahmen dieses generellen Auftrages ist der polizeiliche Streifendienst 
+(eingebettet in sein Aufgabenfeld der vorrangig reaktiven Einsatzwahrnehmung) 
+in erster Linie mit Phänomenen der Straßenkriminalität beschäftigt, also 
+Delikten, die im öffentlichen Raum stattfinden oder dort ihren Ausgang nehmen. 
+Demgegenüber muss die Bereitschaftspolizei häufig mit devianten Gruppen-
+phänomenen im Umfeld von Fußballspielen, bei Demonstrationen und in jüngster 
+Zeit auch häufig anlässlich von großstädtischen „Feierszenen“ im öffentlichen 
+Raum umgehen.
+
+80 Vgl. dazu Behr (2010), S. 66–69.
+81 Vgl. Zum-Bruch (2019), S. 231–234.
+82 Ausführlicher zu diesen Prozessen: Behrendes (2003), S. 171–182.
+83 Andere Begriffe, wie z. B. Kriminalitätskontrolle, haben sich letztlich nicht durchgesetzt.
+
+
+
+706 U. Behrendes
+
+Durch wiederkehrende Einsatzanlässe, aber auch im Rahmen proaktiver 
+Kontrollaktivitäten, fokussieren sich die polizeilichen Basis-Organisations-
+einheiten bei der Kriminalitätsbekämpfung häufig auf bestimmte Zielgruppen. 
+Für den Streifendienst sind das z. B. Trickdiebe und Drogendealer, für die Bereit-
+schaftspolizei Ultra-Gruppierungen bei Fußballspielen und militante Autonome 
+bei politischen Demonstrationen.
+
+Aber auch die Politik gibt zuweilen Bekämpfungs-Ziele vor – so hat z. B. 
+der seit 2017 amtierende nordrhein-westfälische Innenminister Herbert Reul 
+die „Bekämpfung der Clan-Kriminalität“ (ähnlich wie Innenpolitiker in anderen 
+Bundesländern) zu einem polizeilichen Schwerpunktthema erklärt. In diesem 
+Zusammenhang formulierte er das Ziel, „die Straße zurück zu erobern“ und im 
+Rahmen einer „Null-Toleranz-Strategie“ mit einer „Politik der Nadelstiche“ 
+gegen die Clanmitglieder durch „Erhöhung des Kontrolldrucks“ im Alltag, z. B. 
+bei Verkehrskontrollen und Kontrollen von Shishabars, vorzugehen.
+
+An diesem Beispiel, das im Rahmen dieses Beitrages nur in groben Zügen 
+skizziert werden kann, wird deutlich, dass die Konzentration auf bestimmte 
+Delikte mit der Fokussierung auf Strukturen, auf Milieus und letztlich auf 
+Träger:innen eines bestimmten Familiennamens verschwimmen kann. Darüber 
+hinaus kann auch die Kriegsrhetorik (Kampf, Eroberung) letztlich dazu bei-
+tragen, dass Feindbilder84 und eine „Wir-gegen-die-Mentalität“ entstehen bzw. 
+gefördert werden können. Zudem klingt die postulierte „Politik der Nadelstiche“ 
+im Rahmen einer „Null-Toleranz-Strategie“ nach einem Freibrief für selektives 
+Vorgehen gegen entsprechende „Großfamilien“. Letztlich droht damit die rechts-
+staatlich gebotene, ständige Ausrichtung des polizeilichen Einschreitens an 
+Differenziertheit und Angemessenheit in den Hintergrund zu treten.85
+
+Die vom eigenen beruflichen Selbstverständnis, von politischen Vor-
+gaben und häufig auch von Medienbeiträgen gespeiste Bekämpfungsrhetorik86 
+und das davon abgeleitete Bild des Crime-Fighters87 steht jedoch seinerseits 
+in einem augenfälligen Kontrast zu dem insbesondere von den polizeilichen 
+
+84 Vgl. dazu generell Schiewek (2012).
+85 Vgl. Dolderer (2001).
+86 Vgl. auch Frevel (2010), S. 55.
+87 Vgl. zu den wechselnden Konjunkturen von „Peace Keeping“ und „Crime Fighting“ 
+in polizei-politischen bzw. polizei-strategischen Schwerpunktsetzungen Barthel (2008), 
+S. 209.
+
+
+
+Polizeikultur(en) 707
+
+ Berufsvertretungen in den letzten Jahren immer wieder in die öffentliche Debatte 
+eingebrachten Bild von Polizist:innen als Opfer von Gewalt.88
+
+Die Selbstdarstellung der Polizei als Opfer89 mag zwar einerseits Sympathien 
+mobilisieren – begründet aber anderseits die Gefahr, das Vertrauen der 
+Bevölkerung in die polizeiliche Aufgabenerfüllung zu erschüttern.90 Nimmt 
+man die beiden Rollenbilder des „Crime Fighters“ und des „Opfers von Gewalt“ 
+zusammen, entsteht daraus letztlich eine Erzählung von „tragischen Held:innen“, 
+die sich trotz allen Einsatzes auf verlorenen Posten sehen und den Eindruck ver-
+mitteln, sich als „richtige Polizei in der falschen Gesellschaft“91 zu empfinden.
+
+Auch diese Selbstwahrnehmung kann den Humus für Ressentiments, 
+Stereotypenbildungen und konfrontative Verhaltenspraktiken gegenüber 
+Personengruppen und Milieus bilden, die man als diejenigen wahrnimmt, die das 
+„Polizeileben schwer machen“.
+
+3.4  Das besondere Bedürfnis nach Wertschätzung und 
+Respekt und die Folge wahrgenommener Defizite
+
+„Der Respekt gegenüber der Polizei geht immer mehr zurück“ – diese ständig 
+wiederholte Klage zieht sich wie ein roter Faden durch die Polizeigeschichte der 
+Bundesrepublik, obwohl dieses polizeiinterne Narrativ wohl nie empirisch zu 
+belegen war bzw. ist.92 Entsprechende Defizite werden sowohl bei der konkreten 
+Arbeit „auf der Straße“ als auch im Hinblick auf das generelle Berufsprestige 
+empfunden.
+
+Seit den 1970er Jahren93 bescheinigen in repräsentativen Bevölkerungs-
+umfragen in aller Regel rund 80 % der Befragten der Polizei ein positives 
+
+88 Die bislang am breitesten und differenziertesten angelegte Studie dazu stammt von der 
+Kriminologischen Forschungsstelle Niedersachsen – vgl. Ellrich et al. (2012).
+89 Im Rahmen der bundesweiten Kampagne „Auch Mensch“ der Gewerkschaft der 
+Polizei wurden z. B. plakativ Portraits von Polizist:innen gezeigt, die künstlich so ver-
+fremdet worden waren, dass eine Gesichtshälfte jeweils die Spuren von tätlichen Angriffen 
+suggerierte.
+90 Wagener (2012), S. 155.
+91 Behr (2012), S. 195.
+92 Vgl. etwa zu Alltagsgewalt und Respektlosigkeiten gegen Polizeibeamte in den angeblich 
+von Ruhe und Ordnung geprägten 1950er Jahren Fürmetz (2011).
+93 Vgl. Helfer und Siebel (1975), S. 837 ff.
+
+
+
+708 U. Behrendes
+
+Ansehen94 und stufen sie als vertrauenswürdiger ein als viele andere Berufs-
+gruppen95. Dennoch reicht vielen Polizist:innen diese positive Resonanz nicht 
+aus. So vertraten bereits bei den Befragungen im Rahmen des Saarbrücker Gut-
+achtens knapp zwei Drittel der teilnehmenden Polizisten96 die Meinung „ihre 
+Arbeit werde von der Mehrheit der Bürger nicht so geschätzt, wie sie es eigent-
+lich verdienten“.97 Die Gutachter bewerteten diese Diskrepanz seinerzeit wie 
+folgt:
+
+„Es muss alles getan werden, um ihr (der Polizei) zu einem ungestörten Selbst-
+bewusstsein zu verhelfen. Dazu gehört aber nicht nur die Erkenntnis, dass ihr 
+Ansehen in der Bevölkerung besser ist als sie glaubt. Nicht minder wichtig scheint 
+die Reduktion ihrer Prestigeansprüche auf ein realistisches Niveau zu sein. […] 
+Dass zu hohe Ansprüche allerlei Ressentiments erzeugen können, die im Umgang 
+mit dem Bürger zur Entladung drängen, ist klar.“98
+
+Da nach wie vor das Bedürfnis nach (noch) mehr Wertschätzung und Respekt 
+zu den Kernaspekten polizeilicher Berufsvertretungen gehört (vgl. etwa die im 
+Frühjahr 2021 bundesweit gestartete Wertschätzungskampagne #100für100 der 
+Gewerkschaft der Polizei99), behält auch die Einschätzung des Saarbrücker Gut-
+achtens weiterhin ihre Relevanz.
+
+3.5  Vorbehalte gegen Politik und Justiz und die Gefahr 
+selbstjustizieller Tendenzen
+
+Mit dem Bedürfnis nach (noch) mehr Wertschätzung und Respekt korrespondiert, 
+ebenfalls seit Jahrzehnten, eine distanziert-kritische Grundhaltung gegenüber 
+Politik und Justiz.
+
+Die Gesetzgebung wird traditionell als „zu lasch“ wahrgenommen, wenn 
+polizeiliche Forderungen nach Gesetzesverschärfungen (vorrangig im Bereich des 
+
+94 Vgl. Hermanutz und Weigle (2017), S. 950.
+95 Im Hinblick auf Menschen mit Migrationshintergrund sind diese Zahlen allerdings 
+differenzierter zu sehen – vgl. Feltes (2021), S. 203.
+96 In der damaligen Zeit arbeiteten nur Männer in der Schutzpolizei.
+97 Helfer und Siebel (1975), S. 915.
+98 Helfer und Siebel (1975), S. 875 f.
+99 Vgl. verschiedene Autoren in Deutsche Polizei, 70(6), S. 4–20.
+
+
+
+Polizeikultur(en) 709
+
+Strafrechts) oder Befugniserweiterungen (etwa im Polizeirecht, Versammlungs-
+recht und Strafprozessrecht) nicht oder nicht vollständig aufgegriffen werden.100
+
+Gegenüber der Justiz werden (ebenfalls seit Jahrzehnten) immer wieder 
+Klagen über zu milde Urteile und entsprechende Entscheidungen in Haftsachen 
+laut.101
+
+Das Saarbrücker Gutachten des Jahres 1975 beschrieb als denkbare Folge 
+der Einschätzungen, von den beiden anderen Staatsgewalten nicht adäquat in der 
+polizeilichen Arbeit „auf der Straße“ unterstützt zu werden, eine „Tendenz zur 
+Selbstjustiz“.102 Nicht wenige Polizisten würden ihr „hartes Zupacken“ gegen-
+über individuellen Tatverdächtigen als eine „Art ausgleichende Gerechtigkeit“ 
+legitimieren.103 Darüber hinaus würden sie sich aber auch generell „zum großen 
+Teil“ nicht scheuen, „manche Bevölkerungsgruppen auf eigene Faust härter anzu-
+fassen als notwendig“.104
+
+Auch diese tradierte Einstellung wirkt bis in die Gegenwart fort und 
+wird in der aktuellen wissenschaftlichen Literatur als pro-organisationale, 
+kompensierende Devianz beschrieben.105
+
+3.6  Zwischenfazit
+
+Um vorschnellen Schlüssen vorzubeugen sei hier nochmals darauf hin-
+gewiesen, dass die soeben unter Nr. 3.1–3.5 beschriebenen Aspekte keines-
+falls „automatisch“ zu konkreten diskriminierenden Verhaltensweisen einzelner 
+Polizist:innen und Polizist:innengruppen führen. Sie zeigen jedoch die Risiko-
+konstellationen auf, die man sich in der Polizei und insbesondere in der Polizei-
+führung auf allen Ebenen der Organisation bewusst machen muss, um sich damit 
+proaktiv und reaktiv auseinandersetzen zu können.106 Positiv gewendet weisen 
+
+100 Vgl. auch hierzu bereits Helfer und Siebel (1975), S. 895.
+101 Vgl. auch hierzu bereits Helfer und Siebel (1975), S. 910, die auf Grundlage ihrer Unter-
+suchungen auf ein „verbreitetes Ressentiment des Vollzugsdienstes gegenüber den Justiz-
+organen“ geschlossen haben.
+102 Helfer und Siebel (1975), S. 889.
+103 Helfer und Siebel (1975), S. 889 f.
+104 Helfer und Siebel (1975), S. 913.
+105 Vgl. Zum-Bruch (2019), S. 223 ff.
+106 Vgl. Singelnstein (2021), S. 385.
+
+
+
+710 U. Behrendes
+
+diese Risikokonstellationen darüber hinaus den Weg für Entwicklungspfade 
+der Polizeikultur(en) auf, die sowohl von innen heraus beschritten als auch von 
+Gesellschaft, Politik und Medien eingefordert und begleitet werden müssen (vgl. 
+unten Nr. 5).
+
+4 A spekte der Polizeikultur(en), die Rassismus und 
+Diskriminierung verhüten können
+
+Genauso wenig wie sich diskriminierende Einstellungen, Haltungen und Ver-
+haltensweisen monokausal und zwangsläufig entwickeln, gibt es „kulturelle 
+Patentrezepte“ dagegen. Sehr wohl gibt es aber Aspekte der Polizeikultur(en), 
+die solchen Tendenzen entgegenwirken (können) und deren Stärkung und Weiter-
+entwicklung im Sinne „demokratischer Resilienz“107 daher intern und extern in 
+den Blick genommen werden sollten.
+
+4.1  Bürger(rechts)orientierung als Selbstverständnis
+
+Das insbesondere seit den Reformprozessen der 1970er Jahre entwickelte 
+Rollen- und Selbstverständnis einer bürger(rechts)orientierten Polizei kann in der 
+Bundesrepublik Deutschland mittlerweile als „kulturell abgesichert“ gelten.108
+
+Gradmesser der Bürger(rechts)orientierung darf dabei allerdings nicht nur 
+das polizeiliche Verhältnis zur „Mehrheitsgesellschaft“ sein, sondern auch der 
+polizeiliche Umgang mit Minderheiten, namentlich mit Protestgruppen und 
+sozialen Randgruppen.
+
+Politischer Protest wird aus der polizeilichen Binnenperspektive seit langem 
+nicht mehr als generell „staatsfeindlich“ verortet, sondern (im Sinne der 
+Beschreibungen im Brokdorf-Beschluss des Bundesverfassungsgerichts109) 
+als Funktionselement einer lebendigen Demokratie verstanden, dessen 
+
+107 So lautet die Überschrift eines von einer bundesweiten „Expertengruppe Führung“ des 
+Unterausschusses Führung, Einsatz, Kriminalitätsbekämpfung (UA FEK) des Arbeits-
+kreises II (AK II) der Innenministerkonferenz Ende 2020 vorgelegten Strategiepapiers. Da 
+die Ausarbeitung (bedauerlicherweise) als „Verschlusssache“ eingestuft ist, darf daraus im 
+Rahmen dieses Beitrages nicht konkret zitiert werden.
+108 Vgl. etwa Innenministerium Nordrhein-Westfalen (2021), S. 7.
+109 BVerfGE 69, 315.
+
+
+
+Polizeikultur(en) 711
+
+ Wahrnehmung die Polizei nicht zu unterdrücken, sondern zu gewährleisten und 
+zu schützen hat – auch wenn die „Mehrheitsgesellschaft“ manche Proteste als 
+„unerwünscht“ klassifiziert.110
+
+Ähnlich verhält es sich beim Umgang mit Randgruppen im öffentlichen 
+Raum, die von der „Mehrheitsgesellschaft“ als „störend“ wahrgenommen 
+werden. Während es bis in die 1990er Jahre hinein zum Teil politisch inszenierte 
+Verdrängungskampagnen gegen Obdachlose, „Punks“ und Drogenabhängige 
+gab, geht die Polizei heute mit diesen gesellschaftlichen Phänomenen deut-
+lich differenzierter um und bemüht sich dabei um die Kooperation mit anderen 
+Berufsgruppen, auch der Sozialen Arbeit.111
+
+Das generelle Selbstverständnis, als Polizei für alle Bevölkerungsgruppen da 
+zu sein, steht (eigentlich) rassistisch-diskriminierenden Verhaltensweisen dia-
+metral gegenüber.
+
+4.2  Die Orientierung an Recht und Gesetz
+
+Seit den 1970er Jahren wurde die polizeiliche Ausbildung immer mehr an 
+der Vermittlung von rechtlichen Inhalten ausgerichtet und die auf Befehl 
+und Gehorsam fußende Formalausbildung immer mehr in den Hintergrund 
+gedrängt.112 Zielbild der Ausbildung war nun nicht mehr der „funktionierende 
+Befehlsempfänger“ in einer „geschlossenen Einheit“ der Bereitschaftspolizei, 
+sondern der eigenverantwortlich handelnde Beamte im polizeilichen „Einzel-
+dienst“.
+
+Seit Ende der 1980er Jahre trat (auch im Zuge wesentlicher Entscheidungen 
+des Bundesverfassungsgerichts113) immer mehr auch die Ausrichtung an den 
+Rechtsstaatsprinzipien der Verhältnismäßigkeit und der praktischen Konkordanz 
+in das polizeiliche Bewusstsein und erweiterte damit die zuvor oft rein 
+legalistische Perspektive.114 Der Anspruch, in einem umfassenden  Verständnis 
+
+110 Vgl. zur Entwicklung des „Protest Policings“: Behrendes (2020).
+111 Vgl. Behrendes (2016). Dennoch bleibt der Umgang mit „Randgruppenangehörigen“ 
+weiterhin ein „erfolgskritischer Faktor“ im Rahmen polizeilicher Bürger(rechts)
+orientierung – vgl. Pütter (2019).
+112 Vgl. Busch et al. (1985), S. 156–159.
+113 „Volkszählungsurteil“ (BVerfGE 65, 1); „Brokdorf-Beschluss“ (BVerfGE 69, 315); 
+„Mutlangen-Urteil“ (BVerfGE 73, 206).
+114 Vgl. Winter (1998), S. 446 f.
+
+
+
+712 U. Behrendes
+
+nach Recht und Gesetz handeln zu wollen, eint inzwischen die allermeisten 
+Polizist:innen aller Hierarchie- und Funktionsebenen.
+
+Da rassistisches oder diskriminierendes Verhalten unrechtmäßig ist, wider-
+spricht es allein schon aus diesem Grund dem Selbstbild der Polizei als „Hüterin 
+des Rechts“.115 Dies gilt hinsichtlich der Frage intendierten rassistischen oder 
+diskriminierenden Verhaltens sicherlich für die ganz überwiegende Mehrheit 
+der Polizeibelegschaft. Differenzierter ist jedoch der rechtliche „Graubereich“ 
+zu betrachten, die nicht intendierte aber gleichwohl „fahrlässig“ herbeigeführte 
+rassistische oder diskriminierende Wirkung polizeilichen Verhaltens, etwa 
+bei bestimmten, auf „polizeilichem Erfahrungswissen“ beruhenden Kontroll-
+praxen.116 Hier bedarf es weitergehender Anstrengungen, um Polizist:innen für 
+die Sicht aus der Perspektive von Betroffenen zu sensibilisieren.117 Diese werden 
+umso mehr auf fruchtbaren Boden fallen, je mehr man über diese Wirkungen 
+sachlich aufklärt ohne dabei „vorsätzliches“ und „fahrlässiges“ Handeln 
+moralisch gleichzusetzen.118
+
+4.3  Der zunehmende Stellenwert sozialer Kompetenz
+
+Nachdem die Orientierung an Recht und Gesetz zum Schwerpunkt in der 
+Aus- und Fortbildung geworden war, flossen dort sukzessive auch immer mehr 
+sozialwissenschaftliche Aspekte ein. Theoretische Inhalte aus dem Bereich der 
+Psychologie werden bereits seit den 1950er Jahren119, aus dem Bereich der Sozio-
+logie seit den 1960er Jahren vermittelt120. Seit den 1980er Jahren wurden dann 
+auch vermehrt praxisrelevante Trainings (z. B. Kommunikations-, Verhaltens- 
+und Konfliktbewältigungstrainings121) sowie Reflexionsangebote auf Einzel- und 
+Gruppenbasis (z. B. Coaching, Supervision und Berufsrollenreflexion) etabliert.
+
+Damit einhergehend wuchs auch innerhalb der Polizeibelegschaft zunehmend 
+die Erkenntnis, dass nicht der formalistische Gesetzesvollzug als solcher, sondern 
+
+115 Vgl. den Beitrag von Ruch in diesem Band.
+116 Vgl. Heidemann (2020), S. 129 f.
+117 Vgl. Singelnstein (2021), S. 392.
+118 Vgl. dazu auch den Beitrag von Kopke in diesem Band.
+119 Vgl. Maly et al. (1956).
+120 Vgl. etwa Brusten (1972).
+121 Vgl. Dietel (1986), S. 382.
+
+
+
+Polizeikultur(en) 713
+
+die sozialkompetente Umsetzung des gesetzlichen Aufgabenrepertoires die 
+Qualität polizeilicher Arbeit in einer pluralistischen Gesellschaft ausmacht.122 
+Die miteinander korrespondierenden Aspekte von Diversität123, interkultureller 
+Kompetenz124 und Menschenrechtsbildung125 sind mittlerweile feste Bestandteile 
+der polizeilichen Personal- und Organisationsentwicklung sowie der Aus- und 
+Fortbildung126 geworden.
+
+4.4  Rolle und Selbstverständnis nach der PDV 100
+
+Gibt es eine kodifizierte „Leitkultur“ der deutschen Polizei? Aufgrund der 
+föderalen Polizeistrukturen in der Bundesrepublik Deutschland ist es ein 
+schwieriges Unterfangen, über alle länderspezifischen Besonderheiten, die 
+jeweiligen (partei-)politischen Einflussnahmen und die organisationsspezifischen 
+Unterschiede127 hinweg das grundlegende Rollen- und Selbstverständnis der 
+deutschen Polizei zu beschreiben.
+
+Ein Ausgangspunkt für die Annäherung an das, was man „vor die Klammer“ 
+der länder-, sparten- und organisationsspezifischen Besonderheiten der deutschen 
+Polizei(en) ziehen kann, ist die zentrale, bundesweit gültige Polizeidienstvor-
+schrift (PDV) 100 zu „Führung und Einsatz der Polizei“.
+
+Eine auf Dauer installierte „Vorschriftenkommission“ (VK) aus polizeilichen 
+Fachleuten des Bundes und der Länder128 versucht mit dieser Vorschrift129, 
+rechtliche Vorgaben mit einsatztaktischen Grundsätzen und dem polizei-
+lichen Erfahrungswissen zu harmonisieren und zu operationalisieren. Bevor 
+es zu einem konsensfähigen Text kommt, beschäftigen sich in der Regel die 
+
+122 Vgl. Abou Taam (2019), S. 405 ff.
+123 Vgl. dazu den Beitrag von Ellebrecht in diesem Band.
+124 Vgl. Jacobsen (2013).
+125 Vgl. Trappe (2019).
+126 Vgl. dazu auch den Beitrag von Schulz in diesem Band.
+127 Vgl. etwa Lange (1999), S. 240–259 zu den unterschiedlichen Berufsbildern von 
+Schutz- und Kriminalpolizei sowie den Beitrag von Hunold in diesem Band.
+128 Die Vorschriftenkommission ist organisatorisch dem „Arbeitskreis II“ (Innere Sicher-
+heit) der Innenministerkonferenz zugeordnet.
+129 Neben der zentralen PDV 100 werden noch weitere bundesweit gültige Polizeidienstvor-
+schriften zu verschiedenen Spezialthemen von der Vorschriftenkommission entworfen und 
+fortgeschrieben.
+
+
+
+714 U. Behrendes
+
+ Polizeiabteilungen aller siebzehn Innenministerien mit den Entwürfen der Fach-
+kommission.
+
+Ganz überwiegend behandelt die PDV 100 einsatztaktische Fragen. Als „Pro-
+log“ wurden bis Ende der 1990er darüber hinaus einige Führungsgrundsätze 
+beschrieben. Die ersten Sätze der Vorschrift bezogen sich in diesem Zusammen-
+hang auf das Bekenntnis zum Rechtsstaat:
+
+„Recht und Gesetz sind Grundlagen jeden polizeilichen Handelns. […] Die rechts-
+staatlichen Grundsätze, wie sie vor allem zum Schutz des Bürgers in den Grund-
+rechten zum Ausdruck kommen, sind sorgfältig zu wahren […].“
+
+Man mag diese Formulierungen als redundant abtun, da sie letztlich nur das 
+wiederholen, was bereits in Artikel 20 Grundgesetz fixiert ist. Dennoch ist diese 
+Selbstvergewisserung symbolisch wichtig, da sie sich implizit sowohl von dem 
+überkommenen, auf Befehl und Gehorsam beruhenden Berufsverständnis als 
+auch von Willfährigkeit gegenüber politischen, medialen oder populistischen 
+Einflussnahmen abgrenzt. Die Orientierung an Recht und Gesetz entspricht auch 
+dem bereits skizzierten (vgl. oben Nr. 4.2) Selbstverständnis der allermeisten 
+Polizist:innen und sollte daher grundsätzlich eine „kulturelle Brandmauer“ gegen 
+rassistische Grundhaltungen und diskriminierende Verhaltensweisen im Polizei-
+alltag darstellen.
+
+Im Zuge einer kompletten Überarbeitung ist Ende der 1990er Jahre der PDV 
+100 an Stelle der „Führungsgrundsätze“ ein einleitendes Kapitel zu Rolle und 
+Selbstverständnis voran gestellt worden. Die ersten beiden Sätze der aktuellen 
+Fassung130 lauten:
+
+„Die Polizei ist wesentlicher Garant für die Innere Sicherheit und unterliegt ins-
+besondere als Trägerin des Gewaltmonopols einer umfassenden öffentlichen 
+Kontrolle. Ihre Integrität ist unabdingbare Voraussetzung für das Vertrauen des 
+Bürgers in seine Polizei.“131
+
+130 Stand: November 2021.
+131 Während die meisten einsatztaktischen Vorgaben der Richtlinie als Verschlusssache 
+(„nur für den Dienstgebrauch“) eingestuft sind, unterliegt das Kapitel „Rolle und Selbstver-
+ständnis der Polizei“ (selbstverständlich) nicht der Geheimhaltung.
+
+
+
+Polizeikultur(en) 715
+
+Auch diese Standortbeschreibung, mit dem Verständnis für die Wechselbeziehung 
+von Gewaltmonopol und öffentlicher Kontrolle einerseits und von Integrität und 
+Vertrauen132 andererseits, postuliert eine Einstellung und Haltung, die (eigentlich) 
+wenig Nährboden für rassistische und diskriminierende Verhaltensweisen bietet. 
+Das Ziel, sich Vertrauen in möglichst allen Bevölkerungsgruppen zu erarbeiten, 
+muss für Polizist:innen aller Funktionsebenen handlungsleitend sein, denn das 
+Vertrauen in Organisationen wird grundsätzlich durch persönliche Begegnungen 
+vermittelt, die sich schließlich zu Systemvertrauen aggregieren können.133
+
+Darüber hinaus betont auch die Neufassung der PDV 100 die „Bindung an 
+Recht und Gesetz“. Weiterhin finden sich dort u. a. noch folgende Aussagen:
+
+„Oberstes Gebot polizeilichen Handelns ist die Verpflichtung, die Würde des 
+Menschen zu achten und zu schützen. Polizeiliches Handeln muss […] gesellschaft-
+liche Rahmenbedingungen berücksichtigen. […] Gesellschaftliche Probleme sind 
+mit politischen und nicht mit polizeilichen Mitteln zu lösen […].“
+
+Diesen Beschreibungen von Rolle und Selbstverständnis in der PDV 100134 
+werden die allermeisten Polizist:innen zustimmen. Sie sind daher sowohl grund-
+sätzlich geeignet, eine Präventivwirkung gegen rassistische und diskriminierende 
+Verhaltensweisen zu entfalten, als auch eine entsprechende Reaktion hervorzu-
+rufen, wenn es dennoch zu entsprechenden Fehlverhaltensweisen kommt. Die 
+Polizeiführung muss jedoch auf allen Ebenen den Schlusssatz dieses Kapitels der 
+PDV 100 mit noch mehr Leben erfüllen:
+
+„Rolle und Selbstverständnis der Polizei sind nach innen und außen, auch in 
+Leitbildern, ständig zu verdeutlichen und unter Berücksichtigung der Rahmen-
+bedingungen fortzuentwickeln.“
+
+132 Vgl. zum Aspekt Vertrauen auch den Beitrag von Abdul-Rahman in diesem Band.
+133 Vgl. Schiewek (2010), S. 174.
+134 Es muss trotz dieser begrüßenswerten Aussagen darauf hingewiesen werden, dass das 
+Kapitel „Rolle und Selbstverständnis“ der PDV 100 in der Gesamtbetrachtung etwas 
+inkongruent wirkt und einige zumindest missverständliche Aussagen enthält, die allerdings 
+keine unmittelbare Relevanz für das hier im Mittelpunkt stehende Thema entfalten – vgl. 
+Behrendes (2013b), S. 45–50.
+
+
+
+716 U. Behrendes
+
+5  Kulturentwicklungspfade
+
+Aus der Gesamtbetrachtung der im Hinblick auf die Themenstellung relevanten 
+„polizeikulturellen Risikofaktoren“ (vgl. Nr. 3) einerseits und den „polizei-
+kulturellen Präventionsfaktoren“ (vgl. Nr. 4) andererseits sollen nun kurz einige 
+„Anpacker“ für die politische und professionelle Polizeiführung135 zur positiven 
+Beeinflussung der weiteren Kulturentwicklung benannt werden, die alle bereits 
+in Teilen der polizeilichen Aus- und Fortbildung und der Praxis136 erprobt sind – 
+gleichwohl aber noch keinen einheitlichen polizeilichen Standard darstellen.
+
+5.1  Förderung von Dialogformaten – insbesondere auf 
+örtlicher Ebene
+
+In der polizeilichen Aus- und Fortbildung, aber insbesondere auch in der polizei-
+lichen Praxis belasteter Dienststellen, sollten vermehrt Dialogformate etabliert 
+werden, die den unter Nr. 3.1 skizzierten Blick auf „das polizeiliche Gegenüber“ 
+im Sinne einer empathischen Fremdwahrnehmung137 erweitern und damit dem 
+Entstehen von Stereotypen und Denken in Freund-Feind-Schemata entgegen-
+wirken können. Das kann zu einem der Austausch mit Vertreter:innen anderer 
+Berufsgruppen (z. B. Sozialarbeiter:innen und Lehrer:innen) und gesellschaft-
+lichen Gremien (z. B. Integrationsräten und Flüchtlingsinitiativen) sein, die eben-
+falls Kontakte mit Milieus und „Szenen“138 haben, mit denen es im (jeweiligen) 
+polizeilichen Alltag immer wieder zu beiderseits angespannten Begegnungen 
+kommt.
+
+Darüber hinaus sollte die örtliche Polizei aber auch immer den unmittel-
+baren, möglichst anlassunabhängigen Kontakt zu nicht als „polizeifreund-
+lich“ wahrgenommenen Gruppen suchen139, der vielleicht zu Beginn zunächst 
+über Mittler:innen (etwa Vertreter:innen von gesellschaftlichen Initiativen oder 
+Religionsgemeinschaften) initiiert werden kann. Es geht dabei darum (mit den 
+
+135 Vgl. generell zu diesem Spannungsfeld Behrendes (2013b).
+136 Vgl. Praxisbeispiel bei Behrendes (2014), S. 156–177.
+137 Stein (2021), S. 222.
+138 Z. B. migrantischen „Street-Corner-Societies“ mit teilweise respektlosem Auftreten – 
+vgl. Hunold (2015), S. 119, 172–175.
+139 Vgl. schon Ahlf (1997), S. 211 f.
+
+
+
+Polizeikultur(en) 717
+
+Worten der Mitte der 1990er Jahre für entsprechende Studien verantwortlichen 
+Wissenschaftler), wechselseitig kontrastverschärfenden Stereotypenbildungen140 
+konstruktiv entgegen zu wirken.
+
+Insoweit ist die aktuelle (September 2021) Handlungsempfehlung der Stabs-
+stelle Rechtsextremistische Tendenzen in der Polizei NRW zu begrüßen:
+
+„Im Rahmen der örtlichen Vernetzung der Polizeibehörden mit ihren lokalen 
+„Quartieren“ werden Veranstaltungsformate entwickelt […], die […] eine vertiefte 
+Kenntnis lokaler Sozialstrukturen und Kulturen ermöglichen.“141
+
+5.2  Professionalisierung der Teamarbeit und des 
+Interaktionsmanagements
+
+Alle Führungsebenen müssen ihr Augenmerk darauf richten, professionelle 
+Teamarbeit innerhalb der Polizei zu stärken und Tendenzen eines auf interne und 
+externe Abschottung ausgerichteten Korpsgeistes entgegenzuwirken.142
+
+Es muss verdeutlicht werden, dass professionelle Teamarbeit nicht bedeutet, 
+eine para-familiäre Wohlfühlatmosphäre in der Dienstgruppe A oder dem 2. Ein-
+satzzug herzustellen143, sondern sach- und fallorientiert kollegial zusammenzu-
+arbeiten. Streifenbesatzungen sind nach sich ergänzenden bzw. ausgleichenden 
+individuellen Stärken und Schwächen zusammen zu stellen, um im jeweiligen 
+Kleinteam ein möglichst breites Spektrum rechtlicher, sozial-kompetenter, ein-
+satztaktischer und -technischer Kompetenzen verfügbar zu haben. Der Anspruch, 
+dass zwei Pilot:innen, die sich zuvor persönlich nicht kannten, während eines 
+Atlantik-Fluges professionell kooperieren, muss auch auf die Besetzung von 
+polizeilichen Streifenwagen übertragbar sein.
+
+Darüber hinaus können Organisationsentwicklungen (z. B. „Pool“-Modell 
+statt fester Dienstgruppenstrukturen144) und ein auf periodischen Rotationen 
+beruhendes Personalentwicklungskonzept der negativen Verfestigung von 
+Gruppen entgegenwirken.
+
+140 Willems et al. (1996), S. 32.
+141 Stabsstelle Rechtsextremistische Tendenzen in der Polizei NRW (2021), S. 3 (Hand-
+lungsempfehlung 12).
+142 Vgl. dazu Behrendes (2003), S. 177–182.
+143 Vgl. dazu Behrendes (2003), S. 177 f.
+144 Vgl. Praxisbeispiel bei Behrendes (2014), S. 170 ff.
+
+
+
+718 U. Behrendes
+
+Die im Leitfaden 371 propagierte Eigensicherungskultur (vgl. Nr. 3.2) kann 
+den Blick auf die Perspektive verengen, dass Polizist:innen sich ständig als 
+potentielle Opfer vor einseitigen Angriffen des „polizeilichen Gegenübers“ 
+schützen müssen. Polizist:innen sind jedoch nur in seltenen Fällen passive Opfer 
+einer überfallartigen Attacke. Die meisten aggressiven Auseinandersetzungen im 
+Polizeidienst entwickeln sich „im Rahmen dynamischer Interaktionsprozesse“145, 
+die in der Regel Folge gescheiterter Kommunikation sind. Vor diesem Hinter-
+grund gilt es in der polizeilichen Aus- und Fortbildung und in praxisbegleitenden 
+Trainings immer wieder zu verdeutlichen, dass die professionelle Heraus-
+forderung für Polizist:innen in erster Linie darin besteht, zunächst ihre eigene 
+Rolle in Interaktionsprozessen zu reflektieren und dabei auch die ambivalente 
+Wirkung von etablierten „Eigensicherungspraktiken“ (vgl. Nr. 3.2) zu bedenken.
+
+Letztlich geht es darum, das professionelle Selbstbewusstsein von 
+Polizist:innen zu stärken und den widersprüchlichen Bildern zwischen den Polen 
+„Crimefighter“ und „Opfer von Gewalt“146 etwas entgegenzusetzen: Das beruf-
+liche Selbstverständnis von Polizist:innen als Konflikt- und Interaktionsmanage
+r:innen147 würde der Idee des demokratisch-rechtsstaatlich verankerten Gewalt-
+monopols unseres Gemeinwesens sehr viel mehr entsprechen als „Kämpfer“ und 
+„Opfer“.148
+
+5.3  Förderung des hierarchieübergreifenden Dialogs
+
+Schon im Saarbrücker Gutachten wurde darauf hingewiesen, dass wahr-
+genommene Defizite hinsichtlich des unter Nr. 3.4 kurz beleuchteten besonderen 
+Bedürfnisses von Polizist:innen nach Wertschätzung und Respekt, „Ressentiments 
+erzeugen können, die im Umgang mit dem Bürger zur Entladung drängen“149.
+
+Die Wertschätzungsfrage hat dabei sowohl eine interne als auch eine externe 
+Komponente. Dienststellenintern muss es einerseits darum gehen, eine ein-
+heitliche Führungslinie im Rahmen einer örtlichen bzw. regionalen Dienst-
+stelle (z. B. zwischen Dienstgruppenleiter:innen, Wachleiter:innen und 
+
+145 Bundeskriminalamt (2021), S. 49.
+146 Vgl. dazu auch Behr (2016), S. 263 f.
+147 Vgl. Klein (2013).
+148 Vgl. dazu bereits Feltes (1995), S. 166–169.
+149 Helfer und Siebel (1975), S. 875 f.
+
+
+
+Polizeikultur(en) 719
+
+Inspektionsleiter:innen) zu erarbeiten und zu praktizieren. Darüber hinaus sollten, 
+soweit noch nicht geschehen, wiederkehrende „Multi-Level-Meetings“ zwischen 
+Polizist:innen der Basis und den regional verantwortlichen Führungskräften 
+etabliert werden, um wechselseitige Erfahrungen und Sichtweisen auszutauschen 
+und um insbesondere vonseiten der Führungskräfte die (wahrgenommenen) 
+Belastungen, Einschätzungen und Verbesserungsvorschläge der Kolleg:innen der 
+Basis ungefiltert entgegen nehmen zu können.150 Letztlich geht es um den Aufbau 
+bzw. die Festigung einer werteorientierten internen Vertrauenskultur.151
+
+Der externe Bezugspunkt der häufig beklagten Respekt- und Wertschätzungs-
+defizite korrespondiert mit den ebenfalls weit verbreiteten Vorbehalten gegen 
+Politik und Justiz (vgl. Nr. 3.5). Schon das Saarbrücker Gutachten sah in dieser 
+Gemengelage die Gefahr des Entstehens selbstjustizieller Tendenzen.152
+
+Zum Umgang mit der Thematik bieten sich einerseits Dialogformate mit 
+Justizangehörigen und Politiker:innen und andererseits die Ausweitung psycho-
+sozialer Unterstützungsangebote für die polizeilichen Basisgruppen an (vgl. nach-
+folgend Nr. 5.4).
+
+5.4  Ausbau psychosozialer Unterstützungsangebote
+
+Im Rahmen von Supervisionen und Berufsrollenreflexionen153 können wahr-
+genommene Respekts- und Wertschätzungsdefizite konstruktiv bearbeitet werden. 
+Ziel muss es sein, Polizist:innen in ihrem Selbst- und Rollenbewusstsein zu stärken 
+und unabhängiger bzw. weniger bedürftig für formalen Respekt zu machen.154
+
+Darüber hinaus kann im Rahmen von Alltagsreflexionen aber auch 
+generell die Verarbeitung von dienstlichen Belastungen unterstützt sowie der 
+Stereotypenbildung und dem Entstehen von Fremd- und Feindbildern entgegen 
+gewirkt werden.155 Daher ist ebenfalls folgende Handlungsempfehlung der Stabs-
+stelle Rechtsextremistische Tendenzen in der Polizei NRW zu begrüßen:
+
+150 Vgl. Behrendes (2014), S. 160–165 zu einem entsprechendem Praxismodell auf Grund-
+lage der Handlungsempfehlungen einer wissenschaftlichen Studie.
+151 Vgl. Ahlf (1997), S. 214 ff.
+152 Helfer und Siebel (1975), S. 889.
+153 Vgl. Schophaus (2019).
+154 Behr (2016), S. 267.
+155 Vgl. Feltes und Plank (2021), S. 267.
+
+
+
+720 U. Behrendes
+
+„In der Polizei NRW werden psychosoziale Fachkräfte eingestellt. Neben 
+der Durchführung der Alltagsreflexion gehört es zu ihren Aufgaben, für die 
+Angehörigen der Polizei NRW als vertrauliche und nicht dem Strafverfolgungs-
+zwang unterliegende Ansprechpartnerinnen und -partner zur Verfügung zu 
+stehen.“156
+
+6  Schlussbetrachtung
+
+Die kulturelle Entwicklung der deutschen Polizei(en) von einem obrigkeitsstaat-
+lichen Berufsverständnis hin zu einer bürger:innenorientierten, rechtsstaatlich 
+ausgerichteten und sozialkompetent agierenden Organisation ist in den sieben 
+Jahrzehnten seit Gründung der Bundesrepublik zwar nicht immer linear ver-
+laufen, aber in der Gesamtbetrachtung doch ständig weiter fortgeschritten.157 
+Die deutsche Polizei braucht insoweit auch keinen internationalen Vergleich zu 
+scheuen.
+
+Gleichwohl muss die Polizei(führung) auf allen Ebenen ein „Frühwarn-
+system“ zum Erkennen von Fehlentwicklungen etablieren, um möglichst „nieder-
+schwellig“ gegensteuern zu können. Darüber hinaus können aber auch, wie 
+aufgezeigt, verschiedene präventive Maßnahmen ergriffen werden, um eine 
+„kulturelle Brandmauer“ gegen das Entstehen rassistischer Einstellungen und dis-
+kriminierender Verhaltensweisen zu errichten.
+
+Die Polizei muss dafür keine völlig neuen „Kulturpfade“ erschließen, sondern 
+die zum Teil in Vergessenheit geratenen Reformvorschläge und Berufsbildent-
+würfe der letzten 60 Jahre (von denen einige in diesem Beitrag schlaglichtartig 
+dargestellt worden sind) wieder in Erinnerung rufen und als positive Referenz-
+punkte einer bürger(rechts)orientierten Traditionslinie weiterentwickeln.
+
+Die Fortsetzung dieses positiven Entwicklungsprozesses kann gesellschaft-
+lich insbesondere dadurch unterstützt werden, dass Politiker:innen, 
+Wissenschaftler:innen, Interessenverter:innen und Journalist:innen die Polizei mit 
+kritischer Empathie begleiten, Verständnis für die besonderen Herausforderungen 
+für Polizist:innen in konfrontativ und aggressiv geprägten Einsatzsituationen 
+zeigen, auf polizeiliches Fehlverhalten angemessen (ohne Skandalisierungshype 
+
+156 Stabsstelle Rechtsextremistische Tendenzen in der Polizei NRW (2021), S. 3 (Hand-
+lungsempfehlung 17).
+157 Vgl. auch Haselow et al. (2000), S. 142.
+
+
+
+Polizeikultur(en) 721
+
+und Pauschalurteile) reagieren und gemeinsam mit der Polizei nach konstruktiven 
+Lösungen zur Fortentwicklung ihrer Fehlerkultur158 suchen.
+
+Literatur
+
+Abou Taam, M. (2019). Herausforderungen für die Polizeiarbeit in einer pluralistischen 
+Gesellschaft. In D. Kugelmann (Hrsg.), Polizei und Menschenrechte (S. 397–413). 
+Bonn: Bundeszentrale für politische Bildung.
+
+Ahlf, E.-H. (1997). Ethik im Polizeimanagement. In Bundeskriminalamt (Hrsg.), BKA-
+Forschungsreihe. Band 42. Wiesbaden.
+
+Altmann, R., & Berndt, G. (1976). Grundriss der Führungslehre – Grundlagen 
+kooperativer Führung. Lübeck: Schmidt Römhild.
+
+Amnesty International (1995). Ausländer als Opfer. Polizeiliche Misshandlungen in der 
+Bundesrepublik Deutschland. International Secretariat. ai-Index: EUR 23/06/95.
+
+Backes, O., Biek, T., Dollase, R., Heitmeyer, W., Meyer, J., Spona, D., & Wilkening, F. 
+(1997). Risikokonstellationen im Polizeialltag. Ergebnisse einer mehrperspektivischen 
+empirischen Untersuchung zum Verhältnis von Polizei und Fremden in Konflikt-
+situationen. Bielefelder Institut für Konflikt- und Gewaltforschung.
+
+Barthel, C. (2008). Gemeinwesenorientierte Polizeiarbeit und Organisationsentwicklung. 
+In R. Kreissl, C. Barthel & L. Ostermeier (Hrsg.), Policing in Context. Rechtliche, 
+organisatorische, kulturelle Rahmenbedingungen polizeilichen Handelns (S. 209–232). 
+Berlin: LIT Verlag.
+
+Barthel, C., & Heidemann, D. (2013). KFS 2.0 – ein Vorschlag zur zeitgemäßen Neu-
+formulierung des kooperativen Führungssystems. Die Polizei, 104(6), S. 153.
+
+Behr, R. (2000a). Cop Culture. Der Alltag des Gewaltmonopols. Opladen: Leske und 
+Budrich.
+
+Behr, R. (2000b). Paradoxien gegenwärtiger Polizeiarbeit in Deutschland: Zwischen 
+„Smooth Policing“ und „Knüppel-aus-dem-Sack“. In H.-J. Lange (Hrsg.), Staat, Demo-
+kratie und Innere Sicherheit in Deutschland (S. 221–234). Opladen: Leske + Budrich.
+
+Behr, R. (2006). Polizeikultur. Routinen – Rituale – Reflexionen. Bausteine zu einer Theorie 
+der Praxis der Polizei. Wiesbaden: VS Verlag.
+
+Behr, R. (2010). Intimität oder Abschottung – warum Polizisten am liebsten unter sich sind. 
+In H. Groß, M. Bornewasser, B. Frevel, K. Liebl, T. Ohlemacher & P. Schmidt (Hrsg.), 
+Polizei – Polizist – Polizieren? Überlegungen zur Polizeiforschung. Festschrift für Hans-
+Joachim Asmus (S. 59–73). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Behr, R. (2012). Die „Gewalt der Anderen“ oder: Warum es bei der aktuellen Gewalt-
+debatte nicht (nur) um Gewalt geht. In T. Ohlemacher & J.-T. Werner (Hrsg.), 
+Empirische Polizeiforschung XIV: Polizei und Gewalt. Interdisziplinäre Analysen zu 
+Gewalt gegen und durch Polizeibeamte (S. 177–196). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+158 Vgl. dazu Behrendes (2021), S. 109–113.
+
+
+
+722 U. Behrendes
+
+Behr, R. (2016). Implikationen und Folgen des Gewaltdiskurses für die Polizei und die 
+Gesellschaft in Deutschland. Die Polizei, 107(9), S. 263.
+
+Behrendes, U. (1991). Als Militärersatz fing es an. Vorgeschichte, Entstehung und Ent-
+wicklung der Bereitschaftspolizeien der Länder der Bundesrepublik Deutschland aus 
+historischen, politischen und rechtlichen Gesichtspunkten. In Gewerkschaft der Polizei 
+(Hrsg.), 40 Jahre Bereitschaftspolizei (S. 7–36). Hilden: Verlag Deutsche Polizei-
+literatur.
+
+Behrendes, U. (2003). Zwischen Gewaltgebrauch und Gewaltmissbrauch. Anmerkungen 
+eines polizeilichen Dienststellenleiters. In M. Herrnkind & S. Scheerer (Hrsg.), Die 
+Polizei als Organisation mit Gewaltlizenz. Möglichkeiten und Grenzen der Kontrolle 
+(S. 157–193). Münster: LIT-Verlag.
+
+Behrendes, U. (2013a). Wesentliche Entwicklungsschritte der Länderpolizeien der Bundes-
+republik Deutschland. Polizei & Wissenschaft, 14(3), S. 5.
+
+Behrendes, U. (2013b). Polizeiliche Verantwortung und politische Erwartungen. In L. 
+Lehmann & R. Prätorius (Hrsg.), Polizei unter Stress? (S. 35–53). Frankfurt am Main: 
+Verlag für Polizeiwissenschaft.
+
+Behrendes, U. (2014). Wechselwirkungen zwischen Struktur- und Kulturentwicklungen. 
+Ein Praxisbericht. In C. Barthel & D. Heidemann (Hrsg.), Entwicklungsperspektiven 
+der polizeilichen Führungslehre (S. 147–185). Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+Behrendes, U. (2016). Die Kontrolle des öffentlichen Raums – neue Herausforderungen, 
+alte Konzepte? Wohnungslos, 58(2), S. 29.
+
+Behrendes, U. (2020). Polizei als lernende Organisation? Erkenntnisgewinne aus einer 
+70-jährigen Protestkultur für die heutige Polizei. In S. Mecking (Hrsg.), Polizei und 
+Protest in der Bundesrepublik Deutschland (S. 185–229). Wiesbaden: VS Verlag.
+
+Behrendes, U. (2021). Müssen wir auf neue Polizeistudien warten? In T. Feltes & H. Plank 
+(Hrsg.), Rassismus, Rechtsextremismus, Polizeigewalt. Beiträge für und über eine recht-
+schaffen(d)e, demokratische Bürgerpolizei (S. 101–122). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+Bornewasser, M., & Eckert, R. (1995). Belastungen und Gefährdungen von Polizei-
+beamtinnen und –beamten im alltäglichen Umgang mit Fremden. Abschlussbericht zum 
+Projekt „Polizei und Fremde“. Münster und Trier.
+
+Brusten, M. (1972). Das Fach „Soziologie“ im Rahmen der Polizeiausbildung. Die Polizei, 
+63(5), S. 147.
+
+Bürgerrechte & Polizei/CILIP, & Diederichs, O. (1995). Hilfe Polizei. Fremdenfeindlichkeit 
+bei Deutschlands Ordnungshütern. Berlin: Elefanten Press.
+
+Bundeskriminalamt (2021). Gewalt gegen Polizeivollzugsbeamtinnen und Polizeivollzugs-
+beamte. Bundeslagebild 2020. Wiesbaden.
+
+Busch, H., Funk, A., Kauß, U., Narr, W.-D., & Werkentin, F. (1985). Die Polizei in der 
+Bundesrepublik Deutschland. Frankfurt am Main und New York: Campus Verlag.
+
+Christe-Zeyse, J. (2020). Menschenrechtsbildung in der Polizei. Die richtigen Fragen 
+stellen können. Deutsche Polizei, 69(08), S. 12.
+
+Czerwick, E. (2001). Die „Demokratisierung“ des Verwaltungspersonals in der Bundes-
+republik Deutschland. Verwaltungsrundschau, 47(2), S. 45.
+
+Dams, C. (2008). Die Polizei in Deutschland 1945–1989. Aus Politik und Zeitgeschichte, 
+58(48), S. 9.
+
+
+
+Polizeikultur(en) 723
+
+Deutsche UNESCO-Kommission (1983). Weltkonferenz über Kulturpolitik. Schlussbericht 
+der von der UNESCO vom 26. Juli bis 6. August 1982 in Mexiko-Stadt veranstalteten 
+internationalen Konferenz. München: K. G. Saur.
+
+Diederichs, O. (2021). Rechtsradikalismus und andere Unerträglichkeiten bei der Polizei: 
+Eine Jahres-Chronologie 2020. In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechts-
+extremismus, Polizeigewalt. Beiträge für und über eine rechtschaffen(d)e, demo-
+kratische Bürgerpolizei (S. 45–69). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Dierske, L. (1952). Grundriss der Polizei-Verwendung. 2. Aufl. Lübeck: Schmidt Römhild.
+Dietel, A. (1986). Neue Ansätze zur weiteren Professionalisierung der Polizeiarbeit. Die 
+
+Polizei, 77(11), S. 381.
+Dolderer, M. (2001). Verfassungsfragen der „Sicherheit durch Null-Toleranz“. Neue Zeit-
+
+schrift für Verwaltungsrecht, 20(2), S. 130.
+Dübbers, C. (2015). Von der Staats- zur Bürgerpolizei? Empirische Studien zur Kultur der 
+
+Polizei im Wandel. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+Ellrich, K., Baier, D., & Pfeiffer, C. (2012). Polizeibeamte als Opfer von Gewalt. Ergeb-
+
+nisse einer Befragung von Polizeibeamten in zehn Bundesländern. Baden-Baden: 
+Nomos.
+
+Feltes, T. (1995). Notrufe und Funkstreifeneinsätze als Messinstrument polizeilichen All-
+tagshandelns. Die Polizei, 86(6), S. 157.
+
+Feltes, T. (2021). Polizei und Kommunikation. Vom Umgang mit Problemen in, mit und 
+durch die Polizei. In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechtsextremismus, 
+Polizeigewalt. Beiträge für und über eine rechtschaffen(d)e, demokratische Bürger-
+polizei (S. 189–208). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Feltes, T., & Plank, H. (2021). Auf dem Weg zu einer rechtschaffen(d)en, demokratischen 
+Bürgerpolizei. Was kann und muss getan werden, um Rassismus und Rechtsextremis-
+mus in der Polizei vorzubeugen? In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechts-
+extremismus, Polizeigewalt. Beiträge für und über eine rechtschaffen(d)e, demokratische 
+Bürgerpolizei (S. 263–299). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Frevel, B. (2010). Polizei als Beruf. In H. Groß, M. Bornewasser, B. Frevel, K. Liebl, T. 
+Ohlemacher & P. Schmidt (Hrsg.), Polizei – Polizist – Polizieren? Überlegungen zur 
+Polizeiforschung. Festschrift für Hans-Joachim Asmus (S. 43–57). Frankfurt am Main: 
+Verlag für Polizeiwissenschaft.
+
+Fürmetz, G. (2011). „Besondere Gefährdung für Polizeibeamte“ – Alltägliche Gewalt 
+gegen Polizisten im frühen Nachkriegsdeutschland. In A. Lüdtke, H. Reinke & M. 
+Sturm (Hrsg.), Polizei, Gewalt und Staat im 20. Jahrhundert (S. 131–144). Wiesbaden: 
+VS Verlag.
+
+Gewerkschaft der Polizei (1970). Polizeinotruf. Eine Untersuchung über die Situation der 
+Schutzpolizei in der Bundesrepublik Deutschland. Hilden.
+
+Gintzel, K. (2015). Antwort auf die Kritik von Dr. Schulte. Deutsche Polizei, S. 36.
+Gintzel, K., & Möllers, H. (1987). Das Berufsbild der Polizei zwischen Sein und Sollen – 
+
+was nicht im Saarbrücker Gutachten steht. Die Polizei, 78(1), S. 1.
+Goerschel, A., & Schmidbauer, G. (1971). Polizeipsychologie als Instrument der 
+
+Modernisierung polizeilichen Handelns. In J. Feest & R. Lautmann (Hrsg.), Die Polizei. 
+Soziologische Studien und Forschungsberichte (S. 164–176). Opladen: Westdeutscher 
+Verlag.
+
+
+
+724 U. Behrendes
+
+Haselow, R., Noethen, S., & Weinhauer, K. (2000). Die Entwicklung der Länderpolizeien. 
+In H.-J. Lange (Hrsg.), Staat, Demokratie und Innere Sicherheit in Deutschland 
+(S. 131–166). Opladen: Leske + Budrich.
+
+Heidemann, D. (2020). Wir sind doch die Guten!? Zur Kritikfähigkeit der Polizei am Bei-
+spiel der aktuellen Diskussion um eine Studie zum Rassismus innerhalb der Polizei. In 
+T. Feltes & H. Plank (Hrsg.), Rassismus, Rechtsextremismus, Polizeigewalt. Beiträge für 
+und über eine rechtschaffen(d)e, demokratische Bürgerpolizei (S. 123–134). Frankfurt 
+am Main: Verlag für Polizeiwissenschaft.
+
+Helfer, C., & Siebel, W. (1975). Das Berufsbild des Polizeivollzugsbeamten. Gutachten 
+im Auftrag der Ständigen Konferenz der Innenminister der Länder. Universität Saar-
+brücken, Institut für Soziologie.
+
+Hermanutz, M., & Weigle, L. (2017). Das Image der Polizei, die Dienstleistungsqualität 
+und die Zufriedenheit der Bevölkerung – Zusammenhänge und Möglichkeiten zur Ver-
+besserung. In J. Stierle, D. Wehe & H. Siller (Hrsg.), Handbuch Polizeimanagement. 
+Polizeipolitik – Polizeiwissenschaft – Polizeipraxis (S. 945–962). Wiesbaden: Springer 
+Gabler.
+
+Herrnkind, M. (2021). Polizeirassismus in Deutschland: Kursorischer Versuch einer 
+systematischen Bestandsaufnahme. In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechts-
+extremismus, Polizeigewalt. Beiträge für und über eine rechtschaffen(d)e, demo-
+kratische Bürgerpolizei (S. 85–100). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Heuer-Schräpel, H.-J. (1993). Versuche zur Etablierung einer „Bürgerpolizei“ in Deutsch-
+land. Archiv für Polizeigeschichte, 4(2), S. 53.
+
+Hunold, D. (2015). Polizei im Revier. Polizeiliche Handlungspraxis gegenüber Jugend-
+lichen in der multiethnischen Stadt. Freiburg: Duncker & Humblot.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei: Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Innenministerium Nordrhein-Westfalen (2021). Ergebnisse der Initiative Werte-
+orientierungen in der Polizei des Landes Nordrhein-Westfalen. Düsseldorf.
+
+Jacobsen, A. (2013). Interkulturelle Kompetenz. Ein Vorschlag für die Bestimmung inter-
+kultureller Kompetenz als Methode – Der Situative Ansatz. Die Polizei, 104(8), S. 231.
+
+Jaschke, H. G. (2006). Management-Cops. Anmerkungen zu einer polizeilichen Funktions-
+elite. In J. Christe-Zeyse (Hrsg.), Die Polizei zwischen Stabilität und Veränderung. 
+Ansichten einer Organisation (S. 135–162). Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+Kawelovski, F., & Mecking, S. (2019). Polizei im Wandel. 70 Jahre Polizeiarbeit in NRW. 
+Köln: Greven Verlag.
+
+Klein, H. (2013). Interaktionsmuster im Rahmen von Gewalthandlungen gegen und durch 
+Polizeibeamte. In T. Feltes & T. A. Fischer (Hrsg.), Polizeiliche Ausbildung und polizei-
+liches Handeln. Empirische Studien und Ergebnisse (S. 129–157). Frankfurt am Main: 
+Verlag für Polizeiwissenschaft.
+
+Lange, H.-J. (1999). Innere Sicherheit im Politischen System der Bundesrepublik Deutsch-
+land. Studien zur Inneren Sicherheit 2. Opladen: Leske + Budrich.
+
+Leßmann-Faust, P. (2012). Die preußische Schutzpolizei in der Weimarer Republik. 
+Streifendienst und Straßenkampf. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Liebl, K. (2010). Verklärtes und reflexionsloses Fremdbild? Die Volkspolizei und ihre 
+Beurteilung zur Jahrtausendwende. In H. Groß, M. Bornewasser, B. Frevel, K. Liebl, 
+
+
+
+Polizeikultur(en) 725
+
+T. Ohlemacher & P. Schmidt (Hrsg.), Polizei – Polizist – Polizieren? Überlegungen 
+zur Polizeiforschung. Festschrift für Hans-Joachim Asmus (S. 125–147). Frankfurt am 
+Main: Verlag für Polizeiwissenschaft.
+
+Maly, H., Matthes, I., Stiebitz, F., & Wehrheim, R. (1956). Psychologie im Dienste der 
+Polizei. In H. Kalicinski (Hrsg.), Polizei im demokratischen Rechtsstaat. Bd. V. Köln 
+und Berlin: Carl Heymanns Verlag.
+
+Mentzel, T., Schmitt-Falckenberg, I., & Wischnewski, K. (2003). Eigensicherung und 
+Recht. In Bundeskriminalamt, Kriminalistisches Institut (Hrsg.), Polizei + Forschung. 
+Bd 19. München und Neuwied: Luchterhand.
+
+Murck, M., & Werdes, B. (1996). Veränderungen in der Personalstruktur der Polizei. 
+Altersaufbau – Frauenanteil – Ethnische Minderheiten. In M. Kniesel, E. Kube & M. 
+Murck (Hrsg.), Handbuch für Führungskräfte der Polizei. Wissenschaft und Praxis 
+(S. 1255–1302). Lübeck: Schmidt Römhild.
+
+Noethen, S. (2003). Alte Kameraden und neue Kollegen. Polizei in Nordrhein-Westfalen 
+1945–1953. Essen: Klartext-Verlag.
+
+Pütter, N. (2019). Polizieren der Armen. Die Polizei an den Rändern der Gesellschaft. 
+Bürgerrechte & Polizei/CILIP, 118/119, S. 52.
+
+Pütter, N. & Neubert, R. (2010). Gewalt gegen die Polizei. Wenig Klarheit zum Berufs-
+risiko von PolizistInnen. Bürgerrechte & Polizei/CILIP, 95, S. 21.
+
+Schiewek, W. (2010). Ist Vorbeugen besser als Heilen? Ethisch-moralische Grenzen 
+der Prävention in Polizei und Gesellschaft. In H. Groß, M. Bornewasser, B. Frevel, 
+K. Liebl, T. Ohlemacher & P. Schmidt (Hrsg.), Polizei – Polizist – Polizieren? Über-
+legungen zur Polizeiforschung. Festschrift für Hans-Joachim Asmus (S. 163–183). 
+Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Schiewek, W. (2012). Hat die Polizei ‚Feinde‘? Die ‚Freund-Feind-Unterscheidung‘ und 
+die polizeiliche Arbeit. In T. Meireis (Hrsg.), Gewalt und Gewalten. Zur Ausübung, 
+Legitimität und Ambivalenz rechtserhaltender Gewalt (S. 91–111). Tübingen: Mohr 
+Siebeck.
+
+Schophaus, M. (2019). Vermittlung von Reflexionskompetenz im dualen Studium – Das 
+Modul „Berufsrollenreflexion“ an der FHöV NRW. In B. Berendt, A. Fleischmann, N. 
+Schaper, B. Szczyrba, M. Wiemer & J. Wildt (Hrsg.), Neues Handbuch Hochschullehre. 
+Ausgabe 93 (S. 109–126). Berlin: DUZ Verlagshaus.
+
+Schulte, W. (2019). Die Bedeutung der Menschenrechte für die Polizeiarbeit in der 
+historischen Entwicklung. In D. Kugelmann (Hrsg.), Polizei und Menschenrechte 
+(S. 73–87). Bonn: Bundeszentrale für politische Bildung.
+
+Schwind, H.-D. (1996). Zur „Mauer des Schweigens“. Gedanken zum sogenannten 
+„Hamburger Polizeiskandal“ aus kriminologischer Sicht. Kriminalistik, 50(3), S. 161.
+
+Seidler, F. (2013). Entstehen einer institutionellen Verbundenheit in der polizeilichen Aus-
+bildung. In T. Feltes & T. A. Fischer (Hrsg.), Polizeiliche Ausbildung und polizeiliches 
+Handeln. Empirische Studien und Ergebnisse (S. 45–69). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+Singelnstein, T. (2021). Rassismus in der Polizei. In A. Ruch & T. Singelnstein (Hrsg.), 
+Auf neuen Wegen. Kriminologie, Kriminalpolitik und Polizeiwissenschaft aus 
+interdisziplinärer Perspektive. Festschrift für Thomas Feltes zum 70. Geburtstag 
+(S. 379–392). Berlin: Duncker & Humblot.
+
+Stabsstelle Rechtsextremistische Tendenzen in der Polizei NRW (2021). Abschlussbericht. 
+Bd. 1 – Auftrag, Lagebild, Datenerhebungen und Handlungsempfehlungen. Düsseldorf: 
+Innenministerium Nordrhein-Westfalen.
+
+
+
+726 U. Behrendes
+
+Steffes-enn, R. (2014). Gewalt gegen Polizeikräfte aus Tätersicht – eine kriminologische 
+Untersuchung. In C. Lorei (Hrsg.), Eigensicherung & Schusswaffeneinsatz bei der 
+Polizei 2013. Beiträge aus Wissenschaft und Praxis (S. 5–13). Frankfurt am Main: Ver-
+lag für Polizeiwissenschaft.
+
+Stein, S. (2021). Rassismus in der Polizei – ein immanentes Problem? In T. Feltes & H. 
+Plank (Hrsg.), Rassismus, Rechtsextremismus, Polizeigewalt. Beiträge für und über eine 
+rechtschaff(d)e, demokratische Bürgerpolizei (S. 209–226). Frankfurt am Main: Verlag 
+für Polizeiwissenschaft.
+
+Sturm, M. (2009). Bandenkampf und blinde Flecken. Der Gebrauch von „Geschichte“ in 
+der Polizei. Bürgerrechte & Polizei/CILIP, 92, S. 29.
+
+Sturm, M. (2020). „Die Polizei muss es verstehen, der Masse ihren Willen aufzuzwingen.“ 
+Polizeilicher Umgang mit Protest in der frühen Bundesrepublik. In S. Mecking (Hrsg.), 
+Polizei und Protest in der Bundesrepublik Deutschland (S. 119–141). Wiesbaden: VS 
+Verlag.
+
+Thiel, M. (2019). Gewalt gegen Polizistinnen und Polizisten und Präventivmaßnahmen zur 
+Eigensicherung. Zu einem vernachlässigten Blickwinkel auf Konflikte zwischen Polizei 
+und Bevölkerung. Kriminalpolitische Zeitschrift, 4(5), S. 301.
+
+Thielmann, G., Weibler, J., & Model, T. (2020). Polizeiliche Führungslehre. Gestaltung 
+einer zeitgemäßen Führung. Hilden: Verlag Deutsche Polizeiliteratur.
+
+Trappe, T. (2019). Menschenrechtsbildung als Recht des Polizeibeamten. In D. Kugelmann 
+(Hrsg.), Polizei und Menschenrechte (S. 45–72). Bonn: Bundeszentrale für politische 
+Bildung.
+
+Van den Bergh, E. (1926). Polizei und Volk. In W. Abegg (Hrsg.), Die Polizei in Einzel-
+darstellungen. Bd. 1. Berlin: Gersbach & Sohn Verlag.
+
+Vera, A. (2015). Organisation und Personalmanagement in der Polizei. Frankfurt am Main: 
+Verlag für Polizeiwissenschaft.
+
+Vera, A., & Jablonowski, L. (2017). Organisationskultur der Polizei. In J. Stierle, D. Wehe 
+& H. Siller (Hrsg.), Handbuch Polizeimanagement. Polizeipolitik – Polizeiwissenschaft 
+– Polizeipraxis (S. 475–491). Wiesbaden: Springer Gabler.
+
+Wagener, U. (2012). Heroismus als moralische Ressource rechtserhaltender Gewalt? 
+Ethische Reflexionen zu heroischen und postheroischen Elementen in der polizei-
+lichen Organisationskultur. In T. Meireis (Hrsg.), Gewalt und Gewalten. Zur Ausübung, 
+Legitimität und Ambivalenz rechtserhaltender Gewalt (S. 133–160). Tübingen: Mohr 
+Siebeck.
+
+Weijers, H-G. (2010). Psychosoziale Integration ehemaliger Volkspolizisten in die Landes-
+polizei von Sachsen-Anhalt – Längsschnittbetrachtung zum Selbstbild eines Berufs-
+standes. In H. Groß, M. Bornewasser, B. Frevel, K. Liebl, T. Ohlemacher & P. Schmidt 
+(Hrsg.), Polizei – Polizist – Polizieren? Überlegungen zur Polizeiforschung. Festschrift für 
+Hans-Joachim Asmus (S. 111–124). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Weinhauer, K. (2003). Schutzpolizei in der Bundesrepublik. Zwischen Bürgerkrieg und 
+Innerer Sicherheit: Die turbulenten sechziger Jahre. Paderborn: Schöningh.
+
+Weinhauer, K. (2008). Zwischen Tradition und Umbruch. Schutzpolizei in den 1950er bis 
+1970er Jahren (Personal, Ausbildung, Revierdienst, Großeinsätze). In P. Leßmann-Faust 
+(Hrsg.), Polizei und politische Bildung (S. 21–43). Wiesbaden: VS Verlag für Sozial-
+wissenschaften.
+
+
+
+Polizeikultur(en) 727
+
+Weinhauer, K. (2011). Staatsgewalt, Massen, Männlichkeit: Polizeieinsätze gegen Jugend- 
+und Studentenproteste in der Bundesrepublik der 1960er Jahre. In A. Lüdtke, H. Reinke 
+& M. Sturm (Hrsg.), Polizei, Gewalt und Staat im 20. Jahrhundert (S. 301–323). Wies-
+baden: VS Verlag.
+
+Werkentin, F. (1984). Die Restauration der deutschen Polizei. Innere Rüstung von 1945 bis 
+zur Notstandsgesetzgebung. Frankfurt am Main: Campus-Verlag Main.
+
+Willems, H., Eckert, R., & Jungbauer, J. (1996). Polizei und Fremde. Spezifische 
+Belastungssituationen und die Genese von Feindbildern und Übergriffen. Neue 
+Kriminalpolitik, 8(4), S. 28.
+
+Winter, M. (1998). Politikum Polizei. Macht und Funktion der Polizei in der Bundes-
+republik Deutschland. Münster: LIT Verlag.
+
+Winter, M. (2000). Polizeiphilosophie und Protest policing in der Bundesrepublik Deutsch-
+land – von 1960 bis zur staatlichen Einheit 1990. In H.-J. Lange (Hrsg.), Staat, Demo-
+kratie und Innere Sicherheit in Deutschland (S. 203–220). Opladen: Leske & Budrich.
+
+Wüller, H. (2010). Presseschau: Die Haltung der polizeilichen Berufsvertretungen zur 
+Diversität in den eigenen Reihen. In D. Hunold, D. Klimke, R. Behr & R. Lautmann 
+(Hrsg.), Fremde als Ordnungshüter? Die Polizei in der Zuwanderungsgesellschaft 
+Deutschland (S. 157–176). Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Zaika, S. (1979). Polizeigeschichte. Die Exekutive im Lichte der historischen Konflikt-
+forschung. Lübeck: Schmidt-Römhild.
+
+Zum-Bruch, E. I. (2019). Polizeiliche pro-organisationale Devianz. Eine Typologie. Wies-
+baden: VS Verlag.
+
+Udo Behrendes war von 1972 bis 2015 Polizeibeamter des Landes Nordrhein-Westfalen, 
+zuletzt Leiter des Leitungsstabes des Polizeipräsidiums Köln.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

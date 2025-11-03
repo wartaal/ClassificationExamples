@@ -1,0 +1,214 @@
+﻿58 Methodisches Vorgehen
+
+weist darauf hin, dass die spezifischen Entstehungssituationen der Inter-
+views in der Auswertung zu berücksichtigen sind (2022, S. 878).
+
+Die Durchführung der Interviews erfolgte im Zeitraum vom 08.05.2019
+bis zum 23.01.2020. Die Interviewenden reisten dafür in die jeweiligen
+Städte. Die Termine wurden telefonisch oder per E-Mail vereinbart. Schon
+imLaufe der Kontaktierungwurden seitens des Projektteams immerwieder
+Möglichkeiten zu persönlichen Gesprächen geboten, in denen Detailfragen
+zur Studie besprochen wurden. Im Zuge dessen wurden den Interview-
+ten Grundinformationen zum Projekt, zu den Interviewenden sowie eine
+grobe Beschreibung des Ablaufs des Interviews zur Verfügung gestellt.
+Am Gesprächstermin selbst erfolgte dann eine detaillierte Erläuterung
+des Studiendesigns, des Anonymisierungsvorgangs sowie sonstiger auf-
+kommender Fragen, woran die Durchführung der eigentlichen Interviews
+anschloss. Während und nach den Gesprächen wurden Memos angefertigt,
+umdieAtmosphärebeimInterviewundetwaigeBesonderheitendesAblaufs
+zu protokollieren (vgl. Helfferich, 2011, S. 193). Vor Beginn des Gesprächs
+wurden die Interviewten darauf hingewiesen, dass es jederzeit möglich sei,
+die Aufnahme zu stoppen, die Beantwortung von Fragen zu verweigern oder
+das Interview abzubrechen. Letzteres wurde von keinem*keiner Gesprächs-
+partner*in inAnspruch genommen. In zwei Interviewswurde jedochdarum
+gebeten, bereits getroffene Aussagen nicht in die Analyse aufzunehmen.
+
+Die Interviews wurden aufgezeichnet und anschließend anhand ei-
+nes festgelegten Regelsystems von den dazu qua Einverständniserklärung
+berechtigten Mitarbeitenden des Projekts mithilfe des Programms MAX-
+QDA transkribiert. Im Zuge der Transkription wurden leichte sprachliche
+Glättungen zur Verbesserung der Lesbarkeit vorgenommen.7
+
+3.2.2.3 Datenschutz und Forschungsdatenmanagement
+
+Die Interviews wurden im Zuge der Transkription anonymisiert bzw.
+pseudonymisiert, um keine Rückschlüsse auf die interviewten Personen zu
+ermöglichen. Diese Maßnahme wurde unter der Annahme getroffen, dass
+in den Interviews sensible Informationen auftauchen könnten. Die Audio-
+dateien wurden getrennt von den angefertigten Transkripten auf einem
+verschlüsselten Laufwerk gespeichert und werden nach Projektabschluss
+gelöscht. Alle erhobenen Daten wurden ausschließlich von den dazu be-
+
+7 Die Transkriptionsregeln finden sich in Anhang I.
+
+
+
+Methodisches Vorgehen 59
+
+rechtigten Mitarbeitenden des Forschungsprojekts verarbeitet. Über diese
+Vorgehensweise wurden alle Interviewten vor Beginn der Aufzeichnung
+informiert und es wurde ihr Einverständnis eingeholt. Personenbezogene
+Daten wurden nur insoweit erhoben, als sie für die genannten Forschungs-
+zwecke zwingend notwendig waren. Vor Beginn der Interviews wurden die
+Teilnehmenden über die Freiwilligkeit, Ziel und Inhalt der Studie, Ablauf
+und Form der Datenerhebung sowie Datenverarbeitung und -speicherung
+informiert. Alle Personen wurden über die Möglichkeit informiert, der
+Speicherung Ihrer personenbezogenen Daten jederzeit zu widersprechen
+und die unverzügliche Löschung zu veranlassen.
+
+Personenbezogene Daten wie Kontaktdaten der Teilnehmenden und
+die Audiodateien der qualitativen Interviews werden spätestens mit Pro-
+jektende gelöscht. Im Rahmen des Forschungsdatenmanagements des
+Lehrstuhls für Kriminologie und Strafrecht werden die anonymisierten
+Transkripte der Interviews für wenigstens zehn Jahre archiviert. Dies dient
+zum einen der Nachvollziehbarkeit und Transparenz, andererseits können
+so Sekundäranalysen oder Anschlussprojekte stattfinden, welche die Daten
+wiederverwenden können.
+
+3.2.3 Auswertung
+
+Qualitative Inhaltsanalysen sind vor allem im deutschsprachigen Raum ei-
+nehäufiggenutzteMethode zurAuswertung sozialwissenschaftlicherDaten
+(Kuckartz & Rädiker, 2022; Schreier, 2014). Das Vorgehen erfolgt systema-
+tisch und regelgeleitet (Mayring & Fenzl, 2022, S. 691; Schreier, 2014). Die
+Methode eignet sich durch ihr kategorienbasiertes Vorgehen insbesonde-
+re für die intersubjektiv überprüfbare Analyse größerer qualitativer Daten-
+mengen wie im vorliegenden Projekt (vgl. Mayring & Fenzl, 2022, S. 693 f.).
+
+Bei der Auswertung der Interviews war das Ziel »die Rekonstruktion der
+Bedeutung von Expert[*inn]enaussagen im Hinblick auf die sie bedingen-
+denStrukturen« (Bogner et al., 2014,S. 75):Das inden Interviews explizit ge-
+wordeneWissenwurde alsonicht als »objektiveAbbildung vonRealität« (Lit-
+tig, 2009, S. 193) verstanden, sondern als spezifische Deutungsweise mehr-
+deutiger sozialer Realitäten, die in der qualitativen Inhaltsanalyse expliziert
+werden sollte. Bei Verfahren der qualitativen Inhaltsanalyse werden ausge-
+wählte Textbedeutungen erfasst, indem diese einem Kategoriensystem zu-
+geordnet werden (vgl. Kuckartz & Rädiker, 2022, S. 51). Die Kategorien wer-
+
+
+
+60 Methodisches Vorgehen
+
+den dabei sowohl deduktiv entwickelt, d.h. anhand eines bereits bekannten
+Merkmalszusammenhangs, als auch induktiv, also anhanddes vorhandenen
+Materials (Reichertz, 2022,S. 81 f.).Die konkreteUmsetzung einer qualitati-
+ven Inhaltsanalyse ist je nach Datenmaterial, Forschungsinteresse und For-
+schungsdesign anpassbar (Kuckartz & Rädiker, 2020, S. XIX), es kann zwi-
+schen verschiedenen Varianten der qualitativen Inhaltsanalyse unterschie-
+denwerden (Schreier, 2014). In diesemForschungsprojektwurde sich für die
+fokussierte Interviewanalyse als eineFormderqualitativen Inhaltsanalyse in
+Anlehnung an Kuckartz und Rädiker (2020) entschieden.
+
+3.2.3.1 Fokussierte Interviewanalyse
+
+Ziel der Analyse der Expert*inneninterviewswar es, »imVergleich der Inter-
+views überindividuell-gemeinsame [und kontrastierende]Wissensbestände
+herauszuarbeiten« (Meuser&Nagel, 2010, S. 378).Dabei sollten Erklärungs-
+ansätze für empirischePhänomene identifiziertwerden,wie etwa fürdiege-
+ringe Anzeigebereitschaft unter Betroffenen polizeilicher Gewalt, die gerin-
+geBereitschaft vonPolizeibeamt*innengegenKolleg*innenvorzugehenund
+die spezifische staatsanwaltschaftliche Erledigungspraxis bei Verfahrenwe-
+gen Körperverletzung im Amt. Um sich den benannten Phänomenen anzu-
+nähern, bot sich ein systematischer und problemorientierter Auswertungs-
+ansatz an. Aus diesemGrund wurde eine fokussierte Interviewanalyse nach
+Kuckartz undRädiker (2020) durchgeführt.Dieses Vorgehen bezieht alle In-
+terviews in die gleiche Analyseform ein, die für die Beantwortung der For-
+schungsfragen relevant sind, verhindert damit einerseits eine »ideologisch
+motivierte Auswahl bestimmter Daten« und hilft zudem dabei, »vorschnelle
+Schlüsse basierend auf der Plausibilität weniger Fälle« zu vermeiden (Kuck-
+artz&Rädiker, 2020, S. XV ff.). Ziel der fokussierten Interviewanalyse ist es,
+dasDatenmaterial zusammenzufassenundzuverdichten,ohnedabei unzu-
+lässige Generalisierungen zu treffen (Kuckartz & Rädiker, 2020, S. XVIII).
+Aufgrund des großen Umfangs des Datenmaterials und der Breite der For-
+schungsfragen erschiendieMethode für dieAnalyse desMaterials angemes-
+sen.
+
+Die Analyse erfolgte mithilfe der Software MAXQDA (Rädiker & Kuck-
+artz, 2019) und wurde maßgeblich von drei Mitarbeiterinnen des Projekts
+durchgeführt. Im Folgendenwird dargelegt,wie die fokussierte Interviewa-
+nalyse imForschungsprojekt angewendetundspezifiziertwurdeundwelche
+Gütekriterien dabei zum Tragen kamen.
+
+
+
+Methodisches Vorgehen 61
+
+3.2.3.2 Vier Auswertungsphasen
+
+Der Auswertungsprozess der fokussierten Interviewanalyse verläuft ideal-
+typisch in vier Phasen, allerdings keineswegs immer linear: Die einzelnen
+Phasen können ineinandergreifen und zirkulär verlaufen (Kuckartz & Rädi-
+ker, 2020, S. XXI).
+
+Phase 1: Initiierende Textarbeit
+Die initiierende Textarbeit diente dazu, sich einen Überblick über das
+Material zu verschaffen, Vorannahmen zu reflektieren und im Forschungs-
+team ein gemeinsames Verständnis über die weiteren Analyseschritte
+herzustellen (vgl. Kuckartz & Rädiker, 2020, S. 13). Diese Anfangsphase der
+Analyse umfasste das sorgfältige Lesen, das Markieren zentraler Begrif-
+fe, die Kennzeichnung wichtiger Abschnitte und herausragender Zitate
+sowie das Festhalten erster Interpretationsideen. Diese wurden mit dem
+aktuellen Forschungsstand abgeglichen. Zusätzlich wurden Fallzusammen-
+fassungen der einzelnen Interviews verfasst, die mit Überschriften, kurzen
+Beschreibungen der Interviews und prägnanten Zitaten die Bandbreite
+des Materials für das gesamte Forschungsteam greifbarer machten (vgl.
+Kuckartz & Rädiker, 2022, S. 133).
+
+Phase 2: Entwicklung des Kategoriensystems
+Kategorien sind »Label« (Kuckartz, 2010, S. 58), die zur Klassifizierung die-
+nen, »also jeder Begriff, der zur Kennzeichnung und Unterscheidung von
+Phänomenen jeglicher Art (also Personen, Gruppen, Vorgängen, Ereignis-
+sen u.v.a.m.) und damit zur Erschließung, Beschreibung und Erklärung der
+Daten genutzt werden kann« (Kelle & Kluge, 2010, S. 60). In einem ersten
+Schritt wurden unabhängig vom erhobenen Datenmaterial theoriegelei-
+tet und unter Rückbezug auf die Forschungsliteratur Kategorien gebildet
+(a priori-Kategorienbildung, vgl. Kuckartz & Rädiker, 2022, S. 71 ff.). Da-
+bei wurden dem Erkenntnisinteresse folgend Hauptkategorien bestimmt
+und diese anschließend deduktiv um Haupt- und Subkategorien aus der
+Literatur ergänzt. Das so entstandene vorläufige Kategoriensystem wur-
+de im Team besprochen und um Definitionen für die einzelnen Kategorien
+ergänzt.Durch dieDefinitionenwurden die Kategorien trennscharf vonein-
+ander bestimmt und ermöglichten ein besser nachvollziehbares Codieren
+durch mehrere Codierer*innen (Kuckartz & Rädiker, 2020, S. 34).
+
+
+
+62 Methodisches Vorgehen
+
+Das vorläufige deduktive Kategoriensystem wurde anhand einer pro-
+beweisen Codierung mit MAXQDA von je drei Interviews pro Feld ergänzt,
+verfeinert und modifiziert.8 Dabei wurden Subkategorien induktiv ergänzt
+oder zusammengefasst, die Kategoriendefinitionen verfeinert und durch
+Ankerbeispiele aus dem Material erweitert (Kuckartz & Rädiker, 2022,
+S. 102). Das so entstandene differenziertere Kategoriensystem wurde er-
+neut im Forschungsteam besprochen und konsolidiert. Eine Intercoder-
+Übereinstimmung im engeren Sinne blieb dabei aus, die intersubjektive
+Überprüfbarkeit wurde jedoch durch die gemeinsame Erstellung des Code-
+buchs, fortlaufende Diskussionen von Definitionen und Ankerbeispielen
+sowie die gemeinsame Arbeit am Material gewährleistet (vgl. Kuckartz &
+Rädiker, 2020, S. 48).
+
+Phase 3: Basiscodierung
+Nach Abschluss der induktivenModifikation anhand von Probecodierungen
+wurde das gesamte Interviewmaterial mitMAXQDA codiert.Diese Basisco-
+dierungerfolgte entlang festgelegterCodierregeln (vgl.Kuckartz et al.,2008,
+S. 38 ff.) undwurde vondreiMitarbeiterinnendes Projekts imZeitraumvom
+Mai 2020 bis Januar 2021 durchgeführt: Es wurden immer Sinneinheiten,
+mindestens ein Satz, am besten jedoch ein ganzer Absatz und bei Bedarf
+auch mehr codiert und dabei einem oder mehreren Codes zugewiesen. Je-
+derCodewurdedurch eine inhaltlicheBeschreibung sowie einAnkerbeispiel
+definiert.
+
+Da imHerbst 2020 ein Zwischenbericht unter demTitel »Rassismus und
+Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung«
+veröffentlicht wurde, wurden zunächst alle Interviews aus den Feldern
+Polizei und Zivilgesellschaft codiert, in denen sich die Interviewten zu ras-
+sistischer Diskriminierung durch die Polizei äußerten (vgl. Abdul-Rahman,
+Espín Grau, Klaus & Singelnstein, 2020, S. 20). Die Fokussierung auf diese
+beiden Felder erfolgte aufgrund des Erkenntnisinteresses in Bezug auf den
+Zwischenbericht. Erst nach Veröffentlichung des Zwischenberichts wurde
+auch das übrige Datenmaterial codiert.
+
+8 Kuckartz schlägt vor, das gesamteMaterial anhand der gebildetenOberkategorien ein erstesMal
+zu codieren (2018,S. 102).DadasMaterial in der vorliegendenStudie sehrumfangreichwar,wur-
+de sich an dieser Stelle für eine Abweichung entschieden.

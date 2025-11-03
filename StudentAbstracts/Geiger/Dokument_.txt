@@ -1,0 +1,179 @@
+﻿2 Forschungsstand zu übermäßiger
+polizeilicher Gewaltanwendung in
+Deutschland
+
+International existieren umfangreiche empirische Forschungen zu (über-
+mäßiger) polizeilicher Gewaltanwendung (etwa Alpert & Dunham, 2004;
+Alpert & MacDonald, 2001; Geller & Toch, 1996; Hine et al., 2018; Jobard,
+2007; Klahm et al., 2011; Lersch & Mieczkowski, 2005; Paoline et al., 2021;
+Paoline & Terrill, 2011; Prenzler et al., 2013; Stoughton et al., 2020; Terrill,
+2005). Auch wenn sich die Fragen und Problemlagen in diesem Kontext
+weltweit ähneln, so lassen sich doch empirische Befunde zu den USA und
+anderen Ländern aufgrund unterschiedlicher politischer, rechtlicher, so-
+zialer und institutioneller Rahmenbedingungen polizeilichen Handelns
+nur eingeschränkt auf die deutsche Situation übertragen. Der Fokus dieses
+Kapitels liegt daher darauf, einen Überblick über den Forschungsstand in
+Deutschland zu geben.
+
+2.1 Befunde aus amtlichen Statistiken
+
+Die Polizeiliche Kriminalstatistik (PKS) registrierte im Jahr 2021 die Einlei-
+tung von 2.084 StrafverfahrenwegenKörperverletzung imAmt (§ 340 StGB)
+in Deutschland (Bundeskriminalamt, 2022). Während die Statistik bis 2019
+einen Rückgang an Anzeigen verzeichnete, ist die Anzahl erfasster Fälle seit
+2020wieder deutlich angestiegen (vgl.Abbildung 1).Zubeachtenbleibt,dass
+an dieser Stelle auch Körperverletzungen durch andere Amtsträger*innen
+(z.B. Lehrer*innen oder andere im öffentlichen Dienst beschäftigte Perso-
+nen) erfasstwerden,eine gesonderteAuswertungnur fürdiePolizei existiert
+hier nicht.
+
+Demgegenüber weist die Staatsanwaltschaftsstatistik die Erledigung
+von Ermittlungsverfahren gegen Polizeibeamt*innen wegen rechtswidri-
+
+
+
+2 Forschungsstand zu übermäßiger
+polizeilicher Gewaltanwendung in
+Deutschland
+
+International existieren umfangreiche empirische Forschungen zu (über-
+mäßiger) polizeilicher Gewaltanwendung (etwa Alpert & Dunham, 2004;
+Alpert & MacDonald, 2001; Geller & Toch, 1996; Hine et al., 2018; Jobard,
+2007; Klahm et al., 2011; Lersch & Mieczkowski, 2005; Paoline et al., 2021;
+Paoline & Terrill, 2011; Prenzler et al., 2013; Stoughton et al., 2020; Terrill,
+2005). Auch wenn sich die Fragen und Problemlagen in diesem Kontext
+weltweit ähneln, so lassen sich doch empirische Befunde zu den USA und
+anderen Ländern aufgrund unterschiedlicher politischer, rechtlicher, so-
+zialer und institutioneller Rahmenbedingungen polizeilichen Handelns
+nur eingeschränkt auf die deutsche Situation übertragen. Der Fokus dieses
+Kapitels liegt daher darauf, einen Überblick über den Forschungsstand in
+Deutschland zu geben.
+
+2.1 Befunde aus amtlichen Statistiken
+
+Die Polizeiliche Kriminalstatistik (PKS) registrierte im Jahr 2021 die Einlei-
+tung von 2.084 StrafverfahrenwegenKörperverletzung imAmt (§ 340 StGB)
+in Deutschland (Bundeskriminalamt, 2022). Während die Statistik bis 2019
+einen Rückgang an Anzeigen verzeichnete, ist die Anzahl erfasster Fälle seit
+2020wieder deutlich angestiegen (vgl.Abbildung 1).Zubeachtenbleibt,dass
+an dieser Stelle auch Körperverletzungen durch andere Amtsträger*innen
+(z.B. Lehrer*innen oder andere im öffentlichen Dienst beschäftigte Perso-
+nen) erfasstwerden,eine gesonderteAuswertungnur fürdiePolizei existiert
+hier nicht.
+
+Demgegenüber weist die Staatsanwaltschaftsstatistik die Erledigung
+von Ermittlungsverfahren gegen Polizeibeamt*innen wegen rechtswidri-
+
+
+
+24 Forschungsstand
+
+ger Gewaltausübung und Aussetzung seit dem Jahr 2009 in Sachgebiet 53
+gesondert aus. Im Jahr 2021wurdendanach 2.790 einschlägige Ermittlungs-
+verfahren von den Staatsanwaltschaften erledigt.1 Auch hier ist seit 2018
+ein Anstieg zu verzeichnen.2 Diese Statistik zeigt außerdem die besondere
+Erledigungsstruktur bei solchen Ermittlungsverfahren gegen Polizeibe-
+amt*innen. Sie ist gekennzeichnet durch eine weit überdurchschnittliche
+Einstellungsquote und durch eine äußerst niedrige Anklagequote von 2%
+(Abdul-Rahman, Espín Grau & Singelnstein, 2020a; vgl. auch Singelnstein,
+2014). Die genaue Darstellung der Erledigungsstruktur sowie die Analyse
+der Gründe dafür erfolgen in Kapitel 8.5.
+
+Abbildung 1: Verfahren wegen Körperverletzung im Amt nach der PKS und Verfahren gegen Polizei-
+beamt*innen wegen rechtswidriger Gewaltausübung nach der StA-Statistik
+Quelle: Bundeskriminalamt (2022); Statistisches Bundesamt (StA-Statistik, Sachgebiet 53); eigene Darstellung3
+
+1 Sachgebiet 53 ist unveröffentlicht, kann aber beimStatistischenBundesamt angefordertwerden.
+2 Die Diskrepanz zwischen PKS und Staatsanwaltschaftsstatistik ist auf unterschiedliche Inhalte
+und Arten der Erfassung zurückzuführen (vgl. auch Abdul-Rahman, Espín Grau & Singelnstein,
+2020a, S. 78).
+
+3 Soweit nicht abweichend gekennzeichnet, handelt es sich bei allen folgenden Abbildungen und
+Tabellen um eigene Darstellungen unserer Forschungsergebnisse.
+
+
+
+Forschungsstand 25
+
+Gemein ist beiden Statistiken, dass sie lediglich das sogenannte Hell-
+feld abbilden, also jene Fälle, die zur Anzeige gebracht oder den Strafver-
+folgungsbehörden auf andereWeise bekannt werden. Die Statistiken doku-
+mentieren somit allein,was bei der jeweiligen staatlichen Institution anVer-
+fahren aufläuft und wie die Strafverfolgungsbehörden mit diesen Verfah-
+ren umgehen (Derin & Singelnstein, 2019; Kant, 2000; Singelnstein, 2014).
+Aktenanalysen zum Hellfeld existieren aus Bayern (Luff et al., 2018) sowie
+aus demSaarland (Schlun, 2018).Während die Forschungsstelle des Landes-
+kriminalamts Bayern keine Hinweise auf strukturelle Gründe für die hohen
+Einstellungsquoten finden konnte, stellte Schlun für das Saarland fest, dass
+zwar keine offensichtlichenRechtsbrüche vorlägen, jedochdurchausproble-
+matische Praxen bei den Staatsanwaltschaften ersichtlich seien. Dazu ge-
+hörten etwa ausgelassene Vernehmungen von Betroffenen oder Beschuldig-
+ten (vgl. ebd., S. 106).
+
+2.2 Empirische Studien und zivilgesellschaftliche
+Wissensproduktionen
+
+Vorfälle, die nicht zur Anzeige gebracht und den Strafverfolgungsbehörden
+auch nicht auf andereWeise bekanntwerden, tauchen in den amtlichen Sta-
+tistiken nicht auf und verbleiben daher im sogenannten Dunkelfeld. Unter-
+suchungen zum Dunkelfeld bzw. zum Gesamtaufkommen strafbarer poli-
+zeilicherGewaltausübung lassen sich fürDeutschlandbislangnur vereinzelt
+finden.Einerseits nehmendie zumThemapolizeilicheGewaltausübung vor-
+liegendenArbeitennur zumTeil geradeübermäßigeGewaltanwendungen in
+den Blick; oftmals geht es um Gewaltanwendungen durch die Polizei in ei-
+nemweiteren Sinne, ohne die Frage der Bewertung polizeilicher Gewalt ge-
+nauer zu konzeptualisieren. Andererseits haben die meisten Studien einen
+weiteren Fokus und betrachten Gewalthandlungen neben anderen Formen
+polizeilichenHandelns. Im Folgenden werden zentrale und für das hier ver-
+folgte Forschungsinteresse relevante Ergebnisse einzelner Untersuchungen
+zum Bereich der (übermäßigen) Gewaltanwendung durch Polizeibeamt*in-
+nen dargestellt. Dabei wird insbesondere deutlich, dass die Betroffenenper-
+spektive bisher unterbelichtet geblieben ist.
+
+Maibach (1996) konnte mittels qualitativer Interviews mit Polizeibe-
+amt*innen Anzeichen einer fest etablierten Kultur nicht legitimer Gewalt
+
+
+
+26 Forschungsstand
+
+identifizieren. Die Studie untersuchte vorrangig individuelle Faktoren. Am
+Beginn ihrer Laufbahn beschrieben Polizeibeamt*innen darin den auch
+heute noch häufig thematisierten »Praxisschock«, der durch Konfrontation
+des polizeilichen Anspruchs an die eigene Macht- und Autoritätsposition
+und praktische Probleme bei dessen Durchsetzung zustande komme. Als
+Gründe für berichtete Übergriffe auf Bürger*innen wurden u.a. (privater)
+Stress, gruppendynamische Prozesse, Angst vor dem und Wut auf das »po-
+lizeiliche Gegenüber«, Frustration, mangelnde Kommunikationsfähigkeit
+oder Empathie und die Polizei als nach außen geschlossene Organisation
+genannt (ebd., S. 191).
+
+Ebenfalls die polizeiliche Sichtweise fokussierten Wiendieck et al.
+(2002) in einer Studie, welche die berufsalltäglichen Erfahrungen von Po-
+lizeibeamt*innen einer Kölner Polizeiinspektion mittels Gruppen- und
+Einzelinterviews sowie Fragebögen untersuchte. Dabei zeigten sich auf
+polizeilicher Seite Schwierigkeiten in der Differenzierung zwischen an-
+gemessenen und unangemessenen Umgangsweisen mit Bürger*innen.
+28% der befragten Polizeibeamt*innen gaben an, dass ihnen das Verhalten
+von Kolleg*innen schon einmal zu weit gegangen sei. 29% der Befragten
+mussten sich demnach bei einer Gewaltanwendung schon einmal »bewusst
+bremsen«, 62% der Befragten kannten das Gefühl, dass ihre Geduld durch
+den Bürger*innenkontakt bis auf das Äußerste strapaziert wurde und 23%
+der Befragten gaben an, dass sie ihren Ermessensspielraum schon einmal
+unnötigerweise voll ausgeschöpft hätten (ebd., S. 37). Für das Überschreiten
+der Grenze zwischen legitimer und illegitimer Gewaltanwendung seien
+insbesondere situative Faktoren relevant (ebd., S. 38). Genauere Aussagen
+über Häufigkeit oder Intensität polizeilichen Fehlverhaltens ließen sich
+aufgrund der Datengrundlage dieser Untersuchung nicht treffen (ebd.,
+S. 41). Dübbers (2015) wiederholte die Befragung 2011 und kam zu ähnlichen
+Ergebnissen, konstatierte dabei aber eine polizeikulturelle Entwicklung hin
+zumehr Bürger*innennähe.
+
+Bestätigt wurden solche Befunde auch von Behrendes (2003). Er be-
+schrieb anhand seiner eigenen Berufserfahrungen als Polizeibeamter sowie
+verschiedener Forschungsarbeiten, dass für polizeiliche Übergriffe meist
+persönliche Fehleinschätzungen und Überforderungen im situativen Es-
+kalationsprozess ursächlich seien. Es sei zu vermuten, dass die meisten
+Streifenpolizist*innen und Angehörigen von »geschlossenen Einheiten« bei
+einemEinsatz schon einmal die Grenzen der Zwangsanwendung überzogen
+hätten (ebd., S. 174). Entsprechend gebe es innerhalb der Polizei ein gewis-

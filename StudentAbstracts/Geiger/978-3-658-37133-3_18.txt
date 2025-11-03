@@ -1,0 +1,925 @@
+﻿Kriminell oder kriminalisiert? Die Rolle 
+der Polizei bei Verdachtsschöpfung 
+und Konstruktion der 
+„Ausländerkriminalität“
+
+Christian Walburg
+
+Zusammenfassung
+
+Die Polizei spielt bei der Konstruktion und Reproduktion dessen, was 
+gesellschaftlich als Kriminalität verhandelt wird, eine wichtige Rolle. Im 
+Rahmen der Strafverfolgung ergeben sich aus zahlreichen Entscheidungsspiel-
+räumen bei der polizeilichen Schöpfung und Weiterverfolgung eines Verdachts 
+Einfallstore für Diskriminierungen zum Nachteil von Minderheitenangehörigen. 
+Studien lassen teilweise individuelle Vorurteile und pauschalisierende 
+institutionelle Wissensbestände erkennen, die sich zuweilen verdachts-
+begründend, vor allem aber wohl situativ-verdachtsverstärkend auswirken 
+können. Bei alledem verschränken sich schicht-, geschlechts-, herkunfts- und 
+raumbezogene Annahmen über Abweichung und Gefährlichkeit.
+
+Schlüsselwörter
+
+Ausländerkriminalität · Diskriminierung · Verdachtsschöpfung ·  
+Strafverfolgung · Kriminalisierung
+
+C. Walburg (*) 
+Institut für Kriminalwissenschaften, Abt. Kriminologie, Universität Münster, 
+Münster, Deutschland
+E-Mail: walburg@uni-muenster.de
+
+© Der/die Autor(en) 2022 385
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_18
+
+
+
+386 C. Walburg
+
+1  Einleitung
+
+Die Polizei hat einen maßgeblichen Einfluss darauf, was in einzelnen Strafver-
+fahren und in gesellschaftlichen Diskursen als Kriminalität bezeichnet und 
+wahrgenommen wird. Dabei wird in (auch) durch Einwanderung geprägten 
+Gesellschaften1 nicht zuletzt um die Bedeutung von Zuwanderung und aus-
+ländischer Herkunft gerungen. Für die Polizei stellt sich in diesem Zusammen-
+hang zum einen die Aufgabe, im Falle von (drohenden oder bereits eingetretenen) 
+Viktimisierungen für alle Bürger:innen unabhängig von deren Herkunft 
+gleichermaßen zur Hilfe zu sein. Zum anderen ist sie gefordert, ihre mit erheb-
+lichen Entscheidungsspielräumen verbundenen Aufgaben im Rahmen der Straf-
+verfolgung diskriminierungsfrei wahrzunehmen.
+
+Erhöhte Tatverdächtigen-, Verurteilten- und Strafgefangenenanteile von 
+Ausländer:innen und Migrant:innen, wie sie gegenwärtig tendenziell in vielen 
+europäischen Ländern zu beobachten sind, können auf eine größere Verbreitung 
+delinquenten Verhaltens in diesen Gruppen zurückzuführen sein. Sie können 
+aber auch – oder zumindest zusätzlich – Folge einer erhöhten Sichtbarkeit von 
+Delinquenz sein. In diesem Beitrag sollen Erkenntnisse zur Verdachtsschöpfung 
+durch die Polizei gegenüber Ausländer:innen und Migrant:innen sowie zu deren 
+Rolle bei der gesellschaftlichen Konstruktion und Reproduktion der „Ausländer- 
+bzw. Migrantenkriminalität“ erörtert werden.
+
+1 In Deutschland hat gegenwärtig etwa jede(r) vierte Einwohner:in einen sogenannten 
+Migrationshintergrund: Bis 2019 ist der Bevölkerungsanteil der (selbst im Ausland 
+geborenen) Migrant:innen in Deutschland auf 16,7 % angestiegen; hinzu kommen weitere 
+9,2 % der Bevölkerung, die selbst im Inland geboren wurden, und deren Migrationshinter-
+grund von der Zuwanderung ihrer Familien oder Teilen davon abgeleitet wird (Statistisches 
+Bundesamt 2020). Der Ausländer:innenanteil in der Bevölkerung betrug Ende 2020 12,7 % 
+(Statistisches Bundesamt 2021a).
+
+
+
+Kriminell oder kriminalisiert? … 387
+
+2 „ Ausländer- und Migrantenkriminalität“
+
+Menschen ausländischer Herkunft sowie mit ausländischer Staatsangehörig-
+keit2 sind in den Kriminalstatistiken westeuropäischer Länder tendenziell über-
+repräsentiert.3 In Deutschland hat gegenwärtig rund ein Drittel der ermittelten 
+Tatverdächtigen nicht die inländische Staatsangehörigkeit4, ähnliche Anteile 
+ergeben sich unter den Verurteilten sowie unter den Strafgefangenen5. Der Ein-
+druck einer erhöhten Registrierungshäufigkeit wird etwas relativiert, wenn 
+man die Betrachtung – methodisch zutreffend – auf im Inland wohnhafte und 
+offiziell gemeldete Tatverdächtige beschränkt6 und aufenthalts- und asylrecht-
+liche Verstöße, die ganz überwiegend nur von Nichtdeutschen begangen werden 
+können, außenvorlässt.7 Die Unterschiede zu deutschen Staatsangehörigen lösen 
+sich damit jedoch nicht vollständig auf, und sie tun dies auch dann nicht, wenn 
+zusätzlich das jüngere Durchschnittsalter und der etwas höhere Männeranteil bei 
+Nichtdeutschen kontrolliert werden.8 Kriminalstatistisch lässt sich festhalten, dass 
+zwar auch unter hier lebenden Menschen ohne deutsche Staatsangehörigkeit nur 
+ein kleiner Teil mit Straftaten auffällt und ein nochmals sehr viel kleinerer Teil 
+
+2 Die Aspekte der Staatsangehörigkeit sowie der ausländischen Herkunft bzw. des 
+Migrationshintergrundes sind nicht deckungsgleich. Viele Migrant:innen(-nachkommen) 
+besitzen nach Einbürgerung oder qua Geburt im Inland die inländische Staatsangehörig-
+keit. Umgekehrt sind längst nicht alle ausländischen Tatverdächtigen Migrant:innen, etwa 
+im Falle von Tourist:innen oder von grenzüberschreitender Kriminalität. In deutschen 
+Kriminalstatistiken wird die Staatsangehörigkeit, in der Regel nicht aber das eigene (oder 
+elterliche) Geburtsland erfasst.
+3 Walburg (2019).
+4 S. Bundeskriminalamt (2021a). Lässt man aufenthalts- und asylrechtliche Verstöße außen 
+vor (Summenschlüssel 890000), beträgt der Anteil gegenwärtig knapp 30 %.
+5 Statistisches Bundesamt (2021b, c).
+6 Der Anteil nichtdeutscher Tatverdächtiger darf nicht ohne Weiteres zum Ausländeranteil 
+in der offiziell erfassten Wohnbevölkerung in Bezug gesetzt werden, da ein beträcht-
+licher Teil der nichtdeutschen Tatverdächtigen nicht in Deutschland gemeldet ist (etwa als 
+Touristen, Durchreisende, bei grenzüberschreitender Kriminalität oder bei illegalem Auf-
+enthalt). 2020 hatten 16 % der nichtdeutschen Tatverdächtigen einen Wohnsitz außerhalb 
+Deutschlands, bei weiteren 15 % konnte kein (fester) Wohnsitz ermittelt werden (Bundes-
+kriminalamt 2021b).
+7 Der Anteil Nichtdeutscher an allen Tatverdächtigen ohne aufenthalts- und asylrechtliche 
+Verstöße betrug 2020 knapp 30 %.
+8 S. zuletzt bspw. Glaubitz und Bliesener (2018).
+
+
+
+388 C. Walburg
+
+verurteilt und inhaftiert wird. Allerdings sind die entsprechenden Registrierungs-
+häufigkeiten auch nach Berücksichtigung der genannten Verzerrungsfaktoren ins-
+gesamt etwa doppelt so hoch wie unter deutschen Staatsangehörigen.9
+
+Zu den möglichen Gründen für eine strafrechtliche Höherbelastung von aus-
+ländischen Staatsangehörigen – bzw. in ähnlicher Weise von Migrant:innen sowie 
+deren Nachkommen – wird seit Langem umfangreich und aus verschiedenen 
+Perspektiven geforscht. Eine der klassischen Grundfragen lautet dabei, inwieweit 
+die im polizeilichen und justiziellen Hellfeld feststellbaren Unterschiede auf eine 
+größere Verbreitung strafbarer Verhaltensweisen zurückzuführen sind oder nicht 
+auch, eher oder gar vollständig auf erhöhten Kriminalisierungswahrscheinlich-
+keiten und Diskriminierungen durch Anzeigeerstatter:innen, Polizei und Justiz 
+beruhen.10 War diese Frage in der deutschen Kriminologie bis in die 1990er 
+Jahre hinein Gegenstand zum Teil hitzig geführter Debatten, so hat sich die 
+damit verbundene Polarisierung seither weithin, wenn auch mit unterschiedlichen 
+Nuancierungen, im Sinne eines „sowohl-als-auch“ aufgelöst.
+
+Dafür verantwortlich waren unter anderem repräsentative (Dunkelfeld-)
+Untersuchungen zu selbstberichteter Opfer- und Täterwerdung. Diese Studien 
+zeigten einerseits, dass es in hetero-ethnischen Konfliktsituationen und gegenüber 
+Minderheitenangehörigen vermehrt zu Strafanzeigen kommt.11 Andererseits sind 
+danach Personen mit ausländischer Herkunft – befragt werden dabei in der Regel 
+Menschen im Jugendalter – auch nach ihren eigenen Angaben insgesamt etwas 
+häufiger an strafbarem Verhalten beteiligt als Menschen ohne Migrationsbezüge. 
+Bei allen berechtigten Bedenken gegen die (präzise) Messbarkeit delinquenten 
+Verhaltens im Allgemeinen und durch Selbstberichte in standardisierten 
+Befragungen im Besonderen lassen sich diese Befunde in der Gesamtschau 
+kaum sinnvoll anders interpretieren, als dass Hellfeldunterschiede zwar zu einem 
+gewissen Teil, aber eben nicht vollständig auf eine erhöhte Kriminalisierungs-
+wahrscheinlichkeit bei Minderheitenangehörigen zurückzuführen sind.12
+
+Aus ätiologischer Perspektive sind Staatsangehörigkeit und (eigene oder elter-
+liche) Migrationserfahrung als solche wohlgemerkt keine direkten Kriminalitäts-
+ursachen; „Kriminalität ist keine Frage des Passes“.13 Sie können jedoch zu den 
+
+9 Geissler-Frank und Sutterer (2008), S. 539; Glaubitz und Bliesener (2018), S. 70, 76.
+10 S. bereits Sellin (1938), S. 73.
+11 S. zuletzt bspw. Pfeiffer et al. (2018), S. 74 ff.
+12 S. zum Ganzen Oberwittler und Lukas (2010).
+13 Feltes et al. (2016).
+
+
+
+Kriminell oder kriminalisiert? … 389
+
+vielfältigen Hintergrundfaktoren gehören, die das Betroffensein von kriminalitäts-
+begünstigenden Faktoren – etwa das Aufwachsen in problembelasteten sozialen 
+und familiären Verhältnissen, eigene Gewalterfahrungen, schwache soziale 
+Bindungen und ungünstige Perspektiven – wahrscheinlicher machen.14 Für 
+Delinquenzrisiken des Einzelnen sind dabei immer die individuellen Erfahrungen 
+und Lebensumstände entscheidend, nicht etwa die Zugehörigkeit zu einer in sich 
+heterogenen sozialen (und sozial konstruierten) Gruppe als solche.
+
+Solche Erkenntnisse erhellen indes nur einen Teil des Bildes und machen 
+Forschung zu einer möglichen Selektivität der Strafverfolgung und zur Rolle 
+der Polizei bei der Konstruktion der „Ausländerkriminalität“ bzw. „Migranten-
+kriminalität“ keineswegs obsolet. Dies folgt bereits aus dem Umstand, dass mit 
+quantitativer Dunkelfeldforschung in der Regel nur bestimmte Phänomene – in 
+erster Linie jugendtypische Delinquenz – untersucht werden, und nicht zuletzt 
+auch aus der Beobachtung, dass die dabei feststellbaren Unterschiede im Dunkel-
+feld je nach Deliktsbereich teilweise deutlich geringer ausfallen als im polizei- 
+und justizstatistischen Hellfeld.15
+
+3 P olizei, Strafverfolgung und Minderheiten
+
+Strafverfahren werden überwiegend durch Anzeigen aus der Bevölkerung 
+und nur zu einem kleineren Teil durch proaktive Kontrollen der Polizei aus-
+gelöst.16 Überdies sind die abschließenden Entscheidungen über eine Anklage-
+erhebung, die Eröffnung eines Hauptverfahrens sowie die Verurteilung und 
+Strafzumessung den Staatsanwaltschaften bzw. den Gerichten zugewiesen. Ent-
+sprechend konzentrieren sich viele Studien zu möglichen Benachteiligungen 
+von Minderheitenangehörigen im Prozess der Strafverfolgung auf das Anzeige-
+verhalten der Bevölkerung sowie auf Entscheidungen der Staatsanwaltschaften 
+und der Gerichte.17 Nichtsdestoweniger hat sich mit der Rezeption des Labeling 
+Approach seit Ende der 1960er Jahre die Erkenntnis durchgesetzt, dass auch die 
+Polizei, insbesondere im den weiteren Verfahrensverlauf erheblich prägenden 
+
+14 Baier (2015); Bucerius (2014); Naplava (2010); Walburg (2014).
+15 Leerkes et al. (2019).
+16 Singelnstein und Kunz (2021), S. 239.
+17 S. hierzu im Überblick bspw. Oberwittler und Lukas (2010); Haverkamp und Lukas (2017).
+
+
+
+390 C. Walburg
+
+Ermittlungsverfahren, bei der Konstruktion dessen, was individuell in einzel-
+nen Strafverfahren, aggregiert in Kriminalstatistiken sowie in gesellschaftlichen 
+Diskursen als Kriminalität bezeichnet und erfasst wird, eine wesentliche Rolle 
+spielt.18 Diskriminierende Effekte polizeilicher Strafverfolgungspraxis können 
+sich dabei zum einen aus der Anwendung gesetzlicher Vorgaben ergeben, die 
+benachteiligend sind oder sich jedenfalls benachteiligend auswirken. Zum 
+anderen können polizeiliche Entscheidungsspielräume zu einem Einfallstor für 
+Diskriminierungen werden.
+
+3.1  Benachteiligung durch gesetzliche Vorgaben
+
+Eine direkte Benachteiligung von Ausländer:innen und Migrant:innen durch 
+gesetzliche Regelungen des materiellen Strafrechts oder des Strafprozessrechts 
+lässt sich heutzutage kaum noch aufspüren19; eine Anknüpfung an Merkmale wie 
+Staatsangehörigkeit und ethnische Herkunft wäre vor dem Hintergrund von Art. 
+3 GG im Regelfall nicht begründbar. Eine wichtige Ausnahme bildet, bezogen 
+auf das materielle Strafrecht, der Bereich der Migrationskontrolle. So werden 
+gem. § 95 AufenthG ausschließlich bei Nichtdeutschen unter bestimmten Voraus-
+setzungen namentlich die Einreise und der Aufenthalt im Bundesgebiet unter 
+Strafe gestellt. Ausländische Asylsuchende können sich zudem beispielsweise 
+gem. § 85 Nr. 2 AsylG wegen wiederholten Verstoßes gegen eine Aufenthalts-
+beschränkung („Residenzpflicht“) strafbar machen.
+
+In der Praxis der Strafverfolgung gegen Nichtdeutsche haben diese Delikte 
+mit dem starken Anstieg der Zahl der Asylsuchenden seit 2014 zwischen-
+zeitlich wieder erheblich an Bedeutung gewonnen. So wurde im Jahr 2015 bei 
+39 % aller polizeilich erfassten nichtdeutschen Tatverdächtigen allein wegen 
+Verstoßes gegen „ausländerspezifische“ Strafvorschriften ermittelt; bis 2020 ist 
+dieser Anteil wieder auf 16 % zurückgegangen.20 Ein großer Teil der Verfahren 
+wegen unerlaubter Einreise ist jedoch, soweit diese im Zusammenhang mit einem 
+Asylgesuch steht, ohne Anklageerhebung einzustellen, da insoweit der Strafauf-
+hebungsgrund des § 95 Abs. 5 AufenthG i.V.m. Art. 31 Abs. 1 der Genfer Flücht-
+lingskonvention greift.21
+
+18 Singelnstein (2016), S. 830; Jasch (2019), S. 231.
+19 S. hierzu Behr (2018), S. 59; sowie allgemein Haverkamp und Lukas (2017).
+20 Bundeskriminalamt (2021c); eigene Berechnungen.
+21 Fischer-Lescano und Horst (2011).
+
+
+
+Kriminell oder kriminalisiert? … 391
+
+Für die Polizei kommt es mit der Kriminalisierung der unerlaubten Einreise 
+und des unerlaubten Aufenthaltes zu einer Überschneidung von Aufgaben der 
+Migrations- und der Kriminalitätskontrolle. Im Zusammenhang mit besonderen 
+Befugnisnormen, etwa bezüglich verdachtsunabhängiger Kontrollen im Bahn-
+verkehr gem. § 22 Abs. 1a BPolG, können entsprechende Maßnahmen auch 
+Rückwirkungen auf die Verdachtsschöpfung hinsichtlich allgemeiner Kriminali-
+tätsformen (ganz konkret etwa wegen des Besitzes von illegalen Drogen, des Bei-
+sichführens von möglichen Einbruchswerkzeugen oder einer Tatbeute sowie des 
+Vorwurfs eines Widerstands gegen bzw. eines tätlichen Angriffs auf Vollstreckungs-
+beamte) haben und so auch diesbezüglich zu ethnisch selektiver Strafverfolgung 
+beitragen; es lässt sich hier von (indirekter) institutioneller Diskriminierung 
+sprechen.22 In dieses Muster fügt sich ein, dass die raumbezogenen Ermächtigungen 
+zu Personenkontrollen in den Polizeigesetzen der Bundesländer nicht nur an den 
+auf „Lageerkenntnisse“ gestützten Verdacht der Verabredung, Vorbereitung oder 
+Verübung von „klassischen“ Straftaten, sondern auch von aufenthaltsrechtlichen 
+Verstößen anknüpfen (s. etwa § 12 Abs. 1 Nr. 2 PolG NW). Bei alledem wäre 
+genauer zu untersuchen, inwiefern es vor dem Hintergrund der zuweilen als über-
+geordnet zu erkennenden Zielsetzung der Kontrolle unerwünschter Migration in 
+der polizeilichen Praxis zu einer Austauschbarkeit der auf die Aufdeckung von 
+unerlaubtem Aufenthalt und allgemeiner Kriminalität zielenden Befugnisse und 
+Mittel kommen kann, und inwiefern die Überlagerung der Aufgaben möglicher-
+weise Rückwirkungen auf Schutzstandards der Betroffenen23 sowie bezüglich der 
+Frage hat, welche Personengruppen in welchem Maße und aus welchen Gründen 
+als „Problem“ oder „Gefahr“ wahrgenommen werden.24
+
+Strafprozessual lassen sich darüber hinaus seit Langem Nichtdeutsche 
+benachteiligende Effekte durch an sich neutrale Verfahrensregelungen im Sinne 
+einer indirekten institutionellen Diskriminierung ausmachen. Dies betrifft in 
+erster Linie die Untersuchungshaft, die bei ausländischen Beschuldigten (ins-
+besondere solchen mit prekärem Aufenthaltsstatus) relativ betrachtet deutlich 
+häufiger angeordnet wird als bei deutschen Beschuldigten.25 Dies ist zum Teil 
+
+22 Herrnkind (2014), S. 52; Behr (2019), S. 24; s. zum Begriff Gomolla (2017), S. 146.
+23 S. hierzu Graebsch (2019).
+24 Zu wenig kriminologisch beleuchtet wurden darüber hinaus bislang die besonderen, 
+zusätzlichen aufenthalts- und asylrechtlichen Folgen einer strafrechtlichen Verurteilung 
+oder eines Tatverdachts. S. zu Ausweisungen Walburg (2016); zu entsprechenden Rück-
+wirkungen etwa auf Beschuldigtenrechte, s. Graebsch (2019).
+25 Albrecht (1997), S. 73; Haverkamp und Lukas (2017), S. 294.
+
+
+
+392 C. Walburg
+
+darauf zurückzuführen, dass bei Menschen ausländischer Herkunft tatsächlich 
+häufiger Auslandsbezüge bestehen, die eine Fluchtgefahr im Sinne von § 112 
+Abs. 2 Nr. 2 StPO begründen können. Es kommt hinzu, dass es in der Praxis 
+zu einer allzu pauschalen Annahme von Fluchtgefahr kommen kann. Um die 
+angestrebte Inhaftierung begründen zu können, wird diese dann primär auf den 
+Aspekt der ausländischen Staatsangehörigkeit bzw. (unterstellte) Auslands-
+kontakte gestützt, ohne dass die geforderte Gesamtwürdigung aller Umstände des 
+Einzelfalls erfolgt.26 Auch die der Anordnung von Untersuchungshaft zuweilen 
+vorausgehende vorläufige Festnahme durch die Polizei gem. § 127 Abs. 2 StPO, 
+die an das Vorliegen der Voraussetzungen eines Haftbefehls anknüpft, ist insoweit 
+diskriminierungsanfällig. Studien zur Strafzumessungspraxis geben bei alledem 
+Hinweise darauf, dass die vermehrte Verhängung von Untersuchungshaft Aus-
+wirkungen auf das Strafmaß bei ausländischen Verurteilten haben kann, fällt das 
+Strafmaß nach vorangegangener Untersuchungshaft doch tendenziell härter aus.
+
+3.2  Polizeiliche Entscheidungsspielräume und 
+Diskriminierungsrisiken im Rahmen der 
+Strafverfolgung
+
+Soweit die Polizei im Bereich der Strafverfolgung tätig wird, ist sie anders als 
+im Gefahrenabwehrrecht gesetzlich nicht mit Ermessen ausgestattet. Vielmehr 
+ist sie hier, im Grundsatz nicht anders als die Staatsanwaltschaft (§§ 152 Abs. 2, 
+160 Abs. 1 StPO), an das Legalitätsprinzip gebunden (§§ 161, 163 Abs. 1 S. 1 
+StPO), das heißt sie ist bei Vorliegen zureichender tatsächlicher Anhaltspunkte 
+(Anfangsverdacht) zur Aufnahme von Ermittlungen und zur Verfolgung aller 
+strafbaren Handlungen verpflichtet. Hierdurch soll gerade Verstößen gegen den 
+Gleichheitsgrundsatz entgegengewirkt werden.27 Eine Einstellung des Verfahrens 
+aus Opportunitätsgründen ist allein der Staatsanwaltschaft und den Gerichten vor-
+behalten (§§ 153 ff. StPO; §§ 45, 47 JGG), eine Polizeidiversion ist in Deutsch-
+land nicht vorgesehen.
+
+Gleichwohl bestehen auch im Rahmen der polizeilichen Strafverfolgungstätig-
+keit erhebliche, potenziell diskriminierungsanfällige Entscheidungsspielräume.28  
+
+26 Böhm und Werner (2014, § 112 Rn. 57 ff.); s. zum Ganzen auch Wolf (2017).
+27 BGH, NJW (1960), S. 2346 f.
+28 Ruch (2017); Ricker (2021).
+
+
+
+Kriminell oder kriminalisiert? … 393
+
+Dies ergibt sich bereits aus dem Umstand, dass sich dieses Handeln in der 
+Praxis häufig gar nicht (klar) von polizeilichem Handeln zur Gefahrenabwehr 
+trennen lässt, es oftmals vielmehr um sogenannte Gemengelagen geht.29 Wenn 
+aber Minderheitenangehörige zum Beispiel überdurchschnittlich häufig von den 
+genannten, auf das Polizeirecht gestützten anlass- und verdachtsunabhängigen 
+Personenkontrollen an als solchen definierten Kriminalitätsschwerpunkten betroffen 
+sind30, resultiert dies eben auch in einer erhöhten Wahrscheinlichkeit dieser Gruppen, 
+einer Strafverfolgung ausgesetzt zu sein.
+
+Schon seit Langem wird darauf hingewiesen, dass die Polizei in der Straf-
+verfolgungspraxis über eine erhebliche Definitionsmacht verfügt.31 Bereits 
+die Frage, ob es überhaupt zu einer Situation des „ersten Zugriffs“ kommt, die 
+Polizei also verdachtsbegründende Beobachtungen macht, hängt von potenziell 
+diskriminierungsanfälligen Entscheidungen über delikts-, personen- und 
+raumbezogene Kontrollstrategien und -präferenzen ab. Diese sind zum Teil 
+durch individuelle und institutionell verankerte Vorannahmen geprägt (die ihrer-
+seits auf eigene Erfahrungen und Erfahrungen im Kolleg:innenkreis gestützt sein 
+können), können aber auch durch Vorgaben von Politik und Polizeiführungen 
+sowie durch mediale Diskurse beeinflusst sein. Ein aktuelles Beispiel hierfür ist 
+das Vorgehen gegen sogenannte Clankriminalität.32
+
+Ob sodann bei einer oft noch mehrdeutigen Beobachtung mit häufig unvoll-
+ständigen Informationen, aber auch bei der Entgegennahme einer Strafanzeige, 
+ein Verdacht angenommen wird, und inwiefern sowie mit wieviel Elan dieser 
+weiterverfolgt wird, ist von verschiedenen Faktoren abhängig. Neben gegebenen-
+falls konfligierenden Aufgaben und begrenzten Ressourcen kommen bei der 
+Sachverhaltsfeststellung und -beurteilung, bei der die zwischen Devianten und 
+Angepassten unterscheidende soziale Ordnung hergestellt wird33, abermals 
+tradierte Situationsdeutungen, zugrundeliegende Wissensbestände sowie Hand-
+lungsroutinen ins Spiel. Auch diese Entscheidungen sind daher ein mögliches 
+Einfallstor für Stereotype und darauf gestützte diskriminierende Praktiken.34 
+So vermuteten bereits Blankenburg und Feest, dass es eher zu Ermittlungen 
+
+29 Ruch (2017), S. 331.
+30 S. hierzu Belina sowie Herrnkind, jeweils in diesem Band.
+31 Blankenburg und Feest (1969), S. 34; Feest (1971).
+32 Brauer et al. (2020).
+33 Singelnstein (2010).
+34 Ricker (2021); s. zur US-amerikanischen Forschung Engel und Swartz (2014); Kurlychek 
+und Johnson (2019), S. 298 ff.
+
+
+
+394 C. Walburg
+
+komme, wenn die potenziell Verdächtigen vonseiten der Polizeikräfte weniger als 
+„anständige Leute“ denn als „Kriminelle“ wahrgenommen werden, zu denen aus 
+Sicht der Polizeibeamt:innen eine größere soziale Distanz bestehe.35
+
+Bei der Frage einer möglichen Selektivität der polizeilichen Strafver-
+folgung (wie auch der justiziellen Praxis)36 standen, im Zuge der Rezeption 
+des symbolischen Interaktionismus und des Labeling Approach37, hierzulande 
+zunächst in erster Linie schichtbezogene Benachteiligungen im Mittelpunkt 
+der Diskussion. Es wurde herausgearbeitet, dass dabei Vorstellungen eine Rolle 
+spielen und handlungsleitend sein können, wonach die Unterscheidung ver-
+dächtig/nicht verdächtig zumindest auch anhand des sozialen Status zu treffen 
+ist („…vom Bauhilfsarbeiter abwärts…“)38. Diese Vorstellungen werden danach 
+nicht nur auf einzelne Personen und deren statusbezogene äußerliche Merkmale 
+(Kleidung, „Gepflegtheit“ etc.) angewendet, sondern auch auf soziale Räume, 
+sodass ärmere Stadtviertel einer engeren Kontrolle unterliegen.39
+
+Die Verbreitung sowie die Auswirkungen organisationsinterner Wissens-
+bestände zu den „üblichen Verdächtigen“ sind weiterhin nur schwer genau zu 
+quantifizieren und werden bis heute kontrovers diskutiert.40 Schon seit Langem 
+wird indes darauf hingewiesen, dass sich eine sozial selektive Strafverfolgung 
+davon unabhängig auch aus organisatorischen Strukturen und situativen Anreizen 
+ergeben kann. So geraten mit Streifengängen und -fahrten naturgemäß eher 
+Formen der Alltags- und Straßenkriminalität als die stärker auf Verheimlichung 
+angelegten, komplexeren Delikte von Statushöheren in den Blick. Die Ersteren 
+haben für die polizeiliche Praxis zudem den Vorzug, leichter aufklärbar zu 
+sein.41 An öffentlichen Straßen und Plätzen begegnet man indes seit jeher eher 
+Menschen mit niedrigerem sozialem Status. Darüber hinaus ergebe sich, so 
+bereits frühe Beobachtungen, für die Polizei gegenüber diesen Personengruppen 
+auch aufgrund deren vergleichsweise geringen Verteidigungsmöglichkeiten 
+
+35 Blankenburg und Feest (1969), S. 34. Umgekehrt beobachtet jedoch Fassin eine 
+besondere Härte von Polizist:innen, die selbst aus benachteiligten Milieus stammen, gegen-
+über Personen aus eben solchen Verhältnissen; siehe Fassin (2018), S. 142.
+36 Haverkamp und Lukas (2017), S. 292.
+37 S. hierzu rückblickend Feest (2020), S. 2 ff.
+38 Feest (1971).
+39 Brusten (1971), S. 59 ff; Feest und Blankenburg (1972), S. 116.
+40 S. zu einem Überblick Ruch (2017); s. zu methodischen Problemen Neil und Winship 
+(2019).
+41 S. hierzu Jasch (2019), S. 233 f.
+
+
+
+Kriminell oder kriminalisiert? … 395
+
+und etwa einer erhöhten Geständnisneigung42 eine größere Definitionsmacht43; 
+Statushöhere können also, so die weiterhin plausible Annahme, die Einleitung 
+und Durchführung eines Strafverfahrens leichter abwehren.
+
+Die Rolle der Polizei bei der Konstruktion der „Ausländerkriminali-
+tät“/“Migrantenkriminalität“ ist, wie auch die ätiologische Seites des Themas, 
+in Deutschland erst mit der Verfestigung des Aufenthaltes eines Teils der zuvor 
+angeworbenen ausländischen Arbeitskräfte ab Mitte der 1970er Jahre sowie des 
+verstärkten Zuzugs von Asylsuchenden in den 1980er und 1990er Jahren und 
+sodann auch im Zusammenhang mit in jener Zeit erstmals breiter diskutierten 
+Vorwürfen der Fremdenfeindlichkeit in der Polizei in der Forschung stärker 
+berücksichtigt worden. Die Diskussion um policing class ist damit ergänzt 
+und teilweise abgelöst worden von policing race.44 Damit einher gingen Über-
+legungen und Hinweise, dass im mit Typisierungen und Generalisierungen 
+verbundenen polizeilichen Erfahrungswissen – welches ein notwendiger Bestand-
+teil polizeilicher Arbeit ist45 – auch Annahmen einer besonderen oder gar 
+generalisierten Kriminalitätsneigung bei „Fremden“ und „Ausländern“ präsent 
+sind oder möglicherweise vermehrt Einzug gehalten hatten. Sozialpsychologisch 
+können bei einer negativen Stereotypisierung von Fremdgruppen Aspekte wie 
+eine Neigung zur Gruppenidentifikation und Eigengruppenbegünstigung sowie 
+der Fremdgruppenhomogenitätseffekt („die Anderen sind doch alle gleich“) 
+zum Tragen kommen.46 In diesem Zusammenhang wird seit Langem ver-
+mutet, dass Vorurteile von Polizist:innen (auch) daraus resultieren können, dass 
+(zuweilen belastende) Erfahrungen mit straffälligen Minderheitenangehörigen 
+in beruflichen Kontexten nur selten durch private Kontakte zu nicht straffälligen 
+Minderheitenangehörigen kompensiert werden.47
+
+Die Befundlage zu alledem ist im polizeilichen Kontext gemischt, aber auch 
+weiterhin begrenzt. Einerseits finden sich national wie international in Vergangen-
+heit und Gegenwart eklatante Beispiele nicht nur für durch Stereotype geprägte 
+
+42 Steffen (1976), S. 263; Dölling (1987), S. 261.
+43 Feest (1971), S. 83 ff., 90; Feest und Blankenburg (1972), S. 117.
+44 Belina und Wehrheim (2011).
+45 Reichertz (1990); Singelnstein (2016), S. 831; Behr (2019), S. 20.
+46 Spears und Tausch (2014).
+47 Angesichts der zunehmend heterogenen Zusammensetzung insbesondere der jüngeren 
+Bevölkerung in vielen Ballungsräumen könnte dieser Aspekt allerdings im Laufe der Jahre 
+ein wenig an Relevanz verloren haben.
+
+
+
+396 C. Walburg
+
+informelle Wissensbestände und eine zuweilen abwertende und rassistische All-
+tagskommunikation48, sondern zum Teil auch für einen institutionalisierten 
+generalisierten Verdacht der Polizei gegenüber bestimmten Minderheiten. In 
+Deutschland ist hier insbesondere die lange Tradition gruppenbezogener Sonder-
+erfassungen bezogen auf Sinti:zze und Rom:nja anzuführen, die teilweise bis in 
+die jüngste Zeit hinein nachweisbar sind.49
+
+Jenseits solcher in Akten, Datenbanken, Lagebildern usw. mehr oder weniger 
+offen dokumentierten Strategien lassen sich strafverfolgungsbezogene Dis-
+kriminierungen durch (Befragungs-)Studien zur Betroffenenperspektive sowie 
+durch Untersuchungen zu Einstellungen und Praktiken von Polizeikräften in den 
+Blick nehmen. Minderheitenangehörige haben in Befragungen immer wieder von 
+als ungleich empfundenen Behandlungen und einer aus ihrer Sicht auf die Her-
+kunft gestützten Kriminalisierung durch die Polizei berichtet.50 Im Rahmen einer 
+umfangreichen neueren Erhebung in Köln und Mannheim zeigte sich bei den 
+dort befragten Jugendlichen mit Migrationshintergrund allerdings nicht das Bild 
+vermehrter Polizeikontrollen, und sie schätzten den polizeilichen Umgang über-
+wiegend als respektvoll und korrekt ein.51 Auch in der ethnographischen Studie 
+von Hunold fanden sich in dem untersuchten Stadtviertel keine Anhaltspunkte 
+für (maßgeblich) durch die ethnische Herkunft der Betroffenen geleitetes Ver-
+halten der Polizei.52 Nach den Beobachtungen von Hüttermann lag die strafrecht-
+liche Interventionsschwelle, trotz durchaus erkennbarer stereotyper Annahmen, in 
+dem von ihm untersuchten migrantisch geprägten Stadtviertel sogar eher etwas 
+höher als in anderen Stadtteilen.53 In diesem Zusammenhang wird seit Längerem 
+die handlungsleitende Kraft subkultureller Orientierungen hinterfragt.54 Unter 
+Umkehrung der Annahmen zu Ursache und Wirkung können stereotype Ein-
+stellungen und abwertende Äußerungen, im Anschluss an Waddington55, 
+
+48 S. etwa die Beispiele bei Schweer und Strasser (2003); Herrnkind (2014), S. 43 ff; 
+Abdul-Rahman et al. (2020), S. 33 ff.
+49 Feuerhelm (1988); Herrnkind (2014), S. 43 f; BT-Drs. 19/30310, S. 366 ff.
+50 Bielefeld et al. (1982), S. 161 ff; Gesemann (2003), S. 209 ff; Zdun (2008), S. 49; 
+European Union Agency for Fundamental Rights (2017), S. 68 ff; Abdul-Rahman et al. 
+(2020), S. 25 ff.
+51 Oberwittler et al. (2014), S. 29 ff; s. auch de Maillard et al. (2018).
+52 Hunold (2015), S. 213.
+53 Hüttermann (2000), S. 541.
+54 Reichertz (1990).
+55 Waddington (1999).
+
+
+
+Kriminell oder kriminalisiert? … 397
+
+auch eine Neutralisations- und Bewältigungsstrategie bei der Anwendung von 
+Zwangsmaßnahmen gegenüber sozial Benachteiligten und Randgruppen sein.56
+
+Zugleich wird darauf hingewiesen, dass die Erforschung sozial unerwünschter 
+Einstellungen und Verhaltensweisen – wie der Diskriminierung von Minder-
+heiten – mit besonderen Schwierigkeiten behaftet ist.57 Deutlich wird dies 
+etwa an Befunden, wonach Polizist:innen in Befragungsstudien zwar recht 
+selten angeben, selbst Ausländer:innen in ihrer eigenen alltäglichen Arbeit zu 
+benachteiligen, mit Blick auf die Arbeit ihrer Kolleg:innen jedoch verbreitet zu 
+der Einschätzung gelangen, dass diese ihrerseits Ausländer:innen tendenziell 
+benachteiligend behandeln.58
+
+Verkompliziert wird das Sichtbarmachen möglicher Diskriminierungen durch 
+den Umstand, dass Aspekte wie die ethnische Herkunft nicht für sich allein 
+stehen, sondern mit anderen Ungleichheitskategorien verschränkt sind. In diesem 
+Sinne beschreibt Behr zwar, dass es (vornehmlich in der polizeilichen Praxis 
+erlernte bzw. weitergegebene) kulturelle Deutungsrahmen über „verdächtige 
+Personengruppen“ gebe.59 Generalisierungen aufgrund entsprechender Einsatz-
+anlässe würden nicht hinreichend reflektiert und aufgebrochen, und es komme 
+zu sich selbst bestärkendem Erfahrungslernen – intensivere Kontrollen führen 
+zu erhöhter (Hellfeld-)Kriminalität. Mit dem Begriff des Social Profiling geht er 
+jedoch davon aus, dass ein als fremd gelesenes Äußeres, jenseits durchaus vor-
+kommender, durch individuelle Vorurteile geprägter gezielter Diskriminierungen, 
+in der Regel erst in Verbindung mit weiteren Eigenschaften wie Armut und 
+situativen sowie verhaltensbezogenen Aspekten verdachtsbegründend wirkt. 
+Danach gelten Migrant:innen also im Regelfall nicht ohne Weiteres als ver-
+dächtig. Sie können in entsprechenden dichotomen Ordnungsmustern durchaus 
+zu (als zugehörig empfundenen) „anständigen Bürgern“ gezählt werden. Etwas 
+anderes gelte, wenn sie aufgrund ergänzender Merkmale in ein Raster der 
+„gefährlichen Fremden“ fallen, welches durchaus auch nicht-migrantische Rand-
+gruppen betreffe.60
+
+56 S. hierzu Ruch (2017), S. 335.
+57 Jasch (2019), S. 232; zu einer umfassenden Diskussion methodischer Probleme bei 
+quantitativen Analysen möglicherweise diskriminierender Polizeipraktiken, s. Neil und 
+Winship (2019).
+58 Schweer und Strasser (2003).
+59 Behr (2017, 2018, 2019).
+60 Behr (2017, 2019), S. 32 ff.
+
+
+
+398 C. Walburg
+
+In eine ähnliche Richtung weisen neuere Untersuchungen, die auf die 
+Bedeutung von kollektiven Wissensbeständen und stereotypen Orientierungen 
+bezüglich städtischer Räume für proaktive polizeiliche Handlungsstrategien 
+sowie für eine ungleiche Behandlung von Personengruppen und eine mög-
+liche Benachteiligung von Minderheiten hindeuten.61 Die raumbezogenen 
+Wissensbestände sind danach eng mit Ungleichheitskategorien wie Schicht 
+und ethnischer Herkunft verknüpft, und Migrant:innen(-nachkommen) leben 
+statistisch betrachtet seltener in (weniger engmaschig polizierten) „bürgerlichen“ 
+Mittelschichtsquartieren. Mit der der Polizei zunehmend explizit übertragenen 
+Aufgabe der Definition und besonderen Überwachung „gefährlicher bzw. 
+kriminalitätsbelasteter Orte“ oder mit dem Ansatz des „hot spots policing“ haben 
+sich insgesamt neue Entscheidungsspielräume ergeben, die sich in einer sich 
+selbst bestätigenden ungleichen Verdachtsschöpfung niederschlagen können.62 
+Die soziale Selektivität von Kontrollen wird indessen hinter raumbezogenen 
+Begründungen weniger sichtbar.
+
+4 F azit und Ausblick
+
+Wenn soziale Randgruppen, junge Männer aus unteren Schichten im öffentlichen 
+Raum oder Menschen aus benachteiligten Stadtvierteln (seit jeher) einer 
+besonders intensiven polizeilichen Kontrolle unterliegen, dann betrifft dies über-
+durchschnittlich häufig Migrant:innen oder deren Nachkommen. In welchem 
+Maße über einen „Schichteffekt“ hinaus eigenständige Einflüsse individueller 
+oder institutionell verankerter sowie gegebenenfalls durch gesellschaftliche Dis-
+kurse verstärkter pauschalisierender Vorstellungen einer besonderen Gefährlich-
+keit und Kriminalitätsneigung just von Menschen ausländischer Herkunft auf die 
+polizeiliche Verdachtsschöpfung und die Intensität der Strafverfolgung bestehen, 
+lässt sich auf Grundlage des derzeitigen Forschungsstandes nicht ganz eindeutig 
+bestimmen. So plausibel solche Effekte sind, so scheint die (zugeschriebene) 
+ausländische Herkunft allein genommen (jenseits durchaus vorkommender 
+
+61 Hunold (2015); Belina (2018); Dangelmaier und Brauer (2020); Hunold et al. (2021); 
+Abdul-Rahman et al. (2020), S. 36 ff; Belina in diesem Band.
+62 Belina und Wehrheim (2011); Ruch (2017); Kurlychek und Johnson (2019).
+
+
+
+Kriminell oder kriminalisiert? … 399
+
+Fälle gezielter Diskriminierungen) in der Regel nicht ohne Weiteres verdachts-
+begründend zu sein. Hinsichtlich des Ausmaßes, der Mechanismen und situativen 
+Kontexte noch weiter untersuchungsbedürftig bleibt dann aber, inwiefern sich das 
+Merkmal des „Nicht-Weißseins“ verdachtsverstärkend auswirken kann – und wie 
+hier, etwa an öffentlichen Plätzen wie Bahnhöfen, Aufgaben der Migrations- und 
+Kriminalitätskontrolle gegebenenfalls ineinandergreifen.
+
+Werden polizeiliche Entscheidungen auf individuelle Erfahrungen oder 
+kollektive Wissensbestände (zum Beispiel basierend auf Erlebnissen mit einzel-
+nen Bewohner:innen eines bestimmten Viertels oder einzelnen Angehörigen einer 
+bestimmten sozialen Gruppe) sowie auf statistische Erkenntnisse gestützt, dann 
+kann die Zuordnung zu einer bestimmten sozialen Schicht, ethnischen Gruppe oder 
+Bewohnerschaft eines bestimmten Quartiers zu einer erhöhten Wahrscheinlich-
+keit der Verdachtsschöpfung führen, und dies völlig unabhängig von individuellen 
+Delinquenzrisiken bei den betroffenen Merkmalsträger:innen. Verbreitet wird dies 
+als ein zugunsten einer effektiven Polizeiarbeit – auch rechtlich63 – hinzunehmender 
+Umstand betrachtet. Ein Abstellen auf allgemeine Erfahrungen und statistische 
+Erkenntnisse wird indes zur Begründung von Maßnahmen umso weniger aus-
+reichen, je eher es um individualbezogene Grundrechtseingriffe (und nicht etwa 
+um bloße Streifengänge) handelt.64 Und all dies ändert nichts daran, dass dies für 
+die davon Betroffenen eine Diskriminierung darstellt, die beispielsweise zu Ent-
+fremdung und einem geschwächten Vertrauen in das Gemeinwesen und konkret 
+auch in die Arbeit der Polizei führen kann65 – und dass das offiziell erfasste Bild 
+von der „Ausländer- bzw. Migrantenkriminalität“ dadurch beeinflusst wird.
+
+Umso mehr kommt es in der Praxis auf ein Bewusstsein darüber an, dass es 
+sich bei Erfahrungswissen und (Hellfeld-)Statistiken zu einem gewissen Teil 
+immer auch um das Ergebnis sich selbst reproduzierender Stereotype handelt – wer 
+primär migrantisch gelesene junge Männer kontrolliert, wird ganz überwiegend 
+migrantische junge Männer als Tatverdächtige finden. Gefordert ist überdies eine 
+kontinuierliche kritische Reflexion darüber, dass sich Verhältnisse (etwa einer 
+besonderen Kriminalitätsbelastung in einem bestimmten Viertel) und Zusammen-
+hänge schnell ändern können – und dass es, gerade auch im Sinne einer effektiven 
+
+63 So zum Teil auch in der verfassungsrechtlichen Literatur; s. explizit bspw. Kischel (2021, 
+Art. 3 Rn. 223 ff.).
+64 S. zum Ganzen Ruch in diesem Band.
+65 Engel und Swartz (2014).
+
+
+
+400 C. Walburg
+
+Polizeiarbeit66, letztlich immer auf die konkreten und individuellen Umstände 
+ankommt. Nicht zuletzt geht es aber auch um eine Sensibilisierung dafür, was es 
+für Betroffene bedeutet, (gegebenenfalls wiederholt) aufgrund nicht beeinflussbarer 
+äußerlicher Merkmale unter Verdacht zu geraten.
+
+Literatur
+
+Abdul-Rahman, L., Espin Grau, H., Klaus, L., & Singelnstein, T. (2020). Rassis-
+mus und Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. 
+Zweiter Zwischenbericht zum Forschungsprojekt „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). Bochum: Ruhr-Universität Bochum. https://kviapol.
+rub.de. Zugegriffen: 18. Juli 2022.
+
+Albrecht, H.-J. (1997). Ethnic Minorities, Crime and Criminal Justice in Germany. In M. 
+Tonry (Hrsg.), Ethnicity, Crime and Immigration (S. 31–99). Chicago: University of 
+Chicago Press.
+
+Baier, D. (2015). Migration und Kriminalität. Die Polizei, 106, S. 75.
+Behr, R. (2017). Diskriminierung durch Polizeibehörden. In A. Scherr, A. El-Mafaalani & 
+
+E. Yüksel (Hrsg.), Handbuch Diskriminierung (S. 301–319). Wiesbaden: Springer.
+Behr, R. (2018). Rassismus und Diskriminierung im Polizeidienst. Die Karriere zweier 
+
+„Reizworte“. SIAK-Journal – Zeitschrift für Polizeiwissenschaft und polizeiliche 
+Praxis, 2, S. 57.
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft (S. 17–45). 
+Wiesbaden: Springer.
+
+Belina, B. (2018). Wie Polizei Raum und Gesellschaft gestaltet. In D. Loick (Hrsg.), Kritik 
+der Polizei (S. 119–133). Frankfurt am Main: Campus.
+
+Belina, B., & Wehrheim, J. (2011). „Gefahrengebiete“ – Durch die Abstraktion vom 
+Sozialen zur Reproduktion gesellschaftlicher Strukturen. Soziale Probleme, 22, S. 207.
+
+Bielefeld, U., Kreissl, R., & Münster, T. (1982). Junge Ausländer im Konflikt. Lebens-
+situationen und Überlebensformen. München: Juventa.
+
+Blankenburg, E., & Feest, J. (1969). Selektive Strafverfolgung durch die Polizei. Krimino-
+logisches Journal, 2, S. 30.
+
+Böhm, K. M., & Werner, E. (2014). Kommentierung zu § 112 StPO. In C. Knauer, H. 
+Kudlich & H. Schneider (Hrsg.), Münchener Kommentar zur StPO. München: C.H. 
+Beck.
+
+66 Dass pauschalisierende Vorannahmen im Zusammenspiel mit der Bestätigungsneigung 
+konkrete Ermittlungsmaßnahmen in eine völlig falsche Richtung lenken können, haben 
+nicht zuletzt die Ermittlungen zur Tatserie des sogenannten NSU gezeigt; s. hierzu bspw. 
+Singelnstein (2016).
+
+
+
+Kriminell oder kriminalisiert? … 401
+
+Brauer, E., Dangelmaier, T., & Hunold, D. (2020). Die diskursive Konstruktion von 
+Clankriminalität. In H. Groß & P. Schmidt (Hrsg.), Polizei und Migration (S. 179–193). 
+Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Brusten, M. (1971). Determinanten selektiver Strafverfolgung. In J. Feest & R. Laut-
+mann (Hrsg.), Die Polizei. Soziologische Studien und Forschungsberichte (S. 31–70). 
+Opladen: Westdeutscher Verlag.
+
+Bucerius, S. M. (2014). Unwanted: Muslim Immigrants, Dignity, and Drug Dealing. New 
+York: Oxford University Press.
+
+Bundeskriminalamt (2021a). Polizeiliche Kriminalstatistik 2020, Grundtabelle 01. Wies-
+baden: Bundeskriminalamt.
+
+Bundeskriminalamt (2021b). Polizeiliche Kriminalstatistik 2020, Tatverdächtigen-Tabelle 
+29. Wiesbaden: Bundeskriminalamt.
+
+Bundeskriminalamt (2021c). Polizeiliche Kriminalstatistik 2020, Tatverdächtigen-Tabelle 
+50. Wiesbaden: Bundeskriminalamt.
+
+Dangelmaier, T., & Brauer, E. (2020). Selektive Polizeiarbeit – Raumordnung und deren 
+Einfluss auf das polizeiliche Handeln. In D. Hunold & A. Ruch (Hrsg.), Polizeiarbeit 
+zwischen Praxishandeln und Rechtsordnung (S. 213–233). Wiesbaden: Springer.
+
+De Maillard, J., Hunold, D., Roché, S., & Oberwittler, D. (2018). Different styles of 
+policing: discretionary power in street controls by the public police in France and 
+Germany. Policing and Society, 28, S. 175.
+
+Dölling, D. (1987). Polizeiliche Ermittlungstätigkeit und Legalitätsprinzip. Eine empirische 
+und juristische Analyse des Ermittlungsverfahrens unter besonderer Berücksichtigung 
+der Aufklärungs- und Verurteilungswahrscheinlichkeit. 1. Halbbd. Wiesbaden: Bundes-
+kriminalamt.
+
+Engel, R., & Swartz, K. (2014). Race, Crime, and Policing. In S. Bucerius & M. Tonry 
+(Hrsg.), The Oxford Handbook of Ethnicity, Crime, and Immigration (S. 135–165). New 
+York: Oxford University Press.
+
+European Union Agency for Fundamental Rights (FRA) (2017). Second European Union 
+Minorities and Discrimination Survey (EU-MIDIS II). Main results. Luxemburg: 
+Publications Office of the European Union.
+
+Fassin, D. (2018). Die Politik des Ermessensspielraums: Der „graue Scheck“ und der 
+Polizeistaat. In D. Loick (Hrsg.), Kritik der Polizei (S. 135–163). Frankfurt am Main: 
+Campus.
+
+Feest, J. (1971). Die Situation des Verdachts. In J. Feest & R. Lautmann (Hrsg.), Die 
+Polizei. Soziologische Studien und Forschungsberichte (S. 71–92). Opladen: West-
+deutscher Verlag.
+
+Feest, J. (2020). Definitionsmacht, Renitenz und Abolitionismus. Wiesbaden: Springer.
+Feest, J., & Blankenburg, E. (1972). Die Definitionsmacht der Polizei: Strategien der Straf-
+
+verfolgung und soziale Selektion. Düsseldorf: Bertelsmann Universitätsverlag.
+Feltes, T., Weingärtner, R., & Weigert, M. (2016). „Ausländerkriminalität“. Zeitschrift für 
+
+Ausländerrecht und Ausländerpolitik, 36, S. 157.
+Feuerhelm, W. (1988). Die fortgesetzte „Bekämpfung des Landfahrerunwesens“. Zur 
+
+Struktur polizeilichen Umgangs mit Sinti und Roma. Monatsschrift für Kriminologie 
+und Strafrechtsreform, 71, S. 299.
+
+
+
+402 C. Walburg
+
+Fischer-Lescano, A., & Horst, J. (2011). Das Pönalisierungsverbot aus Art. 31 I GFK. Zur 
+Rechtfertigung von Straftaten bei Flüchtlingseinreisen. Zeitschrift für Ausländerrecht 
+und Ausländerpolitik, 31, S. 81.
+
+Geissler-Frank, I., & Sutterer, P. (2008). Migration, Integration und Kriminalität. In DVJJ 
+e.V. (Hrsg.), Fördern – Fordern – Fallenlassen. Dokumentation de 27. Deutschen 
+Jugendgerichtstages vom 15.-18.09.2007 in Freiburg (S. 525–577). Mönchengladbach: 
+Forum Verlag.
+
+Gesemann, F. (2003). „Ist egal ob man Ausländer ist oder so – jeder Mensch braucht 
+Polizei“. Die Polizei in der Wahrnehmung junger Migranten. In A. Groenemeyer & J. 
+Mansel (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 203–228). Opladen: West-
+deutscher Verlag.
+
+Glaubitz, C., & Bliesener, T. (2018). Analyse der Entwicklung der Kriminalität von 
+Zuwanderern in Schleswig-Holstein. KFN-Forschungsbericht Nr. 137. Hannover: KFN.
+
+Gomolla, M. (2017). Direkte und indirekte, institutionelle und strukturelle Dis-
+kriminierung. In A. Scherr, A. El-Mafaalani & E. Yüksel (Hrsg.), Handbuch Dis-
+kriminierung (S. 133–155). Wiesbaden: Springer.
+
+Graebsch, C. M. (2019). Krimmigration: Die Verwobenheit strafrechtlicher mit migrations-
+rechtlicher Kontrolle unter besonderer Berücksichtigung des Pre-Crime-Rechts für 
+„Gefährder“. Kriminologie – Das Online-Journal, 1, S. 75.
+
+Haverkamp, R., & Lukas, T. (2017). Diskriminierung und Strafrecht. In A. Scherr, A. El-
+Mafaalani & E. Yüksel (Hrsg.), Handbuch Diskriminierung (S. 285–299). Wiesbaden: 
+Springer.
+
+Herrnkind, M. (2014). „Filzen Sie die üblichen Verdächtigen!“ oder: Racial Profiling in 
+Deutschland. Polizei & Wissenschaft, 15, S. 35.
+
+Hunold, D. (2015). Polizei im Revier: Polizeiliche Handlungspraktiken gegenüber Jugend-
+lichen in der multiethnischen Stadt. Berlin: Duncker & Humblot.
+
+Hunold, D., Dangelmaier, T., & Brauer, E. (2021). Soziale Ordnung und Raum – Aspekte 
+polizeilicher Raumkonstruktion. Soziale Probleme, 32, S. 19.
+
+Hüttermann, J. (2000). Polizeiliche Alltagspraxis im Spannungsfeld von Etablierten und 
+Außenseitern. In W. Heitmeyer & R. Anhut (Hrsg.), Bedrohte Stadtgesellschaft. Soziale 
+Desintegrationsprozesse und ethnisch-kulturelle Konfliktkonstellationen (S. 397–548). 
+Weinheim und München: Juventa.
+
+Jasch, M. (2019). Rechtsdurchsetzung durch die Polizei. In C. Boulanger, J. Rosenstock 
+& T. Singelnstein (Hrsg.), Interdisziplinäre Rechtsforschung (S. 227–242). Wiesbaden: 
+Springer.
+
+Kischel, U. (2021). Kommentierung zu Art. 3 GG. In V. Epping & C. Hillgruber (Hrsg.), 
+Beck’scher Online-Kommentar Grundgesetz. 46. Edition 15.05.2021. München: Beck.
+
+Kurlychek, M. C., & Johnson, B. D. (2019). Cumulative Disadvantage in the American 
+Criminal Justice System. Annual Review of Criminology, 2, S. 291.
+
+Leerkes, A., Martinez, R., & Groenevold, P. (2019). Minority Paradoxes: Ethnic 
+Differences in Self-reported Offending and Official Crime Statistics. The British 
+Journal of Criminology, 59, S. 166.
+
+Naplava, T. (2010). Jugenddelinquenz im interethnischen Vergleich. In B. Dollinger & H. 
+Schmidt-Semisch (Hrsg.), Handbuch Jugendkriminalität: Kriminologie und Sozial-
+pädagogik im Dialog (S. 293–306). Wiesbaden: VS.
+
+
+
+Kriminell oder kriminalisiert? … 403
+
+Neil, R., & Winship, C. (2019). Methodological Challenges and Opportunities in Testing 
+for Racial Discrimination in Policing. Annual Review of Criminology, 2, S. 73.
+
+Oberwittler, D., & Lukas, T. (2010). Schichtbezogene und ethnisierende Diskriminierung 
+im Prozess der strafrechtlichen Sozialkontrolle. In U. Hormel & A. Scherr (Hrsg.), Dis-
+kriminierung. Grundlagen und Forschungsergebnisse (S. 221–254). Wiesbaden: VS.
+
+Oberwittler, D., Schwarzenbach, A., & Gerstner, D. (2014). Polizei und Jugendliche in 
+multiethnischen Gesellschaften. Ergebnisse der Schulbefragung „Lebenslagen und 
+Risiken von Jugendlichen 2011“ in Köln und Mannheim. Freiburg: Max-Planck-Institut 
+für ausländisches und internationales Strafrecht.
+
+Pfeiffer, C., Baier, D., & Kliem, S. (2018). Zur Entwicklung der Gewalt in Deutschland. 
+Schwerpunkte: Jugendliche und Flüchtlinge als Täter und Opfer. Zürich: ZHAW.
+
+Reichertz, J. (1990). „Meine Schweine erkenne ich am Gang“. Zur Typisierung 
+typisierender Kriminalpolizisten. Kriminologisches Journal, 22, S. 194.
+
+Ricker, D. (2021). Anfangsverdacht und Vorurteil. Eine strafprozessrechtliche Unter-
+suchung. Berlin: Duncker & Humblot.
+
+Ruch, A. (2017). Polizeiliche Entscheidungsspielräume als Einfallstor für Diskriminierung. 
+Zum Bewertungswandel polizeilicher Definitionsmacht innerhalb der polizeiwissen-
+schaftlichen Forschung. Monatsschrift für Kriminologie und Strafrechtsreform, 100, S. 
+328.
+
+Schweer, T., & Strasser, H. (2003). „Die Polizei – dein Freund und Helfer?!“. Duisburger 
+Polizisten im Konflikt mit ethnischen Minderheiten und sozialen Randgruppen. In A. 
+Groenemeyer & J. Mansel (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 229–
+260). Wiesbaden: VS.
+
+Sellin, T. (1938). Culture Conflict and Crime. New York: Social Science Research Council.
+Singelnstein, T. (2010). Diskursives Wissen als Grammatik sozialer Kontrolle. Zur Rolle 
+
+von Diskursen bei der Konstituierung von Abweichung und Kontrolle. Krimino-
+logisches Journal, 42, S. 115.
+
+Singelnstein, T. (2016). Confirmation Bias – Die Bestätigungsneigung als kognitive Ver-
+zerrung bei polizeilichen Ermittlungen im Strafverfahren. Strafverteidiger, 36, S. 830.
+
+Singelnstein, T., & Kunz, K.-L. (2021). Kriminologie. Eine Grundlegung. 8. Aufl. Bern: 
+Haupt.
+
+Spears, R., & Tausch, N. (2014). Vorurteile und Intergruppenbeziehungen. In K. Jonas, W. 
+Stroebe & M. Hewstone (Hrsg.), Sozialpsychologie (S. 507–564). Berlin und Heidel-
+berg: Springer.
+
+Statistisches Bundesamt (2020). Fachserie 1 Reihe 2.2. Bevölkerung mit Migrationshinter-
+grund – Ergebnisse des Mikrozensus 2019. Wiesbaden: Statistisches Bundesamt.
+
+Statistisches Bundesamt (2021a). Fachserie 1 Reihe 2. Bevölkerung und Erwerbstätigkeit 
+– Ausländische Bevölkerung, Ergebnisse des Ausländerzentralregisters. Wiesbaden: 
+Statistisches Bundesamt.
+
+Statistische Bundesamt (2021b). Fachserie 10 Reihe 3. Rechtspflege – Strafverfolgung. 
+Wiesbaden: Statistisches Bundesamt.
+
+Statistische Bundesamt (2021c). Fachserie 10 Reihe 4.1. Rechtspflege – Strafvollzug. Wies-
+baden: Statistisches Bundesamt.
+
+Steffen, W. (1976). Analyse polizeilicher Ermittlungstätigkeit aus Sicht des späteren Straf-
+verfahrens. Wiesbaden: Bundeskriminalamt.
+
+
+
+404 C. Walburg
+
+Waddington, P. (1999). Police (Canteen) Sub-Culture. An Appreciation. British Journal of 
+Criminology, 39, S. 287.
+
+Walburg, C. (2014). Migration und Jugenddelinquenz. Münster: Waxmann.
+Walburg, C. (2016). „Crimmigration“: Die Ausweisung als Mittel der Migrations- und 
+
+Kriminalitätskontrolle. Neue Kriminalpolitik, 28, S. 378.
+Walburg, C. (2019). Migration und Kriminalität – Komplexe Zusammenhänge und 
+
+differenzierte Befunde. Journal für Strafrecht, 6, S. 102.
+Zdun, S. (2008). Die jungen Russlanddeutschen. In T. Schweer, H. Strasser & S. Zdun 
+
+(Hrsg.), „Das da draußen ist ein Zoo, und wir sind nur die Dompteure“. Polizisten 
+im Konflikt mit ethnischen Minderheiten und sozialen Randgruppen (S. 39–63). Wies-
+baden: Springer VS.
+
+Wolf, L. (2017). Die Fluchtprognose im Untersuchungshaftrecht. Eine empirische Unter-
+suchung der Fluchtgefahr nach § 112 Abs. 2 Nr. 2 StPO. Baden-Baden: Nomos.
+
+Dr. Christian Walburg ist derzeit als Lehrstuhlvertreter an der Ruhr-Universität Bochum 
+tätig. Zu seinen Forschungsschwerpunkten zählen Migration und Kriminalität, Jugend-
+delinquenz und Jugendstrafrecht sowie Entstehung und Kontrolle von Unternehmens-
+kriminalität.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

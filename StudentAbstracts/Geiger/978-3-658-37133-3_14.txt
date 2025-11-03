@@ -1,0 +1,1203 @@
+﻿Gefahrenabwehr und Eigensicherung
+
+Martin Herrnkind
+
+Zusammenfassung
+
+Rassistische Funktionsmuster und diskriminierende Praxen zeigen sich 
+real, sind also auch theoretisch kaum zwischen den einzelnen polizeilichen 
+Kernaufgaben Strafverfolgung und Gefahrenabwehr isolierbar. Zudem 
+erfüllt Polizeihandeln häufig doppelfunktionale Zwecke. Hinzu kommt die 
+schleichende Loslösung vom Tatverdacht (bzw. seiner Vorverlagerung) in der 
+Strafprozessordnung und von der konkreten Gefahr in den Polizeigesetzen. 
+Das Gefahrenabwehrrecht belässt der Polizei einen zunehmend breiten 
+Ermessensspielraum, der das Willkürverbot nicht selten leerlaufen lässt.
+
+Demgemäß sucht dieser Beitrag seinen Schwerpunkt in den praktischen 
+Auswirkungen polizeilicher Gefahrenabwehr, bleibt aber nicht vollständig von 
+der Strafverfolgung isolierbar.
+
+Rassistische Vorurteile lassen sich als Wahrnehmen, Fühlen und Denken 
+konzeptualisieren. Praktiken der Diskriminierung werden dahingehend dem 
+Handeln zugeordnet. Aber das greift im Kontext Polizei zu kurz. Polizei-
+rassismus materialisiert sich auch durch Unterlassen, gerade in der Gefahren-
+abwehr. In Geschichte und Gegenwart verfehlte und verfehlt die Polizei 
+mannigfaltig ihren Schutzauftrag gegenüber bedrohten Minoritäten der Gesell-
+schaft. Diese Rassismen oszillieren auf Mikro-, Meso- und Makroebenen. 
+
+M. Herrnkind (*) 
+Fachhochschule für Verwaltung und Dienstleistung,  
+Altenholz, Deutschland
+E-Mail: herrnkind@fhvd-sh.de
+
+© Der/die Autor(en) 2022 295
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_14
+
+
+
+296 M. Herrnkind
+
+Neben rassistischen Einstellungsmustern individueller Vollzugskräfte treten 
+Handlungsroutinen von Einheiten und Managemententscheidungen. Letztere 
+können häufig als institutionalisierte Diskriminierung gedeutet werden. 
+Erklären lassen sie sich aber selten ohne eine stillschweigende gesellschafts-
+politische Einbettung, mithin einen systemischen (oder strukturellen) Rassis-
+mus. Der Pogrom Rostock-Lichtenhagen zählt zu den deutlichen Beispielen. 
+Die Muster zeigen sich aber bis heute.
+
+Die Eigensicherung im Einsatzgeschehen ist – verstärkt in den ver-
+gangenen zwanzig Jahren – zu einem politischen Diskurs geronnen. „Gewalt 
+gegen Polizeibeamte“ und „Respektlosigkeit“ sind nur zwei Diskurs-
+elemente. Strafrechtsnovellen folgten, passive und aktive Bewaffnung der 
+Polizei wurden massiv angereichert. Zu einem bedeutsamen Teil des Dis-
+kurses gehören sogenannte latente oder manifeste „Konflikte der Polizei mit 
+bestimmten Migrant:innen“. Seltener wird erörtert, ob und welche Teile der 
+Verantwortung für diese Konflikte sich die Polizei selbst zuschreiben müsste, 
+welche davon bspw. durch die o. g. Polizeistrategien induziert werden. In 
+diesem Verständnis können gängige Lösungsvorschläge, wie z. B. Körper-
+kameras, kritisch diskutiert werden.
+
+Schlüsselwörter
+
+Systemischer Rassismus · Pogrom · Hasskriminalität · Schutzauftrag · 
+Polizeipolitik
+
+1  Gefahrenabwehr
+
+Anfang August 1819 begann in vielen Städten eine Welle antisemitischer 
+Pogrome: die „Hepp-Hepp-Unruhen“. Ein entfesselter Mob stürmte Wohngebiete 
+und Geschäfte jüdischer Familien mit dem Kampfruf: „Nun auf zur Rache! 
+Unser Ruf sei Hepp, Hepp, Hepp! Allen Juden Tod und Verderben, ihr müsst 
+fliehen oder sterben!“ In Heidelberg dauerte die Plünderung der jüdischen Gasse 
+stundenlang an, während die Polizei dabeistand und zuschaute1, auch anderswo 
+zeigten die Polizeidiener teils geringe Einsatzbereitschaft oder Hilflosigkeit2.
+
+1 Rohrbacher (2002), S. 24.
+2 Bergmann (2020), S. 158.
+
+
+
+Gefahrenabwehr und Eigensicherung 297
+
+Auch während der Pogrome im Gefolge der Juli Revolution 1830–1832 
+hielten sich Polizei und Bürgermiliz auffallend zurück.3 Beim Berliner Scheunen-
+viertelpogrom 1924 beteiligten sich Polizisten gar an der rassistischen Gewalt.4 
+Die faschistische Polizei 1933–1945 war zentrale Akteurin des Holocaust, sie 
+missachtete ihren Schutzauftrag ganz offen, wurde zum Handlanger des Regimes. 
+In der Geschichte gibt es viele Beispiele dafür, dass die Polizei nicht das macht, 
+was ihre Aufgabe ist: Menschen zu schützen und Rechtsverstöße zu ermitteln. 
+Warum ist das so? Hatte dieses Verhalten System? Und ist das Problem in der 
+Gegenwart behoben?
+
+Dazu sind einige theoretische Überlegungen notwendig. Der Polizei werden 
+traditionell zwei Aufgabenstränge zugewiesen: Die Verfolgung von Straftaten und 
+Ordnungswidrigkeiten sowie die Abwehr von Gefahren. Seit jeher verschmelzen 
+beide Aufgaben in der Polizeipraxis und es wird dann von Doppelfunktionalität 
+gesprochen. Trennt die Polizei bspw. Täter und Opfer nach einem Gewaltdelikt 
+und stellt die Personalien fest, so tut sie das zum Zwecke des Strafermittlungsver-
+fahrens ebenso, wie eine spätere Schadensersatzforderung des Opfers zu ermög-
+lichen.
+
+Mit den Novellen der Polizeigesetze in den Neunzigerjahren hielten Befugnis-
+normen Einzug, die rechtshistorisch gewachsene Abgrenzungen zwischen Straf-
+verfolgung und Gefahrenabwehr in der Polizeipraxis weiter verwässerten.5 Nicht 
+umsonst wird in der polizeilichen Lehre mittlerweile überwiegend von „Ein-
+griffsrecht“ gesprochen, wenn polizeiliche Grundrechtseingriffe sowohl aus der 
+Perspektive der Strafprozessordnung als auch aus der des Polizeirechts betrachtet 
+werden.
+
+So spielt es zwar bspw. für Betroffene von Racial Profiling psychisch eine 
+untergeordnete Rolle, über welches Rechtsgebiet die Polizei ihre Personen-
+kontrolle als legal zu konstruieren sucht; die möglichen Rechtsmittel gegen 
+Polizeimaßnahmen unterscheiden sich indes erheblich.
+
+Phänomenologisch, also in der polizeilichen Aktion, lässt sich Gefahren-
+abwehr nur noch schwer von der Strafverfolgung trennen.
+
+3 Bergmann (2020), S. 189 f., 199.
+4 Walter (1999), S. 152 ff.
+5 Vgl. Roggan (2003), S. 19–25, 285 f.
+
+
+
+298 M. Herrnkind
+
+1.1  Kontrollgesellschaft, Risikobalancierung und 
+Gefahrenabwehr
+
+Eine sozialwissenschaftliche Perspektive löst sich auch deshalb von dieser 
+juristischen Zweiteilung. Darüber hinaus können hier zwei Makro-Theorien als 
+Patinnen stehen. Zum einen wirke die Entwicklung von der Disziplinargesell-
+schaft hin zur Kontrollgesellschaft6 tief in das polizeiliche Selbstverständnis 
+hinein. Die Polizei sei „in die postbürokratische Organisationsphase eingetreten“ 
+und entwickele „flexible Beziehungen zu anderen Partnern“, denn sie sei bestrebt, 
+„strategische Bündnisse zu schließen, statt auf ihrem Monopol zu beharren“.7 Im 
+Effekt vergrößere und verfeinere sich das Netz sozialer Kontrolle. Die Kriminal-
+politik entferne sich sukzessive von Vergeltung, Abschreckung und Besserung 
+und strebe „hin zur Beschäftigung mit Prävention, Schadensbegrenzung und 
+Risikomanagement“8. Insbesondere im Jugendstrafrecht beobachten wir eine 
+Zivilisierung auf der Mikro-Ebene, der aber ein Net-Widening auf der Makro-
+Ebene gegenübersteht.
+
+Zum zweiten fügen sich hier nahtlos die Anpassungen der Polizei an die 
+Risikogesellschaft ein.9 Neben die klassische Gefahrenabwehr tritt das Aus-
+balancieren von Risiken.10 Während erstere sich in der Tendenz auf (juristisch 
+nachprüfbare) taktische Maßnahmen bezieht, beschreibt letztere abstrakte 
+und nicht selten politisch aufgeladene Strategien. Die Ziele solcher Strategien 
+lassen sich mit dem umschreiben, was Mathiesen als „lautlose Disziplinierung“ 
+bezeichnete11; das elektronische Halsband12 gilt als Sinnbild für eine vermeintlich 
+freiwillige (internalisierte) Konformität des Individuums in der Kontrollgesell-
+schaft.
+
+6 Deleuze (1992).
+7 Garland (2008), S. 304.
+8 Garland (2008), S. 307.
+9 Vgl. Ericson und Haggerty (1997).
+10 Den sprachlich allgemein üblichen Begriff des Risikomanagements lehne ich ab, da 
+er empiriewidrig polizeiliche Potenz suggeriert. Risiken lassen sich nicht „managen“. 
+Herrnkind (2004), S. 327.
+11 Mathiesen (1985).
+12 Deleuze (1992), S. 185.
+
+
+
+Gefahrenabwehr und Eigensicherung 299
+
+Das Ausbalancieren von Risiken baut auf fünf idealtypische Prinzipien:
+
+„1. Antizipieren von Risiken mit proaktiven Mitteln;
+2.  Taxieren der Eigenschaften eines bekannten Risikos in Verbindung mit einer 
+
+Wahrscheinlichkeitsberechnung über seine Realisierung, des Schadenseintritts 
+also;
+
+3.  Kalkulieren der aus einem Risiko erwachsenen antizipierten Verluste oder 
+Pathologien;
+
+4.  Ausbalancieren der Wahrscheinlichkeit eines jeden in Erscheinung tretenden 
+Risikos und seiner antizipierten Verluste und Pathologien;
+
+5.  Kontrolle des Risikos durch direkte Intervention oder seiner räumlichen Ver-
+legung.“13
+
+Kurz umschrieben versteht sich das Ausbalancieren von Risiken als „ver-
+sicherungsmathematisch, proaktiv und antizipatorisch; es erfordert das Sammeln 
+und Analysieren von Informationen über und die systematische Überwachung 
+derjenigen, die Risiken ausgesetzt sind, und derjenigen, die Risiken ver-
+ursachen“14.
+
+Dabei erweisen sich die polizeilichen Konstruktionen des potenziellen Ver-
+ursachens von Risiken als historisch erstaunlich stabil. Dienten „gefährliche 
+Klassen“ im 19. Jahrhundert als Folie polizeilicher Aufmerksamkeit15, so sind 
+es im 20. und 21. Jahrhundert Eingewanderte, Arbeitslose, Obdachlose usw. 
+Wurden im 19. Jahrhundert noch biologistische Raster offen zur Identifikation 
+der „Störenfriede“ herangezogen, geben die Institutionen heute vor, sich allein 
+auf die Akkumulation aggregierter Daten über das wahrscheinliche Auftreten 
+spezifischer Risiken zu stützen. Darin stecke nach Johnston zwar nichts inhärent 
+Ungerechtes; im Effekt richteten sich die Strategien jedoch nach wie vor gegen 
+marginalisierte Gruppen.16 Moderne Strategien des Risikobalancierens sowie mit 
+ihm häufig korrespondierende Taktiken der Gefahrenabwehr führen fast zwingend 
+zu institutioneller Diskriminierung.17
+
+13 Johnston (1997), S. 192.
+14 Johnston (1997), S. 192; vgl. Ericson und Haggerty (1997), S. 49 ff.
+15 Bowling et al. (2019), S. 130 f; Ericson und Haggerty (1997), S. 282 f.
+16 Johnston (1997), S. 202.
+17 Bowling et al. (2019), S. 133, 136 f; Ericson und Haggerty (1997), S. 291, 444; vgl. auch 
+Schöne in diesem Band.
+
+
+
+300 M. Herrnkind
+
+1.2  Polizeihandeln – Polizeiverhalten – Polizeiliches 
+Unterlassen
+
+Diskriminierende Polizeipraktiken werden alltagspsychologisch zumeist als 
+ein „Handeln“ assoziiert. Dieses Verständnis greift für die Gefahrenabwehr 
+deutlich zu kurz. Historisch nachweisbar diskriminiert die Polizei auch durch 
+Nichthandeln, bzw. Unterlassen.
+
+Bereits Max Weber deutete „Handeln als ein menschliches Verhalten (einer-
+lei ob äußeres oder inneres Tun, Unterlassen oder Dulden), wenn und insofern 
+als der oder die Handelnden mit ihm einen subjektiven Sinn verbinden“. Weiter 
+verstand er soziales Handeln, „wenn seinem von dem oder den Handelnden 
+gemeinten Sinn nach auf das Verhalten anderer bezogen wird und daran in seinem 
+Ablauf orientiert ist“.18 An Gefahren abwehrende Polizeiarbeit werden vom 
+Publikum regelmäßig Verhaltenserwartungen gerichtet, denn die Ordnungsmacht 
+ist an Recht und Gesetz gebunden. Ihr unzweifelhaft soziales Handeln unterliegt 
+indes einem subjektiven Sinn mit überaus kräftiger Definitionsmacht19: „Macht in 
+der Gesellschaft schließt die Macht ein, über Sozialisationsprozesse zu verfügen, 
+und damit die Macht Wirklichkeit zu setzen.“20 Auch die juristische Bindung an 
+Recht und Gesetz im polizeilichen Praxishandeln wird dabei mit der gesellschaft-
+lichen Majorität ausgehandelt; die symbolische Sinnwelt verweist dagegen 
+die gesellschaftliche Minorität auf wenig einflussreiche Ränge21. Die soziale 
+Konstruktion polizeilichen Handelns und Nichthandelns steht also in Abhängig-
+keit von gesellschaftspolitischen Machtkonstellationen.
+
+Webers Verständnis vom sozialen Handeln lässt sich mit zwei Begriffen aus 
+der Kommunikationswissenschaft, der Interaktion und des Verhaltens, weiter 
+veranschaulichen. Danach hat Verhalten kein Gegenteil. In Anlehnung eines 
+pragmatischen Axioms der Kommunikationspsychologie, können wir feststellen: 
+Die Polizei kann nicht nicht kommunizieren.22 Deshalb kann die Polizei sich 
+rassistisch verhalten, wenn sie entgegen ihren Pflichten nicht handelt. Und sie 
+interagiert dabei auch denen gegenüber, für deren Interessen sie zum Handeln 
+verpflichtet (gewesen) wäre. Ihnen verweigert sie den Schutz des staatlichen 
+
+18 Weber (1922), S. 503 (Hervorhebung im Original).
+19 Berger und Luckmann (1972), S. 128.
+20 Berger und Luckmann (1972), S. 128; vgl. Bühl (2016).
+21 Vgl. Berger und Luckmann (1972), S. 110.
+22 Watzlawick et al. (1985), S. 53.
+
+
+
+Gefahrenabwehr und Eigensicherung 301
+
+Gewaltmonopols. Ebenso wie Symbole des Handelns setzen auch Symbole des 
+Nichthandeln Akzente in der Gesamtgesellschaft. Sie wirken in der Symbolwelt 
+Betroffener ebenso wie gegenüber nichtbetroffenen Gesellschaftsmitgliedern, 
+gegenüber letzteren eher schleichend.
+
+1.3  Verfehlte Gefahrenabwehr in der deutschen 
+Polizeigeschichte und Gegenwart
+
+Für verfehlte Gefahrenabwehr existieren eine Reihe von Beispielen, von denen 
+einige bereits in der Einführung genannt wurden. In der deutschen Geschichte hat 
+die Polizei mehrfach antisemitische Pogrome geschehen lassen, obwohl sie zum 
+Gefahren abwehrenden Handeln rechtlich verpflichtet gewesen wäre.
+
+In der jüngeren Geschichte, den politischen Diskursen der Bundesrepublik 
+Deutschland, kommt Polizeirassismus bis Ende der Achtzigerjahre fast nicht 
+vor. Nur vereinzelt deuten Studien23, journalistische Beiträge24 oder die Klagen 
+von Minderheitengruppen wie die Sinti:zze und Rom:nja25 auf die Existenz 
+rassistischer Praktiken. Doch mit Beginn der Neunzigerjahre häufen sich die Vor-
+würfe.26
+
+In der Nacht zum 25. November 1990 wird in Eberswalde der Angolaner 
+Amadeu Antonio Kiowa von einer Gruppe Rassisten zu Tode getreten. Drei 
+bewaffnete Zivilstreifenbeamte verfolgen das Geschehen und greifen nicht ein. 
+Weitere 20 Schutzpolizisten befinden sich abrufbereit in der Nähe. Das Land-
+gericht Frankfurt/Oder lässt später eine Anklage wegen Körperverletzung mit 
+Todesfolge durch Unterlassen nicht zu.27
+
+Am 17. September 1991 beginnt in Hoyerswerda ein vier Tage anhaltender 
+pogromartiger Tumult eines rassistischen Mobs, mit Unterstützung von Teilen der 
+Wohnbevölkerung. Als migrantisch markierte Passant:innen werden gewaltsam 
+angegriffen, ebenso wie zwei Wohngebäude, in denen die Angreifer Migrant:innen 
+vermuten. Die Tätergruppe übt Gewalt mittels Knüppeln, Steinwürfen, Molotow-
+Cocktails und Stahlkugelschleudern aus. Die Polizei scheint überrascht und setzt 
+
+23 Vgl. die Nachweise in Herrnkind (2014), S. 44–50.
+24 Gössner und Herzog (1982), S. 150 ff.
+25 Rose (1987).
+26 Bürgerrechte & Polizei/CILIP und Diederichs (1995).
+27 Drescher (2014), S. 171 f.
+
+
+
+302 M. Herrnkind
+
+zunächst zu wenig Kräfte ein. Sie lässt so die Konfrontationsgewalt zwischen 
+Angreifern und den Angegriffenen geschehen, die sich gegen die Attacken zur 
+Wehr setzen. In ihren Berichten beschreibt die Polizei später „das Auftreten der 
+Afrikaner“ als Provokation. Das örtlich zuständige Polizeimanagement versetzt 
+sich nicht in den Dienst, bzw. übernimmt nicht die Einsatzleitung vor Ort. Die 
+Justiz setzt keinen Dienst vor Ort ein, sodass militante Straftäter wieder entlassen 
+werden müssen.28
+
+Nach drei Tagen Dauerbelagerung, am 20. September, äußert sich der 
+sächsische Innenminister, Rudolf Krause (CDU): „Also im Grunde ist diese 
+Sache sicherlich nicht durch eine Polizeiaktion, wie sie der eine oder andere von 
+mir gefordert hat, zu lösen, sondern erst einmal durch ein Gespräch zwischen den 
+Betroffenen und ich denke, das ist auf einen guten Weg gebracht.“29
+
+Einen Tag nach diesem Statement werden 60 Migrant:innen aus dem Wohn-
+heim evakuiert.
+
+Am 22. August 1992 beginnt im Rostocker Stadtteil Lichtenhagen ein vier 
+Nächte währender Pogrom in Anwesenheit einer (scheinbar) vollkommen über-
+forderten Polizei. Die Ausschreitungen richten sich gegen Bewohner:innen des 
+sogenannten „Sonnenblumenhauses“. In einem Gebäudeteil ist dort die „Zentrale 
+Aufnahmestelle für Asylbewerber“ (ZAst) untergebracht, im angrenzenden Teil 
+unter anderem ein Wohnheim für ehemalige vietnamesische Vertragsarbeiter:innen. 
+Am frühen Abend versammelten sich etwa 2000 Protestierende vor der ZAst, 
+wovon etwa 200 Personen Wurfgeschosse und Molotow-Cocktails auf das Gebäude 
+warfen. Dabei skandierten diverse Personen Parolen wie „Deutschland den 
+Deutschen, Ausländer raus!“ und „Sieg Heil!“. Zwei Einsatzfahrzeuge der Polizei 
+gingen in Flammen auf.30
+
+Am Folgetag wächst die Zahl der Militant:innen auf 800 an, die nun zusätzlich 
+Signalraketen und Feuerwerkskörper einsetzen. Der Polizei gelingt es zwar, eine 
+sich aus 200 Teilnehmenden formierende Gegendemonstration aufzulösen und 
+davon 60 Teilnehmende in Gewahrsam zu nehmen. Nicht gelingt ihr, die Angriffe 
+auf die ZAst zu unterbinden. Erst nach Heranführung von Verstärkungskräften 
+
+28 Pollack (2005), S. 23 ff.
+29 Werner und Schulz (2021), Minute 26:25.
+30 Schmidt (2002), S. 28; die Polizei schätzte 300 bis 400 „Störer“ sowie 1000 Schau-
+lustige. Landtag MV (1993), S. 36.
+
+
+
+Gefahrenabwehr und Eigensicherung 303
+
+der Landespolizeien Schleswig-Holstein und Hamburg sowie des Bundesgrenz-
+schutzes beruhigt sich die Lage in den Morgenstunden um vier Uhr.
+
+Im Laufe des dritten Tages werden die Asylbewerber:innen aus der ZAst 
+evakuiert. Dennoch finden sich in den Abendstunden 3000 Schaulustige und 
+etwa 1000 rassistisch disponierte Militant:innen ein. Im zweiten Gebäude-
+teil halten sich zu diesem Zeitpunkt u. a. über 100 ehemalige vietnamesische 
+Vertragsarbeiter:innen der DDR auf. Der Einsatzleiter vor Ort, Jürgen Deckert, 
+fordert dringend zusätzliche Polizeikräfte, darunter eine SEK-Einheit, 
+Beweissicherungs- und Dokumentationstrupps und Wasserwerfer an. Er erhält 
+diese Unterstützung entweder gar nicht oder zu spät.31
+
+Um 21:38 Uhr werden auf zwei Etagen des Sonnenblumenhauses mehrere 
+Molotow-Cocktails durch die Fensterscheiben mehrerer Räume geworfen und 
+zünden dort. Da die Polizei zu diesem Zeitpunkt die Kontrolle verloren und 
+sich zurückgezogen hatte, war es der Feuerwehr unmöglich, zum Einsatzort zu 
+gelangen.32 Nach erst zwei weiteren Stunden gelingt es, die Brände der ersten 
+drei Etagen zu löschen. Mittlerweile hatte sich ein Teil der Bewohner:innen 
+auf das Dach des Hochhauses verflüchtigt. Kurz vor null Uhr werden die 
+vietnamesischen Bewohner:innen mit Bussen der Rostocker Verkehrsbetriebe 
+evakuiert und schließlich drei Tage in einer Turnhalle untergebracht.
+
+Auch in der vierten Nacht folgten Ausschreitungen von etwa 1000 bis 1200 
+Militant:innen, die sich nun aber primär gegen die Polizei richteten. Diesmal 
+konnten mit Einsatz von sieben Wasserwerfern die Räumungen bis etwa drei Uhr 
+nachts beendet werden.33
+
+Am 12. Mai 1994, dem sogenannten Herrentag, ereigneten sich in Magdeburg, 
+pogromartige Tumulte, die die seinerzeit sogenannte Ausländerbeauftragte der 
+Bundesregierung, Cornelia Schmalz-Jacobsen (FDP), an „schlimmste SA-Zeiten“ 
+erinnerten. Auch in Magdeburg gelang der Polizei über sechs Stunden nicht, 
+die Kontrolle über die Gruppen rassistischer Gewalttäter zu erlangen. Auch hier 
+kam es zur Konfrontationsgewalt, als sich Gruppen von Asylbewerber:innen 
+solidarisierten und sich gegen die rassistische Gewalt zur Wehr setzten. Und 
+schließlich schritt die Polizei gar gegen diejenigen ein, die sich wehrten.34
+
+31 Schäfer (2001/2002), Nr. 309–10, S. 35.
+32 Schmidt (2002), S. 86 ff.
+33 MV LT-Drs. 1/3277, S. 37.
+34 Gottschlich (1995).
+
+
+
+304 M. Herrnkind
+
+1.4  Polizeiliche Lagebeurteilung – Polizeiliche 
+Lagebewältigung
+
+Es wurden zu diesen Polizeieinsätzen eine Reihe von Analysen vorgelegt.35 Dabei 
+sind für die ostdeutschen Länder Phasen der Verunsicherung im Transformations-
+prozess von der (DDR-)Volkspolizei in die Polizei der Bundesrepublik angeführt 
+worden. Diese Verunsicherungen im Polizeiverhalten mögen für wenige Einsatz-
+sequenzen überzeugen, kaum jedoch für juristisch eindeutige Situationen oder 
+polizeiliche Großlagen. In juristisch eindeutigen Situationen, z. B. bei der akuten 
+gegenwärtigen Lebensgefahr des Amadeu Antonio Kiowa, verfügt die Polizei über 
+kein Ermessen, einzuschreiten oder nicht einzuschreiten. Über diese Ermessens-
+reduktion auf Null herrscht in der Lehre des Polizeirechts seit über hundert Jahren 
+Einigkeit, ob im progressiven oder im konservativen Lager.36 Bei polizeilichen 
+Großlagen beteiligen sich juristische Fachleute an der Beratung der Einsatzleitung.
+
+Weiter ist zu berücksichtigen, dass ein Unterlassen von Gefahrenabwehr über-
+wiegend auf Entscheidungen der Managementebene und weniger der operativen 
+Ebene zurückgeht. In Rostock-Lichtenhagen bestand annähernd die gesamte 
+obere Führung aus „West-Beamten“. Unterhalb der Führungsebenen wurde „Ost-
+Beamten“ gar eine überaus hohe Einsatzmotivation nachgesagt.
+
+Es wurde ins Feld geführt, die Polizei sei von der massiv kollektiven Gewalt 
+überrascht worden, habe sich nicht auf die Dimension der Ausschreitungen ein-
+stellen können. Allen hier beispielhaft genannten Fällen gingen indes historisch 
+aufwachsende Gewaltexzesse voraus. So hatten sich in Mecklenburg-Vor-
+pommern vor dem Rostocker Pogrom seit der Wende, insbesondere aber seit 
+Sommer 1991 eine ganze Reihe kollektiv verübter rassistischer Gewaltdelikte 
+ereignet, teilweise unter Beteiligung einer dreistelligen Anzahl von Täter:innen.37 
+Zum Teil lagen detaillierte Gefahrenprognosen vor.
+
+An dieser Stelle muss mitgedacht werden, dass das Ausbalancieren von 
+Risiken in der deutschen Polizei seit den Siebzigerjahren stark professionalisiert 
+worden ist. Alle Prozesse rund um die Einsatzplanung des Managements sind in 
+verbindlichen Polizeidienstvorschriften (PDV) geregelt. „Führung und Einsatz“ 
+werden im Hauptwerk, der PDV 100 umfangreich normiert. Nicht zuletzt soll im 
+föderativen Staat Einheitlichkeit der Bundes- und Landespolizeien hergestellt, 
+
+35 Vgl. Buchsteiner (1994); Eckert und Willems (2004); Gössner (1996), S. 118 ff; Kühnl 
+(2002).
+36 Z.B. Drews et al. (1986), S. 397 f.
+37 Langer (1993), S. 59–74; Prenzel (2012), S. 14 f; vgl. Billstein (2020).
+
+
+
+Gefahrenabwehr und Eigensicherung 305
+
+soll eine einheitliche Sprache gesprochen werden. Der Kommentar zur PDV 
+100 füllt mittlerweile etwa 3500 Seiten und wird als Verschlusssache geführt. 
+Die PDV 100 geht auf militärische Führungsgrundsätze zurück und damit auf 
+den Dreiklang: Lagebeurteilung, Entschluss (der Führungsperson), Befehl. Zur 
+Beurteilung einer Lage müssen nahezu alle verfügbaren Informationsquellen 
+ausgewertet werden, die für einen Verantwortungsbereich Relevanz entfalten 
+könnten. Damit entspricht der Prozess polizeilicher Lagebeurteilung in weiten 
+Teilen den oben beschriebenen idealtypischen ersten vier Stufen des Aus-
+balancierens von Risiken.
+
+Der Gesamteinsatzleiter in Rostock-Lichtenhagen, Siegfried Kordus, hatte diese 
+seine Hausaufgaben lehrbuchartig ausgeführt. Ein halbes Jahr vor dem Pogrom 
+gegen die vietnamesischen Bewohner:innen des angegriffenen Hochhauses schrieb 
+er in einem Aufsatz für eine Broschüre des Bundesinnenministeriums:
+
+„Eine zunehmende Ausländerfeindlichkeit macht sich seit der Wende in Rostock 
+bemerkbar. Ab August 1990 kam es wiederholt zu tätlichen Auseinandersetzungen 
+zwischen Gruppierungen Jugendlicher und Heranwachsender mit Ausländern […]. 
+Die zunehmende Ausländerfeindlichkeit richtete sich ebenfalls gegen die noch in 
+Rostock lebenden vietnamesischen Bürger. Im Stadtgebiet wurden Karten auf-
+gefunden, die zur ‚Ausländervernichtung‘ aufriefen. Die Karten waren unterzeichnet 
+mit ‚Ausländervernichtung – Kommando Wolf‘ und enthielten Parolen wie ‚Wir 
+kriegen Euch alle, Deutschland bleibt Deutsch – Sieg Heil!‘ oder ‚Vitschis werden 
+erdrosselt‘.“38
+
+Daneben war der Polizei die hohe Frequenz von Anschlägen über regionale oder 
+lokale Lageberichte sowie den Verfassungsschutzberichten bestens bekannt, 
+damit einhergehend natürlich auch die Mobilisierungspotenz der rechts-
+extremistischen Szene.
+
+Die akute Gefahr, zum Teil Lebensgefahr, für als Migrant:innen markierte 
+Einwohner:innen war also Bestandteil des polizeilichen Lagebildes oder hätte 
+es jedenfalls sein müssen, übrigens in allen hier beispielhaft angeführten Fällen 
+aus Eberswalde, Rostock, Hoyerswerda, Magdeburg. Die Reihe der polizeilichen 
+Einsatzsituationen ließe sich fortsetzen, selbstverständlich auch mit Fällen aus 
+den westdeutschen Ländern. Damit steht infrage, warum nach den ersten, auch 
+im Verständnis der PDV‘en erfolgreich durchgeführten vier Schritten des ideal-
+typischen Balancierens von Risiken der fünfte ausbleibt: Die Kontrolle des 
+Risikos durch direkte Intervention (oder seiner räumlichen Verlegung).
+
+38 Kordus (1992), S. 88; vgl. Schmidt (2002), S. 36.
+
+
+
+306 M. Herrnkind
+
+1.5  Polizeihandeln und Nichthandeln zwischen 
+institutionellem und systemischem Rassismus
+
+Jenseits (scheinbar) funktionierender Rechtsstaaten mögen an Pogromen nur zwei 
+Parteien beteiligt sein. Innerhalb von Staatssystemen mit Gewaltmonopol sind 
+Pogrome „durch eine dreistellige Beziehungsrelation gekennzeichnet: Angriffs-
+ziel“ (der einen Gruppe) „ist eine andere ethnische Gruppe, wobei die Rolle des 
+Staates als dritte Partei ambivalent wahrgenommen wird, denn einerseits sehen 
+die Akteure ihre Selbsthilfe als legitim an, andererseits ‚wissen‘ sie aber, dass sie 
+das Gewaltmonopol des Staates durchbrechen und ihre Aktionen strafbar sind“.39 
+Ein mehrtägiger Pogrom in einem Staat mit funktionierendem Gewaltmonopol 
+bleibt schlechterdings nur unter folgender Bedingung denkbar: Die Partei der 
+Aggression Ausübenden ist sich der Untätigkeit oder Unterlegenheit der das 
+Gewaltmonopol innehabenden Partei gewahr.
+
+Für die Situation in Deutschland postulierten Eckert und Willems zusätzlich 
+ein „gesellschaftliches Beziehungsgeflecht, in dem dann auch andere Akteure und 
+Institutionen und ihre Handlungen und Nicht-Handlungen eine wichtige Rolle“ 
+spielten.40
+
+Pogrome können einmal „Protestpogrome“ sein, in denen sich Angriffe auch 
+auf staatliche Autoritäten richten, wenn diese die attackierte Minderheit schützen; 
+sie können zum anderen „loyalistisch“ sein und den vermeintlichen Interessen des 
+Staates zur Durchsetzung verhelfen wollen.41 Das gilt umso mehr, falls der Staat 
+durch wenig robuste Reaktion bei den Militant:innen ein „Gefühl der staatlichen 
+‚Autorisierung‘“ vermittelt, was „zur Aufhebung von inhibierenden moralischen 
+Handlungsstandards“ beiträgt.42 Der Staat trägt dann mittelbar zur Eskalation bei.
+
+Gewalteskalationen können in der politischen Debatte förderlich sein und 
+damit im Sinne politischer Interessen. In den genannten Beispielfällen lassen 
+sich sehr klar politische Entscheidungen auf kommunaler Ebene, auf regionaler 
+Ebene (Landespolitik) und nicht zuletzt auf Bundesebene identifizieren. In der 
+Bundespolitik verfolgten die Regierungsparteien das Ziel der Änderung des 
+Art. 16 GG zum politischen Asyl.43 Rassistische Gewalteskalationen wurden 
+
+39 Bergmann (2002), S. 450.
+40 Eckert und Willems (2004), S. 187.
+41 Bergmann (2002), S. 450 f.
+42 Bergmann (2002), S. 456.
+43 Prenzel (2012), S. 12 ff; Schmidt (2002), S. 182 ff.
+
+
+
+Gefahrenabwehr und Eigensicherung 307
+
+von Regierungsvertretern als Argument für dieses Ziel herangezogen. Dieses 
+Ziel stand gleichermaßen im Interesse der CDU-geführten Landesregierungen 
+und prägte ihre Einflussnahmen auf die Kommunen.44 Auf kommunaler Ebene 
+wurden bspw. die u. a. von einem Vertreter der Hohen Flüchtlingskommission der 
+Vereinten Nationen bemängelten hochproblematischen Zustände um die ZASt 
+Rostock bewusst nicht entschärft.45
+
+Für Rostock-Lichtenhagen sprach Schmidt in diesem Verständnis überzeugend 
+von „politischer Brandstiftung“; im Nachwort seiner Monografie verweist Kühnl 
+auf „strukturelle Zusammenhänge zwischen Staat und Recht, Regierung und 
+Volk“ und damit auf „strukturelle Probleme und Gefährdungen von Demokratie.46
+
+Im Verständnis der Sozialtheorie Bourdieus wäre die Polizei ein soziales Feld, 
+das mit einer ganzen Reihe weiterer sozialer Felder eng verwoben ist, worauf 
+Schöne überzeugend hingewiesen hat47. Die Polizei stehe in relativer Autonomie 
+zu den Feldern: Normsetzung, Politik, Innenministerium, Parlament, Staats-
+anwaltschaft, Medien, Bürger:innenschaft.
+
+Das Feld Polizei bildet in diesem Beziehungsgeflecht nicht mehr als einen 
+Baustein. Weiterhin unterteilt sich das Feld Polizei in Feldfraktionen, bzw. Unter-
+felder.48 Diese Feldfraktionen verfolgen durchaus unterschiedliche Interessen 
+oder im Vokabular Bourdieus: Es zählen unterschiedliche Kapitalien.49 Nicht 
+alle in der Polizei ziehen am selben Strang. So überrascht es nicht, wenn der in 
+Hoyerswerda vor Ort eingesetzte Leiter, Rainer Schölzl, ein junger Hundert-
+schaftsführer der Bereitschaftspolizei, sich vom Polizeimanagement im Stich 
+gelassen fühlte.50 Der in Rostock als „Einsatzführer vor Ort“ verantwortliche 
+Jürgen Deckert fühlte sich vom Gesamteinsatzleiter, Siegfried Kordus, im Stich 
+gelassen51; Siegfried Kordus klagte seinerseits sogar, das Landespolizeiamt unter 
+Heinrich Heinsen habe den Einsatz in Lichtenhagen „aktiv behindert“52. Während 
+ein Schölzl oder ein Deckert hochdynamische praktische und lokale Probleme 
+
+44 Vgl. Schmidt (2002), S. 157.
+45 Prenzel (2012), S. 17 f; Schmidt (2002), S. 63 f.
+46 Schmidt (2002); Kühnl (2002), S. 212 f; unterstützend auch Prenzel (2012), S. 28.
+47 Schöne (2011), S. 67–87.
+48 Schöne (2011), S. 89, 127, 131 f.
+49 Schöne (2011), S. 57 ff.
+50 Werner und Schulz (2021), Minute 27:05.
+51 Schmidt (2002), S. 82, 93; vgl. MV LT-Drs. 1/3277, S. 52.
+52 Schmidt (2002), S. 127 f.
+
+
+
+308 M. Herrnkind
+
+zu lösen haben, sucht ein Heinsen stets im Interesse des Innenministeriums zu 
+agieren.
+
+Die Einsichten über relative Autonomie unterschiedlicher Felder und unter-
+schiedliche Kapitalien in Feldern und Feldfraktionen haben Auswirkungen für 
+eine Analyse des Rassismus auf der Mikro-, der Meso- und der Makro-Ebene. 
+Für verfehlte Risikobalancierung und unterlassene Gefahrenabwehr greifen 
+Erklärungsmodelle eines individuellen oder institutionalisierten Rassismus zu 
+kurz. In Rostock-Lichtenhagen, Hoyerswerda oder Magdeburg blieb die Polizei 
+eine von mehreren Akteurinnen im Geflecht von Politik und Gesellschaft. Es 
+wurde gar infrage gestellt, ob die Institution Polizei als Hauptverantwortliche für 
+die unterlassene Gefahrenabwehr betrachtet werden kann.
+
+Vielmehr muss der institutionalisierte Rassismus als Bestandteil eines 
+systemischen53 Rassismus begriffen werden. Ein Modell des systemischen 
+Rassismus hat Feagin vorgelegt, und zwar mit Bezug auf die US-amerikanische 
+Gesellschaft (Abb. 1).
+
+Nicht zuletzt aufgrund der dortigen historischen Fernwirkungen von Sklaverei 
+und Segregation bedarf es für hiesige Verständnisse einer Anpassung. Dennoch 
+sind die von ihm analysierten Dimensionen auch hierzulande empirisch nach-
+weisbar.54 Feagin betont, die verschiedenen Merkmale des systemischen Rassis-
+mus treten häufig am selben Ort und zur selben Zeit auf und sind eng miteinander 
+verbunden. Keines steht für sich allein, jedes einzelne ist nur ein Aspekt eines 
+viel größeren Ganzen. Seine Kerndimension betitelt er als „Weiße ökonomische 
+Vorherrschaft“ und zeichnet sie als einen Jahrhunderte währenden historischen 
+Prozess nach, der sich in den Familien über viele Generationen auswirkt. Dieses 
+Konzept erscheint – in Anpassung an zeitliche Dimensionen – an die Migrations-
+geschichte westdeutscher Gastarbeiter:innenfamilien ebenso anschlussfähig wie 
+an diejenige der ostdeutschen Vertragsarbeiter:innen. Beiden Aufnahmeländern, 
+BRD wie DDR, ging es primär um Arbeitskräfte auf Niedriglohnniveau. Die 
+im Modell enthaltenen weiteren Dimensionen erscheinen weitgehend selbster-
+klärend. Im unteren rechten Kasten tauchen die „verwandten Formen rassistischer 
+Dominanz“ auf. Hier handelt es sich um die in der Debatte häufiger diskutierten 
+Ausprägungen des institutionalisierten Rassismus. Dazu kann das durch die 
+
+53 Vgl. Behr in diesem Band, 2.3; im deutschsprachigen Raum findet überwiegend der 
+synonym zu verstehende Begriff „Struktureller Rassismus“ Verwendung, so auch Bühl 
+(2016), S. 213. Ich möchte hier auf den Begriff des systemischen Rassismus zurückgreifen, 
+um das Modell von Feagin (2006) einzuführen.
+54 Vgl. Bühl (2016), S. 215 ff; Weiß (2013a), S. 44 ff; Weiß (2013b), S. 583 ff.
+
+
+
+Gefahrenabwehr und Eigensicherung 309
+
+Abb. 1  Dimensionen des Systemischen Rassismus. (nach Feagin 2006), S. 17
+
+Behördenorganisationen geförderte Racial Profiling55 ebenso gezählt werden wie 
+die Behinderung unabhängiger Polizeiforschung über rassistische Phänomene56.
+
+Insbesondere auf Tätigkeitsgebieten des Balancierens von Risiken und aber 
+auch der klassischen Gefahrenabwehr bleibt die relative Autonomie des Feldes 
+Polizei sehr eingeschränkt. Polizeilich gedeutete Risiken stehen stets im Ein-
+klang mit gesellschaftspolitisch gedeuteten. So unterliegt die soziale Konstruktion 
+von Risiken in Hoyerswerda, Rostock oder Magdeburg im Verständnis Feagins 
+den Hierarchien divergenter Gruppeninteressen ebenso wie entfremdeten 
+sozialen Beziehungen und rassistischen Ideologien (in der Gesellschaft). Die 
+aufgrund des Rassismus in der Mehrheitsgesellschaft ausgelösten Risiken 
+für migrantisch markierte Menschen stellten – im Verständnis Bourdieus – 
+für die Polizei ein kaum relevantes Kapital dar. Die deutsche Polizei gehört zu 
+
+55 Vgl. Niemz und Singelnstein in diesem Band; Herrnkind (2014), S. 50 ff.
+56 Vgl. Heitmeyer in diesem Band.
+
+
+
+310 M. Herrnkind
+
+den am besten qualifizierten und ausgerüsteten. Sie hat sich historisch, auch 
+bei kollektiven Konflikten wie bspw. den Auseinandersetzungen um die Kern-
+energie, als außerordentlich wirkungsmächtig erwiesen. Ein Versagen wie in 
+den hier beschriebenen Fällen kann deshalb nicht auf individuelles oder rein 
+institutionelles Fehlverhalten zurückgeführt werden. Der Veranschaulichung kann 
+ein kleines Gedankenexperiment dienen: Wir verlegen das Szenario in Rostock-
+Lichtenhagen an einen anderen Einsatzort, bspw. den Reichstag in Berlin. 1000 
+Militant:innen greifen Gebäude und anwesende Menschen mit Präzisions-Stahl-
+schleudern, Molotowcocktails und Steinwürfen an. Würde die deutsche Polizei 
+auch dort vier Tage benötigen, um die Lage in den Griff zu bekommen? Ein 
+unvorstellbarer Gedanke. Die deutsche Polizei hat in der Vergangenheit Acker-
+flächen für geplante Bauvorhaben wirkungsvoller geschützt als die hier bei-
+spielhaft genannten Wohnheime. Ähnliches gilt für das Jahrzehnt-Versagen im 
+Ermittlungskomplex des sogenannten NSU.57 Denn bis zur Selbstenttarnung des 
+Trios wurde die Ermittlungspraxis der Polizei von der Mehrheitsgesellschaft 
+in keiner Weise kritisch beäugt. Vielmehr stimmten die Medien im Konzert der 
+„Soko Bosporus“ ein und verbreiteten ihre Theorien der „Döner-Morde“.
+
+1.6  Balancieren von Risiken der Hasskriminalität
+
+Zum Ausbalancieren von Risiken gehören auch strategische Entscheidungen, z. B. 
+das Verschieben personeller Ressourcen, das Bestellen von Materialressourcen, 
+Qualifizierungsmaßnahmen für das Personal oder die Definition mittel- oder 
+langfristiger Organisationsziele. Derlei Entscheidungen bieten Anhaltspunkte 
+für strategische Schwerpunkte, die sich eine Organisation setzt. Die polizei-
+liche Bearbeitung von Hasskriminalität stellt sich – repressiv und präventiv – als 
+komplexe Aufgabe dar. Sie erfordert ein hohes Maß an Engagement und Sensibili-
+tät.58 Zumeist wird ihr eine politische Priorität erst nach einer Reihe polizei-
+licher Fehlleistungen beigemessen. Bspw. in England begann die Polizei sich erst 
+im Nachgang des Untersuchungsberichtes über fehlgeleitete Ermittlungen zum 
+Mord an Stephen Lawrence zu professionalisieren. Einen solch tiefgreifenden 
+Prozess durchlief die deutsche Polizei nicht einmal nach Bekanntwerden der 
+
+57 Vgl. Püschel in diesem Band.
+58 Chakraborti und Garland (2009), S. 122.
+
+
+
+Gefahrenabwehr und Eigensicherung 311
+
+ haarsträubenden Ermittlungen im Ermittlungskomplex zum sogenannten NSU.59 
+Der rasante Anstieg der Hasskriminalität im Nachgang der Wende zu Beginn 
+der Neunzigerjahre schien durch die deutsche Polizei als „Business as usual“ 
+behandelt zu werden. Es sollte noch über ein Jahrzehnt dauern, bis sich die Innen-
+ministerkonferenz zu einem neuen Meldesystem für politisch motivierte Straftaten 
+(PMK) durchringen konnte. Bis heute wird berechtigte Kritik an der Erfassung 
+von Hasskriminalität erhoben.60 Die Bundesregierung anerkennt 106 rechts-
+extremistische Tötungsdelikte seit 1990; unabhängige Untersuchungen kommen 
+dagegen auf 213 Todesopfer der Hasskriminalität.61
+
+Noch 2006 kommt Hasskriminalität in den Lehrplänen und Curricula der 
+Polizei weit überwiegend nicht vor.62 Auch danach lassen sich nur in einzel-
+nen Landespolizeien Bemühungen um verbesserte Qualifizierungsprogramme 
+erkennen.63
+
+Insgesamt kann es kaum verwundern, dass sich die deutsche Polizei wegen 
+ihres Umganges mit Hasskriminalität mit heftiger Kritik konfrontiert sieht.64 
+Amnesty International erhebt den Vorwurf, Deutschland lasse die Opfer 
+rassistischer Gewalt im Stich. 2016, also fünf Jahre nach Selbstenttarnung des 
+sogenannten NSU, schlussfolgerte die Nichtregierungsorganisation, die Defizite 
+bei der Bekämpfung rassistisch motivierter Straftaten seien nicht behoben und 
+vermutete, dass „umfassendere strukturelle und einstellungsbedingte Gründe 
+für einige der Fehler“ verantwortlich seien.65 Der Mangel an Sensibilität und 
+Professionalität führe zur sekundären und strukturellen Viktimisierung der 
+Betroffenen sowie ihrer Angehörigen.66 Darüber hinaus bergen solche Defizite 
+die Gefahr, dass eine Community das Vertrauen in Staat und Polizei verliert und 
+es damit zu eingeschränkter Kooperationsbereitschaft kommt.67 Ibrahim Arslan, 
+Überlebender des rassistischen Brandanschlags in Mölln, am 23. November 1992, 
+nennt das staatliche Versagen „den zweiten Anschlag“: „Es gibt zwei Anschläge. 
+
+59 Sturm (2019).
+60 Grell et al. (2009), S. 58 ff; Kleffner (2018).
+61 Brausam (2021).
+62 Kube und Rohde (2006), S. 153 f.
+63 Vgl. Nettelnstroth und Binder in diesem Band.
+64 Vgl. Püschel in diesem Band.
+65 Amnesty International (2016), S. 10, 22.
+66 Quent et al. (2014), S. 54.
+67 Chakraborti und Garland (2009), S. 122.
+
+
+
+312 M. Herrnkind
+
+Der erste Anschlag ist der nicht vermeidbare Anschlag. Das ist der Anschlag, 
+der in dieser Nacht, an diesem Tag passiert ist, von irgendwelchen Neonazis, 
+von Faschisten, von Rassisten. Den können wir nicht vermeiden. Der ist schon 
+passiert. Und dann gibt es den zweiten Anschlag. Das ist der Anschlag der Gesell-
+schaft, der Medien, der Politiker, der Justiz. Und dieser Anschlag ist definitiv 
+bei weitem der schlimmere Anschlag. Und das beeinträchtigt unsere Psyche, das 
+beeinträchtigt unser Leben und das beeinträchtigt alles, was wir besitzen.“68
+
+2  Eigensicherung
+
+Der Eigensicherung kommt im innerpolizeilichen und polizeipolitischen Dis-
+kurs eine große Bedeutung zu. Sie hat in den vergangenen Jahrzehnten stetig an 
+Bedeutung gewonnen. Auf der kriminalpolitischen Ebene hat dies zu Strafver-
+schärfungen und neuen Straftatbeständen geführt. Auf der Organisationsebene 
+hat sich die Polizei im Einsatztraining der Aus- und Fortbildung mehr und mehr 
+professionalisiert. Das ist begrüßenswert, insoweit sie sich in ihrem Einsatz von 
+Vollzugsgewalt bemüht, ihr praktisches Handeln auf das Interventionsminimum 
+zu beschränken und damit dem juristischen Grundsatz der Verhältnismäßigkeit 
+mit Leben erfüllt. Diesen Entwicklungen gingen vermeidbare Fälle von plötz-
+lichem Erstickungstod bei Abschiebungen69 und Ingewahrsamnahmen70 voraus. 
+Insbesondere polizeiintern werden Themen rund um die Eigensicherung von 
+wahrgenommenen Unbotmäßigkeiten und Respektlosigkeiten beeinflusst. Berufs-
+verbände und Polizeigewerkschaften finden hier ein auch gesellschaftspolitisch 
+anschlussfähiges Profilierungsfeld. Nach überwältigender Resonanz auf ihren 
+Leserbrief im Gewerkschaftsorgan Deutsche Polizei schrieb die Bochumer 
+Polizeibeamtin Tania Kambouri ihr Buch „Deutschland im Blaulicht. Notruf einer 
+Polizistin“. Die Autorin klagte auch und vor allem über Respektlosigkeiten junger 
+Männer mit Migrationshintergrund und muslimischen Glaubens. Sie schrieb ihre 
+individuellen Alltagserfahrungen auf, um sie allerdings anschließend gesellschaft-
+lich zu verallgemeinern und mit politischen Forderungen zu verdichten. Das 
+bemerkenswerte an diesem Vorgang: Das Buch wurde zum Bestseller und die 
+Autorin gern gesehener Gast in diversen Talkshows.
+
+68 Reinhardt (2018), Minute 04:28.
+69 Metz (1995).
+70 Metz (1998).
+
+
+
+Gefahrenabwehr und Eigensicherung 313
+
+2.1  Gewalt gegen Vollzugskräfte
+
+Seit über zwanzig Jahren wird ein Anstieg der Gewalt gegen Vollzugskräfte 
+postuliert. Seit 2010 veröffentlicht das Bundeskriminalamt ein Bundeslagebild 
+Gewalt gegen Polizeivollzugsbeamt:innen. Auch die Lagebildzahlen weisen einen 
+Anstieg der Gewalt aus.
+
+Dagegen gelangen vergleichende Untersuchungen unterschiedlicher Berufs-
+gruppen zum Ergebnis, dass der Polizeiberuf keinesfalls besondere Risiken in 
+sich trägt.71
+
+Die sich scheinbar widersprechenden Daten bedürfen einer Klärung: Gewalt 
+zu messen, gilt als inhärent problematisch. Bei den gemessenen Kriterien handelt 
+es sich häufig um Zuschreibungen. So kann ein Anstieg der Deliktszahlen des 
+Widerstandes gegen Vollstreckungsbeamte (§ 113 StGB) in der Polizeilichen 
+Kriminalstatistik auch auf eine sensiblere Gewaltperzeption der Vollzugskräfte 
+zurückzuführen sein. Eine vergleichende Untersuchung der Polizeidienststellen 
+in Kiel, Lübeck und Mannheim belegte diesen Labeling-Effekt.72 Entsprechend 
+zurückhaltend sind Daten zu interpretieren, denen gemäß Gewalt gegen Voll-
+zugskräfte überproportional von Tätern „nichtdeutscher Herkunft“ ausgingen. In 
+der durch das Kriminologische Forschungsinstitut Niedersachsen 2010 durch-
+geführten Befragung von knapp 21.000 Beamt:innen, äußerten diese ihre Ein-
+schätzung, dass „zwei von fünf Gewalttäter[n]“ eine „nichtdeutsche Herkunft“ 
+haben. In großstädtischen Gebieten läge der Anteil bei 51,5 %.73 Die Beamt:innen 
+wurden auch um eine Einschätzung der Motive der Angriffe gebeten: „Bei 
+ausschließlich von türkischen Personen ausgeführten Taten wird mit 35,4 % 
+der Fälle eine Feindschaft“ (gegenüber der Polizei) „am häufigsten berichtet, 
+bei Übergriffen von Tätern aus anderen islamischen Ländern beträgt der Anteil 
+33,3 % (deutsche Täter: 25,6 %; Täter aus Ländern der ehemaligen Sowjetunion: 
+29,9 %)“.74 Gedeutet werden diese Ergebnisse als gesellschaftlich „zunehmende 
+Polarisierungstendenzen“, auch zwischen „Einheimische[n] und Migranten“.75 
+Ein problematisches Polizeiimage wird mit den Polizeien der Herkunftsländer 
+begründet, während die deutsche Polizei vor allem ihre Öffentlichkeitsarbeit 
+
+71 Pütter und Neubert (2010).
+72 Messer (2009).
+73 Ellrich et al. (2012), S. 191, vgl. auch 73 f.
+74 Ellrich et al. (2012), S. 192, vgl. auch 90–93.
+75 Ellrich et al. (2012), S. 206.
+
+
+
+314 M. Herrnkind
+
+optimieren solle.76 Dagegen kann eingewandt werden, dass ein negatives Image 
+der deutschen Polizei in dieser Community auch auf andere Gründe zurück-
+geführt werden könnte als auf die Polizei des Herkunftslandes. Gewalt kann 
+als Phänomen eines dynamischen Interaktionsprozesses verstanden werden, 
+bei der die Polizei als eine von (mindestens) zwei Parteien beteiligt ist. So 
+reagieren Polizist:innen in unterschiedlicher Weise auf Selbstwertbedrohungen. 
+Sie reagieren empfindlicher, wenn die Selbstwertbedrohung „von Personen 
+mit anderer ethnischer Herkunft“ ausgeht.77 Das Aufeinandertreffen von männ-
+lichen Polizisten und jungen Männergruppen in sozial benachteiligten Gebieten 
+wurde als „Wettbewerb um Dominanz im Rahmen hegemonialer Männlichkeits-
+konstruktionen“ beschrieben.78 Nicht zuletzt können sich Vorurteile79 in der 
+Kommunikationspraxis materialisieren. Im Diskurs „Gewalt gegen Vollzugs-
+kräfte“ sollte die Verantwortlichkeit der Polizei als Interaktionspartnerin eine 
+stärkere Berücksichtigung finden.
+
+2.2  Shooter Bias
+
+Vorurteile sind kulturelle Bestandteile kognitiver Schemata. Wirken sich 
+diese kognitiven Schemata in Entscheidungen aus, die in Bruchteilen von 
+Sekunden getroffen werden? Nach einer Reihe tödlicher und in der Bewertung 
+unrechtmäßiger Schusswaffeneinsätze der US-Polizei entstand die Hypothese des 
+Shooter Bias.
+
+Sie ist mittlerweile in einer Reihe psychologischer Laborexperimente getestet 
+worden. Die Tests folgen den Erkenntnissen, dass Menschen schneller zu 
+reagieren vermögen, wenn sie stereotyp-kongruente Informationen wahrnehmen; 
+sie reagieren bei stereotyp-inkongruenten Informationen langsamer. Weiterhin 
+interpretieren sie (in der US-amerikanischen Gesellschaft) mehrdeutiges Ver-
+halten als gewalttätiger, wenn sie mit Schwarzen Menschen konfrontiert sind, 
+als wenn sie Weißen gegenüberstehen.80 Die Teilnehmer:innen der Experimente 
+
+76 Ellrich et al. (2012), S. 204 f.
+77 Bosold (2006), S. 146 f.
+78 Hunold (2015), S. 215.
+79 Vgl. in diesem Band Kopke; Groß, Clasen und Zick; Bosch und Thurn sowie Gutschmidt 
+und Czudnochowski.
+80 Correll et al. (2014), S. 201 f.
+
+
+
+Gefahrenabwehr und Eigensicherung 315
+
+erhalten die Aufgabe eines Erste-Person-Schützen („First-Person-Shooter-Task“ 
+[FPST]), die die Erfahrung von Polizeibeamt:innen simulieren soll. Bei dieser 
+Aufgabe erscheint bei jedem Versuch eine männliche Zielperson (entweder 
+schwarz oder weiß) vor einem realistischen Hintergrund. Je nach Test-Variation 
+werden die Zielpersonen mit Waffen oder harmlosen Gegenständen assoziiert 
+(z. B. Waffen werden separat eingeblendet) oder die Zielpersonen tragen Waffen 
+oder Gegenstände in ihren Händen. Die Teilnehmenden müssen entscheiden, ob 
+sie schießen wollen oder nicht, indem sie entweder eine Taste mit der Aufschrift 
+„Schießen“ oder eine separate Taste mit der Aufschrift „Nicht schießen“ drücken. 
+Gemessen werden die Antwortlatenzzeiten und die Fehlerquoten.
+
+Die Teilnehmer:innen der ersten Studien zeigten Verzerrungen sowohl bei den 
+Reaktionszeiten als auch bei den Fehlerquoten. Sie schossen schneller auf eine 
+bewaffnete Zielperson, wenn diese schwarz (und nicht weiß) war, entschieden 
+sich aber schneller, eine unbewaffnete Zielperson nicht zu erschießen (und 
+drückten die Taste „nicht schießen“), wenn sie weiß und nicht schwarz war. Was 
+die Fehlerquoten betrifft, so schossen die Teilnehmer fälschlicherweise häufiger 
+auf unbewaffnete schwarze Zielpersonen als auf unbewaffnete Weiße. Umgekehrt 
+entschieden sie sich häufiger irrtümlich, auf bewaffnete weiße Ziele nicht zu 
+schießen als auf bewaffnete Schwarze.81
+
+Mittlerweile existieren Replikationsstudien in Europa und auch in Deutsch-
+land.82 Die Ergebnisse fallen weniger klar aus als in den USA; dennoch lassen 
+sich entsprechende Stereotype auch in Europa nachweisen. Eine ganze Reihe von 
+Fragen bleibt offen. Insbesondere steht aus, Laborexperimente näher an die Ein-
+satzpraxis heranzuführen. So ist bekannt, dass die für Nachtschichten typischen 
+Ermüdungserscheinungen zusätzliche Verzerrungen in der Aufgabe der Waffen-
+identifikation und in der FPST auslösen. Weiterhin ist die Situation des Schuss-
+waffeneinsatzes hochgradig angstbesetzt und geht mit hoher Aufregung einher.83 
+Auch diese Faktoren erhöhen die Wahrscheinlichkeit irrationaler Entscheidungen. 
+Angesichts der potenziell fatalen Folgen besteht hier gravierender Forschungs-
+bedarf.
+
+81 Correll et al. (2014), S. 203.
+82 Unkelbach et al. (2009); Essien et al. (2017).
+83 Correll et al. (2014), S. 209–211.
+
+
+
+316 M. Herrnkind
+
+2.3  Körperkameras
+
+Viele Polizeien statten ihre Vollzugsbeamt:innen mit „Bodycams“ aus. Vorreiter 
+war im Jahr 2005 Großbritannien, es folgten USA, Australien, Kanada. Die 
+Bundes- und Länderpolizeien in Deutschland haben Körperkameras mittlerweile 
+entweder bereits eingeführt oder Pilotprojekte initiiert. Die politischen Motive 
+zur Einführung solcher Technik variieren erheblich. In den USA sprachen sich 
+Menschenrechtsorganisationen im Einklang mit Berufsverbänden des Polizei-
+managements dafür aus, um fehlerhafte Einsatzpraktiken aufzudecken und 
+Racial Profiling zu verhindern.84 Im Gegensatz dazu überwiegt in Deutsch-
+land das Argument der Eigensicherung. Die Kameras sollen tätliche Übergriffe 
+minimieren, gegenüber respektlosem Verhalten deeskalieren und im Falle von 
+Eskalationen Beweise sicherndes Material für die polizeiliche Argumentations-
+linie liefern. Diese Zielrichtungen wirken sich mittelbar und unmittelbar auf das 
+Anforderungsprofil der verwendeten Technik aus. Wer schaltet die Kamera ein 
+(und wann wieder aus)? Werden die Daten lokal oder cloudbasiert gespeichert? 
+Wer hat Zugriff auf das Speichermedium? Werden Mitentscheidungsrechte 
+gegenüber betroffenen Bürger:innen eingeräumt? Das Bundesinnenministerium 
+geht in einer Dienstvereinbarung so weit, dass Einsatzdokumentationen nicht für 
+interne Ermittlungen verwendet werden dürfen.85
+
+Der empirische Erkenntnisstand zeigt sich widersprüchlich. Die Evaluationen 
+wurden – in Deutschland noch mehr als bspw. in den USA – in Eigenregie der 
+Polizei durchgeführt. Unabhängige Untersuchungen bleiben rar.86 Immerhin 
+zeigen sich in einigen Studien optimistisch stimmende Ergebnisse. Schwarze 
+US-Amerikaner:innen setzten – verglichen mit anderen Polizei-Reformen – die 
+größten Hoffnungen in die Bodycams.87 Aber ein Vergleich von Forschungs-
+daten auf internationaler Ebene wird aufgrund der vollkommen unterschiedlichen 
+politischen Zielsetzungen zurecht sehr skeptisch betrachtet.88 Ob also die in 
+Deutschland verwendeten Körperkameras in der Einsatzkommunikation zwischen 
+
+84 Lehmann (2020), S. 25.
+85 Lehmann (2020), S. 29.
+86 Eick (2017), S. 79 f.
+87 Graham et al. (2019), S. 291 f.
+88 Kißling (2021); Lehmann (2017), S. 179.
+
+
+
+Gefahrenabwehr und Eigensicherung 317
+
+Polizei und gesellschaftlichen Minderheiten deeskalierende Wirkung entfalten 
+können, darf bezweifelt werden.89
+
+3  Ausblick
+
+Polizeiarbeit und ihre Entscheidungsgrundlagen gelten seit den Ursprüngen 
+der Polizeiforschung als „low visible“. Die Gefahrenabwehr belässt der Polizei 
+rechtshistorisch einen besonders großen Ermessensspielraum. Die in diesem Text 
+genannten Beispiele belegen das sehr klar.
+
+Die vielen Schatten der kaum einsehbaren polizeilichen Entscheidungsmotive 
+bieten Platz für den Einfluss gesellschaftspolitischer Machtinteressen. Der Macht-
+missbrauch erscheint hier systemisch angelegt – mit anderen Worten: Der macht-
+politische Missbrauch der Polizei im Staat. Weniger machtvolle Kräfte werden 
+dabei ihrer Rechte beraubt. Die Erkenntnis über diesen Tatbestand könnte der 
+Polizei weh tun; sie könnte ihrer Weiterentwicklung aber dienlich sein.
+
+Literatur
+
+Amnesty International (2016). Leben in Unsicherheit. Wie Deutschland die Opfer 
+rassistischer Gewalt im Stich lässt. London.
+
+Berger, P. L., & Luckmann, T. (1972). Die gesellschaftliche Konstruktion der Wirklichkeit. 
+Eine Theorie der Wissenssoziologie. Frankfurt am Main: Fischer.
+
+Bergmann, W. (2002). Pogrome. In W. Heitmeyer & J. Hagan (Hrsg.), Internationales 
+Handbuch der Gewaltforschung (S. 441–460). Wiesbaden: Westdeutscher Verlag.
+
+Bergmann, W. (2020). Tumulte – Excesse – Pogrome. Kollektive Gewalt gegen Juden in 
+Europa 1789–1900. Göttingen: Wallstein.
+
+Billstein, T. (2020). Kein Vergessen. Todesopfer rechter Gewalt in Deutschland nach 1945. 
+Münster: Unrast.
+
+Bosold, C. (2006). Polizeiliche Übergriffe. Baden-Baden: Nomos.
+Bowling, B., Reiner, R., & Sheptycki, J. (2019). The Politics of the Police. Oxford: Uni-
+
+versity Press.
+Brausam, A. (2021). Todesopfer rechter Gewalt seit 1990. Amadeu Antonio Stiftung. 
+
+https://www.amadeu-antonio-stiftung.de/rassismus/todesopfer-rechter-gewalt/. 
+Zugegriffen: 18. Juli 2022.
+
+Buchsteiner, J. (1994). Stolperschritte in den Rechtsstaat. Die Zeit, 32, S. 4.
+Bühl, A. (2016). Rassismus. Anatomie eines Machtverhältnisses. Wiesbaden: marix.
+
+89 Vgl. Lehmann (2017), S. 186 f.
+
+
+
+318 M. Herrnkind
+
+Bürgerrechte & Polizei/CILIP, & Diederichs, O. (1995). Hilfe Polizei. Fremdenfeindlichkeit 
+bei Deutschlands Ordnungshütern. Berlin: Elefanten Press.
+
+Chakraborti, N., & Garland, J. (2009). Hate Crime. Impact, Causes and Responses. Los 
+Angeles et al.: SAGE.
+
+Correll, J., Hudson, S. M., Guillermo, S., & Ma, D. S. (2014). The Police Officer‘s 
+Dilemma: A Decade of Research on Racial Bias in the Decision to Shoot. Social and 
+Personality Psychology Compass, 8, S. 201.
+
+Deleuze, G. (1992). Das elektronische Halsband. Innenansichten der kontrollierten Gesell-
+schaft. Kriminologisches Journal, 24, S. 181.
+
+Drescher, F. (2014). Polizisten außer Kontrolle? Hamburg: Disserta.
+Drews, B., Wacke, G., Vogel, K., & Martens, W. (1986). Gefahrenabwehr. Allgemeines 
+
+Polizeirecht (Ordnungsrecht) des Bundes und der Länder. Köln et al.: Carl Heymanns 
+Verlag.
+
+Eckert, R., & Willems, H. (2004). Kollektive Gewalt – Allgemeine Entstehungs-
+bedingungen von Jugendbanden und die Eskalation der Gewalt im Einwanderungs-
+konflikt. In Bundeskriminalamt (Hrsg.), Aktuelle Phänomene der Gewalt. Vorträge und 
+Diskussionen der Arbeitstagung des Bundeskriminalamtes vom 23. bis 26. November 
+1993 (S. 179–206). Wiesbaden.
+
+Eick, V. (2017). BodyCams in den USA und der BRD. Bürgerrechte & Polizei/CILIP, 112, 
+S. 74.
+
+Ellrich, K., Baier, D., & Pfeiffer, C. (2012). Polizeibeamte als Opfer von Gewalt. Baden-
+Baden: Nomos.
+
+Ericson, R. V., & Haggerty, K. D. (1997). Policing the Risk Society. University of Toronto 
+Press.
+
+Feagin, J. R. (2006). Systemic Racism. A Theory of Oppression. New York: Taylor & 
+Francis.
+
+Essien, I., Stelter, M., Kalbe, F., Koehler, A., Mangels, J., & Meliß, S. (2017). The shooter 
+Bias: Replicating the classic effect and introducing a novel paradigm. Journal of 
+Experimental Social Psychology, 70, S. 41.
+
+Garland, D. (2008). Kultur der Kontrolle. Verbrechensbekämpfung und soziale Ordnung in 
+der Gegenwart. Frankfurt am Main: Campus.
+
+Gössner, R. (1996). Polizei im Zwielicht. Frankfurt und New York: Campus.
+Gössner, R., & Herzog, U. (1982). Der Apparat. Ermittlungen in Sachen Polizei. Köln: 
+
+Kiepenheuer & Witsch.
+Gottschlich, J. (1995). Herrentag in Magdeburg. Nur ein misslungener Polizeieinsatz? In 
+
+Bürgerrechte & Polizei/CILIP & O. Diederichs (Hrsg.), Hilfe, Polizei: Fremdenfeind-
+lichkeit bei Deutschlands Ordnungshütern (S. 31–40). Berlin: Elefanten Press.
+
+Graham, A., McManus, H. D., Cullen, F. T., Burton, V. S., & Jonson, C. L. (2019). Videos 
+Don‘t Lie: African Americans‘ Support for Body-Worn Cameras. Criminal Justice 
+Review, 44, S. 284.
+
+Grell, B., Köhler, T., Pankowski, R., Sineaeva, N., & Starnawski, M. (2009). Hate Crime 
+Monitoring and Victim Assistance in Poland and Germany. Berlin.
+
+Herrnkind, M. (2004). Risikogesellschaft, Polizeihandeln und der 11. September. In C. 
+Schweitzer, B. Aust & P. Schlotter (Hrsg.), Demokratien im Krieg (S. 314–336). Baden-
+Baden: Nomos.
+
+
+
+Gefahrenabwehr und Eigensicherung 319
+
+Herrnkind, M. (2014). Filzen Sie die üblichen Verdächtigen. Oder: Racial Profiling in 
+Deutschland. Polizei & Wissenschaft, 3, S. 35.
+
+Hoffmann, C., Bergmann, W., & Walser Smith, H. (Hrsg.) (2002). Exclusionary Violence. 
+Antisemitic Riots in Modern German History. Ann Arbor: University of Michigan Press.
+
+Hunold, D. (2015). Polizei im Revier. Berlin: Duncker & Humblot.
+Johnston, L. (1997). Policing Communities of Risk. In P. Francis, P. Davies & V. Jupp 
+
+(Hrsg.), Policing Futures. The Police, Law Enforcement and the Twenty-First Century 
+(S. 186–207). London: Palgrave Macmillan.
+
+Kambouri, T. (2015). Deutschland im Blaulicht. Notruf einer Polizistin. München und 
+Berlin: Piper.
+
+Kißling, K. (2021). Forschungsergebnisse zur Bodycam – Welchen Nutzen hat ein Ver-
+gleich auf internationaler Ebene? Polizei & Wissenschaft, 3, S. 2.
+
+Kleffner, H. (2018). Kein Ende der Erfassungsdefizite. Bürgerrechte & Polizei/CILIP, 117, 
+S. 80.
+
+Kordus, S. (1992). Aktuelle Fragen der Inneren Sicherheit am Beispiel der Stadt Rostock. 
+In Der Bundesminister des Innern (Hrsg.), Wehrhafte Demokratie und Rechtsextremis-
+mus (S. 86–96). Bonn.
+
+Kube, E., & Rohde, C. (2006). Aus- und Fortbildung zum Umgang der Polizei mit Opfern 
+von Hate Crime. In Bundesministerium der Justiz (Hrsg.), Hasskriminalität – Vor-
+urteilskriminalität. Bd. 1 (S. 153–154). Berlin.
+
+Kühnl, R. (2002). Nachwort. In J. Schmidt (Hrsg.), Politische Brandstiftung. Warum 1992 
+in Rostock das Ausländerwohnheim in Flammen aufging (S. 212–220) Berlin: edition 
+ost.
+
+Landtag MV [Mecklenburg-Vorpommern] (1993). Beschlussempfehlung und 
+Zwischenbericht des 2.Untersuchungsausschusses. Drucksache 1/3277. https://
+www.dokumentation.landtag-mv.de/parldok/dokument/9358/einsetzung_eines_
+parlamentarischen_untersuchungsausschusses_zur_klaerung_von_sachverhalten_im_
+zusammenhang_mit_den_rostocker_krawallen.pdf.  Zugegriffen: 18. Juli 2022.
+
+Langer, H. (1993). Flächenbrand von Rechts. Zum Rechtsextremismus im Bundesland 
+Mecklenburg-Vorpommern. Rostock: Jugend und Geschichte.
+
+Lehmann, L. (2017). Wen fokussiert das dritte Auge? In K. Liebl (Hrsg.), Empirische 
+Polizeiforschung XX: Polizei und Minderheiten (S. 175–196). Frankfurt am Main: Ver-
+lag für Polizeiwissenschaft.
+
+Lehmann, L. (2020). Bodycam – Argumentationslinien in Deutschland. In D. Hunold & 
+A. Ruch (Hrsg.), Polizeiarbeit zwischen Praxishandeln und Rechtsordnung (S. 23–37). 
+Wiesbaden: Springer.
+
+Mathiesen, T. (1985). Die lautlose Disziplinierung. Bielefeld: AJZ.
+Messer, S. (2009). Die polizeiliche Registrierung von Widerstandshandlungen. Baden-
+
+Baden: Nomos.
+Metz, C. (1995). Die Rechtfertigung finaler Knebelung. Unbequem, 24, S. 19.
+Metz, C. (1998). Spiel mir das Lied vom Tod. Die Rechtsmedizin in den Zeiten der Aus-
+
+länderflut. Unbequem, 36, S. 50.
+Pollack, D. (2005). Die ausländerfeindlichen Ausschreitungen im September 1991 in 
+
+Hoyerswerda. Berliner Debatte Initial, 16, S. 15.
+Prenzel, T. (2012). Rostock-Lichtenhagen im Kontext der Debatte um die Einschränkung 
+
+des Grundrechts auf Asyl. In ders. (Hrsg.), 20 Jahre Rostock-Lichtenhagen. Kontext, 
+
+
+
+320 M. Herrnkind
+
+Dimensionen und Folgen der rassistischen Gewalt (S. 9–29). Rostock: Universität 
+Rostock.
+
+Pütter, N., & Neubert, R. (2010). Gewalt gegen die Polizei. Bürgerrechte & Polizei/CILIP, 
+95, S. 21.
+
+Quent, M., Geschke, D., & Peinelt, E. (2014). Die haben uns nicht ernst genommen. Eine 
+Studie zu Erfahrungen von Betroffenen rechter Gewalt mit der Polizei. Leipzig.
+
+Reinhardt, M. (2018). Der zweite Anschlag. Rassistische Gewalt in Deutschland. Eine 
+Anklage der Betroffenen. Dokumentarfilm.
+
+Roggan, F. (2003). Handbuch zum Recht der Inneren Sicherheit. Bonn: Pahl-Rugenstein.
+Rohrbacher, S. (2002). The „Hep Hep Riots of 1819: Anti-Jewish Ideology, Agitation, and 
+
+Violence. In C. Hoffmann, W. Bergmann & H. Walser Smith (Hrsg.), Exclusionary 
+Violence. Antisemitic Riots in Modern German History (S. 23–42.) Ann Arbor: Uni-
+versity of Michigan Press.
+
+Rose, R. (1987). Bürgerrechte für Sinti und Roma. Das Buch zum Rassismus in Deutsch-
+land. Heidelberg: Zentralrat Deutscher Sinti und Roma.
+
+Schäfer, H. (2001/2002). Allein gelassen. Der Polizeieinsatz gegen Straßenterror in 
+Rostock-Lichtenhagen. Magazin für die Polizei; 307, S. 9 (Teil 1); 308, S. 13 (Teil 2); 
+309–310, S. 33 (Teil 3); 311, S. 25 (Teil 4); 312, S. 19 (Teil 5); 313, S. 22 (Teil 6); 314, 
+S. 19 (Teil 7); 315–316, S. 32 (Teil 8); 317, S. 14 (Teil 9).
+
+Schmidt, J. (2002). Politische Brandstiftung. Warum 1992 in Rostock das Ausländerwohn-
+heim in Flammen aufging. Berlin: edition ost.
+
+Schöne, M. (2011). Pierre Bourdieu und das Feld Polizei. Ein besonderer Fall des Mög-
+lichen. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Sturm, M. (2019). Nichts gelernt? Die Polizei und der NSU-Komplex. In T. Dürr & R. 
+Becker (Hrsg.), Leerstelle Rassismus? Analysen und Handlungsmöglichkeiten nach dem 
+NSU (S. 110–123). Frankfurt am Main: Wochenschau.
+
+Unkelbach, C., Goldenberg, L., Müller, N., Sobbe, G., & Spannaus, N. (2009). A Shooter 
+Bias in Germany against People wearing Muslims Headgear. Revue international de 
+psychologie sociale, 22, S. 181.
+
+Walter, D. (1999). Antisemitische Kriminalität und Gewalt. Judenfeindschaft in der 
+Weimarer Republik. Bonn: Dietz.
+
+Watzlawick, P., Beavin, J. H., & Jackson, D. D. (1985). Menschliche Kommunikation. Bern 
+et al.: Huber.
+
+Weber, M. (1922). Gesammelte Aufsätze zur Wissenschaftslehre. Tübingen: Mohr.
+Weiß, A. (2013a). Rassismus wider Willen. Ein anderer Blick auf die Struktur sozialer 
+
+Ungleichheit. Wiesbaden: Springer VS.
+Weiß, A. (2013b). Migranten. In S. Mau & N. M. Schöneck (Hrsg.), Handwörterbuch zu 
+
+Gesellschaft Deutschlands (S. 580–592). Wiesbaden: Springer VS.
+Werner, N., & Schulz, C. H. (2021). Hoyerswerda ’91. Eine Stadt die Gewalt und ihre Auf-
+
+arbeitung, Fernsehdokumentation. ARD, 30. August 2021, 23:50 Uhr.
+
+Martin Herrnkind ist Dozent für Kriminologie und Politikwissenschaften an der Fach-
+hochschule für Verwaltung und Dienstleistung Altenholz (Schleswig-Holstein). Nach 38 
+Jahren Polizeivollzugsdienst liegen seine Interessenschwerpunkte auf den Themen Polizei-
+rassismus, Polizeidevianz und exzessiver Vollzugsgewalt.
+
+
+
+Gefahrenabwehr und Eigensicherung 321
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

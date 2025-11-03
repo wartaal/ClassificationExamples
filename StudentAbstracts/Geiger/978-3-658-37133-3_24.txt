@@ -1,0 +1,853 @@
+﻿Folgen für die gesellschaftliche 
+Wahrnehmung von Kriminalität
+
+Daniela Klimke
+
+Zusammenfassung
+
+Die soziale Konstruktion und konkrete Zuschreibung von Kriminali-
+tät dienten Gesellschaften seit jeher auch dazu, das Andere, das Außen der 
+Gesellschaft zu markieren. Immer auch orientieren sich diese Herstellungs-
+prozesse der Nichtzugehörigkeit an generalisierenden und stereotypisierenden 
+Attribuierungen. Eine kulturalisierende Ethnisierung liegt den Konflikten 
+mit Fremden zugrunde. In gesellschaftlichen Diskursen erscheinen sie als 
+Konflikte aufgrund von Fremdheit. Die Polizei nutzt und reproduziert die 
+gesellschaftlichen Fremdheitskonstruktionen.
+
+Schlüsselwörter
+
+Crimmigration · Ausländerkriminalität · Racial profiling · Silvester · Biopolitik · 
+Othering
+
+D. Klimke (*) 
+Polizeiakademie Niedersachsen, Bgm.-Stahn-Wall, Nienburg/Weser, Deutschland
+E-Mail: klimke@uni-bremen.de
+
+© Der/die Autor(en) 2022 507
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_24
+
+
+
+508 D. Klimke
+
+1  Kriminalisierung als 
+Ausschließungsmechanismus
+
+Mit dem Begriff der crimmigration wird aktuell die Verknüpfung von Migration 
+und Kriminalisierung beschrieben.1 Migration wird hiernach in erster Linie als 
+Sicherheitsproblem gerahmt, zumindest insoweit es sich nicht um ‚nützliche‘ 
+Fremde handelt, die sich in die ökonomische Strukturlogik einfügen. Über die 
+Verhandlung eines Teils der Migration als Problem Innerer Sicherheit wird 
+Fremdheit und Nichtzugehörigkeit signalisiert. Crimmigration bezeichnet so ein 
+ethnisierendes und kriminalisierendes Verfahren zugleich, das den Fremden in 
+zweifacher Weise als Anderen exkludiert: Er gehört weder in die nationale noch 
+in die moralische Gemeinschaft. Der Krimmigrant ist in erster Linie als Eindring-
+ling charakterisiert, den es loszuwerden gilt, was seine Not und Geschichte vor 
+der Migration wie auch die Bedingungen der Migration weitgehend überlagert. 
+Erst recht gilt dies, wenn Migration mit einem Terrorrisiko und mit anderen 
+schwerwiegenden, v. a. auch sexuellen Straftaten verknüpft wird. Diese Rahmung 
+vermag Empathie und Mitverantwortung zu neutralisieren, die etwa die Bilder 
+von ertrinkenden Flüchtenden zunächst auslösten. Daher wirkt diese Risiko-
+rahmung als „Erleichterung, von der Verantwortung für das Schicksal der Not-
+leidenden und der Last einer moralischen Verpflichtung befreit zu sein“2.
+
+Die internationale Forschung zu crimmigration konzentriert sich vornehm-
+lich auf das Polizieren der Landesgrenzen, die – zunehmend entmilitarisiert – 
+mit Mitteln der Kriminalisierung geschützt werden. Die europäische Forschung 
+„zielt auf die Grenzen im Inneren, die Allgegenwart der Grenze über Polizei-
+kontrollen, der bestimmte Personengruppen beständig ausgesetzt sind, auch 
+ohne eine physische Staatsgrenze zu überschreiten“3. Einen Eindruck von dem 
+Ausmaß, dem Vorgehen und der Wirkung polizeilicher Kontrollen von Menschen 
+mit sichtbarem Migrationshintergrund vermittelt das Forschungsprojekt „Körper-
+verletzung im Amt durch Polizeibeamt*innen“. Die gehäuften Kontrollen im 
+öffentlichen Raum erzeugen bei den Betroffenen ein Schamgefühl und den Ein-
+druck, „nicht zur Gesellschaft dazuzugehören“4. Das Publikum und möglicher-
+weise auch die polizeilichen Akteure selbst mögen mit den Kontrollen in ihrer 
+
+1 Stumpf (2006, 2013); Aas und Bosworth (2013); Guia et al. (2011).
+2 Bauman (2016), S. 38.
+3 Graebsch (2019), S. 78.
+4 Abdul-Rahman et al. (2020), S. 52.
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 509
+
+Überzeugung gestärkt werden, dieser Personenkreis werde nicht ohne Grund 
+überprüft. Nicht allein die Wahrscheinlichkeit steigt mit jeder Kontrolle, den 
+Kriminalitätsverdacht irgendwann auch bestätigt zu finden. Selbst wenn dieser 
+polizeiliche Erfolg ausbliebe, bedürfte es einer grundlegenden Infragestellung 
+tiefsitzender Überzeugungen, wonach die Fremden eben auch krimineller sind, 
+die als objektiviertes „Erfahrungswissen“ eine hohe Bestandsfestigkeit auf-
+weisen.5
+
+Diese Verquickung von Migration mit Kriminalität führt zum einen zu einer 
+wolkigen Rahmung von Wanderungsbewegungen als Sicherheitsproblem.6 Zum 
+anderen ermöglicht das Migrationsrecht deutlich mehr Spielraum für Maßnahmen 
+als das Strafrecht. Käme jenes zur Anwendung, wären damit die rechtsstaat-
+lichen Garantien (Recht auf ein faires Verfahren) einzuhalten, wohingegen 
+das nationale Aufenthaltsrecht den Betroffenen deutlich weniger Schutz vor 
+Zwangsmaßnahmen (Ausweisung, Abschiebung, Versagung der Staatsangehörig-
+keit, Aberkennung oder Nichtanerkennung als Flüchtling und Festnahme) 
+gewährt. „Die strafrechtliche Kontrolle von Ausländern folgt damit einer Logik 
+des Ausschlusses, die gerade in primär auf Resozialisierung ausgerichteten 
+kriminalpolitischen Systemen scharf von dem „Normalfall“ der Behandlung von 
+straffälligen Inländern abweicht.“7 Soliman stellt fest, dass das rechtsstaatliche 
+Strafrecht für die Bürger eines Landes reserviert ist, wohingegen Migranten hier-
+von ausgeschlossen werden können. Sie erkennt hierin einen Ausdruck des Aus-
+nahmezustandes, wie ihn Agamben ausgearbeitet hat.8
+
+Hiernach beruhten die modernen Nationen auf der Macht des Souveräns, 
+über den Ausnahmezustand zu entscheiden, in welchem alle Bürger homines 
+sacri seien. „Souverän ist die Sphäre, in der man töten kann, ohne einen Mord 
+zu begehen und ohne ein Opfer zu zelebrieren, und heilig, das heißt tötbar, aber 
+nicht opferbar, ist das Leben, das in diese Sphäre eingeschlossen ist.“9 Dieses 
+„nackte Leben“ steht jenseits des natürlichen Lebens und auch jenseits des 
+politischen Lebens im Sinne eines guten Lebens. Der homo sacer gelangt über 
+den Ausnahmezustand ins Zentrum des politischen Lebens, ohne selbst als 
+
+5 Abdul-Rahman et al. (2020), S. 33–36.
+6 Aas (2014).
+7 Walburg (2016), S. 379; ausführlich hierzu v. a. Graebsch (2019).
+8 Soliman (2021), S. 229.
+9 Agamben (2002), S. 93.
+
+
+
+510 D. Klimke
+
+Subjekt Teil hiervon zu sein.10 Er steht im Bann der souveränen Macht, die ihn 
+nicht einfach sich selbst überlässt, sondern ihn über den Bann an sich bindet.11 
+Eingeschlossen wird das „nackte Leben“ im Lager. Das Lager resultiere hier-
+nach aus einer Krise des Nationalstaates, in welchem die „automatischen Regeln 
+der Einschreibung des Lebens (der Nativität und Nationalität)“ nicht mehr 
+funktionierten.12
+
+Guantánamo, in welchem die Gefangenen (so definierte „unlawful 
+combatants“) außerhalb einer Rechtsordnung festgehalten, einem Sonder-
+gericht zugeführt und Folter ausgesetzt sind, bezeichnet sicherlich das ein-
+drücklichste Beispiel für diese Art rechtloser „Nicht-Orte“13. In gewisser Weise 
+ist die Flüchtlingspolitik aber insgesamt über die Merkmale dieser Biomacht 
+charakterisiert, im Modus des – wenn auch meist nicht formell ausgerufenen – 
+Ausnahmenzustandes zu verbannen und straflos zu töten (etwa durch Aus-
+weisung in nur scheinbar sichere Herkunftsstaaten, durch Zurückdrängen von 
+Flüchtenden usw.). Im Abkommen zwischen der Türkei und der EU wird ein 
+Ausnahmezustand ebenfalls nicht ausgerufen, sondern als „vorübergehende 
+und außerordentliche Maßnahme“ chiffriert, in dem „irreguläre Migranten“ von 
+Griechenland in die Türkei zurückgeführt werden, also über einen Bann von dem 
+Grenzübertritt in die EU ferngehalten werden sollen. Einen irregulären Grenz-
+übertritt gar nicht erst versucht zu haben, bevorzugt wiederum die syrischen 
+Flüchtlinge, die die EU im Gegenzug für die Aufnahme von Migranten in der 
+Türkei aufnimmt. Diese Maßnahmen seien erforderlich „zur Beendigung des 
+menschlichen Leids und zur Wiederherstellung der öffentlichen Ordnung“14. 
+Unter „biopolitics of otherness“ versteht Fassin daher eine „Politik der Grenzen 
+und Begrenzungen, Zeitlichkeit und Räumlichkeit, Staaten und Bürokratien, 
+Inhaftierung und Abschiebung, Asyl und Humanitarismus“.15
+
+Auch wenn Agamben die Freund/Feind-Unterteilung von Carl Schmitt 
+kritisiert und seine Klassifizierungen entgegensetzt vom „nackten Leben/
+politischer Existenz, von zoé und bios, Ausschluss/Einschluss“16, erinnert die 
+
+10 Agamben (2002), S. 17, 19, 37, 92.
+11 Agamben (2002), S. 39, 119.
+12 Agamben (2002), S. 184.
+13 Agamben (2004), S. 63.
+14 Europäischer Rat (2016).
+15 Fassin (2011), S. 214.
+16 Agamben (2002), S. 18.
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 511
+
+Unterteilung in ein (Binnen-)Strafrecht, das für die regulären Bürger eines Landes 
+zuständig ist, und einem nationalen Aufenthaltsrecht sowie den supranationalen 
+Regelungen gegen irreguläre Einwanderung an das Feindstrafrecht, das 
+Günther Jakobs dem Bürgerstrafrecht entgegensetzt. Das Feinstrafrecht ist eine 
+„Bekämpfungsgesetzgebung“, in der es um die Beseitigung einer Gefahr geht.17 
+Sie gelte und agiere weit im Vorfeld einer Tat. Es gehe nicht um den strafenden 
+Ausgleich eines „Normgeltungsschadens“, sondern um „die Beseitigung einer 
+Gefahr“, die Jakobs insbesondere im Terrorismus erkennt.18 Wer also das rechts-
+staatliche Strafverfahren für die Bürger gewähren will, „sollte das, was man 
+gegen Terroristen tun muß, wenn man nicht untergehen will, anders nennen, 
+eben Feindstrafrecht, gebändigten Krieg“19. Damit entspricht das Feindstraf-
+recht der „präventiven Sicherheitslogik“, die die rechtsstaatliche Freiheitslogik 
+verdränge.20 Gedacht ist das Feindstrafrecht für Individuen, die die staatliche 
+Rechtsordnung auf Dauer nicht respektieren und ihr zuwiderhandeln. Sie gelten 
+nicht mehr als Personen, sondern werden zu nicht ansprechbaren Adressaten 
+erklärt. Das Mittel, welches das Feindstrafrecht hierfür vorsieht, ist das der 
+Exklusion. Feindstrafrecht sei im Grunde kein Recht mehr, sondern Krieg, der 
+im Naturzustand der „Normlosigkeit, also exzessiver Freiheit wie exzessiven 
+Kampfes“ geführt werde.21
+
+2 D er nützliche gefährliche Fremde
+
+Crimmigration schlägt sich im gesellschaftlichen Diskurs entsprechend in einer 
+Versicherheitlichung von Migration nieder. So erscheinen Sicherheitskonzepte 
+leicht als Heilsbotschaft, der Anbieter von Sicherheit als Retter in der Not. 
+„Sicherheit“ wird zum Widerpart oder Ausfall von „Politik“22 und resultiert aus 
+einem sekuritisierenden Sprechakt als eine „selbstreferenzielle Praxis, da es diese 
+Praxis ist, die aus einem Sachverhalt ein Sicherheitsproblem macht […], indem 
+
+17 Jakobs (2004), S. 92.
+18 Jakobs (2004), S. 92.
+19 Jakobs (2004), S. 92 (Herv. i. Orig.).
+20 Haffke (2005), S. 20.
+21 Jakobs (2004), S. 92.
+22 Wæver (1995), S. 56 f.
+
+
+
+512 D. Klimke
+
+das Thema als eine solche Bedrohung dargestellt wird“23. Damit umschreiben die 
+Autoren der Kopenhagener Schule ähnlich wie Agamben die Aushebelung des 
+politischen Betriebs über die Innere Sicherheit: „entsprechend der gegenwärtigen 
+Tendenz in allen westlichen Demokratien wird die Erklärung des Ausnahme-
+zustands zunehmend ersetzt durch eine beispiellose Ausweitung des Sicherheits-
+paradigmas als normaler Technik des Regierens.“24 Wird ein Phänomenbereich 
+diesem Deutungsrahmen von Sicherheit/Unsicherheit unterworfen, sind mit 
+einem gewissen Automatismus Entschlossenheit demonstrierende Politiker, hart 
+durchgreifende Sicherheitsorganisationen und Maßnahmen gefordert, denen 
+zugetraut wird, die Gefahr um jeden Preis zu bannen. Unter dem Eindruck 
+der „Gefahr im Vollzug“ herrscht leicht eine Panikstimmung, die einzig noch 
+Rettung ersehnt. Dann schlägt die Stunde der „Macher“, die selbst dem bis zur 
+islamistischen Anschlagserie in Paris 2015 unbeliebtesten Präsidenten Hollande 
+die Chance bot, seine Umfragewerte über die Ausrufung des Ausnahmezustandes 
+erheblich zu steigern.25
+
+Murray Edelman bestimmt in seiner Studie „Politik als Ritual“ über-
+zeugend die Bedingungen für die gesellschaftliche Anfälligkeit gegenüber einer 
+Versicherheitlichung. „Entfremdung, Orientierungsverlust und die fehlende Aus-
+sicht, in dieser komplexen und verunsichernden Welt, sein Schicksal selbst in 
+die Hand nehmen zu können“ führten dazu, dass man „Zuflucht zu abstrakten 
+Symbolen, die einem Sicherheit versprechen und Identifizierung ermöglichen“, 
+sucht.26 Ein Ventil der Unsicherheit bieten nach Edelman die „Verdichtungs-
+symbole“27, „die unterschiedliche Ängste und Emotionen vereinen“, ohne sich an 
+der Wirklichkeit messen lassen zu müssen28. Damit verstärke sich die Attraktivität 
+einer politischen Führung, die sich „als Protagonist gegen einen fiktiven Feind“ 
+geriert.29 Die Kriminalpolitik richte sich entsprechend danach aus und wirbt 
+mit Maßnahmen, „die sich am leichtesten als stark, klug und entweder effektiv 
+
+23 Buzan et al. (1998), S. 24.
+24 Agamben (2004), S. 22.
+25 Bauman (2016), S. 28–31.
+26 Edelman (2005), S. 58.
+27 Edelman (2005), S. 138.
+28 Edelman (2005), S. 5.
+29 Edelman (2005), S. 62.
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 513
+
+oder expressiv darstellen lassen“ und nah an der Stimmung der Bevölkerung 
+operieren.30
+
+An zahlreichen Studien lässt sich die Stimmung gegen Migration belegen. 
+Der Anteil der ausländischen Tatverdächtigen wird nach einer Befragung des 
+KFN deutlich überschätzt.31 Ähnliches zeigt sich in der Schweiz, in der 68,8 % 
+der Befragten von einem Anstieg der durch Ausländer begangenen Straftaten 
+ausgehen.32 Gut die Hälfte der erwachsenen Befragten (und 34,6 % der Jugend-
+lichen) meint, es lebten zu viele Ausländer in der Schweiz.33 Die fremdenfeind-
+lichen Ressentiments richten sich v. a. gegen muslimische Einwanderer. So ist 
+ein gutes Viertel der Schweizer der Meinung, Muslimen sollte die Zuwanderung 
+in die Schweiz untersagt werden.34 Eine negative Kriminalitätsentwicklung in 
+der Gemeinde innerhalb der letzten drei Jahre führt rd. ein Drittel der Züricher 
+Befragten Ende der 1980er Jahre auf die Zunahme von Ausländern und Flücht-
+lingen zurück.35 In einer Regionalanalyse in Neubrandenburg gab der mit 
+Abstand größte Teil der Befragten als Grund für regionale Unsicherheit „Aus-
+länder“ in einem Freitext an.36 Hirtenlehner und Groß stellen für Linz fest, „dass 
+zwischen Verbrechensfurcht, Straflust und Fremdenfeindlichkeit eine nahezu 
+blickdichte Verbindung besteht“37.
+
+Migration wird vor allem mit schwerer Gewaltkriminalität verknüpft. 
+Hestermann zählt für das Jahr 2019, dass fast ein Drittel der Fernsehberichte 
+zu Gewaltkriminalität die Herkunft des Tatverdächtigen nennt.38 Ein aus-
+ländischer Tatverdächtiger wird etwa achtmal so oft erwähnt wie ein deutscher. 
+
+30 Garland (2008), S. 209.
+31 Windzio et al. (2007), S. 37.
+32 Baier (2019), S. 49.
+33 Baier (2019), S. 77.
+34 Baier (2019), S. 78.
+35 Schwarzenegger (1992), S. 200.
+36 Bley (2019), S. 74.
+37 Hirtenlehner und Groß (2018), S. 169.
+38 Weiter zugenommen hat der schon länger bestehende Trend, die Nationalität von Tatver-
+dächtigen v. a. bei schwerer Kriminalität zu nennen, durch eine Reformierung des Presse-
+kodex im Jahre 2017, der damit auf die rechtspopulistische Kritik an den Medien reagiert, 
+sie würden die Wahrheit über die Kriminalitätsbelastung von Migranten vertuschen. Ins-
+besondere die verzögerte Berichterstattung zu den Ereignissen der Kölner Silvesternacht 
+2015/2016 hat dieser Kritik Auftrieb gegeben (Hestermann 2021; Dittrich und Klimmt 
+2021), S. 29 ff.
+
+
+
+514 D. Klimke
+
+Die Analyse überregionaler Tageszeitungen, überwiegend aus dem Spektrum der 
+Qualitätspresse, kommt zu einer noch deutlicheren Verzerrung. Hier werden aus-
+ländische Tatverdächtige 14mal häufiger genannt als inländische. Die Polizei-
+liche Kriminalstatistik weist einen Ausländeranteil von 30,9 % aus.39 Die 
+Nachrichten präsentieren jedoch nicht nur einen erheblich überzogenen aus-
+ländischen Tatverdächtigenanteil, sondern sie vermitteln zugleich auch ein 
+Bild von der Qualität der Ausländer(kriminalität). In die Nachrichten gelangen 
+vor allem jene Fälle, die als besonders und zugleich als alltäglich vermittelt 
+werden können. Emotional aufwühlende Ereignisse, etwa durch die Schwere 
+der Tat, deren Ausführung oder durch eine starke Täter-Opfer-Polarität (wehr-
+lose, „unschuldige“ Opfer) sowie Taten, die jederzeit und überall passieren, also 
+auch den Rezipienten treffen könnten, haben einen Nachrichtenwert und werden 
+zugleich wegen der Schwere am ehesten mit einem Herkunftshinweis auf den 
+Täter versehen.40 Die Figur des kriminellen Ausländers verweist also nicht allein 
+auf eine höhere Tatverdächtigenbelastung von Ausländern, sondern auf medialer 
+Ebene erfolgt Crimmigration außerdem als ein weiteres Othering der Täter, die 
+mit den berichteten besonderen Taten außerhalb der Ordnung zu stehen scheinen. 
+Zugleich erfährt der Nachrichtenrezipient Ausländerkriminalität als fortwährende 
+Nahraumbedrohung.
+
+Der „kriminelle Ausländer“ stellt in unsicheren Zeiten eine Art Minimalbasis 
+für soziale Distinktion bereit. Ähnlich wie der Sexualstraftäter in der Gefängnis-
+hierarchie als Negativfolie und zur Selbsterhöhung selbst für schwerkriminelle 
+Gefangene herhalten muss, bietet die Figur des kriminellen Ausländers eine 
+geradezu perfekte Quelle weitgehend voraussetzungsloser Anerkennung. Der 
+gefährliche Fremde stellt eine Sozialfigur bereit, von der sich abzuheben nicht 
+viel verlangt. Selbst eine strukturelle Nähe hierzu, etwa weil man selbst auch 
+Straftaten begeht, auf eine eigene Migrationsgeschichte zurückblickt oder die 
+prekäre Soziallage mit denen teilt, auf die man verächtlich herabzublicken sucht, 
+erlaubt es noch, sich im ausreichenden sozialen Abstand zum „kriminellen Aus-
+länder“ zu wähnen. Es reicht, sich zu den Alteingesessenen zählen zu dürfen oder 
+sich zumindest mit ihnen zu identifizieren. Für den Rückgriff auf das Merkmal 
+der Etablierten, um für sich Privilegien zu beanspruchen, die den neuerlich 
+Hinzugekommenen verwehrt werden sollten, braucht es nicht mehr als schon vor-
+her dagewesen zu sein.
+
+39 Hestermann (2021), S. 51–54.
+40 Hestermann (2021), S. 56 ff.
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 515
+
+Gerade die von Abstiegsängsten betroffenen Bevölkerungsteile scheinen 
+daher anfällig, sich wenigstens aus ihrer längeren Ortsansässigkeit Überlegen-
+heitsansprüche herzuleiten. „Die Migranten stehen für jenen ersehnten Boden, 
+der noch tiefer liegt – noch unterhalb des Bodens, auf den die einheimischen 
+misérables verwiesen wurden – und der das eigene Schicksal etwas weniger ent-
+würdigend und damit etwas weniger bitter und unerträglich erscheinen lässt.“41 
+Die Mitte-Studie der Friedrich-Ebert-Stiftung, deren Daten 2018/2019 erhoben 
+wurden, weist daher insbesondere für untere und mittlere Einkommensgruppen 
+eine starke Zustimmung zu den sog. Etabliertenvorrechten aus.42 Ähnlich 
+ermitteln auch Hirtenlehner und Groß für Oberösterreich: „Abstiegsängste und 
+Statuspanik bilden kombiniert mit tiefgehenden Sorgen um den eigenen Wohl-
+stand den Nährboden, auf dem Kriminalitätsfurcht, Punitivität und Fremdenfeind-
+lichkeit gedeihen.“43
+
+Elias und Scotson beschreiben diesen Mechanismus auf der Grundlage 
+einer um 1960 durchgeführten empirischen Studie im britischen Leicester, in 
+dem sich zwischen alteingesessenen Vierteln und einem neueren Bezirk eine 
+Etablierten-Außenseiter-Figuration zeigte. Der ehemals kriminalitätsbelastete 
+Bezirk behielt sein schlechtes Image auch, nachdem einige hierfür verantwort-
+lich gemachte Familien weggezogen waren.44 „Hier konnte man beobachten, 
+daß das bloße ‚Alter‘ einer Formation mit allem, was es in sich schließt, einen 
+Grad an Gruppenzusammenhalt, kollektiver Identifizierung und Gemeinsamkeit 
+der Normen zu schaffen vermag, der genügt, um bei Menschen das befriedigende 
+Hochgefühl zu erzeugen, das mit dem Bewußtsein, einer höherwertigen Gruppen 
+anzugehören, und der komplementären Verachtung für andere Gruppen ver-
+bunden ist.“45. Die mächtigere Gruppe der langjährigen Bewohner empfänden 
+sich als überlegen, ausgestattet mit einem Gruppencharisma, das der anderen 
+Seite der Zugezogenen fehle. „Immer wieder läßt sich beobachten, daß Mit-
+glieder von Gruppen, die im Hinblick auf ihre Macht anderen, interdependenten 
+
+41 Bauman (2016), S. 18.
+42 https://www.fes.de/referat-demokratie-gesellschaft-und-innovation/gegen-rechtsextremis-
+mus/mitte-studie-2021. Zugegriffen: 18. Juli 2022.
+43 Hirtenlehner und Groß (2018), S. 169.
+44 Elias und Scotson (1993), S. 161 ff.
+45 Elias und Scotson (1993), S. 11.
+
+
+
+516 D. Klimke
+
+Gruppen überlegen sind, von sich glauben, sie seien im Hinblick auf ihre mensch-
+liche Qualität besser als die anderen.“46
+
+Die Machtrelation zwischen Etablierten und Außenseitern beruht hier-
+nach gerade nicht auf den zur Begründung der Marginalisierung heran-
+gezogenen Merkmalen, wie die höhere Kriminalitätsanfälligkeit, relative Armut, 
+Ethnizität/Rasse, was nicht zufällig oft in der Gesamtheit den Ausgeschlossenen 
+zugeschrieben wird. Die Machtrelation hierauf zurückzuführen, dient eben deren 
+Verdeckung und damit der Naturalisierung sozialer Ungleichwertigkeit. „Es 
+scheint, dass Begriffe wie ›rassisch‹ oder ›ethnisch‹, die in diesem Zusammen-
+hang sowohl in der Soziologie als auch in der breiteren Gesellschaft weithin 
+gebraucht werden, Symptome einer ideologischen Abwehr sind. Durch ihre Ver-
+wendung lenkt man die Aufmerksamkeit auf Nebeneffekte dieser Figuration 
+(z. B. Unterschiede der Hautfarbe) und zieht sie ab vom zentralen Aspekt (den 
+Machtunterschieden).“47
+
+Ähnlich beschrieb diesen gesellschaftlichen Mechanismus schon Max Weber, 
+nach dem soziale Ungleichheit über eine natürliche oder über eine soziale 
+Hierarchie durch Leistungskriterien von Verdienst und Schuld begründet und 
+legitimiert wird, wenn er feststellt, dass „der günstiger Situierte das nicht rastende 
+Bedürfnis fühlt, den zu seinen Gunsten bestehenden Kontrast als ‚legitim‘, seine 
+eigene Lage als von ihm ‚verdient‘ und die des anderen als von jenem irgend-
+wie ‚verschuldet‘ ansehen zu dürfen. […] Die ‚Legende‘ jeder hochprivilegierten 
+Gruppe ist ihre natürliche, womöglich ihre ‚Bluts‘-Überlegenheit.“48
+
+3 K ulminationspunkt: Silvester 2015/2016
+
+Vor allem die Ereignisse in der Silvesternacht haben zu einer deutlichen Ver-
+dichtung dieses Prozesses der crimmigration geführt, indem Flüchtlinge aus 
+dem nordafrikanischen und arabischen Raum bezichtigt wurden, Frauen in 
+Deutschland systematisch ausgeraubt und sexuell angegangen zu haben. Die 
+von der Kanzlerin ausgegebene Parole „Wir schaffen das“ schien nun endgültig 
+desavouiert. In der aufgeregten gesellschaftlichen Debatte hierüber begegneten 
+sich auf eindrückliche Weise Feminismus, Sexismus und Rassismus. Für alle 
+
+46 Elias und Scotson (1993), S. 7.
+47 Elias und Scotson (1993), S. 27.
+48 Weber (1976), S. 549.
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 517
+
+politischen Positionen schien diese Nacht von besonderem Belang, um hieran 
+ihre Positionen zu schärfen.
+
+Erwartbar ließ sich dieser Vorfall von stramm rechter Seite ausschlachten, um 
+hierin eine naive „Willkommenskultur“ der Bundesregierung festzumachen, vor 
+der schon längere Zeit gewarnt wurde, eine Überforderung der Polizei und Kritik 
+an einer medial verzerrten und verzögerten Berichterstattung zu artikulieren. 
+Dagegen erkennt eine liberal-feministische Lesart in den sexualisierten Über-
+griffen nur eine weitere Artikulation männlicher Herrschaft. Sie setzt die Taten 
+in einen breiteren Kontext patriarchaler Machtdemonstrationen und verzichtet 
+gänzlich darauf, die Ereignisse zu ethnisieren. Im Gegenteil: In den Übergriffen 
+hätte sich gerade nicht Fremdheit gezeigt, sondern eine über alle Kulturen hinweg 
+geltende patriarchale Herrschaft. Unter dem Hashtag „ausnahmslos“ wird daher 
+kritisiert, dass sexuelle Übergriffe etwa auf dem Oktoberfest nicht im Ansatz so 
+starke Resonanz erfahren wie die sexuellen Übergriffe durch die sog. „Nafris“.
+
+Öffentlich durchgesetzt hat sich aber eine dezidiert fremdenfeindliche Deutung, 
+die weniger die Taten selbst, als die Herkunft der Täter in den Mittelpunkt rückt. 
+Diese Sicht bedient sich allerdings feministischer Forderungen. Diese Deutung als 
+eine Art Kulturkonflikt wurde durch das Bundeskriminalamt in die Welt gesetzt. 
+Ausgeführt wird im Bericht des Innenministeriums an den Landtag:
+
+„Die Tatbegehungsform sexualisierter Gewaltstraftaten durch Gruppen in Ver-
+bindung Eigentums-/Raubdelikten ist in der Ausprägung der Kölner Gewalttaten in 
+Deutschland bisher nicht aufgetreten. Diese Gewaltstraftaten sind insbesondere von 
+den bereits polizeilich seit längerem verfolgten sogenannten ‚Antanzdelikten‘ deut-
+lich zu unterscheiden. […] So liegen dem Bundeskriminalamt Erkenntnisse dazu 
+vor, dass in arabischen Ländern ein Modus Operandi bekannt ist, der als ‚taharrush 
+gamea‘ (gemeinsame sexuelle Belästigung in Menschenmengen) bezeichnet 
+wird. Darüber wurde z. B. anlässlich der ägyptischen Revolution von den Medien 
+berichtet.“ (MI NRW 2016), S. 15.
+
+„Taharrush gamea“49 – die gemeinschaftliche begangene sexuelle Belästigung im 
+öffentlichen Raum – lautete die von den Medien am selben Tage übernommene 
+Erklärung. „Das Phänomen ‚taharrush gamea‘ ist in Deutschland angekommen“, 
+titelte etwa die WELT am 10. Januar 201650 neben vielen ähnlich lautenden 
+Titeln anderer Tageszeitungen. Bekannt wurde dieses Phänomen im Kontext der 
+
+49 Korrekt heißt es wohl Taharrusch dschama'i, was sich hierzulande aber nicht durchgesetzt 
+hat.
+50 Lutz (2016).
+
+
+
+518 D. Klimke
+
+regierungskritischen Demonstrationen in Ägypten ab 2005. Vereinte der Protest 
+verschiedene politische Strömungen, stehen die staatlichen Sicherheitsapparate 
+unter Verdacht, die sexuelle Gewalt im Rahmen des Demonstrationsgeschehens 
+initiiert (und selbst in Verhörtechniken bei Frauen darauf zurückgegriffen) zu 
+haben, um zwischen den Regierungskritikern Zwietracht zu säen und die hierfür 
+bezichtigten jungen aufständischen Männer der Arbeitsklasse wegzusperren.51
+
+Zum folgenden Jahreswechsel 2016/2017 stand v. a. die Kölner Polizei unter 
+Druck, proaktiv gegen eine Wiederholung der Ereignisse vom vergangenen Jahr 
+vorzugehen. Sie meldete über Twitter spürbar atemlos, in Köln würden „mehrere 
+hundert Nafris“ überprüft. Das Kürzel entstammt dem „Analyseprojekt Nord-
+afrikanische Straftäter“ der Kölner Polizei, klärt u. a. die BILD-Zeitung kurz 
+nach Silvester 2015/2016 auf. Hierunter fallen Staatsangehörige aus Ägypten, 
+Algerien, Libanon, Libyen, Marokko, Syrien und Tunesien, die meist zwischen 
+15 und 25 Jahre alt seien, insbesondere in den Deliktbereichen Raub, Körper-
+verletzung, Betäubungsmittel und Taschendiebstähle sowie durch besondere 
+Aggressivität auffielen.52 Zu kritisieren ist es sicher nicht, im Folgejahr gezielt 
+Männer mit nordafrikanischem Erscheinungsbild zu kontrollieren. Der Vorwurf 
+des Racial Profiling verfängt hier nicht, weil nicht die ethnische Zugehörigkeit 
+selbst die Kontrollen begründete, sondern die entsprechenden Hinweise zu der 
+ethnischen Herkunft der Täter aus dem Vorjahr. Einige Meldungen der Polizei 
+lassen aber doch aufhorchen, ob man es im Falle der Ausländerkriminalität mit 
+notwendigen Differenzierungen nicht so genau nimmt.
+
+Empört reagierten einige linksliberale Kräfte bereits auf den Begriff „Nafri“. 
+Ob er nun abwertend klingt oder Ähnlichkeiten zum N-Wort aufweist, lässt sich 
+nicht klären. Allerdings, dass Täter nach der (vermeintlichen) Herkunftsregion 
+zusammengefasst und benannt werden, steuert den Verdacht und nährt die falsche 
+kausale Annahme, diese Herkunftsregion begünstige bestimmte Straftaten. 
+Diese Überzeugungen strukturieren dann das polizeiliche Vorgehen und Deuten. 
+Während der Tweet die Kontrolle phänotypisch der nordafrikanischen Region 
+zugeordneter Personen vermeldete, bei denen erst noch festgestellt werden sollte, 
+ob eine Straftat vorliegt (gar eine Intensivtäterschaft), verweist das Kürzel bereits 
+auf eine Intensivtäterschaft. An dieser scheinbaren sprachlichen Ungenauigkeit, 
+ob „Nafri“ nun für Nordafrikaner oder für nordafrikanische Intensivtäter steht, 
+lässt sich ablesen, dass diese Herkunftsregion mit hoher Straffälligkeit in eins 
+
+51 Scheiterbauer (2016).
+52 Xanthopoulos et al. (2016).
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 519
+
+gesetzt wird und bei dieser Klientel das rechtsstaatliche Prinzip der Unschulds-
+vermutung nicht weiter von Belang ist.
+
+Das zeigt sich auch an der Meldung des Polizeipräsidenten, Jürgen Mathies, 
+nach Neujahr, es seien 1000 Nordafrikaner kontrolliert worden. Die Zahl 
+schrumpft in den Folgetagen merklich zusammen auf rund siebzig Personen aus 
+Algerien und Marokko, die durch die Kölner Polizei und die Bundespolizei über-
+prüft wurden. Der überwiegende Teil derer, deren Nationalität geklärt werden 
+konnte, hatte eine andere Staatsangehörigkeit. Darunter befanden sich auch 94 
+Syrer53, die von der Polizei irrtümlich ebenfalls den „Nafris“ zugeordnet werden, 
+obwohl sie weder geografisch noch hinsichtlich ihrer Kriminalitätsbelastung 
+in das polizeiliche Bild von „Nafris“ passen. Die Nordafrikaner blieben bei den 
+Kontrollen also gegenüber anderen Herkunftsstaaten eindeutig in der Minder-
+heit, und das, obwohl die Kontrollen auf die sog. Nafris abzielten. Trotzdem 
+titelte etwa der Focus „CDU-Politiker zu Silvesternacht 2016: ‚Haben versucht, 
+deutschen Staat anzutanzen‘, den CDU-Innenpolitiker zitierend. Die Kölner 
+Polizei hätte „robust und konsequent“ reagiert.54
+
+Dass sich diese Interpretation abseits der Faktenlagen trotzdem durchsetzen 
+konnte, lässt sich sicher damit erklären, dass sie auf das vertraute Erklärungs-
+muster der Ausländerkriminalität zurückgreift, wonach es sich hierbei eben nicht 
+um eine artifizielle statistische Kategorie der Polizei handelt, sondern um einen 
+ganz eigenen Kriminalitätsbereich, begangen durch eine natürliche Gruppe. Was 
+Brauer, Dangelmaier und Hunold für den Bereich der Clankriminalität heraus-
+gefunden haben55, trifft ebenso auf die „Nafri-Kriminalität“ zu. Wird eine 
+Kriminalitätskategorie durch die Polizei konstruiert, objektiviert sie sich von 
+selbst: „Dabei prägt die Erwartungshaltung im Sinne einer selbsterfüllenden 
+Prophezeiung die individuellen Erfahrungen der PolizistInnen und ordnet diese 
+dem hegemonialen Diskurs der Clankriminalität zu.“
+
+Das Merkmal „nicht-deutsch“ ist in Kombination vor allem mit Armut 
+und Ausschluss aus der Marktgängigkeit so wirkmächtig, dass es sämt-
+liche sozialstrukturellen, migrationsspezifischen und aufenthaltsrechtlichen 
+Differenzierungen der heterogenen Täterschaft einebnet. Zugleich dient es 
+nicht allein einer notdürftigen Beschreibung von Tätern, sondern insinuiert 
+auch eine Art Erklärung für deren Kriminalität. Die Herkunft selbst wird zur 
+
+53 Herwartz (2017).
+54 Focus (2017).
+55 Dangelmaier et al. (2021), S. 190.
+
+
+
+520 D. Klimke
+
+Ursache für deren Devianz herangezogen, wobei nicht die damit häufig ver-
+bundenen prekären Lebensverhältnisse und Aufenthaltsstatus betrachtet werden. 
+Allein die sozialisatorischen Wurzeln außerhalb der westlichen Hemisphäre, 
+die zugeschriebene kulturelle und religiöse Andersartigkeit, reicht, um hier den 
+arabischen/muslimischen Mann am Werk zu sehen, der seine tief verwurzelte Ver-
+achtung für die Frauen und die westlichen Werte zum Ausdruck gebracht hat. Der 
+Fokus ist hier eine kulturalisierende Polarisierung: Die gegen uns.
+
+Schließlich legt es noch eine klare kriminalpolitische Antwort nahe. Aus-
+länderkriminalität verdoppelt im gewissen Sinne Fremdheit. Über die amt-
+liche Fremdheit durch fehlende deutsche Ausweispapiere hinaus verweist die 
+Kriminalität dieser Fremden zusätzlich auf eine kulturelle Andersartigkeit. 
+Sie stehen außerhalb der nationalen und moralischen Gemeinschaft. Was aber 
+ohnehin schon nur am Rande der Gesellschaft geduldet wird, dessen kann man 
+sich auch leicht ganz entledigen, wenn der Anlass gegeben ist. So schien nach 
+Silvester die Überzeugung vorzuherrschen: „Die Bürgerkriegs-Flüchtlinge sind 
+gefährlich für deutsche Frauen, die Flüchtlinge müssen wieder weg.“56 Medial 
+spitzte sich die Thematisierung der Silvesterereignisse 2015/2016 schnell auf 
+Forderungen zur Verschärfung des Asylrechts zu.57 Die im Falle der Flüchtlings-
+kriminalität aus verschiedenen politischen Spektren häufig bemühte Metapher 
+der „missbrauchten Gastfreundschaft“58 macht den prekären Status v. a. der 
+Flüchtlinge deutlich. An diese „Gäste“ werden paradoxerweise besonders hohe 
+Konformitätsanforderungen gestellt, aus deren Befolgung erst die echte Schutz-
+bedürftigkeit und Dankbarkeit abgelesen zu werden scheint. Der Gästemetapher 
+macht die Aufnahme von Ausländern zugleich zu einer großzügigen Geste und 
+enthebt sie aller rechtlichen Verpflichtungen hierzu.
+
+Die Taten zu Silvester wurden aber nicht nur als übliche Devianz gelesen, die 
+Flüchtende zu undankbaren und damit unwürdigen Gästen macht. Sie wurden 
+eher als Terrorismus denn als Kriminalität gedeutet. In der dann folgenden 
+Polarisierung erschienen die Ereignisse als Kulturkonflikt, die Angriffe auf 
+Frauen (und deren Männer, die sie nicht schützen konnten, und dadurch ebenso 
+vom fremden Mann gedemütigt wurden) als demonstrative Akte des Schreckens-
+verbreitung und Machtdemonstration. Angegriffen schienen die hiesigen Werte 
+der westlichen Gesellschaft, als deren Kristallisationspunkt sich zunehmend die 
+
+56 Dietze (2016), S. 93.
+57 Drüeke (2016), S. 33 ff.
+58 Tagesspiegel (2017).
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 521
+
+Frauenrechte und das Recht auf sexuelle Selbstbestimmung herausgebildet haben. 
+Die Angreifer gehören zu den patriarchalen, oft muslimischen Barbaren, die in 
+die zivilisierte Welt eindringen.
+
+Das Fremde war in die Mehrheitskultur eingedrungen und offenbarte sich im 
+fremdartigen patriarchalen und gewalttätigen Handeln gegen Frauen. Die Trias von 
+(unzivilisierter) Fremdheit, Kriminalität und sexueller Gewalt gegen Frauen befeuert 
+seitdem den gesellschaftlichen Diskurs über Einwanderung und löste schnelle 
+gesetzgeberische Reaktionen aus, indem das Ausweisungsrecht verschärft59 und 
+Marokko, Algerien sowie Tunesien zu sicheren Herkunftsländern erklärt wurden. 
+Die ins Stocken geratene Reformierung des Sexualstrafrechts nahm wieder Fahrt 
+auf. „Nein heißt Nein“ umfasst nun auch die gemeinschaftlich begangene sexuelle 
+Nötigung. Das Grabschen, bislang in der Regel nicht strafbar, wurde nach Silvester 
+als sexuelle Belästigung in das Strafgesetzbuch aufgenommen.
+
+Hier wurde „Sexualpolitik […] für eine rassistische Wahrheitsproduktion 
+aktiviert“, bemerken Hark und Villa.60 Die koloniale Perspektive zeige sich 
+gerade darin, dass die Anderen „nicht in der Lage seien, ihr sexuelles Begehren 
+zu kontrollieren“.61 Abgeleitet werden kann hieraus „ein Überlegenheits-
+narrativ auf Grundlage der imaginierten Rückständigkeit der Anderen […], 
+das sowohl die dramatisierte Gegenüberstellung von muslimischer sexueller 
+Unterdrückung und abendländischer sexueller Selbstbestimmung benötigt, 
+als auch rassifizierte Vorstellungen von Religion einer Säkularität gegenüber-
+stellt“62. Verhandelt werden an dieser Nacht eben nicht nur rassistische Kate-
+gorien sondern gleichauf sexistische. „Diese diskursive Verschiebung legitimiert 
+also gleichzeitig die Beherrschung der Frau (da schwach und hilfsbedürftig) 
+und die Beherrschung des schwarzen Mannes (da unkontrolliert und gefährlich) 
+und sichert dadurch die Vormachtstellung des bürgerlichen weißen Mannes.“63 
+Der „Erfolg“ dieser Silvesternacht lässt sich gerade daraus erklären, dass „hier 
+zwei große miteinander verknüpfte Diskriminierungsoperatoren und Affekt-
+blöcke gleichzeitig wirksam werden: Rassismus und Sexismus“64. Kurzum: 
+
+59 Walburg (2016), S. 384–386.
+60 Hark und Villa (2017), S. 20.
+61 Hark und Villa (2017), S. 41.
+62 Lingen-Ali und Mecheril (2020), S. 11.
+63 Castro Varela und Seifert (2020), S. 29.
+64 Dietze (2016), S. 94.
+
+
+
+522 D. Klimke
+
+Nach Silvester 2015/2016 scheint die Welt wieder eine Ordnung zu bekommen. 
+Der muslimische/arabische Mann gehört in das Reich der (nicht nur sexuellen) 
+Barbaren, und der überlegene Westen ist in der Lage, ihn dorthin zurück zu ver-
+bringen. Nicht niederträchtige Fremdenfeindlichkeit, sondern die Verteidigung 
+erhabener Frauenrechte verpflichten zu entschlossenem Handeln für das 
+„schwache Geschlecht“. Der Sexismus ist im Fremden verkörpert, während der 
+weiße Mann für die Sicherheit der Frauen sorgt.
+
+4  Zum Schluss
+
+Die vom Bundeskriminalamt vorgenommene, medial schnell verbreitete und 
+gesellschaftlich weitgehend akzeptierte Deutung der Ereignisse zu Silvester 
+2015/2016 war nicht nur wirkmächtig, weil der Polizei Expertenstatus in Sachen 
+Kriminalität und ein positives opferschützendes Image zugeschrieben werden. 
+Darüber hinaus zeigt sich an der fremdenfeindlichen Interpretation der Ereig-
+nisse ein zirkulärer, sich selbst bestätigender Deutungsprozess. Die polizeiliche 
+Verdachtsschöpfung erfolgt nicht rein sachlich aus objektiven kriminalistischen 
+Erwägungen, sondern reflektiert immer auch ein gesellschaftliches Wissen 
+von Bedrohungen und Nichtzugehörigkeit zur nationalen und moralischen 
+Gemeinschaft. So werden eben nicht Männer mit Lederhose auf dem Oktober-
+fest systematisch kontrolliert und hiesige sexistische Denkmuster für Übergriffe 
+problematisiert, sondern vermeintliche Nafris zu Silvester und ihr ganz fremder 
+„Brauch“ des „taharrush gamea“.
+
+Die gesellschaftlichen Diskurse von gefährlicher Fremdheit und bedrohter 
+Ordnung gehen in das polizeiliche Verdachtswissen ein, formen die polizei-
+lichen Erklärungen für Bedrohungen und resultieren in diskriminierenden 
+Kontrollpraktiken. Sie bekräftigen dann nicht nur das polizeiliche Praxis-
+wissen und objektivieren mit jedem Erfolg die höchst selektiven Kontroll-
+praxen und die dahinter liegenden stereotypen Zuschreibungen. Diese Prozesse 
+der Crimmigration entlasten vor allem auch das kollektive Gewissen davon, aus 
+bloßer Fremdenfeindlichkeit und ökonomischem Kalkül den sozialen Zugang 
+zu verwehren. Die gesellschaftlichen Ordnungsideen erhalten durch die (auch 
+nur scheinbaren) polizeilichen Belege einer reellen polizeilich festgestellten 
+Bedrohung der Inneren Sicherheit und vor allem der Frauen durch die Fremden 
+eine moralische Grundlage. Die polizeiliche Erfolgsmeldung von vermeintlich 
+tausend kontrollierten „Nafris“ zu Silvester im Folgejahr wird daher wohl ebenso 
+gern polizeilich verbreitet wie öffentlich aufgenommen nach der Devise „Gefahr 
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 523
+
+erkannt – Gefahr gebannt“. Die deutliche Reduktion der kontrollierten „Nafris“ 
+auf siebzig und der ganz unbestimmte polizeiliche Arbeitsbegriff waren dagegen 
+offenbar nur störende Feinheiten, die es nicht in die Schlagzeilen geschafft haben.
+
+Literatur
+
+Aas, K. F., & Bosworth, M. (Hrsg.) (2013). The Borders of Punishment. Migration, 
+Citizenship, and Social Exclusion. Oxford: Oxford University Press.
+
+Aas, K. F. (2014). Bordered Penality: Precarious membership and abnormal Justice. 
+Punishment & Society, 16, S. 520.
+
+Agamben, G. (2002). Homo Sacer. Frankfurt am Main: Suhrkamp.
+Agamben, G. (2004). Ausnahmezustand. Frankfurt am Main: Suhrkamp.
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020). Zweiter 
+
+Zwischenbericht zum Forschungsprojekt „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). Rassismus und Diskriminierungserfahrungen im 
+Kontext polizeilicher Gewaltausübung. https://kviapol.rub.de/images/pdf/KviAPol_
+Zweiter_Zwischenbericht.pdf. Zugegriffen: 18. Juli 2022.
+
+Baier, D. (2019). Kriminalitätsopfererfahrungen und Kriminalitätswahrnehmungen in der 
+Schweiz Ergebnisse einer Befragung. https://www.zhaw.ch/storage/hochschule/medien/
+news/zhaw-befragung-kriminalitaet.pdf. Zugegriffen: 28. Juni 2021.
+
+Bauman, Z. (2016). Die Angst vor den anderen. Ein Essay über Migration und Panik-
+mache. Berlin: Suhrkamp.
+
+Bley, R. (2019). Kriminologische Regionalanalyse in der Stadt Neubrandenburg. Bericht 
+zur Hellfeldanalyse sowie Bürgerbefragung in 2019. http://www.fh-guestrow.de/doks/
+hochschule/Publikationen/Schriftenreihe/Band_7_2019.pdf. Zugegriffen: 18. Juli 2022.
+
+Buzan, B.,Wæver, O., & de Wilde, J. (1998). Security: A New Framework for Analysis. 
+Boulder/CO: Lynne Rienner Publishers.
+
+Castro Varela, M. d. M., & Seifert, N. (2020). Befreiung als Beherrschung. Emanzipation und 
+Viktimisierung unter rassistischen Bedingungen. In U. Lingen-Ali & P. Mecheril (Hrsg.), 
+Geschlechterdiskurse in der Migrationsgesellschaft (S. 17–39). Bielefeld: transcript.
+
+Dangelmaier, T., Brauer, E., & Hunold, D. (2021). Clankriminalität. Die Konstruktion eines 
+Kriminalitätsphänomens im öffentlichen und polizeilichen Diskurs. SIAK-Journal − 
+Zeitschrift für Polizeiwissenschaft und polizeiliche Praxis, S. 16.
+
+Dietze, G. (2016). Das ‚Ereignis Köln‘. Femina politica, 1, S. 93.
+Dittrich, A., & Klimmt, C. (2021). Erwähnung der Täterherkunft in der Verbrechensbericht-
+
+erstattung: Welchen Effekt hat die populistische Medienschelte? Neue Kriminalpolitik, 
+33, S. 28.
+
+Drüeke, R. (2016). Die TV-Berichterstattung in ARD und ZDF über die Silvesternacht 
+2015/16 in Köln. Berlin: Heinrich-Böll-Stiftung.
+
+Edelman, M. (2005). Politik als Ritual. Die symbolische Funktion staatlicher Institutionen 
+und politischen Handelns. 3. Aufl. Frankfurt am Main: Campus.
+
+Elias N., & Scotson J. L. (1993). Etablierte und Außenseiter. Frankfurt am Main: Suhrkamp.
+Europäischer Rat (2016). Erklärung EU-Türkei. Pressemitteilung vom 18. März 2016. 
+
+https://www.consilium.europa.eu/de/press/press-releases/2016/03/18/eu-turkey-state-
+ment/. Zugegriffen: 18. Juli 2022.
+
+
+
+524 D. Klimke
+
+Fassin, D. (2011). Policing Borders, Producing Boundaries. The Governementality of 
+Immigration in Dark Times. The Annual Review of Anthropology, 40, S. 213.
+
+Focus (2017). CDU-Politiker zu Silvesternacht 2016: „Haben versucht, deutschen 
+Staat anzutanzen“. https://www.focus.de/politik/deutschland/gruppen-von-jungen-
+nordafrikanern-cdu-politiker-zu-silvesternacht-2016-haben-versucht-deutschen-staat-
+anzutanzen_id_6444222.html. Zugegriffen: 18. Juli 2022.
+
+Garland, D. (2008). Kultur der Kontrolle. Verbrechensbekämpfung und soziale Ordnung in 
+der Gegenwart. Frankfurt am Main: Campus.
+
+Graebsch, C. M. (2019). Krimmigration: Die Verwobenheit strafrechtlicher mit migrations-
+rechtlicher Kontrolle unter besonderer Berücksichtigung des Pre-Crime-Rechts für 
+„Gefährder“. Kriminologie – Das Online-Journal, 1, S. 75.
+
+Guia, M. J., Van der Woude, M. A. H., & Van der Leun, J. P. (Hrsg.) (2011). Social Control 
+and Justice: Crimmigration in an Age of Fear. The Hague: Eleven International.
+
+Haffke, B. (2005). Vom Rechtsstaat zum Sicherheitsstaat? Kritische Justiz, 38, S. 17.
+Hark, S., & Villa, P.-I. (2017). Unterscheiden und herrschen. Ein Essay zu den 
+
+ambivalenten Verflechtungen von Rassismus, Sexismus und Feminismus in der Gegen-
+wart. Bielefeld: transcript.
+
+Herwartz, C. (2017). Nordafrikaner waren gar keine. taz. https://taz.de/Kontrollen-in-der-
+Silvesternacht-in-Koeln/!5371518/. Zugegriffen: 26. September 2021.
+
+Hestermann, T. (2021). Die Getriebenen. Neue Kriminalpolitik, 33, S. 46.
+Hirtenlehner, H., & Groß, E. (2018). Einstellung zu „Ausländern“ und Furcht vor 
+
+Kriminalität. Kriminalistik, 8, S. 169.
+Jakobs, G. (2004). Bürgerstrafrecht und Feindstrafrecht. HRRS, 3, S. 88.
+Lingen-Ali, U., & Mecheril, P. (2020). Rückständigkeitsgenerative Geschlechterdiskurse 
+
+in der Migrationsgesellschaft. In dies. (Hrsg.), Geschlechterdiskurse in der Migrations-
+gesellschaft (S. 7–16). Bielefeld: transcript.
+
+Lutz, M. (2016). Das Phänomen „taharrush gamea“ ist in Deutschland angekommen. Welt. 
+https://www.welt.de/politik/deutschland/article150813517/Das-Phaenomen-taharrush-
+gamea-ist-in-Deutschland-angekommen.html. Zugegriffen: 18. Juli 2022.
+
+MI NRW (2016). Bericht des Ministeriums für Inneres und Kommunales über die Über-
+griffe am Hauptbahnhof Köln in der Silvesternacht. https://www.landtag.nrw.de/portal/
+WWW/dokumentenarchiv/Dokument/MMV16-3585.pdf. Zugegriffen: 18. Juli 2022.
+
+Scheiterbauer, T. (2016). Wider die Kulturalisierung des Sexismus! Klasse, Kultur und 
+Geschlecht in Kämpfen gegen sexuelle Belästigung und sexualisierte Gewalt in 
+Ägypten. Femina Politica, 25, S. 138.
+
+Schwarzenegger, C. (1992). Die Einstellungen der Bevölkerung zur Kriminalität und Ver-
+brechenskontrolle. Ergebnisse einer repräsentativen Befragung der Zürcher Kantons-
+bevölkerung im internationalen Vergleich. Freiburg i. Br.: Max-Planck-Institutfür 
+ausländisches und internationales Strafrecht.
+
+Soliman, F. (2021). States of exception, human rights, and social harm: Towards a border 
+zemiology. Theoretical Criminology, 25, S. 228.
+
+Stumpf, J. (2006). The Crimmigration Crisis. Immigrants, Crime, and Sovereign Power. 
+American University Law Review, 56, S. 367.
+
+Stumpf, J. (2013). The Process is the Punishment in Crimmigration Law. In K. F. Aas & 
+M. Bosworth (Hrsg.), The Borders of Punishment: Migration, Citizenship, and Social 
+Exclusion (S. 58–75). Oxford: Oxford University Press.
+
+
+
+Folgen für die gesellschaftliche Wahrnehmung von Kriminalität 525
+
+Tagesspiegel (2017). Ein Gastrecht gibt es nicht. https://www.tagesspiegel.de/politik/
+debatte-um-straffaellige-auslaender-ein-gastrecht-gibt-es-nicht/19253100.html. 
+Zugegriffen: 01. Oktober 2021.
+
+Walburg, C. (2016). „Crimmigration“: Die Ausweisung als Mittel der Migrations- und 
+Kriminalitätskontrolle. Neue Kriminalpolitik, 28, S. 378.
+
+Wæver, O. (1995). Securitization and Desecuritization. In R. D. Lipschutz (Hrsg.), On 
+Security (S. 46–86). New York: Columbia University Press.
+
+Weber, M. (1976). Wirtschaft und Gesellschaft. 5. Aufl. Tübingen: Mohr Siebeck.
+Windzio, M., Simonson, J., Pfeiffer, C., & Kleimann, M. (2007). Kriminalitäts-
+
+wahrnehmung und Punitivität in der Bevölkerung – Welche Rolle spielen die 
+Massenmedien? Ergebnisse der Befragungen zu Kriminalitätswahrnehmung und Straf-
+einstellungen 2004 und 2006. https://kfn.de/wp-content/uploads/Forschungsberichte/
+FB_103.pdf. Zugegriffen: 18. Juli 2022.
+
+Xanthopoulos, G., Soibel, D., & Rakoczy, I. (2016). Wahrheiten, die die Polizei lieber für 
+sich behält. Bild. https://www.bild.de/regional/koeln/polizei/die-akte-nafri-44116208.
+bild.html. Zugegriffen: 25. September 2021.
+
+Prof. Dr. Daniela Klimke ist Professorin an der Polizeiakademie für Kriminologie. Ihre 
+wissenschaftlichen Schwerpunkte liegen in der Kritischen Kriminologie und der Sexual-
+soziologie.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

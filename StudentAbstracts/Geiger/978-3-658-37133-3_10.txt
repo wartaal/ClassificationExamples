@@ -1,0 +1,802 @@
+﻿Von Einstellungen zu polizeilichen 
+Praxen
+
+Daniela Gutschmidt und David Czudnochowski
+
+Zusammenfassung
+
+In diesem Kapitel wird das Verhältnis zwischen Einstellungen und polizei-
+lichen Praxen beleuchtet. Dabei wird berücksichtigt, dass es häufig zu Dis-
+krepanzen zwischen der Einstellung und den Handlungen eines Individuums 
+kommt und es werden die Entstehungsbedingungen menschlichen Verhaltens 
+skizziert. Ebenso wird argumentiert, dass sich soziale Faktoren auf das Ver-
+halten des Individuums auswirken und es wird dargelegt, welche Ermög-
+lichungsstrukturen für rassistisches Handeln polizeiliche Praxen beinhalten. 
+Daraus folgt, dass neben der individuellen Ebene auch Phänomene auf 
+Gruppen- und Organisationsebene, wie z. B. Kultur(en) in der Polizei, zu 
+berücksichtigen sind.
+
+Schlüsselwörter
+
+Individuelles Verhalten · Soziale Norm · Polizeikultur · Polizeialltag
+
+D. Gutschmidt (*) 
+Rechtspsychologie Gutschmidt, Münster, Deutschland
+E-Mail: gutschmidt@gmx.com
+
+D. Czudnochowski 
+Albert-Ludwigs-Universität Freiburg, Centre for Security and Society CSS,  
+Freiburg, Deutschland
+E-Mail: david.czudnochowski@css.uni-freiburg.de
+
+© Der/die Autor(en) 2022 199
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_10
+
+
+
+200 D. Gutschmidt und D. Czudnochowski
+
+1  Einleitung
+
+Beschäftigt man sich mit Rassismus in der Polizei, so lassen sich momentan 
+mehrere Forschungsrichtungen feststellen. Einerseits beschäftigt sich eine eher 
+individuell ausgerichtete Perspektive mit den Einstellungen, sowohl in Form von 
+Dispositionen, die bereits vor dem Eintritt in den Polizeiberuf vorhanden waren, 
+als auch solche, die sich erst im Laufe des Berufslebens entwickeln.1 Beide 
+können letztendlich in Handlungssituationen dazu führen, Menschen aufgrund 
+ihrer Nationalität, Hautfarbe oder Zugehörigkeit zu bestimmten Bevölkerungs-
+gruppen anders zu behandeln. Andererseits fragt eine überwiegend soziologische 
+Perspektive nach sozialen Faktoren und Strukturen im Polizeialltag, die das Auf-
+treten von diskriminierendem oder rassistischem Handeln begünstigen.2 Vereinfacht 
+könnte man beide Herangehensweisen als die Suche nach Gründen für rassistisches 
+Handeln beschreiben. Die unterschiedlichen Ausrichtungen haben ihre jeweiligen 
+Blindstellen und können sich wechselseitig ergänzen. Weder konnte die Forschung 
+einen konstanten kausalen Zusammenhang zwischen rassistischen Einstellungen 
+und tatsächlichen rassistischen Übergriffen nachweisen noch können gewisse 
+institutionalisierte Strukturen rassistische Handlungen vollständig determinieren 
+und voraussagen. Im Folgenden wird zum einen mit einer psychologischen Heran-
+gehensweise die Perspektive des Individuums eingenommen. Dabei stehen mög-
+liche Zusammenhänge zwischen Einstellungen und Verhalten im Zentrum. In 
+einem zweiten Schritt wird dann ein soziologischer Erklärungsansatz zu den 
+Eigendynamiken sozialer bzw. polizeilicher Praxen sowie deren begünstigender 
+Einfluss auf die Entstehung diskriminierender Einstellungen und Handlungen dar-
+gelegt. Insgesamt wird dabei das Ziel verfolgt, sowohl die individuelle Ebene, als 
+auch die Gruppen- und die Organisationsebene im Blick zu behalten. Daher wird 
+im nächsten Kapitel zunächst ein übergreifendes Rahmenmodell vorgestellt.
+
+2 I ndividuum, Gruppe, Organisation – ein 
+Rahmenmodell
+
+Um den Zusammenhang zwischen individuellen Einstellungen auf der einen 
+Seite und tatsächlich ausgeführten polizeilichen Praxen auf der anderen Seite 
+umfassend zu betrachten, bietet sich das in Abb. 1 dargestellte Modell an. 
+
+1 Z. B. Kemme et al. (2020); Krott et al. (2018).
+2 Z. B. Behr (2006, 2008); Hunold et al. (2010); Schweer et al. (2008).
+
+
+
+Von Einstellungen zu polizeilichen Praxen 201
+
+Abb. 1  Polizeiliche Praxen in Wechselwirkung mit Einflussfaktoren auf Organisations-, 
+Gruppen-, und individueller Ebene. (eigene Darstellung)
+
+Es unterscheidet die Ebenen der Organisation, der sozialen Gruppe und des 
+Individuums3 und liefert einen Rahmen für spezifischere Theorien, die in den 
+folgenden Abschnitten dargestellt werden.
+
+Um die Bedeutung sozialer Praxen möglichst gut zu verstehen, sollten alle 
+Ebenen Berücksichtigung finden. In Bezug auf Rassismus in der Polizei wurden 
+bereits diverse Einflussfaktoren aufseiten der Individuen (z. B. individuelle Ein-
+stellungen, Eigenschaften von Polizeianwärter:innen), der Gruppendynamiken 
+(z. B. polizeiliche Subkulturen, Phänomene der Eigen- und Fremdgruppenent-
+wicklung) und der Organisation (z. B. Personalauswahl, Aus- und Fortbildung) 
+identifiziert.4 Im Modell sind nur einige wichtige Zusammenhänge ein-
+gezeichnet, jedoch existieren noch wesentlich mehr Verflechtungen der Ebenen 
+und auch Rückwirkungen, z. B. von Praxen auf Kultur und Einstellungen. Die im 
+Folgenden dargestellte psychologische Perspektive setzt zunächst überwiegend 
+beim Individuum an.
+
+3 Von Cranach (1996), S. 148; Greif et al. (2004), S. 119.
+4 Asmus und Enke (2016); Behr (2008); Bornewasser und Eckert (1995); Gutschmidt 
+(2020); Hunold et al. (2010); Leenen et al. (2011, 2014); Schweer et al. (2008).
+
+
+
+202 D. Gutschmidt und D. Czudnochowski
+
+3 D er psychologische Blick – Einstellungen und 
+individuelles Verhalten
+
+Einige Studien konnten Zusammenhänge zwischen der Einstellung eines 
+Menschen und dementsprechenden Verhaltensweisen bzw. Verhaltensabsichten 
+feststellen.5 Es ist also zu erwarten, dass Polizeibeamt:innen, die rassistische 
+Einstellungen verinnerlicht haben, sich auch tendenziell feindseliger gegenüber 
+Bürger:innen verhalten, denen sie einen Migrationshintergrund zuschreiben.
+
+Allerdings zeigen sowohl die alltägliche Erfahrung als auch die psycho-
+logische Forschung, dass Einstellungen nicht zwangsläufig zu einem ent-
+sprechenden Verhalten führen.6 So wie es trotz einer ökologischen Einstellung 
+mitunter zu umweltschädlichen Verhaltensweisen kommt, so agieren auch 
+teilweise Menschen rassistisch, die keine derartige Einstellung vertreten.7 
+Umgekehrt kann es trotz einer negativen Einstellung, beispielsweise gegen-
+über Asiat:innen, dennoch zu einem freundlich-professionellen Umgang mit 
+einer Person kommen, der eine asiatische Herkunft zugeschrieben wird.8 Solche 
+Phänomene der Diskrepanz zwischen Einstellung und Verhalten werden auch als 
+attitude-behavior-gap bezeichnet.9
+
+Daher stellt sich weniger die Frage danach, ob eine Einstellung zu einem dem-
+entsprechenden Verhalten führt, als vielmehr danach, wann bzw. unter welchen 
+Bedingungen dies der Fall ist.10
+
+3.1  Spontanes vs. geplantes Verhalten
+
+Hinsichtlich des Verhaltens eines Individuums ist zunächst zwischen spontanen 
+und geplanten Handlungen zu unterscheiden. Kahneman stellt in seinem Zwei-
+System-Ansatz anschaulich dar, was bereits seit vielen Jahren in der Psycho-
+logie diskutiert wird.11 Viele Handlungen kommen automatisch, schnell und ohne 
+
+5 Z. B. Wagner et al. (2008).
+6 Ajzen und Fishbein (1977); Jonas et al. (2014), S. 218; Fazio und Zanna (1981), S. 162.
+7 Juvan und Dolnicar (2014).
+8 Jonas et al. (2014), S. 218.
+9 Z. B. Boulstridge und Carrigan (2000); Juvan und Dolnicar (2014).
+10 Fazio (1986), S. 232 f.; Jonas et al. (2014), S. 219.
+11 Fazio (1986), S. 236 f.; Kahneman (2012); Schneider und Shiffrin (1977); Pfister et al. 
+(2017), S. 345.
+
+
+
+Von Einstellungen zu polizeilichen Praxen 203
+
+größeren kognitiven Aufwand zustande (System 1). Sofern keine Komplikationen 
+entstehen, wird hierfür kaum Bewusstheit oder Anstrengung vom Gehirn 
+erfordert.12 Ein Beispiel für ein solches automatisches Verhalten wäre das sofortige 
+„Lossprinten“ zur Verfolgung einer Person, die in einer Kontrolle zur Flucht 
+ansetzt. Während die Schnelligkeit und der geringe Denkaufwand Vorteile von 
+System-1-Handlungen darstellen, besteht ein Nachteil in der hohen Fehleranfällig-
+keit. Zu den vielfältigen Verzerrungen, die das spontane Verhalten beeinflussen, 
+gehören insbesondere auch Stereotype. So zeigt sich beispielsweise in mehreren 
+PC-gestützten Experimenten, dass die Teilnehmer:innen sich in einer fiktiven 
+Situation eher für einen Schusswaffengebrauch entschieden, wenn es sich bei den 
+Zielpersonen um PoC (People of Colour) handelte. Dies wird auf die stereotype 
+Verknüpfung dieser Personen mit einer höheren Gefährlichkeit zurückgeführt. 
+Gleichzeitig gibt es Hinweise darauf, dass diesem racial bias durch kognitive 
+Kontrolle, Training und vorige Informationen entgegengewirkt werden kann.13
+
+System 2 umfasst solche Handlungen, die nach einer gewissen bewussten 
+Überlegung zustandekommen.14 Intuitive, erste Impulse aus dem System 1, die 
+oftmals natürlich und unwillkürlich auftreten, können dabei hinterfragt und das 
+Verhalten gegebenenfalls angepasst werden. In Abb. 2 sind die Unterscheidung in 
+geplantes und spontanes Verhalten sowie die damit verbundenen relevanten Ein-
+flussfaktoren vereinfacht dargestellt. Diese werden im Folgenden erläutert.
+
+3.2  Das MODE-Modell
+
+Eine ähnliche Unterscheidung in spontanes und überlegtes Verhalten trifft 
+Fazio mit seinem MODE-Modell.15 Dabei steht MODE für „motivation and 
+opportunity as determinants“. Demnach kommt es lediglich dann zu geplantem 
+Verhalten, wenn ausreichend Motivation und Gelegenheit dazu bestehen. 
+Ansonsten handelt es sich um spontanes Verhalten, bei dem die Assoziation 
+zwischen Einstellung und Verhalten eine ganz entscheidende Rolle spielt. Diese 
+sogenannte Einstellungszugänglichkeit drückt aus, wie stark und wie leicht abruf-
+bar die Einstellung ist.16 Besteht eine solche starke Verbindung (z. B. aufgrund 
+
+12 Kahneman (2012).
+13 Correll et al. (2007, 2014); Johnson et al. (2018).
+14 Kahneman (2012).
+15 Fazio (1986), S. 236 f., (1990), S. 93.
+16 Jonas et al. (2014), S. 227.
+
+
+
+204 D. Gutschmidt und D. Czudnochowski
+
+Abb. 2  Vereinfachte Darstellung der Entstehung individuellen Verhaltens. (eigene Dar-
+stellung)
+
+impliziten Wissens aus eigenen Vorerfahrungen oder aus den Erzählungen im 
+Umfeld), so wird bei Erscheinen des Einstellungsobjektes (z. B. eine Person mit 
+zugeschriebener fremder Herkunft) automatisch eine Bewertung (z. B. „gefähr-
+lich“) aktiviert, die wiederum das Verhalten steuert (z. B. „Verfolgen“).
+
+Somit sind zwei Fälle zu benennen, in denen rassistische Einstellungen mit 
+hoher Wahrscheinlichkeit handlungsleitend werden: zum einen dann, wenn es 
+Polizist:innen an der Bereitschaft zur Selbstreflexion und somit auch zum Hinter-
+fragen eigener Einstellungen mangelt (fehlende Motivation), und zum anderen 
+dann, wenn aufgrund situativer Gegebenheiten wie z. B. hohen Zeitdrucks keine 
+Überlegung möglich ist (fehlende Gelegenheit).
+
+3.3  Die Theorie des geplanten Verhaltens
+
+Laut der Theorie des geplanten Verhaltens von Ajzen und Fishbein17 werden 
+solche überlegten Handlungen neben den eigenen verinnerlichten Einstellungen 
+auch von sozialen Normen und der wahrgenommenen Verhaltenskontrolle beein-
+flusst. Der letzte Faktor beschreibt, inwiefern die Person eine geplante Handlung 
+auch tatsächlich für umsetzbar hält. Je nachdem, wie die Konstellation dieser drei 
+
+17 Ajzen (1985); Ajzen und Fishbein (1977).
+
+
+
+Von Einstellungen zu polizeilichen Praxen 205
+
+Faktoren gestaltet ist, kommt eine gewisse Verhaltensabsicht zustande, die dann 
+handlungsleitend wirkt.
+
+Ob sich eine Polizeibeamtin diskriminierend verhält (z. B. gegen einen Tatver-
+dächtigen aufgrund seiner Herkunft verstärkt ermittelt) hängt dementsprechend 
+erstens von ihrer eigenen Einstellung gegenüber dieser Verhaltensweise ab 
+(„Halte ich das Verhalten für richtig?“). Zweitens spielt die wahrgenommene Ver-
+haltenskontrolle („Halte ich das Verhalten für leicht umsetzbar?“) eine Rolle. Hier 
+kommen erleichternde und erschwerende Faktoren (z. B. Wissen um Einfluss-
+möglichkeiten des Tatverdächtigen wie anwaltliche Vertretung, institutionelle und 
+rechtliche Vorgaben) ins Spiel. Drittens ist die subjektive soziale Norm („Ist das 
+Verhalten bei Menschen, die für mich wichtig sind, anerkannt?“) von Bedeutung. 
+Die Subjektivität der sozialen Norm bezieht sich auf zwei Aspekte. Es kommt 
+darauf an, was die Person glaubt, wie andere Menschen das Verhalten beurteilen 
+würden und nicht darauf, wie tatsächlich deren Einstellungen ausgeprägt sind. 
+Zudem ist entscheidend, welche Bedeutung die jeweiligen Personen im sozialen 
+Umfeld für die handelnde Person haben. Beispielsweise könnte es einer Beamtin 
+wichtig sein, wie ihre Kolleg:innen eine Handlung bewerten, während sich ein 
+anderer Beamter stärker an den Normen der Vorgesetzten orientiert.
+
+Insgesamt wird ersichtlich, dass sich soziale Faktoren, insbesondere die in der 
+Gruppe gelebten Normen, aber auch die verinnerlichten Stereotype und deren 
+Zugänglichkeit, auf das Verhalten des Individuums auswirken. Daher wird im 
+folgenden Abschnitt näher auf die Bedeutung sozial situierten Wissens und Hand-
+lungserwartungen ausgehend von sozialen Praxen eingegangen.
+
+4 D er praxeologische Blick
+
+Der Polizeiberuf zeichnet sich durch eine gewisse Ambivalenz aus. Zum einen 
+ist er in der Ausbildung und in der späteren Ausübung hoch standardisiert und 
+an bürokratische sowie gesetzliche Vorgaben gebunden. Polizeiliches Handeln ist 
+zunächst Verwaltungshandeln. Zum anderen sind operative polizeiliche Einsatz-
+situationen von einem hohen Maß sozialer Unwegsamkeit und ganz unterschied-
+lichen möglichen Verläufen geprägt. Der Polizeialltag erfordert Entscheidungen 
+unter Unsicherheit. Aus diesem Grund ist es augenscheinlich, dass der Polizei-
+beruf von Praktiker:innen zu einem großen Teil als Erfahrungsberuf definiert 
+wird, für dessen Befähigung und Bewältigung das Lernen in der Praxis, d. h. 
+
+
+
+206 D. Gutschmidt und D. Czudnochowski
+
+erfahrungsbasiertes Praxiswissen18, elementar ist. Auch wenn polizeiliches Vor-
+gehen zu einem hohen Maß durch Dienstvorschriften standardisiert ist, hängt 
+dessen konkreter praktischer Vollzug zu einem großen Teil vom unmittelbaren 
+sozialen Bezugsrahmen und von impliziten Wissensbeständen ab.19 Sieht man 
+sich beispielsweise das Alltagshandeln von Polizist:innen konkret an, spielen 
+Ermessensentscheidungen eine bedeutende Rolle. Hier kann man auf die 
+polizeiliche Definitions- und Deutungsmacht verweisen.20 Da beispielsweise 
+das Polizeirecht nur unzureichende Handlungs- und Praxisorientierung für den 
+Arbeitsalltag der Polizei bereithält, obliegen oftmals Handlungsentscheidungen 
+und Definitionsakte einzelnen Polizist:innen. Solche Situationsdefinitionen sind 
+nicht willkürlich, sondern haben in gewisser Weise eine soziale Vergangenheit 
+sowie gegenwärtige soziale und situative Einflussfaktoren. Gemeint ist damit, 
+dass sich durch das praktische Handeln im polizeilichen Alltag Routinen und 
+Deutungsmuster festigen, die Entscheidungen erleichtern und gleichzeitig die 
+Legitimität von Handlungen im Kolleg:innenkreis absichern.21 Daraus folgt, 
+dass neben individuellen Einstellungen alltägliche Praxen und daraus geronnenes 
+und kollektiv geteiltes Erfahrungswissen als Faktor für die Entstehung selektiver 
+Handlungen mit betrachtet werden müssen.
+
+Grundlegend ist zu klären, welche Auswirkungen erfahrungsbasierte Wissens-
+bestände auf Handlungsverläufe und Entscheidungen nehmen, wie diese im all-
+täglichen Handeln entstehen und vermittelt werden und welche Funktion sie 
+aus der Perspektive der Alltagspraxis übernehmen. Gerade die Diskussion um 
+institutionellen oder strukturellen Rassismus22 läuft Gefahr Strukturen zu statisch 
+und deterministisch zu betrachten. Aus diesem Grund ist es notwendig Strukturen 
+an soziale Praxen rückzubinden.23 Strukturen existieren in einem solchen Ver-
+ständnis nicht in niedergeschriebenen Anweisungen oder Regularien, sondern 
+sind in der Regelmäßigkeit praktischen Handelns begründet und damit in sozialen 
+Praxen situiert.24 Einem solchen Verständnis nach geht es um die Formen der 
+Weitergabe und des Erlernens von Wissen und Fähigkeiten, die notwendig 
+
+18 Behr (2008), S. 197.
+19 Behr (2008), S. 199.
+20 Feest und Blankenburg (1972), S. 19.
+21 Behr (2008), S. 201 f.
+22 S. dazu auch den Beitrag von Bosch und Thurn in diesem Band.
+23 Vgl. Giddens (1997).
+24 Mensching (2016), S. 202.
+
+
+
+Von Einstellungen zu polizeilichen Praxen 207
+
+sind, um Handlungen mit den Regelmäßigkeiten des jeweiligen Feldes abzu-
+stimmen.25 Aus praxeologischer Perspektive rücken dabei Alltagsroutinen und 
+implizites Wissen in den Vordergrund, die dafür notwendig sind, dass sich Praxen 
+festigen und in neuen Situationen Handlungssicherheit bieten.26 Erfahrungs-
+basiertes oder implizites Wissen27 ist dabei eher ein Können, d. h. ein Vermögen 
+in einem bestimmten sozialen Setting angemessen zu handeln.28 Dieses implizite 
+Wissen hat einen sozialen Ausgangspunkt und ist an interaktive Bestätigung und 
+praktische Anwendung gebunden.29 Wichtig ist dabei der Aspekt des Lernens, 
+der notwendig ist, um in der polizeilichen Alltagswelt bestehen zu können. 
+Polizist:innen erfahren durch kollektives, praktisches Handeln die impliziten 
+Ordnungskriterien sozialer Praxen und bekommen dabei eine bestimmte Position 
+und Identität in der community of practice30 zugewiesen. Zu nennen ist hierbei 
+das Thema Eigensicherung als Handlungswissen, das in der fachpraktischen 
+Ausbildung der Schutzpolizei den Anwärter:innen vermittelt wird.31 Aus Sicht 
+des Polizeialltags können hier erfahrungsbasierte Verdachtsstrategien genannt 
+werden.32 Dieses praktische Wissen ermöglicht eine schnelle Entscheidungs-
+findung, gerade in Situationen unter Zeitdruck. Durch jeden neuen Vollzug von 
+Praxen werden aber gleichzeitig organisationskulturelle Ordnungsvorstellungen 
+und erfahrungsbasierte Wissensbestände reproduziert und gefestigt.33 Erfahrungs-
+basierte Wissensbestände, die für eine sichere und effiziente Bewältigung des 
+Polizeialltags notwendig sind, bergen allerdings die Gefahr, dass sie zu dis-
+kriminierenden Praxen beitragen können. So festigen sich in ihnen zwar Lösungs-
+strategien, die aus Sicht des Alltags funktional und daher legitim sein können34, 
+gleichzeitig werden diese Strategien nur selten reflektiert und deren Wirkung 
+außerhalb der eigenen beruflichen Perspektive bewertet35.
+
+25 Alkemeyer und Buschmann (2016).
+26 Mensching (2016), S. 203.
+27 Vgl. Polanyi (1985).
+28 Porschen (2008), S. 57.
+29 Meusburger et al. (2011), S. 225.
+30 Alkemeyer und Buschmann (2016), S. 131.
+31 Ford (2003).
+32 Klimke (2010), S. 39.
+33 Elias (2014), S. 3.
+34 Porschen (2008), S. 52.
+35 Herrnkind (2014), S. 50; Asmus und Enke (2016), S. 167.
+
+
+
+208 D. Gutschmidt und D. Czudnochowski
+
+Gerade das soziale Feld, in dem Polizist:innen praktizieren, spielt eine 
+zentrale Rolle und hat Einfluss darauf, auf welche Art und Weise polizei-
+liche Praxen zur Anwendung kommen.36 Zu nennen ist hier das Angleichen des 
+polizeilichen Habitus an den Habitus des Feldes, in dem Polizist:innen häufig 
+agieren.37 Oftmals läuft eine rein praxeologische Perspektive allerdings Gefahr 
+die Individualität von Teilnehmer:innen einer Praxis aus den Augen zu verlieren. 
+Praxen können von strukturellen Anforderungen an das Individuum, dessen 
+jeweiliger Position und Aufgabe, sowie den individuellen Strategien und Fähig-
+keiten beeinflusst werden.38 Gemeint ist damit, dass es ermöglichende Faktoren 
+geben muss, die gewisse Einstellungen begünstigen und den Möglichkeitsrahmen 
+von bestimmten selektiven Praxen setzen. Aus diesem Grund ist es sinnvoll 
+Risikokonstellationen des Polizeialltags näher zu beleuchten.
+
+5 R isikokonstellationen im Polizeialltag
+
+5.1  Polizeiliche Praxen und der Erfahrungsraum
+
+In den Diskussionen über mögliches rassistisches Handeln in der Polizei werden 
+immer wieder negativ verlaufende Kontakte mit bestimmten Bevölkerungs-
+gruppen genannt. Polizist:innen sind in ihrem Polizeialltag und qua ihres Hand-
+lungsauftrags mit Menschen in prekären Lebensumständen und allgemein mit 
+sozialen Problemen konfrontiert. Polizist:innen geraten oftmals in Einsatz-
+situationen und in Kontakt mit Bevölkerungsgruppen, die aufgrund unterschied-
+licher Faktoren sozialer Ungleichheit häufiger im öffentlichen Raum sichtbar 
+werden. Auf der einen Seite können dabei problematische Kommunikations-
+verläufe und Einsatzerlebnisse zu Stress führen.39 Auf der anderen Seite festigt 
+sich damit in der beruflichen Alltagswelt ein selektives Bild über Kriminalität 
+und Zuwanderung. Dieser einseitige Erfahrungsraum und damit auch Praxen, 
+können durch Wiederholung und gleichbleibende soziale Stimuli Vorurteile 
+gegenüber Minderheiten festigen.40 So können problematisch verlaufende 
+
+36 Chan (1996), S. 109 f.
+37 Schöne (2011), S. 205.
+38 Alkemeyer und Buschmann (2016), S. 136.
+39 Vgl. Heuer (2009), S. 57 f.
+40 Smith und Alpert (2007), S. 1271.
+
+
+
+Von Einstellungen zu polizeilichen Praxen 209
+
+Kontakte zu Bevölkerungsgruppen als moderierende Variable hinsichtlich der 
+Entwicklung rassistischer Einstellungen im Polizeialltag beitragen.41 Hier über-
+nimmt wiederum die Erfahrung durch praktisches Handeln eine zentrale Rolle. 
+Vorurteile und Stereotype können dabei als implizite Wissensbestände verstanden 
+werden. Als mentales Modell verbinden sich wiederkehrende Situationen des 
+Berufsalltags mit stereotypen Kategorien. In neuen Situationen, die sich hinsicht-
+lich der Örtlichkeit oder Personencharakteristika des sog. polizeilichen Gegen-
+übers ähnlich sind, werden diese erfahrungsbasierten Wissensbestände wieder 
+abgerufen.42 Es gibt Hinweise darauf, dass dieses erfahrungsbasierte und gleich-
+sam einseitige Wissen dann wiederum über Erzählungen im Kolleg:innenkreis 
+weitergegeben werden kann.43 So kann sich dieses Wissen losgelöst von einzel-
+nen Polizisten:innen über die Zeit im konjunktiven Erfahrungsraum beispiels-
+weise einer Dienstgruppe in einem kriminalitätsbelasteten Gebiet festigen. 
+Handlungsmuster, die sich im Umgang mit unterschiedlichen Bevölkerungs-
+gruppen unterscheiden, können dabei auch auf polizeilichem Raumwissen 
+basieren. Das bedeutet, dass polizeiliche Erfahrungen und Problemkonstruktionen 
+in bestimmten Stadtteilen oder Einsatzgebieten zu einem „lokalgebundenen 
+Habitus“44 führen können.45
+
+Gerade der Aspekt der Erfahrung sowie die zentrale Rolle von Routinen 
+stellen auch im Kontext von Ermittlungspraxen einen Faktor für selektives 
+Handeln dar. So führt Dosdall als Erklärungsansatz für das Ermittlungsver-
+sagen im NSU-Komplex die Persistenz von bestehenden Ermittlungsroutinen ins 
+Feld. Demnach fußte eine selektive Fokussierung der Ermittlungsbehörden auf 
+Erfahrungen im Bereich der organisierten Kriminalität und des Linksterroris-
+mus bzw. islamistischen Terrorismus und führte zu einem Ausblenden ähnlich 
+gelagerter rechtsextremistischer Anschläge in der Vergangenheit. Erfahrungen 
+festigen sich dabei in Routinen, was wiederum Auswirkungen auf Ermittlungsent-
+scheidungen haben und zu einer „Wahrnehmungsrigidität“ führen kann.46
+
+41 Vgl. Bornewasser (1996); Jaschke (1996).
+42 Smith und Alpert (2007), S. 1272 f.
+43 Jacobsen (2015), S. 48.
+44 Hunold (2016), S. 216 f.
+45 S. dazu auch den Beitrag von Belina in diesem Band.
+46 Dosdall (2019), S. 412.
+
+
+
+210 D. Gutschmidt und D. Czudnochowski
+
+5.2  Polizistenkultur und Autoritätsherstellung
+
+Das Rahmenmodel (Abb. 1) veranschaulicht, dass die Ebenen der Organisation 
+und der Gruppe soziale Praxen beeinflussen. Wurde bisher auf die Ebene des All-
+tags sowie das entsprechende Erfahrungswissen und Routinen hingewiesen, soll 
+im Folgenden kurz die Wechselwirkung zwischen den polizeilichen Praxen und 
+dem Bezugsrahmen sozialer Normen, der Cop Culture, und individuellem Ver-
+halten hergestellt werden.
+
+Nimmt man noch einmal die Merkmale polizeilicher Praxen in den Fokus, 
+so zeigt sich bereits am Beispiel des Ermessenspielraums sowie der Definitions-
+macht, dass im alltäglichen Handeln soziale Kontrolle meist nur durch 
+Kolleg:innen im unmittelbaren sozialen Nahraum stattfindet.47 Gerade dieser 
+Handlungsspielraum bietet Einflussmöglichkeiten für selektives Handeln und 
+eine gewisse Anfälligkeit dafür, dass stereotype Verdachtskonstruktionen zur 
+Anwendung kommen. Dies kann sich darauf beziehen, wer als verdächtig wahr-
+genommen wird, oder aber auch auf Unterschiedlichkeiten in der Wahl weiterer 
+Maßnahmen nach einer Kontrolle. Was in der alltäglichen Praxis als Verletzung 
+sozialer Normen sanktioniert wird, steht im Zusammenhang mit subkulturell 
+geteilten Werten und Normen. Zentral ist dabei, dass die Sozialisation in die 
+Cop Culture48 die Herausbildung eines beruflichen Selbstbildes fördern kann, 
+das in einem Antagonismus zur Umwelt steht.49 So argumentiert Behr, dass Dis-
+kriminierungspraxen von Polizeibeamt:innen als Konservierung und Verteidigung 
+einer Normalitätskonstruktion zu verstehen seien, bei der nicht unbedingt die 
+Nationalität oder Ethnizität, sondern die bedrohende Differenz der „Andersartig-
+keit“ ursächlich zugrunde liegt.50 Der Aspekt des „Dominanzgefälles“51 lässt sich 
+in polizeilichen Praxen beobachten52 und wurde von Alpert und Dunham mit der 
+Authority-Maintance-Theory (AMT) beschrieben. Zeigt das sog. polizeiliche 
+Gegenüber z. B. bei einer Kontrollmaßnahme keine Folgebereitschaft, steigt das 
+Risiko, dass Polizist:innen zu restriktiveren Zwangsmaßnahmen und gegebenen-
+falls auch zur Anwendung von Gewalt tendieren, um die Autorität in konkreten 
+
+47 Behr (2009).
+48 Behr (2008).
+49 Chappell und Lanza-Kaduce (2010), S. 23.
+50 Behr (2019), S. 32 f.
+51 Behr (2019), S. 32 f.
+52 S. dazu auch den Beitrag von Behr in diesem Band.
+
+
+
+Von Einstellungen zu polizeilichen Praxen 211
+
+Interaktionssituationen herzustellen.53 Auch wenn sich der Geltungsanspruch 
+der AMT hauptsächlich auf situative Dynamiken bezieht, zeigen Studien, dass 
+auch hier personenbezogene Merkmale wie die Herkunft oder das Geschlecht 
+eine Rolle spielen können.54 Polizeiliche Praxen beinhalten das Risiko implizit 
+Autorität herzustellen. Dies legt die Vermutung nahe, dass in Kombination mit 
+erworbenen Vorurteilen und Einstellungen die Gefahr besteht, diskriminierendes 
+Handeln zu begründen. Bisher fehlt es aber an Studien, die dieser Fragestellung 
+explizit nachgehen.
+
+6 S chlussfolgerungen für Forschung und Praxis
+
+Insgesamt ist somit festzuhalten, dass hinsichtlich des Zusammenhangs von Ein-
+stellungen und polizeilichen Praxen einige Faktoren zu berücksichtigen sind. Es 
+genügt nicht, allein die individuellen Einstellungen von Polizeibeamt:innen zu 
+betrachten, um die Frage nach Rassismus in der Polizei zu erforschen.
+
+Dies zeigt sich zum einen auf der Ebene des Individuums. Zwar ist das auto-
+matische, spontane Verhalten von Menschen durchaus von bestehenden Ein-
+stellungen geprägt, sofern diese stark verinnerlicht und leicht abrufbar sind. Doch 
+wenn die Gelegenheit und die Motivation zu einem bewussten, überlegten Ver-
+halten bestehen, wird es komplexer. Geplantes Verhalten von Polizeibeamt:innen 
+hängt neben ihren individuellen Einstellungen insbesondere auch davon ab, 
+welche sozialen Normen und welche Handlungsmöglichkeiten sie wahrnehmen.
+
+Daher sollten zum einen auch der organisationale und rechtliche Rahmen 
+polizeilichen Handelns, und zum anderen der Einfluss der wahrgenommenen 
+Kultur im relevanten sozialen Umfeld, z. B. in der Dienstgruppe, untersucht 
+werden.55 Die Unterscheidung in spontanes und überlegtes Verhalten impliziert 
+zudem unterschiedliche methodische Herangehensweisen.56 Während Fall-
+vignetten, Interviews und Fragebogenstudien dazu geeignet sind, geplantes 
+Verhalten und explizite Einstellungen zu untersuchen, bieten sich für die 
+Erforschung spontaner Handlungen eher die teilnehmende Beobachtung sowie 
+spezielle experimentelle Designs (z. B. zur Simulierung von Zeitdruck) an. 
+
+53 Alpert und Dunham (2004), S. 178 f.
+54 Bolger (2015), S. 484.
+55 Behr (2006), S. 98; Cordner (2017); Gutschmidt und Vera (2019).
+56 S. dazu auch den Beitrag von Kemme und Taefi in diesem Band.
+
+
+
+212 D. Gutschmidt und D. Czudnochowski
+
+Hiermit können auch implizite Einstellungen adressiert werden, die bei anderen 
+Befragungsformen in der Regel durch soziale Erwünschtheit verfälscht sind.57 
+Die Ergebnisse solcher Studien sind vielversprechend, jedoch auch mit einer 
+gewissen Vorsicht zu interpretieren, da implizite Einstellungen eben nicht immer 
+handlungsleitend sind. Schließlich folgen Menschen, sofern sie ihr Verhalten 
+reflektieren können und wollen, nicht zwangsläufig ihrem ersten Impuls.58
+
+Neben der psychologischen Perspektive wurde in diesem Kapitel der Blick 
+auch auf soziale Prozesse gelenkt, da sich die Frage, welche polizeilichen 
+Praxen entstehen und persistieren, nicht auf einer ausschließlich individuellen 
+Ebene beantworten lässt. Insbesondere dem Aspekt der sozialen Kontrolle 
+kommt innerhalb des Arbeitsalltags eine bedeutende Rolle zu. Hier erschließt 
+sich die methodische Notwendigkeit, das Handeln in den lebensweltlichen 
+Bezügen zu beobachten. Gerade durch teilnehmende Beobachtungen kann dabei 
+ein besonderes Augenmerk auf soziale Schutz- sowie Risikofaktoren gelegt 
+werden. So besteht eine bedeutende Forschungslücke beim Aspekt der sozialen 
+Kontrolle innerhalb des Kolleg:innenkeises. Dabei wäre konkret danach zu 
+fragen, wie beispielsweise selektive Maßnahmen in der Alltagspraxis legitimiert 
+oder sanktioniert werden. Differenziert muss dabei ebenso der Polizeialltag an 
+sich betrachtet werden. Polizeiliches Handeln und damit auch das mögliche Dis-
+kriminierungspotential unterscheidet sich je nach Organisationseinheit. Situative 
+sowie gruppenspezifische Dynamiken einer Einsatzhundertschaft können grund-
+legend von denen einer Dienstgruppe im Wach- und Wechseldienst abweichen. 
+Das mögliche Diskriminierungspotential sollte daher vom jeweiligen Arbeits-
+kontext aus untersucht werden.
+
+Ebenfalls ist die These, dass einseitig verlaufende Kontakte zu selektiven Ein-
+stellungen und entsprechenden Wissensbeständen beitragen, bislang noch nicht 
+umfassend geprüft. Die Wirkungsweisen von Maßnahmen gegen solche Wissens-
+bestände (z. B. Supervision, auf Rotation basierende Schichtmodelle) bedürfen 
+daher ebenso einer wissenschaftlichen Untersuchung.
+
+Schlussfolgernd lässt sich feststellen, dass zwischen den Einstellungen von 
+Polizeibeamt:innen und tatsächlichen polizeilichen Praxen eine Reihe möglicher 
+Einflussfaktoren sinnvoll aus psychologischen und soziologischen Theorien 
+sowie aus bisherigen Studien abgeleitet werden kann. Dazu gehören ins-
+besondere die Motivation und Gelegenheit zur Reflexion eigener Einstellungen, 
+
+57 Dovidio et al. (1997).
+58 Jonas et al. (2014), S. 228.
+
+
+
+Von Einstellungen zu polizeilichen Praxen 213
+
+der institutionelle Rahmen, der polizeiliche Alltag und Erfahrungsraum sowie die 
+Kultur auf Organisations- und Gruppenebene. Dezidierte Forschung zur näheren 
+Untersuchung dieser Zusammenhänge ist notwendig, um wirksame Maßnahmen 
+gegen Rassismus in der Polizei ableiten und umsetzen zu können.
+
+Literatur
+
+Ajzen, I. (1985). From intentions to actions: A theory of planned behavior. In J. Kuhl & 
+J. Beckmann (Hrsg.), Action Control. From Cognition to Behavior (S. 11–39). Berlin: 
+Springer.
+
+Ajzen, I., & Fishbein, M. (1977). Attitude-behavior relations: A theoretical analysis and 
+review of empirical research. Psychological Bulletin, 84, S. 888.
+
+Alkemeyer, T., & Buschmann, N. (2016). Praktiken der Subjektivierung – Subjektivierung 
+als Praxis. In H. Schäfer (Hrsg.), Praxistheorie (S. 115–136). Bielefeld: transcript.
+
+Alpert, G. P., & Dunham, R. G. (2004). Understanding police use of force officers, 
+suspects, and reciprocity. Cambridge: Cambridge University Press.
+
+Asmus, H.-J., & Enke, T. (2016). Der Umgang der Polizei mit migrantischen Opfern. Wies-
+baden: Springer VS.
+
+Behr, R. (2006). Polizeikultur: Routinen, Rituale, Reflexionen. Bausteine zu einer Theorie 
+der Praxis der Polizei. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Behr, R. (2008). Cop Culture – Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur in der Polizei. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Behr, R. (2009). Warum Polizisten oft schweigen, wenn sie reden sollten. Ein Essay zur 
+Frage des Korpsgeistes in der deutschen Polizei. In T. Feltes (Hrsg.), Neue Wege, neue 
+Ziele. Polizieren und Polizeiwissenschaft im Diskurs (S. 25–43). Frankfurt am Main: 
+Verlag für Polizeiwissenschaften.
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft (S. 17–45). 
+Wiesbaden: Springer VS.
+
+Bolger, P. C. (2015). Just Following Orders: A Meta-Analysis of the Correlates of 
+American Police Officer Use of Force Decisions. American Journal of Criminal Justice, 
+3, S. 466.
+
+Bornewasser, M. (1996). Feindselig oder überfordert? Soziale und strukturelle Belastungen 
+von Polizeibeamtinnen und -beamten im Umgang mit Fremden. In Kuratorium der 
+Polizei-Führungsakademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? Ergeb-
+nisse einer wissenschaftlichen Studie (S. 16–55). Münster: Schriftenreihe der Polizei-
+Führungsakademie.
+
+Bornewasser, M., & Eckert, R. (1995). Belastungen und Gefährdungen von Polizei-
+beamtinnen und -beamten im alltäglichen Umgang mit Fremden. Abschlussbericht zum 
+Projekt „Polizei und Fremde“. Münster: Eigenverlag.
+
+Boulstridge, E., & Carrigan, M. (2000). Do consumers really care about corporate 
+responsibility? Highlighting the attitude-behaviour gap. Journal of Communication 
+Management, 4, S. 355.
+
+Chan, J. (1996). Changing Police Culture. British Journal of Criminology, 1, S. 109.
+
+
+
+214 D. Gutschmidt und D. Czudnochowski
+
+Chappell, A. T., & Lanza-Kaduce, L. (2010). Police Academy Socialization: Understanding 
+the Lessons Learned in a Paramilitary-Bureaucratic Organization. Journal of 
+Contemporary Ethnography, 39, S. 187.
+
+Cordner, G. (2017). Police culture: individual and organizational differences in police 
+officer perspectives. Policing: An International Journal of Police Strategies & 
+Management, 40, S. 11.
+
+Correll, J., Park, B., Judd, C. M., Wittenbrink, B., Sadler, M. S., & Keesee, T. (2007). 
+Across the thin blue line: police officers and racial bias in the decision to shoot. Journal 
+of Personality and Social Psychology, 92, S. 1006.
+
+Correll, J., Hudson, S. M., Guillermo, S., & Ma, D. S. (2014). The police officer’s 
+dilemma: A decade of research on racial bias in the decision to shoot. Social and 
+Personality Psychology Compass, 8, S. 201.
+
+von Cranach, M. (1996). Toward a theory of the acting group. In E. Witte & J. H. Davis 
+(Hrsg.), Understanding Group Behavior. Small Group Processes and Interpersonal 
+Relations (S. 147–190). New York: Psychology Press.
+
+Dosdall, H. (2019). Organisationsversagen und NSU-Ermittlungen. Zeitschrift für Sozio-
+logie, 47, S. 402.
+
+Dovidio, J. F., Kawakami, K., Johnson, C., Johnson, B., & Howard, A. (1997). On the 
+nature of prejudice: Automatic and controlled processes. Journal of Experimental 
+Social Psychology, 33, S. 510.
+
+Elias, F. (2014). Einleitung. In F. Elias, A. Franz, H. Murmann & U. W. Weiser (Hrsg.), 
+Praxeologie (S. 3–12). Berlin: De Gruyter.
+
+Fazio, R. H. (1986). How do attitudes guide behavior? In R. M. Sorrentino & E. T. Higgins 
+(Hrsg.), Handbook of Motivation and Cognition: Foundations of Social Behavior 
+(S. 204–243). New York: Guilford Press.
+
+Fazio, R. H. (1990). Multiple processes by which attitudes guide behavior: The MODE 
+model as an integrative framework. In M. Zanna (Hrsg.), Advances in Experimental 
+Social Psychology (S. 75–109). New York: Academic Press.
+
+Fazio, R. H., & Zanna, M. P. (1981). Direct experience and attitude-behavior consistency. 
+In L. Berkowitz (Hrsg.), Advances in Experimental Social Psychology (S. 161–202). 
+New York: Academic Press.
+
+Feest, J., & Blankenburg, E. (1972). Die Definitionsmacht der Polizei. Strategien der Straf-
+verfolgung und soziale Selektion. Düsseldorf: Bertelsmann.
+
+Ford, R. E. (2003). Saying One Thing, Meaning Another: The Role Of Parables In Police 
+Training. Police Quarterly, 6, S. 84.
+
+Giddens, A. (1997). Die Konstitution der Gesellschaft. Frankfurt am Main: Campus-Verlag.
+Greif, S., Runde, B., & Seeberg, I. (2004). Erfolge und Misserfolge beim Change 
+
+Management. Göttingen: Hogrefe.
+Gutschmidt, D. (2020). Interkulturelle Kompetenz in der Polizei: Eine sozialpsycho-
+
+logische Betrachtung allgemeiner Faktoren und der spezifischen Rolle von Vorurteilen. 
+Polizei & Wissenschaft, 2, S. 11.
+
+Gutschmidt, D., & Vera, A. (2019). Cop Culture und Gruppenbezogene Menschenfeind-
+lichkeit in der Polizei: eine empirische Analyse. In H. Groß & P. Schmidt (Hrsg.), 
+Empirische Polizeiforschung XXIII: Polizei und Migration (S. 227–250). Frankfurt am 
+Main: Verlag für Polizeiwissenschaft.
+
+
+
+Von Einstellungen zu polizeilichen Praxen 215
+
+Herrnkind, M. (2014). „Filzen Sie die üblichen Verdächtigen!“ oder: Racial Profiling in 
+Deutschland. Polizei & Wissenschaft, 3, S. 35.
+
+Heuer, H.-J. (2009). Fremde als Belastung und Gefährdung. Zu einigen Bewertungs-
+strategien der 90er Jahre. In K. Liebl (Hrsg.), Polizei und Fremde – Fremde in der 
+Polizei (S. 45–68). Wiesbaden: Springer VS.
+
+Hunold, D. (2016). Polizei im Revier. Berlin: Duncker & Humblot.
+Hunold, D., Behr, R., Klimke, D., & Lautmann, R. (2010). Fremde als Ordnungshüter? 
+
+Die Polizei in der Zuwanderungsgesellschaft Deutschland. Wiesbaden: VS Verlag für 
+Sozialwissenschaften.
+
+Jacobsen, A. (2015). „Ohne die hätten wir hier einen entspannten Dienst“. Zur Bedeutung 
+kultureller Herkunft im polizeilichen Diskurs des Einsatz- und Streifendienstes. SIAK-
+Journal – Zeitschrift für Polizeiwissenschaft, 1, S. 41.
+
+Jaschke, H.-J. (1996). Rechtsextremismus und Fremdenfeindlichkeit bei der Polizei 
+– Expertise im Auftrag der Polizei-Führungsakademie. In Kuratorium der Polizei-
+Führungsakademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? Ergebnisse einer 
+wissenschaftlichen Studie (S. 199–220). Münster: Schriftenreihe der Polizei-Führungs-
+akademie.
+
+Johnson, D. J., Cesario, J., & Pleskac, T. J. (2018). How prior information and police 
+experience impact decisions to shoot. Journal of Personality and Social Psychology, 
+115, S. 601.
+
+Jonas, K., Stroebe, W., & Hewstone, M. (2014). Sozialpsychologie. Berlin: Springer.
+Juvan, E., & Dolnicar, S. (2014). The attitude–behaviour gap in sustainable tourism. Annals 
+
+of Tourism Research, 48, S. 76.
+Kahneman, D. (2012). Schnelles Denken, langsames Denken. München: Siedler Verlag.
+Kemme, S., Essien, I., & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? 
+
+Monatsschrift für Kriminologie und Strafrechtsreform, 103, S. 129.
+Klimke, D. (2010). Die Polizeiorganisation und ihre Migranten. In D. Hunold, R. Behr, 
+
+D. Klimke & R. Lautmann (Hrsg.), Fremde als Ordnungshüter? Die Polizei in der 
+Zuwanderungsgesellschaft Deutschland (S. 27–59). Wiesbaden: VS Verlag für Sozial-
+wissenschaften.
+
+Krott, N. R., Krott, E., & Zeitner, I. (2018). Xenophobic attitudes in German police 
+officers: A longitudinal investigation from professional education to practice. Inter-
+national Journal of Police Science & Management, 20, S. 1.
+
+Leenen, W. R., Scheitza, A., & Klarenaar, I. D. (2011). Die unterschätzte Herausforderung: 
+Implementierung interkultureller Kompetenz in der Polizei. In C. Lorei (Hrsg.), Polizei 
+& Psychologie (S. 31–61). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Leenen, W. R., Stumpf, S., & Scheitza, A. (2014). „Interkulturelle Kompetenz“ in der 
+Personalauswahl – Konzeptionalisierung und Integration in bestehende Auswahl-
+systeme. In F. Barié-Wimmer, K. von Helmolt & B. Zimmermann (Hrsg.), Inter-
+kulturelle Arbeitskontexte. Beiträge zur empirischen Forschung (S. 227–257). Stuttgart: 
+Ibidem.
+
+Mensching, A. (2016). Strukturationstheoretische Grundlagen der Organisationspädagogik. 
+In M. Göhlich, A. Schröer & S. M. Weber (Hrsg.), Handbuch Organisationspädagogik 
+(S. 1–11). Wiesbaden: Springer VS.
+
+
+
+216 D. Gutschmidt und D. Czudnochowski
+
+Meusburger, P., Koch, G., & Christmann, G. B. (2011). Nähe- und Distanz-Praktiken in der 
+Wissenserzeugung – Zur Notwendigkeit einer kontextbezogenen Analyse. In O. Ibert 
+(Hrsg.), Räume der Wissensarbeit (S. 221–249). Wiesbaden: Springer VS.
+
+Pfister, H. R., Jungermann, H., & Fischer, K. (2017). Die Psychologie der Entscheidung. 
+Berlin: Springer.
+
+Polanyi, M. (1985). Implizites Wissen. Frankfurt am Main: Suhrkamp.
+Porschen, S. (2008). Austausch impliziten Erfahrungswissens. Wiesbaden: Springer VS.
+Schneider, W., & Shiffrin, R. M. (1977). Controlled and automatic human information 
+
+processing. Detection, search, and attention. Psychological Review, 84, S. 1.
+Schöne, M. (2011). Pierre Bourdieu und das Feld Polizei: ein besonderer Fall des Mög-
+
+lichen. Frankfurt am Main: Verlag für Polizeiwissenschaften.
+Schweer, T., Strasser, H., & Zdun, S. (2008). „Das da draußen ist ein Zoo, und wir sind 
+
+die Dompteure“. Polizisten im Konflikt mit ethnischen Minderheiten und sozialen Rand-
+gruppen. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Smith, M., & Alpert, G. P. (2007). Explaining Police Bias. Criminal Justice and Behavior, 
+10, S. 1262.
+
+Wagner, U., Christ, O., & Pettigrew, T. F. (2008). Prejudice and group‐related behavior in 
+Germany. Journal of Social Issues, 64, S. 403.
+
+Dr. Daniela Gutschmidt ist Rechtspsychologin mit den Schwerpunkten Glaubhaftig-
+keitsbegutachtung und Polizeipsychologie. Zuvor hat sie an der Deutschen Hochschule der 
+Polizei zu Stress und Polizeikultur geforscht und promoviert.
+
+David Czudnochowski ist wissenschaftlicher Mitarbeiter am Centre for Security and 
+Society der Albert-Ludwigs-Universität Freiburg. Seine wissenschaftlichen Schwerpunkte 
+liegen in der Wissenssoziologie und der qualitativen Sozialforschung.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

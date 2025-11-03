@@ -1,0 +1,1022 @@
+﻿Racial Profiling als polizeiliche Praxis
+
+Johannes Niemz und Tobias Singelnstein 
+
+Zusammenfassung
+
+Polizist:innen in Deutschland wenden Racial Profiling in einem nur schwer 
+zu bestimmendem Ausmaß an. Diese Praxis ist Folge von gesellschaftlich 
+vermittelten und beruflich bedingten Stereotypen, die sowohl bewusst wie 
+auch unbewusst wirken können. Racial Profiling ist vor allem im präventiven 
+Handeln der Polizei zu finden, das zudem vorverlagert und rechtlich aus-
+geweitet wird, aber auch bei der Verdachtsschöpfung in der Strafverfolgung. 
+Racial Profiling stellt in Deutschland grundsätzlich eine unzulässige Ungleich-
+behandlung dar und ist daher, von sehr engen Ausnahmen abgesehen, rechts-
+widrig. Darüber hinaus ist es aus Sicht polizeilicher Zwecke nicht effektiv. Im 
+Ergebnis folgt aus den rassistischen Profilbildungen kein besserer Ermittlungs-
+erfolg, aber ein sich vergrößernder Vertrauensverlust bei Betroffenen und ihren 
+Communities sowie ein spezifisches gesellschaftliches Bild von Gefahr und 
+Kriminalität. Vor diesem Hintergrund werden direkte und indirekte Strategien 
+zum Umgang mit dem Problem dargestellt.
+
+J. Niemz 
+Amtsgericht Schöneberg, Berlin, Deutschland
+E-Mail: Johannes.Niemz@ag-sb.berlin.de
+
+T. Singelnstein (*) 
+Fachbereich Rechtswissenschaft, Institut für Kriminalwissenschaften und 
+Rechtsphilosophie, Goethe-Universität Frankfurt, Frankfurt am Main, Deutschland
+E-Mail: singelnstein@jur.uni-frankfurt.de
+
+© Der/die Autor(en) 2022 337
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_16
+
+
+
+338 J. Niemz und T. Singelnstein
+
+Schlüsselwörter
+
+Kontrolle · Profiling · Rassismus · Diskriminierung · Verdacht
+
+1  Begriffsbestimmung und 
+Entstehungszusammenhänge
+
+Racial Profiling ist eine spezifische Form des polizeilichen Profilings, d. h. 
+der Anwendung eines vorhandenen Profils auf den Einzelfall, die zu einem 
+selektiven Herausgreifen von Personen führt. Es handelt sich um eine Praxis der 
+Verdachtsschöpfung und Kontrolle, die sich an äußeren Merkmalen orientiert, 
+die als abweichend von einer weißen Norm gelesen werden.1 Die Europäische 
+Kommission gegen Rassismus und Intoleranz (ECRI) definiert Racial Profiling 
+wie folgt: „Die ohne objektive und vernünftige Begründung erfolgende polizei-
+liche Berücksichtigung von Merkmalen wie Rasse, Hautfarbe, Sprache, Religion, 
+Staatsangehörigkeit oder nationale oder ethnische Herkunft im Rahmen von 
+Kontrollen, Überwachungen oder Ermittlungen.“2 Alternativ wird auch der 
+Begriff des Ethnic Profiling verwendet, der nicht trennscharf abgrenzbar ist.3 
+Die Ursprünge des Begriffs stammen aus den USA. Die Drug Enforcement 
+Agency (DEA) entwickelte im Rahmen der Bekämpfung des grenzüber-
+schreitenden Drogenhandels eine Indikatorenliste, zu der Merkmale der Rasse 
+und Ethnie gehörten, die auf die erhöhte Wahrscheinlichkeit hinwies, dass 
+jemand ein Drogenkurier sei.4 Dies wurde als Racial Profiling bezeichnet. Heute 
+ist der Begriff weiter gefasst und insbesondere nicht auf deutlich sichtbare Dis-
+kriminierungen, wie im Falle einer Merkmalsliste, beschränkt.
+
+Racial Profiling stellt ein gravierendes Problem dar, das international 
+in der Arbeit von Polizeien und anderen Behörden anzutreffen ist, wie der 
+
+1 Abdul-Rahman et al. (2020), S. 8. Racial Profiling sei die „Bezeichnung für ein an 
+(i. d. R. äußerlich sichtbaren) Merkmalen von Rassen bzw. Ethnie orientiertes Kontroll-, 
+Überwachungs- und Ermittlungsverhalten insb. der Strafverfolgungsbehörden“, Frevel 
+(2018).
+2 Europäische Kommission gegen Rassismus und Intoleranz (2007), S. 4.
+3 Beispielsweise bei Cremer (2013), S. 896; Langenfeld (2016), Art. 3 Rn. 46.
+4 Diese Indikatoren beinhalteten z. B. das Sprechen der spanischen Sprache, die Einreise 
+über Flüge aus Mittel- und Südamerika, ein junges Alter, einen Ticketkauf in bar oder einen 
+nur kurzen Aufenthalt in den USA, vgl. McLaughlin (2013), S. 357.
+
+
+
+Racial Profiling als polizeiliche Praxis 339
+
+UN-Ausschuss für die Beseitigung der Rassendiskriminierung in seiner All-
+gemeinen Empfehlung Nr. 36 (2020) ausführlich dargelegt hat.5 Es kann in der 
+gesamten polizeilichen Tätigkeit in vielfältigen Interaktionen eine Rolle spielen, 
+sowohl im präventiven wie auch im repressiven Tätigkeitsbereich in vieler-
+lei Handlungssituationen stattfinden.6 Dabei kann konzeptionell zwischen ver-
+schiedenen Graden des Einflusses einschlägiger Merkmale differenziert werden 
+sowie zwischen bewusster und unbewusster Anwendung. So wird mitunter 
+zwischen direktem Racial Profiling (alleiniges Merkmal), dominantem Racial 
+Profiling (entscheidendes Merkmal unter mehreren) und unterschwelligem Racial 
+Profiling (Polizeibeamt:innen sind sich der Bedeutung der Merkmale nicht 
+bewusst) differenziert.7
+
+In der Praxis knüpfen polizeiliche Maßnahmen eher selten allein an ein 
+bestimmtes Merkmal an, sondern prägt die Gesamtheit der sozialen Situation 
+polizeiliche Auswahlentscheidungen. Neben Merkmalen der „Rasse“, können 
+dabei auch solche des sozialen Status8 oder der Religion9 von Einfluss sein. Dem-
+entsprechend sind es regelmäßig Merkmalsbündel, die für die Entscheidung der 
+Durchführung einer Maßnahme bestimmend sind und in denen die verschiedenen 
+Gruppen von Merkmalen miteinander verschränkt sind.10 In polizeilichen Ent-
+scheidungssituationen sind etwa folgende Merkmale oft von Interesse: Der Ort, 
+die Tageszeit, das Alter, das Geschlecht, sogenannte Lifestyle-Factors (z. B. die 
+Automarke und der Zustand des Autos bei einer Fahrzeugkontrolle, die Kleidung) 
+oder mitgeführte Gegenstände, die auf einen Auslandsbezug hinweisen (z. B. 
+fremdsprachige Einkaufstüten). Nicht zuletzt spielt der polizeiliche „sechste 
+Sinn“11 eine erhebliche Rolle, also ein intuitives, nicht näher definierbares 
+Gefühl, richtig zu liegen. Oft ist den Akteur:innen nicht aktiv bewusst, welches 
+Merkmal welche Rolle für die Auswahl gespielt hat.
+
+Vor allem in der juristischen Debatte ist lange ein enges Verständnis von 
+Racial Profiling vertreten worden, wonach ein solches Profiling erst dann 
+
+5 CERD/C/GC/36 vom 17. Dezember 2020.
+6 Busch (2013), S. 3 ff; Herrnkind (2014), S. 37 ff.
+7 Vgl. Schicht (2013), S. 33.
+8 Kontrollierte Personen werden häufig anhand der Kleidung, dem Äußeren im Allgemeinen 
+oder der Sprache ausgewählt, vgl. Künkel (2014), S. 281.
+9 Vgl. Miller (2008), S. 166.
+10 Abdul-Rahman et al. (2020), S. 14 ff; Behr (2017a), S. 91 ff.
+11 Herrnkind drückt dies eindrücklich durch ein Zitat aus: „Irgendwo hat ma des im Gefühl, 
+daß ma sagt, den kontrollier ich jetzt“, Herrnkind (2000), S. 199.
+
+
+
+340 J. Niemz und T. Singelnstein
+
+ anzunehmen sei, wenn „Rasse“ als einziges oder vordergründiges Merkmal für 
+die Begründung der Auswahlentscheidung herangezogen wird.12 Ein derart enges 
+Verständnis greift indes zu kurz. Es konzentriert sich praktisch auf bewusste 
+Diskriminierungen und lässt den besonders bedeutsamen Bereich unbewusster 
+Stereotype und Strukturen außen vor. Und es verdeckt diskriminierendes Handeln 
+dort, wo – wie in der Regel – in komplexen Entscheidungssituationen mehrere 
+Merkmale für die Auswahl relevant sind.13 Dementsprechend dominiert heute 
+zu Recht ein weites Verständnis des Racial Profiling, das auch unbewusste 
+Formen und Merkmalsbündel einschließt, sodass das Vorhandensein von anderen 
+Merkmalen die Einstufung als Racial Profiling nicht ausschließt.14 Als Racial 
+Profiling gilt somit jegliche polizeiliche Auswahlentscheidung, die sich alleine 
+oder neben anderen Aspekten auf Merkmale wie „Rasse“, Ethnie oder Hautfarbe 
+stützt, wenn es dafür nicht im Einzelfall konkrete Anhaltspunkte gibt (zum Bei-
+spiel eine Zeugenaussage zum Aussehen von Tatverdächtigen).
+
+Racial Profiling kann einerseits Ausdruck individueller Einstellungen15 der 
+handelnden Beamt:innen sein, lässt sich andererseits als Problem aber nicht von 
+den Aufgaben und Strukturen der Polizei als Organisation trennen, zumal Rassis-
+mus ein Problem der Gesellschaft insgesamt darstellt, das in dieser Form einen 
+spezifischen Ausdruck findet.16 Rassistische Vorurteile und Stereotype, deren 
+Ausdruck Racial Profiling gerade ist, sind Teil kognitiver Schemata und von 
+Erfahrungswissen, die in der Polizei geteilt und tradiert werden und in denen 
+Hautfarbe „zu einem Proxy für Nicht-Zugehörigkeit und Gefahr wird“17. Diese 
+Schemata und dieses Wissen bestimmen die Wahrnehmung und damit die polizei-
+liche Praxis; darin enthaltene Stereotype können zu rassifizierenden Gruppen-
+konstruktionen und entsprechenden Pauschalisierungen führen.18
+
+Racial Profiling lässt sich damit als eine Form von institutionellem Rassis-
+mus19 verstehen, weil es von der Polizei als gesellschaftlicher Institution mit 
+
+12 So z. B. Langenfeld (2016), Art. 3 Rn. 46; Kischel (2021), Art. 3 Rn. 223b; BT-
+Drs. 18/11.058, S. 2 f.
+13 Künkel (2014), S. 281. Kritisch auch Schwarzer (2014), S. 19.
+14 Cremer (2013), S. 897.
+15 S. hierzu den Beitrag von Wegner und Ellrich in diesem Band.
+16 Herrnkind (2021), S. 85 ff; Singelnstein (2021); Thompson (2018b).
+17 Belina (2016), S. 125.
+18 Brown und van Eijk (2021); Bublitz (2020); Herrnkind (2014), S. 51 ff.
+19 Vgl. Melter (2017), S. 593 ff. sowie den Beitrag von Bosch und Thurn in diesem Band.
+
+
+
+Racial Profiling als polizeiliche Praxis 341
+
+ihren Gesetzen, Regeln und Praxen ausgeht, unabhängig von den Einstellungen 
+der handelnden Beamt:innen in diese eingewoben ist und so einen gewissen 
+systematischen Charakter hat, der sich nicht alleine in der Auswahlentscheidung, 
+sondern auch in der Form der Kontrolle und weiteren Aspekten – etwa den 
+behördeninternen Reaktionen auf Verdachtsfälle des Racial Profilings oder der 
+strafjustiziellen Bewertung solcher Vorgänge – niederschlagen kann.20 Den 
+Akteur:innen muss der diskriminierende Charakter dieser Praxis nicht notwendig 
+bewusst sein.21
+
+2 B edeutung und Erscheinungsformen in der 
+polizeilichen Praxis
+
+Wenngleich der zum Thema Racial Profiling bestehende empirische Forschungs-
+stand sehr überschaubar ist, so lassen sich doch besondere Risikokonstellationen 
+identifizieren, die sich sowohl im präventiven wie auch im repressiven Bereich 
+polizeilicher Tätigkeit finden.
+
+2.1  Racial Profiling bei Prävention und Repression
+
+Für Deutschland stehen zur Praxis des Racial Profiling durch die Polizei nur 
+wenig Daten und Befunde zur Verfügung.22 Eine empirisch gesicherte Aussage 
+über den tatsächlichen Umfang des Problems ist daher kaum möglich. Auf der 
+einen Seite liegen zahlreiche Betroffenenberichte sowohl von NGOs wie auch aus 
+der Forschung vor, die ein eindrückliches Bild zeichnen.23 Auf der anderen Seite 
+
+20 Belina (2016), S. 132 ff; Künkel (2014), S. 281.
+21 McLaughlin (2013), S. 234.
+22 Schicht (2013), S. 34; Schwarzer (2014), S. 19. Anders ist dies bspw. im Vereinigten 
+Königreich. Für eine gute Analyse des Datenmaterials zur Berücksichtigung der Ethnie 
+auf allen Ebenen der Polizeiarbeit s. Fitzgerald (2013), S. 335 ff. Eine staatlich beauftragte 
+Studie, die ausschließlich das Thema Racial Profiling bei der Polizei aufgreift, wurde im 
+Jahr 2021 vom Bundesinnenministerium für „zu eindimensional“ gehalten, vgl. Presse-
+dienst des Deutschen Bundestages (2021).
+23 S. etwa Abdul-Rahman et al. (2020), S. 31 f; Kollaborative Forschungsgruppe Racial 
+Profiling (2019); Plümecke und Wilopo (2019); Golian (2019).
+
+
+
+342 J. Niemz und T. Singelnstein
+
+gibt es nur wenige Arbeiten, die sich eingehend mit dem Thema befasst haben, 
+deren Herangehen und Ergebnisse uneinheitlich sind.24
+
+Eine vergleichende Untersuchung zwischen Deutschland und Frankreich 
+in den Jahren 2011 und 2012 stellte für männliche migrantische Jugendliche in 
+Köln und Mannheim im Gegensatz zu denen in Lyon und Grenoble keine wesent-
+lich erhöhte Prävalenz verdachtsunabhängiger Personenkontrollen fest.25 Hunold 
+beobachtete in einer Studie weder explizit rassistische Handlungen noch „Ethnic 
+Profiling“, konnte aber eine „sozialraumorientierte Polizeipraxis“ feststellen, 
+die zu einer „über den Raum gesteuerte[n] Ungleichbehandlung ethnischer 
+Minderheiten“ führen könne.26 Die beiden großangelegten European Minorities 
+and Discrimination Surveys (EU-MIDIS I und II) von 2009 und 201727 deuten 
+darauf hin, dass Racial Profiling durch die Polizei in Deutschland kein kleines 
+Problem ist. Dafür sprechen auch die Zahlen zur Praxis verdachtsunabhängiger 
+Kontrollen allein durch die Bundespolizei gemäß § 22 Abs. 1a BPolG.28 In der 
+EU-MIDIS-Studie gaben Befragte mit russischer oder ex-jugoslawischer Her-
+kunft an, dass sie nicht sehr häufig wegen ihrer ethnischen Herkunft oder ihres 
+Migrationshintergrunds von der Polizei angehalten worden seien. Romn:ja und 
+Nordafrikaner:innen und Afrikaner:innen aus Ländern südlich der Sahara gaben 
+hingegen an, häufig wegen ihrer ethnischen Herkunft kontrolliert zu werden. 
+Dies weist zumindest darauf hin, dass die Gruppen mit dunklerer Hautfarbe 
+öfter kontrolliert werden als diejenigen, die nach ihrem Phänotyp das klassische 
+europäische Bild prägen.29
+
+Racial Profiling als Polizeipraxis kann prinzipiell in allen Bereichen polizei-
+licher Tätigkeit eine Rolle spielen, da die Auswahl und Feststellung von 
+Abweichungen von der Normalität zum Kern polizeilicher Tätigkeit gehören. 
+Aus rechtlicher Sicht kann es sowohl bei der Begründung eines Tatverdachts 
+im Bereich des repressives Polizeihandelns wie auch bei der Annahme einer 
+
+24 Singelnstein (2021).
+25 Oberwittler (2016), S. 414.
+26 Hunold (2015), S. 213 ff.
+27 FRA (2010a, 2017).
+28 BT-Drs. 19/19.458. Nach BT-Drs. 19/2151, S. 11 habe es gegenüber der Bundespolizei-
+direktion im Zeitraum vom 01. Januar 2017 bis 30. April 2018 lediglich 28 Beschwerden 
+im Zusammenhang mit dem Vorwurf des Racial Profilings gegeben, nur zwei seien 
+begründet gewesen.
+29 FRA (2010c), S. 7.
+
+
+
+Racial Profiling als polizeiliche Praxis 343
+
+ polizeirechtlichen Gefahr und der Störer:inneneigenschaft im präventiven Bereich 
+auftreten.30
+
+Im präventiven Bereich stehen Kontrollmaßnahmen im Zentrum der 
+Problematik. So war in den vergangenen Jahren die verdachtsunabhängige 
+Personenkontrolle nach § 22 Abs. 1a BPolG Dreh- und Angelpunkt der Dis-
+kussion um Racial Profiling. Typische Fallkonstellationen aus der Gerichts-
+praxis sind hier Kontrollen aufgrund der Hautfarbe oder weil die Betroffenen 
+aus sonstigen Gründen als fremd gelesen wurden. Die Norm ist von ihrer 
+Konzeption darauf ausgerichtet, dass der handelnde Hoheitsträger nach äußeren 
+Kriterien Ausschau nach sich unerlaubt in Deutschland aufhaltenden Personen 
+halten soll.31 Bei den polizeilichen Aktivitäten in der Silvesternacht 2016/2017 
+in Köln, wo als Reaktion auf die vorherige Silvesternacht gezielt Menschen mit 
+nordafrikanischem Phänotyp kontrolliert wurden („Nafris“32), stellte sich ebenso 
+die Frage des Racial Profilings.33 Aber auch alle sonstigen Formen polizeilicher 
+Kontrolle kommen in Betracht, etwa wegen auffälligen Auftretens „nach Art eines 
+Taschendiebes“34, wegen (vermeintlichen) Marihuana-Geruchs35, während der 
+Fortbewegung in öffentlichen Verkehrsmitteln, auf der Straße oder im PKW36 und 
+auch bei Einreisekontrollen an Grenzen offenbaren sich Entscheidungsfreiräume, 
+die durch Racial Profiling ausgefüllt werden können37.
+
+Im Bereich der Strafverfolgung spielt Racial Profiling vor allem für die 
+polizeiliche wie auch private Verdachtsschöpfung eine Rolle38, an die dann zahl-
+reiche strafprozessuale Maßnahmen anknüpfen können, wie etwa auch eine 
+Identitätsfeststellung nach § 163b StPO. Zudem gilt als relativ gesichert, dass 
+die Anzeigewahrscheinlichkeit durch Private gegenüber rassifizierten Personen 
+
+30 Vgl. McLaughlin (2013), S. 357.
+31 Die Norm ist daher schon ihrem Zweck nach auf Diskriminierung ausgelegt, Cremer 
+(2013), S. 898.
+32 So die zunächst nur polizeiintern genutzte Bezeichnung für Tatverdächtige oder 
+Störer:innen nordafrikanischer Herkunft durch die Polizei in Köln.
+33 Froese (2017), S. 293.
+34 VG Dresden, Urt. v. 02.11.2016 – 6 K 3364/14.
+35 AG Rheda-Wiedenbrück, Urt. v. 28.12.2016 – 1 AR 8/16.
+36 Umfassend zur Problematik bei Verkehrskontrollen Miller (2008), S. 161 ff. Siehe auch 
+die Ergebnisse im Kurzbericht von FRA (2010c), S. 10.
+37 Van der Leun und van der Woude (2011), S. 452.
+38 Allgemein Behr (2019), S. 20 ff; Belina und Wehrheim (2011), S. 210; s. auch den Bei-
+trag von Walburg in diesem Band.
+
+
+
+344 J. Niemz und T. Singelnstein
+
+erhöht ist.39 Die polizeiliche Suche nach noch unbekannten Tatverdächtigen kann 
+dabei nach ähnlichen stereotypen Einschätzungen wie im präventiven Handeln 
+stattfinden. Insbesondere dort, wo Freiräume durch schlechte oder fehlende Ver-
+dächtigenbeschreibungen offenstehen, können sich rassistische Klischees ihren 
+Weg bahnen. Dem vorliegenden Forschungsstand zufolge kann man davon aus-
+gehen, dass die Kriminalisierungswahrscheinlichkeit durch die Polizei für 
+bestimmte Gruppen rassifizierter Personen erheblich erhöht ist, was durch die 
+Justiz im weiteren Verlauf der Verfahren ein Stück weit ausgeglichen wird.40
+
+Die Grenze zwischen zulässigem und unzulässigem Profiling verläuft dabei 
+oft auf einem schmalen Grat. Dazu illustrativ ein Beispiel aus der polizeilichen 
+Ausbildungsliteratur41:
+
+„Nach einer Serie brutaler Raubüberfälle in Wien, Österreich, die angeblich von 
+zwei dunkelhäutigen Männern begangen wurden, erhielten die Beamten der Straf-
+verfolgung die Anweisung, alle in Gruppen auftretenden schwarzen Männer 
+anzuhalten und deren Identität festzustellen. Nachdem ein Aufschrei durch die 
+Öffentlichkeit ging, wurde die Anweisung neu formuliert und lautete nun ,Schwarz-
+afrikaner, ca. 25 Jahre alt und 170 cm groß, schlank, mit einer ... leichten Daunen-
+jacke bekleidet‘. Innerhalb eines Tages hielt die Polizei 136 Schwarze an, um sie 
+zu durchsuchen, und bei keinem von ihnen wurde eine Verbindung zu den Raub-
+überfällen festgestellt. Werden Personen aufgrund der ursprünglichen Verdächtigen-
+beschreibung angehalten, wird dies mit großer Wahrscheinlichkeit als Beispiel 
+für eine direkte Diskriminierung erachtet, während dies beim zweiten Profil wohl 
+nicht der Fall wäre. Die ethnische Zugehörigkeit des Verdächtigen ist offensichtlich 
+wichtig, um ihn ausfindig zu machen. Sie darf jedoch nicht die alleinige Grund-
+lage für gegen eine Person gerichtete Strafverfolgungsmaßnahmen sein. Aus den 
+obigen Fällen lässt sich folgern, dass der ,Verdacht‘, der bestehen muss, damit eine 
+polizeiliche Maßnahme ergriffen wird (gemäß der Forderung nach ,angemessenen 
+Gründen‘ oder gemäß einem niedrigeren Standard), auf dem Verhalten einer Person 
+oder einem ähnlichen Faktor, durch den diese Person auffällt, basieren sollte; er 
+sollte nicht auf Eigenschaften wie Rasse, ethnischer Zugehörigkeit oder Religion 
+basieren.“
+
+39 Zusammenfassend Köllisch (2009), S. 32 f; Walter (2007), S. 129 f; s. auch Mansel et al. 
+(2001), S. 288.
+40 Dittmann und Wernitznig (2003), S. 195; Mansel und Albrecht (2003), S. 679; Mansel 
+(2008), S. 551; s. aber auch Ludwig-Mayerhofer und Niemann (1997), S. 35.
+41 Beispiel nach FRA (2010b), S. 23.
+
+
+
+Racial Profiling als polizeiliche Praxis 345
+
+2.2  Profilbildung und gesetzliche Vorgaben
+
+Die Methode der Profilbildung versucht, die Weite des polizeilichen Ent-
+scheidungshorizonts einzuschränken. Aus der Menge aller verfügbaren 
+Informationen wird in einem Selektionsprozess durch Anlegung einer Profil-
+schablone versucht das herauszufiltern, was den gewünschten polizeirecht-
+lich definierten Erfolg ermöglichen kann. Dieser Selektionsprozess ist aufgrund 
+der Generalisierungen und des sich mit der Zeit etablierenden Rasterdenkens 
+anfällig für stigmatisierende Stereotype und Vorurteile.42 Das kann dazu führen, 
+dass rassifizierte Menschen häufiger kontrolliert, eher verdächtigt und so ins-
+gesamt schlechter behandelt werden als nicht fremd gelesene Menschen. Diese 
+Andersbehandlung beruht nicht auf verhaltensbezogenen Merkmalen, sondern 
+auf phänotypischen Merkmalen bzw. den Vorstellungen, die die handelnden 
+Beamt:innen von Menschen mit solchen Merkmalen haben.43 Racial Profiling 
+ist somit ein stigmatisierender Selektionsprozess, der Auswahlprozesse und 
+Maßnahmen schematisch auf äußerliche Merkmale anstatt auf das Verhalten einer 
+Person im Einzelfall stützt.
+
+Das Risiko von derart diskriminierender Polizeiarbeit ist dort besonders groß, 
+wo die rechtlichen Freiräume weit sind, wo das Gesetz also nur geringe oder 
+wenig bestimme Anforderungen an das polizeiliche Einschreiten stellt.44 Dies 
+ist etwa bei unbestimmten Rechtsbegriffen, weiten Ermessensspielräumen und 
+offenen Tatbeständen der Fall. Insbesondere im präventiven Bereich der Polizei-
+arbeit sind Entscheidungen oft schwierig zu treffen, da entweder zu viele oder 
+gar keine Informationen vorliegen. Wenn es schnell gehen muss, dann wird in 
+beiden Fällen auf den allgemeinen Erfahrungsschatz oder auch auf die Intuition 
+zurückgegriffen. Dies birgt die Gefahr, dass sich die Einzelfallentscheidung vom 
+konkreten Fall löst und in Wirklichkeit eine schablonenhafte „Erfahrungsschatz-
+entscheidung“ wird.45
+
+Diese Probleme werden dadurch verschärft, dass der Gesetzgeber zunehmend 
+Befugnisse normiert, die im Vorfeld von Gefahr und Tatverdacht angesiedelt 
+sind und damit faktisch keinen konkreten Anlass verlangen. Dies gilt für 
+
+42 Behr (2017b), S. 255 ff.
+43 Fedders (2015), S. 28.
+44 Van der Leun und van der Woude (2011), S. 450.
+45 Vgl. Stein (2021), S. 209 ff.
+
+
+
+346 J. Niemz und T. Singelnstein
+
+ verdachtsunabhängige Kontrollen46 etwa in sogenannten Gefahrengebieten oder 
+an besonders gefährlichen Orten (so bspw. § 21 Abs. 2 S. 1 Nr. 1 ASOG Bln) und 
+im Rahmen der schon genannten verdachtsunabhängigen Personenkontrollen 
+nach dem BPolG,47 aber auch für die Kategorie der drohenden Gefahr (etwa 
+Identitätsfeststellung nach Art. 13 Abs. 1 Nr. 1 lit. b) BayPAG).
+
+3 B ewertung und Folgen von Racial Profiling
+
+Aufgrund der Komplexität sozialer Wirklichkeit ist eine Selektion bei nahezu 
+allen sozialen Handlungen nötig. Staatliche Selektionsvorgänge dürfen jedoch 
+nicht willkürlich erfolgen, sondern sind rechtlich gebunden. Racial Profiling ist 
+dabei in aller Regel kein rechtmäßiger Selektionsmechanismus, sondern grund-
+sätzlich rechtswidrig.48 Darüber hinaus ist es auch im Hinblick auf polizeiliche 
+Ziele und Zwecke nicht zielführend, dafür aber mit erheblichen Folgen für 
+Gesellschaft und Betroffene verbunden.
+
+3.1  Polizeiwissenschaftliche Bewertung
+
+Aus polizeiwissenschaftlicher und kriminologischer Sicht ist Racial Profiling 
+grundsätzlich nicht geeignet, polizeiliche Ziele und Zwecke effektiv zu erreichen, 
+da die Erfolgsquoten gering sind. Es ist daher nicht nur aus rechtlicher und 
+menschenrechtlicher Perspektive grundsätzlich unzulässig, sondern auch aus 
+polizeilicher Perspektive nicht zielführend. Ausnahmen hiervon kommen allen-
+falls in ganz eng begrenzten konkreten Konstellationen in Betracht, wenn es um 
+bestimmte Delikte an konkreten Örtlichkeiten geht.
+
+Internationale Untersuchungen zum Racial Profiling bei Verkehrskontrollen 
+haben etwa gezeigt, dass Angehörige ethnischer Minderheiten zwar häufiger 
+kontrolliert und ggfs. durchsucht werden, die Erfolgsquote – d. h. das Auffinden 
+von bspw. Drogen oder Waffen – bei diesen Gruppen allerdings nicht höher oder 
+sogar niedriger ist. Es wird daher als erfolgloses Werkzeug der Polizeiarbeit 
+
+46 Zu Hamburg als Beispiel Rinn (2019), S. 93.
+47 Belina (2016), S. 138 ff; Scharlau und Witt (2019), S. 27 ff.
+48 S. dazu den Beitrag von Ruch in diesem Band.
+
+
+
+Racial Profiling als polizeiliche Praxis 347
+
+angesehen.49 In Deutschland führte in der Vergangenheit der absolute Großteil 
+von Kontrollen nach § 22 Abs. 1a BPolG nicht zur Entdeckung von unerlaubter 
+Einreise oder unerlaubtem Aufenthalt.50 Die Erkenntnisse, die aus dem äußeren 
+Erscheinungsbild einer Person gezogen werden, werden regelmäßig fehlinter-
+pretiert und überschätzt und negieren die Diversität der deutschen Gesellschaft.51 
+Rückschlüsse etwa von der Hautfarbe auf die Staatsangehörigkeit sind schlicht 
+nicht zuverlässig möglich, sodass die oftmals anzutreffende stereotype Gleichung 
+„dunkle Hautfarbe = afrikanische Staatsangehörigkeit“ einen groben Fehler 
+darstellt. Gerade bei den sog. Ausländerdelikten ist die Drittstaatsangehörig-
+keit entscheidend, nicht die Hautfarbe. Da nach den Anhängen I und II der EU-
+Visum-Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates 
+derzeit etwa 150 Staaten als Drittstaaten aufgeführt werden, ist das äußere Bild 
+der Menschen mit Drittstaatsangehörigen so divers, dass die Hautfarbe keine 
+sinnvollen Schlüsse zulässt.52
+
+Im Bereich der Strafverfolgung sind die Entstehungszusammenhänge für 
+Kriminalität in den jeweiligen sozialen Situationen und konkreten Lebens-
+umständen zu suchen und können nicht auf die Herkunft – was immer man 
+darunter versteht – oder gar den Phänotyp zurückgeführt werden.53 Dort wo 
+Strafverfolgung gleichwohl rassifizierte Personen besonders in den Blick 
+nimmt, werden ihr Zuschreibungscharakter und ihre Selektivität sichtbar.54 
+Kriminalisierungsprozesse greifen bestimmte Phänomene und Personen aus 
+einer Menge heraus und bearbeiten diese als Kriminalität, was sowohl die Wahr-
+nehmung der Beteiligten und das Rollenverständnis der Betroffenen prägt, wie 
+auch das gesellschaftliche Bild von Kriminalität.55 Solche Selektionsprozesse 
+begründen die Gefahr einer Self-Fulfilling Prophecy: Werden etwa bei der pro-
+aktiven Ermittlung von Aufenthaltsdelikten überwiegend Menschen mit dunklerer 
+
+49 Spohn (2011), S. 330 mit weiteren Nachweisen; auch Newburn (2017), S. 811.
+50 Für das Jahr 2013 wurden nach § 22 Abs. 1a BPolG 482.953 Maßnahmen durchgeführt, 
+was zu Annahmen von 19.223 unerlaubten Einreisen und 5.881 unerlaubten Aufenthalten 
+führte, s. BT-Drs. 18/453, S. 4. Damit wurde in nur ca. 5 % der Kontrollen tatsächlich ein 
+dem Gesetzeszweck des § 22 Abs. 1a BPolG entsprechendes Delikt angenommen, s. auch 
+Schwarzer (2014), S. 18.
+51 Alter (2015), S. 1569; Schwarzer (2014), S. 20.
+52 Gnüchtel (2013), S. 982.
+53 Singelnstein und Kunz (2021), § 23 Rn. 60 ff.
+54 Dazu Schicht (2013), S. 34.
+55 Singelnstein und Kunz (2021), § 13 Rn. 8 ff.
+
+
+
+348 J. Niemz und T. Singelnstein
+
+ Hautfarbe erfasst, so erhöht sich die Quote der Tatverdächtigen in diesem Bereich 
+korrespondierend. Die Ergebnisse dieser als erfolgreich empfundenen Polizei-
+arbeit wirken anschließend auf die stereotype Profilbildung zurück. Sie macht auf 
+diese Weise solche Formen der Kriminalität sichtbar, die ihren Erwartungen und 
+ihrem Erfahrungswissen entsprechen.56 Für die Polizist:innen kann eine solche 
+Etikettierung aufgrund von diskriminierenden Routinen im Laufe der Zeit zu 
+einer stereotypen Wahrnehmung der Wirklichkeit führen.57 Dies kann zur Folge 
+haben, dass Straftaten nicht entdeckt und nicht aufgeklärt werden, wie etwa die 
+Aufarbeitung der NSU-Ermittlungen gezeigt hat. People of Color werden dann 
+eher als Täter und weniger als Opfer betrachtet.58
+
+3.2  Folgen für Betroffene und Gesellschaft
+
+Racial Profiling hat zunächst massive Folgen für die davon Betroffenen und ihre 
+Communities. Es stellt zumeist keine einmalige Erfahrung dar, sondern gehört für 
+die Betroffenen oft zu ihrem Leben und Alltag. Dementsprechend werden ein-
+schlägige Kontrollen und Behandlungen in der Regel nicht als lästige Lappalie, 
+sondern als starke Ungerechtigkeit und Erniedrigung empfunden und können als 
+Form struktureller Gewalt verstanden werden.59 Das Aufdrängen von Merkmalen 
+der Gruppe auf Einzelne missachtet diese als Individuum. Zudem können solche 
+Kontrollen in weitere polizeiliche Maßnahmen münden oder auch eskalieren. 
+Racial Profiling kann auf diese Weise zu Traumatisierungen und Angstzuständen 
+führen.60
+
+Neben den individuellen Reaktionen auf die hoheitlichen Handlungen sind 
+auch deren kollektive Auswirkungen und die gesellschaftlichen Folgen zu berück-
+sichtigen.61 Racial Profiling beschädigt den gesellschaftlichen Zusammenhalt, 
+
+56 Laackman (2018), S. 654.
+57 Behr (2008), S. 191.
+58 Schwarzer (2014), S. 18 f.
+59 Plümecke und Wilopo (2019); Golian (2019), S. 187 ff; Thompson (2018a), S. 4 ff; s. 
+auch den Beitrag von Thompson in diesem Band.
+60 Abdul-Rahman et al. (2020), S. 32.
+61 Vgl. Drohla (2012), S. 415.
+
+
+
+Racial Profiling als polizeiliche Praxis 349
+
+indem Gruppen konstruiert, stigmatisiert und ausgeschlossen werden.62 Das 
+Ausnutzen von weitreichenden Eingriffsbefugnissen gegenüber Angehörigen 
+ethnischer Minderheiten und Racial Profiling können deren Vertrauen in die 
+Polizei als Institution beschädigen.63 Dabei ist die wahrgenommene Legitimität 
+staatlichen Handelns eine der wichtigsten Grundlagen polizeilicher Tätigkeit.64
+
+Im Hinblick auf die Gesellschaft ist zu berücksichtigen, dass polizeiliches 
+Handeln Signalwirkung hat. Durch ihre Praxis macht die Polizei sichtbar, was 
+und wer abweichend, gefährlich und kriminell ist. Führt Racial Profiling dazu, 
+dass bestimmte gesellschaftliche Gruppen in besonderer Weise kontrolliert und 
+behandelt werden, so verfestigt dies auch Stereotype bei Außenstehenden, die 
+bspw. eine diskriminierende Kontrolle beobachten.65 Im Bereich der Strafver-
+folgung können sich einschlägige Profilbildungen in der Verdachtsschöpfung66 
+niederschlagen, die das Hellfeld der registrierten Kriminalität und damit die 
+gesellschaftliche Debatte über Kriminalität prägt67, insbesondere im Bereich der 
+so genannten Kontrollkriminalität.
+
+4 M aßnahmen gegen Racial Profiling
+
+Der UN-Ausschuss für die Beseitigung der Rassendiskriminierung hat in 
+seiner Allgemeinen Empfehlung Nr. 36 (2020) allen Staaten umfassende 
+Maßnahmepakete gegen Racial Profiling nahegelegt, von der Gesetzgebung über 
+Aus- und Fortbildung bis hin zu Transparenz und Rechenschaft.68 In der polizei-
+lichen Praxis selbst gibt es auch für die klassischen Gebiete des Racial Profilings, 
+Verkehrskontrollen und verdachtsunabhängige Personenkontrollen, alternative 
+Handlungsoptionen. Einerseits gibt es zulässige Formen des Profilings, anderer-
+seits gibt es Strategien, die einem stereotypen Racial Profiling entgegenwirken.
+
+62 Cremer (2013), S. 899; CERD/C/GC/36 vom 17. Dezember 2020, Abschnitt VI.
+63 Newburn (2017), S. 810; zu Skandinavien Saarikkomäki et al. (2021), S. 386 ff.
+64 S. dazu auch den Beitrag von Abdul-Rahman in diesem Band.
+65 Cremer (2013), S. 898; Schwarzer (2014), S. 18.
+66 S. allgemein Behr (2019), S. 20 ff; Belina und Wehrheim (2011), S. 210; Singelnstein 
+und Kunz (2021), § 19 Rn. 12.
+67 Allgemein zum Hellfeld Singelnstein und Kunz (2021, § 15 Rn. 11 ff.).
+68 CERD/C/GC/36 vom 17. Dezember 2020, Abschnitt VIII.
+
+
+
+350 J. Niemz und T. Singelnstein
+
+4.1  Direkte Vermeidungsstrategien
+
+Racial Profiling bekommt dort Raum, wo den handelnden Polizist:innen in 
+komplexen Entscheidungssituationen vom Gesetzgeber und den Dienstvor-
+gesetzten keine hinreichenden Vorgaben für ihre Praxis gemacht werden. Eine 
+erste Strategie wäre es dementsprechend, nur Eingriffsbefugnisse mit hinreichend 
+bestimmten Voraussetzungen vorzusehen, die den handelnden Beamt:innen als 
+Grundlage dienen können.
+
+Dort wo gleichwohl Freiräume bestehen, können nichtdiskriminierende Aus-
+wahlstrategien entwickelt werden, um zu verhindern, dass sich in diesen Frei-
+räumen Stereotypen breitmachen. Für ein derart zulässiges Profiling kann als 
+grobe Richtlinie der Grundsatz formuliert werden, dass Auswahlentscheidungen 
+eher an konkretes Verhalten, Umstände und Zustände, nicht aber an das Aussehen 
+oder Merkmale der Person anknüpfen sollten.
+
+Eine Profilbildung könnte nach dem folgenden Schema konstruiert werden:
+
+• Identifikationsphase: Wonach soll gesucht werden? Definition des Zwecks der 
+Maßnahme anhand des Gesetzeszwecks
+
+• Wissensaktivierung: Welcher Erfahrungsschatz liegt verlässlich zu dem 
+Personenkreis vor?
+
+• Abstrakte Auswahl: Merkmalskatalog mit nichtdiskriminierenden Merkmalen 
+entwickeln
+
+• Konkrete Auswahl: Selektionsentscheidung im Einzelfall durch Anwendung 
+des Merkmalskatalogs
+
+Das Anknüpfen an objektive Merkmale, das sich auf verlässliche dis-
+kriminierungsfreie Erkenntnisse stützt, ist dabei der wesentliche Schritt, um 
+rassistische Stereotypen einzudämmen.69 Im Kontext der verdachtsunabhängigen 
+Personenkontrollen nach dem BPolG werden als solche Merkmale genannt: 
+der Zustand der Kleidung, der physische Zustand der Person (etwa besondere 
+Erschöpfung), Fahrkarten aus Drittstaaten, Aufschriften auf Reisegepäck, 
+besonders viel Gepäck, Mitführen von Schlafsäcken, Matten oder Camping-
+zubehör, mangelnde Ortskenntnis, schlechte Orientierung, ungewöhnlich langes 
+Einschließen in der Zugtoilette oder gesteigerte Nervosität bei Erkennen von 
+
+69 S. auch FRA (2018), S. 11. Herrnkind vermutet jedoch, dass im polizeilichen Alltag die 
+Intuition wichtiger sei als eine solche „Checkliste“, Herrnkind (2000), S. 192.
+
+
+
+Racial Profiling als polizeiliche Praxis 351
+
+Polizeibeamt:innen.70 Das Verhalten der Person muss Rückschlüsse auf die 
+unerlaubte Einreise zulassen.71
+
+Eine weitere Methode der Auswahl ist die stärkere Fokussierung auf die Ört-
+lichkeit und nicht auf die Person. Dies ist der Fall bei der Identifizierung von 
+gefährlichen Orten, Gefahrengebieten o. ä., die anlasslose Kontrollen ermög-
+lichen. Über diese „gefährlichen Orte“ muss sich zunächst eine hinreichend 
+konkrete polizeiliche Informationsmenge etabliert haben, die auf eine Gefahr 
+hindeutet, damit auch anlasslos kontrolliert werden darf.72 Diese Orte können 
+flächendeckend oder anhand abstrakter Kriterien (wie „jede 10. Person wird 
+kontrolliert“) kontrolliert werden. Eine weitere Konkretisierung, innerhalb des 
+Ortes nur Menschen mit bestimmten Phänotypen zu kontrollieren, bleibt rechts-
+widrig. Die kontrollierte Person muss im Einzelfall aufgrund ihres Verhaltens73 
+Anlass zur Kontrolle geben.
+
+Die Verlagerung auf die Örtlichkeit statt auf das Aussehen der einzel-
+nen Person ist indes nur ein grobes Raster und ihrerseits mit Problemen ver-
+bunden. Beispielsweise ist in der Praxis des § 22 Abs. 1a BPolG die Örtlichkeit 
+nur der erste eingrenzende Schritt der Selektion, der etwa in der Auswahl der 
+zu kontrollierenden Züge zu sehen ist.74 Solange jedoch nicht unterschiedslos 
+alle oder nach einem streng zufälligen Muster Personen kontrolliert werden, so 
+ist die Verlagerung auf den Ort nur eine der konkreten Selektionsentscheidung 
+vorgelagerte Filterung. Da in der ortsbezogenen Praxis niemals alle sich dort 
+befindlichen Personen kontrolliert werden können und rein zufällige Kontrollen 
+wenig erfolgsversprechend sind75, hilft die Heranziehung von Lageerkennt-
+nissen zu Örtlichkeiten bei der konkreten Selektionsentscheidung oft wenig. 
+Auch bleiben Zweifel bestehen: Werden bestimmte Verhaltensauffälligkeiten 
+oder gar rassische Merkmale zu „Lageerkenntnissen“ emporgehoben?76 Führt 
+
+70 Gnüchtel (2013), S. 981; Wagner (2013), S. 116; Kastner (2001), S. 251 ff; vgl. auch 
+Tischbirek und Wihl (2013), S. 219 sowie Alter (2015), S. 1569.
+71 Drohla (2012), S. 416.
+72 Möllers (2000), S. 383.
+73 Das bloße Übertragen der Eigenschaften des Raumes auf die sich im Raum bewegende 
+Person kann gerade für ethnische Minderheitengruppen eine systematisch über den Raum 
+gesteuerte Ungleichbehandlung darstellen, vgl. Hunold (2015), S. 217.
+74 Gnüchtel (2013), S. 981.
+75 Die rein zufällige Auswahl wäre zudem ermessensfehlerhaft, da ohne konkrete Auswahl-
+kriterien ein Fall des Ermessensausfalls vorliegt, s. Alter (2015), S. 1570.
+76 Tischbirek und Wihl (2013), S. 223.
+
+
+
+352 J. Niemz und T. Singelnstein
+
+die Definition von gefährlichen Orten anhand der Wahrnehmung, dass hier 
+von bestimmten Gruppen vermehrt Straftaten begangen werden, dazu, dass 
+abweichendes Verhalten diesen Personen unabhängig von ihrem Handeln allein 
+aufgrund des Aufenthaltes an diesem Ort zugeschrieben wird?77
+
+4.2  Indirekte Vermeidungsstrategien
+
+Indirekte Vermeidungsstrategien können an vielen Stellen ansetzen, politisch wird 
+meistens der Weg über eine Sensibilisierung in der Ausbildung und die Diversi-
+fizierung der Polizei durch eine entsprechende Einstellungspraxis gewählt.78 
+Antirassismus-Trainings, inter- und multikulturelle Kompetenzschulungen 
+sollten sowohl in der Grundausbildung wie auch auf der Führungsebene etabliert 
+werden.79 Die interkulturelle Kompetenz ist in polizeilichen Entscheidungs-
+situationen gerade dann notwendig, wenn aufgrund einer legitimen Anknüpfung 
+an eine Gruppenzugehörigkeit entschieden werden muss.80 Auch sollte zum 
+Abbau von rassistischen Stereotypen eine Konfrontation mit positiven Rollen-
+bildern aus den sozialen Milieus erfolgen, die besonders häufig von Racial 
+Profiling betroffen sind, um so einen Umlernprozess anzustoßen.81 Eine Ver-
+haltensanalyse kann mit Rollenspielen und Reflektionsübungen angeregt werden.
+
+Die Wirkungen von Aus- und Fortbildungen können jedoch nur beschränkt 
+sein, da sie nicht die einzige und auch nicht die wichtigste Quelle für polizei-
+liches Wissen sind. Was als richtig und falsch im Polizeialltag anerkannt wird, 
+formt sich vor allem durch die Alltagserfahrungen und die lokale Cop Culture.82 
+Diese Sozialisationsinstanzen sind wesentlich wichtiger für das Er- und Ver-
+lernen von Stereotypen. Die Anordnung von Fortbildungsveranstaltungen und das 
+Dienstrecht sind im Vergleich zu diesen alltäglich dominanten Lernprozessen nur 
+ein punktueller Ansatz.83 In der Wirklichkeit des Polizeialltags müsste auch an 
+
+77 Hunold (2015), S. 218.
+78 S. dazu die Beiträge von Ellebrecht und Schulz in diesem Band.
+79 Hunold (2015), S. 215.
+80 Vgl. zu diesem situativen Ansatz Jacobsen (2011), S. 154 ff.
+81 Dasgupta und Greenwald (2001), S. 800 ff.
+82 Hunold (2015), S. 15.
+83 Herrnkind (2000), S. 203. Das wissenschaftliche Wissen hat im Verhältnis zum praktisch 
+und konkret erlernten Wissen im Polizeialltag eine geringere Bedeutung, vgl. Behr (2008), 
+S. 188.
+
+
+
+Racial Profiling als polizeiliche Praxis 353
+
+den einflussreicheren Sozialisationsinstanzen angesetzt werden, um rassistischen 
+Stereotypen wirksam zu begegnen. Ohne eine Änderung der Polizist:innenkultur 
+kann Racial Profiling nicht nachhaltig angegangen werden.84
+
+Diese Herausforderungen sind eine Aufgabe gerade auch für die mittlere 
+Führungsebene der Polizei, die als unmittelbare Dienstvorgesetzte klare dis-
+kriminierungsfreie Vorgaben machen müssen, damit die einzelnen Beamt:innen 
+daran ihre Haltungen prüfen und reflektieren können.85 Damit in den identi-
+fizierten sensiblen Freiräumen möglichst wenig willkürliche Entscheidungen 
+erfolgen, sollte eine entsprechend klar formulierte Ächtung von (auch unter-
+schwelligem) Rassismus in der Polizei einen Beitrag zur Sensibilisierung leisten, 
+welcher durch entsprechende disziplinarrechtliche Verfolgung von Fehlverhalten 
+unterstrichen werden kann. Denn: Polizeiliches Handeln lässt sich auch durch 
+Erhöhung des Beanstandungsrisikos, z. B. durch Vorgesetzte oder effektivere 
+Beschwerdemöglichkeiten, beeinflussen.86
+
+Eine Sensibilisierung für rassistische Klischees kann auch dadurch 
+gefördert werden, dass eine Dokumentationspflicht eingeführt wird, die eine 
+Dokumentation der für die Auswahlentscheidung herangezogenen Kriterien vor-
+schreibt. Vorstöße gibt es beispielsweise in Bremen und Berlin mit „Kontroll-
+Quittungen“.87 Dies führt zu einer Reflektion der handelnden Beamt:innen über 
+ihre Praxis, auch wenn es keinen Schutz vor vorgeschobenen Begründungen 
+bietet. Dafür sollten entsprechend abgestimmte Formulare vorgehalten werden.
+
+Zudem könnte eine geänderte Beweislastverteilung etabliert werden, wie 
+dies im LADG Berlin vorgenommen wurde. Zwar herrscht im Verwaltungs-
+prozess grundsätzlich der Amtsermittlungsgrundsatz, bei Nichtaufklärbarkeit des 
+Geschehens – was in Fällen der Personenkontrolle wohl häufig der Fall sein wird 
+– wird aber zuungunsten des zumindest materiell beweisbelasteten Bürgers als 
+Kläger entschieden.88 Hier könnte eine andere Beweislastverteilung den ungleich 
+verteilten Beweismöglichkeiten gerecht werden und zugleich die entscheidenden 
+Beamt:innen zu einer ausreichenden Dokumentation anleiten sowie das Risiko 
+einer fehlerhaften Dokumentation dem Risikobereich des Staates auferlegen.
+
+84 Herrnkind (2000), S. 204.
+85 So auch Pettersson (2019), S. 307.
+86 Behr (2008), S. 200.
+87 Günther (2020).
+88 Zum Grundsatz der materiellen Beweislast vgl. BVerwG, NVwZ-RR 1990, 165.
+
+
+
+354 J. Niemz und T. Singelnstein
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020). Rassis-
+mus und Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. 
+Zweiter Zwischenbericht zum Forschungsprojekt „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). https://kviapol.rub.de/images/pdf/KviAPol_Zweiter_
+Zwischenbericht.pdf. Zugegriffen: 18. Juli 2022.
+
+Alter, M. (2015). Grenzziehung und Grenzüberschreitung: Zu lageabhängigen Personen-
+kontrollen nach § 22 I a BPolG. Neue Zeitschrift für Verwaltungsrecht, 34(22), S. 1567.
+
+Behr, R. (2008). Cop Culture – Der Alltag des Gewaltmonopols. 2. Aufl. Wiesbaden: VS 
+Verlag.
+
+Behr, R. (2017a). „Wir ermitteln in alle Richtungen“. In B. Frevel, H.-J. Asmus, R. Behr, 
+H. Groß & P. Schmidt (Hrsg.), Facetten der Polizei- und Kriminalitätsforschung 
+(S. 82–98). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Behr, R. (2017b). „Racial“ oder „Social“ Profiling in der Polizeiarbeit? Eine organisations-
+kulturelle Perspektive auf Diskriminierungsvorwürfe an die Polizei. In C. Kopke & W. 
+Kühnel (Hrsg.), Demokratie, Freiheit und Sicherheit, Festschrift zum 65. Geburtstag 
+von Hans-Gerd Jaschke (S. 255–272).
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft. Trans-
+disziplinäre Perspektiven zu Methoden, Theorie und Empirie reflexiver Polizeiforschung 
+(S. 17–45). Wiesbaden: Springer VS.
+
+Belina, B. (2016). Der Alltag der Anderen: Racial Profiling in Deutschland? In B. 
+Dollinger & H. Schmidt-Semisch (Hrsg.), Sicherer Alltag? (S. 123–146). Wiesbaden: 
+Springer VS.
+
+Belina, B., & Wehrheim, J. (2011). "Gefahrengebiete": durch die Abstraktion vom Sozialen 
+zur Reproduktion gesellschaftlicher Strukturen. Soziale Probleme, 22(2), S. 207.
+
+Brown, P., & van Eijk, N. (2021). Cultural Processes Shaping Stop-and-Check Practices 
+and Interaction Dynamics in a Large Dutch City: Police Vulnerabilities, Thought Styles 
+and Rituals. The British Journal of Criminology, 61(3), S. 690.
+
+Bublitz, C. (2020). Der Rassismus im eigenen Denken: Recht und Justiz müssen sich mit 
+racial bias auseinandersetzen. Verfassungsblog. https://verfassungsblog.de/der-rassis-
+mus-im-eigenen-denken. Zugegriffen: 18. Juli 2022.
+
+Busch, H. (2013). Institutionalisierter Rassismus. Racial Profiling – nicht nur bei 
+Kontrollen. Bürgerrechte & Polizei/CILIP, 104, S. 3.
+
+Cremer, H. (2013). Rassistische Diskriminierung. Anwaltsblatt, 63(12), S. 896.
+Dasgupta, N., & Greenwald, A. (2001). On the Malleability of Automatic Attitudes: 
+
+Combating Automatic Prejudice With Images of Admired and Disliked Individuals. 
+Journal of Personality and Social Psychology, 81(5), S. 800.
+
+Dittmann, J., & Wernitznig, B. (2003). Strafverfolgung und Sanktionierung bei deutschen 
+und ausländischen Jugendlichen und Heranwachsenden. Eine Untersuchung am Bei-
+spiel des Einbruchsdiebstahls. Monatsschrift für Kriminologie und Strafrechtsreform, 
+86(3), S. 195.
+
+Drohla, J. (2012). Hautfarbe als Auswahlkriterium für verdachtsunabhängige Polizei-
+kontrollen? Zeitschrift für Ausländerrecht und Ausländerpolitik, 32(11–12), S. 411.
+
+
+
+Racial Profiling als polizeiliche Praxis 355
+
+Europäische Kommission gegen Rassismus und Intoleranz (2007). Allgemeine Politische 
+Empfehlung Nr. 11. https://rm.coe.int/ecri-general-policy-recommendation-no-11-on-
+combating-racism-and-racia/16808b5ade. Zugegriffen: 18. Juli 2022.
+
+Fedders, J. (2015). Racial Profiling vor Gericht. Forum Recht, 33(1), S. 26.
+Fitzgerald, M. (2013). 'Race', ethnicity and crime. In C. Hale, K. Hayward, A. Wahidin 
+
+& E. Wincup (Hrsg.), Criminology. 3. Aufl. (S. 327–348). Oxford: Oxford University 
+Press.
+
+Frevel, B. (2018). Racial Profiling. In M. Möllers (Hrsg.), Wörterbuch der Polizei. 3. Aufl. 
+(beck-online). München: Beck. Zugegriffen: 05. Dezember 2021.
+
+Froese, J. (2017). Gefahrenabwehr durch typisierendes Vorgehen vs. Racial Profiling: Die 
+Debatte um den Kölner Polizeieinsatz in der Silvesternacht 2016/17. Deutsches Ver-
+waltungsblatt, 132(5), S. 293.
+
+FRA, European Union Agency for Fundamental Rights (2010a). European Union 
+Minorities and Discrimination Survey – Main Results Report. European Union Agency 
+for Fundamental Rights. https://fra.europa.eu/sites/default/files/fra_uploads/663-
+fra-2011_eu_midis_en.pdf. Zugegriffen: 18. Juli 2022.
+
+FRA, European Union Agency for Fundamental Rights (2010b). „Diskriminierendes 
+„Ethnic Profiling“ erkennen und vermeiden – ein Handbuch. http://fra.europa.eu/
+de/publication/2012/diskriminierendes-ethnic-profiling-erkennen-und-vermeiden. 
+Zugegriffen: 18. Juli 2022.
+
+FRA, European Union Agency for Fundamental Rights (2010c), Bericht der Reihe „Daten 
+kurz gefasst“ – Polizeikontrollen und Minderheiten. https://fra.europa.eu/sites/default/
+files/fra_uploads/1132-EU-MIDIS-police_DE.pdf. Zugegriffen: 18. Juli 2022.
+
+FRA, European Union Agency for Fundamental Rights (2017). Second European Union 
+Minorities and Discrimination Survey – Main results. https://fra.europa.eu/sites/default/
+files/fra_uploads/fra-2017-eu-midis-ii-main-results_en.pdf. Zugegriffen: 18. Juli 2022.
+
+FRA, European Union Agency for Fundamental Rights (2018). Preventing unlawful 
+profiling today and in the future: a guide. https://fra.europa.eu/sites/default/files/fra_
+uploads/fra-2018-preventing-unlawful-profiling-guide_en.pdf. Zugegriffen: 18. Juli 
+2022.
+
+Gnüchtel, R. (2013). Fahndung im Grenzgebiet, auf dem Gebiet der Bahnanlagen sowie auf 
+Verkehrsflughäfen. Neue Zeitschrift für Verwaltungsrecht, 32(15), S. 980.
+
+Golian, S. (2019). “Spatial Racial Profiling: Rassistische Kontrollpraxen der Polizei und 
+ihre Legitimationen”. In M. Wa Baile, S. O. Dankwa, T. Naguib, P. Purtschert & S. 
+Schilliger (Hrsg.), Racial Profiling: Struktureller Rassismus und antirassistischer 
+Widerstand (S. 177–194). https://doi.org/10.1515/9783839441459-011. Bielefeld: 
+transcript Verlag.
+
+Günther, R. (2020). Erst die Polizeikontrolle, dann die Quittung. Deutschlandfunk Nova. 
+https://www.deutschlandfunknova.de/beitrag/polizeikontrolle-mit-quittungen-gegen-
+racial-profiling. Zugegriffen: 18. Juli 2022.
+
+Herrnkind, M. (2000). Personenkontrollen und Schleierfahndung. Kritische Justiz, 33(2), 
+S. 188.
+
+Herrnkind, M. (2014). "Filzen Sie die üblichen Verdächtigen" oder: Racial Profiling in 
+Deutschland, Polizei & Wissenschaft, 15(3), S. 35.
+
+Herrnkind, M. (2021). Polizeirassismus in Deutschland. Kursorischer Versuch einer 
+systematischen Bestandsaufnahme. In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechts-
+
+
+
+356 J. Niemz und T. Singelnstein
+
+extremismus, Polizeigewalt (S. 85–100). Frankfurt am Main: Verlag für Polizeiwissen-
+schaft.
+
+Hunold, D. (2015). Polizei im Revier: Polizeiliche Handlungspraxis gegenüber Jugend-
+lichen in der multiethnischen Stadt. Berlin: Duncker & Humblot.
+
+Jacobsen, A. (2011). Interkulturelle Kompetenz als Methode: der situative Ansatz. Soziale 
+Probleme, 23(2), S. 154.
+
+Kastner, B. (2001). Verdachtsunabhängige Personenkontrollen im Lichte des Verfassungs-
+rechts. Verwaltungsarchiv, 92(2), S. 216.
+
+Kischel, U. (2021). Kommentierung zu Art. 3 GG. In V. Epping & C. Hillgruber (Hrsg.), 
+Beck’scher Online-Kommentar Grundgesetz. 46. Edition 15.02.2021. München: Beck.
+
+Künkel, J. (2014). Cop Culture Reloaded. Wandel und Persistenzen schutzpolizeilicher 
+Macht. Kriminologisches Journal, 46(4), S. 264.
+
+Kollaborative Forschungsgruppe Racial Profiling (2019). Racial Profiling. Erfahrung. 
+Wirkung. Widerstand. 2019.
+
+Köllisch, T. (2009). Vom Dunkelfeld ins Hellfeld. Zur Theorie und Empirie selektiver 
+Kriminalisierung Jugendlicher bei Körperverletzungsdelikten. Monatsschrift für 
+Kriminologie und Strafrechtsreform, 92(1), S. 28.
+
+Laackman, J. (2018). Racial Profiling. Eine notwendige reflexive Auseinandersetzung? 
+Kriminalistik, 72(11), S. 653.
+
+Langenfeld, L. (2016). Kommentierung zu Art. 3 GG. In T. Maunz & G. Dürig (Begr.), 
+Grundgesetz. Kommentar. München: Beck.
+
+Ludwig-Mayerhofer, W., & Niemann, H. (1997). Gleiches (Straf-)Recht für alle? Zeit-
+schrift für Soziologie, 26(1), S. 35.
+
+Mansel, J. (2008). Ausländer unter Tatverdacht. Eine vergleichende Analyse von Ein-
+stellung und Anklageerhebung auf der Basis staatsanwaltlicher Ermittlungsakten. 
+Kölner Zeitschrift für Soziologie und Sozialpsychologie, 60(3), S. 551.
+
+Mansel, J., & Albrecht, G. (2003). Migration und das kriminalpolitische Handeln staat-
+licher Strafverfolgungsorgane. Kölner Zeitschrift für Soziologie und Sozialpsychologie, 
+55(4), S. 679.
+
+Mansel, J., Suchanek, J., & Albrecht, G. (2001). Anzeigeverhalten und die Ethnie des ver-
+meintlichen Täters. Befunde einer Pilotstudie. Kriminologisches Journal, 33(4), S. 288.
+
+McLaughlin, E. (2013). Racial Profiling. In E. McLaughlin & J. Muncie (Hrsg.), The SAGE 
+Dictionary of Criminology. 3. Aufl. (S. 357–359). Thousand Oaks: SAGE Publications.
+
+Melter, C. (2017). Koloniale, nationalsozialistische und aktuelle rassistische Kontinuitäten 
+in Gesetzgebung und der Polizei am Beispiel von Schwarzen Deutschen, Roma und 
+Sinti. In K. Feiderooni & M. El (Hrsg.), Rassismuskritik und Widerstandsformen 
+(S. 589–612). Wiesbaden: Springer VS.
+
+Miller, J. (2008). Racism and Police Stops Adapting US and British Debates to Continental 
+Europe. European Journal of Criminology, 5(2), S. 161.
+
+Möllers, C. (2000). Polizeikontrollen ohne Gefahrverdacht – Ratio und rechtliche Grenzen 
+der neuen Vorsorgebefugnisse. Neue Zeitschrift für Verwaltungsrecht, 19(4), S. 382.
+
+Newburn, T. (2017). Criminology. 3. Aufl. London: Routledge.
+Oberwittler, D. (2016). Jugendliche und Polizei. Recht der Jugend und des Bildungswesens, 
+
+64(4), S. 414.
+
+
+
+Racial Profiling als polizeiliche Praxis 357
+
+Pettersson, (2019). Racial Profiling – Eine Systematisierung anhand des Verfassungsrechts. 
+Zeitschrift für Ausländerrecht und Ausländerpolitik, 39(9–10), S. 301.
+
+Plümecke, T., & Wilopo, C. S. (2019). Die Kontrolle der »Anderen«: Intersektionalität 
+rassistischer Polizeipraktiken. In M. Wa Baile, S. O. Dankwa, T. Naguib, P. Purtschert 
+& S. Schilliger (Hrsg.), Racial Profiling: Struktureller Rassismus und antirassistischer 
+Widerstand (S. 139–154). https://doi.org/10.1515/9783839441459-011. Bielefeld: 
+transcript Verlag.
+
+Pressedienst des Deutschen Bundestages (2021). Kurzmeldung vom 25.01.2021. https://
+www.bundestag.de/presse/hib/818840-818840. Zugegriffen: 18. Juli 2022.
+
+Rinn, M. (2019). „… um Zustände wie in Paris, Stockholm oder London zu verhindern“: 
+Auseinandersetzungen um Polizeikontrollen und Rassismus im „Aufwertungsgebiet“ 
+Hamburg-Altona. In F. Jobard & D. Schönpflug (Hrsg.), Politische Gewalt im urbanen 
+Raum (S. 93–118). Berlin: De Gruyter.
+
+Saarikkomäki, E., Birk Haller, M., Solhjell, R., Alvesalo-Kuusi, A., Kolind, T., Hunt, 
+G., & Burcar Alm, V. (2021) Suspected or protected? Perceptions of procedural 
+justice in ethnic minority youth's descriptions of police relations. Policing and 
+Society, 31(4), S. 386. https://doi.org/10.1080/10439463.2020.1747462.
+
+Scharlau, M., & Witt, P. (2019). Verbot von Racial Profiling – Theorie und Praxis. 
+Deutsches Polizeiblatt für Aus- und Fortbildung, 37(3), S. 27.
+
+Schicht, G. (2013). Racial Profiling bei der Polizei in Deutschland. Bildungsbedarf? 
+Beratungsresistenz? Zeitschrift für internationale Bildungsforschung und Entwicklungs-
+pädagogik, 36(2), S. 32.
+
+Schwarzer, A. (2014). Racial Profiling: Kontrollen jenseits des Rechts. Blätter für deutsche 
+und internationale Politik, 59(1), S. 17.
+
+Singelnstein, T. (2021). Rassismus in der Polizei. In A. Ruch & T. Singelnstein (Hrsg.), 
+Auf neuen Wegen. Kriminologie, Kriminalpolitik und Polizeiwissenschaft aus 
+interdisziplinärer Perspektive. Festschrift für Thomas Feltes zum 70. Geburtstag 
+(S. 379–392). Berlin: Duncker & Humblot.
+
+Singelnstein, T., & Kunz, K.-L. (2021). Kriminologie. 8. Aufl. Bern/Stuttgart: utb.
+Spohn, C. (2011). Race, Ethnicity, and Crime. In M. Tonry (Hrsg.), Oxford Handbook of 
+
+Crime and Criminal Justice (S. 323-347). Oxford: Oxford University Press.
+Stein, S. (2021). Rassismus in der Polizei – ein immanentes Problem? In T. Feltes & H. 
+
+Plank (Hrsg.), Rassismus, Rechtsextremismus, Polizeigewalt (S. 209–226.). Frankfurt 
+am Main: Verlag für Polizeiwissenschaft.
+
+Tischbirek, A., & Wihl, T. (2013). Verfassungswidrigkeit des "Racial Profiling". 
+JuristenZeitung, 68(5), S. 219.
+
+Thompson, V. (2018a). Racial Profiling im Visier. Rassismus bei der Polizei, Folgen und Inter-
+ventionsmöglichkeiten. https://www.vielfalt-mediathek.de/wp-content/uploads/2020/12/
+expertise_racial_profiling_vielfalt_mediathek_1.pdf. Zugegriffen: 18. Juli 2022.
+
+Thompson, V. (2018b). „There is no justice, there is just us!“: Ansätze zu einer post-
+kolonialen Kritik der Polizei am Beispiel von Racial Profiling. In D. Loick (Hrsg.), 
+Kritik der Polizei (S. 197–219). Frankfurt am Main: Campus Verlag.
+
+van der Leun, J., & van der Woude, M. (2011). Ethnic profiling in the Netherlands? A 
+reflection on expanding preventive powers, ethnic profiling and a changing social and 
+political context. Policing & Society, 21(4), S. 444.
+
+
+
+358 J. Niemz und T. Singelnstein
+
+Walter, J. (2007). Überrepräsentation von Minderheiten im Strafvollzug. Neue Kriminal-
+politik, 19(4), S. 127.
+
+Wagner, M. (2013). Allegorie des "racial profiling". Die Öffentliche Verwaltung, 66(3), 
+S. 113.
+
+Dr. Johannes Niemz ist gegenwärtig Betreuungsrichter des Amtsgerichts Schöneberg in 
+Berlin. Zuvor promovierte er zu einem wirtschaftsstrafprozessualem Thema und war als 
+Strafverteidiger und als Richter beim Landgericht Berlin tätig.
+
+Prof. Dr. Tobias Singelnstein war Inhaber des Lehrstuhls für Kriminologie an der Ruhr-
+Universität Bochum. Seit April 2022 ist er Professor für Kriminologie und Strafrecht am 
+Fachbereich Rechtswissenschaft der Goethe-Universität Frankfurt. Seine Arbeitsschwer-
+punkte liegen in der Kriminologie (u.a. soziale Kontrolle und Gesellschaft, Polizei und 
+Justiz, Sicherheitsforschung) sowie im Strafrecht und Strafprozessrecht.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

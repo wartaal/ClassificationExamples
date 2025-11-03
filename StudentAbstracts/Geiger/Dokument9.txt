@@ -1,0 +1,274 @@
+﻿52 Methodisches Vorgehen
+
+3.2.1.3 Feldzugänge und Rekrutierung
+
+Seit der Aufnahme der Forschungstätigkeit setzte sich das Team auf unter-
+schiedliche Weise mit dem Feld auseinander (vgl. Przyborski & Wohlrab-
+Sahr, 2021,S. 58; s.Kapitel 3.1.1.2): ErgänzendzurwissenschaftlichenLitera-
+tur spieltenMedienberichte,GesprächemitGatekeeper*innenundBeratun-
+gen durch denwissenschaftlichenBeirat eine Rolle und ermöglichten es, das
+Feld der möglichen Gesprächspartner*innen abzustecken. Die Zugänglich-
+keit der Felder unterschied sich dabei je nach Bereich, was sich als »Hürde«,
+aber auch als »Erkenntnisquelle« über das jeweilige Feld interpretieren lässt
+(Lempp et al., 2018).
+
+Am einfachsten gestaltete sich der Feldzugang bei der Zivilgesellschaft,
+da durch das Schneeballverfahren mit Gatekeeper*innen aus dem quanti-
+tativen Teil der Studie ein breites Netzwerk zu potenziellen Interviewpart-
+ner*innen bestand. Hierbei bestand die Gefahr einer Verzerrung des Sam-
+ples, da zum einen viele Organisationen und Initiativen vor allem in Groß-
+städten tätig sind; zum anderen kann davon ausgegangen werden, dass in
+Netzwerken auch bestimmte Ansichten geteilt werden, so dass hier beson-
+ders darauf geachtet wurde,möglichst diverse Perspektiven einzubeziehen.
+
+Der Zugang zu Richter*innen, Staatsanwält*innen und Anwält*innen
+gestaltete sich schwieriger. Ein erster Weg führte über deren Berufsorga-
+nisationen (Neue Richtervereinigung, Deutscher Richterbund, Deutscher
+Anwaltsverein, Republikanischer Anwälteverein, Strafverteidiger*innen-
+vereinigungen etc.). Gerade bei den Richter*innen stellte sich die Suche
+nach geeigneten Interviewpartner*innen aufgrund der randomisierten
+Fallzuständigkeiten im Rahmen der gerichtlichen Geschäftsverteilungsplä-
+ne als schwierig dar.Daherwurden in einerMedienrechercheRichter*innen
+ausfindig gemacht, die unabhängig von dessen Ausgang bereits einmal ein
+Hauptverfahren wegen Körperverletzung im Amt durch Polizeibeamt*in-
+nen durchgeführt hatten. Die entsprechenden Personen wurden über die
+Gerichtsorganisationen kontaktiert. Im Bereich der Staatsanwaltschaft war
+der Zugang über die Berufsorganisationen ebenfalls wenig erfolgreich. Die
+Interviewten wurden durch personengebundene Anfragen an die General-
+staatsanwaltschaft kontaktiert. Zudem wurden Genehmigungsanfragen an
+die Justizministerien gerichtet. Kontakte zu Anwält*innen kamen teilwei-
+se durch andere Gatekeeper*innen aus dem Bereich der Zivilgesellschaft
+zustande; teils wurden sie in ähnlicher Weise wie bei den Richter*innen
+auf Basis einer Medienrecherche kontaktiert. Der Zugang zum Feld erwies
+
+
+
+Methodisches Vorgehen 53
+
+sich hier insgesamt als komplizierter als beim zivilgesellschaftlichen Feld.
+Insbesondere konnten nur männliche Staatsanwälte als Gesprächspartner
+rekrutiert werden, was bei der Reflektion der Ergebnisse berücksichtigt
+werden muss (vgl. Littig, 2009, S. 184 f.). Um dies auch sprachlich sicht-
+bar zu machen, wird in den folgenden Kapiteln nur die männliche Form
+verwendet, sofern es um Staatsanwälte aus dem Sample der Studie geht.
+
+Im Feld der Polizei bestanden über Netzwerke ebenfalls bereits Kontak-
+te zupotenziellenGesprächspartner*innen; einigePolizeibeamt*innenmel-
+deten sich auch initiativ beim Forschungsteam und erklärten ihre Bereit-
+schaft an einem Interview teilzunehmen. Frühzeitig wurden die Innenmi-
+nisterien der Bundesländer sowie das Bundesinnenministeriumkontaktiert
+und mit einem standardisierten Informationsschreiben um die Genehmi-
+gung von ein bis drei Interviews pro Landes- bzw. Bundespolizei gebeten.
+EinigeMinisterien versagten eineGenehmigungunmittelbar oder nach etli-
+chenNachfragen.AlsBegründungwurdegenannt,dass zuviele Forschungs-
+anfragen gestellt würden, dass sich keine geeigneten Interviewpartner*in-
+nen gefunden hätten oder dass eine Teilnahme aufgrund der Sensibilität der
+Thematik nicht möglich sei. Genehmigungen erteilten schließlich 12 von 17
+Ministerien.Während einige Innenministerien dem Team bei der Wahl der
+Interviewpartner*innen freieHand ließen,wurden demForschungsteam in
+den meisten Bundesländern ein*e bis drei Interviewpartner*innen fest zu-
+gewiesen. Die sehr heterogene Genehmigungspraxis der Innenministerien
+stellte eineweitereHerausforderung in derRekrutierungder Interviewpart-
+ner*innen dar und kann als Ausdruck eines ambivalenten Verhältnisses der
+Innenpolitik zur empirischen Erforschung der Polizei gedeutet werden (vgl.
+Kemmeet al., 2022,S. 146).Eine zusätzlicheHerausforderungbei derRekru-
+tierung von Interviewpartner*innen aus dem polizeilichen Vollzug lag au-
+ßerdem in deren Sorge vor einer Deanonymisierbarkeit der Interviews, was
+auf die besondere Sensibilität desThemas für Polizeibeamt*innen verweist.
+Das Sample beinhaltet somit teils auf Eigeninitiative und teils auf ministe-
+rialer Zuweisung beruhende Interviews mit Polizeibeamt*innen.
+
+3.2.1.4 Sample: Beschreibung und Kritik
+
+Ziel eines qualitativenSamplings ist die qualitativeRepräsentation verschie-
+dener Sichtweisen auf einen Forschungsgegenstand statt einer statistischen
+Repräsentativität (Kruse, 2015, S. 241; Przyborski & Wohlrab-Sahr, 2021,
+S. 227 ff.). Die Anwendung und Aufarbeitung polizeilicher Gewalt umfasst
+
+
+
+54 Methodisches Vorgehen
+
+so viele Facetten, dass es erstrebenswert erschien, möglichst unterschied-
+liche Positionen und Wissenshintergründe in der Studie abzubilden. Dies
+wurde, soweit möglich, durch eine Kombination aus theoretischem Sam-
+pling und Schneeball-Sampling angestrebt (vgl. Przyborski & Wohlrab-
+Sahr, 2021, S. 235 f.).
+
+Es ist etwa davon auszugehen, dass sich Polizeikulturen zwischen ver-
+schiedenen Ländern und Regionen durch spezifische historische und orga-
+nisatorische Prägungen deutlich unterscheiden. Auch auf Seiten der Betrof-
+fenen sowie ihrerBerater*innenoderVertreter*innenkanneinunterschied-
+licher Umgang mit der Erfahrung übermäßiger polizeilicher Gewaltanwen-
+dungen zumindest nicht ausgeschlossen werden. Daher wurden die Bun-
+desländer in vier Kategorien (Stadtstaaten, Nord-West, Ost, Süd-West) ein-
+geteilt; eine ausgewogene Abbildung der vier Kategorien wurde angestrebt.
+In jeder Kategorie sollte mindestens eine Person befragt werden, um Kon-
+trastierungen zu erreichen (vgl. Tabelle 3).
+
+Stadtstaaten Nord-West Ost Süd-West
+Zivilgesellschaft (n = 21) 33% 24% 5% 38%
+Justiz (n = 20) 15% 35% 20% 30%
+Polizei (n = 22) 27% 18% 23% 32%
+Tabelle 3: Regionale Verteilung der Interviewten
+
+Auch Faktoren wie Alter, Geschlecht oder (zugeschriebene) Herkunft
+stellen relevante und bei der Auswahl der Interviewpartner*innen zu be-
+achtende Faktoren dar. Dannecker und Voßemer (2014) weisen im Kontext
+der Entwicklungsforschung darauf hin, dass Angehörige dominanter Bevöl-
+kerungsgruppen häufiger als Personen mit Expert*innenwissen betrachtet
+werden. Diese Überlegung lässt sich auch auf die empirische Polizeifor-
+schung übertragen: Eine kritische Betrachtung des vorliegenden Samples
+zeigt, dass die Interviewten, je höher ihre berufliche Position war, umso
+häufiger männlich waren und überwiegend als weiß gelesen wurden. Ge-
+rade bei Staatsanwaltschaft und Polizei wurden ausschließlich weiße und
+überwiegend männliche Gesprächspartner*innen gefunden (vgl. Tabelle 4).
+Dies mag die Geschlechterhierarchie in den Organisationen widerspiegeln,
+ist aber bei der Interpretation des Materials zu berücksichtigen (vgl. Littig,
+2009, S. 184 f.).
+
+Um Verallgemeinerungen treffen zu können, müssen qualitative Erhe-
+bungen zwar keine statistische Repräsentativität anstreben. Dennoch sollte
+
+
+
+Methodisches Vorgehen 55
+
+männlich gelesen weiblich gelesen
+Zivilgesellschaft (n = 21) 52% 48%
+Justiz (n = 20) 85% 15%
+Polizei (n = 22) 82% 18%
+Tabelle 4: Geschlechterverteilung der Interviewten
+
+es das Ziel sein, die Heterogenität der Wirklichkeit im Sample abzubilden
+(vgl. Kruse, 2015, S. 241).Dies ist vorliegend nur bedingt gelungen: Das Sam-
+ple beinhaltet überwiegend weiße, cis-männliche Interviewpartner*innen.
+Im Bereich von Polizei und Justiz ist dies einerseits unter Umständen auf
+den ohnehin eher geringen Anteil von Personen zurückzuführen, die nicht
+cis-männlich und nicht weiß sind. Andererseits kann die Verzerrung auch
+auf die ministeriale Genehmigungspraxis für die Interviews zurückgeführt
+werden. Im Bereich der Zivilgesellschaft zeigte sich bei der Rekrutierung,
+dass weiblich gelesene Interviewpartnerinnen teilweise sehr spezifisch
+angesprochen und von den Forscher*innen ermuntert werden mussten,
+ihr Wissen zu teilen, da sie es oftmals selbst nicht als Expert*innenwissen
+einschätzten.
+
+3.2.2 Durchführung der Erhebungen
+
+Die Durchführung der qualitativen Expert*inneninterviews erfolgte von
+Mai 2019 bis Januar 2020durch zweiwissenschaftlicheMitarbeiterinnendes
+Forschungsprojekts. Die Interviews dauerten im Durchschnitt 42 Minuten
+und wurden in der Regel in einer 1:1 Gesprächssituation geführt.
+
+3.2.2.1 Das Erhebungsinstrument
+
+DieWahl des Erhebungsinstruments war durch das explorative Erkenntnis-
+interesse bedingt (Ullrich, 2006, S. 100): Durch die Interviews mit Ex-
+pert*innen sollten ein bislang empirisch wenig erforschtes Feld beleuchtet
+und Ansatzpunkte für weitergehende Fragestellungen identifiziert werden.
+Zu diesem Zweck wurde als Erhebungsinstrument ein semistrukturierter
+Interviewleitfaden verwendet, der je nach Feld der Interviewten konkret
+ausgestaltet und adaptiert wurde (vgl. Tabelle 5). Dieses Vorgehen gewähr-
+leistete die Vergleichbarkeit der Expert*inneninterviews (vgl. Meuser &
+Nagel, 2009, S. 56). Die Erstellung des Leitfadens mittels der »SPSS-Me-
+
+
+
+56 Methodisches Vorgehen
+
+thode« (Helfferich, 2011, S. 182 ff.) diente im Vorfeld der Interviews dazu,
+Vorannahmen zu reflektieren, das eigene Wissen zu explizieren und zu
+organisieren.6 Die Fragen wurden anschließend auf ihre Gegenstandsan-
+gemessenheit, ihre Offenheit und mögliche implizite Erwartungen oder
+Tendenzen geprüft (Mey &Mruck, 2011, S. 280).
+
+Bei der konkreten Leitfadenerstellung galt in Abwägung zwischen Er-
+kenntnisinteresse und Ressourcenökonomie das Prinzip »so offen wie
+möglich, so strukturierend wie nötig« (Helfferich, 2022, S. 876). Offenheit
+bedeutete hier, dass die Interviewten eigene Begriffe nutzen konnten,
+konkrete Antwortvorschläge wurden möglichst vermieden (Helfferich,
+2022, S. 878). Die aufgeführten Fragen dienten in der Interviewsituation
+als Struktur, die gleichzeitig durch situatives Nachfragen und Um- oder
+Neuformulierungen immer wieder durchbrochen wurde. Insofern wurde
+nicht wie bei einer standardisierten Erhebung auf die Beantwortung der
+vorformulierten Fragen beharrt, da die unterschiedlichenWissensbestände
+eher expliziert als in einen Abgleich miteinander gebracht werden sollten
+(vgl. Mey & Mruck, 2011, S. 272). In die Leitfäden wurden Impulse und Fra-
+gen eingebaut, die eine alternative Gesprächsführung erlaubten (wie etwa
+die Frage, ob dem*der Gesprächspartner*in die Studie schon vor der Inter-
+viewanfrage bekannt gewesen sei), für den Fall, dass die Interviewten die
+Beantwortung von Fragen explizit oder implizit verweigern sollten. Somit
+wurde den Interviewten Raum gegeben, einer möglicherweise skeptischen
+Haltung Ausdruck zu verleihen. Zugleich bot die Antwort auf diese Frage
+Aufschluss über die Einschätzung der Problematik durch die Person und
+stellte einen alternativen Gesprächsanknüpfungspunkt dar.
+
+3.2.2.2 Durchführung der Interviews
+
+Vor Beginn der eigentlichen Erhebungsphase wurden die Leitfäden mit
+Vertreter*innen der jeweiligen Felder in einem Pretest erprobt, um spe-
+zifische Formulierungen, Fragen der Interviewführung sowie die Länge
+des Leitfadens zu überprüfen. Das mündliche und schriftliche Feedback
+der interviewten Personen zur Beantwortbarkeit der Fragen floss in die
+Gestaltung der letztgültigen Leitfäden ein (Helfferich, 2022, S. 888).
+
+6 Nach der SPSS-Methode von Helfferich (2011) werden zunächst alle Fragen zum Forschungsge-
+genstand gesammelt (S), dann auf ihre Offenheit geprüft (P), anschließend sortiert (S) und unter
+möglichst offenen Einleitungsfragen oder Erzählimpulsen subsumiert (S).
+
+
+
+Methodisches Vorgehen 57
+
+Zivilgesellschaft Justiz Polizei
+persönlicher Bezug persönlicher Bezug persönlicher Bezug
+
+Einstieg
+zumThema zumThema zumThema
+Situationen und Situationen und Situationen und
+
+Hauptteil A
+Kontexte Kontexte Kontexte
+
+Ermittlungsverfah-
+Umgangsweisen/ Anzeigeverhalten/
+
+ren/
+Hauptteil B Anzeigeverhalten/ Ermittlungsverfah-
+
+Anzeigeverhalten/
+Beratungspraxis ren
+
+Beratungspraxis
+Möglichkeit noch Möglichkeit noch Möglichkeit noch
+
+Abschluss eigene Aspekte zu eigene Aspekte zu eigene Aspekte zu
+ergänzen ergänzen ergänzen
+
+Tabelle 5: Strukturierung des Leitfadens
+
+ImRahmenvonqualitativer Sozialforschung spielen andere als die »klas-
+sischen« Gütekriterien der quantitativen Sozialforschung (Validität, Relia-
+bilität und Objektivität) eine zentrale Rolle (weiterführend dazu Przyborski
+&Wohlrab-Sahr, 2021, S. 25 ff.). Helfferich bestimmt als Gütekriterium den
+Einbezugder »Kontextgebundenheit der Textgenerierung« (2022,S. 890).Es
+gehealsodarum,»denKontextder Interviewsituationnichtnur sorgfältig zu
+gestalten, sondern auch in der Auswertung die spezifische kommunikative
+Entstehung des Textes aufzugreifen« (ebd.).UmähnlicheKontextbedingun-
+gen herzustellen, wurden alle Interviews von zwei wissenschaftlichen Mit-
+arbeiterinnen des Projekts durchgeführt. Dies hatte den Vorteil, dass bei al-
+lenGesprächen zwischen Interviewendenund Interviewten ähnliche Bedin-
+gungen bestanden: Die Interviewenden waren beide junge Frauen mit aka-
+demischer Ausbildung, die von den Interviewten daher als ähnlich kompe-
+tent eingeschätzt werden konnten (vgl. Helfferich, 2022, S. 889; weiterfüh-
+rend dazu Littig, 2009, S. 188 ff.; Meuser &Nagel, 2009, S. 54). Dennoch wa-
+ren nicht alle Interviewsituationen gleich: Die Interviews fanden an Orten
+statt, die die Interviewten selbst bestimmten. Während etwa einzelne Po-
+lizeibeamt*innen das Interview lieber in einem nicht-dienstlichen Kontext
+wie einem Café führen wollten, wurde z.B. ein Interview mit einem*einer
+Vollzugsbeamt*in auf dessen*deren explizitenWunsch hin imBüro der Vor-
+gesetzten und in deren Anwesenheit durchgeführt. Um die Durchführung
+des Interviews nicht zu gefährden, wurde dem vonseiten der Interviewerin
+zugestimmt. Teilweise baten Gesprächspartner*innen der Zivilgesellschaft
+darum, das Interview gemeinsam führen zu dürfen. Helfferich beschreibt
+Interviews als »Abbild der Interviewten-Interviewenden-Interaktion« und

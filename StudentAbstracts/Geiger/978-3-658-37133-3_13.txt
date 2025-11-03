@@ -1,0 +1,1020 @@
+﻿Rassistische Praktiken bei der Schutz- 
+und Kriminalpolizei – Die Bedeutung 
+der polizeilichen Felder für die 
+Konstruktion von Tatverdächtigen
+
+Daniela Hunold
+
+Zusammenfassung
+
+Der Beitrag geht der Frage nach, welche Felder und Handlungslogiken der 
+zwei wesentlichen Bereiche der Polizei – der Schutz- und Kriminalpolizei – 
+mit rassistischen Handlungspraktiken assoziiert sein können. Es wird deut-
+lich, dass die schutzpolizeiliche Handlungsgrundlage der Gefahrenabwehr 
+mit stereotypen Konstruktionen von Tatverdächtigen zusammenhängen, 
+die rassifizierende Zuschreibungen enthalten können. Insgesamt basieren 
+Tatverdächtigenkonstruktionen im Rahmen der Gefahrenabwehr im Wesent-
+lichen auf äußere Erscheinungen. Diese spielen in der kriminalpolizeilichen 
+Praxis eine geringere Rolle, vielmehr besitzen hier Zuordnungsprozesse von 
+Informationen zu konstruierten bzw. ermittelten Tatverdächtigengruppen 
+eine Bedeutung, die ebenfalls rassifizierende Zuschreibungen widerspiegeln 
+können.
+
+Schlüsselwörter
+
+Polizeiliche Handlungsfelder · Rassismus · Diskriminierung · Tatverdächtige ·  
+Schutzpolizei · Kriminalpolizei · Polizeikultur
+
+D. Hunold (*) 
+Fachbereich Polizei und Sicherheitsmanagement (FB 5), Campus Lichtenberg, 
+Hochschule für Wirtschaft und Recht Berlin, Berlin, Deutschland
+E-Mail: daniela.hunold@hwr-berlin.de
+
+© Der/die Autor(en) 2022 269
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_13
+
+
+
+270 D. Hunold
+
+1  Einleitung
+
+In der öffentlichen Wahrnehmung stehen für den Begriff „Polizei“ meist ver-
+allgemeinert uniformierte Beamt:innen, die im öffentlichen Raum präsent sind. 
+Auch in der öffentlichen Diskussion über Polizeihandeln wird häufig von der 
+Polizei oder den Polizeibeamt:innen gesprochen. Dies gilt letztendlich ebenso für 
+Debatten über Rassismus in der Polizei, z. B. wenn gefragt wird: „Wie rassistisch 
+ist die deutsche Polizei?“1
+
+Allerdings lässt sich die Organisation Polizei in viele verschiedene Arbeits-
+felder differenzieren und stellt sich bei näherer Betrachtung mitnichten als 
+homogenes Gebilde dar. Dementsprechend lassen sich auch keine allgemeinen 
+Aussagen zu polizeilichen Strukturen und Handlungsweisen treffen. Neben den 
+binnenkulturellen sowie -strukturellen Faktoren sind so z. B. bei der Analyse 
+rassistischen Handelns ebenso Aspekte des dienstlichen Umfeldes zu berück-
+sichtigen. Letzteres fokussiert auf außerhalb der Organisation liegende Kontexte, 
+auf welche sich alltägliche Routinen polizeilicher Arbeit beziehen. In diesem 
+Zusammenhang sind u. a. die verschiedenen Arbeitsbereiche der Schutz- und 
+Kriminalpolizei zu betrachten, da diese unterschiedliche Aufgaben erfüllen und 
+somit auch mit verschiedenen (räumlichen) Kontexten, Situationen und Personen 
+assoziiert sind.
+
+Der Beitrag verfolgt vor diesem Hintergrund das Ziel, die verschiedenen 
+dienstlichen Umfelder zu beschreiben sowie die jeweiligen Strukturen und 
+Kontexte zu identifizieren, welche (Wechsel-) Wirkungen mit rassistischen 
+Polizeipraktiken aufweisen. Im Sinne des Habituskonzeptes nach Bourdieu wird 
+dabei davon ausgegangen, dass mit dem jeweiligen dienstlichen Umfeld Prozesse 
+der Inkorporierung von Wahrnehmungs-, Denk- und Beurteilungsschemata ver-
+bunden sind, in welchen sich rassistische Einstellungen sowie Handlungsroutinen 
+widerspiegeln können.
+
+2 B ourdieus Blick auf die Polizei
+
+Pierre Bourdieusʼ Habituskonzept beschreibt soziale Praxis u. a. als Ergebnis 
+von vorbewussten, instinkthaften und unreflektierten Wahrnehmungs-, Denk- 
+und Handlungsstrukturen. Es geht weiter davon aus, dass diese nicht nur durch 
+
+1 Knight (2020).
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 271
+
+gesellschaftliche Strukturen geformt, sondern ihrerseits auch konstituierend 
+für soziale Strukturen sind. Der Habitus reflektiert somit „die Inkorporierung 
+gesellschaftlicher Strukturen und den Akteur als einem bestimmten Milieu, resp. 
+einer bestimmten Klasse zugehörig“2. Bourdieu hatte mit seinem Konzept das 
+Ziel die verschiedenen Perspektiven in der soziologischen Diskussion zur Grund-
+lage des Handelns von Akteur:innen zu verknüpfen, indem zwischen Struktur und 
+Subjekt, zwischen Objektivität und Subjektivität vermittelt wird. Im Ergebnis 
+betrachtet er den oder die Akteur:in als Individuum, das „zu einem gewissen Grad 
+selbstbestimmt handelt und zu einem gewissen Teil ein Opfer seiner Herkunft, 
+seiner Erziehung und Sozialisation ist [und] aus seinen (biographischen) Wurzeln 
+eine Begrenzung erfährt“3. Insbesondere die Sozialisation betrachtet Bourdieu als 
+Einflussfaktor für vorbewusste Wahrnehmungs-, Denk- und Handlungsstrukturen, 
+den Habitus. Spätere Entwicklungen der Individuen sind geprägt davon, dass auf 
+Basis dieser Strukturen Erfahrungen selektiert werden, die den Habitus weiter 
+ausprägen bzw. spezifizieren. Inwiefern neue Erfahrungen eine Wirkung ent-
+falten, hängt davon ab, wie kompatibel diese mit den bereits inkorporierten 
+Wahrnehmungs-, Denk- und Handlungsstrukturen sind.4 Im Allgemeinen spricht 
+man in diesem Zusammenhang auch von selektiven Wahrnehmungen, wenn 
+bestimmte Aspekte der Umwelt aufgenommen und andere ausgeblendet werden.
+
+Vor diesem Hintergrund lässt sich zunächst konstatieren, das sich 
+Polizeibeamt:innen vermutlich eher ähneln als unterscheiden hinsichtlich 
+ihrer durch Sozialisation erworbenen Habitusformen, zumindest, wenn man 
+Bourdieus Ansatz folgt, den Habitus als Ergebnis und Folge von mit Milieus 
+und Klassen assoziierten inkorporierten Strukturen zu betrachten. In vielen 
+Bundesländern ist heutzutage ein Bachelorstudium, das ein Abitur voraussetzt, 
+die Grundlage für eine Tätigkeit bei der Polizei. Das bedeutet, dass die meisten 
+Polizeibeamt:innen ein vergleichsweise hohes formales Bildungsniveau mit-
+bringen. In diesem Zusammenhang lässt sich zweifelsohne konstatieren, dass 
+dieses eine schichtspezifische Komponente aufweist, „denn die Wahrscheinlich-
+keit, dass Schüler:innen mit einem niedrigen sozioökonomischen Hintergrund 
+auf ein Gymnasium gehen, ist deutlich geringer als für Schüler:innen mit einem 
+hohen sozioökonomischen Hintergrund“5. Demzufolge ist zumindest von einer 
+
+2 Schöne (2011), S. 39.
+3 Bourdieu (2015a), S. 41.
+4 Bourdieu (2015a), S. 43.
+5 Solga und Dombrowski (2009), S. 13 f.
+
+
+
+272 D. Hunold
+
+großen Ähnlichkeit des sozioökonomischen Hintergrundes von Akteur:innen in 
+der Berufsgruppe Polizei auszugehen. Schließlich ist die Belegschaft der Polizei 
+neben der „Klasse“ hinsichtlich einer weiteren sozialen Differenzierungskate-
+gorie eher homogen strukturiert: die Ethnie. Nur einzelne Bundesländer erheben 
+Informationen zum Migrationshintergrund von Polizeianwärter:innen. Obwohl 
+sich der Anteil an Einstellungen von Menschen mit Migrationshintergrund in 
+den Polizeidienst innerhalb des letzten Jahrzehnts in den meisten Bundesländern, 
+welche diese Information vorhalten, beträchtlich erhöht hat, liegt er oftmals noch 
+deutlich unter dem Anteil der Bevölkerung mit Migrationshintergrund.6 Eine erste 
+Studie, welche sich explizit mit den Rekrutierungs- und Einstellungsbedingungen 
+von Menschen mit Wanderungsbiographie in den Polizeidienst beschäftigt 
+hat, stellte fest, dass zwar „[p]olitisch in der deutschen Polizei von Integration 
+gesprochen [wird], faktisch (und im soziologischen Sinn) aber Assimilation 
+praktiziert [wird]“7. Hiernach sind es vor allem die Prinzipien der Bestenauslese 
+und des Gleichheitsgrundsatzes, welche zur tatsächlichen Ungleichbehandlung 
+von Bewerber:innen mit Wanderungsbiographie führen, da strukturelle Bildungs-
+benachteiligungen sowie kulturelle Lebenswelten im Auswahlverfahren nicht 
+berücksichtigt werden.8 Weitere Faktoren, die eher zu einer „Vielfalt der Ähn-
+lichen“ als zur organisationalen Diversität führen, sind u. a. der Gesundheitsstatus 
+(so gibt es zumindest zu Beginn der polizeilichen Laufbahn keine Polizist:innen 
+mit Adipositas oder Anorexie), der auf Vorstrafen bezogene Leumund sowie die 
+politische Orientierung (bisher gibt es z. B. keine Erkenntnisse zu Linksextremen 
+in der Polizei). Schließlich prägen den Beruf Polizei spezifische Erfahrungen 
+und Praktiken, welche zu einem professionellen Habitus führen, welche die 
+Akteur:innen in diesem Feld miteinander verbindet.
+
+Nun ist aber die Frage, inwiefern es unter eher ähnlichen Menschen im Sinne 
+des Bourdieuschen Habituskonzeptes zu unterschiedlichen Habitusformen im 
+Berufsfeld Polizei kommen kann. Bourdieu versteht das Feld als sozialen Raum, 
+der die Praktiken der Akteur:innen strukturiert und die somit als „Orte sozialer 
+Praxis(formen)“ betrachtet werden können.9 Er deutet weiterhin das Feld als 
+relationalen Raum, d. h. weniger als statische Struktur, welche starre Praxis-
+formen hervorbringt, sondern vielmehr als gelebten Raum, der sich durch die 
+
+6 Der Mediendienst Integration hat bereits zum wiederholten Male Daten zum Migrations-
+hintergrund von Polizist:innen erhoben, vgl. Mediendienst Integration (2021).
+7 Hunold und Behr (2007), S. 35.
+8 Hunold (2008); vgl. auch Ellebrecht in diesem Band.
+9 Schöne (2011), S. 51.
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 273
+
+Dialektik von Habitus und Feld auszeichnet. Es sind also die Akteur:innen, 
+welche sich das Feld durch spezifische Deutungs- und Wahrnehmungsmuster 
+aneignen und die daraus resultierenden sozialen Praktiken wiederum inkorporiert 
+werden und den Habitus weiter selektiv spezifizieren. Nach Bourdieu existieren 
+in jedem Feld, hier Polizei, Unterfelder, „die jeweils wieder durch eine eigene 
+Logik und spezifische Regeln und Regularitäten charakterisiert sind“10. Sie 
+beschreiben jeweils eine eigene soziale Welt, sofern sie mit charakteristischen 
+Wahrnehmungs-, Deutungs- und Handlungsmustern assoziiert werden können.
+
+Vor diesem Hintergrund lässt sich das Feld Polizei mindestens in die Unter-
+felder „Kriminalpolizei“ und „Schutzpolizei“ unterscheiden. In diesen ließen 
+sich jeweils weitere Unterfelder identifizieren, wenn man hier weiterführende 
+Differenzierungen vornehmen würde. Der Beitrag beschränkt sich im Folgenden 
+jedoch auf die Beschreibung der beiden genannten Unterfelder sowie der Analyse 
+ihrer Bedeutung für rassistische polizeiliche Praktiken.
+
+3 D ie unterschiedlichen Dienstfelder – Schutz- und 
+Kriminalpolizei
+
+Zwar beginnen alle Polizeibeamt:innen ihre dienstliche Tätigkeit auf die 
+gleiche Art und Weise. So ist in einem Großteil der Bundesländer ein Bachelor-
+studium Voraussetzung für den gehobenen Polizeivollzugsdienst und somit in 
+erster Linie Abiturient:innen vorbehalten.11 Nach dem Studium ist es zudem 
+die Regel, die ersten Dienstjahre in der Bereitschaftspolizei12 zu versehen, 
+um danach üblicherweise in den „normalen“ Einsatzdienst zu wechseln. Aus-
+nahmen davon existieren u. a. in NRW und Niedersachsen, wo man sofort 
+bzw. zuerst im Wach- und Wechseldienst beginnt und u. U. später erst in die 
+
+10 Schöne (2011), S. 51.
+11 In nur wenigen Bundesländern existiert zusätzlich noch der mittlere Dienst, für den ein 
+Realschulabschluss und eine Polizeiausbildung Voraussetzungen darstellen.
+12 Die Bereitschaftspolizei ist Teil der Schutzpolizei und geprägt durch geschlossene Ein-
+heiten. Sie wird überall dort eingesetzt, wo viele Menschen zusammenkommen und wo 
+deshalb Sicherheitsprobleme antizipiert werden: Fußballspiele, Demonstrationen, Castor-
+transporte etc. Eine Teileinheit der Bereitschaftspolizei ist die Beweissicherungs- und 
+Festnahmeeinheit (BFE), deren Hauptaufgaben die Festnahme von Tatverdächtigen in 
+Großlagen sowie die Unterstützung anderer Kräfte bei der alltäglichen Dienstausübung, 
+wie z. B. bei Durchsuchungsmaßnahmen der Kriminalpolizei, sind.
+
+
+
+274 D. Hunold
+
+ Bereitschaftspolizei wechselt. Dieser ist meist mit den Aufgaben verbunden, 
+die in der öffentlichen Wahrnehmung dominieren: den Streifendiensttätigkeiten. 
+Abgesehen von Berlin, Hessen und Hamburg, wo man sich schon im Studium für 
+die Sparte „Kriminalpolizei“ entscheiden kann (und muss), ist es in den anderen 
+Bundesländern erst nach weiteren Jahren im Einsatzdienst möglich, sich für die 
+Kriminalpolizei zu bewerben, woran i. d. R. eine spezifische Fortbildungszeit 
+anschließt, welche auf die Ermittlungsarbeit fokussiert.
+
+Die Aufgabenbereiche der Schutz- und Kriminalpolizei lassen sich 
+folgendermaßen grob umreißen:
+
+Die Schutzpolizei ist rund um die Uhr über den Polizeinotruf erreichbar 
+und wenn sie gebraucht wird zuerst vor Ort, auch wenn es sich um einen Mord 
+handelt, der typischerweise kriminalpolizeiliche Aufgaben wie eine Mord-
+ermittlung nach sich zieht. Das Spektrum an Möglichkeiten der Ereignisse, zu 
+denen die Schutzpolizei gerufen wird erstreckt sich über Verkehrsunfälle, Nach-
+barschaftsstreitigkeiten, Ruhestörungen, Vermisstensuche, Überfälle, Mord bis 
+hin zur Tierrettung. Nicht umsonst ist mit dem Ausdruck „Polizei dein Freund 
+und Helfer“ oftmals der uniformierte Einsatzdienst assoziiert. In den ganz über-
+wiegenden Fällen handelt es sich bei den Einsätzen, die von diesem Teil der 
+Polizei wahrgenommen werden, um Alltagskonflikte oder Ordnungsstörungen, 
+welche von Bürger:innen nicht selbst gelöst werden (können).13 Aber die Schutz-
+polizei arbeitet nicht nur reaktiv, sondern versucht Kriminalität zu verhindern, 
+beispielsweise durch Streifenfahrten bzw. -gänge sowie verschiedene pro-
+aktive Kontrollmaßnahmen. Im Wesentlichen ist die Schutzpolizei zuständig 
+für die Aufnahme von Strafanzeigen, die Verkehrsregelung und -kontrolle, die 
+Aufnahme von Verkehrsunfällen, Fahndungen sowie die Betreuung und Über-
+wachung von Veranstaltungen. Dabei ist sie vorwiegend einem bestimmten ört-
+lichen Bereich zugeordnet (Stichwort: Reviere). Im Zusammenhang mit der 
+Schutzpolizei spielt der Begriff „erster Angriff“ eine wichtige Rolle, denn es 
+ist eine Vielzahl unspezifischer Konfliktkonstellationen, die dieser zur „Erst-
+befassung“ aufgetragen werden, egal ob eine konkrete Zuständigkeit (zur Weiter-
+bearbeitung) gegeben ist oder eine Delegation des „Falles“ an andere Behörden/
+Einrichtungen.
+
+Die Kriminalpolizei ist vordergründig mit der Verfolgung (durch Ermittlung) 
+und Sachbearbeitung der bekannt gewordenen Straftaten betraut und in der 
+öffentlichen Wahrnehmung deutlich weniger präsent. Die Mitarbeitenden sind 
+nicht uniformiert und haben i. d. R. nur im Rahmen ihrer E rmittlungstätigkeiten 
+
+13 Feltes (1991); Lehne (1992).
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 275
+
+Kontakt zu Bürger:innen, z. B. bei Vernehmungen von Tatverdächtigen, 
+Zeug:innen und Opfern. Im Kern ist die Arbeit der Kriminalpolizei davon 
+geprägt, Tatorte zu untersuchen, Beweise zu sichern und Zusammenhänge her-
+zustellen, die zur Ermittlung und Festnahme eines Täters oder einer Täterin 
+führen. Wesentliche Deliktsbereiche, auf die sich die Arbeit der Kriminalpolizei 
+bezieht, sind Wirtschafts-, Sexual-, Eigentums-, Rauschgift, Gewalt-, Tötungs- 
+und staatsgefährdende Delikte. Überregionale Ermittlungstätigkeiten werden 
+i. d. R. in den jeweiligen Landeskriminalämtern geführt. Außerdem werden in 
+der Kriminalpolizei polizeiliche Daten ermittlungsbegleitend, d. h. meist auf 
+einzelne Personen bezogene Informationen, oder zur Steuerung von Maßnahmen 
+ausgewertet und analysiert. Letzteres kann beispielsweise Kriminalitätslagebilder 
+zur Identifizierung von Schwerpunktbereichen betreffen und ist im Falle über-
+regionaler Auswertungen vornehmlich Aufgabe der Landeskriminalämter, welche 
+z. B. auch die jeweilige, landeseigene Polizeiliche Kriminalstatistik erstellen. 
+Kriminalpolizist:innen arbeiten nicht begrenzt auf einen örtlichen Bereich, 
+sondern sind überall dort, wo es Fälle und Zeug:innen gibt.
+
+Aus den hier beschriebenen Aufgabenfeldern ergeben sich mannigfaltige 
+polizeiliche Deutungsmuster und Handlungslogiken, die allerdings auch ganz 
+unterschiedlich gut erforscht sind. Die bisherige soziologische Forschung zur 
+Polizei in Deutschland fokussiert wesentlich auf die Schutzpolizei, was mög-
+licherweise in der unterschiedlichen Sichtbarkeit der Schutz- und Kriminalpolizei 
+begründet liegt.
+
+Wirft man zunächst einen soziologischen Blick auf diese zwei skizzierten 
+Bereiche der Polizei, sind diese, mit Behr gesprochen, als funktionale Sub-
+kulturen zu unterscheiden.14 Diese prägen wiederum die Interaktions- und 
+Deutungsmodi, die den jeweiligen polizeilichen Praxen zugrunde liegen. Inner-
+halb der Schutz- und Kriminalpolizei unterscheiden Schweer und Strasser 
+idealtypisch vier Organisationskulturen: „die Jäger und die Regulatoren, die 
+Sammler und die Krieger“15. Demnach zählen zivile Beamt:innen der Schutz-
+polizei zu den Jägern, weil sie auf die Aufdeckung und Verfolgung von Straf-
+taten fokussiert sind und dabei relativ viel Freiheit genießen: Sie agieren in Zivil 
+und sind weniger fremdbestimmt durch Vorgesetzte. Zu den Regulatoren zählen 
+die normalen Streifendienstbeamt:innen, ihre Arbeit ist „viel stärker in formale 
+Strukturen eingebunden“ und weniger autonom, da sie ihre Einsätze „von der 
+
+14 Vgl. Behr (2006), S. 134 ff.
+15 Schweer und Strasser (2003), S. 241; (2008).
+
+
+
+276 D. Hunold
+
+Leitstelle zugewiesen“ bekommen.16 Ihnen obliegt es zumeist, Bagatelldelikte 
+zu klären oder Konflikte zu lösen, ihre Arbeit ist grundsätzlich von Hilfs- und 
+Kontrollmaßnahmen geprägt.17 Die „Sammler“ gehören der Kriminalpolizei 
+an. Sie verfügen über größere Zeitressourcen und treten erst in Erscheinung, 
+wenn Straftaten schon passiert sind, um dann Spuren davon zu sammeln. Die 
+„Krieger“ sind in Spezialeinheiten wie dem SEK oder den BFE‘s zu finden. 
+Ihnen ist egal, mit wem sie es zu tun haben, sie sind dazu da, konkrete, über-
+schaubare Aufträge schnell und effizient zu erfüllen und benötigen dafür 
+physische, keine kommunikativen Kompetenzen.18 Darüber hinaus sind mit dem 
+von Behr formulierten Typus der Schutzmännlichkeit19 u. a. sog. Bürgernahe 
+Beamt:innen20 angesprochen. Nach Behr hat der Schutzmann „seinen genuinen 
+Bezug in der lokalen (Wohn-)Gemeinde“21. Erfolge in der Strafverfolgung sind 
+für ihn nicht (mehr) relevant, vielmehr will er sein akkumuliertes Wissen über die 
+Probleme in seinem Revier nutzen, um Alltagsprobleme zu lösen. Der Schutz-
+mann ist schon älter und kann auf lange Erfahrung zurückblicken. Behr findet 
+diesen Typus in allen polizeilichen Organisationen, d. h. er ist nicht an bestimmte 
+Dienststellen oder Einheiten gebunden. Das einzige gemeinsame Kriterium 
+ist der Kontakt zu Bürger:innen, in die er sein gesammeltes Wissen einbringen 
+kann. Bürgernahe Beamt:innen können danach als Idealtypus des Schutzmannes 
+definiert werden. In ihm amalgamieren alle für den Schutzmann beschriebenen 
+Eigenschaften und schlagen sich in einem gemeinsamen Bedeutungssystem 
+nieder.
+
+Diese idealtypischen Beschreibungen der in der Polizei vorhandenen Sub-
+kulturen lassen bereits erahnen, dass die rahmengebenden Strukturen des Arbeits-
+alltags, also das Feld Polizei, einen maßgeblichen Einfluss auf die Art und Weise 
+haben, wie die jeweiligen Beamt:innen mit der Bevölkerung in Kontakt treten, 
+welches Ziel hiermit verfolgt wird und welche Verdachtsmuster hiermit ver-
+bunden sind.
+
+16 Schweer und Strasser (2003), S. 245.
+17 Vgl. Feltes (1991).
+18 Schweer und Strasser (2008), S. 16 f.
+19 Behr (2000), S. 113.
+20 Zwar wird an dieser Stelle eine geschlechterneutrale Schreibweise gewählt, allerdings 
+beschreibt Behr seinen Typus ausschließlich für männliche Beamte.
+21 Behr (2000), S. 113.
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 277
+
+4 H andlungsmuster – Rassistische Praktiken bei 
+der Schutz- und Kriminalpolizei22
+
+Betrachtet man nun die Phänomenologie des Racial Profiling23, wird die 
+Bedeutung der schutz- und kriminalpolizeilichen Felder für die verschiedenen 
+Ausprägungen entsprechender diskriminierender Praktiken ersichtlich.
+
+Neben der Bundespolizei ist die Schutzpolizei der Länder maßgeblich 
+damit beauftragt, Personenbefragungen, Personen- und Fahrzeugkontrollen 
+sowie Durchsuchungen durchzuführen. Ziele dieser Maßnahmen sind die 
+Gefahrenabwehr sowie die Verhütung von Straftaten bzw. das Auffinden von 
+Straftäter:innen an bestimmten Orten, von denen anhand „tatsächlicher Anhalts-
+punkte erfahrungsgemäß anzunehmen ist“24, dass diese dort angetroffen oder 
+verübt werden. Nun sind diese im BremPolG beschriebenen Kriterien, welche 
+die Durchführung von Kontrollmaßnahmen legitimieren, nicht immer praxis-
+tauglich, da sie nicht auf die komplexe soziale Wirklichkeit anwendbar sind. 
+Welche sichtbaren bzw. wahrnehmbaren Kriterien führen also dazu, von einer 
+anzuwendenden Gefahr auszugehen oder davon, eine:n potenziellen Straftäter:in/
+eine potenzielle Straftat erkannt zu haben? Skolnick führt hierzu die Figur des 
+„symbolic assailant“25 ein, welche die Besonderheiten der polizeilichen Ver-
+dachtskonstruktion reflektieren soll. Hiernach identifizieren Polizeibeamt:innen 
+eine Person, von der eine Gefahr ausgehen könnte, anhand von Sprache, Aus-
+sehen und Verhalten. Dies geschieht, indem das Wahrgenommene mit der 
+sozialen Umgebung kontextualisiert und mit einer Normalitätskonstruktion 
+darüber, was als abweichend gilt und was nicht, assoziiert wird. Die polizeiliche 
+Einschätzung dessen, was normal oder nicht normal ist, hängt dann von Kontext-
+faktoren ab. Weil Polizist:innen ständig alarmiert sind, achten sie auf kleinste 
+Abweichungen von der Norm, d. h. Personen, die in irgendeiner Hinsicht nicht 
+in den sozialen und situativen Kontext passen, erscheinen in der polizeilichen 
+Wahrnehmung verdächtig. Passend hierzu beschreibt Waddington das Erleb-
+nis eines Freundes, der sich – obwohl wohlhabend – nachts nach der Rückkehr 
+aus einem Urlaub in Monte Carlo nicht mit dem Taxi, sondern zu Fuß auf den 
+
+22 Folgende Abschnitte wurden teilweise bereits veröffentlicht in Hunold (2015).
+23 Herrnkind (2014), S. 37.
+24 Auszug aus § 11 BremPolG.
+25 Skolnick (1966), S. 45 ff.
+
+
+
+278 D. Hunold
+
+Heimweg machte.26 Ein Polizist, der ihn anhielt und fragte, woher er komme, 
+glaubte ihm nicht und wies ihn an, seine Taschen zu leeren. Es scheint eben unüb-
+lich, in einer englischen Stadt als Fußgänger unterwegs zu sein und soeben aus 
+einer weltbekannten Stadt der Reichen zu kommen. Auch andere scheinbare 
+Inkongruenzen wecken den polizeilichen Verdacht, z. B. eine Schwarze Person, 
+die durch eine von Weißen geprägte Wohngegend läuft. Die polizeiliche Kontrolle 
+aufgrund der fehlenden Passung von sichtbarer Herkunft und sozialräumlichem 
+Kontext nannte Sacks „incongruity procedure“27. Um augenblickliche Ver-
+dachtsmomente konstruieren zu können, ziehen Polizist:innen leicht wahrnehm-
+bare Merkmale heran, die schnelle Hinweise auf potenzielle Aggressor:innen 
+geben.28 Solche Merkmale „point to incongruence as the primary basis for 
+stimulating suspicion“29. Persönliche Kennzeichen wie Kleidung und Haut-
+farbe bieten z. B. eine Grundlage dafür. Andererseits können die gleichen 
+Merkmale schon bestehende Verdachtskonstruktionen bedienen, z. B. wenn sie 
+Assoziationen zu subkulturellen Milieus wecken, die in der polizeilichen Wahr-
+nehmung in Verbindung zu bestimmten Delikten stehen.30 Dieser Form der Ver-
+dachtskonstruktion ist ein Circulus Vitiosus inhärent: Die vorgefertigten Bilder 
+über potenzielle Täter führen zu selektiver Kontrolle, selektive Kontrolle führt zur 
+Überrepräsentanz entsprechender Tatverdächtiger und die Überrepräsentanz führt 
+schließlich zur Bestätigung der konstruierten Täterprofile. Damit manifestieren 
+sich auch unabhängig vom tatsächlichen Verhalten Annahmen darüber, wer 
+kriminell ist. In der Vorstellung der Polizist:innen ist es dann durchaus legitimiert, 
+bestimmte Personengruppen wegen bestimmter Delikte zu verdächtigen und zu 
+kontrollieren, denn die „harten Fakten“ lassen keine anderen Schlussfolgerungen 
+zu. Hier handelt es sich um Vorurteile, die auf scheinbaren Fakten basieren, 
+die polizeilich produziert sind, also um „self-fulfilling-prophecies“31. Sobald 
+Verdachtsgenerierungen stärker auf Deutungen von äußeren Merkmalen der 
+betreffenden Personen rekurrieren anstatt auf konkrete Verhaltensweisen, sind 
+sie als besonders definitionsmächtig zu sehen. So ist es möglich, dass Polizisten 
+Bürger:innen in bestimmte Gruppen für bestimmte polizeiliche Maßnahmen ein-
+teilen können. Wenn aber Polizist:innen ihre Verdachtsentscheidungen scheinbar 
+
+26 Waddington (1999), S. 62 f.
+27 Sacks (1972), S. 283.
+28 Skolnick (1966), S. 45.
+29 Loftus (2009), S. 12.
+30 Jobard und Levy (2009), S. 30.
+31 Merton (1948).
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 279
+
+auch von persönlichen Merkmalen abhängig machen können, sind Muster von 
+„routine harassment“32 wie „racist profiling“33 möglich.
+
+Mit den hier beschrieben Bedingungen für die polizeiliche Verdachts-
+konstruktion sind soziale Prozesse der an die Institution gebundene Wissens-
+generierung assoziiert. Wissen kann in diesem Zusammenhang als eine Mischung 
+aus berufsspezifischen Erfahrungen und Narrativen betrachtet werden, in denen 
+direkte oder indirekte Erfahrungen unter Kolleg:innen verarbeitet werden.34 
+„Ein Narrativ kann als eine vergangene Erfahrung verstanden werden, die das 
+komplexe Erinnern vereinfacht“35. Es transportiert normative Regelsysteme, 
+welche das polizeiliche Handeln anleiten und strukturieren.
+
+Nun ist die Frage, welche Inhalte das Wissen der Schutzpolizei über Menschen 
+und Orte transportiert, welche den Kontakt mit der Polizei verdächtigen Personen 
+strukturiert. Da die Schutzpolizei in räumliche Zuständigkeitsbereiche aufgeteilt 
+ist, zeigen zahlreiche Studien, dass das Wissen über räumliche Abschnitte eine 
+große Bedeutung bei der Legitimierung polizeilichen Handelns aufweist.36 In 
+diesem Zusammenhang lässt sich konstatieren, dass polizeiliche Raumdeutungen 
+bzw. polizeilich gebundenes Wissen über den Raum vor allem mit sozialen 
+Merkmalen wie Geschlecht, Ethnie und Klasse assoziiert sind.
+
+Zahlreiche Studien – vor allem aus dem angloamerikanischen Raum – konnten 
+bereits nachweisen, dass diese sozialen Ungleichheitskategorien in der polizei-
+lichen Handlungspraxis insofern eine Rolle spielen, als Polizeimaßnahmen 
+wie Identitätsfeststellungen vor allem Angehörige unterer sozialer Schichten, 
+ethnische Minderheitengruppen sowie junge Männer adressieren.37 Inwiefern 
+die Konstitution von Raum durch die Polizei mit den sozialen Strukturmerk-
+malen Klasse und Ethnie verknüpft ist, zeigen Studien auf, die einen Mediations-
+effekt von Stadtteilen bzw. der Bevölkerungsstruktur in bestimmten Räumen 
+und erhöhten Kontrollmaßnahmen bzw. repressiveren Maßnahmen gegenüber 
+sozial Benachteiligten und Angehörigen ethnischer Minderheitengruppen fest-
+gestellt haben.38 Dass spezifische Merkmale sozialer Benachteiligung erst über 
+
+32 Waddington (1999), S. 35.
+33 Herrnkind (2014), S. 37.
+34 Grutzpalk (2016); Hunold (2016); Behr (2019).
+35 Dangelmaier (2021), S. 362; nach Assmann (1995), S. 52.
+36 Herbert (1997); Fagan und Davies (2000); Yarwood (2007); Belina (2006).
+37 Z.B. Fagan und Davies (2000); Phillips und Bowling (2007).
+38 Z.B. Roh und Robinson (2009); Terril und Reisig (2003).
+
+
+
+280 D. Hunold
+
+die Konstruktion von Raum Bedeutung für polizeiliche Verdachtskonstruktionen 
+erlangen, wurde bisher in wenigen deutschen Studien nachgezeichnet.39 Welche 
+Rolle Geschlechterkonstruktionen in der polizeilichen Raumwahrnehmung 
+spielen, wurde hierzulande bisher allenfalls ansatzweise im Zusammenhang 
+mit doing masculinity in Polizei-Bürger:innen-Interaktionen diskutiert.40 Dem-
+entsprechend sind es vor allem Cliquen junger Männer, deren Verhalten meist 
+der Inszenierung von Männlichkeit dient und das sich durch „Sichtbarkeit und 
+Konfrontation“ auszeichnet41, die von Schutzpolizist:innen als Autoritätsproblem 
+wahrgenommen werden. Weiterhin zeigt sich, dass es hier vor allem sogenannte 
+„Südländer“ sind, denen Respektlosigkeit gegenüber der Polizei zugeschrieben 
+wird.42
+
+Es kann vor dem Hintergrund der bisherigen Darstellungen angenommen 
+werden, dass polizeiliche Konstruktionen von Raum und sozialen Merkmalen 
+durch Narrative, Handlungspraktiken im Raum und in der Interaktion mit 
+der Bevölkerung soziale Ordnung (mit-)gestaltet, indem ungleiche soziale 
+Bedingungen durch institutionelles Handeln räumlich fixiert werden.43 
+Polizist:innen entwickeln in diesem Zusammenhang keine an die soziale Ordnung 
+im sozial deprivierten Revier angelehnte Normalitätserwartung für ihre Ver-
+dachtskonstruktion, sie orientieren sich vielmehr an Ordnungsvorstellungen eher 
+traditionell und konservativ ausgerichteter Normen. Hierbei dürfte ebenfalls der 
+durch Sozialisation geprägte Habitus und die damit verbundene „Klassenzuge-
+hörigkeit“ vieler Polizist:innen eine Rolle spielen. Die Polizei verändert durch 
+ihr Handeln aktiv raumbezogene Images und (re-)produziert so ihre eigenen 
+Erwartungen an die Menschen und potenziellen Täter:innen in bestimmten 
+Räumen.44 Ihre Handlungen sind generell darauf ausgerichtet, die institutions-
+spezifischen Normalitätsvorstellungen durchzusetzen. Durch ihre Handlungs-
+praktiken sowie die daran angelehnten Verdachtskonstruktionen (re-)strukturieren 
+sie auch soziale Ordnung im Raum, denn was hierdurch existent oder etabliert 
+wird, „ist ein sozialer Raum, ein Raum von Unterschieden, in denen die Klassen 
+gewissermaßen virtuell existieren, unterschwellig, nicht als gegebene, sondern 
+
+39 Z.B. Hunold (2015); Hunold et al. (2021); Belina und Wehrheim (2011).
+40 Z.B. Kersten (1997); Hunold (2015, 2019); Hunold et al. (2021).
+41 Kersten (1998), S. 126.
+42 Hunold (2015), S. 160.
+43 Hunold et al. (2021).
+44 Vgl. Belina und Wehrheim (2011), S. 219.
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 281
+
+als herzustellende“45. Der Raum besitzt folglich eine gesellschaftliche Topologie: 
+„Einige Menschen stehen ‚oben‘, andere ‚unten‘, noch andere ‚in der Mitte‘“46. 
+Vor diesem Hintergrund stellt sich die Frage nach der Verteilung der Produktion 
+von Sicherheit. Denn es ist nicht anzunehmen, dass ein allgemeingültiges Ver-
+ständnis von Sicherheit bzw. ein allgemeingültiges Bedürfnis danach existiert: 
+Was die einen als wünschenswerte Sicherheit ansehen, kann die Sicherheit der 
+anderen einschränken; wer die Diskussionen um Trinker und Suchtkranke in den 
+Innenstädten verfolgt, weiß wovon die Rede ist.47
+
+Das Feld der Kriminalpolizei gestaltet sich völlig anders als das der Schutz-
+polizei. Dies begründet sich vor allem durch den Charakter der Ermittlungs-
+arbeit, welche nicht derart mit der Konstruktion von Raum verbunden ist wie 
+bei der Schutzpolizei und vor allem reaktiv verläuft. Die Figur des „symbolic 
+assailant“ gewinnt für die kriminalpolizeiliche Arbeit deshalb in völlig anderer 
+Form eine Bedeutung. Da diese vor allem durch Strafverfolgungsprozesse und 
+weniger durch das rechtliche Konstrukt der Gefahrenabwehr strukturiert ist, gilt 
+es eher die richtigen Täter:innen zu ermitteln, als Personen zu identifizieren, 
+von denen eine potenzielle Gefahr ausgehen kann. Deshalb müssen: „im Ver-
+lauf polizeilicher Sachbearbeitung […] kontinuierlich Richtungsentscheidungen 
+getroffen werden, zum Beispiel zur Einengung des Verdächtigenkreises oder zur 
+Konstruktion möglicher Versionen eines Tatverlaufs“48. Solche Richtungsent-
+scheidungen unterliegen mitunter Pfadabhängigkeiten, welche wiederum von 
+kriminalpolizeilichen Verdachtskonstruktionen bestimmt sind. Entsprechende 
+Verdachtskonstruktionen lassen sich besonders eindrücklich anhand des polizei-
+lich definierten Täter:innenkreises im Bereich Wohnungseinbruch nachvollziehen. 
+Hier konzentrieren sich Polizeibeamt:innen oftmals auf ethnisierte Gruppen, die 
+organisiert Einbruchsdiebstähle begehen. Häufig ist in diesen Zusammenhängen 
+die Rede von polnischen, georgischen oder albanischen Gruppierungen. Hier 
+spielt wiederum das kriminalpolizeiliche Erfahrungswissen eine maßgebliche 
+Rolle, das sich u. a. auf Ermittlungserfolge gründet.49 Die Ermittlungsarbeit, 
+
+45 Bourdieu (2015b), S. 365.
+46 Bourdieu (2015a), S. 35.
+47 Vgl. Bescherer (2017).
+48 Herrnkind (2014), S. 39 f.
+49 Nicht unerwähnt bleiben sollte an dieser Stelle, dass die Aufklärungsquote im 
+Zusammenhang mit Wohnungseinbruchdiebstählen sehr niedrig ist. Diese lag deutschland-
+weit im Jahr 2020 bei 17,6 % und befindet sich damit weit unter der durchschnittlichen 
+Aufklärungsquote aller Straftaten von 58,4 % (Quelle: PKS 2020).
+
+
+
+282 D. Hunold
+
+welche das Zusammentragen und Systematisieren von Informationen aus ver-
+schiedenen Quellen beinhaltet wie Tatortspuren, Begehungsweisen, Tele-
+kommunikationsdaten, Zeugenaussagen etc. kann dann eine Pfadabhängigkeit 
+entwickeln, wenn Informationen, die eine gewisse Interpretation und Aus-
+legung zulassen auf eine bestimmte Verdächtigenkonstruktion hin selektiv 
+gesucht und ausgewählt werden und mitunter in einem Täter:innenprofil 
+amalgamieren.50 Ein solches Profil sowie darauf ausgerichtete polizeiliche Hand-
+lungen wie Fahndungsmaßnahmen sind dann rassistisch, wenn dieses explizit 
+auf ethnisierte Gruppen abzielt. Während einer meiner Forschungsaufenthalte 
+im Feld, wurde mir von einer großangelegten und länderübergreifenden Ver-
+kehrskontrolle berichtet, welche zum Ziel hatte, eine südamerikanische Täter-
+gruppe ausfindig zu machen. Entsprechend verdächtige Fahrzeuge wolle man 
+an verschiedenen Kontrollpunkten aus dem Verkehr ziehen und überprüfen. Auf 
+meine Frage, woran man einen Südamerikaner im Auto erkennen könne, war die 
+lapidare Antwort, dies sei anhand der äußerlichen Erscheinung problemlos mög-
+lich. Reichertz beschreibt ähnlich gelagerte Erfahrungen im Zusammenhang der 
+kriminalpolizeilichen Verdachtskonstruktion für Sinti:zze und Rom:nja51:
+
+„Zivilstreife im Auto durch ein Wohnviertel einer Großstadt: Drei Zigeunerinnen 
+(sic!), eine davon offensichtlich schwanger, werden beobachtet, wie sie von Haus zu 
+Haus gehen und schellen. Verdacht auf Tagesraub. Unterstelltes zigeunertypisches 
+Vorgehen: Bei den Leuten wird angeläutet mit der Bitte, ein Glas Wasser für die 
+schwangere Frau zu erhalten. Bei der Versorgung der scheinbar Kranken wird 
+gestohlen, was in Reichweite ist und wertvoll erscheint. Begleitet wird das Trio in 
+der Regel von zwei Männern, die das Beutegut in Empfang nehmen und in einem in 
+der Nähe abgestellten Fahrzeug deponieren sollen. Soweit die Typik! Die Kriminal-
+beamten observieren nun die drei Zigeunerinnen, entdecken auch bald deren Helfer, 
+werden jedoch auch entdeckt. Daraufhin versuchen die Beamten, das Basisfahr-
+zeug zu finden, um Beute sicherzustellen und zugleich eine Straftat nachweisen zu 
+können. Sie fahren die Gegend ab und suchen nach dem Zigeunerfahrzeug - einem 
+großen Mercedes mit Anhängerkupplung, älteres Modell, metallic, sehr breit, sehr 
+wuchtig, vermutliches Kennzeichen von H.-Stadt (Stadt in der Nähe mit hohem 
+Zigeuneranteil). Ein Wagen mit dem passenden Nummernschild wird gefunden, 
+auch alle anderen Merkmale stimmen. Aber: Am Heckfenster befinden sich Auf-
+kleber. Diese künden von der letzten Rallye auf dem Nürburgring und von der Auf-
+fassung, daß man gut und gerne auf Atomkraftwerke verzichten könne. Aufgrund 
+
+50 Wenig Interpretationsspielraum ergibt sich z. B., wenn eine Täter:innen-DNA vorliegt 
+und ein Treffer in der Polizeidatenbank generiert werden kann.
+51 Reichertz (1990), S. 202 f.
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 283
+
+dieser Aufkleber (‚Zigeuner haben an ihren Wagen nie solche Aufkleber!‘) unter-
+lassen die Beamten sowohl eine Halterabfrage als auch eine eingehende Unter-
+suchung des Wagens. Sie fahren weiter, finden jedoch das Basisfahrzeug nicht.“
+
+Die von Reichertz gemachte Beobachtung zeigt einerseits nicht nur das polizei-
+lich konstruierte Wissen darüber wie Sinti:zze und Rom:nja sich scheinbar 
+beim Wohnungseinbruch verhalten, sondern auch welche Merkmale zu einem 
+typischen ihnen zugehörigen Tatfahrzeug gehören. Ein Aufkleber gegen Atom-
+kraftwerke scheint ein ausschließendes Attribut darzustellen, vermutlich da dieses 
+eher einem bürgerlich-linken bzw. politisch aktiven Milieu zugeschrieben wird. 
+Reichertz kommt hier zu dem Schluss, dass die beobachteten Merkmale, einem 
+bereits vorhandenen Täter:innentypus untergeordnet werden52, anstatt die soziale 
+Differenziertheit von Milieus und Lebenswelten berücksichtigen zu können und 
+einen neuen Täter:innentypus zu generieren.
+
+Das wohl bekannteste und erschreckendste Beispiel für eine Pfadabhängigkeit 
+aufgrund rassistischer Täter:innenkonstruktionen ist die Ermittlungsarbeit zum 
+Nationalsozialistischen Untergrund (NSU). Der Bericht des 2. Untersuchungs-
+ausschusses des Bundestages zum NSU konstatiert, dass sich die polizeilichen 
+Ermittlungen einseitig auf das Umfeld der Opfer konzentrierten und hierbei von 
+organisierter Kriminalität im Bereich Betäubungsmittel, Schutzgelderpressungen 
+etc. ausgegangen wurde. Die 3. Operative Fallanalyse des LKA Baden-
+Württemberg begründete ihren Ermittlungsfokus folgendermaßen53:
+
+„Aufgrund der Tatsache, dass man 9 türkischsprachige Opfer hat, ist nicht 
+auszuschließen, dass die Täter über die türkische Sprache den Bezug zu den Opfern 
+hergestellt haben und die Täter demzufolge ebenfalls einen Bezug zu dieser Sprache 
+haben. Auch spricht der die Gruppe prägende rigide Ehrenkodex eher für eine 
+Gruppierung im ost- bzw. südosteuropäischen Raum (nicht europäisch westlicher 
+Hintergrund).“
+
+Weiter heißt es:
+
+„Vor dem Hintergrund, dass die Tötung von Menschen in unserem Kulturraum mit 
+einem hohen Tabu belegt ist, ist abzuleiten, dass der Täter hinsichtlich seines Ver-
+haltenssystems weit außerhalb des hiesigen Normen- und Wertesystems verortet 
+ist.“
+
+52 Reichertz (1990), S. 203.
+53 BT-Drs. 17/14.600, S. 991.
+
+
+
+284 D. Hunold
+
+Deutlich wird in diesen Begründungen, dass die Ermittler:innen eine klare Vor-
+stellung von vermeintlich ethnisch spezifischen Werte- und Normensystemen 
+sowie Verhaltensweisen besitzen. Weiterhin ist mit der formulierten Annahme, 
+in der „deutschen Gesellschaft“ wäre die Hürde zur Tötung eines Menschen 
+derart hoch, dass die ihr zugehörigen Menschen, keine Serientötungen vor-
+nehmen würden, mit einer moralischen Abwertung der „anderen“ Kultur ver-
+bunden. Hier findet ein „Othering“ statt, das mit Fremdheitszuweisungen 
+verbunden ist, welche kulturelle und soziale Andersartigkeit zuschreiben. Die 
+Folge ist eine Entfremdung aufseiten der Adressierten und Zuschreibenden.54 
+Die Ethnisierung wiederum strukturiert Wahrnehmungen, Deutungen und Hand-
+lungen der ermittelnden Akteur:innen und letztendlich auch der Betroffenen, 
+wie der unsensible und vorverurteilende Umgang der Polizei mit den Opfern der 
+Getöteten zeigt.55 Die damit verbundene Stigmatisierung dürfte sich nachhaltig 
+auf das alltägliche Leben und ihr Verhältnis gegenüber den Sicherheitsbehörden 
+auswirken.
+
+Eine weitere kriminalpolizeiliche Praxis, die eine rassistische Ordnungsstruktur 
+darstellt, sind Sondererfassungen von Informationen zu spezifischen Gruppen, die 
+einer bestimmten Herkunft oder Ethnie zugeschrieben werden. Ein aktuelles Bei-
+spiel hierfür ist die namensbasierte Erfassung der sogenannten Clankriminalität 
+in einigen Bundesländern. In diesem Zusammenhang werden alle Straftaten, die 
+von Personen begangen werden, die einen bestimmten Nachnamen aufweisen, 
+in einer Datenbank zur Abbildung der sogenannten Clankriminalität gespeichert. 
+Die Namen, die hierfür ausgewählt wurden, werden der Ethnie der Mallahmiye 
+zugeschrieben, deren geographische Herkunft dem türkischen-libanesischen Raum 
+zugeordnet wird. Die Annahme, die dieser Form der polizeilichen Sammlung von 
+Daten zum Phänomen der „Clankriminalität“ zugrunde liegt, ist, dass ethnische 
+Zugehörigkeit über Namen konstruiert werden kann und dass alle, die „dieser 
+Ethnie“ zugehörig sind und polizeilich auffällig werden, in besonderer Weise 
+beobachtungswürdig sind. Hinzu kommt, dass verschiedene Deliktformen – 
+darunter auch Bagatelldelikte wie Ladendiebstahl – zu einer neuen Überkate-
+gorie zusammengefasst werden, die im öffentlichen Diskurs mit einer besonderen 
+Gefährlichkeit assoziiert ist und spezifische Handlungserfordernisse der Sicher-
+heitsbehörden konstruiert.56 Spezifisch an dem Prozess, Wissen in Datenbanken zu 
+
+54 Klimke et al. (2019), S. 161 und in diesem Band.
+55 Eisenbichler (2013).
+56 Vgl. Seidensticker und Werner (2021).
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 285
+
+transferieren, ist schließlich, dass soziale Komplexität in vorgegebene Kategorien 
+übersetzt werden muss und die Analyseergebnisse wiederum interpretiert und auf 
+soziale Situationen angewandt werden müssen.57 Dies hat schließlich zur Folge, 
+dass ethno-kulturelle Lebenswelten in ethnisierten Kategorien festgeschrieben und 
+in der polizeilichen Praxis wieder und wieder reproduziert werden.
+
+Im Ergebnis basieren die Zuschreibungsprozesse, die zu rassistischen polizei-
+lichen Verdachtskonstruktionen und Maßnahmen führen, in den beiden Feldern 
+Schutz- und Kriminalpolizei auf unterschiedlichen Logiken, da die Felder unter-
+schiedlich strukturiert sind. „[D]ie Praxen der Schutzpolizei [sind] mehr durch 
+Aktion auf der Straße und weniger durch Schreibtischarbeit geprägt und die 
+Praxen der Kriminalpolizei mehr durch Schreib- und Denkarbeit als Aktion auf 
+der Straße […] Die Praxen der Schutzpolizei sind dabei von ad-hoc-Situationen 
+bestimmt, während sich die Kriminalpolizei in der Regel auf ihre Einsätze vor-
+bereiten kann.“58 Somit unterscheiden sich die Habitusformen der beiden Felder 
+hinsichtlich der Herstellung und Reproduktion von rassistischen Einteilungen 
+von Menschen in „gut“ und „böse“ vor allem durch die Kontexte: Inner-
+halb der Schutzpolizei geschieht dies vor allem in persönlichen Begegnungen, 
+wodurch die rassistischen Praktiken vermittels Polizei-Bürger:innen-
+Interaktion (re-)produzieren und festschreiben, bei der Kriminalpolizei sind 
+es vor allem die gesammelten Informationen über Menschen in nicht-persön-
+lichen Kontakten, welche zur Konstruktion und Manifestation von rassistischen 
+Täter:innentypen führen können. Behr beschreibt die Diskriminierungsdis-
+positive der Schutzpolizei als „Visibilitätsstigmatisierung“, weil hier vornehm-
+lich äußerlich sichtbare Attribute zu der Verdachtsgenerierung führen, während 
+er Etikettierungsformen der Kriminalpolizei als „Detektionsstigmatisierung“ 
+bezeichnet, weil erst im Prozess der Informationssammlung rassifizierende 
+Zuschreibungen entstehen und nicht im „face-to-face“-Kontakt.59
+
+Die Felder sind weiterhin verknüpft mit den Deutungs- und Handlungs-
+praktiken, die entweder eine Gefahr durch eine Person an bestimmten Ört-
+lichkeiten verhindern oder den:die richtige:n Täter:in im Rahmen der 
+Ermittlungsprozesse identifizieren sollen. Mit diesen Logiken sind oftmals 
+unterschiedliche Tatverdächtigengruppen adressiert. Auf der einen Seite ist 
+es die Figur des potenziell Gefährdenden, von dem zukünftig eine kriminelle 
+
+57 Creemers (2016), S. 106.
+58 Schöne (2011), S. 383.
+59 Behr (2019), S. 20.
+
+
+
+286 D. Hunold
+
+Handlung ausgehen kann, die verhindert werden soll. Diese Figur ist derart 
+abstrakt, dass sie überhaupt dadurch erst an allgemeine soziale Differenzierungs-
+kategorien wie „die Ethnie“ gebunden werden kann. Sie ist eng gekoppelt an 
+gesellschaftliche Kriminalisierungsprozesse; Klimke macht dies deutlich durch 
+den Begriff der crimmigration60. Auf der anderen Seite sind es die vermeint-
+lichen Täter:innengruppen, welche oftmals durch vergangene Ermittlungserfolge 
+legitimiert werden. In beiden Feldern unterliegen die Konstruktionsprozesse dem 
+sogenannten polizeilichen Erfahrungswissen, das Typisierungen von Personen-
+gruppen transportiert. Typisierungen entstehen in der Regel dadurch, dass 
+geprüft wird, inwiefern das Beobachtete zu dem bereits Bekannten passt. Wenn 
+Beobachtungen nicht zu den bereits vorhandenen Vorstellungen passen, muss 
+ein neuer Typus generiert werden, was jedoch im polizeilichen Kontext eher 
+seltener passieren dürfte.61 Reichertz schreibt hierzu (zwar nur mit Blick auf 
+Kriminalbeamt:innen, jedoch meiner Meinung nach für beide polizeiliche Felder 
+gültig): „Die Betrachtung der Typisierungsleistungen der Kriminalbeamten zeigt, 
+dass es zumindest zwei unterschiedliche Arten der Typisierung gibt: einmal die 
+Typisierung als Unterordnung einer Beobachtung unter einen bereits bekannten 
+Typus, zum anderen die Typisierung als die (Re-) Konstruktion eines noch nicht 
+bekannten Typus aus den Daten der Beobachtung.“62
+
+Letztendlich überschneiden sich die beiden polizeilichen Felder auch, 
+indem z. B. kriminalpolizeiliche Täter:innenprofile zu Maßnahmen der Schutz-
+polizei führen und die im Rahmen der alltäglichen Routine der Schutzpolizei 
+gesammelten Informationen wiederum Grundlage für polizeiliche Ermittlungen 
+und Daten sind, die im Zuge der Ermittlungen weiter angereichert und aus-
+gewertet werden.
+
+60 Klimke in diesem Band.
+61 Siehe hierzu Dangelmaier (2021), welche anhand der teilnehmenden Beobachtung 
+von verschiedenen Kontrollsituationen nachzeichnen kann, dass sich in der Praxis nicht 
+bestätigende Verdachtsmuster (Beispiel: aufgrund der äußeren Erscheinung vermeintlich 
+identifizierten BtM-Konsument:innen kann weder der Drogenkonsum noch der Besitz 
+nachgewiesen werden) trotzdem legitimiert werden können, indem Gründe gefunden 
+werden, warum dieses ausgerechnet in der betreffenden Situation nicht zum polizeilichen 
+Erfolg geführt hat, eine grundlegende Gültigkeit jedoch nicht angezweifelt werden muss. 
+Das bedeutet, dass alternative Typen von tatverdächtigen Personen meist erst gar nicht 
+produziert werden.
+62 Reichertz (1990), S. 202.
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 287
+
+5  Fazit
+
+Die Betrachtung der polizeilichen Bereiche Schutzpolizei und Kriminalpolizei hat 
+gezeigt, dass die mit den Feldern verbundenen Logiken unterschiedliche Habitus-
+formen produzieren und diese wiederum mit verschiedenen Konstruktionen von 
+Tatverdächtigengruppen sowie rassistischen Handlungspraktiken assoziiert sind.
+
+Indem die Schutzpolizei zuallererst raumbezogen agiert und hierbei Gefahren 
+abwehren, Straftaten verhüten sowie Straftaten aufdecken soll, greift sie auf Ver-
+dachtskonstruktionen zurück, welche vor allem helfen sollen, auf potenzielle 
+Gefährder:innen und Täter:innen hinzudeuten. Hierbei spielen Merkmale wie 
+z. B. Sprache und Aussehen sowie der räumliche und soziale Kontext oftmals 
+eine relevante Rolle. Die jeweiligen Verdachtskonstruktionen sind dann zusätz-
+lich getragen von gesellschaftlichen Normalitätsvorstellungen, welche sich auf-
+grund des polizeilichen Habitus unter Polizeibeamt:innen sehr ähneln dürften. 
+Auch der räumliche Kontext hat bei der Verdachtskonstruktion im schutzpolizei-
+lichen Kontext eine große Bedeutung. Insgesamt lässt sich hierzu festhalten, dass 
+entsprechendes raumbezogenes Wissen vor allem mit sozialen Merkmalen wie 
+Geschlecht, Ethnie und Klasse assoziiert ist. Insgesamt zielt die schutzpolizei-
+liche Verdachtskonstruktion eher auf äußere bzw. kontextuelle Erscheinungen und 
+spiegelt von daher mitunter rassifizierende Zuschreibungen wider. Die kriminal-
+polizeiliche Verdachtskonstruktion ist geprägt davon, dass im Nachgang einer 
+Straftat mittels verschiedener vorliegender Informationen zu Tatverdächtigen 
+sowie einem Tatablauf, der richtige Täter, die richtige Täterin identifiziert 
+werden soll. Hierbei kommt es weniger auf äußere Erscheinungen bzw. Kontexte 
+in persönlichen Begegnungen an, sondern auf die Zuordnungsprozesse von 
+Informationen zu konstruierten bzw. ermittelten Tatverdächtigengruppen. 
+Diese Zuordnungsprozesse können wiederum rassifizierenden Zuschreibungs-
+prozessen unterliegen. Im Ergebnis können sich hier zwar die adressierten 
+Tatverdächtigengruppen unterscheiden, nicht jedoch die Typisierungsabläufe, 
+die meist als „Unterordnung einer Beobachtung unter einen bereits bekannten 
+Typus“63 beschrieben werden kann.
+
+Die in diesem Beitrag diskutierte Verschiedenheit rassistischer Handlungs-
+praktiken in den unterschiedlichen polizeilichen Feldern zeigt die Notwendigkeit 
+auf, die Frage nach Rassismus in der Polizei differenziert zu betrachten. So ließe 
+
+63 Reichertz (1990), S. 202.
+
+
+
+288 D. Hunold
+
+sich vermeiden, die mit den diversen Handlungslogiken verbundenen Praktiken 
+und Strukturen bei zukünftigen Forschungsprojekten oder bei der Konzeption von 
+diskriminierungssensiblen Maßnahmen zu übersehen.
+
+Literatur
+
+Assmann, J. (1995). Erinnern, um dazuzugehören. Kulturelles Gedächtnis, Zugehörigkeits-
+struktur und normative Vergangenheit. In K. Platt & M. Dabag (Hrsg.), Generation und 
+Gedächtnis (S. 51–75). Wiesbaden: Springer VS.
+
+Behr, R. (2000). Cop Culture. Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur in der Polizei. Opladen: Leske + Budrich.
+
+Behr, R. (2006). Polizeikultur. Routinen – Rituale – Reflexionen. Bausteine einer Theorie 
+der Praxis der Polizei. Wiesbaden: VS Verlag.
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft (S. 17–45). 
+Wiesbaden: Springer VS.
+
+Belina, B. (2006). Raum – Überwachung – Kontrolle. Vom staatlichen Zugriff auf 
+städtische Bevölkerung. Münster: Westfälisches Dampfboot.
+
+Belina, B., & Wehrheim, J. (2011). „Gefahrengebiete“. Durch die Abstraktion des Sozialen 
+zur Reproduktion gesellschaftlicher Strukturen. Soziale Probleme, 23, S. 207.
+
+Bescherer, P. (2017). „Dieses Thema Sicherheit in diesem konservativen Sinne ist natür-
+lich überhaupt nicht unseres“ – Urbane Unsicherheit und zivilgesellschaftliches 
+Engagement. Soziale Probleme, 28, S. 159.
+
+Bourdieu, P. (2015a). Die verborgenen Mechanismen der Macht. Hamburg: VSA-Verlag.
+Bourdieu, P. (2015b). Sozialer Raum, symbolischer Raum. In J. Dünne & S. Günzel 
+
+(Hrsg.), Raumtheorie. Grundlagentexte aus Philosophie und Kulturwissenschaften 
+(S. 354–370). Frankfurt am Main: Suhrkamp.
+
+Creemers, N. (2016). Über Datenbanken und Datenanalysetools: Die polizeiliche 
+Konstruktion von Wissen und Verdacht in soziotechnischen Netzwerken. In J. Grutzpalk 
+(Hrsg.), Polizeiliches Wissen. Formen, Austausch, Hierarchien (S. 101–129). Frankfurt 
+am Main: Verlag für Polizeiwissenschaften.
+
+Dangelmaier, T. (2021). „Den richtigen Riecher haben“ – Die Bedeutung von Narrativen 
+im Kontext proaktiver Polizeiarbeit. Kriminologie - Das Online-Journal | Criminology - 
+The Online Journal, 3(4), 359–382.
+
+Eisenbichler, E. (2013). Der zweite Schock nach dem Verlust. BR. https://www.br.de/nach-
+richt/nsu-prozess/nsu-mordserie-angehoerige-100.html. Zugegriffen: 18. Juli 2022.
+
+Fagan, J., & Davies, G. (2000). Street Stops and Broken Windows: Terry, Race, and 
+Disorder in New York City. Fordham Urban Law Journal, 28, S. 457.
+
+Feltes, T. (1991). Notrufe und Funkstreifeneinsätze als Messinstrument polizeilichen All-
+tagshandelns. Die Polizei, 86, S. 157.
+
+Grutzpalk, J. (2016). Die Erforschung des Wissensmanagements in Sicherheitsbehörden 
+mit Hilfe der Akteurs-Netzwerk-Theorie. In ders. (Hrsg.), Polizeiliches Wissen. Formen, 
+Austausch, Hierarchien (S. 15–48). Frankfurt am Main: Verlag für Polizeiwissen-
+schaften.
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 289
+
+Herbert, S. (1997). Territoriality and the Police. Professional Geographer, 49(1), S. 86.
+Herrnkind, M. (2014). „Filzen Sie die üblichen Verdächtigen“ Oder: Racial Profiling in 
+
+Deutschland. Polizei & Wissenschaft, 3, S. 35.
+Hunold, D. (2008). Migranten in der Polizei. Zwischen politischer Programmatik und 
+
+Organisationswirklichkeit. Frankfurt am Main: Verlag für Polizeiwissenschaften.
+Hunold, D. (2015). Polizei im Revier: polizeiliche Handlungspraxis gegenüber Jugend-
+
+lichen in der multiethnischen Stadt. Berlin: Duncker & Humblot.
+Hunold, D. (2016). Raumwissen: Die Produktion von Raum bei der Polizei. Polizeiliches 
+
+Wissen. In J. Grutzpalk (Hrsg.), Polizeiliches Wissen. Formen, Austausch, Hierarchien 
+(S. 50–71). Frankfurt am Main: Verlag für Polizeiwissenschaften.
+
+Hunold, D. (2019). „Wer hat jetzt die größeren Eier?!“–Polizeialltag, hegemoniale Männ-
+lichkeit und reflexive Ethnografie. In C. Howe & L. Ostermeier (Hrsg.), Polizei und 
+Gesellschaft (S. 47–69). Wiesbaden: Springer VS.
+
+Hunold, D., & Behr, R. (2007). Fremde in den eigenen Reihen. Migranten im Polizeidienst 
+und die Auswirkungen auf Cop Culture – Bericht aus einem laufenden Forschungs-
+projekt. In T. Ohlemacher, A. Mensching & J.-T. Werner (Hrsg.), Polizei im Wandel? 
+Organisationskultur(en) und Reform (S. 21–50). Frankfurt am Main: Verlag für Polizei-
+wissenschaften.
+
+Hunold, D., Dangelmaier, T., & Brauer, E. (2021). Soziale Ordnung und Raum – Aspekte 
+polizeilicher Raumkonstruktion. Soziale Probleme, 32, S. 19.
+
+Jobard, F., & Lévy, R. (2009). Profiling Minorities. A Study of Stop-and-Search Practices 
+in Paris. https://www.justiceinitiative.org/publications/profiling-minorities-study-stop-
+and-search-practices-paris. Zugegriffen: 18. Juli 2022.
+
+Kersten, J. (1997). Risiken und Nebenwirkungen: Gewaltorientierungen und die Bewerk-
+stelligung von „Männlichkeit“ und „Weiblichkeit“ bei Jugendlichen der underclass. 
+Kriminologisches Journal, 6. Beiheft, S. 103.
+
+Kersten, J. (1998). Sichtbarkeit und städtischer Raum. Jugendliche Selbstinszenierung, 
+Männlichkeit und Kriminalität. In W. Breyvogel (Hrsg.), Stadt, Jugendkulturen und 
+Kriminalität (S. 112–128). Bonn: Dietz.
+
+Klimke, D., Oelkers, N., & Schweer, M. K. (2019). Sicherheitsmentalitäten im ländlichen 
+Raum. Wiesbaden: Springer VS.
+
+Knight, B. (2020). Wie rassistisch ist die deutsche Polizei? Deutsche Welle. https://www.
+dw.com/de/wie-rassistisch-ist-die-deutsche-polizei/a-53701879. Zugegriffen: 18. Juli 
+2022.
+
+Lehne, W. (1992). Die Polizei – Dienstleistungsbetrieb oder Institution staatlicher Herr-
+schaftssicherung? Thesen zur Integration zweier „Polizeikonzepte“. Kriminologisches 
+Journal, 4, S. 35.
+
+Loftus, B. (2009). Police Culture in a Changing World. Oxford: University Press.
+Mediendienst Integration (2021). Mehr Vielfalt bei der Polizei. https://mediendienst-
+
+integration.de/artikel/mehr-vielfalt-bei-der-polizei.html. Zugegriffen: 18. Juli 2022.
+Merton, R. K. (1948). The Self-Fulfilling Prophecy. Antioch Review, 8, S. 193.
+Phillips, C., & Bowling, B. (2007). Ethnicities, Racism, Crime, and Criminal Justice. In 
+
+M. Maguire, R. Morgan & R. Reiner (Hrsg.), The Oxford Handbook of Criminology (S. 
+421–460). Oxford: University Press.
+
+Reichertz, J. (1990). „Meine Schweine erkenne ich am Gang“: zur Typisierung 
+typisierender Kriminalpolizisten. Kriminologisches Journal, 22, S. 194.
+
+
+
+290 D. Hunold
+
+Roh, S., & Robinson, M. (2009). A Geographic Approach to Racial Profiling. The Micro-
+analysis and Macroanalysis of Racial Disparity in Traffic Stops. Police Quarterly, 2, 
+S. 137.
+
+Sacks, H. (1972). Notes on Police Assessment of Moral Character. In D. N. Sudnow 
+(Hrsg.), Studies in Social Interaction (S. 280–293). New York: Free Press.
+
+Schöne, M. (2011). Pierre Bourdieu und das Feld der Polizei. Ein besonderer Fall des 
+Möglichen. Frankfurt am Main: Verlag für Polizeiwissenschaften.
+
+Schweer, T., & Strasser, H. (2003). „Die Polizei – dein Freund und Helfer?!“ – Duisburger 
+Polizisten im Konflikt mit ethnischen Minderheiten und sozialen Randgruppen. In A. 
+Groenemeyer & J. Mansel (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 229–
+260). Opladen: Leske + Budrich.
+
+Schweer, T., & Strasser, H. (2008). Einblick: Cop Culture und Polizeikultur. In T. 
+Schweer, H. Strasser & S. Zdun (Hrsg.), „Das da draußen ist ein Zoo, und wir sind 
+die Dompteure“: Polizisten im Konflikt mit ethnischen Minderheiten und sozialen Rand-
+gruppen (S. 11–18). Wiesbaden: VS Verlag.
+
+Skolnick, J. H. (1966). Justice without Trial. Law Enforcement in Democratic Society. New 
+York: John Wiley.
+
+Solga, H., & Dombrowski, R. (2009). Soziale Ungleichheit in schulischer und 
+außerschulischer Bildung. Stand der Forschung und Forschungsbedarf. Düsseldorf: 
+Hans Böckler-Stiftung.
+
+Terrill, W., & Reisig, M. D. (2003). Neighborhood Context and Police Use of Force. 
+Journal of Research in Crime and Delinquency, 40, S. 291.
+
+Seidensticker, K., & Werner, A. (2021). Clankriminalität als neu entdeckte Heraus-
+forderung in einer dynamischen Gesellschaft. In R. Berthel (Hrsg.), Kriminalistik 
+und Kriminologie in der VUCA-Welt – Herausforderungen, Entwicklungen und 
+Perspektiven. Teil 3 (S. 131–152). https://doi.org/10.13140/RG.2.2.13661.36325/1. 
+Zugegriffen: 24. November 2021.
+
+Waddington, P. A. J. (1999). Policing Citizens: Authority and Rights. London: Psychology 
+Press.
+
+Yarwood, R. (2007). The Geographies of Policing. Progress of Human Geographies, 31(4), 
+S. 447.
+
+Prof. Dr. Daniela Hunold ist Professorin für Soziologie mit Schwerpunkt Empirische 
+Polizeiforschung an der Hochschule für Wirtschaft und Recht in Berlin. Sie forscht zu den 
+Themen Polizei in der Einwanderungsgesellschaft, Raumsoziologie und Konstruktion des 
+Raums durch Institutionen der sozialen Kontrolle sowie raumorientierte Kriminologie.
+
+
+
+Rassistische Praktiken bei der Schutz- und Kriminalpolizei … 291
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

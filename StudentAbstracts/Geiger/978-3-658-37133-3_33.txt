@@ -1,0 +1,621 @@
+﻿Unabhängige Kontrolle als Schutz vor 
+Rassismus und Diskriminierung?
+
+Hartmut Aden und Alexander Bosch
+
+Zusammenfassung
+
+In Deutschland und in anderen Ländern ist ein Trend hin zur Einrichtung 
+unabhängiger Stellen zu beobachten, die Fehlverhalten von Polizist:innen 
+und Fehlentwicklungen der Polizeiarbeit aufarbeiten sollen. Dieser Beitrag 
+geht der Frage nach, inwieweit solche Stellen einen Beitrag zum Schutz vor 
+Rassismus und Diskriminierung leisten können. Er zeigt, dass dies von den 
+Ermittlungskompetenzen und der Ausstattung der Stellen abhängt.
+
+Schlüsselwörter
+
+Accountability · Fehlerkultur · Polizeibeauftragte · Rassismus ·  
+Diskriminierung
+
+H. Aden · A. Bosch (*) 
+Fachbereich Polizei und Sicherheitsmanagement (FB 5), Campus Lichtenberg, 
+Hochschule für Wirtschaft und Recht Berlin, Berlin, Deutschland
+E-Mail: alexander.bosch@hwr-berlin.de
+H. Aden 
+E-Mail: hartmut.aden@hwr-berlin.de
+
+© Der/die Autor(en) 2022 729
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_33
+
+
+
+730 H. Aden und A. Bosch
+
+1 E inleitung: Rassismus, Diskriminierung und 
+Kontrolle der Polizei
+
+Fälle, in denen Polizist:innen rassistisches oder diskriminierendes Verhalten vor-
+geworfen wird oder in denen Formen eines institutionellen Rassismus im Ver-
+antwortungsbereich der Behörden im Raum stehen, führen zu der Frage nach 
+adäquaten Reaktionen. Aus strukturellen Gründen sind Polizeibehörden und die 
+politischen Instanzen, die ihre Arbeit beaufsichtigen, oftmals nicht in der Lage, 
+selbst angemessen zu reagieren. Mal fehlt es an Problembewusstsein, mal steht 
+der Wunsch im Vordergrund, ein positives Image der Institution Polizei in der 
+Öffentlichkeit zu fördern und daher weniger positive Aspekte auszublenden oder 
+gar „unter den Teppich zu kehren“.
+
+Dieser Beitrag geht der Frage nach, ob und ggf. wie unabhängige externe 
+Kontrollstrukturen Schutz vor Rassismus und Diskriminierung durch die Polizei 
+bieten können. Im Zentrum stehen die Fragen, welche spezifischen Handlungs-
+möglichkeiten und Effekte unabhängige Kontrollinstanzen für den Schutz 
+vor Rassismus und Diskriminierung im Polizeibereich haben können und 
+welche Einflussfaktoren diese Handlungsmöglichkeiten begrenzen. Der Bei-
+trag geht von der Hypothese aus, dass präventive Wirkungen externer Kontroll-
+strukturen maßgeblich von ihrer Ausgestaltung abhängen, insbesondere von ihren 
+Zuständigkeiten und Befugnissen. Er ordnet unabhängige (Polizei-)Beauftragte 
+und Beschwerdestellen in den Kontext von Accountability-Theorien ein.
+
+Das Spektrum externer staatlicher Kontrollstrukturen umfasst neben 
+unabhängigen Polizeibeauftragten auch die gerichtliche Kontrolle des Polizei-
+handelns sowie parlamentarische Fach- und Untersuchungsausschüsse. Diese 
+staatlichen Kontrollstrukturen sind Teil eines breiten Spektrums von Accountability-
+Foren für die Polizeiarbeit, zu denen auch intern-hierarchische Kontrollstrukturen 
+und insbesondere nichtstaatliche Akteure, wie zivilgesellschaftliche Gruppen und 
+die Medienöffentlichkeit, zählen.
+
+Im internationalen Kontext gibt es seit langem umfangreiche Erfahrungen 
+mit unabhängigen Kontrollinstitutionen für die Polizei, wobei unterschiedliche 
+Modelle zu beobachten sind, etwa Beauftragte oder Beschwerdekommissionen.1 
+In Deutschland ist seit 2014 auf Landesebene ein Trend zur Etablierung polizei-
+externer unabhängiger Polizeibeauftragter zu beobachten, zunächst in Rheinland-
+Pfalz, Schleswig-Holstein und Baden-Württemberg.2 Gesetzliche Grundlagen 
+
+1 Hierzu bereits die Beiträge bei Goldsmith und Lewis (2000).
+2 Näher hierzu Aden (2019), S. 171 ff.
+
+
+
+Unabhängige Kontrolle als Schutz vor Rassismus … 731
+
+für Polizeibeauftragte wurden auch in Bremen, Hessen und Berlin geschaffen. In 
+Berlin wurde zudem eine Ombudsstelle nach dem 2020 verabschiedeten Landes-
+Antidiskriminierungsgesetz eingerichtet, bei der auch Beschwerden über dis-
+kriminierendes Polizeihandeln möglich sind. Von Interesse für diesen Beitrag ist 
+insbesondere die Frage, inwieweit unabhängige Stellen über die Aufarbeitung 
+von Beschwerden und Einzelfällen hinaus die polizeiliche Praxis verbessern 
+können. Inwieweit können unabhängige Stellen dabei helfen, institutionellen 
+Rassismus und rassistische Praktiken in der Polizei sichtbar zu machen, die 
+über das konkrete Fehlverhalten einzelner Polizist:innen hinausgehen? Rassis-
+mus wird in Polizei und Innenministerien oft verkürzt als Eigenschaft von 
+Individuen verstanden und damit in seiner institutionellen sowie strukturellen 
+Dimension verkannt.3 Dieses verkürzte Rassismusverständnis hat dazu geführt, 
+dass die Erkenntnisse der Rassismusforschung bisher von Polizeibehörden und 
+teils auch von der Polizeiforschung ignoriert wurden.4 Forschung zu Rassis-
+mus in der deutschen Polizei basiert daher vor allem auf Einstellungsforschung, 
+während institutionalisierte Praktiken und Wissensbestände weniger beachtet 
+wurden.5 Rassismus ist nach dem hier zugrunde gelegten breiteren Verständnis 
+mehr als eine individuelle Vorurteilsstruktur. Rassismus ist vielmehr ein soziales 
+Verhältnis, welches nicht stabil ist, sondern sich mit neuen Praktiken verbindet 
+und immer neue Konjunkturen entwickelt.6 Rassismus meint in einer macht- 
+und herrschaftssoziologischen Perspektive auch den Ausschluss bestimmter 
+Gruppen vom Zugang zu materiellen oder symbolischen Ressourcen und die 
+Anwendung von Gewalt gegen diese Gruppen, welche durch die Konstruktion 
+einer ethnischen oder kulturellen Differenz legitimiert wird.7 Die Polizei ist in 
+ihren stabilisierenden Funktionen für die gesellschaftliche Ordnung und die 
+dahinterstehenden Interessen8 in solche Prozesse eingebunden. Unabhängige 
+Stellen könnten bei entsprechender Ausgestaltung dabei helfen, strukturell und 
+institutionell bedingte rassistische Diskriminierungen in der Polizei sichtbar zu 
+machen und so dazu beitragen, den staatlichen Schutzauftrag vor Rassismus und 
+Diskriminierung umzusetzen.
+
+3 Ausführlicher hierzu Bosch und Thurn in diesem Band.
+4 Bosch (2020), S. 167.
+5 Zur Kritik: Hunold und Wegner (2020); Abdul-Rahman et al. (2020).
+6 Bojadžijev und Demirović (2002), S. 7 ff.
+7 Hall (2000), S. 7 ff.
+8 Narr (2004), S. 80 ff.
+
+
+
+732 H. Aden und A. Bosch
+
+2 U nabhängige Polizeibeauftragte im Spektrum 
+externer Kontrollstrukturen für die Polizeiarbeit
+
+In der verwaltungswissenschaftlichen Forschung wird der Bedarf an 
+unabhängigen Kontrollstrukturen für Verwaltungen oft in den Kontext der Ver-
+waltungsmodernisierung gestellt: Im Zuge modernen Verwaltungsmanagements 
+wurden klassisch-hierarchische Modelle der Verwaltungssteuerung, in denen die 
+Verantwortung von Vorgesetzten sowie die politische Steuerung von Verwaltungs-
+handeln im Mittelpunkt standen, durch weniger hierarchische Governance-
+Strukturen ersetzt, die dezentralen Einheiten mehr Autonomie gegenüber 
+kleinteiliger Steuerung bieten sollen.9
+
+Bei Polizeibehörden, die Maßnahmen der Verwaltungsmodernisierung nur 
+zögerlich implementiert haben und weiterhin stark hierarchisch strukturiert sind, 
+haben Tendenzen zur Zentralisierung und Technisierung die Autonomie gegen-
+über hierarchisch-administrativer und politischer Steuerung erhöht.10 Die Aus-
+weitung von Rechtsgrundlagen, die weitreichende Grundrechtseingriffe erlauben, 
+hat diesen Effekt weiter verstärkt.11
+
+In einem demokratischen Rechtsstaat bedarf diese zunehmende Autonomie – 
+gerade im Falle von Polizeibehörden mit ihren weitreichenden Befugnissen als 
+Repräsentanten des staatlichen Monopols legitimer Gewalt-, also Zwangsaus-
+übung – der Kompensation durch adäquate Verantwortungsstrukturen, die in der 
+internationalen Fachdiskussion als Accountability-Foren bezeichnet werden.12 
+Accountability-Foren verbinden eine:n Akteur:in, der sich zu verantworten hat 
+(hier also eine Polizeibehörde) in einem Forum mit einem:r Akteur:in, der:die 
+zur Gewährleistung verantwortlichen Handelns beiträgt. Für Polizeibehörden 
+gibt es eine Reihe solcher Accountability-Foren, etwa die Datenschutzaufsicht 
+und die Rechnungshöfe, die in ihrem jeweiligen Zuständigkeitsbereich weit-
+reichende Kontrollrechte gegenüber der Polizei haben. Diese Accountability-
+Foren sind indes dadurch gekennzeichnet, dass sie jeweils nur für spezifische 
+Einzelaspekte der Polizeiarbeit des Bundes bzw. eines Landes zuständig sind und 
+insbesondere die polizeilichen Grundrechtseingriffe nur in kleinen Ausschnitten 
+in ihre Zuständigkeit fallen. Der Deutsche Bundestag und die L andesparlamente 
+
+9 Bouckaert und Pollitt (2011), S. 197 ff; Considine und Afzal (2012).
+10 Näher hierzu Fährmann et al. (2020), S. 137 ff.
+11 Ausführlich: Aden und Fährmann (2021), S. 590 ff.
+12 So Bovens (2007), S. 450; Bovens et al. (2014).
+
+
+
+Unabhängige Kontrolle als Schutz vor Rassismus … 733
+
+könnten zwar Rechenschaft für die gesamte Breite der Polizeiarbeit einfordern. 
+Die Innenausschüsse der Parlamente haben aber zahlreiche weitere Aufgaben 
+wahrzunehmen, insbesondere bei der innenpolitischen Gesetzgebung, und ver-
+fügen daher nur über begrenzte Kapazitäten als Accountability-Foren für den 
+Alltag der Polizeiarbeit.13 Untersuchungsausschüsse können sich einem Sachver-
+halt zwar wesentlich intensiver widmen. Ihre Zahl ist aber aufgrund des hohen 
+Aufwands begrenzt – in der Regel wird diese Variante eines parlamentarischen 
+Accountability-Forums nur zur Aufarbeitung besonders spektakulärer Fehl-
+entwicklungen eingesetzt, so etwa vom Deutschen Bundestag und zahlreichen 
+Landesparlamenten zur Aufarbeitung von Versäumnissen der Polizei- und Ver-
+fassungsschutzbehörden bei der Aufdeckung des sog. Nationalsozialistischen 
+Untergrunds (NSU). Alltägliche Fälle von Polizeihandeln, das als rassistisch 
+oder diskriminierend wahrgenommen wird, werden daher kaum durch 
+parlamentarische Untersuchungsausschüsse aufgearbeitet.
+
+Verwaltungs- und Strafgerichte fungieren dann als Accountability-Foren für 
+die Polizeiarbeit, wenn Anhaltspunkte dafür bestehen, dass polizeiliches Handeln 
+rechtswidrig ist bzw. polizeiliches (Fehl-)Verhalten den Anfangsverdacht einer 
+Straftat begründet. Betroffene können zwar Rechtsmittel gegen die in Frage 
+stehende polizeiliche Maßnahme einlegen bzw. Strafanzeige stellen, dies ist aber 
+selten der Fall. Diese Faktoren tragen dazu bei, dass Fälle von rassistischem oder 
+diskriminierendem Polizeihandeln nur ganz ausnahmsweise vor Gericht ver-
+handelt werden.
+
+Auch die Medienöffentlichkeit fungiert als Accountability-Forum für die 
+Polizeiarbeit. Immer wieder wurden Fehlentwicklungen durch Recherchen 
+von Journalist:innen aufgedeckt. Allerdings fehlt es ihnen – im Gegensatz zu 
+öffentlichen Accountability-Foren wie den Parlamentsausschüssen, Datenschutz-
+aufsichtsbehörden oder Rechnungshöfen – an formalisierten Kontrollrechten, 
+etwa für den Zugang zu Informationen. Informationsfreiheitsgesetze sehen 
+für Sicherheitsbehörden weitreichende Ausnahmen vor, die dazu führen, dass 
+viele Informationen der Öffentlichkeit verborgen bleiben. In Fällen von Polizei-
+handeln, das als rassistisch oder diskriminierend wahrgenommen wird, werden 
+Journalist:innen nur von einem kleinen Teil der Fälle erfahren.
+
+Unabhängige Beauftragte und Beschwerdestellen können ein weiterer, potenziell 
+effektiverer Baustein im Geflecht der Accountability-Foren für die Polizeiarbeit 
+sein. Dort wo es sie gibt, sind sie in der Regel auch für Fälle zuständig, in denen 
+sich Außenstehende durch die Polizei rassistisch oder  diskriminierend behandelt 
+
+13 Hierzu Aden (2017), S. 133 ff.
+
+
+
+734 H. Aden und A. Bosch
+
+fühlen. Die externen Polizeibeauftragten, die bisher in Deutschland eingesetzt 
+wurden, zeichnen sich dadurch aus, dass auch Polizeibedienstete dort Beschwerden 
+einreichen können – auch wenn sie sich selbst durch die Behörde oder Kolleg:innen 
+diskriminierend behandelt fühlen.14 Im internationalen Vergleich ist dies die Aus-
+nahme – in der Regel befassen sich unabhängige externe Polizeibeschwerde-
+institutionen nur mit Beschwerden Außenstehender.15
+
+Die institutionelle Unabhängigkeit des Accountability-Forums von der ver-
+antwortlichen Institution, die zu kontrollieren ist, hat sich zum Standard ent-
+wickelt. Nur so kann gewährleistet werden, dass interne Hierarchien und 
+Interessen die Accountability-Funktionen nicht behindern. Auch externe Polizei-
+beauftragte oder Beschwerdestellen sollten somit im Interesse ihrer Effektivität 
+nicht in den Innenministerien oder gar in Abhängigkeit von der Polizeibehörde ein-
+gerichtet werden. Die Unabhängigkeit kann insbesondere dadurch gewahrt werden, 
+dass die Polizeibeauftragten vom Parlament ernannt werden und vorrangig an 
+das Parlament berichten. Für die Datenschutzaufsicht hat der EU-Gerichtshof die 
+Bundesrepublik Deutschland wegen einer Vertragsverletzung verurteilt, nachdem 
+er festgestellt hatte, dass die Datenschutzaufsicht in Deutschland seinerzeit noch 
+organisatorisch im Bundesinnenministerium angesiedelt war.16
+
+Die Effektivität der Arbeit externer Polizeibeauftragter und Beschwerdestellen 
+erfordert zudem eine auskömmliche Ausstattung mit Sachmitteln und Personal, 
+damit auch tatsächlich allen relevanten Beschwerden nachgegangen werden kann. 
+Die Effektivität der Arbeit leidet insbesondere dann, wenn die Aufarbeitung durch 
+die externen Beauftragten gegenüber der straf- und disziplinarrechtlichen Auf-
+arbeitung nachrangig ist.
+
+3 R assismus und Diskriminierung als Themen 
+unabhängiger Polizeikontrolle
+
+Nicht erst seit dem Tod von George Floyd bei einem Polizeieinsatz am 25. Mai 
+2020 in Minneapolis im US-Bundesstaat Minnesota gehen weltweit zahlreiche 
+Menschen unter dem Motto Black Lives Matter (BLM) auf die Straße, um gegen 
+
+14 Näher hierzu Aden (2019).
+15 Zu den USA: Aden (2016).
+16 EuGH, Europäische Kommission ./. Bundesrepublik Deutschland, Urt. v. 09.03.2010 – 
+C-518/07.
+
+
+
+Unabhängige Kontrolle als Schutz vor Rassismus … 735
+
+Polizeigewalt und Rassismus zu demonstrieren. Auch in Deutschland gab es in 
+den zurückliegenden Jahrzehnten immer wieder Vorfälle, die Anlass für Debatten 
+über rassistisches Polizeihandeln waren. So starben u. a. 2001 in Hamburg der 
+nigerianische Geflüchtete Achidi John und 2005 in Bremen der aus Sierra Leone 
+stammende Laya-Alama Condé nach Brechmitteleinsätzen der Polizei. Im Jahr 
+2005 verbrannte Oury Jalloh in einer Dessauer Polizeizelle, und 2018 starb der 
+syrische Geflüchtete Amad Ahmad in der Justizvollzugsanstalt Kleve, nachdem 
+er fälschlicherweise von der Polizei verhaftet worden war. Auch Ermittlungs-
+fehler im Zusammenhang mit der Aufklärung der rechtsterroristischen Mordserie 
+des NSU gaben Anlass für Diskussionen über individuellen, institutionellen und 
+strukturellen Rassismus im Kontext von Polizeihandeln. So gingen die Fraktionen 
+von SPD, Bündnis 90/Die Grünen und Die Linke davon aus, dass institutioneller 
+Rassismus mitursächlich für Ermittlungsfehler im NSU-Komplex war und 
+forderten zum Abschluss des ersten NSU-Untersuchungsausschusses im Bundes-
+tag unabhängige Kontrollinstanzen, welche polizeiliches Handeln überprüfen 
+sollen.17
+
+Wiederholte Fälle, in denen rassistische und extrem rechte Inhalte aus 
+Gruppenchats von Polizeibeamt:innen bekannt wurden, sowie die Mitgliedschaft 
+von Polizist:innen in der zum rechtsextremen Hannibal-Netzwerk gehörenden 
+Gruppe Nordkreuz und in dem Verein Uniter legen nahe, dass auch individueller, 
+auf Überzeugungen basierender Rassismus in deutschen Polizeibehörden ein 
+verbreitetes Problem ist. Auch mögliche Verstrickungen von Polizist:innen im 
+Zusammenhang mit Drohbriefen, die unter dem Absender NSU 2.0 verschickt 
+wurden, deuten auf verbreitete rechtsextreme und rassistische Tendenzen hin. 
+Dass die überwiegende Mehrheit der rassistischen und extrem rechten Chatinhalte 
+nicht von Polizist:innen selbst gemeldet, sondern erst durch Ermittlungen in 
+anderen Verfahren oder durch journalistische Recherchen aufgedeckt wurden, 
+belegt, dass in der Polizei das Loyalitätspostulat18 als Element der Cop Culture 
+weiterhin stark wirkt. Hinzu kommt, dass Polizist:innen strafrechtlich relevantes 
+Fehlverhalten ihrer Kolleg:innen umgehend melden müssten, da sie im Dienst 
+an das Legalitätsprinzip gebunden sind; ansonsten machen sie sich selbst der 
+Strafvereitelung im Amt schuldig.19 Cop Culture und Legalitätsprinzip führen 
+im Zusammenspiel dazu, dass Polizist:innen, die rassistisches Verhalten in der 
+
+17 BT-Drs. 17/14600, S. 871 ff.
+18 Herrnkind (2004).
+19 Hierzu Behrendes (2013), S. 45.
+
+
+
+736 H. Aden und A. Bosch
+
+Polizei beobachten, dieses oft nicht melden und stillschweigend erdulden, weil 
+sie entweder nicht als Nestbeschmutzer:innen gelten wollen oder strafrechtliche 
+Verfolgung befürchten, wenn sie Vorfälle nicht sofort gemeldet haben.
+
+Bisher fehlt es deutschen Polizeibehörden an einer glaubhaften Fehlerkultur.20 
+Unabhängige Stellen könnten hier einen Beitrag zur Abhilfe leisten, wenn sie 
+auch einen umfassenden Whistleblower-Schutz bieten und sich Polizist:innen 
+an sie wenden können, ohne dass ihre Identität ihrer Dienststelle bekannt wird. 
+Unter diesem Aspekt könnte sich die im internationalen Vergleich auffällige 
+Besonderheit, dass sich in Deutschland auch Polizist:innen an die externen 
+Polizeibeauftragten werden können, als vorteilhaft erweisen.
+
+Strafanzeigen gegen Polizist:innen führen nur selten zu Verurteilungen.21 
+Für Opfer rassistischen Polizeihandelns könnten unabhängige Stellen daher 
+eine deutliche Entlastung sowie eine vertrauensbildende Maßnahme dar-
+stellen. Entlastend, weil sie sich nicht bei der Institution beschweren müssen, 
+von der sie gerade rassistisch behandelt wurden, und vertrauensbildend, wenn 
+unabhängige Stellen eigenständige Ermittlungen anstellen. Dies setzt allerdings 
+entsprechende Befugnisse voraus, was bei den bisher eingesetzten Beauftragten 
+für Landespolizeien in Deutschland nur eingeschränkt gegeben ist.22 Aus der 
+Opferperspektive ist entscheidend, dass in solchen Fällen nicht Polizist:innen 
+gegen Polizist:innen ermitteln, sondern unabhängige Expert:innen. Außerdem 
+vermindern unabhängige Stellen für die Betroffenen die Risiken einer zweiten 
+Viktimisierung, wenn ihre Beschwerden dort ernstgenommen werden. Wo 
+Betroffene darauf verwiesen sind, sich in Polizeidienststellen zu beschweren, 
+besteht zudem ein Risiko, dass die Aufnahme der Anzeige verweigert oder der 
+geschilderte Sachverhalt negiert wird.23 Dies führt zu einem massiven Vertrauens-
+verlust in die Polizei und in den Rechtsstaat insgesamt.
+
+In den bisher veröffentlichten Tätigkeitsberichten der Beauftragten für die 
+Landespolizei in Rheinland-Pfalz und Schleswig-Holstein kommt das Thema 
+Rassismus und Polizei nur am Rande vor. Möglicherweise kennen Betroffene 
+diese Stellen nicht, oder sie halten eine Beschwerde dort für nicht erfolgver-
+
+20 Ohlemacher (2011), S. 194; Haselow und Schümchen (2004), S. 275 ff; Wiendieck 
+(2002), S. 51.
+21 Vgl. Singelnstein (2014).
+22 Hierzu Aden (2019), S. 175 f.
+23 Amnesty International (2016), S. 32 ff.
+
+
+
+Unabhängige Kontrolle als Schutz vor Rassismus … 737
+
+sprechend. Als statistische Kategorie werden Beschwerden über rassistisches 
+Polizeihandeln in den Tätigkeitsberichten nicht gesondert ausgewiesen. Der 
+Bericht der Beauftragten für die Landespolizei Schleswig-Holstein für die Jahre 
+2016 bis 2018 bestätigt die begrenzten Interventionsmöglichkeiten in Fällen, in 
+denen gravierende Verfehlungen von Polizeibeamt:innen im Raum stehen. Nach 
+den bisherigen Landesgesetzen für Polizeibeauftragte bleiben die Ermittlungen 
+in solchen Fällen zunächst der Staatsanwaltschaft überlassen. In einem Fall aus 
+Schleswig-Holstein blieben die Ermittlungen ohne Ergebnis, auch weil Videoauf-
+zeichnungen beschädigt waren und daher nicht ausgewertet werden konnten. Der 
+Betroffene, eine Person of Colour, hatte angegeben, Opfer von Polizeigewalt und 
+Rassismus geworden zu sein.24
+
+4 V erbesserte Praxis durch unabhängige 
+Kontrolle? Policies und Praxis
+
+Unabhängige Stellen bieten, wenn sie mit den erforderlichen Kompetenzen und 
+Ressourcen ausgestattet sind, vielfältige Chancen den Schutz vor Rassismus 
+und Diskriminierung durch die Polizei zu verbessern sowie das Vertrauen in den 
+Rechtsstaat zu stärken.
+
+Dies zeigt insbesondere die Stephen Lawrence Inquiry in Großbritannien. 
+Als der rassistisch motivierte Mord an dem Schwarzen Jugendlichen Stephen 
+Lawrence in London im Jahr 1993 nicht als solcher geahndet wurde und die 
+Ermittlungen zu keiner Aufklärung führten, wurde der Fall nach dem erbrachten 
+Beweis von Ermittlungsfehlern neu aufgerollt. Das britische Innenministerium 
+setzte eine öffentliche Untersuchungskommission unter der Leitung des ehe-
+maligen Richters am Obersten Gerichtshofs Sir William Macpherson of Cluny 
+ein. Die Kommission legte 1999 ihren Abschlussbericht vor, der unter dem 
+Namen ihres Leiters als Macpherson Report bekannt wurde. Darin wurde 
+institutioneller Rassismus in der Metropolitian Police in London im Speziellen 
+und in den Ermittlungsbehörden in Großbritannien im Allgemeinen identi-
+fiziert und thematisiert.25 Die im Bericht enthaltenen 70 Empfehlungen führten 
+
+24 Bürgerbeauftragte für soziale Angelegenheiten (2020), S. 34 f.
+25 Macpherson (1999).
+
+
+
+738 H. Aden und A. Bosch
+
+in Großbritannien zu umfangreichen Reformen im Hinblick auf das Verhältnis 
+zwischen der Polizei und rassifizierten Personen26, auch zur Einrichtung einer 
+zentralen externen Polizeibeschwerdestelle – der Independent Police Complaints 
+Commission (IPCC), die 2018 durch das Independent Office for Police Conduct 
+(IOPC) ersetzt wurde.
+
+Wenn staatliche Stellen für die Aufarbeitung schwerwiegender Vorfälle fehlen, 
+können nichtstaatliche, zivilgesellschaftliche Akteur:innen von großer Bedeutung 
+sein. Im Fall Oury Jalloh sorgte die Initiative in Gedenken an Oury Jalloh durch 
+ein eigenes Alternativgutachten dafür, dass die Selbstmordtheorie entkräftet 
+wurde und die Ermittlungen gegen die beteiligten Polizist:innen nicht eingestellt 
+wurden.27 Mittlerweile hat sich auf Aufforderung der Vereinten Nationen eine 
+internationale unabhängige Untersuchungskommission gebildet, welche den Fall 
+weiter untersucht.28
+
+Diese beiden sehr unterschiedlichen Fälle zeigen exemplarisch, dass es 
+unabhängige Stellen sein können, die institutionellen Rassismus in der Polizei 
+sichtbar machen und bestehende Missstände bei polizeilichen Ermittlungen in 
+Fällen rassistischer Gewalt ausgleichen. Dafür müssen diese Stellen aber Zugang 
+zu allen polizeilichen Dokumenten (Dienstanweisungen, Fallanalysen usw.) und 
+Ermittlungsakten haben, ein uneingeschränktes Zugangsrecht zu allen polizei-
+lichen Bereichen sowie umfassende eigene Ermittlungskompetenzen. All dies ist 
+bei den bisher in Deutschland etablierten Beauftragten für Landespolizeien noch 
+nicht erfüllt. Des Weiteren sollten diese Stellen über Mitarbeiter:innen verfügen, 
+die neben dem juristischen und kriminologischen Fachwissen insbesondere über 
+Kenntnisse aus der Antirassismus- und Antidiskriminierungsforschung verfügen. 
+Dies würde dazu führen, dass unabhängige Stellen nicht nur die Ermittlungen 
+in Fällen rassistischen Polizeihandelns in Deutschland verbessern, sondern 
+auch strukturelle und institutionelle Defizite im Zusammenhang mit Rassismus 
+in der Polizei analysieren und in zu veröffentlichenden Berichten Handlungs-
+empfehlungen für die politischen Entscheidungsträger:innen geben könnten.
+
+Wenn zugleich Kontrollquittungen verpflichtend gemacht würden, welche von 
+den Polizist:innen zu erstellen und von den externen Stellen auszuwerten wären, 
+könnte dies zur Versachlichung der Diskussion über Racial Profiling beitragen.29 
+
+26 Bowling und Phillips (2002).
+27 Kelly (2021), S. 93.
+28 Kelly (2021), S. 95.
+29 Näher hierzu Bosch et al. (2021).
+
+
+
+Unabhängige Kontrolle als Schutz vor Rassismus … 739
+
+Dass die Diskussion über Racial Profiling in Deutschland anhält, liegt auch 
+daran, dass das Ausmaß des Problems unbekannt ist und deshalb von Polizei-
+behörden, Polizeigewerkschaften und Politik teilweise negiert wird. Es fehlen 
+statistische Erhebungen zur Praxis polizeilicher Personenkontrollen in Deutsch-
+land (Aden et al. (2020)). Polizeikontrollen werden bisher nicht systematisch 
+dokumentiert, sondern nur, wenn sie in der polizeilichen Handlungslogik „erfolg-
+reich“ waren und eine Ordnungswidrigkeit festgestellt oder ein Strafverfahren 
+eingeleitet wurde. Zudem bleiben Auswahlkriterien für Kontrollen im Regel-
+fall intransparent – gerade für solche, die weitgehend anlasslos erfolgen. Hier 
+könnten Kontrollquittungen und unabhängige Stellen Abhilfe leisten.
+
+5 S chlussfolgerungen und Ausblick
+
+Unabhängige Beschwerdestellen und Polizeibeauftragte können ein „Baustein“ 
+einer politisch-administrativen Fehlerkultur sein, die in der Lage ist, adäquat auf 
+Vorwürfe diskriminierenden oder rassistischen Verhaltens einzelner Polizist:innen 
+oder struktureller bzw. institutioneller Rassismen zu reagieren.
+
+Dieser Beitrag hat gezeigt, dass dies allerdings von einer Reihe von Voraus-
+setzungen abhängig ist. Unabhängige Kontrollinstitutionen benötigen umfassende 
+Ermittlungsbefugnisse und bedürfen einer hinreichenden Ausstattung mit quali-
+fizierten Mitarbeiter:innen. Wenn bei schwerwiegenden Fällen, etwa bei Vor-
+würfen von Polizeigewalt, staatsanwaltschaftliche Ermittlungen eingeleitet 
+werden, sollte die Zuständigkeit der externen Polizeibeauftragten nicht unter-
+brochen werden, damit die Aufklärung, ggf. in Zusammenarbeit mit der Staats-
+anwaltschaft, effektiv fortgeführt werden kann. Betroffene von rassistischer 
+Diskriminierung müssen wissen, dass es polizeiexterne Beschwerdemöglich-
+keiten gibt. Der Hinweis darauf könnte bei Polizeimaßnahmen zur Verpflichtung 
+gemacht werden. Darüber hinaus sind niedrige Zugangshürden zu den externen 
+Stellen erforderlich – auch für Menschen mit geringer Beschwerdemacht, etwa 
+für Migrant:innen ohne geregelten Aufenthaltsstatus oder für Obdachlose.
+
+Von diesen Standards sind die in Deutschland eingerichteten Beauftragten für 
+Landespolizeien noch ein gutes Stück entfernt – entsprechende Reformen der 
+gesetzlichen Grundlagen ihrer Arbeit könnten die Effektivität externer Polizei-
+kontrolle auch für das Themenfeld Rassismus und Diskriminierung verbessern.
+
+
+
+740 H. Aden und A. Bosch
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020). Rassis-
+mus und Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. 
+Zweiter Zwischenbericht zum Forschungsprojekt „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). Ruhr-Universität Bochum. https://kviapol.rub.de. 
+Zugegriffen: 18. Juli 2022.
+
+Aden, H. (2016). Independent Police Oversight: Learning from International Comparison. 
+In C. Vogt & J. Kersten (Hrsg.), Strengthening Democratic Processes: Police Oversight 
+through Restorative Justice with a Special Focus on Austria, Hungary and Germany 
+(S. 15–33). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Aden, H. (2017). Police governance and parliamentary police oversight in Germany. In 
+M. J. Aguja & H. Born (Hrsg.), The Role of Parliament in Police Governance: Lessons 
+Learned from Asia and Europe (S. 121–145). Geneva: The Geneva Centre for the 
+Democratic Control of Armed Forces (DCAF).
+
+Aden, H. (2019). Unabhängige Polizei-Beschwerdestellen und Polizeibeauftragte. In D. 
+Kugelmann (Hrsg.), Polizei und Menschenrechte (S. 171–185). Bonn: Bundeszentrale 
+für Politische Bildung.
+
+Aden, H., Bosch, A., & Fährmann, J. (2020). Kontrollieren – aber wie? Können technische 
+Innovationen die Akzeptanz für polizeiliche Personenkontrollen verbessern? In H. Groß & 
+P. Schmidt, (Hrsg.), Polizei und Migration (S. 90–108). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+Aden, H. & Fährmann, J. (2021) Argumente für einen besseren Musterentwurf für ein-
+heitlichere Polizeigesetze. Kritische Analyse von Entwicklungen im Polizeirecht aus 
+rechtsstaatlicher und bürgerrechtlicher Perspektive. In M.H.W. Möllers & R.C. van 
+Ooyen (Hrsg.), Jahrbuch Öffentliche Sicherheit 2020/2021 (S. 580–615). Baden-Baden: 
+Nomos.
+
+Amnesty International (2016). Leben in Unsicherheit. Wie Deutschland die Opfer 
+rassistischer Gewalt im Stich lässt. AI-Index: EUR 23/4112/2016. London und Berlin. 
+https://www.amnesty.de/sites/default/files/2017-05/Amnesty-Bericht-Rassistische-
+Gewalt-in-Deutschland-Juni2016.pdf. Zugegriffen: 18. Juli 2022.
+
+Behrendes, U. (2013). Wechselwirkungen zwischen externer Kontrolle und interner Fehler-
+kultur der Polizei. vorgänge. Zeitschrift für Bürgerrechte und Gesellschaftspolitik, 
+52(4), S. 41.
+
+Bojadžijev, M., & Demirović, A. (2002). Vorwort. In dies. (Hrsg.), Konjunkturen des 
+Rassismus (S. 7–29). Münster: Westfälisches Dampfboot Verlag.
+
+Bosch, A. (2020). Die aktuelle Debatte um Rassismus und Rechtsextremismus in der 
+Polizei. vorgänge. Zeitschrift für Bürgerrechte und Gesellschaftspolitik, 59(3–4), 
+S. 167.
+
+Bosch, A., Fährmann, J., & Aden, H. (2021). Kontrollquittungen und -statistiken – Ein 
+Instrument zur Durchsetzung des Diskriminierungsverbots bei Polizeikontrollen. Zeit-
+schrift für Kultur- und Kollektivwissenschaft, 7(1), S. 187.
+
+Bouckaert, G., & Pollitt, C. (2011). Public Management Reform. A Comparative Analysis. 
+New Public Management, Governanceand the Neo-Weberian State. Oxford: Oxford 
+University Press.
+
+
+
+Unabhängige Kontrolle als Schutz vor Rassismus … 741
+
+Bovens, M. (2007). Analysing and Assessing Accountability: A Conceptual Framework. 
+European Law Journal, 13(4), S. 447.
+
+Bovens, M., Schillemans, T., & Goodin, R. E. (2014). Public Accountability. In dies. 
+(Hrsg.), The Oxford Handbook of Public Accountability (S. 1–20). Oxford: Oxford Uni-
+versity Press.
+
+Bowling, B., & Phillips, C. (2002). Race, Crime and Justice. Harlow: Longman.
+Bürgerbeauftragte für soziale Angelegenheiten (2020). Tätigkeitsbericht der Beauftragten 
+
+für die Landespolizei Schleswig-Holstein 2016–2018. Kiel: Schleswig-Holsteinischer 
+Landtag.
+
+Considine, M., & Afzal, A. K. (2012). Accountability in an Age of Markets and Networks. 
+In B. G. Peters & J. Pierre (Hrsg.), The SAGE Handbook of Public Administration. 
+2. Aufl. (S. 712–730). London: Sage.
+
+Fährmann, J., Aden, H., & Bosch, A. (2020). Technologieentwicklung und Polizei: 
+intensivere Grundrechtseingriffe auch ohne Gesetzesänderung. Kriminologisches 
+Journal, 52(2), S. 135.
+
+Goldsmith, A. J., & Lewis, C. (Hrsg.) (2000). Civilian Oversight of Policing. Governance, 
+Democracy and Human Rights. Oxford and Portland: Hart Publishing.
+
+Hall, S. (2000). Rassismus als ideologischer Diskurs. In N. Räthzel (Hrsg.), Theorien über 
+Rassismus (S. 7–16). Hamburg: Argument-Verlag.
+
+Haselow, R., & Schümchen, W. (2004). Über die Fehlerkultur in der polizeilichen Aus-
+bildung und im täglichen Dienst. In K. Liebl (Hrsg.), Empirische Polizeiforschung 
+V: Fehler und Lernkultur in der Polizei (S. 269–298). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+Herrnkind, M. (2004). Übergriffe und „Whistleblowers“ – Betriebsunfälle in der Cop 
+Culture? In K. Liebl (Hrsg.), Empirische Polizeiforschung V: Fehler und Lernkultur in 
+der Polizei (S. 175–192). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei. Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Kelly, N. A. (2021). Rassismus. Strukturelle Probleme brauchen strukturelle Lösungen. 
+Zürich: Atrium Verlag.
+
+Macpherson of Cluny, W. (1999). The Stephen Lawrence Inquiry: Report of an Inquiry 
+by Sir William Macpherson of Cluny, Cm 4262-I. https://assets.publishing.service.
+gov.uk/government/uploads/system/uploads/attachment_data/file/277111/4262.pdf. 
+Zugegriffen: 11. Oktober 2021.
+
+Narr, W.-D. (2004). Die herrschaftssichernden Funktionen von Polizei und Geheim-
+diensten. In H. Aden (Hrsg.), Herrschaftstheorien und Herrschaftsphänomene 
+(S. 73–88). Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Ohlemacher, T. (2011). Gewalt gegen Polizeibeamte in der Bundesrepublik Deutschland, 
+1985–2000: Entstehungskontexte, Reaktionen, Paradoxien. In A. Lüdtke, H. Reinke & 
+M. Sturm (Hrsg.), Polizei, Gewalt und Staat im 20. Jahrhundert (S. 187–204). Wies-
+baden: VS Verlag.
+
+Singelnstein, T. (2014). Körperverletzung im Amt durch Polizisten und die Erledigungs-
+praxis der Staatsanwaltschaften – aus empirischer und strafprozessualer Sicht. Neue 
+Kriminalpolitik, 25(4), S. 15.
+
+Wiendieck, G. (2002). POLIS – Polizei im Spiegel. Selbstbild und Fremdbild von Kölner 
+Polizeibeamten. Hagen: FernUniversität Hagen.
+
+
+
+742 H. Aden und A. Bosch
+
+Prof. Dr. Hartmut Aden ist Jurist und Politikwissenschaftler an der Hochschule für Wirt-
+schaft und Recht Berlin, dort derzeit Vizepräsident für Forschung und Wissenstransfer 
+sowie Mitglied des Forschungsinstituts für Öffentliche und Private Sicherheit (FÖPS 
+Berlin). Er forscht u. a. zu Polizei- und Sicherheitsthemen, insbesondere in europäischer 
+und international vergleichender Perspektive.
+
+Alexander Bosch hat Sozialwissenschaften an der Universität Osnabrück und an der 
+Humboldt-Universität zu Berlin studiert. Er forscht derzeit an der Hochschule für Wirt-
+schaft und Recht Berlin zu polizeilichen Personenkontrollen und zu Kontrollinstanzen der 
+Polizei und promoviert zu rassistischen Wissensbeständen in der Polizei am Institut für 
+Europäische Ethnologie der Humboldt-Universität zu Berlin.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

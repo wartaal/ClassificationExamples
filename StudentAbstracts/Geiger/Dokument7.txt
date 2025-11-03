@@ -1,0 +1,233 @@
+﻿Methodisches Vorgehen 39
+
+3.1.2 Der Online-Fragebogen
+
+Online-Befragungen haben den Vorteil, dass sie spezielle Zielpopulationen
+besser erreichen (Birnbaum, 2004; R. D. Fricker, 2017), da sie kostengünstig
+weit verbreitetwerdenkönnen.Sie bieten einhohesMaßanAnonymität und
+können so Effekte sozialer Erwünschtheit verringern (Kreuter et al., 2008;
+Tourangeau & Yan, 2007). Bei größtmöglicher Differenziertheit durch pro-
+grammierbare Filterführung sind sie dennoch einfach bedienbar und erhö-
+hen somit die Chancen eines möglichst diversen Samples und hoher Rück-
+laufquoten (Bandilla, 2015; Gosling et al., 2004; Hewson, 2017; Thielsch &
+Weltzin, 2012).DieNutzung sozialerMedien zur Verbreitung der Befragung
+bringt jedoch regelmäßig das Risiko von »Selective Exposure« mit sich, die
+durch Algorithmen und Filterblasen entsteht (Ovens, 2017, S. 2).
+
+Im Jahr 2018 nutzten fast 90% der Gesamtbevölkerung das Internet,
+der Anteil sank allerdings mit dem Alter (ARD/ZDF, 2019). Dennoch waren
+85% der über 60-Jährigen und auch noch 58% der über 70-Jährigen online
+(ebd.). Die Erreichbarkeit einiger Gruppen, wie etwa wohnungsloser Per-
+sonen, bleibt zwar auch online schwierig, dies gilt aber ebenso für analoge,
+schriftliche Befragungen (vgl. Trübner & Schmies, 2022, S. 1234 f.). Diese
+Problematik wurde versucht durch intensive Gatekeeper*innen-Kontakte
+zu verbessern. Dennoch bleiben in diesen Gruppen Lücken, die ein anderes
+Vorgehen erfordert hätten (z.B. Face-to-Face Befragung; vgl. auch Abdul-
+Rahman et al., 2019a), was jedoch aufgrund begrenzter Ressourcen im
+Forschungsprojekt nicht hätte geleistet werden können.
+
+3.1.2.1 Entwicklung und Pretest
+
+In die Entwicklung des Fragebogenswurden Literatur und Forschungsstand
+einbezogen, thematisch angrenzende Viktimisierungsbefragungen sowie
+Gedächtnisprotokolle von Betroffenen, mit denen während der Entwick-
+lungsphase Kontakt bestand. Unterstützt wurde die Entwicklung durch
+regelmäßigen Austausch mit den Mitgliedern des wissenschaftlichen Bei-
+rates und Gatekeeper*innen. Der Fragebogen wurde nach Abschluss der
+Befragung auf der Projektwebsite veröffentlicht und ist mit allen Quellen
+einsehbar (Abdul-Rahman et al., 2019b).
+
+Im Anschluss an die erste Entwicklungsphase wurde ein Pretest mit
+29 Personen durchgeführt. Zu diesen Personen zählten einzelne Gatekee-
+per*innen aller relevanter Gruppen sowie einzelne Betroffene, die sich im
+
+
+
+40 Methodisches Vorgehen
+
+Vorfeld der Befragung bereits beim Forschungsteam gemeldet hatten und
+zur Testung des Erhebungsinstruments auf Verständlichkeit, Bedienbarkeit
+und Vollständigkeit bereit waren.Demwissenschaftlichen Beirat wurde der
+Fragebogen ebenfalls zur Testung zur Verfügung gestellt.
+
+ImAnschluss an den Pretestwurde der Fragebogen von einemprofessio-
+nellen Übersetzungsbüro auf Englisch, Französisch und Arabisch übersetzt
+und ebenfalls getestet.
+
+Die Programmierung des Fragebogens und die Erhebung erfolgte mit
+der Software »EFS Survey« der Firma Questback.
+
+3.1.2.2 Referenzereignis
+
+Der Fragebogen war so aufgebaut, dass der Hauptteil den Verlauf einer Si-
+tuation abfragte, in der die Betroffenen Gewalt durch die Polizei erfahren
+hatten, die sie als übermäßig bewerteten, sowie die Folgen und denUmgang
+mit dieser Situation.Da Betroffene auchmehrere Erfahrungen in ihrem Le-
+ben gemacht haben können,musste ein Vorfall ausgewählt werden, auf den
+sich die Befragung bezog (Referenzereignis). Die Befragten mit mehreren
+Erfahrungen wurden dazu gebeten, »die Situation, die für Sie in ihrem Le-
+ben amschlimmstenwar« (Wortlaut der Befragung), zu schildern.Nach die-
+sem subjektiv am schwerwiegendstenVorfall zu fragen, statt etwa nach dem
+zeitlich zuletzt erlebten, erschien ausmehrerenGründen geboten: Zunächst
+war davon auszugehen, dass ein Bedürfnis bestand, diese Erfahrung zu be-
+richten, und dass Erinnerungen an einen solchen Vorfall gerade bei Perso-
+nenmit häufigen Gewalterfahrungen noch präsenter sein dürften. Auch für
+Fragen des Anzeigeverhaltens und der justiziellen Bearbeitung waren Fälle
+mit einemgewissenSchweregradvongrößeremInteresse,dahiermit einem
+größeren Bedürfnis nach rechtsstaatlicher Aufarbeitung zu rechnen war.
+
+Obgleich der als am schwerwiegendsten undnicht der zeitlich zuletzt er-
+lebte Vorfall erhoben wurde, sind die geschilderten Fälle als aktuell zu be-
+werten: 86% (n = 2.890) der von denBefragten geschilderten Fälle ereigneten
+sich inden Jahren 2009 bis 2018, 10% (n = 342) in den Jahren 1999 bis 2008, 3%
+(n = 102) waren länger her, 1,2% (n = 39) der Befragtenmachten keine Angabe
+zum Jahr. Damit stammt der ganz überwiegende Teil der Fälle aus der jün-
+geren Vergangenheit und liefert so Erkenntnisse über die aktuelle Situation.
+Darüber hinaus können auch ältere Fälle relevante Erkenntnisse über situa-
+tiveAspekte liefern.DieBeschränkung einzelnerAnalysen auf Fälle eines be-
+
+
+
+Methodisches Vorgehen 41
+
+stimmtenZeitraums ist außerdemmöglichundwurde vorgenommen,wenn
+sie sinnvoll erschien (s. z.B. Kapitel 6.3.3).
+
+3.1.2.3 Datensicherheit und -schutz
+
+Die Teilnahme an der Befragung war online über die https-verschlüsselte
+Website des Forschungsprojekts möglich. Der Befragungslink wurde vom
+Forschungsteam nicht direkt in sozialen Medien wie Facebook oder Twitter
+gepostet, um Tracking durch die entsprechenden Unternehmen zu verhin-
+dern. Teilnehmende mussten zuerst die Projektwebsite besuchen und wur-
+den von dort zur Befragung weitergeleitet.
+
+Die Speicherung der Daten in der Erhebungsphase erfolgte auf Servern
+der Firma Questback, die die Befragung hostete. Das Rechenzentrum be-
+fand sich in Deutschland und war BSI-zertifiziert (ISO 27001). Mit Quest-
+backwurde eine Vereinbarung über die Auftragsverarbeitung vonDaten ab-
+geschlossen, die die Einhaltung der Datenschutzgrundverordnung gewähr-
+leistete.
+
+UmMissbrauch der Befragung einzuschränken,wurden einerseits soge-
+nannte Captchas als erste technische Schranke verwendet und andererseits
+Cookies eingesetzt, die einemehrfache Teilnahme begrenzen sollten. Gänz-
+lich ausgeschlossen werden können doppelte Teilnahmen bei Online-Befra-
+gungen nicht, ihr Risiko kann jedoch durch entsprechendeMaßnahmen ge-
+senkt werden, deren Anwendung wiederum unter datenschutzrechtlichen
+Gesichtspunkten abgewogen werden muss (vgl. Birnbaum, 2004, S. 813 ff.;
+Gosling et al., 2004, S. 101). Bei den Cookies handelte es sich daher um so-
+genannte Session-Cookies, die jedem*jeder Teilnehmenden eine anonyme,
+nicht erratbare ID zuteilte, die im Browser abgelegt wurde. Diese wurden
+nach sechsWochen automatisch gelöscht.
+
+Die erhobenen Daten lassen keine personenbezogene Auswertung zu.
+Die Freitextfelder der in der Befragung gestellten offenen Fragen enthielten
+den Hinweis, auf Angaben zu verzichten, die Rückschlüsse auf Personen
+ermöglicht oder erleichtert hätten. Solche von den Befragten dennoch frei-
+willig gemachten Angaben wurden anonymisiert. Dabei handelte es sich
+z.B. um die Nennung konkreter Orte, Namen, Daten oder auch Links zu
+Websites oder Videos der Vorfälle. AlleMitarbeitenden, die Zugriff auf nicht
+anonymisierte Rohdaten hatten, wurden schriftlich zur Verschwiegenheit
+verpflichtet. Nach der Anonymisierung wurden die Rohdaten gelöscht. Die
+
+
+
+42 Methodisches Vorgehen
+
+Speicherung der Daten erfolgte passwortgeschützt und verschlüsselt auf
+lehrstuhleigenen Servern.
+
+3.1.3 Erhebungsphase und Datenbereinigung
+
+Die Befragung startete am 08.11.2018 und endete am 13.01.2019 (9,5 Wo-
+chen). Innerhalb dieses Zeitraums gab es 11.647 Zugriffe auf den Frage-
+bogen. Davon durchliefen 5.677 Personen die Befragung vollständig (was
+einer Beendigungsquote von 49% entspricht, vgl. Abbildung 3). Die höchste
+Abbruchquote mit 24% wurde für die Captcha-Abfrage verzeichnet, die
+als erste Seite noch von vielen Personen ohne echte Teilnahmeabsichten
+besucht wurde.
+
+Abbildung 3: Fälle nach Datenbereinigung
+
+
+
+Methodisches Vorgehen 43
+
+Der Fragebogen war außerdem so programmiert, dass er Personen, die
+keine eigene, körperliche Gewalterfahrung durch die Polizei schildern woll-
+ten, zu einer kürzeren Version des Fragebogens umleitete. Dazu gehörten
+Personen, die nur Zeug*innen einer polizeilichenGewaltanwendung gewor-
+denwaren, die psychische, aber keine physische Gewalt durch die Polizei er-
+lebt hatten und solche, die gar keineGewalt erfahren hatten und nur Anmer-
+kungen zumThemamachten.
+
+Bei der sich anschließenden Datenbereinigung kamen Plausibilitäts-
+und Kohärenzkontrollen zum Einsatz (detailliert dazu Abdul-Rahman et
+al., 2019a, S. 244). Weitere Bereinigungskriterien waren die Bearbeitungs-
+dauer (eine weit unterdurchschnittliche Zeit führte zum Ausschluss), die
+Analyse von Antwortmustern sowie die Quote an fehlenden Werten so-
+wie Extremwerten (vgl. Thielsch & Weltzin, 2012). Außerdem wurden die
+offenen Angaben der Befragten gesichtet und Auffälligkeiten sowie nicht
+plausible Angaben im Team diskutiert und ggf. ausgeschlossen.
+
+Nach Anwendung dieser Kriterien bilden 3.373 Fälle (59% aller abge-
+schlossenen Fragebögen) körperlicher Gewalterfahrungen die Stichprobe,
+die den quantitativen Analysen dieses Buchs zugrundliegt. Zeug*innener-
+fahrungen oder Erfahrungen allein mit psychischer Gewalt sind nicht Teil
+der weiteren Auswertungen.
+
+3.1.4 Stichprobe
+
+Die Stichprobe (vgl. Tabelle 1), die mit der Befragung erreicht wurde, ist
+überwiegend (72%) männlich (23% weiblich; 3% Gender non-conforming),
+eher jung (25,9 Jahre) und hochgebildet (71%mit hohemBildungsabschluss).
+Letzteres ist für Online-Erhebungen, insbesondere solche, die mit sozia-
+len Medien arbeiten, ein bekannter Effekt (Pötzschke & Weiß, 2021, S. 20
+m.w.N.), und wurde sicherlich durch die Länge und Detailliertheit des
+Fragebogens verstärkt. Zumeist waren die Befragten zum Zeitpunkt des
+Vorfalls hauptberuflich erwerbstätig (43%) oder gingen noch zur Schule
+bzw. absolvierten ein Studium (43%). Zwei Drittel (67%) der Befragten
+lagen im unteren Einkommensbereich von weniger als 1.500 Euro netto
+monatlich.
+
+
+
+Methodisches Vorgehen 43
+
+Der Fragebogen war außerdem so programmiert, dass er Personen, die
+keine eigene, körperliche Gewalterfahrung durch die Polizei schildern woll-
+ten, zu einer kürzeren Version des Fragebogens umleitete. Dazu gehörten
+Personen, die nur Zeug*innen einer polizeilichenGewaltanwendung gewor-
+denwaren, die psychische, aber keine physische Gewalt durch die Polizei er-
+lebt hatten und solche, die gar keineGewalt erfahren hatten und nur Anmer-
+kungen zumThemamachten.
+
+Bei der sich anschließenden Datenbereinigung kamen Plausibilitäts-
+und Kohärenzkontrollen zum Einsatz (detailliert dazu Abdul-Rahman et
+al., 2019a, S. 244). Weitere Bereinigungskriterien waren die Bearbeitungs-
+dauer (eine weit unterdurchschnittliche Zeit führte zum Ausschluss), die
+Analyse von Antwortmustern sowie die Quote an fehlenden Werten so-
+wie Extremwerten (vgl. Thielsch & Weltzin, 2012). Außerdem wurden die
+offenen Angaben der Befragten gesichtet und Auffälligkeiten sowie nicht
+plausible Angaben im Team diskutiert und ggf. ausgeschlossen.
+
+Nach Anwendung dieser Kriterien bilden 3.373 Fälle (59% aller abge-
+schlossenen Fragebögen) körperlicher Gewalterfahrungen die Stichprobe,
+die den quantitativen Analysen dieses Buchs zugrundliegt. Zeug*innener-
+fahrungen oder Erfahrungen allein mit psychischer Gewalt sind nicht Teil
+der weiteren Auswertungen.
+
+3.1.4 Stichprobe
+
+Die Stichprobe (vgl. Tabelle 1), die mit der Befragung erreicht wurde, ist
+überwiegend (72%) männlich (23% weiblich; 3% Gender non-conforming),
+eher jung (25,9 Jahre) und hochgebildet (71%mit hohemBildungsabschluss).
+Letzteres ist für Online-Erhebungen, insbesondere solche, die mit sozia-
+len Medien arbeiten, ein bekannter Effekt (Pötzschke & Weiß, 2021, S. 20
+m.w.N.), und wurde sicherlich durch die Länge und Detailliertheit des
+Fragebogens verstärkt. Zumeist waren die Befragten zum Zeitpunkt des
+Vorfalls hauptberuflich erwerbstätig (43%) oder gingen noch zur Schule
+bzw. absolvierten ein Studium (43%). Zwei Drittel (67%) der Befragten
+lagen im unteren Einkommensbereich von weniger als 1.500 Euro netto
+monatlich.

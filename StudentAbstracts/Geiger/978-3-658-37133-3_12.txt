@@ -1,0 +1,1292 @@
+﻿Polizei und Rassismus
+
+Eine kompakte Feldanalyse nach Bourdieu
+
+Marschel Schöne
+
+Zusammenfassung
+
+Der Beitrag des ehemaligen Polizeipraktikers und praktizierenden Polizei-
+forschers Schöne analysiert auf der Basis der Theorie Pierre Bourdieus 
+kompakt die grundlegenden Merkmale, Wirkmechanismen und Ambivalenzen 
+des Feldes Polizei, die diskriminierende und rassistische Prozesse und Hand-
+lungen auslösen können. Zur detaillierten Diskussion wird das Feld-Habitus-
+Modell von Martin Herrnkind mit den Feldmerkmalen Konservatismus, 
+Argwohn, Insularität, Gender, Gewalt und Macht verwendet. Diese generieren 
+Handlungsspielräume, die unter bestimmten Umständen zu Willkürspiel-
+räumen werden können.
+
+Schlüsselwörter
+
+Bourdieu · Feldanalyse · Polizei · Rassismus
+
+Der nachfolgende Beitrag basiert auf Schöne (2011, 2019); Herrnkind (2021), Schöne und 
+Herrnkind (2021) sowie Herrnkind und Schöne (2021). In den Fällen von Herrnkind mit 
+Zustimmung des Autors.
+
+M. Schöne (*) 
+Hochschule der Sächsischen Polizei, Rothenburg/OL, Deutschland
+E-Mail: marcel.schoene@polizei.sachsen.de
+
+© Der/die Autor(en) 2022 239
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_12
+
+
+
+240 M. Schöne
+
+1  Prolog
+
+Wäre ich noch Polizist, würden mir die gesellschaftlichen Diskussionen um Dis-
+kriminierung und Rassismus durch Polizist:innen vermutlich veritabel gegen den 
+Strich gehen. Wer lässt sich schon gern als inkorporierter Betriebsangehöriger 
+kritisieren? Und sei es nur indirekt. Vor allem bei Themen, die so polarisierend 
+und gesellschaftspolitisch aufgeladen sind. Die polizeilichen Reaktionen auf dies-
+bezügliche Forschungen sind durchwachsen und reichen von aufgeschlossenem 
+Interesse über Skepsis und Empörung bis zur offenen Abwehr.
+
+Nach Bourdieu wird das „Wertsystem der Ehre […] eher ‚praktiziert‘ als 
+gedacht, und die Grammatik der Ehre kann den Handlungen Form geben, ohne 
+selbst formuliert werden zu müssen“1. Polizist:innen haben ein vitales Interesse 
+daran „ihr Ehrenkapital, d. h. ihren Kredit an Ehrbarkeit, vor jedem Verdacht 
+zu hüten. Die Überempfindlichkeit für geringste Andeutungen […] erklärt 
+sich genau wie die Fülle an Verneinungs- und Abwehrstrategien gegen solche 
+Anspielungen (gerade) dadurch“2.
+
+Polizeiforscher:innen werden polizeiintern mitunter als eine Art 
+Spielverderber:innen gesehen, weil sie die polizeilichen Akteur:innen durch 
+ihren Gegenstand zu kognitiven Dissonanzen zwingen. Zu Selbstreflexionen, 
+einem Bruch mit vertrauten Welt- und Wahrheitskonstruktionen und den daraus 
+resultierenden Denk- und Handlungsroutinen. Jedenfalls dann, wenn sie kritische 
+Themen ansprechen und sich nicht in die loyale Rolle des „Hofnarren“ einer 
+kontrollierbaren und zur Harmlosigkeit domestizierten „Haus- und Hofwissen-
+schaft“3 fügen, die lediglich Erfüllungsgehilfe der polizeilichen Berufspraxis ist. 
+Gegenwärtig ist die Hochschule der Deutschen Polizei in der konzeptionellen 
+Phase der MEGAVO Studie. Diese soll explizit auch Einstellungen und normative 
+Motivationen und damit die Thematiken gruppenbezogener Menschenfeindlich-
+keit (GMF) und Rassismus in der Polizei untersuchen, gibt dies jedoch in keiner 
+Weise im eigenen Onlineauftritt zu erkennen.4 Die buchstäblich am eigenen 
+Titel der Studie vorbei praktizierte semantische Camouflage resultiert aus den 
+
+1 Bourdieu (1979), S. 43.
+2 Bourdieu (1993a), S. 220. Zum polizeilichen Ehrenkodex als symbolisches und soziales 
+Kapital siehe Schöne (2011), S. 134 ff.
+3 Feltes (2015), S. 21.
+4 https://www.dhpol.de/departements/departement_III/FG_III.5/megavo.php (zugegriffen: 
+18. Juli 2022).
+
+
+
+Polizei und Rassismus 241
+
+determinierenden Grenzen des Denk- und Diskursraumes Polizei.5 „Wissenschaft 
+ohne Simulation und bar jeder Korruption kann (aber) gegenüber der Erscheinung 
+ihres Gegenstands kein anderes als ein häretisches Verhältnis haben.“6
+
+Deshalb müssen Wissenschaftler:innen klar benennen (können), was sie tun. 
+Und sollten nicht den Burgfrieden wahren oder die Reduktionslogik polizeilicher 
+Checklisten bedienen (müssen). Ein starker Hierarchie- und Anwendungsbezug 
+ist zwar für die Polizei prägend, führt aber das vom Bundesverfassungsgericht 
+kondensierte und geschützte Prinzip ad absurdum, das Wissenschaft als alles 
+definierte „was nach Inhalt und Form als ernsthafter planmäßiger Versuch zur 
+Ermittlung der Wahrheit anzusehen ist“7. Im Habitus von Polizist:innen prägt sich 
+die Komplexität reduzierende Tendenz zum Pragmatischen teilweise zu „anti-
+theoretischen Perspektiven“8 aus.
+
+In diesem Kontext machte im Februar 2021 eine kampagnenähnliche Aktion 
+der Hochschule der Polizei Rheinland-Pfalz Schlagzeilen. Reagiert wurde auf 
+eine von Singelnstein geleitete Studie der Ruhr-Universität Bochum zur Körper-
+verletzung im Amt durch Polizeivollzugsbeamt*innen (KViAPol), die erstmalig 
+in Deutschland polizeiliche Gewaltanwendung aus Sicht der Betroffenen unter-
+sucht. Diese Reaktion wurde von weiten Teilen der Polizeiforschung als Auf-
+ruf zur kollektiven polizeilichen Selbstimmunisierung gegen externe Forschung 
+aufgefasst, deren Ergebnisse den polizeilichen Akteur:innen missfallen. Solche 
+nachweislich verunglimpfenden Falschbehauptungen sowie deren anmaßender 
+und ignoranter Impetus erschweren eine rationale, inhaltlich wie methodisch 
+differenzierte Auseinandersetzung mit den Erkenntnissen von Forschung erheb-
+lich. Und zweifellos ist es befremdlich und grenzwertig, wenn die Methodik der 
+Forschenden von denjenigen kontrolliert und kritisiert wird, die es zu erforschen 
+gilt. Zumal wenn diese Kritik nicht auf wissenschaftlich soliden Argumenten 
+gründet, sondern mit politischen Intentionen vorgetragen wird. Dabei muss 
+nicht jede Kritik illegitim oder falsch sein. Rückmeldungen aus der Praxis sind 
+für Forschende erkenntnisreich. Wissenschaftliche Prüf- und Analysekriterien 
+dürfen jedoch final nicht von den Meinungen und Präferenzen der Erforschten 
+abhängen.9 Es ist neben dem klaren und beindruckend geschlossenen Signal aus 
+
+5 Vgl. Schöne (2011), S. 189 ff.
+6 Sack (1992), S. 125.
+7 BVerfGE 35, 79 (112).
+8 Bowling et al. (2019), S. 179.
+9 Vgl. hierzu Meißelbach (2021).
+
+
+
+242 M. Schöne
+
+der Polizeiforschung letztlich nur dem Einlenken der Hochschule der Polizei 
+Rheinland-Pfalz zu verdanken, dass diese Causa nicht in die ebenso binäre wie 
+dogmatische Frontenlogik abgeglitten ist, wie sie die sozialwissenschaftliche 
+Forschung über die Polizei seit ihren Anfängen bis heute von der Polizeiseite wie 
+der Wissenschaftsseite immer wieder begleitet.10
+
+Der Vorgang kann als Beleg für die Existenz expliziter feldspezifischer 
+Strukturen und Konstruktionsakte der Abschottung gesehen werden, die zunächst 
+den Umgang von Teilen der Organisation Polizei mit internen wie externen 
+Wissenschaftler:innen beleuchten. Er kann im Diskurs aber auch erweitert werden 
+auf das Verhältnis von Polizei und einer anti-monistischen Gesellschaft, die 
+zunehmend vom Zweifel Gebrauch macht und für die die Wissenschaft idealtypisch 
+steht. Die Notwendigkeit wissenschaftlicher Forschung über die Organisation 
+Polizei11 geht in Folge gestiegener gesellschaftlicher Diversität und Pluralität 
+neben neuen Bedrohungslagen und erhöhten Sicherheitsbedürfnissen auch auf eine 
+Erosion tradierter Staats- resp. Obrigkeitshörigkeit zurück. Diese stellt das fragile 
+Staat-Bürger-Konstrukt der Über- und Unterordnung und damit auch die Autorität 
+der Polizei12 mehr und mehr in Frage: Etwa in Gestalt emanzipierter Bürger:innen, 
+wie wir sie in sozialen Bewegungen wie Stuttgart 21, Ende Gelände, Extinction 
+Rebellion, Fridays for Future oder der Black Lives Matter Bewegung sehen. Aber 
+auch in Protestbewegungen wie Pegida oder den sog. Querdenkern.
+
+Der in vielfältigen Diskursen und Aktionen sichtbare Zweifel an staatlicher 
+Politik, die Kritik an konkretem staatlichem Handeln und der Willkür staatlicher 
+Macht bedeuten den teilweisen Entzug des nötigen bürgerschaftlichen Kredits 
+zur Umsetzung des staatlichen Gewaltmonopols. Und das nicht mehr nur von sog. 
+gesellschaftlichen Randgruppen, sondern von Akteur:innen aus fast allen Gesell-
+schaftsschichten und Milieus. Weswegen dieser komplexen sozialkulturellen 
+Dynamik einsatztaktisch, kriminalpolitisch oder polizeigewerkschaftlich auch 
+nicht mit bewährten (Abwehr-)Konzepten beizukommen ist. Für die polizeilichen 
+Akteur:innen mag sich der Entzug des bürgerschaftlichen Vertrauens im über-
+tragenden Sinne teilweise anfühlen wie kalter Entzug, mithin eine erhebliche Störung 
+
+10 Weiterführende Informationen zu dem gesamten Vorgang inkl. der Reaktion der Hoch-
+schule der Polizei Rheinland-Pfalz auf die Kritik der Polizeiforschung siehe unter 
+KviAPOL (2021) sowie Arbeitskreis Empirische Polizeiforschung (2021). Grundlegend 
+zum Verhältnis von Polizei und Wissenschaft siehe Herrnkind und Schöne (2021) sowie 
+Schöne und Herrnkind (2022).
+11 Zur Polizeiforschung siehe Ohlemacher (1999); Kreissl (2021).
+12 Zur Frage der polizeilichen Autorität siehe Weber (2021).
+
+
+
+Polizei und Rassismus 243
+
+der polizeilichen Berufsidentität und des dazugehörigen Autoritätsverständnisses.13 
+Das für Veränderungen schwergängige Feld Polizei kommt so in die Ambivalenz 
+zwischen effektiver und verlässlicher Aufrechterhaltung der existierenden Ordnung 
+und der notwendigen Anpassung an gesellschaftlichen Wandel. Einen Wandel, der 
+metaphorisch als eine Ansammlung von Kontrapunkten verstanden werden kann, 
+einer Vielfalt von Individuen, Meinungen, Kräften, Strukturen, Perspektiven und 
+dem, was Friedrich Nietzsche Freischeinlichkeiten nannte.
+
+Als Kontrapunkt14 wird in der Musik die Organisation mehrstimmiger 
+Kompositionen bezeichnet. Mehrere Stimmen verhalten sich gleichrangig gegen-
+einander, bilden im Rahmen der Harmonie aber gemeinsam einen Klang. In 
+anderer Lesart wird unter Kontrapunkt hingegen eine Polarisierung bezeichnet, 
+eine Divergenz, die im Extrem auch Gegner:innenschaft bedeuten kann. Beide 
+Perspektiven des Begriffs umreißen gleichsam die Möglichkeiten und Problem-
+lagen von Polizeiarbeit in pluralisierten Gesellschaften. Als eine kontrapunktische 
+Reaktion sind neben engagierten Anpassungsbemühungen des Feldes Polizei15 
+auch Abwehr- und Selbstbehauptungsreflexe und damit Stärkedemonstrationen zu 
+beobachten.
+
+Im vorliegenden Sammelband liegt der Fokus auf dem kontrovers dis-
+kutierten Themenfeld Polizei und Rassismus. Fast niemanden lässt der Vorwurf 
+von Diskriminierung, Stigmatisierung, gruppenbezogener Menschenfeindlich-
+keit und Rassismus durch eine:n zentrale:n staatliche:n Akteur:in der Exekutive 
+unbeteiligt. Und ihn pauschal zu erheben ist ebenso neben der Sache liegend, 
+wie dessen pauschale Verneinung im Sinne des Bundesinnenministers, der 
+Anfang Juli 2020 eine von der Europäischen Kommission gegen Rassismus und 
+Intoleranz (ECRI) in ihrem Bericht über Deutschland empfohlene Studie zum 
+Phänomen Racial Profiling ablehnte. Begründung: Racial Profiling sei in der 
+polizeilichen Praxis verboten. Vorfälle seien absolute Einzelfälle.16 Was verboten 
+
+13 Siehe hierzu weiterführend Schöne und Herrnkind (2021). Siehe auch Behr in Meinhart 
+(2021).
+14 Lateinisch: punctus contra punctum (Note gegen Note).
+15 Das Feld Polizei hat auf vielfältige Weise auf die mit Migration einhergehenden Ver-
+änderungen reagiert. Siehe hierzu exemplarisch das Verbundprojekt „Migration und Polizei 
+– Auswirkungen der Zuwanderung auf die Organisation und Diversität der deutschen 
+Polizei“ (2018–2021): https://www.dhpol.de/departements/departement_I/FG_I.3/projekt_
+migrate.php (zugegriffen: 18. Juli 2022).
+16 Süddeutsche Zeitung (2020).
+
+
+
+244 M. Schöne
+
+ist, das gibt es also in praxi nicht und muss nicht untersucht werden. Das Gegen-
+teil ist der Fall. Es gibt Rassismus in der deutschen Gesellschaft und in staat-
+lichen Organisationen wie der Polizei. Letztere sind quantitativ und qualitativ 
+zu deutlich und komplex durch Gerichte, Bürgerrechtsvereinigungen, die ehe-
+malige Bundesarbeitsgemeinschaft Kritischer Polizisten (Hamburger Signal) 
+e. V. und internationale Institutionen wie den UN-Ausschuss zur Beseitigung 
+rassistischer Diskriminierung, den UN-Sonderberichterstatter über Folter, 
+die UNO-Menschenrechtskommission, den Europarat und die Internationale 
+Helsinki-Förderation, sowie amnesty international zahlreich dokumentiert, um 
+a.) die Existenz dieser Übergriffe des staatlichen Gewaltmonopols grundlegend 
+zu leugnen resp. zu negieren und b.) selbige in Sündenbocklogik lediglich als 
+akteur:innenspezifisches Verhalten zu verharmlosen, das mit der Organisation 
+Polizei strukturell nichts zu tun hat.17
+
+Wilhelm v. Humboldt bezeichnete Wahrheit als etwas, das noch nicht ganz 
+gefunden und nie ganz aufzufinden ist und legte damit den Grundstein für den 
+Imperativ des Forschens: Immer weiter zu fragen, wissen zu wollen und nach 
+Erkenntnis zu streben. Wir wissen über Polizei und Rassismus genug, um die 
+teils dramatische Relevanz des Themas zu begreifen. Aber zu wenig, um umfäng-
+lich verlässliche Antworten geben zu können. Weitere empirische Forschungen 
+und Fachdiskurse sind zwingend angezeigt, um das Phänomen zu verstehen und 
+handlungsfähiger zu werden. Neben dem Erkenntnisgewinn vor allem aufgrund 
+der möglichen verheerenden physischen und psychischen Folgen für Menschen, 
+ihr Sicherheitsempfinden, ihr Vertrauen in staatliche Akteur:innen und damit auch 
+die Erosion der Grundlagen des rechtsstaatlich zugesicherten Individual- und 
+Gemeinwohls.18
+
+Im Folgenden wird die Organisation Polizei als Feld im Sinne Pierre 
+Bourdieus beleuchtet, um die grundlegenden strukturellen und personellen 
+polizeilichen Funktionsprinzipien zu erhellen, die alle in diesem Sammelband 
+betrachteten polizeilichen Praxen generieren. Zur detaillierten Diskussion der 
+für Polizei und Rassismus relevanten feldspezifischen (Habitus-)Merkmale und 
+deren Ausformungen wird das Feld-Habitus-Modell von Herrnkind verwendet.19 
+Aufgrund der funktionalen Heterogenität des Feldes Polizei und der hieraus 
+
+17 Zu polizeibezogenem Rassismus, Rechtsextremismus und Polizeigewalt siehe Feltes und 
+Plank (2021).
+18 Für eine außergewöhnliche Betrachtung des notwendigen Vertrauens in die Polizei siehe 
+Reemtsma (2003), S. 7 ff.
+19 Umfassend zum Modell siehe Herrnkind (2021).
+
+
+
+Polizei und Rassismus 245
+
+resultierenden spezifischen polizeilichen Praxen und Habitus, ist eine voll-
+ständige Darstellung hier nicht zu leisten. Es wird aber deutlich, welche grund-
+legenden feldspezifischen Merkmale, Wirkmechanismen und Ambivalenzen die 
+diskriminierenden und rassistischen Prozesse und Handlungen auslösen können, 
+die der Organisation Polizei und ihren Akteur:innen nicht erst seit der trans-
+nationalen Black Lives Matter Bewegung vorgeworfen werden und die Eckert 
+et al. in einer Studie zu Übergriffen von Polizeibeamt:innen auf Ausländer:innen 
+weder als „bloße Einzelfälle“ noch als ein „durchgehendes Muster“ heraus-
+arbeiteten, sondern als „Konsequenz von spezifischen Belastungsbedingungen 
+und -situationen (extrahierten), die in Problemgebieten und bei Problemeinsätzen 
+anfallen“.20 Die Befassung damit geht an die Grenzen des Denk- und Diskurs-
+raumes Polizei und über diese hinaus. Sie ist schwer auszuhalten für Akteur:innen 
+innerhalb der Polizei, wie für solche außerhalb der Organisation. Aber der ein-
+zige Weg für einen konzentrierten, sachlichen, kritikfähigen, offenen, und deshalb 
+auch verletzlichen, Blick von Außen und Innen auf die problematischen Praxen 
+einer staatlichen Organisation mit Gewaltlizenz.
+
+2 B ourdieus Theorie der Praxis – Eine kurze 
+Einführung
+
+Der Soziologe Bourdieu hat mit seiner theoriegeleiteten Dekonstruktion sozialer 
+Strukturen und Akteur:innen das Universum des Sozialen fassbarer gemacht. 
+Seinen Theorien des Sozialen, die auf präzise Weise Handlungen und Handelnde 
+erfassen können, wohnt ein enormes Potenzial zur umfassenden Analyse der 
+sozialen Wirklichkeit sozialer Felder inne. Im Gegensatz zu anderen Sozial-
+theorien und ihrem universalen Anspruch begriff Bourdieu seine Theorie-
+komponenten als separate Theorien des Sozialen, die einzeln zur Analyse 
+verwendet oder additiv gebündelt werden können. Analog zu zusätzlichen 
+Modulen eines Lenkdrachens kann durch das Zusammendenken der Theorie-
+segmente nicht nur die Geschwindigkeit, sondern auch die Flugpräzision und 
+-reichweite erhöht werden. So können alle polizeilichen Praxen, mithin auch 
+problematische, in der Theorie Pierre Bourdieus als spezifische Folgen der 
+Feldstruktur, der feldspezifischen Kapitalverteilung sowie als Ausprägungen 
+des (Kollektiv)Habitus des sozialen Feldes und damit seiner prägenden Denk-, 
+
+20 Eckert et al. (1996), S. 88.
+
+
+
+246 M. Schöne
+
+Wahrnehmungs- und Handlungsweisen interpretiert werden. Dies vor allem, 
+da dem sozialen Raum und den Positionen, die die sozialen Akteur:innen darin 
+haben und aus denen eine spezifische Sicht auf die soziale Welt resultiert, 
+für Bourdieu eine zentrale Bedeutung zukommt. Diese sozialen Räume und 
+Akteur:innen konzentriert Bourdieu in seiner Theorie der Praxis.
+
+Hiernach differenziert sich die Gesellschaft in soziale Felder aus. Und diese 
+wiederum in Unterfelder. In diesen Feldern bilden sich spezifische Kapitalien und 
+Regeln heraus, die in einem anderen sozialen Feld bedeutungs- und wirkungs-
+los sein können.21 Soziale Felder sind für Bourdieu der strukturierte und 
+strukturierende Rahmen sozialer Praxisformen, entscheidend bestimmt durch 
+die Konzepte Habitus und Kapital. Der Habitus umfasst dabei die verinner-
+lichte Modellierung des Handelns, während unter Feld und Kapital die externen 
+Faktoren des Handelns verstanden werden. Der Habitus als Inkorporierung 
+gesellschaftlicher Strukturen, d. h. „sozialisierte Subjektivität“ oder das „Körper 
+gewordene Soziale“22 bezeichnet damit die Transformation von äußeren 
+Strukturen in die Denk-, Wahrnehmungs- und Handlungsschemata eines 
+Individuums. Er leitet das Handeln der Akteur:innen an, prägt ihre Deutungs-
+muster und damit ihre interpretative Wahrnehmung von Welt.23 Je länger soziale 
+Akteur:innen im sozialen Milieu eines Feldes habitualisiert werden, und je 
+stabiler dieses Feld ist, desto mehr determiniert der Kollektivhabitus ihr Wahr-
+nehmen, Denken und Handeln, mit dem wir uns nachfolgend intensiver befassen 
+werden. Die Struktur eines Feldes, seine spezifische Dynamik und Logik sowie 
+die Strategien der Feldakteur:innen sind dabei von verschiedenen Kapitalsorten 
+abhängig. So von ökonomischem, kulturellem, sozialem und symbolischem 
+Kapital.24 Diese Kapitalsorten kommen zwar homolog in allen sozialen Feldern 
+vor, werden jedoch quantitativ und qualitativ feldspezifisch ausgeprägt.25 Gerade 
+das Kapitalkonzept Bourdieus geht durch seinen Rekurs auf soziale Beziehungen 
+weit über die Annahmen der klassischen Ökonomie hinaus. Bourdieus Kapital-
+konzept umfasst damit alle Ressourcen, die von gesellschaftlicher Bedeutung 
+sind. So kann jede Ressource, die für soziales Handeln erforderlich ist, als 
+Kapital fungieren und jede Form von Tätigkeit der Akkumulation von Kapital 
+
+21 Vgl. Bourdieu (2004), S. 320.
+22 Bourdieu und Wacquant (1996), S. 159.
+23 Vgl. Bourdieu (1984), S. 277 ff.
+24 Ausführlich zu den Kapitalien siehe Schöne (2011), S. 58 ff.
+25 Vgl. Bourdieu und Wacquant (1996), S. 139.
+
+
+
+Polizei und Rassismus 247
+
+dienen. Kapital ist damit die Grundlage jedes sozialen Handelns, wobei Bourdieu 
+jedes soziale Handeln als Kampf um die Sicherung oder Verbesserung von 
+sozialen Positionen versteht. Je größer der Umfang an nutz- und akkumulier-
+barem Kapital, desto größer der Einfluss auf die Regeln, Einsätze, Positionen und 
+Positionierungen eines Feldes.26
+
+Diese Verteilungsstruktur macht jedes soziale Feld zu einem einmaligen 
+Kräftefeld mit komplexen direkten und indirekten Konkurrenzbeziehungen und 
+Einflusssphären.27 Gekoppelt mit der Struktur und den Habitusausprägungen des 
+Feldes bestimmt sich hieraus auch die Frage des Verhältnisses der Polizei zur 
+pluralisierten Gesellschaft und ihren ethnischen, geschlechtlichen, religiösen oder 
+kulturellen Ausformungen.
+
+3 I n medias res: Das Feld Polizei
+
+Die Polizei ist mit ca. 280.000 Polizeivollzugsbeamt:innen in den 
+Länderpolizeien ein institutioneller und sozialer Goliath. Konstruktive Haupt-
+schlagader des staatlich konstruierten Feldes ist de jure das Mandat und Monopol 
+zur legitimen Ausübung der Gewalt im Inneren der Gesellschaft gem. Art. 20 
+Abs. 2 und Abs. 3 GG. Die Polizei als eine der wichtigsten Akteur:innen im 
+Handlungsfeld der öffentlichen Sicherheit und Ordnung ist elementarer und 
+exponierter Teil des staatlichen Herrschaftsbetriebes. Und beruht nach Weber 
+auf dem Prinzip von Herrschaft durch Legalität.28 Sie ist dabei die Museums-
+wärterin der Demokratie, die gefahrenabwehrend und strafverfolgend den Status 
+Quo konserviert. In dieser Rolle ist sie gleichsam der innere Schutzwall des 
+Staates, der staatliche Herrschaftsverhältnisse stabilisiert. Dabei sichern die staat-
+liche Ordnung und die Polizei ihren eigenen Fortbestand und ihre Machtformen 
+durch die symbolische Wirkung, die sie von dem Augenblick an entfalten, in dem 
+sie durch öffentliche und offizielle Akte bestätigt und gleichsam verkannt und 
+anerkannt werden.29 Nach Hobbes Staatstheorie Leviathan (1651) ist derjenige, 
+der stark genug ist, alle zu schützen, auch stark genug, alle zu unterdrücken, 
+d. h. eine Dominanzkultur zu etablieren. Die Feldmerkmale werden später 
+
+26 Vgl. auch Bourdieu (1997c), S. 23.
+27 Vgl. analog Bourdieu (1993b), S. 37.
+28 Vgl. Weber (1994), S. 40 f.
+29 Vgl. analog Bourdieu (1993a), S. 246.
+
+
+
+248 M. Schöne
+
+Abb. 1  Merkmale des sozialen Feldes Polizei. (Quelle: Herrnkind 2021)30
+
+ verdeutlichen, welche Folgen sich mit diesem Potenzial verbinden. In summa 
+repräsentiert die Polizei wie kaum eine andere staatliche Institution das staat-
+liche Menschenbild, staatliche Prinzipien von Freiheit und Sicherheit sowie die 
+Vorstellungen von gesellschaftlicher Konfliktregelung. In der Polizei spiegelt sich 
+das Bild des Staates. Und umgekehrt. Ein folgenreiches „Spiel der sich unendlich 
+ineinander spiegelnden Spiegel“31.
+
+Obschon die Polizei nach Außen um Uniformität bemüht ist, handelt es sich 
+nicht um ein durchgängig homogenes System, sondern durch die 18 Polizei-
+organisationen auf Länder- und Bundesebene32 um ein ebenso heterogenes 
+wie komplexes kollektives Gebilde, das im Inneren durch eine vielfältige Aus-
+differenzierung seiner Akteur:innen geprägt wird. Diese gehören durch die Zuge-
+hörigkeit zu verschiedenen Funktions- und Hierarchieebenen, wie Schutz- (80 %) 
+
+30 Zum Modell und der nachfolgenden Beschreibung der Feldmerkmale siehe vergleichend 
+Herrnkind (2021); Schöne und Herrnkind (2021).
+31 Bourdieu (1996), S. 68.
+32 16 Länderpolizeien sowie Bundeskriminalamt und Bundespolizei.
+
+
+
+Polizei und Rassismus 249
+
+und Kriminalpolizei (20 %) und den Laufbahnen des mittleren, gehobenen und 
+höheren Dienstes verschiedenen Organisationskulturen an und handeln kollektiv 
+wie singulär nicht statisch uniform.33 Schon deshalb, weil die polizeiliche Realität 
+durch und durch eine soziale Realität ist, voller irrationaler, informeller, affektiver 
+und reflexiver Effekte, die durch bürokratische Definitionen und rechtliche 
+Rahmungen nur unzureichend erfasst werden.34
+
+Daran vorbei produziert der exklusive polizeiliche Auswahl- und 
+Sozialisationsprozess durchaus Akteur:innen mit vergleichbarem Habitus. Die 
+Polizeiforschung hat verschiedentlich einen Kollektivhabitus extrahiert, der 
+bspw. in Krisen- und Gefahrensituationen die Komplexität des Feldes Polizei 
+schlagartig reduzieren kann auf die Formel: A cop is a cop. Ein kollektives Wir 
+steht dann uniform und machtvoll gegen die Anderen, das sogenannte polizei-
+liche Gegenüber – einzelne Gesellschaftsmitglieder oder Gruppen.35 Dieser 
+Kollektivhabitus spannt sich wie ein nivellierendes Band über alle polizeilichen 
+Akteur:innen und Strukturen. Und generiert – befördert durch den feldspezi-
+fischen Konformitätsdruck36 – eine polizeiliche Identität, die als Familiensinn 
+der Polizei wirkt.37 Der berufliche Habitus der Polizeikultur ist als formeller 
+Referenzrahmen für die Praxen des Feldes Polizei daher lediglich ein ideal-
+typisches Konstrukt, das aufgrund der Individualität der Praxen und Akteur:innen 
+durch den beruflichen Habitus der Polizist:innenkultur ergänzt wird.38 Oder 
+anders: Police in the Books vs. Police in Action. Beide Perspektiven sind 
+elementar für die Realitäts- und Identitätskonstruktionen der polizeilichen 
+Akteur:innen.39 Behr weist in diesem Kontext darauf hin, dass die polizei-
+lichen Tätigkeiten Regeln folgen „die nur begrenzt in der Aus- und Fortbildung 
+
+33 Für die Pluralität der Polizeien Deutschlands hinsichtlich ihrer Organisations-
+strukturen, Ausbildung, Ausstattung, rechtlichen Befugnisse siehe u. a. Groß et al. 
+(2008); Schöne (2011). Für Erkenntnisse zur Meinungsvielfalt im Feld Polizei aus einer 
+Mitarbeiter:innenbefragung zum Polizeidienst in Krisenzeiten (Corona Pandemie) in der 
+sächsischen Polizei im Jahr 2020 siehe Meißelbach et al. (2021), S. 71 ff.
+34 Siehe hierzu das Konzept Cop Culture und Police Culture: Chan (1997); Behr (2000).
+35 Der distanzierende und negative Terminus polizeiliches Gegenüber kann als sprachliche 
+Universalie des Feldes Polizei gelten, die die Bürger bereits semantisch von der Polizei 
+abgrenzt.
+36 Exemplarisch zum Konformitätsdruck in der Polizei Herrnkind (2008), S. 191 f.
+37 Siehe hierzu Schöne (2011), S. 310 ff.
+38 Vgl. Behr (2000), S. 18.
+39 vgl. analog Goffman (2000), S. 62 ff. und Pound (1910).
+
+
+
+250 M. Schöne
+
+ vermittelt werden. Sie basieren auch auf Routinen, Erfahrungen, Überlieferungen 
+etc., die aus dem täglichen Praxiserleben heraus entstehen.“40 Gemeint ist 
+hier insbesondere der auf der Dichotomie von Gut und Böse aufbauende 
+kollektive Geschichten- und Mythenfundus der Polizei als crime fighter, der als 
+Bekräftigungsakt die Exklusivität des Berufes verdeutlichen soll und faktisch als 
+narrativer Sozialkitt des Feldes wirkt.41
+
+3.1  Diskussion ausgewählter Feldmerkmale
+
+Ausgewählte Feldmerkmale siehe Abb. 1.
+
+3.1.1  Konservatismus
+Das Feld Polizei ist zunächst strukturkonservativ. Das Feldmerkmal Konservatis-
+mus ist dabei nicht umstandslos mit parteipolitischen Präferenzen gleichzusetzen, 
+sondern nimmt Bezug auf das Bewahren von tradierten Werten und Normen. 
+Die Polizei ist eher von einem konservativen bis reaktionären Beharrungs-
+vermögen geprägt, als durch Fortschrittlichkeit und Innovation. Weshalb fast 
+alle organisatorisch induzierten Sozialisationsakte auf eine konservative Grund-
+orientierung ausgerichtet sind und bereits beim Feldeintritt für die interne Aus-
+bildung Kandidat:innen ausgewählt werden, deren Habitus möglichst homolog zu 
+den Interessen und Einstellungen der Gruppe Polizei ist.
+
+Im Rahmen einer Studierenden- und Absolvent:innenbefragung an der FH 
+Polizei Sachsen-Anhalt gab die knappe Mehrheit der Proband:innen zur Frage 
+der persönlichen Bedeutung von Recht und Ordnung an, Recht und Ordnung 
+für sehr wichtig zu halten.42 Von den in einer empirischen Untersuchung von 
+Backes befragten Polizist:innen hielten 36 % das Ziel für Ruhe und Ordnung 
+zu sorgen persönlich für sehr wichtig, 54 % hielten es für wichtig und 10 % für 
+nicht wichtig.43 Das daraus resultierende polizeiliche Wahrnehmen, Denken und 
+Handeln ist in sozialpolitischen, moralischen und damit gesellschaftlichen Fragen 
+naheliegend konventionalistisch geprägt.44
+
+40 Behr (2008), S. 149.
+41 Vgl. analog Bourdieu (1998), S. 130.
+42 Vgl. Löbbecke (2004), S. 237.
+43 Vgl. Backes (2001), S. 12.
+44 Vgl. Bowling et al. (2019), S. 166, 176 f.
+
+
+
+Polizei und Rassismus 251
+
+Mit Blick auf die Thematik Rassismus und Polizei dominieren so bspw. 
+traditionelle Weltbilder das Wahrnehmen und Denken von polizeilichen 
+Akteur:innen und damit deren Verdachtsstrategien. Nach Leenen entspricht es 
+durchaus der polizeilichen Vorstellung von Normalität, dass Angehörige von 
+Minderheiten, d. h. eben auch als Ausländer:innen wahrgenommene Menschen, 
+eher straffällig sind als normale Bürger:innen.45 Dies hat mit Blick auf das Feld-
+merkmal Argwohn für die damit unter (General)Verdacht stehenden ein erhöhtes 
+Überprüfungsrisiko mit vielfältigen Effekten zur Folge. Worauf auch die Ver-
+treter des Labeling Approach hingewiesen haben.46 Auch die benannte Unter-
+suchung von Backes weist in diese Richtung, da von den befragten Polizist:innen 
+50 % der Auffassung waren, dass es in Deutschland zu viele Ausländer:innen 
+gebe. 58 % gaben an, dass Ausländer:innen ihrer persönlichen Erfahrung nach 
+häufiger in Straftaten verwickelt sind, 54 % gaben an, dass die Kriminalität von 
+Ausländer:innen in Deutschland nicht energisch genug bekämpft wird und 59 % 
+glauben daran, dass man durch härtere Strafen Kriminalität senken kann. Eine 
+Haltung, die analog von der Mehrheit der Bevölkerung vertreten wird und die 
+im Zusammenhang mit der Auffassung der Polizist:innen, dass Ausländer:innen 
+mehr als Deutsche in Kriminalität verwickelt sind, zu einer Verschärfung der 
+Gangart gegenüber dieser Gruppe führen kann. Zumal die Herstellung von Ruhe 
+und Ordnung von 90 % der befragten Polizeibeamt:innen als wichtig bis sehr 
+wichtig bewertet wurde.47
+
+Das Feld Polizei gehört als staatliche Organisation von Recht und Sicher-
+heit zum Kernbereich nationaler Identität. Für Bourdieu prägen nicht nur die 
+soziale Herkunft und das Geschlecht, sondern auch die nationale Zugehörig-
+keit und Sozialisation den Habitus und damit das Denken, Wahrnehmen und 
+Handeln entscheidend.48 Insofern werden Migrant:innen möglicherweise als 
+fremd empfunden. Als erstes als optisch fremd, jedoch ist es auch ein kulturelles, 
+habituelles Fremdsein, das Fremdenangst auslösen kann, möglicherweise tief 
+wurzelnde Ressentiments berührt, Konflikte auslöst.49
+
+45 Vgl. Leenen (2005), S. 96 f.
+46 Vgl. exemplarisch Peters (1996).
+47 Vgl. Backes (2001), S. 12; siehe auch Löbbecke (2004), S. 223 ff.
+48 Vgl. Bourdieu (1976), S. 165.
+49 Zur polizeilichen Konstruktion der gefährlichen Fremden und daraus resultierenden Ver-
+dachts- und Handlungsstrategien siehe Behr (2019).
+
+
+
+252 M. Schöne
+
+In der von weißen deutschen und in der Mehrheit männlichen Akteur:innen 
+dominierten Gruppe Polizei fallen Akteur:innen mit Migrationshintergrund 
+in der Regel auf. Ihnen wird mit Vorsicht begegnet und möglicherweise auch 
+mit Misstrauen und Vorurteilen. Diese Vorurteile hängen kausal zusammen 
+mit der privaten, vor allem jedoch mit der beruflichen Erfahrungswelt und den 
+hieraus resultierenden Handlungsmustern der polizeilichen Feldakteur:innen. 
+Deren Kontakte mit sog. Ausländer:innen beschränken sich zumeist auf dienst-
+liche Kontakte. Und die sind in der Regel negativ besetzt, da Ausländer:innen 
+im Dienst überwiegend als Straftäter:innen wahrgenommen werden. Und es 
+bräuchte eine ausgeprägte Reflexionsfähigkeit, um diese negativen Erfahrungen 
+nicht zu generalisieren. Grundsätzlich dürfte die Häufigkeit der Kontakte und das 
+Verhältnis zwischen positiven (privaten) und negativen (dienstlichen) Kontakten 
+mit ausländischen Mitbürger:innen die polizeiliche Praxis maßgeblich beein-
+flussen.50 Mit Blick auf polizeiliche Verdachtsstrategien sind bspw. Bereiche, 
+an denen verdachtsunabhängige Kontrollen erlaubt werden, nicht selten Orte, 
+die durch einen erhöhten Anteil von migrantischen Akteur:innen resp. People 
+of Color/BPoC gekennzeichnet sind. Dabei beeinflusst die Kategorie fremd sein 
+nachweislich das Anzeige- und Kontrollverhalten. Im Zuge der Bildung von 
+Stereotypen und selektiven Verdachtsstrategien werden Angehörige von Minori-
+täten von Angehörigen der Mehrheitsgesellschaft mit höherer Wahrscheinlich-
+keit wegen einer Straftat angezeigt oder von Polizist:innen öfter kontrolliert.51 
+Dies prägt im weiteren die Kriminalstatistiken, die Grundlage der Klassi-
+fizierung der Gefährlichkeit eines spezifischen Sozialraums sind.52 Vermehrte 
+und selektive Kontrollen führen naheliegend zur Aufdeckung von mehr Straftaten 
+resp. Ordnungsstörungen (Verschiebung Hell- und Dunkelfeld), wobei die so 
+exponierte Gruppe nicht notwendig krimineller ist, sondern im Gegensatz zu den 
+Angehörigen der Mehrheitskultur mehr kontrolliert wird.53
+
+50 Siehe zu gegenseitigen Einstellungsmustern von Migrant:innen und Polizist:innen Faesel 
+(2020).
+51 Zum Forschungsprojekt „Migration und Sicherheit in der Stadt“ (migsst) siehe Frevel 
+(2021). Insbesondere für die Prozesse des Othering im Kontext mit Diskriminierung, 
+Stigmatisierung und Rassismus siehe Howe (2021).
+52 Zur Kritik an der PKS siehe Kunz und Singelnstein (2016), S. 206 ff; zur Inszenierung 
+von polizeilichem Expert:innenwissen siehe Schmidt (2019), S. 100.
+53 Aus Expert:inneninterviews zur Evaluation der Waffenverbotszone Leipzig (WVZ) „geht 
+hervor, dass die WVZ vor allem von jüngeren Personen und StudentInnen, unabhängig vom 
+Migrationshintergrund, vermehrt abgelehnt wird. Diese Gruppen kritisieren damit einher-
+gehende Stigmatisierung des Gebiets der Eisenbahnstraße und einen staatlichen Machtaus-
+bau sowie ein in den Kontrollen praktiziertes Racial Profiling“, vgl. Mühler (2021), S. 113.
+
+
+
+Polizei und Rassismus 253
+
+3.1.2  Argwohn
+Eng mit den Kontrollpraxen korrespondiert das Feldmerkmal Argwohn. Polizei-
+liche Akteur:innen sind beruflich darauf konditioniert Verdacht zu schöpfen und 
+Gefahren zu erkennen. Profiling als Handwerkszeug. Die sozialen (Verdachts)
+Praxen im Feld Polizei sind dabei „Produkte der Praxis von Generationen“54. 
+Misstrauen kann als praktischer Sinn betrachtet werden, den das Feld Polizei 
+generiert.55 So rät der auf polizeiliche Eigensicherung konzentrierte Leitfaden 
+371: „Sei nie arglos – Rechne immer mit Gefahren!“ Für das manifeste Miss-
+trauen nach Außen ist zunächst wichtig, dass jede:r Bürger:in potenziell Täter:in 
+sein könnte.56 Da die Polizei ihre Aufmerksamkeit nicht auf Taten, sondern auf 
+Täter:innen richtet, sind auch die polizeilichen Verdachtsstrategien personeller 
+Natur und differenzieren, resp. klassifizieren die Gesellschaft bipolar in Ver-
+dächtige und Unverdächtige.57
+
+Die Klassifizierungsakte der Polizei, bestehend aus unzähligen kognitiven 
+Einzelakten der Feldakteur:innen, sind dabei, „obgleich sie in der Illusion der 
+Singularität und in der Überzeugung der Neutralität vollzogen werden, in der 
+Tat objektiv orchestriert und objektiv den Imperativen der Reproduktion der 
+sozialen Strukturen untergeordnet, weil die Wahrnehmungs- und Bewertungs-
+kategorien, die sie verwenden, das verwandelte Produkt der Inkorporierung 
+dieser Strukturen sind“58. Mit anderen Worten: Das Feld Polizei trägt mit 
+seinen Praxen zur Reproduktion sozialer Strukturen und damit auch sozialer 
+Ungleichheit bei. Es bestätigt und erhält durch die Logik seiner Praktiken und 
+seiner Wahrnehmungs- und Bewertungskategorien die klassifizierte und klassi-
+fizierende Gesellschaft. Eine Perspektive, die bspw. die kritische Kriminologie 
+mit dem Labeling Approach verdeutlicht hat. Auf der Vorderbühne versucht 
+die Organisation Polizei ihrem Personal ein professionelles Misstrauen zu ver-
+mitteln, das eine rationale Aufgabenwahrnehmung gewährleistet. Die Ver-
+dachtsstufen der Strafprozessordnung verlangen konkrete Voraussetzungen für 
+
+54 Bourdieu (2004), S. 73.
+55 Vgl. analog Bourdieu (1984), S. 150 ff.
+56 Vgl. auch Löbbecke (2004), S. 211.
+57 Vgl. auch Feest und Blankenburg (1972), S. 35 ff.
+58 Bourdieu (2004), S. 73.
+
+
+
+254 M. Schöne
+
+ Eingriffsbefugnisse. Polizeiliches Alltagshandeln vollzieht sich jedoch auch los-
+gelöst von diesen rechtsstaatlichen Grundsätzen. Verdächtig ist in der polizei-
+lichen Logik oftmals, was den einzelnen Polizist:innen intuitiv verdächtig 
+vorkommt. Rechtsgrundgrundlagen sind für solche Strategien des Bauchgefühls 
+schwer subsumierbar.59 Befördert wird die Zersetzung des Konkreten vom 
+Gesetzgeber bspw. mit den angesprochenen verdachtsunabhängigen Kontrollen 
+an bestimmten polizeilichen Brennpunkten, die die Polizei faktisch aus der Nach-
+weispflicht nehmen, Willkür befördern können und die externe Kontrolle polizei-
+lichen Handelns erheblich erschweren.60 Die Verdachtsstrategien der Polizei sind 
+also in einer feldimmanenten Logik zunächst ein scheinbar objektiver Handlungs-
+rahmen für die polizeilichen Akteur:innen. Sie bieten jedoch auch Raum, latente 
+wie individuelle oder kollektiv geteilte Vorurteile zu probaten und legitimen 
+Mitteln polizeilichen Handelns zu stilisieren und soziale Realität werden zu 
+lassen.61 In der Praxis zeigen sich auch habituelle Ausprägungen des Zynismus, 
+der pauschalen Dualisierung der Gesellschaft in Gut und Böse bis hin zu einem 
+dehumanisierenden Umgang mit bestimmten polizeilichen Klient:innen. Dies 
+korrespondiert mit dem polizeilichen Selbstbild, zu den Guten zu gehören. Als 
+aktuelles Beispiel dient hier die von polizeilichen Berufsverbänden und Gewerk-
+schaften befeuerte Kampagne Blue Lives Matter. Die schüttere (und verletz-
+liche) Linie der blau Uniformierten steht heroisch zwischen dem honorigen Teil 
+der Gesellschaft und den Kriminellen und Unruhestiftern. Auch das subjektiv 
+wahrgenommene Scheitern an dieser Aufgabe des Polizei-Kriegers – nicht alle 
+Guten schützen zu können – tendiert zu Eskalationen. Als Symptome dieser 
+Habitualisierungen können sich Diskriminierung und Rassismus zeigen.62
+
+3.1.3  Insularität
+Das Feld Polizei strebt funktional nach insularer Position im sozialen Raum, 
+um seine Autonomie zu halten.63 Als kulturelles Kapital gilt die Fähigkeit, eine 
+gewisse Distanz zum Publikum zu halten. Umgekehrt gelten Verbrüderungen 
+
+59 Siehe Reichertz (1990). Zum „Modell der klassifizierenden Maschine“ siehe Bourdieu 
+(2004), S. 50 ff., 73. Zudem Schwerpunktthema Verdachtsschöpfung in Unbequem (2000).
+60 Siehe hierzu aktuell die Ergebnisse der Evaluation der Waffenverbotszone Leipzig bei 
+Mühler (2021).
+61 Vgl. auch Herrnkind (1995), S. 58; Behr (2006), S. 152.
+62 Für eine empirische Analyse von Cop Culture und gruppenbezogener Menschenfeind-
+lichkeit in der Polizei siehe Gutschmidt und Vera (2020).
+63 Zur komplexen Struktur der Autonomie der Polizei siehe Schöne (2011), S. 67 ff.
+
+
+
+Polizei und Rassismus 255
+
+nach außen als verpönt. Mit dieser rollenbedingten Distanz entwickelt sich 
+gleichzeitig Kohäsion nach innen. Der Zusammenhalt polizeilicher Teams speist 
+sich darüber hinaus aus Notwendigkeiten symbolischer Macht, der Wahrnehmung 
+von Risiken sowie maskuliner Kollektividentität. In manchen Zusammenhängen 
+duldet dieser Zusammenhalt keinerlei Brüche. Was alltagssprachlich als Korps-
+geist diskutiert wird, reicht dabei weit über soziale Kleingruppen hinaus. Ver-
+bände wie die International Police Association kultivieren eine weltumspannende 
+Geschwisterschaft der Cops.64 Schon in der Polizeiforschung Ende der vierziger 
+Jahre zeigten sich habituelle Muster gesellschaftlicher Isolation oder Ent-
+fremdung – von der Gesellschaft, den Medien, sogar den eigenen Vorgesetzten. 
+Im Familiensinn deutete ich an, dass polizeiliche Akteur:innen auf subtile und 
+gleichsam nachhaltige Weise in die Gruppe Polizei inkorporiert werden. Mit-
+unter kommt es zu Verhaltensweisen der Kolleg:innen, die man im Zuge des 
+Strafverfolgungszwangs anzeigen müsste. Das aber funktioniert praktisch nicht 
+ohne weiteres, weil es die feldspezifisch solidarische Form der Zugehörigkeit 
+nicht ohne Gegenleistung gibt.65 Durch ihr kollegiales Unterlassen einer Anzeige 
+geraten die Akteur:innen in einen feldspezifischen „Solidaritäts-Erpressungs-
+Kreislauf“66. Unter den Bedingungen des benannten Konformitätsdrucks, den 
+Hüttermann als „bedingungslose Anpassung an den Teamgeist und die vor-
+behaltlose Einordnung nicht nur in das formelle (Dienstränge), sondern auch in 
+das informelle Statusgefüge“ beschrieb, wird es schwer, unkorrektes Verhalten 
+der Kolleg:innen zur Sprache oder Anzeige zu bringen, wenn man es zuvor 
+geduldet hat.67 Gerade in strafrechtlicher Hinsicht, da dieses Unterlassen de jure 
+den Verdacht der Strafvereitlung im Amt gem. § 258a StGB darstellt, die Behr 
+als „schweres Geschütz für die Moralität“ bezeichnete und die der Gesetzgeber 
+im Gegensatz zu § 258 StGB mit einer Strafandrohung von mindestens sechs 
+Monaten bis fünf Jahren bedroht hat, um die besondere Garant:innenstellung 
+der Amtsträger:innen hinsichtlich des Strafverfolgungszwangs hervorzuheben.68 
+Es droht den Unterlassenden also selbst Strafverfolgung. Ein Teufelskreis, der 
+erklärt, warum Polizist:innen so selten belastend gegen Kolleg:innen aussagen 
+und aus dem auszubrechen emotional und faktisch nicht einfach ist. Auch wenn 
+es rein rechtlich einfach aussieht.
+
+64 Vgl. Polleit (2012).
+65 Vgl. auch Behr (2010), S. 60 f.
+66 Behr (2010), S. 63.
+67 Hüttermann (2004), S. 242.
+68 Behr (2010), S. 63.
+
+
+
+256 M. Schöne
+
+3.1.4  Gender
+Das soziale Geschlecht der Polizei ist männlich. Hinsichtlich der Geschlechter-
+vielfalt ist die Monokultur noch in Sichtweite. Für Bourdieu ist das bio-
+logische Geschlecht eine elementare Dimension des Habitus, die „alle mit den 
+fundamentalen sozialen Faktoren zusammenhängenden sozialen Eigenschaften 
+modifiziert“69. Die geschlechtsspezifische Sozialisation ist dabei untrennbar mit 
+der Sozialisation für eine bestimmte soziale Position der Akteure verbunden.70 
+In Bourdieus Geschlechtsklassifikation nimmt dabei die männliche Herrschaft 
+eine herausgehobene Stellung ein, da sie nicht nur eine besondere Form von 
+symbolischer Herrschaft, resp. Gewalt ist, sondern auch die Grundlage moderner 
+Herrschaftsformen.71 Infolgedessen ist die männliche Herrschaft so tief in die 
+Gesellschaft eingeschrieben, dass sie sich durch die Positionen, die männliche 
+Akteure im sozialen Raum einnehmen, sowie den männlichem Zugriff auf die 
+(symbolischen) Kapitalien beständig selbst reproduziert.72
+
+Die Organisation Polizei wurde ursprünglich von Männern für Männer 
+konzipiert und ist auch gegenwärtig noch ein Feld der institutionalisierten 
+männlichen Herrschaft.73 Trotz des (wachsenden) Frauenanteils von aktuell 
+max. 30 % im Vollzugsdienst von Bund und Ländern, dominieren männliche 
+Kulturen noch mit apodiktischer Direktheit die Berufswelt Polizei. Zudem sind 
+Frauen im Management deutlich schwächer vertreten. Insbesondere im höheren 
+Dienst.74 In Spezialeinheiten wie SEK oder MEK sind Frauen generell stark 
+unterrepräsentiert. Der geschlechtliche Transformationsprozess der Polizei ist 
+analog zur Token Theorie aufgrund der weiblichen Minderheitenposition in 
+Teilen lediglich ein Formenwandel, nicht aber ein tatsächlicher Paradigmen-
+wandel polizeilicher Grundbedingtheit. In der Folge spiegeln manche spontanen 
+Handlungsweisen im Feld Polizei teilweise diskriminierende, sexistische, 
+rassistische oder homophobe Einstellungen. Bereits Niederhoffer beschrieb die 
+Polizei als homophobes Arbeitsfeld: „Of all occupations the police are apparently 
+most free from the taint of homosexuality. The merest hint of effiminacy 
+would absolutely bar a candidate from appointment to the force, and after the 
+
+69 Bourdieu (1997a), S. 222.
+70 Vgl. Bourdieu (1997a), S. 222 ff.
+71 Vgl. Bourdieu (1997a), S. 219 ff.
+72 Vgl. Bourdieu (1997b), S. 216 f.
+73 Zum Polizeialltag und hegemonialer Männlichkeit siehe Hunold (2019).
+74 BT-Drs. 19/3932, S. 10.
+
+
+
+Polizei und Rassismus 257
+
+probationary period, any sign of homosexuality would lead to his immediate 
+dismissal or forced resignation.“75 Homophobie im Feld Polizei geht einher 
+mit Geringschätzung, zotigem Humor und maskulinem Imponiergehabe. Das 
+Adjektiv „schwul“ reicht dabei weit über die homophobe Konnotation hinaus: Es 
+steht hier vor allem für alles „Nicht-Maskuline“.76 Insbesondere in Dienststellen 
+und Einheiten mit starkem Männerüberhang und einer ausgeprägt maskulinen 
+Krieger-Kultur, finden sich habitueller Machismo, Misogynie und Homophobie.77
+
+3.1.5  Gewalt
+In enger Verbindung zum Feldmerkmal Gender steht das der Gewalt. Gemeint 
+ist zunächst nicht das abstrakte Gewaltmonopol, sondern vielmehr die konkret 
+manifeste (körperliche) Gewalt. Hierzu gehört das polizeiliche Selbstver-
+ständnis der crimefigther, die den Gefahren und der Gewalt beherzt und mutig 
+begegnen. Wahrnehmung und Verhalten folgen einem Worst-Case-Thinking. Im 
+polizeilichen Habitus ist eine inszenierte Überbetonung alltäglicher physischer, 
+psychischer und damit letztlich auch symbolischer Gewalt erkennbar. Die Bereit-
+schaft zur Gewalt und die tatsächliche Befähigung dazu stellen in der Polizei 
+ein hoch bewertetes kulturelles Kapital dar. Wer in der Polizei arbeitet, muss 
+eine innere Haltung zur Gewalt entwickeln. Die Kunst der Gewalt muss sich 
+habitualisieren. Wer hier scheitert, sucht sich in der Polizeiorganisation oft eine 
+gewaltfreie Nische, oder verlässt die Polizei. Gewalt als Herrschaftsform im Feld 
+Polizei bewegt sich dabei zugleich gegenwärtig und verschleiert zwischen den 
+Polen von barer physischer Gewalt und komplexer symbolischer Gewalt.78
+
+Bemerkenswert ist, dass die Gewalt im Alltag keine außergewöhnlich große 
+Rolle spielt. So ergab eine Auswertung von 4.038.616 Einsätzen des Jahres 2011 
+in Nordrhein-Westfalen, dass 99,8 % ohne körperliche oder verbale Gewalt ver-
+liefen.79 Das kulturelle Kapital speist sich also weniger aus der Manifestation 
+der Gewaltanwendung als seiner (potenziellen) Möglichkeit. Dabei prägt das 
+polizeiliche Ausstattungskapital als polizeiliche Symbolik der Macht durch seine 
+Projektionen auch den Habitus der Polizist:innen. Nicht allein materiell durch 
+das Gewicht von Pistole, Handschellen, Taschenlampe oder Schlagstock am 
+
+75 Niederhoffer (1967), S. 129.
+76 Siehe hierzu Schöne und Herrnkind (2018).
+77 Vgl. Bowling et al. (2019), S. 177 f.
+78 Vgl. analog Bourdieu (1993a), S. 230 f.
+79 Vgl. Averdiek-Gröner und Behrendes (2017), S. 85.
+
+
+
+258 M. Schöne
+
+Gürtel, sondern ganz grundsätzlich durch die präsente Möglichkeit in die Grund-
+rechte von anderen Menschen einzugreifen. Und dabei als ultima ratio auch 
+Gewalt anzuwenden. In polizeilichen Dienstgruppen kennt jede:r die Selbstver-
+gewisserungen über Held:innengeschichten gemeisterter Einsätze. In einigen 
+Feldfraktionen, insbesondere männlich dominierten, kann sich zudem ein mit 
+einem Gewaltfetisch angereicherter Habitus entwickeln.80 Sogar sozial wenig 
+anerkannte Außenseiter:innen polizeilicher Arbeitsgruppen (Frauen, Schwarze/
+BPoC) berichten von erfolgreicher gruppendynamischer Integration, nachdem sie 
+ihre Kunst der Gewalt unter Beweis stellen konnten.81
+
+3.1.6  Macht
+Das Feldmerkmal Macht korreliert mit der Gewalt, ist aber nicht deckungsgleich. 
+Hannah Arendt hat diese beiden Konzepte zurecht voneinander getrennt.82 Macht 
+und Gewalt können sogar einander widersprechen. Gewalt, die als illegitim wahr-
+genommen wird, kann zu Machtverlust führen.83 Umgekehrt wird Gewalt ent-
+behrlich, wenn ausreichend Macht besteht. In diesem Verständnis hat Loader 
+Bourdieus Konzept der symbolischen Macht auf die Polizei angewendet.84 Das 
+Feld Polizei ist aufgrund seiner Machtfülle – insbesondere des Gewaltmonopols – 
+für Machtmissbrauch anfällig. Für Landreville ist „Machtmissbrauch keine 
+Anomalie, kein der Psychologie oder dem mangelhaften Ausbildungs- und 
+Kenntnisstand […] anzulastender Webfehler der Machtausübung, sondern 
+ein zwangsläufiges Produkt von Machtverhältnissen. Je ungleicher Macht-
+beziehungen ausgestaltet sind, umso stärker ist der »Machtmissbrauch« in ihnen 
+angelegt.“85
+
+Dabei ist das Feld Polizei durch Strategien der Verschleierung ungleicher 
+Machtverhältnisse und in der Folge auch der faktischen Fälle von Machtmiss-
+brauch gekennzeichnet. In diesem Kontext manifestiert sich kulturelles Kapital 
+im Feld Polizei auch in der Rollenannahme einer Autoritätsperson. Autorität 
+kann innerhalb der Polizei als eine elementare Funktionsbedingung betrachtet 
+werden, die erlernen muss, wer intern und extern erfolgreich  machtvoll 
+
+80 Siehe auch Behr (2020, 2021a).
+81 Vgl. Holdaway (1997), S. 26 f.
+82 Vgl. Arendt (1970).
+83 Vgl. das Beispiel des sog. Schwarzen Donnerstags und Stuttgart 21 in Herrnkind (2017).
+84 Loader (1997), S. 15 f.
+85 Landreville (1989), S. 434.
+
+
+
+Polizei und Rassismus 259
+
+ mitspielen will.86 Wer sie gegenüber der Polizei infrage stellt, aktiviert ggf. 
+Risikopotentiale, da ihre Missachtung als eine Ursache für Gewalteskalationen 
+gilt. Intern wird symbolische Macht, ebenso wie die Gewalt, zelebriert und zeigt 
+sich in unzähligen habituellen Praktiken und Narrativen. Dabei lassen sich auch 
+Tendenzen zum Autoritarismus87 identifizieren. Die „Autoritäre Reaktion“88 
+ist dabei nicht unbedingt Resultat früher Sozialisation, sondern eine mögliche 
+habituelle Umgangsform mit der im polizeilichen Alltag erlebten Ambiguität.89 
+Oder anders: Die Polizei als Inhaberin des Gewaltmonopols trifft in freiheitlich 
+verfassten Gesellschaften strafverfolgend und gefahrenabwehrend auf mündige 
+und kritische Bürger:innen, die ggf. Widerworte geben, gegenteilige Auf-
+fassungen vertreten, die Auseinandersetzung nicht scheuen. Diese Konstellation 
+ist konfliktträchtig und zeitigt eine Vielzahl an Interaktionen, in denen es 
+elementar um die von Feest und Blankenburg erstmals extrahierte Definitions-
+macht der Polizei über soziale Kontexte geht.90 Inklusive aller Eskalation- und 
+Deeskalationsdynamiken auf der Grundlage (der Sicherung) von Macht. So als 
+kollektive Klassiker bspw. Castor Transporte (Gorleben), Stuttgart 21, Extinktion 
+Rebellion oder Hambacher Forst.
+
+4  Conclusio
+
+Die kompakt diskutierten Feldmerkmale generieren grundlegende Handlungs-
+spielräume und Funktionsprinzipien des Feldes Polizei, die unter bestimmten 
+Umständen zu Diskriminierung und Rassismus auslösenden Willkürspiel-
+räumen werden können, wenn zum Akt der Normsetzung und der formellen 
+Strukturierung des Feldes Polizei die Normanwender:innen kommen. Diese sind 
+entgegen dem Verwaltungsideal der „formalistischen Unpersönlichkeit“91 nach 
+einer Kampagne der Gewerkschaft der Polizei eben Auch Mensch.92 In emotional 
+
+86 Herrnkind (2017), S. 68; Schöne und Herrnkind (2021).
+87 Vgl. Bowling et al. (2019), S. 34, 127.
+88 Oesterreich (1996), S. 107 ff.
+89 Ähnlich bereits Niederhoffer (1967), S. 160.
+90 Feest und Blankenburg (1972).
+91 Weber (1972), S. 129.
+92 https://www.gdp.de/gdp/gdphe.nsf/id/ADUMBQ-DE_auch_mensch (zugegriffen: 18. Juli 
+2022).
+
+
+
+260 M. Schöne
+
+aufgeladenen Spannungsfeldern und Problemlagen von individualisierten, 
+pluralen und global vernetzen Gesellschaften.
+
+Durch den dominierenden Konservatismus ist die Polizei in sozialpolitischen 
+und moralischen Fragen dabei konventionalistisch geprägt. Polizeiliche 
+Akteur:innen sind zudem Handelnde, die beruflich darauf konditioniert sind 
+Verdacht zu schöpfen und Gefahren zu erkennen. Dies erfolgt auf der Basis von 
+tradierten Normalitätsvorstellungen. Dabei entspricht es der polizeilichen Vor-
+stellung von Normalität, dass Angehörige von Minderheiten, bspw. auch als 
+Ausländer:innen wahrgenommene Menschen, eher straffällig sind als normale 
+Bürger:innen. Dies hat im Kontext mit dem Feldmerkmal Argwohn für die unter 
+Generalverdacht stehende Gruppe ein erhöhtes Kontroll- und Stigmatisierungs-
+risiko zur Folge. In diesem Zusammenhang gehört die Polizei als staatliche 
+Organisation von Recht und Sicherheit zum Kernbereich nationaler Identität. 
+Migrant:innen werden daher möglicherweise als fremd empfunden. Zumal die 
+polizeilichen Kontakte mit sog. Ausländer:innen resp. Migrant:innen sich zumeist 
+auf negative besetzte dienstliche Kontakte beschränken, die diese Gruppe als 
+Straftätern assoziieren. Ihren Mitglieder:innen wird tendenziell mit Vorsicht, 
+Misstrauen und Vorurteilen begegnet. In diesem Zusammenhang sind bspw. 
+Bereiche verdachtsunabhängiger Kontrollen häufig Orte mit einem erhöhten 
+Anteil von migrantischen Akteur:innen resp. People of Color/BPoC. Diese 
+besonderen Kontrollbereiche befördern unter Umständen polizeiliche Willkür 
+und erschweren die (externe) Kontrolle polizeilichen Handelns. Die Kategorie 
+fremd sein beeinflusst also nachweislich das Anzeige- und Kontrollverhalten 
+und in der Folge die scheinbar objektiven Kriminalstatistiken, die Grundlage der 
+Klassifizierung der Gefährlichkeit eines spezifischen Sozialraums sind. Dabei 
+werden die Angehörigen von Minoritäten aufgrund ihres fremd seins nicht nur 
+mit höherer Wahrscheinlichkeit von Polizist:innen kontrolliert, sondern aufgrund 
+der Stereotypenbildung auch öfter von Angehörigen der Mehrheitsgesellschaft 
+wegen einer Straftat angezeigt.93 Beide Kontrollpraxen führen zur Verschiebung 
+des Hell- und Dunkelfeldes der Kriminalität, wobei die so extrahierte Gruppe 
+nicht notwendig krimineller ist, sondern im Gegensatz zu den Angehörigen der 
+
+93 Sowohl die bürgerschaftlichen wie die polizeilichen Verdachtsstrategien korrespondieren 
+mit der häufig negativen und kritischen medialen Darstellung von Migrant:innen. So 
+zeichnen Auswahl, Themensetzung und Präsentation ein überproportional negatives 
+(Kriminalitäts)Bild dieser Gruppe. Siehe hierzu Djerkovic et al. (2021).
+
+
+
+Polizei und Rassismus 261
+
+Mehrheitsgesellschaft häufiger kontrolliert wird. Durch die Insularität der Polizei 
+entwickelt sich eine starke kollektive Kohäsion nach innen, die sich in Aus-
+prägungen des Korpsgeistes zeigen kann, der weit über soziale Kleingruppen 
+hinausreicht.
+
+Die Polizei ist zudem eine stark männlich geprägte Organisation. Das Prinzip 
+der hegemonialen Männlichkeit korrespondiert mit Negativausprägungen wie 
+Diskriminierung, Sexismus, Rassismus und Homophonie. In enger Verbindung 
+zu diesen Ausprägungen des Feldmerkmals Gender steht das der Gewalt. Die 
+Polizei ist teilweise von einer Überbetonung alltäglicher physischer, psychischer 
+und symbolischer Gewalt geprägt. Daraus resultiert auch das polizeiliche Selbst-
+verständnis der crimefigther, dessen Exklusivität diverse (Rollen)Legitimationen 
+für formelles und informelles polizeiliches Handeln generiert. Mit der Gewalt 
+eng verbunden ist das Feldmerkmal Macht. Die Polizei ist aufgrund ihrer 
+exklusiven Machtfülle für Machtmissbrauch anfällig. So zeigt sich kulturelles 
+polizeiliches Kapital auch in der Rollenannahme von machtvoller Autorität. 
+Ihre Missachtung gilt empirisch belegt als eine Ursache für Gewalteskalationen. 
+In freiheitlich verfassten Gesellschaften trifft die Polizei mehr und mehr straf-
+verfolgend und gefahrenabwehrend auf mündige und kritischere Bürger:innen. 
+Diese gesellschaftlichen Bewegungen werden von der Polizei teilweise als 
+existenzielle Störung erlebt. Und neben sozialen Anpassungsleistungen auch mit 
+rechtswidrigen Selbstbehauptungs- und Stärkedemonstrationen quittiert. Oder 
+anders: „Eine Dominanzkultur, die sich angegriffen fühlt, bereitet den Boden für 
+Abwertung der ‚Anderen‘, für gruppenbezogene Menschenfeindlichkeit und für 
+Rassismus.“94
+
+Weshalb die Polizei umfassend gebildet werden muss und polizeiliche 
+Handlungsspielräume mit Bedacht ausgewählt, begrenzt, kontrolliert und als 
+dynamischer Prozess permanenter gesellschaftlicher Debatte zugänglich sein 
+müssen. Einerseits um das Kontrapunktische der Gesellschaft als gemeinsamen 
+Klang zu erleben und nicht als Gegner:innenschaft. Und andererseits, um die 
+Polizei vor ihrer eigenen Macht zu schützen. Damit sie im hobbes’schen Sinne 
+stark genug ist, die Freiheitsrechte aller zu schützen. Und dabei niemanden unter-
+drückend auszugrenzen.
+
+94 Behr (2021b).
+
+
+
+262 M. Schöne
+
+Literatur
+
+Arbeitskreis Empirische Polizeiforschung (2021). Stellungnahme des Arbeitskreises 
+Empirische Polizeiforschung zur Kritik der Hochschule der Polizei Rheinland-
+Pfalz (HdP RLP) am Forschungsprojekt KViAPol (Körperverletzung im Amt 
+durch Polizeibeamt*innen). https://empirische-polizeiforschung.de/wp/wp-content/
+uploads/2021/02/Stellungnahme_des_Arbeitskreises_Empirische_Polizeiforschung_
+zur_Kritik_der_Hochschule_der_Polizei_Rheinland-Pfalz_am_Forschungsprojekt_
+KViAPol1.pdf. Zugegriffen: 18. Juli 2022.
+
+Arendt, H. (1970). Macht und Gewalt. 10. Aufl. München: Piper.
+Averdiek-Gröner, D., & Behrendes, U. (2017). Polizei und Gewalt. In D. Averdiek-
+
+Gröner, U. Behrendes, W. Gatzke & D. Pollich (Hrsg.), Gewalt im öffentlichen Raum 
+(S. 81–110). Hilden: VDP.
+
+Backes, O. (2001). Kontrolle der Polizei – Wer schützt uns vor denen, die das Gesetz 
+schützen sollen? Unbequem, 44, S. 10.
+
+Behr, R. (2000). Cop Culture – der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur in der Polizei. Opladen: VS Verlag für Sozialwissenschaften.
+
+Behr, R. (2006). Polizeikultur. Routinen-Rituale-Reflexionen. Bausteine zu einer Theorie 
+der Praxis der Polizei. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Behr, R. (2008). Risiken und Nebenwirkungen von Gefahrengemeinschaften. Ein Beitrag 
+der Polizeikulturforschung zur Risikominimierung bei Einsatz-Verfolgungsfahrten. In 
+S. Schwentuchowski & M. Herrnkind (Hrsg.), Einsatz- und Verfolgungsfahrten (S. 147–
+170). Frankfurt am Main: Verlag für Polizeiwissenschaften.
+
+Behr, R. (2010). Intimität oder Abschottung – warum Polizisten am liebsten unter sich sind. 
+Ein Essay zu den Ambivalenzen im polizeilichen Selbstverständnis. In H. Groß, M. 
+Bornewasser, B. Frevel, K. Liebl, T. Ohlemacher & P. Schmid (Hrsg.), Polizei-Polizist-
+Polizieren? Überlegungen zur Polizeiforschung. Festschrift für Hans-Joachim Asmus 
+(S. 59–73). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft. Trans-
+disziplinäre Perspektiven zu Methoden, Theorie und Empirie reflexiver Polizeiforschung 
+(S. 17–45). Wiesbaden: Springer VS.
+
+Behr, R. (2020). Dominanzkultur und Gewalt: Das strukturelle Problem der Polizei. Blätter 
+für deutsche und internationale Politik, 65(10), S. 13.
+
+Behr, R. (2021a). Dominanzkultur als Rahmung von Gewalt und Rassismus in der Polizei. 
+In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechtsextremismus, Polizeigewalt. Bei-
+träge für und über eine rechtschaffen(d)e, demokratische Bürgerpolizei (S. 251–261). 
+Frankfurt am Main: Verlag für Polizeiwissenschaften.
+
+Behr, R. (2021b). Heldendämmerung. Kommentar: SEK Frankfurt. Journal Frankfurt. 
+https://www.journal-frankfurt.de/journal_news/Gesellschaft-2/Kommentar-SEK-
+Frankfurt-Heldendaemmerung-37533.html. Zugegriffen: 18. Juli 2022.
+
+Bourdieu, P. (1979/1976). Entwurf einer Theorie der Praxis auf der ethnologischen Grund-
+lage der kabylischen Gesellschaft. Frankfurt am Main: Suhrkamp.
+
+Bourdieu, P. (1984). Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft. 
+Frankfurt am Main: Suhrkamp.
+
+
+
+Polizei und Rassismus 263
+
+Bourdieu, P. (1993a). Sozialer Sinn. Kritik der theoretischen Vernunft. Frankfurt am Main: 
+Suhrkamp.
+
+Bourdieu, P. (1993b). Soziologische Fragen. Frankfurt am Main: Suhrkamp.
+Bourdieu, P. (1996). Störenfried Soziologie. In J. Fritz-Vannahme (Hrsg.), Wozu heute noch 
+
+Soziologie? (S. 65–70). Opladen: Leske + Budrich.
+Bourdieu, P. (1997a). Eine sanfte Gewalt. Pierre Bourdieu im Gespräch mit Irene Dölling 
+
+und Magareta Steinrücke. In I. Dölling & B. Krais (Hrsg.), Ein alltägliches Spiel. 
+Geschlechterkonstruktion in der sozialen Praxis (S. 218–230). Frankfurt am Main: 
+Suhrkamp.
+
+Bourdieu, P. (1997b). Die männliche Herrschaft. In I. Dölling & B. Krais (Hrsg.), Ein 
+alltägliches Spiel. Geschlechterkonstruktion in der sozialen Praxis (S. 153–217). 
+Frankfurt am Main: Suhrkamp.
+
+Bourdieu, P. (1997c). Vom Gebrauch der Wissenschaft. Für eine klinische Soziologie des 
+wissenschaftlichen Feldes. Konstanz: UVK.
+
+Bourdieu, P. (1998). Praktische Vernunft. Zur Theorie des Handelns. Frankfurt am Main: 
+Suhrkamp.
+
+Bourdieu, P. (2004). Der Staatsadel. Konstanz: UVK.
+Bourdieu, P., & Wacquant, L. J. D. (1996). Reflexive Anthropologie. Frankfurt am Main.
+Bowling, B., Reiner, R., & Sheptycki, J. (2019). The Politics of the Police. Oxford: Oxford 
+
+University Press.
+Chan, J. B. L. (1997). Changing Police Culture. Policing in a multicultural Society. 
+
+Cambridge: Cambridge University Press.
+Djerkovic, D., Jarolimek, S., Ludewig, F., & Rosenkranz, F. (2021). Lokale Bericht-
+
+erstattung von Tageszeitungen über die Sicherheitswahrnehmung in migrantisch 
+geprägten Stadtteilen. In B. Frevel (Hrsg.), Migration und Sicherheit in der Stadt. 
+Sozial-, geistes- und rechtswissenschaftliche Analysen zu migrantisch geprägten 
+Großstadtquartieren (S. 36–49). Berlin: LIT.
+
+Eckert, R., Jungbauer, J., & Willems, H. (1996). Zur Feindschaft verdammt? Belastungs-
+situationen der Polizei im Umgang mit ausländischen Tatverdächtigen und ihre 
+Konsequenzen. In Kuratorium der Polizei-Führungsakademie (Hrsg.), Fremdenfeind-
+lichkeit in der Polizei? Ergebnisse einer wissenschaftlichen Studie (S. 88–108). 2. Aufl. 
+Lübeck: Schmidt-Römhild.
+
+Faesel, P. (2020). Jetzt mal Klartext … Was halten Polizei und Fremde eigentlich wirklich 
+voneinander? Und hat das was mit Kultur zu tun? Eine empirische Untersuchung zu 
+impliziten Einstellungsmustern von Migrant*innen und Polizeibeamt*innen. In H. Groß 
+& P. Schmidt (Hrsg.), Polizei und Migration (S. 199–226). Frankfurt am Main: Verlag 
+für Polizeiwissenschaft.
+
+Feest, J., & Blankenburg, E. (1972). Die Definitionsmacht der Polizei. Strategien der Straf-
+verfolgung und soziale Selektion. Düsseldorf: Bertelsmann.
+
+Feltes, T. (2015). Wissenschaft und Polizei – Ein gestörtes Verhältnis oder alles nur Miss-
+verständnisse? der kriminalist, 47(10), S. 18.
+
+Feltes, T., & Plank, H. (Hrsg.) (2021). Rassismus, Rechtsextremismus, Polizeigewalt. Bei-
+träge für und über eine rechtschaffen(d)e, demokratische Bürgerpolizei. Frankfurt am 
+Main: Verlag für Polizeiwissenschaften.
+
+
+
+264 M. Schöne
+
+Frevel, B. (Hrsg.) (2021). Migration und Sicherheit in der Stadt. Sozial-, geistes- und 
+rechtswissenschaftliche Analysen zu migrantisch geprägten Großstadtquartieren. 
+Berlin: LIT.
+
+Goffman, E. (2000). Wir alle spielen Theater. Die Selbstdarstellung im Alltag. München: 
+Piper.
+
+Groß, H., Frevel, B., & Dams, C. (Hrsg.) (2008). Handbuch der Polizeien Deutschlands. 
+Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Gutschmidt, D., & Vera, A. (2020). Cop Culture und Gruppenbezogene Menschenfeind-
+lichkeit in der Polizei: eine empirische Analyse. In H. Groß & P. Schmidt (Hrsg.), 
+Polizei und Migration (S. 227–250). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Herrnkind, M. (1995). Der Fehler im System. Betrachtungen eines Insiders. In Bürger-
+rechte & Polizei/CILIP (Hrsg.), Hilfe, Polizei: Fremdenfeindlichkeit bei Deutschlands 
+Ordnungshütern (S. 54–61). Berlin: Elefanten Press.
+
+Herrnkind, M. (2008). Amtshandlung oder Rallye? Einsatz- und Verfolgungsfahrten im 
+Spiegel von Meinungen, Gefühlen, Berufskulturen und Situationsmerkmalen. In S. 
+Schwentuchowski & M. Herrnkind (Hrsg.), Einsatz- und Verfolgungsfahrten (S. 171–
+202). Frankfurt am Main: Verlag für Polizeiwissenschaften.
+
+Herrnkind, M. (2017). Der „schwarze Donnerstag“. Hat die Polizei wirklich gelernt? 
+In B. Böninger, M. Herrnkind & U. Sckerl (Hrsg.), Sieg der Spatzen. Das Urteil zum 
+Stuttgarter Polizeieinsatz am 30.9.2010 und warum ein Bürgerbeauftragter notwendig 
+ist (S. 55–70). Karlsruhe: von Loeper.
+
+Herrnkind, M. (2021). Cop Culture meets Bourdieu. In A. Ruch & T. Singelnstein 
+(Hrsg.), Auf neuen Wegen. Kriminologie, Kriminalpolitik und Polizeiwissenschaft 
+aus interdisziplinärer Perspektive. Festschrift für Thomas Feltes zum 70. Geburtstag 
+(S. 345–362). Berlin. Duncker & Humboldt.
+
+Herrnkind, M., & Schöne, M. (2021). Wessen Gebiet es ist, der bestimmt die Religion? 
+Die Wissenschaft-Firewall des Feldes Polizei. In N. Juschkat, K. Leimbach & C. Neu-
+wert (Hrsg.), Qualitative Kriminologie, quo vadis. Stand, Herausforderungen und 
+Perspektiven qualitativer Forschung in der Kriminologie (S. 200–218). Weinheim und 
+Basel: Beltz Juventa.
+
+Holdaway, S. (1997). Constructing and Sustaining ‚Race‘ within the Police Workforce. 
+British Journal of Criminology, 48(1), S. 19.
+
+Howe, C. (2021). Sozial-räumliche Gestaltungen – Stigmatisierungen, eigenwillige 
+Aneignungsprozesse und Gesellschaftliches (Gegensteuern). In B. Frevel (Hrsg.), 
+Migration und Sicherheit in der Stadt. Sozial-, geistes- und rechtswissenschaftliche 
+Analysen zu migrantisch geprägten Großstadtquartieren (S. 50–78). Berlin: LIT.
+
+Hunold, D (2019). „Wer hat jetzt die größeren Eier?!“ – Polizeialltag, hegemoniale 
+Männlichkeit und reflexive Ethnografie. In C. Howe & L. Ostermeier (Hrsg.), Polizei 
+und Gesellschaft. Transdisziplinäre Perspektiven zu Methoden, Theorie und Empirie 
+reflexiver Polizeiforschung (S. 47–69). Wiesbaden: Springer VS.
+
+Hüttermann, J. (2004). Korporative Polizei, Symbolische Polizei und Street Corner-Polizei: 
+Fallgestützte Hinweise auf die Funktionalität polizeilicher Habitusarbeit. In M. Althoff, 
+P. Becker, G. Löschper & J. Stehr (Hrsg.), Zwischen Anomie und Inszenierung (S. 225–
+251). Baden-Baden: Nomos.
+
+Kreissl, R. (2021). Polizeiforschung zwischen den (Lehr-)Stühlen. In A. Ruch & T. 
+Singelnstein (Hrsg.), Auf neuen Wegen. Kriminologie, Kriminalpolitik und Polizei-
+
+
+
+Polizei und Rassismus 265
+
+wissenschaft aus interdisziplinärer Perspektive. Festschrift für Thomas Feltes zum 70. 
+Geburtstag (S. 363–369). Berlin: Duncker & Humboldt.
+
+Kunz, K.-L., & Singelnstein, T. (2016). Kriminologie. Eine Grundlegung. 7. Aufl. Bern: 
+UTB.
+
+KviAPol (2021). Stellungnahme zur Tätigkeit der „Arbeitsgruppe Durchsetzung polizei-
+licher Autorität im Rechtsstaat“ der Hochschule der Polizei Rheinland-Pfalz. https://
+kviapol.rub.de/images/pdf/KviAPOL_Stellungnahme_final.pdf. Zugegriffen: 18. Juli 
+2022.
+
+Landreville, P. (1989). Kriminalität und Machtmißbrauch. Monatsschrift für Kriminologie 
+und Strafrechtsreform, 72(6), S. 423.
+
+Leenen, W. R. (2005). Interkulturelle Kompetenz: Theoretische Grundlagen. In W. R. 
+Leenen, H. Grosch & A. Groß (Hrsg.), Bausteine zur interkulturellen Qualifizierung der 
+Polizei (S. 63–110). Münster: Waxmann.
+
+Loader, I. (1997). Policing and the social. Questions of symbolic power. British Journal of 
+Sociology, 48(1), S. 1.
+
+Löbbecke, P. (2004). Abgesichert sein und gutes Geld verdienen. Eine qualitativ-
+empirische Untersuchung über Berufsbilder von studierenden Polizisten. Frankfurt am 
+Main: Verlag für Polizeiwissenschaft.
+
+Meinhart, E. (2021). Polizeisoziologe Rafael Behr: „Greift uns bloß nicht an“. profil. 
+https://www.profil.at/oesterreich/polizeisoziologe-rafael-behr-greift-uns-bloss-nicht-
+an/401327637. Zugegriffen: 18. Juli 2022.
+
+Meißelbach, C. (2021). Zur Kritik am MEGAVO-Fragebogen. Stellungnahme des 
+Sächsischen Instituts für Polizei- und Sicherheitsforschung (SIPS). Unveröffentlichtes 
+Manuskript.
+
+Meißelbach, C., Melcher, R., Schöne, M., & Thieme, T. (Hrsg.) (2021). Polizeidienst in 
+Krisenzeiten. Beschäftigtenbefragung zur Corona-Pandemie in der Polizei Sachsen. 
+Rothenburg/OL: Hochschule der Sächsischen Polizei.
+
+Mühler, K. (2021). Ergebnisbericht zur Evaluierung der Waffenverbotszone 
+Eisenbahnstraße in Leipzig. https://static.leipzig.de/fileadmin/mediendatenbank/
+leipzig-de/Stadt/02.3_Dez3_Umwelt_Ordnung_Sport/32_Ordnungsamt/KPR/Bericht_
+Auswertung-WVZ_SMI-PO.pdf. Zugegriffen: 7. September 2021.
+
+Niederhoffer, A. (1967). Behind the Shield. The Police in Urban Society. New York: 
+Doubleday and Company.
+
+Nietzsche, F. (1878). Menschliches, Allzumenschliches. Ein Buch für freie Geister. Zweiter 
+Band. Zweite Abteilung: Der Wanderer und sein Schatten.
+
+Oesterreich, D. (1996). Flucht in die Sicherheit. Zur Theorie des Autoritarismus und der 
+autoritären Reaktion. Opladen: Leske + Budrich.
+
+Ohlemacher, T. (1999). Empirische Polizeiforschung in der Bundesrepublik Deutschland. 
+Versuch einer Bestandsaufnahme. Hannover: KFN.
+
+Peters, H. (1996). Als Partisanenwissenschaft ausgedient, als Theorie aber nicht sterblich: 
+der labeling approach. Kriminologisches Journal, 28(2), S. 107.
+
+Polleit, P. (2012). Netzwerke in der Polizei am Beispiel der International Police Association 
+(IPA). Vertrauens- und Freundschaftsbildung in polizeilichen Netzwerken. Frankfurt am 
+Main: Verlag für Polizeiwissenschaften.
+
+Pound, R. (1910). Law in Books and Law in Action. American Law Review, 44(1), S. 12.
+
+
+
+266 M. Schöne
+
+Reemtsma, J. P. (2003). Organisationen mit Gewaltlizenz – ein zivilisatorisches Grund-
+problem. In M. Herrnkind & S. Scheerer (Hrsg.), Die Polizei als Organisation mit 
+Gewaltlizenz. Möglichkeiten und Grenzen der Kontrolle (S. 7–23). Münster et al.: LIT.
+
+Reichertz, J. (1990). „Meine Schweine erkenne ich am Gang“ – Zur Typisierung 
+typisierender Kriminalpolizisten. Kriminologisches Journal, 22(3), S. 29.
+
+Sack, F. (1992). Kriminologische Ausbildung in der Soziologie. In J.-M. Jehle (Hrsg.), 
+Kriminologie als Lehrgebiet. Wiesbaden: Kriminologische Zentralstelle.
+
+Schmidt, S. (2019). Was können wir wissen? Wissensproduktion und Wissensverwaltung in 
+der Polizei. Bürgerrechte & Polizei/CILIP, 118/119, S. 94.
+
+Schöne, M. (2011). Pierre Bourdieu und das Feld Polizei. Ein besonderer Fall des Mög-
+lichen. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Schöne, M. (2019). Die politische Ökonomie der (Un)Sicherheit. In H. Schwier (Hrsg.), 
+Polizeirecht im Wandel (S. 39–50). Rothenburg/OL: Hochschule der Sächsischen 
+Polizei.
+
+Schöne, M., & Herrnkind, M. (2018). „Alles schwule Themen“ – Kollektive Selbst-
+affirmationen im Feld Polizei. In J. Grutzpalk (Hrsg.), Sozialwissenschaften für die 
+Polizei (S. 5–10). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Schöne, M., & Herrnkind, M. (2021). Die Fragilität polizeilicher Autorität. In M. Weber 
+(Hrsg.), Autorität für die Polizei (S. 7–12). Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+Schöne, M., & Herrnkind, M. (2022). „Nenne mich: Theo; lasse das -rie eben weg“ - Zum 
+Verhältnis von Polizei und Wissenschaft. In S. Schade & F. Durben (Hrsg.), „Polizei 
+im Aufbruch!?“ Zum Anlass des 25- jährigen Jubiläums des Polizeicampus Hahn der 
+Hochschule der Polizei Rheinland-Pfalz. Stuttgart: Boorberg (Im Erscheinen).
+
+Süddeutsche Zeitung (2020). Keine Studie zu „Racial Profiling“. https://www.
+sueddeutsche.de/politik/seehofer-studie-rassismus-1.4957717. Zugegriffen: 18. Juli 
+2022.
+
+Unbequem (2000). Schwerpunktthema Verdachtsschöpfung. Zeitung der Bundesarbeits-
+gemeinschaft Kritischer Polizistinnen und Polizisten (Hamburger Signal) e. V. 41. Aus-
+gabe. Köln: GNN-Verlag.
+
+Weber, M. (1972). Wirtschaft und Gesellschaft. Grundriß einer verstehenden Soziologie. 
+5. Aufl. Tübingen: Mohr Siebeck.
+
+Weber, M. (1994). Politik als Beruf. Tübingen: Mohr Siebeck.
+Weber, M. (2021). Autorität für die Polizei. Frankfurt am Main: Verlag für Polizeiwissen-
+
+schaft.
+
+Prof. Dr. Marschel Schöne lehrt Krimimologie an der Hochschule der Sächsischen 
+Polizei und ist Direktor des Sächsischen Instituts für Polizei- und Sicherheitsforschung 
+(SIPS). Seine wissenschaftlichen Schwerpunkte liegen in der Empirischen Polizei-
+forschung und in der Kriminalsoziologie.
+
+
+
+Polizei und Rassismus 267
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

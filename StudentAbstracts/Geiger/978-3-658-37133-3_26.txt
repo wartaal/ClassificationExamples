@@ -1,0 +1,738 @@
+﻿Polizei als uneinsichtige Institution
+
+Wilhelm Heitmeyer
+
+Zusammenfassung
+
+Der Artikel geht von der Grundprämisse aus, dass jede demokratische Gesell-
+schaft ein Anrecht darauf hat zu erfahren, was in den Institutionen vor sich 
+geht, die sie mit Macht und Waffen ausstattet. Die empirischen Entwicklungen 
+in der Polizei machen es notwendig zu analysieren, wie weit Teile der Polizei 
+im rechten Spektrum involviert sind. Die Analysen sind schwierig aufgrund 
+von Abschirmungsstrategien. Deshalb wird es notwendig, dass hypothesen-
+geleitete Untersuchungen mit einem mehrperspektivischen Ansatz in Polizei-
+revieren in den Mittelpunkt gestellt werden.
+
+Schlüsselwörter
+
+Polizei im rechten Eskalationskontinuum · Abschirmungsstrategien · 
+Hypothesengeleitete Forschung · Untersuchungssetting Polizeirevier
+
+1 F ragestellung und leitende These
+
+In diesem Beitrag soll der Frage nachgegangen werden, weshalb es so schwierig 
+ist, Einstellungen zur Gruppenbezogenen Menschenfeindlichkeit und rechts-
+extremistische Aktivitäten in der Polizei zu untersuchen. Wenn die Frage so 
+
+W. Heitmeyer (*) 
+Institut für interdisziplinäre Konflikt- und Gewaltforschung (IKG), Universität 
+Bielefeld, Bielefeld, Deutschland
+E-Mail: wilhelm.heitmeyer@uni-bielefeld.de
+
+© Der/die Autor(en) 2022 561
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_26
+
+
+
+562 W. Heitmeyer
+
+gestellt wird, hat sie zur Voraussetzung, dass es diese Probleme in der Polizei 
+gibt. Die vielfältigen Beschreibungen, gerade in den letzten Jahren, lassen keine 
+Zweifel daran, dass es diese Probleme gibt. Umstritten sind die Ausmaße und 
+die Erklärungen. Woraus ergeben sich dann die Schwierigkeiten, die empirischen 
+Ausmaße zu ermitteln und wissenschaftliche Erklärungen zu finden?
+
+Die Hürden lassen sich in einer leitenden These charakterisieren: Die Polizei 
+ist eine uneinsichtige Institution. Dies gilt in doppeltem Wortsinn. Zum einen 
+wird diese Institution politisch abgeschirmt, sodass unabhängige wissenschaft-
+liche Einblicke von außen nicht zugelassen werden oder nur mit ministerieller 
+„Voreinstellung“ von Fragestellungen, Datenzugängen etc. Zum anderen besteht 
+die Uneinsichtigkeit darin, dass es intern keine dominierende „Fehlerkultur“ im 
+Sinne von Selbstkritik gibt, die auch öffentlich kommuniziert wird. Dazu gehört 
+ebenso die Fehleinschätzung in politischen und polizeilichen Führungsetagen, 
+dass dies der beste Weg sei, mit den offensichtlichen Problemen in Teilen der 
+Polizei fertig zu werden. Es ist ein fataler Irrtum für eine Polizei in einem demo-
+kratischen Rechtsstaat.
+
+2 V erdeckte Entwicklungen und verstörende 
+Ereignisse
+
+Schon in den 1990er Jahren war die Fremdenfeindlichkeit, so hieß das damals, 
+ein Problem in der Polizei, wie es sich zum Beispiel am Hamburger Polizei-
+skandal gezeigt hat. Diese Ereignisse sind durch zahlreiche Abwehraktivitäten 
+aus den Führungsebenen der Polizei, Politik und Gewerkschaften lange Zeit der 
+gesellschaftlichen Öffentlichkeit entzogen worden. Erst mit gesellschaftlichen 
+Krisenereignissen seit der Jahrhundertwende sind „autoritäre Versuchungen“1 
+in Teilen der Bevölkerung öffentlich verstärkt hervorgetreten und durch das 
+Aufkommen des Autoritären Nationalradikalismus der AfD seit 2015 auf die 
+politische Bühne getreten.
+
+Zugleich haben sich – institutionell verdeckt – verstörende Entwicklungen 
+auch in verschiedenen Gelegenheitsräumen der Polizei vollzogen. Einzelne 
+Phänomene sind bekannt wie zum Beispiel in Form von Chatgruppen mit 
+menschenfeindlichen und rechtsextremistischen Positionierungen; Weitergaben 
+von Personaldaten aus Polizeicomputern zum Zwecke der Bedrohung als NSU 
+2.0, Vorgänge in elitären Sondereinheiten mit Schießtrainings auf Anlagen im 
+rechtsextremen „Dunstkreis“ etc., die hier nicht im Einzelnen aufgeführt werden 
+
+
+
+Polizei als uneinsichtige Institution 563
+
+sollen. Sie dokumentieren gefährliche Prozesse des verdeckten Eindringens in 
+Sicherheitsinstitutionen.1
+
+Blickt man auf die Forschungslandschaft zu diesem Problemfeld, so sieht 
+man vor allem Forschungslücken, die auf die leitende These der Polizei als 
+uneinsichtige Institution zurückzuführen sind. Hinzu kommen die gesellschaft-
+lichen Veränderungen einschließlich der ausdifferenzierten und dynamischen 
+Entwicklung im rechten politischen Spektrum, das inzwischen auch zahlreiche 
+ideologische Anschlussstellen für Polizistinnen und Polizisten anbietet. Solche 
+Forschungslücken zeigen auch Hunold und Wegner2 in ihrer Beschreibung 
+des Forschungstandes ebenso auf wie auch die Zugangsschwierigkeiten für 
+empirische Analysen.
+
+Daher überrascht es nicht, dass in weiten Teilen des Problemfeldes weder 
+die Ausmaße noch die Ursachen dafür bekannt sind, weshalb sich dieses in der 
+Polizei vollziehen konnte. Gleichwohl gibt es Aufklärungsfortschritte, wie ver-
+schiedene Beiträge im Sammelband von Feltes und Plank3, die fortschreibende 
+Dokumentation von aktuellen Arbeiten durch Feltes und Plank4 oder von 
+Jaschke5, um nur einige Beispiele zu nennen. In dieses Spektrum gehören dann 
+u. a. auch noch laufende Forschungsprojekte wie von Singelnstein et al. zu 
+„Körperverletzung im Amt durch Polizeibeamt*innen“6.
+
+3  Ausgangsprämisse
+
+Um die Fragestellung, warum es so schwierig ist, Gruppenbezogene Menschen-
+feindlichkeit und rechtsextremistische Umtriebe zu untersuchen, ist es notwendig, 
+von einer unumgänglichen Prämisse auszugehen: Diese demokratische Gesell-
+schaft hat ein Anrecht darauf zu erfahren, was in den Institutionen vorgeht, die sie 
+
+1 Heitmeyer et al. (2020), S. 72–90.
+2 Hunold und Wegner (2020), S. 27–32.
+3 Feltes und Plank (2021a, b).
+4 Feltes und Plank (2021a, b).
+5 Jaschke (2021).
+6 Forschungsprojekt „Körperverletzung im Amt durch Polizeibeamt*innen“ (KviAPol), 
+Ruhr-Universität Bochum, https://kviapol.rub.de/; vgl. auch Kemme und Taefi in diesem 
+Band.
+
+
+
+564 W. Heitmeyer
+
+mit Macht und Waffen ausstattet, also mit dem Gewaltmonopol. Das betrifft die 
+Polizei und die Bundeswehr.
+
+Das bedeutet, dass diese Institutionen für die Sicherung der sozialen und 
+politischen Ordnung nicht vergleichbar sind wie z. B. die Feuerwehr, das 
+Ordnungsamt oder die Schule. Keine Gesellschaft darf es sich deshalb bieten 
+lassen, wenn Regierende und Polizeiverantwortliche versuchen, diese Institution 
+abzuschirmen, wenn es Aufklärungsbedarf gibt. Dieser Bedarf ist unabweislich.
+
+4  Gesellschaftliche Rahmung
+
+Obwohl die benannten Probleme nicht neu sind, wird es notwendig, die Unter-
+suchungsfrage neu in den Rahmen der gesellschaftlichen Zustände und der 
+politischen Entwicklung im rechten Spektrum zu stellen. Dazu haben wir in 
+„Rechte Bedrohungsallianzen“7 ein konzentrisches Eskalationskontinuum vor-
+gestellt (s. Abb. 1).
+
+Dieses Zwiebelmuster umfasst – um im Bilde zu bleiben – fünf Schalen:
+
+• Einstellungen in der Bevölkerung zur Gruppenbezogenen Menschenfeindlich-
+keit (GMF),
+
+• Autoritärer Nationalradikalismus der AfD,
+• Systemfeindliches Milieu mit gewaltorientierten Rechtsextremist:innen und 
+
+Neonazis,
+• Klandestines terroristisches Planungs- und Unterstützungsmilieu,
+• Rechtsterroristische Gruppen oder sogenannte Einzeltäter:innen.
+
+Die Schalen werden durch eskalierende Legitimationsbrücken8 zusammen-
+gehalten. Durchgängig zeigt sich eine Ideologie der Ungleichwertigkeit und 
+Gewaltakzeptanz. Die Akteursgruppen werden immer kleiner und gewalttätiger.
+
+Dieses Analysemodell lässt sich auf unser Problemfeld anwenden, indem 
+danach zu fragen ist, wie Polizistinnen und Polizisten in diesem Modell 
+empirisch zu verorten sind. Der Überblick wird zeigen, dass wenig belastbares 
+Wissen vorhanden ist.
+
+7 Heitmeyer et al. (2020), S. 58–72.
+8 Heitmeyer et al. (2020), S. 64–68.
+
+
+
+Polizei als uneinsichtige Institution 565
+
+Gruppenbezogene Menschenfeindlichkeit in der Bevölkerung
+Erscheinungsformen: Abwertung und Diskriminierung von 
+markierten Gruppen mit einer Ideologie der Ungleichwertigkeit
+Funktion: Legitimationsfundus für politische Aktionen von 
+Bewegungen und Parteien
+Milieu des Autoritären Nationalradikalismus
+Erscheinungsformen: politische Formationen von autoritären und 
+nationalistischen Bewegungen und Parteien (AfD, Pegida etc.)
+Zielsetzungen: De-Stabilisierung von gesellschaftlichen 
+Institutionen und der liberalen Demokratie mit dem Ziel eines 
+„Systemwechsels“; Ausgrenzung von Gruppen zur Schaffung einer 
+geschlossenen Gesellschaft; Neudeutung deutscher Geschichte
+systemfeindliches Milieu
+Erscheinungsformen: bewegungsförmiger Rechtsextremismus, 
+neonazistische Kameradschaften, Identitäre Bewegung und 
+unorganisierte Szenen von Reichsbürgern und völkischen 
+Siedlungsbewegungen
+Zielsetzungen: Sturz des demokratischen Systems und Zerstörung 
+der offenen Gesellschaft, z. T. auch mit Gewalt
+klandestines terroristisches Planungs- und Unterstützungsmilieu
+Erscheinungsformen: konspirativ agierende Gruppen, die sich 
+vielfach aus den systemfeindlichen Milieus rekrutieren und eine 
+weitere Radikalisierung durchlaufen in Richtung der Planung 
+terroristischer Taten
+Zielsetzungen: gewaltsame Aktionen gegen Angehörige markierter 
+politischer Gruppen und Minderheiten sowie gegen Vertreter des 
+politischen Systems 
+terroristische Vernichtungsakteure
+Erscheinungsformen: gruppenorganisierte Akteure mit realen 
+Unterstützungsmilieus oder individualzentrierte Akteure mit 
+virtuellen Gemeinschaften
+vollzogene Taten: Vernichtung von markierten Personen oder 
+Gruppen zum Zwecke des Zusammenbruchs der gesellschaftlichen 
+und staatlichen Ordnung
+
+Abb. 1  Konzentrisches Eskalationskontinuum. (Heitmeyer et al. 2020), S. 59
+
+Erstens. Wir wissen bisher nicht hinreichend, wie das – bezogen auf die 
+äußere Schale – z. B. bei den Einstellungen von Polizistinnen und Polizisten 
+im Hinblick auf Gruppenbezogene Menschenfeindlichkeit aussieht, in der unter 
+anderem auch rassistische Einstellungen einbezogen sind.9
+
+9 Vgl. Groß, Clasen und Zick in diesem Band.
+
+
+
+566 W. Heitmeyer
+
+Zweitens. Wir wissen nicht, – die nächste Schale – wie viele Polizistinnen 
+und Polizisten etwa Wähler:innen des Autoritären Nationalradikalismus der AfD 
+sind, die in Teilen schon vom Verfassungsschutz beobachtet wird, wie u. a. der 
+sogenannte völkische Flügel etc. Zudem ist aufschlussreich, wie viele Personen 
+mit Polizeihintergrund etwa in den Gremien der AfD wie z. B. in der Bundestags-
+fraktion zu finden sind.
+
+Drittens. Es gibt Hinweise darauf, dass Polizistinnen und Polizisten sich 
+im „systemfeindlichen Milieu“ aufhalten, das bereits mit Waffen und Gewalt 
+hantiert. Der Umfang ist unklar.
+
+Viertens. Schließlich gibt es auch Hinweise auf das klandestine terroristische 
+Planungs- und Unterstützungsmilieu, in dem Vorbereitungen auf den sogenannten 
+Tag X getroffen sein sollen.
+
+Die These zu einer angemessenen Analyse unserer Problemstellung ist also: 
+Die Untersuchung zur Rolle von Polizistinnen und Polizisten darf nicht von Ent-
+wicklung des rechten Spektrums abgekoppelt geführt werden und muss in das 
+konzentrische Eskalationskontinuum eingeordnet sein.
+
+Gleichzeitig zeigt diese Differenzierung im konzentrischen Eskalations-
+kontinuum auch die Grenzen der Methoden sozialwissenschaftlicher Forschung 
+auf, die nicht mit geheimdienstlichen Mitteln arbeiten darf – ebenso wenig wie 
+die Polizei selbst. Das bedeutet, dass den Erwartungen von Öffentlichkeit und 
+Politik über gewissermaßen endgültig aufgeklärte Probleme enge Grenzen gesetzt 
+sind. Das hat Auswirkungen auf die Untersuchungsbereiche und die Forschungs-
+designs.
+
+5 P olitisch induzierte Problemlagen
+
+Gruppenbezogene Menschenfeindlichkeit mit abwertenden und diskriminierenden 
+Einstellungen gegenüber einer Vielzahl markierter Gruppen, auch in der Polizei, 
+ist nicht neu und auch bekanntlich nicht nur ein deutsches Problem. Es war aber 
+noch nie so virulent angesichts der gesellschaftlichen Entwicklung und der Aus-
+differenzierung und Dynamisierung von rechten Bedrohungsallianzen.10 Des-
+halb ist der Bedarf an Forschung darüber, was in den Institutionen, die mit dem 
+Gewaltmonopol ausgestattet sind, auch noch nie so groß wie heute, weil sich 
+
+10 Heitmeyer et al. (2020), S. 17, 266–280.
+
+
+
+Polizei als uneinsichtige Institution 567
+
+das gesellschaftliche Klima nach rechts verschoben hat und durch die Aus-
+differenzierung des rechten politischen Spektrums zahlreiche Anschlussstellen 
+für rechtsautoritäre und rechtsextreme Gesinnungen gegeben sind. Zumal für eine 
+„rohe Bürgerlichkeit“, die sich selbstverständlich von Neonazis abgrenzt, aber zur 
+Normalisierung in der Gesellschaft beiträgt.
+
+Zumal die Abwehrstrategien in Teilen von Polizeiführungen, Gewerk-
+schaften und Politik gegenüber solchen Untersuchungen, die Jaschke11 schon in 
+den 90er Jahren verdienstvoller Weise in vier Thesen benannt hat, immer noch 
+wirken, wenn auch inzwischen in unterschiedlicher Weise. Die besonders beliebte 
+„Einzelfall-These“ musste inzwischen selbst von Innenminister:innen aufgegeben 
+werden. Die „Relativierungs-These“, wonach auch andere Berufsgruppen 
+gleichermaßen solche Einstellungen aufweisen, also alles irgendwie „normal“ sei, 
+vernachlässigt, dass diese Berufsgruppe mit dem Gewaltmonopol ausgestattet ist 
+und deshalb nicht vergleichbar ist mit anderen Berufsgruppen. Mit der „Spiegel-
+bild-These“ wird behauptet, dass die Polizei ein Abbild der deutschen Gesell-
+schaft sei, also nicht besser oder schlechter als in anderen Institutionen oder in 
+der Zivilgesellschaft. Klarstellend hat der BKA-Präsident Münch12 in 2020 
+postuliert, dass die Polizei gerade kein Abbild der Gesellschaft sein will und sein 
+darf. Schließlich führt Jaschke auch die „Manipulations-These“ auf, wonach 
+Rassismus oder Nähe zu rechtsextremen Kreisen ein Konstrukt von Medien sei, 
+um die Polizei als Ganzes zu diffamieren. Diese These wird immer noch ver-
+wendet durch die Immunisierungsstrategie mit der Rede vom „Generalverdacht“.
+
+Und selbst verschiedene bröckelnde Abwehrstrategien in der Politik und der 
+Institution sind mit großer Aufmerksamkeit zu beobachten. Das sieht man am 
+politischen Taktieren.13 Da sind die unterschiedlichen Politiken im Bund und in 
+den Ländern zu unterscheiden. Der Verfassungsminister Seehofer schlug immer 
+neue Haken. Seehofer wollte keine Studie, die sich gezielt rassistischen Welt-
+bildern in der Polizei widmet; dann auch keine Studie zu racial profiling, weil 
+das ja ohnehin verboten sei; dann schlug er eine gesamtgesellschaftliche Studie 
+vor, als ob es hinsichtlich von Einstellungen in der Bevölkerung bisher keine 
+gäbe; der dritte Haken war, das er den Alltag von Polizist:innen untersuchen 
+lassen wollte. Haken Nummer vier war, dass er zunächst klären lassen wollte, 
+welche Rassismus-Studien es in Deutschland bisher gebe. Nun war Seehofer 
+nur für die Bundespolizei zuständig, hatte aber natürlich großen Einfluss auf die 
+
+11 Jaschke (1996).
+12 Münch (2020).
+13 Heitmeyer (2020).
+
+
+
+568 W. Heitmeyer
+
+Innenminister:innen der Länder, die sich in unterschiedlicher Weise zu öffnen 
+scheinen.
+
+Es sind also verschiedene Ablenkungs- und Vermeidungsstrategien, die 
+hier bisher noch zum Tragen kommen. Herausragend ist die Immunisierungs-
+strategie, die über das Argument des Generalverdachts verläuft. Diese Variante 
+von Seehofer, Landesinnenminister:innen, Polizeigewerkschaftler:innen und 
+konservativen Politiker:innen und Publizist:innen ist obskur. Mit dem Vorwurf 
+des Generalverdachts wird etwas in die Welt gesetzt, was kein ernstzunehmender 
+Diskussionsteilnehmer behauptet. Durch die Einführung des Generalverdachts 
+in die Debatte soll die Immunisierung erfolgen. Dies alles ist nicht neu in der 
+Geschichte der Inneren Sicherheit in der Bundesrepublik.14
+
+Selbst nach der – laut Presseberichten − Mitteilung vom 01.12.2020, dass 
+die Hochschule der Polizei in Münster eine dreijährige Studie zu Motivation 
+der Berufswahl, Berufsalltag und Gewalt gegen Polizisten durchführen soll, 
+bleibt unklar, wie die ministeriell vorgegebenen Fragestellungen aussehen und 
+welche Rechte die Wissenschaft hat, um aus ihrer Sicht die Problemstellungen zu 
+formulieren, die dem Stand bisheriger nationaler wie internationaler Erkenntnisse 
+entsprechen.
+
+6 K ontextprobleme der Forschung
+
+Mit der prinzipiellen Möglichkeit zur Forschung in der uneinsichtigen Institution 
+sind gleichwohl zwei zentrale Probleme verbunden. Sie betreffen Begriffs-
+probleme und Kontextprobleme der konkreten Forschung. Beide Problemlagen 
+haben Auswirkungen auf die empirischen Ergebnisse und ihre Interpretationen.
+
+Erstens sind genauer die Begriffe zu klären, mit denen hantiert wird, weil sie 
+sowohl die analytischen Blickwinkel bestimmen als auch die Interpretationen von 
+empirischen Ergebnissen strukturieren. Eine besondere Diskussion in Politik, 
+Medien und Wissenschaft rankt sich um die Frage, ob es einen „strukturellen 
+Rassismus“ der Polizei gebe. Die Verwendung des Begriffes vom „strukturellen 
+Rassismus“ der Polizei halte ich für falsch. Das würde aus meiner Sicht bedeuten, 
+dass der Staat den Auftrag an die Polizei rassistisch anlegt, wie das z. B. in der 
+NS-Zeit war oder in Apartheitsregimen. Dann wären jene Polizistinnen und 
+Polizisten, die sich nicht rassistisch verhalten quasi „Abweichler“. In meinem 
+
+14 Vgl. Weinhauer in diesem Band.
+
+
+
+Polizei als uneinsichtige Institution 569
+
+Verständnis von „Strukturen“ sind immer auch die Zwecke mit eingewoben. Es 
+wäre absurd z. B. „Rassismus“ als Zweck von Polizei anzunehmen.
+
+Anders sieht es mit dem Begriff des „institutionellen Rassismus“ im Sinne von 
+„Rassismus in der Institution“ aus. Der benennt gezielter das große Problem. Das 
+bedeutet, dass sich in der Institution auch Gelegenheitsräume gegen das kodi-
+fizierte Regelwerk, Vorschriften und Normen herausbilden können bzw. schon 
+herausgebildet haben, die sich in ganz unterschiedlichen Varianten und Grau-
+zonen zeigen.
+
+Dies ist meines Erachtens das zentrale Problem, aus dem dann Verhalten von 
+Polizistinnen und Polizisten entsteht, von dem angenommen wird, dass Ver-
+schiebungen von Normalitätsvorstellungen am Anfang von Prozessen nicht 
+beobachtet und auch nicht sanktioniert wurden bzw. werden. Hier kommt dann 
+das Phänomen der wechselseitigen Abhängigkeiten in Risikokonstellationen bei 
+gefährlichen Einsätzen und der Korpsgeist ins Spiel. Und es kommen auch die 
+Einflüsse der gesellschaftlichen Rechtsentwicklungen als Einflussgröße dazu.
+
+Zweitens müssen im Hinblick auf die Schwierigkeiten von sozialwissenschaft-
+lichen Untersuchungen die Logiken verschiedener Kontexte genauer betrachtet 
+werden. Vier sollen kurz beleuchtet werden.
+
+• Politischer Kontext der staatlich Regierenden: Alle Regierenden unabhängig 
+von der Parteizugehörigkeit müssen sich so darstellen, dass alles was sie tun 
+immer ein Erfolg ist. Eine Fehlerkultur ist nicht vorgesehen, denn man will 
+ja wiedergewählt werden. Besonders sensibel ist die Innere Sicherheit und 
+die dort tatsächlich Machthabenden sind die durch Juristen dominierenden 
+Ministerialbürokratien. Diese haben eine eigene Logik, die mit Wissenschaft 
+nicht kompatibel ist.
+
+• Institutioneller Kontext der Polizei: Auch hier gibt es in der strengen 
+Hierarchie kaum eine Fehlerkultur, d. h. aufkommende Probleme werden bei 
+den Verantwortlichen immer auch auf die eigene Statusgefährdung und natür-
+lich auf den Statusaufstieg attribuiert. Daraus ergeben sich u. a. die schon 
+angeführten Abschirmungsstrategien.
+
+• Öffentlich-medialer Kontext: Hier dominiert eine dichotomische Malerei, 
+die sich immer stärker verhärtet hat. Einerseits sind es konservative Medien, 
+die dem Generalverdacht folgen und deshalb die Immunisierungsstrategien 
+stützen. Anderseits sind es Akteure in den sogenannten alternativen Medien, 
+die genau den Generalverdacht zu ihrer vornehmsten Aufgabe machen, wie 
+
+
+
+570 W. Heitmeyer
+
+der taz-Artikel nach dem Motto „Polizei auf den Müll“15, wie immer die 
+Botschaft lautet. Sie liefern Material für die Strategie des Generalverdachts, 
+obwohl sie vorgeben im Dienste der Aufklärung zu stehen. Dies schafft ein 
+Klima, das die Untersuchungen schwierig macht und die Reaktanz in der 
+Polizei aktiviert.
+
+• Wissenschaftskontext: Es gibt ein grundsätzliches Problem. Es besteht darin, 
+dass der Politikbetrieb und elaborierte Wissenschaft mit ganz unterschied-
+lichen Zeitrhythmen arbeiten. Die Politik will schnelle Ergebnisse, damit 
+lange Versäumnisse ruck zuck erledigt werden sollen, weil das Thema aus der 
+Öffentlichkeit verschwinden soll. Seriöse Wissenschaft kann und darf sich 
+nicht darauf einlassen. Diejenigen Wissenschaftler:innen, die jetzt Studien in 
+dem Feld machen wollen oder machen sollen, stehen in einem Spannungsfeld, 
+um die Erwartungshaltung aus der Politik für schnelle Ergebnisse zu erfüllen.
+
+7  Spezifische Forschungsprobleme
+
+Zum einen sind die Möglichkeiten sozialwissenschaftlicher Forschung mit ihren 
+Methoden vor dem Hintergrund des Spektrums im konzentrischen Eskalations-
+kontinuum durchaus eng, sodass die Aussagenreichweite immer zu betonen ist.
+
+Hinzu kommt ein weiterer zentraler Punkt der Begrenzung von Aussage-
+kraft. Es ist der Erhebungszeitraum. Die Untersuchungen, wenn es sie denn 
+geben sollte, finden in einer gesellschaftlichen und politisch sehr aufgeheizten 
+Zeit statt. Es ist ein vielfach vergiftetes Klima. Hier lauert ein ganz zentrales 
+wissenschaftliches Problem. Es ist die Frage zu berücksichtigen, welcher Ver-
+zerrungsfaktor für die Ergebnisse in diesem Klima des Misstrauens und des 
+politisch erwünschten Verhaltens etwa bei der Beantwortung von Fragebögen zu 
+Einstellungen mittels online-Erhebungen „eingebaut“ ist, zumal dann, wenn den 
+adressierten Polizistinnen und Polizisten klar ist, dass die Erhebungen im Auftrag 
+von Innenministerien der Länder bzw. des Bundes erfolgen.
+
+Zum engeren Forschungskontext gehören auch die Verfahren und die Sicherung 
+von wissenschaftlicher Unabhängigkeit. Tatsächliche Unabhängigkeit wird nur 
+dann gegeben sein, wenn es keine ministeriale Federführung und Finanzierung 
+gibt. Ideal wären DFG-Anträge, die extern begutachtet werden – oder wenigstens 
+
+15 Yaghoobifarah (2020).
+
+
+
+Polizei als uneinsichtige Institution 571
+
+ein Verfahren, das den DFG-Vorgaben mit externen Gutachtern entspricht. 
+Ministeriale Federführung durch die entsprechenden Juristen und Finanzierung 
+führen die Wissenschaftler:innen direkt in die Abhängigkeit. Erfahrungen von 
+prominenten Wissenschaftler:innen, die z. B. am nationalen Sicherheitsbericht mit-
+gearbeitet haben, zeigen die Eingriffe durch die ministerialen Juristen.
+
+Schließlich geht es um das Forschungsdesign. Da es keinen Königsweg gibt, 
+wären Forschungskonzepte notwendig, die sowohl mehrperspektivisch im Hin-
+blick auf theoretische Annahmen als auch mit sich ergänzenden Methoden 
+angelegt sind. Quantitative Einstellungsuntersuchungen mit einem Erhebungs-
+zeitpunkt haben – wie schon erwähnt – in dieser überhitzten gesellschaftlichen 
+Debatte aus methodischen Gründen nur eine begrenzte Aussagekraft.
+
+Deshalb ist zusätzlich ein langfristiges Monitoring notwendig. Einmal-
+Erhebungen sind neben den erwähnten Messproblemen aufgrund des Erhebungs-
+zeitraumes auch sehr ereignisabhängig, also wenn z. B. besondere Vorkommnisse 
+die öffentliche Debatte bestimmen. Erst Langzeituntersuchungen können Auf-
+klärung schaffen im Zusammenspiel mit gesellschaftlichen Veränderungen. 
+Wir haben mit unserer 10jährigen Langzeituntersuchung zu Gruppenbezogener 
+Menschenfeindlichkeit – immer im Kontext der gesellschaftlichen Entwicklung – 
+gute Erfahrungen für die Aufzeichnung von „Deutsche Zustände“16 gemacht, um 
+Entwicklungslinien zu zeichnen.
+
+Nach dem aktuellen Diskussionsstand in 2021 sind große Zweifel angebracht, 
+ob langfristig aufklärerisch gedacht wird. Das bisher erkennbare politische 
+Interesse zielt auf schnelle Fix-Erhebungen. Da ist auch die hessische Voll-
+erhebung von 2020 zu Einstellungen durch eine Abteilung des Innenministeriums 
+mit 25 % Rücklauf nicht hilfreich. Das war in mehrfacher Hinsicht kein Durch-
+bruch für die Polizeiforschung.
+
+Um an die klandestinen Gruppen im Internet heranzukommen, muss ent-
+weder Kommissar Zufall helfen wie im Falle der Mülheimer Chat-Gruppe oder 
+der Verfassungsschutz mit seinen geheimdienstlichen Mitteln. Aber auch das ist 
+eine komplizierte Situation. Verfassungsschützer (mit ihren eigenen Problemen) 
+müssen uns Bürger schützen vor Gruppen in der Polizei, die eigentlich unsere 
+Verfassung durchsetzen sollen und vor denen bestimmte markierte Gruppen in 
+der Gesellschaft nicht mehr umstandslos sicher sein können, dass das passiert.
+
+In diesem Dunkelfeld können Wissenschaftler:innen kaum tiefergehend 
+hineinleuchten. Hinzu kommt ein wichtiger Punkt. Es geht um wechselseitig 
+
+16 Heitmeyer (2002, 2012).
+
+
+
+572 W. Heitmeyer
+
+lernende „Systeme“ im Sinne von Akteursgruppen. Die Verfolgungsgruppen 
+lernen, wie die rechten Chat-Gruppen agieren. Gleichzeitig lernen die Chat-
+Gruppen aber auch, wie die Verfolgungsgruppen agieren.
+
+8 F orschungsleitendes Hypothesengerüst zu 
+Risikokonstellationen
+
+Um zu Erklärungen von Einstellungen und Verhaltensweisen voranzukommen, 
+liegt es nahe mit „gemixten“ Methoden die Risikokonstellationen im Polizeialltag 
+zu analysieren. Dabei sollten vorrangig vier Hypothesen untersucht werden:
+
+• Erstens die Selektivitätshypothese. Bestimmte Personengruppen interessieren 
+sich für den Polizeiberuf. Oder anders: Wer geht zur Polizei? Welche Welt-
+bilder vertreten sie; wie ist das Verhältnis zu Macht- und Kontrollausübung; 
+wie sieht die Faszination von Waffen aus; welche Konformitätseinstellungen 
+auch innerhalb der Hierarchie haben sie etc.
+
+• Zweitens die Sozialisationshypothese. Grenzüberschreitungen und auch 
+Gewalt entstehen bzw. verstärken sich durch den Polizeieinsatz insbesondere 
+in Risikokonstellationen. Welche Mechanismen wirken im Polizeialltag?
+
+• Drittens die Institutionenhypothese. Es gibt Gelegenheitsstrukturen innerhalb 
+der Institution, die regelüberschreitende Zugriffe (u. a. NSU 2.0) möglich 
+machen und auch Gelegenheiten zur Entwicklung von rechtem Gruppen-
+bewusstsein. Welche Mechanismen sind dies?
+
+• Viertens die gesellschaftliche Normalisierungshypothese. Welchen Einfluss 
+haben die gesellschaftlichen Rechtsentwicklungen und die Normalisierung 
+von Einstellungsmustern zur Gruppenbezogenen Menschenfeindlichkeit 
+in Teilen der Bevölkerung, die als Legitimationsmuster für Grenzüber-
+schreitungen durch Polizisten und Polizistinnen wirksam werden können.
+
+Notwendig ist es, dass diese vier Hypothesen vor allem im Zusammenhang ana-
+lysiert werden. Deshalb ist ein mehrdimensionales Untersuchungssetting not-
+wendig, das der Komplexität des Zusammenwirkens der in den Hypothesen 
+aufgerufenen Risikokonstellationen gerecht wird.
+
+
+
+Polizei als uneinsichtige Institution 573
+
+Subjektive Sichtweise
+der Polizei Teilnehmende Beobachtung/
+
+(Einstellungen, Verhaltensweisen) Einzelinterviews (Verhalten der 
+(Fragebogen) Polizei im Revieralltag)
+
+Gruppendiskussion Problemfeld
+Gemeinsame Debatten zu Ethnisch-kulturelle Konflikte Polizei-interne
+
+Problemlagen in der (Polizei – Ausländer) Strukturen/Dokumente
+Fortbildungswoche
+
+Sozialstruktur des Stadtviertels Subjektive Sichtweise
+(Stadtsoziologische Daten, von Stadtteilbewohnern
+
+Kriminalitätsbelastung/ (Fragebogen, Interviews)
+Wahlergebnisse
+
+Abb. 2  Untersuchungseinheit Polizeirevier. (Backes et al. 1997), S. 9
+
+9  Mehrdimensionales Untersuchungssetting
+
+Dazu lässt sich – als ein Beispiel – auf unsere Bielefelder Untersuchung im 
+Rahmen des sogenannten Hamburger Polizeiskandals zurückgreifen. Sie fand vor 
+25 Jahren von 1995 bis 1997 statt.17 Wir haben damals die Untersuchungseinheit 
+„Polizeirevier“ (vgl. Abb. 2) gewählt, die als angemessenes Setting gelten kann.18
+
+In einem kontrastierenden Setting mit unterschiedlichen sozialen 
+Bedingungen und Risikokonstellationen von fünf Stadtteilen (Wilhelmsburg, 
+St. Georg, Altona, Rahlstedt, Bergedorf) wurden jeweils sechs verschiedene 
+methodische Zugänge kombiniert, wie die Grafik zeigt:
+
+• Einstellungen und selbstberichtetes Verhalten der Polizeibeamt:innen
+• Teilnehmende Beobachtungen im Revieralltag
+• Polizeiinterne Dokumente der institutionellen Strukturen im Revieralltag
+• Subjektive Sichtweisen von Stadtteilbewohner:innen
+• Sozialstruktur des Stadtviertels, Kriminalitätsbelastung und ethnisch-kulturelle 
+
+Konflikte etc.
+
+17 Vgl. Backes et al. (1997).
+18 Vgl. Behrendes (2020), S. 20.
+
+
+
+574 W. Heitmeyer
+
+• Gruppendiskussionen mit den Polizeibeamt:innen der jeweiligen Reviere über 
+die Ergebnisse.
+
+Das Konzept ist sehr komplex, aber der Problematik angemessen. Anschlussfähig 
+wäre hier ein Kohorten Modell, wie es Jaschke19 vorgeschlagen hat.
+
+Zwei zentrale Punkte waren wichtig. Erstens das Vertrauen der Polizist:innen 
+in den Revieren zu gewinnen u. a. durch Anwesenheit in den Revieren. Wir 
+wollten Gesicht zeigen. Zweitens war es für uns wichtig, nach den Ergeb-
+nissen mit den Polizist:innen in den Revieren über unsere Ergebnisse zu dis-
+kutieren. Es waren äußerst konfliktreiche Gruppendiskussionen, die während 
+einer ganzen Woche stattfanden. Dies gelang, weil wir alle Freiheiten hatten 
+seitens des Innensenators. Es gab keine Interventionen, und zwar weder bei den 
+von uns definierten Problemstellungen noch bei Interpretationen der empirischen 
+Ergebnisse. Gleichzeitig war das Projekt sehr konfliktreich. Dies lag vor allem 
+am Widerstand der Gewerkschaft der Polizei und von Personen auf höheren 
+Führungsebenen der Polizei. Unsere Ergebnisse wurden bei der Vorstellung des 
+Forschungsberichtes mit unfassbarer Arroganz vom Polizeipräsidenten und seinen 
+Polizeidirektoren weggewischt. Dies zeigte sich u. a. darin, dass keine inhalt-
+liche Auseinandersetzung mit unseren Ergebnissen stattfand. Sie wurden einfach 
+„beschwiegen“.
+
+10  Konsequenzen?
+
+Erstens: Es ist notwendig, dass sich interessierte Forschungsgruppen zusammen-
+finden, um ergänzende Forschungsdesigns zu entwickeln und zu diskutieren. 
+Wissenschaft trägt hier Verantwortung, dass keine politisch ausbeutbaren 
+„Schnellschüsse“ passieren.
+
+Zweitens: Im Hinblick auf das Forschungssetting scheint es sinnvoll, den 
+aufgezeigten Bielefelder Ansatz in der Kombination der Ermittlung von Risiko-
+konstellationen, dem Revierspezifischen Ansatz einschließlich revierspezifischen 
+Fortbildungen in Dienstgruppen und der gesellschaftlichen Durchlüftung zu ver-
+folgen. Dabei sind auch die Übergänge von Einstellungen zu polizeilichen Hand-
+lungspraktiken in den verschiedenen Risikokonstellationen auszuleuchten.20
+
+19 Jaschke (2021).
+20 Vgl. Gutschmidt und Czudnochowski in diesem Band.
+
+
+
+Polizei als uneinsichtige Institution 575
+
+Drittens im Gefolge der Hypothesen: Bei der Selektivitätshypothese hängt 
+viel von der Güte der Einstellungstests ab. Es ist anzunehmen, dass daran viel 
+gearbeitet wird. Die Frage bleibt, ob die für unsere Fragestellung wichtigen 
+Dimensionen erfasst werden. Bei der Sozialisationshypothese und der 
+Institutionenhypothese sind es die Veränderungen von Erfahrungskontexten. Dazu 
+gehört auch ein Rotationsprinzip, wie wir es 1997 vorgeschlagen haben.21 Dies 
+kann interessant sein, weil damit u. a. die Abhängigkeitssteigerung durch Dauer-
+haftigkeit unterbrochen wird. Dazu gibt es durchaus Vorteile, aber auch Nach-
+teile. Ein Vorteil wäre, dass ein personengebundener Korpsgeist durch einzelne 
+Meinungs- und Machtführer aufgebrochen werden kann. Das institutionelle 
+Problem von Korpsgeist wird dadurch nicht aufgelöst, quasi „dank“ Internet-
+Kommunikation. Und ein Nachteil kann sein, dass es Erfahrungsverluste gibt und 
+z. B. Kiezkenntnisse verloren gehen. Deshalb muss es ein durchdachtes Muster 
+der Rotation geben, sodass vor allem jüngere Polizistinnen und Polizisten andere 
+Erfahrungen machen können. Normalerweise gehen wir davon aus, dass Ein-
+stellungen dann Verhalten erzeugt, wenn Personen mit bestimmten Einstellungen 
+entsprechend bestätigende Erfahrungen in ihren Arbeitskontexten machen. 
+Das Verhältnis ist aber komplexer. Verhalten kann auch andere Einstellungen 
+erzeugen, wenn Erfahrungen in veränderten Arbeitskontexten gemacht werden.
+
+Viertens: Aufklärer:innen. Die deutsche Tradition der polizeiinternen 
+Aufklärer:innen ist m. E. nicht weiterführend. Die Bekenntnisse von 
+Innenminister:innen, dass die von ihnen eingesetzten Aufklärer:innen aus dem 
+eigenen Geschäftsbereich „unabhängig“ seien, ist nicht zutreffend und keine 
+Aufklärungsstrategie. International sieht es anders aus. In England dürfen 
+Aufklärer:innen nie im Polizeidienst tätig gewesen sein und in anderen Ländern 
+sind sie dem Parlament und nicht den weisungsbefugten Innenminister:innen 
+berichtspflichtig. Dadurch entsteht Öffentlichkeit. Wissenschaftler:innen und 
+Aufklärer:innen müssen sich außerhalb der Hierarchiestruktur der Polizei und 
+außerhalb der Anweisungsketten von Innenministerien bewegen können; ansonsten 
+kann man nicht von Unabhängigkeit sprechen. Dies schließt die Teilnahme von 
+Polizistinnen und Polizisten mit ihren Insider:innen-Kenntnissen nicht aus.
+
+Abschließend wiederholend zurück zur Ausgangsprämisse, weil sie ent-
+scheidend ist. Diese demokratische Gesellschaft hat ein Anrecht darauf zu 
+wissen, was in der Institution der Polizei abläuft, die sie mit dem Gewaltmonopol 
+ausgestattet hat. Deshalb ist diese Institution kontinuierlich einer „gesellschaft-
+
+21 Backes et al. (1997), S. 204.
+
+
+
+576 W. Heitmeyer
+
+lichen Durchlüftung“22 auszusetzen. Dazu muss mehr geschehen als Regierende 
+und Vertreter:innen von Polizeiinstitutionen bisher bereit sind. Ansonsten existiert 
+auch an dieser Stelle ein Demokratieproblem und die Polizei bleibt eine unein-
+sichtige Institution.
+
+Literatur
+
+Backes, O., Biek, T., Dollase, R., Heitmeyer, W., Meyer, J., Spona, D., & Wilkening, F. 
+(1997). Risikokonstellationen im Polizeialltag. Forschungsbericht des Instituts für 
+interdisziplinäre Konflikt- und Gewaltforschung der Universität Bielefeld.
+
+Behrendes, U. (2020). Gegen die Mauer des Schweigens. DIE ZEIT, 26. November, S. 20.
+Feltes, T., & Plank, H. (Hrsg.) (2021a). Rassismus, Rechtsextremismus, Polizeigewalt. 
+
+Frankfurt am Main: Verlag für Polizeiwissenschaft.
+Feltes, T., & Plank, H. (2021b). Rassismus und Rechtsextremismus in der Polizei? Ein Bei-
+
+trag für und über eine „rechtschaffen(d)e“ demokratische (Bürger-) Polizei. Fortlaufend 
+aktualisierte Wortmeldung. Stand: 31. März 2021. https://www.thomasfeltes.de/index.
+php/veroeffentlichungen. Zugegriffen: 18. Juli 2022.
+
+Heitmeyer, W. (Hrsg.) (2002, 2012). Deutsche Zustände. Band 1 und 10. Frankfurt am 
+Main und Berlin: Suhrkamp.
+
+Heitmeyer, W. (2018). Autoritäre Versuchungen. Signaturen der Bedrohung I. Berlin: 
+Suhrkamp.
+
+Heitmeyer, W., Freiheit, M., & Sitzer, P. (2020). Rechte Bedrohungsallianzen. Signaturen 
+der Bedrohung II. Berlin: Suhrkamp.
+
+Heitmeyer, W. (2020). Seehofer misstraut der Polizei. SPIEGEL-Online. https://www.
+spiegel.de/panorama/seehofer-misstraut-der-polizei-a-6178f9ba-6e0c-40fa-94d9-
+02e1678e0269. Zugegriffen: 18. Juli 2022.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei: Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Jaschke, H.-G. (1996). Rechtsextremismus und Fremdenfeindlichkeit bei der Polizei. In 
+Kuratorium der Polizei-Führungsakademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? 
+(S. 199–220). Lübeck: Schmidt-Römhild.
+
+Jaschke, H.-G. (2021). Rechtsextreme Netzwerke in der Polizei und anderen Sicher-
+heitsbehörden? Ein Problemaufriss. In R. C. van Ooyen & M. H. W. Möllers (Hrsg.), 
+Jahrbuch Öffentliche Sicherheit 2020/2021 (S. 22–35). Baden-Baden: Verlag für 
+Polizeiwissenschaft.
+
+Münch, H. (2020). Interview mit dem RedaktionsNetzwerk Deutschland vom 17.09.2020. 
+https://www.bka.de/DE/Presse/Interviews/2020/200917_InterviewMuenchRedaktionsne
+tzwerk.html. Zugegriffen: 18. Juli 2022.
+
+Yaghoobifarah, H. (2020). All cops are berufsunfähig. taz. https://taz.de/Abschaffung-der-
+Polizei/!5689584/. Zugegriffen: 18. Juli 2022.
+
+22 Backes et al. (1997), S. 192 f.
+
+
+
+Polizei als uneinsichtige Institution 577
+
+Prof. Dr. Wilhelm Heitmeyer war Gründer und von 1996 bis 2013 Direktor des Instituts 
+für interdisziplinäre Konflikt- und Gewaltforschung der Universität Bielefeld. Seine 
+Forschungsschwerpunkte sind Theorie sozialer Desintegration, Gewalt, Rechtsextremismus 
+und Gruppenbezogene Menschenfeindlichkeit.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

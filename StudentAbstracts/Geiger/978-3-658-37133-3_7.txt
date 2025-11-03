@@ -1,0 +1,748 @@
+﻿Rechtsextremismus in der Polizei – 
+Skandale, Befunde und Mutmaßungen
+
+Christoph Kopke
+
+Zusammenfassung
+
+Der Beitrag referiert ausgehend vom medial erhobenen Befund, dass rechts-
+extreme Vorfälle in bundesdeutschen Polizeibehörden längst nicht mehr 
+als Einzelfälle zu betrachten sind, die dazu vorliegenden Berichte und Ein-
+schätzungen. Es werden die verschiedenen in der Debatte vorzufindenden 
+Definitionen und Perspektiven vorgestellt und der Diskussions- und 
+Forschungsstand zur Frage von rechtsextremen Einstellungen in der Polizei 
+skizziert. Der Beitrag verdeutlicht die Notwendigkeit weiterer empirischer 
+Forschung, um das Problem von Rechtsextremismus in der Polizei quantitativ 
+und qualitativ besser einschätzen zu können.
+
+Schlüsselwörter
+
+Rechtsextremismus · Einstellungsforschung · „Rassismusstudie“ ·  
+Organisationssoziologie · Netzwerke
+
+Teile des Beitrages basieren auf Kopke (2019).
+
+C. Kopke (*) 
+Fachbereich Polizei und Sicherheitsmanagement (FB 5), Campus Lichtenberg, 
+Hochschule für Wirtschaft und Recht Berlin, Berlin, Deutschland
+E-Mail: christoph.kopke@hwr-berlin.de
+
+© Der/die Autor(en) 2022 127
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_7
+
+
+
+128 C. Kopke
+
+Innerpolizeiliche Chatgruppen, die rassistische, menschenfeindliche und NS-
+verherrlichende Inhalte teilen, Weitergabe von sensiblen Daten aus Polizei-
+computern an Rechtsextreme, Polizeiangehörige, die durch Rassismus auffallen 
+und offen Sympathien für Rechtsaußenformationen hegen, Verbindungen von 
+Polizeibeamt:innen in die sogenannte Reichsbürgerszene und zu sogenannten 
+„Preppern“, Polizeiangehörige, die Waffen und Munition zur Vorbereitung eines 
+Umsturzes („Tag X“) zur Seite schaffen1 oder als Redner auf Kundgebungen von 
+Corona-Pandemieleugner:innen auftreten und sich als „Polizisten für Aufklärung“ 
+ausgeben2.
+
+In den vergangenen fünf Jahren thematisierten Medienberichte fast im 
+Wochentakt, phasenweise fast täglich, tatsächliche oder vermeintliche rechts-
+extreme Erscheinungsformen und Vorfälle in deutschen Polizeibehörden. Allein 
+2019 soll es journalistischen Recherchen zufolge zu „mehr als 200 Fälle[n] mit 
+rechtsextremem Hintergrund in der deutschen Polizei“ gekommen sein.3 Vor-
+kommnisse auf verschiedensten Organisationsebenen sind aus vielen Bundes-
+ländern und von Bundespolizeibehörden berichtet worden: Auszubildende im 
+mittleren Dienst und Studierende des gehobenen Dienstes an den Polizeifach-
+hochschulen der Länder traten genauso in Erscheinung wie Angehörige aus 
+Landeskriminalämtern, von Spezialeinsatzkräften oder ganz normaler Polizei-
+dienststellen. Zuletzt rückte sogar die Polizei des Deutschen Bundestages in 
+den Fokus kritischer Berichterstattung.4 Neben Presseberichten liegen aus 
+kritischer Perspektive einige z. T. umfangreiche aktuelle publizistische Arbeiten 
+vor.5 Generell lässt sich festhalten, dass „der Umfang des Phänomens ‚Rechts-
+extremismus in der Polizei‘ gegenwärtig nicht datenfundiert eingegrenzt werden 
+kann“6. Dennoch dürfte bei aller Unterschiedlichkeit der jeweils skandalisierten 
+Begebenheiten mittlerweile klar sein: Von einer bloßen Häufung von „Einzel-
+fällen“ lässt sich kaum mehr sprechen. Zu Recht spricht Hans-Gerd Jaschke 
+von „Alarmsignalen[n], die […] nach Erklärungen verlangen“7. Thomas Feltes 
+und Holger Plank rechneten – mit Blick auf entsprechende und weit verbreitete 
+
+1 Kiesel (2019).
+2 Kempen (2021a); Speit (2021).
+3 Jaschke (2021), S. 22 m.w.N.
+4 Augustin und Erb (2021).
+5 Laabs (2021); Kempen (2021b).
+6 Expertenkommission Hessen (2021), S. 31.
+7 Jaschke (2021), S. 32.
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 129
+
+Relativierungen – zudem vor, was es bedeute, wenn 99 % aller Polizeivollzugs-
+bediensteten auf dem Boden des Grundgesetzes stehen: „Rechnet man mit dieser 
+Annahme, dann wären es dennoch bei annähernd 280.000 Polizeibeamt*innen in 
+Deutschland rund 2.800, die Grenzen überschreiten.“8 Angesichts der Tatsache, 
+dass diese Personen sowohl Zugang zu sensiblen Daten, als auch zu Waffen 
+haben und überdies über „taktische und operative Kenntnisse“ verfügen, wird 
+deutlich, dass „hieraus eine erhebliche Gefahr für den Staat und die Gesellschaft“ 
+entsteht.9
+
+1 L agebilder, Zahlen, Definitionen
+
+Das Bundesamt für Verfassungsschutz kommt 2020 in einem Lagebild zu 
+naturgemäß weit niedrigeren Zahlen, da dieses nur „solche Sachverhalte“ berück-
+sichtigt, „aufgrund derer im Zeitraum vom 01. Januar 2017 bis zum 31. März 
+2020 dienst- und arbeitsrechtliche Maßnahmen oder Verfahren wegen des Ver-
+dachts von rechtsextremistischen Einstellungen oder Verhaltensweisen eingeleitet 
+wurden“.10
+
+Das berücksichtigt also nur das ausgesprochene Hellfeld, also die Vorfälle, die 
+a) den Behördenleitungen überhaupt bekannt wurden bzw. so eingestuft worden 
+sind, und bei denen b) seitens der Behördenleitungen arbeits-, disziplinar- oder 
+beamtenrechtliche Schritte bzw. Strafermittlungen eingeleitet worden sind.
+
+„Zu den 319 Verdachtsfällen wurden insgesamt 303 Verfahren eingeleitet. Es 
+wurden. 237 disziplinarrechtliche Verfahren (78 %), 48 Verfahren mit dem Ziel der 
+Entlassungen/Nichternennungen in das Beamtenverhältnis auf Probe (16 %) sowie 
+18 arbeitsrechtliche Maßnahmen (6 %) eingeleitet. In dem genannten Zeitraum 
+wurden zudem 261 strafrechtliche Verfahren eingeleitet.“11 Interessant ist bei diesen 
+Zahlen, die sich übrigens summarisch auf alle Sicherheitsbehörden der Bundes-
+länder – also auch der Verfassungsschutzämter bzw. -abteilungen – beziehen, noch, 
+dass es überwiegend um „sonstige[n] rechtsextremistischen Handlunge[n] (68 %)“ 
+geht. „Darunter zählt etwa der Austausch von Chatnachrichten mit verfassungs-
+feindlichen Symbolen oder Äußerungen mit verfassungsfeindlichem Inhalt.“ 
+
+8 Feltes und Plank (2021), S. 4.
+9 Goertz (2021), S. 326.
+10 Bundesamt für Verfassungsschutz (2020), S. 11.
+11 Bundesamt für Verfassungsschutz (2020), S. 13.
+
+
+
+130 C. Kopke
+
+In nur sehr wenigen Verfahren ging es um Mitgliedschaft in oder Kontakten zu 
+einer rechtsextremen Organisation.12
+
+Doch was heißt das eigentlich, „Rechtsextremismus in der Polizei“? Von 
+welchem Begriff von „Rechtsextremismus“ wird ausgegangen? Geht es um 
+das Vorhandensein oder die Verbreitung entsprechender Haltungen und Ein-
+stellungen? Geht es um Mitgliedschaft in Organisationen, die vom Verfassungs-
+schutz als rechtsextremistisch eingestuft sind? Oder geht es um Handlungen und 
+zielgerichtete Organisationsversuche, etwa um Bildung entsprechender Zellen 
+und Netzwerke?13 Polizeiintern werden entsprechende Vorkommnisse offenbar 
+zusätzlich noch nach „Handlungsformen: Digital und analog“ aufgeschlüsselt.14
+
+Das Problem beginnt schon mit der Begrifflichkeit. Der Begriff „Rechts-
+extremismus“ umfasst viele Ebenen, ist in Teilen umstritten und wird sehr 
+unterschiedlich definiert. Seine Alltagsverwendung ist nicht deckungsgleich 
+mit der der Sicherheitsbehörden und den in der Wissenschaft vorzufindenden 
+Definitionen und Definitionsangeboten.
+
+Wenn man von dem in den Sicherheitsbehörden allgemein verwendeten ver-
+gleichsweise engen Extremismusbegriff ausgeht, der als vermeintliche Hauptziel-
+richtung des Rechtsextremismus die Ablehnung der FDGO ausmacht, wird man 
+hier vor allem Bedienstete in den Blick nehmen, die eindeutig rechtsextremen 
+Vereinigungen, Parteien oder sonstigen Gruppierungen angehören oder mit diesen 
+offen sympathisieren. Zwar gab es in der Vergangenheit immer wieder einzelne 
+Suspendierungen und Entlassungen, darunter zum Teil relativ prominente 
+„Einzelfälle“ wie der 1976 aus dem baden-württembergischen Polizeidienst ent-
+lassene NPD-Politiker Jürgen Schützinger15, man wird aber insgesamt eher doch 
+von wenigen Fällen ausgehen müssen.
+
+Es wird der Sache aber kaum gerecht, nur die im eigentlichen Sinne neo-
+nationalsozialistischen Positionen in den Blick zu nehmen. Überhaupt, darauf hat 
+unlängst Alexander Bosch hingewiesen, könne „ein zu stark an der juristischen 
+Praxis orientierter Begriff von Rechtsextremismus […] den Blick“ verzerren und 
+„zu einer Engführung bei der Problemanalyse“ führen.16 Schließlich geht es nicht 
+
+12 Bundesamt für Verfassungsschutz (2020), S. 13 f.
+13 Dazu ausführlich Jaschke (2021).
+14 So z. B. Stabsstelle Rechtsextremistische Tendenzen in der Polizei NRW (2021), Bd. 2, 
+S. 72.
+15 Mecklenburg (1996), S. 527.
+16 Bosch (2020), S. 170.
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 131
+
+allein um straf- und disziplinarrechtlich relevante Vorkommnisse. Eine solche 
+Engführung, so ließe sich vermuten, könne auch die Zahlen des „Lagebildes“ 
+des BfV erklären. Der inzwischen vorliegende Abschlussbericht der hessischen 
+„Experten-Kommission Verantwortung der Polizei in einer pluralistischen 
+Gesellschaft“ orientiert sich an einem sozialwissenschaftlichen Rechtsextremis-
+musbegriff, wie er in den sogenannten „Mitte-Studien“ Verwendung findet: 
+„,Rechtsextremismus‘ wird in diesem Zusammenhang auf der Einstellungsebene 
+als Muster verstanden, ‚dessen verbindendes Kennzeichen Ungleichwertigkeits-
+vorstellungen darstellen‘, die einerseits auf der politischen Ebene (Befürwortung 
+diktatorischer Regierungsformen, chauvinistische Einstellungen, Verharm-
+losung oder Rechtfertigung des Nationalsozialismus) und andererseits auf der 
+sozialen Ebene (antisemitische, ausländerfeindliche und sozialdarwinistische 
+Einstellungen) nachzuweisen sind.“17 Der jüngst vorgelegte Bericht der „Sonder-
+kommission zu institutionellem Antisemitismus, Rassismus und Fremdenfeind-
+lichkeit in der Landespolizei Sachsen-Anhalt vom März 2021“ konnte zwar 
+keine „Hinweise auf institutionellen, das heißt durch gesellschaftliche oder 
+institutionelle Strukturen bedingten Antisemitismus, Fremdenfeindlichkeit oder 
+Rassismus“ feststellen, bemängelte aber die Verbreitung von antisemitischen 
+Klischees und rassistischen Bezeichnungen für einzelne Gruppen. Die Sonder-
+kommission habe „die Überzeugung gewonnen, dass die unbefangene Ver-
+wendung antisemitischer Stereotype wie ‚Jude‘ für eine ‚geschäftstüchtige‘ 
+Person, ‚Faschistendienstag‘ für die gezielte Kontrolle von Ausländern oder auch 
+‚Kanacke‘ oder ‚Neger‘ für Ausländer und Schwarze verbreitet ist“18.
+
+2 R echtsextremismus in der Polizei – Eine Frage der 
+Einstellungen?
+
+Viele Diskussionen und Spekulationen in letzter Zeit drehten sich also vor-
+rangig um die Frage, wie verbreitet rechtsextreme Einstellungen innerhalb der 
+Polizei und weiterer Sicherheitsbehörden sind und ob, bzw. wie sich diese in 
+irgendeiner Form messen lassen können. Die Diskussion über das Vorhanden-
+sein rechtsextremer, xenophober oder rassistischer Einstellungen innerhalb der 
+
+17 Expertenkommission Hessen (2021), S. 22.
+18 Sonderkommission zu institutionellem Antisemitismus, Rassismus und Fremdenfeind-
+lichkeit in der Landespolizei Sachsen-Anhalt (2021), S. 133.
+
+
+
+132 C. Kopke
+
+Polizei ist allerdings nicht neu. Sie wurde in den vergangenen Jahren und Jahr-
+zehnten immer wieder geführt. Meist waren es bestimmte medial bekannt 
+gewordene Skandale, Vorkommnisse und Vorfälle, die entsprechende Debatten 
+befeuerten. Hier ist vor allem an die frühen 1990er-Jahre zu erinnern. Denn die 
+ersten Jahre nach der deutschen Wiedervereinigung waren auch geprägt von der 
+Entgrenzung und Popularisierung menschenfeindlicher Einstellungen in weiten 
+Teilen der Gesellschaft sowie einer Welle schwerer rechtsmotivierter Gewalt-
+taten und Anschläge. Konfrontiert mit massiver Fremdenfeindlichkeit und Rassis-
+mus, einer schon während des Zerfalls der DDR entstandenen rechtsextremen 
+Jugendszene, die sich zunächst vor allem in Ostdeutschland rasch ausbreitete19 
+und einem sprunghaften Anstieg schwerer Gewalttaten20, wirkten Einsatzkräfte 
+(vor allem die in dieser Zeit im Auf- und Umbau befindliche Polizei der neuen 
+Bundesländer) in vielen Fällen sichtlich überfordert.21 Durch umstrittene Ein-
+sätze, taktische Fehleinschätzungen und mangelnde Präsenz bei pogromartigen 
+Krawallen usw. stand die Polizei wiederholt in der öffentlichen Kritik. Das 
+betraf keinesfalls nur die ostdeutsche Polizei. Kritische Stimmen führten die 
+zu beobachtenden „polizeilichen Verhaltensmuster“ auch auf die Beharrlich-
+keit alter Feindbilder und neuer Stereotype zurück: So sei das polizeiliche Ver-
+sagen – etwa in Rostock-Lichtenhagen 1992 oder beim ersten erfolgreichen 
+Rudolf-Hess-Marsch 1995 – „die fatale Folge einer jahrzehntelangen Fixierung 
+auf und Konditionierung gegen links. Das alte Feindbild erweist sich als resistent. 
+Verschärfend kommt hinzu, dass die fremdenfeindliche Stimmung in der 
+Bevölkerung sich offenbar rasch und in weiten Teilen innerhalb der traditionell 
+eher konservativ ausgerichteten Polizei durchgesetzt hat.“22
+
+Generell lässt sich festhalten, dass „es nur sehr wenige wissenschaftliche 
+Studien gibt, die rechtsextremistische Tendenzen in der Polizei in den Blick 
+genommen haben“23. Die Frage, inwieweit oder wie weit innerhalb der Polizei 
+selbst fremdenfeindliche und rechtsextreme Einstellungen verbreitet sind, wurde 
+aber bereits in den 1990er-Jahren durch erste Studien aufgegriffen. So unter-
+suchten Sozialwissenschaftlerinnen und Sozialwissenschaftler Zusammenhänge 
+
+19 Vgl. schon zeitgenössisch Wagner (1990).
+20 Für das Beispiel Brandenburg vgl. Kopke (2016, insb. S. 172 ff.).
+21 Jaschke (1994).
+22 Gössner (1996), S. 840.
+23 Stabsstelle Rechtsextremistische Tendenzen in der Polizei NRW (2021), Bd. 1, S. 14. 
+Vgl. dazu auch Schiemann (2021).
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 133
+
+zwischen Belastungssituationen im polizeilichen Alltag und rechten Grund-
+haltungen sowie zwischen individuellen Einstellungen von Beamtinnen und 
+Beamten und deren Verbreitung innerhalb der Behörden. Mit Blick auf die in 
+dieser Zeit durchgeführten Studien und Untersuchungen unterschied der Sozial-
+wissenschaftler Frank Gesemann vier maßgebliche Forschungsansätze:
+
+• Der erste Forschungsansatz konzentrierte sich auf individuelle Einstellungen 
+von Polizeibeamt:innen und versuchte mit Hilfe von Befragungen, die 
+Verbreitung fremdenfeindlicher und rechtsextremer Einstellungen und 
+Orientierungsmuster in der Polizei zu ermitteln.
+
+• Im zweiten Ansatz wurde ein möglicher Zusammenhang zwischen polizei-
+lichen Belastungen und Fremdenfeindlichkeit in der Polizei im städtischen 
+Raum untersucht.
+
+• Der Dritte widmet sich der Analyse des Einflusses von Risikokonstellationen 
+im Polizeialltag auf das Verhältnis von Polizei und „Fremden“. Damit ver-
+bunden war die Frage, ob spezifische Risikokonstellationen zum Entstehen 
+fremdenfeindlicher Aktivitäten bei Polizeibeamt:innen beitragen.
+
+• Im vierten Forschungsansatz wurde in Abgrenzung zu den persönlich-
+keitsbezogenen Ansätzen, die eine individuelle Diskriminierung von 
+Fremden durch Polizeibeamt:innen in den Blick nehmen, Ethnizität als dis-
+kriminierendes Selektionskriterium von Organisationen betrachtet.24
+
+Große Resonanz erhielt das von der damaligen Polizei-Führungsakademie 
+(PFA) – der heutigen Deutschen Hochschule der Polizei – in Münster-Hiltrup in 
+Auftrag gegebene Forschungsprojekt „Polizei und Fremdenfeindlichkeit“, dessen 
+Titel von den beauftragten Wissenschaftler:innen wenig später zur Fragestellung 
+„Fremdenfeindlichkeit in der Polizei?“ präzisiert wurde.25 In der 1996 veröffent-
+lichten Studie wurden Erfahrungen und Sichtweisen von Polizeibeamtinnen und 
+-beamten im Umgang mit ethnischen Minderheiten erfasst und umfassend aus-
+gewertet. Die Ergebnisse verwiesen zwar auf „einen deutlichen Zusammenhang 
+zwischen alltäglichen Belastungen und Überforderungen im Dienst, die die 
+Gefahr von Übergriffen erhöhen“26, brachten jedoch keine Ergebnisse hervor, die 
+pauschale Rückschlüsse zuließen, um der Polizei strukturell oder systematisch 
+
+24 Gesemann (2003), vgl. auch Asmus und Enke (2016), S. 11 f.
+25 Polizei-Führungsakademie (1996).
+26 Bornewasser (1996), S. 16.
+
+
+
+134 C. Kopke
+
+Fremdenfeindlichkeit zu attestieren. Dies führte zu widersprüchlichen Urteilen 
+innerhalb und außerhalb der Polizei, die von positiven („sehr realistisch“) bis hin 
+zu negativen Beurteilungen („eine weitere pauschale Diffamierung der Polizei“, 
+„eine Bagatellisierung und Entschuldigung polizeilicher Übergriffe“) reichten.27
+
+Im Verlauf der wissenschaftlichen Auseinandersetzung kam es zu einer 
+Erweiterung des kritischen Blicks. Fortan stand auch die Interaktion der Polizei 
+mit Teilen der Gesellschaft im Fokus. Vermehrt wurden nun beide Perspektiven 
+analysiert – die der Beamtinnen und Beamten und die ihres Gegenübers. Bis zu 
+diesem Zeitpunkt hatte sich die deutsche Polizeiforschung in erster Linie auf 
+Einstellungen und Orientierungsmuster von Angehörigen der Polizei sowie auf 
+institutionelle Anpassungsprozesse konzentriert. Das Interaktionsgeschehen etwa 
+zwischen Polizei und Minderheiten war dabei „kaum, und wenn, dann lediglich 
+einseitig aus der polizeilichen Perspektive betrachtet“ worden.28 Eine weitere 
+Verschiebung und gleichzeitige Differenzierung der Debatte bildet die in den 
+letzten Jahren vermehrt geführte Auseinandersetzung über institutionellen Rassis-
+mus und „Racial Profiling“ Generell kann zunächst festgehalten werden, dass 
+„unzulässiges Racial Profiling rechtsextremistische Hintergründe haben“ kann, 
+aber nicht zwingend haben muss.29 Bei „Racial Profiling“ handelt es sich um eine 
+polizeiliche Kontrollpraxis, „bei der ohne konkrete Indizien für einen Verdacht das 
+äußere Erscheinungsbild, etwa die Hautfarbe oder andere sogenannte ethnische 
+Merkmale, als Entscheidungsgrundlage für bestimmte polizeiliche Maßnahmen 
+herangezogen wird. Den kontrollierten Personen werden pauschal bestimmte 
+polizeilich relevante Verhaltensmuster zugeschrieben.“30 Eng verbunden mit 
+der kritischen Diskussion um Racial- bzw. Ethnic Profiling ist der Vorwurf der 
+Existenz eines „institutionellen Rassismus“ in den Polizeibehörden. Schon in den 
+1990er Jahren wurde über institutionellen Rassismus in der deutschen Polizei dis-
+kutiert. Dies geschah jedoch fast ausschließlich in kritischen Teilen der Öffentlich-
+keit und kaum innerhalb der polizeilichen Institutionen. Eine erste große Studie 
+untersuchte 2010 empirisch, ob auch für die deutsche Polizei von institutionellem 
+Rassismus als einem stabilen Phänomen gesprochen werden könne.31 Die Wissen-
+schaftlerinnen und Wissenschaftler stellten fest, dass in allen Gesprächen mit 
+
+27 Eckert (1996), S. 162.
+28 Asmus und Enke (2016), S. 16.
+29 Schiemann (2021), S. 5.
+30 Asmus und Enke (2016), S. 23.
+31 Hunold et al. (2013).
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 135
+
+Polizeiverantwortlichen diskriminierendes Verhalten abgelehnt werde und man 
+sich keiner Benachteiligung von bestimmten Personengruppen bewusst sei. Die 
+Autorinnen und Autoren der Studie bezweifelten die Glaubhaftigkeit dieser Aus-
+sage zwar nicht, gaben jedoch zu bedenken, „dass es dabei gar nicht ‚um den Vor-
+wurf bösabsichtlichen Handelns‘ geht, sondern darum, dass diskriminierendes 
+Verhalten von Polizeibeamten gegenüber gesellschaftlichen Randgruppen ‚ganz 
+überwiegend nicht explizit und intentional, sondern durch die vorhandenen 
+Strukturen und Regelungen, also implizit und kaum merklich‘ geschieht“.32
+
+Auch weitere aktuelle Veröffentlichungen zu Racial Profiling und 
+institutionellem Rassismus widmen sich kritisch der polizeilichen Praxis. In 
+ihren Analysen gehen die Autorinnen und Autoren einem strukturellen Rassis-
+mus nach, der aufgrund gesamtgesellschaftlicher Zustände in den Institutionen 
+„eingeschrieben ist, also sich in deren Praxen und Anordnungen systematisch 
+organisiert“33. Auch die Frage, inwieweit institutioneller Rassismus eine Rolle 
+beim Nichtentdecken der Mord- und Terrortaten des sogenannten National-
+sozialistischen Untergrundes eine Rolle gespielt hat, ist in den zahlreichen 
+parlamentarischen NSU-Untersuchungsausschüssen breit erörtert worden. 
+Bezogen auf das Versagen von Polizei und Nachrichtendiensten bei den 
+Ermittlungen zur NSU-Anschlags- und Mordserie fand der erste Untersuchungs-
+ausschuss des Deutschen Bundestages fraktionsübergreifend deutliche Worte. Er 
+konstatierte „schwere behördliche Versäumnisse und Fehler sowie Organisations-
+mängel bis hin zum Organisationsversagen bei Behörden von Bund und Ländern 
+vor allem bei Informationsaustausch, Analysefähigkeit, Mitarbeiterauswahl und 
+Prioritätensetzung“34. Um einiges schärfer formulierte die Menschenrechts-
+organisation Amnesty International: „Der Unwillen der deutschen Polizei, dem 
+mutmaßlichen rassistischen Hintergrund der Morde angemessen nachzugehen, 
+[…] deutet auf einen zugrunde liegenden institutionellen Rassismus hin. Das 
+soll nicht heißen, dass einzelne Polizeibeamt_innen […] selbst Rassist_innen 
+waren oder die Behörden […] rassistische Methoden anwendeten, sondern dass 
+die Behörden als Institution ihrer Pflicht nicht nachgekommen sind, Menschen 
+ungeachtet ethnischer Zugehörigkeiten oder rassistischer Zuschreibungen gleich 
+zu behandeln.“35 Die Debatte hatte 2020 auch unter dem Eindruck tödlicher 
+
+32 Hunold et al. (2013), S. 13.
+33 So etwa Friedrich und Mohrfeldt (2013), S. 197.
+34 Deutscher Bundestag (2013), S. 832.
+35 Amnesty International (2016), S. 21 f.
+
+
+
+136 C. Kopke
+
+rassistisch motivierter Polizeigewalt in den USA hier deutlich an Fahrt auf-
+genommen.
+
+In der öffentlichen Debatte nahm 2020/2021 die Frage der Notwendig-
+keit einer breit angelegten Einstellungsstudie („Rassismusstudie“) innerhalb 
+der Polizei breiten Raum ein. Befürworter:innen sehen hierin einen Schlüssel 
+zum Verständnis des Phänomens „rechtsextremistischer Vorfälle in der Polizei“; 
+Kritiker:innen warnten vor Vorverurteilung und der Stigmatisierung einer ganzen 
+Berufsgruppe. Inzwischen haben sowohl der Bund, als auch einige Länder ent-
+sprechende Studien veranlasst oder in Auftrag gegeben.
+
+3 R echtsruck in der Gesellschaft: Die extreme 
+Rechte im Aufwind
+
+Klar scheint: Die Art und Weise der gesellschaftlichen Auseinandersetzungen 
+etwa um die Fragen von Sicherheit, Migration oder Globalisierung haben auch 
+Wirkungen auf Haltungen innerhalb der Polizei. Zu erörtern wäre, welche Aus-
+wirkungen der in Teilen der bundesdeutschen Gesellschaft zu beobachtende 
+gegenwärtige Rechtsruck auf die Sicherheitsbehörden und die Polizeiorganisation 
+jeweils genau hat. Aus dem bisher Gesagten ist abzuleiten, dass Polizeivoll-
+zugsbedienstete für autoritäre ordnungspolitische Positionen offenbar eher 
+empfänglich sind als andere Berufsgruppen. Geht man davon aus, dass unter 
+Polizeibeamt:innen konservative Parteien vergleichsweise mehr Zustimmung 
+erfahren, als andere, stellt sich die Frage, wie die Situation zu bewerten ist, wenn 
+diese Parteien sich zu rechtsextremen Parteien wandeln. Diese Frage stellte sich 
+in den 1980er Jahren bei der Partei DIE REPUPLIKANER und sie stellt sich 
+aktuell bei der Alternative für Deutschland (AfD). Beide Parteien entstanden 
+maßgeblich am rechten Rand der Union und radikalisierten sich in der Folge 
+nach rechts und beiden Parteien wurde und wird eine vergleichsweise große 
+Zustimmung innerhalb der Sicherheitsbehörden nachgesagt.
+
+Für eine erhöhte Präferenz der AfD innerhalb der Polizei spricht die über-
+durchschnittliche Repräsentanz von Polizeiangehörigen in den Parlaments-
+fraktionen der Rechtsaußenpartei.36 Allein in der Bundestagsfraktion der AfD der 
+vergangenen Legislaturperiode befinden sich sieben freigestellte oder ehemalige 
+Polizeibeamte. Unter den von der AfD in den Bundestag bzw. in die Länder-
+parlamente entsandten Parlamentariern finden sich Polizeibeamte verschiedener 
+
+36 Jaschke (2021), S. 26; ausführlich Hock und Naumann (2019).
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 137
+
+Dienstränge vom einfachen „Vollzugsbeamten bis hin zu dem Rang eines 
+Kriminaloberrats“37. Die in der AfD organisierten Polizeivollzugsbediensteten 
+sehen sich dabei freilich selbst als letzte verbliebene parlamentarische Für-
+sprecher einer von allen Seiten angefeindeten Behörde.38 Traditionell bezieht 
+sich die extreme Rechte – trotz klarer Frontstellung gegen den menschenrechts-
+orientierten demokratischen Verfassungsstaat oder die Republik und trotz Auf-
+stands- und Umsturzrhetorik – positiv auf den Staat als Ordnungssystem und 
+Machtmittel. Dies lässt sich auch bei der AfD beobachten, die es schafft, einer-
+seits die fehlende Rückendeckung und den mangelnden Respekt für die Polizei 
+zu beklagen und andererseits tagtäglich an der Demontage des Vertrauens in die 
+staatlichen Institutionen mitzuwirken.
+
+Man wird sehen, wie sich der Umgang der Behördenleitungen mit der AfD 
+zugehörigen Polizeivollzugsbediensteten entwickeln wird, gerade weil der-
+zeit kaum davon auszugehen ist, dass irgendwelche „gemäßigten Kräfte“ inner-
+halb der Partei die weitere rechtsextreme Ausrichtung der AfD werden stoppen 
+können. Es ist eher davon auszugehen, dass die Partei dauerhaft und flächen-
+deckend von den Verfassungsschutzbehörden beobachtet wird. Bemerkenswert ist 
+die inzwischen erfolgte klare Positionierung der Gewerkschaft der Polizei (GdP) 
+in dieser Frage, die eine gleichzeitige Mitgliedschaft in GdP und AfD als für 
+nicht vereinbar beschloss.39
+
+4 R echtsextremistische Bestrebungen oder: 
+Netzwerke, Seilschaften, Cliquen?
+
+Jenseits der Fragen, welche Verbreitung rechtsextreme Gesinnungen in der 
+Polizei haben und auch nicht deckungsgleich mit der Frage von Parteizuge-
+hörigkeiten einzelner Beamt:innen ist ein anderer Aspekt von grundsätzlicher 
+Relevanz: Gibt es Anzeichen einer rechtsextremen Netzwerkbildung im Sinne 
+
+37 Hock und Naumann (2019), S. 50.
+38 Vgl. die entsprechenden Texte und Selbstauskünfte in Berg et al. (2020).
+39 „Die GdP stellt sich der AfD entschieden entgegen. Die Ziele, Positionen, Grundsätze 
+und Werte der GdP sind mit denen der Partei Alternative für Deutschland (AfD) unver-
+einbar. Die Positionen und Meinungen der AfD widersprechen dem freiheitlich-demo-
+kratischen, rechtsstaatlichen und die öffentliche Sicherheit bewahrenden Selbst- und 
+Rollenverständnis von Polizeibeschäftigten, das von der GdP vertreten und geteilt wird.“ 
+Zitat aus GdP (2021).
+
+
+
+138 C. Kopke
+
+proaktiver Organisationsversuche innerhalb der Polizei? Gibt es eine gezielte 
+Infiltration deutscher Polizeibehörden durch rechtsextreme Gesellungen? 
+Existieren konspirativ arbeitende, abgeschottete „Zellen“ innerhalb der Polizei, 
+die mit Gruppen und Personen der extremen Rechten außerhalb interagieren?
+
+Die bekannt gewordenen Vorkommnisse – etwa die aufgedeckten Umsturz-
+planungen („Tag X“) des Hannibal-Netzwerkes – zeigen, dass es erste Ansätze 
+solcher Phänomene gibt. Es lassen sich aber bislang keinerlei valide Aussagen 
+machen, inwieweit diese Erscheinungen absolute Ausnahmefälle darstellen oder 
+ob hier im Verborgenen weitere Strukturen existieren, bzw. im Aufbau befindlich 
+sind. Journalistische Aufarbeitungen zeigen einerseits plausibel, dass „die Frage 
+danach, wie tief eine rechtsextreme Vernetzung in der Polizei reicht, […] noch 
+immer unbeantwortet – und auch juristisch keineswegs aufgearbeitet [ist]“40 und 
+legen anderseits nahe, dass die Ermittlungsbehörden größeres Aufsehen bis hin 
+zum „Staatsskandal“ zu vermeiden suchten41.
+
+Folgt man den Schlussfolgerungen des Lagebildes der „Stabsstelle Rechts-
+extremistische Tendenzen in der Polizei NRW“ so sind „konspirative und hand-
+lungsorientierte rechtsextremistische Netzwerke nicht nachweisbar“. Die in 
+den als „innerdienstliche ‚Gesinnungsgemeinschaften‘“ charakterisierten Chat-
+gruppen als „dominierende Inhalte“ ausgemachten „typische[n] Merkmale des 
+Rechtsextremismus“ bildeten „sich in dieser Kombination und Konzentration 
+realweltlich nicht ab“.42 Mag der Befund aus Behördensicht für NRW zutreffen, 
+sind doch erhebliche Zweifel an dieser Lesart angebracht. Zumindest „weisen 
+die zahlreichen aufgedeckten Gruppen auf ein bedrohliches Potenzial hin, das in 
+dieser Deutlichkeit nie zuvor dokumentiert war“43.
+
+Grundsätzlich existieren in Sicherheitsbehörden unterschiedliche Formen 
+informeller Strukturen. Diese wären organisationssoziologisch stärker in den 
+Blick zu nehmen: „Es ist noch immer zu wenig bekannt über interne und 
+informelle Gruppenbildungsprozesse in den Sicherheitsbehörden. Welcher Mit-
+arbeiter und welche Mitarbeiterin schließt sich aus welchen Gründen welcher 
+internen Gruppe an? Lassen sich solche Gruppen klassifizieren nach bestimmten 
+Kriterien wie etwa politisch/unpolitisch, freizeitbezogen/dienstbezogen und 
+
+40 Kempen (2021b), S. 62.
+41 Laabs (2021); Kempen (2021b).
+42 Stabsstelle Rechtsextremistische Tendenzen in der Polizei NRW (2021), Bd. 1, S. 32.
+43 Kempen (2021b), S. 38.
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 139
+
+ Ähnlichem. Hierbei wäre ein zentrales erkenntnisleitendes Forschungsinteresse, 
+ob es Andockpunkte gibt für rechtsextreme Orientierungsmuster“, so zusammen-
+fassend Hans-Gerd Jaschke in einem aktuellen Aufsatz.44
+
+5 F azit und Ausblick
+
+Auch wenn die Kette von Vorfällen nicht abzureißen scheint, lässt sich doch ein 
+gewisser Wandel im Umgang mit der Problematik in der Polizei feststellen: „In 
+den 1990er Jahren ist das Problem verharmlost […], auch tabuisiert worden.“ 
+Seit der Jahrtausendwende, ist „das Problembewusstsein gestiegen, […] als klar 
+wurde, Polizei muss mit dem Thema Rechtsextremismus auch in den eigenen 
+Reihen sehr viel sensibler umgehen“45. Grundsätzlich wird man aber davon aus-
+gehen müssen, dass eine erhöhte Sensibilisierung auch innerhalb der Behörden 
+für eine verstärkte Sichtbarkeit des Problems gesorgt hat. Schließlich sind nicht 
+alle der „Chatgruppen“ zufällig aufgeflogen, sondern oft sorgten interne Hinweise 
+und Anzeigen aus der jeweiligen Behörde für entsprechende Ermittlungen.
+
+Insgesamt gibt es inzwischen zahlreiche Bemühungen, innerhalb der Polizei-
+behörden politische, historisch-politische und interkulturelle Bildung zu ver-
+stärken.46 Diese Bildungsmaßnahmen zielen zum Teil darauf ab, das Wissen um 
+Rechtsextremismus zu verbessern sowie die Toleranz und sozial respektive inter-
+kulturelle Kompetenz der Polizistinnen und Polizisten zu stärken. Generell ist seit 
+den 2000er-Jahren das „Bemühen unverkennbar, Fremdenfeindlichkeit bei der 
+Polizei zunehmend offensiver anzugehen“47.
+
+Grundsätzlich besteht seit Jahren ein empirisches Forschungsdesiderat: Die 
+meisten validen sozialwissenschaftlichen Untersuchungen zu rechten bis rechts-
+extremen Einstellungen unter Polizistinnen und Polizisten stammen aus den 
+1990er-Jahren, neuere Untersuchungen gibt es kaum. Auch ist die strukturelle 
+Dimension des Problems noch zu wenig im Blick: Denn „die Forschung zu 
+Rassismus und Rechtsextremismus und Polizei, das haben Daniela Hunold und 
+Maren Wegner gezeigt, beschäftigt sich überwiegend mit Fragen innerpolizei-
+licher Einstellungsmuster […]. Wenn Rassismus aber an Herrschaft und subtile 
+
+44 Jaschke (2021), S. 33 f.
+45 Zit. nach Knipper (2018).
+46 Vgl. u. a. Kopke und Kuschewski (2021).
+47 Heuer (2009), S. 68.
+
+
+
+140 C. Kopke
+
+Formen von Macht gekoppelt ist, dann wird Rassismus nicht nur von einzelnen 
+Personen praktiziert und verbreitet, sondern reproduziert sich in den Alltags-
+praxen der Einzelnen und auch der (sicherheitsbehördlichen) Institutionen. Dieser 
+Aspekt wurde aber bisher kaum rassismuskritisch untersucht.“48
+
+Man muss kein Prophet sein, um davon auszugehen, dass uns die Problematik 
+weiter beschäftigen wird. Die inzwischen in einzelnen Ländern eingeleiteten 
+Maßnahmen, dem Rechtsextremismus in den Behörden entgegenzuwirken, sind 
+zwar sinnvoll, verbleiben aber vorrangig auf dem Gebiet der individuellen Ein-
+stellungsmuster einzelner Beamtinnen und Beamter. Das löst nicht das Problem, 
+wie mit den Polizeivollzugsbediensteten umzugehen ist, die sich bewusst und 
+proaktiv extrem rechten Inhalten zuwenden und in entsprechenden Kontexten 
+vernetzt sind. Und es erspart auch nicht die Debatte darüber, welche strukturelle 
+Rahmenbedingungen und Vorgaben Rechtsextremismus bei der Polizei ermög-
+lichen oder gar befördern.
+
+Literatur
+
+Amnesty International (2016). Leben in Unsicherheit. Wie Deutschland die Opfer 
+rassistischer Gewalt im Stich lässt. London.
+
+Asmus, H. J., & Enke, T (2016). Der Umgang der Polizei mit migrantischen Opfern. Eine 
+qualitative Untersuchung. Wiesbaden: Springer VS.
+
+Augustin, K., & Erb, S. (2021). Hitlergruß im Reichstag. taz. https://taz.de/Rechtsextreme-
+bei-der-Bundestagspolizei/!5777254/. Zugegriffen: 18. Juli 2022.
+
+Berg, L. P., Hess, M., & Wippel, S. (Hrsg.) (2020). Warum Polizisten AfD wählen. Bad 
+Schussenried: Gerhard Hess.
+
+Bornewasser, M. (1996). Feindselig oder überfordert? Soziale und strukturelle Belastungen 
+von Polizeibeamtinnen und -beamten im Umgang mit Fremden. In Polizei-Führungs-
+akademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? Ergebnisse einer wissenschaft-
+lichen Studie (S. 16–55). Lübeck: Schmidt-Römhild.
+
+Bosch, A. (2020). Die aktuelle Debatte um Rassismus und Rechtsextremismus in der 
+Polizei. vorgänge. Zeitschrift für Bürgerrechte und Gesellschaftspolitik, 59(3–4), 
+S. 167.
+
+Bundesamt für Verfassungsschutz (2020). Rechtsextremisten in Sicherheitsbehörden. Lage-
+bericht. Köln.
+
+Deutscher Bundestag (2013), Beschlussempfehlung und Bericht des 2. Untersuchungsaus-
+schusses nach Artikel 44 des Grundgesetzes, BT-Drucksache 17/14600, https://dserver.
+bundestag.de/btd/17/146/1714600.pdf. Zugegriffen: 18. Juli 2022.
+
+48 Bosch (2020), S. 172.
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 141
+
+Eckert, R. (1996). Nachwort – Kritische Anmerkungen zu ersten Reaktionen auf die Studie. 
+In Polizei-Führungsakademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? Ergebnisse 
+einer wissenschaftlichen Studie (S. 162–165). Lübeck: Schmidt-Römhild.
+
+Expertenkommission Hessen (2021). Abschlussbericht der Experten-Kommission Ver-
+antwortung der Polizei in einer pluralistischen Gesellschaft. Die gute Arbeit der 
+Polizeibeamten stärken, Fehlverhalten frühzeitig erkennen und ahnden. https://innen.
+hessen.de/sites/innen.hessen.de/files/2021-10/20210712_abschlussbericht_experten-
+kommission.pdf. Zugegriffen: 12. November 2021.
+
+Feltes, T., & Plank, H. (2021). Rassismus und Rechtsextremismus in der Polizei? Ein Bei-
+trag für und über eine „rechtschaffen(d)e“, demokratische (Bürger-)Polizei. https://
+thomasfeltes.de/images/2021_0917_Feltes_Plank_finale_Version.pdf. Zugegriffen: 18. 
+Juli 2022.
+
+Friedrich, S., & Morfeldt, J. (2013). „Das ist normal“ – Mechanismen des institutionellen 
+Rassismus in der polizeilichen Praxis. In Opferperspektive (Hrsg.), Rassistische Dis-
+kriminierung und rechte Gewalt. An der Seite der Betroffenen beraten, informieren, 
+intervenieren (S. 194–203). Münster: Verlag Westfälisches Dampfboot.
+
+Gesemann, F. (2003). „Ist egal ob man Ausländer ist oder so – jeder Mensch braucht die 
+Polizei.“ Die Polizei in der Wahrnehmung junger Migranten. In A. Groenemeyer & J. 
+Mansel (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 203–228). Wiesbaden: VS 
+Verlag für Sozialwissenschaften.
+
+Gewerkschaft der Polizei (2021). GdP Bundesvorstand verabschiedet Unvereinbar-
+keitsbeschluss zur AfD Für eine klare Haltung gegen Hass, Hetze und Gewalt. Keine 
+Zusammenarbeit mit der AfD und anderen rechtspopulistischen, -radikalen und 
+-extremen Organisationen und Gruppen. Pressemitteilung 11/21. https://www.gdp.de/
+gdp/gdprp.nsf/res/11_21_PM_AfD.pdf/file/11_21_PM_AfD.pdf. Zugegriffen: 18. Juli 
+2022.
+
+Goertz, S. (2021). Rechtsextremisten in deutschen Sicherheitsbehörden und Gegenmaßnahmen. 
+Die Polizei, 112(8), S. 321.
+
+Gössner, R. (1996). Zwischen Verharmlosung und Überreaktion. Zum polizeilichen und 
+justiziellen Umgang mit rechter Gewalt und Neonazismus. In J. Mecklenburg (Hrsg.), 
+Handbuch Deutscher Rechtsextremismus (S. 837–864). Berlin: Elefanten Press.
+
+Heuer, H.-J. (2009). Fremde als Belastung und Gefährdung. Zu einigen Bewertungs-
+strategien der 90er Jahre. In K. Liebl (Hrsg.), Polizei und Fremde – Fremde in der 
+Polizei (S. 45–68). Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Hock, A., & Naumann, A. (2019). Die neue Heimat für Law & Order? Soldaten und 
+Polizisten in den AfD-Fraktionen. In M. Meisner & H. Kleffner (Hrsg.), Extreme 
+Sicherheit. Rechtsradikale in Polizei, Verfassungsschutz, Bundeswehr und Justiz 
+(S. 49–56). Freiburg: Herder.
+
+Hunold, D., Klimke, D., Behr, R., & Lautmann, R. (2013). Fremde als Ordnungshüter? 
+Die Polizei in der Zuwanderungsgesellschaft Deutschland. Wiesbaden: VS Verlag für 
+Sozialwissenschaften.
+
+Jaschke, H.-G. (1994). Eine verunsicherte Institution. Die Polizei in der Auseinander-
+setzung mit Rechtsextremismus und Fremdenfeindlichkeit. In W. Heitmeyer (Hrsg.), 
+Das Gewalt-Dilemma. Gesellschaftliche Reaktionen auf fremdenfeindliche Gewalt und 
+Rechtsextremismus (S. 305–339). Frankfurt am Main: Suhrkamp.
+
+
+
+142 C. Kopke
+
+Jaschke, H.-G. (2021). Rechtsextreme Netzwerke in der Polizei und anderen Sicherheits-
+behörden? Ein Problemaufriss. In M.H.W. Möllers & R.C. van Ooyen (Hrsg.), Jahrbuch 
+Öffentliche Sicherheit 2020/2021 (S. 22–34). Baden-Baden: Nomos.
+
+Kempen, A. (2021a). Polizisten auf Coronademonstrationen. Von selbsternannten Wider-
+standskämpfern und vermeintlichen »Merkel-Schergen«. In H. Kleffner & M. Meissner 
+(Hrsg.), Fehlender Mindestabstand. Die Coronakrise und die Netzwerke der Demo-
+kratiefeinde (S. 228–232). Freiburg: Herder.
+
+Kempen, A. (2021b). Auf dem rechten Weg? Rassisten und Neonazis in der deutschen 
+Polizei. München: Europa.
+
+Kiesel, R. (2019). Vorbereitung auf den Tag X. Rechtsextreme Prepper in Mecklenburg-
+Vorpommern. In M. Meisner & H. Kleffner (Hrsg.), Extreme Sicherheit. Rechtsradikale 
+in Polizei, Verfassungsschutz, Bundeswehr und Justiz (S. 39–48). Freiburg: Herder.
+
+Knipper, T. (2018). „Die Fehlerkultur bei der Polizei ist zu schwach ausgeprägt“. Tages-
+spiegel. www.tagesspiegel.de/22978484.html. Zugegriffen: 12. November 2021.
+
+Kopke, C. (2016). Polizei und militanter Neonazismus in Brandenburg. In H. Kleffner & A. 
+Spangenberg (Hrsg.), Generation Hoyerswerda. Das Netzwerk militanter Neonazis in 
+Brandenburg (S. 170–180). Berlin: be.bra.
+
+Kopke, C. (2019). Polizei und Rechtsextremismus. Aus Politik und Zeitgeschichte, 69(21–
+23), S. 36.
+
+Kopke, C., & Kuschewski, P. (2021). Das Kooperationsprojekt „Politische Bildung und 
+Polizei“. In E. Marks & H. Fünfsinn (Hrsg.), Prävention & Politische Bildung. Aus-
+gewählte Beiträge des Präventionstages (S. 229–243). Bad Godesberg: Forum.
+
+Laabs, D. (2021). Staatsfeinde in Uniform. Berlin: Ullstein.
+Mecklenburg, J. (Hrsg.) (1996). Handbuch Deutscher Rechtsextremismus. Berlin: Elefanten 
+
+Press.
+Polizei-Führungsakademie (Hrsg.) (1996). Fremdenfeindlichkeit in der Polizei? Ergebnisse 
+
+einer wissenschaftlichen Studie. Lübeck: Schmidt-Römhild.
+Schiemann, A. (2021). Rassismusvorwürfe in der Polizei und Unschärfen im Diskurs – 
+
+Racial Profiling und Rechtsextremismus. Polizei Info Report, 52(1), S. 2.
+Sonderkommission zu institutionellem Antisemitismus, Rassismus und Fremdenfeindlich-
+
+keit in der Landespolizei Sachsen-Anhalt (2021). Bericht. Landtag von Sachsen-Anhalt, 
+Ausschussdrucksache 7/Inn./186.
+
+Speit, A. (2021). Schwurbelnde Beamte. Verein „Polizisten für Aufklärung“. taz. https://taz.
+de/Verein-Polizisten-fuer-Aufklaerung/!5765487/. Zugegriffen: 18. Juli 2022.
+
+Stabsstelle Rechtsextremistische Tendenzen in der Polizei NRW (2021). Abschlussbericht. 
+2 Bd. Düsseldorf: Ministerium des Innern des Landes Nordrhein-Westfalen.
+
+Wagner, B. (1990). Polizei und Rechtsextremismus. In Stadt Berlin, Magistratsverwaltung 
+für Jugend, Familie und Sport (Hrsg.), Jugend und Rechtsextremismus in Berlin-Ost. 
+Fakten und Gegenstrategien (S. 51–54). Berlin.
+
+Prof. Dr. Christoph Kopke ist Professor für Politikwissenschaft und Zeitgeschichte an 
+der Hochschule für Wirtschaft und Recht, Fachbereich Polizei und Sicherheitsmanagement. 
+Forschungen und Veröffentlichungen u.a. zum gegenwärtigen Rechtsextremismus und zum 
+Nationalsozialismus.
+
+
+
+Rechtsextremismus in der Polizei – Skandale … 143
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

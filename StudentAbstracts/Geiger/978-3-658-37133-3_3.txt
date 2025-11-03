@@ -1,0 +1,941 @@
+﻿Rassismuskritische Polizeiforschung – 
+Eine Spurensuche
+
+Fatoş Atali-Timmer, Karim Fereidooni und Kathrin Schroth
+
+Zusammenfassung
+
+Die Intention dieses Aufsatzes ist die Darstellung der Analyseperspektive der 
+Rassismuskritik, sowie die Diskussion von rassismuskritischen und rassismus-
+kritisch relevanten Studienergebnissen, die sich mit der Polizeiarbeit befassen.
+
+Schlüsselwörter
+
+Rassismus · Rassismuskritik · Diversität · Polizeiarbeit · Ungleichheit
+
+F. Atali-Timmer 
+Center for Migration, Education and Cultural Studies (CMC),  
+Institut für Pädagogik, Fachgruppe Migration und Bildung,  
+Carl von Ossietzky Universität, Oldenburg, Deutschland
+E-Mail: fatos.atali-timmer@uni-oldenburg.de
+
+K. Fereidooni (*) 
+Didaktik der sozialwissenschaftlichen Bildung, Fakultät für Sozialwissenschaft,  
+Ruhr-Universität Bochum, Bochum, Deutschland
+E-Mail: karim.fereidooni@ruhr-uni-bochum.de
+
+K. Schroth 
+Fakultät für Sozialwissenschaft, Ruhr-Universität Bochum, Bochum, Deutschland
+
+© Der/die Autor(en) 2022 33
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_3
+
+
+
+34 F. Atali-Timmer et al.
+
+1  Einleitung
+
+Dieser Beitrag fokussiert zunächst die Genese, Ausprägungsformen und Aus-
+wirkungen der Ungleichheitsstruktur Rassismus hinsichtlich struktureller und 
+individueller Dimensionen, bevor die Analyseperspektive der Rassismuskritik 
+vorgestellt wird, die dazu dient, rassismusrelevante strukturelle sowie individuelle 
+Denk-, Sprech- und Handlungsweisen transparent zu machen. Zudem werden die 
+Begriffe rassismusrelevant und rassismuskritisch relevant als theoretische Ana-
+lysekategorien eingeführt. Ferner werden Forschungsergebnisse diskutiert, die 
+den Anspruch besitzen, rassismusrelevante Aspekte der Institution Polizei zu ana-
+lysieren, bevor die Auseinandersetzung mit Forschungsergebnissen stattfindet, die 
+sich aus einer rassismuskritisch relevanten Perspektive mit der Institution Polizei 
+beschäftigen. Die in diesem Aufsatz vertretene Hypothese lautet: Nicht jede 
+Forschung, die sich mit Rassismus und der Institution Polizei beschäftigt, ist eine 
+rassismuskritische Polizeiforschung.
+
+2 T heoretischer Hintergrund: Rassismus(kritik)
+
+Der biologistische Rassismus hat unterschiedliche menschliche Rassen (weiß, 
+gelb, rot und schwarz) erfunden, um u. a. die Kolonialisierung Schwarzer 
+Menschen zu rechtfertigen, während der Neo- oder Kulturrassismus mit der 
+Unvereinbarkeit bzw. der Höher- und Minderwertigkeit von Kulturen, Sprachen 
+und Religionszugehörigkeiten argumentiert.
+
+Rassismuskritik bedeutet, „zum Thema [zu] machen, in welcher Weise, unter 
+welchen Bedingungen und mit welchen Konsequenzen Selbstverständnisse und 
+Handlungsweisen von Individuen, Gruppen, Institutionen und Strukturen durch 
+Rassismen vermittelt sind und Rassismus verstärken“, und ferner zielt Rassis-
+muskritik darauf ab, „auf Rassekonstruktionen beruhende beeinträchtigende, 
+disziplinierende und gewaltvolle Unterscheidungen zu untersuchen, zu 
+schwächen und alternative Unterscheidungen deutlich zu machen“.1
+
+Die Relevanz rassismuskritischer Kompetenzentwicklung impliziert eine 
+doppelte Entwicklung:
+
+1 Mecheril und Melter (2010), S. 172.
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 35
+
+• Menschen sollen kognitive Kompetenzen erwerben, um rassismusrelevante 
+Sachverhalte zu erkennen und ggf. intervenieren zu können.
+
+• Menschen sollen eine rassismuskritische Handlungskompetenz erwerben, um 
+Rassismus nicht zu (re)produzieren.
+
+Die Zielsetzung der rassismuskritischen Bildung ist das Folgende: Menschen 
+sollen verstehen, wie Differenzkonstruktionen in Vergangenheit und Gegenwart 
+funktionalisiert worden sind bzw. werden, indem sie den folgenden Fragen nach-
+gehen:
+
+• Wann, wie und zu welchem Zweck wurden bzw. werden Menschen zu anders- 
+und fremdartigen, sowie minderwertigen und gefährlichen Wesen gemacht 
+und welche Auswirkung hatte bzw. hat das für diese Menschen bzw. welche 
+Funktion hat das für die gesamte Gesellschaft?
+
+Aus dieser Zielsetzung, resultiert eine komplexe Anforderung an Menschen, 
+die sich mit Rassismuskritik auseinandersetzen möchten: Die Erweiterung ihrer 
+Handlungskompetenz in Bezug auf rassismuskritisches Wissen.
+
+Letztlich trägt die Analysekategorie der Rassismuskritik dazu bei, Antworten 
+auf die folgenden Fragen zu finden:
+
+• Was hat mir Rassismus gebracht, obwohl ich nicht rassistisch sein möchte?
+• Was passiert in meinem Berufs- und Privatleben rassismusrelevantes?
+• Inwiefern befördern Medienprodukte (Zeitungen, Bücher, Filme, Musik, 
+
+Reiseliteratur, Kinderbücher, Schulbücher, Gesetzestexte, Podcasts etc.), die 
+ich konsumiere, rassismusrelevante Wissensbestände?
+
+• Wie kann ich mich gegen Rassismus einsetzen bzw. wie kann ich Rassismus 
+verlernen?
+
+3 F orschungsstand Polizei und Rassismus
+
+Die Forschungslandschaft zu Rassismus bei der Polizei teilt sich heute grob 
+in zwei Schwerpunkte: Einerseits in Bezug auf die individuelle Ebene der 
+Polizist:innen, sowie deren Einstellungen, Arbeitsalltag und die daraus folgenden 
+Herausforderungen. Rassistische Äußerungen und Handlungen werden dabei 
+euphemistisch umgedeutet, vielfach Gründe bei Menschen of Color und 
+Schwarzen Menschen gesucht und Vorfälle als Einzelfälle gewertet. Der zweite 
+Forschungsschwerpunkt liegt auf der strukturellen Ebene von Rassismus in 
+
+
+
+36 F. Atali-Timmer et al.
+
+der Polizei und den davon ausgehenden rassistischen Diskriminierungen von 
+Menschen.
+
+Es gibt keine Statistiken darüber, wie viele Polizist:innen in der BRD rassistische 
+Einstellungen teilen oder teilten.2  Lediglich zivilgesellschaftliche Akteur:innen wie 
+die Kampagne für Opfer rassistischer Polizeigewalt oder die Antidiskriminierungs-
+büros bzw. -stellen in Bund, Ländern und Kommunen erfassen Zahlen und 
+erstellen Statistiken zu vermutlich rassistisch motivierten Handlungen, allerdings 
+ausschließlich aufgrund ihrer eigenen Arbeit.3 Die aktuellsten Daten zu Ein-
+stellungen bei Polizist:innen wurden im Zusammenhang mit dem sogenannten NSU 
+2.0 durch das hessische Innenministeriums im Jahr 2020 im Rahmen einer Studie 
+erhoben: Hierfür wurden 4277 der rund 17.000 Beschäftigten der hessischen Polizei 
+in einer quantitativen Untersuchung zur politischen Selbstverortung befragt. Die 
+Antworten zur politischen Selbstverortung widersprachen dabei teilweise konkreten 
+politischen Selbstverortungen: So verorteten sich zwar 64,6 % der Befragten in der 
+politischen Mitte; aber dennoch stimmten 27,6 % der Aussage zu oder eher zu, dass 
+die Gefahr bestehe, dass Deutschland ein islamisches Land werde. 18,8 % gaben als 
+politische Selbstverortung „mäßig rechts“, 1,6 % „rechts“ und 0,1 % „ausgeprägt 
+rechts“ an. 29 % stimmten der Aussage, dass Einwanderer Deutschland bunter und 
+vielfältiger machen, eher nicht zu.4 16,7 % belastete das häufige diskriminierende, 
+ausgrenzende Verhalten oder Mobbing unter Kolleg:innen, 12,5 % verwiesen auf 
+häufige rassistische Äußerungen der Kolleg:innen.5
+
+2 Eine gesamtdeutsche Studie, die erste umfassende Statistiken hätte erheben können, war 
+kurzzeitig Mitte des Jahres 2020 im Gespräch. Das Bundesinnenministerium vergab dann 
+jedoch eine Studie an die Deutsche Hochschule der Polizei Münster, die den Arbeitsalltag 
+von Polizist:innen in den Fokus rückt. In Großbritannien werden Statistiken erhoben. Dort 
+gibt es demnach für Schwarze Menschen eine drei Mal höhere Wahrscheinlichkeit, von der 
+Polizei kontrolliert zu werdenAntidiskriminierungsbür, vgl. Ministry of Justice, Race and 
+Criminal Justice System Statistics (2012). Für die USA zeigen sich ähnliche Ergebnisse, 
+vgl. Statista (2021).
+3 Vgl. Antidiskriminierungsbüro Köln (2017); Antidiskriminierungsstelle des Bundes 
+(2017); Quent et al. (2014); Kampagne für Opfer rassistischer Polizeigewalt (2016).
+4 Vgl. Hessisches Ministerium des Innern und für Sport (2020), S. 6.
+5 Vgl. Hessisches Ministerium des Innern und für Sport (2020), S. 12 f. Auch bei Studien 
+aus den Jahren 1995 und 1996 durch Marita Lindner vermuteten Studierende bei einem 
+Viertel ihrer bereits im Dienst stehende Kolleg:innen „fremdenfeindliches“ und rechts-
+extremes Einstellungspotenzial. Der Widerspruch zwischen Selbstwahrnehmung und 
+Äußerungen wurde auch 1996 in einer weiteren Studie deutlich, da dort einerseits 
+„Fremdenfeindlichkeit“ verneint wurde, andererseits aber 15 % der Befragten „fremden-
+feindliche“ Vorurteilsneigungen aufwiesen, vgl. Lindner (2001).
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 37
+
+Inwiefern sich rassistische Einstellungen verändern können, wurde in Nord-
+rhein-Westfalen erforscht: Zwischen 2013 und 2017 wurde im Rahmen des 
+Projektes UMFELDER eine Langzeitstudie mit Kommissaranwärter:innen der 
+Hochschule für Polizei durchgeführt und per Zufall ausgewählte Anwärter:innen 
+bzw. Studierende kontinuierlich über mehrere Jahre hinweg befragt. Das 
+Forschungsinteresse beschäftigte sich mit der Frage, inwiefern sich – so der Titel 
+der Studie – fremdenfeindliche oder fremdenfreundliche Einstellungen im Verlauf 
+des Studiums und bei ersten Praxiserfahrungen verändern. Ein zentraler Befund 
+lautet folgendermaßen: Sogenannte „Fremdenfeindliche Einstellungen“ ver-
+ringerten sich während des Studiums, stiegen im ersten Praxisjahr leicht an und 
+sanken dann im restlichen Verlauf des Studiums wieder.6 Die Studie soll nun um 
+eine erneute Befragung nach 18 Monaten Berufserfahrung erweitert werden.7
+
+Die ersten Forschungen zu rassismusrelevanten Handlungen bei deutschen 
+Polizei(en) und Polizist:innen wurden bereits in den 1990er Jahren durchgeführt. 
+Sie sind vor allem im Zusammenhang mit den rechtsextremistischen Brand-
+anschlägen und Übergriffen in Mölln, Hoyerswerda und Rostock-Lichtenhagen 
+zu bewerten. Rassismusrelevante Äußerungen und Einstellungen wurde dabei 
+als Fremdenfeindlichkeit8 bezeichnet, auch wenn sich die Forschungen sowohl 
+auf Menschen mit Fluchterfahrung als auch Menschen of Color bzw. Schwarze 
+Menschen bezogen.9 „Fremdenfeindlichkeit“ und als rassistisch diskriminierend 
+wahrgenommene Handlungen und Äußerungen wurden auf fehlende inter-
+kulturelle Kompetenz der Beamt:innen zurückgeführt.10
+
+6 Vgl. Krott et al. (2019).
+7 Vgl. Hunold und Wegner (2020), S. 29.
+8 Die Bezeichnung „Fremdenfeindlichkeit“ ist somit fachlich falsch und wird daher nur mit 
+einfachen Anführungszeichen gekennzeichnet.
+9 Vgl. u. a. Asmus und Enke (2016), S. 10.
+10 Eine Einordnung, die bis heute dominant ist, beispielsweise in Bezug auf den NSU. Vgl. 
+für NRW auch Leenen et al. (2005). Franzke (2017) untersuchte für Nordrhein-Westfalen 
+im Jahr 2016, ob und wenn ja inwiefern diese interkulturelle Kompetenz bei Polizist:innen 
+vorhanden sei. Die Ergebnisse zeigten unter anderem, dass die Befragten sich selbst als 
+interkulturell kompetent einstuften. Diese Selbsteinschätzungen wurden jedoch nicht 
+weitergehend untersucht. Frank (2016) zeigte für Hessen, dass interkulturelle Kompetenz 
+von Lehrpersonen als relevant eingestuft werde und in der Lehrpraxis darauf Bezug 
+genommen werde. Gleichzeitig bleibe der Bezug auf eigene individuelle Kenntnisse ein-
+geschränkt.
+
+
+
+38 F. Atali-Timmer et al.
+
+Im Verbund der Polizei Duisburg wurde durch Schweer und Strasser eine teil-
+nehmende Beobachtung durchgeführt, um den polizeilichen Alltag und stereo-
+typisierte Wahrnehmungen von Polizist:innen zu erforschen.11 Der vorrangige 
+Fokus der Studie liegt nicht auf diskriminierender polizeilicher Praxis, sondern 
+auf strukturellen Problematiken der Polizei: So werden Vorurteile und Stereo-
+typisierungen innerhalb der Polizei als „Normalität“12 gewertet. Außerdem 
+würden „interkulturelle Situationen“ von den Beamt:innen eventuell missinter-
+pretiert werden.13 Die befragten Polizist:innen differenzierten in Bezug auf ihre 
+Klient:innen, dass diese nicht den „ausländische[n] Normalbürger“14 darstellen. 
+Jedoch wurde auch festgestellt, dass als soziale Randgruppen wahrgenommene 
+Menschen, vor allem junge, Schwarze Männer, häufiger kontrolliert wurden. 
+Neben der Darstellung von rassistischer Diskriminierung beziehen sich die 
+Forscher:innen auch auf Ursachen und argumentieren, dass die bloße Anwesen-
+heit von Menschen of Color und Schwarze Menschen zu Problemen führen 
+könne.15 Vorurteile der Beamt:innen werden von den Autor:innen auf die polizei-
+liche Sozialisation und Alltagserfahrungen zurückgeführt.
+
+Die Sichtweise von durch Rassismus betroffene Personen auf rassistische 
+Handlungen und Äußerungen wird durch unabhängige Beratungsstellen und 
+zivilgesellschaftliche Akteur:innen verdeutlicht, deren Ergebnisse sich deutsch-
+landweit ähneln: Die Autor:innen der Kampagne für Opfer rassistischer Polizei-
+gewalt argumentieren, dass rassistische Begegnungen und Diskriminierungen 
+bestimmten Mustern folgen: Bei der Opfer-Täter-Umkehr wird beispielsweise 
+Menschen of Color und Schwarzen Menschen die Viktimisierungserfahrung 
+abgesprochen oder es wird ihnen eine Mitschuld am Tathergang unterstellt und/
+oder sie erhalten eine Gegenanzeige von Beamt:innen16. Zudem kommt es vor, 
+dass Anzeigen von Menschen of Color und Schwarzen Menschen nicht auf-
+genommen und Zeug:innen bei Aussagen eingeschüchtert und aufgefordert 
+
+11 Vgl. Schweer et al. (2008), S. 22, die die Polizist:innen bzgl. ihres „alltäglichen 
+Umgang[s] mit türkischen Eckstehern, Aussiedlern, Obdachlosen, Drogensüchtigen, Asyl-
+bewerbern und Prostituierten“ untersuchten.
+12 Hunold und Wegner (2020), S. 20.
+13 Vgl. Hunold und Wegner (2020), S. 31.
+14 Hunold und Wegner (2020), S. 22.
+15 Vgl. Hunold und Wegner (2020), S. 13.
+16 Vgl. Kampagne für Opfer rassistischer Polizeigewalt (2016).
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 39
+
+werden keine Anzeige zu stellen.17 Anzeigen gegen Polizist:innen wegen Körper-
+verletzung im Amt würden meistens eingestellt werden.18 Auch bei Gegen-
+anzeigen durch Polizist:innen würden Gerichte und Staatsanwaltschaften 
+Widersprüche nicht ausführlich genug hinterfragen19 und somit die Täter-Opfer-
+Umkehr auch vor Gericht noch reproduzieren20. Opfer würden – obwohl dies 
+für den Tathergang unerheblich war – nach ihrem Aufenthaltsstatus und ihrer 
+Positionierung auf dem Arbeitsmarkt gefragt werden.21 Prominentes Beispiel für 
+die Täter-Opfer-Umkehr sind die Ermittlungen zum NSU-Komplex, bei dem die 
+Opfer aufgrund von stereotypen Denkmustern kriminalisiert wurden.22 Neben 
+dem Duzen und unerlaubtem Betreten von Wohnsitzen durch Polizist:innen, wird 
+auch von konkreten rassistischen und/oder stereotypen Aussagen berichtet: „Die 
+Zi. sind ja alle kriminell. […] Personen wie ‚DU‘ neigen zu Straftaten.“23
+
+Der Umgang von sachsen-anhaltischen Polizist:innen mit migrantischen 
+Opfern wurde aus polizeiwissenschaftlicher Perspektive von Asmus und Enke 
+interviewbasiert untersucht.24 Sie konstatieren, dass bei der Polizei keine 
+generelle „Fremdenfeindlichkeit“, sondern eine mangelnde Sensibilität der 
+Beamt:innen in Form von fehlender sozial-kommunikativer und interkultureller 
+Kompetenz vorliege. Wurden Menschen of Color und Schwarze Menschen Opfer 
+rassistischer Gewalt, werde diese besondere Schwere durch Polizist:innen teil-
+weise nicht erkannt. Rassismus wird demnach von den Interviewten nicht als 
+gesondertes Tatmotiv erkannt.25 Die Autor:innen empfehlen daher eine kritische 
+Prüfung der derzeitigen Praxis der interkulturellen Qualifikation.
+
+17 Vgl. Kampagne für Opfer rassistischer Polizeigewalt (2016); Antidiskriminierungsbüro 
+Köln (2017); Antidiskriminierungsstelle des Bundes (2017).
+18 Vgl. Louw et al. (2016), S. 29.
+19 Vgl. Friedrich et al. (2016), S. 18.
+20 Vgl. Quent et al. (2014), S. 33.
+21 Vgl. Quent et al. (2014), S. 26.
+22 Vgl. Hunold und Wegner (2020), S. 27; Fereidooni et al. (2021); Emiroglu et al. (2019); 
+Fereidooni (2016b; 2016c). Nicht nur durch Polizist:innen sondern auch Ermittler:innen 
+des BKA und der LKAs.
+23 Antidiskriminierungsbüro Köln (2017), S. 8.
+24 Vgl. Asmus und Enke (2016), S. 63.
+25 Diese Einschätzung deckt sich mit Befunden von Quent et al. (2014), die für Thüringen 
+erforschten, dass jedes zweite migrantische Opfer der 44 Befragten bezweifelte, dass die 
+Beamt:innen an einer Aufklärung von politischen Tathintergründen interessiert wären. 
+Rechte gemäß des Opferschutzes würde den Opfern nur selten und unvollständig vermittelt 
+werden.
+
+
+
+40 F. Atali-Timmer et al.
+
+Kemme et al. veröffentlichten eine Studie zur Einstellung von Hamburger 
+Kommissariatsanwärter:innen gegenüber muslimisch gelesenen Menschen.26 Vor 
+allem über muslimisch wahrgenommene Männer wurden Stereotype geäußert; die 
+Befragten äußerten außerdem Dehumanisierungstendenzen gegenüber faktischen 
+oder vermuteten männlichen Muslimen.27
+
+Für Rheinland-Pfalz untersuchen Beek et al. in einem laufenden Projekt Mehr-
+sprachigkeit und die Konstruktion kultureller Differenz im polizeilichen Alltag.28
+
+Abdul-Rahman et al. befragten Polizist:innen, Menschen of Colour, Schwarze 
+Menschen und zivilgesellschaftliche Akteur:innen bzw. Beratungsstellen und 
+veröffentlichten 2020 einen zweiten Zwischenbericht.29 Sie setzten den Fokus 
+auf sechs Bereiche um der Forschungsfrage nachzugehen, inwiefern sich Dis-
+kriminierungserfahrungen von Menschen of Color und Schwarzen Menschen von 
+als weiß gelesenen Personen durch Polizist:innen unterschieden: 1) Situation des 
+Gewalteinsatzes, 2) Diskriminierungserfahrungen der Betroffenen, 3) Erklärungs-
+ansätze für unterschiedliche Erfahrungen, 4) Folgen für die Betroffenen, 5) 
+Anzeigeverhalten sowie 6) Handlungsmöglichkeiten und Reformbedarf aus Sicht 
+der Beratungsstellen. Menschen of Color und Schwarze Menschen „gaben im 
+Vergleich zu als weiß gelesenen Personen deutlich häufiger an, dass Merkmale 
+der (zugeschriebenen) Herkunft wie ihre zugeschriebene oder faktische kulturelle 
+Zugehörigkeit, Hautfarbe, Nationalität, Name/Sprache oder ihr Aufenthalts-
+status einen Einfluss darauf gehabt hätten, wie sie von der Polizei behandelt 
+wurden“. Als weiß gelesene Menschen mit sogenanntem Migrationshintergrund – 
+so die Bezeichnung der Studie – fühlten sich nicht im gleichen Maße von Dis-
+kriminierung betroffen wie Menschen of Color und Schwarze Menschen.30 
+Polizist:innen sei zwar bewusst, dass subjektive Erfahrungen und Stereotypen 
+sich als Grundlagen ihrer Arbeit manifestieren können, problematisieren diese 
+dann jedoch nicht mehr bei der Entscheidung für oder gegen polizeilichen 
+Zwang.31 Menschen of Color und Schwarze Menschen berichteten in Frei-
+textfeldern der Studie von Beleidigungen und Einschüchterungen, sowie von 
+
+26 Vgl. Kemme et al. (2020).
+27 Befragte, die auch in ihrem Privatleben mit muslimisch gelesenen Menschen Kontakte 
+haben, seien diesen auch in ihrem Berufsleben positiver gegenüber eingestellt.
+28 Vgl. Beek et al. (2020).
+29 Vgl. Abdul-Rahman et al. (2020), S. 26.
+30 Vgl. Abdul-Rahman et al. (2020), S. 30.
+31 Vgl. Abdul-Rahman et al. (2020), S. 35.
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 41
+
+antimuslimischen, antisemitischen Aussagen.32 Die Forscher:innen bewerten 
+strukturellen Rassismus als Ursache für diese Erfahrungen. Diese Einschätzung 
+wurde von verschiedenen Seiten, etwa von der Deutschen Polizeigewerkschaft in 
+NRW und der Gewerkschaft der Polizei, stark kritisiert und abgelehnt.33
+
+Forschung zu Rassismus beschäftigt sich des Weiteren mit der Frage, wann 
+Kontrollen zu Racial Profiling werden.34 Polizeiforschung und unabhängige 
+Forschung unterscheidet dabei vor allem die Frage, ob Fahndungsaufträge 
+an sich, und die damit im Zusammenhang stehenden Gesetze, bereits dis-
+kriminierend sind oder ausschließlich eine falsche Umsetzung diskriminierend 
+wirkt.35 So werden vor allem legale Rahmenbedingungen von Personenkontrollen 
+analysiert und in Verbindung mit Ethnic oder Racial Profiling gesetzt.36 Auch 
+hierzu werden in Deutschland keine umfassenden Statistiken erhoben.
+
+Wenn über den Umgang von Polizist:innen mit Menschen of Color und 
+Schwarzen Menschen gesprochen wird, wird oft argumentiert, dass eine mög-
+liche Ungleichbehandlung gerechtfertigt sei. Ein Hauptargument ist dabei das 
+der vermeintlich „kriminellen Ausländer:innen“, vor denen die deutsche Gesell-
+schaft geschützt werden müsse; dabei wird auf die Polizeiliche Kriminalstatistik 
+(PKS) Bezug genommen.37 Im Auftrag des Mediendienstes Integration erstellte 
+
+32 Vgl. Abdul-Rahman et al. (2020), S. 37.
+33 Den Wissenschaftler:innen wurden Mängel in der methodologischen Herangehensweise 
+vorgeworfen. Außerdem würden die Befunde auf subjektiven Beurteilungen beruhen und 
+die Studie sei eine Diskreditierung des Berufsstands, vgl. Kunz (2021).
+34 „Neben Polizeikontrollen werden unter anderem Überwachungen, Befragungen, Fest-
+nahmen, Razzien, Rasterfahndungen und die Anwendung polizeilichen Zwangs als 
+‚Ethnic Profiling‘ oder ‚Racial Profiling‘ bezeichnet, sofern diese Maßnahmen aufgrund 
+rassifizierender oder ethnisierender Merkmale erfolgen“, Hunold und Wegner (2020), S. 30.
+35 Vgl. u. a. Kreissl (2017); Smolenski (2020); Wesche (2020).
+36 Vgl. u. a. Schiffer-Nasserie (2014), S. 13.
+37 In der PKS wird nur die Hellfeldkriminalität erfasst, und hierbei nur Tatverdächtige. Als 
+„nichtdeutsche Tatverdächtige“ werden ausschließlich Personen ohne deutsche Staats-
+bürgerschaft bezeichnet. Seit dem Jahr 2017 wurde zusätzlich die Kategorie „Zuwanderer“ 
+gesondert aufgeführt, womit alle Staatsbürger:innen eines Nicht-EU-Staates bezeichnet 
+werden, die sich entweder unerlaubt in Deutschland aufhalten oder einen Aufenthaltsstatus 
+als Asylbewerber, international/national Schutzberechtigte und Asylberechtigte, Menschen 
+mit Duldungen und Kontingentflüchtlinge haben, vgl. Walburg (2016), S. 4. Die PKS 
+wird somit fälschlicherweise immer wieder herangezogen, um über einen sogenannten 
+„Integrationswillen“ zu diskutieren. Außerdem verdeutlicht sich somit eine Vermutung über 
+einen Zusammenhang von Migration und Kriminalität bei Geflüchteten noch weiter.
+
+
+
+42 F. Atali-Timmer et al.
+
+Walburg ein Gutachten zur Thematik.38 Er betont ausdrücklich, dass kein ein-
+facher Zusammenhang zwischen Migration und Kriminalität gezogen werden 
+könne. Stattdessen stellten Lebensumstände einen einflussreichen Faktor bezüg-
+lich Kriminalität dar.39
+
+Der Fokus zivilgesellschaftlicher Akteur:innen liegt auf der Art der 
+(rassistischen) Diskriminierung. Der Unterschied zur allgemeinen (Polizei-)
+Forschung liegt in der Wertigkeit, die die Möglichkeit der individuellen 
+bewussten und unbewussten Diskriminierung bei der allgemeinen Erklärungs-
+suche einnimmt: „Während individueller Rassismus gelegentlich Thema ist, 
+lassen offizielle Stellen und Medien seine institutionelle Form und somit auch 
+seine Wirkmacht weitgehend außer Acht.“40 Menschen of Color und Schwarze 
+Menschen werden in dieser Argumentation als Folge von institutioneller Dis-
+kriminierung zum potenziellen polizeilichen Gegenüber konstruiert. Zivil-
+gesellschaftliche Akteur:innen argumentieren daher, dass institutionelle und 
+rassistische Diskriminierung die Polizeiarbeit und den Umgang mit Menschen of 
+Color und Schwarzen Menschen definiere.
+
+4 R assismuskritische Forschung zur Institution 
+Polizei
+
+Nicht jede Forschung zu Rassismus ist zwangsläufig rassismuskritisch angelegt, 
+sondern muss von entsprechenden Rassismustheorien gerahmt oder auf deren 
+Grundlage analysiert werden, um als solche bezeichnet werden zu können. Es 
+existieren einige kritische Forschungen, die sich postkolonial positionieren 
+(lassen) und somit als rassismuskritisch bzw. rassismuskritisch relevant ein-
+geordnet werden können.
+
+Unter einer rassismuskritisch relevanten Perspektive verstehen wir migrations-
+gesellschaftliche Fragestellungen, die gesellschaftlichen, historischen sowie 
+gegenwärtigen Macht- und Herrschafts-, aber auch Differenzverhältnissen aus 
+einer rassismuskritischen Perspektive nachgehen und dabei Theorien (etwa post-
+koloniale), Theoretiker:innen (beispielsweise Stuart Hall) sowie G egenstände 
+
+38 Vgl. Walburg (2016).
+39 Vgl. auch Pfeiffer et al. (2018), die verschiedene Gründe für erhöhte Kriminalitäts-
+statistiken analysieren.
+40 Friedrich et al. (2016), S. 13.
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 43
+
+(Bildung, Gesundheit, Sicherheit etc.), die für die Rassismuskritik von 
+elementarer Bedeutung sind, in den Blick nehmen. Es geht dabei nicht darum, 
+in polarer Weise festzustellen, ob etwas rassistisch ist oder nicht, sondern eher 
+darum, ob und in welcher Form der betreffende Gegenstand anhand von rassis-
+muskritischen Theorien und Konzepten analysierbar und erklärbar wird. Seine 
+Relevanz besteht darin, dass er in zentralen Lebensbereichen aller Akteur:innen 
+der Migrationsgesellschaft in verschiedener Weise eine Bedeutung aufweist. 
+Kolonialismus beispielsweise stellt nicht nur historisch, sondern auch gegen-
+wärtig einen maßgeblichen Gegenstand von Rassismuskritik dar, da bestimmte 
+Praktiken in der Migrationsgesellschaft unter dem Einfluss von kolonialem 
+Wissen spezifische (konstruierte) Realitäten (re)produzieren. So hat er für 
+die Rassismuskritik als Theoriestütze und zugleich als wesentlicher Gegen-
+stand einen hohen Stellenwert. Derlei Praktiken sind nicht immer zwangsläufig 
+rassistisch, aber von Relevanz für eine Analyse aus der rassismuskritischen 
+Perspektive.41
+
+Im Folgenden stellen wir exemplarisch theoriebasierte Forschungen42 bzw. 
+Analysen vor, die sich entweder selbst als rassismuskritisch einordnen oder 
+die wir als rassismuskritisch bzw. rassismuskritisch relevant erachten. Die 
+Skizzierung dient nicht der vollständigen Darstellung der rassismuskritischen 
+Forschungslandschaft, sondern eher dem Markieren der Akzente des rassismus-
+kritischen bzw. rassismuskritisch relevanten Forschungsfelds.
+
+Die Einbindung der postkolonialen Perspektive in die Analyse der hiesigen 
+Polizeipraxis sei unabdingbar, da diese und der Kolonialismus miteinander ver-
+flochten seien und in einem Zusammenhang stünden, so Thompson.43
+
+41 Vgl. Atali-Timmer (2021), S. 25 f.
+42 Auch empirische, sich explizit als rassismuskritisch bezeichnende Studien existieren 
+mittlerweile, wie etwa die Studie mit dem Titel „Interkulturelle Kompetenz bei der 
+Polizei. Eine rassismuskritische Studie“ von Atali-Timmer (2021). Anhand teilnehmender 
+Beobachtungen und problemzentrierter Interviews wurde der Frage nach rassismuskritisch 
+relevanten Wissensordnungen bei der Polizei nachgegangen. Analysiert wurde, in welcher 
+Weise sich im Sprechen von Polizist:innen über ihre Bildungserfahrung zu „interkultureller 
+Kompetenz“ bei der Thematisierung von migrationsgesellschaftlichen Fragestellungen 
+rassismuskritisch relevante Wissensordnungen zeigen.
+43 Vgl. Thompson (2020). Darüber hinaus besteht, um die polizeiliche Praxis verstehen 
+zu können, die Notwendigkeit der Analyse des Polizierens im Nationalsozialismus hin-
+sichtlich der zur Kontrolle und Überwachung genutzten Techniken. Schließlich waren 
+die Shoah und der Holocaust ohne die Polizei nicht umsetzbar. „Nur weil sie als Polizei-
+operation geplant und durchgeführt wurde, hat die Judenvernichtung so methodisch und so 
+mörderisch sein können“, so Agamben (2018), S. 96.
+
+
+
+44 F. Atali-Timmer et al.
+
+Die Entstehungsgeschichte des Polizierens sei zu kurz gedacht, wenn sie 
+nur innerhalb der nationalen bzw. europäischen Grenzen betrachtet werde, denn 
+die Vorläufer bestimmter polizeilicher Praktiken wurden in den kolonialisierten 
+Ländern, in den „kolonialen Laboratorien“44 entwickelt und umgesetzt, wie bei-
+spielsweise „Versammlungsverbote“45, um die Unterdrückung und Kolonialisierung 
+aufrechtzuerhalten. Die Kontrollmechanismen gingen auf das Polizieren in den 
+USA und in Europa über.46
+
+Thompson macht am Beispiel der Verunmöglichung des Atmens (in 
+Anlehnung an die sprachliche Symbolik „I can`t breathe“ für die Gewaltpraxis 
+der Polizei) aus einer postkolonialen Perspektive auf die transnationale Dimension 
+aufmerksam, die sich historisch zwischen den Kontinenten Europa und Afrika, 
+einer Tradition bedienend, durch Versklavung und Tötung von Schwarzen 
+Menschen konstituiere. Das Nicht-Atmen-Können gehe mit historischen 
+Erfahrungen einher, die anhand aktueller Beispiele polizeilicher Gewalt-
+praxis weitere Dimensionen der Gewalt und Kriminalisierung, etwa Schwarzer 
+Menschen sowie anderer marginalisierter und rassifizierter Personen, aufzeige.
+
+Die epistemische Dimension des Polizierens analysiert Müller aus einer 
+postkolonialen Perspektive, die „untrennbar mit der kolonialen Erfahrung des 
+Regierens eines imaginierten ‚Anderen‘“47 einhergeht. Hier wird in Anlehnung an 
+die Arbeit „Orientalismus“ von Edward Said auf das Konzept von Brogden und 
+Ellison – „police orientalism“48 – verwiesen. Demnach entwickelte sich über mit 
+Othering einhergehenden polizeilichen Praktiken eine Selbstwahrnehmung der 
+Polizei, die als institutionelles Wissen eingespeichert ist und anhand ihrer Alltags-
+praktiken deutlich wird. Darüber hinaus steuert dieses Wissen die epistemische 
+Wissensproduktion, indem die Polizei selbst vorgibt, was sie ist und wie es 
+sie zu beforschen gilt. Die kolonialen Erfahrungen und ihre Relevanz für die 
+kritische Polizeiforschung sollten in die Wissensproduktion einbezogen werden. 
+Müller hebt hervor, dass es nicht darum gehe, westliche Forschungsansätze zu 
+ignorieren. Die vorhandenen und die postkolonialen ergänzten einander sehr gut 
+und trügen gemeinsam zur Dekolonisierung des Wissens bei.49
+
+44 Thompson (2020); Müller (2014), S. 72.
+45 Müller (2014), S. 72.
+46 Vgl. Müller (2014), S. 72; Hadden (2018).
+47 Müller (2014), S. 73.
+48 Müller (2014), S. 75.
+49 Vgl. Müller (2014), S. 75.
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 45
+
+Auch Belina analysiert den Nexus Polizei und Wissen.50 Einerseits 
+benötige die Polizei für die Kriminalprävention Wissen51 über die potentiellen 
+Straftäter:innen, das sie sich Behr zufolge in Form von „Erfahrungswissen“ 
+aneignet, um sie inspizieren zu können.52 Andererseits produziert die Polizei das 
+Wissen selbst, indem sie auf der Grundlage ihrer eigenen Arbeit selbst polizei-
+liche kriminalistische Statistiken erstellt. Die Polizei hat somit die „Definitions-
+macht“53 über Kriminalisierung und Normalisierung inne. Diese bestimmt den 
+Diskurs zur Kriminalität und somit kann sie die „Legislative und Exekutive 
+[…] beeinflussen“54. Sie hat einen strukturellen Vorteil bei der Deutungsmacht 
+von Kriminalität, denn sie gehört in Anlehnung an Stuart Hall zu den „primären 
+Definiären“55, die z. B. über die Medien als „sekundäre Definiäre[…]“56 nicht nur 
+Informationen liefert, sondern sie auch interpretiert57 und mithin Debatten und 
+Diskurse beeinflusst.
+
+Darüber hinaus sei es der Polizei möglich, ihre Aktivitäten ihren eigenen 
+Interessen und Vorstellungen entsprechend zu gestalten, wie beispielsweise 
+anhand ihrer Macht zur Selektion der Anzeigen, d. h., zu entscheiden, welche 
+Anzeige sie aufnimmt, welche sie „abwimmelt“58, welche sie selbst produziert 
+(z. B. milieuspezifische Kontrollen bei Betäubungsmitteln) und in welche Kate-
+gorie (z. B. einfache, gefährliche oder schwere Körperverletzung) sie eine Straftat 
+einordnet.
+
+Belina geht davon aus, dass sich die Polizei durch die Öffentlichkeitsarbeit 
+und den Ermessensspielraum ein Überrecht prärogativ ermögliche. Sie bestimme, 
+wer, was und wo zu kontrollieren sei, und diese Praxis schaffe symbolische 
+Räume, die real und diskursiv Teile der Gesellschaft diskriminieren und ihnen 
+ihre Rechte aberkennen. Im Zusammenhang mit Personenkontrollen und 
+
+50 Vgl. Belina (2018).
+51 Die potenziellen Straftäter:innen werden auch sprachlich festlegt, wie etwa durch die 
+Termini „die üblichen Verdächtigen“ (Belina 2018), S. 121 und „Assis“ (Künkel 2014), 
+S. 266.
+52 Vgl. Behr (2000).
+53 Behr (2000), S. 123.
+54 Behr (2000), S. 123.
+55 Behr (2000), S. 124.
+56 Behr (2000), S. 124.
+57 Vgl. Behr (2000), S. 124.
+58 Behr (2000), S. 120.
+
+
+
+46 F. Atali-Timmer et al.
+
+Öffentlichkeit hebt Belina die besondere Rolle der Polizei als Akteurin hervor, 
+die Räume und somit die Gesellschaft mitgestaltet.59 Hautfarbe sei dabei eine 
+rassifizierende Kategorie, die für Personenkontrollen an sog. Gefahrengebieten 
+herangezogen werde. „Weil Racial Profiling vor allem an bestimmten Orten 
+stattfindet, sind diese sozialen Prozesse über die Produktion von Räumen ver-
+mittelt.“60
+
+Die Polizei ist laut Pichl mehr als involviert in rassistische Strukturen, denn 
+sie reproduziere durch ihre konkreten Praktiken selbst Rassismus, wenn sie 
+etwa Personen kontrolliere, die als „Ausländer:innen“ markiert und auch so 
+behandelt würden. Gesellschaftlich akzeptierte rassistische Stereotype würden 
+einerseits von der Polizei aufgegriffen, andererseits in einer spezifischen Weise 
+reproduziert, indem durch die Kontrolle solcher Personen der Öffentlichkeit 
+Sicherheit suggeriert werde.61 Diese Praxis werde gesellschaftlich nicht hinter-
+fragt. Das Nichthinterfragen der Institution Polizei verstärkt Pichl zufolge 
+gesellschaftliche Herrschaftsverhältnisse.62 Nach welchen Kriterien polizeiliche 
+Entscheidungen getroffen werden und wie darauf reagiert wird, stehe dabei nicht 
+zur Debatte, da davon ausgegangen werde, die Polizei agiere neutral. Aber: „In 
+einer von rassistischen Strukturen und Ideologien durchzogenen Gesellschaft ist 
+die Polizei kein von diesen Herrschaftsverhältnissen getrennter Akteur“63, ganz 
+im Gegenteil: sie reproduziere und verfestige selbst rassistische Bilder.
+
+Wenn also die Polizei nicht jeder Person gleichermaßen Schutz und Sicher-
+heit biete, für manche sogar eine Gefahr darstelle, seien Konzepte vonnöten, die 
+die von ihr ausgehende Gefahr mit anderen Maßnahmen zumindest abschwächen. 
+Abolitionistische Konzepte können Thompson zufolge als solch ein Ansatz gelten. 
+Über ihre historische Bedeutung – nämlich die Befreiung und Abschaffung der 
+Versklavung – hinaus beinhalten sie eine Bewegung, die auf mehrdimensionaler 
+Solidarität beruht. Dies bedeutet beispielsweise im Kontext von polizeilichen 
+Interventionen Solidarität mit Betroffenen zu zeigen, Verantwortung für-
+einander zu übernehmen, aufeinander aufzupassen, aber auch, Allianzen mit 
+
+59 Vgl. Belina (2018), S. 130; siehe hierzu auch Loick (2018), S. 18.
+60 Belina (2018), S. 128.
+61 Vgl. Pichl (2018), S. 112.
+62 Vgl. Pichl (2018), S. 111.
+63 Pichl (2018), S. 111.
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 47
+
+weiteren marginalisierten Gruppen (etwa Geflüchteten, Sexarbeiter:innen etc.) 
+zu schließen.64 Zugleich lenkt der abolitionistische Ansatz die Aufmerksamkeit 
+auf Konzepte zu Alternativen zur Polizei, die Dekolonialität und Gerechtigkeit 
+nicht vernachlässigen65 und eine gesellschaftliche Transformation anvisieren.66 
+Thompson verweist auch auf konkrete Forderungen von verschiedenen Initiativen 
+(wie etwa die der KOP), die Dekolonialisierungs- und Demokratisierungsprozesse 
+vorantreiben würden: Kennzeichnungspflicht, unabhängige Beschwerdestellen, 
+Abschaffung von verdachtsunabhängigen Kontrollen, Erweiterung der Anti-
+diskriminierungsgesetze, konstitutive Sensibilisierung während der Polizeiaus-
+bildung und rassismuskritische Schulungen.67
+
+5  Fazit
+
+In die vorgestellte Forschungslandschaft lassen sich die im letzten Abschnitt auf-
+geführten Forschungen als rassismuskritisch einordnen. Dies stützt sich auf ver-
+schiedene Elemente, die für rassismuskritisches Forschen konstitutiv sind. Sich 
+rassismuskritisch positionierende theoretische oder empirische Untersuchungen 
+weisen die nachfolgenden Elemente auf, die konstitutiv für die rassismuskritische 
+Forschung sind. Diese möchten wir in Kürze skizzieren, um unsere Auswahl im 
+letzten Abschnitt evident zu machen. Die formulierten Aspekte lehnen sich teil-
+weise an die Charakteristika kritischer Migrationsforschung, die von Mecheril 
+und Olalde ausgearbeitet wurden68, und den methodologischen Ansatz69 von 
+Rassismuskritik an70:
+
+64 Vgl. Thompson (2018), S. 214.
+65 Vgl. Thompson (2018), S. 214 f.
+66 Vgl. Thompson (2020).
+67 Vgl. Thompson (2018), S. 214.
+68 Vgl. Mecheril und Olalde (2016).
+69 Aus dem Vortrag „Rassismuskritik als Methodologie“ am 26. Januar 2021 an der TU 
+Dortmund. Wir danken Paul Mecheril für die freundliche Übermittlung des Manuskripts.
+70 Vgl. Mecheril (2021).
+
+
+
+48 F. Atali-Timmer et al.
+
+• Analyse rassismusrelevanter Herrschaftsstrukturen, in denen etwa Freiheit, 
+Würde und Mündigkeit von Personen im Fokus stehen.71
+
+• Analyse rassismusrelevanter Subjektivierungsprozesse, in denen unter 
+strukturellen Bedingungen ungleiche Verhältnisse hervorgebracht werden.72
+
+• Analyse von „Strukturen, Praktiken und Orte[n] natio-ethno-kulturell 
+kodierter Herrschaft des Menschen über den Menschen“73.
+
+• Berücksichtigung und Analyse von Praktiken der Legitimitierung von race.74
+
+• Analyse von Möglichkeitsformen, Optionen und Widerständen rassistischer 
+Strukturen und solcher, die Optionen bieten.75
+
+• Analyse und Berücksichtigung rassismusrelevanter historischer Wirklich-
+keiten, wie etwa der Kolonialisierung, der Shoah und dem Porajmos.
+
+• Analyse rassismusrelevanter gesellschaftlicher Macht- und Herrschaftsverhält-
+nisse, wie etwa „rassistischer Strukturen in den Institutionen“.
+
+• Analyse und Berücksichtigung rassismuskritisch relevanter Diskurse, etwa 
+jener über Personen mit dem sog. Migrationshintergrund.76
+
+• Berücksichtigung von internationalen (post)kolonialen bzw. rassismus-
+kritischen Forscher:innen, wie Étienne Balibar, Patricia Hill Collins, Stuart 
+Hall, bell hooks, Albert Memmi, Edward Said, Gayatri Chakravorty Spivak, 
+sowie im deutschsprachigen Raum Susan Arndt, Iman Attia, Maisha-
+Maureen Auma (ehem. Eggers), Manuela Bojadzijev, Fatima El-Tayeb, Ínci 
+Dirim, Naika Fouratan, Encarnación Gutiérrez Rodríguez, Annita Kalpaka, 
+Rudolf Leiprecht, Paul Mecheril, Claus Melter, Astrid Messerschmidt, Birgit 
+Rommelspacher, Karin Scherschel, Mark Terkessidis, Maria do Mar Castro 
+Varela und viele andere.
+
+• Berücksichtigung rassismuskritisch relevanter Konzepte, wie Othering, 
+Orientalismus, Neolinguizismus, etc.
+
+• Analyse und Rahmung der Untersuchungen, die auf Rassismustheorien, wie 
+etwa Neorassismus, antimuslimischer Rassismus, Rassismus gegen Sinti:zze 
+und Romn:ja etc., basieren.
+
+71 Vgl. Mecheril und Olalde (2016), S. 12.
+72 Vgl. Mecheril und Olalde (2016), S. 12.
+73 Mecheril (2021).
+74 Mecheril (2021).
+75 Vgl. Mecheril und Olalde (2016), S. 13.
+76 Vgl. Fereidooni (2016a).
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 49
+
+• Verzicht auf unreflektierte, diskursiv hergestellte Bezeichnungspraktiken, 
+beispielsweise „Ausländer:in“, „Migrant:in“, „Mensch mit Migrationshinter-
+grund“, sowie Erkennen und Reflexion des Konstruktionscharakters der 
+Konzepte.
+
+• Verzicht auf Konzepte, wie etwa „Ausländerfeindlichkeit“ ,,Fremdenfeindlich-
+keit“ oder „Menschenfeindlichkeit“, wenn es um Rassismus geht.
+
+• Verzicht auf Täter-Opfer-Sprache sowie Fokussierung der Identifizierung 
+von Rassist:innen (statt individuelles „Rassist:innenouting“; Analysieren des 
+Rassismus als Ordnungssystem).
+
+Diese Aspekte sind nicht als allumfassend und rezeptartig gültig zu betrachten, 
+sondern vielmehr als Säulen rassismuskritischer Forschung, die persistent modi-
+fiziert und weiterentwickelt werden können und sollen. Forschungen zu Rassis-
+mus bei der Polizei lassen sich aus unserer Sicht nicht als rassismuskritische 
+Forschung bezeichnen, wenn sie die obenstehenden Gesichtspunkte nicht berück-
+sichtigen, sich nicht an ihnen orientieren.
+
+Intention dieses Beitrags war es, die wissenschaftliche sowie gesellschafts-
+politische Notwendigkeit einer rassismuskritischen Erforschung der Institution 
+Polizei aufzuzeigen. Die vertretene These lautete: Nicht jede Studie, die sich mit 
+Rassismus und der Institution Polizei beschäftigt, ist eine rassismuskritische Polizei-
+studie. Der Stellenwert von Rassismuskritik als Analyseinstrument darf nicht unter-
+schätzt werden, wenn eine ernsthafte Auseinandersetzung mit Rassismus angestrebt 
+wird, was sowohl der Institution Polizei als auch der Gesellschaft zugutekäme.
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L. & Singelnstein, T. (2020). Rassis-
+mus und Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung: 
+Zweiter Zwischenbericht zum Forschungsprojekt „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). Bochum: Universität Bochum.
+
+Agamben, G. (2018). Souveräne Polizei. In D. Loick (Hrsg.), Kritik der Polizei 
+(S. 95–100). Frankfurt am Main und New York: Campus.
+
+Antidiskriminierungsbüro Köln (Hrsg.) (2017). Menschen wie DU neigen zu Straftaten. 
+(Rassistische) Diskriminierung bei der Polizei: Ursachen, Folgen und Möglichkeiten 
+der Intervention. Köln.
+
+Antidiskriminierungsstelle des Bundes (2017). Diskriminierung in Deutschland. Dritter 
+gemeinsamer Bericht der Antidiskriminierungsstelle des Bundes und der in ihrem Zuständig-
+keitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages. 
+https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/BT_
+Bericht/gemeinsamer_bericht_dritter_2017.html. Zugegriffen: 18. Juli 2022.
+
+
+
+50 F. Atali-Timmer et al.
+
+Asmus, H.-J., & Enke, T. (2016). Der Umgang der Polizei mit migrantischen Opfern: Eine 
+qualitative Untersuchung. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Atali-Timmer, F. (2021). Interkulturelle Kompetenz bei der Polizei. Eine rassismus-
+kritische. Studie. Opladen et al.: Budrich.
+
+Behr, R. (2000). Cop Culture – Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur in der Polizei. Opladen: Budrich.
+
+Beek, J., Bierschenk, T., Kolloch, A., Meyer, B., Müller, M. & Radermacher, T. (2020). 
+Polizei-Translationen - Mehrsprachigkeit und die Konstruktion lultureller Differenz 
+im polizeilichen Alltag. https://www.ifeas.uni-mainz.de/polizei-translationen-mehr-
+sprachigkeit-und-die-konstruktion-kultureller-differenz-im-polizeilichen-alltag/. 
+Zugegriffen: 18. Juli 2022.
+
+Belina, B. (2018). Wie die Polizei Raum und Gesellschaft gestaltet. In D. Loick (Hrsg.), 
+Kritik der Polizei (S. 119–134). Frankfurt am Main und New York: Campus.
+
+Brandt, M. (2021). Polizeigewalt. Schwarze werden häufiger Opfer tödlicher Polizeigewalt. 
+https://de.statista.com/infografik/5487/toedliche-polizeigewalt-in-den-usa/. Zugegriffen: 
+18. Juli 2022.
+
+Emiroglu, B., Fereidooni, K., Kristiansen, O., Müller, M., Oostenryck, M., Schedler, J., & 
+Uhlenbruck, K. (2019). Der NSU als Gegenstand der Lehrer_innenbildung des Faches 
+Sozialwissenschaften. In T. Dürr & R. Becker (Hrsg.), Leerstelle Rassismus – Ana-
+lysen und Handlungsmöglichkeiten nach dem NSU (S.  74–85). Schwalbach am Taunus: 
+Wochenschau Verlag.
+
+Fereidooni, K. (2016a). Ungeklärte Fragen in Bezug auf den „NSU“-Terrorismus. In K. 
+Bozay, B. Aslan, F. Özfirat & O. Mangitay (Hrsg.), Die haben gedacht, wir waren das: 
+MigrantInnen über rechten Terror und Rassismus (S. 115–131). Köln: PapyRossa Verlag.
+
+Fereidooni, K. (2016b). Diskriminierungs- und Rassismuserfahrungen im Schulwesen: 
+Eine Studie zu Ungleichheitspraktiken im Berufskontext. Wiesbaden: Springer.
+
+Fereidooni, K. (2016c). (Rassismusrelevante) Fehler im Zuge der „NSU“ Ermittlungen. In K. 
+Bozay, B. Aslan, F. Özfirat & O. Mangitay (Hrsg.), Die haben gedacht, wir waren das: 
+MigrantInnen über rechten Terror und Rassismus (S. 41–54). Köln: PapyRossa Verlag.
+
+Fereidooni, K., Schedler, J., Oostenryck, M., Uhlenbruck, K., & Müller, M. (2021). 
+Staatsversagen und Opferperspektive: Die Thematisierung des NSU-Terrorismus im 
+sozialwissenschaftlichen Unterricht. In K. Fereidooni & N. Simon (Hrsg.), Rassis-
+muskritische Fachdidaktiken. Theoretische Reflexionen und fachdidaktische Entwürfe 
+rassismuskritischer Unterrichtsplanung (S. 107–142). Wiesbaden: Springer.
+
+Frank, H. (2016). Interkulturelle Kompetenz in der Polizeiausbildung: Zwischen Theorie 
+und praktischen Möglichkeiten. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Franzke, B. (2017). Interkulturelle Kompetenzen bei der Polizei - Wunsch versus Wirklich-
+keit. Polizei und Wissenschaft, S. 14).
+
+Hadden, S. E. (2018). Sklavenpatrouillen und die Polizei: Eine verwobene Geschichte der 
+Rassenkontrolle. In D. Loick (Hrsg.), Kritik der Polizei (S. 77–94). Frankfurt am Main 
+und New York: Campus.
+
+Hessisches Ministerium des Innern und für Sport (2020). Hessische Polizeistudie 
+2020. Polizeiliche Alltagserfahrungen – Herausforderungen und Erfordernisse einer 
+lernenden Organisation. https://innen.hessen.de/sites/default/files/media/hmdis/polizei-
+studie_2020_-_erste_ergebnisse.pdf. Zugegriffen: 4. März 2021.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei. Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 51
+
+Kampagne für Opfer rassistischer Polizeigewalt (Hrsg.) (2016). Alltäglicher Ausnahme-
+zustand. Institutioneller Rassismus in deutschen Strafverfolgungsbehörden. Münster: 
+edition assemblage.
+
+Kemme, S., Essien, I., & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? 
+Monatsschrift für Kriminologie und Strafrechtsform, 103(2), S. 129.
+
+Kreissl, R. (2017). Menschenrechtskonforme Polizeiarbeit als Organisationsproblem – das 
+Beispiel Österreich. https://www.springerprofessional.de/menschenrechtskonforme-
+polizeiarbeit-als-organisationsproblem-da/12103746. Zugegriffen: 18. Juli 2022.
+
+Krott, N., Krott, E., & Zeitner, I. (2019). Umgang mit Fremdheit. Entwicklung im Längs-
+schnitt der beruflichen Erstsozialisation (UMFELDER). Die Polizei, 110(5), S. 129.
+
+Kunz, S. (2021). GdP Rheinland-Pfalz reagiert auf Singelnstein-Studie. https://
+www.gdp.de/gdp/gdp.nsf/id/DE_GdP-Rheinland-Pfalz-reagiert-auf-Singelnstein-
+Studie?open&ccm=300050120. Zugegriffen: 18. Juli 2022.
+
+Künkel, J. (2014). Cop Culture Reloaded? Wandel und Persistenzen schutzpolizeilicher 
+Macht. Kriminologisches Journal, 46(4), S. 264.
+
+Leenen, W.-R., Grosch, H., & Groß, A. (Hrsg.) (2005). Bausteine zur interkulturellen 
+Qualifizierung der Polizei. Münster: Waxmann.
+
+Lindner, M. (2001). Fremdenfeindlichkeit, Rechtsextremismus und Gewalt. Meinungen 
+und Einstellungen von Auszubildenden der Polizei des Landes Nordrhein-Westfalen – 
+Ergebnisse einer empirischen Studie. Hamburg: Verlag Dr. Kovac.
+
+Loick, D. (2018). Was ist Polizeikritik? In D. Loick (Hrsg.), Kritik der Polizei (S. 9–38). 
+Frankfurt am Main und New York: Campus.
+
+Louw, E., Trabold, L., & Mohrfeldt, J. (2016). Wenn alles anders bleibt. Psychosoziale 
+Folgen rassistischer Polizeigewalt. In Kampagne für Opfer rassistischer Polizeigewalt 
+(Hrsg.), Alltäglicher Ausnahmezustand. Institutioneller Rassismus in deutschen Straf-
+verfolgungsbehörden (S. 29–46). Münster: edition assemblage.
+
+Mecheril, P. (2021). Rassismuskritik als Methodologie. Vortrag in der Ringvorlesung „Jen-
+seits des methodologischen Natiolismus!?“. https://www.tu-dortmund.de/veranstaltungs-
+detail/detail/rassismuskritik-als-methodologie-5468/. Zugegriffen: 18. Juli 2022.
+
+Mecheril, P., & Melter, C. (2010). Gewöhnliche Unterscheidungen. Wege aus dem Rassis-
+mus. In P. Mecheril, M. Castro Varela, I. Dirim, A. Kapalka & C. Melter (Hrsg.), 
+Migrationspädagogik (S. 150–178). Weinheim: Beltz.
+
+Mecheril, P., & Olalde, O. T. (2016). Kritik. In P. Mecheril (Hrsg.), Handbuch: Migrations-
+pädagogik (S. 493–507). Weinheim: Beltz.
+
+Müller, M. M. (2014). Polizieren als (post-)koloniale Praxis: Einsichten für eine kritische 
+Polizeiforschung. Ein Beitrag zur Debatte um kritische Polizeiforschung. sub\urban. 
+Zeitschrift für kritische stadtforschung, 2(2), S. 71.
+
+Pfeiffer, C., Baier, D., Kliem, S. (2018). Zur Entwicklung der Gewalt in Deutschland. 
+Schwerpunkte: Jugendliche und Flüchtlinge als Täter und Opfer. Zürcher Hochschule 
+für Angewandte Wissenschaften.
+
+Pichl, M. (2018). Polizei und Rechtsstaat: Über das Unvermögen, exekutive Gewalt ein-
+zuhegen. In D. Loick (Hrsg.), Kritik der Polizei (S. 101–118). Frankfurt am Main und 
+New York: Campus.
+
+Quent, M., Geschke, D., & Peinelt, E. (2014). Die haben uns nicht ernst genommen. Eine 
+Studie zu Erfahrungen von Betroffenen rechter Gewalt mit der Polizei. Erfurt: fehldruck.
+
+Schiffer-Nasserie, A. (2014). Polizei und Rassismus. Überblick, 20(4), S. 12.
+
+
+
+52 F. Atali-Timmer et al.
+
+Schweer, T., Strasser, H., & Zdun, S. (Hrsg.) (2008). „Das da draußen ist ein Zoo, und wir 
+sind die Dompteure“: Polizisten im Konflikt mit ethnischen Minderheiten und sozialen 
+Randgruppen. Wiesbaden: GWV Fachverlage.
+
+Smolenski, S. (2020). Institutioneller Rassismus bei der Bundespolizei am Beispiel von 
+Racial Profiling. München: GRIN Verlag.
+
+Thompson, V. E. (2020). Die Verunmöglichung von Atmen. Heinrich Böll Stiftung, 
+Heimatkunde. https://heimatkunde.boell.de/de/2020/09/02/die-verunmoeglichung-von-
+atmen. Zugegriffen: 18. Juli 2022.
+
+Thompson, V. E. (2018). „There is no justice, there is just us!“: Ansätze zu einer post-
+kolonial-feministischen Kritik der Polizei am Beispiel von Racial Profiling. In D. Loick 
+(Hrsg.), Kritik der Polizei (S. 197–222). Frankfurt am Main und New York: Campus.
+
+United Kingdom, Ministry of Justice, Statistics on Race and the Criminal Justice System 
+(2012). A Ministry of Justice publication under Section 95 of the Criminal Justice Act 
+1991. London.
+
+Walburg, C. (2016). Migration und Kriminalität – aktuelle kriminalstatistische Befunde – 
+Ein Gutachten im Auftrag des Mediendienstes Integration. https://mediendienst-
+integration.de/fileadmin/Dateien/Gutachten_Walburg_Kriminalitaet_Migration.pdf. 
+Zugegriffen: 18. Juli 2022.
+
+Wesche, R. (2020). Racial Profiling als Problem der Polizeiarbeit. München: GRIN Verlag.
+
+Dr. Fatoş Atali-Timmer ist wissenschaftliche Mitarbeiterin an der Carl von Ossietzky 
+Universität in Oldenburg. Sie lehrt und forscht zu Rassismus/-kritik, rassismuskritische 
+Polizeiforschung, Antisemitismus, Migrationspädagogik, Flucht und Linguizismus.
+
+Prof. Dr. Karim Fereidooni ist Juniorprofessor für Didaktik der sozialwissenschaftlichen 
+Bildung an der Ruhr-Universität Bochum. Seine Arbeitsschwerpunkte sind Rassismuskritik 
+in pädagogischen Institutionen, Schulforschung und Politische Bildung in der Migrations-
+gesellschaft und diversitätssensible Lehrer*innenbildung.
+
+Kathrin Schroth promoviert zum Themenkomplex “Rassismus und Polizei” an der 
+Ruhr-Universität Bochum bei Juniorprofessor Dr. Karim Fereidooni und Prof. Dr. Tobias 
+Singelnstein.
+
+
+
+Rassismuskritische Polizeiforschung – Eine Spurensuche 53
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

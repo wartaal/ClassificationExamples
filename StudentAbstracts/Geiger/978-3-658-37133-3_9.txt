@@ -1,0 +1,818 @@
+﻿Strukturell – Institutionell – 
+Individuell – Dimensionen des 
+polizeilichen Rassismus: Versuch einer 
+Begriffsklärung
+
+Alexander Bosch und Roman Thurn
+
+Zusammenfassung
+
+In diesem Beitrag werden die Begriffe des individuellen, des institutionellen 
+und des strukturellen Rassismus entwickelt und für die Polizeiforschung 
+fruchtbar gemacht. Ausgangspunkt der Überlegungen ist die Beobachtung, 
+dass in der (deutschsprachigen) Polizeiforschung die Begriffe des 
+institutionellen und des strukturellen Rassismus in der Regel missverstanden 
+und daher (zu Unrecht) abgelehnt werden. In Anschluss an die Heuristik Joe 
+R. Feagins entgegnen wir, dass die Konzepte sinnvoll im Bereich der Polizei-
+forschung angewandt werden können und weiterhin relevant sind: Während 
+individueller Rassismus die Ebene der Einstellung einzelner Beamt:innen 
+umfasst, meint der institutionelle Rassismus handlungsleitende Normen inner-
+halb der Institution Polizei, welche relativ unabhängig von den individuellen 
+Einstellungen sind, während der strukturelle Rassismus Interdependenzen mit 
+rassistischen Exklusionen und Diskriminierungen außerhalb des polizeilichen 
+
+Wir entlehnen den Titel einer Kapitelüberschrift von Martin Herrnkind (2021). Wir danken 
+ihm herzlich für die Literaturhinweise und die wertvollen Diskussionen, ohne die dieser 
+Beitrag nicht zustande gekommen wäre.
+
+A. Bosch · R. Thurn (*) 
+Fachbereich Polizei und Sicherheitsmanagement (FB 5), Campus Lichtenberg, 
+Hochschule für Wirtschaft und Recht Berlin, Berlin, Deutschland
+E-Mail: roman.thurn@soziologie.uni-muenchen.de
+A. Bosch 
+E-Mail: alexander.bosch@hwr-berlin.de
+
+© Der/die Autor(en) 2022 181
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_9
+
+
+
+182 A. Bosch und R. Thurn
+
+Feldes beschreibt. Diese drei Ebenen bestehen realiter nicht getrennt von-
+einander, sondern bedingen sich, wie wir mithilfe der Autoritarismusstudien 
+der Kritischen Theorie zeigen, je gegenseitig.
+
+Schlüsselwörter
+
+Polizei · Polizeiforschung · Rassismus · Institutioneller Rassismus · 
+Struktureller Rassismus · Autoritarismus · Kritische Theorie
+
+1 Z um Stand der Forschung: Zahlreiche Einzelfälle?
+
+Die seit Längerem geführte Diskussion über Rassismus und Rechtsextremis-
+mus in der deutschen Polizei gewann im Kontext der internationalen Black Lives 
+Matter-Demonstrationen im Jahr 2020 noch einmal deutlich an Dynamik.1 In 
+dieser Debatte zeigte sich, dass man in Deutschland sehr wenig über die Ver-
+breitung rassistischer und extrem rechter Einstellungen in der Polizei oder die 
+Zahl der Ermittlungsverfahren gegen Polizist:innen in diesem Zusammenhang 
+weiß. Deshalb wurden viele Stimmen laut, die eine Studie zu Rassismus und 
+Rechtsradikalismus in der Polizei forderten. Dabei blieb leider unklar, was genau 
+untersucht werden sollte.2 Insbesondere die Frage, inwieweit es strukturellen, 
+institutionellen und/oder latenten Rassismus bei der Polizei gebe, führte und 
+führt zu politischen wie wissenschaftlichen Kontroversen. So gehen Thomas 
+Feltes und Holger Plank davon aus, dass es keinen strukturellen Rassismus in 
+der Polizei gebe, weil Strukturen an sich nicht rassistisch seien – „wenn, dann 
+sind diejenigen, die diese Strukturen ausfüllen, rassistisch oder sie handeln ent-
+sprechend“3. Ähnlich äußerte sich der Gewalt- und Rechtsextremismusforscher 
+Wilhelm Heitmeyer.4 Auch Rafael Behr sieht Rassismus nicht als institutionelle 
+
+1 Vgl. Görgen und Wagner in diesem Band.
+2 Für die Möglichkeiten der empirischen Rassismusforschung in der Polizei vgl. Kemme 
+und Taefi in diesem Band.
+3 Feltes und Plank (2021), S. 274.
+4 Werkstattgespräche des Forschungsinstituts für öffentliche und private Sicherheit Berlin 
+am 11. November 2020 mit dem Titel: „Warum ist es so schwierig, Rechtsextremismus, 
+Rassismus und Demokratiefeindlichkeit in der Polizei zu untersuchen?“.
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 183
+
+Konstante der Polizei, obwohl er dort eine quasi institutionalisierte Aus-
+prägung von Xenophobie zugibt.5 Strukturelle Zusammenhänge zwischen dis-
+kriminierendem Recht und einer rassistischen polizeilichen Praxis sieht Rafael 
+Behr zwar, benennt diese aber nicht als strukturellen Rassismus.6 Rassismus 
+verortet er primär auf der individuellen Ebene, was insgesamt typisch für die 
+deutsche Polizeiforschung ist. So zeigen Daniela Hunold und Maren Wegner, 
+dass sich die deutsche Forschung zu Rassismus und Rechtsradikalismus in 
+der Polizei bisher überwiegend mit Fragen innerpolizeilicher Einstellungs-
+muster beschäftigt hat und kaum mit den Funktionsweisen von institutionellem 
+und strukturellen Rassismus im Kontext der Polizei.7 An dieser Stelle hat die 
+deutsche Polizeiforschung bisher einen blinden Fleck, weil sie die Erkenntnisse 
+der Rassismusforschung ignoriert und sich schwertut mit den Begriffen von 
+institutionellem und strukturellen Rassismus.8 Deshalb möchten wir in diesem 
+Beitrag die Begriffe des strukturellen und institutionellen Rassismus im Kontext 
+Polizei schärfen und dabei auch darstellen, wie individueller, institutioneller und 
+struktureller Rassismus in diesem Feld miteinander verwoben sind.
+
+2 R assismus: Versuch einer Begriffsklärung
+
+In Anschluss an Stuart Hall verstehen wir Rassismus als den Ausschluss 
+bestimmter Gruppen vom Zugang zu materiellen oder symbolischen Ressourcen 
+und/oder die Anwendung von Gewalt gegen diese Gruppen, welche durch die 
+Konstruktion einer ethnischen und/oder kulturellen Differenz legitimiert werden.9 
+Wir unterscheiden zwischen drei Dimensionen: Rassismus als Einstellung bzw. 
+individuellem Rassismus im Sinn einer individuellen rassistischen Disposition 
+(2.1), institutionellem Rassismus als einer sich wiederholenden sozialen Praxis, 
+welche handlungsleitend wirkt (2.2) und strukturellem bzw. systemischem10 
+Rassismus als einer feldübergreifenden, interinstitutionellen Wirkung 
+
+5 Behr (2017). Wobei seine Beschreibung von Diskriminierung eigentlich eine Definition 
+von Rassismus ist, sodass man sich fragt, wieso er Rassismus nicht als solchen bezeichnet.
+6 Behr (2019), S. 24.
+7 Hunold und Wegner (2020).
+8 Bosch (2021).
+9 Vgl. Hall (2000); Karakayalı in diesem Band.
+10 Wir werden im Folgenden lediglich den Begriff des strukturellen Rassismus verwenden, 
+verstehen ihn aber synonym zum systemischen Rassismus, vgl. Feagin (1977).
+
+
+
+184 A. Bosch und R. Thurn
+
+rassistischer Diskriminierung (2.3). Die Trennung dieser Ebenen verläuft entlang 
+der von Joe R. Feagin entworfenen Typologie, die rassistische Diskriminierung 
+hinsichtlich ihres Grads der Einbettung in Institutionen sowie ihrer Abhängig-
+keit von Intentionalität unterscheidet.11 Dieses Modell wurde jüngst von Martin 
+Herrnkind für die Polizeiforschung fruchtbar gemacht.12
+
+Wir entwickeln im Folgenden in Anlehnung an Feagin und Herrnkind eine 
+Heuristik des polizeilichen Rassismus, modifizieren diese leicht (indem wir die 
+Nebeneffektdiskriminierung weniger als institutionellen denn als strukturellen 
+Rassismus fassen) und erweitern sie um die Perspektive der Autoritarismus-
+forschung, um die Vermittlung zwischen den drei Ebenen zu fassen. Die drei 
+Ebenen des Rassismus sind relativ autonom: Sie sind in ihrer jeweiligen 
+Reproduktion zwar grundsätzlich voneinander abhängig, aber sie können in 
+bestimmten Fällen über einen gewissen Zeitraum unabhängig voneinander fort-
+bestehen: So kann ein individueller Rassismus in manchen Kontexten wirk-
+mächtig sein, ohne dass dieser in einen institutionellen oder strukturellen Rahmen 
+eingebettet wäre, während umgekehrt auch strukturelle und institutionelle Dis-
+kriminierungen Ausschlüsse hervorbringen können, ohne dass die handelnden 
+Akteure rassistische Einstellungen haben müssen. Allerdings erscheint Rassis-
+mus als Einstellung umso legitimer, je stärker er in strukturelle und institutionelle 
+rassistisch legitimierte Herrschaftsverhältnisse eingebettet ist – und umgekehrt.
+
+2.1  Rassismus als Einstellung
+
+Individueller Rassismus meint diskriminierende Haltungen und Praktiken der 
+Subjekte. Er besteht auf zwei Ebenen: auf der Ebene der Einstellung und Haltung 
+einerseits und der Handlung andererseits. Auf Einstellungsebene ist damit die 
+subjektive Abwertung bestimmter sozialer Gruppen entlang der Zuschreibung 
+ethnischer oder kultureller Differenzen gemeint. Wenn Einzelne Aussagen 
+wie „Muslimen sollte die Zuwanderung nach Deutschland untersagt werden“ 
+oder „Sinti und Roma sollten aus den Innenstädten verbannt werden“13 „eher“ 
+oder „voll und ganz“ zustimmen, so kann von einer individuellen rassistischen 
+
+11 Feagin (1977).
+12 Herrnkind (2021).
+13 Aussagen jeweils aus Decker et al. (2015), S. 58.
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 185
+
+ Disposition bzw. Einstellung gesprochen werden.14 Für die Polizei werden seit 
+den 1990er Jahren solche Einstellungsmuster erhoben, aber nicht regelmäßig und 
+auch nur auf Länderebene.15
+
+Neben den Einstellungen können auch Handlungen unter den individuellen 
+Rassismus gefasst werden: Feagin charakterisiert individuellen Rassismus 
+daher als „isolate discrimination“, also eine „injurious action taken in violation 
+of prevailing organizational or social norms by a bigoted individual against 
+members of subordinate groups“16, bspw. wenn weiße Beamte schwarze 
+Inhaftierte bei jeder Gelegenheit, die sich ihnen bietet, schlagen würden. Diese 
+Definition bedarf unserer Meinung nach insofern einer kleinen Korrektur, als 
+auch Formen der Diskriminierung, welche zwar unabhängig von organisationalen 
+Regeln durchgeführt werden, aber nicht unmittelbar gegen diese verstoßen, 
+unter individuellen Rassismus subsumiert werden können. Unter organisationale 
+Regeln fassen wir sowohl formale als auch informale Organisationskulturen, die 
+verbindliche (Erwartungs-)Erwartungen produzieren und damit die Kohäsion 
+der Organisation garantieren.17 Für die Polizei thematisierte Rafael Behr dies 
+bspw. als Widerstreit zwischen formalisierter Polizeikultur und informaler Cop 
+Culture.18 Einzelne Beamte der Polizei können also auf Ebene der Einstellung 
+rassistische Dispositionen besitzen oder rassistisch handeln, ohne dass diese in 
+(formal oder informal) institutionalisierte Praktiken bzw. institutionalisiertes 
+Wissen überführt werden. Dies gilt etwa, wenn Polizist:innen dem NS-Denken 
+nahestehen und trotzdem ihren Job als Personenschützer:innen des Vorstehers 
+der Jüdischen Gemeinde Deutschlands professionell nachkommen.19 Ein 
+Verstoß gegen in-/formale organisationale Normen läge erst dann vor, wenn 
+die NS-Affinität von diesen Beamt:innen offen artikuliert bzw. sie dieser ent-
+sprechend handeln würden (wobei auf individuelle Einstellungen nicht notwendig 
+individuelle Handlungen folgen20).
+
+14 Vgl. bspw. Heitmeyer (2002–2011); Decker et al. (2016); Decker und Brähler (2018); 
+Karakayalı in diesem Band.
+15 Hunold und Wegner (2020), S. 28 f. m.w.N; vgl. auch in diesem Band Atali-Timmer, 
+Fereidooni und Schroth; Groß, Clasen und Zick sowie Ellrich und Wegner.
+16 Feagin (1977), S. 184 (Hervorhebung durch die Autoren).
+17 Kühl (2014), S. 150 ff; vgl. Hunold in diesem Band.
+18 Behr (2008).
+19 Behr (2019), S. 23.
+20 Vgl. Gutschmidt und Czudnochowski in diesem Band.
+
+
+
+186 A. Bosch und R. Thurn
+
+Wir halten es zudem für sinnvoll, auch sporadische rassistische Dis-
+kriminierung durch Gruppen („sporadic group discrimination“21) als eine Form 
+von aggregiertem individuellem Rassismus zu verstehen, sofern diese nicht in 
+handlungsleitende (zunächst in der Regel informale) Handlungserwartungen 
+überführt werden. Dies wäre bspw. der Fall, wenn Beamt:innen gemeinsam 
+über den Wandkalender der Deutschen Polizeigewerkschaft (DPolG) aus dem 
+Jahr 2012 lachen, der mithilfe rassistischer Schenkelklopfer den Dienstalltag 
+karikieren sollte22.
+
+Die informale Diskriminierung durch Gruppen ist, so vermuten wir, ein 
+Grenzfall zwischen institutionalisiertem und individuellem Rassismus: Durch 
+die in der Gruppe geteilten normativen und kognitiven Erwartungen wiederholen 
+sich bestimmte habitualisierte Handlungen und werden, als geteilte Wissensvor-
+räte, tendenziell institutionalisiert. Wir sprechen jedoch erst von institutionellem 
+Rassismus, wenn dieser auch dann handlungsleitend für Beamt:innen wirken 
+kann, wenn diese auf Ebene der Einstellung keine rassistische Disposition auf-
+weisen. Das Teilen rechtsradikaler Inhalte in dienstlichen Chatgruppen ist daher 
+eine Form von informalem, aggregiertem individuellem Rassismus, mit einer 
+Tendenz zu dessen Institutionalisierung. Rassismus ist allerdings auf Ebene 
+der Einstellung kein biographischer „Zufall“, sondern hat seinen Grund in der 
+Gesellschaft selbst: Decker et al. versuchen bspw. in den Leipziger „Mitte“-
+Studien die soziale Bedingtheit des Ressentiments als eine Reaktion auf soziale 
+Entsicherung23 bzw. die permanente Krise des Kapitalismus24 und dessen 
+securitization25 zu begreifen. Um diese Ebenen zu verschränken, greifen sie daher 
+auf Konzepte wie dasjenige des Autoritarismus (vgl. 2.4) zurück.
+
+2.2  Institutioneller Rassismus
+
+Der Begriff des institutionellen Rassismus taucht erstmals in der schwarzen 
+Bürgerrechtsbewegung der USA in den 1960er Jahre in Abgrenzung zum 
+
+21 Feagin (1977), S. 185.
+22 Wimmer (2012).
+23 Decker et al. (2010), S. 14 ff.
+24 Decker et al. (2010), S. 18 ff.
+25 Decker et al. (2010), S. 38 ff; vgl. Buzan et al. (1998).
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 187
+
+individuellen Rassismus auf26: Während letzterer offen zutage trete, wirke 
+erstere subtil, etwa durch den erschwerten Zugang zu Essen, medizinischer 
+Versorgung oder Wohnungen für schwarze Menschen.27 In den 1970er 
+Jahren wurde schließlich von Joe R. Feagin eine Differenzierung zwischen 
+systemischem/strukturellem und institutionellem Rassismus eingeführt. An diese 
+Differenzierung wollen wir anknüpfen.
+
+Um die Sache zunächst zu verkomplizieren, muss festgehalten werden, dass 
+Rassismus nie ein rein individuelles, sondern stets ein soziales Produkt, und 
+daher notwendig in sozialen Institutionen i.w.S. verankert ist.28 Es ist dennoch 
+möglich, den in der Polizei institutionalisierten Rassismus von Formen des 
+Rassismus als einer individuellen Einstellung analytisch zu trennen. Eine 
+soziale Institution ist in unserem Verständnis eine reziproke Typisierung 
+habitualisierter Handlungen.29 Sie ist also, mit Emile Durkheim, „jede mehr 
+oder minder festgelegte Art des Handelns, die die Fähigkeit besitzt, auf den 
+Einzelnen einen äußeren Zwang auszuüben; oder auch, die im Bereiche einer 
+gegebenen Gesellschaft allgemein auftritt, wobei sie ein von ihren individuellen 
+Äußerungen unabhängiges Eigenleben besitzt“30. Wir können also von 
+einem institutionalisierten Rassismus in der Polizei sprechen, wenn eine dis-
+kriminierende Differenzierung anhand der Zuschreibung ethnischer Kriterien in 
+der Organisation der Polizei für Einzelne, unabhängig von deren Intention bzw. 
+der Einstellung, handlungsleitend wird. Institutioneller Rassismus ist also nicht 
+einfach „Rassismus in der Institution“.31 Das gilt bspw., wenn Polizist:innen auf-
+grund zugeschriebener ethnischer Kriterien Fahrzeug- und Personenkontrollen 
+durchführen, weil sie die Insassen als „typisches Clanmilieu“ wahrnehmen, 
+oder in einem grenzüberschreitenden Zug den ersten „Nigerianer“ kontrollieren, 
+„welchen man sieht“32, da „man ja wisse, dass junge Männer mit schwarzer Haar-
+farbe am Steuer eines teuren Autos Clanmitglieder, oder schwarze Menschen 
+wohl eher keine deutschen Staatsbürger*innen seien“. Ein weiteres prominentes 
+Beispiel ist das massenhafte Racial Profiling in der Silvesternacht 2016/17 
+
+26 Hamilton und Carmichael (1967); vgl. Karakayalı in diesem Band.
+27 Hamilton und Carmichael (1967), S. 4.
+28 Miles (2003), S. 109.
+29 Berger und Luckmann (1980), S. 58.
+30 Durkheim (1976), S. 114; vgl. Berger und Luckmann (1980), S. 62 Fn. 25.
+31 Vgl. demgegenüber Heitmeyer in diesem Band.
+32 Beide Aussagen haben Polizist:innen in Interviews bzgl. des Auswahlverfahrens zur 
+Personenkontrolle gegenüber einem der Autoren gemacht.
+
+
+
+188 A. Bosch und R. Thurn
+
+in Köln, wo die angenommene nordafrikanische Herkunft ausreichte, um als 
+potentieller Sexualstraftäter und/oder Taschendieb zu gelten und polizeilich 
+kontrolliert zu werden.33
+
+Die Polizei geht in diesen Fällen davon aus, entlang äußerer, quasi ethnischer 
+Kriterien die Mitglieder einer Gruppe erkennen zu können, der sie eine Nähe 
+zu strafbarem Verhalten zuschreibt. Diese Zuschreibung ist für Menschen, 
+welche die Polizei dieser Gruppe zurechnet, nachteilig. Sie erfolgt entlang von 
+Kriterien, die innerhalb der Institution der Polizei, d. h. unabhängig von den 
+Einstellungen der einzelnen Polizisten, normativ, also handlungsleitend wirken. 
+Nach Feagin lässt sich diese Form des institutionalisierten Rassismus als direkte 
+institutionalisierte Diskriminierung fassen. Der direkte institutionalisierte Rassis-
+mus lässt sich definieren als „socially prescribed actions which by intention 
+have a differential and adverse impact on members of subordinate groups“34. 
+Dabei ist es irrelevant, ob die als Normen institutionalisierten rassistischen 
+Differenzierungen formal oder informal35 gelten; ob sie also als Lagebilder 
+formalisiert sind oder unter Kolleg:innen als informale Wissensbestände 
+zirkulieren. Denn informale Erwartungen nehmen bisweilen die Form von 
+polizeilichen Narrativen bzw. Mythen an; Helden- und anderen Geschichten, 
+welche von Generation zu Generation, oder von Dienstgruppe zu Dienstgruppe 
+weitergegeben werden – und damit handlungsleitend werden.36 Es handelt sich 
+im Fall des direkt institutionalisierten Rassismus weniger um moralische als um 
+kognitive institutionalisierte Erwartungen und Normen. Salopp formuliert: „Wir 
+wissen zwar, dass man eigentlich nicht unterstellen darf, dass bestimmte Gruppen 
+krimineller seien als andere, aber tatsächlich erkennen wir unsere Schweine 
+am Gang.“37 Daraus folgt, dass einzelne Beamt:innen entlang dem direkten 
+institutionalisierten Rassismus rassistisch handeln können, obwohl sie auf der 
+individuellen Einstellungsebene keine rassistischen Ressentiments hegen, und 
+ohne dabei gegen in-/formale Regeln verstoßen.
+
+Der direkten institutionalisierten Diskriminierung stellen wir in Anschluss 
+an Feagin die indirekte institutionalisierte Diskriminierung zur Seite: Feagin 
+definiert indirekte institutionalisierte Diskriminierung als eine Reihe gefestigter 
+
+33 Münchener Merkur (2017).
+34 Feagin (1977), S. 185.
+35 Feagin (1977), S. 185.
+36 Vgl. Schöne (2011), S. 212 f.
+37 Vgl. Reichertz (2018).
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 189
+
+Praktiken, die einen nachteiligen bzw. diskriminierenden Effekt für eine 
+bestimmte Gruppe haben, die aber ihrer Erscheinung bzw. Form nach fair und 
+nicht unmittelbar diskriminierend seien.38 Der rassistischen Diskriminierung 
+liegt nicht notwendig ein Ressentiment zugrunde.39 Feagin unterscheidet hin-
+sichtlich der indirekten institutionalisierten Diskriminierung zwischen side-effect 
+discrimination und past-in-present discrimination.40 Erstere ist unserer Meinung 
+nach richtiger als struktureller Rassismus zu fassen, weshalb wir diese separat 
+behandeln werden (s. u.). Past-in-present discrimination meint das Fortwirken 
+diskriminierender Effekte bei Praktiken, welche der Form nach neutral oder fair 
+erscheinen.41 Dies deckt sich in etwa mit der Definition für institutionalisierten 
+Rassismus, welche Robert Miles vorschlägt: „[…] the concept of institutional 
+racism does not refer to exclusionary practices per se but to the fact that a 
+once present discourse is now absent and that it justified or set in motion 
+exclusionary practices that therefore institutionalise that discourse“42. Indirekter 
+institutionalisierter Rassismus existiert in der Polizei in der Fortsetzung dis-
+kriminierender Praktiken unter egalitärem Vorzeichen; als einer formell an der 
+Strafverfolgung bzw. Gefahrenabwehr ausgerichteten, de jure also korrekten, 
+de facto aber diskriminierenden Fokussierung polizeilicher Maßnahmen auf 
+bestimmte ethnisierte Gruppen.
+
+Ein prägnantes Beispiel für indirekten institutionalisierten, past-in-present 
+Rassismus in der bundesdeutschen Polizei ist der labelling-Prozess von Sinti und 
+Roma durch die deutschen Behörden. Gegen Ende des 19. Jahrhunderts begann 
+die deutsche Polizei auf dem zugrunde gelegten Konzept der „Zigeunerkriminali-
+tät“ Personenkarteien anzulegen.43 Diese wurden teilweise bruchlos(!) bis in 
+die 2000er Jahre weitergeführt. Markus End stellt fest, dass die Polizei in ver-
+schiedenen Karteien sprachlich korrektere Umcodierungen vorgenommen hat: 
+
+38 Feagin (1977), S. 186. Feagin erklärt, dass diese Formen des institutionellen Rassismus 
+zunächst nicht dazu intendiert seien, rassistisch diskriminierend zu wirken. Wir halten 
+diese Annahme für vorschnell: Auch der Erscheinung nach faire Regelungen können mit 
+der bewussten oder unbewussten Intention in Kraft gesetzt werden, damit rassistische Dis-
+kriminierung durchzusetzen. Entscheidend ist jedoch, dass die Intention auf Ebene des 
+indirekten institutionalisierten Rassismus für die Praxis weniger bzw. nicht relevant ist.
+39 Vgl. Herrnkind (2021), S. 95 f.
+40 Feagin (1977), S. 186 ff.
+41 Feagin (1977), S. 189.
+42 Miles (2003), S. 110.
+43 End (2019), S. 23.
+
+
+
+190 A. Bosch und R. Thurn
+
+statt von „Zigeunern“ war von „mobilen ethnischen Minderheiten“, „wechselt 
+häufig Aufenthaltsort“ oder „RuBus“44 die Rede.45 Die Verfolgung von Sinti 
+und Roma durch die Polizei orientiert sich dabei zwar an tatsächlich strafbaren 
+Handlungen (wie bspw. Wohnungseinbruchsdiebstählen). Diese codieren die 
+Beamt:innen jedoch ethnisch, sodass häufiger Angehörige der Sinti und Roma in 
+den Fokus polizeilicher Ermittlungstätigkeit geraten.46
+
+Am Beispiel der Clankriminalität zeigt sich, dass die analytische Trennung 
+zwischen direktem und indirektem institutionalisierten Rassismus in der 
+Empirie häufig nicht eineindeutig aufrechterhalten werden kann.47 So weisen 
+die Landeskriminalämter Berlin und NRW zwar drauf hin, dass die Zugehörig-
+keit von Einzelpersonen oder Familien zu einer bestimmten Ethnie ausdrück-
+lich keine Subsumtion unter den Begriff „Clankriminalität“ begründen könne. 
+Dennoch findet sich in den Berichten eine intersektionale Stigmatisierung durch 
+rassistische Zuschreibungen und Diskriminierung aufgrund des sozialen Status.48 
+Ein weiteres Beispiel ist die Broschüre Arabische Familienclans – Historie. 
+Analyse. Ansätze zur Bekämpfung. des Polizeipräsidium Essen49, in der zwar 
+drauf hingewiesen wird, dass keineswegs alle Clanmitglieder kriminell seien. 
+Dennoch unterstellt die Broschüre „eine Aversion vor regulärer Arbeit für jemand 
+anderen als die eigene Gemeinschaft“, „ein bestimmtes Ehrverständnis“ oder 
+„Anspruchsdenken in den Familien generell“ (indirekter institutionalisierter 
+Rassismus). Sie empfiehlt bestimmte polizeiliche Praktiken auf der Grundlage 
+rassistischer Zuschreibungen: Die Beamt:innen sollen bspw. Hunde zu Einsätzen 
+mitnehmen, weil diese im sunnitischen Islam als unrein gelten würden (direkter 
+institutionalisierter Rassismus).
+
+44 Die Abkürzung, welche an die des „Nafri“ erinnert, steht für rumänische und bulgarische 
+Staatsangehörige. Markus End weist darauf hin, dass äußerliche und sprachliche 
+Gemeinsamkeiten zwischen diesen beiden Gruppen schlechterdings nicht gemeint sein 
+können. Sie ergibt erst vor dem Hintergrund der antiziganistischen Debatte um Armuts-
+zuwanderung Sinn (End 2019), S. 33.
+45 End (2019), S. 28 ff.
+46 Vgl. Egbert (2018), S. 657 ff.
+47 Auch die indirekte past-in-present-Diskriminierung von Sinti und Roma, die sich vorder-
+gründig an der Prävention und Repression von Straftaten orientiert, weist ein Moment von 
+Intentionalität auf.
+48 Liebscher (2020).
+49 Polizeipräsidium Essen (2020).
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 191
+
+2.3  Struktureller Rassismus
+
+Die häufig synonyme Verwendung der Begriffe von strukturellem und 
+institutionellem Rassismus verdeckt unseres Erachtens die Ebene der Inter-
+dependenz verschiedener Institutionen zueinander. Diese begreifen wir als 
+strukturelle Dimension des Rassismus. Die Wechselwirkung zwischen direkter 
+und indirekter, zwischen rechtlicher und politischer, ökonomischer und polizei-
+licher, etc. Diskriminierung ist keine, welche unmittelbar institutionalisiert wäre, 
+sondern kann mit Janet Chan (und in Anschluss an Pierre Bourdieu) als Kontext 
+des polizeilichen Felds50 bezeichnet werden: Praktiken sowie normative und 
+kognitive Erwartungen anderer Felder transformieren das Feld der Polizei; recht-
+liche und ökonomische Diskriminierung können polizeiliche Praktiken verändern. 
+Feagin bezeichnet diese Diskriminierung als Nebeneffektdiskriminierung.51 
+Struktureller Rassismus, begriffen als ein Verhältnis zwischen den Institutionen, 
+äußert sich in der Praxis als indirekter oder direkter institutioneller Rassis-
+mus, weshalb zwischen den Ebenen häufig nicht unterschieden wird. Eine 
+Differenzierung ist jedoch wie folgt möglich:
+
+Die nationalstaatlich organisierte kapitalistische Produktionsweise erzeugt 
+notwendig Ausschlüsse vom gesellschaftlichen Reichtum52 sowie eine 
+Konkurrenz unter den Subjekten, die ihre Arbeitskraft als Ware (unter der 
+Bedingung ihrer tendenziell voranschreitenden Entwertung) verkaufen müssen.53 
+Unter diesem Vorzeichen legitimiert der Rassismus den Ausschluss bestimmter, 
+ethnisch und/oder kulturell definierter Gruppen von diesem Reichtum54, ihre 
+Benachteiligung auf dem Wohnungs-55 und Arbeitsmarkt56, oder ihre überdurch-
+schnittliche Ausbeutung57. Dies ist hinsichtlich indirekter (1.) als auch hinsicht-
+lich direkter institutioneller Diskriminierung (2.) relevant:
+
+50 Chan (1996), S. 112, 128.
+51 S.o.; vgl. Feagin (1977), S. 186 ff.
+52 Ritsert (2018), S. 45 ff.
+53 Vgl. Preuß (1973), insb. S. 54 ff.
+54 Vgl. Marz (2021); auf europäischer Ebene vgl. Forschungsgruppe „Staatsprojekt Europa“ 
+(2014).
+55 Vgl. Hinz und Auspurg (2017).
+56 Vgl. Piper und Mohammadi (2014).
+57 Vgl. bspw. Schmitt-Egner (1976).
+
+
+
+192 A. Bosch und R. Thurn
+
+1.   Die polizeiliche Arbeit erfasst häufiger Formen sog. Armutskriminalität als 
+etwa sog. White Collar Crime.58 Rassistische Ausschlüsse vom Wohn- oder 
+Arbeitsmarkt führen dazu, dass Angehörige ethnisierter Gruppen aufgrund 
+ihrer sozialräumlichen Lage59 schneller in den polizeilichen Blick geraten. 
+Ein Beispiel dafür ist das policing von (häufig wohnungslosen) Männern aus 
+Osteuropa auf dem Tagelöhnermarkt: Aufgrund der Diskriminierung 
+auf dem Wohnungs- und Arbeitsmarkt sind diese Männer sowohl 
+sozialstrukturell als auch durch ihre Präsenz in der Öffentlichkeit einem 
+stärkeren Polizeikontakt ausgeliefert.60 Hier handelt es sich um eine Form 
+von indirekter institutioneller Diskriminierung aufgrund des strukturellen 
+Rassismus.
+
+2.   Auch in dem Fall, man würde die Einteilung der Welt in Nationalstaaten für 
+eine unumgehbare und nichtrassistische Notwendigkeit halten, lässt sich 
+konstatieren, dass bestimmte Momente des europäischen und auch deutschen 
+Migrationsregimes rassistische Diskriminierungen erzeugen. Ein solches 
+Moment ist die sog. Residenzpflicht.61 Geflüchtete dürfen sich nach § 56 
+AsylG nur in einem ihnen zugewiesenen Aufenthaltsbereich im Gebiet der 
+Bundesrepublik Deutschland bewegen. Die polizeiliche Durchsetzung der 
+Residenzpflicht ist eine Form der direkten institutionellen Diskriminierung, 
+die aber abhängt von polizeiexternen rechtlichen Normierungen hinsichtlich 
+der Aufenthaltsbedingungen Geflüchteter. Dies gilt auch für die Konstruktion 
+des sog. „Fremdschlafens“ in Bayern: Geflüchteten ist es verboten, in 
+anderen Unterkünften als der ihnen zugewiesenen zu nächtigen. Ein solches 
+„Fremdschlafen“ wird entsprechend von der bayerischen Polizei als Haus-
+friedensbruch geahndet. Der Verdacht auf die Anwesenheit von Fremd-
+schlafenden konstituiert einen dringenden Tatverdacht, nach welcher es der 
+bayerischen Polizei möglich ist die Unterkünfte Geflüchteter zu betreten – 
+was die bayerische Polizei häufig nutzt, um Kontrollen von Unterkünften zu 
+legitimieren.62
+
+58 Sutherland (1983).
+59 Vgl. Vester et al. (2001).
+60 Vgl. Riedner (2018); vgl. Thurn (2020).
+61 Anders als Behr (2019) halten wir diese für rassistisch; vgl. Selders (2009).
+62 Boehm und Ziyal (2020).
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 193
+
+2.4  Keine Struktur ohne Praxis
+
+Die von Feagin entworfene und von uns hier weiterentwickelte analytische Unter-
+scheidung zwischen verschiedenen Formen und Ebenen des Rassismus bietet 
+eine Heuristik, welche hilft die verschiedenen Grade von Intentionalität und 
+Institutionalisierung rassistischer Zuschreibungen zu begreifen.63 Wie wir jedoch 
+ebenfalls zeigen konnten, sind diese Ebenen in der rassistisch diskriminierenden 
+Praxis häufig gleichzeitig präsent: Es sind einzelne Menschen, welche Strukturen 
+und Institutionen handelnd reproduzieren, und umgekehrt verleihen Strukturen 
+und Institutionen den singulären Handlungen einen spezifischen Sinn. Um Hand-
+lung und Struktur nicht schroff einander gegenüberzustellen, bedürfen sie einem 
+vermittelnden Begriff. Ähnlich wie Bourdieu diese Vermittlung im Habitus 
+suchte64, wollen wir hier vorschlagen, das Konzept des Autoritarismus für die 
+Polizeiforschung fruchtbar zu machen.
+
+Die Kritische Theorie verstand den Autoritarismus als eine Reaktion auf 
+die permanente Krise der warenproduzierenden Gesellschaft.65 Im Sinn einer 
+Kritik des verdinglichenden Bewusstseins66 stellt die Kritische Theorie dar, dass 
+soziale Hierarchien im Kapitalismus nicht als solche erscheinen, sondern als öko-
+nomische und/oder politische Sachzwänge, denen sich die Einzelnen „fast lust-
+voll“67 unterwerfen. Unter das autoritäre Syndrom zählten Adorno et al. daher 
+Aspekte wie Konventionalismus, autoritäre Unterwürfigkeit und Aggression, die 
+Abwehr von Sensibilität und Schwäche, Aberglaube und Stereotypie, Macht-
+denken, Destruktivität und Zynismus, Projektivität (im Sinn eines irrationalen 
+Gefahrenbewusstseins!), und die übermäßige Beschäftigung mit der Sexuali-
+tät.68 Der autoritäre Charakter unterwirft sich Institutionen und sozialen Instanzen 
+mit quasi-väterlichen Qualitäten (wie bspw. der Institution der Polizei oder der 
+Gefahrengemeinschaft69), ohne jedoch seine Aggression in den eigenen Charakter 
+integrieren zu können, und externalisiert sie in Gewalt gegen die Fremdgruppe – 
+
+63 Herrnkind (2021).
+64 Bourdieu (1979).
+65 Vgl. Horkheimer (2005); für den Rassismus vgl. Schmitt-Egner (1976).
+66 Lukács (1968).
+67 Nachtwey (2016), S. 222.
+68 Adorno (1995), S. 45.
+69 Vgl. Behr (2008).
+
+
+
+194 A. Bosch und R. Thurn
+
+umso mehr, wenn diese als „minderwertig“ oder „schwach“ erscheint70: gegen 
+(vermeintliche) „Ausländer“, „Sozialschmarotzer“ oder linke „Zecken“. Durch 
+die rassistische/antisemitische/sexistische/homophobe/etc. Projektion aggressiver 
+Triebregungen auf den Anderen können diese zugelassen werden. Der Begriff 
+der Charakterstruktur als einer „Struktur im Individuum, etwas, das selbst zum 
+Handeln gegenüber der sozialen Umwelt und zur Auswahl unter den mannig-
+faltigen von ihr ausgehenden Stimuli fähig ist; das, wenn es auch modifizier-
+bar bleibt, gegen tiefgreifende Veränderungen häufig sehr resistent ist“71, weist 
+Parallelen zu Bourdieus Begriff des Habitus als einer vermittelnden Instanz 
+zwischen Struktur und Subjekt auf.72 Die Kritische Theorie bzw. die Autoritaris-
+musstudien sind daher anschlussfähig für eine Polizeiforschung, die sich explizit 
+an Pierre Bourdieus Praxistheorie orientiert.73
+
+Die Studien zum Autoritären Charakter werden missverstanden, wenn sie als 
+individualpsychologische Untersuchungen begriffen werden.74 Die Perspektive 
+der Kritischen Theorie erlaubt, trotz gewisser Einschränkungen, eine Vermittlung 
+von Makro-Soziologie und Sozialpsychologie75, welche daher auch für die 
+Polizei- und Sicherheitsforschung fruchtbar gemacht werden kann. Insbesondere 
+im Feld des polizeilichen Rassismus eröffnet sie die Möglichkeit, strukturellen, 
+institutionellen und individuellen Rassismus als durch die Institution der Polizei 
+vermittelte zu verstehen: Der Rassismus erscheint dann als Teilsyndrom eines 
+polizeilichen autoritären Charakters, dessen Träger sich aufgrund der Loyalitäts-
+anforderungen der Gemeinschaft mit den (rassistischen) Herrschaftsstrukturen 
+identifizieren. Sie richten ihre dabei entstehende Aggression in der Folge gegen 
+Fremdgruppen, welche gleichzeitig als gefährlich und als (sozial) schwach 
+imaginiert werden. Ichstarke Polizist:innen wiederum, welche auch institutionelle 
+und strukturelle Anforderungen kritisch hinterfragen, dürften, der Kritischen 
+Theorie folgend, weniger anfällig für rassistische Einstellungen sein.
+
+70 Marz (2017), S. 259 f.
+71 Adorno (1995), S. 8 (Hervorhebung im Original).
+72 Bourdieu (1973), S. 170 f.
+73 Chan (1996); Herrnkind (2021); Schöne (2011).
+74 So bspw. Weiß (2013).
+75 Marz (2017); Nachtwey (2016).
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 195
+
+2.5  Gibt es also institutionellen Rassismus in der Polizei?
+
+In Anlehnung an Cengiz Barskanmaz glauben wir, dass ohne ein Verständnis 
+von Rassismus als einer Struktur und einer Institution Bemühungen, Rassismus 
+in der Polizei zu bekämpfen, unwirksam bleiben.76 Deshalb haben wir die ver-
+schiedenen Begrifflichkeiten für die deutsche Polizeiwissenschaften fruchtbar 
+gemacht und konnten zeigen, dass es institutionellen Rassismus in der Polizei 
+gibt, der einerseits von strukturellem Rassismus außerhalb des Feldes abhängt 
+und andererseits durch die handelnden Akteure in der Institution wirkmächtig 
+wird. Wir hoffen, dass dadurch ein Verständnis für die verschiedenen Ebenen 
+des Rassismus in der deutschen Polizei und den deutschen Polizeiwissenschaften 
+geschaffen werden kann. Zukünftige Untersuchungen sollten alle Ebenen in 
+den Blick nehmen und nicht nur auf der Ebene der Einstellungs- und Vorurteils-
+forschung verbleiben. Denn bei einem Phänomen, das so deutlich politische, 
+historische und kollektive Bezüge aufweist wie der Rassismus, lässt sich leicht 
+zeigen, dass die individuumszentrierte Forschung den Gegenstand in nicht zu 
+rechtfertigender Weise verkürzt.77 Damit ist keinem geholfen; schon gar nicht 
+einer Polizei die sich den Menschenrechten verpflichtet fühlt und nicht rassistisch 
+handeln möchte.
+
+Literatur
+
+Adorno, T. W. (1995). Studien zum autoritären Charakter. Frankfurt am Main: Suhrkamp.
+Barskanmaz, C. (2019). Recht und Rassismus. Das menschenrechtliche Verbot der Dis-
+
+kriminierung aufgrund der Rasse. Berlin: Springer Nature.
+Behr, R. (2008). Cop Culture – Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+
+muster und Kultur in der Polizei. Wiesbaden: VS Verlag.
+Behr, R. (2017). Diskriminierung durch Polizeibeamte. In A. Scherr, A. El-Mafaalani & 
+
+G. Yüksel (Hrsg.), Handbuch Diskriminierung (S. 301–319). Wiesbaden: Springer 
+Fachmedien.
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft (S. 17–45). 
+Wiesbaden: Springer VS.
+
+Berger, P. L., & Luckmann, T. (1980). Die gesellschaftliche Konstruktion der Wirklichkeit. 
+Eine Theorie der Wissenssoziologie. Frankfurt am Main: Fischer Taschenbuch.
+
+76 Barskanmaz (2019), S. 11.
+77 Weiß (2013), S. 31.
+
+
+
+196 A. Bosch und R. Thurn
+
+Boehm, J., & Ziyal, Y. (2020). Ungebetener Besuch von Männern in dunkler Kleidung. 
+Hinterland-Magazin, 45, S. 15. https://www.hinterland-magazin.de/wp-content/uploads/ 
+2020/05/Hinterland-Magazin_45-15.pdf. Zugegriffen: 18. Juli 2022.
+
+Bosch, A. (2021). Die aktuelle Debatte um Rassismus und Rechtsextremismus in der 
+Polizei. vorgänge. Zeitschrift für Bürgerrechte und Gesellschaftspolitik, 59(3–4), S. 167.
+
+Bourdieu, P. (1973). Grundlagen einer Theorie der symbolischen Gewalt. Frankfurt: 
+Suhrkamp.
+
+Bourdieu, P. (1979). Entwurf einer Theorie der Praxis. Auf der ethnologischen Grundlage 
+der kabylischen Gesellschaft. Frankfurt am Main: Suhrkamp.
+
+Buzan, B., Waever, O., & Wilde, J. de (1998). Security. A New Framework for Analysis. 
+Boulder/CO: Lynne Rienner.
+
+Carmichael, S., & Hamilton, C. V. (1967). Black Power. The Politics of Liberation in 
+America. New York: Vintage Books.
+
+Chan, J. (1996). Changing Police Culture. British Journal of Criminology, 36(1), S. 109.
+Decker, O., & Brähler, E. (Hrsg.) (2018). Flucht ins Autoritäre. Rechtsextreme Dynamiken 
+
+in der Mitte der Gesellschaft. Gießen: Psychosozial-Verlag.
+Decker, O., Baldauf, J., Kiess, J., & Brähler, E. (2015). Rechtsextremismus der Mitte und 
+
+sekundärer Autoritarismus. Gießen: Psychosozial-Verlag.
+Decker, O., Kiess, J., & Brähler, E. (Hrsg.) (2016). Die enthemmte Mitte. Autoritäre und 
+
+rechtsextreme Einstellung in Deutschland. Gießen: Psychosozial-Verlag.
+Decker, O., Weißmann, M., Kiess, J., & Brähler, E. (2010). Die Mitte in der Krise: Rechts-
+
+extreme Einstellungen in Deutschland. Berlin: Friedrich-Ebert-Stiftung.
+Durkheim, É. (1976). Die Regeln der soziologischen Methode. Neuwied und Darmstadt: 
+
+Luchterhand.
+Egbert, S. (2018). Predictive Policing und die soziotechnische Konstruktion ethnisch 
+
+codierter Verdächtigkeit. In M. Pfadenhauer & A. Poferl (Hrsg.), Wissensrelationen. 
+Beiträge und Debatten zum 2. Sektionskongress der Wissenssoziologie (S. 653–663). 
+Weinheim: Juventa Verlag.
+
+End, M. (2019). Antiziganismus und Polizei. Heidelberg: Zentralrat Deutscher Sinti und 
+Roma.
+
+Feagin, J. R. (1977). Indirect Institutionalized Discrimination. American Politics Quarterly, 
+5(2), S. 177.
+
+Feltes, T., & Plank, H. (2021). Auf dem Weg zu einer rechtschaffen(d)den, demokratischen 
+Bürgerpolizei. Was kann und was muss getan werden, um Rassismus und Rechts-
+extremismus in der Polizei vorzubeugen? In T. Feltes & H. Plank (Hrsg.), Rassismus, 
+Rechtsextremismus, Polizeigewalt (S. 263–300). Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+Forschungsgruppe „Staatsprojekt Europa“ (Hrsg.) (2014). Kämpfe um Migrationspolitik. 
+Theorie, Methode und Analysen kritischer Europaforschung. Bielefeld: Transcript.
+
+Hall, S. (2000). Rassismus als ideologischer Diskurs. In N. Räthzel (Hrsg.), Theorien über 
+Rassismus (S. 7–16). Hamburg: Argument.
+
+Heitmeyer, W. (Hrsg.) (2002–2011). Deutsche Zustände. Folgen 1–10. Berlin: Suhrkamp.
+Herrnkind, M. (2021). Polizeirassismus in Deutschland: Kursorischer Versuch einer 
+
+systematischen Bestandsaufnahme. In T. Feltes & H. Plank (Hrsg.), Rassismus, Rechts-
+extremismus, Polizeigewalt (S. 85–100). Frankfurt am Main: Verlag für Polizeiwissen-
+schaft.
+
+
+
+Strukturell – Institutionell – Individuell – Dimensionen … 197
+
+Hinz, T., & Auspurg, K. (2017). Diskriminierung auf dem Wohnungsmarkt. In A. Scherr, 
+A. El-Mafaalani & G. Yüksel (Hrsg.), Handbuch Diskriminierung (S. 387–406). Wies-
+baden: Springer Fachmedien.
+
+Horkheimer, M. (2005). Studien über Autorität und Familie. Forschungsberichte aus dem 
+Institut für Sozialforschung. Reprint der Ausgabe Paris 1936. Springe: Zu Klampen.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei. Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Kühl, S. (2014). Ganz normale Organisationen. Zur Soziologie des Holocaust. Frankfurt 
+am Main: Suhrkamp.
+
+Liebscher, D. (2020). Clans statt Rasse – Modernisierung des Rassismus als Heraus-
+forderung für das Recht. Kritische Justiz, 53(4), S. 529.
+
+Lukács, G. (1968). Geschichte und Klassenbewusstsein. Studien über marxistische 
+Dialektik. Darmstadt: Luchterhand.
+
+Marz, U. (2017). Annäherungen an eine Kritische Theorie des Rassismus. PERIPHERIE, 
+37 (2), S. 250.
+
+Marz, U. (2021). „Das waren noch gute Zeiten … “. Zur Bedeutung der Ideologiekritik 
+Kritischer Theorie für Rassismuskritik heute. In H. Beyer & A. Schauer (Hrsg.), Die 
+Rückkehr der Ideologie. Zur Gegenwart eines Schlüsselbegriffs (S. 401–430). Frankfurt 
+am Main und New York: Campus Verlag.
+
+Miles, R. (2003). Racism. London: Routledge.
+Münchener Merkur (2017). Kontrollen in Kölner Silvesternacht: Geheim-Bericht mit neuer 
+
+Brisanz. https://www.merkur.de/politik/racial-profiling-koelner-polizei-kontrollierte-an-
+silvester-doch-nach-herkunft-zr-7309553.html. Zugegriffen: 18. Juli 2022.
+
+Nachtwey, O. (2016). Die Abstiegsgesellschaft. Über das Aufbegehren in der regressiven 
+Moderne. Berlin: Suhrkamp.
+
+Piper, M., & Mohammadi, J. H. (2014). Partizipation mehrfach diskriminierter Menschen 
+am Arbeitsmarkt. Ableism und Rassismus – Barrieren des Zugangs. In G. Wansing & M. 
+Westphal (Hrsg.), Behinderung und Migration (S. 221–252). Wiesbaden: Springer VS.
+
+Polizeipräsidium Essen (2020). Arabische Familienclans – Historie. Analyse. Ansätze zur 
+Bekämpfung. https://www.presseportal.de/blaulicht/pm/11562/4717559. Zugegriffen: 
+18. Juli 2022.
+
+Reichertz, J. (2018). Meine Schweine erkenne ich am Gang – Revisited. In N. Burzan & 
+R. Hitzler (Hrsg.), Typologische Konstruktionen (S. 61–78). Wiesbaden: Springer VS.
+
+Riedner, L. (2018). Arbeit! Wohnen! Urbane Auseinandersetzungen um EU-Migration. 
+Eine Untersuchung zwischen Wissenschaft und Aktivismus. Dissertation. edition 
+assemblage.
+
+Ritsert, J. (2018). Reichtum, Macht, Ehre. Münster: Westfälisches Dampfboot.
+Schmitt-Egner, P. (1976). Wertgesetz und Rassismus. Zur begrifflichen Genesis kolonialer 
+
+und faschistischer Bewußtseinsformen. In H.-G. Backhaus et al. (Hrsg.), Gesellschaft 
+8/9. Beiträge zur Marxschen Theorie (S. 350–404). Frankfurt am Main: Suhrkamp.
+
+Schöne, M. (2011). Pierre Bourdieu und das Feld Polizei. Ein besonderer Fall des Mög-
+lichen. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Selders, B. (2009). Keine Bewegung! Die ‚Residenzpflicht‘ für Flüchtlinge – Bestandsauf-
+nahme und Kritik. Berlin: Eigenverlag.
+
+Sutherland, E. H. (1983). White Collar Crime. The Uncut Version. New Haven und 
+London: Yale University Press.
+
+
+
+198 A. Bosch und R. Thurn
+
+Thurn, R. (2020). „… wollen nicht verstehen, was der Bürger als normal ansieht“. Das 
+Policing von Armut durch Alkohol- und Bettelverbote am Münchner Hauptbahnhof. 
+In D. Hunold & A. Ruch (Hrsg.), Polizeiarbeit zwischen Praxishandeln und Rechts-
+ordnung (S. 329–350). Wiesbaden: Springer VS.
+
+Vester, M., Oertzen, P., Geiling, H., Hermann, T., & Müller, D. (2001). Soziale Milieus im 
+gesellschaftlichen Strukturwandel. Zwischen Integration und Ausgrenzung. Frankfurt 
+am Main: Suhrkamp.
+
+Weiß, A. (2013). Rassismus wider Willen. Ein anderer Blick auf eine Struktur sozialer 
+Ungleichheit. Wiesbaden: Springer VS.
+
+Wimmer, S. (2012). Polizei verbannt Karikaturen-Kalender. Süddeutsche Zeitung. https://
+www.sueddeutsche.de/bayern/rassismus-vorwuerfe-polizei-verbannt-karikaturen-
+kalender-1.1296089. Zugegriffen: 18. Juli 2022.
+
+Alexander Bosch hat Sozialwissenschaften an der Universität Osnabrück und an der 
+Humboldt-Universität zu Berlin studiert. Er forscht derzeit an der Hochschule für Wirt-
+schaft und Recht Berlin zu polizeilichen Personenkontrollen und zu Kontrollinstanzen der 
+Polizei und promoviert zu rassistischen Wissensbeständen in der Polizei am Institut für 
+Europäische Ethnologie der Humboldt-Universität zu Berlin.
+
+Roman Thurn promoviert zu polizeilichen Personenkontrollen an „gefährlichen Orten“ 
+am Institut für Soziologie der Ludwig-Maximilians-Universität München. Er ist aktuell 
+Stipendiat der Rosa-Luxemburg-Stiftung und war zuletzt Wissenschaftlicher Mitarbeiter im 
+Projekt MEDIAN am Forschungsinstitut für öffentliche und private Sicherheit der Hoch-
+schule für Wirtschaft und Recht Berlin.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

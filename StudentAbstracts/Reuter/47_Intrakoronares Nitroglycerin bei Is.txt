@@ -1,0 +1,12 @@
+Intrakoronares Nitroglycerin bei IschämieReperfusionsverletzung bei älteren Patienten mit akutem Koronarsyndrom nach endovaskulärer Notfallrevaskularisation. 
+
+Hintergrund:Endovaskuläre Revaskularisation ist der Goldstandard bei der Ersten Hilfe für Patienten mit akutem Koronarsyndrom. Die Ischämie-Reperfusionsverletzung des Myokards ist eine schwerwiegende Komplikation des koronaren Stentings und ältere Patienten sind dabei einem 
+hohen Risiko ausgesetzt. Es ist bekannt, dass Nitroglycerin eine kardioprotektive Wirkung hat, doch zeigen Studien widersprüchliche 
+Ergebnisse hinsichtlich der Wirksamkeit des Arzneimittels. Daher war es unser Ziel, die kardioprotektive Wirkung von Nitroglycerin während der koronaren Notfallrevaskularisation bei älteren Patienten zu untersuchen und die Ergebnisse zu bewerten.
+Methoden: Patienten ab 60 Jahren, die sich im Zeitraum November 2018 bis Februar 2019 einer koronaren Notfallrevaskularisation wegen eines akuten Koronarsyndroms in unserer Einrichtung unterzogen hatten, wurden behandelt und nahmen an einer prospektiven Studie teil. Alle Patienten erhielten eine perioperative Standardpharmakotherapie. Nachdem wir unserem Anästhesieverfahren einen intrakoronaren Nitroglycerinbolus hinzugefügt hatten, bewerteten wir die Regressionsrate der ST-Segmenterhöhung, die Häufigkeit hämodynamischer Veränderungen und die Häufigkeit von Arrhythmien.
+Ergebnisse: Dreißig Patienten erhielten eine standardmäßige perioperative Pharmakotherapie (KG [Kontrollgruppe]). Weitere 30 Patienten 
+erhielten vor der Reperfusion zusätzlich intrakoronares Nitroglycerin (EG [Behandlungsgruppe]). In der Gruppe, die Nitroglycerin erhalten 
+hatte, gab es eine Abnahme der Häufigkeit von Ereignissen wie Abwesenheit und Verzögerung des Flusses (6,7 % gegenüber 26,7 %; p = 0,04) 
+und eine höhere Regressionsrate des Anstiegs des ST-Segments in der ersten Stunde nach der Reperfusion (42, 4 ± 17,6 % vs. 34,5 ± 9,7 %; 
+p = 0,036). Es wurden eine geringere Inzidenz von Bradykardie (10 % vs. 33,3 %; p = 0,03) und Hypotonie (13, 3) vs. 40 %; p = 0,02) festgestellt. Die Häufigkeit von Arrhythmien in den Gruppen differierte nicht (p = 0,365).
+Zusammenfassung: Nitroglycerin ist ein weit verbreitetes Medikament mit kardioprotektiven Eigenschaften. Wie unsere Studie zeigt, verringert die intrakoronare Nitroglycerin-Gabe das Auftreten von Blutflussmangel und Verlangsamung des Blutflusses und verbessert die Regression der Anstiegsrate vom ST-Segment 60 Minuten nach der Reperfusion.

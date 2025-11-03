@@ -1,0 +1,4 @@
+Lipidmanagement bei Patienten mit peripherer arterieller Verschlusskrankheit (pAVK)
+
+Die Notwendigkeit, LDL-Cholesterin bei kardiovaskulärer Erkrankung zu senken, ist seit langem bekannt. Leider zeigt sich gerade bei pAVKPatienten, dass die Zielwerte immer noch nicht zufriedenstellend erreicht werden. In den rezenten ESC-Leitlinien für pAVK wird nochmals die Notwendigkeit, das LDL-C < 55 mg/dl zu senken, betont.
+Dieses Ziel kann zumeist nur durch Kombinationstherapien erreicht werden. Neben Hochdosis-Statin (Basistherapie) und Ezetimib ist die additive Therapie mit PCSK9-Inhibierung eine therapeutische Möglichkeit. Statin-intolerante Patienten sollten mit Ezetimib und zumeist Bempedoinsäure behandelt werden, auch hier kann noch additiv eine PCSK9-Inhibierung erfolgen. Es muss betont werden, dass die nachfolgende Bestimmung von LDL-C die Basis für eine weitere Steigerung bis zum Therapieziel darstellt.

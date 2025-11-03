@@ -1,0 +1,827 @@
+﻿Kritische Rassismusforschung: 
+Theorien, Konzepte, zentrale Befunde
+
+Juliane Karakayalı
+
+Zusammenfassung
+
+Rassismus ist in Deutschland noch immer ein umkämpfter Begriff. Während 
+antirassistische Initiativen, migrantische Verbände und Wissenschaftler:innen 
+seit Jahrzehnten seine Existenz und Effekte nachweisen, beginnt gerade 
+erst eine breitere gesellschaftliche Auseinandersetzung mit Rassismus. Der 
+Beitrag reagiert auf dieses Unpassungsverhältnis mit einer Einführung in 
+grundlegende Theorien der kritischen Rassismusforschung und bietet einen 
+Überblick über zentrale Konzepte und Befunde mit Relevanz für den Kontext 
+Polizei. Dazu gehört, Rassismus als gesellschaftliches Verhältnis vorzustellen, 
+Rassismen voneinander zu unterscheiden sowie institutionellen Rassismus zu 
+erläutern.
+
+Schlüsselwörter
+
+Rassismus als gesellschaftliches Verhältnis · Rassismen · Institutioneller 
+Rassismus
+
+J. Karakayalı (*) 
+Evangelische Hochschule Berlin, Berlin, Deutschland
+E-Mail: karakayali@eh-berlin.de
+
+© Der/die Autor(en) 2022 15
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_2
+
+
+
+16 J. Karakayalı
+
+1 E inleitung oder: Der erfolgreiche Kampf um die 
+Anerkennung der Tatsache des Rassismus
+
+Als Bundesinnenminister Horst Seehofer im Juli 2020 erklärte, er werde keine 
+Studie zu institutionellem Rassismus in der Polizei in Auftrag geben, war die 
+Empörung migrantischer und antirassistischer Initiativen und Vereine sowie 
+kritischer Wissenschaftler:innen groß. Denn diese Absage wirkte wie eine 
+unmissverständliche Machtdemonstration, das Offensichtliche einfach nicht 
+zur Kenntnis nehmen zu können. Und doch muss diese Absage als Erfolg der 
+unermüdlichen Arbeit eben dieser Initiativen und Akteur:innen gewertet werden, 
+denn dass ein Bundesinnenminister den Begriff des institutionellen Rassis-
+mus verwendet und sich öffentlich rechtfertigen muss, warum er diesen nicht 
+untersuchen lassen möchte, wäre vor Kurzem noch undenkbar gewesen. Jahr-
+zehntelang standen nur die Begriffe Ausländer- oder Fremdenfeindlichkeit zur 
+Verfügung, mit denen sich zwar Einstellungen, nicht aber Strukturen benennen 
+ließen und die schlichtweg falsch sind, suggerieren sie doch, Rassismus würde 
+nur Menschen betreffen, die keinen deutschen Pass besitzen. Mit der Nicht-Ver-
+wendung des Begriffs war auch eine gesamtgesellschaftliche Nicht-Anerkennung 
+rassistischer Ausschlüsse verbunden.
+
+Dass es nun möglich ist, über Rassismus zu sprechen, hat auch mit der 
+zunehmenden Diversifizierung der Gesellschaft zu tun. 2019 hatten bereits 37 % 
+der unter 18-Jährigen, die in Deutschland leben, einen sogenannten Migrations-
+hintergrund. Mehrsprachigkeit, Mehrfachzugehörigkeit, internationale Bezüge, 
+religiöse und kulturelle Diversität werden immer mehr zur Alltagsrealität Aller – 
+auch derer, die diese Bezüge selbst nicht haben. In dieser „postmigrantischen 
+Gesellschaft“1 finden diejenigen, die rassistische Ausschlüsse erleben, immer 
+mehr Möglichkeiten, diese zu thematisieren, zu kritisieren und dagegen vorzu-
+gehen. Der folgende Beitrag gibt einen – notwendigerweise unvollständigen – 
+Einblick in die Entwicklungen der Rassismusforschung, die Theorie des Rassis-
+mus als gesellschaftlichem Verhältnis sowie insbesondere den institutionellen 
+Rassismus.
+
+1 Foroutan et al. (2017).
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 17
+
+2 R assismusforschung in Deutschland
+
+Die jahrzehntelange Verweigerung, Rassismus anzuerkennen, spiegelt sich 
+auch in der Forschung wider und wirkt sich nach wie vor in einem Mangel an 
+empirisch gesättigter, kritischer Rassismusforschung aus. Nach wie vor handelt 
+es sich um ein umstrittenes Forschungsfeld, dem angemessene öffentliche 
+Förderung ebenso fehlt wie entsprechende Denominationen von Professuren, 
+auch hat sich in keiner Fachgesellschaft bisher eine Sektion Rassismusforschung 
+etablieren können.2 Trotz dieses Mangels an Institutionalisierung lässt sich ab 
+Mitte der 1980er Jahre eine Zunahme an rassismuskritischer Forschung fest-
+stellen.3 Diese Forschungen sind u. a. maßgeblich Migrant:innen und Schwarzen 
+Deutschen zu verdanken, die als Wissenschaftler:innen Rassismus zum 
+Forschungsgegenstand machten. Seit diesen Anfängen hat sich die Rassismus-
+forschung deutlich verbreitert, wenn auch aufgrund des Mangels an öffentlicher 
+Förderung die meisten Untersuchungen eher klein angelegt sind.4
+
+Das hat auch etwas mit einem Defizit in der Datenerhebung zu tun. Anhand 
+allgemeiner statistischer Daten wie z. B. dem Mikrozensus, der Schul-
+statistik oder der Arbeitsmarktstatistik lassen sich nur bedingt Aussagen zu 
+rassistischer Diskriminierung treffen.5 Denn hier werden zwar die Staats-
+angehörigkeit und/oder der Migrationshintergrund abgebildet. Diese Kate-
+gorien lassen aber nur bedingt Rückschlüsse auf rassistische Ausgrenzungen 
+zu. Der Rassismus gegenüber Schwarzen Deutschen, Muslim:innen, Sinti:zze 
+und Rom:nja oder auch Antisemitismus bleiben dabei weitgehend unsicht-
+bar.6 Einige Wissenschaftler:innen plädieren darum dafür, sogenannte equality 
+data zu erheben. Diese ermöglichen Befragten anzugeben, aufgrund welcher 
+Zuschreibungen sie rassistische Diskriminierung erfahren – unabhängig davon, 
+ob diese auf sie zutreffen.7 Damit stehen die rassistischen Zuschreibungen und 
+deren Effekte im Zentrum der Analyse.
+
+2 Vgl. Karakayalı et al. (2017).
+3 Zu den frühen Arbeiten zählen Jäger und Jäger (1991); Kalpaka und Räthzel (1986); 
+Mecheril (1995); Oguntoye et al. (1986); Rommelspacher (1995); Terkessidis (1998).
+4 Für einen Überblick vgl. Fereidooni und El (2017).
+5 Kemper und Supik (2020).
+6 Tatsächlich sind auch hier Statistiken oft kaum vergleichbar, weil Definitionen des 
+Migrationshintergrunds variieren oder Statistiken unterschiedliche Merkmale abfragen. Für 
+das Beispiel der Schulstatistik vgl. Kemper und Supik (2020).
+7 Vgl. Aikens und Supik (2018).
+
+
+
+18 J. Karakayalı
+
+3 R assismus als gesellschaftliches Verhältnis
+
+Die kritische Rassismusforschung, die in diesem Beitrag rezipiert wird, konzipiert 
+Rassismus als eine Analyseperspektive. Rassismus wird als ein gesellschaftliches 
+Verhältnis verstanden, das sich auf allen Ebenen wiederfinden lässt: in Symbolen, 
+in behördlichen Verfahrensweisen, in der Sprache, in Interaktionen etc.8 Rassis-
+mus lässt sich also nicht auf eine individuelle negative Einstellung beschränken, 
+sondern stellt eine Ordnungsstruktur dar und ist somit in die Gesellschaft als 
+Ganzes eingeschrieben. Rassismus ist ein gesellschaftliches Verhältnis, das 
+Menschen anhand verschiedener möglicher Merkmale als Gruppen konstruiert9, 
+denen in homogenisierender und essenzialisierender Weise (zumeist negativ 
+konnotierte) Verhaltensweisen, Werte oder Eigenschaften zugeschrieben werden 
+und denen aufgrund dieser Zuschreibungen der Zugang zu materiellen, sozialen 
+und symbolischen Ressourcen behindert, limitiert oder vorenthalten wird).10
+
+Merkmale, an denen sich der Rassismus festmacht, sind dabei höchst variabel: 
+Es kann sich um die Hautfarbe handeln, ein Merkmal, das als Hinweis auf eine 
+nicht-deutsche Herkunft interpretiert wird, wie ein Name, oder auch ein religiöses 
+Symbol wie das Kopftuch. Rassismus macht sich also nicht zwingend an körper-
+lichen Merkmalen fest, sondern schließt von einem fast beliebigen Merkmal auf 
+eine unveränderliche Andersartigkeit des Gegenübers. Insofern kann auch ein 
+Kopftuch, das auf- und abgesetzt werden kann (und im Laufe des Tages ja auch 
+wird) rassistische Ausschlüsse nach sich ziehen.11
+
+Der Begriff der „natio-ethno-kulturellen Zugehörigkeit“ reflektiert den 
+empirischen Befund, dass Vorstellungen über Nationalität, Hautfarbe, Religions-
+zugehörigkeit oder die vermutete „Kultur“ zumeist verschmelzen und bei 
+
+8 Vgl. Hall (1990).
+9 Die Konstituierung als Gruppe über ein Merkmal erfolgt unter Ausblendung aller 
+sonstigen sozialen Merkmale wie soziale Lage, Alter, Geschlecht, Wohnort, politische Ein-
+stellung, religiöse Praxis etc.
+10 Vgl. z. B. Bojadžijev (2009); Hall (1990); Kalpaka und Räthzel (2017). Häufig besteht 
+Unsicherheit über den Unterschied zwischen Rassismus und Diskriminierung: Rassismus 
+ist als ein Ungleichheitsverhältnis immer diskriminierend. Diskriminierung muss aber 
+nicht immer rassistisch sein, sondern kann sich auch auf andere Merkmale beziehen. Das 
+Antidiskriminierungsrecht erkennt Geschlecht, sexuelle Identität, sexuelle Orientierung, 
+ethnische Herkunft oder rassistische Gründe, Geschlecht, Religion und Weltanschauung, 
+Behinderung, Alter und sexuelle Identität als diskriminierungsrelevant an (vgl. AGG).
+11 Vgl. zum Begriff des kulturellen Rassismus Balibar (1990).
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 19
+
+der Konstruktion von Gruppen nicht voneinander zu unterscheiden sind.12 
+Dies zeigen auch Studien, denen zufolge angehende Lehrkräfte die Klassen-
+arbeiten von Schüler:innen mit türkischen Namen schlechter bewerten als die 
+von Schüler:innen mit deutsch klingenden Namen.13 In der Bundesverwaltung 
+sind Menschen mit Migrationshintergrund unterrepräsentiert und für ihre 
+Beschäftigungspositionen überqualifiziert.14 Lehrerinnen, die ihre Religions-
+zugehörigkeit über ein muslimisches Kopftuch ausdrücken, sind in einigen 
+Bundesländern vom Schuldienst ausgeschlossen, während das Tragen christ-
+licher Symbole erlaubt ist.15 Schwarze Menschen werden überdurchschnittlich 
+häufig Opfer von racial profiling16 und polizeilicher Gewalt17. Diese Ausschlüsse 
+erfolgen, weil die sehr unterschiedlichen Merkmale jeweils mit unveränderlichen, 
+abgewerteten Eigenschaften in Verbindung gebracht werden: weniger klug oder 
+kompetent zu sein, aufgrund der muslimischen Religionszugehörigkeit staatliche 
+Neutralität nicht vertreten zu können oder kriminell zu sein.
+
+Diese Zuschreibungen werden nicht individuell von Lehrer:innen, 
+Arbeitgeber:innen, Schulleiter:innen oder Polizist:innen „erfunden“, sondern 
+sie haben zumeist eine im Kolonialismus gründende Geschichte18, wobei für 
+Deutschland festzuhalten ist, dass sich diese koloniale Geschichte auch auf 
+Osteuropa bezieht.19 Denn Rassismus entsteht nicht aufgrund von Fremdheit 
+oder Differenz, sondern die Geschichte des Rassismus ist die Geschichte der 
+Legitimation der Abwertung von Menschen, um sie systematisch und in großem 
+Stil ausbeuten, enteignen und vertreiben zu können.20 Der Aspekt der Aus-
+beutung ist auch im Rassismus der Gegenwart relevant: Indem Menschen in ihren 
+Rechten eingeschränkt oder von gesellschaftlichen Bereichen ausgeschlossen 
+
+12 Vgl. Mecheril (2003).
+13 Vgl. Bonefeld und Dickhäuser (2018).
+14 Ette et al. (2020).
+15 Vgl. Antidiskriminierungsstelle des Bundes (o. J.)
+16 Vgl. Hunold und Wegener (2020); Niemz und Singelnstein in diesem Band; Thompson in 
+diesem Band.
+17 Vgl. Derin und Singelnstein (2020), S. 129; Abdul-Rahman et al. (2020); Espín Grau und 
+Klaus in diesem Band.
+18 Antisemitismus und Rassismus gegen Sinti:zze und Rom:nja gründen nicht im 
+Kolonialismus, siehe unten.
+19 Vgl. Terkessidis (2019).
+20 Vgl. Allen (1998).
+
+
+
+20 J. Karakayalı
+
+werden, sind sie auf gefährliche, schwere, schlecht bezahlte und informelle 
+Bereiche des Arbeitsmarktes angewiesen.21 Rassismus schließt Menschen 
+also in der Regel nicht völlig aus der Gesellschaft aus, sondern führt zu einer 
+Form der differenzierten Inklusion.22 Rassistische Ausschlüsse sind häufig mit 
+anderen Machtverhältnissen wie Geschlecht oder Klasse verbunden, sie sind 
+intersektional.23
+
+Und die Zuschreibungen sind immer relational. Das in der postkolonialen 
+Theorie entstandene Konzept des Othering24 beschreibt Prozesse, in denen 
+Gruppen diskursiv, symbolisch sowie durch soziale Praxen als komplementär 
+unterschiedliche „Andere“ erzeugt und festgeschrieben und einem „Wir“ gegen-
+übergestellt werden.25 In diese Konstruktionen des Anderen ist dabei zum Teil 
+auch ein Begehren eingeschrieben, das sich in scheinbar positiv konnotierten 
+essenzialisierenden Zuschreibungen (wie Naturverbundenheit oder Familien-
+sinn) ausdrückt, die aber in der Gegenüberstellung zumeist als defizitär oder 
+vormodern abgewertet werden.26 Aus dieser Perspektive leitet die kritische 
+Weißseinsforschung ab, nicht nur die rassistischen Konstruktionen oder die 
+rassistisch Ausgeschlossenen zum Gegenstand der Analyse zu machen, sondern 
+besonders die durch den Rassismus Privilegierten in den Blick zu nehmen und die 
+Konstruktion von „weiß“-sein zum Gegenstand der Analyse zu machen.27
+
+3.1  Rassismus als individuelle Einstellung?
+
+Rassismus ist somit nicht in erster Linie eine Frage der individuellen Einstellung, 
+sondern eine gesellschaftliche Struktur, die sich auf allen gesellschaftlichen 
+Ebenen wiederfindet. Dies spiegelt auch der Begriff des strukturellen Rassis-
+mus wider. Auch Menschen, die für sich selbst reklamieren, nicht rassistisch ein-
+gestellt zu sein, bewegen sich in einer rassistischen Gesellschaft. Darum geht die 
+
+21 Vgl. für die Anwerbung von Arbeitsmigrant:innen in Deutschland Karakayalı (2008).
+22 Vgl. Bodemann und Yurdakul (2010).
+23 Vgl. Crenshaw (1991); Lutz et al. (2010).
+24 Vgl. Said (1978).
+25 Hall (1989).
+26 Hall (1990), S. 15; vgl. auch den „Romantischen Rassismus“ bei Hund (2014).
+27 Vgl. Arndt und Ofuatey-Alazard (2011).
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 21
+
+Behauptung, selbst „farbenblind“ zu sein, also individuell keine Unterschiede 
+zwischen Hautfarben, Herkunft oder Religion zu machen, am Problem vorbei.28
+
+Gleichwohl sind auch individuelle rassistische Einstellungen Gegenstand der 
+Forschung, und zwar insbesondere in den regelmäßigen und breit rezipierten 
+Einstellungsforschungen. Allerdings liegt diesen ein anderes Verständnis von 
+Rassismus zugrunde als diesem Beitrag. So misst die Leipziger Autoritarismus-
+Studie29 nur „Fremdenfeindlichkeit“ und die Mitte-Studie30 unterscheidet bei den 
+Einstellungen zwischen Rassismus (7,2 %), Fremdenfeindlichkeit (18,8 %) und 
+klassischem Antisemitismus (5,8 %) – die im Vergleich zur Studie von 2016 leicht 
+gesunken sind – und Zustimmung zu Israelbezogenem Antisemitismus (24,2 %), 
+antimuslimischem Rassismus (18,7 %) und der Abwertung von Sinti:zze und 
+Rom:nja (25,8 %) – die im Vergleich zu 2016 leicht gestiegen sind – sowie der 
+Abwertung asylsuchender Menschen, die mit 54,1 % gegenüber 2016 stark 
+gestiegen ist.31
+
+Zur Frage, wie rassistische Einstellungen entstehen32, sind viele gesellschaft-
+lich verbreitete Annahmen bereits empirisch widerlegt, so z. B. die weit ver-
+breitete These, dass Rassismus durch einen Mangel an Bildung oder „Aufklärung“ 
+entstehe oder automatisch mit Armut einhergehe.33 Sozialpsychologische Ansätze 
+verstehen Rassismus als eine Möglichkeit, sich durch die Benennung eines 
+Sündenbocks in einer gesellschaftlichen Situation, auf die man selbst wenig 
+Einfluss hat, handlungsfähig zu fühlen.34 Kulturwissenschaftliche Ansätze 
+in marxistischer Tradition heben hervor, dass rassistische Einstellungen die 
+
+28 Vgl. Lentin und Titley (2011).
+29 Vgl. z. B. Decker und Brähler (2020).
+30 Zick et al. (2018).
+31 Alle Zahlen vgl. ebd. S. 3 f. Beide Studien messen indes Unterschiedliches: Die 
+Autoritarismusstudie fragt nur die etwas antiquiert anmutende Kategorie der „Fremden-
+feindlichkeit“ ab, die Mitte-Studie unterscheidet zwischen Rassismus (z. B. „die Weißen 
+sind zurecht führend in der Welt.“), Fremdenfeindlichkeit (z. B. „es leben zu viele Aus-
+länder in Deutschland.“), Muslimfeindlichkeit (z. B. „Muslimen sollte die Zuwanderung 
+nach Deutschland untersagt werden.“), Abwertung von Sinti:zze und Rom:nja (z. B. „Sinti 
+und Roma neigen zur Kriminalität.“), und Abwertung von asylsuchenden Menschen (z. B. 
+„Die meisten Asylbewerber werden in ihrem Heimatland gar nicht verfolgt.“), vgl. Zick 
+et al. (2016), S. 44; siehe auch Clasen, Groß und Zick in diesem Band.
+32 Vgl. dazu Teil B in diesem Band.
+33 Vgl. Zick et al. (2018).
+34 Z.B. Kalpacka und Räthzel (2017).
+
+
+
+22 J. Karakayalı
+
+hegemoniale Position einer Gruppe gegenüber einer anderen legitimiert. Rassis-
+mus verschafft Einigen privilegierten Zugang zu im Kapitalismus verknappten 
+Ressourcen, sei es auf dem Wohnungs- oder Arbeitsmarkt oder im Bildungs-
+bereich. Insofern ist Rassismus vielfältig funktional.35
+
+Zu einer Beschäftigung mit Rassismus in seiner individuellen Dimension 
+gehört auch die Thematisierung der physischen und psychischen Folgen der 
+Erfahrung von Rassismus.36 Internationale Studien zeigen, dass der mit Rassis-
+mus verbundene Stress, der durch Mikroaggressionen, aber auch durch sozial-
+ökonomische Benachteiligungen entsteht, die Wahrscheinlichkeit erhöht, 
+stressassoziierte Belastungsreaktionen wie z. B. Depressionen auszubilden oder 
+an schweren Störungen wie Schizophrenie oder Psychosen zu erkranken und auch 
+Herz-Kreislauf-Erkrankungen begünstigt.37 Der sogenannte stereotype threat trägt 
+dazu bei, dass rassistisch Diskriminierte aus Angst vor einer Diskriminierung 
+schlechtere Leistungen erbringen.38
+
+3.2  Rassismus oder Rassismen?
+
+Seit längerem besteht in der Forschung die Tendenz, von Rassismen statt von 
+Rassismus zu sprechen, um die Unterschiedlichkeit der Ausschlüsse und ihre 
+historische Gewordenheit angemessen zu reflektieren. In der deutschen Debatte 
+finden sich insbesondere Untersuchungen, die spezifisch anti-Schwarzen Rassis-
+mus39, antimuslimischen Rassismus40, Rassismus gegen Sinti:zze und Rom:nja41, 
+antiasiatischen Rassismus42 sowie Antisemitismus43 fokussieren.
+
+Zusammenfassend lässt sich sagen, dass sich diese Rassismen in ihrer Struktur 
+ähneln. Allerdings unterscheiden sich die konkreten Ausgestaltungen der Wir-Sie-
+Konstruktionen, da sie auf unterschiedliche (Kolonial-)Geschichten zurückgehen. 
+
+35 Siehe oben und z. B. Hall (1990); für die Polizei vgl. Teil C in diesem Band.
+36 Vgl. Fanon (1980).
+37 Vgl. Kluge et al. (2020); Yeboah (2017). Gleichzeitig werden gerade rassistisch Dis-
+kriminierte besonders wenig in der Gesundheitsversorgung berücksichtigt.
+38 Vgl. Tatum (2017).
+39 Auma et al. (2018).
+40 Shoomann (2014).
+41 Jonuz (2009).
+42 Suda et al. (2020).
+43 Vgl. Benz (2004).
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 23
+
+Dementsprechend unterschiedlich können auch die gesellschaftlichen Aus-
+schlüsse gestaltet sein, die Menschen aufgrund dieser Konstruktionen erfahren. 
+Kolonial tradierte Zuschreibungen, Diskurse und Ausgrenzungspraxen ver-
+binden und aktualisieren sich dabei im Kontext gegenwärtiger Politik. So haben 
+die Terroranschläge des 11. September 2001 in vielen „westlichen“44 Ländern 
+der Welt zu einem Aufschwung des antimuslimischen Rassismus geführt, indem 
+koloniale Stereotype aufgerufen wurden, nach denen der Islam an sich archaisch, 
+gewaltvoll, antidemokratisch und irrational sei.45 Mit dieser Interpretation wurden 
+auch militärische Interventionen wie der „War on Terror“ gerechtfertigt. In 
+Deutschland fielen die Anschläge des 11. September und die anschließende Welle 
+des antimuslimischen Rassismus zeitlich mit der Liberalisierung des Staats-
+angehörigkeitsrechts zusammen, die Migrant:innen die Einbürgerung erlaubte. 
+In der Folge wurde die größte Einwanderer:innengruppe – Migrant:innen aus der 
+Türkei – nicht mehr als Ausländer:innen, sondern durch einen antimuslimischen 
+Rassismus gesellschaftlich ausgeschlossen, der ihnen pauschal und ebenfalls auf-
+grund kolonialer Stereotype patriarchale Familienstrukturen und Demokratie-
+feindlichkeit unterstellte.46
+
+Die Unterscheidung von verschiedenen Rassismen ist wichtig, weil ansonsten 
+Ausschlüsse (von Ungleichbehandlungen bis zu Gewalttaten) unter Umständen 
+gar nicht als rassistisch und damit durch eine gesellschaftliche Struktur 
+bedingt analysiert werden können. So wurden beispielsweise die Morde, die 
+ein Attentäter im Februar 2021 in Atlanta im US-Bundesstaat Georgia an 
+Beschäftigten in drei Massagesalons verübte, zunächst als individueller Amoklauf 
+eingeordnet und erst im Nachhinein als Ausdruck eines gesellschaftlichen anti-
+asiatischen Rassismus.47
+
+Antisemitismus und Rassismus gegen Sinti:zze und Rom:nja können in mehr-
+facher Hinsicht von anderen Formen des Rassismus unterschieden werden, denn 
+beide lassen sich nicht auf den Kolonialismus zurückführen. In aller Kürze sei 
+hier darauf verwiesen, dass der Antisemitismus älter ist als der Kolonialismus 
+und mit der Abspaltung des Christentums entstand. Der moderne Antisemitis-
+mus projiziert Probleme und Widersprüche der Moderne auf Jüd:innen, indem 
+
+44 Hall (1990).
+45 Vgl. Ahmed (2012).
+46 Vgl. Karakayalı (2019); Tsianos (2015).
+47 Vgl. Nguyen (2021).
+
+
+
+24 J. Karakayalı
+
+sie als übermächtig imaginiert werden.48 Das Ziel des Antisemitismus ist die 
+Vernichtung jüdischen Lebens. Zudem werden Jüd:innen im Antisemitismus als 
+nicht-sesshaft imaginiert und als das „Andere“ innerhalb der Nation. Hier findet 
+sich eine Ähnlichkeit zum Rassismus gegen Sinti:zze und Rom:nja, dessen 
+Kern ebenfalls das Ressentiment gegen Nicht-Sesshaftigkeit und der damit ver-
+bundenen Verdächtigung einer transnationalen Orientierung statt einer nationalen 
+Verbundenheit bildet.49 Auch imaginiert der Antisemitismus genauso wie der 
+Rassismus gegen Sinti:zze und Rom:nja die vermeintlich Anderen als von den 
+Zurichtungen des Zwangs zur Arbeit befreit:
+
+„Juden und Jüdinnen wird so unterstellt, nicht zu ‚schaffen‘, sondern zu ‚raffen‘, 
+und machtvoll hinter den Zumutungen des Kapitalismus zu stecken bzw. von 
+ihnen zu profitieren. Sinti*zze und Rom*nja wiederum wird unterstellt, sich durch 
+Kriminalität ein gutes Leben in Faulheit zu erschleichen.“50
+
+3.3  Institutioneller Rassismus
+
+Rassismus als ein gesellschaftliches Verhältnis zu verstehen bedeutet auch, 
+den Beitrag von Institutionen zu diesem Verhältnis in den Blick zu nehmen.51 
+Der vielzitierte MacPhershon Report definiert institutionellen Rassismus wie 
+folgt: „The collective failure of an organisation to provide an appropriate 
+and professional service to people because of their colour, culture, or ethnic 
+origin.“52 Institutioneller Rassismus ist ein Begriff, der im Kontext der Black 
+Power Bewegung in den 1960er Jahren von den Theoretikern und Aktivisten 
+Stokely Carmichael und Charles Hamilton in den USA entwickelt wurde.53 Sie 
+beschreiben damit eine Form des Rassismus, die nicht direkt von Individuen 
+ausgeht, sondern die subtiler wirkt und weniger sichtbar ist, die aber sicht-
+
+48 Vgl. Horkheiner und Adorno (2006); Postone (2005). Man denke nur an die 
+Demonstrationen von Coronaleugner:innen während der Pandemie, auf denen vielfältige 
+antisemitische Äußerungen getätigt und Symbole gezeigt wurden, vgl. Virchow und 
+Häusler (2020).
+49 End (2011).
+50 Goldenbogen und Kleinmann (2021), S. 33.
+51 Vgl. Bosch und Thurn in diesem Band.
+52 MacPhershon (1999).
+53 Vgl. Carmichael und Hamilton (1969).
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 25
+
+bare Ungleichheiten hervorbringt: beispielsweise eine höhere Sterblichkeit von 
+Schwarzen Menschen in den USA oder einen geringeren Bildungserfolg von 
+Schüler:innen mit Migrationshintergrund in Deutschland.
+
+Institutioneller Rassismus ist eine Analyseperspektive, die versucht, den Bei-
+trag von Institutionen (z. B. Schule, Gesundheitsamt, Polizei) zur Herstellung 
+rassistischer Verhältnisse zu klären. Da der Rassismus tief in die Gesellschaft 
+eingelassen ist, ist auch davon auszugehen, dass er sich überall in Institutionen 
+findet – solange nichts aktiv dagegen unternommen wird.54 Unter direkter 
+institutioneller Diskriminierung wird die formal abgesicherte Ungleichbe-
+handlung von Menschen, die rassistisch markiert sind, verstanden. Dazu gehört 
+z. B., dass Ärzt:innen, die dem muslimischen Glauben angehören, nicht in 
+katholischen Krankenhäusern beschäftigt werden. Daneben bestehen indirekte 
+Formen der institutionellen Diskriminierung, die häufig schwieriger nachzuvoll-
+ziehen sind, weil sie das Produkt des Zusammenwirkens von Regeln, Gesetzen, 
+Normen, Vorgaben, professionellem und Alltagswissen sowie Routinen und Ent-
+scheidungen, die im Sinne von Organisationsinteressen ausgelegt und umgesetzt 
+werden, sind.
+
+Bei der Betrachtung von institutionellem Rassismus steht nicht individuelles 
+rassistisches Verhalten der in einer Organisation handelnden Akteur:innen im 
+Vordergrund der Betrachtung (obgleich ein solches nicht ausgeschlossen ist), 
+sondern Regeln und Routinen, mit denen die Organisationen den an sie gestellten 
+Aufgaben nachkommen. Das Bundeskriminalamt beispielsweise unterscheidet 
+„Clankriminalität“ – ein Begriff, der nur auf muslimische Täter:innen (verschiedener 
+Herkunft) angewandt wird – von anderen Formen der organisierten Kriminali-
+tät und beschreibt die Täter:innen als „ethnisch-abgeschottete Subkulturen“ mit 
+einer „eigenen Werteordnung“, nämlich „patriarchalisch-hierarchischer Familien-
+struktur“ und „mangelnde Integrationsbereitschaft mit Aspekten einer räumlichen 
+Konzentration“.55 Diese Ansammlung von rassistischen Stereotypen – die Verbindung 
+von Kriminalität und Abstammung, das „Ghetto“ und die Parallelgesellschaft – kann 
+als eine polizeiliche Institutionalisierung von antimuslimischem Rassismus ver-
+standen werden. Dieser ist für die Behörde insofern funktional, als mit dem Aufrufen 
+
+54 Vgl. Hormel (2009).
+55 Vgl. Bundeskriminalamt (2019), S. 30. Diese Definition ist empirisch nicht halt-
+bar, wie kriminologische Untersuchungen aufzeigen, weil in den meisten Fällen von 
+„Clankriminalität“ Menschen ohne Verwandtschaftsbeziehungen und unterschiedlicher 
+Nationalitäten zusammenarbeiten (vgl. Reinhardt 2021). „Clankriminalität“ stellt einen ver-
+gleichsweise kleinen Bereich der Organisierten Kriminalität dar (Feltes und Rauls 2020).
+
+
+
+26 J. Karakayalı
+
+von gesellschaftlich weit verbreiteten rassistischen Zuschreibungen die Dringlichkeit 
+des polizeilichen Handelns und die Intensität polizeilicher Operationen (Razzien, 
+Telefonüberwachung, Hausdurchsuchungen) legitimiert werden kann.
+
+Rassistische Unterscheidungen sind zudem bereits historisch in viele 
+Institutionen eingeschrieben. Goldberg zeigt in seiner Arbeit über den „racial 
+state“, wie die Herausbildung von Nationalstaaten im Kontext des Kolonialis-
+mus zu einer in vielfältiger Weise rassistisch strukturierten Nationalstaatsbildung 
+führte, indem z. B. nur weiße Menschen Staatsbürger:innen werden konnten.56 
+Für die Schule zeigen Steinbach et al. analog auf, wie auch die Schule in eine 
+rassistische Nationalstaatsbildung eingebunden ist, indem sie ein Staatsvolk 
+u. a. über die Standardisierung einer Sprache, damit verbundener spezifischer 
+kultureller Setzungen und der Vermittlung eines kolonialen rassistischen Wissens 
+erzieht.57 Das macht es auch schwierig, Rassismus im Kontext von Schule zu 
+bearbeiten, weil rassistische Trennungen die Ziele und Strukturen der Schule 
+konstituieren.
+
+In einer ähnlichen Perspektive konstatiert Thompson in Bezug auf die Polizei, 
+dass diese historisch zum Schutz vergeschlechtlichter und rassifizierter Besitz-
+verhältnisse etabliert wurde. Aber auch das Kontrollieren, Erfassen und nicht 
+zuletzt das Unterbinden der Mobilität von Menschen gehört historisch zu den 
+Kernaufgaben der Polizei, die dabei Prozesse der Rassifizierung unterstützt, 
+aber auch selbst hervorbringt.58 Sehr deutlich lässt sich das an der jahrhunderte-
+währenden polizeilichen Erfassung von Sinti:zze und Rom:nja nachzeichnen59, 
+die trotz eines Verbots immer wieder erfolgt und durch antirassistische Initiativen 
+problematisiert wird (zuletzt z. B. in der Berliner Kriminalstatistik von 2017). 
+Mit diesen Befunden wird deutlich, dass in Institutionen nicht nur die sogenannte 
+Pfadabhängigkeit zum Problem wird – dass also einmal etablierte rassistische 
+Erklärungsmuster und Handlungsroutinen immer weiter verfolgt werden. Viel-
+mehr wurden einige Institutionen eigens dafür gegründet, rassistische Unter-
+scheidungen hervorzubringen, zu etablieren und abzusichern. Die Befunde 
+zeigen, dass diese historische Dimension des Rassismus in Institutionen berück-
+sichtigt werden muss, wenn dieser abgebaut werden soll.
+
+56 Goldberg (2001).
+57 Steinbach et al. (2020).
+58 Thompson (2018) und Thompson in diesem Band.
+59 Vgl. El-Tayeb (2016).
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 27
+
+4  Schluss
+
+Rassismus ist ein komplexes gesellschaftliches Verhältnis, das sich auf allen 
+Ebenen des Gesellschaftlichen (Diskurse, Institutionen, Praktiken etc.) ana-
+lysieren lässt. Obgleich rassistische Gruppenkonstruktionen oft Jahrhunderte alt 
+sind, wandelt sich Rassismus dennoch beständig. Wie der Begriff des „Rassis-
+mus als gesellschaftlichem Verhältnis“ bereits andeutet, wandelt er sich nicht 
+zuletzt durch die Kämpfe gegen ihn.60 So haben z. B. erfolgreiche Kämpfe um 
+eine Reform des Staatsangehörigkeitsrechts, die Einbürgerung ermöglicht, ins-
+besondere Migrant:innen politische Partizipationsmöglichkeiten eröffnet. 
+Gleichzeitig wurde damit in gewisser Weise ein doppelter Boden in die Staats-
+angehörigkeit eingezogen: Für Menschen, die sie nicht von Geburt an besitzen, 
+ist sie in vielen Fällen reversibel geworden.61 Jahrzehnte andauernde Kämpfe 
+um eine nicht-diskriminierende Sprache haben dazu geführt, dass Straßennamen 
+und auch das wording in Medien nachhaltig verändert wurden.62 Gleichzeitig 
+haben Kämpfe gegen Rassismus dazu geführt, dass sich rassistische Ausschlüsse 
+verändert haben: So ist ein Kopftuchverbot für Lehrer:innen 2003 eingeführt 
+worden, zwei Jahre nach der Reform des Staatsangehörigkeitsrechts und damit in 
+dem Moment, als eine nennenswerte Zahl muslimischer junger Frauen ein Lehr-
+amtsstudium absolvierte, statt wie ihre Eltern noch in der Fabrik zu arbeiten.63 
+Zum Teil hat sich der Kampf gegen Rassismus selbst institutionalisiert, indem 
+Ombuds- und Beratungsstellen für Diskriminierung eingerichtet werden. Viele 
+dieser Kämpfe werden von einzelnen Personen allein und ohne Erfolg in ihrem 
+Alltag ausgefochten, andere Kämpfe sind außerordentlich erfolgreich. Die 
+Beschäftigung mit Rassismus sollte die Kämpfe gegen Rassismus immer im 
+Blick behalten. Denn nur so gelingt es, Rassismus als ein gesellschaftliches Ver-
+hältnis zu verstehen, dass veränderbar ist.
+
+60 Vgl. Bojadžijev (2009); für die Polizei Görgen und Wagner in diesem Band.
+61 Vgl. Pieper et al. (2011).
+62 Z.B. Arndt und Ofuatey-Alazard (2011); Berlin Postkolonial (o. J.); Neue Deutsche 
+Medienmacher (o. J.)
+63 Vgl. Yurdakul und Korteweg (2014).
+
+
+
+28 J. Karakayalı
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020). Rassismus und 
+Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. Ruhr Uni-
+versität Bochum. https://kviapol.rub.de/images/pdf/KviAPol_Zweiter_Zwischenbericht.
+pdf. Zugegriffen: 18. Juli 2022.
+
+Ahmed, S. (2012). On being included. Racism and Diversity in Institutional Life. Durham: 
+Duke University Press.
+
+Aikens, J. K., & Supik, L. (2018). Gleichstellungsdaten: Differenzierte Erfassung als 
+Grundlage für menschenrechtsbasierte Antidiskriminierungsolitik. In N. Foroutan, J. 
+Karakayalı & R. Spielhaus (Hrsg.), Postmigrantische Perspektiven (S. 97–113). Wies-
+baden: transcript.
+
+Allen, T. W. (1998). Die Erfindung der weissen Rasse. Hamburg: ID Verlag.
+Antidiskriminierungsstelle des Bundes (o.J.). Religion/Weltanschauung. https://www.anti-
+
+diskriminierungsstelle.de/DE/ThemenUndForschung/Religion_Weltanschauung/FAQ_
+Kopftuch_am_Arbeitsplatz/FAQ_Kopftuch_am_Arbeitsplatz_node.html. Zugegriffen: 
+18. Juli 2022.
+
+Arndt, S., & Ofuatey-Alazard, N. (2011). Wie Rassismus aus Wörtern spricht. Hamburg: 
+Unrast.
+
+Auma, M.M. & Kinder, K. & Piesche, P. (2018). Abschlussbericht Berliner Konsultations-
+prozess „Sichtbarmachung der Diskriminierung und sozialen Resilienz von Menschen 
+afrikanischer Herkunft“. Berlin: Landesstelle für Glechbehandlung - gegen Dis-
+kriminierung.
+
+Balibar, E. (1990). Der „Klassen-Rassismus“. In E. Balibar & I. Wallerstein (Hrsg.), Rasse, 
+Klasse, Nation: Ambivalente Identitäten (S. 247–272). Hamburg: Argument.
+
+Benz, W. (2004). Was ist Antisemitismus. München: Beck. 
+Berlin Postkolonial (o.J.). Strassennamen. http://justlisten.berlin-postkolonial.de/strassen-
+
+umbenennung. Zugegriffen: 18. Juli 2022.
+Bodemann, M., & Yurdakul, G. (2010). Staatsbürgerschaft, Migration und Minderheiten. 
+
+Wiesbaden: VS.
+Bojadžijev, M. (2009). Die windige Internationale. Rassismus und Kämpfe der Migration. 
+
+Münster: Westfälisches Dampfboot.
+Bonefeld, M. & Dickhäuser, O. (2018). (Biased) Grading of Student`s Performance: 
+
+Student`s Names, Performance level, and implicit Attitudes. Frontiers in Psychology. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954233/.
+
+Bundeskriminalamt (2019): Organisierte Kriminalität. Bundeslagebild 2019. Bundes-
+kriminalamt: Wiesbaden.
+
+Bojadžijev, M., & Demirović, A. (2002). Konjunkturen des Rassismus. Münster: West-
+fälisches Dampfboot.
+
+Carmichael, S. & Hamilton, C. V. (1969). Black Power. The Politics of Liberation in 
+America. Middlesex: Penguin.
+
+Castro Varela, M. d. M., & Dhawan, N. (2005). Postkoloniale Theorie. Eine kritische Ein-
+führung. Bielefeld: Transcript.
+
+Crenshaw, K. (1991). Mapping the Margins. Stanford Law Review, 43(6), S. 1241.
+Decker, O., & Brähler, E. (2020). Autoritäre Dynamiken: Alte Ressentiments, neue 
+
+Radikalität. Gießen: Psychosozial Verlag.
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 29
+
+Derin, B., & Singelnstein, T. (2020). Polizei und Gewalt. In D. Hunold & A. Ruch (Hrsg.), 
+Polizeiarbeit zwischen Praxishandeln und Rechtsordnung (S. 121–142). Wiesbaden: 
+Springer VS.
+
+El-Tayeb, F. (2016). Undeutsch. Die Konstruktion des Anderen in der postmigrantischen 
+Gesellschaft. Münster: transcript.
+
+End, M. (2011). Bilder und Sinnstruktur des Antiziganismus. Aus Politik und Zeit-
+geschichte, 59(22–23), S. 15.
+
+Ette, A., Schneider, N., Straub, S., & Weinmann, M. (2020). Kulturelle Diversi-
+tät und Chancengleichheit in der Bundesverwaltung. https://www.bib.bund.de/
+Publikation/2020/pdf/Kulturelle-Diversitaet-und-Chancengleichheit-in-der-Bundesver-
+waltung.pdf?__blob=publicationFile&v=5. Zugegriffen: 18. Juli 2022.
+
+Fanon, F. (1980). Schwarze Haut, weiße Masken. Übersetzt von Eva Moldenhauer. 
+Frankfurt am Main: Syndikat (Original: Peau noire, masques blancs).
+
+Feltes, T. & Rauls, F. (2020). „Clankriminalität“ und die „German Angst“. Sozial Extra, 44, 
+S. 372.
+
+Fereidooni, K., & El, M. (2017). Rassismuskritik und Widerstandsformen. Bielefeld: 
+transcript.
+
+Foroutan, N., Karakayalı, J., & Spielhaus, R. (2017). Postmigrantische Perspektiven. 
+Frankfurt am Main: Campus.
+
+Goldberg, D. T. (2001). The racial state. London: Blackwell Publishing.
+Goldenbogen, A., & Kleinschmidt, S. (2021). Aktueller Antisemitismus. Berlin: Rosa 
+
+Luxemburg Stiftung.
+Gomolla, M. (2012). Leistungsbeurteilung in der Schule: Zwischen Selektion und 
+
+Förderung, Gerechtigkeitsanspruch und Diskriminierung. In S. Fürstenau & M. 
+Gomolla (Hrsg.), Migration und schulischer Wandel: Leistungsbeurteilung (S. 25–50). 
+Wiesbaden: Springer VS.
+
+Gomolla, M. (2017). Institutionelle Diskriminierung. Eine wenig beachtete Dimension 
+von Rassismus. In J. Karakayalı, C. Kahveci, D. Liebscher & C. Melchers (Hrsg.), Den 
+NSU-Komplex analysieren (S. 123–145). Wiesbaden: Verlag.
+
+Hall, S. (1989). Rassismus als ideologischer Diskurs. Das Argument 178, Hamburg: Argu-
+ment Verlag. S. 913–921.
+
+Hall, S. (1990). Rassismus und kulturelle Identität. Hamburg: Argument.
+Horkheimer, M., & Adorno, T. W. (2006). Dialektik der Aufklärung. Philosophische Frag-
+
+mente. Frankfurt am Main: Suhrkamp.
+Hormel, U. (2009). Diskriminierung von Kindern und Jugendlichen mit Migrationshinter-
+
+grund im Bildungssystem. In U. Hormel & A. Scherr (Hrsg.), Diskriminierung. Grund-
+lagen und Forschungsergebnisse (S. 173–197). Wiesbaden: Springer VS.
+
+Hund, W. D. (2014). Romantischer Rassismus. Zur Funktion des Zigeunerstereotyps. In 
+ders. (Hrsg.), Fremd, Faul und Frei. Dimensionen des Zigeunerstereotyps (S. 146–156). 
+Münster: Unrast.
+
+Hunold, D., & Wegener, M. (2020). Rassismus und Polizei: zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 68(42–44), S. 27.
+
+Jäger, S., & Jäger, M. (1991). Alltäglicher Rassismus. 22 Interviews mit Bürgerinnen und 
+Bürgern in Deutschland. Duisburg: Diss.
+
+Jonuz, E. (2009). Stigma Ethnizität. Wie zugewanderte Romafamilien der Ethnisierungsfalle 
+begegnen. Opladen: Budrich.
+
+
+
+30 J. Karakayalı
+
+Kalpaka, A., & Räthzel, N. (1986/2017). Die Schwierigkeit, nicht rassistisch zu sein. 
+Berlin: Express Edition/Argument.
+
+Karakayalı, J. (2019). Warum wurden die Morde des NSU nicht als rassistische erkannt? 
+Migrationsregimeanalytische Überlegungen. In N. Burzan (Hrsg.), Komplexe 
+Dynamiken globaler und lokaler Entwicklungen. Verhandlungen des 39. Kongresses der 
+Deutschen Gesellschaft für Soziologie in Göttingen 2018. https://publikationen.sozio-
+logie.de/index.php/kongressband_2018/article/view/1077. Zugegriffen: 18. Juli 2022.
+
+Karakayalı, J., Kahveci, Ç., Liebscher, D., & Melchers, C. (2017). Der NSU und die 
+Wissenschaft. In dies. (Hrsg.), Den NSU Komplex analysieren (S. 15–35). Bielefeld: 
+transcript.
+
+Karakayalı, S. (2008). Gespenster der Migration. Münster: transcript.
+Kemper, T., & Supik, L. (2020). Klassifikationen von Migration und Sprache. Eine Analyse 
+
+von Datensätzen und Publikationen der Bildungsforschung und der amtlichen Statistik. 
+In J. Karakayalı (Hrsg.), Unterscheiden und Trennen (S. 46–68.). Weinheim: Beltz.
+
+Kluge, U., Aichberger, M. C., & Heinz, E. (2020). Rassismus und psychische Gesundheit. 
+Nervenarzt, 91(11), S. 1017.
+
+Lentin, A., & Titley, G. (2011). The Crisis of Multiculturalism. New York: Zed Books.
+Lutz, H., Herrera Vivar, M. T., & Supik, L. (2010). Intersektionalität im Fokus. Wiesbaden: 
+
+Springer.
+Macpherson, S. W. (1999). The Steven Lawrence Inquiry, Report presented to the 
+
+Parliament by the Secretary of State for the Home Department by Command of Her 
+Majesty. https://www.gov.uk/government/uploads/system/uploads/attachment_data/
+file/277111/4262.pdf. Zugegriffen: 18. Juli 2022.
+
+March, J. G. (1990). Entscheidung und Organisation. Kritische und konstruktive Beiträge, 
+Entwicklungen und Perspektiven. Wiesbaden: Dr. Th. Gabler.
+
+Mecheril, P. (Hrsg.) (1995). Interkulturalität und Rassismus. Journal für Psychologie, 3(3).
+Mecheril, P. (2003). Prekäre Verhältnisse. Über natio-ethno-kulturelle (Mehrfach-) Zuge-
+
+hörigkeit. Münster: Waxmann.
+Mecheril, P., & Heinemann, A. (2016). Institutioneller Rassismus als Analyseperspektive. 
+
+Zwei Argumente. In Heinrich Böll Stiftung (Hrsg.), Ideologien der Ungleichwertigkeit 
+(S. 45–57). Berlin: Heinrich Böll.
+
+Neue Deutsche Medienmacher (o. J.). Glossar. https://neuemedienmacher.de/wording. 
+Zugegriffen: 18. Juli 2022.
+
+Nguyen, T. M. H. (2021). Anti-asiatischer Rassismus: Was hat das Attentat in Atlanta mit 
+Deutschland zu tun. Heinrich Böll Stiftung: Heimatkunde. https://heimatkunde.boell.de/
+de/2021/04/01/anti-asiatischer-rassismus-atlanta-attentat-deutschland. Zugegriffen: 18. 
+Juli 2022.
+
+Opitz, M., Oguntoye, K., & Schultz, D. (Hrsg.) (1986). Farbe Bekennen. Afro-deutsche 
+Frauen auf den Spuren ihrer Geschichte. Berlin: Orlanda.
+
+Pieper, M., Tsianos, V., & Panagiotidis, E. (2011). Konjunkturen der egalitären Exklusion: 
+Postliberaler Rassismus und verkörperte Erfahrungen der Egalität. In M. Pieper, T. 
+Atzert, S. Karakayalı & V. Tsianos (Hrsg.), Biopolitik in der Debatte (S. 193–226). 
+Wiesbaden: VS.
+
+Polizeiliche Kriminalstatistik Berlin (2017). Herausgegeben durch den Polizeipräsident 
+Berlin, Berlin.
+
+
+
+Kritische Rassismusforschung: Theorien, Konzepte … 31
+
+Postone, M. (2005). Antisemitismus und Nationalsozialismus. In dies. (Hrsg.), Deutschland, 
+die Linke und der Holocaust. Politische Interventionen (S. 165–194). Freiburg: ça ira.
+
+Reinhardt, K. (2021). Zum Begriff der „Clankriminalität“ – eine kritische Einschätzung. 
+Working Paper Eberhard-Karls-Universität Tübingen.
+
+Rommelspacher, B. (1995). Dominanzkultur. Texte zu Fremdheit und Macht. Berlin: 
+Orlanda.
+
+Said, E. (1979). Orientalism. New York City: Vintage.
+Shooman, Y. (2014). „Weil ihre Kultur so ist…“ – Narrative des antimuslimischen Rassis-
+
+mus. Münster: transcript.
+Steinbach, A., Shure, S., & Mecheril, P. (2020). The racial school. Die nationale Schule 
+
+und ihre Rassekonstruktionen. In J. Karakayalı (Hrsg.), Unterscheiden und Trennen 
+(S. 24–46). Weinheim: Beltz Juventa.
+
+Suda, K., Mayer, S. J., & Nguyen, C. (2020). Antiasiatischer Rassismus in Deutschland. 
+Aus Politik und Zeitgeschichte, 68(42–44), S. 39.
+
+Tatum, B. D. (2017). Why are all the Black Kids sitting together in the Cafeteria? New 
+York: Basic Books.
+
+Terkessidis, M. (1998). Psychologie des Rassismus. Opladen: Westdeutscher Verlag.
+Terkessidis, M. (2019). Wessen Erinnerung zählt? Koloniale Vergangenheit und Rassismus 
+
+heute. Frankfurt am Main: Hoffmann und Campe.
+Thompson, V. E. (2018). „There is no justice, there is just us!“. Ansätze zu einer post-
+
+kolonial-feministischen Kritik der Polizei am Beispiel von Racial Profiling. In D. Loick 
+(Hrsg.), Kritik der Polizei (S. 189–219). Frankfurt am Main: Campus.
+
+Tsianos, V. S. (2015). Antimuslimischer Urbanismus. Zur Stadtsoziologie des anti-
+muslimischen Rassismus. In F. Hafez (Hrsg.), Jahrbuch für Islamophobieforschung 
+2015 (S. 55–82). Wien: new academic press.
+
+Virchow, F., & Häusler, A. (2020). Pandemie-Leugnung und Extreme Rechte in Nordrhein-
+Westfalen. Bonn: Ministerium für Kultur und Wissenschaft in Nordrhein-Westfalen.
+
+Yeboah, A. (2017). Rassismus und psychische Gesundheit in Deutschland. In K. Fereidooni 
+& M. El (Hrsg.), Rassismuskritik und Widerstandsformen (S. 143–161). Wiesbaden: 
+Springer VS.
+
+Yurdakul, G., & Korteweg, A. (2014). The Headscarf-Debates: Conflicts of national 
+Belonging. Stanford: Stanford University Press.
+
+Zick, A., Küpper, B. & Krause, D. (2016). Gespaltene Mitte – Feindselige Zustände: 
+Rechtsextreme Einstellungen in Deutschland 2016. Bonn: Dietz.
+
+Zick, A., Küpper, B., & Krause, D. (2018). Verlorene Mitte, Feindselige Zustände. Rechts-
+extreme Einstellungen in Deutschland 2018/19. Berlin: Dietz.
+
+Prof. Dr. Juliane Karakayalı ist Professorin für Soziologie an der Evangelischen Hoch-
+schule Berlin. Zu ihren Schwerpunkten in Forschung und Lehre gehören Migrations-, 
+Rassismus- und Geschlechterforschung.
+
+
+
+32 J. Karakayalı
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

@@ -1,0 +1,582 @@
+﻿Verräumlichte Wahrnehmung
+
+Bernd Belina
+
+Zusammenfassung
+
+Verräumlichte Wahrnehmung ist im Alltag lebensnotwendig, wird aber zum 
+Problem, wenn sie sich verselbständigt und in der polizeilichen Praxis hand-
+lungsleitend wird. Wenn die Polizei in Räumen, die sie mit Gefahr und 
+Kriminalität in Verbindung bringt – und das sind meist solche, in denen 
+Minderheiten und Randgruppen anzutreffen sind –, anders agiert als in 
+solchen, die sie für harmlos hält, bedeutet das notwendig, dass Minder-
+heiten und Randgruppen stärker kontrolliert werden. Über den „Umweg“ des 
+„kriminellen Raums“ poliziert sie auf diese Weise tendenziell diskriminierend.
+
+Schlüsselwörter
+
+„Kriminelle Räume“ · Gefahrengebiete · Broken Windows · Predictive Policing · 
+Racial Profiling
+
+B. Belina (*) 
+Institut für Humangeographie, Goethe-Universität Frankfurt,  
+Frankfurt am Main, Deutschland
+E-Mail: belina@em.uni-frankfurt.de
+
+© Der/die Autor(en) 2022 323
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_15
+
+
+
+324 B. Belina
+
+1 V on individueller zu institutioneller 
+Wahrnehmung
+
+Unsere Wahrnehmung ist wesentlich räumlich. Vermittelt über unseren Körper 
+geht unser In-der-Welt-Sein andauernd und immer wieder damit einher, dass 
+wir Orte kategorisieren. So entstehen etwa vertraute und unbekannte, einladende 
+und abweisende, sichere und gefährliche Orte. In diese Kategorisierungen gehen 
+eigene oder berichtete Erfahrungen, Diskurse und Institutionalisierungen ein.1 
+Sie passieren weitgehend ganz von selbst und machen das Leben einfacher, ja sie 
+sind zur Orientierung lebensnotwendig. Dabei neigen wir sowohl bei den Räumen 
+unseres Alltags, mit denen wir besonders vertraut sind, als auch bei jenen, die 
+wir nur ganz oberflächlich kennen, dazu, recht feste und unhinterfragte Kate-
+gorisierungen vorzunehmen. Obwohl wir diese Kategorisierungen subjektiv und 
+selbst vornehmen, erscheinen sie uns dann häufig so selbstverständlich, dass sie 
+wie objektiv und gegeben wirken. Die Räume „sind“ dann so und scheinen Ein-
+fluss auf uns auszuüben. Je nachdem, in welchem Raum wir uns wähnen, werden 
+wir uns unterschiedlich fühlen und handeln – locker oder angespannt, offen 
+oder abweisend, sicher oder vorsichtig, vielleicht sogar ängstlich oder aggressiv. 
+Indem wir unsere Wahrnehmung von Räumen nicht mehr hinterfragen, erlauben 
+wir ihnen, unsere Praxis anzuleiten. Die einerseits notwendige verräumlichte 
+Wahrnehmung kann also andererseits folgenreich sein.
+
+Auch Polizist:innen auf Steife, im Einsatz und bei der Planung kategorisieren 
+die Orte, die sie polizieren. Auch sie schreiben den Räumen, in denen sie agieren 
+und interagieren, Bedeutungen zu, die oft stabil und kaum hinterfragt sind, und 
+sie fühlen und handeln entsprechend dieser Kategorien. Erhard Blankenburg 
+und Johannes Feest haben bereits 1972 in ihrer begriffsbildenden Studie Die 
+Definitionsmacht der Polizei in teilnehmender Beobachtung feststellen können, 
+dass Polizist:innen in „ordentlichen Gegenden“ weit seltener kontrollieren 
+als in „verdächtigen Gegenden“. Weil solche Wahrnehmungen innerhalb der 
+Polizei zirkulieren, schon in der Ausbildung weitergegeben und in Gesprächen 
+und Erzählungen immer wieder aktualisiert werden, verfestigen sie sich zu 
+institutionell geteilten Bedeutungszuschreibungen. Deshalb gilt: „Bevor ein 
+Polizist erstmals mit gefährlichen Menschen an gefährlichen Orten zusammen-
+trifft, hat er schon eine (wenn auch diffuse) Vorstellung davon, wie er sich wem 
+
+1 Tuan (1974); Werlen (1997).
+
+
+
+Verräumlichte Wahrnehmung 325
+
+gegenüber zu welchen Zeiten an welchen Orten zu verhalten hat.“2 So kommt es, 
+„dass die Polizei ihr Handeln entlang räumlicher Einteilungen strukturiert“3. Dies 
+kann etwa dazu führen, dass dieselbe wahrgenommene Ordnungswidrigkeit auch 
+in Abhängigkeit des Ortes der Kontrolle unterschiedlich geregelt wird.4
+
+Basierend auf seiner Auswertung von Interviews mit Bereitschafts-
+polizist:innen, die im Frankfurter Bahnhofsviertel u. a. die offene Drogenszene zu 
+polizieren haben, hält Behr beispielhaft fest:
+
+„[Sie] wissen wenig von den Lebenszusammenhängen ihrer Klientel. Es fällt ihnen 
+deshalb schwer, sich ein angemessenes Bild von den tatsächlichen Gefährdungen 
+zu machen. Da alles diffus ist, werden die schlimmsten Fälle angenommen und 
+kommuniziert, und gegen diese Vorstellungen bleibt ihnen nur ein hermetischer 
+Schutz. Der besteht darin, das ganze Gebiet für verseucht und zu einem gefährlichen 
+Ort zu erklären.“5
+
+Wenn er weiter ausführt, dass die unter den Interviewten geteilte Einsicht, nach 
+der „die Drogenabhängigen Kranke und keine Kriminellen seien […] in der Aus-
+sage [untergeht], in einem gefährlichen Raum zu arbeiten“6, dann illustriert das 
+präzise ein theoretisches Argument, dass anderswo entwickelt wurde7: indem Vor-
+stellungen von Orten für die Polizei handlungsleitend werden, tendieren sie dazu, 
+das in Erfahrungen oder durch Reflexion erworbene und oft weit komplexere und 
+reflektiertere Wissen über Situationen, Menschen und Gruppen zu überlagern. 
+Die lebensnotwendige Kategorisierung von Räumen resultiert, wenn Räume 
+seitens der Institution Polizei als „kriminelle Räume“ wahrgenommen werden, 
+darin, dass tendenziell von gesellschaftlichen Prozessen und Zuschreibungen 
+abgesehen wird. Was oder wer „gefährlich“ und potenziell „kriminell“ ist, ent-
+scheiden dann nicht mehr Beobachtung, Erfahrung und Reflexion, sondern die 
+verfestigte verräumlichte Wahrnehmung. Das ist ein Problem.
+
+Hunold, Dangelmaier und Brauer konstatieren auf Basis ihrer empirischen 
+Forschung, dass „institutionell gebundene Raumdeutungen vor allem soziale 
+
+2 Behr (2008), S. 235 (Hervorhebung im Original).
+3 Hunold et al. (2020).
+4 Vgl. am Beispiel des Telefonierens beim Autofahren: Dangelmaier und Brauer (2020), 
+S. 225–228.
+5 Behr (2008), S. 222.
+6 Behr (2008), S. 222.
+7 Belina (2011); Belina und Wehrheim (2011).
+
+
+
+326 B. Belina
+
+Merkmale wie Geschlecht, Ethnie und Klasse [reflektieren], über die Ein- und 
+Ausschlussprozesse durch die damit verknüpften und legitimierten polizeilichen 
+Maßnahmen strukturiert werden“8. Das Problem verfestigter verräumlichter 
+Wahrnehmung besteht darin, dass auf ihrer Grundlage Menschen nach (ver-
+mutetem) sozialen Status, nach Hautfarbe, Alter und Geschlecht sowie nach 
+(vermuteter) Religionszugehörigkeit unterschiedlich behandelt werden. Die 
+institutionalisierten Raumvorstellungen können zu einer ungleichen, dis-
+kriminierenden und sogar rassistischen Polizeipraxis führen. Für die aktuelle Dis-
+kussion um Racial Profiling9 heißt das: Insbesondere bei anlasslosen Kontrollen 
+im öffentlichen Raum kann so die Praxis auch dezidiert nicht rassistischer oder 
+gar anti-rassistischer Polizist:innen nach rassistischen Kriterien erfolgen. Der 
+Aktivist Bislap Basu beschreibt die Logik des Racial Profiling in „kriminellen 
+Räumen“ in einem Interview zugespitzt aber treffend: „Normalerweise findet 
+erst eine Straftat statt und dann wird ein Täter gesucht. Hier sucht man erst 
+Personen und findet dann eine Straftat.“10 Dies verdeutlichen zwei aktuelle Unter-
+suchungen, die in verschiedenen Kontexten und mit komplett unterschiedlichen 
+Methoden zum selben Ergebnis kommen. Koefoed und Simonsen berichten, 
+dass alle Polizist:innen, mit denen sie in Kopenhagen Interviews geführt haben, 
+in Gegenden, die als „Ghettos“ gelten, tendenziell alle jungen Männer im 
+öffentlichen Raum für potentielle Kriminelle halten.11 Die Analyse von Daten 
+zu Verkehrskontrollen durch die Polizei von Houston zusammen mit solchen zur 
+Bevölkerungszusammensetzung in verschiedenen Teilen der Stadt durch Zhang 
+und Zhang zeigt, dass in Gegenden mit mehrheitlich schwarzer und hispanischer 
+Bevölkerung unabhängig von der registrierten Kriminalitätsbelastung deut-
+lich mehr Kontrollen stattfanden, und dass Schwarze und Hispanics in hetero-
+genen Stadtteilen deutlich seltener kontrolliert werden.12 In Deutschland gibt es 
+von wenigen Ausnahmen abgesehen kaum Forschung, die sich explizit dieses 
+Zusammenhanges annimmt.13
+
+8 Hunold et al. (2020).
+9 Thompson (2018); Belina (2016a, b); vgl. auch den Beitrag von Niemz und Singelnstein 
+in diesem Band.
+10 Basu (2018), S. 119.
+11 Koefoed und Simonsen (2021), S. 580.
+12 Zhang und Zhang (2021).
+13 Aden et al. (2020), S. 94.
+
+
+
+Verräumlichte Wahrnehmung 327
+
+2 B eispiele institutionalisierter Verräumlichung
+
+Dass die verräumlichte Wahrnehmung das polizeiliche Wissen um die Komplexi-
+tät der sozialen und Zuschreibungsprozesse und mitunter auch um die rechtsstaat-
+lich gebotenen Regeln ihres Tuns überlagert, wird durch Institutionalisierungen in 
+Recht, Ideologie und Technologie verstärkt. Diese werden im Folgenden jeweils 
+exemplarisch diskutiert.
+
+2.1  Recht: z. B. Gefahrengebiete
+
+Im Recht gelten zunächst und grundlegend rechtsstaatliche Verfahren, die 
+polizeiliche Kontrollen und Gewaltanwendung an das Vorliegen zumindest eines 
+konkreten Verdachtes knüpfen, sowie das Diskriminierungsverbot. Eine Art, 
+in der „kriminelle Räume“ diese Anforderungen im Recht selbst überlagern, ist 
+die Standardmaßnahme „gefährliche“ oder „kriminalitätsbelastete Orte“ bzw. 
+„Gefahrengebiet“ im Polizeirecht. Solche kann die Polizei in allen Bundesländern 
+ausweisen und sich dabei selbst weitreichende Kompetenzen in Bezug auf ver-
+dachtsunabhängige Kontrollen und mitunter auch Durchsuchungen geben. Einen 
+Überblick der 16 unterschiedlichen Normen und der – teils beträchtlichen – 
+Varianz zwischen ihnen liefert Keitzel14. Zentral für die Ausweisung sind 
+üblicherweise die rechtlich unbestimmten Begriffe der „Lageerkenntnis“ bzw. 
+des „Lagebildes“, die sich „auf polizeiliche Analysen, Prognosen, Vermutungen, 
+Auswertungen bisheriger Einsätze, kurzum auf polizeiliches Erfahrungswissen 
+[stützen]“15. Wo sich in der Polizei die o. g. „kriminellen Räume“ als Alltags-
+wissen herausgebildet haben, kann sich dieselbe Polizei zusätzliche Kompetenzen 
+geben, die grundlegende rechtsstaatliche Verfahren überlagern und über den 
+„Umweg“ des Raums zu Diskriminierungen führen.
+
+Ähnlich funktioniert die Verräumlichung der Wahrnehmung im Bundes-
+polizeigesetz (BPolG). Nach § 22 Abs. 1a BPolG darf die Bundespolizei „[z]ur 
+Verhinderung oder Unterbindung unerlaubter Einreise in das Bundesgebiet […] 
+in Zügen und auf dem Gebiet der Bahnanlagen der Eisenbahnen des Bundes, 
+soweit auf Grund von Lageerkenntnissen oder grenzpolizeilicher Erfahrung anzu-
+nehmen ist, daß diese zur unerlaubten Einreise genutzt werden, […] jede Person 
+
+14 Keitzel (2020).
+15 Assall und Gericke (2016), S. 67 f.
+
+
+
+328 B. Belina
+
+kurzzeitig anhalten, befragen und verlangen, daß mitgeführte Ausweispapiere 
+oder Grenzübertrittspapiere zur Prüfung ausgehändigt werden, sowie mitgeführte 
+Sachen in Augenschein nehmen“. Städtische Bahnhöfe werden damit zu Orten, 
+an denen nach der oben beschriebenen Logik anlasslos kontrolliert wird.16
+
+Außerdem weisen Kommunen im Form von Verordnungen Bereiche aus, 
+in deren öffentlichen Räumen bestimmte Tätigkeiten wie Betteln, Lagern und 
+Alkoholkonsum untersagt sind17 und die mitunter von eigenen Ordnungsdiensten 
+umgesetzt werden. Auch diese Verordnungen dienen dazu, bestimmte Gruppen 
+von Menschen zu kriminalisieren:
+
+„Bettel- und Alkoholverbote adressieren nicht die Bevölkerung im Allgemeinen, 
+sondern spezifische soziale Randgruppen. Mithilfe der genannten Verordnungen 
+wird den Behörden, also der Polizei und dem KAD [der Ordnungsbehörde der Stadt 
+München; B.B.] das Einschreiten gegen diese Gruppen ermöglicht.“18
+
+Erneut erfolgt dies über den „Umweg“ institutionalisierter Raumwahrnehmungen, 
+indem nicht Armut und Alkoholkrankheit kriminalisiert werden, sondern die 
+Anwesenheit armer und alkoholkranker Menschen in bestimmten Räumen.
+
+2.2  Ideologie: z. B. Broken Windows
+
+Ende der 1990er Jahre schwappte aus New York eine Ideologie in die deutsch-
+sprachige Debatte19, die sich als wissenschaftliche Theorie verkleidete und in 
+perfider Weise Randgruppen kriminalisierte, ohne sie als Gruppen, sondern mittels 
+Raum zu kriminalisieren.20 Die Broken Windows-These wurde von Wilson und 
+Kelling in einem Essay in der Monatszeitschrift Atlantic Monthly entworfen. Im 
+Kern behauptet sie: „[E]rnsthafte Straßenkriminalität gedeiht in Gegenden, in 
+denen unordentliches Verhalten unkontrolliert durchgeht.“21 Sichtbare Zeichen für 
+diesen Mangel an Kontrolle und die Akzeptanz von „unordentlichem Verhalten“ 
+seien physischer Verfall (die namensgebenden „zerbrochenen Fensterscheiben“) 
+
+16 Vgl. Belina (2016a).
+17 Hecker (2018).
+18 Thurn (2020), S. 336.
+19 Künkel (2018).
+20 Vgl. ausführlich Belina (2017).
+21 Wilson und Kelling (1982), S. 34.
+
+
+
+Verräumlichte Wahrnehmung 329
+
+ebenso wie „sozialer Verfall“, der sich in der Anwesenheit „unordentlicher 
+Leute“ äußere. Beide Verfallsformen werden von Wilson und Kelling als sicht-
+bare Zeichen mangelnder Kontrolle gleichgesetzt: „Der unkontrollierte Bettler ist 
+tatsächlich die erste zerbrochene Fensterscheibe.“22 Der kausale Zusammenhang 
+von physischer und sozialer Unordnung mit schwerer Kriminalität funktioniert 
+über den Zwischenschritt ihrer Wahrnehmung durch potentielle Straftäter:innen. 
+Diesen vermittle eine heruntergekommene Gegend den Eindruck, dass in ihr die 
+soziale Kontrolle niedrig sei und das Einhalten von Normen nicht sanktioniert 
+werde. Deshalb lade sie zu abweichenden Verhaltensweisen inklusive schwerer 
+Verbrechen geradezu ein. Verstärkt werde dieser Zusammenhang durch die 
+Wahrnehmung der Bewohner:innen, die ihrerseits die Wahrnehmung der 
+Verbrecher:innen antizipierten. Deshalb fürchteten sie sich, unabhängig von tat-
+sächlicher schwerer Kriminalität, wegen des Verfalls ihrer Wohngegend ver-
+stärkt vor Verbrechen und zögen sich aus dem öffentlichen Leben zurück, bzw. 
+aus der Nachbarschaft weg. Die ganze Argumentation steht und fällt also mit der 
+Behauptung, dass schwere Verbrechen begangen würden, weil eine Gegend von 
+potentiellen Straftäter:innen als unordentlich wahrgenommen wird. Sie behauptet: 
+„[D]isorder left untended […] leads to […] more serious crime.“23 Auf diese 
+Weise werden aus „unordentlichen Gegenden“ „gefährliche Gegenden“.
+
+Für diesen Zusammenhang gibt es nicht nur keinen empirischen Beleg24, vor 
+allem basiert die Broken Windows-These auf einer durch nichts als die Moralvor-
+stellungen der Autor:innen gestützte Einteilung von Menschen in zwei Gruppen: 
+ordentliche und unordentliche. Zu letzteren zählen „zwielichtige oder wider-
+spenstige oder unberechenbare Leute: Bettler, Betrunkene, Süchtige, herum-
+streunende Jugendliche, Prostituierte, Herumlungernde, geistig Behinderte“25. 
+Der Kunstgriff besteht darin, diese Leute indirekt zu kriminalisieren. Es wird 
+nicht behauptet, dass die diversen Randgruppen wegen ihrer moralischen 
+Inferiorität auch kriminell seien. Stattdessen behauptet Broken Windows, dass die 
+schiere sichtbare Anwesenheit solcher Gruppen Schwerkriminelle und -kriminali-
+tät anzögen. Um schwere Verbrechen zu verhindern, müsse die Polizei, so die 
+Logik und die Forderung, arme oder sonst wie missliebige Menschen von Straßen 
+und Plätzen vertreiben.
+
+22 Wilson und Kelling (1982), S. 30.
+23 Kelling (2001), S. 120.
+24 Vgl. Harcourt und Ludwig (2006); Taylor (2001).
+25 Wilson und Kelling (1982), S. 30.
+
+
+
+330 B. Belina
+
+2.3  Technologie: z. B. Predictive Policing
+
+Auch mittels Technologien wird die verräumlichte Wahrnehmung 
+institutionalisiert. Besonders deutlich wird das beim Predictive Policing26, dem 
+„routinemäßigen Einsatz von EDV-Apparaten durch Polizierende mit dem 
+Ziel, Vorhersagen über Orte und Zeiten von kriminalisierbaren Handlungen zu 
+treffen, die präzise genug sind, um gezielte Maßnahmen zu deren Bekämpfung 
+zu ergreifen“27. Am bekanntesten ist das Produkt des US-amerikanischen Markt-
+führers PredPol, das auf Basis registrierter Kriminalität ebensolche Zeiten und 
+Orte identifiziert, die dann intensiver polizeilich bestreift werden. Zu Recht 
+kritisiert werden an Predictive Policing Verdrängungseffekte28, allgemein die 
+Qualität der genutzten Daten und der Grundannahmen und besonders deren 
+rassistische Tendenzen29, sowie grundlegend das Ausblenden sozialer Ver-
+hältnisse30. All das basiert darauf, dass die Karten, die anzeigen, wo und wann 
+angeblich mit vermehrtem Kriminalitätsaufkommen zu rechnen ist, die Verselb-
+ständigung der räumlichen Wahrnehmung auf die Spitze treiben.
+
+Wie in der Welt von Big Data üblich, wird die umfangreiche Forschung 
+in diesem Feld weit überwiegend von Naturwissenschaftler:innen und 
+Computerspezialist:innen betrieben. Für diese ist Verbrechensvorhersage nur 
+ein weiterer Anwendungsbereich, in dem sich ihre Methoden zu bewähren und 
+an dem ihre Algorithmen zu lernen haben. Wie weit dabei von ernsthaften Ver-
+suchen abgesehen wird, die sozialen und Zuschreibungsprozesse, die „Kriminali-
+tät“ hervorbringen, zu erklären, illustriert die selbstbewusste Formulierung aus 
+einem State-of-the-Art-Aufsatz zu Statistical Physics of Crime: „Although our 
+understanding of the mechanisms that drive the emergence and diffusion of crime 
+is still incomplete, recent research highlights applied mathematics and methods 
+of statistical physics as valuable theoretical resources that may help us better 
+understand criminal activity.“31 Die Ineinssetzung von Methode und Theorie ist 
+kein Zufall. Dank der neuen Methoden entstünde „eine neue Art der Wissenschaft 
+
+26 Vgl. ausführlich Belina (2016b); Egbert und Leese (2021); Bode und Seidensticker 
+(2020).
+27 Straube und Belina (2018), S. 224.
+28 Sommerer (2017).
+29 Ferguson (2017); Jefferson (2018).
+30 Singelnstein (2018).
+31 D’Orsogna und Perc (2015), S. 1.
+
+
+
+Verräumlichte Wahrnehmung 331
+
+der Verbrechensverhinderung“32, die sich ganz offensichtlich um eine Erklärung 
+des Phänomens „Kriminalität“ nicht schert – auch dies typisch für die Welt von 
+Big Data, in der gilt: „[W]e usually don’t know about causation, and we often 
+don’t necessarily care […] the objective is more to predict than it is to understand 
+the world […] It just needs to work; prediction trumps explanation.“33 Indem 
+die Daten aus der Polizeiarbeit, die auf Basis „krimineller Räume“ stattfindet, 
+als Grundlage aller Berechnungen genutzt wird, werden die verselbständigten 
+verräumlichen Vorstellungen reproduziert – und aufgrund der Technologie-
+fixierung noch weniger hinterfragt.
+
+3 F azit: nicht „kriminelle Räume“, sondern 
+Situationen polizieren!
+
+Verräumlichte Wahrnehmung ist lebensnotwendig, wird aber zum Problem, 
+wenn sie sich verselbständigt und als solche in der Praxis der Institution 
+Polizei handlungsleitend wird. Ohne, dass einzelne Polizist:innen es wollen 
+oder bemerken müssen, wird die Polizeiarbeit diskriminierend, wenn sie auf 
+Basis der Vorstellung „krimineller Räume“ erfolgt. Die Kriminalisierung von 
+Räumen geschieht zudem häufig aus Gründen, die mit Gefahr und Kriminali-
+tät gar nichts zu tun haben, etwa in Zusammenhang mit Gentrifizierung34 
+oder in Wahlkämpfen, wie Bürk und Höhne in Bezug auf Kreuzberg plakativ 
+formulieren: „Offenbar sind die Straßen und öffentlichen Räume Kreuzbergs in 
+den Monaten vor Wahlen ganz besonders böse und gefährlich.“35 Polizist:innen 
+wissen häufig ganz gut, dass Menschen nicht allein deshalb schon gefährlich, ver-
+dächtig oder gar kriminell sind, weil sie aufgrund ihrer Klasse, ihrer Herkunft, 
+ihrer Religion, ihres Geschlechts oder ihres Alters von gewissen Normalitäts-
+vorstellungen abweichen. Sobald sie aber Räume polizieren, die als „kriminelle 
+Räume“ gelten und meist eben die Gegenden sind, an denen sich viele Menschen 
+finden, die Minderheiten und Randgruppen zugerechnet werden, werden sie auto-
+matisch diskriminierend vorgehen, wenn sie ihre verräumlichten Wahrnehmung 
+nicht hinterfragen. Dass dies in Einzelfällen passiert, ist ein  Hoffnungsschimmer. 
+
+32 D’Orsogna und Perc (2015), S. 18.
+33 Siegel (2013), S. 90.
+34 Künkel (2013).
+35 Bürk und Höhne (2018), S. 19.
+
+
+
+332 B. Belina
+
+In einer aktuellen Untersuchung rekonstruiert Beer aus Interviews mit 
+Polizeibeamt:innen, dass diesen das „Potenzial der rechtlichen Legitimation ver-
+dachtsunabhängiger Kontrollen an gefährlichen Orten, stigmatisierende und dis-
+kriminierende Tendenzen in polizeilichen Kontrollstrategien zu ermöglichen“36 
+teilweise bewusst ist; dass allerdings andere die überproportionale Kontrolle von 
+People of Color in „kriminellen Räumen“ legitimieren oder bestreiten.
+
+Darauf zu hoffen, dass Polizist:innen die machtvollen Institutionalisierungen 
+verräumlichter Wahrnehmung durchschauen und in ihrer Praxis durch-
+brechen, ist für einen Rechtsstaat zu wenig. Vielmehr müssen, erstens, alle 
+Institutionalisierungen „krimineller Räume“ abgebaut werden, mithin die oben 
+genannten Gesetze geändert sowie Ideologien wie Broken Windows und Techno-
+logien wie Predictive Policing abgelehnt werden. Um besser zu verstehen, in 
+welcher Weise „kriminelle Räume“ tatsächlich handlungsleitend für die Polizei-
+arbeit sind, bedarf es, zweitens, weiterer empirischer Forschung. Um quantitative 
+Studien hierzu in Deutschland möglich zu machen, müsste die Polizei auch hier-
+zulande dokumentieren, wen sie wo warum kontrolliert – und diese Angaben auch 
+mit den Kontrollierten in Form z. B. schriftlicher Quittungen teilen. Dies wäre, 
+drittens, ein Teil von Maßnahmen, die an der Polizeipraxis ansetzen, zu denen 
+zudem unabhängige Beschwerdestellen37, polizeiliche Kennzeichnungspflicht, das 
+Kennenlernen der Lebensrealität in „kriminellen Räumen“ durch Polizist:innen 
+etwa mittels Sozialpraktika und andere zählen. Um viertens die gesellschaftliche 
+Debatte zu verschieben, helfen alle Initiativen, die der verräumlichten Wahr-
+nehmung der Institution Polizei andere Narrative entgegensetzen. Würden in 
+Politik und Medien prominenter die Positionen reflektierter Polizist:innen und 
+vor allem von Betroffenen von Racial Profiling an „kriminellen Orten“38 Gehör 
+finden, hätte das Auswirkungen auf die Ausgestaltung des Rechts, die Wirk-
+mächtigkeit von Ideologien und das Vertrauen in Technologien sowie auch die 
+individuelle und institutionelle räumliche Wahrnehmung durch Polizist:innen und 
+Polizeien. Über allem, was in Forschung, Politik und Polizeipraxis angesichts der 
+Diskriminierung über den „Umweg“ des Raums zu tun wäre, sollte als Leitschnur 
+stehen nicht Räume zu polizieren, sondern Situationen, und zwar transparent, dis-
+kriminierungsfrei und rechtsstaatlich.
+
+36 Beer (2021), S. 152 (Hervorhebung im Original).
+37 Vgl. den Beitrag von Aden und Bosch diesem Band.
+38 Kampagne für Opfer rassistischer Polizeigewalt (2016); Kollaborative Forschungsgruppe 
+Racial Profiling Schweiz (2019); vgl. auch die Beiträge von Thompson sowie Görgen und 
+Wagner in diesem Band.
+
+
+
+Verräumlichte Wahrnehmung 333
+
+Literatur
+
+Aden, H., Bosch, A., & Fährmann, J. (2020). Kontrollieren – aber wie? Können technische 
+Innovationen die Akzeptanz für polizeiliche Personenkontrollen verbessern? In H. Groß 
+& P. Schmidt (Hrsg.), Polizei und Migration (S. 90–108). Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+Assall, M., & Gericke, C. (2016). Zur Einhegung der Polizei. Rechtliche Interventionen 
+gegen entgrenzte Kontrollpraktiken im öffentlichen Raum am Beispiel der Hamburger 
+Gefahrengebiete. Kritische Justiz, 49, S. 61.
+
+Basu, B. (2018). „Hier sucht man erst Personen und findet dann eine Straftat.“ Gespräch 
+mit Bislap Basu von KOP über Polizeigewalt, Rassismus und Kreuzberg. In 
+Autor:innenkollektiv Gras & Beton (Hrsg.), Gefährliche Orte. Unterwegs in Kreuzberg 
+(S. 118–127). Berlin: Assoziation A.
+
+Beer, A. (2021). Racial Profiling. Eine qualitative Analyse von Erfahrungen und Sicht-
+weisen von Polizist_innen. Freiburg: Fakultät für Bildungswissenschaften. https://phfr.
+bsz-bw.de/frontdoor/index/index/docId/952. Zugegriffen: 18. Juli 2022.
+
+Behr, R. (2008). Cop Culture – Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur der Polizei. 2. Aufl. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Belina, B. (2011). Raum, Überwachung, Kontrolle. Vom staatlichen Zugriff auf städtische 
+Bevölkerung. 2. Aufl. Münster: Westfälisches Dampfboot.
+
+Belina, B. (2016a). Der Alltag der Anderen: Racial Profiling in Deutschland? In B. 
+Dollinger & H. Schmidt-Semisch (Hrsg.), Sicherer Alltag? Politiken und Mechanismen 
+der Sicherheitskonstruktion im Alltag (S. 125–146). Wiesbaden: Springer.
+
+Belina, B. (2016b). Predictive Policing. Monatsschrift für Kriminologie und Strafrechts-
+reform, 99, S. 85.
+
+Belina, B. (2017). „Vorbild New York“ und „Broken Windows“: Ideologien zur 
+Legitimation der Kriminalisierung der Armen im Namen der Sicherheit in der unter-
+nehmerischen Stadt. In J. Häfele, F. Sack, V. Eick & H. Hillen (Hrsg.), Sicherheit 
+und Kriminalprävention in urbanen Räumen. Aktuelle Tendenzen und Entwicklungen 
+(S. 29–46). Wiesbaden: Springer.
+
+Belina, B., & Wehrheim, J. (2011). „Gefahrengebiete“. Durch die Abstraktion vom 
+Sozialen zur Reproduktion gesellschaftlicher Strukturen. Soziale Probleme, 23, S. 207.
+
+Blankenburg, E., & Feest, J. (1972). Die Definitionsmacht der Polizei. Düsseldorf: Bertels-
+mann.
+
+Bode, F., & Seidensticker, K. (Hrsg.) (2020). Predictive Policing. Eine Bestandsaufnahme 
+für den deutschsprachigen Raum. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Bürk, T., & Höhne, S. (2018). Willkommen im Blaulichtbezirk! Militanter Lokalismus und 
+der Mythos Kreuzberg. In Autor:innenkollektiv Graß & Beton (Hrsg.), Gefährliche 
+Orte. Unterwegs in Kreuzberg (S. 10–22). Berlin: Assoziation A.
+
+D’Orsogna, M., & Perc, M. (2015). Statistical physics of crime: A review. Physics of Life 
+Reviews, 12, S. 1.
+
+Dangelmaier, T., & Brauer, E. (2020). Selektive Polizeiarbeit – Raumordnung und deren 
+Einfluss auf das polizeiliche Handeln. In D. Hunold & A. Ruch (Hrsg.), Polizeiarbeit 
+zwischen Praxishandeln und Rechtsordnung (S. 213–233). Wiesbaden: Springer.
+
+
+
+334 B. Belina
+
+Egbert, S., & Leese, M. (2021). Criminal Futures. Predictive Policing and Everyday Police 
+Work. London und New York: Routledge.
+
+Ferguson, A. (2017). The Rise of Big Data Policing. Surveillance, Race, and the Future of 
+Law Enforcement. New York: NYU Press.
+
+Harcourt, B., & Ludwig, J. (2006). Broken Windows: New Evidence from New York City 
+and a Five-City Social Experiment. The University of Chicago Law Review, 73, S. 271.
+
+Hecker, W. (2018). Umstrittener öffentlicher Raum. Zur neueren Rechtsentwicklung. 
+Bürgerrechte & Polizei/CILIP, 115, S. 34.
+
+Hunold, D., Dangelmaier, T., & Brauer, E. (2020). Soziale Ordnung und Raum – Aspekte 
+polizeilicher Raumkonstruktion. Soziale Probleme, 32(3), S. 19. https://doi.org/10.1007/
+s41059-020-00070-1.
+
+Jefferson, B. (2018). Predictable Policing. Predictive Crime Mapping and Geographies of 
+Policing and Race. Annals of the American Association of Geographers, 108, S. 1.
+
+Kampagne für Opfer rassistischer Polizeigewalt (Hrsg.) (2016). Alltäglicher Ausnahme-
+zustand. Institutioneller Rassismus in deutschen Strafverfolgungsbehörden. Münster: 
+edition assemblage.
+
+Kollaborative Forschungsgruppe Racial Profiling Schweiz (2019). Racial Profiling. 
+Erfahrung, Wirkung, Widerstand. Berlin: Rosa-Luxemburg-Stiftung. https://www.
+rosalux.de/publikation/id/40493/. Zugegriffen: 18. Juli 2022.
+
+Keitzel, S. (2020). Varianzen der Verselbstständigung der Polizei per Gesetz. „Gefährliche 
+Orte“ im bundesweiten Vergleich. Kriminologisches Journal, 52, S. 1.
+
+Kelling, G. (2001). “Broken Windows” and the culture wars. In R. Matthews & J. Pitts 
+(Hrsg.), Crime, Disorder and Community Safety (S. 120–144). London und New York: 
+Routledge.
+
+Koefoed, L., & Simonsen, K. (2021). Cross-cultural encounters in everyday urban policing. 
+Police Practice and Research, 22, S. 574.
+
+Künkel, J. (2018). Die Verschiebung lokaler Kräfteverhältnisse durch Politiktransferdis-
+kurse. ACME: An International Journal for Critical Geographies, 17, S. 17.
+
+Künkel, J. (2013). Wahrnehmungen, Strategien und Praktiken der Polizei in Gentri-
+fizierungsprozessen – am Beispiel der Prostitution in Frankfurt a. M. Kriminologisches 
+Journal, 45, S. 180.
+
+Siegel, E. (2013). Predictive Analytics. The Power to Predict who will Click, Buy, Lie, or 
+Die. Hoboken: Wiley.
+
+Singelnstein, T. (2018). Predictive Policing: Algorithmenbasierte Straftatprognosen zur 
+vorausschauenden Kriminalintervention. Neue Zeitschrift für Strafrecht, 38, S. 1.
+
+Sommerer, L. (2017). Geospatial Predictive Policing. Research Outlook & A Call For 
+Legal Debate. Neue Kriminalpolitik, 29, S. 147.
+
+Straube, T., & Belina, B. (2018). Policing the Smart City: Eine Taxonomie polizeilicher 
+Prognoseprogramme. In S. Bauriedl & A. Strüver (Hrsg.), Smart City – Kritische 
+Perspektiven auf die Digitalisierung in Städten (S. 223–236). Bielefeld: transcript.
+
+Taylor, R. (2001). Breaking Away from Broken Windows. Boulder: Westview Press.
+Thompson, V. (2018). „There is no justice, there is just us!“. Ansätze zu einer postkolonial-
+
+feministischen Kritik der Polizei am Beispiel von Racial Profiling. In D. Loick (Hrsg.), 
+Kritik der Polizei (S. 197–219). Frankfurt am Main und New York: Campus.
+
+Thurn, R. (2020). „… wollen nicht verstehen, was der Bürger als normal ansieht“. Das 
+Policing von Armut durch Alkohol- und Bettelverbote am Münchner Hauptbahnhof. 
+
+
+
+Verräumlichte Wahrnehmung 335
+
+In D. Hunold & A. Ruch (Hrsg.), Polizeiarbeit zwischen Praxishandeln und Rechts-
+ordnung (S. 329–350). Wiesbaden: Springer.
+
+Tuan, Y. (1974). Space and Place: Humanistic Perspective. Progress in Geography, 6, S. 
+211.
+
+Werlen, B. (1997). Sozialgeographie alltäglicher Regionalisierungen. Bd. 2. Stuttgart: 
+Franz Steiner.
+
+Wilson, J., & Kelling, G. (1982). Broken Windows. Atlantic Monthly, 3, S. 29.
+Zhang, Y., & Zhang, L. (2021). Racial characteristics of areas and police decisions to arrest 
+
+in traffic stops: multilevel analysis of contextual racial effects. Policing: An Inter-
+national Journal, 44, S. 772.
+
+Prof. Dr. Bernd Belina ist Professor für Humangeographie an der Goethe-Universität 
+Frankfurt. In seiner Forschung befasst er sich mit Themen der Politischen und der Stadt-
+geographie sowie der Kritischen Kriminologie.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

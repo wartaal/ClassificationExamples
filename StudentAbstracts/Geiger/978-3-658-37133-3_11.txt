@@ -1,0 +1,959 @@
+﻿„Polizeigewalt hat es nicht gegeben“ –  
+Cop Culture als Disposition für 
+Dominanz, Überlegenheit und 
+Grenzüberschreitung im polizeilichen 
+Alltagshandeln
+
+Rafael Behr
+
+Zusammenfassung
+
+Cop Culture übersetzt abstrakt formulierte Erwartungen des Gesetzgebers 
+in konkrete Handlungsanweisungen, und sie bildet den normativen Rahmen 
+dafür, dass Polizist:innen davon überzeugt sein können, auch dann zu den 
+„Guten“ zu gehören, wenn sie gegen offizielle Vorschriften verstoßen. Der 
+Wertekanon, der hinter dieser Haltung steht, beruht auf Dominanzkultur 
+(Rommelspacher 1995). Cop Culture verteidigt den kollektiven Überlegen-
+heitshabitus. Seine Infragestellung durch das Publikum liefert den Grund für 
+überdimensionierten Gewalteinsatz, seine polizeiinterne Überhöhung die 
+für Rassismus und Diskriminierung. Alle drei werden aber in ihrer Ursache, 
+ihrem Umfang und ihrer Wirkung institutionell weitgehend verschleiert und 
+relativiert.
+
+Das Zitat in der Überschrift stammt vom damaligen ersten Bürgermeister Hamburgs, Olaf 
+Scholz, kurz nach dem sog. „G20-Gipfel“ 2017 in Hamburg, siehe Zeit Online (2021).
+
+R. Behr (*) 
+Hochschule in der Akademie der Polizei Hamburg, Hamburg, Deutschland
+E-Mail: rafael.behr@poladium.de
+
+© Der/die Autor(en) 2022 217
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_11
+
+
+
+218 R. Behr
+
+Schlüsselwörter
+
+Polizeikultur · Cop Culture · Polizeigewalt · Dominanzkultur · Rassismus ·  
+Sexismus · Hypermaskulinität · Überwältigungsmännlichkeit · Gewalt ·  
+Superiorirät
+
+1 C op Culture in transition
+
+Natürlich zeigt sich heute das, was in den 1960er Jahren in den USA und ab 
+dem Jahr 2000 in Deutschland von mir „Cop Culture“ genannt wurde, anders 
+als damals. Das macht das Konzept noch nicht obsolet, es nötigt aber zu einer 
+modifizierten Beschreibung, denn der Formenwandel von „Berufsidentität“, 
+„Maskulinität“ und „Kultur“ ist unübersehbar. Was sich allerdings nicht geändert 
+hat, sind die Strukturbedingungen. Es gibt weiterhin „handarbeitende“ (bzw. 
+handanlegende) Polizist:innen und solche, die man eher als „Kopfarbeitende“ 
+(bzw. als Büroarbeitende) bezeichnen könnte.1 Und es gibt weiterhin Unter-
+schiede zwischen Männern und Frauen, auch wenn sie sich in Darstellung und 
+Ausprägung verändert haben. Diejenigen Polizist:innen, die noch unmittelbar 
+in Überwältigungskontexte geraten können, nutzen für ihre Legitimation natür-
+lich auch das Recht, benötigen darüber hinaus aber noch fallweise zusätzliche 
+Kriterien für die Sicherstellung des Erfolgs ihrer Arbeit und eines souveränen 
+Bewegens im Handlungsfeld. Dafür  gibt es  „Cop Culture“2.
+
+Cop Culture steckt einen Sinnhorizont ab, innerhalb dessen praktische Polizei-
+arbeit stattfindet. Konkretisierungen oder praktische Kriterien für Cop Culture 
+habe ich als kulturelle Handlungsmuster der Polizist:innenkultur bezeichnet. 
+Handlungsmuster sind auf Erfahrung beruhende, sozusagen praxeologische 
+Gegenentwürfe zu den theoretischen, juristisch verklausulierten und politische 
+
+1 Im Übrigen wird bei der Diskussion um Polizei stets vergessen zu erwähnen, dass viele 
+Polizeibeamt:innen einer Polizeibehörde tatsächlich keinen physischen Kontakt mit 
+der Öffentlichkeit haben, weil sie – zumindest temporär – ausschließlich im Innendienst 
+arbeiten. Ich würde mit einer konservativen Schätzung vermuten, dass das ca. 40 % des 
+Personals der Vollzugspolizei betrifft. Sie sind in Arbeitsbereichen beschäftigt, die ent-
+weder administrativer Art sind, Stabstätigkeiten oder eine sachbearbeitende Funktion (Ein-
+satzzentrale, Cyber-Crime etc.) betreffen.
+2 Ausführlich Behr (2008) m.w.N.
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 219
+
+korrekten oder mindestens bürokratischen Vorgaben der Institution (Gesetze, Ver-
+waltungsvorschriften, Dienstanweisungen, Leitfäden Polizeidienstvorschriften 
+etc.). Durch die Handlungsmuster der Cop Culture wird die Theorie in Alltags-
+tauglichkeit überführt, manchmal auch nur ergänzt. Wobei hier Theorie nichts mit 
+Wissenschaft zu tun hat, sondern alles umfasst, was nicht der (eigenen) Alltagser-
+fahrung entstammt (also auch Gesetze, Verordnungen, Skripte der Dozierenden).
+
+Die in der Cop Culture hegemonial wirksamen Handlungsmuster sind nicht 
+aufgeschrieben und auch nicht abstrakt, sondern entspringen einer erfahrungs-
+gestützten Kasuistik des richtigen Polizeihandelns. Sie beruhen auf einer weit-
+gehend binären Weltsicht (wir/die anderen). Diese Sicht wird nach wie vor 
+von einer expressiven und aggressionsbereiten Männlichkeit repräsentiert 
+und perpetuiert3. Während also die offizielle Polizeikultur berechenbares und 
+funktionierendes (vor allem verhältnismäßiges) Verwaltungshandeln einfordert 
+und unterstellt, geht es in der Polizist:innenkultur vornehmlich um Expressivi-
+tät. So dient z. B. eine „Autoritäts-Choreographie“ in erster Linie nicht etwa der 
+Sicherstellung, sondern der Darstellung der eigenen Überlegenheit.4
+
+In einer Welt, die Eindeutigkeit und fraglose Geborgenheit verweigert, 
+und die stattdessen von den Polizist:innen Ambiguitätstoleranz erwartet, kann 
+man subkulturelle Zusammenschlüsse als Sicherungssysteme zur Vermeidung 
+von Kontingenz und Verunsicherung sehen. Positiv ausgedrückt sind sie dazu 
+da, um ein Leben mit einer klaren normativen Orientierung zu ermöglichen. 
+Cop Culture ist kein von vorn herein deviantes Deutungssystem, aber sie trägt 
+eine widerständige Komponente in sich. Sie ist auch kein vorrangig affektives 
+Beziehungssystem, sie basiert nicht auf Liebe oder Sympathie, sondern eher 
+auf Sekundärtugenden, Kalkül und Reziprozität. Der Kern besteht darin, dass 
+nur die gemeinsame Stärke und Unterstützung das (Über-)Leben der Gruppe 
+sicherstellen. Diese Grundregeln der Kollaboration findet man auch in anderen 
+Männerbünden, die eine klare Grenze zwischen sich und anderen ziehen: Rocker, 
+
+3 Meuser (1999); Kersten (1997a, b).
+4 Studierende berichten mir, dass sie im Einsatztraining vermittelt bekommen, sie müssten 
+immer „die Herren im Ring“ sein. Freundlich könne man noch werden, wenn die Situation 
+unter Kontrolle sei. Also müsse man erst mal dominant auftreten und könne später den Ton 
+ändern. Ich habe nicht überprüft, ob das alles so stimmt, aber wenn ich mir den Gesamt-
+auftritt der Hamburger Polizei anschaue, insbesondere was das Demonstrationsgeschehen 
+anbetrifft, kann ich mir gut vorstellen, dass dem zumindest niemand widerspricht. Diese 
+dominante Interaktionsgestaltung scheint auf allen Ebenen der Polizei Zustimmung zu 
+finden.
+
+
+
+220 R. Behr
+
+Soldaten in Kampfverbänden, Mafia, Hooligans, Bergarbeiter, u. v. a. Die 
+Gefahrengemeinschaft ist immer auch eine Schicksalsgemeinschaft.5 Der und die 
+in der Lebenswelt Polizei Agierende erlebt im Dienst zwei  „Seinszustände“ für 
+die Polizei spezifische Besonderheiten: 1) Jederzeit kann etwas Großes passieren 
+und 2) Wenn etwas wirklich Großes passiert, ist man in der Regel damit über-
+fordert. Um diese Kontingenz auszuhalten, braucht es stabile Orientierungs- und 
+Handlungsmuster. Und diese bietet Cop Culture an. Das Verbundenheitsbedürf-
+nis unter Polizist:innen ist nicht nur ein Heile-Welt-Spiel, sondern der Versuch, 
+die psychische und physische Überforderung in Ausnahmeeinsätzen zu mindern. 
+Damit wird natürlich auch die Angst vor den Folgen einer solchen Situation 
+bearbeitet. Es ist also die Kontingenz, der Zufall, die Nicht-Kalkulierbarkeit, 
+die radikale Offenheit der Entwicklung einer Einsatzsituation, die Polizist:innen 
+aus dem Alltagshandeln ausblenden (müssen), um überhaupt handlungsfähig 
+zu bleiben. Die Angst vor der drohenden Unterlegenheit in einer Situation trifft 
+offenbar die männliche Identität intensiver als die weibliche.6 Männer lassen 
+sich von der suggestiven Kraft der kollektiven Überlegenheit (Superiorität), die 
+der Cop Culture innewohnt, stärker berühren als ihre Kolleginnen. Diese sind 
+zwar durchaus in Cop Culture zu integrieren, sie betätigen sich aber nach meiner 
+Beobachtung weniger intensiv an deren Perpetuierung. Psychoanalytisch gesehen 
+leisten Männer und Frauen gleichermaßen permanent Verdrängungsarbeit, indem 
+sie nicht nur ausblenden, dass sie jederzeit in eine Situation geraten können, die 
+sie nicht souverän lösen können, sondern auch, dass sie in mannigfaltiger Weise 
+Gefahr laufen, selbst beschädigt zu werden und auch andere zu beschädigen. 
+Das kann physische oder psychische Folgen haben, vom psychischen Trauma 
+zur körperlichen Verletzung bis hin zum Tod. Man kann aber auch in moralische 
+Dilemmata geraten, die Spuren hinterlassen ohne dass sie an Medizin oder 
+Therapie überwiesen werden könnten. Ich meine damit z. B. den Umgang mit den 
+Schuldgefühlen nach einer exzessiven Gewaltanwendung.7
+
+5 Baumann (2014).
+6 Erikson (2003).
+7 Die komplementäre Emotion der Angst ist die Lust. Natürlich muss man auch mitdenken, 
+dass der Kampf bzw. die körperliche Auseinandersetzung auch Endorphine freisetzt. Für 
+einige Männer ist schon die Vorbereitung auf eine bevorstehende Auseinandersetzung ein 
+„Vergnügen“. Während das für Hooligans gut beschrieben ist, vgl. Buford (2010), kann 
+man es von Polizeibeamt:innen nur vermuten, weil das natürlich nie außerhalb des engsten 
+Kolleg:innenkreises thematisiert würde. Ich gehe aber davon aus, dass schon der freudige 
+Impuls im psychoanalytischen Sinne „abgewehrt“, insbesondere „rationalisiert“ wird.
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 221
+
+2 S taatliche Autorität und autoritärer Staat
+
+In dem unerschütterlichen Glauben an die Richtigkeit des eigenen moralischen 
+Standorts8 und in ihrer Verteidigung nach außen kommt die Superiorität der 
+Polizei zum Ausdruck, die zu einer Art Immunisierung gegenüber Kritik aus 
+der Zivilgesellschaft führt bzw. sie unterstützt. Interessanterweise wird konkrete 
+(oder auch individuelle) Kritik an einem polizeilichen Vorgehen von den Ver-
+tretern der Polizei schnell auf die gesamte Institution übertragen und aufgefasst 
+als Generalverdacht oder als generelles Misstrauen in die Polizei. Beides wird 
+dann mit großem moralischem Gestus skandalisiert und der/die Kritiker:in 
+delegitimiert. Man kann dafür als Beispiel die Haltung der Hamburger Polizei-
+führung nach dem G-20-Gipfel heranziehen, die sowohl im Sonderausschuss 
+der Bürgerschaft als auch gegenüber der Zivilgesellschaft bis zum Schluss die 
+Position beibehalten hat, dass von Seiten der Polizei keine nennenswerten Fehler 
+gemacht worden sind.
+
+2.1  Dominanzkultur und Kontrollperformanz
+
+Birgit Rommelspacher beschreibt die deutsche Gesellschaft in den 1990er Jahren 
+als „Dominanzkultur“. Sie sei durchdrungen von Unterwerfung und Macht-
+sicherung. Im Kampf um den Erhalt von Privilegien „muß sowohl den 
+Konkurrenten wie auch den Diskriminierten gegenüber der eigene Anspruch 
+behauptet und zumindest der Schein von Legitimität gewahrt werden“9. 
+Erfahrungen von Macht und Ohnmacht machen Polizist:innen sowohl im Binnen-
+verhältnis als auch im Verhältnis zum Publikum. Relativ schnell erlangen sie 
+Zugang zur institutionalisierten Macht der Polizei nach außen. Dominanzkultur 
+ist eine invasive Kultur, und das ist in der Polizei das Mittel für Kontrolle. Das 
+Durchdringen von geographischen und sozialen Räumen, von Motivationen (z. B. 
+in der Vernehmung) und das Arbeiten in ordnungsstiftenden Strukturen dient der 
+Herstellung einer Herrschaftspraxis, die auf Normalitätskonstruktionen beruht. 
+Polizist:innen lernen mit zunehmender Erfahrung, dass sie zu jeder Zeit selbst 
+entscheiden können, wer verdächtig aussieht oder sich bewegt, wer am falschen 
+
+8 Behr (2021b).
+9 Rommelspacher (1995), S. 33.
+
+
+
+222 R. Behr
+
+Ort ist, die falsche Kleidung trägt, sich falsch und wer sich richtig benimmt. 
+„Normalismus und Segregation“10 sind Bestandteil und Ergebnis eines polizei-
+lichen Kontrollregimes. Das erklärt meines Erachtens die diskriminierenden 
+Kontrollen vieler Polizist:innen sehr viel besser als das Schlagwort „racial 
+profiling“. Die Annahme eines selbstverständlichen Rechts zur Durchdringung 
+des öffentlichen (und sozialen, aber auch des persönlichen und des intimen) 
+Raumes, verbunden mit der jeweils richtigen Interpretation der Wirklichkeit) 
+gehört, neben der Überzeugung, zu den „Guten“ zu gehören, zum Kern der Cop 
+Culture. Diese Überzeugungen führen dazu, dass viele Polizist:innen jede Form 
+von Beschränkung als Eingriff in ihre selbstverständlichen Ermächtigungen sehen 
+und Kritik als Angriff, schnell auch als generelles Misstrauen oder als General-
+verdacht gegen die gesamte Polizei interpretieren und dementsprechend die 
+Pauschalisierung pauschal ablehnen.
+
+Polizeiarbeit ist im Wesentlichen ein Durchdringungshandwerk. Zu den 
+elementaren Tätigkeiten von „street cops“ gehört das Bestreifen des öffentlichen 
+(und auch des nicht-öffentlichen) Raumes. Die Eigentumsverhältnisse spielen 
+dabei nicht die entscheidende Rolle. Das Bestreifen führt zu Kenntnis des 
+Raumes und sukzessiver Vertrautheit mit den Nutzer:innen. „Auf Streife“ sein 
+heißt auch immer, Kontrolle in einem sozialen und geographischen Raum aus-
+zuüben.11 Und es heißt, polizeiliche Interpunktionen zu setzen: „Wir sind da“. 
+Anders gesagt: „Das ist unser Revier“ – es geht also auch um Aneignung und 
+Besetzung von Territorien.
+
+Es folgt ein Auszug aus meinem Feldtagebuch, das ich während einer längeren 
+teilnehmenden Beobachtung bei der Hessischen Polizei geführt habe:
+
+„Freitag, 08.00 bis 20.30 Uhr. Heute bin ich unterwegs mit Nick und Tommy. Vor-
+mittags eine Personenkontrolle am T.-Platz. Zwei Männer und eine Frau werden von 
+weitem ins Visier genommen. Nick will sie kontrollieren, ruft seinem Kollegen zu 
+‚die haben uns entdeckt, guck mal, jetzt wollen sie stiften gehen, hey, die wollen 
+mit der Straßenbahn abhauen‘. Tatsächlich verschwindet das Pärchen in der 
+Straßenbahn, der dritte Mann wird kontrolliert. Er spricht fast kein Deutsch, er hat 
+auch nichts dabei, außer seinem Crack-Pfeifchen und einem Taschenmesser. Nick 
+schraubt das Röhrchen ab und wirft es weg. Der Junge will anschließend seine 
+Pfeife wiederhaben, beschwert sich wegen des fehlenden Röhrchens, man reagiert 
+aber nicht auf seinen Protest. Die Polizisten sind enttäuscht, sie vermuten, dass die 
+
+10 Rommelspacher (1995), S. 32.
+11 Ausführlich dazu Belina in diesem Band.
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 223
+
+anderen zwei den Stoff haben. Sie erteilen dem Mann einen ‚Platzverweis‘12. Ich 
+frage, warum sie die drei ins Visier genommen haben. Sie antworten: ‚Hier wimmelt 
+es vor Junkies, da findest Du immer was.‘“
+
+„Am Nachmittag treffen wir denjenigen, der am Vormittag in die Straßenbahn ein-
+gestiegen ist. Er wird sofort überprüft. Er hat ein Stanniolkügelchen dabei, das aber 
+leer ist. Sein Versuch, dieses Papier zu verstecken, macht Nick wütend. Er fragt den 
+Mann, ob er ihn verarschen will. Er wird dann gefesselt (Hände auf dem Rücken) 
+und ins Auto gesetzt, zum 4. Polizeirevier am Hauptbahnhof gefahren und dort in 
+einer Zelle intensiv durchsucht. Er muss sich ausziehen, die Beamten ziehen ihre 
+Lederhandschuhe an und durchsuchen Stück für Stück seiner Kleidung. Der Mann 
+riecht nicht besonders angenehm, seine Kleider sind schmutzig und alles an ihm 
+macht einen ziemlich desolaten Eindruck. Nachdem er bis auf die Unterhose ent-
+kleidet ist, muss er diese auch noch ausziehen und sich nach vorne beugen. Nick 
+untersucht den Rektalbereich. Die Prozedur ist für alle Beteiligten nicht besonders 
+erfreulich, mir ist es peinlich, für ganz Außenstehende muss es geradezu grotesk 
+und abstoßend wirken. Sie sprechen mit ihm ‚Pidgindeutsch‘: laut, nur in Stich-
+worten, manchmal kurze Hauptsätze. Sie sind enttäuscht, dass sie nichts mehr bei 
+ihm finden. Diskussion zwischen Tommy und Nick, ob das Crack-Pfeifchen ver-
+schwinden soll. Tommy will es ihm zurückgeben, Nick findet keine Argumente 
+dagegen, außer dem Satz ‚hier wird das üblicherweise so gemacht‘. Normalerweise, 
+so sagt er, müsste man das Ding sicherstellen und eine Bescheinigung ausstellen, 
+aber die Kollegen nehmen den ‚kleinen Dienstweg‘ und werfen es weg. Ich frage 
+ihn, warum er das macht, mir ist der Sinn dieser Aktion nicht klar. Nick sagt, dass es 
+‚Nadelstiche‘ seien.“
+
+Diese zwei Szenen habe ich ausgewählt, weil sie zeigen, wie die Polizisten ihren 
+Beruf verstehen und wie sie darüber sprechen. Das, was sie getan haben, mag aus 
+anderer Perspektive auch interessant sein, aber hier geht es mir tatsächlich um die 
+Analyse des wie, also um Kontrollperformanz. Die beiden Polizisten fahren mit 
+einem allgemeinen Auftrag durch das Bahnhofsgebiet. Sie suchen sich Arbeit. Von 
+weitem wird jemand bestimmt, den man kontrollieren will. Die Beamten kennen 
+die Person nicht, sie treffen ihre Entscheidung aufgrund des im Polizeijargon 
+sog. „äußeren Anscheins“ (das würde heute wahrscheinlich als „racial profiling“ 
+
+12 § 31 des Hessischen Gesetzes über die Sicherheit und Ordnung (HSOG) gibt der Polizei 
+die Möglichkeit, bestimmten Personen für eine begrenzte Zeit den Aufenthalt an einem 
+bestimmten Ort zu verbieten (Platzverweisung), vgl. Meixner (1998).
+
+
+
+224 R. Behr
+
+benannt, es war aber genauer gesagt „social profiling“13, denn entscheidend für 
+die Auswahl war das Label „Drogenkonsument“, nicht das Label „Ethnie“).
+
+Nach der Entscheidung werden die Bewegungen der fixierten Personen so 
+interpretiert, dass sie eine Personenkontrolle begründen („die haben uns entdeckt, 
+guck mal, jetzt wollen sie stiften gehen“). Die Etikettierung basiert weniger 
+auf geprüftem kriminalistischem Gespür, als auf ihrer eigenen Erfahrung in der 
+Drogenszene14. Die Personen, die sie ins Visier nehmen, sind keine großen, 
+sondern eher kleine Fische. Die Definition erfolgt aufgrund der Kleidung, des 
+Aussehens, des Hygienezustandes und des vermeintlichen Verhaltens der Leute. 
+Auch der Ort spielt eine Rolle (Nähe zum Drogenumschlagsplatz). Das sind 
+einige Indikatoren zum „social profiling“. Sie praktizieren eine Strategie der 
+Nadelstiche und wissen das. Sie kosteten es nicht sadistisch aus, sie zelebrierten 
+die Aktion nicht, sondern ziehen  sie mit einer gewissen nüchternen Routine 
+durch. Sie wissen, dass mit dem Wegwerfen des Mundstücks einer Pfeife, mit 
+der Crack konsumiert wird, die Drogenkarriere eines Menschen nicht beendet 
+werden kann. Trotzdem schrauben sie das Teil ab und werfen es weg. Ich sehe 
+darin eine Dominanzgeste, die dazu diente, die aktuelle Kontrollsituation als eine 
+zu definieren, in der die Polizei das Sagen hat. Sie ist funktional untauglich, per-
+formativ aber wichtig, um zu zeigen: Wir tun das, weil wir es können. Was vor-
+her und was nachher passierte, interessiert die Beamten nicht. Sie kosten im Hier 
+und Jetzt ihre Macht aus, fühlen sich vielleicht nicht besonders großartig, aber 
+handeln in einem quasi-pädagogischen Modus. Sie wollen etwas tun, woran sich 
+der Delinquent erinnert, er soll wissen, dass die Polizei noch aktiv ist. Es kommt 
+hinzu: Sie demonstrieren mit solchen Aktionen ihre Handlungsmächtigkeit und 
+ihre – mindestens situative – Überlegenheit.
+
+Die zweite Szene hängt mit der ersten zusammen. Die Beamten folgen einem 
+Handlungsmuster, das Argwohn (als ständiges Misstrauen) und die Annahme 
+eines worst case beinhaltet. Der Grund für die Kontrolle des dritten Mannes ist 
+auf der rationalen Ebene der, dass er aussieht wie andere Junkies oder Dealer und 
+man stets den Verdacht des Drogenbesitzes begründen kann. Vermutlich  wird 
+er aber auch kontrolliert, weil es sich dabei um denjenigen Mann handelt, der 
+den Polizisten am Vormittag entkommen war. Sie wollen ihn einfach erwischen. 
+
+13 Zum Unterschied zwischen „racial“-, „social“- und „criminal profiling“ vgl. Behr 
+(2018a). Von „social profiling“ gehe ich aus, wenn außer Ethnie andere soziale Kategorien 
+für die Kontrolle ausschlaggebend sind, z. B. Alter, Geschlecht, evtl. Sprache, äußeres 
+Erscheinungsbild, benutztes Fahrzeug, Uhrzeit, Ort.
+14 Vgl. Steckhan (2017).
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 225
+
+Die Prozedur ähnelt der vom Vormittag. Sie finden letztlich keinen stichhaltigen 
+Grund für eine intensivere Durchsuchung. Allerdings war sein Versuch, das 
+Stanniolpapier zu verstecken, der Auslöser für die sofortige Verschärfung des 
+Argwohns: Der Verbergungsversuch wird von den Beamten als eine gegen sie 
+gerichtete Boshaftigkeit gedeutet (so, als wolle der Mann ihnen die Arbeit schwer 
+machen). Sie fragen ihn, ob er mit ihnen spielen, sie sogar verarschen wolle, so, 
+als ob er sich also einen Spaß daraus machen könnte, sie in die Irre zu führen 
+bzw. ihre Autorität infrage zu stellen. Das bringt ihm jetzt eine intensive körper-
+liche Durchsuchung ein15. Dabei gehen sie nicht menschenverachtend vor. Die 
+Kontextbedingungen sind entwürdigend genug, die Polizisten weiden sich nicht 
+an ihnen (ich habe oft anderes beobachtet – schon die abfälligen Reden über den 
+Zustand der Kleider oder den Geruch des Menschen gehen unter die Gürtellinie 
+und sind menschenverachtend – aber in diesem Fall haben sie das nicht gemacht). 
+Sie ziehen wieder ihre Durchsuchung durch, so wie sie es bei der BFE gelernt 
+haben. Sie wollen dem anderen keine Chance lassen, deshalb muss er sämt-
+liche Bekleidung ausziehen. Sie haben gelernt, dass Drogenkuriere die Crack-
+Steine in einem Präservativ im After transportieren können. Deshalb schauen sie 
+auch dort nach. Keine Körperöffnung bleibt ihnen verborgen. Der polizeiliche 
+Durchdringungsanspruch endet, was den Körper eines Menschen angeht, ledig-
+lich vor der Zuständigkeit zur Untersuchung durch medizinisches Personal. Den 
+polizeirechtlichen Begriff der „Durchsuchung“ legen sie großzügig aus und 
+schauen regelmäßig in alle „natürlichen Körperöffnungen“, wie es im Gesetz 
+heißt – (eigenes und fremdes) Schamgefühl ist da irrelevant. Die Polizisten 
+würden das nicht mit jedem Menschen und nicht an jedem x-beliebigen Ort 
+machen. Die Behandlung folgt aus ihrer Definition der Gefährlichkeit des Ortes 
+und der Situation heraus. Und auch hinsichtlich der Respektabilität der Person. 
+
+15 Durchsuchungen im Drogenmilieu wurden oft in einer Arrestzelle des örtlichen Polizei-
+reviers durchgeführt. Mich hat überrascht, wie autonom die BFE-Beamten agierten und 
+wie wenig die Revierbeamten von der Anwesenheit der Kollegen der Bereitschaftspolizei 
+Kenntnis nahmen. Das Garagentor wurde automatisch geöffnet, wir gingen mit dem 
+Festgenommenen in den Zellentrakt und blieben dort unter uns. Kontakt mit den Revier-
+beamten gab es lediglich über eine Gegensprechanlage. Die Beamten hätten in dieser 
+Situation genügend Misshandlungsmöglichkeiten gehabt, denn es fehlte sowohl die all-
+gemeine als auch die kollegiale Öffentlichkeit. Selbst der Einheitsleiter wäre in dieser 
+Situation nicht in der Lage gewesen, die Handlungen der Beamten zu kontrollieren. Natür-
+lich war ich als externer Beobachter dabei, hatte aber nicht den Eindruck, dass sie sich 
+ohne mich anders verhalten hätten. Eine willentliche Ausnutzung ihrer Machtposition habe 
+ich jedenfalls nicht wahrgenommen.
+
+
+
+226 R. Behr
+
+Die Situation lässt ein solches Vorgehen zu, formal können sie einen Grund zur 
+Kontrolle benennen. Niemand fragt aber danach, ob es klug oder professionell ist: 
+Die Verbindung von Bahnhofsgebiet, ausländischer, junger, verwahrloster Mann 
+und Verbergungsversuche führt dazu, dass sie sich auf der sicheren Seite fühlen. 
+Er könnte einer derjenigen sein, von denen Polizisten schon seit einigen Jahren 
+sagen, dass sie keine Kriminellen, sondern Kranke sind. Ganz offensichtlich 
+war der Mann krank (nicht nur drogenabhängig). Er wird aber in einem Kontext 
+angetroffen, in dem das Label kriminell das des Kranken überstrahlt. Dass 
+Junkies in der Regel beides sind, kommt in den Lehrformeln (die mir gegenüber 
+so flüssig angeboten wurden, dass ich den Verdacht hatte, es seien Leerformeln) 
+nicht vor. Dass Kranke auch dealen und Dealer krank sind, erleben die Beamten 
+aber täglich im Handlungsfeld. Sie müssen (bzw. können) sich stets aufs Neue 
+entscheiden, welchen master status sie vergeben. In diesem Fall liegt er eindeutig 
+auf dem Kriminellen (bzw. dem Verdächtigen). Hierin liegt eine nicht zu unter-
+schätzende Definitionsmacht der Polizistinnen: Sie können jemanden sowohl als 
+Kranken als auch als Kriminellen etikettieren. Beides ist formal nur schwer zu 
+beanstanden.
+
+Sie wollten sich nicht verarschen lassen, d. h. es geht ihnen um Reputation 
+und um Autoritätserhalt16. Sie zeigen mit ihrer Reaktion, dass sie sich nicht 
+hinters Licht führen lassen wollen. Ihre Durchsuchung erfolgt in dem Bewusst-
+sein, dass sie es (rechtlich) dürfen und dass es (taktisch) notwendig ist. Scham, 
+Würde und deren Verletzung, Takt, Höflichkeit oder Ästhetik sind keine Kate-
+gorien, die das Handeln der Polizisten bestimmten. Diese Alltagskonventionen im 
+Dienst zu suspendieren muss auch erst gelernt werden.
+
+Dieser Einblick sollte einen Eindruck vom unaufgeregten Kontrollall-
+tag der Polizei vermitteln, der häufig unter dem Verdacht steht, eine Praxis der 
+
+16 Deshalb halte ich die „Authority Maintenance Theory“, vgl. Alpert und Dunham (2004), 
+für so eminent wichtig und hilfreich, wenn man Polizei und Polizist:innen verstehen will. 
+Die Sorge vor dem Verlust der Autorität ist eher ein Thema für männliche Polizisten. Ich 
+halte diese Perspektive für äußerst gewinnbringend, weil man mit ihrer Hilfe polizei-
+liches Überwältigungshandeln in einem weiteren als einem rein legalistischen Verständnis 
+einordnen kann. Die ebenfalls sehr aufschlussreiche Studie von Steffes-enn gibt lebhaft 
+darüber Auskunft, wie hoch der Stellenwert von „Ehre“ für die Männer ist, die Gewalt 
+gegen die Polizei ausüben, und dass Gewalthandlungen als wechselseitig aufeinander 
+bezogene Interaktion, mithin „soziales Handeln“ im Weberschen Sinne zu verstehen sind, 
+vgl. Steffes-enn (2020). Ehre auf der einen und Autorität auf der anderen Seite gehen hier 
+eine innige Beziehung ein. Doch die Beteiligten merken nicht, dass sie mehr Gemeinsames 
+als Trennendes verbindet.
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 227
+
+institutionellen Diskriminierung zu sein. Die gezielte Suche nach Menschen, die 
+als Drogenabhängige gelten, die aber von der Polizei vornehmlich in dem kleinen 
+Ausschnitt des BtMG wahrgenommen werden, der es ermöglicht, sie nicht als 
+Kranke, sondern als Kriminelle zu lesen, ist insofern institutionell gerahmt, als 
+ein Gesetz den Besitz von Drogen generell unter Strafe stellt und damit den für 
+die polizeiliche Kontrolllogik infrage kommenden Personenkreis stark ein-
+engt. Gegen sie sind Verdachtschöpfung, polizeirechtliche und strafprozessuale 
+Maßnahmen erlaubt, die nicht statthaft wären, wenn es das BtMG in dieser Form 
+nicht gäbe. Eine Legalisierung oder mindestens Entpönalisierung des Besitzes 
+geringer Drogenmengen würde da Abhilfe schaffen.
+
+2.2  „Profiling“ und die binäre Logik des staatlichen 
+Kontrollregimes17
+
+Vom Staat und seinen Vertreter:innen wird mindestens rechtstreues und in der 
+Regel auch ethisch legitimes Handeln erwartet, immerhin ist der Staat Garant für 
+die Durchsetzung der Menschenrechte und hat das Gewaltmonopol inne. Ein von 
+seinen Beamt:innen vorgenommener Verstoß löst deshalb in der Regel größtes 
+Unbehagen, viele Fragen und starken Protest aus, denn neben der justiziellen und 
+parlamentarischen Kontrolle sind Vertrauen und Gerechtigkeit die Währung, die 
+die Herrschaftsausübung des demokratischen Staates legitimiert. Alltagssprach-
+lich und im soziologischen Sprachgebrauch ist der Begriff „Diskriminierung“ 
+verbunden a) mit einem Machtdifferenzial zwischen einer Mehrheit und einer 
+Minderheit und b) darauf fußend mit einer Ungleichbehandlung der Minder-
+heit, mit Benachteiligung, es hat c) mit der kategorischen Unterscheidung eines 
+abgewerteten „Außen“ von einem aufgewerteten „Innen“ zu tun. In der Dis-
+kriminierung wirken also zwei Zuschreibungen komplementär: die affirmative 
+Bestimmung der (eigenen) Zugehörigkeit (bzw. vermuteten Vertrautheit) zu einer 
+negativen Bestimmung der Andersartigkeit (bzw. angenommenen Nichtzuge-
+hörigkeit). Das Andere bleibt nicht nur „anders“, sondern es wird als gefährlich, 
+weniger vertrauenserweckend, minderwertiger eingeschätzt. Bis hierhin sind 
+die geistigen Fundamente für Diskriminierung und Rassismus identisch. Dis-
+kriminierung äußert sich dann aber zusätzlich darin, dass sie Opfer produziert, 
+während das „Praktisch-Werden“ zu einer rassistischen Einstellung oder Haltung 
+
+17 Die folgenden Abschnitte sind angelehnt an Behr (2018b).
+
+
+
+228 R. Behr
+
+nicht notwendigerweise dazu gehört. So unterscheidet sich Diskriminierung 
+von Vorurteilen im Allgemeinen und Rassismus im Besonderen durch die 
+Wirkung auf potenzielle oder reale Opfer. Diskriminierende Handlungen können 
+verbal vorbereitet oder auch begleitet werden. Doch steht im Zentrum der Dis-
+kriminierung immer der oder die „ausgestoßene Dritte“.
+
+Individuelle Diskriminierung kann rassistisch, chauvinistisch, sexistisch oder 
+homophob begründet sein. Sie kann dabei sadistisch-aggressiv sein. Die „rohen“ 
+Ausdrucksformen von Diskriminierung wehren die meisten Polizist:innen ab: 
+Wenn sie Menschen, die auf sie fremd wirken, häufiger kontrollieren, dann haben 
+sie ihrer Meinung nach gute Gründe dafür. Sie werden darin auch bestätigt, weil 
+sie im polizeilichen Sinne oft erfolgreich sind – wobei hier als Erfolg schon 
+gewertet wird, dass es eine Erfassung im polizeilichen Auskunftssystem gibt. 
+Dies ist lerntheoretisch relativ deutlich als Verstärkerlernen zu kennzeichnen 
+und als sich selbst immer wieder bestätigender Erfolg nicht leicht zu entkräften. 
+Verdachtsstrategien lernen Polizeibeamt:innen während ihrer Ausbildung als 
+Theoriewissen, mehr aber noch im Rahmen ihrer ersten Praxiserfahrungen, wo 
+sie ihnen von erfahrenen Polizist:innen vermittelt werden. Diese Erfahrungen 
+werden perpetuiert, sie bestätigen und verfestigen sich durch oben skizzierte 
+Erfolgsmaßstäbe und niemand der Beteiligten würde darauf kommen, dies Dis-
+kriminierung zu nennen. So etabliert sich ein polizeiliches Diskriminierungs-
+regime, das ohne Rassismus und ohne individuellen Diskriminierungswillen 
+auskommt.
+
+Insbesondere in den überlieferten Vorstellungen von guten Polizist:innen 
+werden normative Standards für ein angemessenes Verhalten gegenüber dem 
+polizeilichen „Publikum“ transportiert. Zu dem als verbindlich kommunizierten 
+Selbstverständnis der Polizei gehört, dass man z. B. Schwarze nicht dis-
+kriminieren darf, nur weil sie schwarz sind. Man kann durchaus von einer 
+Sensibilität gegenüber trivialen Formen von Diskriminierung sprechen.18 
+Weniger eindeutig sind allerdings die Fälle, in denen durch bestimmte Aus-
+
+18 Ähnlich verhält es sich mit dem Verständnis von Gewaltanwendung. Nach bekannt 
+gewordenen Übergriffen wird in der Regel in der Polizei sehr bald Konsens darüber her-
+gestellt, dass ungerechtfertigte Gewalthandlungen durch Polizist:innen nicht stattfinden 
+sollen und solche Handlungen auch nicht geduldet werden dürfen, dass aber andererseits 
+die Unschuldsvermutung auch für Polizisten gelte und es keinen Generalverdacht gegen 
+die gesamte Polizei geben dürfe. Nicht selten wird dann alsbald das Thema „Polizist:innen 
+als Opfer“ neu belebt. Insbesondere Gewerkschaftsfunktionären gelingt diese Diskursver-
+schiebung erfolgreich.
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 229
+
+wahlprozesse erst ein Unterschied produziert wird, wie es typischerweise in der 
+Verdachtsschöpfung geschieht. Verdacht zu schöpfen heißt, die Normalität von 
+Alltagsroutinen zu durchbrechen und eine neue Sicht festzuschreiben (bzw. eine 
+Situation neu zu definieren). Dies gehört zu den genuinen Polizeitätigkeiten im 
+proaktiven Bereich.
+
+Die Argumentationsfigur einer sich selbst legitimierenden Diskriminierungs-
+praxis besteht darin, Verdachtsschöpfung zuerst an Situationen und Orten19, nicht 
+an Personen festzumachen. Die konkreten Individuen werden zunächst aus dem 
+Diskurs über gefährliche und/oder verdächtige Begebenheiten ausgeblendet. Das 
+widerspricht oft eklatant der Wahrnehmung von Betroffenen, die die Situation 
+ganz anders erleben, nämlich als eine bewusste Selektion in einer an sich offenen 
+Situation. Dazu muss man wissen, dass im kollegialen Diskurs von Polizist:innen, 
+und in der Cop Culture insgesamt, oft in Geschichten verpackte Informationen 
+über bestimmte Personen ausgetauscht werden und so ein „kultureller Deutungs-
+rahmen“ entsteht, in dem von vornherein für bestimmte Delikte bestimmte 
+Personengruppen infrage kommen. Auf diese Personengruppen richtet sich dann 
+auch die Aufmerksamkeit in einer konkreten Situation, nicht, weil sie konkret 
+verdächtig sind, sondern weil man überprüfen will, ob die polizeiinterne All-
+tagsdeutung (man könnte es auch als „Generalverdacht“ bezeichnen) mit der 
+Wirklichkeit übereinstimmt. Es sind immer die Personalstereotypen, die in 
+bestimmten Situationen mobilisiert werden. Doch dies allein genügt nicht. 
+Angereichert werden sie mit zusätzlichen Erfahrungen bzw. Bedingungen 
+(Zeit, Ort, Umstände, weitere Merkmale wie z. B. Automarke, Kleidung). Die 
+zugeschriebenen Persönlichkeitsmerkmale „Ausländer:in“ bzw. Migrant:in, 
+heute auch Flüchtling, sind jedoch noch keine hinreichende Bedingung für Dis-
+kriminierung. Hinzu kommen noch weitere Zuschreibungen, z. B. aggressiv, 
+bedrohlich, belästigend, sprachunkundig, frech, aufmüpfig etc. Diese Erfahrungen 
+werden an bestimmten Orten gesammelt, die als gefährlich20 gelten: Drogen-
+szenen, Rotlichtmilieus, Bahnhöfe, nachts, mit Publikum etc.
+
+19 Die Bedeutung des Raumes für das Kontrollregime der Polizei habe ich bislang nur 
+implizit eingearbeitet. Eine genauere Analyse der „verräumlichten Wahrnehmung“ liefern, 
+wie oben schon erwähnt, Belina in diesem Band und auch Hunold (2015) passim.
+20 In Hamburg galten etwas mehr als 50 Orte als „Gefahrengebiet“, was durch das OVG 
+Hamburg 2015 als rechtswidrig eingestuft wurde. Daraufhin erklärte der Senat 2017 
+einige dieser Gebiete zu „gefährlichen Orten“, an denen die Polizei weiterhin in größerem 
+Umfang und ohne konkrete Verdachtsmomente Menschen und Sachen kontrollieren kann, 
+vgl. Zweites Gesetz zur Änderung polizeirechtlicher Vorschriften vom 8. Dezember 2016.
+
+
+
+230 R. Behr
+
+Nicht jede Diskriminierung ist auf eine ethnische Fremdheit (Migrant:innen, 
+Flüchtlinge) gerichtet. Es sind nach wie vor diejenigen Menschen betroffen, 
+die statusmäßig, intellektuell oder sprachlich weit vom polizeilichen Bild des 
+„anständigen Bürgers“ entfernt sind.21 Sie haben dadurch den Polizist:innen 
+nichts oder wenig entgegenzusetzen. So gehören als Migrant:innen oder ethnisch 
+fremd gelesene Menschen dazu, aber auch bestimmte Jugendliche, Wohnungs-
+lose, Drogenabhängige etc. Insofern ist es an der Zeit, die Diskriminierungs-
+praxen der Polizei auch in ihrer intersektionellen Dimension zu erfassen und 
+nicht nur als auf Hautfarbe oder Nationalität gründende Diskriminierung. Auch 
+die allgemeine Rassismusdebatte blendet oftmals weitere Komponenten der 
+Ungleichwertigkeit aus: Nach meinem Dafürhalten kann man z. B. über Rassis-
+mus und Diskriminierung nicht sprechen ohne auch Klassismus zu thematisieren.
+
+2.3  Diskriminierung als Demonstration der Nicht-
+Zugehörigkeit
+
+Wenn man annimmt, dass Diskriminierungshandlungen in der Polizei keine 
+Taten von fehlgeleiteten Einzelnen sind, sondern eingebettet sind in eine Kultur 
+der polizeilichen „working class“, dann muss man auch davon ausgehen, dass 
+sie auch die kollektiven Vorstellungen von gesellschaftlicher Ordnung und ihrer 
+Bedrohung stützen. Die Diskriminierungspraktiken von Polizeibeamt:innen 
+dienen der Durchsetzung bzw. Wiederherstellung einer guten, (vermeint-
+lich) von vielen geteilten Ordnung. Sie sehen diese Ordnung durch bestimmte 
+Personen bedroht und wollen diese Bedrohung abwenden. In solchen Hand-
+lungen kommt des Weiteren das Dominanzgefälle zwischen Polizei und ihrem 
+Publikum zum Ausdruck, weil gezeigt wird, wer über- und wer unterlegen ist, 
+wer Interventionsmacht hat und wer nicht. Genauer gesagt wird das strukturelle 
+Dominanzgefälle in diesen Situationen performativ aktiviert. Diskriminierung 
+richtet sich gegen Menschen, die anders sind als man selbst, die in der Minder-
+heit sind und zudem als sozial nicht zugehörig bzw. nicht ebenbürtig empfunden 
+werden. Für Diskriminierungshandlungen spielt ethnische und/oder nationalstaat-
+liche Fremdheit nicht die entscheidende Rolle, hier ist es eher die die Ordnung 
+bedrohende Andersartigkeit, die ausschlaggebend für das Kontrollverhalten ist, 
+darunter fallen also z. B. auch Jugendliche, Randständige, subkulturelle Milieus, 
+
+21 Vgl. Behr (2008), bes. Fußnote 186.
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 231
+
+Drogenkonsument:innen etc. Fremdheit zeigt sich hier eher als nicht zur eigenen 
+„Sinnprovinz“ (Schmidt-Semisch und Hess 2014) gehörenden Kategorie.
+
+Die Fixierung von Ordnung, Norm und Abweichung entlang der Normali-
+tätskonstruktionen, die ausschließlich auf das Bekannte, das Vertraute, das frag-
+los Erworbene rekurrieren, schafft für diejenigen Beamt:innen, die das nicht 
+reflektieren, Probleme. Und es schafft für die sog. offene Gesellschaft Probleme. 
+Denn Normalismus (das, was ich an anderer Stelle mit Ordentlichkeit umschrieben 
+habe)22 ist eine kulturelle Engführung, die alle, die sich nicht zuordnen lassen, 
+zu störenden bzw. gefährlichen Fremden macht: So sind diese Zuschreibungen 
+nicht nur Bestandteil eines Kontrollrasters der Polizei, sondern auch ein dis-
+kriminatorischen Gesellschaftsbildes: „Normalismus und Segregation sind […] das 
+eigentliche Medium der Diskriminierung.“23 Durch Segregation distanzieren wir 
+uns von dem Störenden, dem Irritierenden, dem Nicht-Passenden, dem Gefähr-
+lichen, dem Fremden24. „In der Figur des Fremden […] findet die in der gesamten 
+Lebenserfahrung begründete Furcht vor dem Ungewissen ihre ersehnte Ver-
+körperung.“25 Folgt man dieser Auffassung, so definieren die Ordnungs- und 
+Normalisierungsdiskurse der Polizist:innen zusätzlich zur Normalität in gleichem 
+Atemzug auch das Nichtzugehörige, das Auszugrenzende, das Fremde. Diesen 
+Diskursen liegen kollektive Auffassungen von Bedrohlichkeit zugrunde, die 
+es Polizeibeamt:innen gestatten, den Diskriminierungsvorwurf abzuwehren. 
+Sie interpretieren Fremdheit als Kategorie in Abhängigkeit der dominanten 
+
+22 „Ordnung“ ist ein recht unbestimmter Begriff (der oft auf prä-justiziellen Konventionen 
+beruht), er mutiert im alltäglichen zwischenmenschlichen Umgang oft zur nach außen 
+demonstrierten Konformität, zu einem „öffentlich gezeigte Anstand“, siehe Behr (1996). 
+Aufschlussreich scheint mir die negative Bestimmung solcher Ordnungsvorstellungen zu 
+sein. Der empörte Ausruf „das macht man aber nicht“ lässt sich sehr viel öfter hören als die 
+positiven Bestimmungen dessen, was Ordnung tatsächlich ausmacht.
+23 Rommelspacher (1995), S. 32.
+24 Ich nutze den Begriff als Objekt (das Fremde), nicht als Subjekt (der/die Fremde/n). Auf 
+diese Weise möchte ich vermeiden, das Fremde zu personalisieren, wie es etwas im Begriff 
+„Fremdenfeindlichkeit“ geschieht, der im Übrigen ja auch deshalb in der Fachdiskussion 
+nicht mehr benutzt wird, weil er suggeriert, Menschen mit Migrationsbiographie gehörten 
+nicht nach Deutschland. Es sind nicht nur der oder die Fremde/n als Personen, die Furcht 
+auslösen, sondern auch das Befremden über die Andersartigkeit an sich. Und zwar nur oder 
+besonders, wenn es mit Handlungs- bzw. Reaktionsunsicherheit konnotiert wird. So können 
+durchaus auch herkunftsdeutsche Jugendliche aus prekären Großstadtmilieus als „Fremde“ 
+betrachtet werden, gerade dann, wenn sie in Gruppen auftauchen und laut, unflätig und 
+vielleicht berauscht sind.
+25 Bauman (2014), S. 141.
+
+
+
+232 R. Behr
+
+ Ordnungsmuster. Sozialwissenschaftlich betrachtet ist Fremdheit weder eine natür-
+liche noch per se eine negative Eigenschaft von Personen, sondern eine relationale 
+Zuschreibung je nach Perspektive, die wesentlich mit Mehrheiten und Minder-
+heiten und mit Klassen-Zuschreibungen und Definitionsmacht zu tun hat.
+
+Wenn stimmige Assoziationen zwischen Situation, Ort, Zeit und Person her-
+gestellt werden können, und wenn zudem ein Verhalten beobachtet wird, das ins 
+Raster passt, dann läuft die Verdachtsmaschine an, und sie bestätigt sich meistens. 
+Es handelt sich in der Wahrnehmung der Polizistinnen bei der Auswahl um ein 
+durchaus zweckrationales und sinnvolles Vorgehen. Insoweit legitimiert sich die 
+Praxis im Zuge solcher zirkulärer Prozesse tatsächlich selbst:
+
+„Ich mein‘, Du kannst jetzt wieder auf Ausländerprobleme kommen. Nee, das 
+find ich ganz krass. Weil früher, ach, wenn da einer gesagt hätte, was weiß ich, 
+Marokkaner oder so, ich war total gegen die Ausländerhasser, ich bin auch heute 
+kein Ausländerhasser. Aber in Frankfurt, muss ich sagen, da ist es so. Da hat sich 
+mein Bild total geändert. Ich bin jedem Ausländer gegenüber misstrauisch. Und das 
+Ergebnis bei der Personen-Überprüfung sagt mir auch mit.... gut, vielleicht ich hab 
+jetzt auch einen Blick dafür, das muss man ja haben. Nach drei, vier Jahren kann 
+man das ja schon sagen. Aber in der Hinsicht hat sich auch was verändert. Es ist 
+auch... wenn ich jetzt woanders, in einer anderen Stadt wär, seh’ ich genau „das ist 
+ein Drecksack“. Und da hab ich mich schon geändert. Und das muss nicht positiv 
+sein, das kann ich mir schon vorstellen. Oder, wenn mich auch so mal ein Ausländer 
+anlabert, dann reagier ich aggressiv.“26
+
+Ein sich selbst generierendes Praxiswissen erweist sich als widersprüchliches 
+Potential. Einerseits schützt es vermeintlich vor Angriffen, Enttäuschungen 
+und anderen unangenehmen Erfahrungen und man entwickelt einen Blick für 
+Verdächtige. Dieser Blick verhindert aber andererseits die Wahrnehmung von 
+Unverdächtigem, er verhindert mit der Zeit, dass man die Dinge wieder ent-
+dramatisieren und unvoreingenommen auf Fremde(s) zugehen kann. Die 
+Aneignung dieses eingeschränkten polizeilichen Blicks geschieht nur marginal in 
+der Ausbildung (sie wird in der Regel als zu theoretisch und abstrakt empfunden). 
+Im Wesentlichen fungiert die Praxis als sozialer Raum sowohl für polizeiliches 
+Handlungswissen als auch für die Ausbildung einer diskriminierenden Haltung. 
+
+26 Polizeimeisterin, 26 Jahre.
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 233
+
+Hier finden die eigentlich handlungsleitenden Lernprozesse statt, und zwar 
+erfahrungsgestützt und weitgehend reflexionsfrei.27
+
+Das positive bzw. politisch erwünschte Bild vom Fremden bleibt unbeschadet 
+(„Ich bin auch heute kein Ausländerhasser“), weil die private Lebenswelt von der 
+beruflichen abgespalten wird28. Während dienstliche Kontakte mit Migrant:innen 
+und Ausländer:innen in der Regel höchst einseitig sind, verfügt der migrantische 
+Nachbar oder der Geschäftsmann, die Touristin oder die Bekannte über tolerier-
+bare Eigenschaften, die den Beamt:innen vertraut sind, sonst wären sie, da man 
+sich diese Bekanntschaften in der Regel aussuchen kann bzw. selbst entscheiden 
+kann, wie nah man ihnen kommen will, auch nicht im Sympathieraum von 
+Polizist:innen. Da man gute Migrant:innen kennt (genauso wie gute Kolleg:innen 
+mit Migrationsgeschichte)29, natürlich selbst ins Ausland in den Urlaub fährt, 
+muss man sich nicht mit dem Vorwurf des Rassismus auseinandersetzen.
+
+3 C op Culture und die Sicherung der eigenen 
+Überlegenheit
+
+Denkt man die Wirkungen von Cop Culture, Männlichkeitsinszenierungen, 
+Dominanzkultur und Verdachtsschöpfungsstrategien zusammen und fragt dann nach 
+den Ursachen für Rassismus, Gewaltexzesse und Diskriminierungspraxen, dann 
+komme ich zu folgendem Schluss: Den Hintergrund für die zunehmend bekannt 
+werdenden illegitimen Gewalthandlungen, für Rassismus und Rechtsextremis-
+mus und für „racial profiling“ als Ausdruck diskriminierender Kontrollpraxis sehe 
+ich in einer subjektiven Gefährdung des polizeilichen Überlegenheitsgefühls. Dies 
+ist eine Erweiterung bzw. Modifizierung des „Authority-Maintenance“-Ansatzes 
+
+27 Damit ist natürlich nicht gesagt, dass Polizist:innen nicht über ihr Handeln nachdenken, 
+aber es geschieht im Wesentlichen intuitiv und nicht systematisch, theoriengestützt und 
+institutionell begleitet.
+28 Überhaupt ist es hier angezeigt zu betonen, dass die Polizei natürlich eine große 
+Organisation ist, die für viele Haltungen Raum bietet und auch nicht alle Tätigkeiten mit 
+Diskriminierungspotential behaftet sind. Diese Abhandlung bezieht sich auf die prekären 
+Einsatzbereiche des Erstkontakts von (in der Regel „Schutz“-) Polizist:innen mit der 
+Bevölkerung. Die zahlreichen anderen, oft vorbereiteten oder mindestens vorstrukturierten 
+Begegnungen sollen hier unbeachtet blieben. Bei der Beschreibung der Arbeit der 
+Kriminalpolizei dürften einige Modifikationen im Interaktionsbereich auftauchen, vgl. 
+Behr (2016).
+29 Vgl. Hunold et al. (2010).
+
+
+
+234 R. Behr
+
+von Alpert und Dunham: Diejenigen Polizisten, die die eigene Superiorität infrage 
+gestellt sehen, die sich benachteiligt fühlen, nicht genügend respektiert und wert-
+geschätzt, nicht ausreichend versorgt, fangen vielleicht zuerst an, in ihrem Denken 
+und in ihren Reden diejenigen abzuwerten, die dafür angeblich die Schuld tragen 
+bzw. die sie für ihre Ohnmachtserfahrungen verantwortlich machen: Migranten, 
+Geflüchtete, Minderheiten, Privilegierte, Straftäter, Drogendealer, Opportunisten, 
+Zauderer, Juden, Muslime, Behinderte, Frauen. Einige gehen einen Schritt weiter 
+und machen sich in der kollegialen Umgebung Luft: Sie posten Sprüche und/
+oder Bilder aus der NS-Zeit in den Gruppen-Chat (vielleicht, weil sie wissen, 
+wie obszön grenzverletzend das ist, vielleicht auch aus jungenhaft-verblödeter 
+Laune heraus), sie horten NS-Devotionalien, sie machen sich lustig über Minder-
+heiten, verschicken Bilder mit Unterwerfungsgesten und Demütigungen von Fest-
+genommenen, sie singen menschenverachtende Lieder und wählen Parteien, die 
+demokratische Werte mit Füßen treten, sie tragen Sticker mit Nazi-Emblemen. Und 
+einige beginnen mit einer privaten Strategie der Nadelstiche: schikanöse Kontrollen, 
+Beleidigungen, Provokationen zur Gegenwehr, um einen „Widerstand“ schreiben zu 
+können, entwürdigende Witze bei körperlichen Durchsuchungen, überdimensional 
+viele Schockschläge bei einer Festnahme, Verwüstung einer Wohnung statt einer 
+diskreten Durchsuchung, Scheinhinrichtungen im Hafen und Verbringungs-
+gewahrsam in die Weinberge. Die Handlungen sind unterschiedlich, die dahinter-
+stehenden Haltungen verbindet der Umstand, dass das eigene Selbstwertgefühl 
+aus der Balance geraten ist und in „Hypermaskulinität“30 eingemündet ist. In ihr 
+spielen Härte, Gewaltaffinität, Gefährlichkeit, Dominanz, Siegermentalität, Selbst-
+Heroisierung31, eine abwertende Einstellung zu Frauen und Instrumentalisierung 
+von Sexualität eine wesentliche Rolle.
+
+Im Falle übersteigerter Gewaltanwendung, Stärkedemonstration und exzessi-
+vem Überwältigungshandeln steht wahrscheinlich eher die Angst vor dem Verlust 
+der eigenen Überlegenheit im Vordergrund, im Fall von Rassismus möglicher-
+weise eine monströs übersteigerte Zurschaustellung der eigenen Überlegenheit. 
+Für diese Annahme fehlen noch die repräsentativen Daten. Ich halte es aber für 
+dem Gegenstand angemessen, nicht alle Formen von Rassismus, Rechtsextre-
+mismus und Diskriminierung analytisch in einen Topf zu werfen und sie mit 
+den Begriffen „institutionell“ und „strukturell“ oder „direkt“ und „indirekt“ 
+gegenüber Reichweitenbegrenzung zu immunisieren, wie das auch in einigen 
+
+30 Quest und Messerschmidt (2017).
+31 Wagener (2012).
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 235
+
+wissenschaftlichen Abhandlungen geschieht. Bei einer zu weiten Fassung die-
+ser Begriffe geht die Erklärungskraft eher verloren als das sie sich erhöht. Man 
+kann hingegen durchaus Strukturen benennen, die bestimmte Handlungsoptionen 
+ermöglichen oder erleichtern und andere erschweren oder verwehren (z. B. einen 
+Schichtrhythmus, der ausreichende Erholungszeiten verunmöglicht; Arbeitszu-
+sammenhänge, die einseitig und psychisch belastend sind; Gruppenkonstella-
+tionen, die Härte und Rigidität betonen und Empathie und Toleranz verhindern; 
+Konstellationen, in denen aggressive Männlichkeit die Referenzgröße für das 
+Einsatzverhalten bildet; homosoziale Gruppen, was Alter, Geschlecht und dienst-
+liche Position betrifft; eigene Zugangsbeschränkungen und Aufnahmetests; 
+Abschottung gegenüber der eigenen Organisation etc.). Insoweit begünstigen und 
+befördern die Organisationsstrukturen sowohl individuellen als auch kollektiven 
+Rassismus ebenso wie sie Diskriminierungssituationen ermöglichen. Auch über-
+steigerte Gewaltanwendung wäre auf das Vorhandensein bestimmter struktureller 
+Rahmenbedingungen hin zu untersuchen statt sie als „anthropologische Kon-
+stante“ oder als „einmaligen Ausrutscher“ zu postulieren. Dies wird im Übrigen 
+durch eine „apparative Aufrüstung“ der Polizei begleitet (vgl. Kirsch 2017).
+
+Wir wissen nicht genau, welche strukturellen und gruppendynamischen 
+Gemeinsamkeiten es z. B. zwischen den bislang in Deutschland bekannt 
+gewordenen rechten Chatgruppen in den Polizeien gibt. Aber wir können sicher 
+sagen, dass das Einzelfall-Argument eher dem Schutz vor weiterer Durch-
+dringung dient als es die Realität widerspiegelt. Es sind ganz offenbar nicht 
+wenige Einzelne, die – quasi kontaktlos und ohne von Kolleg:innen bemerkt zu 
+werden – in den Reihen der Polizei arbeiten und Rassismus privat ausleben. Nein, 
+es sind viele, und es werden augenscheinlich mehr, zumindest werden mehr ent-
+deckt. Sie alle arbeiten in Strukturen, die nicht verhindern, dass Menschen in 
+Situationen geraten, in denen sie entweder ihr Gewissen beschädigen oder in 
+denen es ihnen gelingt, das Gegenteil dessen zu tun, wofür sie ihren Eid geleistet 
+haben. Gewalttäter:innen, Rechtsextremist:innen, Rassist:innen in der Polizei 
+arbeiten in Strukturen, die Aufklärung – zumindest bislang – verhindern, weil 
+Cop Culture ein großes Maß an Toleranz gegenüber Gewalt und rechter Ideologie 
+beinhaltet. Nur zwei Dinge darf man in der Cop Culture kategorisch nicht: Links 
+sein und Kolleg:innen verraten. Sonst darf man vieles. Daran wäre zu arbeiten.
+
+4  Epilog
+
+Neuerdings nehme ich wahr, dass sich Polizeibeamt:innen von ihrer Nähe zur 
+Cop Culture vermehrt distanzieren. Von einem SEK-Leiter wurde ich kürzlich 
+zum Gespräch geladen, in dem er mir klargemacht hat, dass meine Äußerungen 
+
+
+
+236 R. Behr
+
+zu dieser Einheit32, zumindest für die in seinem Verantwortungsbereich, 
+unzutreffend seien. Auch andere Polizist:innen gehen offiziell eher auf Distanz 
+dazu, Polizistinnen noch häufiger als ihre männlichen Kollegen. Das könnte ein 
+Hinweis auf eine zunehmende Obsoleszenz von Cop Culture sein, allerdings 
+auch einer auf zunehmende Leugnung und Verdrängung ihrer Realität. Ich halte 
+die zweite Annahme für wahrscheinlicher. Jedenfalls befindet sich Cop Culture 
+aber in einem Transformationsprozess: Sie wirkt im historischen Vergleich 
+smarter, zeigt sich weniger abstoßend und verachtend. Dafür – und das habe ich 
+persönlich dazu gelernt – gilt ihr informelles Regelwerk nicht nur auf der Straße, 
+sondern diffundiert subkutan zunehmend in die gesamte Polizei, begleitet von 
+der Rhetorik der Relativierung, Verharmlosung und des Bedeutungsverlusts. 
+Dass hinter den Integritätsverstößen in der jüngsten Zeit zu den Themen Gewalt 
+und Rassismus auch Strukturregeln stehen, die durch Cop Culture und die Angst 
+vor Superioritätsverlust zumindest weitgehend erklärt werden könnten, das soll 
+politisch nicht wahr sein. „Polizeigewalt hat es nicht gegeben …..“.
+
+Literatur
+
+Alpert, G., & Dunham, R. (2004). Understanding Police Use Of Force. Officers, Supects, 
+and Reciprocity. Cambridge: University Press.
+
+Baumann, Z. (2014). Gemeinschaften. 3. Aufl. Frankfurt am Main: Suhrkamp.
+Behr, R. (1996). Fremdsein und Vertrautwerden. Anmerkung zur „Beziehungsarbeit“ in der 
+
+qualitativen Sozialforschung. In J. Reichertz & N. Schröer (Hrsg.), Qualitäten polizei-
+lichen Handelns: Beiträge zu einer verstehenden Polizeiforschung (S. 48–77). Opladen: 
+Westdeutscher Verlag.
+
+Behr, R. (2008). Cop Culture – Der Alltag des Gewaltmonopols. Männlichkeit, Handlungs-
+muster und Kultur in der Polizei. 2. Aufl. Wiesbaden: VS Verlag.
+
+Behr, R. (2016). Diskriminierung durch Polizeibehörden. In A. Scherr, A. El-Mafaalani & 
+E. Gökcen Yüksel (Hrsg.), Handbuch Diskriminierung (S. 1–19). Wiesbaden: Springer 
+Fachmedien.
+
+Behr, R. (2018a). Zur Legitimation polizeilicher Kontrolle: „Racial-“, „Social-“ und 
+„Criminal-Profiling“ im Diskurs. In A. Mensching & A. Jacobsen (Hrsg.), Polizei im 
+Spannungsfeld von Autorität, Legitimität und Kompetenz (S. 105–119). Frankfurt am 
+Main: Verlag für Polizeiwissenschaft.
+
+Behr, R. (2018b). Verdacht und Vorurteil. Die polizeiliche Konstruktion der gefährlichen 
+Fremden. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft. Trans-
+
+32 Zum Frankfurter SEK Behr (2021a).
+
+
+
+„Polizeigewalt hat es nicht gegeben“ – Cop Culture … 237
+
+disziplinäre Perspektiven zu Methoden, Theorie und Empirie reflexiver Polizeiforschung 
+(S. 17–45). Wiesbaden: Springer VS.
+
+Behr, R. (2021a). Heldendämmerung. Kommentar: SEK Frankfurt. Journal Frankfurt. 
+https://www.journal-frankfurt.de/journal_news/Gesellschaft-2/Kommentar-SEK-
+Frankfurt-Heldendaemmerung-37533.html. Zugegriffen: 18. Juli 2022.
+
+Behr, R. (2021b). „Dem Guten verpflichtet, vom Bösen bedroht“. Was man erkennt, wenn 
+Polizist*innen von ihren Werten sprechen. Eine explorative Skizze aus der verstehenden 
+Polizeiforschung. In A. Ruch & T. Singelnstein (Hrsg.), Auf neuen Wegen. Krimino-
+logie, Kriminalpolitik und Polizeiwissenschaft aus interdisziplinärer Perspektive. 
+Festschrift für Thomas Feltes zum 70. Geburtstag (S. 333–343). Berlin: Duncker & 
+Humblot.
+
+Buford, B. (2010). Unter Hooligans. Geil auf Gewalt. München: Goldmann.
+Erikson, E. H. (2003). Identität und Lebenszyklus. Frankfurt am Main: Verlag Suhrkamp.
+Hunold, D. (2015). Polizei im Revier – Polizeiliche Handlungspraxis gegenüber Jugend-
+
+lichen in der multiethnischen Stadt. Berlin: Duncker & Humblot.
+Hunold, D., Klimke, D., Behr, R., & Lautmann, R. (Hrsg.) (2010). Fremde als Ordnungs-
+
+hüter? Die Polizei in der Zuwanderungsgesellschaft Deutschland. Wiesbaden: VS-Ver-
+lag.
+
+Kersten, J. (1997a). Risiken und Nebenwirkungen: Gewaltorientierungen und die Bewerk-
+stelligung von „Männlichkeit“ und „Weiblichkeit“ bei Jugendlichen der underclass. 
+Kriminologisches Journal, 6. Beiheft, S. 103.
+
+Kersten, J. (1997b). Gewalt und (Ge)schlecht. Berlin: de Gruyter.
+Kirsch, M. (2017): Militarisierung der Polizei – Massive Aufrüstung im Namen der Terror-
+
+abwehr. IMI-Studie Nr. 5/2017. www.imi-online.de/download/IMI-Studie2017-5-
+Polizei-web.pdf. Zugegriffen: 18. Juli 2022.
+
+Meixner, K. (1998). Hessisches Gesetz über die öffentliche Sicherheit und Ordnung 
+(HSOG). 8. Aufl. Stuttgart: Boorberg.
+
+Meuser, M. (1999). Gewalt, hegemoniale Männlichkeit und „doing masculinity“. Krimino-
+logisches Journal, 7. Beiheft, S. 49.
+
+Quest, H., & Messerschmidt, M. (2017): Männlichkeit im Konflikt. Zum theoretischen 
+Verständnis von militarisierter Männlichkeit, militärischer Männlichkeit und Hyper-
+maskulinität. Zeitschrift für Friedens- und Konfliktforschung (ZeFKo), 6, S. 259.
+
+Rommelspacher, B. (1995). Dominanzkultur: Texte zu Fremdheit und Macht. Berlin: 
+Orlanda Frauenverlag.
+
+Schmidt-Semisch, H., & Hess, H. (Hrsg.) (2014). Die Sinnprovinz der Kriminalität. Zur 
+Dynamik eines sozialen Feldes. Wiesbaden: VS-Verlag.
+
+Steckhan, S. (2017). Rauschkontrolleure und das Legalitätsprinzip: polizeiliche 
+Perspektiven zu Drogen und Drogenkriminalität. Marburg: tectum-Verlag.
+
+Steffes-enn, R. (2020). Perspektivenwechsel. Eine qualitative Untersuchung zur 
+Funktionalität der Gewalt gegen Polizei aus Tätersicht. Frankfurt am Main: Verlag für 
+Polizeiwissenschaft.
+
+
+
+238 R. Behr
+
+Wagener, U. (2012). Heroismus als moralische Ressource rechtserhaltender Gewalt? 
+Ethische Reflexionen zu heroischen und postheroischen Elementen in der polizei-
+lichen Organisationskultur. In T. Meireis (Hrsg.), Gewalt und Gewalten. Zur Ausübung, 
+Legitimität und Ambivalenz rechtserhaltender Gewalt (S. 133–160). Tübingen: Mohr-
+Siebeck.
+
+Zeit Online (2021). „Polizeigewalt hat es nicht gegeben“. https://www.zeit.de/gesell-
+schaft/2017-07/olaf-scholz-g20-demonstranten-polizei-verfahren-hamburg. 
+Zugegriffen: 18. Juli 2022.
+
+Prof. Dr. Rafael Behr ist Professor für Polizeiwissenschaften am Hochschulbereich der 
+Akademie der Polizei Hamburg. Seine Arbeitsschwerpunkte sind Empirische Polizei-
+forschung, Organisationskulturforschung sowie Arbeiten zur Soziologie der Gewalt und der 
+Devianz.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

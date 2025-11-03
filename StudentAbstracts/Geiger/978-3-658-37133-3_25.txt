@@ -1,0 +1,1466 @@
+﻿„Black Box Polizei?“ – Wege der 
+empirischen Forschung
+
+Stefanie Kemme und Anabel Taefi
+
+1 F orschung zu gruppenbezogen-
+menschenfeindlichen Einstellungen, Kulturen  
+und Handlungen in der Polizei
+
+Immer wieder gerät die Polizei aufgrund von medial verbreiteten Skandalfällen, 
+die auf polizeiliches Fehlverhalten hindeuten oder dies belegen, in der Öffentlich-
+keit in die Kritik. Einhergehend mit dem Hamburger Polizeiskandal1 sah sich 
+die Polizei bereits in den 1990er Jahren massiv mit Vorwürfen von sogenannter 
+„Fremden-“ oder „Ausländerfeindlichkeit“, rechtsextremen Tendenzen oder 
+rassistischen Kontrollpraxen konfrontiert. Im Fokus der öffentlichen Diskussion 
+sind derzeit Chatgruppen von Polizist:innen mit menschenverachtenden Inhalten, 
+Drohmails, die an Personen gesendet wurden, deren Daten von Polizeicomputern 
+
+1 Siehe hierzu auch Heitmeyer im vorliegenden Band; Breiholz und Neß (1995). Im 
+Hamburger Polizeiskandal wurden im Jahr 1994 Vorwürfe über unrechtmäßige Polizei-
+gewalt gegen Männer mit Migrationshintergrund bekannt.
+
+S. Kemme (*) · A. Taefi 
+Hochschule der Akademie der Polizei Hamburg, Hamburg, Deutschland
+E-Mail: stefanie.kemme@poladium.de
+A. Taefi 
+E-Mail: anabel.taefi@poladium.de
+
+© Der/die Autor(en) 2022 529
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_25
+
+
+
+530 S. Kemme und A. Taefi
+
+abgefragt wurden, oder auch Verbindungen/Mitgliedschaften von Polizist:innen 
+zu unter Terrorismusverdacht stehenden Netzwerken wie Hannibal/Gruppe Nord-
+kreuz2. Sie zeigen Handlungsbedarf auf und lassen in der Wissenschaft, der Zivil-
+gesellschaft und unter Politiker:innen Forderungen nach der Erforschung von 
+menschenfeindlichen Einstellungen, Kulturen und Handlungen von Polizist:innen 
+laut werden.3
+
+Die öffentlichen Erregungswellen erleichtern oder ermöglichen zum einen 
+zwar den Zugang für Forschende in die „Black Box Polizei“. Zum anderen 
+führt die öffentliche Debatte über „Rassismus in der Polizei“ bei zahlreichen 
+Akteur:innen aus Politik, Gewerkschaften und Polizei – damals wie heute – zu 
+einer Reaktanz, die den Zugang zum Feld auf verschiedenen Ebenen zugleich 
+erschweren bzw. sogar versperren kann.4
+
+Die Rechtfertigung für das Ablehnen von externer, freier Forschung in 
+der Polizei liegt einerseits im grundsätzlichen Skeptizismus vieler Praktiker 
+begründet, ein „Theoretiker“ ohne einschlägige Arbeitserfahrung könne ihre 
+Lebenswelt und den beruflichen Alltag nicht korrekt erfassen und beurteilen. 
+Darüber hinaus beschrieb Jaschke bereits im Jahr 1997 in der Folge des ersten 
+Projekts, das in Deutschland explizit zur „Fremdenfeindlichkeit“ in der Polizei5 
+durchgeführt wurde, vier Abwehrstrategien, die bis heute nichts an Aktualität 
+eingebüßt haben: Die Einzelfallthese, die Relativierungsthese, die Spiegelbild-
+these und die Manipulationsthese.6
+
+Im vorliegenden Beitrag werden unterschiedliche Wege der empirischen 
+Näherung an die Phänomene gruppenbezogen-menschenfeindlicher Einstellungen, 
+Kulturen und Handlungen von Polizist:innen vorgestellt und diskutiert. Die bereits 
+in Deutschland umgesetzten Forschungsdesigns und bearbeiteten Fragestellungen 
+werden beschrieben. Zudem werden die künftig methodisch zu beschreitenden 
+
+2 Schimmeck (2019).
+3 Wir benutzen den Begriff „menschenfeindlich“ in Anlehnung an das Konzept der 
+„Gruppenbezogenen Menschenfeindlichkeit (GMF)“ von Heitmeyer (2005). Es umfasst 
+Einstellungen im Bereich Rassismus, Extremismus, Diskriminierung und Sozialdarwinis-
+mus und bezieht somit zahlreiche gruppenbezogene Abwertungen mit ein, die sich auch im 
+erweiterten Rassismusbegriff umschreiben lassen (Groß, Clasen und Zick im vorliegenden 
+Band).
+4 Hunold und Wegner (2020); Heitmeyer im vorliegenden Band.
+5 Jaschke (1997).
+6 Siehe hierzu Heitmeyer im vorliegenden Band.
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 531
+
+Abb. 1  Überblick über drei Ebenen, auf die sich empirische Forschung im Bereich 
+Rassismus in der Polizei fokussieren kann.  (eigene Darstellung)
+
+Wege, die näher zu beleuchtenden Hypothesen zur Erklärung des Phänomens und 
+die damit einhergehenden Herausforderungen beleuchtet.
+
+2 M ethodische Zugänge und bisherige 
+Untersuchungen
+
+Das Vorhandensein und die Verbreitung von Gruppenbezogener Menschenfeind-
+lichkeit (GMF) unter Polizist:innen kann auf verschiedenen Ebenen untersucht 
+werden, auf der Einstellungsebene, der Intergruppen- bzw. kulturellen Ebene 
+und der Handlungsebene. Die Zusammenhänge zwischen den Einstellungen, 
+einer (Sub)Kultur, kultivierten Praktiken oder Intergruppendynamiken und den 
+sichtbaren Handlungen können anhand einer Pyramide verdeutlicht werden (vgl. 
+Abb. 1): Einstellungen führen selbstverständlich nicht zwingend zu Handlungen. 
+
+
+
+532 S. Kemme und A. Taefi
+
+Sie bilden aber, gemeinsam mit daraus wachsenden (Sub)Kulturen und milieu-
+spezifischen Praktiken, Legitimationsgrundlagen für grundgesetzwidriges und 
+auch strafrechtlich relevantes problematisches Handeln, bspw. in Form von Dis-
+kriminierungen, „Racial Profiling“ oder illegitimen Gewalteinsatz.7 Unmittelbar 
+sichtbar und somit Anlass für Erregung im öffentlichen Diskurs sind dabei ledig-
+lich Handlungen und Äußerungen von Polizist:innen im Bürger:innenkontakt 
+oder in der Öffentlichkeitsarbeit, sowie Zeugnisse ihrer nicht-öffentlichen Inter-
+gruppen-Kommunikation. Das, was nicht unmittelbar beobachtbar ist, muss aber 
+im Rahmen von Studien, die Entstehungszusammenhänge von Handlungen aus-
+leuchten wollen, ebenfalls in den Blick genommen werden, denn es steht mit dem 
+manifest Beobachtbarem im engen Zusammenhang.        
+
+Unabhängig von der Ebene oder den Ebenen, auf die empirische Studien 
+abzielen, können sie dies mit einer Vielzahl von Methoden der empirischen 
+Sozialforschung erreichen. Möglich sind unmittelbare Befragungen von 
+Polizist:innen.8 Aber auch das „polizeiliche Gegenüber“, also diejenigen, die von 
+polizeilichen Maßnahmen unmittelbar betroffen sind, können befragt werden.9 
+Helfende, ob professionell oder ehrenamtlich, können mit der Drittpersonen-
+technik in Form von Informant:innen- oder Expert:innenbefragungen ebenfalls in 
+den Prozess des Erkenntnisgewinns einbezogen werden. Darüber hinaus werden 
+in verschiedenen Ländern bereits Datenbestände analysiert, die aus Statistiken 
+von Verkehrskontrollen10 oder Bodycam-Mitschnitten11 bestehen. Mittels teil-
+nehmender Beobachtung aber auch über Experimente wie dem zum Shooters’ 
+Bias12 können Zusammenhänge zwischen den Dimensionen Einstellung, Kultur 
+und Handlung erfasst werden.13 Die in der Vergangenheit in Deutschland 
+beschrittenen Wege empirischer Forschung werden im Folgenden vorgestellt, 
+wobei deutlich wird, dass in den Forschungsarbeiten oftmals eine Verknüpfung 
+der Ebenen im Rahmen multimethodaler Designs stattfand.
+
+7 Siehe hierzu Gutschmidt und Czudnon im vorliegenden Band.
+8 HMdIS (2020).
+9 Abdul-Rahman et al. (2020).
+10 Siehe Homepage der Stanford University mit Ergebnissen der Analyse von Verkehrs-
+kontrollen: The Stanford Open Policing Project (2021).
+11 Voigt et al. (2017).
+12 Correll et al. (2007a, b).
+13 In welchem Umfang und mit welchem Modell die wissenschaftliche Untersuchung von 
+Einstellungen und Handlungen verknüpft werden kann, ausführlich bei Gutschmidt und 
+Czudnochowski im vorliegenden Band.
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 533
+
+2.1  Schwerpunkt Einstellungsebene und quantitative 
+Befragungen von Polizist:innen
+
+Der Großteil der älteren in Deutschland durchgeführten Studien14 wurde in 
+den 1990er Jahren mit einem Schwerpunkt auf der Einstellungsebene initiiert – 
+unter anderem als Reaktion auf die Brandanschläge wie etwa in Hoyerswerda 
+im Jahr 1991 und den damit verknüpften Vorwürfen, die Polizei sei „auf dem 
+rechten Auge blind“. Dabei gingen die frühen Studien von der Prämisse aus, 
+dass „fremdenfeindliche“ Einstellungen illegales Polizeihandeln bzw. Übergriffe 
+begünstigen. Hierzu wurden maßgeblich die klassischen Wege quantitativer wie 
+qualitativer Befragungen der handelnden Akteure beschritten.
+
+Eine erste quantitative Einstellungsstudie wurde im Jahr 1993 unter dem Titel 
+„Die Bekämpfung fremdenfeindlicher Straftaten – eine Herausforderung für die 
+Polizei“ von der Fachhochschule für öffentliche Verwaltung in Rheinland-Pfalz 
+durchgeführt.15 Polizist:innen wurden zu ihren Einstellungen befragt, darüber 
+hinaus wurden Pressevertreter:innen mit einem Kurzfragebogen nach ihren Ein-
+schätzungen der polizeilichen Arbeit befragt. Auch das 1998 an der Berliner 
+Fachhochschule für Verwaltung und Rechtspflege durchgeführte Projekt „Aus-
+länderfeindlichkeit in der Berliner Polizei?“ widmete sich der Einstellungsebene.16 
+Im Rahmen einer schriftlichen Befragung versuchten die Forschenden bereits 
+den Ursachen für „Ausländerfeindlichkeit“ in der Polizei näher zu kommen. Die 
+Erhebung war insofern differenzierter, als bereits polizeiliche Erfahrungsfelder 
+mit untersucht wurden. Exemplarische Fallstudien, Expert:innengespräche und 
+Gruppendiskussionen ergänzten die schriftliche Befragung.
+
+Ein großangelegtes qualitatives Projekt „Die Polizei im Umgang mit 
+Fremden – Problemlagen, Belastungssituationen und Übergriffe“ wurde in den 
+Jahren 1994/1995 von der Innenministerkonferenz in Auftrag gegeben und an 
+der damaligen Polizeiführungsakademie durchgeführt.17 Die Workshops mit 
+Polizist:innen unterschiedlicher Einsatzbereiche und Hierarchieebenen zielten 
+darauf ab, strukturelle Faktoren zu ermitteln, welche die Entwicklung „fremden-
+feindlicher“ Einstellungen begünstigen.
+
+14 Überblick zum Stand der Forschung bspw. bei Kopke (2019); Hunold und Wegner 
+(2020).
+15 Fachhochschule für öffentliche Verwaltung Rheinland-Pfalz (1994).
+16 Jaschke (1998).
+17 Bornewasser (1996); Eckert et al. (1998).
+
+
+
+534 S. Kemme und A. Taefi
+
+Eine Verbindung von Belastungsfaktoren, Aus- und Weiterbildung, privaten 
+Kontakten zu Migrant:innen sowie „fremdenfeindlichen“ Vorurteilen wurde 
+ebenfalls mit einer Fragebogenuntersuchung von Mletzko und Weins18 an 
+Polizist:innen einer großstädtischen Polizeidirektion Ende der 1990er Jahre her-
+gestellt. Lindner19 erhob im Jahr 2001 unter Auszubildenden der Polizei in Nord-
+rhein-Westfalen hauptsächlich Einstellungen, aber schaffte über das Merkmal der 
+Gewaltbereitschaft Bezüge zur Handlungsebene.
+
+In Folge des sog. Hamburger Polizeiskandals beauftragte der Hamburger 
+Senat 1995/1996 das Institut für interdisziplinäre Konflikt- und Gewaltforschung 
+(IKG) mit der Studie „Risikokonstellationen im Polizeialltag“.20 In diesem 
+Projekt wurden Hamburger Polizist:innen über die individuelle Ebene (mit 
+Fragen zu Einstellungen, Verhaltensweisen oder professioneller Kompetenz) 
+hinaus nach strukturellen und institutionellen Risikokonstellationen gefragt, die 
+möglicherweise „fremdenfeindliche“ Handlungsweisen befördern. Die Zugänge 
+der multimethodalen Studie umfassten Befragungen von Polizist:innen und 
+Anwohner:innen sowie Fortbildungsveranstaltungen und Diskussionen. Der zahl-
+reiche Aspekte beleuchtende Ansatz konnte somit von der Ebene gesellschaft-
+licher Desintegrationsprozesse21 bis hin zur Individualebene Problembereiche 
+und Interaktionen in das Blickfeld nehmen. Ähnliche Bezüge von der Inter-
+gruppen- bzw. Kulturebene bis hin zu der individuellen Einstellungsebene konnte 
+Maibach22 anhand qualitativer Interviews mit Polizist:innen herausarbeiten.
+
+Angeregt durch die Ergebnisse von Mletzko und Weins und anknüpfend 
+an die erste Studie des IKG untersuchte Mescher23 „Islambilder in der Polizei. 
+Kontrollerleben und Berufszufriedenheit als Einstellungsfaktoren“. Diese Studie 
+fokussierte mit einer Befragung von Polizist:innen aus Sachsen, Niedersachsen 
+und Nordrhein-Westfalen ebenfalls auf Belastungen im Polizeialltag, Arbeits-
+zufriedenheit und Kontaktqualität.
+
+Zuletzt wurden rechtsextreme Einstellungen im Jahr 2019 in Hessen mit 
+einer schriftlichen Fragebogenstudie im Rahmen des Projekts „Polizeiliche 
+Alltagserfahrungen – Herausforderungen und Erfordernisse einer lernenden 
+
+18 Mletzko und Weins (1999).
+19 Lindner (2001).
+20 Backes et al. (1997).
+21 Backes et al. (1997), S. 150.
+22 Maibach (1996).
+23 Mescher (2008, 2012).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 535
+
+Organisation“24 als Reaktion auf die Rechtsextremismus-Verdachtsfälle unter 
+Polizeiangehörigen erfasst.
+
+Obwohl mit dem umfangreichen und multimethodalen Ansatz des IKG 
+in Hamburg versucht wurde, Einstellungs- und Intergruppenebene zu ver-
+knüpfen, muss dennoch gesagt werden, dass der klare Fokus der frühen Studien 
+in ihrer Gesamtheit auf individuellen Einstellungen und Belastungen lag, den 
+methodischen Schwerpunkt bildete der quantitative Befragungszugang. Kritisiert 
+wurde, dass Belastungen zwar geeignet sind, individuelle gruppenbezogen-
+menschenfeindliche Einstellungen unter Polizist:innen zu erklären, dass aber 
+letztlich von den strukturellen Merkmalen der Institution abgelenkt wurde.25
+
+2.2  Schwerpunkt Intergruppenebene und qualitative/
+ethnografische Zugänge
+
+Somit rückten in jüngerer Zeit qualitative bzw. ethnografische Ansätze stärker 
+in den Vordergrund.26 Es kann auch von einem zweiten Forschungsstrang 
+gesprochen werden, der sich weniger mit der unmittelbaren Einstellungsebene 
+beschäftigte, sondern mit der Betrachtung von Kleingruppendynamiken und Sub-
+kulturen sowie mit Organisationsstrukturen und dem Rahmen, den die Führungs-
+kultur setzt. Fragestellungen in diesem Bereich adressieren bspw. Alltagsroutinen, 
+Handeln in Gefahrensituationen oder erfolgreiche Problemlösungen und wie 
+darin begründet vorurteilsgeleitete oder diskriminierende Praktiken kultiviert 
+werden.
+
+Über ethnografische Ansätze mit dem Zugang der teilnehmenden Beobachtung 
+lässt sich betrachten, wie sich Intergruppenkontakte gestalten. Die bisher in 
+Deutschland durchgeführten Studien ermöglichen es, mit multimethodalen 
+Designs, Verbindungen zwischen der Intergruppenebene/Kultur und der Hand-
+lungsebene herzustellen.
+
+Kern der Duisburger Studie „Das da draußen ist ein Zoo, und wir sind die 
+Dompteure: Polizisten im Konflikt mit ethnischen Minderheiten und sozialen 
+
+24 HMdIS (2020).
+25 Bornewasser (2009), S. 18.
+26 Bspw. Enke und Asmus (2016); Gauthier und Keller (2010); Hunold (2015); Schweer 
+und Strasser (2003, 2008).
+
+
+
+536 S. Kemme und A. Taefi
+
+Randgruppen – Teilnehmende Beobachtung des Alltags von operativen Kräften“27 
+war eine mehrjährige Begleitung des Alltags operativer polizeilicher Kräfte der 
+Polizei Duisburg (bis 2004). Auch dieses Projekt komplettierte ein umfangreiches 
+multimethodales Design. Mit einer quantitativen Befragung sowie narrativen 
+Interviews der Polizist:innen, aber auch von durch polizeiliche Maßnahmen 
+Betroffenen (z. B. Aussiedler:innen, Drogenkonsument:innen, türkische „Ecken-
+steher“, Prostituierte) und professionellen Akteur:innen (bspw. der Wohnungs-
+losenhilfe) wurden die Perspektiven von verschiedenen Seiten beleuchtet. Eine 
+repräsentative Bevölkerungsbefragung (u. A. zum Polizeivertrauen) ergänzte die 
+Erhebungen.
+
+Ein ebenso umfassendes Design realisierte das Projekt „Polizei und Jugend-
+liche in multi-ethnischen Gesellschaften (POLIS)“28 des Max-Planck-Instituts 
+für ausländisches und internationales Strafrecht (heute: Max-Planck-Institut zur 
+Erforschung von Kriminalität, Sicherheit und Recht). Im Fokus des Projekts 
+war die Entstehung von Konflikten sowie die Frage danach, wie in der persön-
+lichen Begegnung zwischen Jugendlichen und Polizist:innen Vorurteile gebildet 
+und gefestigt werden. Durchgeführt wurden teilnehmende Beobachtungen, Inter-
+views mit Polizist:innen aller Hierarchieebenen und Jugendlichen, sowie eine 
+repräsentative Schüler:innenbefragung.
+
+Weitere Projekte nahmen und nehmen zwar nicht unmittelbar menschen-
+feindliche Einstellungen oder Handlungen von Polizist:innen in den Blick, 
+produzieren jedoch relevante Erkenntnisse, indem sie bspw. das Zusammenspiel 
+zwischen strukturellem Rahmen und Polizeiarbeit, Organisations-, Sub- und 
+Intergruppenkulturen, individuellen Einstellungen und Praxen29 betrachten. Von 
+großer Relevanz ist hierbei bspw. die „Cop Culture“30: sie beschreibt die Regeln 
+der Organisationskultur, die Werte und alltäglichen Handlungsmuster inner-
+halb der Polizei. Behr, der zuerst in den frühen 1990er Jahren in einem Polizei-
+revier in Thüringen teilnehmende Beobachtungen durchführte,31 schreibt dem 
+Polizeiberuf „eine immanente Disposition zu diskriminatorischen Haltungen 
+
+27 Strasser (2004).
+28 Oberwittler und Schwarzenbach (2014); Hunold (2015).
+29 Bspw. Behr (2000); Dangelmaier und Brauer (2020); Decker und Kersten (2015); Hunold 
+(2009, 2015); Schicht (2007); Steckhan (2016).
+30 Behr (2000); Schweer und Strasser (2008).
+31 Behr (2000).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 537
+
+und Handlungen“32 zu und beschreibt umfangreich die Funktion von Gewalt und 
+Maskulinität innerhalb der Subkultur der Polizist:innen.33
+
+2.3  Bisherige Zugänge zur Handlungsebene
+
+Untersuchungsgegenstand der Handlungsebene sind mögliche Straftaten durch 
+Polizist:innen im Zusammenhang mit menschenfeindlichen Einstellungen, 
+Kulturen oder Handlungsweisen. Diese können sich über die Ausübung körper-
+licher Gewalt äußern (Körperverletzung im Amt, § 340 StGB), aber bspw. auch 
+über Beleidigung (§ 185 StGB), Rechtsbeugung (§ 339 StGB), Verfolgung 
+Unschuldiger (§ 344 StGB) oder Vollstreckung gegen Unschuldige (§ 345 StGB). 
+Abseits der strafrechtlichen Relevanz kann es zu diskriminierenden Praxen wie 
+bspw. Racial Profiling kommen.
+
+Diskriminierende Praxen können in ethnografischen Studien grundsätzlich 
+beobachtet werden, die Anwesenheit des Beobachters kann allerdings das Ver-
+halten der beobachteten Person beeinflussen. Jedenfalls haben die beobachtenden 
+Studien der letzten Jahre keine konkreten Hinweise auf diskriminierende 
+Kontrollhandlungen oder grundlegende Muster polizeilicher Diskriminierung 
+gegeben, wenngleich sich ein „social“ profiling, das auf Basis ethnischer und 
+situativer Merkmale geschieht, durchaus konstatieren lässt und von vielen 
+Forschenden als problematisch beschrieben wird.34
+
+Bisher gibt es in Deutschland – im Gegensatz zum angloamerikanischen 
+Raum – kaum Daten, die überhaupt rechtswidrige Übergriffe seitens der Polizei 
+belegen können. Zudem lassen die meisten Untersuchungen zu polizeilicher 
+Gewaltausübung35 keine Rückschlüsse auf xenophobe Übergriffe zu. Grundsätz-
+
+32 Behr (2017), S. 97.
+33 Behr (2000).
+34 Bspw. Hunold (2015) und Behr (2017) (auf die die Begriffsschöpfung des „social 
+profiling“ zurückgeht); auch Herrnkind (2014); Thompson (2018).
+35 Zu nennen wären hier Hinweise aus dem Hellfeld (§ 340 StGB), aus Beobachtungsstudien 
+(bspw. Reuter 2014: 100 Polizeieinsätze, zwei mit Gewaltvorfällen) und Befragungen zum 
+Einsatz physischer Gewalt (Bosold 2006; Ohlemacher et al. 2002). Auch bei den Gewaltein-
+sätzen seitens der Polizei aus der Viktimisierungsstudie des KFN (Ellrich und Baier 2015: 
+Angaben von 1931 Einsatz- und Streifendienstbeamten zu 5793 Einsätzen der Bereiche 
+häusliche Streitigkeiten, nicht-häusliche Streitigkeiten und Überprüfung Verdächtiger) lässt 
+sich nicht differenzieren, ob der Gewalteinsatz gerechtfertigt war oder nicht, bzw. ob er im 
+Zusammenhang mit einer gruppenbezogen-menschenfeindlichen Einstellung stand.
+
+
+
+538 S. Kemme und A. Taefi
+
+lich ist die Opferbefragung eine Methode, um Hinweise auf diskriminierende 
+Übergriffe oder Praxen der Polizei zu erhalten. (Potentielles) Racial Profiling 
+oder Polizeigewalt werden vor allem über die Erhebung von Polizeikontakten 
+durch die Befragungen Betroffener erfasst. Hierbei tragen insbesondere zivil-
+gesellschaftliche Akteur:innen wie die Kampagne für Opfer rassistischer 
+Polizeigewalt36 oder Copwatch die Betroffenenperspektiven für zahlreiche 
+Großstädte zusammen. Dies ermöglicht eine Näherung an das Erleben des 
+„polizeilichen Gegenübers“, an psychosoziale Folgen und die „Alltäglichkeit“ 
+als diskriminierend wahrgenommener Handlungen durch die Polizei37, jedoch 
+– aufgrund der gewählten Methode verständlicherweise – keine Aussagen zur 
+Häufigkeit oder Repräsentativität geschweige denn darüber, ob Handlungen 
+der Polizist:innen (un)rechtmäßig gewesen sind. Da es keine Möglichkeit der 
+Überprüfung von polizeilichen Statistiken zu Kontrollhäufigkeiten o. Ä. gibt, 
+hat Bruce-Jones38 Fallstudien einzelner, durch Gerichte dokumentierter Ver-
+dachtsfälle von unangemessenem Polizeihandeln durchgeführt und ausgehend 
+hiervon einen institutionellen Kontext herzustellen versucht. Die quantitative 
+Viktimisierungsstudie KVIAPOL der Ruhr-Universität Bochum39, deren Befragte 
+im Schneeballverfahren über Gatekeeper:innen sowie durch Öffentlichkeitsarbeit 
+rekrutiert wurden, beleuchtet das Dunkelfeld polizeilicher Gewaltanwendungen 
+und nimmt auch das Anzeigeverhalten der (nach subjektivem Eindruck) 
+Viktimisierten in den Blick und ergänzt über Expert:inneninterviews die daraus 
+gewonnenen Erkenntnisse.
+
+Eine andere, sehr vielversprechende Möglichkeit zur Erforschung dis-
+kriminierender Handlungen stellen experimentelle Settings dar. So hat sich der 
+amerikanische Forscher Correll gefragt, wie die proportional überrepräsentierten 
+Fälle polizeilicher Gewalt gegenüber Schwarzen zu erklären sind. Über den sog. 
+„Shooter Bias“40, bei dem Teilnehmer:innen am Computer vor die Entscheidung 
+gestellt werden, auf bewaffnete und unbewaffnete weiße und Schwarze Personen 
+zu schießen oder nicht, konnte gezeigt werden, dass auf unbewaffnete Schwarze 
+US-Amerikaner:innen häufiger und schneller geschossen wird. In Deutschland 
+wurde bisher lediglich von Essien et al.41 an einer Stichprobe von 230 Hamburger 
+
+36 KOP (2016, 2020).
+37 Thompson (2018); Louw et al. (2016).
+38 Bruce-Jones (2012).
+39 Abdul-Rahman et al. (2020).
+40 Correll et al. (2002, 2007a, b, 2014).
+41 Essien et al. (im Druck); Kemme et al. (2016).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 539
+
+Polizeistudierenden und einer Vergleichsstichprobe von 100 Bürger:innen eine 
+Replikationsstudie durchgeführt. Verwendet wurden Bilder autochthon-deutsch 
+sowie arabischstämmig aussehender Männer. Das Experiment wurde mit einer 
+Befragung zu Vorurteilen, Stereotypen und der Häufigkeit und Qualität von 
+Kontakten mit Muslim:innen kombiniert.42 Mit Replikation des „Shooter Bias“ 
+ließen sich erste Hinweise auf diskriminierende Handlungsmuster und die ihnen 
+zugrundeliegenden psychologischen Mechanismen der Aktivierung von kulturell 
+bedingten Bedrohungsstereotypen identifizieren.
+
+3 G eeignete Wege zur künftigen Erforschung  
+von gruppenbezogen-menschenfeindlichen 
+Einstellungen, Kulturen oder Handlungen in der 
+Polizei
+
+Die bisher in Deutschland durchgeführten Studien setzten meist nicht nur an 
+einer der drei Ebenen an, sondern verknüpften diese miteinander. Insofern zielten 
+bereits die frühen Projekte mit multimethodalen Designs auf den Gewinn unter-
+schiedlicher Erkenntnisse ab. Doch nicht nur, weil der Großteil der Studien ver-
+altet ist, sondern insbesondere aus methodischen Gründen besteht Bedarf an 
+aktuellen Forschungsarbeiten.
+
+3.1  Hypothesengeleitete Einstellungsforschung
+
+Sich weiter und fundierter mit der Einstellungsebene zu beschäftigen, ist für 
+die künftige Forschung unerlässlich, zumal bisherige Arbeiten in zu geringem 
+Maße hypothesengeleitet vorgegangen sind. Generell ließe sich argumentieren, 
+dass Studien zu Einstellungen schon deswegen wenig nützlich sind, da sie nicht 
+den Kern dessen treffen, wonach im öffentlichen Diskurs gefragt wird: Erkennt-
+nisse über diskriminierende und rassistische Handlungspraxen der Polizei zu 
+generieren.43 Diese Argumentation kann aus Sicht der Autorinnen dieses Beitrags 
+nicht nachvollzogen werden.
+
+42 Vgl. Kemme et al. (2020).
+43 So bspw. Baier und Pfeiffer (2021).
+
+
+
+540 S. Kemme und A. Taefi
+
+Einstellungen sind der Nährboden eines sich entwickelnden diskriminierenden 
+Verhaltens, auch wenn sie kein verlässlicher Prädiktor für dieses sind. Zwar 
+existiert noch keine überzeugende Theorie der Beziehung zwischen Vorurteilen 
+und Diskriminierung44, doch geben sozialpsychologische Erkenntnisse genügend 
+Raum, um differenzierter mögliche Prädiktoren diskriminierender Einstellungen 
+und Praxen zu erforschen. Darüber hinaus konnte bereits eine Reihe von 
+Selbstberichtsmaßen von Vorurteilen diskriminierendes Verhalten vorhersagen.45
+
+Befragungen wird oftmals entgegenhalten, dass Verzerrungen aufgrund sozialer 
+Erwünschtheit und selektiver Teilnahmebereitschaft insbesondere bei Polizist:innen 
+erwartet werden können. Bisherige Studien in Deutschland haben jedoch nicht ver-
+sucht, sozial erwünschtes Antwortverhalten systematisch zu kontrollieren, obwohl 
+in dieser Hinsicht unterschiedliche Ansatzpunkte sowie Zusatzmaße existieren.46 
+Auch eine selektive Teilnahmebereitschaft ist von geringerer Relevanz, wenn das 
+Ziel der Untersuchung nicht die Erfassung des Ausmaßes bestimmter Zielvariablen 
+ist, sondern die Eruierung von Zusammenhängen und Erklärungen.
+
+Bisherige Erklärungsmodelle adressierten überwiegend Belastungsfaktoren. 
+Wie auch Heitmeyer47 herleitet und erläutert, sollten Hypothesen für künftige 
+Forschungsprojekte weiter die Prozesse der Selektion und/oder Sozialisation von 
+Polizist:innen in den Blick nehmen und den institutionellen und gesellschaft-
+lichen Kontext von Einstellungen und Handlungen der Beamt:innen untersuchen. 
+Auch die Verwendung etablierter Skalen unter Einbeziehung indirekter Maße zur 
+Messung von Vorurteilen und Stereotypen muss Beachtung finden.
+
+3.1.1 F orschung zu Selektions- und Sozialisationseffekten
+Für jeden Beruf sind spezielle Kenntnisse und Fähigkeiten erforderlich, aber 
+auch die Persönlichkeit hat Einfluss auf die Berufswahl. Menschen fühlen sich 
+von einer Organisation aufgrund ihres Images, ihrer Werte und ihrer Kultur 
+angezogen (Selbstselektion), während die Organisation sie für dieselben aus-
+wählt (institutionelle Selektion).48 Ähnliche Persönlichkeiten – mit ähnlichen 
+Einstellungen – werden für denselben Job innerhalb derselben Organisation 
+
+44 Schütz und Six (1996).
+45 Devine (1989); Dovidio et al. (1997); dazu unter Abschn. 3.1.2.
+46 Dazu unter Abschn. 3.1.2.
+47 Heitmeyer im vorliegenden Band.
+48 Haley und Sidanius (2005); Sidanius et al. (1996, 2003); Schneider et al. (2000): Die 
+Polizei wird dabei als eine hierarchieverstärkende Organisation beschrieben, hierarchy-
+enhancing (HE) vs. hierarchy-attenuating (HA).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 541
+
+ eingestellt. Dies erklärt, warum Kolleg:innen möglicherweise bereits zu Beginn 
+ihrer beruflichen Karriere sehr ähnliche Interessen, Meinungen und Einstellungen 
+haben.
+
+Die Mitarbeiterauswahl ist die erste Phase, um die Kongruenz persönlicher 
+und organisatorischer Werte festzustellen.49 In Bezug auf Einstellungen von 
+Polizist:innen gibt es international einige Erkenntnisse, die darauf hinweisen, 
+dass zu Beginn der Berufsausbildung punitive, autoritäre und konservative Ein-
+stellungen sowie eine höhere soziale Dominanzorientierung verbreiteter sind als 
+z. B. unter Jurastudent:innen, Staatsanwält:innen und Richter:innen oder in der 
+Allgemeinbevölkerung.50 Jüngere Studien kommen hingegen zu dem Ergeb-
+nis, dass Polizist:innen zu Beginn des Studiums weniger punitiv und autori-
+tär sind als die allgemeine Bevölkerung.51 Da eine höhere Bildung mit einer 
+geringeren Punitivität und einem geringeren Autoritarismus einhergeht52, wird 
+vermutet, dass das seit Langem steigende durchschnittliche Ausbildungsniveau 
+von Polizist:innen angesichts des Akademisierungsprozesses der polizeilichen 
+Ausbildung in Deutschland53 zu veränderten Einstellungen zu Beginn der Berufs-
+laufbahn beiträgt. Auch haben sich das Image der Polizei und die Attraktivität des 
+Polizeiberufs über die Zeit verändert.54
+
+Neben der Selektionsthese zeigen Studien aber auch, dass sich die Ein-
+stellungen und Überzeugungen der Menschen in Abhängigkeit von der Gruppe, 
+der sie beitreten, verändern.55 Der Einzelne passt sich bestimmten Gruppen-
+normen an und verinnerlicht sie in der Folge auf die von der Referenz-
+gruppe geäußerten Rollenanforderungen.56 Dies wird als Sozialisationseffekt 
+beschrieben.
+
+49 Gulbovaite (2017), S. 56.
+50 Bardi et al. (2014); Carlson und Sutton (1975); Cook (1977); Colman und Gorman 
+(1982); Fielding und Fielding (1991); Furnham und Alison (1994); Gatto et al. (2010); 
+Gatto und Dambrun (2012); Marshall und Mansson (1966); Ortet-Fabregat und Perez 
+(1992); Rubinstein (2010).
+51 Ellrich (2012); Kemme et al. (2019); Kemme et al. (2021).
+52 Z. B. Baier et al. (2011); Ellrich (2012); Hartnagel und Templeton (2008); Payne et al. 
+(2004).
+53 Z. B. Dübbers (2016); Frevel und Groß (2016).
+54 Hermanutz und Weigle (2017); Stierle und Lakner (2017).
+55 Haley und Sidanius (2005); für Studierende siehe z. B. Guimond und Palmer (1996).
+56 Guimond (2000), S. 336 ff.
+
+
+
+542 S. Kemme und A. Taefi
+
+Bezüglich der Sozialisation in der Polizei beziehen sich die meisten der bis-
+her durchgeführten Studien (lediglich) auf den Zeitraum der Ausbildung. Bei den 
+recht alten Studien aus dem Ausland zeigen sich aber hinsichtlich einer Hostili-
+tät gegenüber Schwarzen und bei konservativen, dogmatischen und autoritären 
+Einstellungen widersprüchliche Ergebnisse.57 Eine jüngere Studie58 zeigte eine 
+Stabilität von Wertüberzeugungen bei den Polizeianwärter:innen. Die längs-
+schnittliche Untersuchung von Krott, Krott, und Zeitner59 wies eine Reduktion 
+xenophober Einstellungen im ersten Studienjahr, aber einen leichten Anstieg im 
+ersten Jahr der Berufsausübung nach. In Bezug auf die Entwicklung von Ein-
+stellungen während der Berufsausübung liegen nur wenige Studien vor, die 
+längsschnittliche Daten nutzen. In den meisten wurden Polizist:innen mit unter-
+schiedlichem Alter und/oder Berufserfahrungen miteinander verglichen. Sie 
+kamen bezüglich Einstellungen wie Autoritarismus, Punitivität, Islamophobie, 
+Stereotypen und Vorurteilen zu divergierenden Ergebnissen.60 Längsschnittlich 
+erhobene Daten legen aber die Vermutung nahe, dass es mit Berufseintritt einen 
+Praxisschock mit steigenden rigiden Einstellungen geben könnte, der später 
+wieder abnimmt.61
+
+Über Selbstselektion, institutionelle Selektion und Sozialisation während 
+der Ausbildungsphase importieren, bilden und formen sich Einstellungen. 
+Während es über Anwärter:innen und Berufsanfänger:innen wenigstens verein-
+zelt auch neuere längsschnittliche Studien in Deutschland gibt62, mangelt es an 
+Studien zum Bewerber:innenfeld und zu Berufstätigen. Durch Betrachtung von 
+Bewerber:innen lassen sich Erkenntnisse über Persönlichkeitseigenschaften und 
+Mechanismen der Selbstselektion gewinnen. Unter Kontrolle der gewonnenen 
+
+57 Teahan (1975); Brown und Willis (1985); Colman und Gorman (1982).
+58 Bardi et al. (2014).
+59 Krott et al. (2018).
+60 Genz und Lester (1976); Carlson und Sutton (1975); Hageman (1979); Austin et al. 
+(1987); Brown und Willis (1985); Abdul-Rahman et al. (2019); Kemme et al. (2020); 
+Kemme et al. (2021); Simmler et al. (2021).
+61 Fielding und Fielding (1991); Laguna et al. (2010); Krott et al. (2018).
+62 Ein aktuelles Beispiel ist die seit 2013 in NRW durchgeführte Umfelder-Studie, die 
+sich seit März 2019 in der zweiten Erhebungsphase befindet und deren abschließende 
+Befragung etwa 18 Monate nach dem Ende des Studiums durchgeführt werden soll: Zeitner 
+(2020).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 543
+
+Selbstselektionseffekte sollten dann Auswahlmechanismen der Organisation (im 
+Querschnitt) und strukturelle/institutionelle Einflüsse auf die Sozialisation (im 
+Längsschnitt) untersucht werden. Die Erkennung der charakterlichen Eignung 
+bei der Personalauswahl ist zudem zur Vorbeugung der Entwicklung rassistischer 
+oder demokratiefeindlicher Einstellungen von Bedeutung. Dies zeigte die 
+POLNACH-Studie63 in Hamburg, in der der Forschungsstand zu Personal-
+auswahl und Radikalisierungstendenzen überein gebracht wurde. Selbstver-
+ständlich können in diesen Themenbereichen neben quantitativen Erhebungen 
+auch qualitative Ansätze gewinnbringend sein. Die qualitative Längsschnitt-
+forschung64 könnte auch zur Beschreibung von Selektions- und Sozialisations-
+prozessen beitragen und über Ethnografien, Interviews oder Dokumentenanalysen 
+Veränderungen in den Selbstbildern von Polizeiangehörigen, aber auch der 
+Organisation an sich, aufdecken.
+
+3.1.2 E xplizite und implizite Einstellungsmaße und 
+weiterführende Erklärungsansätze
+
+Bisher gibt es keine hiesige Einstellungsstudie in der Polizei, die mit adaptierten 
+Formen etablierter Skalen gearbeitet oder einen erweiterten „Rassismus“-Begriff 
+(bzw. GMF) zugrunde gelegt hat.65 In den USA wurden in der Sozialpsycho-
+logie bereits in den 1980er Jahren explizite Selbsteinschätzungsskalen zur 
+Messung subtiler Formen des Rassismus entwickelt, um sozialer Erwünschtheit zu 
+begegnen bspw. die Modern Racism Scale (MRS)66, die Attitudes Toward Blacks 
+Scale (ATB)67 oder die Subtle Prejudice Scale (SPS)68. Studien zeigten, dass 
+bspw. MRS Rassismus misst und auch rassistisches Verhalten vorhersagen kann.69
+
+Explizite Messungen haben den Nachteil, dass Befragte sozial erwünscht 
+antworten können, aber auch dass sich viele Befragte ihrer Vorurteile selbst 
+nicht bewusst sind.70 Erkenntnisse über Diskriminierungen durch Personen, die 
+
+63 Nettelnstroth et al. (2020).
+64 Thiersch (2020).
+65 Groß, Clasen und Zick im vorliegenden Band.
+66 McConahay et al. (1981); McConahay (1986).
+67 Brigham (1993).
+68 Pettigrew und Meertens (1995, 2001).
+69 Bspw. Cunningham et al. (2001); McConahay (1983, 1986); Monteith (1996); 
+Wittenbrink et al. (1997).
+70 Gaertner und Dovidio (1986); Nisbett und Wilson (1977).
+
+
+
+544 S. Kemme und A. Taefi
+
+ Vorurteile explizit ablehnen, führten dazu, methodisch den verstärkten Einsatz 
+von indirekten Messungen als zwingend erforderlich zu erachten. Es existieren 
+Verfahren71, um evaluative Assoziationen zu ethnischen Kategorien implizit zu 
+messen (bspw. der implizite Assoziationstest (IAT))72. Die Racial Argument Scale 
+(RAS)73 misst Vorurteile indirekt, indem Teilnehmende bewerten, wie gut Argu-
+mente Schlussfolgerungen stützen, die positiv oder negativ gegenüber ethnischen 
+Minderheiten ausfallen.74 Es konnte gezeigt werden, dass die RAS in der Lage 
+ist, sowohl Verhaltensmaße des Rassismus als auch Positivität und Negativi-
+tät gegenüber Schwarzen vorherzusagen, die von anderen Selbstberichtsmaßen 
+des Rassismus nicht gemessen werden.75 Auch muss künftig methodisch 
+präziser zwischen Vorurteilen und Stereotypen differenziert werden.76 In der 
+oben erwähnten experimentellen Studie zum „Shooters’ Bias“ wurden erstmals 
+Stereotypenratings eingesetzt, bei denen von Proband:innen bewertet wird, 
+inwiefern eine Reihe von stereotypen Eigenschaften auf bestimmte vorgegebene 
+Gruppen zutrifft (bspw. „arabische Männer“).77 Dem Bedrohungsstereotyp 
+kommt dabei eine besondere Bedeutung zu. Mit der Weapon Identification 
+Task78 konnte bspw. gezeigt, dass mit einem Schwarzen Gesicht geprimte Teil-
+nehmende vor dem Hintergrund aktueller Rassenstereotype in der Lage sind, eine 
+Waffe genauer und schneller zu identifizieren, als die mit einem weißen Gesicht 
+geprimten Teilnehmenden. Die wahrgenommene Bedrohung durch eine Fremd-
+gruppe wird als kausaler Faktor angeführt, der zu Vorurteilen gegenüber dieser 
+Gruppe führt79, bzw. als Moderator zwischen automatischer Assoziation und 
+Vorurteil80. Der Nachteil impliziter Maße besteht darin, dass sie oft computer-
+basiert und recht komplex zu erheben sind. Zudem zeigte sich, dass ein einzel-
+
+71 Ein Überblick bei Greenwald und Banaji (1995).
+72 Greenwald et al. (1998).
+73 Saucier und Miller (2003); Originalitems mit Schlussfolgerungen über „Whites“ und 
+„African Americans“.
+74 Heitland und Bohner (2011); deutsche Adaptation mit Schlussfolgerungen über 
+„Deutsche“ und „Türken“.
+75 Saucier und Miller (2003).
+76 Devine (1989); Dovidio et al. (1986); Greenwald und Banaji (1995).
+77 Vgl. Abschn. 2.3; Kemme et al. (2020); Essien et al. (im Druck).
+78 Payne (2001); Payne et al. (2002).
+79 Stephan und Stephan (2000); Maio et al. (1994).
+80 Florack et al. (2001).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 545
+
+nes direktes Item mit der Frage, wie sehr Weiße gegenüber Schwarzen bevorzugt 
+werden (One-Item Präferenz Maß), die impliziten Einstellungen der Teil-
+nehmenden am besten vorhersagen konnte.81 Aus dem bisher nicht vollständig 
+geklärten Verhältnis der Maße untereinander und zu Diskriminierungen lässt sich 
+ableiten, dass zukünftige Einstellungsstudien in der Polizei sowohl direkte als 
+auch indirekte validierte Maße integrieren sollten. Zudem sollte auch der „Stereo-
+type Threat“ beachtet werden, wonach die Bedrohung durch die Bestätigung des 
+Stereotyps der „rassistischen Polizist:innen“ paradoxerweise die Neigung zu 
+polizeilichem Zwang erhöhen kann.82
+
+Weiterführende theoretische Ansätze betreffen bspw. motivationale Prozesse, 
+die erklären können, inwieweit Personen Vorurteile unterdrücken bzw. zeigen. 
+Dabei wird zwischen der internalen und der externalen Motivation, Vor-
+urteile zu unterdrücken83 bzw. auszudrücken84 unterschieden. Wenn untersucht 
+wird, inwiefern sich Polizeikräfte hinsichtlich ihrer internalen und externalen 
+Motivation, Vorurteile zu unterdrücken (bzw. zu zeigen), von anderen Stich-
+proben (bspw. andere Berufsgruppen oder der Bevölkerung) unterscheiden, so 
+können wertvolle Hinweise auf die Relevanz von individuellen Faktoren oder 
+institutionellen Normen in der Polizei („Cop Culture“) für die Erklärung von Vor-
+urteilen und Stereotypen gewonnen werden.
+
+Auch kann es im Rahmen polizeilicher Arbeit sinnvoll sein, Einflüsse des geo-
+grafischen bzw. des räumlichen Kontextes auf Stereotype und Vorurteile zu unter-
+suchen. Bisherige Forschung deutet darauf hin, dass Orte nach den jeweiligen 
+dort lebenden sozialen Gruppen charakterisiert werden, sodass bspw. ethnisch 
+diverse Nachbarschaften eher negativ (z. B. heruntergekommen, hohe Kriminali-
+tät), während Nachbarschaften mit mehrheitlich weißen Bewohner:innen eher 
+positiv (z. B. sauber, sicher) bewertet werden.85 Es kann untersucht werden, 
+inwieweit potenzielle Unterschiede in individuellen Vorurteilen und Stereo-
+typen gegenüber ethnischen Minderheiten bei Polizist:innen durch ortsbezogene 
+Stereotypen unter Berücksichtigung der jeweiligen Wohn- und Einsatzorte erklärt 
+werden können.
+
+81 Axt (2017).
+82 Mccarthy et al. (2021).
+83 Plant und Devine (1998); External Motivation Scale (EMS); Internal Motivation Scale 
+(IMS).
+84 Forscher et al. (2015).
+85 Bonam et al. (2016); Bonam et al. (2020); in Deutschland Essien und Rohmann (2021).
+
+
+
+546 S. Kemme und A. Taefi
+
+3.2  Weiterführende empirische Zugänge
+
+Im vorliegenden Band nennt Heitmeyer neben den Hypothesen zur 
+Sozialisation und Selektion auch die Institutionenthese und die gesellschaftliche 
+Normalisierungsthese als künftig relevante Felder für empirische Forschung. 
+Bezüge zwischen Einstellungen, Intergruppenebene und Kultur sowie Hand-
+lungen können mit klassischen soziologischen Methoden der qualitativen 
+Forschung (Interviews und teilnehmenden Beobachtungen bzw. Ethnografien) 
+hergestellt werden. Der institutionelle Rahmen des Handelns von Polizist:innen 
+betrifft vor allem Aspekte der innerorganisationellen Werte, Kulturen und 
+Intergruppendynamiken. Organisations- und wissenssoziologische Perspektiven 
+und Analysen widmen sich z. B. den diskursiven Praxen und der Wissens-
+konstruktion und damit dem Verhältnis vom Individuum zur Organisation und 
+zur Gesellschaft.86 Handlungen, Diskurse, auch Sprechakte der Beteiligten 
+werden so nachzeichen- und interpretierbar.87 Breidenstein et al.88 beschreiben, 
+wie durch die Ethnografie im Gegensatz zu den erfragenden Methoden 
+soziale Praktiken beobachtet und dadurch die Relevanz der Praktiken für die 
+Akteur:innen nachvollzogen werden kann. Der gesellschaftliche Kontext bildet 
+den größten Rahmen, in dem sich auch Einstellungen und Handlungen von 
+einzelnen Polizist:innen wandeln und zu interpretieren sind. Gesellschaftliche 
+Veränderungen, bspw. Normalisierungsprozesse von xenophoben Äußerungen, 
+wie sie durch die Diskursverschiebungen nach dem Erfolg der AfD zu ver-
+zeichnen sind89, können diskursanalytisch nachgezeichnet oder auch in die 
+Analyse von Legitimationsmustern polizeilicher Handlungen miteinbezogen 
+werden. Hier eignen sich neben den genannten teilnehmenden Beobachtungen 
+oder ethnografischen Feldforschungen und Interviews auch Dokumentenana-
+lysen. Die bereits angeführten polizeilichen Pressemeldungen90 sind hierfür 
+geeignete Materialien, aber auch die Produkte der Auftritte der Polizei in den 
+sozialen Medien91 oder Produkte klassischer polizeilicher Öffentlichkeitsarbeit 
+wie Werbefilme und -plakate, Presseinterviews o. Ä. Der Einsatz der qualitativen 
+
+86 Keller (2011).
+87 Koch und Warneken (2012).
+88 Breidenstein et al. (2013), S. 40 f.
+89 Ruhose (2019).
+90 End (2017).
+91 Wegner et al. (2020).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 547
+
+Mehrebenenanalyse92 würde es erlauben, über die Individual- und Intergruppen-
+ebene hinaus, spezifische kulturelle Kontexte miteinzubeziehen. Diese könnten 
+im Falle der Polizei Organisationseinheiten, Dienstzweige, Nachbarschaften, 
+Bundesländer oder gar Staaten sein.
+
+Zuletzt sind mit Blick auf der Handlungsebene zuzuordnenden Analysen 
+auch wieder quantitative Erhebungsmethoden zu nennen. Möglich wäre es, eine 
+bevölkerungsrepräsentative Viktimisierungsstudie93 zur Erhebung der Verbreitung 
+von diskriminierenden oder gewalthaltigen Polizeikontakten durchzuführen. Um 
+eine ausreichend große Zahl an Migrant:innen zu erreichen, müssten die Frage-
+bögen allerdings in verschiedenen Sprachen erstellt werden. Eine groß angelegte 
+bevölkerungsrepräsentative Befragung würde mit ihren Erkenntnissen die nach 
+ihrer Natur selektiven Erhebungen von zivilgesellschaftlichen Gruppen und das 
+im Projekt KVIAPOL rekrutierte Conveniance Sample ideal ergänzen.
+
+Neben den bereits gewählten Herangehensweisen sollten auch Aktenana-
+lysen94 von Ermittlungs- bzw. Strafverfahren und von Disziplinarverfahren 
+gegen Polizist:innen in Betracht gezogen werden. Baier und Pfeiffer95 schlagen 
+bspw. vor, sich Erkenntnisse aus der Kriminalstatistik zunutze zu machen, um 
+eine Fragebogenerhebung mit einer Zufallsstichprobe von ausländischen und 
+deutschen Tatverdächtigen und Opfern versuchter, vorsätzlicher Tötungsdelikte 
+und gefährlicher Körperverletzungen in Verbindung mit Aktenanalysen solcher 
+Fälle durchzuführen.
+
+Neue methodische Zugänge eröffnen sich derzeit durch die Nutzung von 
+Bodycams. Voigt et al.96 analysierten in den USA routinemäßige aufgezeichnete 
+Verkehrskontrollen von Schwarzen und weißen Autofahrer:innen. Neu ent-
+wickelte computergestützte linguistische Methoden extrahierten den Grad des 
+Respekts der Polizist:innen automatisch aus Transkripten und konnten so nach-
+weisen, dass sich die Kommunikation der Polizist:innen mit den Schwarzen 
+Fahrern durchweg weniger respektvoll gestaltete. Auch wenn solche Verkehrs-
+daten und Bodycam-Aufzeichnungen bisher in Deutschland nicht zur Verfügung 
+stehen, sind dies gute Beispiele dafür, wie tatsächlich valide empirische Erkennt-
+nisse auf der Handlungsebene gewonnen werden können.
+
+92 Hummrich und Kramer (2018).
+93 So auch der Vorschlag von Baier und Pfeiffer (2021).
+94 Leuschner und Hüneke (2016).
+95 Baier und Pfeiffer (2021).
+96 Voigt et al. (2017): Insgesamt wurden 981 von 1440 Kontrollen (68,1 %, 245 Beamte), 
+die im Monat April 2014 im Oakland Police Department stattfanden, analysiert.
+
+
+
+548 S. Kemme und A. Taefi
+
+4 H erausforderungen für empirische Studien in der 
+Polizei
+
+Zukünftig stellen sich verschiedene Herausforderungen sowohl im Bereich der 
+anzuwendenden Methoden als auch im Bereich des Feldzugangs, um sich gruppen-
+bezogen-menschenfeindlichen Einstellungen, Kulturen und Handlungen in der 
+Polizei zu nähern. Mit dem vorherigen Abriss sollte aufgezeigt werden, dass bereits 
+einige und methodisch vielfältige Anstrengungen unternommen wurden, um 
+empirische Erkenntnisse zu generieren. Nur leider ist der Großteil der deutschen 
+Arbeiten als veraltet zu bezeichnen. Theorien sowie etablierte Skalen wurden in 
+den Einstellungsstudien der 1990er Jahren weitgehend ignoriert. Man fokussierte 
+einseitig auf wenig definierte Konzepte von „Fremden-“ oder „Ausländerfeind-
+lichkeit“. Erneut verzichtete 2019 die Studie in Hessen darauf97, sich von Theorien 
+leiten zu lassen oder etablierte Skalen einzusetzen, die einen Vergleich mit den 
+existierenden Bevölkerungsbefragungen ermöglicht hätten. Die Polizei ist also 
+nicht nur hinsichtlich dessen, was im derzeitigen öffentlichen Diskurs von Interesse 
+ist, nämlich der Frage, ob und in welchem Ausmaß diskriminierende Handlungs-
+praxen in der deutschen Polizei vorkommen, als „Black Box“ zu bezeichnen, 
+sondern ebenfalls auf der Einstellungsebene. Neuere Arbeiten sollten eine weite 
+Bedeutung des Konzepts „Rassismus“ zugrunde legen, um über die Fokussierung 
+auf die Ethnie hinaus menschenfeindliche Haltungen und Handlungen in ihrer 
+Gesamtheit in den Blick nehmen zu können. Die Einstellungs- und Intergruppen-
+ebene, die in älteren Arbeiten oftmals nicht hinreichend hypothesengeleitet unter-
+sucht wurde, birgt Potenzial für zukünftige Studien. Forschende in diesem Feld 
+sollten interdisziplinär zusammenarbeiten; insbesondere Erkenntnisse der sozial-
+psychologischen Vorurteilsforschung sind für „Rassismus“-Studien in der Polizei 
+von großer Bedeutung. Fragebögen sind unter Verwendung validierter Skalen zu 
+entwickeln. Darüber hinaus versprechen experimentalpsychologische Zugänge 
+einen hohen Mehrwert in diesem Bereich. Ziel der „Rassismus“-Forschung in der 
+Polizei sollte sein, anschlussfähig an den derzeitigen Stand der Vorurteilsforschung 
+zu werden. Parallel können auch methodische Zugänge auf der Handlungsebene in 
+Betracht gezogen werden, die jedoch überwiegend Auskunft über das Ausmaß dis-
+kriminierender Handlungen von Polizist:innen geben können. Erkenntnisse über 
+zugrundeliegende erklärende Prozesse sind am besten über methodische Zugänge 
+auf der Einstellungs- und der Intergruppenebene zu generieren.
+
+97 HMdIS (2020).
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 549
+
+Eine große Herausforderung liegt in der – offensichtlich empfundenen – 
+politischen Sprengkraft einer wissenschaftlichen Analyse von potenziell (!) 
+die Polizei kritisierenden Forschungsergebnissen. Bereits in den 1990er Jahren 
+wurde bspw. die Hamburger Polizeikommission, die in Folge des Hamburger 
+Polizeiskandals gebildet wurde, im öffentlichen Diskurs durch (konservative) 
+politische Parteien, Medien und Gewerkschaften kritisiert, ja sogar delegitimiert 
+und diffamiert.98 Selbiges wiederholte sich auch im Jahr 2010, als in einer Studie 
+des Kriminologischen Forschungsinstituts Niedersachsen Gewalt gegen Polizei-
+beamte untersucht werden sollte und diverse Bundesländer eine Beteiligung 
+an der Studie zurückgezogen haben, da unterstellt wurde, dass einige Fragen 
+im Fragebogen eine Täter-Opfer-Umkehr implizierten.99 Das aktuelle Ringen 
+um eine Studie zur Verbreitung von rassistischen Einstellungen und rassistisch 
+motiviertem Handeln in der Polizei100 ist von denselben Abwehrmechanismen 
+geprägt, die Jaschke101 vor nunmehr über 20 Jahren beschrieb. Aus wissenschaft-
+licher Sicht waren und sind diese Abwehrreflexe unverständlich und führen dazu, 
+dass das Forschen am Vorhandensein von potenziell unerwünschten, disziplinar-
+rechtlich oder gar strafrechtlich relevanten Einstellungen und Verhaltensweisen 
+und deren Entstehungszusammenhänge zu einem im wissenschaftlichen Sinne 
+„heiklen“ Themenbereich wird. Damit wird der Zugang zum Feld und das 
+Erheben von „echten“, nicht von sozialer Erwünschtheit verzerrten Daten nur 
+noch sehr schwer möglich. Dies beschreiben auch Baier und Pfeiffer102, die sich 
+in einer aktuellen Publikation mit methodischen Schwierigkeiten der Forschung 
+in der Polizei und von potenzieller Polizeigewalt befassen. Zusätzlich erschweren 
+Innenminister:innen, Polizeipräsident:innen, Personalrät:innen und Gewerk-
+schaften als Gatekeeper:innen den Forschenden den Zugang zum Feld.
+
+98 So berichteten die Welt und die Bild über den Bericht der Kommission als „Rufmord 
+an Polizisten“; die Hamburger CDU bezeichnete sie als „Fleischgewordenes Misstrauen“ 
+gegenüber der Polizei und äußerte die These des Generalverdachts (Gössner 2000), S. 38.
+99 BT-Drs. 17/641.
+100 Siehe z. B. Kliss (2020).
+101 Jaschke (1998).
+102 Baier und Pfeiffer (2021).
+
+
+
+550 S. Kemme und A. Taefi
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., & Singelnstein, T. (2019). Die empirische Unter-
+suchung von übermäßiger Polizeigewalt in Deutschland. Methodik, Umsetzung und 
+Herausforderungen des Forschungsprojekts KviAPol. Kriminologie – Das Online 
+Journal, 1(2), S. 231.
+
+Abdul-Rahman, L., Espín Grau, H., & Singelnstein, T. (2020). Polizeiliche Gewalt-
+anwendungen aus Sicht der Betroffenen. Zwischenbericht zum Forschungsprojekt 
+„Körperverletzung im Amt durch Polizeibeamt*innen“ (KviAPol). 2. Aufl. Ruhr-Uni-
+versität Bochum. https://kviapol.rub.de/images/pdf/KviAPol_Zwischenbericht_2_Auf-
+lage.pdf. Zugegriffen: 18. Juli 2022.
+
+Austin, T. L., Hale, D. C., & Ramsey, L. J. (1987). The Effect of Layoff on Police 
+Authoritarianism. Criminal Justice and Behavior, 14(2), S. 194.
+
+Axt, J. R. (2017). The best way to measure explicit racial attitudes is to ask about 
+them. Social Psychological and Personality Science 8(9), S. 896. https://doi.
+org/10.1177/1948550617728995.
+
+Backes, O., Biek, T., Dollase, R., Heitmeyer, W., Meyer, J., Spona, D., & Wilkening, F. 
+(1997). Risikokonstellationen im Polizeialltag. Ergebnisse einer mehrperspektivischen 
+Untersuchung zum Verhältnis von Polizei und Fremden in Konfliktsituationen. Uni-
+versität Bielefeld: Institut für interdisziplinäre Konflikt- und Gewaltforschung.
+
+Baier, D., & Pfeiffer, C. (2021). Rassismus in der Polizei: Wege und Irrwege der wissen-
+schaftlichen Forschung. Kriminalistik, 75(1), S. 3.
+
+Baier, D., Kemme, S., Hanslmaier, M., Doering, B., Rehbein, F., & Pfeiffer, C. (2011). 
+Kriminalitätsfurcht, Strafbedürfnisse und wahrgenommene Kriminalitätsentwicklung. 
+Ergebnisse von bevölkerungsrepräsentativen Befragungen aus den Jahren 2004, 2006 
+und 2010 (KFN-Forschungsbericht Nr. 117). Hannover: KFN.
+
+Bardi, A., Buchanan, K. E., Goodwin, R., Slabu, L., & Robinson, M. (2014). Value stability 
+and change during self-chosen life transitions: Self-selection versus socialization 
+effects. Journal of Personality and Social Psychology, 106(1), S. 131.
+
+Behr, R. (2000). Cop Culture und Polizeikultur: Von den Schwierigkeiten einer Corporate 
+Identity der Polizei. In K. Liebl & T. Ohlemacher (Hrsg.), Empirische Polizeiforschung. 
+Interdisziplinäre Perspektiven in einem sich entwickelnden Forschungsfeld (S. 12–27). 
+Herbolzheim: Centaurus-Verl.-Ges.
+
+Behr, R. (2017). »Wir ermitteln in alle Richtungen« – Polizeiliche Verdachtsschöpfung 
+zwischen Bauchgefühl, Diskriminierung und hierarchischer Wissensproduktion. In B. 
+Frevel et al. (Hrsg.), Facetten der Polizei- und Kriminalitätsforschung – Festschrift für 
+Karlhans Liebl (S. 82–98). Frankfurt: Verlag für Polizeiwissenschaft.
+
+Bonam, C. M., Bergsieker, H. B., & Eberhardt, J. L. (2016). Journal of Experimental 
+Psychology: General, 145(11), S. 1561. https://doi.org/10.1037/xge0000226.
+
+Bonam, C., Yantis, C., & Taylor, V. J. (2020). Invisible middle-class Black space: 
+Asymmetrical person and space stereotyping at the race–class nexus. Group Processes 
+& Intergroup Relations, 23(1), S. 24. https://doi.org/10.1177/1368430218784189.
+
+Bornewasser, M. (1996). Feindselig oder überfordert? Soziale und strukturelle Belastungen 
+von Polizeibeamtinnen und -beamten im Umgang mit Fremden. In Polizei-Führungs-
+akademie (Hrsg.), Fremdenfeindlichkeit in der Polizei? Ergebnisse einer wissenschaft-
+lichen Studie (S. 16–55). Lübeck: Schmidt-Römhild.
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 551
+
+Bornewasser, M. (2009). Ethnische Vielfalt im eigenen Land: Eine nicht nur sprachliche 
+Herausforderung im Innen- und Außenverhältnis der Polizei. In K. Liebl (Hrsg.), Polizei 
+und Fremde – Fremde in der Polizei (S. 13–44). Wiesbaden: Springer VS.
+
+Bosold, C. (2006). Polizeiliche Übergriffe. Aspekte der Identität als Erklärungsfaktoren 
+polizeilicher Übergriffsintentionen. Baden-Baden: Nomos.
+
+Breidenstein, G., Hirschauer, S., Kalthoff, H., & Nieswand, B. (2013). Ethnografie. Die 
+Praxis der Feldforschung. Konstanz/München: UVK.
+
+Breiholz, J. & Neß, O. (1995). Hamburger Polizeiskandal: Scheinhinrichtung im Hafen? 
+ARD Panorama. https://daserste.ndr.de/panorama/archiv/1995/Panorama-vom-21-
+Dezember-1995,panorama811.html. Zugegriffen: 18. Juli 2022.
+
+Brigham, J. C. (1993). College students’ racial attitudes. Journal of Applied Social 
+Psychology, 23(23), S. 1933.
+
+Brown, L., & Willis, A. (1985). Authoritarianism in British police recruits: Importation, 
+socialization or myth? Journal of Occupational Psychology, 58(2), S. 97.
+
+Bruce-Jones, E. (2012). Germany’s Stephen Lawrence. How might Germany learn from the 
+UK’s lessons on institutional racism? Race & Class, 54(2), S. 82.
+
+Carlson, H. M., & Sutton, M. S. (1975). The Effects of Different Police Roles on Attitudes 
+and Values. Journal of Psychology, 91(1), S. 57.
+
+Colman, A. M., & Gorman, L. P. (1982). Conservatism, Dogmatism, and Authoritarianism 
+in British Police Officers. Sociology, 16(1), S. 1.
+
+Cook, P. M. (1977). Empirical survey of police attitudes. Police Review, 85, S. 1042 [Zitiert 
+nach Coleman und Gordon 1982].
+
+Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2002). The police officer’s dilemma: 
+Using ethnicity to disambiguate potentially threatening individuals. Journal of 
+Personality and Social Psychology, 83(6), S. 1314.
+
+Correll, J., Park, B., Judd, C. M., Wittenbrink, B., Sadler, M. S., & Keesee, T. (2007a). 
+Across the thin blue line: Police officers and racial bias in the decision to shoot. Journal 
+of Personality and Social Psychology, 92(6), S. 1006.
+
+Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2007b). The influence of stereotypes 
+on decisions to shoot. European Journal of Social Psychology, 37(6), S. 1102.
+
+Correll, J., Hudson, S. M., Guillermo, S. & Ma, D. S. (2014). The Police Officer’s 
+Dilemma: A Decade of Research on Racial Bias in the Decision to Shoot. Social and 
+Personality Psychology Compass, 8(5), S. 201.
+
+Cunningham, W. A., Preacher, K. J., & Banaji, M. R. (2001). Implicit attitude measures: 
+Consistency, stability, and convergent validity. Psychological Science, 12(2), S. 163.
+
+Dangelmaier, T., & Brauer, E. (2020). Selektive Polizeiarbeit–Raumordnung und deren 
+Einfluss auf das polizeiliche Handeln. In D. Hunold & A. Ruch (Hrsg.), Polizeiarbeit 
+zwischen Praxishandeln und Rechtsordnung (S. 213–233). Wiesbaden: Springer.
+
+Decker, C., & Kersten, J. (2015). Minority police officers’ contribution to police-ethnic 
+minority conflict management. European Journal of Policing Studies, 2(4), S. 461.
+
+Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled 
+components. Journal of Personality and Social Psychology, 56(1), S. 5.
+
+Dovidio, J. F, Evans, N. E., & Tyler, R. B. (1986). Racial stereotypes: The contents of their 
+cognitive representations. Journal of Experimental Social Psychology, 22(1), S. 22.
+
+Dovidio, J., Kawakami, K., Johnson, C., Johnson, B., & Howard, A. (1997). On the nature 
+of prejudice: Automatic and controlled processes. Journal of Experimental Social 
+Psychology, 33(5), S. 510–540.
+
+
+
+552 S. Kemme und A. Taefi
+
+Dübbers, C. (2016). Veränderung der Kultur der Polizei durch den Akademisierungs-
+prozess. Polizei und Wissenschaft, 17(2), S. 25.
+
+Eckert, R., Jungbauer, J., & Willems, H. (1998). Polizei und Fremde: Belastungssituationen 
+und die Genese von Feindbildern und Übergriffen. In R. Eckert (Hrsg.), Wiederkehr 
+des „Volksgeistes“. Ethnizität, Konflikt und politische Bewältigung (S. 215–227). Wies-
+baden: VS Verlag für Sozialwissenschaften.
+
+Ellrich, K. (2012). Punitivität bei Polizeibeamten: Ein Vergleich mit der Allgemein-
+bevölkerung In T. Ohlemacher & J.-T. Werner (Hrsg.), Polizei und Gewalt: 
+Interdisziplinäre Analysen zu Gewalt gegen und durch Polizeibeamte (S. 83–105). 
+Frankfurt a. M.: Verlag für Polizeiwissenschaft.
+
+Ellrich, K., & Baier, D. (2015). Gewaltausübung durch Polizeibeamte – Ausmaß und Ein-
+flussfaktoren. Rechtspsychologie, 1(1), S. 22.
+
+End, M. (2017). Antiziganistische Ermittlungsansätze in Polizei- und Sicherheitsbehörden. 
+Kurzexpertise im Auftrag des Zentralrats Deutscher Sinti und Roma. https://zentralrat.
+sintiundroma.de/kurzexpertise-antiziganistische-ermittlungs-ansaetze-in-polizei-und-
+sicherheitsbehoerden/. Zugegriffen: 18. Juli 2022.
+
+Enke, T., & Asmus, H. J. (2016). Resümee und weiterführende Überlegungen. In dies. 
+(Hrsg.), Der Umgang der Polizei mit migrantischen Opfern (S. 169–196). Wiesbaden: 
+Springer VS. https://doi.org/10.1007/978-3-658-10440-5_8.
+
+Essien, I., & Rohmann, A. (2021). Ethnic disparities in described neighborhood 
+composition elicit large differences in associated stereotype content and valence. 
+Unveröffentlichtes Manuskript.
+
+Essien, I., Stelter, M., Rohmann, A., Degner, J., & Kemme, S. (im Druck). Shooter bias, 
+ste-reotypes, dehumanization, and social dominance orientation in German police. Acta 
+Psychologica.
+
+Fachhochschule für öffentliche Verwaltung Rheinland-Pfalz (1994). Projektstudie [Zitiert 
+nach Jaschke 1998].
+
+Fielding, N. G., & Fielding, J. (1991). Police Attitudes to Crime and Punishment – 
+Certainties and Dilemmas. British Journal of Criminology, 31(1), S. 39.
+
+Florack, A., Scarabis, M., & Bless, H. (2001). Der Einfluß wahrgenommener Bedrohung 
+auf die Nutzung automatischer Assoziationen bei der Personenbeurteilung. Zeitschrift 
+für Sozialpsychologie, 32(4), S. 249.
+
+Forscher, P. S., Cox, W. T. L., Graetz, N., & Devine, P. G. (2015). The motivation to 
+express prejudice. Journal of Personality and Social Psychology, 109(5), S. 791. https://
+doi.org/10.1037/pspi0000030.
+
+Frevel, B., & Groß, H. (2016). Empirische Polizeiforschung XIX: Bologna und die Folgen 
+für die Polizeiausbildung. Frankfurt a. M.: Verlag für Polizeiwissenschaft.
+
+Furnham, A., & Alison, L. (1994). Theories of crime, attitudes to punishment and juror 
+bias amongst police, offenders and the general public. Personality and Individual 
+Differences, 17(1), S. 35.
+
+Gaertner, S. L., & Dovidio, J. F. (1986). The aversive form of racism. In dies. (Hrsg.), 
+Prejudice, discrimination, and racism (S. 61–89). New York: Academic Press.
+
+Gatto, J., Dambrun, M., Kerbrat, C., & De Oliveira, P. (2010). Prejudice in the police: On 
+the processes underlying the effects of selection and group socialisation. European 
+Journal of Social Psychology, 40(2), S. 252. doi:https://doi.org/10.1002/ejsp.617.
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 553
+
+Gatto, J., & Dambrun, M. (2012). Authoritarianism, Social Dominance, and Prejudice 
+Among Junior Police Officers. The Role of the Normative Context. Social Psychology, 
+43(2), S. 61.
+
+Gauthier, J., & Keller, C. (2010). Kontrollpolitik und Konflikteskalation in benachteiligten 
+Stadtteilen. Ein deutsch-französischer Vergleich. In H.-G. Soeffner (Hrsg.), Unsichere 
+Zeiten. Herausforderungen gesellschaftlicher Transformationen. Verhandlungen der 
+DGS in Jena 2008. Wiesbaden: VS-Verlag. CD-ROM.
+
+Genz, J. L., & Lester, D. (1976). Authoritarianism in policemen as a function of 
+experience. Journal of Police Science and Administration, 4(1), S. 9–13.
+
+Gössner, R. (2000). Die Hamburger „Polizeikommission“. Bürgerrechte & Polizei/CILIP, 
+67(3), S. 34. https://archiv.cilip.de/Hefte/CILIP_067.pdf. Zugegriffen: 18. Juli 2022.
+
+Greenwald, A. G., & Banaji, M. R. (1995). Implicit social cognition: Attitudes, self-esteem, 
+and stereotypes. Psychological Review, 102(1), S. 4. https://doi.org/10.1037/0033-
+295X.102.1.4.
+
+Greenwald, A. G., McGhee, D. E. & Schwartz, J. L. K. (1998). Measuring individual 
+differences in implicit cognition: The implicit association test. Journal of Personality 
+and Social Psychology, 74(6), S. 1464.
+
+Guimond, S. (2000). Group socialization and prejudice: the social transmission of 
+intergroup attitudes and beliefs. European Journal of Social Psychology, 30(3), S. 335.
+
+Guimond S., & Palmer D. L. (1996). The political socialization of commerce and social 
+science students: epistemic authority and attitude change. Journal of Applied Social 
+Psychology, 26(22), S. 1985.
+
+Gulbovaite, E. (2017). Strengthening the Congruence of Personal and Organizational 
+Values. In J. Vveinhardt (Hrsg.), Congruence of Personal and Organizational Values (S. 
+43–61). IntechOpen.
+
+Hageman, M. J. (1979). Who joins the force for what reasons: An argument for ‘the new 
+breed’. Journal of Police Science and Administration, 7(2), S. 206.
+
+Haley, H., & Sidanius, J. (2005). Person-organization congruence and the maintenance of 
+group-based social hierarchy: A social dominance perspective. Group Processes and 
+Inter-group Relations, 8(2), S. 187.
+
+Hartnagel, T. F., & Templeton, L. J. (2008). Perceptions, Emotions and Experiences of 
+Crime: Effects on Attitudes Toward Punishment in a Canadian Sample. In H. Kury 
+(Hrsg.), Fear of Crime – Punitivity: New Developments in Theory and Research (S. 
+349–370). Bochum: Universitätsverlag Dr. N. Brockmeyer.
+
+Heitland, K., & Bohner, G. (2011). An indirect paper-and-pencil measure of prejudice: A 
+German version of the Racial Argument Scale. Current Psychology, 30(1), S. 1.
+
+Heitmeyer, W. (2005). Gruppenbezogene Menschenfeindlichkeit. Die theoretische 
+Konzeption und empirische Ergebnisse aus 2002, 2003 und 2004. In ders. (Hrsg.), 
+Deutsche Zustände, Folge 3 (S. 13–34). Frankfurt: Suhrkamp.
+
+Hermanutz, M., & Weigle, L. (2017). Das Image der Polizei, die Dienstleistungsqualität 
+und die Zufriedenheit der Bevölkerung – Zusammenhänge und Möglichkeiten zur Ver-
+besserung. In J. Stierle, D. Wehe & H. Siller (Hrsg.), Handbuch Polizeimanagement (S. 
+945–962). Wiesbaden: Springer Gabler.
+
+Herrnkind, M. (2014). „Filzen Sie die üblichen Verdächtigen!“ oder: Racial Profiling in 
+Deutschland. Polizei & Wissenschaft, 15(3), S. 35.
+
+
+
+554 S. Kemme und A. Taefi
+
+HMdIS (Hessisches Ministerium des Inneren und für Sport) (2020). Polizeiliche Alltags-
+erfahrungen – Herausforderungen und Erfordernisse einer lernenden Organisation. 
+Übersicht der Häufigkeiten. https://innen.hessen.de/sites/default/files/media/hmdis/
+polizeistudie_2020_-_erste_ergebnisse.pdf. Zugegriffen: 15. Juli 2021.
+
+Hummrich, M., & Kramer, R. T. (2018). „Qualitative Mehrebenenanalyse“ und Tri-
+angulation – Zur Methodologie von Mehrebenendesigns in der qualitativen Sozial-
+forschung. In J. Ecarius & & I. Miethe (Hrsg.), Methodentriangulation in der 
+qualitativen Bildungsforschung. Opladen: Verlag Barbara Budrich.
+
+Hunold, D. (2009). Polizeiarbeit im Einwanderungsland Deutschland. Homogeni-
+tät und Diversität im deutschen Polizeialltag. In R. Behr & T. Ohlemacher (Hrsg.), 
+Offene Grenzen – Polizieren in der Sicherheitsarchitektur einer postterritorialen Welt 
+(S. 27–44). Frankfurt a. M: Verlag für Polizeiwissenschaft.
+
+Hunold, D. (2015). Polizei im Revier: Polizeiliche Handlungspraxis gegenüber Jugend-
+lichen in der multiethnischen Stadt. Berlin: Duncker & Humblot.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei: Zum Stand der Forschung. 
+APuZ – Aus Politik und Zeitgeschichte, 68(42–44), S. 27. https://www.bpb.de/apuz/anti-
+rassismus-2020/316766/rassismus-und-polizei-zum-stand-der-forschung. Zugegriffen: 
+18. Juli 2022.
+
+Jaschke, H.-G. (1997). Öffentliche Sicherheit im Kulturkonflikt. Zur Entwicklung der 
+städtischen Schutzpolizei in der multikulturellen Gesellschaft. Frankfurt am Main: 
+Campus Verlag.
+
+Jaschke, H.-G. (1998). Ausländerfeindlichkeit in der Berliner Polizei? Beiträge aus dem FB 
+3 der Fachhochschule für Verwaltung und Rechtspflege.
+
+Kemme, S., Abdul-Rahman, L., & Hanslmaier, M. (2019). Effects of Selection and 
+Socialization within the police force and its impact on punitiveness. 75th Annual 
+meeting of the American Society of Criminology, San Francisco (13.‒16.11.2019).
+
+Kemme, S., Essien, I. & Stelter, M. (2016). Police and Muslim stereotypes: A first 
+replication of the Police Officer’s Dilemma in Germany. 16th Annual Conference of the 
+European Society of Criminology, Münster (21.‒24.09.2016).
+
+Kemme, S., Essien, I., & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? 
+Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereo-
+typen gegenüber Muslimen. Monatsschrift für Kriminologie und Strafrechtsreform, 
+103(2), S. 129.
+
+Kemme, S., Hanslmaier, M., & Abdul-Rahman, L. (2021). Effects of selection and 
+socialization within the police force on officers’ attitudes toward punishment and 
+authoritarianism: A comparison between police students and the general population. 
+Police Practice and Research. https://doi.org/10.1080/15614263.2021.1921582
+
+Keller, R. (2011). Diskursforschung. Eine Einführung für SozialwissenschaftlerInnen. 
+4. Aufl. Wiesbaden: Springer.
+
+Kliss, J. (2020). Debatte über Rassismus. Offenbar Einigung auf Polizeistudie. https://
+www.tagesschau.de/inland/rassismusstudie-polizei-scholz-103.html. Zugegriffen: 30. 
+August 2021.
+
+Koch, G., & Warneken, B. J. (2012). Wissensarbeit und Arbeitswissen: zur Ethnografie des 
+kognitiven Kapitalismus. Eine Einleitung. In dies. (Hrsg.), Wissensarbeit und Arbeits-
+wissen: zur Ethnografie des kognitiven Kapitalismus (S. 11–27). Frankfurt a. M.: 
+Campus.
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 555
+
+KOP (Kampagne für Opfer rassistischer Polizeigewalt) (2016). Alltäglicher Ausnahme-
+zustand: Institutioneller Rassismus in deutschen Strafverfolgungsbehörden. Münster: 
+edition assemblage.
+
+KOP (Kampagne für Opfer rassistischer Polizeigewalt) (2020). Chronik rassistisch 
+motivierter Polizeivorfälle für Berlin von 2000 bis 2021. https://kop-berlin.de/files/
+documents/chronik.pdf. Zugegriffen: 18. Juli 2022.
+
+Kopke, C. (2019). Polizei und Rechtsextremismus. Aus Politik und Zeitgeschichte, 67(21–
+23), S. 36.
+
+Krott, N. R., Krott, E., & Zeitner, I. (2018). Xenophobic attitudes in German police 
+officers: A longitudinal investigation from professional education to practice. Inter-
+national Journal of Police Science and Management, 20(3), S. 174.
+
+Laguna, L., Linn, A., Ward, K., & Rupslaukyte, R. (2010). An Examination of 
+Authoritarian Personality Traits among Police Officers: The Role of Experience. 
+Journal of Police and Criminal Psychology, 25(2), S. 99.
+
+Leuschner, F., & Hüneke, A. (2016). Möglichkeiten und Grenzen der Aktenanalyse als 
+zentrale Methode der empirisch-kriminologischen Forschung. Monatsschrift für 
+Kriminologie und Strafrechtsreform, 99(6), S. 464.
+
+Lindner, M. (2001). Fremdenfeindlichkeit, Rechtsextremismus und Gewalt: Meinungen und 
+Einstellungen von Auszubildenden der Polizei des Landes Nordrhein-Westfalen: Ergeb-
+nisse einer empirischen Studie (Bd. 1). Hamburg: Verlag Dr. Kovač.
+
+Louw, E., Trabold, L., & Mohrfeldt, J. (2016). Wenn alles anders bleibt – Psychosoziale 
+Folgen rassistischer Polizeigewalt. In Kampagne für Opfer rassistischer Polizeigewalt 
+(Hrsg.), Alltäglicher Ausnahmezustand: Institutioneller Rassismus in deutschen Straf-
+verfolgungsbehörden (S. 30–47). Münster: edition assemblage.
+
+Maibach, G. (1996). Polizisten und Gewalt. Innenansichten aus dem Polizeialltag. 
+Hamburg: Rowohlt Taschenbuch Verlag.
+
+Maio, G. R., Esses, V. M., & Bell, D. W. (1994). The formation of attitudes toward new 
+immigrant groups. Journal of Applied Social Psychology, 24(19), S. 1762.
+
+Marshall, J., & Mansson, H. (1966). Punitiveness, Recall, and the Police. Journal of 
+Research in Crime and Delinquency, 3(2), S. 129.
+
+Mccarthy, M., Trinkner, R., & Atiba Goff, P. (2021). The Threat of Appearing Racist: 
+Stereotype Threat and Support for Coercion Among Australian Police Officers. 
+Criminal Justice and Behavior, 48(6), S. 776.
+
+McConahay, J. B. (1983). Modern racism and modern discrimination: The effects of race, 
+racial attitudes, and context on simulated hiring decisions. Personality and Social 
+Psychology Bulletin, 9(4), S. 551.
+
+McConahay, J. B. (1986). Modern racism, ambivalence and the modern racism scale. In J. 
+F. Dovidio & S. L. Gaertner (Hrsg.), Prejudice, discrimination and racism (S. 91–127). 
+Orlando, FL: Academic Press.
+
+McConahay, J. B., Hardee, B. B., & Batts, V. (1981). Has racism declined in America? It 
+depends on who is asking and what is asked. Journal of Conflict Resolutions, 25(4), S. 
+563.
+
+Mescher, H. (2008). Policing and Islamophobia in Germany: The role of workplace 
+experience. International Journal of Conflict and Violence, 2(1), S. 138.
+
+Mescher, H. (2012). Policing and Muslim Communities in Germany: Structures, 
+Workplace Cultures and the Threat of Islamophobia. https://helda.helsinki.fi/bitstream/
+
+
+
+556 S. Kemme und A. Taefi
+
+handle/10138/32364/011_07_mescher.pdf?sequence=1&isAllowed=y. Zugegriffen: 18. 
+Juli 2022.
+
+Mletzko, M., & Weins, C. (1999). Polizei und Fremdenfeindlichkeit – Ergebnisse einer 
+Befragung in einer westdeutschen Polizeidirektion. Monatsschrift für Kriminologie und 
+Strafrechtsreform, 82(2), S. 77.
+
+Monteith, M. J. (1996). Contemporary forms of prejudice-related conflict: In search of a 
+nutshell. Personality and Social Psychology Bulletin, 22(5), S. 461.
+
+Nettelnstroth, W., Martens, A., & Binder, H. (2020). Nachwuchsgewinnung in der Polizei: 
+Das polizeiliche Anforderungsprofil für das Einstiegsamt und aussagekräftige Verfahren 
+der Personalauswahl. Frankfurt a. M.: Verlag für Polizeiwissenschaft.
+
+Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on 
+mental processes. Psychological Review, 84(3), S. 231. https://doi.org/10.1037/0033-
+295X.84.3.231.
+
+Oberwittler, D., & Schwarzenbach, A. (2014). Polizei und Jugendliche in multiethnischen 
+Gesellschaften: Ergebnisse einer vergleichenden Jugendbefragung in deutschen und 
+französischen Großstädten. SIAK-Journal – Zeitschrift für Polizeiwissenschaft und 
+Polizeiliche Praxis, 10(4), S. 54.
+
+Ohlemacher, T., Bosold, C., Fiedler, A., Lauterbach, O., & Zitz, A. (2002). Polizei im 
+Wandel: Abschlussbericht der standardisierten Befragung der Vollzugsbeamtinnen und 
+-beamten der niedersächsischen Polizei 2001 sowie erste Ergebnisse der Gruppendis-
+kussionen 2002. KFN-Forschungsberichte Nr. 87. Hannover: KFN.
+
+Ortet-Fabregat, G., & Perez, J. (1992). An Assessment of the Attitudes towards Crime 
+among Professionals in the Criminal Justice System. British Journal of Criminology, 
+32(2), S. 193.
+
+Payne, B. K. (2001). Prejudice and perception: The role of automatic and controlled 
+processes in misperceiving a weapon. Journal of Personality and Social Psychology, 
+81(2), S. 181. https://doi.org/10.1037/0022-3514.81.2.181.
+
+Payne, B. K., Lambert, A. J., & Jacoby, L. L. (2002). Best laid plans: Effects of goals on 
+accessibility bias and cognitive control in race-based misperceptions of weapons. 
+Journal of Experimental Social Psychology, 38(4), S. 384. https://doi.org/10.1016/
+S0022-1031%2802%2900006-9.
+
+Payne, B. K., Gainey, R. R., Triplett, R. A., & Danner, M. J. E. (2004). What drives 
+punitive beliefs? Demographie characteristics and justification for sentencing. Journal 
+of Criminal Justice, 32(3), S. 195.
+
+Pettigrew, T. F., & Meertens, R. W. (1995). Subtle and blatant prejudice in Western Europe. 
+European Journal of Social Psychology, 25(1), S. 57.
+
+Pettigrew, T. F., & Meertens, R. W. (2001). In defence of the subtle prejudice concept: A 
+retort. European Journal of Social Psychology, 31(3), S. 299.
+
+Plant, E. A., & Devine, P. G. (1998). Internal and external motivation to respond without 
+prejudice. Journal of Personality and Social Psychology, 75(3), S. 811. https://doi.
+org/10.1037/0022-3514.75.3.811.
+
+Rubinstein, G. (2010). Authoritarianism Among Border Police Officers, Career Soldiers, 
+and Airport Security Guards at the Israeli Border. The Journal of Social Psychology, 
+146(6), S. 751.
+
+Ruhose, F. (2019). Die AfD im Deutschen Bundestag. Wiesbaden: Springer VS.
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 557
+
+Saucier, D. A., & Miller, C. T. (2003). The persuasiveness of racial arguments as a subtle 
+measure of racism. Personality and Social Psychology Bulletin, 29(10), S. 1303. doi: 
+https://doi.org/10.1177/0146167203254612. PMID: 15189590.
+
+Schicht, G. (2007). Menschenrechtsbildung für die Polizei. Berlin: Deutsches Institut für 
+Menschenrechte.
+
+Schimmeck, T. (2019). Rechtsextremismus bei der Polizei. Zu viele Einzelfälle. Deutsch-
+landfunk. https://www.deutschlandfunk.de/rechtsextremismus-bei-der-polizei-zu-viele-
+einzelfaelle.724.de.html?dram:article_id=466389. Zugegriffen: 18. Juli 2022.
+
+Schneider, B., Smith, D. B., & Goldstein, H. W. (2000). Attraction–selection–attrition: 
+Toward a person–environment psychology of organizations. In W. B. Walsh, K. 
+H. Craik & R. H. Price (Hrsg.), Person–environment psychology: New directions 
+and perspectives (S. 61–85). Hillsdale, New Jersey: Lawrence Erlbaum Associates 
+Publishers.
+
+Schütz, H., & Six, B. (1996). How strong is the relationship between prejudice and 
+discrimination? A meta-analytic answer. International Journal of Intercultural 
+Relations, 20(3–4), S. 441. https://doi.org/10.1016/0147-1767(96)00028-4.
+
+Schweer, T., & Strasser, H. (2003). „Die Polizei — dein Freund und Helfer?!“ Duisburger 
+Polizisten im Konflikt mit ethnischen Minderheiten und sozialen Randgruppen. In J. 
+Mansel & A. Groenemeyer (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 229–
+260). Opladen: Leske + Budrich.
+
+Schweer, T., & Strasser, H. (2008). Einblick: Cop Culture und Polizeikultur. In dies. & S. 
+Zdun (Hrsg.), „Das da draußen ist ein Zoo, und wir sind die Dompteure“: Polizisten 
+im Konflikt mit ethnischen Minderheiten und sozialen Randgruppen (S. 11–38). Wies-
+baden: Springer VS.
+
+Sidanius, J., Pratto, F., Sinclair, S., & van Laar, C. (1996). Mother Theresa meets Genghis 
+Khan: The dialectics of hierarchy-enhancing and hierarchy-attenuating career choices. 
+Social Justice Research, 9(2), S. 145.
+
+Sidanius, J., van Laar, C., Levin, S., & Sinclair, S. (2003). Social hierarchy maintenance 
+and assortment into social roles: A social dominance perspective. Group Processes and 
+Intergroup Relations, 6(4), S. 333.
+
+Simmler, M., Stempkowski, M., & Markwalder, N. (2021). Punitive attitudes and 
+victimization among police officers in Switzerland: an empirical exploration. Police 
+Practice and Research, 22(2), S. 1191.
+
+Steckhan, S. (2016). Rauschkontrolleure und das Legalitätsprinzip – Polizeiliche 
+Perspektiven zu Drogen und Drogenkriminalität. In Akzept e. V. Bundesverband, 
+Deutsche AIDS-Hilfe & JES Bundesverband (Hrsg.), 3. Alternativer Drogen- und 
+Suchtbericht 2016 (S. 63–69). Lengerich: Pabst Science Publisher.
+
+Stephan, W. G., & Stephan, C. W. (2000). An integrated threat theory of prejudice. In S. 
+Oskamp (Hrsg.), “The Claremont Symposium on Applied Social Psychology” Reducing 
+prejudice and discrimination (S. 23–45). Hillsdale, New Jersey: Lawrence Erlbaum 
+Associates Publishers.
+
+Stierle, J., & Lakner, S. (2017). Employer Branding – Arbeitgebermarke Polizei. In J. 
+Stierle, D. Wehe & H. Siller (Hrsg.), Handbuch Polizeimanagement (S. 993‒1017). 
+Wiesbaden: Springer Gabler.
+
+Strasser, H. (2004). Abschlussbericht DFG-Forschungsprojekt. „Das da draußen ist ein 
+Zoo, und wir sind die Dompteure“: Polizisten im Konflikt mit ethnischen Minderheiten 
+
+
+
+558 S. Kemme und A. Taefi
+
+und sozialen Randgruppen – Teilnehmende Beobachtung des Alltags von operativen 
+Kräften. https://www.uni-due.de/imperia/md/content/soziologie/strasser/dfg-abschluss-
+bericht-kurz-final-2.pdf. Zugegriffen: 18. Juli 2022.
+
+Teahan, J. E. (1975). A longitudinal study of attitude shifts among Black and White police 
+officers. Journal of Social Issues, 31(1), S. 47.
+
+The Stanford Open Policing Project (2021). Findings. The results of our nationwide 
+analysis of traffic stops and searches. https://openpolicing.stanford.edu/findings/. 
+Zugegriffen: 30.August 2021.
+
+Thiersch, S. (2020). Qualitative Längsschnittforschung: Bestimmungen, Forschungspraxis 
+und Reflexionen. Opladen: Verlag Barbara Budrich.
+
+Thompson, V. (2018). Racial Profiling im Visier. Rassismus bei der Polizei, Folgen und 
+Interventionsmöglichkeiten. Sachinformation des Informations- und Dokumentations-
+zentrums für Antirassismusarbeit e. V. (IDA). https://www.vielfalt-mediathek.de/
+material/racial-profiling-im-visier-rassismus-bei-der-polizei-folgen-und-interventionsm
+oeglichkeiten. Zugegriffen: 21. Juli 2021.
+
+Voigt, R., Camp, N. P., Prabhakaran, V., Hamilton, W. L., Hetey, R. C., Griffiths, C. M., 
+Jurgens, D., Jurafsky, D., & Eberhardt, J. L. (2017). Language from police body camera 
+footage shows racial disparities in officer respect. Proceedings of the National Academy 
+of Sciences, 114(25), S. 6521.
+
+Wegner, M., Wagner, D., vom Feld, L., & Struck, J. (2020). Die Polizei als ‚Influencerin‘?–
+Zum Einfluss der Polizei auf sicherheitspolitische Diskurse: Die Silvesternacht in 
+Leipzig-Connewitz 2019/2020. In D. Hunold & A. Ruch (Hrsg.), Polizeiarbeit zwischen 
+Praxishandeln und Rechtsordnung (S. 39‒73). Wiesbaden: Springer.
+
+Wittenbrink, B., Judd, C. M., & Park, B. (1997). Evidence for racial prejudice at the 
+implicit level and its relationship with questionnaire measures. Journal of Personality 
+and Social Psychology, 72(2), S. 262.
+
+Zeitner, I. (2020). Vorstellung der UMFELDER-Studien. Fremdenfreundliche und fremden-
+feindliche Einstellung in der Polizei NRW. https://www.hspv.nrw.de/nachrichten/artikel/
+vorstellung-umfelder-studien. Zugegriffen: 18. Juli 2022.
+
+Prof. Dr. Stefanie Kemme ist Professorin für Kriminologie und Strafrecht an der Hoch-
+schule der Akademie der Polizei Hamburg. Ihre wissenschaftlichen Schwerpunkte liegen 
+im Bereich des Jugendstrafrechts, der Jugenddelinquenz, der Rechtspsychologie sowie der 
+Kriminalprognosen und der Punitivitäts- und Vorurteilsforschung.
+
+Anabel Taefi ist wissenschaftliche Mitarbeiterin an der Hochschule der Polizei Hamburg. 
+Schwerpunkte ihrer Forschungsarbeit liegen in den Bereichen Entwicklungskriminologie, 
+Gewalt- und Jugendkriminalität.
+
+
+
+„Black Box Polizei?“ – Wege der empirischen Forschung 559
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

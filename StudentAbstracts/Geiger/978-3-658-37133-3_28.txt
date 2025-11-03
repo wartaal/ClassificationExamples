@@ -1,0 +1,894 @@
+﻿Polizei, Rassismus und Gesellschaft 
+nach 1945
+
+Konturen einer Sozial- und Kulturgeschichte der 
+Inneren Sicherheit in der Bundesrepublik und in 
+England
+
+Klaus Weinhauer
+
+Zusammenfassung
+
+Angestrebt wird eine geschichtswissenschaftlich fundierte kooperativ-
+reflexive interdisziplinäre Erforschung der bundesdeutschen Polizei als Teil 
+einer transnationalen und transferoffenen Sozial- und Kulturgeschichte der 
+Inneren Sicherheit. Fünf historische Problemkomplexe in der Kultur der 
+bundesdeutschen Polizei sollten von aktuellen Forschungen zu rassistischen 
+Praktiken in der Polizei aufgegriffen werden. Institutioneller Rassismus wird 
+problematisiert anhand der englischen Polizei der 1990er Jahre, eingebettet in 
+die Analyse postkolonialer Wandlungen und fokussiert auf im Macpherson-
+Report (1999) formulierte Reformvorschläge. Kritisiert werden die im 
+globalen Signalwort Institutioneller Rassismus verankerte problematische 
+Kontrastierung von Struktur und individuellem Handeln sowie die Aus-
+blendung dezentraler racial projects.
+
+Schlüsselwörter
+
+Kultur der Polizei · Sozial- und Kulturgeschichte der Inneren Sicherheit · 
+Institutioneller Rassismus · Racial Projects · Interdisziplinarität
+
+K. Weinhauer (*) 
+Fakultät für Geschichtswissenschaft, Philisophie und Theologie, Universität Bielefeld, 
+Bielefeld, Deutschland
+E-Mail: klaus.weinhauer@uni-bielefeld.de
+
+© Der/die Autor(en) 2022 599
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_28
+
+
+
+600 K. Weinhauer
+
+1  Einleitung
+
+Polizei und Rassismus markieren aktuell zwei hoch relevante und hoch 
+umstrittene Themenfelder, umso mehr, wenn sie aufeinander bezogen werden. 
+Es stellt sich die Frage, ob das Interesse an beiden Themen auch deshalb so aus-
+geprägt ist, weil sie Kernaspekte eines derzeit akuten gesellschaftlichen Selbst-
+vergewisserungsprozesses berühren. Da es in diesen Reflexionsprozessen auch 
+um Wandlungen der staatlich-gesellschaftlichen Ordnung und deren Wahr-
+nehmung geht, ist die Polizei als Vertreterin des staatlichen Gewaltmonopols nach 
+innen ein zentraler Bestandteil dieser Kontroversen. Während die Debatten um 
+robustere polizeiliche Einsätze kaum zu führen sind, ohne dabei das Verhältnis zu 
+den militärischen Ursprüngen der Polizei (im 19. Jahrhundert) mitzudenken, geht 
+es im Streit um rassistische Praktiken auch darum, ob bzw. inwieweit sich der 
+für die Entstehung der Polizei maßgebliche Vorrang der Polizierung der Arbeiter-
+schaft/Unterschichten verschiebt in Richtung eines rassistisch codierten Anderen. 
+Die erstaunlich intensive öffentliche Aufmerksamkeit sowie die deutlichen 
+(partei-)politischen Abwehrhaltungen deuten auf diese oder andere tieferliegende 
+Spannungsfelder hin – wenngleich die direkten Auslöser solcher Debatten andere 
+sind: vor allem rechte und rassistische Netzwerke und Aktivitäten in Polizei und 
+Bundeswehr sowie der Tod von George Floyd im Mai 2020. Ließe sich zugespitzt 
+fragen: Gibt es Berührungspunkte zwischen den außenpolitischen Kontroversen 
+um Kolonialismus (Gewaltkontinuitäten, Restitution) und den innenpolitischen 
+Debatten um die Polizei? In beiden Fällen, wobei die Grenzen zwischen innen- 
+und außenpolitisch ohnehin fließend sind, geht es auch um die historische 
+Reflexion rassistischer (Gewalt-)Praktiken.1
+
+Ein Ziel des vorliegenden Bands ist die „Übersetzung der Befunde der Rassis-
+musforschung in Richtung Polizei“. Dieser Aufsatz möchte geschichtswissen-
+schaftliche Perspektiven und Erkenntnisse in diesen sozialwissenschaftlich 
+geprägten Kontext einbringen. Angestrebt wird eine transnational ausgerichtete 
+und transferoffene Sozial- und Kulturgeschichte der Inneren Sicherheit, die 
+getragen wird von einer geschichtswissenschaftlich fundierten kooperativ-
+reflexiven Interdisziplinarität. Die Kultur der Polizei steht im Zentrum der so aus-
+gerichteten Analyse. Das auf diese Einleitung folgende zweite Kapitel resümiert 
+die geschichtswissenschaftliche Erforschung des Themenfelds Polizei und 
+
+1 Polizei, Militär und Kolonialismus in urbanen US-Settings im frühen 20. Jahrhundert 
+untersucht Go (2020).
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 601
+
+Rassismus in der bundesdeutschen Gesellschaft und empfiehlt, in Zukunft explizit 
+den Rassismusbegriff zu verwenden und dessen Verankerung in dezentralen 
+racial projects einzubeziehen, wenn es um die Analyse von Differenz-
+zuschreibungen geht. Das dritte Kapitel analysiert Aspekte der Kultur der bundes-
+deutschen Polizei, benennt fünf Problemkomplexe als Ansatzpunkte für die 
+Suche nach rassistischen Praktiken und skizziert so (ebenso wie das folgende 
+Kapitel) geschichtswissenschaftliche Impulse für den eben angesprochenen 
+interdisziplinären Untersuchungsansatz. Angesichts der Bedeutung des Begriffs 
+Institutioneller Rassismus auch für deutsche Polizeidebatten nimmt das vierte 
+Kapitel die zeitgenössische Erforschung der englischen Polizei der 1980/90er 
+Jahre in den Blick. Hier wurde der Terminus Institutioneller Rassismus, dessen 
+Wurzeln in den US-amerikanischen Protestbewegungen der 1960er Jahre liegen, 
+definiert und auf die Polizei angewendet.2 Ausgehend von zeitgenössischen 
+Studien zum Verhältnis von Polizei und urbaner Bevölkerung werden Vor- und 
+Nachteile dieses Begriffs diskutiert. Eingebettet ist dies in polizeibezogene 
+Problematisierungen postkolonialer Wandlungen in der englischen Gesellschaft 
+und in ihrer Wahrnehmung.
+
+2 P olizei, Rassismus und Gesellschaft: 
+Forschungsstand und Forschungsprobleme
+
+Die soziologische Forschung zur deutschen Polizei, oft ethnografisch informiert, 
+befindet sich im Aufschwung, das zeigt auch der vorliegende Band.3 Interessanter 
+Weise wird der Begriff Rassismus erst allmählich von der deutschen zeit-
+geschichtlichen Forschung auch für Analysen der deutschen Geschichte nach 
+1945 benutzt.4 Diese Studien verdeutlichen nachdrücklich, „Rasse“ ist keine 
+Eigenschaft, sondern eine rassistisch codierte Zuschreibung und damit ein 
+„soziales Verhältnis“, also auch ein Machtprozess.5 Wie der Blick auf die 
+Tabuisierung des Begriffs Rassismus seit Ende der NS-Herrschaft in Deutsch-
+
+2 Vgl. zum internationalen Kontext auch den Beitrag von Maximilian Pichl in diesem Band.
+3 Vgl. Loick (2018); Howe und Ostermeier (2019); Bundeszentrale für Politische Bildung 
+(2019); Kühne und Liebl (2021); Singelnstein (2021a, b).
+4 Vgl. Eckert (2020); Morina und Frei (2021). Vgl. als innovative Forschungen, die den 
+bundesdeutschen geschichtswissenschaftlichen Diskurs zum Rassismus derzeit stark 
+prägen: Chin (2009); Alexopoulou (2018, 2019).
+5 Vgl. Bojadžijev (2018), S. 62.
+
+
+
+602 K. Weinhauer
+
+land gezeigt hat, gab es vor allem im Umgang mit „Gastarbeiter:innen“ kulturell 
+verklärende Formeln der Abwertung.6 Zwar ist die deutsche Polizei als wichtige 
+Akteurin in der rassistisch motivierten NS-Vernichtungspolitik inzwischen 
+geschichtswissenschaftlich gut erforscht. Diese Studien sind breit rezipiert 
+worden und haben Eingang in die polizeiliche Ausbildung gefunden. Auch über 
+das Fortwirken rassebiologischer Konzepte in der Polizei nach der NS-Herr-
+schaft sowie über die Nachkriegskarrieren ehemaliger NS-Polizisten sind wir 
+gut informiert.7 Jedoch war die explizite Untersuchung von „Rassismus“ auch 
+ein blinder Fleck der seit den frühen 2000er Jahren erschienenen zeithistorischen 
+Arbeiten zur Polizei nach 1945. Immerhin bieten die an einer kulturgeschicht-
+lich erweiterten Gesellschaftsgeschichte orientierten Polizeistudien mit ihrem 
+Blick u. a. auf Wahrnehmungen, Zuschreibungen, geschlechtliche Codierungen 
+gute Anknüpfungsmöglichkeiten, um das Verhältnis von Polizei und Rassismus 
+im Rahmen einer Sozial- und Kulturgeschichte der Inneren Sicherheit zu ana-
+lysieren.8
+
+Die (zeithistorische) Erforschung von Rassismus sollte Impulse der beiden 
+US-amerikanischen Wissenschaftler Michael Omi und Howard Winant stärker 
+aufgreifen.9 Sie plädieren dafür, Rassismus und seine Konstruktionsmuster 
+dezentral zu analysieren und als historisch wandelbar zu verstehen. Wie die 
+Autoren betonen, gibt es keinen gesellschaftlich einheitlichen Rassismus. Viel-
+mehr ist dieser eingebettet in verschiedene durchaus unterschiedliche und 
+wandlungsfähige racial projects, deren Inhalte und soziale Ordnungsfunktionen 
+jeweils genau zu bestimmen sind.
+
+Die analytischen Vorteile des Begriffs Rassismus gegenüber Differenz-
+begriffen wie „Ausländerfeindlichkeit“ oder „Fremdenhass“ liegen auf drei 
+Ebenen, gebündelt unter den Stichpunkten: Gesellschaftsbezug; internationale 
+Anschlussfähigkeit und Vernetzung; Kontextualisierung/Historisierung sektoraler 
+Differenzkonzepte. Erstens: Gesellschaftsbezug. Der Rassismusbegriff bezieht 
+sich auf gesellschaftliche Ordnung. Es geht nicht allein um individuelle Aktivi-
+täten und sektorale Abwertungen. Durch diesen Bezug auf die Ordnung des 
+
+6 Wie Maria Alexopoulou unterstreicht, war „rassistisches Wissen“ in der deutschen Gesell-
+schaft tief verankert, ohne dass es nach 1945 Eingang in das Sagbare gefunden hätte, 
+Alexopoulou (2018), S. 18.
+7 Vgl. grundlegend Browning (2020); Wildt (2015); Kühl (2014); Dabag und Platt (2018); 
+Fürmetz et al. (2001); Wagner (2002). Vgl. zum BKA Baumann et al. (2011).
+8 Vgl. Weinhauer (2002); Lindenberger (2003); Lüdtke et al. (2011); Mecking (2020).
+9 Vgl. Omi und Winant (2015).
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 603
+
+Sozialen kann vor allem ein dezentral gefasster Rassismusbegriff nicht nur ver-
+schiedene sektorale Konzepte des Othering (siehe unten), sondern vor allem 
+soziale Ordnungspraktiken verschiedener Akteure analytisch erfassen. Dazu 
+gehören staatliche Institutionen ebenso wie eine Vielzahl gesellschaftlicher 
+Akteur:innen (von Expert:innen über Medien bis hin zu Artefakten) sowie die mit 
+diesen Aktivitäten jeweils verbundenen Machtprozesse. Zweitens: Internationale 
+Anschlussfähigkeit und Vernetzung. Untersuchungen, die gesellschaftliche 
+Ordnung und darauf bezogene Machtprozesse mit dem Begriff Rassismus sowie 
+mit zugrundeliegenden Konzepten analysieren, sind sehr gut anschlussfähig und 
+vernetzbar mit der internationalen Forschung. Hierfür eignen sich besonders 
+die oft interdisziplinär angelegten angloamerikanischen Studien zum Themen-
+feld „race“ und „whiteness“. Drittens: Kontextualisierung und Historisierung 
+sektoraler Differenzkonzepte. Die in den beiden vorherigen Punkten skizzierte 
+Rassismusforschung kann die Erklärungskraft und Reichweite sektoraler, 
+zumeist enger gefasster Differenzbegriffe wie „Ausländerfeindlichkeit“ breiter 
+kontextualisieren und auch historisieren.
+
+Wird Rassismus innerhalb verschiedener Polizeizweige untersucht und 
+kategorisiert, bleibt zu fragen, mit welchen anderen Berufsgruppen oder 
+Organisationen wird die Polizei bzw. das Agieren von Polizist:innen ver-
+glichen?10 Was sind also die genauen Vergleichs- und Beurteilungskriterien, 
+um über viel oder wenig Rassismus entscheiden zu können – wann ist dieses 
+Glas halb voll oder halb leer? Die breite und zeitlich längerfristig orientierte 
+Einbettung der Forschungsergebnisse zur Polizei in eine Sozial- und Kultur-
+geschichte der Inneren Sicherheit könnte hier weiterhelfen. Eine so ausgerichtete 
+Analyse sollte zwei miteinander gekoppelte Besonderheiten beachten: Die 
+Polizei ist eine bürokratische Organisation, und sie ist – zumindest in west-
+lichen Staaten – die Inhaberin des staatlichen Gewaltmonopols nach innen.11 
+Die Polizei als bürokratisch geprägte Verwaltungsorganisation ist einerseits 
+geprägt von hohen öffentlichen Erwartungshaltungen, der starken Präsenz schrift-
+licher Dokumentation, dichten Regel- und Kontrollnetzwerken und komplexen 
+Hierarchien. Die hohen Erwartungen an die Polizei als Inhaberin des staat-
+lichen Gewaltmonopols nach innen steigern den Erfolgsdruck innerhalb dieser 
+Organisation, lassen zugleich eine genaue Supervision sowie eine ausgeprägte 
+
+10 Vgl. aus kriminologischer Sicht Hunold und Wegner (2020); allgemein Forschungs-
+projekt „Körperverletzung im Amt durch Polizeibeamt*innen“ (KviAPol), Ruhr-Uni-
+versität Bochum, https://kviapol.rub.de/. Zugegriffen: 18. Juli 2022.
+11 Vgl. zu Lateinamerika Riekenberg (2017).
+
+
+
+604 K. Weinhauer
+
+Selbstreflexion der Organisationsmitglieder als angemessen erscheinen. Anderer-
+seits ist die Polizei ähnlich wie andere bürokratische Organisationen durchzogen 
+von mikropolitischen Grau- und Unsicherheitszonen und deren Veränderungen im 
+Zeitverlauf. Dass die Polizei eine Organisation ist, bedeutet aber auch, dass sich 
+ihr Binnenleben nicht angemessen verstehen lässt, wenn nur auf individuelles 
+Handeln oder gar nur auf Organigramme geblickt wird. Organisationen ent-
+wickeln kulturelle Codes als Elemente einer vielschichtigen Organisationkultur, 
+die nicht polizeiweit einheitlich sein muss. Diese Organisationskultur gewähr-
+leistet das Funktionieren, den Zusammenhalt und damit auch die Abgrenzung von 
+einem Außen.
+
+Somit sind eventuell vorhandene rassistische Praktiken mehr als nur 
+individuelle Aktivitäten, sondern eingebettet in eine Kultur der Polizei. Sie 
+umfasst informelle Verhaltenscodes (auch geschlechtlich codierte), Bedeutungs-
+zuschreibungen und Ordnungsvorstellungen ebenso wie Symbole und Rituale, 
+aber auch die polizeiliche Sprache mit ihren Redewendungen, Metaphern und 
+Erzählungen sowie materielle Elemente wie Formulare und Masken für EDV-Ein-
+träge sowie die darin vorgegebenen Kategorien. Wie zahlreiche Studien zeigen, 
+ist die Kultur der Polizei relativ stabil und kann organisatorische und technische 
+Veränderungen überdauern.12
+
+3 G eschichtswissenschaftliche Impulse für die  
+Erforschung rassistischer Praktiken in der Kultur 
+der Polizei
+
+Angesichts der eingangs skizzierten tiefgreifenden, auch historisch beein-
+flussten Wandlungen gesellschaftlicher Institutionen und darauf bezogener 
+Wahrnehmungen erscheint die Wiederannäherung zwischen Geschichts- und 
+Sozialwissenschaften notwendig. Bisher gibt es von beiden Seiten nur vor-
+sichtige Sondierungen. Einen ersten Ansatzpunkt dafür bietet die Reflexion und 
+zeitgemäße Reaktualisierung der bis in die frühen 2000er Jahre durchaus vor-
+handenen Kooperation zwischen (Kriminal-)Soziologie und Geschichtswissen-
+schaft.13 Ganz allgemein könnte die Erforschung der Polizei ein gutes Beispiel 
+
+12 Vgl. Behr (2000); vgl. zur historischen Organisationskultur der Polizei grundlegend 
+Weinhauer (2003, 2008); sowie aus soziologischer Sicht Dosdall (2021).
+13 Vgl. zu dieser Zusammenarbeit Dinges und Sack (2000); Lange und Aden (2003).
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 605
+
+sein, um den analytischen Mehrwert einer kooperativ-reflexiven und geschichts-
+wissenschaftlich grundierten Interdisziplinarität zu verdeutlichen. Besonders 
+die zeithistorisch ausgerichtete Fundierung aktualitätsbezogener Polizeistudien 
+wäre sehr sinnvoll, auch, aber nicht nur, aufgrund der zeitlichen Nähe zu den 
+Themen sozialwissenschaftlicher und kriminologischer Studien. Wie können 
+Geschichtswissenschaftler:innen konkret dazu beitragen, diese kooperativ-
+reflexive Interdisziplinarität in der Polizeiforschung auf dem Weg zu einer Sozial- 
+und Kulturgeschichte der Inneren Sicherheit mit Leben zu füllen?
+
+Erstens können geschichtswissenschaftliche Arbeiten die von zeit-
+genössischen Studien zu und in verschiedenen Zeiträumen erarbeiteten Ergeb-
+nisse zur Polizei wieder in den wissenschaftlichen Diskurs einspeisen. Durch 
+diese Reaktualisierung kann Wissen gesichert, kontextualisiert und historisiert, 
+d. h. in zeitgenössische Kontexte sowie in längerfristig wirkende Entwicklungen 
+eingeordnet werden. Zweitens kann das so gesicherte und reaktualisierte, 
+kontextualisierte und historisierte Material für die Erarbeitung von Fragen 
+genutzt werden, die auf die heutige Situation der Polizei ausgerichtet sind, aber 
+historische Entwicklungen einbeziehen. Zu eng auf das jeweilige Heute sowie auf 
+die unmittelbar davor liegenden Jahre bezogene Perspektiven, aber auch schein-
+bare Neuentdeckungen können so im Sinne einer größeren analytischen Tiefen-
+schärfe vermieden werden. Durch eine kooperativ-reflexive Interdisziplinarität 
+lassen sich Wandlungen, Umschlagspunkte und Zäsuren klarer benennen – auch 
+durch den Vergleich mit anderen Ländern sowie durch Einbeziehung trans-
+nationaler Transferprozesse.
+
+Aus geschichtswissenschaftlicher Sicht sind für die Zeit bis in die 1970er 
+Jahre unter Einbeziehung zeitgenössischer soziologischer Arbeiten bisher v. a. 
+Alltagsdienst (inkl. Ermittlungspraktiken), Ausbildung sowie Großeinsätze der 
+bundesdeutschen Polizei gegen als politisch eingestufte studentische Proteste und 
+gegen jugendliche Musikfans untersucht worden. Ausgehend von diesen Themen-
+feldern sind für die Kultur der damaligen Schutzpolizei, also der uniformierten 
+Polizei, fünf charakteristische Merkmale herausgearbeitet worden.14
+
+1. Definitionsmacht vor Ort: Polizist:innen verfüg(t)en über eine starke 
+Definitionsmacht, um vor Ort zu entscheiden, wann sie einschreiten und 
+wann nicht. Diese Definition der Situation vor Ort fußt neben recht-
+lichen auf personen- und erfahrungsbezogenen Indikatoren. Wie schon 
+
+14 Vgl. zu den folgenden Punkten Weinhauer (2003, 2008, 2020).
+
+
+
+606 K. Weinhauer
+
+die soziologische Forschung der frühen 1970er Jahre gezeigt hat, können 
+Polizist:innen diese erfahrungsbezogenen Kategorien nutzen, um beispiels-
+weise auf Straßenstreifen Personen als „verdächtig“ oder „gefährlich“ einzu-
+stufen.15 Für den Revierdienst, der den Alltag der Polizei mehr bestimmt als 
+Demonstrationseinsätze, wäre zu analysieren, ob, inwieweit und wodurch sich 
+solche Zuschreibungen seit den 1970er Jahren verändert bzw. nicht verändert 
+haben.16 Gerade im Revierdienst bestehen, so deutet sich an, von der Kultur 
+der Polizei (der Cop Culture) getragene Kontinuitäten.
+
+2. Ordnungssuche: Die Suche nach einer klaren Ordnung, an der sich 
+Polizist:innen im Dienst und darüber hinaus orientieren konnten, war ein 
+Kernelement im Wertekosmos vieler Polizist:innen. Bis in die frühen 1970er 
+Jahre wurden diese Ordnungsvorstellungen oft durch einen über allem 
+stehenden mythologisch verklärten Staat verkörpert. Wie erste Erkundungen 
+andeuten, wurde dies seit den 1970er Jahren überlagert von einer Ausrichtung 
+an einem sehr stark juristisch-formal geprägten Verständnis von Rechts-
+staat. Seitdem wurden zudem die Kommunikation und andere Praktiken von 
+Polizist:innen noch stärker abstrakt juristisch ausgerichtet. Ohne Frage ist ein 
+juristisch-rechtstaatlich orientiertes Ordnungsverständnis viel Wert. Es fragt 
+sich nur, wie hilfreich ist es für Mikrointeraktionen, wenn dichotomische 
+Muster wie „richtig“ oder „falsch“ orientierungsleitend sind.17 Zudem lässt 
+sich fragen, ob bzw. inwieweit haben die seit den späten 1980er Jahren ein-
+setzenden Debatten über den Bedeutungsverlust des Staates in einer von 
+Globalisierungen geprägten Welt hier Orientierungslücken geschaffen? 
+Konnten in der Polizei als staatsnaher Organisation mit einer weit ver-
+breiteten Suche nach Ordnung diese Lücken vielleicht auch durch rechte und 
+rassistische Praktiken geschlossen werden? Zumal der Polizeiberuf, wie ver-
+schiedene Forschende betonen, für wertkonservativ und autoritär orientierte 
+Menschen attraktiv ist, ohne dass daraus jedoch zwangsläufig rassistische oder 
+rechtsradikale Praktiken resultieren müssen.18
+
+3. Ausbildung: Die Ausbildung der Polizist:innen der 1960/70er Jahre war 
+stark von der kasernierten Eingangsphase bestimmt. Die dort erlernten 
+Wahrnehmungs- und Handlungsmuster prägten die Polizist:innen und 
+
+15 Feest (1971).
+16 Vgl. zur aktuellen Situation Behr (2019).
+17 Vgl. Brusten (1973).
+18 Behr (2021); Schedler (2018).
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 607
+
+wirkten zeitlich sehr lange nach. Demgegenüber blieb die genaue Ein-
+führung in den alltäglichen Routinepolizeidienst auf den Dienststellen vor-
+wiegend informell geregelt. Wie der Blick auf die kasernierte Eingangsphase 
+andeutet, haben Reformen der 1970er Jahre viele Probleme (Demütigungen, 
+soziale Ausgrenzungen, informelle Gewaltpraktiken) beseitigt. Heute scheint 
+die Ausbildung und Sozialisation auf den Revieren und in Polizeieinheiten 
+problematische Grauzonen zu besitzen, die noch genauer zu untersuchen 
+sind.19
+
+Darüber hinaus wurden zwei weitere, eng gekoppelte Faktoren benannt, die 
+erklären, warum Großeinsätze der Polizei der 1960er Jahre gegen als politisch 
+eingestufte Proteste, das Protest Policing, so ineffektiv, kaum steuerbar und unan-
+gemessen gewaltsam waren:
+
+4. Kleingruppen und
+5. harte Männlichkeit.
+
+Verursacht wurden die Probleme bei Großeinsätzen oft durch hermetisch 
+abgeschlossene und kaum kontrollierbare Kleingruppen, die sich nach oben und 
+außen abschotten, sowie durch die Auswirkungen eines dort wirkenden resoluten 
+Männlichkeitsideals, orientiert an Tatkraft, Mut und Härte. Grundsätzlich waren 
+organisatorische, technische und taktische Reformen der 1970er Jahre mit einer 
+langlebigen und wenig wandlungsfähigen Kultur der Polizei konfrontiert. Auch 
+in diesen Einsatzgebiet gibt es, wie aktuelle Studien zeigen, bis heute trotz allen 
+Veränderungen ähnliche Probleme.20 Auch diese Kontinuitäten, aber auch die 
+Wandlungen könnten historisch ausgerichtete Studien analysieren.
+
+Logischerweise lassen sich die vorstehend skizzierten und zumeist auf die 
+1960/70er Jahre bezogenen Erkenntnisse nicht umstandslos auf die heutige 
+Polizei übertragen. Diese fünf Problemebenen der Kultur der Polizei könnten 
+jedoch, wie vorstehend bereits angedeutet, Ausgangspunkte bilden für geschichts-
+wissenschaftlich informierte Langzeitstudien, die einer Sozial- und Kultur-
+geschichte der Inneren Sicherheit erste Konturen geben. Für Landes- wie 
+Bundespolizeiorganisationen könnten so Wandlungen analysiert und gleichzeitig 
+im Sinne der von Omi und Winant konzipierten dezentralen Analyse von racial 
+
+19 Behr (2020).
+20 Die Zugangsprobleme zu diesem Feld analysiert Ullrich (2019).
+
+
+
+608 K. Weinhauer
+
+projects gefragt werden, ob, bzw. welche Ansatzpunkte für welche rassistische 
+Praktiken in welchen polizeilichen Tätigkeitsfeldern jeweils vorhanden sind und 
+wie diese sich im Zeitverlauf verändert haben.
+
+4 I nstitutioneller Rassismus und postkolonialer  
+Gesellschaftswandel: Die Polizei in England der  
+1980/90er Jahre
+
+Gesellschaftliche Veränderungen und damit verbundene Konflikte waren 
+auch in England eng mit der Tätigkeit und Wahrnehmung der Polizei ver-
+knüpft. Städtische Alltagsinteraktionen zwischen englischer Polizei und lokaler 
+Bewohnerschaft der 1980/90er Jahre wurden von zahlreichen auch länger-
+fristig angelegten (kriminal-)soziologischen Studien analysiert.21 Jedoch sind 
+geschichtswissenschaftliche Studien zur Polizei jenseits organisationzentrierter 
+Beiträge eher selten. Insgesamt gesehen liefert die englische Forschungs-
+literatur sehr gute Einblicke in gesellschaftliche Kontexte polizeilicher Tätigkeit 
+sowie in bereits vorhandenes Wissen über rassistische Praktiken in polizeilichen 
+Organisationen, gebündelt unter dem umstrittenen Begriff Institutioneller Rassis-
+mus.22
+
+Drei Themen stehen im Mittelpunkt der Analysen der englischen Polizei 
+der 1980/90er Jahre: die Macht der Polizist:innen im Alltagsdienst (police 
+discretion); das Einschreiten gegen Störungen der öffentlichen Ordnung (public 
+order-policing); sowie, wichtig für diesen Aufsatz, das Verhältnis der Polizei zu 
+den Bewohner:innen der Stadtviertel, in denen Polizist:innen arbeiteten (police 
+community-relations). Gerade zeitgenössische Studien zu Entscheidungs-
+situationen im Alltagsdienst (inkl. Community Policing) zeigen die tiefe lokale 
+Verflechtung polizeilicher Arbeit. Demgegenüber schwebten viele damalige 
+Analysen der bundesdeutschen Polizei sozial gesehen ‚in der Luft‘, unter-
+suchten vorrangig die Organisation der Polizei, Kriminalität oder das Protest 
+Policing mit geringer Einbettung in die lokale Geschichte oder institutionelle und 
+soziale Kontexte. Polizeiarbeit erschien so überpolitisiert, dekontextualisiert und 
+momentgetrieben.23
+
+21 Vgl. Reiner (1992); Williams (1989); Pearson und Rowe (2020).
+22 Vgl. dazu auch den Beitrag von Maximilian Pichl in diesem Band.
+23 Vgl. zu Deutschland Feltes und Rebscher (1990); Busch et al. (1985).
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 609
+
+Es waren vor allem die urbanen Unruhen der 1980er Jahre sowie die ihnen 
+zugrundeliegenden gesellschaftlichen Wandlungen, die das Themenfeld Police 
+Community-Relations in den Vordergrund treten ließen. Aber auch in den 
+1990er Jahren wurde der polizeiliche Umgang mit People of Colour, damals als 
+ethnische Minderheiten bezeichnet, intensiv diskutiert. Die erste größere Analyse, 
+im November 1981 vorgelegt von Lord Leslie George Scarman (1911–2004), galt 
+den Unruhen im Londoner Stadtteil Brixton im April 1981. In diesem Scarman-
+Report24 ging es um die Frage, wie die Gewalt bei diesen urbanen Unruhen 
+eskalieren konnte und welche Rolle die Polizei dabei gespielt hatte. Neben vielen 
+anderen Ursachen hatten die als diskriminierend empfundenen Kontroll- und 
+Festnahmepraktiken der Polizei zur Eskalation beigetragen. Der Bericht schlug 
+vor, die Polizei besser auszubilden und verstärkt Polizist:innen aus ethnischen 
+Minderheiten einzustellen, verneinte jedoch einen „Institutionellen Rassismus“ in 
+der Polizei.25 Der Macpherson- oder Lawrence-Report, die zweite Untersuchung, 
+von der im Mai 1997 neugewählten Labour-Regierung auf den Weg gebracht, 
+wurde im November 1999 von Sir William Alan Macpherson of Cluny vorgelegt. 
+Analysiert wurde, ob bzw. inwieweit die polizeilichen Ermittlungen über den von 
+einer Gruppe weißer Jugendlicher im April 1993 ermordeten Stephen Lawrence 
+durch rassistische Praktiken (in) der Polizei behindert wurden. Dieser Bericht 
+fand eine noch breitere und länger anhaltende Resonanz als der Scarman-Report.
+
+Die 1990er Jahre waren im Vereinigten Königreich nicht nur geprägt vom sich 
+abzeichnenden Ende der Ost-West Konfrontation und des damit verbundenen 
+Kalten Kriegs. Diese politischen Umbrüche fielen zusammen mit einer grund-
+sätzlichen Infragestellung bisher tragender innenpolitischer Säulen, mit aus-
+gelöst durch langfristige Wirkungen der Dekolonisierung: Die Selbstgewissheit 
+erodierte, in einer Gesellschaft zu leben, in der alle Schichten und ethnischen 
+Gruppen durch einen sozialen und politischen Konsens zusammengehalten 
+wurden. Wie immer deutlicher wurde, ging dieser Konsens jedoch im Prinzip von 
+den Bedürfnissen der weißen Bevölkerung aus.26 Zudem wurde der Mythos vom 
+männlichen liberalen englischen Bobby-Polizisten kritisch hinterfragt und auch 
+die soziale Ausgrenzung der People of Colour in städtischen Problemvierteln 
+deutlicher als zuvor erkannt. Der Zensus von 1991 thematisierte erstmals die 
+
+24 Scarman (1981).
+25 Scarman (1981), S. 135, Punkt 9.1. Zeitgenössisch wichtig Benyon (1984); Kettle und 
+Hodges (1982).
+26 Vgl. zu Rückwirkungen der kolonialen Interventionen in Irland Go (2020), S. 1243.
+
+
+
+610 K. Weinhauer
+
+ethnische Zugehörigkeit, ein Schritt, der politisch durchaus umstritten war. Für 
+viele People of Colour galt: „violence, intimidation and verbal aggression had 
+been an integral part of their daily lives“.27
+
+Vor dem Hintergrund dieser Veränderungen initiierte der Macpherson-
+Report28, speziell der hier verwendete Begriff Institutioneller Rassismus, eine 
+intensive Diskussion, über rassistisches Denken und Handeln nicht nur in der 
+englischen Polizei, sondern auch in anderen staatlichen Einrichtungen. In Kap. 47 
+bündelte der Report 70 Verbesserungsvorschläge für polizeiliche Arbeit. Der 
+Macpherson-Report vermittelte zwei grundlegende Einsichten in den Umgang 
+mit rassistischen Praktiken – vor allem (aber nicht nur) in der englischen 
+Polizei.29 Erstens bestanden auch im England der 1990er Jahre zunächst massive 
+Bedenken gegen eine gründliche Untersuchung der Polizei von außen. Auch 
+dort wurde, ähnlich wie in der aktuellen deutschen Debatte, anfangs der Selbst-
+reinigungskraft der Organisation vertraut, die Bedeutung von Einzelfällen dis-
+kutiert und erörtert, ob solche Analysen eventuell einen Generalverdacht gegen 
+alle Polizist:innen transportieren oder gar das Vertrauen in die Polizei erschüttern 
+würden. Zweitens erbrachten erst von außerhalb der Polizei durchgeführte 
+wissenschaftliche Untersuchungen genaue Erkenntnisse über polizeiinterne 
+Probleme im Fall von Stephen Lawrence.30 Zuvor waren zwei polizeiinterne Ver-
+suche gescheitert, die gegen die Polizei gerichteten Beschuldigungen aufzuklären. 
+Diese Problemlage beschrieb der Macpherson-Report so:
+
+„The conclusions to be drawn from all the evidence in connection with the 
+investigation of Stephen Lawrence’s racist murder are clear. There is no doubt 
+but that there were fundamental errors. The investigation was marred by a combi-
+nation of professional incompetence, institutional racism and a failure of leadership 
+by senior officers. A flawed MPS review failed to expose these inadequacies. The 
+second investigation could not salvage the faults of the first investigation.“31
+
+Der Report bietet eine Definition des Begriffs Institutioneller Rassismus, ver-
+standen als:
+
+27 Garnett (2007), S. 159. Vgl. als Überblick Bowling et al. (2003); Newburn (2003); Ebke 
+(2016); ferner Jones und Kandiah (2001); Fevre (2021); Owen (1995).
+28 Macpherson (1999).
+29 Macpherson (1999), Punkt 6.39.
+30 Macpherson (1999), Punkt 46.1.
+31 Macpherson (1999). Vgl. dazu auch Bridges (1999), S. 300 f.
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 611
+
+„The collective failure of an organisation to provide an appropriate and professional 
+service to people because of their colour, culture, or ethnic origin. It can be seen 
+or detected in processes, attitudes and behaviour which amount to discrimination 
+through unwitting prejudice, ignorance, thoughtlessness and racist stereotyping 
+which disadvantage minority ethnic people. It persists because of the failure of 
+the organisation openly and adequately to recognise and address its existence 
+and causes by policy, example and leadership. Without recognition and action 
+to eliminate such racism it can prevail as part of the ethos or culture of the 
+organization.“32
+
+Im Februar 1999 akzeptierten der damalige Innenminister Jack Straw und 
+auch der Londoner Polizeichef, Sir Paul Condon, sowohl die Definition des 
+Institutionellen Rassismus als auch die Ergebnisse der Kommission.33 Straw 
+erklärte offen:
+
+„The House will share my sense of shame that the criminal justice system, and 
+the Metropolitan police in particular, failed the Lawrence family so badly. The 
+Commissioner of Police of the Metropolis, Sir Paul Condon, has asked me to tell 
+the House that he shares that sense of shame. He has also asked me to tell the House 
+that, as head of the Metropolitan police service, he fully accepts the findings of the 
+inquiry, including those relating to him.“34
+
+Zwar hatte die Umsetzung der Polizeireformen des Macpherson-Report enge 
+Grenzen. Aber die Reformmaßnahmen veränderten zumindest die Sprachcodes 
+in der Polizei. Wie selbst kritische Forschungen einräumten, wurden rassistische 
+Formulierungen seitdem vermieden.35 Andere Diskriminierungen (gegen Frauen 
+oder Homosexuelle) blieben hingegen bestehen.36 Jedoch geriet das Verhältnis 
+zwischen der Polizei und den von ihren Maßnahmen betroffenen Communities 
+kaum in den Blick.37 Zumindest wurden intensiv die Rückwirkungen diskutiert, 
+die der polizeiliche Straßendienst in damals als afrikanisch-karibische Problem-
+viertel bezeichneten Stadtteilen auf die Formierung von Rassismus innerhalb 
+der englischen Polizei haben konnte. Insgesamt gesehen stand die Beeinflussung 
+der Kultur der englischen Polizei mit ihren Praxisroutinen und kulturellen Codes 
+
+32 Macpherson (1999), Punkt 6.34.02.
+33 Straw (1999, Column 390 f.).
+34 Straw (1999, Column 390).
+35 Vgl. Foster et al. (2005), S. XI; Souhami (2014), S. 17.
+36 Foster et al. (2005), S. 48.
+37 Souhami (2014), S. 28–31.
+
+
+
+612 K. Weinhauer
+
+nicht im Zentrum der Reformen. Da aber die rassistischen Praktiken tief in dieser 
+Kultur verankert waren, kamen Veränderungen nur sehr schwer voran.
+
+Jedoch sorgte der im Bericht verwendete und oben schon vorgestellte Begriff 
+Institutioneller Rassismus für langanhaltende Kontroversen auf drei miteinander 
+verflochtenen Ebenen. Erstens überwog forschungspraktisch die Kritik. Mit 
+Blick auf die Analyse des innerpolizeilichen Alltags gilt: Institutioneller Rassis-
+mus „appears simultaneously everywhere and nowhere“.38 Unter leitenden 
+englischen Polizist:innen führte diese Sichtweise in nicht wenigen Fällen zu 
+einer, wenn nicht resignativen, so doch negativ essentialistischen Haltung: In 
+den mir unterstellten Dienststellen gibt es zwar institutionelle und individuelle 
+rassistische Praktiken, die ich aber nicht ändern kann.39 Zweitens ist der 
+Terminus konzeptionell Ausdruck einer wenig zutreffenden Dichotomie zwischen 
+Individuum und Struktur. Im Macpherson-Report ist der Begriff trotz anders-
+lautender Bekundungen zu sehr auf individuelles Handeln ausgerichtet.40 Wie 
+diese individuellen Aktivitäten über Wiederholungen und durch Vernetzung mit 
+anderen Praktiken in dezentralen racial projects (Omi und Winant) dauerhaft 
+wirken, bleibt unberücksichtigt. Drittens wurde Institutioneller Rassismus in der 
+Öffentlichkeit zu einem Schlagwort, das stellvertretend für alle im Macpherson-
+Report formulierten Reformansätze stand. In (forschungs-)politischer Hinsicht 
+ließe sich sogar sagen: Institutioneller Rassismus wurde durch den Macpherson-
+Report zu einem globalen Signalwort mit hoher Mobilisierungswirkung. 
+Ungeachtet und vielleicht sogar wegen der Unbestimmtheit des Begriffs konnten 
+und können so rassistische Praktiken thematisiert werden, die über individuelle 
+Aktivitäten hinausgingen bzw. -gehen.
+
+5 Z usammenfassung: Interdisziplinarität, Kultur 
+der Polizei, Institutioneller Rassismus in racial 
+projects
+
+Der Polizeiforschung fehlt eine interdisziplinär profilierte und zeitlich länger-
+fristig orientierte Einbettung in eine transnationale und transferoffene 
+Sozial- und Kulturgeschichte der Inneren Sicherheit, getragen von einer 
+
+38 Souhami (2014), S. 15.
+39 Holdaway und O’Neill (2006), S. 367.
+40 Vgl. zu diesem „methodological individualism“ Wight (2003), S. 707, 712.
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 613
+
+geschichtswissenschaftlich fundierten kooperativ-reflexiven Interdisziplinarität. 
+Auch um zu  vermeiden, dass nationale Spezifika der jeweiligen Polizeien aus-
+geblendet werden, bietet die Kultur der Polizei gute Ausgangspunkte für solche 
+Studien zum Revierdienst sowie zu Demonstrations- und Stadioneinsätzen. Ein-
+zubeziehen wäre die kritische Diskussion des Begriffs Institutioneller Rassismus 
+in seinen dezentralen racial projects. Mit Blick auf die deutsche Polizei könnten 
+solche Arbeiten an fünf Problemkomplexen polizeilicher Tätigkeit ansetzen: Die 
+Definitionsmacht im (Revier-)Dienst vor Ort; die Suche nach Ordnung; die Aus-
+bildung; hochkohäsive Kleingruppen; Leitbilder harter Männlichkeit.
+
+Im England der späten 1980/90er Jahre fiel das kritische Nachdenken 
+über Polizei zusammen mit einer tiefen Infragestellung sozialer, kultureller 
+und politischer Ordnungen, mit beeinflusst von langfristigen Folgen der 
+Dekolonisation. In diesem Setting fand die im Macpherson-Report artikulierte 
+Kritik an der Polizei starke Resonanz. Ähnlich wie in der aktuellen deutschen 
+Debatte bestanden auch in der englischen Polizei zunächst massive Bedenken 
+gegen eine gründliche Untersuchung der Polizei von außen. Jedoch erbrachten 
+erst von außerhalb der Polizei durchgeführte wissenschaftliche Analysen des 
+Revierdiensts genaue Erkenntnisse über polizeiinterne Probleme und benannten 
+konstruktive Lösungsansätze. Die ausgehend vom Macpherson-Report 
+implementierten Maßnahmen veränderten die Sprache innerhalb der Polizei – 
+rassistische Formulierungen wurden vermieden. Doch hatte die praktische 
+Umsetzung der Reformen enge Grenzen; rassistische Praktiken waren in der 
+Kultur der englischen Polizei tief verankert und nur schwer veränderbar.
+
+Das globale Signalwort Institutioneller Rassismus entfaltet (inzwischen) 
+auch mit Blick auf die deutsche Polizei eine hohe Mobilisierungswirkung. 
+Ungeachtet und vielleicht sogar wegen der Unbestimmtheit des Begriffs konnten 
+bzw. können so rassistische Praktiken thematisiert werden, die über individuelle 
+Aktivitäten hinausgingen. Wissenschaftlich betrachtet transportiert der vage 
+Terminus jedoch eine inzwischen analytisch überkommene Dichotomie von 
+Struktur und (individuellem) Handeln. Aber auch Strukturen entstehen nicht 
+aus sich heraus, sondern werden durch Interaktionen und dynamische Wieder-
+holungen geschaffen. Auch einzelne Polizist:innen agieren nicht isoliert. Ihre 
+Aktivitäten sind eingebunden in kulturelle (Mikro-)Kontexte, sind vernetzt mit 
+den und bezogen auf die Handlungen von Kolleg:innen. Zudem haben all diese 
+Akteur:innen und Settings ihre Geschichte, die analytisch aufbereitet werden 
+sollte. Zu guter Letzt verdeutlicht der Blick auf den Macpherson-Report und 
+seine Umsetzung(sversuche): Ein politischer Wille kann trotz aller kulturellen 
+Beharrungskräfte Reformen staatlicher Organisationen (hier: der Polizei) voran-
+treiben.
+
+
+
+614 K. Weinhauer
+
+Literatur
+
+Alexopoulou, M. (2018). Rassismus als Kontinuitätslinie in der Geschichte der Bundes-
+republik Deutschland. Aus Politik und Zeitgeschichte, 68 (38–39), S. 18–24.
+
+Alexopoulou, M. (2019). ‚Ausländer‘ – A Racialized Concept? ‚Race‘ as an analytical 
+concept in contemporary German immigration history. In M. Arghavan, N. Hirsch-
+felder, L. Kopp & K. Motyl (Hrsg.), Who Can Speak and Who is Heard/Hurt? Facing 
+problems of race, racism, and ethnic diversity in the humanities in Germany (S. 45–67). 
+Bielefeld: transcript Verlag.
+
+Baumann, I., Reinke, H., Stephan, A., & Wagner, P. (2011). Schatten der Vergangenheit. 
+Das BKA und seine Gründergeneration in der frühen Bundesrepublik. Köln: Hermann 
+Luchterhand Verlag.
+
+Behr, R. (2000). Cop Culture. Der Alltag des Gewaltmonopols. Opladen: Leske und 
+Budrich.
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft. Trans-
+disziplinäre Perspektiven zu Methoden, Theorie und Empirie reflexiver Polizeiforschung 
+(S. 17–45). Wiesbaden: Springer VS.
+
+Behr, R. (2020). „Die gesamte Polizei stemmt sich gegen Aufklärung“. Deutschlandfunk. 
+https://www.deutschlandfunk.de/rassismus-in-der-polizei-die-gesamte-polizei-stemmt-
+sich.694.de.html?dram:article_id=479470. Zugegriffen: 18. Juli 2022.
+
+Behr, R. (2021). „Kriminologe: kein Einzelfall – aber auch kein Muster“. Deutschlandfunk 
+Kultur. https://www.deutschlandfunkkultur.de/rechtsextreme-in-der-frankfurter-polizei-
+kriminologe-kein.1008.de.html?dram:article_id=436180. Zugegriffen: 18. Juli 2022.
+
+Benyon, J. (Hrsg.) (1984). Scarman and After. Essays reflecting on Lord Scarman’s report, 
+the 1981 riots and their aftermath. Oxford: Pergamon.
+
+Bojadžijev, M. (2018). Konjunkturen der Rassismustheorie in Deutschland. In N. Foroutan, 
+C. Geulen, S. Illmer, K. Vogel & S. Wernsing (Hrsg.), Das Phantom „Rasse“. Zur 
+Geschichte und Wirkungsmacht von Rassismus (S. 47–62). Köln: Böhlau Verlag.
+
+Bowling, B., Phillips, C., & Shah, A. (2003). Policing Ethnic Minority Communities. In T. 
+Newburn (Hrsg.), Handbook of Policing (S. 528–555). Cullompton: Willan.
+
+Bridges, L. (1999). The Lawrence Inquiry. Incompetence, corruption, and institutional 
+racism. Journal of Law and Society, 26, S. 298.
+
+Browning, C. R. (2020). Ganz normale Männer. Das Reserve-Polizeibataillon 101 und die 
+„Endlösung“ in Polen. Erw. Neuausgabe. Hamburg: Rowohlt.
+
+Brusten, M. (1973). Die Polizei bemächtigt sich der Soziologie. Vorgänge, 12, S. 91.
+Busch, H., Funk, A., Kauß, U., Narr, W.-D., & Werkentin, F. (Hrsg.) (1985). Die Polizei in 
+
+der Bundesrepublik. Frankfurt am Main: Campus.
+Bundeszentrale für Politische Bildung (2019). Polizei. Aus Politik und Zeitgeschichte, 
+
+69(21–23).
+Chin, R. (2009). Guest Worker Migration and the Unexpected Return of Race. In R. 
+
+Chin, H. Fehrenbach & G. Eley (Hrsg.), After the Nazi Racial State. Difference and 
+democracy in German and Europe (S. 80–101). Ann Arbor: University of Michigan 
+Press.
+
+Dabag, M., & Platt, K. (Hrsg.) (2018). Ganz normale Organisationen? Systemtheoretische 
+Ansätze der Holocaustforschung. Eine Debatte. Weilerswist: Velbrück Wissenschaft.
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 615
+
+Dinges, M., & Sack, F. (Hrsg.) (2000). Unsichere Großstädte? Vom Mittelalter bis zur Post-
+moderne. Konstanz: Universitätsverlag Konstanz.
+
+Dosdall, H. (2021). Die NSU-Ermittlungen, 1998–2011. Eine organisationssoziologische 
+Perspektive. Wiesbaden: VS Verlag.
+
+Ebke, A. (2016). From ‘Bloody Brixton’ to ‘Burning Britain’. Placing the Riots of 1981 
+in British Post-Imperial History. In K. Andresen & B. v. d. Steen (Hrsg.), A European 
+Youth revolt. European perspectives on youth protest and social movements in the 1980s 
+(S. 258–270). Houndmills/Basingstoke: Palgrave Mcmillan.
+
+Eckert, A. (2020). Postkoloniale Zeitgeschichte? Zeithistorische Forschungen/Studies in 
+Contemporary History, 17, S. 530–543. https://doi.org/10.14765/zzf.dok-2108.
+
+Feest, J. (1971). Die Situation des Verdachts. In J. Feest & R. Lautmann (Hrsg.), Die 
+Polizei. Soziologische Studien und Forschungsergebnisse (S. 71–92). Opladen: West-
+deutscher Verlag.
+
+Feltes, T., & Rebscher, E. (Hrsg.) (1990). Polizei und Bevölkerung. Beiträge zum Verhält-
+nis zwischen Polizei und Bevölkerung und zur gemeindebezogenen Polizeiarbeit. Holz-
+kirchen: Felix Verlag.
+
+Fevre, C. (2021). ‘Race’ and Resistance to Policing Before the ‘Windrush Years’: The 
+Colonial Defence Committee and the Liverpool ‘Race Riots’ of 1948. Twentieth 
+Century British History, 32, S. 1.
+
+Foster, J., Newburn, T., & Souhami, A. (2005). Assessing the Impact of the Stephen 
+Lawrence Inquiry. London: Home Office.
+
+Fürmetz, G., Reinke, H., & Weinhauer, K. (Hrsg.) (2001). Nachkriegspolizei. Sicherheit 
+und Ordnung in Ost- und Westdeutschland 1945–1969. Hamburg: Ergebnisse Verlag.
+
+Garnett, M. (2007). From Anger to Apathy. The story of politics, society and popular 
+culture in Britain since 1975. London: Vintage Books.
+
+Go, J. (2020). The Imperial Origins of American Policing: Militarization and imperial 
+feedback in the early 20th century. American Journal of Sociology, 125, S. 1193.
+
+Holdaway, S., & O’Neill, M. (2006). Institutional Racism after Macpherson. An analysis of 
+police views. Policing and Society, 16, S. 349.
+
+Howe, C., & Ostermeier, L. (Hrsg.) (2019). Polizei und Gesellschaft. Transdisziplinäre 
+Perspektiven zu Methoden, Theorie und Empirie reflexiver Polizeiforschung. Wies-
+baden: Springer VS.
+
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei. Zum Stand der Forschung. Aus 
+Politik und Zeitgeschichte, 70(42–44), S. 27.
+
+Jones, H., & Kandiah, M. (Hrsg.) (2001). The myth of consensus. New views on British 
+history 1945–64. Houndmills/Basingstoke: Palgrave.
+
+Kettle, M., & Hodges, L. (1982). Uprising. The police, the people and the riots in Britain’s 
+cities. London/Sydney: Pan Books.
+
+Kühl, S. (2014). Ganz normale Organisationen. Zur Soziologie des Holocaust. Berlin: 
+Suhrkamp.
+
+Kühne, E., & Liebl, K. (Hrsg.) (2021). Polizeiwissenschaft. Fiktion, Option oder Not-
+wendigkeit. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Lange, H.-J., & Aden, A. (Hrsg.) (2003). Die Polizei der Gesellschaft. Zur Soziologie der 
+inneren Sicherheit. Opladen: Leske und Budrich.
+
+Lindenberger, T. (2003). Herrschaftspraxis und öffentliche Ordnung im SED-Staat 1952 – 
+1968. Köln: Böhlau Verlag.
+
+
+
+616 K. Weinhauer
+
+Loick, D. (Hrsg.) (2018). Kritik der Polizei. Frankfurt am Main/New York: Campus.
+Lüdtke, A., Reinke, H., & Sturm, M. (Hrsg.) (2011). Polizei, Gewalt und Staat im 20. Jahr-
+
+hundert. Wiesbaden: VS Verlag.
+Macpherson, W. (1999). The Stephen Lawrence Inquiry. Report of an inquiry by Sir 
+
+William Macpherson. London: Home Office.
+Morina, C., & Frei, N. (2021). Rassismus und Geschichtswissenschaft. L.I.S.A. – Das 
+
+Wissenschaftsportal der Gerda Henkel Stiftung. https://lisa.gerda-henkel-stiftung.de/
+rassismus_und_geschichtswissenschaft_morina_frei. Zugegriffen: 18. Juli 2022.
+
+Mecking, S. (Hrsg.) (2020). Polizei und Protest in der Bundesrepublik Deutschland. Wies-
+baden: VS Verlag.
+
+Newburn, T. (2003). Policing Since 1945. In T. Newburn (Hrsg.), Handbook of Policing (S. 
+84–105). Cullompton: Willan.
+
+Omi, M., & Winant, H. (2015). Racial Formation in the United States. 3. Aufl. New York/
+London: Routledge.
+
+Owen, D. (1995). Ethnic Minorities in Great Britain. Warwick: Centre for Research on 
+Ethnic Relations.
+
+Pearson, G., & Rowe, M. (2020). Police Street Powers and Criminal Justice. Oxford: Hart.
+Reiner, R. (1992). Police Research in the United Kingdom. A critical review. Crime and 
+
+Justice, 15, S. 435.
+Riekenberg, M. (2017). Geteilte Ordnungen. Eine Geschichte des Staates in Lateinamerika. 
+
+Frankfurt am Main/New York: Campus.
+Scarman, L. G. (1981). The Brixton disorders 10–12 April 1981. Report of an Inquiry by 
+
+Rt. Hon., the Lord Scarman. London: Home Office.
+Schedler, J. (2018). Wieso Bundeswehr und Polizei für Rechtsextreme attraktiv sind. FAZ.
+
+NET. https://www.faz.net/aktuell/politik/inland/wieso-bundeswehr-und-polizei-fuer-
+rechtsextreme-attraktiv-sind-15947832.html. Zugegriffen: 15. Mai 2021.
+
+Singelnstein, T. (2021a). „Was Herrn Seehofer treibt, ist mir nicht klar“. Zeit Online. 
+https://www.zeit.de/2020/31/tobias-singelnstein-racial-profiling-polizei-horst-seehofer. 
+Zugegriffen: 18. Juli 2022.
+
+Singelnstein, T. (2021b). Rassismus in der Polizei. In A. Ruch & T. Singelnstein (Hrsg.), 
+Kriminologie, Kriminalpolitik und Polizeiwissenschaft aus interdisziplinärer 
+Perspektive. Festschrift für Thomas Feltes zum 70. Geburtstag (S. 379–393). Berlin: 
+Duncker & Humblot.
+
+Souhami, A. (2014). Institutional Racism and Police Reform. Policing and Society, 24, S. 1.
+Straw, J. (1999). Statement about the report of the inquiry into the death of Stephen 
+
+Lawrence. 24.02.1999. United Kingdom Parliament home page. https://publications.
+parliament.uk/pa/cm199899/cmhansrd/vo990224/debtext/90224-21.htm. Zugegriffen: 
+18. Juli 2022.
+
+Ullrich, P. (2019). Polizei im/unter Protest erforschen. Polizeiforschung als Entdeckungs-
+reise mit Hindernissen. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft. 
+Transdisziplinäre Perspektiven zu Methoden, Theorie und Empirie reflexiver Polizei-
+forschung (S. 155–189). Wiesbaden: Springer VS.
+
+Wagner, P. (2002). Hitlers Kriminalisten. Die deutsche Kriminalpolizei und der National-
+sozialismus. München: Verlag C. H. Beck.
+
+Weinhauer, K. (2003). Schutzpolizei in der Bundesrepublik. Zwischen Bürgerkrieg und 
+Innerer Sicherheit: Die turbulenten sechziger Jahre. Paderborn: Schöningh.
+
+
+
+Polizei, Rassismus und Gesellschaft nach 1945 617
+
+Weinhauer, K. (2008). Polizeikultur und Polizeipraxis in den 1960er und 1970er Jahren: 
+Ein (bundes-)deutsch-englischer Vergleich. In C. Benninghaus, S. O. Müller, J. Requate 
+& C. Tacke (Hrsg.), Unterwegs in Europa. Beiträge zu einer vergleichenden Sozial- und 
+Kulturgeschichte (S. 201–218). Frankfurt am Main/New York: Campus.
+
+Weinhauer, K. (2020). Zwischen organisatorischen Wandlungen und kulturellen 
+Kontinuitäten: Polizei, Jugendprotest und Demonstrationen in den 1960er bis 1980er 
+Jahren. In S. Mecking (Hrsg.), Polizei und Protest in der Bundesrepublik Deutschland 
+(S. 165–184). Wiesbaden: VS Verlag.
+
+Wight, C. (2003). The Agent-structure Problem and Istititutional Racism. Political Studies, 
+51, S. 706.
+
+Wildt, M. (2015). Generation des Unbedingten. Das Führungskorps des Reichssicherheits-
+hauptamtes. 3.Aufl. Hamburg: Hamburger Edition.
+
+Williams, G. H. (1989). Police Discretion: A comparative perspective. Indiana Law 
+Journal, 64, S. 873.
+
+Prof. Dr. Klaus Weinhauer lehrt Geschichte des 19. und 20. Jahrhunderts an der Uni-
+versität Bielefeld. Seine Arbeitsschwerpunkte sind urbane Gewalt, (Innere) Sicherheit, 
+Polizei, Terrorismus, Drogenkonsum, Arbeit sowie soziale Bewegungen.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

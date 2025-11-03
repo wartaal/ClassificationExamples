@@ -1,0 +1,1154 @@
+﻿Vorhersage von Formen 
+kontraproduktiven Verhaltens und 
+Radikalisierungstendenzen in der 
+polizeilichen Personalauswahl
+
+Wim Nettelnstroth und Henriette Binder
+
+Zusammenfassung
+
+Vor dem Hintergrund der Debatte über nicht hinnehmbare Werthaltungen von 
+Polizeibeamt:innen (u. a. Radikalisierungstendenzen) richtet sich der Blick 
+auch auf die polizeiliche Personalauswahl. Für eine Personalauswahl, die 
+neben erwünschtem Verhalten auch unerwünschte Verhaltensweisen vorher-
+sagen möchte, erweisen sich Komponenten der Persönlichkeit im Vergleich 
+zu situativen Rahmenbedingungen als wichtiger. Dabei gibt es deutliche Hin-
+weise auf drei wesentliche Einflussgrößen für kontraproduktives Arbeits-
+verhalten: (1) erlebte Ungerechtigkeit, (2) Persönlichkeitsmerkmale und (3) 
+Selbstkontrolle.
+
+Schlüsselwörter
+
+Personalauswahl · Kontraproduktives Arbeitsverhalten · Radikalisierung ·  
+Persönlichkeit · Dunkle Triade
+
+W. Nettelnstroth · H. Binder (*) 
+Fachbereich Polizei und Sicherheitsmanagement (FB 5), Campus Lichtenberg, 
+Hochschule für Wirtschaft und Recht Berlin, Berlin, Deutschland
+E-Mail: henriette.binder@hwr-berlin.de
+W. Nettelnstroth 
+E-Mail: wim.nettelnstroth@hwr-berlin.de
+
+© Der/die Autor(en) 2022 621
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_29
+
+
+
+622 W. Nettelnstroth und H. Binder
+
+1 E inleitung: Gesellschaftliche und polizeiliche 
+Ausgangssituation
+
+Die mediale Darstellung nachlassender Bewerber:innenzahlen für die Polizei und 
+die Herausforderungen, die sich im Kontext des demografischen Wandels auch 
+für das Personalmanagement der Polizei ergeben,1 lassen Fragen im Rahmen der 
+Personalrekrutierung offen. Im Rahmen dieser angespannten Personalsituation 
+sämtlicher Polizeien Deutschlands2 reagierte deshalb die Polizei Hamburg im 
+Jahr 2016 mit der sogenannten Einstellungsoffensive. In diesem Zusammen-
+hang ist eine Forschungskooperation zwischen der Akademie der Polizei 
+Hamburg und der Hochschule für Wirtschaft und Recht Berlin (HWR) auf-
+gebaut worden. Eines der Ziele dieses gemeinsamen Projekts „Polizeiliche Nach-
+wuchsgewinnung“ (POLNACH) ist die Erarbeitung eines Anforderungsprofils 
+für das Einstiegsamt. Die Relevanz dieser Erarbeitung ergab sich einerseits aus 
+fehlenden wissenschaftlich fundierten Kenntnissen über die notwendigen beruf-
+lichen Kompetenzen, die Bewerber:innen für den Polizeiberuf mitbringen müssen 
+und andererseits aus Unsicherheiten darüber, welche Personalauswahlverfahren 
+zur Selektion des Bewerber:innenfeldes am geeignetsten sind.3 Deshalb bietet 
+das Projekt POLNACH neben einem evidenzbasierten Anforderungsprofil für 
+das Einstiegsamt auch Empfehlungen für Personalauswahlverfahren bzw. Ver-
+fahrenskombinationen, die Ausbildungs-, Studien- und Berufserfolg am besten 
+prognostizieren können.
+
+Die Polizei, als eine der Sicherheitsbehörden in Deutschland, erlebt und 
+beteiligt sich aktuell an einer intensiven Debatte über nicht hinnehmbare Wert-
+haltungen von Polizeibeamt:innen. So findet zum Beispiel im September 2020 
+die bundesweit besetzte Tagung „Mit Sicherheit für die Demokratie – Strategien 
+gegen Radikalisierung“, veranstaltet von der Akademie der Polizei Hamburg und 
+der Deutschen Hochschule der Polizei, statt. In der Einladung zu dieser Tagung 
+werden von polizeilicher Seite zur differenzierten Diskussion die Fragen „Gibt 
+es Radikalisierungstendenzen in den eigenen Reihen?“ und „Wie ist es um 
+die demokratische Widerstandsfähigkeit von Polizeivollzugsbeamtinnen und 
+-beamten bestellt?“ aufgeworfen. Weitere Vorhaben zu Veröffentlichungen wie 
+
+1 Nettelnstroth (2017).
+2 Z. B. Freistaat Sachsen (2020).
+3 Thielgen (2016).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 623
+
+dieses umfangreiche Herausgeberwerk von Hunold und Singelnstein mit dem 
+vorläufigen Titel „Rassismus und Diskriminierung in der polizeilichen Praxis“ 
+zeugen außerdem von einem ausgeprägten Bedürfnis nach akademischer Aus-
+einandersetzung zu diesem Thema.
+
+Vor dem Hintergrund dieser aktuellen Diskussionen und einer grundsätz-
+lichen langjährigen Diskussion über Racial Profiling oder Radikalisierungen4 
+und im Zusammenhang mit polizeipraktischen Erfahrungen5 richtet sich der 
+Blick auch auf die polizeiliche Personalauswahl. Fehlentscheidungen in diesem 
+Bereich haben unter anderem Auswirkungen auf die Unternehmenskultur und die 
+Zusammenarbeit von Mitarbeiter:innen.6
+
+Personaldiagnostik stellt an die Polizeien schon deshalb besondere Heraus-
+forderungen, weil einmal ausgewählte Mitarbeiter:innen, sollten sie sich dann 
+doch als ungeeignet herausstellen, nicht einfach aus dem Dienstverhältnis ent-
+lassen werden können7 und so zu einer langfristigen Belastung für die jeweilige 
+Behörde und ihre Mitarbeiter:innen werden können.
+
+Die aktuelle Forschungskooperation der HWR Berlin und der Akademie 
+der Polizei Hamburg baut deshalb auf die im Projekt POLNACH gewonnenen 
+Erkenntnisse auf. Sie fokussiert nun als Ziel, im Rahmen der Personalauswahl 
+Angebote für diagnostische Möglichkeiten auswählen zu können, um kontra-
+produktives Verhalten im Polizeidienst schon frühzeitig – schon während der 
+Personalauswahl – vorhersagen zu können. Es gilt die Klärung der wissen-
+schaftlichen Fragestellung: Welche Instrumente eignen sich zur Vorhersage 
+charakterlich ungeeigneter Bewerber:innen im Polizeidienst? Dabei markiert sich 
+kontraproduktives Verhalten in unerwünschtem und schädigendem Verhalten wie 
+z. B. unangemessener Kommunikation oder unangemessenem Verhalten.
+
+2 P ersonalauswahl in der deutschen Polizei
+
+Personalauswahl hat im Rahmen des Personalmanagements von Unternehmen 
+und Organisationen eine große strategische Bedeutung, denn sie gehört „zu 
+den konsequenzenreichsten Entscheidungen und […] zu den rentabelsten 
+
+4 Mildebrath (2015).
+5 U. a. Van Maanen (1975); Alain und Grégoire (2008); Fekjær et al. (2014).
+6 Ruhdorfer-Ritt (2013).
+7 Kanning (2002).
+
+
+
+624 W. Nettelnstroth und H. Binder
+
+Investitionen“8. Dabei ist die Personalauswahl eng eingebettet in andere personal-
+psychologische und personalwirtschaftliche Felder wie z. B. die Personal-
+gewinnung, -entwicklung und -beurteilung.9
+
+Kauffeld und Grohmann definieren Personalauswahl als „[…] die Zuweisung 
+von Bewerbern zu Stellen in der Organisation durch Rekrutierung und den Ein-
+satz von Auswahltechniken, die auf einer Anforderungsanalyse beruhen und der 
+Identifizierung des am besten geeigneten Bewerbers dienen“10. Hier ist erkenn-
+bar, dass zunächst fünf Schritte (1) Anwerben und Erfassen der Bewerber:innen, 
+(2) Informationen über die Bewerber:innen, (3) Informationen über die 
+Anforderungen, (4) Eignungsfeststellung, (5) Auswahlentscheidung ineinander 
+greifen.11 Und als sechster Schritt kann mit dem Ziel einer Kosten-Nutzen-
+Analyse12 noch (6) Bewährung der entsprechenden Entscheidung bzw. des 
+gesamten Vorgehens ergänzt werden.13 Der Fokus des vorliegenden Vorhabens 
+liegt auf den Schritten (4) Eignungsfeststellung und (5) Auswahlentscheidung.
+
+Im Kontext der Polizei konkretisiert Nettelnstroth das Ziel der Personalaus-
+wahl als: Unter den Bewerber:innen diejenigen auszuwählen, die einerseits den 
+Studiengang bzw. die Ausbildung erfolgreich bewältigen und andererseits ihre 
+spätere berufliche Tätigkeit erfolgreich ausüben können.14 Für die Polizeien 
+ist das Auswählen der geeigneten Bewerber:innen mit besonders großer Ver-
+antwortung besetzt, denn die einmal ausgewählten Mitarbeiter:innen bleiben 
+häufig für ihr gesamtes Berufsleben in der Organisation und können auch nicht 
+einfach aus dem Dienstverhältnis entlassen werden.15
+
+Personalauswahl findet bei den Polizeien in unterschiedlichen Bereichen statt: 
+(1) Auswahl Auszubildender/Studierender für den Polizeivollzugsdienst, (2) 
+Auswahl für spezifische Verwendungen und (3) bei der Auswahl von Führungs-
+kräften.16 Im vorliegenden Vorhaben liegt das Augenmerk auf der Auswahl von 
+Auszubildenden und Studierenden für das Einstiegsamt. Im Einstiegsamt sind 
+
+8 Schuler (2013), S. 30.
+9 Schuler (2013).
+10 Kauffeld und Grohmann (2014), S. 100.
+11 Nettelnstroth et al. (2020a).
+12 Ruhdorfer-Ritt (2013).
+13 Nettelnstroth et al. (2020a).
+14 Nettelnstroth (2017).
+15 Kanning et al. (2006).
+16 Dauksch und Remke (2013).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 625
+
+junge Nachwuchskräfte des mittleren und gehobenen Dienstes im Polizeivollzug, 
+die seit maximal fünf Jahren im Dienst ihrer Erstverwendung sind.17
+
+Zur Sicherstellung eines gemeinsamen Begriffsverständnisses werden im 
+Folgenden die Definitionen zu Berufseignung, Berufseignungsdiagnostik 
+und Anforderungsanalyse vorgenommen. Berufseignung beschreibt gemäß 
+Schuler die „Erfolgswahrscheinlichkeit einer Person in einer beruflichen Tätig-
+keit“18. Dabei sichert der Abgleich von Fähigkeiten der Bewerber:innen mit den 
+Anforderungen des Arbeitsplatzes, dass die zukünftigen Mitarbeitenden ihre 
+Arbeitsaufgaben auch realisieren können und weder über- noch unterfordert sind, 
+sodass die Arbeitsleistung optimiert werden kann.19
+
+Dieser Abgleich zwischen Bewerber:in und zu besetzender Stelle lässt sich 
+nach unterschiedlichen Arten von Passung vornehmen:
+
+• Der Person-Job-Fit gibt die Passung zwischen den Fähigkeiten/Wünschen 
+einer Person und den Ansprüchen/Aufgaben einer Person wieder.
+
+• Der Person-Organisation-Fit gibt die Passung zwischen Charakteristika der 
+Person und Charakteristika der Organisation wieder.
+
+• Der Person-Group-Fit gibt die Passung zwischen der Person und den 
+Kolleg:innen wieder.
+
+• Der Person-Supervisor-Fit gibt die Passung zwischen der Person und der:dem 
+Vorgesetzten wieder.
+
+Der Person-Job-Fit spielt in der Eignungsdiagnostik eine besonders wesent-
+liche Rolle, außerdem weist er auch den größten Zusammenhang zur generellen 
+Arbeitszufriedenheit auf.20
+
+In einem Anforderungsprofil sind tätigkeitsspezifische Anforderungen, tätig-
+keitsübergreifende Anforderungen und Befriedigungs- und Motivierungs-
+potenziale beschrieben.21 Diese müssen bzw. sollen im Sinne von Kriterien von 
+Bewerber:innen erfüllt werden. Schuler fasst die Erarbeitung einer Arbeits- und 
+Anforderungsanalyse mit der simplen Frage „Eignung wofür?“22 zusammen. Zur 
+Analyse der Anforderungen bieten sich drei methodische Zugänge an:
+
+17 Nettelnstroth et al. (2020a).
+18 Schuler (2014a), S. 3.
+19 Ruhdorfer-Ritt (2013).
+20 Kauffeld und Grohmann (2014).
+21 Schuler (2014b).
+22 Schuler (2014b), S. 63.
+
+
+
+626 W. Nettelnstroth und H. Binder
+
+• In der erfahrungsgeleitet-intuitiven Methode werden die Anforderungen aus 
+subjektiven Urteilen abgeleitet, die auf Erfahrungen basieren.
+
+• Für die arbeitsplatzanalytische-empirische Methode werden systematisch 
+Daten über konkrete Arbeitsplätze gesammelt und ausgewertet.
+
+• Für die personenbezogene-empirische Methode werden statistische Zusammen-
+hänge zwischen Merkmalen der Stelleninhaber:innen und individuellen 
+Leistungskriterien ermittelt.23
+
+Auf Basis der erfassten Arbeitsinhalte werden entsprechend des empfohlenen 
+Bottom-up-Prinzips notwendige Kompetenzen der Arbeitsplatzinhaber:innen 
+beschrieben.24 In der Literatur werden diese Kompetenzen häufig in Fach-
+kompetenz, Methodenkompetenz, Sozialkompetenz und personale Kompetenz 
+(Selbstkompetenz) eingeteilt. Darüber hinaus gibt es aber noch viele weitere 
+Kompetenzbegriffe (z. B. emotionale Kompetenz oder Führungskompetenz).25
+
+Für die Berufseignungsdiagnostik wird mithilfe psychologischer Verfahren 
+und Instrumente eine Erfolgsprognose von Bewerber:innen aufgestellt, die als 
+Entscheidungshilfe bei der Auswahl genutzt werden kann. Die Berufseignungs-
+diagnostik zum Abgleich zwischen beruflicher Anforderung und Berufseignung 
+bedarf also einerseits diagnostischer Verfahren (zur Erfassung der Berufseignung) 
+und andererseits, wie bereits beschrieben, ein Profil beruflicher Anforderungen/
+Kompetenzen, welches durch eine Arbeits- und Anforderungsanalyse erarbeitet 
+wird.26
+
+Der Markt an Personalauswahlverfahren ist groß.27 Die zur Verfügung 
+stehenden eignungsdiagnostischen Instrumente lassen sich hinsichtlich ihrer 
+methodischen Ansätze klassifizieren. Kanning und Schuler unterscheiden 
+zwischen konstrukt- oder eigenschaftsorientierten, simulationsorientierten und 
+biografieorientierten Verfahren.28 Gemeinsam bilden diese drei Verfahren den tri-
+modalen Ansatz der Eignungsdiagnostik, der verlässlichere Eignungsprognosen 
+
+23 Kauffeld und Grohmann (2014).
+24 Kanning (2015).
+25 Ruhdorfer-Ritt (2013).
+26 Schuler (2013).
+27 U. a. Ruhdorfer-Ritt (2013); Schuler (2013).
+28 Kanning und Schuler (2014).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 627
+
+Tab. 1  Instrumente der Personanalyse (Trimodaler Ansatz,  Nettelnstroth et al. 2020a, 
+S. 9)
+
+bietet (höhere Reliabilität, höhere Interpretationssicherheit) als der Einsatz nur 
+eines Ansatzes.
+
+Mit konstrukt- oder eigenschaftsorientierten Verfahren werden Leistungs-
+möglichkeiten der Bewerber:innen erfasst. Mit psychologischen Tests, grob 
+unterteilbar in Fähigkeitstests, Persönlichkeitstests und Motivations- und 
+Interessetests, können sowohl berufsrelevante Merkmale als auch spezifische 
+Fähigkeiten gemessen und mit Normwerten verglichen werden.29 Mithilfe 
+simulationsorientierter Verfahren präsentieren die Bewerber:innen in der Aus-
+wahlsituation Verhalten, welches sie in sehr ähnlicher oder gleicher Weise auch 
+am Arbeitsplatz zeigen müssten.30 Mithilfe der biografieorientierten Verfahren 
+werden aus den Informationen über vergangenes Verhalten von Bewerber:innen 
+Prognosen für künftige Leistungen getroffen.31 Einen Überblick über die 
+Instrumente des trimodalen Ansatzes bietet Tab. 1.32
+
+Die Personaldiagnostik stellt an die Polizeien spezielle Herausforderungen, 
+die sich im Wesentlichen aus zwei Punkten begründen:
+
+29 Schuler (2013).
+30 Kauffeld und Grohmann (2014).
+31 Schuler (2014c).
+32 Nettelnstroth et al. (2020a), S. 9.
+
+
+
+628 W. Nettelnstroth und H. Binder
+
+• Die besonderen Freiheitsgrade und Privilegien, die mit der Dienstausübung im 
+Polizeiberuf verbunden sind, führen zu der großen Verantwortung diese nicht 
+entgegen des Diensteides zum persönlichen Vorteil zu nutzen.33
+
+• Die einmal ausgewählten Mitarbeiter:innen verbleiben in der Regel lange in 
+den Behörden, es gibt nur eine geringe Fluktuation34, und können, sollten sie 
+sich als ungeeignet herausstellen, nicht einfach aus dem Dienstverhältnis ent-
+lassen werden35.
+
+Die Prüfung der Berufseignung für den Polizeiberuf muss deshalb mit besonderer 
+Sorgfalt vorgenommen werden.
+
+Veröffentlichungen zu empirischen Untersuchungen aus denen ein polizei-
+liches Anforderungsprofil abgeleitet werden kann, gab es lange Zeit kaum.36 
+Bei den wenigen vorhandenen Untersuchungen ist methodische Einseitig-
+keit festzustellen: Sie basieren überwiegend auf erfahrungsgeleitet-intuitivem 
+Vorgehen (Interviews).37 Zur Erhöhung der Aussagekraft der Profile wären 
+ergänzend arbeitsplatzanalytisch-empirische (Beobachtung) und personen-
+bezogen-empirische (statistisch) Vorgehen notwendig.38 Diese Lücke ist durch 
+die Forschungskooperation zwischen der Akademie der Polizei Hamburg und 
+der Hochschule für Wirtschaft und Recht Berlin (HWR) geschlossen worden: 
+Im Projekt POLNACH sind empirisch fundierte Dimensionen für ein evidenz-
+basiertes Anforderungsprofil für das Einstiegsamt erarbeitet.39
+
+Zur polizeilichen Berufseignungsdiagnostik werden Kombinationen unter-
+schiedlicher Verfahren und Instrumente eingesetzt z. B. kognitive Leistungstestes, 
+Persönlichkeitstests, Gruppendiskussionen, Rollenspiele, Auswahlgespräche.40 
+Neben der vorgestellten Erarbeitung des evidenzbasierten Anforderungsprofils 
+ist im Projekt POLNACH auch die Frage beantwortet worden: Welche  Verfahren 
+
+33 Frintrup und Mussel (2004), S. 55.
+34 Vera und Kokoska (2009).
+35 Kanning et al. (2006).
+36 Remke (2012).
+37 Thielgen (2016).
+38 Nettelnstroth et al. (2020b).
+39 Nettelnstroth et al. (2020a).
+40 Kanning et al. (2006).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 629
+
+bzw. welche Verfahrenskombinationen prognostizieren den Ausbildungs-, Studien- 
+und Berufserfolg am besten und welches Gewicht sollten sie im Gesamtverfahren 
+einnehmen? Im Rahmen einer so noch nie in der Polizei dagewesenen Massen-
+testung unter anderem mit kognitiven Leistungstests, und Persönlichkeitsverfahren 
+können Empfehlungen für geeignete Verfahren bzw. Verfahrenskombinationen zur 
+Prognose der genannten Erfolgskriterien im Polizeiberuf abgeleitet werden. Die 
+theoretisch fundierte Annahme, dass bestimmte Persönlichkeitsdimensionen sowie 
+einzelne Fähigkeiten (Intelligenz) eine hohe prognostische Validität für Leistung 
+und Zufriedenheit aufweisen, hat sich bestätigt.41
+
+3 V orhersage kontraproduktiven Verhaltens in der 
+polizeilichen Personalauswahl
+
+Der Schwerpunkt der Personalauswahl liegt im Wesentlichen auf der Identi-
+fizierung derjenigen Bewerber:innen, die ein gewünschtes Verhalten am 
+Arbeitsplatz zeigen werden.42 So sind auch im Projekt POLNACH bedeutsame 
+Erkenntnisse zur Eignungsprognose für den Polizeivollzugsdienst erarbeitet 
+worden, die darauf abzielen mit geeigneten Verfahren bzw. Verfahrens-
+kombinationen den Ausbildungs- oder Studienerfolg und den Berufserfolg vor-
+herzusagen.43 Aufbauend auf dieser Leistung liegt der Fokus dieses Beitrags nun 
+ergänzend darauf, Bewerber:innen zu identifizieren, bei denen ein Risiko besteht, 
+dass sie unerwünschtes kontraproduktives Verhalten am Arbeitsplatz zeigen 
+werden und sie deshalb – trotz bestehender sonstiger Eignung – nicht für den 
+Polizeivollzugsdienst ausgewählt werden sollten.
+
+Kontraproduktives Verhalten ist neben produktivem und extraproduktivem 
+Verhalten eine Form des Arbeitsverhaltens. In der wissenschaftlichen Literatur 
+existieren viele unterschiedliche Konzepte kontraproduktiven Verhaltens. So hat 
+zum Beispiel Kaplan bereits 1975 deviantes Verhalten am Arbeitsplatz als willent-
+liches Verhalten, welches gegen bedeutsame Normen der Organisation verstößt 
+und das Wohl der Organisation und bzw. oder das Wohl der Mitarbeiter:innen 
+gefährdet, definiert. Vergleichbar dazu legen auch Nerdinger und Schaper drei 
+Merkmale für kontraproduktives Verhalten am Arbeitsplatz nahe:
+
+41 Vgl. Nettelnstroth et al. (2020a).
+42 Gruys und Sackett (2003).
+43 Siehe Abschn. 2.
+
+
+
+630 W. Nettelnstroth und H. Binder
+
+Tab. 2  Kategorien 1. Diebstahl und damit verbundenes Verhalten
+Kontraproduktiven 
+Verhaltens (Gruys und 2. Sachbeschädigung
+Sackett 2003) 3. Missbrauch von Informationen
+
+4. Missbrauch von Zeit und Ressourcen
+5. Sicherheit vernachlässigendes Verhalten
+6. Absentismus
+7. Schlechte Arbeitsqualität
+8. Alkoholkonsum
+9. Drogenkonsum
+10. Unangemessenes kommunikatives Verhalten
+11. Unangemessene körperliche Handlungen
+
+1. Es handelt sich um ein absichtliches Verhalten,
+2. durch welches prinzipiell eine Schädigung möglich ist, aber nicht unbedingt 
+
+eingetreten sein muss, und
+3. welches den legitimen Interessen der Organisation entgegensteht und sich 
+
+auch nicht durch andere legitime Interessen aufwiegt.44
+
+Kontraproduktives Verhalten ist dabei eher ein allgemein verwendeter Begriff, 
+unter dem sich eine unübersichtliche Vielzahl unterschiedlicher Formen dieses 
+Verhaltens fassen lassen. Gruys und Sackett haben aus 87 Formen kontra-
+produktiven Verhaltens elf Kategorien zusammenfassen können:
+
+Robinson und Bennett haben auf Basis mehrdimensionaler Skalierungs-
+technik eine Typologie zugrunde gelegt45: Danach variiert kontraproduktives 
+Verhalten auf zwei Dimensionen einmal bezüglich der Intensität (von gering-
+fügig bis ernsthaft) und zum anderen bezüglich des Objekts (von interpersonal 
+bis organisational). Die resultierende Vierfeldertafel zeigt vier Klassen kontra-
+produktiven Verhaltens: Produktionsschädigung, Eigentumsschädigung, 
+Politische Abweichung und Aggression. Von den vielen unterschiedlichen 
+
+44 Nerdinger und Schaper (2014).
+45 Vgl. insgesamt zum Folgenden Robinson und Bennett (1995).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 631
+
+Formen kontraproduktiven Verhaltens ist für das vorliegende Projekt unter 
+anderem rassistisches Verhalten von Polizeibeamt:innen von Bedeutung, dabei ist 
+Rassismus „aus Sicht der Stereotypen- und Vorurteilsforschung ein extremes Vor-
+urteil“46 gegenüber Personen und/oder Gruppen, die auf Basis von unveränder-
+lichen ihnen zugeschriebenen Merkmalen abgewertet werden. Entsprechend der 
+vorgestellten Typologie von Robinson und Bennett wäre rassistisches Verhalten 
+in der Vierfeldertafel als ernsthaft und interpersonal einzuordnen, also der Klasse 
+der Aggressionen zugehörig.
+
+Kontraproduktive Verhaltensweisen hängen positiv miteinander zusammen, 
+deshalb können sich Variablen, die sich bereits als signifikante Prädiktoren für 
+eine bestimmte kontraproduktive Verhaltensweise bestätigt haben, auch als nütz-
+lich zur Vorhersage anderer kontraproduktiver Verhaltensweisen erweisen.47 Dies 
+sollte zumindest in Betracht gezogen und empirisch überprüft werden.
+
+Die Forschung zu Einflussvariablen kontraproduktiven Verhaltens, die sich 
+auch als Prädiktoren dieses unterwünschten Verhaltens eignen können, ist aus 
+zwei Gründen erschwert48:
+
+• Die soziale Unerwünschtheit der konkreten kontraproduktiven Verhaltens-
+weisen schränkt die Konstruktvalidität deutlich ein.
+
+• Schwerpunkte der Forschung sind in der Regel sehr spezifische kontra-
+produktive Verhaltensweisen.
+
+Trotz dieser forschungsbezogenen Herausforderungen legen bestehende Ergeb-
+nisse nahe, dass personalen Komponenten eine größere Bedeutung für deviantes 
+Verhalten am Arbeitsplatz zukommt als situativen Rahmenbedingungen.49 Nach 
+Nerdinger und Schaper gibt es deutliche Hinweise für drei Einflussgrößen: 
+erlebte Ungerechtigkeit, Persönlichkeitsmerkmale und Selbstkontrolle.50 Modelle 
+und Theorien zu diesen Variablen werden in den folgenden Abschnitten vor-
+gestellt und mit Erkenntnissen aus der empirischen Polizeiforschung – sofern vor-
+handen – verglichen.
+
+46 Zick (2020), S. 125.
+47 Gruys und Sackett (2003).
+48 Vgl. Nerdinger und Schaper (2014).
+49 Marcus und Schuler (2004).
+50 Nerdinger und Schaper (2014).
+
+
+
+632 W. Nettelnstroth und H. Binder
+
+Tab. 3  Bezüglich kontraproduktiven Verhaltens relevante Dimensionen des Anforderungs-
+profils aus dem Projekt POLNACH (Nettelnstroth et al. 2020b, S. 148)
+
+Dimensionen des  Verhalten
+Anforderungsprofils Die zu beurteilende Person…
+Reflektierte Einstellung •  ist in der Lage Kritik umzusetzen und daraus zu lernen
+
+•  zeigt ein angemessenes Verhalten, das auf einer reflektierten 
+Einstellung und Verantwortungsbewusstsein beruht
+
+Psychische Stabilität •  verfügt über ein gesundes Selbstbewusstsein und vertraut 
+den eigenen Fähigkeiten
+
+•  kann mit hohen Belastungen gut umgehen und zeigt aus-
+geglichene emotionale Reaktionen
+
+3.1  Erlebte Ungerechtigkeit als Prädiktor 
+kontraproduktiven Verhaltens
+
+Erleben Mitarbeiter:innen Ungerechtigkeit im Arbeitskontext, dann erhöht 
+dies die Wahrscheinlichkeit für das Auftreten kontraproduktiven Verhaltens. 
+Bereits in 1990 zeigt Greenberg51 in einem Feldexperiment, dass eine nicht 
+angemessen begründete Gehaltskürzung als ungerecht empfunden wird und 
+zu einem höheren Materialschwund (im Sinne der Kategorie 1 Diebstahl und 
+damit verbundenes Verhalten, siehe Tab. 2) führt, als in einer Vergleichsgruppe, 
+die die Begründung für die Gehaltskürzung als angemessener und deshalb als 
+weniger ungerecht empfindet. Theoretisches Fundament dieser Untersuchung ist 
+die Equity-Theorie nach Adams.52 Das Verhältnis von Leistung zu Belohnung 
+bzw. Investition zu Belohnung wird durch das Individuum bewertet. Im Falle 
+eines wahrgenommenen Missverhältnisses folgt Motivation zu einer aus-
+gleichenden Reaktion entweder durch Kompensation oder durch Aufwertung. In 
+Greenbergs Feldexperiment ist in der Gruppe derjenigen, die die Gehaltskürzung 
+
+51 Greenberg (1990).
+52 Adams (1965).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 633
+
+als inadäquat begründete Ungerechtigkeit erlebt, Diebstahl als Kompensation 
+eingesetzt worden.53 Nerdinger und Schaper weisen in diesem Zusammen-
+hang auf die Nähe zur Erklärung kontraproduktiven Verhaltens über erlebte 
+Frustration hin.54 Wenn Frustration als ein Zustand definiert wird, der in Folge 
+einer Behinderung einer Zielerreichung entsteht, dann kann der Aggression-
+Frustrations-Hypothese55 folgend, Aggression gegen Personen oder die 
+Organisation eine mögliche Folge sein.56
+
+Die Möglichkeit, die erlebte Ungerechtigkeit als Prädiktor kontraproduktiven 
+Verhaltens bereits in der Personalauswahl zu nutzen, ist zum Zeitpunkt der 
+Erstellung der vorliegenden Ausführungen noch unklar. Nerdinger und Schaper 
+(2014) empfehlen den Einsatz von „situativen und Stressinterviews, wobei vor 
+allem Fragen zu früher erlebter unfairer Behandlung hilfreich sind, da wahr-
+genommene Ungerechtigkeit wesentlich zur Motivation aggressiven Ver-
+haltens am Arbeitsplatz beitragen“57. Aus der gesichteten Literatur ergibt sich 
+als ein Anhaltspunkt für weitere Forschung in diesem Kontext der Einsatz eines 
+Instruments zur Messung von Ungerechtigkeitssensibilität.58
+
+Außerdem bietet es sich an, einem Hinweis im Kontext des in Abschn. 3.3 
+dargelegten Zusammenhangs zwischen Selbstkontrolle und kontraproduktiven 
+Verhaltens nachzugehen: Die Autoren der General Theory of Crime (GOTC) 
+operationalisieren eine geringe Selbstkontrolle, die einen Zusammenhang 
+zum kontraproduktiven Verhalten aufweist, über die Beschreibung von sechs 
+Bereichen.59 Von diesen Bereichen ist einer als geringe Frustrationstoleranz 
+beschrieben. Geeignete Skalen zur Messung der Selbstkontrolle im Rahmen einer 
+Berufseignungsdiagnostik sind vorhanden60, sodass im Kontext einer Prüfung 
+der Einsatzmöglichkeiten eines Instruments zur Messung der Selbstkontrolle, der 
+Aspekt der Frustration gesondert bedacht werden sollte.
+
+53 Greenberg (1990).
+54 Nerdinger und Schaper (2014).
+55 Dollard et al. (1939).
+56 Vgl. Berkowitz (1989).
+57 Nerdinger und Schaper (2014), S. 455.
+58 Beierlein et al. (2012).
+59 Gottfredson und Hirschi (1990).
+60 Z. B. Deutsche Version der Self-Control Skala, Seipel (2002).
+
+
+
+634 W. Nettelnstroth und H. Binder
+
+3.2  Persönlichkeitsmerkmale als Prädiktoren 
+kontraproduktiven Verhaltens
+
+Der Einfluss von Persönlichkeitsmerkmalen auf kontraproduktives Verhalten 
+ist durch Metaanalysen belegt.61 So weisen Integrität, Dimensionen des Fünf-
+Faktoren-Modells und die sogenannte Dunkle Triade Zusammenhänge auf.62 
+Außerdem stellt sich Autoritarismus als ein starker Prädiktor für Vorurteile dar63 
+und zeigt auch deutliche Zusammenhänge zu rechtsextremen Einstellungen auf64.
+
+3.2.1 I ntegrität und kontraproduktives Verhalten
+Frintrup, Schuler und Mussel beschreiben integres Verhalten im Arbeitskontext 
+als „sich selbst in Situationen, in denen keine Entdeckungswahrscheinlich-
+keit besteht oder in denen keine unmittelbar entgegenstehende Regelung ein 
+bestimmtes Verhalten untersagt, im Sinne und zum Wohle einer Organisation zu 
+verhalten“65. Integrität auch im Sinne von Vertrauenswürdigkeit ist als Eigen-
+schaft eng mit dem Big-Five-Faktor Gewissenhaftigkeit verwandt66, sie eignet 
+sich sogar noch besser als Gewissenhaftigkeit zur Vorhersage des Vorgesetzten-
+urteil über die berufliche Leistung67. Betont wird in diesem Kontext auch die 
+Wichtigkeit der Integrität in sicherheitssensiblen Bereichen, also auch in den 
+Polizeien.68
+
+Der Zusammenhang von Integrität und kontraproduktivem Verhalten ist bereits 
+über viele Jahre gut belegt.69 Gourmelon zeigt, dass der Einsatz eines Integritäts-
+tests im Auswahlverfahren das Risiko der Einstellung von Nachwuchskräften, die 
+kontraproduktives Verhalten im Dienst zeigen, deutlich (und zwar bis zu 50 %) 
+reduzieren kann.70
+
+61 Sackett und DeVore (2001).
+62 Nerdinger und Schaper (2014).
+63 McFarland (2010).
+64 Decker et al. (2020).
+65 Frintrup et al. (2004), S. 58.
+66 Asendorpf (2019).
+67 Schmidt und Hunter (1998).
+68 Asendorpf (2019).
+69 Ones und Viswesvaran (2001); Van Iddekinge et al. (2012).
+70 Gourmelon (2017).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 635
+
+Frintrup und Mussel empfehlen bereits im Jahr 2004 den Einsatz von Integri-
+tätstests zur Negativ-Auswahl von Bewerber:innen für den Polizeidienst.71 Und 
+auch im Projekt POLNACH ist im Rahmen der Massentestungen ein Inventar 
+zur Messung der Glaubwürdigkeit von Selbstauskünften in der Personalauswahl 
+eingesetzt worden.72 Es zeigt sich, dass etwa ein Fünftel der Teilnehmer:innen 
+eine eingeschränkte Glaubwürdigkeit und ein weiteres Viertel eine stark ein-
+geschränkte Glaubwürdigkeit aufweisen.73
+
+3.2.2 F aktoren des Fünf-Faktoren-Modells und 
+kontraproduktives Verhalten
+
+Von den Big-Five-Persönlichkeitsfaktoren74 korreliert Gewissenhaftigkeit am 
+höchsten mit kontraproduktiven Verhalten.75 Hough gehört zu den ersten, die in 
+einer Metaanalyse einen Zusammenhang zwischen einer Variablen (unverantwort-
+liches Verhalten), welche die Voraussetzungen für kontraproduktives Verhalten 
+erfüllt, durch Merkmale, die dem Big-Five-Faktor Gewissenhaftigkeit zuzuordnen 
+sind, nachweisen kann.76 Außerdem deuten sich ebenfalls Zusammenhänge zu 
+Emotionaler Stabilität und Offenheit für Erfahrung an. In weiteren Metaanalysen 
+können Kategorien kontraproduktiven Verhaltens durch die Big-Five-Faktoren 
+Gewissenhaftigkeit und teils auch durch Verträglichkeit aufgeklärt werden.77
+
+In einer polizeilichen Stichprobe kann eine Risikogruppe in Kombination mit 
+den Big-Five-Faktoren und Risikoverhalten identifiziert werden.78 Diese Risiko-
+gruppe zeichnet sich durch jeweils erhöhtes Risikoverhalten, emotionale Stabilität 
+und Sensitivität aus und weist gleichzeitlich eine geringe Soziabilität auf.79
+
+Von dem im Projekt POLNACH erarbeiteten evidenzbasierten Anforderungs-
+profil tangieren von den fünf gefundenen Dimensionen zwei – nämlich einmal die 
+Reflektierte Einstellung und außerdem Psychische Stabilität – kontraproduktives 
+Verhalten (siehe Tab. 3). Die Beschreibung der Dimension „Psychische Stabilität“ 
+
+71 Frintrup und Mussel (2004).
+72 IGIP, Kanning (2011).
+73 Nettelnstroth et al. (2020b).
+74 U. a. BFI-2: Extraversion, Verträglichkeit, Gewissenhaftigkeit, Negative Emotionalität, 
+Offenheit; Danner et al. (2019).
+75 Van Iddekinge et al. (2012).
+76 Hough (1992).
+77 Salgado (2002); Dalal (2005); Berry et al. (2007).
+78 Damm (2017).
+79 Siehe auch Abschn. 3.3.
+
+
+
+636 W. Nettelnstroth und H. Binder
+
+Tab. 4  Übersicht über ausgewählte Verfahren (Prädiktoren und Kriterium, eigene Dar-
+stellung)
+
+Übersicht über Prädiktoren  Verfahren (Auswahl)
+und Kriterium
+Erlebte Ungerechtigkeit Kurzskalen zur Messung der Ungerechtigkeitssensibili-
+
+tät: die Ungerechtigkeitssensibilität-Skalen-8
+USS-880a
+
+Integrität Persönlichkeitsinventar zur Integritätsabschätzung
+PIA81
+
+Big Five Persönlichkeits- Die deutsche Version des Big Five Inventory 2
+faktoren BFI-282
+
+Dunkle Triade Das Dreckige Dutzend und die Niederträchtigen Neun – 
+Kurzskalen zur Erfassung von Narzissmus, Machiavellis-
+mus und Psychopathie83
+
+Autoritarismus Kurzskala Autoritarismus
+KSA-384
+
+Selbstkontrolle Deutsche Version der Self-Control Skala85
+
+Kontraproduktives Verhalten Inventar berufsbezogener Einstellungen und Selbstein-
+schätzungen
+IBES86
+
+legt einen Zusammenhang zum Big-Five-Persönlichkeitsfaktor Neurotizismus 
+zumindest theoretisch nahe.87
+
+3.2.3 D unkle Triade und kontraproduktives Verhalten
+Eine Metaanalyse, in die 245 Stichproben eingeflossen sind, zeigt 
+den Zusammenhang zwischen der sogenannten dunklen Triade und 
+
+80 Beierlein et al. (2012).
+81 Mussel (2007).
+82 Danner et al. (2019).
+83 Küfner et al. (2015).
+84 Beierlein et al. (2015).
+85 Seipel (2002).
+86 Marcus (2006).
+87 Nettelnstroth et al. (2020b).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 637
+
+ kontraproduktivem Verhalten.88 Die dunkle Triade beschreibt Ausprägungen der 
+Persönlichkeit, die sich noch im Normalbereich bewegen, jedoch sozial eher 
+unerwünscht sind89. Unterschieden werden die drei folgenden, untereinander 
+korrelierenden Varianten der Persönlichkeit:
+
+• Narzissmus beschreibt eine übermäßig ausgeprägte Selbstbezogenheit, die in 
+einem grandiosen Selbstbild mündet. Andere Menschen werden dafür benutzt 
+in dieser positiven Sicht auf das eigene Selbst bestätigt zu werden, und diese 
+zusätzlich zu verstärken.
+
+• Psychopathie beschreibt eine Mischung aus antisozialem Verhalten und anti-
+sozialer Emotionalität. Daraus resultieren mangelnde Sorge um Andere, 
+unverbindlicher Umgang mit sozialen Regeln, Impulsivität und mangelndes 
+Schuldgefühl.
+
+• Machiavellismus beschreibt eine Ausprägung von manipulativen Verhaltens-
+weisen, die sich nicht an moralischen Standards orientieren. Die zugrunde-
+liegende Weltsicht ist zynisch und emotional kalt.90
+
+In der gesichteten Literatur sind keine Hinweise auf bestehende Erkenntnisse zur 
+Ausprägung der dunklen Triade bei Polizeivollzugsbeamt:innen vorhanden.
+
+3.2.4 A utoritarismus und kontraproduktives Verhalten
+Autoritarismus ist bereits in den 1950er Jahren als ein psychologisches Konstrukt 
+zur Erklärung von faschistischen und nationalistischen Einstellungen beschrieben 
+worden.91 Das seitdem stets weiterentwickelte Konstrukt umfasst in seiner 
+aktuellen Fassung nach Altemeyer drei Dimensionen92:
+
+• Autoritäre Aggressionen sind Aggressionen gegenüber Personen, die kon-
+ventionellen Werten bzw. den Werten der eigenen Bezugsgruppe nicht ent-
+sprechen.
+
+88 O’Boyle et al. (2012).
+89 Paulhus und Williams (2002).
+90 Vgl. Nerdinger und Schaper (2014); Asendorpf (2019).
+91 Adorno et al. (1950).
+92 Altemeyer (1996).
+
+
+
+638 W. Nettelnstroth und H. Binder
+
+• Autoritäre Unterwürfigkeit beschreibt Unterwürfigkeit gegenüber idealisierten 
+Autoritäten der Eigengruppe, deren Anordnungen unkritisch ausgeführt 
+werden.
+
+• Konventionalismus ist die Orientierung an etablierten konventionellen Werten, 
+insbesondere den Werten, die von der eigenen Bezugsgruppe geteilt werden.93
+
+Neuere Theorien stellen Autoritarismus als Persönlichkeitsdimension infrage, sie 
+verorten das Beschriebene als soziale Einstellungsdimension(en).94 Unabhängig 
+von diesem Aspekt ist Autoritarismus für das vorliegende Vorhaben in jedem Fall 
+von hoher Relevanz, da es sich als starker Prädiktor für Vorurteile erweist95 und 
+auch Petersen erörtert die Bedeutung von Autoritarismus für diskriminierendes 
+Verhalten96. Außerdem zeigen Decker et al. deutliche Zusammenhänge zu rechts-
+extremen Einstellungen auf.97
+
+In der gesichteten Literatur sind keine Hinweise auf bestehende Erkenntnisse 
+zur Ausprägung von Autoritarismus bei deutschen Polizeivollzugsbeamt:innen 
+vorhanden. Eine israelische Untersuchung unter sicherheitsrelevanten Berufs-
+gruppen und einer Kontrollgruppe zeigt jedoch, dass Grenzpolizisten 
+(ausschließlich Männer) die signifikant höchsten Werte in der eingesetzten 
+Autoritarismus-Skala aufweisen.98
+
+3.3  Selbstkontrolle als Prädiktor kontraproduktiven 
+Verhaltens
+
+Selbstkontrolle erweist sich als ein starkes Korrelat (im Sinne eines negativen 
+Zusammenhangs) zu kontraproduktivem Verhalten99. Ein wesentliches 
+theoretisches Fundament zum Zusammenhang von Selbstkontrolle und 
+delinquentem Verhalten bietet die General Theory of Crime (GOTC)100 von 
+
+93 Vgl. McFarland (2010).
+94 Vgl. Duckitt (2015).
+95 McFarland (2010).
+96 Petersen (2020).
+97 Decker et al. (2020).
+98 Rubinstein (2006).
+99 Pratt und Cullen (2000).
+100 Gottfredson und Hirschi (1990).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 639
+
+Gottfredson und Hirschi. In dieser wird Selbstkontrolle als ein relativ stabiles 
+Persönlichkeitsmerkmal erachtet. Während eine hohe Selbstkontrolle die Wahr-
+scheinlichkeit von kriminellen Handlungen reduziert, ist eine geringe Selbst-
+kontrolle eher mit kriminellen Handlungen assoziiert. Die Entstehung geringer 
+Selbstkontrolle wird im familiären Sozialisationsraum in der Kindheit mit 
+unwirksamer Erziehung und geringer Bindung angesiedelt. Im Folgenden sind die 
+von Gottfredson und Hirschi beschriebenen Charakteristika für geringe Selbst-
+kontrolle aufgelistet101:
+
+• starke „Hier und Jetzt“-Orientierung
+• geringe Sorgfalt, geringe Persistenz und geringe Verlässlichkeit
+• starke Abenteuerlust/Risikoverhalten
+• ausgeprägtes Bedürfnis nach körperlicher Aktivität
+• starke Tendenz zur Selbstbezogenheit
+• Insensibilität
+• geringe Frustrationstoleranz
+
+Während Metaanalysen102 eine niedrige Selbstkontrolle unabhängig von der 
+Messung als Prädiktor für abweichendes Verhalten bestätigen, zeigte sich in 
+einer jüngeren Studie mit Kindern und Jugendlichen unterschiedlicher Alters-
+stufen, dass nicht alle Dimensionen von Selbstkontrolle einen Zusammenhang zu 
+abweichendem Verhalten aufweisen. Einen starken Effekt auf kontraproduktives 
+Verhalten hat aber, wie in anderen Untersuchungen, auch hier das Risikoverhalten 
+als Dimension der Abenteuerlust.103
+
+Erkenntnisse zur Ausprägung der Selbstkontrolle von Polizeibeamt:innen sind 
+in der bestehenden Literatur der empirischen Polizeiforschung nur vereinzelt 
+gefunden worden.104 So weisen in einer Untersuchung von Ellrich und Baier bei 
+einem Vergleich ausgewählter Personenmerkmale Polizeibeamt:innen geringere 
+Werte der Selbstkontrolle auf, als die Allgemeinbevölkerung.105 Die Ergebnisse 
+einer aktuellen Untersuchung deuten außerdem theoriekonform einen negativen 
+
+101 Gottfredson und Hirschi (1990).
+102 Z. B. Pratt und Cullen (2000).
+103 Schepers (2016).
+104 Z. B. Kanning (2002).
+105 Ellrich und Baier (2015).
+
+
+
+640 W. Nettelnstroth und H. Binder
+
+Zusammenhang zwischen Selbstkontrolle und persönlicher Beteiligung an 
+Eskalationen in polizeilichen Einsatzsituationen an.106
+
+Zu einer Facette der Selbstkontrolle, dem Risikoverhalten, konnte in 
+einer polizeilichen Stichprobe in Kombination mit den Big Five eine Risiko-
+gruppe identifiziert werden.107 Diese Risikogruppe zeichnet sich durch jeweils 
+erhöhtes Risikoverhalten, emotionale Stabilität und Sensitivität aus und weist 
+gleichzeitlich eine geringe Soziabilität auf. Dieser Typus macht immerhin etwa 
+ein Fünftel der Stichprobe aus. Nettelnstroth übersetzt die Charakteristika dieser 
+Risikogruppe mit Ich nehme gerne Risiken in Kauf, bin dabei total ruhig, weiß 
+genau, wie der Andere sich fühlt und das bedeutet mir überhaupt nichts.108
+
+4 F azit und Ausblick
+
+Zukünftige Forschungsansätze müssen darauf abzielen, kontraproduktives Ver-
+halten bereits frühzeitig, also noch vor Eintritt in die Polizeibehörde, vorhersagen 
+zu können.
+
+Im Projekt POLNACH sind wesentliche Erkenntnisse zur allgemeinen 
+Eignungsprognose erreicht, Verfahren bzw. Verfahrenskombinationen zur Aus-
+wahl geeigneter Bewerber:innen sind vorhanden.109 Neben dieser Selektion 
+der geeigneten Bewerber:innen auf Basis einer günstigen Prognose hinsichtlich 
+der Erfolgskriterien für den Polizeiberuf, sollte zusätzlich auch eine Selektion 
+auf Basis der Vorhersage kontraproduktiven Verhaltens vorgenommen werden. 
+Dies hat für die Polizeien hervorzuhebende Relevanz, da der Polizeiberuf mit 
+besonderen Freiheitsgraden und großer Verantwortung einhergeht110 und sich von 
+Mitarbeiter:innen, sollten sie sich doch nicht als geeignet herausstellen, nicht sehr 
+einfach wieder getrennt werden kann111.
+
+Um dem Ziel der Vorhersage von Formen kontraproduktiven Verhaltens 
+und Radikalisierungstendenzen in der polizeilichen Personalauswahl gerecht 
+zu werden, können statistische Zusammenhänge zwischen Eigenschaften von 
+
+106 Rabehl (2021).
+107 Damm (2017).
+108 Nettelnstroth (2020).
+109 Nettelnstroth et al. (2020b).
+110 Frintrup und Mussel (2004).
+111 Kanning (2002).
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 641
+
+Stelleninhaber:innen im Polizeivollzugsdienst und Maßen kontraproduktiven 
+Verhaltens ermittelt werden (siehe Tab. 4). Kontraproduktives Verhalten soll 
+dabei nicht nur über Selbstaussagen der Befragten erfasst werden, sondern 
+zusätzlich auch über Fremdbeurteilungen (von zum Beispiel Vorgesetzten oder 
+Kolleg:innen) erfasst werden.
+
+Literatur
+
+Adams, J. S. (1965). Inequity In Social Exchange. Advances in Experimental Social 
+Psychology, 2, S. 267.
+
+Adorno, T. W., Frenkel-Brunswik, E., Levinson, D., & Sanford, N. (1950). The 
+authoritarian personality. New York: Harper.
+
+Alain, M., & Grégoire, M. (2008). Can ethics survive the shock of the job? Quebec’s police 
+recruits confront reality. Policing & Society, 18, S. 169.
+
+Altemeyer, B. (1996). The authoritarian specter. Cambridge, MA: Harvard University 
+Press.
+
+Asendorpf, J. B. (2019). Persönlichkeitsbereiche. In J. B. Asendorpf (Hrsg.), Persönlich-
+keitspsychologie für Bachelor (S. 81–150). Berlin, Heidelberg: Springer.
+
+Beierlein, C., Asbrock, F., Kauff, M., & Schmidt, P. (2015). Die Kurzskala Autoritarismus 
+(KSA-3). Zusammenstellung sozialwissenschaftlicher Items und Skalen (ZIS). https://
+doi.org/10.6102/zis228.
+
+Beierlein, C., Baumert, A., Schmitt, M., Kemper, C. J., Kovaleva, A., & Rammstedt, B. 
+(2012). Kurzskalen zur Messung der Ungerechtigkeitssensibilität: Die Ungerechtig-
+keitssensibilität-Skalen-8 (USS-8). GESIS-Working Papers. https://www.gesis.org/
+fileadmin/kurzskalen/working_papers/USS8_Workingpaper.pdf. Zugegriffen: 18. Juli 
+2022.
+
+Berkowitz, L. (1989). Frustration-Aggression Hypothesis: Examination and Reformulation. 
+Psychological Bulletin, 106, S. 59.
+
+Berry, C., Ones, D., & Sackett, P. (2007). Interpersonal Deviance, Organizational Deviance, 
+and Their Common Correlates: A Review and Meta-Analysis. The Journal of applied 
+psychology, 92, S. 410.
+
+Dalal, R. S. (2005). A Meta-Analysis of the Relationship Between Organizational 
+Citizenship Behavior and Counterproductive Work Behavior. Journal of Applied 
+Psychology, 90, S. 1241.
+
+Damm, P. (2017). Persönlichkeitsstrukturen von Polizeibeamten/-innen und Delinquenten 
+im Vergleich. Unveröffentlichte Bachelorarbeit: Hochschule für Wirtschaft und Recht 
+Berlin.
+
+Danner, D., Rammstedt, B., Bluemke, M., Treiber, L., Berres, S., Soto, C., & John, 
+O. (2019). Das Big-Five Inventar 2: Validierung eines Persönlichkeitsinventars zur 
+Erfassung von 5 Persönlichkeitsdomänen und 15 Facetten. Diagnostica, 65, S. 121.
+
+Dauksch, J., & Remke, S. (2013). Die Wirksamkeit von Persönlichkeitstests in der 
+Personalauswahl von polizeilichen Spezialverwendungen am Beispiel einer 
+Beweissicherungs- und Festnahmeeinheit. Polizei & Wissenschaft, 1, S. 28.
+
+
+
+642 W. Nettelnstroth und H. Binder
+
+Decker, O., Kiess, J., Schuler, J., Handke, B., Pickel, G., & Brähler, E. (2020). Autoritäre 
+Dynamiken: Alte Ressentiments – neue Radikalität. Leipziger Autoritarismus Studie 
+2020: Methode, Ergebnisse und Langzeitverlauf. Gießen: Psychosozial-Verlag.
+
+Dollard, J., Doob, L. W., Miller, N. E., Mowrer, O. H., Sears, R. R., Yale University, & 
+Institute of Human Relations (1939). Frustration and aggression. New Haven/London: 
+Pub. for the Institute of human relations by Yale University Press; Oxford University 
+Press. http://search.ebscohost.com/direct.asp?db=pzh&jid=200416227&scope=site. 
+Zugegriffen: 3. März 2021.
+
+Duckitt, J. (2015). Authoritarian Personality. In: J. D. Wright (Hrsg.), International 
+Encyclopedia of the Social & Behavioral Sciences (S. 255–261). Oxford: Elsevier.
+
+Ellrich, K., & Baier, D. (2015). Die Polizei – ein Spiegel der Gesellschaft? Ein Vergleich 
+von Personenmerkmalen und Wohlbefinden zwischen Einsatz- und Streifendienst-
+beamten und der Allgemeinbevölkerung in Niedersachsen. Polizei & Wissenschaft, 16, 
+S. 48.
+
+Fekjær, S. B., Petersson, O., & Thomassen, G. (2014). From legalist to Dirty Harry: 
+Police recruits’ attitudes towards non-legalistic police practice. European Journal of 
+Criminology, 11, S. 745.
+
+Freistaat Sachsen (2020). Expertengruppe empfiehlt 840 zusätzliche Stellen bei der 
+sächsischen Polizei. https://www.medienservice.sachsen.de/medien/news/233706. 
+Zugegriffen: 18. Juli 2022.
+
+Frintrup, A., & Mussel, P. (2004). Personalauswahl von Polizeibeamten und Mitarbeitern in 
+Sicherheitsbehörden: Ein Plädoyer für psychologische Integritätsdiagnostik. Polizei & 
+Wissenschaft, 5, S. 55.
+
+Frintrup, A., Schuler, H., & Mussel, P. (2004). Gelegenheit macht Diebe? – Berufliche 
+Integritätsdiagnostik mit PIA. Wirtschaftspsychology aktuell, 4, S. 58.
+
+Gottfredson, M. R., & Hirschi, T. (1990). A general theory of crime. Stanford, CA: Stan-
+ford University Press.
+
+Gourmelon, A. (2017). Bewährung von Integritätstests in der Praxis – Studienergebnisse 
+aus dem öffentlichen Sektor. In C. Stark (Hrsg.), Korruptionsprävention: Klassische 
+und ganzheitliche Ansätze (S. 21–35). Wiesbaden: Springer Fachmedien.
+
+Greenberg, J. (1990). Employee theft as a reaction to underpayment inequity: The hidden 
+cost of pay cuts. Journal of Applied Psychology, 75, S. 561.
+
+Gruys, M. L., & Sackett, P. R. (2003). Investigating the Dimensionality of 
+Counterproductive Work Behavior. International Journal of Selection and Assessment, 
+11, S. 30.
+
+Hough, L. M. (1992). The „Big Five“ Personality Variables–Construct Confusion: 
+Description Versus Prediction. Human Performance, 5, S. 139.
+
+Kanning, U. P. (2002). Soziale Kompetenzen von Polizeibeamten. Polizei & Wissenschaft, 
+3, S. 18.
+
+Kanning, U. P. (2011). Inventar zur Messung der Glaubwürdigkeit in der Personalauswahl 
+(IGIP). Göttingen: Hogrefe.
+
+Kanning, U. P. (2015). Personalauswahl zwischen Anspruch und Wirklichkeit: Eine wirt-
+schaftspsychologische Analyse. Berlin: Springer.
+
+Kanning, U. P., Jens, M., & Schlösser, S. (2006). Anforderungsanalyse zur Bestimmung 
+grundlegender sozialer Kompetenzen für den gehobenen Polizeivollzugsdienst. Polizei 
+& Wissenschaft, 7, S. 36.
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 643
+
+Kanning, U. P. & Schuler, H. (2014). Lehrbuch der Personalpsychologie. 3. Aufl. 
+Göttingen: Hogrefe.
+
+Kaplan, H. B. (1975). Self-Attitudes and Deviant Behavior. Pacific Palisades, CA: 
+Goodyear.
+
+Kauffeld, S., & Grohmann, A. (2014). Personalauswahl. In S. Kauffeld (Hrsg.), Arbeits-, 
+Organisations- und Personalpsychologie für Bachelor (S. 99–118). Berlin, Heidelberg: 
+Springer.
+
+Küfner, A. C. P., Dufner, M., & Back, M. D. (2015). Das Dreckige Dutzend und die 
+Niederträchtigen Neun. Diagnostica, 61, S. 76.
+
+Marcus, B. (2006). IBES. Inventar berufsbezogener Einstellungen und Selbstein-
+schätzungen. Göttingen: Hogrefe.
+
+Marcus, B., & Schuler, H. (2004). Antecedents of Counterproductive Behavior at Work: A 
+General Perspective. Journal of Applied Psychology, 89, S. 647.
+
+McFarland, S. (2010). Authoritarianism, Social Dominance, and Other Roots of 
+Generalized Prejudice. Political Psychology, 31, S. 453.
+
+Mildebrath, C. (2015). Entwicklung und Veränderung von Vorurteilen durch polizei-
+praktische Erfahrung im Studium: Thema: Bildung, Veränderung und Erhärtung von 
+Vorurteilen mit polizeilichem Zusammenhang im praktischen polizeilichen Dienst. 
+Unveröffentlichte Bachelorarbeit: Hochschule für Wirtschaft und Recht Berlin.
+
+Mussel, P. (2007). Persönlichkeitsinventar zur Integritätsabschätzung (PIA). In J. 
+Erpenbeck & L. von Rosenstiel (Hrsg.), Handbuch Kompetenzmessung: Erkennen, ver-
+stehen und bewerten von Kompetenzen in der betrieblichen, pädagogischen und psycho-
+logischen Praxis (S. 3–18). 2. Aufl. Stuttgart: Schäffer-Poeschel.
+
+Nerdinger, F. W., & Schaper, N. (2014). Formen des Arbeitsverhaltens. In F. W. Nerdinger, 
+G. Blickle & N. Schaper (Hrsg.), Arbeits- und Organisationspsychologie (S. 441–459). 
+Berlin, Heidelberg: Springer.
+
+Nettelnstroth, W. (2017). Anforderungen an die polizeiliche Personalauswahl – Empirische 
+Erkenntnisse zum Person-Job Fit. In A. Fischbach, P. W. Lichtenthaler, J. Boltz & B. 
+Werdes (Hrsg.), Erfolgreiches Personalmanagement in der Polizei, Psychologie in der 
+Polizeiwissenschaft (S. 89–106). Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Nettelnstroth, W. (2020). Einführung geeigneter Persönlichkeitstestverfahren zur 
+Erkennung charakterlicher Eignung. Präsentation gehalten auf der „Mit Sicherheit 
+für die Demokratie – Strategien gegen Radikalisierung“ – Zukunft der Polizei 2030. 
+Hamburg.
+
+Nettelnstroth, W., Martens, A., & Binder, H. (2020a). Nachwuchsgewinnung in der Polizei: 
+Das polizeiliche Anforderungsprofil für das Einstiegsamt und aussagekräftige Verfahren 
+der Personalauswahl. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Nettelnstroth, W., Martens, A., & Binder, H. (2020b). Polizeiliche Anforderungsprofile, 
+Personalauswahl und Nachwuchsgewinnung: Eine Forschungskooperation zwischen 
+der Akademie der Polizei Hamburg und der HWR Berlin. In W. Nettelnstroth (Hrsg.), 
+Erkenntnisse aus Wissenschaft und Praxis zur Polizeipsychologie (S. 140–153). 
+Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+O’Boyle, E. H., Forsyth, D. R., Banks, G. C., & McDaniel, M. A. (2012). A meta-analysis 
+of the Dark Triad and work behavior: A social exchange perspective. Journal of Applied 
+Psychology, 97, S. 557.
+
+
+
+644 W. Nettelnstroth und H. Binder
+
+Ones, D., & Viswesvaran, C. (2001). Integrity Tests and Other Criterion – Focused 
+Occupational Personality Scales (COPS) Used in Personnel Selection. International 
+Journal of Selection and Assessment, 9, S. 31.
+
+Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, 
+Machiavellianism, and psychopathy. Journal of Research in Personality, 36, S. 556.
+
+Petersen, L.-E. (2020). Autoritarismus und Diskriminierung. In L.-E. Petersen & B. Six 
+(Hrsg.), Stereotype, Vorurteile und soziale Diskriminierung Theorien, Befunde und 
+Interventionen. 2. Aufl. Weinheim: Beltz.
+
+Pratt, T. C., & Cullen, F. T. (2000). The Empirical Status of Gottfredson and Hirschi’s 
+General Theory of Crime: A Meta-Analysis. Criminology, 38, S. 931.
+
+Rabehl, B. T. (2021). Deeskalation polizeilicher Interaktionen durch Selbstkontrolle der 
+Polizeibeamt*Innen. Unveröffentlichte Bachelorarbeit: Hochschule für Wirtschaft und 
+Recht Berlin.
+
+Remke, S. (2012). Personalauswahl. In H.-P. Schmalzl & M. Hermanutz (Hrsg.), Moderne 
+Polizeipsychologie in Schlüsselbegriffen (S. 197–207). 3. Aufl. Stuttgart: Boorberg.
+
+Robinson, S., & Bennett, R. (1995). A Typology of Deviant Workplace Behaviors: A Multi-
+dimensional Scaling Study. The Academy of Management Journal, 38, S. 555.
+
+Rubinstein, G. (2006). Authoritarianism Among Border Police Officers, Career Soldiers, 
+and Airport Security Guards at the Israeli Border. Journal of Social Psychology, 146, 
+S. 751.
+
+Ruhdorfer-Ritt, D. (2013). Personalauswahl. In M. Landes & E. Steiner (Hrsg.), Psycho-
+logie der Wirtschaft (S. 175–195). Wiesbaden: Springer Fachmedien.
+
+Sackett, P. R., & DeVore, C. J. (2001). Counterproductive behaviors at work. In: N. 
+Anderson, D. S. Ones, H. K. Sinangil, & V. Viswesvaran (Hrsg.), Handbook of 
+Industrial, Work, and Organizational psychology (S. 145–164). London: Sage.
+
+Salgado, J. (2002). The Big Five Personality Dimensions and Counterproductive 
+Behaviors. International Journal of Selection and Assessment, 10, S. 117.
+
+Schepers, D. (2016). Selbstkontrolle und abweichendes Verhalten. In J. Reinecke, M. 
+Stemmler & J. Wittenberg (Hrsg.), Devianz und Delinquenz im Kindes- und Jugend-
+alter: Ungleichheitsdimensionen und Risikofaktoren (S. 201–216). Wiesbaden: Springer 
+Fachmedien.
+
+Schmidt, F., & Hunter, J. (1998). The Validity and Utility of Selection Methods in 
+Personnel Psychology. Psychological Bulletin, 124, S. 262.
+
+Schuler, H. (2013). Personalauswahl. In R. Stock-Homburg (Hrsg.), Handbuch 
+Strategisches Personalmanagement (S. 29–58). Wiesbaden: Springer Fachmedien.
+
+Schuler, H. (2014a). Psychologische Personalauswahl: Eignungsdiagnostik für Personal-
+entscheidungen und Berufsberatung. 4. Aufl. Göttingen: Hogrefe.
+
+Schuler, H. (2014b). Arbeits- und Anforderungsanalyse. In U. P. Kanning & H. Schuler 
+(Hrsg.), Lehrbuch der Personalpsychologie (S. 61–98). Göttingen: Hogrefe.
+
+Schuler, H. (2014c). Biografieorientierte Verfahren der Personalauswahl. In U. P. Kanning 
+& H. Schuler (Hrsg.), Lehrbuch der Personalpsychologie (S. 254–299). Göttingen: 
+Hogrefe.
+
+Seipel, C. (2002). Deutsche Version der Self-Control Skala. Zusammenstellung sozial-
+wissenschaftlicher Items und Skalen (ZIS). https://doi.org/10.6102/zis137.
+
+Thielgen, M. M. (2016). Die Polizei der Zukunft – Wir brauchen Polizistinnen und 
+Polizisten: Mit Herz, Verstand und … ? Polizei & Wissenschaft, 17, S. 39.
+
+
+
+Vorhersage von Formen kontraproduktiven Verhaltens … 645
+
+Van Iddekinge, C. H., Roth, P. L., Raymark, P. H., & Odle-Dusseau, H. N. (2012). The 
+criterion-related validity of integrity tests: An updated meta-analysis. Journal of 
+Applied Psychology, 97, S. 499.
+
+Van Maanen, J. (1975). Police socialization: A longitudinal examination of job attitudes in 
+an urban police department. Administrative science quarterly, 20, S. 207.
+
+Vera, A., & Kokoska, W. (2009). Die Polizei als alternde Organisation – Konsequenzen für 
+das Personalmanagement. In Kuratorium der Deutschen Hochschule der Polizei (Hrsg.), 
+Ausgewählte Aspekte des Personalmanagements in der Polizei (S. 11–46). Münster: 
+Deutsche Hochschule der Polizei.
+
+Zick, A. (2020). Rassismus. In L.-E. Petersen & B. Six (Hrsg.), Stereotype, Vorurteile und 
+soziale Diskriminierung Theorien, Befunde und Interventionen (S. 125–135). 2. Aufl. 
+Weinheim: Beltz.
+
+Prof. Dr. Wim Nettelnstroth ist Professor für Psychologie (Personalmanagement) an 
+der Hochschule für Wirtschaft und Recht Berlin. Seine wissenschaftlichen Schwer-
+punkte liegen in den Feldern der Personal- und Organisationspsychologie, insbesondere 
+in der polizeilichen Personalauswahl, der Organisationsdiagnostik sowie Kommunikation/
+Konflikt und Führung.
+
+Henriette Binder ist wissenschaftliche Mitarbeiterin an der Hochschule für Wirtschaft 
+und Recht Berlin. Ihre wissenschaftlichen Schwerpunkte liegen in der polizeilichen 
+Personalauswahl und Eignungsdiagnostik, systemischen Perspektiven und Beratung in der 
+Arbeitspsychologie und psychischer Gesundheit und Krankheit in polizeilichen Kontexten.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

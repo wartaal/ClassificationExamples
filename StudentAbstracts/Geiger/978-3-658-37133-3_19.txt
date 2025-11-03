@@ -1,0 +1,794 @@
+﻿Polizeilicher Umgang mit Opfern aus 
+Familien mit Zuwanderungsgeschichte
+
+Hannes Püschel
+
+Zusammenfassung
+
+Der Umgang der Polizei mit Kriminalitätsopfern mit eigener oder familiärer 
+Zuwanderungsgeschichte ist in den letzten dreißig Jahren immer wieder 
+Gegenstand medialer und politischer Auseinandersetzungen gewesen. Wissen-
+schaftlich erforscht wird dieser Bereich polizeilichen Handelns erst seit 
+kurzer Zeit. Die vorliegenden Ergebnisse deuten darauf hin, dass die in der 
+Polizei verankerte Annahme, dass es sich bei diesem Teil der Bevölkerung um 
+„Fremde“ handele, häufig unsensibles Verhalten und Diskriminierungen zur 
+Folge hat.
+
+Schlüsselwörter
+
+Polizei · Sensibilität · Opfer · Ausgrenzung · Viktimisierung
+
+Für Opfer von Straftaten ist die Polizei häufig die erste staatliche und damit 
+auch gesellschaftliche Institution, mit der sie über die erfahrenen Verletzungen 
+in Austausch treten. Die Betroffenen dabei nicht nur als Zeug:innen einer Straf-
+tat, mithin als Beweismittel im anstehenden Strafverfahren zu registrieren, 
+sondern ihnen helfend und Sicherheit gebend zur Seite zu stehen, ist einer der 
+
+H. Püschel (*) 
+Opferperspektive e. V., Potsdam, Deutschland
+E-Mail: h.pueschel@opferperspektive.de
+
+© Der/die Autor(en) 2022 405
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_19
+
+
+
+406 H. Püschel
+
+Ansprüche und Versprechen, auf die die Institution Polizei ihre Legitimität stützt. 
+Es ist zugleich eine Erwartung, die Opfer von Straftaten an die Polizei haben.1 
+Diese Erwartungen werden in der Realität – aus unterschiedlichen Gründen – oft 
+enttäuscht.2 Eine Gruppe von Kriminalitätsopfern, bei der sich in dieser Ent-
+täuschung häufig gesellschaftliche Macht- und Ausgrenzungsverhältnisse nieder-
+schlagen, sind Menschen mit eigener oder familiärer Migrationsgeschichte. 
+Semiya Şimşek z. B., Tochter des ersten NSU-Opfers Enver Şimşek, fasste ihre 
+Wahrnehmung des polizeilichen Umganges mit den Angehörigen des Ermordeten 
+so zusammen: „Im Laufe der Jahre haben wir uns mit dem Gedanken beruhigt, 
+dass die Polizei nur ihre Arbeit tut, dass das alles schon irgendwie seine Richtig-
+keit haben wird. Dennoch war es bitter. Und wir hatten nie den Eindruck, dass 
+irgendwer versuchte, bei alldem wenigstens rücksichtsvoll zu sein.“3 Mit 
+diesen nüchternen Worten wird von ihr eine Polizeiarbeit umschrieben, die von 
+Empathielosigkeit gegenüber den Opferfamilien geprägt und von Vorurteilen 
+gegenüber diesen als vermeintlichen Angehörigen einer fremden Kultur geleitet 
+wurde.4 Vor dem Hintergrund derartiger Schilderungen gewinnt die Frage danach, 
+ob es spezifische Defizite im Umgang der Polizei mit Opfern aus Familien mit 
+Zuwanderungsgeschichte gibt, eine eigene Dringlichkeit. Das schließt die 
+Fragen nach den Auswirkungen dieser Behandlung auf die Betroffenen und den 
+Ursachen für ein entsprechendes polizeiliches Agieren ein. Im Folgenden soll 
+deswegen überblicksartig der dazu existierende Forschungs- und Diskussions-
+stand dargestellt und in die allgemeine Auseinandersetzung über das Verhältnis 
+der Polizei zur von Rassismus betroffenen Bevölkerung eingeordnet werden.
+
+1 F orschungs- und Diskussionsstand
+
+1.1  Polizeiliche und viktimiologische Forschung – 
+„Ausländer als Opfer“
+
+Polizeibezogene sozialwissenschaftliche Forschung fand bis Anfang der 1990er 
+Jahre ganz überwiegend als anwendungsbezogene Forschung für die Polizei mit 
+
+1 Hagemann (1993), S. 209 ff.
+2 Hagemann (1993), S. 209 ff.
+3 Şimşek und Schwarz (2013), S. 110 f.
+4 Illius (2018).
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 407
+
+dem Ziel der Optimierung der Kriminalitätsbekämpfung statt.5 Bezogen auf die 
+migrantische Bevölkerung der Bundesrepublik – die ausgehend von ihrem, durch 
+das geltende Staatsangehörigkeitsrecht bestimmten, Status als „Ausländer:in“ 
+kategorisiert wurde – galt deren Erkenntnisinteresse seit den 1960er Jahren vor-
+rangig Ausländer:innen als Täter:innen.6 Dem Thema „Ausländer als Opfer von 
+Straftaten“7 begann sich diese Forschung in den 1980er Jahren zuzuwenden, 
+wobei es erst in den 1990er Jahren, vor dem Hintergrund rassistischer Gewalt-
+straftaten an Gewicht gewann.8 Dabei wurden erste Feststellungen getätigt, die 
+darauf hindeuten, dass die Staatsbürgerschaft von Opfern in Verbindung mit 
+anderen Kriterien eine Rolle für den polizeilichen Umgang mit diesen spielt. Eine 
+im Auftrag des Bayerischen LKA erstellte Studie kommt 1995 zu der Erkennt-
+nis, dass der Umgang von Polizist:innen mit Opfern von Straftaten vorrangig vom 
+begangenen Delikt und nicht von der Nationalität der Betroffenen abhängig sei, 
+dass Polizeibeamt:innen aber mit Hilfsmaßnahmen zurückhaltender reagierten, 
+wenn ausländische Opfer von ausländischen Täter:innen anderer Nationalität 
+geschädigt würden und speziell psychischer Beistand häufiger deutschen Opfern 
+geleistet würde.9 Diese Feststellung wird im Rahmen der 1998 veröffentlichten, 
+von Strobl unter dem Eindruck der rassistischen Morde und Brandanschläge der 
+1990er Jahre10 vorgenommenen, Untersuchung zu „Soziale[n] Folgen der Opfer-
+erfahrung ethnischer Minderheiten“ präzisiert. Auf der Basis der Befragung 
+von Migrant:innen aus der Türkei und deren Nachkommen kommt Strobl zu 
+der Schlussfolgerung, dass die Resonanz von Polizist:innen auf eine mitgeteilte 
+Opfererfahrung umso größer sei, je relevanter die verletzte Strafrechtsnorm sei, 
+je schwächer und hilfloser das Opfer in ihren Augen erscheine, je stärker es als 
+anständiger, unschuldiger Mensch zur Eigengruppe zugerechnet werde und je 
+klarer sei, was für das Opfer getan werden könne.11 Die Eigengruppe sei dabei 
+die „anständiger Menschen“, aus der aber immer wieder Personen aufgrund eines 
+„ausländischen“ Erscheinungsbildes ausgegrenzt würden.12
+
+5 Gesemann (2003), S. 205.
+6 Villmow (1999), S. 22.
+7 Luff und Gerum (1995).
+8 Villmow (1999), S. 22, 26.
+9 Luff und Gerum (1995), S. 222 ff.
+10 Strobl (1998).
+11 Strobl (1998), S. 307.
+12 Strobl (1998), S. 307.
+
+
+
+408 H. Püschel
+
+Neben diesem viktimiologischen Forschungsstrang entwickelte sich auf zwei 
+weiteren Feldern die wissenschaftliche und politische Auseinandersetzung mit 
+dem Verhältnis zwischen Polizei und Migrant:innen, die für die Frage nach dem 
+polizeilichen Umgang mit Kriminalitätsopfern aus Familien mit Zuwanderungs-
+geschichte erkenntnisträchtig sind. Zum einen wurde seit den 1990er Jahren ver-
+stärkt das Verhältnis zwischen Polizei und Migrant:innen diskutiert, zum anderen 
+der Umgang der Polizei mit Opfern rechter Gewalt.
+
+1.2  (Post-)migrantische Kriminalitätsopfer und das 
+Verhältnis zwischen Polizei und Migrant:innen
+
+Etwa zeitgleich mit der Etablierung einer unabhängigen Polizeiforschung in den 
+1990er Jahren und unter dem Eindruck von durch rassistische Übergriffe von 
+Polizist:innen ausgelösten medialen und politischen Debatten über Rassismus in 
+der Polizei rückte das allgemeine Verhältnis von Polizei und (post-)migrantischer 
+Bevölkerung in den Fokus sozialwissenschaftlicher Untersuchungen.13 Vor dem 
+Hintergrund anhaltender politischer Debatten um Einwanderung und Integration 
+liegt hierzu mittlerweile eine Vielzahl von Publikationen vor. Den Schwer-
+punkt bilden dabei Untersuchungen zum Polizieren in urbanen Räumen, die 
+durch einen hohen Anteil (post-)migrantischer Bevölkerung, Armut und öko-
+nomische Transformations- und Umstrukturierungsprozesse gekennzeichnet 
+sind.14 Das Interesse gilt hier – auch und gerade vor dem Hintergrund der Wahr-
+nehmung gewaltsamer Auseinandersetzungen zwischen (post-)migrantischer, 
+jugendlicher Bevölkerung derartiger Viertel und Polizei im europäischen Aus-
+land15 – dem Aufeinandertreffen der Polizei und einer Bevölkerung, die sich 
+gegenseitig fremd sind16, der gegenseitigen Wahrnehmung, den sich ergebenden 
+Konflikten um Macht, Kontrolle und Diskriminierung sowie den Möglichkeiten 
+der Polizei, derartige Konflikte zu minimieren und zu moderieren. Im Zentrum 
+dieser Forschungen stehen, darin spiegeln sich ein generelles Charakteristikum 
+empirisch sozialwissenschaftlicher Forschung wie auch Annahmen über 
+die Akteur:innen bestehender wie potentieller Konfliktsituationen, (post-)
+
+13 Gesemann (2003), S. 205; Heuer (2009), S. 45 f; Jaschke (1997), S. 10 f.
+14 Jaschke (1997), S. 66 ff.
+15 Z. B. Kart (2014), S. 196 ff.
+16 Sauerbaum (2005), S. 6 f.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 409
+
+migrantische Jugendliche. Als entsprechende Ansätze, die Polizei in die Lage 
+zu versetzen, in Konflikten in der Migrationsgesellschaft zu bestehen, werden 
+die Vermittlung interkultureller Kompetenzen an die Beamt:innen und die 
+Gewinnung von Personen mit Migrationshintergrund für den Polizeidienst dis-
+kutiert.17
+
+In diesen Untersuchungen, die sich mit dem Verhältnis von Migrant:innen und 
+Polizei beschäftigen, spielt der Umgang mit migrantischen Kriminalitätsopfern 
+nur eine untergeordnete Rolle. Es finden sich jedoch z. T. eindrückliche Hinweise 
+darauf, dass der Umgang der Polizei mit migrantischen Kriminalitätsopfern oft 
+von mangelnder Sensibilität und fehlender Resonanz geprägt ist.18 So ergibt sich 
+aus den Antworten auf eine Umfrage des Essener Zentrums für Türkeistudien von 
+2006, dass sich ein Drittel der türkischstämmigen Bewohner:innen Nordrhein-
+Westfalens, die zwischen 2000 und 2005 als Zeug:innen oder Opfer Kontakt 
+mit der Polizei hatten, durch polizeiliches Handeln diskriminiert sah.19 Auch 
+qualitative Forschungsprojekte zu den Lebensbedingungen migrantischer Jugend-
+licher und deren Verhältnis zur Polizei registrieren Berichte z. B. darüber, dass 
+sich Jugendliche von der Polizei als Opfer einer Straftat nicht ernstgenommen 
+fühlen, z. B. weil diese die Aufnahme einer Strafanzeige verweigerte20, und dass 
+derartige Ausgrenzungserfahrungen von den Betroffenen als Verweigerung grund-
+legender Rechte und als rassistisch motivierter Ausschluss aus der Gesellschaft 
+wahrgenommen werden.21
+
+Wahrscheinlich wichtiger als diese punktuellen Belege zum polizeilichen 
+Umgang mit migrantischen Opfern sind auch im Kontext des hier betrachteten 
+Themas die grundlegenden Erkenntnisse dieser Forschungen. So erscheint danach 
+in der polizeilichen Praxis das Themenfeld Migration bzw. die Wahrnehmung 
+von Migrant:innen oder Personen mit Migrationshintergrund oft eng verknüpft 
+mit der Existenz teils massiver, oft räumlich konzentrierter sozialer Problem-
+lagen.22 Zudem zeigte sich, dass Polizist:innen gerade im Umgang mit der-
+artigen Problemlagen, die sie nicht lösen können, informelle Handlungsroutinen 
+(„second code“) entwickeln, die durchaus von den rechtlichen Grundlagen 
+
+17 Bornewasser (2009), S. 32 ff.
+18 Gesemann (2003), S. 222.
+19 Heuer (2009), S. 67.
+20 Nohl (2003), S. 77.
+21 Gesemann (2003), S. 222 f.
+22 Schweer und Strasser (2003), S. 241 ff.
+
+
+
+410 H. Püschel
+
+polizeilicher Arbeit abweichen.23 Dem Autor dieses Textes sind z. B. aus eigener, 
+sozialarbeiterischer Arbeitserfahrung mit Asylbewerber:innen Beschwerden 
+bekannt, wonach Polizist:innen bei Straftaten, bei denen sowohl Täter:innen als 
+auch Geschädigte Asylbewerber:innen sind, die Aufnahme von Anzeigen ver-
+weigerten. Die Vermutung liegt nahe, dass die Beamt:innen so im Umgang mit 
+Fällen die, u. a. aufgrund hoher Sprachhürden, schwierig zu bearbeiten sind, 
+ihren Arbeitsaufwand minimieren, mit der Folge, dass sich die Betroffenen durch 
+die so verweigerte Anerkennung ihres Opferstatus diskriminiert sehen.
+
+1.3  Der Umgang mit migrantischen Opfern in Fällen 
+rechter Gewalt
+
+Ein anderer Zugang macht sich am Thema rechtsextremer Gewalt fest. Dass in 
+Fällen rassistisch oder antisemitisch motivierter Gewalt der polizeiliche Umgang 
+mit Opfern mit eigener oder familiärer Migrationsgeschichte häufig unzureichend 
+ist, Opfer als Täter:innen behandelt werden, ihnen nicht geglaubt wird oder 
+unsensibel mit ihnen umgegangen wird, wird nicht nur von den Angehörigen 
+der NSU-Opfer berichtet, sondern ist eine Kritik, die seit den 1990er Jahren 
+immer wieder im Kontext rechter Gewaltstraftaten artikuliert wird. Tatsächlich 
+ist dieses besondere Deliktsfeld das, in dem problematisches Polizeiverhalten 
+gegenüber Opfern am besten dokumentiert ist. Dies ist allerdings kein Ver-
+dienst akademischer Forschung oder polizeilicher Selbstevaluation, sondern ver-
+dankt sich politischem Aktivismus und medialer Aufmerksamkeit. Diese stellen 
+eine Reaktion auf die, oft tödliche, rechte Gewalt dar, die in den 1990er Jahren 
+in weiten Teilen Ostdeutschlands den Alltag prägte, aber auch – wie z. B. die 
+Anschläge in Mölln und Solingen zeigten – für die migrantische Bevölkerung 
+Westdeutschlands zur existenziellen Bedrohung wurde. Von rechter Gewalt 
+Betroffene und Bedrohte, mit ihnen solidarische Akteur:innen, die versuchten 
+dieser Gewalt etwas entgegen zu setzen, und interessierte Journalist:innen 
+begannen in dieser Zeit, die Gewaltakte und ihre Folgen zu thematisieren. Eine 
+besondere Rolle spielten und spielen hierbei Beratungs- und Unterstützungs-
+organisationen für Betroffene rechter Gewalt, die ab Ende der 1990er Jahre zuerst 
+in Ostdeutschland, später bundesweit entstanden.24
+
+23 Schweer und Strasser (2003), S. 250 ff.
+24 Jänicke und Stoltmann (2021), S. 146.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 411
+
+Die genannten Akteur:innen legten bald auch einen Fokus auf die staat-
+lichen Reaktionen auf rechte Gewalt, erschien ihnen der Umgang staatlicher 
+Institutionen und deren Vertreter:innen mit der rechten Gewalt doch oft durch 
+Verharmlosung, Unwillen und Unfähigkeit bis hin zu mehr oder weniger 
+klammheimlicher Sympathie geprägt.25 Mittlerweile existiert eine unüberschau-
+bare Anzahl journalistischer Berichte aus den letzten drei Jahrzehnten, die ent-
+sprechende Fallkonstellationen beschreiben. Dadurch wurde der Umgang der 
+Polizei mit – nicht nur migrantischen – Opfern rechter Gewalt zum Gegenstand 
+der Kritik. Diese Kritik konnte anfangs z. T. nur gegen erhebliche Widerstände 
+aus der Polizei öffentlich gemacht werden. Besonders prägnant zeigt das ein 
+Beispiel aus der Brandenburger Kleinstadt Rathenow. Hier hatten sich im Früh-
+jahr 2000 afrikanische Asylsuchende mit der Forderung an die Öffentlichkeit 
+gewandt, sie aufgrund der täglich drohenden Gewalt aus der Stadt in ein west-
+deutsches Bundesland zu verlegen. Im August 2000 besuchte ein britischer 
+Journalist mit chinesischem Migrationshintergrund die Asylsuchenden. Bei 
+einem Spaziergang durch die Stadt mit drei von ihnen wurde die Gruppe von 
+einem rechtsradikalen gewalttätig angegriffen. Herbeigerufene Polizist:innen 
+sprachen den späteren Schilderungen der Angegriffenen zufolge mit dem Täter 
+und versuchten anschließend, ohne das Gespräch mit diesem zu suchen, dem 
+Journalisten seine Kamera zu entreißen. Gewaltsam sei er in einen Streifenwagen 
+verfrachtet und sein Versuch, telefonisch einen Anwalt zu erreichen unterbunden 
+worden. Die Brandenburger Beratungsstelle für Betroffene rechter Gewalt Opfer-
+perspektive e. V. und ein Sprecher der Rathenower Asylsuchenden kritisierten 
+danach in Presseerklärungen und Interviews dieses Vorgehen. Seitens der Polizei-
+führung und des Innenministeriums wurde diese Kritik harsch zurückgewiesen, 
+die Beamt:innen erstatteten Strafanzeigen gegen die Aktivist:innen, die zu, 
+schließlich eingestellten, Gerichtsverfahren wegen „Übler Nachrede“ führten. Die 
+Beamt:innen wurden weder straf- noch dienstrechtlich belangt.26
+
+Während das Thema so seit den 1990er Jahren Gegenstand politischer, 
+journalistischer und gelegentlich juristischer Auseinandersetzung war, wandte 
+sich die sozialwissenschaftliche Forschung den Erfahrungen der Opfer rechter 
+Gewaltstraftaten, insbesondere auch ihrem Erleben polizeilicher Arbeit 
+jedoch erst mit deutlicher Verspätung zu. Grundlegend ist hier immer noch 
+die 2014 publizierte, aus den Bielefelder Forschungen zu gesellschaftlichen 
+
+25 Kleffner (2021).
+26 Drescher (2007), S. 230 ff.
+
+
+
+412 H. Püschel
+
+ Desintegrationsprozessen hervorgegangen Studie von Böttger, Lobermeier und 
+Plachta zur Viktimisierung von Opfern rechtsextremer Gewalt und den von ihnen 
+entwickelten Verarbeitungsstrategien.27 Im Rahmen der Studie wurden jeweils 
+elf Personen befragt, die in Deutschland bzw. im Ausland geboren worden waren 
+und nach einem rechten Angriff Kontakt mit der Polizei hatten.28 Die Mehr-
+zahl der Befragten nahm dabei die Arbeit der Polizei als nachvollziehbare, aber 
+wenig hilfreiche Routinetätigkeit war.29 Fehlende Hilfsbereitschaft, Distanz 
+oder Gleichgültigkeit der Polizist:innen gegenüber den Angegriffenen wurde 
+von der Mehrheit der Befragten berichtet.30 Dabei war der Anteil der Inter-
+viewten, die die Arbeit der Polizei negativ bewerteten unter den in Deutschland 
+geborenen Personen deutlich höher als unter den Migrant:innen.31 Die Unter-
+suchung legt nahe, dass diese Differenzierung darauf zurückzuführen sei, dass 
+die Wahrnehmung des polizeilichen Handelns durch Betroffene nicht nur durch 
+das Agieren im konkreten Angriffsfall, sondern maßgeblich auch durch Vor-
+erfahrungen mit der Polizei in Deutschland wie auch in den Herkunftsländern von 
+Migrant:innen, sowie durch die Existenz der Möglichkeit des Vergleichs polizei-
+lichen Handelns in verschiedenen Gesellschaften beeinflusst werde.32 Daran 
+anknüpfend stelle eine der zentralen Auswirkungen eines distanzierten, gleich-
+gültigen oder ablehnenden Umgangs der Polizei mit migrantischen Tatopfern die 
+Schwächung ihres Systemvertrauens in die deutsche Gesellschaft dar.33
+
+Zeitgleich zu der Untersuchung von Böttger, Lobermeier und Plachta ver-
+öffentlichte die Thüringer Beratungsstelle für Betroffene rechter Gewalt ezra 
+die von Quent, Geschke und Peinelt in Kooperation mit ihr vorgenommene erste 
+statistische Untersuchung zur Frage, wie Betroffene von rechten Gewaltstraftaten 
+die Arbeit von Ermittlungs- und Strafverfolgungsbehörden erleben.34 Diese geht 
+der Frage nach, welche Bedeutung polizeiliches Handeln für die Viktimisierung 
+der Tatopfer auf den verschiedenen Ebenen, primär, sekundär und tertiär, hat.35 
+
+27 Böttger et al. (2014).
+28 Böttger et al. (2014), S. 114.
+29 Böttger et al. (2014), S. 114.
+30 Böttger et al. (2014), S. 164.
+31 Böttger et al. (2014), S. 164.
+32 Böttger et al. (2014), S. 114 ff.
+33 Böttger et al. (2014), S. 121.
+34 Quent et al. (2017), S. 2.
+35 Quent et al. (2017), S. 18 ff.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 413
+
+In diesem Zusammenhang wurde polizeiliches Verhalten von den Befragten 
+dann als positiv und hilfreich bewertet, wenn Beamt:innen schnell und engagiert 
+eingriffen, den politischen Tathintergrund als für die juristische Bewertung 
+des Geschehenen relevant erkannten und sich die Betroffenen als Opfer einer 
+Straftat ernstgenommen fühlten.36 Als negativ und verletzend beschrieben 
+die Befragten u. a. Situationen, in denen es lange dauerte, bis die Polizei kam, 
+Beamt:innen unfreundlich und unsensibel kommunizierten, sie sich nicht von 
+der Polizei ernstgenommen fühlten, das politische Motiv die Polizist:innen nicht 
+interessierte, ihnen mit Vorurteilen begegnet wurde, ihnen vorgeworfen wurde, für 
+die Eskalation der Situation verantwortlich zu sein, sie als Täter:innen behandelt 
+wurden oder die Polizei den tatsächlichen Täter:innen gegenüber zugewandter 
+agierte als ihnen.37
+
+Als eindrückliches Beispiel verletzenden Polizeiverhaltens wird eine 
+Konstellation beschrieben, die ähnlich auch in anderen Untersuchungen38 
+berichtet wird. Ein Interviewter beschrieb, wie ein ihn vernehmender Beamter 
+sich zu Beginn der Vernehmung vorrangig mit dem für das Tatgeschehen 
+unbedeutenden Aufenthaltsstatus des Geschädigten beschäftigte und ihm verdeut-
+lichte, dass der weitere Umgang mit ihm von dem Umstand abhänge, ob er „legal 
+oder illegal“ in Deutschland sei.39 Derartiges Verhalten stellt keine Ausnahme dar. 
+Bis zu einem Drittel der Befragten sah sich durch das Agieren von Polizist:innen 
+erneut viktimisiert, etwa die Hälfte fühlte sich in der Tatsituation durch die 
+Polizei nicht ernst genommen und als Opfer einer Straftat behandelt.40 Angesichts 
+der Zahl von 44 Befragten sind diese Ergebnisse jedoch nicht repräsentativ.41 
+Diesbezüglich validere Ergebnisse sind von einem zum Zeitpunkt der Abfassung 
+des Textes in Vorbereitung befindlichen Forschungsprojekt zu erwarten, dass von 
+Geschke am Jenaer Institut für Demokratie und Zivilgesellschaft in Kooperation 
+mit verschiedenen Beratungsstellen für Betroffene rechter Gewalt vorbereitet 
+wird. In diesem sollen, in Anknüpfung an die dargestellte Thüringer Befragung, 
+
+36 Quent et al. (2017), S. 25 f.
+37 Quent et al. (2017), S. 26 ff.
+38 Gesemann (2003), S. 222.
+39 Quent et al. (2017), S. 26 f.
+40 Quent et al. (2017), S. 49.
+41 Quent et al. (2017), S. 5.
+
+
+
+414 H. Püschel
+
+bundesweit mehrere hundert Betroffene rechter Gewalt nach ihren Erfahrungen 
+mit Polizei und Justiz befragt werden.42
+
+1.4  Der Umgang der Polizei mit migrantischen Opfern –  
+Erkenntnisse aus Sachsen-Anhalt
+
+Dass sich wissenschaftliche Untersuchungen der Interaktion zwischen 
+Polizist:innen und migrantischen Tatopfern vorwiegend über das Erleben der 
+Opfer zuwenden, dürfte grundsätzlich an der Abschottung der Polizei und deren 
+Abwehr gegen ihre unabhängige Beforschung liegen.43 Allerdings ist diese 
+Abwehr nicht unüberwindbar. Der Druck anhaltender öffentlicher Kritik an einem 
+von mangelnder Sensibilität geprägten Umgang der Polizei Sachsen-Anhalts mit 
+migrantischen Opfern rechter Gewalt ermöglichte dort die Erarbeitung der ersten 
+umfassenden Studie durch Asmus und Enke, die unter Einschluss der Polizei-
+perspektive der Frage nachging, ob eine mangelnde Sensibilität der Polizei gegen-
+über migrantischen Opferzeug:innen besteht und wodurch diese zu erklären sei.44
+
+Auf der Basis von Interviews und Gruppendiskussionen mit Polizeibeamt:innen, 
+Opfern, Opferberater:innen und Dolmetscher:innen kommt diese zu dem Schluss, 
+dass es eindeutige Hinweise auf eine mangelnde Sensibilität der Beamt:innen der 
+Polizei Sachsen-Anhalts im Umgang mit migrantischen Opferzeug:innen in Ein-
+sätzen bei rechten Straftaten gebe.45 Diese mangelnde Sensibilität sei auf das 
+implizite (habituelle) Erfahrungs- und Handlungswissen der Beamt:innen zurück-
+zuführen, dass deren Handeln im Einsatz lenke und von den betroffenen Opfern 
+als diskriminierend empfunden werde.46 Eine wichtige Rolle spiele dabei eine 
+kommunikativ erzeugte Befangenheit der Beamt:innen und Beamten gegen-
+über Menschen mit Migrationshintergrund; dieser erschwere es der Polizei sich 
+Migrant:innen gegenüber souverän und situationsangemessen gemäß den polizei-
+lichen Aufgaben zu verhalten.47 Diese Befangenheit resultiere aus der Annahme der 
+Beamt:innen, dass Migrant:innen (herkunfts-)kulturell Fremde seien, deren Erleben, 
+
+42 Dem Autor liegt die Projektskizze vor.
+43 Gesemann (2003), S. 205.
+44 Asmus und Enke (2016), S. 5 ff.
+45 Asmus und Enke (2016), S. 147 f.
+46 Asmus und Enke (2016), S. 148.
+47 Asmus und Enke (2016), S. 161.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 415
+
+Äußerungen und Handlungsweisen in Kontaktsituationen von der eigenen Person 
+fundamental abweiche.48 Diese Fremdheit werde dabei ethnisch oder religiös 
+bestimmt, gegebene Durchlässigkeit zur Kultur der deutschen Mehrheitsgesellschaft 
+situativ nicht gesehen bzw. nicht erkannt.49
+
+In dieser Situation reagieren Beamt:innen mit einer Überbetonung von Neutrali-
+tät und Objektivität als unabweisbaren Prinzipien polizeilicher Aufgabenerfüllung, 
+die eine angemessene Konfliktbearbeitung durch situationsflexible Anwendung 
+der Prinzipien verunmögliche und z. B. zu Versäumnissen bei Ermittlungen, 
+falschen Verdächtigungen von Opfern, Nachsicht mit den Tatverdächtigen und 
+mangelnder Information der Opfer über Verfahrensabläufe führe.50 Als Resultat 
+sähen sich Opfer häufig nicht ernst genommen, nicht respektiert, schlecht behandelt 
+und schlecht informiert.51 Dieser zumeist nichtintendierten Diskriminierung der 
+Opfer sei durch umfassende Vermittlung inter- und transkultureller Kompetenzen, 
+die Stärkung von Selbstreflexivität sowie des Willens und der Souveränität zur 
+Anerkennung kultureller Diversität, der kulturellen Vielfalt und Verschiedenartig-
+keit sowie der Betroffenheit von migrantischen Opfern zu begegnen.52
+
+Wenige Jahre nach Abfassung der Untersuchung von Asmus und Enke 
+wurde der polizeiliche Umgang mit Opfern rechter Gewalt in Sachsen-Anhalt 
+erneut Gegenstand intensiver Debatten. Am 9. Oktober 2019 kam es in Halle 
+(Saale) zu einem antisemitischen und rassistischen Terrororanschlag. Ein 
+bewaffneter Attentäter versuchte am jüdischen Feiertag von Jom Kippur die 
+Synagoge zu stürmen, um die dort versammelten Gläubigen, von denen viele 
+als Migrant:innen nach Deutschland gekommen waren, zu töten. Nachdem dies 
+nicht gelang erschoss er vor der Synagoge und in einem nahe gelegenen Döner-
+Imbiss zwei Personen und verletzte auf der Flucht drei weitere, darunter einen 
+Mann aus Somalia. Nach dem Anschlag äußerten Mitglieder der jüdischen 
+Gemeinde massive Kritik, dass nach der Tat mit ihnen unsensibel umgegangen 
+worden sei.53 So hätten Leibesvisitationen bei der Evakuierung der Synagoge 
+bei den Betroffenen den Eindruck erweckt, als Täter:innen und nicht als Opfer 
+behandelt zu werden, seien die Betroffenen nicht ausreichend darüber informiert 
+
+48 Asmus und Enke (2016), S. 161.
+49 Asmus und Enke (2016), S. 161.
+50 Asmus und Enke (2016), S. 160.
+51 Asmus und Enke (2016), S. 160.
+52 Asmus und Enke (2016), S. 179 ff.
+53 Landespolizei Sachsen-Anhalt (2021), S. 27.
+
+
+
+416 H. Püschel
+
+worden, was geschehen sei und wie es nun mit ihnen weitergehe, seien sie 
+ungeschützt Pressefotograf:innen ausgesetzt gewesen und habe es den ein-
+gesetzten Beamt:innen an Sensibilität für religiöse Besonderheiten gemangelt.54 
+Die Polizei kommt in ihrer Auswertung des Geschehens zu dem Schluss, am Tat-
+ort „die erforderlichen Maßnahmen bezüglich der in der Synagoge befindlichen 
+Personen“ vorgenommen zu haben55 und dabei auch taktisch zweckmäßige 
+gehandelt zu haben, wobei allerdings „Erforderlichkeit und Zielstellung der 
+Maßnahmen nicht ausreichend erklärt“ worden seien56. Ein Untersuchungsaus-
+schuss des Landtages Sachsen-Anhalt hingegen stellte fest, dass u. a. mangelnde 
+Transparenz und Kommunikation über die polizeilichen Maßnahmen und deren 
+Begründung, geringe bis nicht vorhandene Kenntnisse über jüdisches Leben 
+und mangelnde Empathie gegenüber den Opfern durch Beamt:innen, die ihre 
+Aufgabe vorrangig in Gefahrenabwehr und Strafverfolgung gesehen und sich 
+ergebende Konflikte mit den Bedürfnissen der Opfer unterschätzt hätten, zu 
+tiefer Unzufriedenheit und psychischen Verletzungen bei den Betroffenen geführt 
+hätten.57 Der Ausschuss stellt fest, dass der polizeiliche Umgang mit Opfern aus 
+durch politische Gewalt gefährdeten Minderheitengruppen von diesen als Signal 
+verstanden würde, ob sie als zugehörig zur Gesellschaft angesehen würden oder 
+nicht.58 Aus diesem Grund seien sowohl die interkulturellen Kompetenzen der 
+Polizei zu stärken als auch sicherzustellen, dass Beamt:innen nach Maßgabe des 
+Grundgesetzes agierten und Ausgrenzung und Abwertung nicht reproduzierten.59
+
+2 V on Ausländern zu Menschen mit familiärer 
+Migrationsgeschichte – Fremdmachung und 
+Ethnisierung
+
+Migrant:innen und ihre Nachfahren stellen für die Polizei offenkundig in weiten 
+Teilen eine problematische Gruppe dar, zumindest dergestalt, dass Beamt:innen 
+der Umgang mit ihnen, das Reden mit ihnen und über sie häufig schwerfällt. 
+
+54 Landespolizei Sachsen-Anhalt (2021), S. 28.
+55 Landespolizei Sachsen-Anhalt (2021), S. 13.
+56 Landespolizei Sachsen-Anhalt (2021), S. 28.
+57 Landtag Sachsen-Anhalt (2021), S. 103 f.
+58 Landtag Sachsen-Anhalt (2021), S. 112.
+59 Landtag Sachsen-Anhalt (2021), S. 113.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 417
+
+Damit ist die Institution Polizei jedoch nicht allein. Dieses Problem haben weite 
+Teile der deutschen Gesellschaft. Im Rahmen des hier verhandelten Themas fällt 
+z. B. die Schwierigkeit zu benennen auf, mit welcher Kategorie von Menschen 
+man es da zu tun habe. Beschäftigen sich die ersten für diesen Text heran-
+gezogenen Publikationen noch mit „Ausländer:innen“ (zu denen durchaus auch 
+in der BRD geborene Jugendliche gezählt werden) als Opfer, werden die gleichen 
+Menschen später als „Migrant:innen“ bezeichnet um schließlich zu „Menschen mit 
+Migrationshintergrund“, „Menschen aus Familien mit Zuwanderungsgeschichte“ 
+oder „Postmigrant:innen“ zu werden. In dieser sich verändernden Begrifflichkeit 
+spiegelt sich die langsame Abkehr von der systematisch rechtlichen Ausgrenzung, 
+die die Existenz weiter Teile der migrantischen Bevölkerung der Bundesrepublik 
+Deutschland jahrzehntelang prägte und zu weiten Teilen immer noch bestimmt. 
+Obwohl seit den 1950er Jahren eine umfassende Arbeitsmigration in die Bundes-
+republik stattfand, die schnell zu einer sich verstetigenden Anwesenheit der Ein-
+gewanderten und ihrer Nachkommen führte, wurde bis in die 1990er Jahre im 
+politischen Diskurs die Annahme vertreten, die „Gastarbeiter:innen“ würden 
+eines Tages wieder „nach Hause“ gehen. Forderungen nach einer rechtlichen 
+Regulierung von Migration dergestalt, dass Migrant:innen schließlich mit der 
+Ursprungsbevölkerung rechtlich gleichgestellt würden, wurde die Behauptung ent-
+gegengehalten, dass Deutschland kein Einwanderungsland sei.
+
+Eine wichtige Folge dieser Selbstdefinition als „Nicht-Einwanderungs-
+land“ war die rechtlich unterstrichene und abgesicherte soziale Konstruktion 
+von „Einheimischen“ und „Fremden“.60 Auch wenn durch die Reform des 
+Staatsangehörigkeitsrechtes im Jahr 2000 die Einbürgerung von Menschen aus 
+Familien mit Zuwanderungsgeschichte bedeutend erleichtert wurde, Menschen 
+aus Familien mit Zuwanderungsgeschichte, die in Deutschland geboren 
+werden, können leichter die deutsche Staatsbürgerschaft erhalten, entfaltet 
+diese Grenzziehung bis heute umfassend Wirkung, was u. a. daran liegt, dass 
+sie seit den 1980er Jahren im Kontext sozioökonomischer Krisen und Trans-
+formationen (deutsche Wiedervereinigung, Globalisierung und – besonders 
+die Schicht migrantischer Industriearbeiter:innen treffender – wirtschaftlicher 
+Strukturwandel, Arbeitslosigkeit und wachsende sozialer Ungleichheit, ver-
+stärkte Zuwanderung) an Bedeutung gewonnen und zu einer Ethnisierung 
+sozialer Probleme beigetragen hat.61 Bis heute gelten Menschen aus Familien 
+
+60 Gesemann (2003), S. 203.
+61 Gesemann (2003), S. 203.
+
+
+
+418 H. Püschel
+
+mit Zuwanderungsgeschichte, insbesondere, wenn sie sich in sozioökonomisch 
+prekären Lebenssituationen befinden, als Fremde oder zumindest als gegenüber 
+der Mehrheitsbevölkerung Andere. Die so gesellschaftlich hergestellte Fremd-
+heit wird für die Betreffenden in Interaktion mit der Polizei zum Problem, weil, 
+wie von Strobl gezeigt und durch Fälle, in denen Polizist:innen, bevor sie sich 
+einer Person als Opfer zuwenden, intensiv deren Aufenthaltsstatus prüfen, immer 
+wieder bestätigt, polizeiliche Empathie und Sensibilität maßgeblich von der 
+Zuordnung des polizeilichen Gegenübers zur Eigengruppe abhängig ist.62 Und 
+diese Eigengruppe wird in der Polizei offenkundig zumeist immer noch national 
+und auf der Basis eines durch das ius sanguinis geprägten Staatsbürgerschaftsver-
+ständnis definiert.
+
+3  Fazit
+
+Über den Umgang der Polizei mit Opfern aus Familien mit Zuwanderungs-
+geschichte liegt bis heute nur punktuelles Wissen vor. Dieses speist sich aus einer 
+überschaubaren Bandbreite von Quellen: aus Berichten Betroffener, wie dem von 
+Semiya Şimşek, journalistischen Veröffentlichungen, politischen Diskussionen 
+und Verlautbarungen sowie einer überschaubaren Anzahl wissenschaftlicher 
+Untersuchungen, die in der Regel anhand relativ kleiner Gruppen von Betroffenen 
+den Umgang der Polizei mit (post-)migrantischen Kriminalitätsopfern erheben. 
+Diese haben sich in den letzten Jahren auf den Umgang der Polizei mit den 
+Opfern rechter Gewalt fokussiert. Der Anstoß zu diesen Untersuchungen kommt 
+in der Regel von zivilgesellschaftlichen Akteur:innen, v. a. aus dem Bereich 
+der Unterstützung von Opfern rechter Gewalt, die polizeiliches Fehlverhalten 
+kritisieren. Auch hier bestätigt sich die wichtige Rolle, die politischer Druck aus 
+der Zivilgesellschaft für eine kritische Untersuchung polizeilicher Praxen spielt.63 
+Ergänzend zu diesen Studien trägt die Forschung zum polizeilichen Agieren 
+im Kontext urbaner Migrationsgesellschaft zum Verständnis des polizeilichen 
+Umgangs mit (post-)migrantischen Kriminalitätsopfern bei.
+
+Auf Basis dieser überschaubaren empirischen Grundlage lässt sich fest-
+stellen: der polizeiliche Umgang mit ihnen frustriert nicht nur (post-)migrantische 
+Kriminalitätsopfer, auch Deutsche ohne Migrationshintergrund sind häufig von 
+
+62 Strobl (1998), S. 307.
+63 Vgl. Görgen und Wagner in diesem Band.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 419
+
+ihrer Behandlung durch die Polizei enttäuscht.64 Dies dürfte grundlegend darauf 
+zurückzuführen sein, dass die Polizei täter:innenzentriert arbeitet und Opfer 
+von Straftaten häufig auf ihre Rolle als strafprozessuales Beweismittel reduziert 
+werden. Menschen mit Migrationshintergrund sind darüber hinaus jedoch oft 
+durch spezifische Formen polizeilicher Interaktion betroffen, die an das Merkmal 
+eigener oder familiärer Migrationsgeschichte anknüpfen. Es ist naheliegend, dass 
+diese in Fällen von Kriminalität, deren Motivlage sich ebenfalls auf das Merkmal 
+Migrationsgeschichte bezieht, also in Fällen rassistischer Gewalt, von den 
+Betroffenen besonders deutlich wahrgenommen werden. Auf der Phänomenebene 
+äußert sich dies z. B. darin, dass in bestimmten Konstellationen die Aufnahme 
+von Anzeigen verweigert wird65, Opfer von Gewalt intensiv auf ihren Aufent-
+haltsstatus hin befragt oder kontrolliert werden66, Betroffenen vorurteilsbeladen, 
+unempathisch und nicht hilfsbereit gegenüber getreten wird67, das politische 
+Motiv rassistischer Angriffe nicht erkannt oder geleugnet wird68, Polizist:innen 
+mangelndes Wissen über spezifische Bedrohungslagen demonstrieren69, 
+Betroffenen vorgeworfen wird die Eskalation der Tatsituation mit zu verantworten 
+zu haben bzw. sie selbst als Täter:innen behandelt werden, während mit den tat-
+sächlichen Angreifer:innen freundlich umgegangen wird70.
+
+In diesen Beispielen schlagen sich zwei verschiedene Formen des polizei-
+lichen Umgangs mit dem Allgemeinen und dem Besonderen im hier ver-
+handelten Kontext nieder, die aber zeitgleich auftreten können. In der einen 
+Variante fokussieren sich die Beamt:innen auf die Besonderheit des (post-)
+migrantischen Kriminalitätsopfers als einer:eines Fremden/Anderen. Sie 
+kontrollieren seinen:ihren Aufenthaltsstatus, behandeln sie:ihn auf der Basis von 
+Vorurteilen o. ä. In der anderen Variante verweigern sie die Auseinandersetzung 
+mit der Spezifik rassistischer Gewalttaten bzw. nehmen sie diese nicht wahr. 
+Der Aufenthaltsstatus ist nun für den Status als Opfer einer Straftat und die sich 
+daraus ergebenden Bedürfnisse nach Empathie, Sensibilität und professioneller 
+
+64 Hagemann (1993), S. 209 ff.
+65 Nohl (2003), S. 77.
+66 Quent et al. (2017), S. 26 f.
+67 Böttger et al. (2014), S. 115 ff.
+68 Böttger et al. (2014), S. 120.
+69 Jänicke (2021), S. 71.
+70 Drescher (2007), S. 230 ff.
+
+
+
+420 H. Püschel
+
+Polizeiarbeit irrelevant, der politische Hintergrund einer Tat für deren juristische 
+Bewertung hingegen nicht. Demzufolge stellen die hier beschriebenen Formen 
+polizeilichen Agierens diskriminierendes Handeln dar, da sie Gleiches als 
+ungleich und Ungleiches als gleich behandeln. Dieses wird von den Betroffenen 
+als Verweigerung von Schutz und rechtlicher Anerkennung wahrgenommen.
+
+Die Folgen derartigen Handelns werden in der existierenden deutsch-
+sprachigen Forschung auf zwei Ebenen beschrieben. Zum einen trägt es 
+zur Viktimisierung der Betroffenen bei, kann insbesondere eine sekundäre 
+Viktimisierung zur Folge haben.71 Zum anderen kann es zu einem Verlust an 
+Institutionenvertrauen führen. Sowohl die Beschreibung von Viktimisierungs-
+prozessen als auch des Verlustes an Institutionenvertrauen fokussieren vorrangig 
+auf das Individuum. In der englischsprachigen Forschung wird darauf hin-
+gewiesen, dass der kollektive Verlust rassistisch diskriminierter Bevölkerungs-
+gruppen an Zugehörigkeitsgefühl und wahrgenommener Anerkennung durch 
+entsprechendes polizeiliches Handeln überindividuelle Folgen zeitigt, die als 
+legal estrangement, rechtliche Entfremdung beschrieben werden.72 Hierzu bedarf 
+es, gerade bezogen auf den Umgang mit (post-)migrantischen Kriminalitätsopfern 
+im deutschen Kontext noch grundlegender Forschungen.
+
+Ausgangspunkt des hier kritisierten polizeilichen Handelns ist, so legt die bis-
+herige Forschung nahe, die Wahrnehmung von Migrant:innen und ihren Nach-
+kommen als Fremde/Andere, die nicht zweifelsfrei zur Eigengruppe der zu 
+schützenden Personen gehören. Diese Wahrnehmung dürfte u. a. Resultat des 
+politischen und juristischen Umganges mit Migration in der Bundesrepublik 
+Deutschland in den zurückliegenden Jahrzehnten sein. Soweit dem beschriebenen 
+polizeilichen Ausgrenzungshandeln durch die Vermittlung interkultureller 
+Kompetenzen begegnet werden soll, kann dies dem entsprechend nur Erfolg 
+haben, wenn die gewählten Formen der Vermittlung und das vermittelte Wissen 
+geeignet sind, diese Wahrnehmung der Fremdheit aufzubrechen, d. h., wenn die 
+Betroffenen nicht exotisiert, also faktisch kulturell ausgebürgert, sondern als 
+Träger:innen grundlegender Rechte und Angehörige der hiesigen Gesellschaft 
+anerkannt werden.
+
+71 Quent et al. (2017), S. 35.
+72 Atak (2021), S. 11.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 421
+
+Literatur
+
+Asmus, H.-J., & Enke, T. (2016). Der Umgang der Polizei mit migrantischen Opfern. Eine 
+qualitative Untersuchung. Wiesbaden: Springer VS.
+
+Atak, K. (2021). Racist Victimization, Legal Estrangement and Resentful 
+Reliance on the Police in Sweden. Social & Legal Studies, S. 1. https://doi.
+org/10.1177/09646639211023974.
+
+Böttger, A., Lobermeier, O., & Plachta, K (2014). Opfer rechtsextremer Gewalt. Wies-
+baden: Springer VS.
+
+Bornewasser, M. (2009). Ethnische Vielfalt im eigenen Land: Eine nicht nur sprachliche 
+Herausforderung im Innen- und Außenverhältnis der Polizei. In K. Liebl (Hrsg.), Polizei 
+und Fremde – Fremde in der Polizei (S. 13–44). Wiesbaden: Springer VS.
+
+Drescher, F. (2007). Wer kontrolliert die Polizei? Eine Untersuchung zu Problemen der 
+Polizeikontrolle im Land Brandenburg. Dissertation Freie Universität Berlin. https://
+refubium.fu-berlin.de/handle/fub188/5879. Zugegriffen: 18. Juli 2022.
+
+Gesemann, F. (2003). „Ist egal ob man Ausländer ist oder so – jeder Mensch braucht die 
+Polizei“. Die Polizei in der Wahrnehmung junger Migranten. In A. Groenemeyer & 
+J. Mansel (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 203–228). Wiesbaden: 
+Springer Fachmedien.
+
+Hagemann, O. (1993). Wohnungseinbrüche und Gewalttaten: Wie bewältigen Opfer ihre 
+Verletzungen? Eine kriminologische Untersuchung über die Auswirkung von Straftaten. 
+Pfaffenweiler: Centaurus Verlagsgesellschaft.
+
+Heuer, H.-J. (2009). Fremde als Belastung und Gefährdung – Zu einigen Bewertungs-
+strategien der 90er Jahre. In K. Liebl (Hrsg.), Polizei und Fremde – Fremde in der 
+Polizei (S. 45–68). Wiesbaden: Springer VS.
+
+Illius, C. (2018). Der Mord an Mehmet Kubasık in Dortmund. Beispiel für rassistische 
+Ermittlungen und unzureichende Ermittlungen hinsichtlich lokaler NSU-
+Netzwerkstrukturen. Plädoyer vom 21. und 22. November 2017. In A. von der Behrens 
+(Hrsg.), Kein Schlusswort – Plädoyers im NSU-Prozess (S. 27–62). Hamburg: VSA.
+
+Jänicke, C. (2021). Vor und nach Halle. Antisemitismus und das Vertrauen in die Polizei. 
+In C. Jänicke & H. Kaur Cholia (Hrsg.), Unentbehrlich – Solidarität mit Betroffenen 
+rechter, rassistischer und antisemitischer Gewalt (S. 68–73). Münster: edition 
+assemblage.
+
+Jänicke, C., & Stoltmann, K (2021). Solidarität organisieren. Ein Gespräch über Ent-
+stehung und Schwierigkeiten der Opferberatungsstellen. In C. Jänicke & H. Kaur 
+Cholia (Hrsg.), Unentbehrlich – Solidarität mit Betroffenen rechter, rassistischer und 
+antisemitischer Gewalt (S. 146–152). Münster: edition assemblage.
+
+Jaschke, H.-G. (1997). Öffentliche Sicherheit im Kulturkonflikt. Zur Entwicklung der 
+städtischen Schutzpolizei in der multikulturellen Gesellschaft. Frankfurt/M., New York: 
+Campus.
+
+Kart, M. (2014). Lebenslagen von Jugendlichen in benachteiligten Quartieren Bremens. 
+Kontexteffekte auf Konflikt- und Integrationspotentiale. Wiesbaden: Springer VS.
+
+Kleffner, H. (2021). Eine furchtbare Bilanz: Kontinuitäten, Normalisierung und Solidarität. 
+Drei Jahrzehnte rechte, rassistische und antisemitische Gewalt. In C. Jänicke & H. Kaur 
+Cholia (Hrsg.), Unentbehrlich – Solidarität mit Betroffenen rechter, rassistischer und 
+antisemitischer Gewalt (S. 26–34). Münster: edition assemblage.
+
+
+
+422 H. Püschel
+
+Landespolizei Sachsen-Anhalt (2021). Offene Managementfassung des Schlussberichtes 
+anlässlich des terroristischen Anschlages in Halle (Saale) und Wiedersdorf am 9. 
+Oktober 2019. https://fragdenstaat.de/blog/2021/07/19/polizeibericht-halle-anschlag. 
+Zugegriffen: 18. Juli 2022.
+
+Landtag Sachsen-Anhalt (2021). Bericht des 19. Untersuchungsausschusses. www.landtag.
+sachsen-anhalt.de/fileadmin/files/drs/wp7/drs/d7575vbt.pdf. Zugegriffen: 18. Juli 2022.
+
+Luff, J., & Gerum, M. (1995). Ausländer als Opfer von Straften. München: Bayerisches 
+Landeskriminalamt.
+
+Nohl, A.-M. (2003). Ethnisierungserfahrungen Jugendlicher – Zur vergleichenden 
+Rekonstruktion sozialer Probleme in der Einwanderungsgesellschaft. In A. 
+Groenemeyer & J. Mansel (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 69–88). 
+Wiesbaden: Springer Fachmedien.
+
+Quent, M., Geschke, D., & Peinelt, E. (2017). Die haben uns nicht ernstgenommen. Eine 
+Studie zu den Erfahrungen von Betroffenen rechter Gewalt mit der Polizei. 2. Aufl. 
+Erfurt: ezra.
+
+Sauerbaum, A. (2005). Interaktion und Kommunikation zwischen Polizei und Migranten 
+– Ein Thema in der Polizeiausbildung? Seminararbeit Universität Tübingen. www.
+polizei-newsletter.de/documents/Sauerbaum_Migrationsforschung_Polizei.pdf. 
+Zugegriffen: 18. Juli 2022.
+
+Schweer, T., & Strasser, H. (2003). „Die Polizei - dein Freund und Helfer?!“ – Duisburger 
+Polizisten im Konflikt mit ethnischen Minderheiten und sozialen Randgruppen. In A. 
+Groenemeyer & J. Mansel (Hrsg.), Die Ethnisierung von Alltagskonflikten (S. 229–
+260). Wiesbaden: Springer Fachmedien.
+
+Şimşek, S., & Schwarz, P. (2013). Schmerzliche Heimat. Deutschland und der Mord an 
+meinem Vater. Berlin: Rowohlt.
+
+Strobl, R. (1998). Soziale Folgen der Opfererfahrungen ethnischer Minderheiten. Effekte 
+von Interpretationsmustern, Bewertungen, Reaktionsformen und Erfahrungen mit 
+Polizei und Justiz, dargestellt am Beispiel türkischer Männer und Frauen in Deutsch-
+land. Baden-Baden: Nomos.
+
+Villmow, B. (1999). Ausländer als Täter und Opfer. Monatsschrift für Kriminologie und 
+Strafrechtsreform, Sonderheft Ethnizität, Konflikt und Recht, S. 22.
+
+Hannes Püschel ist Jurist und Kriminologe und arbeitet als Berater für Betroffene rechter 
+Gewalt bei der Opferperspektive e. V. in Potsdam.
+
+
+
+Polizeilicher Umgang mit Opfern aus Familien … 423
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

@@ -1,0 +1,911 @@
+﻿Die Vermittlung transkulturellen 
+Wissens in der Aus- und Fortbildung 
+als wesentlicher Baustein gegen 
+individuellen und strukturellen 
+Rassismus in der Polizei
+
+André Schulz
+
+Zusammenfassung
+
+Transkulturelle Kompetenz ist eine Schlüsselkompetenz für Polizist:innen. 
+Transkulturelles Wissen hilft ihnen, die für ihren Dienst notwendigen 
+Resilienzen zu verfestigen oder zu entwickeln und ist ein wesentlicher Faktor, 
+um Rassismus innerhalb der Polizei zu begegnen. Schaut man sich bundes-
+weit aber die Realität in der polizeilichen Aus- und Fortbildung an, stellt man 
+fest, dass die Vermittlung der transkulturellen Kompetenz oftmals immer 
+noch nicht mehr als eine Absichtserklärung ist. Das große Potenzial des trans-
+kulturellen Wissens für die Polizei ist bisher kaum ins Bewusstsein der Ver-
+antwortlichen gerückt.
+
+Schlüsselwörter
+
+Sozialkompetenz · Resilienzen · Transkulturalität · Polizei · Rassismus
+
+A. Schulz (*) 
+Hamburg, Deutschland
+E-Mail: andre.schulz@vodafonemail.de
+
+© Der/die Autor(en) 2022 647
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_30
+
+
+
+648 A. Schulz
+
+1  Einleitung
+
+Es vergeht seit geraumer Zeit kaum ein Tag, an dem in den Medien nicht von 
+rassistischen Vorwürfen gegenüber Polizeibeamt:innen berichtet wird. Auch wenn 
+sich bei einem Großteil der Fälle im Laufe der intensiveren Prüfung ein Rassis-
+musvorwurf nicht halten lässt, wurden diverse Sachverhalte bekannt, die eine 
+andere, eine deutliche Sprache sprechen. Entsprechend nachvollziehbar war und 
+ist deshalb die Forderung nach einer Rassismus-Studie in der Polizei, u. a. auch 
+vom BKA-Präsidenten Holger Münch, der vor einem Vertrauensverlust in die 
+Sicherheitsbehörden warnte.1 Bundesinnenminister Horst Seehofer sprach darauf-
+hin ein Machtwort, teilte medial mit, dass es so eine Studie nicht geben werde 
+und stattdessen eine Studie zum „Alltagsrassismus“ in der Gesellschaft sowie 
+eine „Untersuchung des Polizeialltags“ durchgeführt werden solle: „Es wird 
+keine Studie geben, die sich mit Unterstellungen und Vorwürfen gegen die Polizei 
+richtet.“2 Anstatt sich also den zahlreichen Vorwürfen neutral und wissenschaft-
+lich anzunehmen, was klug und weitsichtig gewesen wäre, nimmt dieser reflex-
+haft eine Täter-Opfer-Umkehr vor, unterstellt den handelnden Polizist:innen stets 
+einwandfreies Verhalten und viktimisiert die Betroffenen erneut. Damit erweist 
+er aber den Polizeien einen Bärendienst. Einige Länder, wie z. B. Hamburg, ver-
+kündeten daraufhin zwar, eigene Rassismus-Studien bei der Polizei durchführen 
+zu wollen, bisher blieb es aber bei den Absichtserklärungen bzw. stecken die ent-
+sprechenden Bemühungen immer noch in den Kinderschuhen. Parallel werden 
+beträchtliche Ressourcen in die Bekämpfung der „Clankriminalität“ investiert 
+und jede diesbezügliche polizeiliche Maßnahme medial wirksam inszeniert. 
+Im „Lagebericht Clankriminalität 2020“ der Polizei Berlin werden 388 Tatver-
+dächtige aus „Großfamilien“ aufgeführt3, was laut PKS ungefähr 0,3 % aller 
+Tatverdächtigen dort ausmacht. Der Großteil dieser 388 Tatverdächtigen ist 
+dabei mit sog. Bagatellkriminalität in Erscheinung getreten. Dieses polizeiliche 
+Vorgehen der Selektierung nach ethnischer Zugehörigkeit und Stigmatisierung 
+anhand von Familiennamen, darf durchaus als rassistisch bezeichnet werden. 
+Kriminalistisch notwendig ist es jedenfalls nicht.
+
+1 Zum aktuellen Stand der Rassismusforschung vgl. in diesem Band Karakayalı; Atali-
+Timmer, Fereidooni und Schroth sowie Pichl.
+2 Vgl. Bundesministerium des Innern (2020); sowie Schiemann (2020) zum Forschungs-
+projekt MEGAVO.
+3 Vgl. dpa (2021).
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 649
+
+Wenn man selber in polizeilichen Bildungseinrichtungen unterrichtet, 
+stellt man sehr schnell fest, dass die Dienstanfänger:innen in der Regel unvor-
+eingenommen und offen sind. Auch wenn man davon ausgehen kann, dass 
+die Bewerber:innen bei der Polizei in einem eventuell erhöhten Maße „wert-
+konservativ“ sind, darf man an dieser Stelle dem polizeilichen Einstellungsver-
+fahren durchaus attestieren, dass offensichtlich problematische Kandidat:innen 
+vor der Einstellung – bis auf tatsächlich wenige Einzelfälle – aussortiert werden.4 
+Die Offenheit der Dienstanfänger:innen ändert sich aber schlagartig, sobald 
+diese aus dem ersten Praktikum zurück im Hörsaal sind. Plötzlich vernimmt man 
+Vorurteile – gegen Minderheiten allgemein – und es wird von „Wir“ und „Die“ 
+gesprochen.5 Nun ist ein gewisses Streben nach Zugehörigkeit zu der „Polizei-
+familie“ und auf der Suche nach der eigenen Identität innerhalb der Polizei 
+sicherlich nachvollziehbar und psychologisch erklärbar, die Konsequenzen daraus 
+müssen aber hellhörig machen, da sie gesamtgesellschaftlich kontraproduktiv, ja 
+sogar gesellschaftsschädlich sind. Man muss zur Bewertung des Problems aber 
+nicht nur den jeweiligen „Einzelfall“ betrachten, sondern die Polizei in ihrer 
+Gesamtheit. Gerade die Organisation Polizei ist durch ihren Aufbau und ihre 
+Tätigkeit prädestiniert für strukturellen Rassismus.6 Beim strukturellen Rassis-
+mus geht es eben nicht um rassistische Äußerungen Einzelner, sondern um 
+(strukturierte) Abläufe und Routinen, die zur ungerechtfertigten Benachteiligung 
+von Schwarzen, PoC und generell optisch „Nicht-Deutschen“ führt.
+
+2 A nforderungen an die Polizei – gesetzlicher und 
+gesellschaftlicher Auftrag
+
+Neben den grundlegenden rechtlichen und fachlichen Kenntnissen wird von 
+Polizist:innen zur Bewältigung der gesetzlichen präventiven und repressiven 
+Aufgabenwahrnehmung als Ausfluss der beamtenrechtlichen Bestimmungen aus 
+Art. 33 Abs. 5 GG Empathie sowie notwendigerweise ein Rollen- und Perspektiv-
+wechsel erwartet. Polizist:innen müssen – zumindest ansatzweise – die Band-
+breite der Verhaltensmuster „anderer Kulturen“ kennen und ein Gespür dafür 
+
+4 Vgl. Nettelnstroth und Binder in diesem Band.
+5 Zum Stand der Einstellungsforschung von Polizeibeamt:innen vgl. Wegner und Ellrich in 
+diesem Band.
+6 Vgl. Auma (2017). Zudem in diesem Band Bosch und Thurn; Groß, Clasen und Zick 
+sowie Gutschmidt und Czudnochowski.
+
+
+
+650 A. Schulz
+
+entwickeln, wie sie sich innerhalb dieser Bandbreite von Möglichkeiten ver-
+halten können. Diese Verpflichtung kann auch nicht dadurch ersetzt werden, auf 
+die vermehrte Einstellung von Beamt:innen mit Migrationshintergrund zu setzen, 
+denn es ist eine Individualanforderung an jede einzelne Polizeibeamtin und jeden 
+einzelnen Polizeibeamten. Die erhöhten Einstellungszahlen von Polizist:innen mit 
+Migrationshintergrund sind zwar aus Gründen der Diversität sehr zu begrüßen, 
+denn es ermöglicht eine angemessene und der aktuellen Realität angepasste 
+Repräsentanz der Bevölkerungszusammensetzung, sodass sich die demographisch 
+veränderte Bevölkerung in „ihrer“ Polizei wiederfindet.7 Allerdings sitzen viele 
+Polizei-Entscheider der Illusion auf, dass mit der Einstellung von Migrant:innen 
+alle transkulturellen Probleme zwischen Polizei und Bevölkerung gelöst seien: 
+„Der Irrglaube, dass Migranten einander schon verstehen würden, eben weil 
+sie ja alle Migranten seien, verkennt die bestehenden ethnischen Vorurteile, die 
+auch Migranten aus unterschiedlichen Gruppen untereinander besitzen.“8 Ein 
+eigener Migrationshintergrund qualifiziert grundsätzlich nicht zur Vermittlung 
+von transkulturellem Wissen, dazu bedarf es weitergehender Fortbildung. 
+Außerdem gibt es auch unter Menschen mit Migrationshintergrund ausgeprägte 
+Rassist:innen. Zudem betrachten sich viele Polizist:innen mit Migrationshinter-
+grund oftmals ausdrücklich als „deutsche“ Polizeibeamt:innen, die nicht als 
+„Quoten-Ausländer:innen“ innerhalb der Polizei zur Bewältigung von Problemen 
+„ihrer Kultur“ herangezogen bzw. reduziert werden wollen9. Eine ausgeprägte 
+transkulturelle Kompetenz, die Teil der sozialen Kompetenz ist, ist eine der 
+wesentlichsten Fähigkeiten von Polizeibeamt:innen, um ihren gesetzlichen und 
+gesellschaftlichen Auftrag effizient und effektiv wahrnehmen zu können.
+
+3 F unktionen von Kultur, Werte und Normen, 
+kulturgeschichtliche Einflussfaktoren
+
+„Kultur“ ist ein sehr häufig gebrauchter Begriff, im Alltag wie auch in den 
+Geistes- und Sozialwissenschaften, dabei ist er nur schwer zu fassen und 
+äußerst vieldeutig. Es gibt verschiedene Kulturbegriffe bzw. Definitionsansätze, 
+z. B. den anthropologischen, ethnologischen, philosophischen, soziologischen, 
+
+7 Vgl. Klimke (2020).
+8 Köpke und Hahn (2019), S. 242.
+9 Vgl. Regge (2013).
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 651
+
+den „engen Kulturbegriff“ (Hochkultur) oder den „erweiterten Kulturbegriff“ 
+(Lebenswelten).10 „Kultur“ meint im weitesten Sinne die vom Menschen 
+durch die Bearbeitung der Natur mithilfe von planmäßigen Techniken selbst 
+geschaffene Welt der geistigen Güter, materiellen Kunstprodukte und sozialen 
+Einrichtungen.11 Die wesentlichste Unterscheidung ist die zwischen primordialen 
+und konstruktivistischen Kulturkonzepten. Das primordiale Kulturkonzept, 
+welches mittlerweile als überholt gilt, geht davon aus, dass eine kulturell-
+ethnische Herkunft ein typisches bzw. spezifisches kulturelles Handeln zur Folge 
+hat. Beim konstruktivistischen Kulturkonzept geht man davon aus, dass Kulturen 
+einer Interaktion unterliegen und dynamisch bzw. verhandelbar sind.
+
+Eine wesentliche Funktion von Kultur besteht darin, dass „sie nach innen 
+hin integrativ, nach außen hin hierarchisch und ausgrenzend funktioniert“12, 
+d. h. die individuelle und kollektive Identitätsentwicklung basiert auf Unter-
+scheidung (Wechselspiel von „Dazugehören“ und „Abgrenzung“). Identität ist 
+die einzigartige Persönlichkeitsstruktur eines Menschen, die sich ständig ent-
+wickelt und auch verändert.13 Kulturelle Identität entsteht aus dem kognitiven 
+Vergleich des „Eigenen“ im Gegensatz zu dem „Anderen“. Bei diesem stark 
+von Gefühlen geprägten Vorgang vermittelt dieses Eigene oftmals ein mehr 
+oder weniger ausgeprägtes Sicherheits-, Geborgenheits- und Heimatgefühl. 
+Für Menschen stellt ein ungewollter Identitätsverlust ein psychisch durchaus 
+größeres Problem dar, wenn wichtige Gruppenzugehörigkeiten (z. B. Familie, 
+Freund:innen, Religion) verloren gehen.14 Bei der Bildung einer kulturellen 
+Identität spielen Werte eine maßgebliche Rolle. Werte – die nur sehr langfristig 
+veränderbar sind, aber einer ständigen Anpassung unterliegen – entstehen über-
+wiegend aus historischen, traditionellen und religiösen Aspekten oder Über-
+lieferungen. Werte bzw. Wertvorstellungen sind nicht klar definierbare allgemein 
+erstrebenswerte, moralisch oder ethisch als gut befundene spezifische Wesens-
+merkmale einer Person innerhalb einer Wertegemeinschaft. Aus den präferierten 
+Werten resultieren Denkmuster, Glaubenssätze, Handlungsmuster und Charakter-
+eigenschaften.15 Im allgemeinen Sprachgebrauch sind Werte auch Normen bzw. 
+
+10 Vgl. umfassender Überblick bei Fuchs (2012); Hansen (1993).
+11 Vgl. Nünning und Nünning (2008).
+12 Böhme (1996), S. 61.
+13 Zur Vertiefung bspw. Eickelpasch und Rademacher (2004).
+14 Vgl. Esch (2016), S. 41; Zick (2010).
+15 Vgl. Sauer (2021).
+
+
+
+652 A. Schulz
+
+dem Verständnis nach normativ. Aus Werten entstehen Normen bzw. stellen sie 
+die Grundlagen dafür dar. Werte werden in der Regel über die Sozialisation an 
+nachfolgende Generationen weitergegeben, allerdings nicht vollständig. Kultur 
+und Sozialisation sind eng miteinander verbunden. Die Fragen, in welcher Weise 
+Kulturbesonderheiten spezifische Sozialisationsbedingungen darstellen und ob 
+und auf welche Weise sie Sozialisationsprozesse beeinflussen, sind tatsächlich bis 
+heute nur unzureichend erforscht.16 Kulturen dürfen aber nicht zu stark als homo-
+gene Gemeinschaften wahrgenommen und ihre interne Heterogenität dabei ver-
+nachlässigt werden.17
+
+Eine weitere Gefahr bei der kulturvergleichenden Sozialforschung besteht 
+bei der Bewertung von unterschiedlichen Kulturen in Form von höher- oder 
+minderwertig. In diesem Zusammenhang müssen beispielhaft auch die „Kultur-
+dimensionsanalyse“ nach Hofstede18 bzw. das „Kulturdimensionen-Modell“ 
+nach Trompenaars19, die sog. „Kulturstandards“ nach Thomas20 oder auch die 
+GLOBE-Studie21 genannt werden, die immer wieder für kulturvergleichende 
+Analysen benutzt werden, kritisch betrachtet werden, da auch sie die Gefahr 
+der Verallgemeinerung und die Bildung von Stereotypen begünstigen. Bis 
+heute findet oftmals noch eine Unterscheidung nach individualistischen und 
+kollektivistischen Kulturen statt.22 Diese Unterscheidung in ihrer engen ideo-
+logischen Ausrichtung gilt aber mittlerweile ebenfalls als überholt.
+
+Beschäftigt man sich mit dem transkulturellen Ansatz für die Polizei, muss 
+man aber noch zahlreiche weitere Aspekte betrachten, da auch diese einen Ein-
+fluss auf das Verhalten von Menschen unterschiedlicher Kulturräume23 haben. 
+So spielen z. B. die Kreuzzüge für einige Kulturen bis heute eine nicht zu 
+
+16 Vgl. Trommsdorff (2008).
+17 Vgl. Nünning und Nünning (2008).
+18 Vgl. Hofstede (2001).
+19 Vgl. Trompenaars und Hampden-Turner (2011).
+20 Vgl. Thomas (1996).
+21 Vgl. https://globeproject.com, zugegriffen: 18. Juli 2022.
+22 Vgl. Triandis (2018); Wagner und Küpper (2007).
+23 Der Begriff „Kulturkreis“ wird heutzutage in der Ethnologie aufgrund seiner Ver-
+wurzelung in der Expansionspolitik des westlichen Kolonialismus, teilweise rassistischer 
+Annahmen über die im jeweiligen Kulturkreis lebenden Menschen und der Erkenntnis, dass 
+Kulturen keine homogenen Gruppen sind, abgelehnt und stattdessen von Kulturräumen 
+gesprochen.
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 653
+
+ unterschätzende Rolle.24 Weit erheblicheren Einfluss hat aber bis heute der 
+Kolonialismus.25 In Hamburg wurde zur Aufarbeitung des kolonialen Erbes 
+(erst) 2014 an der dortigen Universität eine Forschungsstelle eingerichtet, um die 
+postkoloniale Erinnerungskultur neu aufzuarbeiten. Der Leiter, Prof. Dr. Jürgen 
+Zimmerer, bemängelte mehrfach, dass es bisher keine entsprechend kritische 
+Haltung zur deutschen Kolonialzeit gäbe, wie gegenüber dem Nationalsozialis-
+mus, obwohl diese angebracht sei. Nicht selten liest man in der Literatur die 
+Argumentation, dass der deutsche Kolonialismus der Vorläufer des Faschis-
+mus und des Naziregimes war bzw. enge Bezüge aufweist.26 Auch wenn der 
+Kolonialismus ein weltweites Phänomen war, litten gerade der Nahe und Mittlere 
+Osten sowie besonders der afrikanische Kontinent unter den Folgen. Die von 
+den europäischen Kolonialmächten willkürlich gezogenen Grenzen blieben 
+größtenteils auch die späteren Staatsgrenzen. In den Gebieten gab es bis dahin 
+kaum einen an ein Territorium gebundenen Volksbegriff. Zugehörigkeit definierte 
+sich meist nach der Ethnie. Als Ergebnis sind ein Großteil der Staaten heute Viel-
+völkerstaaten und überwiegend multireligiös.27 Die Kolonialherren besetzten 
+überwiegend die Posten in der Verwaltung selbst und verhinderten so eine Selbst-
+verwaltung der einheimischen Bevölkerungsmehrheit. Dies hatte zur Folge, 
+dass in vielen Ländern eine demokratische Tradition fehlt, was die Bildung von 
+(Militär-) Diktaturen nach der Unabhängigkeit stark begünstigte.28 Die besetzten 
+Länder wurden überwiegend als Rohstofflieferanten genutzt, oft entstanden 
+Monokulturen, das verarbeitende Gewerbe wurde stark vernachlässigt. Die 
+Abhängigkeit vom Weltmarktpreis wurde immens und stürzte zahlreiche Länder 
+in die Krise.
+
+Der Kolonialismus ist als „formeller Imperialismus“ ein Teil des Imperialis-
+mus. Der Begriff „Imperialismus“ wurde bereits im 16. Jahrhundert geprägt, 
+Imperialismus gab es de facto aber schon seit der Antike. Unter Imperialismus 
+versteht man das Bestreben von Staaten, sich wirtschaftlichen und politischen 
+
+24 Zur Vertiefung bspw. Ansary (2010).
+25 Zur Vertiefung bspw. Osterhammel und Jansen (1995); Ansprenger (1999); Tetzlaff und 
+Jakobeit (2005); Stuchtey (2010); Pelizaeus (2011); Zimmerer (2011); Speitkamp (2014); 
+Ziai (2016).
+26 Vgl. bspw. Langbehn und Salama (2011); Zimmerer (2011); Speitkamp (2014); Castro 
+Varela und Dhawan (2015), S. 74 ff.
+27 Vgl. Enzyklopädie Britannica (1993), S. 59 ff.
+28 Vgl. Woyke (2016), S. 170.
+
+
+
+654 A. Schulz
+
+Einfluss in anderen Ländern bzw. Völkern zu verschaffen.29 Diese Einflussnahme 
+erfolgt auf verschiedenen Wegen und reicht von der Schaffung von Abhängig-
+keiten bis hin zur Unterwerfung.30 Der europäische Imperialismus war Haupt-
+grund für den 1. Weltkrieg, die schrecklichen Folgen sind hinlänglich bekannt. 
+Der Imperialismus wird heute immer noch von verschiedenen Ländern in unter-
+schiedlicher Form gelebt (z. B. Großbritannien, USA, Russland, China, Türkei). 
+Weitere Einflussfaktoren, und zwar von erheblichem Ausmaß, stellen die ver-
+schiedenen Kriege der jüngeren Vergangenheit dar. Wurden und werden die 
+Kriege seitens der verschiedenen Akteur:innen oftmals auch unter dem Deck-
+mantel für Demokratie und Freiheit geführt, stecken tatsächlich durchgängig 
+andere, imperialistische Gründe dahinter.
+
+Wie auch immer man diese schwierige Gesamtthematik bewertet, haben 
+Kolonialismus und Imperialismus massive Auswirkungen auf die jeweilige 
+Bevölkerung und damit auch auf die hiesige Polizeiarbeit. In Zeiten von Globali-
+sierung und Digitalisierung kann eine kriegerische Auseinandersetzung in einem 
+arabischen oder afrikanischen Land für die hiesige Polizei bedeuten, dass Flücht-
+linge aus dieser Region schon wenige Tage später bei uns auf öffentlichen Plätzen 
+in Innenstädten stehen und einen Einsatz auslösen, den es für die eingesetzten 
+Kräfte angemessen zu bewältigen gilt. Für diese hilft es zum einen, sich der 
+Gesamtumstände bewusst zu sein, um die eigene Rolle richtig bewerten und ihre 
+eingeschränkten Handlungsmöglichkeiten (ausschließlich Symptom-, aber nicht 
+Ursachenbekämpfung) einschätzen zu können, und zum anderen, den Sachver-
+halt aufgrund der fachlichen und transkulturellen Fähigkeiten zielführend und 
+angemessen bewältigen zu können.
+
+4 S ozialphilosophische Theorieansätze und 
+Diversität
+
+Die Sozialphilosophie als Unterdisziplin der praktischen Philosophie fragt 
+danach, wie Menschen leben und handeln sollen, und zwar nicht als Individuum, 
+sondern als Teil einer sozialen Gemeinschaft. Sie beschäftigt sich dabei haupt-
+sächlich mit den Strukturen des Zusammenlebens und bedient sich hierfür einiger 
+Theorieansätze mit Handlungsimplikationen für die Gesellschaftspolitik eines 
+
+29 Vgl. Schöllgen und Kiessling (2009), S. 1–7.
+30 Vgl. Kennedy (1989); Münkler (2005); Eckert und Randeria (2009).
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 655
+
+Staates.31 Das bekannte Modell der Multikulturalität bezeichnet das Neben- oder 
+Miteinander verschiedener Kulturen in einer Gesellschaft (z. B. Italiener:innen, 
+Griech:innen, Türk:innen in einer deutschen Stadt). Man geht dabei von einem 
+gruppenbezogenen Kulturverständnis aus, welches Kulturen als innerlich homo-
+gen und nach außen abgegrenzt versteht.32 „Dem Verständnis von Multikulturali-
+tät liegt ein Kulturbegriff zugrunde, in dem kulturelle Eigenschaften als Werte 
+und Normen gedacht werden, die statisch und quasi unveränderlich erscheinen.“33 
+Probleme hierbei: Es entsteht ein erhebliches Konfliktpotenzial, speziell auf-
+grund sozialer Ungleichgewichte und Bildung von Stereotypen. Zudem besteht 
+bei diesem Ansatz die Wahrung der Diversität als Pflicht („die:der Ausländer:in“, 
+Gettoisierung, Parallelgesellschaften). „Menschen verschiedener Herkunft 
+werden durch die Überbetonung von Herkunftskultur zu ewig fremden Nach-
+barn, betont wird trotz der Idee des Miteinanders das Trennende, nicht das 
+Gemeinsame.“34
+
+Das Modell der Interkulturalität steht für eine große Bandbreite an Vor-
+stellungen und Konzepten hinsichtlich des Zusammenlebens bzw. für das 
+Aufeinandertreffen von verschiedenen Kulturen.35 Im Kern sind damit die 
+Kommunikation bzw. Interaktion zwischen Menschen verschiedener Kulturräume 
+gemeint. Interkulturalität geht davon aus, dass man in der Lage ist, die jeweilig 
+andere Perspektive einnehmen und bewerten zu können. „Nach Konzepten der 
+klassischen Interkulturalität sind Kulturen Orientierungssysteme, die Denken, 
+Wahrnehmung, Werte und Handeln der Mitglieder von Gemeinschaften 
+bestimmen. Da Menschen die Kulturen durch soziale Lernprozesse verinner-
+lichen, haben alle einen, ihr Verhalten prägenden, kulturellen Hintergrund. Damit 
+können Menschen verschiedenen Kulturkreisen zugeordnet werden.“36 Nach 
+diesem Modell könne eine klare Zuordnung in Eigen und Fremd oder Wir und die 
+Anderen erfolgen.37 Bei der Begegnung von zwei Kulturen entstehen kulturelle 
+
+31 Vgl. Jaeggi und Celikates (2017) sowie zur Vertiefung Habermas (1978).
+32 Vgl. zur Vertiefung Stemmler (2011); Mabe (2005); Triebe (2012).
+33 Vgl. Kolle (2019).
+34 Vgl. Kolle (2019).
+35 Zur Vertiefung bspw. Yousefi und Braun (2011).
+36 Vgl. Kolle (2019).
+37 Zur Vertiefung Thomas (2014), S. 5 ff.
+
+
+
+656 A. Schulz
+
+Überschneidungssituationen dann, wenn es zu wechselseitigen Beziehungen 
+kommt.38 „Zwischen dem Eigenkulturellen und dem als „fremd“ Empfundenen 
+entsteht ein Zwischenraum der Uneindeutigkeit, Vagheit und Neuartigkeit, der 
+bedrohlich oder auch anregend wirken kann“39, für dessen Bewältigung es inter-
+kultureller Kompetenz bedarf. Soweit die – mittlerweile ebenfalls überholte – 
+Theorie. Denn auch bei diesem Modellansatz besteht die Hauptkritik darin, dass 
+Kulturen nicht derart eng abgrenzbar sind. Zudem besteht eine recht große „Fett-
+näpfchengefahr“, da man glauben könnte, eindeutige Verhaltensmuster bei einem 
+der zahlreich angebotenen interkulturellen Fortbildungskurse erlernen zu können 
+und dann später in der Praxisanwendung feststellt, dass die Wirklichkeit doch 
+ganz anders aussieht.
+
+Ein weiteres Modell stellt die Transkulturalität dar. Auch für dieses 
+Modell gibt es verschiedene Definitionsansätze. Eine sehr prägnante lautet: 
+„Transculturalism is seeing oneself in the other“40. Transkulturalität bedeutet im 
+Kern, dass die Begegnung zweier unterschiedlicher Kulturen als Konsequenz 
+zu einer Verwischung der Grenzen bis hin zur Aufhebung dieser Grenzen 
+führen kann. Aus den separaten Einzelkulturen entstehe deshalb aber keine 
+„Globalkultur“, sondern es entstehen Individuen und Gesellschaften, die trans-
+kulturelle Elemente in sich tragen, ohne die eigenen Wurzeln zu ignorieren.41 
+„Die Kombination von verschiedenen vertikalen und horizontalen Elementen 
+verschiedener Herkunft macht so jedes Individuum transkulturell.“42 Grund-
+legend bei diesem Modell ist die Erkenntnis, dass in einer globalisierten Welt 
+Kulturen weder territorial verortet werden können noch an homogene Gemein-
+schaften gebunden sind.43 Während bei der Interkulturalität Kulturen als 
+„Kugeln“, „Inseln“ oder „Sphären“ angesehen werden, in denen es lediglich an 
+den kulturellen Außengrenzen zu Austauschprozessen kommt (Kulturkonzept 
+nach Herder), geht die Transkulturalität von der Öffnung, Dynamisierung 
+und einem vielfältigen und wechselseitigen Durchdringen der Kulturen aus 
+(Fluidität). Menschen derselben Nationalität können sich somit kulturell deut-
+lich voneinander unterscheiden. Eine kulturelle Identität muss nichts mit 
+
+38 Vgl. Thomas (2005), S. 43.
+39 Vgl. Thomas (2005), S. 43.
+40 Vgl. Cuccioletta (2002).
+41 Vgl. Welsch (2009); Köpke und Hahn (2019), S. 240 f.
+42 Vgl. Welsch (2009).
+43 Vgl. Kimmich und Schahdat (2012), S. 8.
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 657
+
+einer Nationalität oder Staatszugehörigkeit zu tun haben. Der Begriff der 
+Transkulturalität löste mittlerweile als kulturwissenschaftliches Paradigma das 
+Konzept der Interkulturalität ab.44
+
+5 K ommunikation und soziale Kompetenz
+
+Der Großteil unseres Handelns findet im sozialen Kontext und damit auf den 
+unterschiedlichsten Ebenen interpersoneller Beziehungen statt. Die soziale 
+Kompetenz umfasst die Fähigkeiten zum „sozialen Handeln“ im Sinne von Max 
+Weber. Unter Sozialkompetenz werden all die geistigen und emotionalen Ver-
+haltensweisen, Fähigkeiten und Einstellungen verstanden und zusammengefasst, 
+die dazu beitragen, das eigene Handeln in konkreten sozialen Lebenssituationen 
+von einer individuellen auf eine gemeinsame Handlungsorientierung hin auszu-
+richten und uns erlauben, beruflich wie privat effektiv mit anderen Menschen zu 
+interagieren.45 Eine zuverlässige Messung der Sozialkompetenz ist schwieriger als 
+die Feststellung von Fachqualifikationen. Soziale Kompetenz bzw. ihr Grad der 
+Ausprägung kann aber durchaus psychologisch diagnostiziert werden, z. B. durch 
+verschiedene Methoden der Verhaltensbeobachtung. In unterschiedlichen Kultur-
+räumen, aber auch in unterschiedlichen Milieus innerhalb eines Kulturraumes 
+können bei vergleichbaren situativen Anforderungen differierende Verhaltens-
+weisen vom Individuum erwartet und somit als Kompetenz interpretiert werden. 
+Das bedeutet z. B. für die Polizei, dass das Wissen (zumindest grundsätzlich) 
+darüber vorhanden sein muss, dass Begrüßungsrituale, Mimik, Gestik und das Ver-
+halten im öffentlichen Raum kulturellen Unterschieden unterliegen, die oftmals der 
+Interpretation bedürfen, welche ganz entscheidend für die soziale Interaktion sind. 
+Diesbezüglich sind aber generell keine umfangreichen Fachkenntnisse notwendig. 
+Für die Interpretationen reicht in der Regel schon Empathie und ein gewisses Maß 
+an Offenheit für andere Menschen und Kulturen. Für eine zielführende Interaktion 
+ist es aber stets erforderlich, eine Beziehung zu der anderen Person aufzubauen 
+und zuzulassen. Eine ausgeprägte soziale Kompetenz steigert zudem die Selbst-
+sicherheit und ist Basis für eine gewaltfreie(re) Kommunikation.46
+
+44 Vgl. Kimmich und Schahdat (2012), S. 7.
+45 Vgl. z. B. Kanning (2009), S. 11 ff. oder Neyer und Asendorpf (2018), S. 165 ff.
+46 Vgl. z. B. Wendlandt (2003); Güroff (2017).
+
+
+
+658 A. Schulz
+
+Die Kommunikation spielt bei der Polizei naturgemäß eine ganz besondere 
+Rolle. Die Kommunikation entscheidet nicht selten darüber, ob eine Einsatz-
+situation zielführend und – nach Möglichkeit – für alle Seiten zufriedenstellend 
+bewältigt werden konnte oder im negativen Fall völlig aus dem Ruder gelaufen 
+ist. Die Grundlagen der Kommunikation, die in unzähligen Fach- und Lehr-
+büchern behandelt werden, werden als bekannt vorausgesetzt und sollen an 
+dieser Stelle nicht vertieft werden. Es reicht, sich vor Augen zu führen, dass es 
+beim Informationsaustausch zwischen Sender und Empfänger aus verschiedenen 
+Gründen zu Kommunikationsstörungen kommen kann, die es nach Möglichkeit 
+zu vermeiden gilt. Kommunikation erfolgt verbal und nonverbal. Bei der verbalen 
+Kommunikation sind nicht nur die Sprache und die Worte entscheidend, sondern 
+ebenso die paraverbalen Faktoren, also z. B. der Tonfall, Sprechtempo und -rhyth-
+mus und Pausen. Für viele Menschen aus anderen Kulturräumen ist aber die 
+nonverbale Kommunikation entscheidender, also Gestik, Mimik und die räum-
+liche Entfernung voneinander (Proxemik). Der Prozess der Kommunikation wird 
+von frühester Kindheit an erlernt und geschieht größtenteils unbewusst. Gerade 
+Polizeibeamt:innen machen sich oft nicht bewusst, dass die sehr direkte Art der 
+hiesigen Kommunikation in der Welt eher selten, ja fast extrem ist. Eine direkte 
+Kommunikation zeichnet sich durch ihre Informationsorientierung, Sachlich-
+keit und Eindeutigkeit aus. Die Inhaltsvermittlung erfolgt größtenteils durch die 
+Sprache und kaum nonverbal. Es bleibt wenig Raum für Interpretationen (sog. 
+„Low Context“-Kommunikation). Bei der indirekten Kommunikation erfolgt die 
+Kommunikation eher „durch die Blume“, Konflikte und Negativaussagen werden 
+dabei vermieden. Es kommt eher darauf an, wie etwas gesagt wird, nicht was 
+gesagt wird. Man muss „zwischen den Zeilen“ lesen können. Die nonverbale 
+Kommunikation spielt dabei eine entscheidende Rolle (sog. „High Context“-
+Kommunikation).47 Für die erfolgreiche Arbeit der Polizeibeamt:innen sind die 
+Aspekte der transkulturellen Kommunikation essentiell, deshalb ist es notwendig, 
+diese zu kennen und sich entsprechend – soweit es möglich ist – darauf einzu-
+lassen. Kommunikation ist keine Einbahnstraße.
+
+47 Vgl. Hall (1989).
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 659
+
+6 E ntstehungsfaktoren für Rassismus innerhalb 
+der Polizei
+
+Polizeibeamt:innen haben berufsbedingt zu einem erheblichen Teil ihres Dienstes 
+mit schrecklichen Erlebnissen und allen erdenklichen menschlichen Abgründen 
+zu tun, die das individuelle Menschenbild oftmals maßgeblich beeinträchtigen. 
+Jeder Polizist und jede Polizistin geht damit anders um und sucht sich einen Weg, 
+um damit fertig zu werden. Das Erlebte macht nicht wenige zynisch und des-
+illusioniert. Sie haben in ihrem Dienst tagtäglich und auf verschiedenen Ebenen 
+auch mit „fremden Kulturen“ zu tun. Polizeibeamt:innen bekommen durch ihre 
+Arbeit relativ schnell eine Art „transkulturellen Tunnelblick“ bzw. Scheuklappen. 
+Kriminalität ist, das ist nicht zuletzt durch die Befassung Émile Durkheims mit 
+dieser grundsätzlichen Thematik bekannt, „normal“, was bedeutet, dass es keine 
+menschliche Gesellschaftsform gibt, die frei von Kriminalität ist. Das Ungleich-
+gewicht zwischen deutschen und nichtdeutschen Tatverdächtigen im Hellfeld 
+kann bekanntermaßen zu großen Teilen durch kriminologische Erkenntnisse 
+erklärt werden. In der Gesamtbewertung kann festgehalten werden, dass Her-
+kunft, Ethnie oder Staatsangehörigkeit bei den Gründen, warum ein Mensch 
+„kriminell“ wird, empirisch belegbar keine Rolle spielen. Ursächlich sind in der 
+Regel die sozialen Rahmenbedingungen einer Person. Trotzdem weiß man als 
+Polizeipraktiker:in natürlich, dass nichtdeutsche Tatverdächtige in einigen Delikt-
+bereichen überproportional vertreten sind. Aber auch diese Phänomene lassen 
+sich kriminalistisch-kriminologisch erklären. Pauschale Aussagen zu einem 
+religiösen oder kulturellen Erklärungsgrund verbieten sich hier ebenfalls.48
+
+Außer den spürbaren Einflüssen des Praktikums ist ebenfalls im Unterricht 
+feststellbar, dass bei einem Großteil der Dienstanfänger:innen deutliche Defizite 
+im Erkennen und Bewerten politischer Zusammenhänge vorhanden sind. Diese 
+verhängnisvolle Kombination kann zu Resignation und Frust führen, manchmal 
+sogar zu einem Abdriften oder im Extremfall zu einer Art Radikalisierung. In 
+der Organisation Polizei ist es – bis auf wenige Ausnahmen – nicht vorgesehen, 
+den Polizeibeamt:innen diesbezüglich zu helfen und das leicht in Schieflage 
+geratene Menschenbild wieder zurechtzurücken. Es wird davon ausgegangen, 
+
+48 Vgl. ergänzend hierzu Espín Grau und Klaus sowie Görgen und Wagner in diesem Band.
+
+
+
+660 A. Schulz
+
+dass Polizist:innen dies selbst erfolgreich bewältigen. Viele Polizist:innen ver-
+gessen im Dienst aber leicht, dass sie immer nur einen kleinen Ausschnitt aus 
+der Gesellschaft zu sehen bekommen und rund 97 % der Bevölkerung nicht 
+polizeilich negativ in Erscheinung treten. In Wirtschaftsunternehmen werden 
+schon seit Jahren verschiedene Formen der professionellen Unterstützung und 
+Reflexion von Arbeitsabläufen und -erfahrungen angeboten, meist unter den 
+Oberbegriffen Coaching oder Supervision.49 Bei der Polizei gibt es solche 
+Angebote zwar durchaus auch, aber regelhaft nur nach besonders belastenden 
+oder gar traumatisierenden Erlebnissen, und nicht – wie eigentlich erforder-
+lich – periodisch, präventiv und nach Möglichkeit verpflichtend. Hier wird eine 
+echte Chance vertan. Regelmäßig und verbindlich durchgeführte Supervisionen 
+könnten zu zufriedeneren Polizeibeamt:innen führen, würden dabei helfen, 
+personelle Ausfälle und Folgekosten durch spätere psychische oder psycho-
+somatische Erkrankungen zu senken und im Ergebnis dafür sorgen, dass die 
+Polizei ihren gesetzlichen und gesellschaftlichen Auftrag besser erfüllen kann.
+
+7 D ie Situation der Vermittlung von 
+transkulturellen Inhalten in der polizeilichen 
+Aus- und Fortbildung in Deutschland
+
+Die beschriebenen Aspekte haben vor allem gezeigt, wie überaus komplex diese 
+Thematik ist und wie immens wichtig sie für die Polizei, unsere Gesellschaft und 
+unser Zusammenleben ist. Gerade deshalb ist es erstaunlich, welch stiefmütter-
+liches Dasein die transkulturelle Aus- und Fortbildung bei der Polizei bundesweit 
+fristet. Deutschlandweit gibt es zwar zahlreiche Protagonist:innen innerhalb der 
+Polizeien, die transkulturelles Wissen auf den verschiedensten Ebenen vermitteln, 
+feste inhaltliche und organisatorische Strukturen oder gar Standards sucht man 
+aber vergebens. Der überwiegende Teil der in den Polizeien zu diesem Themen-
+bereich Lehrenden macht dies im Nebenamt, meist aus einer inneren Über-
+zeugung heraus. Viele haben sich ihr Wissen autodidaktisch beigebracht oder 
+bei externen Anbieter:innen entsprechende Fortbildungskurse absolviert, die teil-
+weise auch noch privat bezahlt werden mussten. Die Inhalte des Unterrichteten 
+variieren deshalb stark und reichen von reinen Kommunikationsseminaren über 
+Religionsunterricht bis hin zu einer Art Landeskunde.
+
+49 Vgl. bspw. Belardi (2005); Kühl (2008); Schreyögg (2010).
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 661
+
+Schaut man sich die verschiedenen Curricula für das polizeiliche Studium 
+bzw. die Modulhandbücher und Berufsbildungspläne für die Ausbildung des 
+mittleren Dienstes oder die Fortbildungskataloge der jeweiligen Länder und des 
+Bundes an, stellt man ein ebenso heterogenes Bild fest. Oftmals finden sich dort 
+lediglich Spiegelstriche wie „Vermittlung von interkultureller Kompetenz“ oder 
+ähnlich. Hinterfragt man dann, was sich konkret dahinter verbirgt, stellt man 
+meist fest, dass dieser Themenbereich nur sehr rudimentär unterrichtet wird.
+
+Die Polizei Hamburg galt bei der Vermittlung transkulturellen Wissens in der 
+polizeilichen Aus- und Fortbildungslandschaft bundesweit bis zum Sommer 2020 
+als strukturell und inhaltlich am besten aufgestellt. An der Akademie der Polizei 
+Hamburg wurde im Jahr 2015 das Institut für transkulturelle Kompetenz (ITK) 
+mit einem Ethnologen als Leiter gegründet, da man erkannt hatte, dass die bis-
+herige „interkulturelle Fortbildung“ – die bis dahin recht unverbindlich und ohne 
+wirkliches und nachhaltiges Konzept war und im Verhältnis auch nur sehr wenige 
+Polizist:innen erreicht hat – nicht mehr zeitgemäß war und den Anforderungen an 
+den Dienst nicht gerecht wurde. Seit Anfang 2018 wurde transkultureller Unter-
+richt in jeder Klasse bzw. Lehrgruppe an der Polizeiakademie Hamburg durch-
+geführt. Die Erfahrungen mit den Auszubildenden und den Studierenden waren 
+dabei durchweg positiv. Dieser Unterricht wurde aber im Sommer 2020 beendet 
+und existiert aktuell nicht mehr.
+
+Lange Zeit gab es, genau wie in anderen Bundesländern, auch in Hamburg 
+ein Problem in der Akzeptanz des Themas. Bestenfalls wurde es als eine Art 
+„interkultureller Grundsensibilisierung“ der Polizei gesehen, welche nicht ver-
+kehrt, aber verzichtbar ist, wenn andere Themen gerade wichtiger werden. Die 
+Rückmeldungen bestätigten jedoch, dass dieses Training hilft, Einsätze besser 
+zu bewältigen, dass es die Bürger:innenzufriedenheit, aber auch die eigene 
+Zufriedenheit und die der Kolleg:innen erhöht und dass vielfach Stress- und 
+Konfliktpotenzial reduziert wird. Die anfängliche Skepsis ist dadurch – und 
+nicht zuletzt durch eine offensive interne Öffentlichkeitsarbeit – einer breiten 
+Akzeptanz gewichen, zumal das ITK mit „maßgeschneiderten“ Programmen auf 
+vorhandene Bedürfnisse reagiert hatte und nicht durch ein polizeilicherseits oft 
+gewünschtes Erstellen und Abarbeiten einer „Checkliste“ für den Umgang mit 
+Menschen aus anderen Kulturen.
+
+Des Weiteren unterstützte das ITK die polizeiliche Alltagsarbeit in allen 
+transkulturellen Fragen bis hin zur Beratung bei schwerkriminellen Delikten 
+mit ethnischem Hintergrund. Aus kriminaltaktischer Sicht ist es in vielen Fällen 
+
+
+
+662 A. Schulz
+
+erforderlich, die Handlungen der Tatverdächtigen auch aus ethnologischer oder 
+religionswissenschaftlicher Sicht zu betrachten, um das Ermittlungsverfahren 
+erfolgreicher führen zu können. Hier reicht es grundsätzlich nicht aus, wie bis-
+her nur fallbezogen Beziehungen in und zu anderen Kulturen aufzubauen bzw. 
+dies zu versuchen. Für den Aufbau wirklicher Beziehungen, die später auch 
+zielführend genutzt werden können, bedarf es Zeit, teilweise mehrere Jahre. 
+Zeit, die im normalen Polizeialltag nicht vorhanden ist. Das ITK war ebenfalls 
+in die Präventionsarbeit der Polizei Hamburg eingebunden und leistete eigen-
+ständige Forschung. So brachte das ITK-Team u. a. mit einem speziellen Projekt 
+„Vermittlung von Werten und Kriterien für sozialen und beruflichen Erfolg in 
+Deutschland“ gemeinsam mit den örtlich zuständigen Polizeibeamt:innen den 
+Bewohner:innen von Flüchtlingseinrichtungen wichtige Regeln für ein gedeih-
+liches Zusammenleben in Deutschland nahe. Dies aber ohne den „erhobenen 
+Zeigefinger“, sondern in persönlichen Gesprächen in kleinen Gruppen. Dafür 
+orientierte sich das Team des ITK an der in der Jugendarbeit bereits bewährten 
+„Peer-Education“. Zur Umsetzung wurde ein Pool von meist jüngeren Frei-
+willigen aus verschiedenen Kulturen rekrutiert, die in Deutschland erfolgreich 
+Fuß gefasst haben. Sie sollten also nicht einfach „Arabisch“ können, sondern 
+z. B. „Syrisch/Irakisch-Arabisch“ und aus der jeweiligen Kultur stammen sowie 
+genügend Einblick in die Eigenheiten der jeweilig behandelten und der deutschen 
+Kultur besitzen.
+
+In den Jahren 2016 bis 2018 nahmen über 3000 Hamburger Polizei-
+vollzugsbeamt:innen (von ca. 8700 gesamt) und über 7500 Zugewanderte an 
+Veranstaltungen des ITK teil. In 2019 konnten rund 1700 Polizist:innen und 
+über 800 Zugewanderte beschult werden. Das ITK stellte einen fachlichen trans-
+kulturellen Austausch innerhalb und außerhalb der Polizei Hamburg sicher und ist 
+in der bundesweiten „Arbeitsgruppe Interkulturelle Kompetenz der Polizeien des 
+Bundes und der Länder (AG IKK)“ vertreten. In dieser Arbeitsgruppe kommen 
+engagierte Mitarbeiter:innen der Polizeien aus Bund und Ländern zusammen und 
+tauschen sich über ihre Erfahrungen aus. Bisher ist dieser Austausch wie auch die 
+Arbeitsgruppe selbst rein informell und nicht strukturell abgebildet. Es ist aber 
+beabsichtigt, dies zu ändern und die Arbeitsgruppe zukünftig geschäftsführend 
+beim BKA anzubinden.
+
+Die Arbeit des ITK von 2015 bis 2020 kann durchaus als Erfolgsmodell 
+bezeichnet werden.50 Aufgrund von personellen Abgängen befindet sich das ITK 
+
+50 Vgl. Köpke et al. (2020).
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 663
+
+derzeit in einer Neufindungsphase. Die Zukunft ist ungewiss. Von dem alten 
+„Erfolgsteam“ ist heute niemand mehr dort.
+
+8 R esümee und Ausblick
+
+Die Zukunft der Vermittlung der transkulturellen Kompetenz für Polizist:innen 
+steht bundesweit in den Sternen. Es gibt keine Regelungen, keine Standards, 
+keine einheitlichen Ziele. Das ist mehr als bedauerlich, bedenkt man die eigent-
+liche Erforderlichkeit und Konsequenzen. Die Gründe für die Entstehung von 
+Rassismus innerhalb der Polizei sind bekannt, was zu tun ist aber auch! Die Fort-
+bildungskonzepte innerhalb der Polizeien müssen neu gedacht und angepasst 
+werden. Unter dem Stichwort „lebenslanges Lernen“ müssen Polizist:innen 
+während ihrer gesamten Dienstzeit verpflichtend an periodischen Supervisionen 
+mit Inhalten transkulturellen Wissens und politischer Bildung teilnehmen. Alle 
+verantwortlichen Polizeiführer:innen und Innenpolitiker:innen müssen sich 
+bundesweit die Kritik gefallen lassen, dass ihr Bedauern, wenn es wieder zu – 
+oftmals durchaus vermeidbaren – Vorfällen gekommen ist, nichts weiter als eine 
+hohle Phrase ist, denn sie haben es unterlassen, die erforderlichen Schritte einzu-
+leiten und umzusetzen.51 Rassistische Vorfälle innerhalb der Polizei als „Einzel-
+fall“ zu betrachten und diesem nur mit dem Strafrecht sowie dem Disziplinarrecht 
+zu begegnen, ist ideenlos, nicht zielführend und vor allem nicht nachhaltig.
+
+Hinsichtlich der Faktoren für eine Entwicklung von rassistischen Ansichten 
+und Handlungen durch den täglichen Polizeidienst spielen die Polizeigewerk-
+schaften – zumindest in Teilen – eine weitere und durchaus unrühmliche Rolle 
+als Katalysator für rassistische Tendenzen, die in diesem Beitrag aber nicht weiter 
+betrachtet werden sollen.
+
+Transkulturelle Kompetenz stellt zweifelsfrei eine der Schlüsselkompetenzen 
+für Polizist:innen dar – mindestens gleichwertig mit der fachlichen Kompetenz – 
+und ist ein wesentlicher Faktor im Kampf gegen (strukturellen) Rassismus inner-
+halb der Polizei, da Zusammenhänge erklärt, Wissen vermittelt und Vorurteile 
+beseitigt werden können und so Resilienzen vertieft oder erarbeitet werden 
+können. Gerade beim direkten Kontakt zwischen Menschen unterschiedlicher 
+Herkunft und Wertehaltungen ist der konstruktive und kompetente Umgang mit 
+
+51 Vgl. Heitmeyer in diesem Band.
+
+
+
+664 A. Schulz
+
+dieser kulturellen Vielfalt der entscheidende Erfolgsfaktor.52 Speziell für die 
+Polizei ist es damit unumgänglich, die vorhandene Kompetenz auf diesem Gebiet 
+weiter auszubauen.
+
+Literatur
+
+Ansary, T. (2010). Die unbekannte Mitte der Welt – Globalgeschichte aus islamischer Sicht. 
+Frankfurt am Main: Campus Verlag.
+
+Ansprenger, F. (1999). Politische Geschichte Afrikas im 20. Jahrhundert. 3. Aufl. München: 
+C.H. Beck Verlag.
+
+Auma, M. M. (2017). Rassismus. Bundeszentrale für politische Bildung. https://www.bpb.
+de/gesellschaft/migration/dossier-migration/223738/rassismus. Zugegriffen: 18. Juli 
+2022.
+
+Belardi, N. (2005). Supervision – Grundlagen, Techniken, Perspektiven. 2. Aufl. München: 
+C.H. Beck Verlag.
+
+Böhme, H. (1996). Vom Cultus zur Kultur(wissenschaft). Zur historischen Semantik des 
+Kulturbegriffs. In R. Glaser & M. Luserke (Hrsg.), Literaturwissenschaft – Kultur-
+wissenschaft. Positionen, Themen, Perspektiven (S. 48–68). Wiesbaden: Opladen.
+
+Bundesministerium des Innern (2020). Keine Rassismus-Studie in der Polizei. Pressemit-
+teilung vom 20.10.2020. https://www.bmi.bund.de/SharedDocs/pressemitteilungen/
+DE/2020/10/keine-studie-rechtsextremismus-polizei.html. Zugegriffen: 18. Juli 2022.
+
+Castro Varela, M., & Dhawan, N. (2015). Postkoloniale Theorie. 2. Aufl. Bielefeld: 
+Transcript Verlag.
+
+Cuccioletta, D. (2002). Multiculturalism or Transculturalism: Towards a Cosmopolitan 
+Citizenship. London Journal of Canadian Studies, 17.
+
+dpa (2021). Berliner Polizei zählt 388 Clankriminelle. https://www.berlin.de/aktuelles/
+berlin/kriminalitaet/6475179-4362932-berliner-polizei-zaehlt-388-clankriminel.html. 
+Zugegriffen: 30. Juni 2021.
+
+Eckert, A., & Randeria, S. (Hrsg.) (2009). Vom Imperialismus zum Empire. Nicht-westliche 
+Perspektiven auf Globalisierung. Frankfurt am Main: Suhrkamp Verlag.
+
+Eickelpasch, R., & Rademacher, C. (2004). Identität. Bielefeld: Transcript Verlag.
+Enzyklopädie Britannica (1993). The New Encyclopaedia Britannica. 15. Aufl. Chicago: 
+
+Encyclopaedia Britannica Inc.
+Esch, F.-R. (2016). Identität. Frankfurt am Main: Campus Verlag.
+Fuchs, M. (2012). Kulturbegriffe, Kultur der Moderne, kultureller Wandel. Kulturelle 
+
+Bildung Online. https://www.kubi-online.de/artikel/kulturbegriffe-kultur-moderne-
+kultureller-wandel. Zugegriffen: 18. Juli 2022.
+
+Güroff, E. (2017). Selbstsicherheit und soziale Kompetenz. Stuttgart: Klett-Cotta Verlag.
+Hall, E. T. (1989). Beyond Culture. New York: Random House Verlag.
+Hansen, K. P. (1993). Kulturbegriff und Methode. Tübingen: Gunter Narr Verlag.
+
+52 Vgl. hierzu ergänzend Abdul-Rahman in diesem Band.
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 665
+
+Habermas, J. (1978). Theorie und Praxis – Sozialphilosophische Studien. Berlin: Suhrkamp 
+Verlag.
+
+Hofstede, G. (2001). Culture’s Consequences – Comparing Values, Behaviors, Institutions 
+and Organizations Across Nations. 2. Aufl. London/Neu Delhi: Thousand Oaks Verlag.
+
+Jaeggi, R., & Celikates, R. (2017). Sozialphilosophie – Eine Einführung. München: C.H. 
+Beck Verlag.
+
+Kanning, U. P. (2009). Diagnostik sozialer Kompetenzen. 2. Aufl. Göttingen: Hogrefe Ver-
+lag.
+
+Kennedy, P. (1989). Aufstieg und Fall der großen Mächte – Ökonomischer Wandel und 
+militärischer Konflikt von 1500 bis 2000. Frankfurt am Main: Fischer Verlag.
+
+Klimke, D. (2020). Die Polizei in der Einwanderungsgesellschaft. Bundeszentrale für 
+politische Bildung. http://m.bpb.de/gesellschaft/migration/kurzdossiers/303141/die-
+polizei-in-der-einwanderungsgesellschaft. Zugegriffen: 18. Juli 2022.
+
+Kimmich, D., & Schahdat, S. (2012). Kulturen in Bewegung. Beiträge zur Theorie und 
+Praxis der Transkulturalität. Bielefeld: Transcript Verlag.
+
+Kolle, G. (2019). Multikulturalität. https://kulturshaker.de/kulturkonzepte/multikulturalitaet. 
+Zugegriffen: 30. Juni 2021.
+
+Köpke, W., & Hahn, B. (2019). Und was bringt mir das in der Praxis? In H.-J. Lange, T. 
+Model & M. Wendekamm (Hrsg.), Zukunft der Polizei (S. 239–260). Wiesbaden: 
+Springer.
+
+Köpke, W., Hahn, B., Schulz, A., & Stuke, A. (2020). Das Institut für transkulturelle 
+Kompetenz – Ein innovativer Ansatz Hamburger Polizeiarbeit. Hamburg: Akademie der 
+Polizei Hamburg.
+
+Kühl, S. (2008). Coaching und Supervision. Wiesbaden: VS Verlag.
+Langbehn, V., & Salama, M. (2011). German Colonialism – Race, the Holocaust and 
+
+Postwar Germany. New York: Columbia University Press.
+Mabe, J. E. (2005). Multikulturelle Gesellschaften. Bundeszentrale für politische Bildung. 
+
+https://www.bpb.de/internationales/afrika/afrika/58880/multikulturelle-gesellschaften. 
+Zugegriffen: 18. Juli 2022.
+
+Münkler, H. (2005). Imperien – Die Logik der Weltherrschaft: Vom Alten Rom bis zu den 
+Vereinigten Staaten. Berlin: Rowohlt Verlag.
+
+Neyer, F. J., & Asendorpf, J. B. (2018). Psychologie der Persönlichkeit. 6. Aufl. Berlin: 
+Springer Verlag.
+
+Nünning, A., & Nünning, V. (2008). Einführung in die Kulturwissenschaften. Stuttgart: Ver-
+lag J. B. Metzler.
+
+Osterhammel, J., & Jansen, J. C. (1995). Kolonialismus. München: C.H. Beck Verlag.
+Pelizaeus, L. (2011). Der Kolonialismus – Geschichte der europäischen Expansion. Wies-
+
+baden: Marixverlag.
+Regge, F. (2013). Migranten im Polizeidienst: Motivation und Hemmnisse von Bewerbern. 
+
+München: Grin Verlag.
+Sauer, F. H. (2021). Was sind Werte? Enzyklopädie der Wertvorstellungen. https://www.
+
+wertesysteme.de/was-sind-werte. Zugegriffen: 18. Juli 2022.
+Schiemann, A. (2020). Projektskizze. Motivation, Einstellung und Gewalt im Alltag 
+
+von Polizeivollzugsbeamten – MEGAVO. https://www.bmi.bund.de/SharedDocs/
+downloads/DE/veroeffentlichungen/themen/sicherheit/megavo-projektskizze.pdf?__
+blob=publicationFile&v=2. Zugegriffen: 18. Juli 2022.
+
+
+
+666 A. Schulz
+
+Schöllgen, G., & Kiessling, F. (2009). Das Zeitalter des Imperialismus. 5. Aufl. München: 
+Oldenbourg Verlag.
+
+Speitkamp, W. (2014). Deutsche Kolonialgeschichte. 3. Aufl. Stuttgart: Reclam Verlag.
+Schreyögg, A. (2010). Supervision – Ein integratives Modell. 5. Aufl. Wiesbaden: VS Ver-
+
+lag.
+Stemmler, S. (2011). Multikultur 2.0: Willkommen im Einwanderungsland Deutschland. 
+
+Göttingen: Wallstein Verlag.
+Stuchtey, B. (2010). Die europäische Expansion und ihre Feinde. München: Oldenbourg 
+
+Verlag.
+Tetzlaff, R., & Jakobeit, C. (2005). Das nachkoloniale Afrika. Wiesbaden: VS Verlag.
+Thomas, A. (1996). Psychologie interkulturellen Handelns. Göttingen: Hogrefe Verlag.
+Thomas, A. (2005). Das Eigene, das Fremde, das Interkulturelle. In A. Thomas, E.-U. 
+
+Kinast & S. Schroll-Machl (Hrsg.), Handbuch Interkulturelle Kommunikation und 
+Kooperation. Bd 1: Grundlagen und Praxisfelder. 2. Aufl. (S. 44–59). Göttingen: 
+Vandenhoeck & Ruprecht Verlag.
+
+Thomas, A. (2014). Das Eigene, das Fremde und das Interkulturelle. Wiesbaden: Springer 
+Verlag.
+
+Trommsdorff, G. (2008). Kultur und Sozialisation. In B. Hurrelmann (Hrsg.), Handbuch 
+der Sozialisationsforschung (S. 229–239). Weinheim: Beltz Verlag.
+
+Trompenaars, F., & Hampden-Turner, C. (2011). Riding the waves of culture. 3. Aufl. 
+London: N. Brealey Publishing.
+
+Triandis, H. C. (2018). Individualism & Collectivism. London: Taylor & Francis Verlag.
+Triebe, B. (2012). Der Nationalstaat als sozialwissenschaftliche Denkkategorie. Eine Ana-
+
+lyse des methodologischen Nationalismus. Marburg: Tectum Verlag.
+Yousefi, H. R., & Braun, I. (2011). Interkulturalität – Eine interdisziplinäre Einführung. 
+
+Darmstadt: WBG Verlag.
+Wagner, U., & Küpper, B. (2007). Kulturbegegnungen und -konflikte. In G. Trommsdorff 
+
+& H.-J. Kornadt (Hrsg.), Anwendungsfelder der kulturvergleichenden Psychologie 
+(S. 87–122). Göttingen: Hogrefe Verlag.
+
+Welsch, W. (2009). Was ist eigentlich Transkulturalität? In L. Darowska & C. Machold 
+(Hrsg.), Hochschule als transkultureller Raum? Beiträge zu Kultur, Bildung und 
+Differenz (S. 13–37). Bielefeld: Transcript Verlag.
+
+Wendlandt, W. (2003). Veränderungstraining im Alltag. Stuttgart: Thieme Verlag.
+Woyke, W. (2016). Weltpolitik im Wandel. Wiesbaden: VS Verlag.
+Ziai, A. (Hrsg.) (2016). Postkoloniale Politikwissenschaft. Bielefeld: Transcript Verlag.
+Zick, A. (2010). Psychologie der Akkulturation. Wiesbaden: VS Verlag.
+Zimmerer, J. (2011). Von Windhuk nach Auschwitz? Beiträge zum Verhältnis von 
+
+Kolonialismus und Holocaust. Berlin: LIT Verlag.
+
+Dr. André Schulz LL.M. M.A. ist Kriminalwissenschaftler, Jurist, Consultant, trans-
+kultureller Trainer und Erster Kriminalhauptkommissar (EKHK). Er lehrt und forscht seit 
+Juni 2018 an der Akademie der Polizei Hamburg.
+
+
+
+Die Vermittlung transkulturellen Wissens in der Aus- und Fortbildung … 667
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

@@ -1,0 +1,13 @@
+Einfluss von Angst und Depression auf das postoperative Ergebnis nach Karotisoperationen: Präliminäre Daten
+
+Fragestellung: Psychische Faktoren wie Angst und Depression stehen in engem kausalem Zusammenhang mit dem Auftreten von kardiovaskulären Erkrankungen. Das Auftreten von postoperativen Kompilationen könnte ebenfalls mit erhöhter Angst und Depressionen in Verbindung stehen. Das Ziel dieser Studie war es, den Einfluss von Angst und Depression auf das postoperative Ergebnis nach Karotisoperationen zu untersuchen.
+Material und Methode: Single-Center-prospektive Observationsstudie an einem akademischen Lehrkrankenhaus. Eingeschlossen wurden Patienten, welche einer Karotisendarterektomie aufgrund einer hochgradigen asymptomatischen Karotisstenose unterzogen wurden. Präoperativ wurden alle Patienten anhand von Fragebögen (STAI [Spielberger-State-Trait-Anxiety-Inventory] und HADS [Hospital Anxiety and Depression Scale]) zu Symptomen von Angst und Depression befragt.
+Ergebnis: Von 09/2012 bis 10/2015 wurden 74 Patienten in die Studie eingeschlossen (62 männlich, 84 %; medianes Alter 71,1 Jahre). 
+Der mediane Score der Fragebögen hat sich nicht von publizierten Daten zur Gesamtbevölkerung unterschieden (STAI, trait median: 
+36, SD 13; STAI, state median: 38, SD 12; HADS-A, median: 6, SD 3; HADS-D, median 4, SD 3). Die kardiovaskulären Risikofaktoren 
+waren vergleichbar zwischen Patienten, welche eine erhöhte Ängstlichkeit in den Scores aufwiesen und jenen, welche anhand der Scores 
+keinen Hinweis auf eine erhöhte Ängstlichkeit hatten. Neun Patienten (12 %) nahmen bereits vor Studieneinschluss eine antidepressive Dauertherapie ein. Postoperative neurologische Komplikationen traten signifikant häufiger in Patienten auf, welche präoperativ einen 
+erhöhten Wert im HADS-A-Score (p = 0,04; CI –12,4–4,2) aufwiesen. In Bezug auf weitere peri- und postoperative Komplikationen konnte 
+keine Assoziation zu erhöhter Ängstlichkeit oder Depression hergestellt werden. Auch die weiteren untersuchten Scores wiesen keine 
+Assoziation zwischen erhöhter Ängstlichkeit und Depression und dem Auftreten von postoperativen Komplikationen auf.
+Schlussfolgerung: Eine erhöhte präoperative Ängstlichkeit könnte in Zusammenhang mit einem erhöhten Risiko peri- und postoperativen neurologischen Komplikationen zu erleiden stehen. Depression, im Gegensatz, scheint keinen Einfluss auf die Komplikationsrate zu haben.

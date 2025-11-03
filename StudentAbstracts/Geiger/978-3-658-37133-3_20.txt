@@ -1,0 +1,816 @@
+﻿Rassistisches Polizieren. Erfahrungen, 
+Umgangsweisen und Interventionen
+
+Vanessa E. Thompson
+
+Zusammenfassung
+
+Rassistisches Polizieren produziert vielschichtige Formen von Gewalt, die 
+durch institutionelle Verschränkungen verstärkt werden. Der Beitrag diskutiert 
+auf Grundlage der Wissensbestände und Archive von betroffenen Personen 
+und unterstützenden Initiativen die Erfahrungen, Umgangsweisen und Inter-
+ventionen gegen rassistisches Polizieren. Am Beispiel von Racial Profiling 
+sowie von Tötungen schwarzer Menschen in Deutschland werden die viel-
+schichtigen und strukturellen Formen institutioneller Gewalt in den Blick 
+genommen und diskutiert. Abschließend werden Umgangsweisen und Inter-
+ventionspraktiken vorgestellt.
+
+Schlüsselwörter
+
+Rassismus · Polizei · Racial Profiling · Strukturelle und Langsame Gewalt ·  
+Widerstände
+
+V. E. Thompson (*) 
+Kingston, Ontario, Kanada
+E-Mail: vt25@queensu.ca
+
+© Der/die Autor(en) 2022 427
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_20
+
+
+
+428 V. E. Thompson
+
+1  Einleitung
+
+Die globalen Black Lives Matter Proteste gegen rassistische Polizeigewalt im 
+Jahr 2020, die auf die Ermordung von George Floyd, Breonna Taylor und Tony 
+McDade in den USA folgten und auch in Europa die historisch größten anti-
+rassistischen Mobilisierungen in Gang gebracht haben, haben auch Rassis-
+mus als gesellschaftliches Verhältnis in Deutschland erneut thematisiert. Dabei 
+ist wichtig zu beachten, dass die Proteste und Mobilisierungen aufzeigten, was 
+bereits seit Jahrzehnten von migrantischen, rassifizierten und anti-rassistischen 
+Gruppen, Initiativen, Menschenrechtsorganisationen und einigen kritischen 
+Wissenschaftler:innen auch in Deutschland betont, analysiert und eingefordert 
+wird. Zudem haben vor allem die anti-rassistischen Formationen und Initiativen 
+der letzten Jahre der Ermöglichung dieser breiten Proteste und Mobilisierungen 
+den Weg geebnet, da viele Protestierende auf ihre langjährige Arbeit aufbauen 
+konnten. So war es möglich, dass hiesige Fälle von rassistischem Polizieren 
+und die Verschränkungen mit weiteren Institutionen wie Justiz und den Medien 
+weiter in den gesellschaftlichen Diskurs getragen werden konnten. Dabei wurden 
+im Rahmen der Proteste und Kampagnen vor allem zwei Dinge hervorgehoben, 
+wenn sie auch gesamtgesellschaftlich, medial und politisch stets wieder eingehegt 
+werden sollten: Dass es sich bei rassistischem Polizieren nicht um „Einzelfälle“ 
+handelt und dass rassistisches Polizieren über das „Ereignis“ (bspw. die Kontrolle 
+oder die Verhaftung) hinausgeht.
+
+Dies macht besonders die Auseinandersetzung mit Erfahrungen des 
+rassistischen Polizierens und den Perspektiven der betroffenen Personen1 sowie 
+unterstützenden Initiativen deutlich, die auf die vielschichtigen und strukturellen 
+Formen von Gewalt durch rassistisches Polizieren hinweisen, und auf die ich in 
+diesem Beitrag den Fokus lege. Dabei diskutiere ich Erfahrungen rassistischen 
+Polizierens sowie Umgangsweisen und Interventionspraktiken in Deutschland, 
+basierend auf der Auseinandersetzung mit einigen der Archive und Wissens-
+beständen betroffener Personen und unterstützenden Initiativen sowie eigener 
+
+1 Mit „betroffen“ sind hier Personen und Gruppen gemeint, die rassistisches Polizieren 
+(potentiell) erfahren (müssen). Gleichzeitig ist darauf hinzuweisen, dass der Verweis 
+sowie der Bezug auf Betroffenheit zum einen sehr ambivalent ist (Personen können in 
+einer Situation betroffen sein und in einer anderen, bspw. als Passant:innen nicht direkt 
+betroffen), und zum anderen Rassismus als gesellschaftliches Verhältnis in den Hintergrund 
+rücken kann. Rassistisches Polizieren betrifft freilich auch die bürgerliche Dominanzgesell-
+schaft und unterschiedlich positionierte gesellschaftliche Gruppen, wenn auch entlang einer 
+(komplexen) differentialistischen Logik (Loick 2018; Loick und Thompson 2022).
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 429
+
+ethnographischer Forschung zu rassistischem Polizieren und Widerständen.2 
+In einem ersten Teil diskutiere ich Erfahrungen und Folgen rassistischen 
+Polizierens für betroffene Personen und gehe dabei auch auf die intersektionalen 
+Artikulationsweisen dieser Gewalt und ihre Folgen ein. Unter Bezugnahme von 
+Rob Nixons Konzept der „langsamen Gewalt“3 und mit Fokus auf die Praxis des 
+Racial Profiling diskutiere ich die vielschichtigen Konsequenzen für betroffene 
+Personen. In einem zweiten Teil wird Racial Profiling in einem breiteren Sinne 
+und auch mit Bezug auf tödliche Formen rassistischen Polizierens in den Blick 
+genommen. Auf Grundlage von Erfahrungsberichten von betroffenen Personen 
+und anti-rassistischen Initiativen argumentiere ich, dass Erfahrungen rassistischen 
+Polizierens weit über die Institution Polizei hinausgehen, auf die Verschränkung 
+von Polizei und weiteren staatlichen sowie nicht-staatlichen Institutionen (wie 
+bspw. den Medien) und Strukturen verweisen und daher auch Ausgangspunkte für 
+eine gesamtgesellschaftliche Auseinandersetzung und Kritik liefern. Im dritten 
+Teil gehe ich auf Umgangsweisen und Interventionspraktiken ein, die ich als Teil 
+radikal demokratischer Formationen diskutiere.
+
+Die Fokussierung auf die Archive und Wissensbestände von betroffenen 
+Personen und unterstützenden Initiativen verweisen jedoch nicht nur auf die viel-
+schichtige und strukturelle Gewalt durch rassistisches Polizieren, sondern auch 
+auf eine nötige Reflektion des Umgangs mit alternativen Wissensbeständen, die 
+zuvor auch von unterschiedlichen Teilen der kritischen Forschung marginalisiert 
+oder schlichtweg nicht ernst genommen wurden. Problematisch an einer 
+solchen Haltung kann sein, dass diese nicht nur eine bloße Hierarchisierung von 
+Wissensbeständen befördert, anstatt das Verhältnis zwischen Wissensformen 
+sowie zwischen Wissenschaft, Aktivismus, sozialen Bewegungen und Zivil-
+gesellschaft in den Blick zu nehmen (wie es bspw., wenn auch auf unterschied-
+liche Weise, in den Black Studies, transnationaler kritischer Rassismusforschung, 
+anti- sowie post-kolonialen, materialistischen und feministischen Theorien 
+vorgenommen wird). Zudem spiegelt sie die Konjunktur des epistemischen 
+Rassismus4 in Deutschland wider. Diese Haltung hat jedoch auch gesellschaft-
+liche Implikationen. Rassismuskritische Initiativen und aktivistische Gruppen 
+weisen bereits seit Jahren auf die Verschränkung von institutionellem Rassis-
+mus und dem Erstarken des Rechtsextremismus, sowie auf den „alltäglichen 
+
+2 Teile dieses Beitrags sind bereits in Thompson (2018) enthalten.
+3 Nixon (2011); Vorbrugg (2019).
+4 Grosfoguel (2015).
+
+
+
+430 V. E. Thompson
+
+ Ausnahmezustand“5 mit Bezug auf die institutionelle Gewalt durch staatliche 
+Institutionen wie der Polizei hin. Die Auseinandersetzung mit diesen Analysen 
+ist m. E. grundlegend, um gegenwärtige und kontinuierliche „Ereignisse“, wie 
+bspw. rechtsextreme Netzwerke in der Polizei und ihr Gedeihen in institutionell 
+rassistischen Strukturen, besser zu verstehen und angehen zu können.
+
+Wenn es auf Grundlage der anti-rassistischen Kämpfe, die in diesem Falle 
+durch eine starke transnationale schwarze6 politische Präsenz und in Ver-
+bindung mit weiteren rassifizierten und migrantischen Gruppen und inmitten 
+einer globalen Pandemie entfachten, nun ein reges wissenschaftliches Interesse 
+an der Forschung zu Rassismus und dem Verhältnis zu Polizei und Polizeigewalt 
+gibt, dann erfordert dies auch eine Revision des vorherigen Umgangs mit diesen 
+Wissensbeständen, die kein „pre-theoretisches Rohmaterial“7 darstellen, sondern 
+bereits Bestände erstellt, Wissen produziert und geteilt haben, von denen kritische 
+Wissenschaftler:innen lernen und mit denen sie in einen horizontaleren Austausch 
+treten können.8
+
+5 Kampagne für Opfer rassistischer Polizeigewalt (2016).
+6 Ich schreiben schwarz, entgegen einigen Ansätzen im deutschsprachigen Kontext und 
+in Anlehnung an viele schwarze Theoretiker:innen mit kleinem „s“, da sich schwarz als 
+politische Kategorie der liberalen Subjektivierung der kapitalistischen Moderne gerade zu 
+entziehen versucht und zudem auf die Kontingenz von „Rasse“ und Rassismus verweist.
+7 Haritaworn et al. (2013).
+8 Dabei beinhalten diese Wissensbestände auch Formen der Kritik, die auf gelebten 
+Erfahrungen aufbauen und gleichzeitig über diese hinausgehen. Genealogien schwarzer 
+radikaler Theoriebildung von u. a. W.E.B. Du Bois oder auch Frantz Fanon sowie 
+Angela Y. Davis und Paul Gilroy zeigen auf, dass gelebte Erfahrungen des Rassis-
+mus einen epistemologischen Standpunkt ermöglichen (können, nicht müssen), von dem 
+aus theoretische Analysen und Kritik gesellschaftlicher Verhältnisse formuliert werden 
+können. Wichtig für diese Artikulation gelebter Erfahrung als epistemologische Kategorie 
+ist jedoch, dass sie Wissensformation nicht auf Fragen von gelebter Erfahrung reduziert, 
+und damit Erfahrungen und soziale Positionen fetischisiert oder gar soziale Position und 
+theoretische Standpunkte gleichsetzt, sondern als Ausgangs- und nicht als Endpunkte 
+kritischer Gesellschaftstheorien formuliert. Für W.E.B. Du Bois spielt hier das bekannte 
+„double consciousness“ eine wesentliche Rolle. Fanon argumentiert in seiner Analyse 
+des Rassismus in Schwarze Haut, weiße Masken, dass die Aufhebung der kolonialen Ent-
+fremdung auf zwei Ebenen angegangen werden müsse, einer objektiven, d. h. der sozio-
+ökonomischen sowie auf der Ebene der subjektiven Erfahrung (Du Bois 2015; Fanon 
+1985). Angela Davis argumentiert mit Bezug auf dieses Verhältnis, dass Philosophie „is 
+supposed to perform the task of generalizing aspects of experience, and not just for the 
+sake of formulating generalizations“ (Davis 1971), S. 71.
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 431
+
+Die Archive rassismuskritischer Initiativen und Gruppen sowie ihre Unter-
+suchungen, Kampagnen und Interventionen, die (vielseitigen) Berichte von 
+betroffenen Personen (in Form von Protokollen, aber auch im Rahmen kultureller 
+Produktion, etc.) und politische Mobilisierungen stellen auch in Deutschland ein 
+Archiv marginalisierter Wissensbestände dar, die für das Verstehen und die Ana-
+lyse des Verhältnisses zwischen Polizei, Rassismus und Gewalt unabdingbar 
+sind.9
+
+2  Racial Profiling und Formen der langsamen 
+Gewalt
+
+Im deutschen Kontext wird bereits seit mehreren Jahren auf die Gewaltförmigkeit 
+rassistischen Polizierens hingewiesen. Dies lässt sich besonders am Beispiel 
+von Racial Profiling verdeutlichen.10 Racial Profiling verstanden als Strategie 
+von Polizieren als Methode des racial Kapitalismus11 umfasst unterschied-
+liche Kontroll-, Befragungs- und Durchsuchungsformen sowie Verhaftungen auf 
+Basis rassifizierter Zuschreibungen wie Hautfarbe, phänotypischen Merkmalen, 
+vermeintlicher nationaler Herkunft und Religion. Gleichzeitig verlaufen diese 
+Zuschreibungen entlang von intersektionalen Ungleichheitsstrukturen, sind 
+also auch vergeschlechtlicht, vollziehen sich entlang von psychischer Gesund-
+heit etc. und betreffen, wie jede Form des Polizierens, hauptsächliche arme 
+
+9 Siehe u. a. die Arbeiten der Kampagne für Opfer rassistischer Polizeigewalt (KOP), der 
+Initiative Schwarzer Menschen in Deutschland (ISD), diversen copwatch-Gruppen in vielen 
+deutschen Städten, selbst-organisierten Geflüchtetengruppen wie Women in Exile oder The 
+Culture of Deportation. Mit Bezug auf polizeiliche Tötungen haben besonders Initiativen 
+wie die Initiative in Gedenken an Oury Jalloh, die Initiative Amed Ahmad und viele weitere 
+grundlegende Arbeit im Rahmen des deutschen Kontextes und darüber hinaus geleistet. 
+Siehe auch die Publikation von KOP 2016 sowie die Homepages der vielen Initiativen 
+mit ausführlichen Statements und Archiven sowie u. a. Basu (2016); Melter (2017); 
+Thompson (2018); El-Tayeb und Thompson (2019); und die Publikation der Kollaborativen 
+Forschungsgruppe Racial Profiling (2019).
+10 S. u. a. Cremer (2013); Wa Baile et al. (2019); Kollaborative Forschungsgruppe Racial 
+Profiling (2019); Belina (2016); Hunold und Wegner (2020) sowie Niemz und Singelnstein 
+in diesem Band.
+11 Robinson (1983); Bhattacharyya (2018).
+
+
+
+432 V. E. Thompson
+
+und mittellose Menschen.12 In Deutschland ist diese Praxis auf der Grundlage 
+des Grundgesetzes, des Allgemeinen Gleichbehandlungsgesetzes sowie inter-
+nationalen Menschrechtskonventionen rechtlich verboten, findet jedoch, wie 
+bereits von unterschiedlichen anti-rassistischen Initiativen und Menschenrechts-
+organisationen seit mehreren Jahren skandalisiert und untersucht, im Leben 
+vieler rassifizierter und migrantischer Gruppen alltäglich statt. Dabei werden in 
+der hegemonialen politischen Debatte um Racial Profiling meist die Ansichten, 
+Wahrnehmungen oder Haltungen einzelner Polizeibeamt:innen diskutiert, was 
+nicht nur die institutionelle Dimension von Racial Profiling, sondern zudem auch 
+die sozialpsychologischen und gesellschaftlichen Folgen und gewaltförmigen 
+Konsequenzen für vor allem betroffene Personen verkennt.13
+
+Für die betroffenen Personen reichen die Folgen dieser Kontrollen von 
+öffentlicher Demütigung und Abwertung – sich zu fühlen „wie ein Fußabtreter“14 
+– bis hin zu physischen und psychosozialen Verletzungen und Krisen. Racial 
+Profiling kann schwere Folgen für die mentale Gesundheit von betroffenen 
+Personen haben. sozialwissenschaftliche Untersuchungen sowie die Berichte 
+von Menschenrechtsorganisationen, Antidiskriminierungsstellen und selbst-
+organisierten Initiativen verweisen, gerade auch wegen der iterativen Erfahrungen 
+des Racial Profilings und öffentlicher Präsenz der Polizei an vielen Orten, auf 
+Angstzustände, Scham, Bedrohungsgefühle, sozialen Rückzug und weitere 
+Symptome Posttraumatischer Belastungsstörungen.15 So schildert mir Jane W., 
+Mitglied in einer selbstorganisierten Initiative geflüchteter Frauen in einem Inter-
+view von Erfahrungen des Racial Profilings als traumatisierend:
+
+„I have experienced a lot of racial profiling, especially in the train where the 
+policemen came by. They are not controlling everybody, but just come to me and the 
+other migrant women. And they only ask for ‚Ausweis‘ not even the ticket, only our 
+‚Ausweis‘.“ (08.2020)
+
+Polizeilich angehalten, befragt und durchsucht zu werden, während man z. B. 
+auf dem Weg zur Schule, zu einem Treffen, dem Arbeitsweg, einfach dem Nach-
+
+12 Mama (1989); Plümecke und Wilopo (2019); Thompson (2018); Dankwa et al. (2019); 
+Ritchie (2017).
+13 Bundesministerium des Innern, für Bau und Heimat (2020); Hessisches Ministerium des 
+Innern und für Sport (2020).
+14 Copwatch ffm (2021), S. 81.
+15 S. Louw (2016); ADBs für NRW (2017); Carter (2004); Kollaborative Forschungsgruppe 
+Racial Profiling (2019); Bryant-Davis (2005); Thompson (2021).
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 433
+
+gang seines alltäglichen Lebens ist, ist als „stopping device“ (Instrument des 
+Stoppens)16 lesbar und schränkt Menschen massiv in ihrer Bewegungsfreiheit 
+und Partizipation am öffentlichen Leben ein.17 Auch werden Kontrollen oft als 
+physisch übergriffig und gewaltvoll erlebt.18
+
+Zudem erfahren betroffene Personen in diesen Momenten oft soziale Isolation 
+und Entsolidarisierung, da die Kontrolle durch die Inaktivität von Passant:innen 
+gesellschaftlich legitimiert wird. In vielen Berichten verweisen betroffene 
+Personen darauf, dass gerade auch die passiven Reaktionen von Passant:innen 
+verletzend seien. So schildert Salah Chant mit Bezug auf die Erfahrungen von 
+Racial Profiling in der Schweiz:
+
+„Das tat mir wirklich weh. Niemand half mir. Die Leute waren wie Marionetten, sie 
+gingen einfach vorbei.“19
+
+Dies weist darauf hin, dass es sich bei den Folgen von Racial Profiling um 
+psychische, physische sowie um soziale und gesellschaftliche Auswirkungen 
+handelt.20 Diese Auswirkungen lassen sich temporal nicht auf die Zeit der 
+Kontrolle beschränken. Racial Profiling geht über die Kontrolle oder die Durch-
+suchungen als eine Form der „langsamen Gewalt“ hinaus.21 In Anlehnung an 
+diese Erfahrungen und Analysen der Verlängerung der Gewalt durch Racial 
+Profiling und unter Bezugnahme von Johan Galtungs Konzept der strukturellen 
+Gewalt sowie Rob Nixons Konzept der langsamen Gewalt, einer Gewalt die sich 
+nicht durch spektakuläre Ereignisse vollzieht, sondern die sich über Zeit und 
+Raum verteilt sowie der Offenlegung der Vielschichtigkeit von Gewalt besonders 
+in schwarz-feministischer Theoriebildung22, diskutiere ich die Folgen von Racial 
+Profiling entlang Modalitäten struktureller und langsamer Gewalt, die in ihrer 
+institutionellen Form für Betroffene zwar sichtbar und spürbar, gesellschaftlich 
+jedoch durch ihre Unsichtbarkeit und oft auch durch ihre Langsamkeit und ihre 
+Stille charakterisiert ist.
+
+16 Ahmed (2007), S. 161.
+17 Belina (2016) und in diesem Band; Fejge (2019).
+18 ADBs NRW (2017);  Kollaborative Forschungsgruppe Racial Profiling (2019). Siehe 
+auch Espín Grau und Klaus in diesem Band.
+19 Kollaborative Forschungsgruppe Racial Profiling (2019), S. 96.
+20 ADBs für NRW (2017), S. 14–17. Siehe auch Abdul-Rahman in diesem Band.
+21 Nixon (2001); Vorbrugg (2019).
+22 Davis (1972); Hartman (1997).
+
+
+
+434 V. E. Thompson
+
+Neben den bereits beschriebenen psychischen, physischen und sozialen Aus-
+wirkungen lassen sich zudem institutionelle und finanzielle Auswirkungen fest-
+halten. Das Fehlen von unabhängigen Beschwerde- und Ermittlungsstellen in 
+Deutschland sowie anderen Ländern in Europa verunmöglicht die Dokumentation 
+und Sichtbarmachung dieser dehumanisierenden Praxis und führt langsame 
+Gewalt institutionell fort. Zudem sind die Aussichten auf eine Verurteilung, falls 
+Personen überhaupt die Ressourcen und auch die Kraft haben zu klagen, auf-
+grund verschiedener Faktoren innerhalb der Gesetzeslage und aus strukturellen 
+Gründen sehr gering.23 Angesichts der polizeilichen und gesellschaftlichen 
+Kriminalisierung finden sich selten aussagewillige Zeug:innen. Anwält:innen 
+lehnen Mandate zumeist ab, da Rechtsverfahren meistens verloren gehen. Im 
+Anzeigefall, vor allem bei körperlichen Übergriffen, müssen Betroffene mit einer 
+polizeilichen Gegenanzeige rechnen, zunehmend lassen sich, wie von selbst-
+organisierten Initiativen argumentiert wird, auch auch „präventive“ Anzeigen 
+beobachten.24 Wegen des Mangels institutioneller Unterstützung sind Beratungs-, 
+Dokumentations- und Unterstützungsstellen oft ausgelastet.
+
+Zudem sind asylsuchende und illegalisierte Personen von diesen bereits 
+marginalisierten Unterstützungsstellen oft abgeschnitten, müssen bei Racial 
+Profiling Deportationen und Ausweisungen fürchten und sind im Falle von 
+migrationsregulatorischer Abdrängung in illegalisierte Ökonomien nicht nur 
+besonders verletzlich für polizeiliche Kontrollen sowie weitere Formen polizei-
+licher und staatlicher Gewalt und haben gleichzeitig aufgrund des unsicheren 
+Aufenthaltsstatus viel weniger Möglichkeiten sich zu wehren, sondern erfahren 
+zudem weniger gesellschaftliche Solidarität.
+
+Racial Profiling zieht als institutionalisierte und intersektionale Praxis 
+der Kontrolle und Kriminalisierung im racial Kapitalismus nicht nur Trenn-
+linien zwischen polizierten (oftmals armen und rassifizierten), zu „über-
+flüssig“ gemachten, Subjekten und zu schützenden Gruppen einer bürgerlichen 
+Dominanzgesellschaft, sondern auch zwischen kommensurablen und nicht-
+kommensurablen (oder auch „zu Unrecht“ und „zu Recht“ kontrollierten) 
+polizierten Subjekten. Dabei problematisiert eine abolitionistische Kritik der 
+
+23 Niemz und Singelnstein in diesem Band. Das betrifft auch Fälle von Racial Profiling, 
+bei denen schwarze Menschen oder migrantische Personen getötet wurden. So erschwert 
+institutioneller Rassismus bei Staatsanwaltschaft und Polizei unabhängige Ermittlungen, 
+vgl. Bruce-Jones (2015, 2016).
+24 Copwatch ffm (2021), S. 83.
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 435
+
+Polizei besonders auch Positionen, die kritische Perspektiven auf die Polizei 
+lediglich vor dem Hintergrund der „unberechtigten“ Kontrollen formulieren. 
+Wie die Abolitionistin Ruth Wilson Gilmore erklärt, greift „das Problem der 
+Unschuld“ nicht nur zu kurz, sondern ist selbst Teil der karzeralen Logik.25
+
+3 R assistisches Polizieren als vielschichtige 
+strukturelle Gewalt
+
+Wird Racial Profiling im deutschen Kontext meist auf Befragungen, Kontrollen 
+und Durchsuchungen begrenzt, erlaubt es die Analyse rassistischen Polizierens 
+auch die tödlichen Folgen von Racial Profiling in den Blick zu nehmen, da es 
+die differentiellen Wahrnehmungsökonomien, in denen soziale Gruppen (und 
+deren Anrecht auf Schutz) unterschiedlich positioniert sind, sowie die (auch ver-
+rechtlichte) Entwertung von rassifizierten, migrantischen, armen und geflüchteten 
+Personen entlang der Kriminalisierung von Migration, Grenzregimen und der 
+Kriminalisierung von Armut in den Blick nimmt. Praktiken der Kriminalisierung 
+und Kontrolle gehen auch polizeilichen Tötungen oder Toden in Gewahr-
+sam voraus, wie in dem Falle von Oury Jalloh, Achidi John, Laye Condé, John 
+Amadi, Rooble Warsame, Amad Ahmad, Qosay Khalaf und Mohammed Idrissi, 
+und vielen weiteren. Der Slogan „Racial Profiling tötet!“ weist genau auf diese 
+Dimension der staatlichen nekropolitischen Gewalt hin (Mbembe 2003).
+
+Dass diese auf mehreren Ebenen intersektional verläuft (mit Bezug auf die 
+Verschränkung von Ungleichheiten sowie im Hinblick auf die Verschränkung 
+von Institutionen) haben vor allem schwarze Feminist:innen erläutert. Die Fälle 
+um Christy Schwundeck, eine schwarze migrantische Frau, die in einem Frank-
+furter Jobcenter im Mai 2011 um einen Vorschuss bat, und von einer Polizistin 
+erschossen wurde, und Mareama N’deye Sarr, eine schwarze migrantische 
+Frau, die im Hause ihres weißen Ex-Ehemannes im Juli 2001 in Aschaffen-
+burg erschossen wurde, als sie ihr Kind abholen wollte, verweisen dabei nicht 
+nur darauf, dass Polizieren im racial Kapitalismus entlang intersektionaler 
+Ungleichheitsverhältnisse verläuft. Diese Fälle verweisen zudem darauf, dass die 
+„Unsichtbarkeit“ solcher Gewalterfahrungen und Tötungen mit der Fokussierung 
+auf physische und letale Polizeigewalt in öffentlichen Räumen oder in 
+
+25 Gilmore (2021).
+
+
+
+436 V. E. Thompson
+
+ Gefängnissen sowie Abschiebelagern zusammenhängt.26 Das Polizieren gründete 
+weder auf einer polizeilichen Identitätskontrolle noch fand es im öffentlichen 
+Raum oder im sog. Gewahrsam statt.27
+
+Während Racial Profiling im engeren Sinne vor allem wegen der unermüd-
+lichen Arbeit von Aktivist:innen, Initiativen sowie Menschenrechtsorganisationen 
+in den letzten Jahren mehr mediale und politische Aufmerksamkeit erlangt hat, 
+werden polizeiliche Tötungen im deutschen Kontext bisher gesamtgesellschaft-
+lich nur marginal (oder selektiv) diskutiert, was betroffene Personen und vor 
+allem Angehörige von Opfern oft mit einer Erfahrung der gesellschaftlichen 
+Isolation zurücklässt und auch re-traumatisiert. Auch die Reproduktion der 
+Kriminalisierung von Opfern in den Medien (dass Medien eine wichtige Rolle 
+in der Ko-Produktion des „Polizierens der Krise“ spielen, hat bereits Stuart Hall 
+gezeigt) oder auch in diversen Ausschüssen und von Ministerien einberufenen 
+„unabhängigen“ Kommissionen, führt langsame Gewalt gegen betroffene 
+Personen, Angehörige und Freund:innen von Opfern fort.28 So sind es meist 
+Angehörige und Freund:innen von Opfern, die Gegendarstellungen veröffent-
+lichen und so die Opfer re-humanisieren (müssen) und sich insgesamt gegen das 
+gesellschaftliche und strukturelle aktive „Vergessen“ (machen) wenden.
+
+Eng verknüpft ist der institutionelle polizeiliche Rassismus mit Artikulationen 
+der fortgeführten Kriminalisierung in Gerichtssälen und im Umgang staatlicher 
+Behörden mit betroffenen Personen und Angehörigen von Opfern, wie immer 
+wieder in Publikationen von Gruppen und Initiativen sowie in Stellungnahmen 
+betont und im Rahmen von Justiz-Watch Initiativen beobachtet und dokumentiert 
+
+26 S. Ritchie (2017), S. 234; Laufenberg und Thompson (2021).
+27 Feministische Perspektiven ermöglichen es auch das Polizieren in wohlfahrtsstaatlichen 
+Institutionen oder vermeintlich privaten Räumen in den Blick zu bekommen. Ebenfalls 
+wichtig: In beiden Fällen waren Kinder involviert. Christy Schwundeck kämpfte um die 
+Wiedererlangung des Sorgerechts für ihre Tochter, wodurch sie in den letzten Monaten 
+an Depressionen litt. N’deye Mareama Sarr wollte ihren Sohn bei seinem Vater abholen, 
+der den Sohn bei seinen Eltern versteckt hatte. Arme und mittellose schwarze, aber auch 
+Rom:nja und Sinti:zze, Muslim:a, migrantische Mütter und Mütter of Color werden oft 
+als „schlechte“ Mütter stigmatisiert und poliziert. Die Erfahrungen der Kriminalisierung 
+von Rom:nja und Sinti:zze  Familien werden besonders in dem Film „Die Polizei hat sich 
+schuldig gemacht“ von Isidora Randjelović und Olga Gerstenberger et al. eindrücklich 
+geschildert. Detaillierte und historisierende Analysen und Kritiken der Kriminalisierung 
+rassifizierter und migrantischer Eltern sowie der Rolle von Fürsorgeregimen in Europa 
+stehen bislang weitestgehend aus. Eine Kritik des Polizierens muss daher auch Fürsorge-
+regime sowie wohlfahrstaatliche Institutionen (inkl. dem Gesundheitswesen) umfassen.
+28 Initiative in Gedenken an Oury Jalloh (2020).
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 437
+
+wird.29 Die Einstellungen der Ermittlungen oder Verfahren bei Tötungen im 
+Rahmen von Polizeieinsätzen oder in Gewahrsam, ein wiederkehrendes Narrativ 
+ist hier „Notwehr“, stellt ebenfalls eine Verlängerung der Gewalt besonders auch 
+für Angehörige und Freund:innen der Opfer dar. Auch berichten Angehörige und 
+Freund:innen von Einschüchterungen und Kriminalisierung ihrer Aufklärungs-
+arbeit, im Falle um Oury Jalloh bspw. wurden viele der Aktivist:innen bereits 
+mehrmals angezeigt.30
+
+Auch Alltagsrassismen während Anhörungen oder weitere Kriminalisierung 
+von Opfern tragen dazu bei, dass Angehörige und Freund:innen von Opfern 
+rassistischer polizeilicher Gewalt eine Verlängerung dieser erfahren. Dass auch 
+langsame Gewalt frühzeitige Tode hervorruft, zeigt auch der plötzliche Tod der 
+Mutter von Oury Jalloh namens Mariama Djombo Diallo im Jahre 2012, die nach 
+ihrem zweiten „Besuch“ in Deutschland während des Prozesses am Magdeburger 
+Landgericht zutiefst erschüttert abgereist war. Mitglieder der Initiative in 
+Gedenken an Oury Jalloh erklären, dass Mariama Djombo Diallo vor allem an 
+einem gebrochenen Herzen aus tiefer Trauer um ihren Sohn gestorben sei.31
+
+Angehörigen und Freund:innen der Opfer, die nicht selten mit Unterstützer:-
+innen Initiativen gründen, bleibt so nicht nur keine Zeit zu trauern, sondern sie 
+müssen die Arbeit der De-kriminalisierung, Ermittlungen und Recherchen oft 
+selbst in die Hand nehmen, geben unabhängige Gutachten in Auftrag, organisieren 
+Informationsveranstaltungen und Proteste, müssen sich rechtliche Expertise 
+erarbeiten, unterstützen Familien und Angehörige auch bei der Trauerver-
+arbeitung oder bspw. der Wohnungssuche. Zudem leisten diese Initiativen wichtige 
+Erinnerungsarbeit, gerade in einem gesellschaftlichen Kontext, in welchem Rassis-
+mus als gesellschaftliches Verhältnis stets in die Vergangenheit, an einen anderen 
+Ort platziert oder auf der individuellen Ebene verhandelt wird.
+
+4 U mgangsweisen und Interventionen
+
+Die Kämpfe und Widerstände gegen Racial Profiling und rassistisches Polizieren 
+sind vielfältig und finden auf vielen Ebenen statt. Schwarze Menschen und 
+migrantische Personen berichten schon seit Jahrzehnten auf vielfältige Weise 
+über diese Erfahrungen und fordern so die gesellschaftliche Normalisierung 
+
+29 Naguib (2019), s. auch die Arbeit von https://justizwatch.noblogs.org/.
+30 Initiative in Gedenken an Oury Jalloh (2021).
+31 Initiative in Gedenken an Oury Jalloh (2012).
+
+
+
+438 V. E. Thompson
+
+und Banalisierung rassistischer staatlicher Gewalt heraus. Dies ist nicht erst 
+seit der Gründung von Initiativen und Kampagnen der Fall, auch wenn diese in 
+den letzten Jahrzehnten wesentliche Arbeit in diesem Bereich geleistet haben. 
+Auch in den frühen 1990er Jahren beim „Hamburger Polizeiskandal“ haben sich 
+betroffene Personen gewehrt.
+
+Dabei reichen Umgangsweisen vom Meiden bestimmter Orte, wenn dies mög-
+lich ist, dem Versuch der sozialen Anpassung, die oft auch nicht allen betroffenen 
+Personen und Gruppen aufgrund von fehlenden Zugängen und Ressourcen mög-
+lich ist, bis hin zu der Unterstützung im kleinen Kreis und der Suche nach Unter-
+stützung bei zivilgesellschaftlichen Organisationen und Initiativen.32 Auch sind 
+liminale Informationsnetzwerke, durch welche Personen sich gegenseitig über 
+Orte häufiger Kontrollen informieren sowie über ihre formalen Rechte, lang-
+jährige erprobte Umgangsweisen, die auch oft von Initiativen und Gruppen über-
+nommen und weiter ausgebaut werden.
+
+Besonders seit den letzten zehn Jahren teilen immer mehr Menschen, die von 
+Racial Profiling betroffen sind, ihre Erfahrungen bspw. über Soziale Medien, 
+organisieren und wehren sich.33 Dabei spielt die Dokumentation dieser gesellschaft-
+lich unsichtbar gemachten rassistischen Praxis eine wesentliche Rolle. In Deutsch-
+land dokumentiert die Kampagne für Opfer rassistisch motivierter Polizeigewalt 
+(KOP) bereits seit 2000 rassistisch motivierte Polizeiübergriffe und hat aufgrund 
+fehlender finanzieller Unterstützung einen Rechtshilfefonds organisiert, der es 
+Betroffenen ermöglicht, sich auch rechtlich gegen rassistische Polizeipraxen 
+zur Wehr zu setzen. Zudem ko-organisiert KOP mit weiteren Initiativen auch 
+Kampagnen im Bereich Racial Profiling und zu Toden in Gewahrsam.34 Ver-
+schiedene copwatch-Gruppen wie bspw. in Frankfurt am Main, Hamburg oder auch 
+Gruppen wie Wrangelkiez United in Berlin dokumentieren oder skandalisieren 
+ebenfalls Fälle von Racial Profiling und greifen dabei auf unterschiedliche 
+Methoden zurück sowie verknüpfen Kämpfe gegen rassistisches Polizieren mit 
+weiteren Kämpfen gegen Kriminalisierung von Armut und Migration.35
+
+Neben der Dokumentation ist die Unterstützung ein wesentlicher Teil 
+kritischer Arbeit gegen rassistisches Polizieren. Mit Betroffenen eine Möglichkeit 
+und einen Raum zu schaffen, in dem sie ihre Erfahrungen teilen können, wenn 
+
+32 Kollaborative Forschungsgruppe Racial Profiling (2019); copwatch ffm (2021).
+33 S. Görgen und Wagner in diesem Band.
+34 S. https://deathincustody.noblogs.org/.
+35 S. https://15mrz.org/.
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 439
+
+sie das möchten, mit ihnen auszuloten wie dagegen vorgegangen werden kann 
+und ihnen zuzuhören, ist grundlegend für die Arbeit gegen Racial Profiling. Auch 
+die Erstellung von Know Your Rights Flyern und Broschüren gehören dazu. Die 
+bereits genannten Initiativen und Kollektive sowie einige andere haben Unter-
+stützungsstrukturen aufgebaut, in denen die Betroffenen von Racial Profiling im 
+Fokus stehen, aus denen heraus aber auch unter Berücksichtigung von gelebten 
+Erfahrungen kritisches Wissen über rassistisches Polizieren produziert und 
+theoretisiert wird, welches dann auch in Form von Berichten, Artikeln, Stellung-
+nahmen sowie auf Informationsveranstaltungen und in Videos, Filmen und Radio-
+sendungen geteilt wird.
+
+Die Sensibilisierung der Dominanzgesellschaft spielt dabei auch eine 
+wesentliche Rolle. Ob durch unabhängige Forschungen, Berichte und Inter-
+views, Statements und sowie politischen Widerstand, die genannten und weitere 
+Initiativen und Organisationen tragen wesentlich zu der Skandalisierung und 
+Denormalisierung von rassistischem Polizieren und damit zu der radikalen Demo-
+kratisierung der Gesellschaft bei. Initiativenseitige politische Forderungen sind 
+hier vor allem, die Abschaffung verdachts- und ereignisunabhängiger Kontrollen, 
+die rechtliche Spezifikation rassistischer Diskriminierungstatbestände in Anti-
+diskriminierungsgesetzen und die Einrichtung unabhängiger Beschwerde- und 
+Ermittlungsstellen. Andere Ansätze streben zudem grundlegendere gesellschaft-
+liche Transformationen an, die Polizieren als Methode des racial Kapitalis-
+mus und als Antwort auf gesellschaftliche Problemlagen zurückweisen und sich 
+für die Entkriminalisierung von Armut und Migration sowie die Entpolizierung 
+und Entkerkerung der Gesellschaft als Teil von gesamtgesellschaftlicher 
+abolitionistischer Transformation von Produktions- und Beziehungsweisen und 
+damit Kämpfe gegen rassistisches Polizieren in einen breiteren Zusammenhang 
+der Kämpfe gegen racial Kapitalismus stellen.36
+
+5 N otiz: Was die Wissenschaft von der Arbeit „on 
+the ground“ lernen kann
+
+Rassismus ist in Deutschland nach wie vor ein marginalisiertes Unter-
+suchungsfeld, obwohl rassismuskritische Gruppen und Initiativen, kritische 
+Wissenschaftler:innen aus dem hiesigen sowie dem internationalen Kontext 
+
+36 S. Loick und Thompson (2022).
+
+
+
+440 V. E. Thompson
+
+schon lange auf Rassismus als gesellschaftliches Verhältnis hinweisen und 
+zu rassistischen Konjunkturen, Erfahrungen, institutionellem Rassismus und 
+Widerständen und Kämpfen, aus unterschiedlichen Perspektiven, forschen.37 
+Dabei zeigt sich gerade für den deutschen Kontext ein besonders immenser 
+Forschungsbedarf zum Thema Polizei und Rassismus aus kritischen gesell-
+schaftstheoretischen Perspektiven sowie zu ernsthaften Auseinandersetzungen 
+mit bisherigem Wissen, in nicht-akkumulativen und kooperativen Weisen, und 
+mit Alternativen, gerade auch im internationalen Kontext und entgegen den neo-
+liberalen Tendenzen des Integrationismus und des alleinigen Fokus auf Anti-dis-
+kriminierung.38 Es gibt viel zu tun.
+
+Literatur
+
+ADBs für NRW/Antidiskriminierungsbüro Köln (2017). „Menschen wie DU neigen 
+zu Straftaten. (Rassistische) Diskriminierung bei der Polizei: Ursachen, Folgen und 
+Möglichkeiten der Intervention“. https://koelner-fluechtlingsrat.de/neu/userfiles/
+Polizeibroschuere_fin_web.pdf.
+
+Ahmed, S. (2007). Queer Phenomenology: Orientations, Objects, Others. Durham: Duke 
+University Press.
+
+Ayim, M., Oguntoye, K., & Schultz, D. (1986). Farbe bekennen. Afro-deutsche Frauen auf 
+den Spuren ihrer Geschichte. Berlin: Orlanda.
+
+Basu, B. (2016). Die Lüge von der Neutralität. Überlegungen zu Rassismus in Polizei, 
+Justiz und Politik. In Kampagne für Opfer Rassistischer Polizeigewalt (Hrsg.), Alltäg-
+licher Ausnahmezustand. Institutioneller Rassismus in Deutschen Strafverfolgungsbe-
+hörden (S. 85–101). Münster: Edition Assemblage.
+
+Belina, B. (2016). Der Alltag der Anderen. Racial Profiling in Deutschland? In B. Dollinger 
+et al. (Hrsg.), Sicherer Alltag? Politiken und Mechanismen der Sicherheitskonstruktion 
+im Alltag (S. 125–146). Wiesbaden: Springer VS.
+
+Bhattacharyya, G. (2018). Rethinking Racial Capitalism. Questions of Reproduction and 
+Survival. London und New York: Rowman and Littlefield.
+
+Bojadžijev, M. (2008). Die windige Internationale. Rassismus und Kämpfe der Migration. 
+Münster: Westfälisches Dampfboot.
+
+Bojadžijev, M., & Demirović, A. (Hrsg.) (2002). Konjunkturen des Rassismus. Münster: 
+Westfälisches Dampfboot.
+
+37 S. u. a. Bojadžijev (2008); Bojadžijev und Demirović (2002); Hund (1999, 2007); Salem 
+und Thompson (2016); Terkessidis (1998); Melter und Mecheril (2011); Eggers et al. 
+(2005); Ayim et al. (1986).
+38 S. Pichl in diesem Band.
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 441
+
+Bruce-Jones, E. (2015). German Policing at the Intersection: Race, Gender Migrant Status 
+and Mental Health. Race and Class, 56(3), S. 36.
+
+Bruce-Jones, E. (2016). Race in the Shadow of Law. London: Routledge.
+Bryant-Davis, T. (2005). Racist Incident–Based Trauma. The Counseling Psychologist, 
+
+33(4), S. 479.
+Bundesministerium des Innern, für Bau und Heimat (2020). Seehofer: „Keine Rassismus-
+
+Studie in der Polizei“. Pressemitteilung. https://www.bmi.bund.de/SharedDocs/presse-
+mitteilungen/DE/2020/10/keine-studie-rechtsextremismus-polizei.html. Zugegriffen: 
+18. Juli 2022.
+
+Carter, W. M. (2004). A Thirteenth Amendment Framework for Combating Racial 
+Profiling. Harvard Civil Rights – Civil Liberties Law Review, 17(39), S. 1237.
+
+Copwatch ffm (2021). We look our for each other. Notizen zu Racial Profiling, Unter-
+stützungsarbeit und Bündnissen. In H. K. Cholia & C. Jänicke (Hrsg.), Unentbehrlich. 
+Solidarität mit Betroffenen rechter, rassistischer und antisemitischer Gewalt (S. 81–89). 
+Münster: Edition Assemblage.
+
+Cremer, H. (2013). „Racial Profiling“ – Menschenrechtswidrige Personenkontrollen nach 
+§ 22 Abs. 1 a Bundespolizeigesetz. Empfehlungen an den Gesetzgeber, Gerichte und 
+Polizei. Deutsches Institut für Menschenrechte. https://www.institut-fuer-menschenrechte.
+de/fileadmin/Redaktion/Publikationen/Racial_Profiling_Menschenrechtswidrige_
+Personenkontrollen_nach_Bundespolizeigesetz.pdf. Zugegriffen: 18. Juli 2022.
+
+Dankwa, S. D., Ammann, C., & dos Santos Pinto, J. (2019). Profiling und Rassismus im 
+Kontext von Sexarbeit. In M. Wa Baile et al. (Hrsg.), Racial Profiling. Struktureller 
+Rassismus und Antirassistischer Widerstand (S. 155–171). Bielefeld: Transcript.
+
+Davis, A. (1971). Lectures on Liberation. New York: Committee to Free Angela Davis.
+Davis, A. (1972) Interview from California State Prison. https://mic.com/articles/116724/
+
+angela-davis-s-1972-prison-interview-perfectly-explains-the-violence-in-baltimore#.
+Rt00qc0y2. Zugegriffen: 21. Oktober 2021.
+
+Du Bois, W. E. B. (2015). Souls of Black Folk. Yale University Press.
+Eggers (Auma), M., Kilomba, G., Piesche, P., & Arndt, S. (2005). Mythen, Masken und 
+
+Subjekte. Kritische Weißseinsforschung in Deutschland. Münster: Unrast.
+El-Tayeb, F., & V. E. Thompson. (2019). Racial Profiling als Verbindung zwischen all-
+
+täglichem Rassismus, staatlicher Gewalt und kolonialrassistischen Traditionen. Ein 
+Gespräch über Racial Profiling und intersektionale Befreiungsprojekte in Europa. In M. 
+Wa Baile et al. (Hrsg.), Racial Profiling. Struktureller Rassismus und Antirassistischer 
+Widerstand (S. 311–329). Bielefeld: Transcript.
+
+Fanon, F. (1985). Schwarze Haut, weiße Masken. Hamburg: Suhrkamp.
+Fejge, P. (2019). Gibt es „Gefährliche Orte“? Labeling Approach für Räume. Forum Recht, 
+
+37(2), S. 49.
+Gilmore, R. W. (2021). Geographien des Abolitionismus und das Problem der Unschuld. 
+
+In M. Laufenberg & V. E. Thompson (Hrsg.), Sicherheit. Rassismuskritische und 
+feministische Beiträge (S. 160–181). Münster: Verlag Westfälisches Dampfboot.
+
+Grosfoguel R. (2015). Epistemic Racism/Sexism, Westernized Universities and the 
+Four Genocides/Epistemicides of the Long Sixteenth Century. In M. Araújo & S. R. 
+Maeso (Hrsg.), Eurocentrism, Racism and Knowledge (S. 23–46). London: Palgrave 
+Macmillan.
+
+
+
+442 V. E. Thompson
+
+Hartman, S. (1997). Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-
+Century America. New York, Oxford: Oxford University Press.
+
+Haritaworn, J., Kunstman A., & Posocco, S. (2013). Murderous Inclusions. International 
+Feminist Journal of Politics, 15(4), S. 445.
+
+Hessisches Ministerium des Innern und für Sport (2020). Unabhängige Experten-
+kommission der hessischen Polizei berufen. Pressemitteilung. https://hhstaw.hessen.
+de/pressearchiv/pressemitteilung/unabhaengige-expertenkommission-der-hessischen-
+polizei-berufen-0. Zugegriffen: 18. Juli 2022.
+
+Hund, W. D. (1999). Rassismus Die soziale Konstruktion natürlicher Ungleichheit. Münster.
+Hund, W. D. (2007). Rassismus. Bielefeld: Transcript.
+Hunold, D., & Wegner, M. (2020). Rassismus und Polizei: Zum Stand der Forschung. 
+
+Aus Politik und Zeitgeschichte, 70(42–44), S. 27. https://www.bpb.de/apuz/antirassis-
+mus-2020/316766/rassismus-und-polizei-zum-stand-der-forschung. Zugegriffen: 18. 
+Juli 2022.
+
+Initiative in Gedenken an Oury Jalloh (2012). Warum musste Mariama Djombo Diallo, 
+die Mutter von Oury Jalloh, sterben? Pressemitteilung. https://initiativeouryjalloh.
+wordpress.com/2012/07/24/warum-musste-mariama-djombo-diallo-die-mutter-von-
+oury-jalloh-sterben/. Zugegriffen: 18. Juli 2022.
+
+Initiative in Gedenken an Oury Jalloh (2020). Sonderberater des Landtages Sachsen-Anhalt 
+stellen juristische Urteile und Entscheidungen nicht in Frage, übernehmen die Täter-
+version und kriminaliseren das Opfer. Pressemitteilung. https://initiativeouryjalloh.
+wordpress.com/2020/08/28/sonderberater-des-landtages-sachsen-anhalt-stellen-
+juristische-urteile-und-entscheidungen-nicht-in-frage-uebernehmen-die-taeterversion-
+und-kriminaliseren-das-opfer/. Zugegriffen: 18. Juli 2022.
+
+Initiative in Gedenken an Oury Jalloh (2021). Jahrelange gezielte Repression gegen die 
+Initiative in Gedenken an Oury Jalloh. https://initiativeouryjalloh.files.wordpress.
+com/2021/01/chronologie-repression-initiative-stand-2021-1.pdf. Zugegriffen: 18. Juli 2022.
+
+Kampagne für Opfer Rassistischer Polizeigewalt (Hrsg.) (2016). Alltäglicher Ausnahme-
+zustand: Institutioneller Rassismus in Deutschen Strafverfolgungsbehörden. Münster: 
+Edition Assemblage.
+
+Kampagne für Opfer Rassistischer Polizeigewalt (o. J.). Die Berliner Kampagne: Ban! 
+Racial Profiling – Gefährliche Orte abschaffen! https://kop-berlin.de/beitrag/die-
+berliner-kampagne-ban-racial-profiling-gefahrliche-orte-abschaffen. Zugegriffen: 18. 
+Juli 2022.
+
+Kollaborative Forschungsgruppe Racial Profiling (2019). Racial Profiling. Erfahrung, 
+Wirkung, Widerstand. https://www.rosalux.de/publikation/id/40493/racial-profiling/. 
+Zugegriffen: 18. Juli 2022.
+
+Laufenberg, M., & Thompson, V. E. (2021). Sicherheit. Rassismuskritische und 
+feministische Perspektiven. Münster: Westfälisches Dampfboot.
+
+Loick, D. (2018). Kritik der Polizei. Frankfurt/Main: Campus.
+Loick, D., & Thompson, V. E. (2022). Abolitionismus. Ein Reader. Frankfurt am Main: 
+
+Suhrkamp (im Erscheinen).
+Louw, E. (2016). Wenn alles anders bleibt. Psychosoziale Folgen rassistischer Polizei-
+
+gewalt. In Kampagne für Opfer Rassistischer Polizeigewalt (Hrsg.), Alltäglicher Aus-
+nahmezustand: Institutioneller Rassismus in Deutschen Strafverfolgungsbehörden 
+(S. 29–46). Münster: Edition Assemblage.
+
+
+
+Rassistisches Polizieren. Erfahrungen, Umgangsweisen … 443
+
+Mama, A. (1989). “Violence against Black Women: Gender, Race and State Responses”. 
+Feminist Review, 32(1), 30.
+
+Mbembe, A. (2003). Necropolitics. Public Culture 15(1), 11.
+Melter, C. (2017). Koloniale, nationalsozialistische und aktuelle rassistische Kontinuitäten 
+
+in Gesetzgebung und der Polizei am Beispiel von Schwarzen Deutschen, Roma und 
+Sinti. In K. Fereidooni & M. El (Hrsg.), Rassismuskritik und Widerstandsformen (S. 
+589–612). Wiesbaden: Springer VS.
+
+Melter, C., & Mecheril, P. (Hrsg.) (2011). Rassismuskritik. Band 1: Rassismustheorie und 
+-forschung. Schwalbach am Taunus: Wochenschau Verlag.
+
+Naguib, T. (2019). Mit Recht gegen Rassismus im Recht. Rechtsverfahren als Mittel des 
+Widerstands. In M. Wa Baile et al. (Hrsg.), Racial Profiling. Struktureller Rassismus 
+und Antirassistischer Widerstand (S. 257–273). Bielefeld: Transcript.
+
+Nixon, R. (2011). Slow Violence and the Environmentalism of the Poor. Cambridge: 
+Cambridge University Press.
+
+Plümecke, T., & Wilopo, C. (2019). Die Kontrolle der »Anderen«: Intersektionalität 
+rassistischer Polizeipraktiken. In M. Wa Baile (Hrsg.), Racial Profiling. Struktureller 
+Rassismus und Antirassistischer Widerstand (S. 139–154). Bielefeld: Transcript.
+
+Ritchie, A. J. (2017). Invisible No More. Police Violence against Black Women and Women 
+of Color. Boston: Beacon.
+
+Robinson, C. (1983). Black Marxism. The Making of the Black Radical Tradition. Chapel 
+Hill und London: University of North Carolina Press.
+
+Salem, S., & Thompson, V. E. (2016). Old Racisms, New Masks: On the Continuing 
+Discontinuities of Racism and the Erasure of Race in European Contexts. Nineteen 
+Sixty Nine: An Ethnic Studies Journal, 3(1). https://escholarship.org/uc/item/98p8q169
+
+Terkessidis, M. (1998). Psychologie des Rassismus. Opladen: Westdeutscher Verlag.
+Thompson, V. E. (2018). Hey, Sie da! Postkolonial-feministische Kritik der Polizei am 
+
+Beispiel von Racial Profiling. In D. Loick (Hrsg.), Kritik der Polizei (S. 197–219). 
+Frankfurt: Campus.
+
+Thompson, V. E. (2021). Beyond policing, for a politics of breathing. In K. Duff (Hrsg.), 
+Abolishing the Police (S. 179-193). London: Dog Section Press.
+
+Vorbrugg, A. (2019). Ethnographies of slow violence: Epistemological alliances in field-
+work and narrating ruins. Environment and Planning C: Politics and Space. https://doi.
+org/10.1177%2F2399654419881660.
+
+Wa Baile, M., Dankwa, S. O., Naguib, T., Purtschert, P., & Schilliger, S. (Hrsg.) (2019). 
+Racial Profiling. Struktureller Rassismus und Antirassistischer Widerstand. Bielefeld: 
+Transcript.
+
+Dr. Vanessa E. Thompson ist Assistant Professor in Black Studies am Department of 
+Gender Studies an der Queen’s University in Kingston. Ihre wissenschaftlichen Schwer-
+punkte liegen in der kritischen Rassismus- und Migrationsforschung, Black Studies, 
+Geschlechterforschung, kritische Theorien der Polizei und Abolitionismus.
+
+
+
+444 V. E. Thompson
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

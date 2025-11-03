@@ -1,0 +1,172 @@
+﻿Methodisches Vorgehen 63
+
+Phase 4: Auswertung, Interpretation und Ergebnisdarstellung
+Anhand des durch die Basiscodierung entstandenen Rasters sowie der For-
+schungsfragen wurde eine fokussierte themenorientierte Analyse in drei
+Schritten vorgenommen. Diese Schritte erfolgten dabei nicht linear, son-
+dern griffen ineinander. Kuckartz und Rädiker sprechen davon, dass nach
+der Basiscodierung das Kategoriensystem »[w]ie ein analytisches Raster […]
+über die Daten gelegt [ist]. Diese sind, bildlich gesprochen, nicht mehr nur
+ein Meer von ungeordneten, unstrukturierten Informationen, sondern sie
+sind durch einen systematischen Zuordnungsprozess wohlstrukturiert und
+damit ist jetzt die detaillierte Beantwortung der Forschungsfragenmöglich«
+(2020, S. 76).
+
+Schritt 1:Themenbezogene Summaries
+
+Alle von den Interviewten zu einem bestimmten Thema getroffenen Aus-
+sagen wurden mithilfe der einfachen Segment-Suche in MAXQDA zusam-
+mengestellt und durch Verknüpfungen und Kontrastierungen tiefergehend
+thematisch untersucht (Kuckartz & Rädiker, 2020, S. 81). Aufgrund des Um-
+fangs desMaterials wurde dabei ein Fokus auf diejenigen Kategorien gelegt,
+die mit quantitativ besonders vielen Codierungen stärker ins Gewicht fie-
+len und denen eine besondere Bedeutung für das Erkenntnisinteresse der
+Studie zuzuschreiben war. Die daraus erstellten themenbezogenen Sum-
+maries wurden im Team diskutiert, um Deutungsweisen zu erörtern und
+Analyseschwerpunkte festzulegen. Auf eine statistische Analyse der Katego-
+rienhäufigkeiten (Mayring & Fenzl, 2022, S. 692) wurde dabei verzichtet, da
+sie aufgrundder explorativenAusrichtungder Studie nicht gewinnbringend
+erschien.
+
+Schritt 2: Feincodierung
+
+Im Rahmen der Auswertung wurde ein mehrstufiges Verfahren der Katego-
+rienbildung angewendet, wie es für die qualitative Inhaltsanalyse üblich ist
+(Kuckartz & Rädiker, 2020, S. 76). Nach der in Phase 3 beschriebenen Basis-
+codierung und der Festlegung der Analyseschwerpunkte wurden besonders
+umfangreiche Stellen des Datenmaterials und Foki des Erkenntnisinteres-
+ses feincodiert (ebd., S. 63). Im Zuge der Feincodierung kam es neben der
+Ergänzung von Subkategorien auch zu einer induktiven Ausdifferenzierung
+der vorhandenen (Haupt-)Kategorien.
+
+
+
+64 Methodisches Vorgehen
+
+Schritt 3: Analyse anhand der Forschungsfragen
+
+Anhand des konkret formulierten Erkenntnisinteresses wurden sodann in
+gemeinsamen Analysesitzungen die abschließenden Interpretationen und
+Deutungen erarbeitet. Dazu wurden zumeist von einer Projektmitarbei-
+terin zusammenfassende Texte mit illustrierenden Zitaten zu bestimmten
+Themenbereichen verfasst. Im Rahmen der Analysesitzungen wurden die
+Erkenntnisse aus den qualitativen Interviews mit den Ergebnissen der
+quantitativen Betroffenenbefragung trianguliert (Flick, 2022, S. 540 ff.).
+Dabei wurden etwaige Parallelen, aber auch Widersprüche identifiziert,
+diskutiert undmit dem aktuellen Forschungsstand abgeglichen.
+
+Leitend für die Themenauswahl der zusammenfassenden Texte waren
+die Forschungsfragen. In der abschließenden Analyse dominierten teils de-
+skriptive, teils interpretative Aspekte. Kapitel 6 dieses Buchs unterscheidet
+sich in einigen Nuancen von dem oben beschriebenen Vorgehen. Hier wur-
+den in einer deduktiven Vorgehensweise die Theorieansätze von Stoughton
+et al. (2020) anhand des empirischen Materials und unter Rückgriff auf die
+bestehende Codierung sowie das quantitative Material diskutiert und wei-
+terentwickelt.
+
+Die anschließende Verschriftlichung der Forschungsergebnisse erfolgte
+in der Triangulationmit den quantitativen Auswertungen entlang des chro-
+nologischen Verlaufs einer polizeilichen Gewaltausübung und ihrer Bear-
+beitung durch die involvierten Akteur*innen. Ausgehend von der Situation
+selbst wurden die Formen und Folgen der Gewalt, die Bewertung derselben
+anhand unterschiedlicher Maßstäbe, Umgangsweisen von Polizei und Be-
+troffenen sowie die strafjustizielle Bearbeitung unddieHandhabung gegen-
+läufiger Verfahren dargelegt.
+
+3.3 Aussagekraft und Einschränkungen der Studie
+
+Aus den getroffenenmethodologischen undmethodischen Entscheidungen
+ergeben sich Implikationen für die Aussagekraft der Studie, deren Grenzen
+im Folgenden aufgezeigt werden sollen.
+
+Da kein bevölkerungsrepräsentatives Sample vorliegt, können die Er-
+gebnisse der quantitativen Befragung nicht für die deutsche Allgemeinbe-
+völkerung generalisiert werden. Es kann damit auch keine Aussage über
+die Häufigkeit des Phänomens in Deutschland getroffen werden (s. Kapitel
+
+
+
+Methodisches Vorgehen 65
+
+3.1.1.1). Dennoch bedeutet dies nicht, dass die Studie keinerlei Hinweise auf
+das Dunkelfeld des Deliktsbereichs liefern kann. Aus dem Anzeigeverhalten
+der Befragten können Rückschlüsse auf das Dunkelfeld gezogen werden.
+Daraus lässt sich das Größenverhältnis vonHell- undDunkelfeld in der Stu-
+die abschätzen. Eine Hochrechnung auf konkrete Fallzahlen, d.h. wie viele
+Fälle übermäßiger polizeilicher Gewalt pro Jahr stattfinden, kann anhand
+dessen aus wissenschaftlicher Sicht nicht vorgenommen werden und wird
+daher von der Studie auch nicht unternommen (s. Kapitel 8.1.1).
+
+Von zentraler Bedeutung ist die Tatsache, dass die Ergebnisse der
+Online-Befragung so wie bei jeder Viktimisierungsbefragung die Wahr-
+nehmungen der Befragten abbilden. Anders als bei anderen Befragungen
+stellt die rechtliche Einordnung des Geschehens eine zusätzliche Heraus-
+forderung dar. Sowohl im Aufruf zur Teilnahme als auch in der Befragung
+selbst wurde darauf hingewiesen, dass zum Forschungsgegenstand der
+Studie nur rechtswidrige Gewaltanwendungen gehören. Gemeint sind
+damit Gewaltanwendungen, die den Betroffenen im Grundsatz Anlass zu
+einer Strafanzeige geboten hätten, die also aus ihrer Sicht ohne gesetzliche
+Grundlage erfolgten und/oder unverhältnismäßig waren. Zu Beginn des
+Fragebogens und im weiteren Verlauf der Befragung wurde in Hilfs- und
+Informationstexten erklärt, wann die Polizei Gewalt anwenden darf und
+wannnicht.Dennoch lässt sichmittels einer solchenBefragungsstudie nicht
+überprüfen, ob alle geschilderten Erfahrungen rechtswidrige Handlungen
+im juristischen Sinne darstellen.
+
+Die Frage, warum die Betroffenen die Gewalt als übermäßig wahrnah-
+men und als rechtswidrig bewerten, ist Teil der Forschung. Dass die Bewer-
+tungen solcherVorfälle häufig zwischendenBeteiligten streitig sind,bedeu-
+tet nicht, dass Bürger*innen grundsätzlich nicht in der Lage wären, polizei-
+liche Gewaltanwendungen zu bewerten. Mehr als ein Drittel (36%) der Be-
+fragten, die mehr als einmal Gewalt durch die Polizei erlebt hatten, gab an,
+dass darunter auch Erfahrungen mit gerechtfertigter polizeilicher Gewalt
+gewesen seien. Betroffene sind also durchaus in der Lage, differenzierte Be-
+wertungen zu treffen. Darüber hinaus ist es auch für die Polizei selbst von
+Interesse, wann und warum polizeiliches Handeln als rechtswidrig wahr-
+genommen wird. In einer Demokratie muss staatliches Handeln für Bür-
+ger*innen nachvollziehbar und überprüfbar sein. Die Annahme, nur ausge-
+bildete Jurist*innenoderPolizeibeamt*innenkönntendieVerhältnismäßig-
+keit staatlicher Maßnahmen beurteilen, offenbart ein Missverständnis: Ob
+
+
+
+66 Methodisches Vorgehen
+
+Gewalt notwendig ist und inwelchemMaße, ist häufig keine rein juristische,
+sondern eine Tatsachen- undWertungsfrage (s. Kapitel 6).
+
+Auch die qualitativen Expert*inneninterviews unterliegen einigen Limi-
+tationen: Während der Erhebungsphase wurde der erste Zwischenbericht
+derStudiemitErgebnissenausder quantitativenBetroffenenbefragungver-
+öffentlicht (Abdul-Rahman, Espín Grau & Singelnstein, 2020a). Einige der
+Interviewten hatten die Veröffentlichung zur Kenntnis genommen, andere
+nicht. Dies wurde in den Interviews entsprechend thematisiert und ggf. bei
+der Interpretation berücksichtigt (vgl. Helfferich, 2022, S. 878). Bei Fragen
+zu sensiblenThemen wie Gewaltanwendungen kann das Phänomen der so-
+zialen Erwünschtheit (Paulhus, 2002) einen Einfluss auf das Antwortverhal-
+ten der Interviewten nehmen.
+
+Für das der qualitativen Untersuchung zugrundeliegende Sample gilt
+es weiterhin zu beachten, dass die Gesprächspartner*innen überwiegend
+männlich undweiß gelesenwurden (s.Kapitel 3.2.1.4). Zudemkonnten nicht
+in allen Bundesländern Interviews mit Personen aus allen drei Kategorien
+der bestimmten Felder (Zivilgesellschaft, Justiz, Polizei) geführt werden.
+Zwar wurden in allen Bundesländern Genehmigungsanfragen für Inter-
+views mit Polizeibeamt*innen und Staatsanwält*innen gestellt, doch nicht
+überall erteilt (s. Kapitel 3.2.1.3). Die Polizeien der Länder sind zum Teil
+durchaus unterschiedlich aufgestellt und können sich auch bzgl. der Orga-
+nisationskultur erheblich unterscheiden. Ähnliches gilt für die Justiz und
+die zivilgesellschaftlichen Organisationen. Um darauf zu reagieren, wurde
+eine ausgeglichene regionale Verteilung angestrebt (s. Kapitel 3.2.1.4).
+
+Die für qualitative Forschung bemerkenswerte Größe des Samples
+(N = 63) deckte eine Bandbreite verschiedenster Perspektiven ab, führte
+jedoch aufgrund dieser Vielzahl auch zu einer notwendigen Begrenzung
+zeitlicher Ressourcen.Demnach wurde sich auf den Kernbereich des Leitfa-
+dens konzentriert, und so konnten in Interviews auftauchende angrenzende
+Themen oder spezifische Detailfragen nicht in der Tiefe behandelt werden.
+Den Interviewten wurde am Ende des Gesprächs jedoch immer die Mög-
+lichkeit gegeben, weitere aus ihrer Sicht relevante Aspekte zu benennen,
+sollten sie im Interview nicht angesprochen worden sein. Die sich aus dem
+Sample ergebenden Limitationenwurden in der Analyse berücksichtigt und
+werden im Folgenden thematisiert.

@@ -1,0 +1,1072 @@
+﻿Rassistische Diskriminierung 
+im Kontext polizeilicher 
+Gewaltanwendung
+
+Hannah Espín Grau und Luise Klaus
+
+Zusammenfassung
+
+Die Analyse der empirischen Daten der Studie KviAPol („Körperverletzung 
+im Amt durch Polizeibeamt:innen“) gibt Hinweise auf rassistische Dis-
+kriminierungen im Kontext polizeilicher Gewaltanwendung im deutsch-
+sprachigen Raum. Personen mit Migrationshintergrund und People of Color 
+sind auf besondere Weise von übermäßiger polizeilicher Gewalt betroffen 
+und tragen andere Folgen davon als weiße Personen oder Personen ohne 
+Migrationshintergrund. Anhand der empirischen Befunde legt der Beitrag 
+Formen und Folgen rassistisch motivierter polizeilicher Gewaltanwendung dar 
+und erläutert mögliche Auslöser und Erklärungsansätze.
+
+Schlüsselwörter
+
+Polizei · Gewalt · Diskriminierung · Rassismus · Perspektivendiskrepanz
+
+H. Espín Grau (*) · L. Klaus 
+Ruhr-Universität Bochum, Juristische Fakultät, Lehrstuhl für Kriminologie, 
+Bochum, Deutschland
+E-Mail: hannah.espingrau@rub.de
+L. Klaus 
+E-Mail: luise.klaus@rub.de
+
+© Der/die Autor(en) 2022 359
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_17
+
+
+
+360 H. Espín Grau und L. Klaus
+
+1  Hinführung
+
+„Die Gewalt wurde zu Beginn der Maßnahme angewendet. Da ich einen Migrations-
+hintergrund habe, gehe ich von Racial Profiling aus, und dass die Polizei generell 
+eher gröber bei Ausländern und Flüchtlingen vorgeht.“ (Betroffene/Lfdn. 7981)
+
+„Ein Trigger könnte meine dunkle Hautfarbe gewesen sein. Die Gewaltanwendung 
+begann während und nachdem ich von der Blockade gelöst wurde.“ (Betroffene/
+Lfdn. 5631)
+
+„The police had pinned a black man to the ground and when a group of us asked 
+what they were doing, they said we would get the same treatment if we did not walk 
+further.“ (Betroffene/Lfdn. 9247)
+
+Diese Zitate stammen von Personen, die im Rahmen der Studie KviAPol 
+(Körperverletzung im Amt durch Polizeibeamt:innen)1 ihre Erfahrungen mit 
+polizeilicher Gewalt schilderten, die sie als unverhältnismäßig wahrnahmen.
+
+Gewalt ist in der modernen westlichen Gesellschaft verpönt. Sie gilt „als 
+Modernisierungsdefizit, als Handlungsweise von ‚Rückständigen‘ oder ‚Rück-
+wärtsgewandten‘“2 und wird in ihrer ordnungsstörenden Dimension außerhalb 
+der modernen Gesellschaftsordnung verortet. Der Begriff der „Polizeigewalt“ 
+ist insofern diskursiv umkämpft. Die Polizei übt das staatliche Gewaltmonopol 
+aus und darf dabei zur Durchsetzung legitimer Zwecke auch körperlichen Zwang 
+einsetzen, sofern dieser angemessen und verhältnismäßig ist. Dementsprechend 
+wird polizeilichen Gewaltanwendungen eine „ordnungsstiftende Funktion“3 
+für die Gesellschaft und ihre soziale Ordnung zugeschrieben. Überschreitet der 
+Zwang jedoch die Grenze zur Verhältnismäßigkeit, so wird die polizeiliche Hand-
+lung ordnungsstörend. Da diese Grenze nicht klar gezogen ist, sondern von den 
+Umständen des Einzelfalls abhängt und aus den verschiedenen Perspektiven der 
+Beteiligten oft fundamental anders wahrgenommen wird, stellt die Bezeichnung 
+einer polizeilichen Handlung als „Gewalt“ im ordnungsstörenden Sinne, einen 
+
+1 Das von der Deutschen Forschungsgemeinschaft (DFG) geförderte empirische 
+Forschungsprojekt KviAPol (Körperverletzung im Amt durch Polizeibeamt:innen) unter-
+suchte von 2018 bis 2022 unter Leitung von Prof. Dr. Tobias Singelnstein polizeiliche 
+Gewaltanwendungen, die von den Betroffenen als übermäßig bewertet wurden. Die 
+Autorinnen arbeiten als Wissenschaftliche Mitarbeiterinnen im Projekt und sind beide 
+weiß.
+2 Beck (2017), S. 16.
+3 Beck (2017), S. 17.
+
+
+
+Rassistische Diskriminierung im Kontext … 361
+
+Affront dar. Dies gilt umso mehr, wenn der Vorwurf von Personen geäußert 
+wird, die in der sozialen Ordnung eine marginalisierte Position einnehmen 
+und die, wie etwa People of Color (PoC) oder Personen mit (vermeintlichem) 
+Migrationshintergrund, aufgrund rassistischer Stereotype eher selbst als gewalt-
+voll imaginiert werden.4
+
+Um rassistische polizeiliche Praxen analysieren zu können, ist es aufgrund 
+unterschiedlicher Deutungen polizeilicher Gewaltanwendung erforderlich, die 
+Erfahrungen der Betroffenen und ihre Schilderungen der Gewaltsituationen ernst zu 
+nehmen und zum Ausgangspunkt wissenschaftlicher Untersuchungen zu machen.
+
+Daher wurden im Forschungsprojekt KviAPol Betroffene von übermäßiger 
+polizeilicher Gewalt gebeten, in einer Befragung ihre Erfahrungen zu schildern.5 
+Die Betroffenen wurden in einem Schneeballsystem über Gatekeeper in der 
+Zivilgesellschaft sowie einen öffentlichen Aufruf (Social Media, Flyer) gebeten 
+teilzunehmen; die Stichprobe ist mithin nicht repräsentativ. Außerdem wurden 
+63 Expert:innen aus Polizei, Justiz und Zivilgesellschaft in qualitativen Inter-
+views zu ihren Einschätzungen und Erfahrungen befragt. Die Angaben von 3373 
+Betroffenen wurden quantitativ sowie qualitativ ausgewertet und schließlich 
+in der Analyse mit den Expert:inneninterviews zusammengeführt.6 Ziel war es, 
+situative Umstände und Konstellationen zu identifizieren, die zu Eskalationsver-
+läufen in der Interaktion zwischen Polizei und Bürger:innen führen, das Anzeige-
+verhalten der Betroffenen zu untersuchen und schließlich Aussagen über das 
+Verhältnis von Hell- und Dunkelfeld abzuleiten.7
+
+Der Fokus der Studie lag allgemein auf Erfahrungen von Betroffenen polizei-
+licher Gewaltanwendung. Die Ergebnisse der Analyse bieten jedoch zahlreiche 
+Hinweise auf eine besondere Betroffenheit von Personen mit Migrationshinter-
+grund und People of Color8 und geben daher Anlass, diskriminierende Polizei-
+praxen zu reflektieren.
+
+4 Vgl. Hester und Gray (2018).
+5 Der Fragebogen war vom 08. November 2018 bis zum 13. Januar 2019 auf der Projekt-
+webseite verfügbar.
+6 Für nähere Ausführungen zur Methode s. Abdul-Rahman et al. (2019).
+7 Vgl. Abdul-Rahman et al. (2020b), S. 14.
+8 Eine Person hat einen Migrationshintergrund, wenn sie selbst oder mindestens ein Eltern-
+teil die deutsche Staatsangehörigkeit nicht durch Geburt besitzt (Statistisches Bundesamt 
+2020). PoC ist eine Selbstbezeichnung von Menschen mit Rassismuserfahrungen (AG 
+Feministisch Sprachhandeln (AG FSH) 2015, S. 56) die von der „weißen Dominanzkultur 
+marginalisiert“ werden (Ha 2009). Im Rahmen der Studie KviAPol ist der Begriff keine 
+Selbstbezeichnung, sondern wurde von den Forschenden gewählt.
+
+
+
+362 H. Espín Grau und L. Klaus
+
+2 P olizeigewalt und Rassismus – was wissen wir 
+über Deutschland?
+
+Eine viel debattierte Form rassistischer Diskriminierung durch Polizeibeamt:innen 
+stellt das sog. Racial Profiling dar, bei dem Personen vorrangig aufgrund von der 
+weißen Norm abweichender phänotypischer Merkmale polizeilich kontrolliert 
+werden.9 Im Folgenden liegt der Fokus jedoch allein auf übermäßiger physischer 
+Gewalt, also Misshandlungen im engeren Sinne, die in die körperliche Integrität 
+eingreifen.
+
+Die Thematik der übermäßigen polizeilichen Gewaltanwendung in Deutsch-
+land wird bislang in der Literatur zwar vereinzelt kritisch besprochen.10 
+Empirisch untersucht wurde jedoch bisher neben Hellfelddaten aus Strafver-
+folgungsstatistiken11 und Beschwerdeverfahren gegen die Polizei12 überwiegend 
+die polizeiliche Perspektive im Rahmen von quantitativen13 sowie qualitativen 
+Studien14 und teilnehmenden Beobachtungen15. Die Perspektive der Betroffenen 
+wurde außerhalb von aktivistischen Dokumentationen16 bisher nicht empirisch 
+beleuchtet. Entsprechend wenig ist die Betroffenenperspektive, das Dunkelfeld 
+und das Anzeigeverhalten wissenschaftlich untersucht.
+
+Studien, die sich für den deutschsprachigen Raum spezifisch mit Rassis-
+mus und Diskriminierungserfahrungen im Kontext übermäßiger polizeilicher 
+Gewaltanwendung befassen, gibt es bislang nur vereinzelt.17 Die Fallstudien von 
+
+9 Vgl. KFRP (2019), S. 169; Wa Baile et al. (2019); Thompson (2018a); Hunold (2017); 
+Schutter und Ringelheim (2008).
+10 Vgl. Derin und Singelnstein (2020); Loick (2018); Pichl (2014); Feltes et al. (2007); 
+Behrendes (2003).
+11 Vgl. Singelnstein (2019).
+12 Vgl. Luff et al. (2018).
+13 Vgl. Bosold (2006); Ellrich und Baier (2015); Wiendieck et al. (2002).
+14 Vgl. Maibach (1996); Feltes et al. (2007).
+15 Vgl. Reuter (2014); Hunold (2011).
+16 Vgl. Kampagne für Opfer rassistisch motivierter Polizeigewalt (KOP) 2020; Amnesty 
+International (2010).
+17 Vgl. KFRP (2019).
+
+
+
+Rassistische Diskriminierung im Kontext … 363
+
+ Bruce-Jones18 identifizieren Strukturen von institutionellem Rassismus und ver-
+weisen dabei auf eine intersektionale Verschränkung verschiedener Strukturkate-
+gorien wie race, gender und class.
+
+Im Zuge der in der jüngsten Vergangenheit gestiegenen medialen wie wissen-
+schaftlichen Aufmerksamkeit zum Thema Rassismus in der Polizei, wird 
+zunehmend auch auf den Zusammenhang zwischen Racial Profiling und polizei-
+licher Gewaltanwendung verwiesen, wobei diese Auseinandersetzung über-
+wiegend anhand einzelner Beispielfälle erfolgt.19 Dabei wird hervorgehoben, 
+dass nicht alle von Rassismus betroffenen Personen(gruppen) dem gleichen 
+Risiko ausgesetzt seien, von übermäßiger polizeilicher Gewalt betroffen zu 
+werden: Im Schweizer Kontext zeige sich etwa bei Geflüchteten ein erhöhtes 
+Risiko, im Zuge von Polizeikontrollen physische Gewalt durch Beamt:innen zu 
+erfahren.20 End wiederum verweist auf eine möglicherweise niedrigere Schwelle 
+des Gewalteinsatzes gegenüber Sinti:zze und Rom:nja, die in Zusammenhang mit 
+antiziganistischen Ermittlungsansätzen in der polizeilichen Praxis stehen könne.21
+
+Rassifizierte Personen scheinen schwerwiegendere Folgen von polizeilicher 
+Gewaltanwendung zu erleben. Neben gesundheitlichen Problemen, häufig in 
+Form von psychosomatischen Einschränkungen oder Traumafolgen wie Ängsten 
+und Vermeidungsverhalten, spielt auch der Vertrauensverlust in die deutsche 
+Polizei und Behörden insgesamt eine nicht zu unterschätzende Rolle.22
+
+Eine umfassende empirische Erforschung des Zusammenhangs zwischen 
+Racial Profiling und der Eskalation polizeilicher Gewaltanwendungen steht noch 
+aus. Wenig empirisch gesichertes Wissen besteht auch zu institutionalisiertem 
+Rassismus in der Justiz im Kontext übermäßiger Polizeigewalt. Naguib verweist 
+in diesem Zusammenhang darauf, „dass der historische Rassismus den polizei-
+lichen Zugriff auf den »fremden« Körper [normalisiere]“23 und somit eine Ver-
+urteilung der gewaltausübenden Beamt:innen ungleich schwieriger mache.
+
+18 Vgl. Bruce-Jones (2015, 2017).
+19 Vgl. Michel (2019); Plümecke und Wilopo (2019).
+20 Vgl. Plümecke und Wilopo (2019), S. 152.
+21 Vgl. End (2017), S. 38.
+22 Vgl. KFRP (2019), S. 100–122; Thompson (2018b); Louw et al. (2016); Kauff et al. 
+(2017), S. 836.
+23 Naguib (2019), S. 271.
+
+
+
+364 H. Espín Grau und L. Klaus
+
+3 Ü bermäßige Polizeigewalt und Rassismus:  
+Die empirische Perspektive
+
+Zivilgesellschaftliche und aktivistische Gruppen berichten bereits seit vielen 
+Jahren von diskriminierenden Erfahrungen, die rassifizierte Personen mit polizei-
+lichen Gewaltanwendungen machen. Da der deutschsprachige empirische 
+Forschungsstand im Bereich der Viktimisierungsforschung allerdings wie dar-
+gestellt lückenhaft ist, wurden die qualitativen und quantitativen Daten des 
+Projekts KviAPol hinsichtlich der Erfahrungen von Personen mit Migrations-
+hintergrund und People of Color im Kontext polizeilicher Gewaltausübung ana-
+lysiert. Dies umfasst sowohl Angaben einer Online-Befragung von Betroffenen 
+(n = 3373), die polizeiliche Gewalt erlebt haben, welche sie als übermäßig 
+bewerteten, als auch Interviews mit Expert:innen aus Polizei und Zivil-
+gesellschaft, die dies thematisierten (n = 17).
+
+3.1  PoC und Personen mit Migrationshintergrund 
+in der Studie KviAPol: Eine andere Betroffenheit
+
+PoC und Personen mit Migrationshintergrund erleben polizeiliche Gewaltan-
+wendungen, die sie als übermäßig wahrnehmen, auf eine andere Art als weiß 
+gelesene Personen. Dies betrifft einerseits die Settings, innerhalb derer sie 
+Gewalterfahrungen machen, und damit einhergehend die Formen von Gewalt, die 
+sie beschreiben. Andererseits sind die Folgen derartiger Vorfälle für sie besonders 
+gravierend, was mit der Erfahrung zusammenhängt, aufgrund bestimmter persön-
+licher Eigenschaften viktimisiert und so diskriminiert worden zu sein.
+
+Die Stichprobe wurde anhand der Situationen, für die die polizeiliche Gewalt-
+ausübung geschildert wurde, in drei Settings eingeteilt: Demonstrationen bzw. 
+politische Aktionen (55 %); Fußball und andere Großveranstaltungen (25 %) 
+sowie Einsätze außerhalb von Großveranstaltungen (20 %). Die Einsatz-
+situationen unterscheiden sich demographisch voneinander, vor allem aber durch 
+die ihnen inhärenten situativen Dynamiken aufgrund der Größe der Einsätze 
+sowie bestehender Konfliktverhältnisse zwischen Polizei und Fußballfans bzw. 
+Demonstrierenden.
+
+Die Befragten wurden zudem aus Analysegründen in drei Untergruppen 
+geteilt: Personen mit Migrationshintergrund, People of Color und Personen ohne 
+
+
+
+Rassistische Diskriminierung im Kontext … 365
+
+Abb. 1  Unterteilung der Stichprobe. (eigene Darstellung)
+
+Migrationshintergrund (welche in etwa deckungsgleich mit der Gruppe weißer24 
+Personen ist), wobei sich die Gruppen teilweise überschneiden (s. Abb. 1). Die 
+Unterscheidung zwischen Personen mit Migrationshintergrund und PoC ist des-
+halb wichtig, da es sich bei Migrationshintergrund sowie Staatsangehörigkeit 
+um starre Kategorien handelt, die bestimmte Diskriminierungserfahrungen nicht 
+sichtbar machen oder verzerren.25 So kann eine Person zwar einen Migrations-
+hintergrund haben, aber dennoch weiß sein; umgekehrt gibt es PoC, die nach der 
+genannten Definition keinen Migrationshintergrund haben.
+
+Da insbesondere bei PoC der anfängliche Kontakt mit der Polizei vor allem 
+bei Einsätzen außerhalb von Großveranstaltungen stattfand, beziehen sich die 
+folgenden Ausführungen zu Erfahrungen und Folgen von als diskriminierend 
+empfundener polizeilicher Gewalt vornehmlich auf diese Situationen.
+
+3.2  Erfahrungen mit übermäßiger Polizeigewalt
+
+Es lassen sich vor allem Unterschiede in der Art der erlebten Gewaltanwendung 
+feststellen: Während Personen mit Migrationshintergrund etwas häufiger als 
+Personen ohne Migrationshintergrund berichteten, zu hart angefasst worden 
+zu sein (53 % vs. 47 %) und zudem ebenso wie PoC (39 %) häufiger als weiße 
+
+24 Weiß meint keine Schattierung von Hautfarbe, sondern eine soziale Position, die mit 
+bestimmten Privilegien einhergeht. Um diese meist unmarkiert bleibende Position sichtbar 
+zu machen, wird der Begriff kursiv gesetzt. vgl. Informations- und Dokumentationszentrum 
+für Antirassismusarbeit e. V. (IDA e. V.) 2020.
+25 Vgl. Supik (2017), S. 47. S. auch den Beitrag von Karakayalı in diesem Band.
+
+
+
+366 H. Espín Grau und L. Klaus
+
+Tab. 1  Anlass des Polizeikontaktes nach Gruppen. (eigene Darstellung)
+Personen mit PoC Personen ohne
+Migrationshintergrund (n = 164) Migrationshintergrund
+(n = 542) (n = 2.784)
+
+Häufigkeit Anteil (%) Häufigkeit Anteil Häufigkeit Anteil 
+(%) (%)
+
+Demonstration/ 287 53,0 69 42,1 1.565 56,2
+Politische Aktion
+
+Fußball/andere 96 17,7 21 12,8 727 26,1
+Großveranstaltung
+
+Einsätze 159 29,3 74 45,1 492 17,7
+außerhalb von 
+Großveranstaltungen
+
+Eine Person mit und vier Personen ohne Migrationshintergrund machten keine Angabe zum 
+Anlass des Kontaktes.
+
+Personen (28 %) angaben, gefesselt oder fixiert worden zu sein, erlebten sie 
+seltener den Einsatz von Pfefferspray bzw. Reizgas (PoC: 26 %; Personen mit 
+Migrationshintergrund: 35 %; ohne Migrationshintergrund: 42 %). Die unter-
+schiedlichen Arten der Gewalterfahrung in den drei Gruppen lassen sich vor 
+allem darauf zurückführen, dass PoC und Personen mit Migrationshintergrund 
+in anderen Einsatzsituationen auf die Polizei trafen als weiße Personen und 
+Personen ohne Migrationshintergrund (s. Tab. 1):
+
+So kamen PoC und Personen mit Migrationshintergrund seltener im Kontext 
+von Fußballspielen in Kontakt mit der Polizei, häufiger jedoch außerhalb von 
+Großveranstaltungen. Beide Gruppen berichteten häufiger (28 % bzw. 22 %), 
+dass es aufgrund einer Personenkontrolle zum Kontakt mit der Polizei kam 
+(14 % bei Personen ohne Migrationshintergrund). Hingegen gaben sie seltener 
+an, dass es zum Polizeikontakt kam, weil die Polizei wegen eines Konfliktes oder 
+einer Straftat (z. B. wegen Ruhestörungen oder Schlägereien) gerufen wurde (s. 
+Abb. 2).
+
+Da Reizgas bzw. Pfefferspray vor allem im Kontext von Großveranstaltungen 
+von der Polizei eingesetzt wird und Festgehalten werden bzw. zu hartes 
+Anfassen sowie Fesselungen und Fixierungen bei Einsätzen außerhalb von 
+Großveranstaltungen vermehrt eine Rolle spielen, lassen sich die Formen der 
+erfahrenen Gewaltanwendung also auch auf die unterschiedlichen Anlässe des 
+
+
+
+Rassistische Diskriminierung im Kontext … 367
+
+Fett gedruckte Werte unterscheiden sich signifikant (Chi²-Test; p < .05).
+
+Abb. 2  Einsätze außerhalb von Großveranstaltungen nach Gruppen (in Prozent). (eigene 
+Darstellung)
+
+Polizeikontaktes zurückführen. Im qualitativen Material finden sich zudem Hin-
+weise darauf, dass Fesselungen im Kontext von Abschiebungen gehäuft auftreten. 
+Diese seien, wie Expert:innen aus der Zivilgesellschaft betonten, nicht immer 
+notwendig und würden etwa auch bei Personen durchgeführt, die sich ruhig ver-
+hielten und von denen kein Risiko ausgehe.26 Die interviewten Expert:innen 
+führten dies auf die spannungsgeladene Ausgangslage und eine Unerfahrenheiten 
+der Beamt:innen zurück, die durch die Situation teilweise überfordert seien.27
+
+3.3  Physische und psychische Folgen übermäßiger 
+Polizeigewalt
+
+Während die empirischen Daten der Studie zwar keine stärkere physische 
+Betroffenheit von PoC und Personen mit Migrationshintergrund zeigen, finden 
+sich bei den psychischen Folgen deutliche Unterschiede.28 Die Schwere der 
+
+26 Vgl. Abdul-Rahman et al. (2020a), S. 25.
+27 Vgl. Abdul-Rahman et al. (2020a), S. 25.
+28 Vgl. Abdul-Rahman et al. (2020a), S. 38.
+
+
+
+368 H. Espín Grau und L. Klaus
+
+Gültige Prozent ohne fehlende Werte. Personen ohne Migrationshintergrund: n = 2.666–2.756; Personen mit
+Migrationshintergrund: n = 513–538; PoC: n = 156–163.
+
+Abb. 3  Psychische Folgen nach Gruppen (in Prozent, Einzelitems: mindestens teilweise 
+zutreffend). (eigene Darstellung)
+
+psychischen Folgen wurde mit einem Mittelwertindex bestehend aus zwölf Items 
+bestimmt (s. Abb. 3). Der Vergleich zeigte, dass PoC die schwersten Folgen 
+erlitten, gefolgt von Personen mit Migrationshintergrund und Personen ohne 
+Migrationshintergrund.
+
+Die psychischen Auswirkungen von als unrechtmäßig wahrgenommener 
+Gewalt durch die Polizei treffen jede Person individuell, sind jedoch auch 
+gesellschaftlich zu kontextualisieren, wie anhand dreier besonders ein-
+schneidender Folgen deutlich wird:
+
+Psychosomatische Veränderungen wie Schlafstörungen, Freudlosigkeit und 
+sozialer Rückzug manifestieren sich zunächst bei der/dem Betroffenen individuell 
+und schränken vor allem die persönliche Lebensqualität stark ein. „Internalisierte 
+Selbstkontrollhandlungen“29 wie der Versuch das Äußere zu verändern, um 
+
+29 Golian (2019), S. 188.
+
+
+
+Rassistische Diskriminierung im Kontext … 369
+
+nicht erneut eine vergleichbare Erfahrung zu machen, stoßen bei körperlichen 
+Merkmalen, die nicht der weißen Norm entsprechen, ebenso an Grenzen wie 
+Vermeidungsstrategien zur Umgehung bestimmter Orte nach der Erfahrung von 
+polizeilicher Gewalt. Solche Umgehungen sind angesichts alltäglicher Wege 
+und Aufgaben nur eingeschränkt möglich. Sie sind jedoch Folge verräumlichten 
+polizeilichen Handelns (s. Abschn. 4.1) und führen in ihrer Konsequenz zu einer 
+Neuordnung des gesellschaftlichen Raums.30
+
+Ein Grund für die schwerere psychische Betroffenheit kann darin liegen, dass 
+die betroffenen PoC und Personen mit Migrationshintergrund vielfach angaben, 
+sich durch die Polizei in der jeweiligen Situation diskriminiert gefühlt zu haben. 
+Wenn die Ursache der polizeilichen Gewaltanwendung in einer rassistischen 
+oder diskriminierenden Haltung der handelnden Beamt:innen vermutet wird, 
+beschreiben dies Expert:innen aus der Zivilgesellschaft als „ein Erleben 
+von maximaler Unsicherheit, Handlungsunfähigkeit und Ohnmacht“ (Zivil-
+gesellschaft/A2.2, Pos. 24) für die Betroffenen.
+
+Die Frage, ob sie sich während des geschilderten Vorfalls von der Polizei 
+diskriminiert gefühlt hätten, beantworten etwa drei Viertel der PoC (74 %) 
+zustimmend; ebenfalls zustimmend äußerte sich mehr als die Hälfte (57 %) aller 
+Personen mit Migrationshintergrund. Unter den Personen ohne Migrationshinter-
+grund fühlten sich etwas weniger als die Hälfte (46 %) beim Vorfall durch die 
+Polizei diskriminiert.31
+
+Die spezifischen Eigenschaften, die die Betroffenen als ursächlich für die 
+wahrgenommene Diskriminierung angaben, waren nicht nur, aber auch Merkmale 
+der (zugeschriebenen) Herkunft wie phänotypische Merkmale, Nationalität, 
+Name bzw. Sprache oder der Aufenthaltsstatus. Dies traf vor allem auf PoC und 
+Personen mit Migrationshintergrund zu (s. Abb. 4).
+
+Hinsichtlich der Einflussfaktoren für die wahrgenommene Ungleichbe-
+handlung bestanden zwar keine signifikanten Unterschiede zwischen den drei 
+Gruppen. Dennoch fiel auf, dass PoC diese Erfahrungen etwas häufiger „oft“ 
+oder „ständig“ machten.32 Dies beeinflusste auch die Bewertung des aktuellen 
+
+30 Vgl. Dangelmaier und Brauer (2020); Belina (2018). S. auch den Betrag von Belina in 
+diesem Band.
+31 Die Prozentangaben setzen sich aus folgenden Items zusammen: „trifft voll und ganz zu“, 
+trifft eher zu“, „trifft teilweise zu“.
+32 Vgl. Abdul-Rahman et al. (2020a), S. 27.
+
+
+
+370 H. Espín Grau und L. Klaus
+
+Fett gedruckte Werte unterscheiden sich signifikant (Chi²-Test; p < .05).
+
+Abb. 4  Einflussfaktoren für wahrgenommene Ungleichbehandlung nach Gruppen (in Pro-
+zent, Mehrfachnennung möglich). (eigene Darstellung)
+
+ polizeilichen Handelns: Je häufiger Betroffene schon derartige Erfahrungen 
+gemacht hatten, desto wahrscheinlicher bewerteten sie das polizeiliche Verhalten 
+als diskriminierend.33
+
+4  Erklärungsansätze: Rassistisches 
+Erfahrungswissen vs. Erfahrungswissen über 
+Rassismus
+
+Als Erklärung für polizeiliche Gewaltanwendungen, die von den Betroffenen 
+sowohl als übermäßig als auch als rassistisch wahrgenommen werden, weist die 
+Analyse des empirischen Materials der Studie KviAPol auf drei Ansatzpunkte 
+hin:
+
+33 Vgl. Abdul-Rahman et al. (2020a), S. 28.
+
+
+
+Rassistische Diskriminierung im Kontext … 371
+
+4.1  Rassistisch strukturiertes Erfahrungswissen 
+aufseiten der Polizei
+
+Es ergaben sich Hinweise auf explizite rassistische Einstellungen einzel-
+ner Polizeibeamt:innen34: Einerseits berichteten PoC in den Freitextfeldern 
+der Befragung von rassistischen Beleidigungen und Einschüchterungen durch 
+Polizeibeamt:innen. Zudem kritisierten vereinzelt Interviewpartner:innen aus der 
+Polizei rassistisches Verhalten von Kolleg:innen und daraus potenziell resultierende 
+polizeiliche Gewaltanwendungen.35 Es lassen sich anhand des Datenmaterials 
+allerdings keine Aussagen dazu treffen, wie groß dieses Problem ist.
+
+Ersichtlich wurde in den Interviews mit Polizeibeamt:innen jedoch, dass 
+diese intendierte Form von Rassismus nicht vorrangiges Problem sein muss. 
+Vielmehr scheint polizeiliches Erfahrungswissen eine erhebliche Rolle bei der 
+Verfestigung (rassistischer) Stereotype und Vorannahmen bei Beamt:innen zu 
+spielen: Alles polizeiliche Handeln baut auf Erfahrungswissen auf, das sich 
+aus eigens Erlebtem, Erzählungen Dritter sowie gesellschaftlichen Diskursen 
+zusammensetzt.36 Gerade letztere transportieren (unbewusste) stereotype und 
+kulturalisierende Annahmen über rassifizierte Personen37; eigene Erfahrungen 
+oder Erfahrungsberichte von Kolleg:innen knüpfen an dieses Wissen an und 
+bestätigen es scheinbar:
+
+„Also das sind auch teilweise Leute, die aufgrund anderer Ethnien oder aufgrund 
+anderer kultureller und moralischer Vorstellungen einfach nicht mit unserer Arbeit 
+dʼaccord gehen. Ja, also das können auch männliche Ausländer sein, die zum Beispiel 
+nicht mit Frauen bei der Polizei mit der Arbeit dʼaccord gehen oder auch andere, ich 
+will da jetzt keine anderen Kulturen nennen, wo das prägnant ist. Aber das merkt man 
+dann schon, dass die Akzeptanz der Polizei eine ganz andere ist als hier zum Beispiel 
+vom normalen Otto-Normal-Verbraucher-Bürger.“ (Polizei/C3.10, Pos. 14)
+
+Bestimmten Personen werden also aufgrund ihrer (vermuteten) Herkunft 
+negativ konnotierte Eigenschaften zugeschrieben, wie etwa eine mangelnde 
+Akzeptanz der Polizei oder abweichende Moralvorstellungen. Im Sinne eines 
+
+34 S. zu Einstellungen allgemein den Beitrag von Wegner in diesem Band.
+35 Vgl. Abdul-Rahman et al. (2020a), S. 37 f.
+36 Vgl. Grutzpalk (2016).
+37 Vgl. Terkessidis (1998).
+
+
+
+372 H. Espín Grau und L. Klaus
+
+ „Verstärkerlernens“38 kann sich das Erfahrungswissen in der polizeilichen 
+Berufspraxis dabei selbst legitimieren und dadurch zusätzliche Generalisierungen 
+und Typisierungen fördern. Die notwendige „situative Offenheit“, das heißt die 
+Prüfung des Einzelfalls möglichst frei von (pauschalisierenden) Vorannahmen, 
+wird dadurch erschwert.39
+
+Daneben stellt verräumlichtes polizeiliches Handeln eine besondere Aus-
+prägung des Erfahrungswissens dar.40 Pauschalisierende Abstraktionen beziehen 
+sich hier nicht auf bestimmte Personen(gruppen), sondern auf Orte, denen spezi-
+fische Eigenschaften zugeschrieben werden, wie etwa eine hohe Kriminalitäts-
+belastung an sogenannten „sozialen Brennpunkten“.41 Derartige Zuschreibungen 
+nehmen wiederum Einfluss auf polizeiliches Handeln gegenüber den Personen an 
+diesen Orten42, was auch in folgendem Zitat einer/eines Interviewpartner:in aus 
+der Polizei zum Ausdruck kommt:
+
+„Also wenn ich da natürlich in ein Gebiet gehe, wo die Migrationsrate sehr hoch ist 
+und nachweislich per Statistik meinetwegen jetzt auch die Kriminalität sehr hoch 
+ist, dann gehe ich da als [Polizist:in] nicht völlig neutral rein. Das ist eben so. Naja 
+und dann braucht eben nur ein kleines was passieren und dann hau ich wahrschein-
+lich an der Stelle schneller zu, als wenn ich nach [Stadtbezirk 1] gehe und hier 
+eine Kleinigkeit passiert, wo ich sage: ‘Bleibt mal locker, bleibt mal entspannt‘.“ 
+(Polizei/C 3.4, Pos. 12)
+
+Verräumlichtes polizeiliches Handeln ist teilweise gesetzlich so vorgesehen: 
+In festgelegten „Gefahrengebieten“ hat die Polizei besondere Befugnisse, wie 
+etwa die Durchführung verdachtsunabhängiger Kontrollen.43 In dem Kontext 
+wird häufig kritisiert, dass diese Orte ein besonderes Risiko für Racial Profiling 
+bergen, da die Personenauswahl der Kontrollen auf stereotypen Vorannahmen 
+aufbauen kann, was durch das diskursive Framing als „gefährlich“ in der gesetz-
+lichen Befugnis befördert wird.44 Die Zuschreibung von pauschalisierenden 
+
+38 Behr (2019), S. 28.
+39 Behr (2019), S. 41.
+40 S. dazu allgemein den Beitrag von Belina in diesem Band.
+41 Belina und Wehrheim (2011).
+42 Vgl. Golian (2019).
+43 S. dazu den Beitrag von Ruch in diesem Band.
+44 Vgl. Keitzel (2020); Ban! Racial Profiling (2018); Belina (2016); Scharlau und Witt (2019).
+
+
+
+Rassistische Diskriminierung im Kontext … 373
+
+Eigenschaften und die unterschiedliche polizeiliche Bearbeitung bestimmter 
+Räume können zu einer polizeilichen Praxis führen, die von Betroffenen als 
+diskriminierend wahrgenommen wird, ohne dass den Polizeibeamt:innen ihr 
+diskriminierendes Handeln oder die zugrundeliegenden Stereotype notwendiger-
+weise bewusst sind.45 Die sich daraus ergebende Eskalationsspirale beschreibt 
+ein:e interviewte:r Polizeibeamt:in wie folgt:
+
+„Wenn ich irgendwo an bestimmten Brennpunktorten eine Ansammlung habe aus 
+bestimmten Ethnien, die auch – auch oft begründet – misstrauisch und skeptisch der 
+Polizei gegenüber sind, und dort dann auch geballt Menschen dazu kommen und das 
+heizt sich dann auch immer mehr auf. Möchte ich auch einmal sehen, dass jemand 
+wirklich deeskalativ ist und beschwichtigt und die richtigen Worte verwendet, aber 
+meistens oder sehr häufig enden solche Einsätze in einem Desaster.“ (Polizei/C3.3, 
+Pos. 13)
+
+Das Misstrauen der Betroffenen und ihr daraus resultierendes Verhalten werden 
+also polizeilicherseits teilweise als Auslöser der Einsatzeskalation betrachtet.
+
+4.2  Erfahrungswissen über Rassismus aufseiten der 
+Betroffenen
+
+Aus Betroffenenperspektive stellt sich die Situation anders dar. In den Freitext-
+feldern der Befragung berichteten betroffene PoC auf die Frage nach dem Trigger 
+der übermäßigen polizeilichen Gewaltanwendung46, dass die Situation in dem 
+Moment kippte, in dem sie das polizeiliche Handeln als rassistisch benannten:
+
+„Einfach weil ich schwarze Hautfarbe habe und gefragt habe warum ich so respekt-
+los behandelt werde.“ (Betroffene/Lfdn. 2037)
+
+„Die Gewaltanwendung begann, als ich mich informieren wollte, welchem Zwecke 
+die Maßnahme diene und der Polizist Verwunderung darüber äußerte, dass das 
+Affenmädchen sprechen kann.“ (Betroffene/Lfdn. 985)
+
+45 Vgl. Zick (2020), S. 129 f.
+46 An zwei Stellen im Fragebogen (Einschätzung der Verhältnismäßigkeit und Trigger der 
+übermäßigen Gewaltanwendung) wurden die Betroffenen gebeten, in Freitextfeldern ihre 
+Perspektive zu schildern. Der Fragebogen ist unter https://kviapol.rub.de/index.php/inhalte/
+zwischenbericht abrufbar.
+
+
+
+374 H. Espín Grau und L. Klaus
+
+In Konstellationen, in denen Polizeibeamt:innen auf rassifizierte Personen treffen, 
+scheint also eine Kritik des polizeilichen Handelns als rassistisch zum Trigger 
+für eine Eskalation der Situation werden zu können. Expert:innen aus der Zivil-
+gesellschaft vermuten aufseiten der Betroffenen in Bezug auf „rassistische 
+Mikroaggressionen“47 ein in den vergangenen Jahren gewachsenes Problem-
+bewusstsein48:
+
+„Wenn Leute dann in dem Ärger, in der Wut ständig von der Polizei behelligt zu 
+werden, ohne dass es dafür einen Grund gibt / Da kommt es zu Situationen, wo es 
+dann eben Wortgefechte gibt. Leute weigern sich, sich auszuweisen, wollen weiter-
+gehen und so weiter und so fort. Dann schreitet eben auch hier die Polizei sehr 
+schnell ein. Und ich habe eben wie gesagt das Gefühl, dass die Hemmschwelle 
+gegenüber Schwarzen Menschen, PoCs generell sehr viel niedriger ist, aber erst 
+recht, wenn davon auszugehen ist, dass die Menschen sich auch nicht wirklich ihrer 
+Rechte bewusst sind.“ (Zivilgesellschaft/A1.4, Pos. 15)
+
+Die wahrgenommene niedrigere Hemmschwelle der Polizei zur Gewaltan-
+wendung gegenüber rassifizierten Personen, wird in der Literatur unter anderem 
+damit erklärt, dass diesen Personengruppen eine niedrigere Beschwerdemacht 
+zugeschrieben werde.49 Darauf verweisen auch Expert:innen aus der Zivil-
+gesellschaft im Interview:
+
+„Die Konstellation, das sind in den allermeisten Fällen Leute, denen man, 
+wenn man sie sieht, das Beschwerdeschwache sozusagen zurechnet. […] Ja, es 
+konzentriert sich auf Menschen, denen man einen Migrationshintergrund ansieht, 
+das ist die eine, die größte Gruppe vielleicht.“ (Zivilgesellschaft/A3.2, Pos. 6–8)
+
+Aus polizeilicher Sicht werden im Zusammenhang mit dem besonderen 
+Eskalationspotenzial bei Einsätzen gegenüber rassifizierten Personen hin-
+gegen eher kommunikative Defizite oder die Infragestellung der Autorität der 
+Polizeibeamt:innen betont:
+
+„Null Toleranz heißt, wir lassen uns nichts gefallen als Polizei. Das heißt, wenn 
+wir angemacht werden, wenn wir beleidigt werden, wenn wir angegriffen werden, 
+führt das kompromisslos zu polizeilichen Gegenmaßnahmen, sofort. […] Das ist 
+
+47 Sue et al. (2007), S. 273.
+48 Vgl. Abdul-Rahman et al. (2020a), S. 33 f.
+49 Vgl. Maibach (1998).
+
+
+
+Rassistische Diskriminierung im Kontext … 375
+
+die sicherheitspolitische Linie der Landesregierung. Also man kann ja seitens des 
+Innenministeriums vorgeben, wie man vorgeht. Man hat ganz lange immer auch auf 
+Kommunikation und Kooperation gesetzt, aber wir haben einfach festgestellt, dass 
+wir bei bestimmten Personengruppen mit Kommunikation und Kooperation nicht 
+weiterkommen.“ (Polizei/C2.5, Pos. 49–50)
+
+„Man kann es sehr sehr deutlich spüren, dass die Ansprache von Polizisten teil-
+weise bei sehr jungen Menschen, aber auch teilweise bei Personen mit deutlichem 
+Migrationshintergrund, teilweise nicht ankommt und dass auch die Reaktionen dem 
+Polizeibeamten gegenüber häufig menschenverachtend sind, so dass dadurch auch 
+schon eine Situation emotional hochgefahren wird und es sehr schwierig ist, natür-
+lich auch diese Sachen emotional wieder runter zu fahren.“ (Polizei/C2.4, Pos. 22)
+
+Hier offenbart sich eine deutliche Perspektivendiskrepanz in Bezug auf den 
+Auslöser einer eskalativen Situation: Während die betroffenen Personen das 
+polizeiliche Handeln als diskriminierend empfinden und durch das Hinterfragen 
+der polizeilichen Maßnahme ihrem (kollektiven) Erfahrungswissen über dis-
+kriminierende Polizeipraxen Rechnung tragen, stellt diese Äußerung von Skepsis 
+gegenüber der Rechtmäßigkeit der Maßnahme für die Polizei eine Provokation 
+dar. Beide Seiten empfinden das Handeln des Gegenübers als ungerechtfertigt, 
+woraus sich ein besonderes Spannungspotenzial ergibt.
+
+4.3  Die Benennung von Rassismus als spezifischer 
+Eskalationsmoment
+
+Das Material bietet gleichwohl Hinweise darauf, dass die Benennung des 
+polizeilichen Handelns als rassistisch oder diskriminierend auch dann Trigger 
+übermäßiger polizeilicher Gewaltanwendung sein kann, wenn die Kritisierenden 
+selbst nicht von Rassismus betroffen sind und somit selbst keine Dis-
+kriminierungserfahrung machen. So berichteten insgesamt 30 Befragte, die als 
+weiß gelesen werden, dass das Kritisieren des polizeilichen Vorgehens oder das 
+Dokumentieren der Interaktion als Auslöser der erlebten polizeilichen Gewaltan-
+wendung wahrgenommen wurde:
+
+„Die Polizei hat auf unser mündliches Nachfragen, welche Rechtsgrundlage sie für 
+die brutale Festnahme eines Ausländers haben, sehr aggressiv reagiert […] Da war 
+kein Grund, wir wollten nur wissen, ob sie eine Rechtsgrundlage für die rassistische 
+Festnahme hätten und da sich die Polizei nicht rechtfertigen konnte, wurden sie 
+aggressiv.“ (Betroffene/Lfdn. 6305)
+
+
+
+376 H. Espín Grau und L. Klaus
+
+Die Thematisierung der Wahrnehmung von rassistischem oder diskriminierendem 
+polizeilichem Handeln (auch durch Zeug:innen) kann demnach ein erhöhtes 
+Konfliktpotenzial für polizeiliche Einsätze bergen. Dies lässt sich ebenfalls 
+mit einer Wahrnehmungs- bzw. Perspektivendiskrepanz erklären: Während 
+die Betroffenen selbst häufig alltäglich Rassismuserfahrungen machen und 
+damit in hohem Maße sensibilisiert sind, wird ein solcher Vorwurf – so konkret 
+er auch sein mag – auf polizeilicher Seite gerade auch im Zuge einer stärkeren 
+gesellschaftlichen Thematisierung von Rassismus als pauschalisierend, ungerecht-
+fertigt oder diskreditierend empfunden. Dies ist vor allem vor dem Hintergrund 
+relevant, dass den Polizeibeamt:innen die kulturalisierenden Vorannahmen, die 
+ihr Handeln geleitet haben mögen, nicht bewusst sein müssen. Bislang ist dieser 
+Zusammenhang nur wenig wissenschaftlich untersucht (s. Abschn. 2). Hinweise 
+dazu ergeben sich aber nicht nur aus vereinzelten Untersuchungen zu Racial 
+Profiling (s. Abschn. 2), sondern auch aus einer hessischen Polizeistudie, bei der 
+44 % der befragten Polizeibeamt:innen die „Unterstellung von Rassismus bei der 
+Durchführung von Maßnahmen“ als sehr belastend empfanden.50
+
+5  Fazit
+
+Im empirischen Material der Studie KviAPol finden sich Hinweise auf 
+rassistische Diskriminierungen im Kontext polizeilicher Gewaltanwendungen, 
+die die Erkenntnisse der bisherigen Forschung bestätigen bzw. ergänzen: PoC 
+und Personen mit Migrationshintergrund machen einerseits andere Erfahrungen 
+in anderen Kontexten mit polizeilicher Gewaltanwendung als nicht-rassifizierte 
+Personen (s. Abschn. 4.1).51 Besonders betroffen scheinen dabei junge Männer, 
+die als nicht weiß gelesen werden, Geflüchtete und Personen mit prekärem Auf-
+enthaltsstatus zu sein.52
+
+Andererseits sind die psychischen Folgen für diese Gruppen stärker (s. 
+Abschn. 4.2): Sie sind nicht nur von polizeilicher Gewalt, sondern auch von 
+Rassismus betroffen und wissen um diese doppelte Ohnmachtsposition.53 
+Durch die alltägliche Erfahrung rassistischer (Mikro-) Aggressionen sind sie 
+
+50 Vgl. Hessisches Ministerium des Inneren und für Sport (2020), S. 10.
+51 Vgl. Klimke (2010), S. 48.
+52 Vgl. zu Viktimisierung von Geflüchteten und Personen in Abschiebung Abdul-Rahman 
+et al. (2020a, b), S. 25.
+53 Vgl. Simon (2017), S. 14.
+
+
+
+Rassistische Diskriminierung im Kontext … 377
+
+für die Wahrnehmung von Ungleichbehandlungen besonders sensibilisiert.54 Im 
+kollektiven Erfahrungswissen bestimmter Communities ist das Wissen um das 
+Eskalationspotenzial von Begegnungen mit der Polizei, die als diskriminierend 
+empfunden werden, fest verankert und führt zu einer „Einschränkung der Raum-
+praxis und dem Nachgang des alltäglichen Lebens“55. Besagtes Eskalations-
+potenzial resultiert aus Perspektive der Betroffenen vor allem aus der 
+Hinterfragung polizeilicher Maßnahmen bzw. aus der Benennung von Dis-
+kriminierungen (s. Abschn. 4.2 und 4.3).
+
+In den Interviews mit Polizeibeamt:innen finden sich ebenfalls Hinweise auf 
+ein Erfahrungswissen, nach dem eskalative Polizeieinsätze im Zusammentreffen 
+mit rassifizierten Personen durch spezifische Strukturen wie Leitbilder und 
+Gesetzes- oder Einsatzvorgaben bedingt sind und damit keine Einzelfälle dar-
+stellen (s. Abschn. 4.1).56 Dabei wird jedoch vorrangig die Infragestellung der 
+polizeilichen Autorität durch respektloses Verhalten als begünstigender Faktor 
+für den gewaltvollen Verlauf eines Einsatzes hervorgehoben (s. Abschn. 4.2). 
+Wenig Bewusstsein scheint bei den interviewten Polizeibeamt:innen für inter-
+nalisierte Rassismen zu bestehen, die sich im alltäglichen Handeln aufgrund ihrer 
+Zuschreibung zu einem vermeintlich objektivem Erfahrungswissen ihren Weg 
+bahnen können.57
+
+Problematisch ist dabei die Perspektivendiskrepanz zwischen Polizeibeamt:innen 
+und Betroffenen: Wird polizeiliches Handeln als rassistisch bzw. diskriminierend 
+und damit rechtswidrig bezeichnet, so stellt dies die Definitionshoheit der 
+Polizeibeamt:innen über die Situation in Frage. Die von den Polizeibeamt:innen 
+nicht (zwingend) als diskriminierend erkannte polizeiliche Maßnahme wird hinter-
+fragt, was zu einem Rechtfertigungsdruck aufseiten der Beamt:innen führt (s. 
+Abschn. 4.3). Wenn dieser Rechtfertigungsdruck als Infragestellung polizeilicher 
+Autorität verstanden wird und sich in einer gewaltvollen Eskalation der Situation 
+entlädt, so muss der Blick auch auf die dahinterstehenden Strukturen gerichtet 
+werden:
+
+Welche Rechtsgrundlagen, Aufgaben und Dienstanweisungen strukturieren 
+das polizeiliche Handeln und geben diskriminierendem Erfahrungswissen Raum 
+sich in der Praxis zu entfalten? Wie kann eine Barriere zwischen g esellschaftlich 
+
+54 Vgl. Louw et al. (2016), S. 34 f.
+55 Thompson (2018a), S. 205.
+56 Vgl. Zick (2020), S. 126.
+57 Vgl. Mohrfeldt (2016), S. 64.
+
+
+
+378 H. Espín Grau und L. Klaus
+
+geprägte stereotype Vorannahmen und die polizeiliche Praxis gesetzt werden? 
+Welcher Umgang mit Fehlern wird in den Polizeieinheiten gepflegt?58 Wie 
+können Ankerpunkte für eine kritische Binnenkultur gebildet und interne 
+Kritiker:innen gestärkt werden?
+
+Dabei gilt es auch die potenziell stigmatisierende Wirkung diskriminierender 
+polizeilicher Gewaltanwendungen zu bedenken, die die Betroffenen in der 
+öffentlichen Wahrnehmung als deviant erscheinen lässt und damit stereotypes 
+Erfahrungswissen (re-)produziert.59 Rassismus muss als gesamtgesellschaft-
+liches Phänomen verstanden werden, das sozialen Interaktionen zugrunde liegt, 
+durch sie aktualisiert wird und historisch in sämtliche staatliche Institutionen 
+und deren Strukturen eingeschrieben ist. Insofern ist die Institution der Polizei 
+als Ausführende des staatlichen Gewaltmonopols nicht von ihrer Verantwortung 
+entbunden, einen Anteil zur Überwindung von institutionellem Rassismus zu 
+leisten. Im Moment der Eskalation, in der rechtmäßiger unmittelbarer Zwang 
+zu übermäßiger polizeilicher Gewalt umschlägt, materialisieren sich Strukturen 
+rassistischer Diskriminierung. Diese zu hinterfragen ist nicht Aufgabe der von 
+Rassismus Betroffenen, sondern obliegt der Wissenschaft sowie der Polizei 
+selbst. Die Debatte darüber steht im deutschsprachigen Raum erst am Anfang.
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020a). Rassis-
+mus und Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. 
+Zweiter Zwischenbericht zum Forschungsprojekt „Körperverletzung im Amt durch 
+Polizeibeamt*innen“ (KviAPol). Ruhr-Universität Bochum. Bochum. https://doi.
+org/10.13154/294-7738.
+
+Abdul-Rahman, L., Espín Grau, H., & Singelnstein, T. (2020b). Polizeiliche Gewalt-
+anwendungen aus Sicht der Betroffenen. Zwischenbericht zum Forschungsprojekt 
+„Körperverletzung im Amt durch Polizeibeamt*innen“ (KviAPol). 2. Aufl. Ruhr-Uni-
+versität Bochum. Bochum. https://doi.org/10.13154/294-7737.
+
+Abdul-Rahman, L., Espín Grau, H., & Singelnstein, T. (2019). Die empirische Unter-
+suchung von übermäßiger Polizeigewalt in Deutschland. Kriminologie – Das Online-
+Journal, 1(2), S. 231. https://doi.org/10.18716/ojs/krimoj/2019.2.9.
+
+AG Feministisch Sprachhandeln (AG FSH) (2015): Was tun? Sprachhandeln – Aber wie? 
+W_Ortungen statt Tatenlosigkeit. http://feministisch-sprachhandeln.org/wp-content/
+uploads/2015/10/sprachleitfaden_zweite_auflage_281015.pdf. Zugegriffen: 18. Juli 2022.
+
+58 Vgl. Seidensticker (2019).
+59 Vgl. dazu auch den Beitrag von Bosch und Thurn in diesem Band.
+
+
+
+Rassistische Diskriminierung im Kontext … 379
+
+Amnesty International (2010). Täter Unbekannt – Mangelnde Aufklärung von 
+mutmaßlichen Misshandlungen durch die Polizei in Deutschland. Berlin. https://
+amnesty-polizei.de/amnesty-deutschlandbericht-2010-tater-unbekannt/. Zugegriffen: 
+18. Juli 2022.
+
+Ban! Racial Profiling (2018). Ban! Racial Profiling oder Die Lüge von der „anlass- und 
+verdachtsunabhängigen Kontrolle“. In D. Loick (Hrsg.), Kritik der Polizei (S. 181–196). 
+Frankfurt am Main und New York: Campus Verlag.
+
+Beck, T. K. (2017). (Staats-)Gewalt und Moderne Gesellschaft. Der Mythos vom Ver-
+schwinden der Gewalt. Aus Politik und Zeitgeschichte, 67(4), S. 16.
+
+Behr, R. (2019). Verdacht und Vorurteil. Die polizeiliche Konstruktion der „gefährlichen 
+Fremden“. In C. Howe & L. Ostermeier (Hrsg.), Polizei und Gesellschaft (S. 17–45). 
+Wiesbaden: Springer Fachmedien.
+
+Behrendes, U. (2003). Zwischen Gewaltgebrauch und Gewaltmissbrauch. Anmerkungen 
+eines polizeilichen Dienststellenleiters. In M. Herrnkind & S. Scheerer (Hrsg.), Die 
+Polizei als Organisation mit Gewaltlizenz. Möglichkeiten und Grenzen der Kontrolle 
+(S. 157–193). Münster: LIT-Verlag.
+
+Belina, B. (2016). Der Alltag der Anderen: Racial Profiling in Deutschland? In B. 
+Dollinger & H. Schmidt-Semisch (Hrsg.), Sicherer Alltag? (S. 123–146). Wies-
+baden: Springer Fachmedien. http://link.springer.com/10.1007/978-3-658-07268-1_6. 
+Zugegriffen: 18. Juli 2022.
+
+Belina, B. (2018). Wie Polizei Raum und Gesellschaft gestaltet. In D. Loick (Hrsg.), Kritik 
+der Polizei (S. 119–133). Frankfurt am Main: Campus Verlag.
+
+Belina, B., & Wehrheim, J. (2011). „Gefahrengebiete“: durch die Abstraktion vom Sozialen 
+zur Reproduktion gesellschaftlicher Strukturen. Soziale Probleme, 23(2), S. 207. https://
+www.ssoar.info/ssoar/handle/document/36468. Zugegriffen: 18. Juli 2022.
+
+Bosold, C. (2006). Polizeiliche Übergriffe. Aspekte der Identität als Erklärungsfaktoren 
+polizeilicher Übergriffsintentionen. Baden-Baden: Nomos.
+
+Bruce-Jones, E. (2015). German policing at the intersection: race, gender, migrant status 
+and mental health. Race & Class, 56(3), S. 36.
+
+Bruce-Jones, E. (2017). A Body Does Not Just Combust: Racism and the Law in Germany. 
+World Policy Journal, 34(2), S. 31.
+
+Dangelmaier, T., & Brauer, E. (2020). Selektive Polizeiarbeit – Raumordnung und deren 
+Einfluss auf das polizeiliche Handeln. In D. Hunold & A. Ruch (Hrsg.), Polizeiarbeit 
+zwischen Praxishandeln und Rechtsordnung (S. 213–233). Wiesbaden: Springer Fach-
+medien.
+
+Derin, B., & Singelnstein, T. (2020). Polizei und Gewalt. In D. Hunold & A. Ruch (Hrsg.), 
+Polizeiarbeit zwischen Praxishandeln und Rechtsordnung (S. 121–142). Wiesbaden: 
+Springer Fachmedien.
+
+Ellrich, K., & Baier, D. (2015). Gewaltausübung durch Polizeibeamte – Ausmaß und Ein-
+flussfaktoren. Rechtspsychologie, 1(1), S. 22.
+
+End, M. (2017). Antiziganistische Ermittlungsansätze in Polizei- und Sicherheits-
+behörden. Heidelberg. http://zentralrat.sintiundroma.de/kurzexpertise-antiziganistische-
+ermittlungsansaetze-in-polizei-und-sicherheitsbehoerden/. Zugegriffen: 18. Juli 2022.
+
+Feltes, T., Klukkert, A., & Ohlemacher, T. (2007). … dann habe ich ihm auch schon eine 
+geschmiert. Monatsschrift für Kriminologie und Strafrechtsreform, 90(4), S. 285.
+
+
+
+380 H. Espín Grau und L. Klaus
+
+Golian, S. (2019). Spatial Racial Profiling. Rassistische Kontrollpraxen der Polizei und ihre 
+Legitimationen. In M. Wa Baile, S. O. Dankwa, T. Naguib, S. Schilliger & P. Purtschert 
+(Hrsg.), Racial Profiling (S. 177–193). Bielefeld: transcript Verlag. https://www.
+transcript-verlag.de/978-3-8376-4145-5/racial-profiling/. Zugegriffen: 18. Juli 2022.
+
+Grutzpalk, J. (2016). Polizeiliches Wissen. Formen, Austausch, Hierarchien. Frankfurt am 
+Main: Verlag für Polizeiwissenschaft.
+
+Ha, K. N. (2009). 'People of Color' als Diversity-Ansatz in der antirassistischen 
+Selbstbenennungs- und Identitätspolitik. https://heimatkunde.boell.de/2009/11/01/
+people-color-als-diversity-ansatz-der-antirassistischen-selbstbenennungs-und. 
+Zugegriffen: 18. Juli 2022.
+
+Hessisches Ministerium des Inneren und für Sport (2020). Polizeiliche Alltagserfahrungen 
+– Herausforderungen und Erfordernisse einer lernenden Organisation. Darstellung 
+erster Ergebnisse der Umfrage. https://innen.hessen.de/sites/default/files/media/hmdis/
+polizeistudie_2020_-_erste_ergebnisse.pdf. Zugegriffen: 18. Juli 2022.
+
+Hester, N., & Gray, K. (2018). For Black men, being tall increases threat stereotyping and 
+police stops. Proceedings of the National Academy of Sciences of the United States of 
+America, 115(11), S. 2711.
+
+Hunold, D. (2017). Racial Profiling im multiethnischen Großstadtrevier? Ergebnisse einer 
+ethnographischen Erhebung polizeilicher Kontrollpraktiken. In M. H. W. Möllers & 
+R. C. van Ooyen (Hrsg.), Jahrbuch Öffentliche Sicherheit 2016/2017 (S. 470–478). 
+Frankfurt am Main und Baden Baden: Verlag für Polizeiwissenschaft und Nomos.
+
+Hunold, D. (2011). Gewalt durch die Polizei gegenüber Jugendlichen – Innenperspektiven 
+zur Anwendung polizeilichen Zwangs. Kriminologisches Journal, 43(3), S. 167.
+
+IDA e.V. (2020). Glossar. https://www.idaev.de/recherchetools/glossar/?no_cache=1 . 
+Zugegriffen: 18. Juli 2022.
+
+Kauff, M., Wolfer, R., & Hewstone, M. (2017). Impact of Discrimination on Health among 
+Adolescent Immigrant Minorities in Europe: The Role of Perceived Discrimination by 
+Police and Security Personnel. Journal of Social Issues, 73(4), S. 831.
+
+Keitzel, S. (2020). Varianzen der Verselbstständigung der Polizei per Gesetz: "Gefährliche 
+Orte" im bundesweiten Vergleich. Kriminologisches Journal, 52(3), S. 191.
+
+KFRP (2019). Racial Profiling. Erfahrungen – Wirkungen – Widerstand. https://www.
+rosalux.de/publikation/id/40493/racial-profiling?cHash=bb361a655e642159da7b271de
+8f0f5c3. Zugegriffen: 18. Juli 2022.
+
+Klimke, D. (2010). Die Polizeiorganisation und ihre Migranten. In D. Hunold, D. Klimke, 
+R. Behr & R. Lautmann (Hrsg.), Fremde als Ordnungshüter? Die Polizei in der 
+Zuwanderungsgesellschaft Deutschland (S. 27–59). Wiesbaden: VS Verlag für Sozial-
+wissenschaften.
+
+KOP (2020). Chronik rassistisch motivierter Polizeivorfälle für Berlin von 2000 bis 2020. 
+Berlin. https://kop-berlin.de/chronik. Zugegriffen: 18. Juli 2022.
+
+Loick, D. (2018). Kritik der Polizei. Frankfurt am Main: Campus Verlag.
+Louw, E., Trabold, L., & Mohrfeldt, J. (2016). Wenn alles anders bleibt. Psychosoziale 
+
+Folgen rassistischer Polizeigewalt. In KOP (Hrsg.), Alltäglicher Ausnahmezustand: 
+Institutioneller Rassismus in deutschen Strafverfolgungsbehörden (S. 29–46). Münster: 
+edition assemblage.
+
+Luff, J., Schuster, V., & Röhm, C. (2018). Konflikte im Polizeialltag. Eine Analyse von 
+Beschwerden gegen Polizeibeamte und Körperverletzungen im Amt in Bayern. Projekt-
+
+
+
+Rassistische Diskriminierung im Kontext … 381
+
+bericht der Kriminologische Forschungsgruppe der Bayerischen Polizei (KFG). https://
+www.polizei.bayern.de/content/4/3/7/konflikte_im_polizeialltag.pdf. Zugegriffen: 18. 
+Juli 2022.
+
+Maibach, G. (1998). PolizistInnen und Gewalt – ein Fazit. Wissenschaft & Frieden, 16(1), 
+S. 18. http://www.wissenschaft-und-frieden.de/seite.php?artikelID=1266. Zugegriffen: 
+18. Juli 2022.
+
+Maibach, G. (1996). Polizisten und Gewalt. Innenansichten aus dem Polizeialltag. 
+Hamburg: Rowohlt Taschenbuch Verlag.
+
+Michel, N. (2019). Racial Profiling und die Tabuisierung von »Rasse«. In M. Wa Baile, 
+S. O. Dankwa, T. Naguib, S. Schilliger & P. Purtschert (Hrsg.), Racial Profiling 
+(S. 87–106). Bielefeld: transcript Verlag. https://www.transcript-verlag.de/978-3-8376-
+4145-5/racial-profiling/. Zugegriffen: 18. Juli 2022.
+
+Mohrfeldt, J. (2016). Die Farbe der (Un-)Schuld. Rassistische Kriminalisierung in der 
+deutschen Migrationsgesellschaft. In KOP (Hrsg.), Alltäglicher Ausnahmezustand: 
+Institutioneller Rassismus in deutschen Strafverfolgungsbehörden (S. 48–85). Münster: 
+edition assemblage.
+
+Naguib, T. (2019). Mit Recht gegen Rassismus im Recht. Rechtsverfahren als Mittel des 
+Widerstands. In M. Wa Baile, S. O. Dankwa, T. Naguib, S. Schilliger & P. Purtschert 
+(Hrsg.), Racial Profiling (S. 257–274). Bielefeld: transcript Verlag. https://www.
+transcript-verlag.de/978-3-8376-4145-5/racial-profiling/. Zugegriffen: 18. Juli 2022.
+
+Pichl, M. (2014). Zur Entgrenzung der Polizei – eine juridische und materialistische Kritik 
+polizeilicher Gewalt. Kritische Vierteljahresschrift für Gesetzgebung und Rechtswissen-
+schaft, 97(3), S. 249.
+
+Plümecke, T., & Wilopo, C. S. (2019). Die Kontrolle der »Anderen«. In M. Wa Baile, S. O. 
+Dankwa, T. Naguib, S. Schilliger & P. Purtschert (Hrsg.), Racial Profiling (S. 139–154). 
+Bielefeld: transcript Verlag. https://www.transcript-verlag.de/978-3-8376-4145-5/racial-
+profiling/. Zugegriffen: 18. Juli 2022.
+
+Reuter, J. (2014). Polizei und Gewalt. Eine handlungstheoretische Rekonstruktion polizei-
+licher Konfliktarbeit. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Scharlau, M., & Witt, P. M. (2019). Verbot von Racial Profiling – Theorie und Praxis. 
+Deutsches Polizeiblatt, 37(3), S. 27.
+
+de Schutter, O., & Ringelheim, J. (2008). Ethnic Profiling: A Rising Challenge for 
+European Human Rights Law. Modern Law Review, 71(3), S. 358.
+
+Seidensticker, K. (2019). Fehlerkultur der Polizei. Die Wirkung von Organisationsstruktur 
+und Männlichkeitskonstruktionen auf den Umgang mit Fehlern. SIAK-Journal − Zeit-
+schrift für Polizeiwissenschaft und polizeiliche Praxis, 15(3), S. 78. http://dx.doi.
+org/10.7396/2019_3_G.
+
+Simon, I. (2017). „Menschen wie DU neigen zu Straftaten“. (Rassistische) Diskriminierung 
+bei der Polizei: Ursachen, Folgen und Möglichkeiten der Intervention. Köln. https://
+www.oegg.de/menschen-wie-du-neigen-zu-straftaten/. Zugegriffen: 18. Juli 2022.
+
+Singelnstein, T. (2019). Körperverletzung im Amt durch Polizisten und die Erledigungs-
+praxis der Staatsanwaltschaften – aus empirischer und strafprozessualer Sicht. In A. 
+Klukkert, T. Feltes & J. Reichertz (Hrsg.), Torn between Two targets. Polizeiforschung 
+zwischen Theorie und Praxis (S. 139–154). Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+
+
+382 H. Espín Grau und L. Klaus
+
+Statistisches Bundesamt (2020). Bevölkerung und Erwerbstätigkeit: Bevölkerung mit 
+Migrationshintergrund – Ergebnisse des Mikrozensus 2019 (Fachserie 1, Reihe 2.2). 
+https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration- 
+Integration/Publikationen/Downloads-Migration/migrationshintergrund-20102201 
+97004.pdf?__blob=publicationFile. Zugegriffen: 18. Juli 2022.
+
+Sue, D. W., Capodilupo, C. M., Torino, G. C., Bucceri, J. M., Holder, A. M. B., Nadal, K. 
+L., & Esquilin, M. (2007). Racial microaggressions in everyday life: implications for 
+clinical practice. The American Psychologist, 62(4), S. 271.
+
+Supik, L. (2017). Statistische Sichtbarkeit und Diskriminierungsrisiko – Rassismus 
+messen, aber wie? In Heinrich-Böll-Stiftung (Hrsg.), 10 Jahre Dikriminierungsschutz 
+in Deutschland (S. 43–48). https://heimatkunde.boell.de/de/dossier-10-jahre-dis-
+kriminierungsschutz-deutschland. Zugegriffen: 18. Juli 2022.
+
+Terkessidis, M. (1998). Psychologie des Rassismus. Opladen: Westdeutscher Verlag.
+Thompson, V. (2018a). There is no justice, there is just us! Ansätze zu einer postkolonial-
+
+feministischen Kritik der Polizei am Beispiel von Racial Profiling. In D. Loick (Hrsg.), 
+Kritik der Polizei (S. 197–222). Frankfurt am Main: Campus Verlag.
+
+Thompson, V. (2018b). Racial Profiling im Visier. Rassismus bei der Polizei, Folgen und 
+Interventionsmöglichkeiten. In IDA e.V. (Hrsg.), Fachinformation. https://www.vielfalt-
+mediathek.de/data/expertise_racial_profiling_vielfalt_mediathek_1.pdf. Zugegriffen: 
+18. Juli 2022.
+
+Wa Baile, M., Dankwa, S. O., Naguib, T., Schilliger, S., & Purtschert, P. (Hrsg.) (2019). 
+Racial Profiling. Bielefeld: transcript Verlag. https://www.transcript-verlag.de/978-3-
+8376-4145-5/racial-profiling/. Zugegriffen: 18. Juli 2022.
+
+Wiendieck, G., Kattenbach, R., Schönhoff, T., Wiendieck, J., Ferring, M., & Hall, R. 
+(2002). POLIS – Polizei im Spiegel. Hagen: Fernuniversität Hagen.
+
+Zick, A. (2020). Rassismus. In L.-E. Petersen und B. Six (Hrsg.), Stereotype, Vorurteile und 
+soziale Diskriminierung. Theorien, Befunde und Interventionen (S. 125–135). 2. Aufl. 
+Weinheim und Basel: Beltz und PVU Psychologie Verlags Union.
+
+Hannah Espín Grau ist wissenschaftliche Mitarbeiterin im DFG-Forschungsprojekt 
+KviAPol und Promotionsstipendiatin der Rosa-Luxemburg-Stiftung. Schwerpunktmäßig 
+beschäftigt sie sich mit der Aufarbeitung übermäßiger polizeilicher Gewalt, Accountability 
+und feministischer Polizeiforschung.
+
+Luise Klaus ist wissenschaftliche Mitarbeiterin im Forschungsprojekt KviAPol („Körper-
+verletzung im Amt durch Polizeibeamt:innen“). Ihre wissenschaftlichen Schwerpunkte 
+liegen in der kritischen Kriminalgeographie und der empirischen Drogen- sowie Polizei-
+forschung.
+
+
+
+Rassistische Diskriminierung im Kontext … 383
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

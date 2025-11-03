@@ -1,0 +1,798 @@
+﻿Ein weißes „wir“, seine Polizei und 
+deren weißes „wir“
+
+Polizeiliche Praxen und ihre Wirkung auf 
+Zugehörigkeitsordnungen
+
+Anna Sabel und Özcan Karadeniz
+
+Zusammenfassung
+
+Polizeiliche Praxen stützen Zugehörigkeitsordnungen. Sie konservieren 
+und reinszenieren die Imagination eines homogenen Volkes. Diese Vor-
+stellung wiederum ist angewiesen auf die Grenzziehung gegenüber den durch 
+Rassifizierung und Kriminalisierung Veranderten. Ein Sicherheitsdispositiv 
+entsteht, das, wenn auch auf unterschiedliche Weise, auf alle Subjekte einer 
+Gesellschaft wirkt.
+
+Schlüsselwörter
+
+Othering · Sicherheitsdispositiv · Institutioneller Rassismus · Primary definer
+
+Thema unseres Beitrags ist der Zusammenhang zwischen polizeilichen Praxen 
+und der öffentlichen Aushandlung natio-ethno-kultureller Zugehörigkeits-
+ordnungen1. Rassismus verstehen wir als Ungleichheitsverhältnis, das auf 
+
+1 Mecheril (2003).
+
+A. Sabel (*) · Ö. Karadeniz 
+Verband binationaler Familien und Partnerschaften, iaf e. V., Geschäfts- und 
+Beratungsstelle Leipzig, Leipzig, Deutschland
+E-Mail: sabel@verband-binationaler.de
+Ö. Karadeniz 
+E-Mail: karadeniz@verband-binationaler.de
+
+© Der/die Autor(en) 2022 489
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_23
+
+
+
+490 A. Sabel und Ö. Karadeniz
+
+allen Ebenen von Gesellschaft wirkt. Entsprechend können wir zunächst recht 
+unaufgeregt folgern, dass auch polizeiliche Praxen auf rassistische Wissens-
+bestände zurückgreifen können und zurückgreifen. Dies geschieht auf eine 
+institutionalisierte Art und Weise, „in bestimmte[n] routinierte[n] Abläufe[n], 
+Praktiken und Verfahren“2, wie in diesem Sammelband an verschiedenen Stellen 
+erläutert wird. Dadurch wiederum reproduzieren Polizeien Rassismen auf eine für 
+die Gesellschaft und ihre Mitglieder ausgesprochen wirkungsvolle Weise.
+
+1 D ie Besprechbarkeit von institutionellem 
+Rassismus
+
+1993 wurde der damals 18jährige Schwarze Brite Stephen Lawrence aus 
+rassistischen Motiven getötet. Das polizeiliche Handeln und die Ermittlungen 
+der Polizei und der Strafverfolgungsbehörden nach seinem Tod waren rassistisch 
+geprägt. In den Folgejahren wurde durch den enormen öffentlichen Druck und 
+den Nachweis von Ermittlungsfehlern schließlich eine unabhängige Unter-
+suchung angeordnet. Nach zwei Jahren umfassender Arbeit wurden zahl-
+reiche (unbewusste) Prozesse der Diskriminierung aufgespürt und vermeintlich 
+neutral wirkende Gesetze, Verhaltensweisen oder Praktiken als strukturell dis-
+kriminierend entlarvt.
+
+In dem sogenannten Macpherson Report wird institutioneller Rassismus 
+definiert als „The collective failure of an organisation to provide an appropriate 
+and professional service to people because of their colour, culture, or ethnic 
+origin. It can be seen or detected in processes, attitudes and behaviour which 
+amount to discrimination through unwitting prejudice, ignorance, thoughtlessness 
+and racist stereotyping which disadvantage minority ethnic people.“3 Die klare 
+Benennung von institutionellem Rassismus und die daraus abgeleiteten Hand-
+lungsempfehlungen gelten als ein bedeutender Moment der modernen Recht-
+sprechung in Großbritannien und führten u. a. zu konkreten Änderungen 
+innerhalb der britischen Polizei und zur Modernisierung vieler Bereiche des 
+Strafjustizsystems.4 Während wir das schreiben, denken wir zugleich unweiger-
+lich an die Ermittlungen zu den Morden an Enver Şimşek, Abdurrahim Özüdoğru, 
+
+2 Dengler und Foroutan (2017), S. 433.
+3 Macpherson (1999, Abschn. 6.34).
+4 Vgl. Gomolla (2010), S. 70. S. dazu auch den Beitrag von Pichl in diesem Band.
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 491
+
+Süleyman Taşköprü, Habil Kılıç, Mehmet Turgut, İsmail Yaşar, Theodoros 
+Boulgarides, Mehmet Kubaşık und Halit Yozgat und den Umgang mit den 
+Ermittlungsverfehlungen gegen den NSU.5
+
+Ein Verständnis von Rassismus als gesellschaftliches Verhältnis setzt sich in 
+den letzten Jahren zunehmend durch. Geht es allerdings um Polizeien, herrscht 
+noch häufig eine andere Betrachtungsweise. Als die Bundesvorsitzende der 
+SPD Saskia Esken im Juni 2020 angesichts der weltweiten Proteste gegen 
+Polizeigewalt feststellte, dass es auch in Deutschland „latenten Rassismus in 
+den Reihen der Sicherheitskräfte [gibt], die durch Maßnahmen der Inneren 
+Führung erkannt und bekämpft werden müssen“6 und eine unabhängige Stelle 
+für Beschwerden gegen Gewalt und Rassismus bei der Polizei einzurichten 
+forderte, war die Empörung über alle Parteien hinweg groß. Linken-Fraktions-
+chef Dietmar Bartsch nahm etwa die Polizei in Schutz: „Die Polizei unter den 
+Generalverdacht des Rassismus zu stellen und damit eine ganze Berufsgruppe in 
+Misskredit zu bringen, ist falsch“. Der CDU-Innenpolitiker Wolfgang Bosbach 
+sagte, es sei „völlig abwegig, unsere Polizei pauschal unter Generalverdacht 
+des latenten Rassismus zu stellen“, und SPD-Parteikollegin und Bundesjustiz-
+ministerin Lambrecht bekundete, dass die „absolute Mehrheit der Polizistinnen 
+und Polizisten in Deutschland […] mit Rassismus absolut nichts am Hut“ habe.7 
+Dabei bedeutet Rassismus als Machtverhältnis ernst zu nehmen, eben nicht (oder 
+doch nicht vorrangig) Rassist:innen unter Polizist:innen auszumachen.8
+
+„Rechtsextreme“ Einstellungen und Gewalt in der Polizei sind keine Einzel-
+fälle. Öffentlich gewordene Skandale wie „NSU 2.0“, „Nordkreuz“ und die zahl-
+reichen rechtsextremen Chatgruppen von Polizist:innen, die allein in jüngerer 
+Vergangenheit bekannt geworden sind, zeigen das eindrücklich. Entsprechend 
+wichtig ist es diese Fälle zu thematisieren und deutlich in einen Zusammenhang 
+mit dem Rassismus in dieser Gesellschaft zu stellen und im Hinblick auf seine 
+Wirkung auf die Gesellschaft nicht zu vernachlässigen.
+
+Zu fragen ist aber nicht ausschließlich nach dem intendiert schädigenden Ver-
+halten von Polizist:innen gegenüber Rassifizierten.9 Polizeien institutionalisieren 
+
+5 Vgl. Tribunal NSU-Komplex auflösen (2017).
+6 ZEIT ONLINE (2020).
+7 ntv (2020).
+8 Vgl. Heinemann und Mecheril (2014), S. 19.
+9 Vgl. zum Rassismusverständnis Mecheril und Scherschel (2009). Zum Begriff 
+„rassifiziert“ vgl. El-Tayeb (2016), S. 34.
+
+
+
+492 A. Sabel und Ö. Karadeniz
+
+Rassismus unter anderem, insofern sie polizeiliches Handeln anhand von 
+rassistischen Unterscheidungen ermöglichen und manchmal auch nahelegen.10 
+Schwerpunkt dieses Beitrags sind gerade die so normalisierten rassistischen 
+Praxen und deren Wirkungen auf gesellschaftliche Verhältnisse und Subjekte. 
+Diese Wirkungen auszumachen ist angesichts vielfältiger Wechselbeziehungen 
+zwischen unterschiedlichen Ebenen von Rassismus allerdings herausfordernd. 
+„[D]ie Organisationsebene [steht] im wechselseitigen Austausch mit der 
+individuellen Mikroebene sowie der gesellschaftlichen Makroebene […] und 
+[durchläuft] auf diese Weise ebenfalls in einem bestimmten Zeitverlauf gewisse 
+Anpassungsprozesse […], da sich beispielsweise rassistische Diskurse auf der 
+Makroebene in Praktiken auf der Organisationsebene übersetzen, Gesetze Ver-
+änderungen in bestimmten Abläufen hervorrufen oder sich individuelles Verhalten 
+unter bestimmten Umständen auf die Organisationskultur auswirken kann.“11
+
+Auch die fehlende Anerkennung rassistischer Verhältnisse aus Angst vor der 
+Diskreditierung von Polizist:innen und die damit verbundene Hemmung einer 
+kritischen Auseinandersetzung mit der Institutionalisierung von Rassismen 
+in Polizeien hat Auswirkungen auf Polizeien und auch auf die Wirkung ihrer 
+Praxen auf Gesellschaft. Rassistische Polizeipraxen konstruieren ein dominanz-
+gesellschaftliches12 „wir“ und sein „Anderes“. Das ist kein Alleinstellungsmerkmal 
+von Polizeien, im Gegenteil. Aber stärker noch als auf anderen gesellschaft-
+lichen Ebenen von Rassismus reproduziert sich im institutionellen Rassismus 
+der Polizeien ein Sicherheitsdispositiv, das auch Wirkung entfaltet, wenn und wo 
+Polizeien abwesend sind, erst recht, wenn kritische Interventionen fehlen.
+
+2 D ie polizeiliche Konstruktion des „Anderen“
+
+2.1  Die äußeren „Anderen“ – polizeiliche Veranderung 
+durch Grenzschutz
+
+Grundlegend für Rassismus ist die Unterscheidung zwischen einem konstruierten 
+„wir“ und den „Anderen“ anhand von natio-ethno-kulturellen Grenzziehungen. 
+
+10 Vgl. Cremer (2017), S. 409. S. dazu auch den Beitrag von Bosch und Thurn in diesem 
+Band.
+11 Dengler und Foroutan (2017), S. 432 f.
+12 Rommelspacher (1995).
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 493
+
+Polizeien folgen in ihrem Handeln häufig entsprechenden Zugehörigkeits-
+ordnungen und reproduzieren sie so. Das ist zunächst überraschend. Die ver-
+fassungsrechtliche Gleichheit aller Menschen ist ein Grundsatz, an dem sich 
+polizeiliches Handeln messen lassen muss. Polizeien gehören zur Exekutive, 
+haben auf Grundlage von Entscheidungen der Legislative, und damit rechtlich 
+verankerten demokratischen Werten zu handeln. Die Staatsgewalt geht „vom 
+Volke“ aus (Art. 20 GG).13
+
+Allerdings ist bereits die Gesetzeslage in Deutschland wie andernorts auf der 
+Welt auf eine Weise gestaltet, die zwischen Staatsangehörigen und Menschen 
+ohne deutsche Staatsangehörigkeit unterscheidet, die also ein Volk, von dem 
+Staatsgewalt ausgehen könnte, zuallererst formt. Das deutsche Rechtssystem, das 
+die allgemeinen Menschenrechte zu sichern verspricht, ist außerdem bekannt-
+lich nicht für alle Menschen gleichermaßen zugänglich. Polizeien, wie bspw. 
+die Bundespolizei, die Ausweisungen durchführen, machen die Gewalt national-
+staatlicher Logiken sichtbar.14 Das polizeiliche Vorgehen in einer Erstaufnahme-
+einrichtung für Geflüchtete in Ellwangen 2018 bspw. zeigt eindrücklich wie 
+sicherheitspolitische Maßnahmen unterschiedliche Rechte zuweisen und eine aus 
+dominanzgesellschaftlicher Perspektive als bedroht imaginierte Ordnung mitunter 
+auch gewaltsam zu fixieren versuchen. Aino Korvensyrjä fasst die Ereignisse 
+folgendermaßen zusammen: „500 bis 600 teils schwerbewaffnete Beamt:innen 
+drangen gegen 5 Uhr morgens in die Schlafräume der Bewohner:innen, warfen 
+etwa 300 Personen aus dem Bett, fesselten sie mit Kabelbindern und durch-
+suchten die Zimmer. Viele wurden festgenommen und später von der Justiz 
+wegen angeblichen Widerstandshandlungen kriminalisiert. Für die Behauptung 
+der Polizei, Schwarze Bewohner:innen der LEA hätten drei Tage zuvor eine 
+Dublin-Abschiebung eines Togolesen nach Italien ‚mit Gewalt‘ verhindert und 
+außerdem ‚Waffen‘ gehabt, fanden sich später keine Belege.“15
+
+Die Mittel bei Polizeieinsätzen finden in einem Ermessensspielraum statt, 
+der nicht zufällig gefüllt wird. Wenn Polizeien Veranderte „anders“, und das 
+meint hier schlechter, behandeln, dann nicht nur, weil die juristischen Rahmen-
+bedingungen gesellschaftlicher Hierarchisierungsprozesse das im Vornherein 
+ermöglichen, sondern auch in Erwartung einer nachträglichen Bestätigung ihres 
+sich an gesellschaftlichen Grenzziehungen orientierenden Handelns. „Die Arbeit 
+des Polizisten besteht also darin, in dem Moment, in dem er in Interaktion tritt, 
+
+13 Vgl. Loick (2018), S. 17.
+14 Vgl. Melter (2016a), S. 19, (b), S. 144.
+15 Korvensyrjä (2021).
+
+
+
+494 A. Sabel und Ö. Karadeniz
+
+das politische Mandat abzuschätzen, das ihm die Gesellschaft [und wir möchten 
+spezifizieren: die Dominanzgesellschaft] verleiht.“16 Das polizeiliche Vorgehen 
+in Ellwangen setzte bspw. voraus, dass in Erstaufnahmeeinrichtungen in Baden-
+Württemberg nicht der Schutz der Wohnung gilt. Bestätigt wurde das juristisch 
+erst im Nachhinein.
+
+Die polizeiliche Markierung der Bewohner:innen der Erstaufnahmerichtung 
+als gefährlich, eine Verfolgung „mit aller Härte und Konsequenz“ bedürfend 
+(Seehofer)17, ist getragen von einem gesellschaftlichen Rassismus, der zwischen 
+einem nationalstaatlich gedachten deutschen „wir“ und den „Anderen“ unter-
+scheidet. Zugleich speist das polizeiliche Deuten und Handeln wiederum 
+rassistisches Wissen in gesellschaftliche Veranderungsdiskurse. Eine „imperiale 
+Lebensweise“18, die auf weltgesellschaftliche Ausbeutungsverhältnisse ebenso 
+wenig wie auf ein Gefühl der moralischen Überlegenheit verzichten will, sucht 
+Bestätigung unter anderem durch die Kriminalisierung der Veranderten. Das 
+hat Paul Mecheril im Hinblick auf die Ereignisse rund um die Kölner Silvester-
+nacht 2015/2016 herausgearbeitet.19 Auch hier diente das Bild des unkontrollier-
+bar gefährlichen „anderen Mannes“ zur Legitimation von restriktiver Asylpolitik. 
+Auch hier hatte Polizei Anteil an der Produktion entsprechender öffentlicher 
+Bilder (Stichwort: Nafri).
+
+2.2  Die inneren „Anderen“ – polizeiliche Veranderung 
+durch Kriminalisierung
+
+Polizeien spielen nicht nur eine wichtige Rolle bei nationalstaatlichen Grenz-
+ziehungen auf Grundlage rechtlicher Ungleichbehandlung von Menschen und 
+damit der Produktion äußerer „Anderer“. Sie markieren auch Grenzen, die sich 
+weniger durch Gesetze als aus der tief in diese Gesellschaft eingeschriebenen 
+rassistischen Imagination eines weißen deutschen Volkes erklären.
+
+„All das Gerede von europäischem Zusammenschluss Fahr ich zur Grenze mit dem 
+Zug oder einem Bus Frag ich mich warum ich der Einzige bin, der sich ausweisen 
+muss Identität beweisen muss“
+
+16 Jobard (2013), S. 74.
+17 Süddeutsche Zeitung (2018).
+18 Brand und Wissen (2017).
+19 Vgl. Mecheril (2016).
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 495
+
+Die Erfahrung, die in dem berühmten Lied von Advanced Chemistry „Fremd im 
+eigenen Land“ bereits 1995 geschildert wurde, ist (zumindest bei rassifizierten 
+Menschen) allgemein bekannt und wird gerade durch die beständige Arbeit 
+von Migrantisierten in die Öffentlichkeit getragen. Der rechtmäßige Aufenthalt 
+phänotypisch als „Andere“ wahrgenommener Personen wird insbesondere in 
+staatlichen Grenzregionen regelmäßig angezweifelt. Als potenziell Illegale und 
+Nichtzugehörige wird ihnen mit gesonderten Sicherheits-, Überwachungs- und 
+Kontrolltechniken begegnet. Ein solches selektives polizeiliches Handeln führt 
+letztlich dazu, dass People of Color und Schwarze beständig als Fremde markiert, 
+rassifiziert und aus einer als homogen vorgestellten Gemeinschaft heraus-
+dekliniert werden. Polizeien folgen und manifestieren so Logiken einer durch 
+Rassismus strukturierten Gesellschaft, deren Wurzeln in einem kolonialzeitlichen 
+Verständnis von weißem Europäischsein und in völkischen Zugehörigkeitsdenken 
+liegen.20
+
+Historische Kontinuitäten zeigen sich auch in der polizeilichen Reproduktion 
+von Rassismus gegen Sinti:zze und Rom:nja. Bereits die rassistische Fremd-
+bezeichnung für Sinti:zze und Rom:nja ist eng mit ihrer Kriminalisierung 
+verbunden.21 Weil nach wie vor rassistische Zuschreibungen Beurteilungen 
+bestimmten, wurden noch bis 1965 die nationalsozialistischen Ver-
+brechen an ihnen in Teilen zu rechtfertigen versucht.22 Auch die rassistische 
+Sondererfassung von Sinti:zze und Rom:nja wurde nach 1945 fortgeführt. 
+„Antiziganistische Wahrnehmungs- und Deutungsmuster sind tief in behörd-
+lichen, hier: polizeilichen Alltagsroutinen verankert und werden unreflektiert 
+von einer Beamtengeneration an die nächste weitergeben. Im Falle der polizei-
+lichen Zigeuner-Erfassung verwendeten die Beamten über Jahrzehnte hinweg die 
+gleichen schematisierten Kategorien, die sich in standardisierten Formularen oder 
+Karteikarten niederschlugen.“23
+
+Othering24 ist eine wichtige Funktionsweise von Rassismus. In Veranderungs-
+prozessen werden Gruppen konstruiert, homogenisiert und hierarchisiert. Dies 
+geschieht auch durch polizeiliche Markierungen als potenziell gefährlich. Ein 
+aktuelles Beispiel dafür ist die sogenannte Clankriminalität. Die generelle 
+ Lesart und spezifisch diffamierende und stigmatisierende Rahmung bestimmter 
+
+20 Vgl. Thompson (2020).
+21 Vgl. Unabhängige Kommission Antiziganismus (2021), S. 40 f.
+22 Vgl. El-Tayeb und Thompson (2019), S. 315.
+23 Vgl. Unabhängige Kommission Antiziganismus (2021), S. 61.
+24 Vgl. zum Konzept des Othering Spivak (1985).
+
+
+
+496 A. Sabel und Ö. Karadeniz
+
+ Verbrechen als Clankriminalität geht zwar nicht nur, aber eben auch auf polizei-
+liches Handeln und Sprechen zurück.25 Dadurch, dass Polizeien allgemeine 
+Gesetze in konkreten Situationen zur Anwendung bringen, besitzen sie eine 
+eigenständige Definitionsmacht.26 Indem die Polizei die Aufnahme von Anzeigen 
+ebenso verantwortet wie die Kategorisierung von Straftaten, bestimmt sie auch 
+die öffentliche Wahrnehmung dessen, was als Kriminalität gelten kann.27 Ein 
+eindrückliches Beispiel hierfür ist die Erfassung von Delikten wie mehrfachem 
+Schwarzfahren von Jugendlichen aus Familien, die als Clans rassistisch markiert 
+werden, als „Clankriminalität“.28
+
+Was als Clankriminalität öffentlich verhandelt wird, ist aus kriminalistischer 
+Perspektive eine Randerscheinung. Ganz sicher jedenfalls erklärt hier Quantität 
+keinesfalls die gesellschaftliche Aufmerksamkeit, die diesem Phänomen zuteil-
+wird. Stereotypisierungen sind eine wichtige rassistische Repräsentationspraxis29 
+und im Bild des Clanmitglieds, das in Serien wie Skylines und 4 Blocks auf-
+gerufen wird, finden sich rassistische Archetypen, die Gefühle zu mobilisieren 
+in der Lage sind. Auf die durch entsprechende gesellschaftliche Erzählungen 
+erzeugten Ängste wiederum reagiert bspw. Politik („gemeinsam gegen 
+Clankriminalität“ (CDU))30, aber eben auch Polizeien. Auf die Frage, wessen 
+Sicherheitsempfinden hier in polizeilichem Handeln Berücksichtigung findet, 
+kommen wir später zurück. Aber durch eine Politik der „tausend Nadelstiche“31 
+soll nicht nur Stärke gegenüber Tatverdächtigen signalisiert werden, sondern 
+auch zur Beruhigung einer beunruhigten Öffentlichkeit beigetragen werden. Die 
+dieser Politik folgenden z. T. öffentlichkeitswirksam begleiteten Polizeirazzien 
+tragen entsprechend wenig zur Aufklärung von Straftaten bei, umso mehr aber 
+zu einer Kriminalisierung migrantisierter Orte.32 Durchgeführt wurden solche 
+Razzien vornehmlich in Wettbüros, Spielhallen und Shishabars.33 Die öffentliche 
+
+25 Exemplarisch dafür steht die Polizeibroschüre „Arabische Familienclans Historie. Ana-
+lyse. Ansätze zur Bekämpfung.“, siehe Polizei Essen und Mülheim an der Ruhr (2020).
+26 Loick (2018), S. 18.
+27 Vgl. Belina (2018), S. 120.
+28 Vgl. Feltes und Rauls (2020), S. 375.
+29 Vgl. Hall (2004), S. 114.
+30 Vgl. Singer (2021).
+31 Vgl. Ministerium des Innern des Landes Nordrhein-Westfalen (o. J.)
+32 Vgl. Liebscher (2020), S. 535.
+33 Vgl. Feltes und Rauls (2020), S. 373.
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 497
+
+rassistische Markierung von Shishabars findet einen grausamen Ausdruck in dem 
+Attentat von Hanau.
+
+Von der Kriminalisierung von Orten sind insbesondere migrantisch geprägte 
+Stadtteile betroffen, die von dominanzgesellschaftlichen Raumnutzungsvor-
+stellungen abweichen. Der abstrakten Gefahr durch migrantisierte „Andere“, dem 
+entstehenden Unsicherheitsgefühl, der Kriminalitätsfurcht und dem imaginierten 
+territorialen Kontrollverlust weiß-bürgerlicher Milieus wird mit polizeilicher 
+Praxis entgegenzuwirken versucht.34 So werden etwa durch die Polizei bestimmte 
+Gefahrenzonen identifiziert und als sogenannte „gefährliche“ oder „ver-
+rufene Orte“ ausgewiesen.35 Die wiederum legitimieren verdachtsunabhängige 
+Kontrollen, von denen vorwiegend Migrantisierte betroffen sind.36
+
+Rassistische polizeiliche Logiken und Praxen sind Teil gesellschaftlicher 
+Rassismen und nicht losgelöst von ihnen zu betrachten.37 Rassismen speisen 
+sich aus unterschiedlichen Quellen und sind tief in das kulturelle Gedächt-
+nis einer Gesellschaft eingeschrieben. Polizeien wird vor diesem Hintergrund 
+ein Raum eröffnet, der sowohl bei der Strafverfolgung als auch der Kriminali-
+tätsprävention rassistisches Handeln, eben auch racial profiling, ermöglicht. Die 
+„differentielle Adressierung der Bevölkerung“38 prägt wiederum gesellschaft-
+liche Wahrnehmungsmuster. „Eine bestimmte Gruppe wird in der institutionellen 
+Praxis durch Schließungen sichtbar gemacht, sie wird zu einer ‚Positivität‘“39 Die 
+Wirkmächtigkeit gerade polizeilichen Handelns für die öffentliche Wahrnehmung 
+ist nicht zu unterschätzen. Immerhin institutionalisieren Polizeien das staatliche 
+Gewaltmonopol und zugleich Rassismus.
+
+3 D ie Polizei als primary definer
+
+Die Wirkmächtigkeit polizeilichen Handelns für die öffentliche Wahrnehmung wird 
+außerdem dadurch verstärkt, dass die Deutungsmacht der Polizeien nicht nur deren 
+eigene Handlungslogiken bestimmt, sondern auch durch  Öffentlichkeitsarbeit nach 
+
+34 Vgl. Golian (2019), S. 178.
+35 Vgl. Ullrich und Tullney (2012), S. 3.
+36 Vgl. El Tayeb und Thompson (2019), S. 312.
+37 Vgl. Golian Esfahani (2018), S. 59.
+38 Loick (2018), S. 11.
+39 Terkessis (2004), S. 103.
+
+
+
+498 A. Sabel und Ö. Karadeniz
+
+außen getragen wird. Polizeien kommt als „primary definer“40 eine besondere Rolle 
+in der Deutung und Beschreibung von Kriminalität und Kriminalisierten, aber auch 
+in der Darstellung ihrer eigenen Maßnahmen zu. Sie besitzen eine „zunehmend 
+machtvolle Sprecher*innenposition in der Öffentlichkeit“41.
+
+So wurden bspw. für die Razzien gegen „Clankriminalität“ Medien immer 
+wieder von der Polizei gezielt miteinbezogen und bereits im Vorfeld informiert.42 
+Und auch wenn die Verhältnismäßigkeit des oben beschriebenen Einsatzes in 
+der Erstaufnahmeeinrichtung in Ellwangen bald diskutiert wurde, dominierten 
+2018 Darstellungen vonseiten der Polizei die damalige Berichterstattung und 
+damit auch die öffentliche Wahrnehmung. Bei einem Machtgefälle wie diesem, 
+deutsche Polizist:innen auf der einen Seite, Bewohner:innen einer Erstaufnahme-
+einrichtung auf der anderen, verwundert eine vorwiegend durch Polizei geprägte 
+öffentliche Wahrnehmung wenig.
+
+Rassismus geht nun aber eben mit Machtungleichheiten einher. Betroffene 
+rassistischer Polizeigewalt erhalten deshalb gerade aufgrund öffentlicher 
+rassistischer Darstellungen häufig nicht die Solidarität, die sie verdienen. Erinnert 
+sei hier an die Tode von Achidi John und Laye-Alama Condé durch den polizei-
+lichen Einsatz von Brechmitteln. Obwohl der Europäische Gerichtshof diese 
+Praxis bereits zur verbotenen Folter erklärt hatte, wurde sie noch in den frühen 
+2000er Jahren in bestimmten Fällen bei unter Verdacht des Drogenhandels 
+stehenden Personen angewandt.43 Der öffentliche Protest dagegen war marginal. 
+Hier stellt sich die Frage, welcher Zusammenhang zu der öffentlichkeits-
+wirksamen Kriminalisierung Schwarzer Männer über das Stereotyp des Drogen-
+dealers besteht und welche Rolle dabei wiederum die Öffentlichkeitsarbeit der 
+Polizeien einnimmt.
+
+Sowohl in Pressemitteilungen als auch in Stellungnahmen von Polizei-
+gewerkschaften explizieren sich regelmäßig die rassistischen Wissensbestände, 
+aus denen polizeiliche Praxen schöpfen und werden dadurch umso mehr Teil 
+öffentlicher Diskurse. So kann etwa die vorherrschende rassistische Bericht-
+erstattung über Rom:nja auch als Folge von Polizeiberichten verstanden 
+werden.44 In für die Presse zusammengestellten Hintergrundinformationen über 
+
+40 Hall et al. (1978), S. 58.
+41 Belina (2018), S. 119.
+42 Vgl. Feltes und Rauls (2020), S. 373.
+43 Vgl. Meier (2016), S. 178 ff.
+44 Vgl. End (2017), S. 17.
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 499
+
+eine Trickdiebstahlmethode formulierte bspw. die Polizeiinspektion Lüneburg 
+2013: „‚Budscho‘ bedeutet in der Roma-Sprache ‚Beutel, Tasche, Bündel’ 
+und bezeichnet einen Modus Operandi, den nahezu alle traditionell lebenden 
+Roma-Frauen vom Ablauf her beherrschen.“45 Auch Begriffe wie „Nafri“ und 
+„Clankriminalität“ machen die Notwendigkeit einer stärkeren Sensibilität für die 
+Gewalt eines solchen Sprechens und darauf aufbauenden Handelns deutlich.
+
+4 S icherheit im „Wir“
+
+Die Wirkung polizeilicher rassistischer Praxen auf Gesellschaft ist nicht 
+ungebrochen. Das zeigt Black Lives Matter als die wohl größte Bürgerbewegung 
+der US-Geschichte. Zugleich hat die Mehrheit der deutschen Bevölkerung 
+großes Vertrauen in die Polizei.46 Das allein entlastet aber keinesfalls von dem 
+Eindruck, dass auch in Polizeien in Deutschland Rassismen institutionalisiert 
+sind. Vielmehr ist gerade die Normalisierung von Herrschaftsverhältnissen Teil 
+rassistischer Wirkweisen. Indem weißes bürgerliches Erleben als Norm gesetzt 
+und andere Erfahrungen marginalisiert werden, finden polizeiliche Praxen, die 
+weißes bürgerliches Leben wichtiger nehmen, ihre Legitimation. Weiße bürger-
+liche Perspektiven sind dann nicht deshalb Richtschnur polizeilichen Handelns, 
+weil bewusst und entschieden rassistische (und klassistische) Einstellungen vor-
+herrschen, sondern weil diese Perspektiven in einer rassistisch strukturierten 
+Gesellschaft als die richtigen erscheinen. Die polizeiliche Institutionalisierung 
+der Dominanz weißer bürgerlicher Perspektiven wiederum ist angesichts 
+der polizeilichen Exekutivfunktion des staatlichen Gewaltmonopols und 
+ihrer Kontroll- und Sanktionsmacht von immenser gesamtgesellschaftlicher 
+Bedeutung. Polizeien handeln nach dem dominanzgesellschaftlich imaginierten 
+Willen eines imaginierten Volkes. Zugleich ist, was ein schützenswertes Subjekt 
+dieses Volkes ist, auch durch die entsprechende Adressierung durch die Polizei 
+bestimmt. Es sind Polizeien, die Abweichungen von der einmal gesetzten (weißen 
+bürgerlichen) Norm sanktionieren. Im unmittelbaren Zusammenhang mit einem 
+Dessauer Polizeigewahrsam starben vor Oury Jalloh bereits zwei Menschen: 
+Hans-Jürgen Rose und Mario Bichtermann. Bichtermann war obdachlos. Er starb 
+aus bisher ungeklärten Ursachen.
+
+45 Polizeiinspektion Lüneburg 2013, zitiert nach End (2017), S. 18.
+46 Vgl. dazu für Niedersachsen Landeskriminalität Niedersachsen (2018).
+
+
+
+500 A. Sabel und Ö. Karadeniz
+
+Die Begegnung mit der Polizei kann zur existenziellen Bedrohung werden. 
+Die Wahrscheinlichkeiten dafür sind allerdings sehr unterschiedlich gelagert 
+und von der Positionierung in der Gesellschaft abhängig. Diesen Unterschied 
+macht Noah Sow deutlich: „Menschen ohne Migrationshintergrund. Erkenn-
+bar daran, dass sie selbst mit verfilzten Haaren und in Batikklamotten noch 
+frech zu einem Polizisten werden können.“47 Und tatsächlich herrscht in der 
+Polizeipraxis ein differentieller Blick vor, der vorwiegend unter rassistischen 
+und klassistischen Gesichtspunkten Teile der Bevölkerung als Fremdkörper und 
+potenzielle Unruhestifter:innen wahrzunehmen nahelegt. Ein solcher Ausschluss 
+aus der Dominanzgesellschaft bedeutet einen Ausschluss aus dem Sicherheits-
+kollektiv. Für diese Menschen resultieren regelmäßig Ungleichbehandlungen, 
+die nicht selten auch in Entwürdigungen münden. Ein solches stets erdenkliches 
+(Gefahren-)Szenario steht im Raum und wirkt auf ihn und die Raumpraxis der 
+darin befindlichen Körper. Für die durch die staatliche Praxis der Rassifizierung 
+und Kriminalisierung Betroffenen sind die sozial geschaffenen Grenzen ihrer 
+Körper und ihre Verletzlichkeit präsent. Das eigene Verhalten richtet sich ent-
+sprechend aus. Die zugleich vorherrschende Ignoranz der Dominanzgesellschaft 
+und die massiv eingeschränkten Möglichkeiten der Sichtbarmachung dieser 
+dehumanisierenden Praxis können als „slow violence“ (Nixon) charakterisiert 
+werden.48
+
+Polizeiliche Gewaltmaßnahmen, die minorisierte Orte und minorisierte 
+Menschen kriminalisieren, legen wiederum Mitgliedern der Dominanzgesell-
+schaft nahe sich in Dominanzräumen und in Dominanzverhalten einzurichten. 
+Dabei ist es aber nicht der äußerliche Druck allein, der abweichendes Ver-
+halten verhindert. Ein „Sicherheitsdispositiv“49, das auch durch polizeiliche 
+Reglementierungen formiert wird, provoziert Selbstregulierungen der einzel-
+nen.50 „Die Angehörigen der Mehrheitsgesellschaft wissen nicht nur, dass sie sich 
+in Polizeipräsenz ungehindert bewegen können, sondern auch, dass sie Zugang 
+zu den polizeilichen Zwangsmitteln haben, um ihre Ordnung zu schützen. Dies 
+erlaubt es ihnen, die Deutungen der Polizei zu akzeptieren und fabriziert eine 
+emotionale Investition in die Polizei.“51
+
+47 Sow (2011), S. 449.
+48 Vgl. Thompson (2018), S. 206.
+49 Foucault (1978).
+50 Vgl. Attia et al. (2021), S. 30.
+51 Loick (2018), S. 23.
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 501
+
+Die Anrufung durch die Polizei als Teil eines schützenswerten „wir“ dieser 
+Gesellschaft, die besonders erfährt, wer weiß und bürgerlich ist, geht mit 
+einer Wendung einher, die den Blick auf die richtet, die als die „Anderen“ als 
+potenziell bedrohlich imaginiert werden.52 Die vermeintliche Bedrohlichkeit 
+Rassifizierter wird immer wieder öffentlichkeitswirksam in den Blick genommen. 
+Das auf die „Anderen“ blickende „wir“ gewinnt dadurch allen Offenkundigkeiten 
+des Gegenteils zum Trotz ein Gefühl von Reinheit und Unschuld.53 Entsprechend 
+heißt es bekanntlich in einer im Rahmen der Ermittlungen zu den Morden des 
+NSU in Baden-Württemberg erstellten operativen Fallanalyse: „[…] vor dem 
+Hintergrund, dass die Tötung von Menschen in unserem Kulturraum mit einem 
+hohen Tabu belegt ist, ist abzuleiten, dass der Täter hinsichtlich seines Verhaltens-
+systems weit außerhalb des hiesigen Normen- und Wertesystems verortet ist.“54
+
+Die gemeinsame Blickrichtung formt den Ort, von dem aus geblickt wird. 
+Ein „wir“ entsteht, das seine Überzeugungskraft auch Zugehörigkeitsgefühlen 
+verdankt. Polizeiliche Maßnahmen bspw., die Menschen verandern und 
+kriminalisieren, lenken gerade auch Gefühle. Wenn auf Grundlage rassistischen 
+Sprach- und Verstandesgebrauchs Verbrechen als die originären Verbrechen der 
+„anderen“ zu denken nahegelegt wird, wenn folk devils konstruiert werden, ist 
+die moral panic nicht weit.55 Und die geht durch die Körper. Nur stellt sich auch 
+hier wieder die Frage, durch wessen.
+
+5  Fazit
+
+In dem vorliegenden Artikel setzen wir uns mit der Wirkung rassistischer Polizei-
+praxen auf öffentliche Wahrnehmungen auseinander. Dabei wollten wir zunächst 
+vermeiden, das Bild einer homogenen Öffentlichkeit zu zeichnen. Offenkundig 
+wirkt polizeiliches Handeln auf verschiedene Teilöffentlichkeiten sehr unter-
+schiedlich. Um dem gerecht zu werden, ist eine Berücksichtigung der Ungleich-
+heitsachse race bei weitem nicht ausreichend. Gerade auch Migrantisierten ist 
+es zu verdanken, dass dominanzgesellschaftliche Wahrnehmungsroutinen sich 
+
+52 Vgl. Ahmed (2006), S. 15 f.; Ahmed (2014), S. 184.
+53 Castro Varela (2016), S. 64.
+54 Zitiert nach Ayata (2016), S. 223.
+55 Vgl. Cohen (2002); Hall et al. (1978).
+
+
+
+502 A. Sabel und Ö. Karadeniz
+
+nicht mehr ohne weiteres universalisieren lassen.56 Individuen werden in unserer 
+Gesellschaft auf sehr unterschiedliche Weise subjektiviert und das auch, und nicht 
+zuletzt, aufgrund polizeilicher Praxen. Rassistische und rassifizierende Polizei-
+praxen folgen dabei in Deutschland Imaginationen von Volkszugehörigkeit, die 
+sie zugleich stabilisieren. Die damit einhergehende Versicherheitlichung, das 
+Sicherheitsdispositiv wiederum betrifft alle Mitglieder der Gesellschaft, wird 
+aber gerechtfertigt mit Verweis auf den äußeren und auch den inneren „Anderen“. 
+Dies ohne hohe Kosten unbesprochen zu lassen, ist entsprechend wiederum ein 
+Privileg, das vornehmlich weiße Menschen in dieser Gesellschaft genießen. 
+Insofern Polizeien das Gewaltmonopol des Staates ausüben, kommt ihnen eine 
+besondere Verantwortung zu, sich mit der eigenen Verstrickung in Rassismen und 
+andere Ungleichheitsverhältnisse auseinanderzusetzen. Das Volk, das Uneine, 
+wiederum trägt die Verantwortung Polizeien darin durch beständige Kritik zu 
+unterstützen.
+
+Literatur
+
+Ahmed, S. (2006). Queer Phenomenology. Orientations, Objects, Others. Durham und 
+London: Duke University Press.
+
+Ahmed, S. (2014). Kollektive Gefühle oder die Eindrücke, die andere hinterlassen. In 
+A. Baier, C. Binswanger, J. Häberlein et al. (Hrsg.), Affekt und Geschlecht. Eine ein-
+führende Anthologie. (S. 183–214). Wien: Zaglossus.
+
+Attia, I., Keskinkiliç, O. Z., & Okcu, B. (2021). Muslimischsein im Sicherheitsdiskurs. 
+Eine rekonstruktive Studie über den Umgang mit dem Bedrohungsszenario. Bielefeld: 
+transcript.
+
+Ayata, B. (2016). Silencing the Present. Eine Postkoloniale Kritik der Aufarbeitung des 
+NSU-Komplexes. In A. Ziai (Hrsg.), Postkoloniale Politikwissenschaft. Theoretische 
+und empirische Zugänge (S. 211–232). Bielefeld: transcript.
+
+Belina, B. (2018). Wie Polizei Raum und Gesellschaft gestaltet. In D. Loick (Hrsg.), Kritik 
+der Polizei (S. 119–134). Frankfurt am Main und New York: Campus.
+
+Brand, U., & Wissen, M. (2017). Imperiale Lebensweise: Zur Ausbeutung von Mensch und 
+Natur im globalen Kapitalismus. München: oekom.
+
+Castro Varela, M. d. M. (2016). Die Geister, die wir riefen! Europas Terror – Gedanken-
+splitter. In M. d. M. Castro Varela & P. Mecheril (Hrsg.), Die Dämonisierung der 
+Anderen. Rassismuskritik der Gegenwart (S. 57–72). Bielefeld: transcript.
+
+Cohen S. (2002). Folk Devils and Moral Panics. The Creation of Mods and Rockers. 
+London: Routledge
+
+56 Thompson (2018), S. 211.
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 503
+
+Cremer, H. (2017). Racial Profiling: Eine menschenrechtswidrige Praxis am Beispiel 
+anlassloser Personenkontrollen. In K. Fereidooni & M. El (Hrsg.), Rassismuskritik und 
+Widerstandsformen (S. 405–414). Wiesbaden: Springer VS.
+
+Dengler, P., & Foroutan, N. (2017). Die Aufarbeitung des NSU als deutscher Stephen-
+Lawrence-Moment? – Thematisierung von institutionellem Rassismus in Deutschland 
+und Großbritannien. In K. Fereidooni & M. El (Hrsg.), Rassismuskritik und Wider-
+standsformen (S. 429–446). Wiesbaden: Springer VS.
+
+El-Tayeb, F. (2016). Undeutsch. Die Konstruktion des Anderen in der postmigrantischen 
+Gesellschaft. Bielefeld: transcript.
+
+El-Tayeb, F., & Thompson, V. E. (2019). Alltagsrassismus, staatliche Gewalt und koloniale 
+Tradition. Ein Gespräch über Racial Profiling und intersektionale Widerstände in 
+Europa. In M. Wa Baile, S. O. Dankwa, T. Naguib, P. Purtschert & S. Schilliger (Hrsg.), 
+Racial Profiling. Struktureller Rassismus und antirassistischer Widerstand (S. 311–
+329). Bielefeld: transcript.
+
+End, M. (2017). Antiziganistische Ermittlungsansätze in Polizei- und Sicherheitsbehörden. 
+Kurzexpertise im Auftrag des Zentralrats Deutscher Sinti und Roma. Heidelberg: 
+Zentralrat deutscher Sinti & Roma. https://zentralrat.sintiundroma.de/kurzexpertise-
+antiziganistische-ermittlungsansaetze-in-polizei-und-sicherheitsbehoerden/. 
+Zugegriffen: 18. Juli 2022.
+
+Feltes, T., & Rauls, F. (2020). „Clankriminalität“ und die „German Angst“. Sozial Extra, 
+44(6), S. 372.
+
+Foucault, M. (1978). Dispositive der Macht. Berlin: Merve.
+Golian Esfahani, S. (2018). Polizei und Rassismus. Racist Profiling als institutionelle 
+
+Praxis. standpunkt: sozial, 1(1), S. 53.
+Golian, S. (2019). Spatial Racial Profiling. Rassistische Kontrollpraxen der Polizei und ihre 
+
+Legitimationen. In M. Wa Baile, S. O. Dankwa, T. Naguib, P. Purtschert & S. Schilliger 
+(Hrsg.), Racial Profiling. Struktureller Rassismus und antirassistischer Widerstand 
+(S. 177–193). Bielefeld: transcript.
+
+Gomolla M. (2010). Institutionelle Diskriminierung. Neue Zugänge zu einem alten 
+Problem. In U. Hormel & A. Scherr (Hrsg.), Diskriminierung (S. 61–93). Wiesbaden: 
+VS Verlag für Sozialwissenschaften.
+
+Heinemann, A., & Mecheril, P. (2014). Institutioneller Rassismus als Analyseperspektive. 
+Zwei Argumente. In Weiterdenken (Hrsg.), Alles im weißen Bereich? Institutioneller 
+Rassismus in Sachsen (S. 17–25). Dresden.
+
+Hall, S. (2004). Das Spektakel des „Anderen“. In S. Hall (Hrsg.), Ideologie, Identität, 
+Repräsentation. Ausgewählte Schriften 4 (S. 108–166). Hamburg: Argument.
+
+Hall, S., Critcher, C., Jefferson, T., Clarke, J., & Roberts, B. (1978). Policing the Crisis. 
+London: Macmillan.
+
+Jobard, F. (2013). Zur politischen Theorie der Polizei. WestEnd. Neue Zeitschrift für Sozial-
+forschung, 10(1), S. 65.
+
+Korvensyrjä, A. (2021). Gericht Legitimiert Polizeigewalt. Ellwangen-Urteil ist Freibrief 
+für Grundrechtsverletzungen. MiGAZIN. https://www.migazin.de/2021/03/05/freibrief-
+gericht-legitimiert-polizeigewalt-in-ellwangen/. Zugegriffen: 18. Juli 2022.
+
+Landeskriminalamt Niedersachsen (2018). Befragung zu Sicherheit und Kriminalität in 
+Niedersachsen 2017. Bericht zu Kernbefunden der Studie. https://www.lka.polizei-nds.
+de/download/73539/Kernbefundebericht_2017.pdf. Zugegriffen: 18. Juli 2022.
+
+
+
+504 A. Sabel und Ö. Karadeniz
+
+Liebscher, D. (2020). Clans statt Rassen. Modernisierungen des Rassismus als Heraus-
+forderungen für das Recht. Kritische Justiz, 53(4), S. 529.
+
+Loick, D. (2018). Was ist Polizeikritik? In D. Loick (Hrsg.), Kritik der Polizei (S. 9–35). 
+Frankfurt am Main und New York: Campus.
+
+Macpherson, W. (1999). The Stephen Lawrence Inquiry. Report of an Inquiry. London: 
+Home Office. https://assets.publishing.service.gov.uk/government/uploads/system/
+uploads/attachment_data/file/277111/4262.pdf. Zugegriffen: 18. Juli 2022.
+
+Mecheril, P. (2003). Prekäre Verhältnisse. Über natio-ethno-kulturelle (Mehrfach-)Zuge-
+hörigkeit. Münster und New York: Waxmann.
+
+Mecheril, P. (2016). Flucht, Sex und Diskurse. Gastrede im Rahmen des Neujahres-
+empfangs der Stadt Bremen. https://rat-fuer-migration.de/wp-content/uploads/2017/02/
+mecheril_flucht_sex_diskurse.pdf. Zugegriffen: 18. Juli 2022.
+
+Mecheril, P., & Scherschel, K. (2009). Rassismus und „Rasse“. In C. Melter & P. Mecheril 
+(Hrsg.), Rassismuskritik. Band 1: Rassismustheorie und -forschung (S. 39–58). Schwal-
+bach: Wochenschau.
+
+Meier, F. (2016). Gilt das Verbot der Folter absolut? Ethische Probleme Polizeilicher 
+Zwangsmaßnahmen Zwischen Achtung und Schutz der Menschenwürde. Boston: BRILL
+
+Melter, C. (2016a). Die nächsten Schritte gegen institutionelle nationalstaatliche Dis-
+kriminierung und institutionellen Rassismus. In M. Detzner, A. Drücker & Sebastian 
+Seng (Hrsg.), Rassismuskritik. Versuch einer Bilanz über Fehlschläge, Weiter-
+entwicklungen, Erfolge und Hoffnungen (S. 18–23). Düsseldorf: IDA.
+
+Melter, C. (2016b) Die Entrechtung national, religiös oder rassistisch konstruierter 
+›Anderer‹. In M. d. M. Castro Varela & P. Mecheril (Hrsg.), Die Dämonisierung der 
+Anderen. Rassismuskritik der Gegenwart (S. 159–172). Bielefeld: transcript.
+
+Ministerium des Innern des Landes Nordrhein-Westfalen (o. J.). Drei Säulen gegen 
+Clankriminalität. https://www.im.nrw/drei-saeulen-gegen-clankriminalitaet. 
+Zugegriffen: 18. Juli 2022.
+
+ntv (2020). Debatte um Rassismus in Polizei. SPD-Minister kritisieren Parteichefin 
+Esken. https://www.n-tv.de/politik/SPD-Minister-kritisieren-Parteichefin-Esken-
+article21835196.html. Zugegriffen: 18. Juli 2022.
+
+Polizei Essen und Mülheim an der Ruhr (2020). Polizeibroschüre „Arabische Familien-
+clans -Historie. Analyse. Ansätze zur Bekämpfung“. https://www.presseportal.de/blau-
+licht/pm/11562/4717559. Zugegriffen: 18. Juli 2022.
+
+Rommelspacher, B. (1995). Dominanzkultur. Texte zur Fremdheit und Macht. Berlin: 
+Orlanda.
+
+Singer, T. (2021). CDU nimmt umstrittenes Video zur Clankriminalität offline. Meedia. 
+https://meedia.de/2021/02/17/cdu-nimmt-umstrittenes-video-zur-clankriminalitaet-
+offline/. Zugegriffen: 18. Juli 2022.
+
+Sow, N. (2011). Miomis. In S. Arndt & N. Ofuatey-Alazard (Hrsg.), Wie Rassismus aus 
+Wörtern spricht. (K)Erben des Kolonialismus im Wissensarchiv deutsche Sprache. Ein 
+kritisches Nachschlagewerk (S. 449). Münster: Unrast.
+
+Spivak, G. C. (1985): The Rani of Sirmur: An Essay in Reading the Archives. History and 
+Theory, 24(3), S. 247.
+
+
+
+Ein weißes „wir“, seine Polizei und deren weißes „wir“ 505
+
+Süddeutsche Zeitung (2018). Seehofer über Ellwangen „Schlag ins Gesicht der rechtstreuen 
+Bevölkerung“. https://www.sueddeutsche.de/politik/seehofer-ueber-ellwangen-schlag-
+ins-gesicht-der-rechtstreuen-bevoelkerung-1.3965673. Zugegriffen: 18. Juli 2022.
+
+Terkessidis, M. (2004). Die Banalität des Rassismus. Migranten zweiter Generation ent-
+wickeln eine neue Perspektive. Bielefeld: transcript.
+
+Thompson, V. E. (2018). »There is no justice, there is just us!« Ansätze zu einer post-
+kolonial-feministischen Kritik der Polizei am Beispiel von Racial Profiling. In D. Loick 
+(Hrsg.), Kritik der Polizei (S. 197–219). Frankfurt am Main und New York: Campus.
+
+Thompson, V. E. (2020). Racial Profiling, institutioneller Rassismus und Interventions-
+möglichkeiten. https://www.bpb.de/gesellschaft/migration/kurzdossiers/308350/racial-
+profiling-institutioneller-rassismus-und-interventionsmoeglichkeiten#fr-footnode21. 
+Zugegriffen: 18. Juli 2022.
+
+Tribunal NSU-Komplex auflösen (2017). Wir klagen an! https://www.nsu-tribunal.de/
+anklage/. Zugegriffen: 17. August 2021.
+
+Ullrich, P., & Tullney, M. (2012). Die Konstruktion ‚gefährlicher Orte‘. Eine 
+Problematisierung mit Beispielen aus Berlin und Leipzig. https://depositonce.tu-berlin.
+de/bitstream/11303/4862/1/ullrich_tullney.pdf. Zugegriffen: 18. Juli 2022.
+
+Unabhängige Kommission Antiziganismus (2021). Perspektivwechsel – Nachholende 
+Gerechtigkeit – Partizipation. Bericht der Unabhängigen Kommission Antiziganismus. 
+https://dserver.bundestag.de/btd/19/303/1930310.pdf. Zugegriffen: 17. August 2021.
+
+ZEIT ONLINE (2020). „Latenter Rassismus bei Sicherheitskräften auch in Deutschland“. 
+https://www.zeit.de/politik/deutschland/2020-06/saskia-esken-spd-polizei-rassismus. 
+Zugegriffen: 18. Juli 2022.
+
+Anna Sabel ist politische Bildnerin beim Verband binationaler Familien und Partner-
+schaften in Leipzig. Sie leitet das Projekt „(Un)Sichtbarkeiten in der Migrationsgesell-
+schaft“ und verantwortet die Mitgliedschaft des Verbands im Kompetenznetzwerk 
+Islam- und Muslimfeindlichkeit.
+
+Özcan Karadeniz ist Geschäftsführer des Verbands binationaler Familien und Partner-
+schaften in Leipzig. Er ist langjähriger Trainer und Referent im Bereich rassismuskritischer 
+und politischer Bildungsarbeit und entwickelt unterschiedliche Bildungs- und Ver-
+mittlungsformate, z. B. Ausstellungen, (Dokumentar-)Filme und Workshopmaterialien.
+
+
+
+506 A. Sabel und Ö. Karadeniz
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

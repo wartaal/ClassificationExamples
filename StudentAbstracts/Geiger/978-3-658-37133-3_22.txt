@@ -1,0 +1,819 @@
+﻿Vertrauens- und Legitimitätsbrüche: 
+Was bedeutet Rassismus durch die 
+Polizei für die Gesellschaft?
+
+Laila Abdul-Rahman
+
+Zusammenfassung
+
+Rassismus durch die Polizei verstößt gegen die Grundsätze des demo-
+kratischen Rechtsstaates. Bürger:innen müssen darauf vertrauen können, dass 
+sich staatliche Behörden an Recht und Gesetz halten. Der Beitrag geht der 
+Frage nach, wie Rassismus das gesellschaftliche Vertrauen in die Polizei sowie 
+deren Legitimität beeinflusst, und stellt empirische Befunde für Deutschland 
+dar. Anschließend werden rassistische polizeiliche Praktiken in den Blick 
+genommen und in ihrem Zusammenhang mit sozialer Identität analysiert. 
+Danach wird mithilfe der Konzepte prozeduraler bzw. distributiver Gerechtig-
+keit geklärt, wie Vertrauen in die Polizei gestärkt oder geschwächt werden 
+kann.
+
+Schlüsselwörter
+
+Polizei · Vertrauen · Legitimität · Rassismus · Procedural Justice
+
+L. Abdul-Rahman (*) 
+Lehrstuhl fur Kriminologie, Juristische Fakultät, Ruhr-Universitat Bochum,  
+Bochum, Deutschland
+E-Mail: laila.abdul-rahman@rub.de
+
+© Der/die Autor(en) 2022 471
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_22
+
+
+
+472 L. Abdul-Rahman
+
+1 L egitimität polizeilichen Handelns und Vertrauen
+
+Die Polizei ist im demokratischen Rechtsstaat auf (freiwillige) Anerkennung ihrer 
+Autorität angewiesen. Polizeiliche Legitimität führt dazu, dass Bürger:innen – 
+ohne dass Zwang angewendet werden muss – Gesetze sowie die Anweisungen 
+der Polizei befolgen und mit der Polizei kooperieren.1 Nach Weber wird die 
+herrschende Ordnung durch den Glauben an ihre Vorbildlichkeit und Verbindlich-
+keit legitimiert.2 Institutioneller Rassismus kann insofern als Legitimitätsproblem 
+verstanden werden, da er im demokratischen Rechtsstaat grundsätzlich abgelehnt 
+werden sollte. Diese (normative) Ablehnung ist auch verfassungsmäßig in Art. 3 
+GG festgeschrieben. Rassistisches Handeln ist damit nicht nur illegitim, sondern 
+illegal.
+
+Von staatlichen Institutionen, wie der Polizei, wird erwartet, dass diese sich 
+an die Gesetze halten. Vertrauen in die Polizei bedeutet, dass Bürger:innen 
+daran glauben, dass diese Erwartung erfüllt wird, und dient der normativen 
+Rechtfertigung, Herrschaft zu akzeptieren und in das Beherrschtwerden ein-
+zuwilligen.3 Das Vertrauen in die Polizei ist in Deutschland auf einem stabilen, 
+hohen Niveau.4 Rassismus trifft aber nicht alle Bürger:innen in gleichem Maße, 
+sondern migrantisch gelesene bzw. Personen of Color, die aufgrund rassifizierter 
+Merkmale benachteiligt werden. Demnach ist fraglich, ob es im Vergleich zur 
+weißen Mehrheitsbevölkerung Unterschiede im Vertrauen gibt, wie Rassis-
+mus durch die Polizei gesellschaftlich wahrgenommen wird und wie Vertrauen 
+gestärkt bzw. zurückgewonnen werden kann.
+
+2 E mpirische Befunde für Deutschland
+
+Insbesondere in den USA wurde ein geringeres Vertrauen von Schwarzen 
+Menschen und Personen of Color sowie eine negativere Wahrnehmung der 
+Polizei nachgewiesen.5 Für Europa gibt der European Social Survey (ESS Round 
+
+1 Tyler (1990); Sunshine und Tyler (2003); Bottoms und Tankebe (2012); Hecker (2019); 
+Hough et al. (2013); Tyler (2004).
+2 Weber (1964), S. 23.
+3 Jackson und Gau (2016).
+4 Birkel et al. (2019), S. 78.
+5 Brown und Benedict (2002); Weitzer und Tuch (2006).
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 473
+
+5, 2010/2011) einige Hinweise: Einstellungen von Migrant:innen gegenüber der 
+Polizei unterschieden sich je nach Länge des Aufenthalts im Zuwanderungs-
+land.6 Während neu zugewanderte Personen der Polizei gegenüber sogar positiver 
+eingestellt waren als einheimische Personen, war das Gegenteil der Fall für 
+Menschen, die vor mehr als 15 Jahren zugewandert waren und solche der zweiten 
+Generation. Bradford und Jackson nehmen deshalb an, dass zugewanderte 
+Personen – anders als häufig vermutet – negative Einstellungen zur Polizei nicht 
+bereits mitbringen, sondern erst im Laufe der Zeit erwerben. Dies konnte auch 
+allgemein für das institutionelle Vertrauen nachgewiesen werden.7
+
+Auch in der Schüler:innenbefragung der POLIS Studie (2011/2012) zeigten 
+Jugendliche mit Migrationshintergrund in Deutschland geringeres Vertrauen 
+in die Polizei als solche ohne, der Unterschied war jedoch kleiner als in Frank-
+reich.8 Jugendliche mit türkischem Hintergrund (das häufigste Herkunftsland) 
+unterschieden sich dabei nicht von solchen aus anderen Herkunftsländern. Der 
+Deutsche Viktimisierungssurvey (2017) zeigte, dass Personen mit türkischem 
+oder osteuropäischem Migrationshintergrund die Polizeiarbeit bei der Ver-
+brechensbekämpfung schlechter bewerteten und der Meinung waren, dass die 
+Polizei oft mehr Gewalt einsetzt, als geboten wäre.9 Solche mit türkischem 
+Hintergrund sagten außerdem häufiger, dass Personen abhängig von ihrem 
+finanziellen Status anders behandelt werden. Auch hier deuten die Daten darauf 
+hin, dass insbesondere die zweite Generation der Polizei kritischer gegenüber 
+steht.10 Die International Self-Report Delinquency Study (ISRD 3) zeigte, dass 
+auch in Deutschland migrantisch gelesene sowie muslimische Jugendliche und 
+solche, die in benachteiligten Vierteln lebten, die Polizei als unfairer und weniger 
+legitim wahrnahmen.11 Weiße Jugendliche mit Migrationshintergrund zeigten 
+dagegen weder geringeres Vertrauen noch eine geringere Legitimitätsbewertung 
+als weiße Jugendliche ohne Migrationshintergrund.
+
+6 Bradford und Jackson (2018).
+7 Röder und Muhlau (2012).
+8 Roché et al. (2018).
+9 Birkel et al. (2019), S. 71 ff. Zu berücksichtigen ist, dass die Stichprobe der Befragten mit 
+Migrationshintergrund eine eher niedrige Fallzahl aufwies und die Unterschiede deshalb 
+nicht statistisch abgesichert sind.
+10 Leitgöb-Guzy (2019).
+11 Roux (2018); Farren und Hough (2018).
+
+
+
+474 L. Abdul-Rahman
+
+Diese Ergebnisse zeigen: Vertrauen und Legitimität der Polizei unterscheiden 
+sich nicht aufgrund eines tatsächlichen Migrationshintergrunds, sondern aufgrund 
+der Sichtbarkeit von Personen, die als migrantisch gelesen werden,12 und damit 
+auch häufiger von Rassismus betroffen sind.
+
+3 R assistische Praktiken im Spannungsfeld von 
+Legalität und Legitimität
+
+Rassismus tritt in verschiedenen Formen auf.13 Expliziter Rassismus, der 
+z. B. durch rassistische Beleidigungen nach außen tritt, ist sichtbar und klar 
+als rechtswidrig zu erkennen, auch wenn allgemeine Beweisschwierigkeiten 
+(z. B. fehlende Zeug:innen) weder auszuschließen noch selten sind. Impliziter 
+und auch struktureller Rassismus ist dagegen nicht ohne weiteres sichtbar, 
+denn es fehlt zumeist an äußeren Tatsachen, die eine zweifelsfreie Bewertung 
+ermöglichen. Erschwert wird eine solche Beurteilung auch dadurch, dass den 
+Polizeibeamt:innen die rassistische Dimension ihres Handelns nicht zwangsläufig 
+bewusst sein muss, sondern auf unbewusste Stereotype zurückzuführen sein 
+kann (sog. Implicit Bias).14 Aufgrund dessen scheitert häufig die juristische Fest-
+stellung eigentlich verbotener und rechtswidriger polizeilicher Praxen, wie Racial 
+Profiling. Nach wie vor dominiert dabei ein Rassismusverständnis, welches 
+implizite sowie strukturelle Rassismen vernachlässigt. Infolgedessen werden 
+solche Praktiken häufig nicht als rassistisch benannt und geahndet; teilweise wird 
+ihnen durch legale Grundlagen auch Vorschub geleistet.15
+
+Wessen Perspektive bei der Bewertung solcher Vorfälle gesellschaftliche 
+Anerkennung findet – die polizeiliche oder die der Betroffenen – ist insbesondere 
+davon abhängig, wer Definitions- und Beschwerdemacht im öffentlichen Diskurs 
+besitzt, was in Zusammenhang mit Fragen von sozialer Identität steht.
+
+12 Farren und Hough (2018).
+13 Vgl. den Beitrag von Bosch und Thurn in diesem Band.
+14 Staats et al. (2017).
+15 Cremer (2013). Zum unzureichenden Rassismusverständnis in den Institutionen siehe 
+Deutsches Institut für Menschenrechte (2020).
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 475
+
+3.1  Rassismus und Legitimität in der öffentlichen 
+Wahrnehmung
+
+Nach Hall ist Rassismus als ideologischer Diskurs zu verstehen, der das 
+hegemoniale System durch Ausschließung sichert.16 Was in der öffentlichen 
+Wahrnehmung als rassistische, illegitime polizeiliche Praxis verstanden wird, 
+ist beeinflusst von der Diskursmacht der Akteur:innen. Harkin weist darauf hin, 
+dass die meisten Personen der (Mehrheits-)Bevölkerung kaum auf tatsächliche 
+Erfahrungen mit der Polizei zurückgreifen können, und deshalb Imaginationen 
+darüber, wie Polizei ist und agiert, für deren Bewertung eine wichtige Rolle 
+spielen.17 Mit Lukes Social Theory of Power18 argumentiert er, dass diese Vor-
+stellungen stark beeinflusst sind von den herrschenden Machtverhältnissen, und 
+durch hegemoniale Ideologien bedingt und manipuliert werden. Wissen über 
+die Polizei wird deshalb maßgeblich von herrschenden Autoritäten geprägt und 
+medial vermittelt.19
+
+Für die Bewertung polizeilichen Verhaltens sind demnach auch Prozesse 
+des sog. Otherings20 von Bedeutung: Ungleichbehandlung kann dadurch 
+legitimiert werden, dass Adressat:innen polizeilichen Handelns als fremd und 
+die Polizeibeamt:innen als Angehörige der eigenen Gruppe imaginiert werden.21 
+In diesem Sinne wird die rassistische Dimension des polizeilichen Handelns im 
+öffentlichen Diskurs unsichtbar. Legitimität bedeutet damit immer Legitimi-
+tät der (weißen) Mehrheitsgesellschaft; Legitimitätsverluste in kleineren (von 
+Rassismus betroffenen) Teilen der Bevölkerung müssen den Herrschaftsanspruch 
+nicht infrage stellen. Bereits nach Weber reicht es aus, wenn der „Legitimitäts-
+anspruch der Art nach in einem relevanten Maß“ gilt, maßgeblich ist dagegen 
+nicht, ob jede Art der Fügsamkeit tatsächlich auf Legitimitätsglauben beruht, 
+mangels Alternative können Staat und Polizei dennoch akzeptiert werden: „aus 
+
+16 Hall (1989).
+17 Harkin (2015).
+18 Lukes (2005).
+19 Harkin (2015). Zum Einfluss von Medien auf die Legitimitätswahrnehmung vgl. 
+Chermak et al. (2006); Graziano et al. (2010).
+20 Spivak (1985).
+21 Vgl. Blumer (1958); Bobo (1999).
+
+
+
+476 L. Abdul-Rahman
+
+individueller Schwäche und Hilflosigkeit [wird Herrschaft] als unvermeidlich hin-
+genommen“.22
+
+Die Daten des ESS 5 zeigten, dass gesellschaftliche Diskriminierungs-
+erfahrungen mit einem geringeren Gefühl von normativer Übereinstimmung 
+mit der Polizei zusammenhängen, aber keinen Einfluss auf die wahrgenommene 
+Verpflichtung zeigten, den polizeilichen Anweisungen Folge zu leisten.23 Für 
+Deutschland zeigte der ESS 5 außerdem, dass Personen, die sich einer ethnischen 
+Minderheit zuordneten, sich sogar häufiger verpflichtet fühlten, polizeilichen 
+Anweisungen Folge zu leisten.24 Der Zusammenhang zwischen Legitimitätswahr-
+nehmung und Gruppenzugehörigkeit bzw. sozialer Identität soll deshalb näher 
+betrachtet werden.
+
+3.2  Soziale Identität und Wahrnehmung von 
+Legitimität
+
+Die Wahrnehmung polizeilicher Legitimität wird davon beeinflusst, ob sich 
+Personen mit der Polizei identifizieren können oder nicht.25 Radburn und andere 
+konnten nachweisen, dass die Bewertung polizeilicher Maßnahmen davon abhing, 
+ob diese gegen eine Gruppe gerichtet war, die den Befragten sozial nah oder 
+fern war, bzw. in welcher sozialen Beziehung die Befragten sich zur Polizei ver-
+orteten.26 Wer sich der sozialen Gruppe zugehörig fühlt, die er oder sie durch die 
+Polizei repräsentiert sieht, wird diese eher als legitim wahrnehmen.27 Bradford, 
+Milani und Jackson heben hervor, dass insbesondere, wenn die Faktenlage unklar 
+ist, auf identitäre Zuschreibungen zurückgegriffen wird: Je stärker sich Personen 
+mit der Polizei identifizieren, desto eher gehen sie davon aus, dass diese ent-
+sprechend der eigenen Normen und Werte handeln.28 Nationale Identität, d. h. 
+
+22 Weber (1964), S. 158.
+23 Bradford et al. (2018).
+24 Bradford et al. (2018).
+25 Sunshine und Tyler (2003); Huo (2003); Bradford et al. (2014); Radburn et al. (2018); 
+Sargeant et al. (2016).
+26 Radburn et al. (2018).
+27 Tajfel und Turner (1986); Turner und Reynolds (2010).
+28 Bradford et al. (2016), S. 11 f.
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 477
+
+sich selbst als Mitglied der Mehrheitsgesellschaft zu sehen, sowie die eigene 
+Wahrnehmung als „gesetzestreue:r Bürger:in“ führen zu mehr Vertrauen und 
+höherer Legitimität der Polizei, sowie zu einer höheren Akzeptanz von polizei-
+licher Gewalt.29 Letztere wird außerdem durch rassistische Ressentiments 
+erhöht.30
+
+Eine australische Studie konnte nachweisen, dass soziale Identität einen 
+größeren Einfluss auf Einstellungen zur Polizei hat als tatsächliche Abstammung 
+(Race).31 Ausschlusserfahrungen und Erfahrungen der Nichtanerkennung haben 
+wiederum Auswirkungen sowohl auf das Vertrauen der Betroffenen als auch auf 
+deren Identitätswahrnehmung innerhalb der Gesellschaft. Jede Erfahrung mit der 
+Polizei enthält Informationen über den eigenen sozialen Status und Wert.32 Inter-
+aktionen mit der Polizei als Vertreterin von Staat und Mehrheitsgesellschaft haben 
+somit symbolischen Charakter und weisen Betroffenen ihren Platz in der Gesell-
+schaft zu: Wer wird als Bürger:in respektiert, wessen Stimme wird gehört, wer 
+wird als kontrollbedürftig angesehen?33 Daran anknüpfend stellt sich die Frage, 
+wie solche Kontakte gestaltet werden sollten, um Vertrauen herzustellen und dem 
+staatlichen Legitimitätsanspruch gerecht zu werden.
+
+4 V ertrauen(-sverlust) durch (Un-)Gerechtigkeit
+
+Neben dem Vertrauen, dass sich die Polizei an Gesetze hält, ist für die Legitimi-
+tätswahrnehmung maßgeblich, ob darauf vertraut werden kann, dass die Polizei 
+gerecht und fair agiert.34 Unterschieden werden kann dabei zwischen Verfahrens-
+gerechtigkeit (prozedural) und Verteilungsgerechtigkeit (distributiv).
+
+29 Huo (2003); Oliveira und Murphy (2015); Bradford et al. (2016); Roché et al. (2018).
+30 Carter und Corra (2016); Simon et al. (2021).
+31 Oliveira und Murphy (2015).
+32 Tyler et al. (1996); Bradford (2014); Bradford et al. (2014); Murphy und Cherney (2018).
+33 Vgl. Loader (2006); Justice und Meares (2014); Thompson (2018).
+34 Hough (2021), S. 20 ff. Liegt ein Mindestmaß an Kompetenz und Effektivität der Polizei 
+vor, ist die Beurteilung der Fairness von größerer Bedeutung für die Legitimitätswahr-
+nehmung, vgl. z. B. Sunshine und Tyler (2003). Studien in Ländern mit geringer Polizei-
+kompetenz oder fehlender Effektivität zeigen jedoch ein umgekehrtes Verhältnis, z. B. 
+Tankebe (2009).
+
+
+
+478 L. Abdul-Rahman
+
+4.1  Prozedurale Gerechtigkeit und Diskriminierung
+
+Eine zentrale Rolle spielt die Theorie der prozeduralen Gerechtigkeit, die besagt, 
+dass ein faires Verfahren für die Legitimitätsbeurteilung größeren Einfluss hat 
+als das Entscheidungsergebnis.35 Auch nachteilige Entscheidungen werden von 
+Betroffenen akzeptiert, wenn das Verfahren als partizipativ, neutral bzw. trans-
+parent, respektvoll und auf vertrauenswürdigen, ehrlichen Motiven basierend 
+wahrgenommen wird.36 Für die Theorie gibt es zahlreiche empirische Belege.37 
+Polizeiliche Legitimität hängt maßgeblich von persönlichen Kontakten ab; je 
+häufiger negative Erfahrungen gemacht werden, desto geringer wird diese ein-
+geschätzt.38 Es konnte auch gezeigt werden, dass Personen eine Maßnahme 
+seltener als Racial Profiling wahrnahmen, wenn sie sich höflich und respektvoll 
+behandelt, sowie in ihren Rechten anerkannt fühlten, und die Polizist:innen als 
+neutral sowie vertrauenswürdig angesehen wurden.39
+
+Kritisiert wird jedoch, dass die Theorie einen zu großen Fokus auf die Form 
+des Verfahrens legt und zu wenig auf den zugrundeliegenden Inhalt und ins-
+besondere im Zusammenhang mit (rassistischer) Diskriminierung auf die 
+tatsächliche Wirkung für Betroffene. Dies könnte Diskriminierung erst ermög-
+lichen, wenn Polizist:innen, indem sie nach außen hin respektvoll agierten, die 
+Betroffenen so manipulierten, dass diese an für sie nachteiligen Maßnahmen 
+mitwirkten.40 Schon Feest und Blankenburg thematisierten den Versuch der 
+Polizei, durch freiwillige Kooperation ihre Befugnisse zu erweitern.41 Es zeigt 
+sich jedoch, dass ein solches Vorgehen sich langfristig negativ auf die Wahr-
+nehmung der Polizei auswirkt: Insbesondere Stop-and-Search Maßnahmen, 
+bzw. in Deutschland verdachtsunabhängige oder anlasslose Kontrollen, senken 
+sowohl das Vertrauen in die Polizei als auch deren Legitimitätswahrnehmung – 
+und zwar unabhängig davon, ob die Polizist:innen selbst höflich vorgehen oder 
+
+35 Tyler (2004, 1990).
+36 Tyler (2004).
+37 Sunshine und Tyler (2003); Tyler und Huo (2002); Hough et al. (2013). Für einen Über-
+blick siehe auch Hecker (2019); Hough (2021).
+38 Tyler et al. (2014); Bradford et al. (2018).
+39 Tyler und Waksalk (2004).
+40 MacCoun (2005).
+41 Feest und Blankenburg (1972), S. 46.
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 479
+
+vorher die Einwilligung der betroffenen Person einholen (sog. Consent 
+Searches).42 Dennoch zeigen Studien, dass die Art des persönlichen Kontakts 
+nicht unwichtig ist, sondern im Gegenteil eine Chance ist, Wertschätzung der 
+betroffenen Person zu vermitteln und damit inklusive Wirkung zu entfalten.43 
+Murphy und Cherney verweisen darauf, dass ein respektvoll und fair gestalteter 
+Kontakt sogar wichtiger sein kann für Menschen, die sich ihres sozialen Status in 
+der Gesellschaft unsicher sind.44
+
+4.2  Distributive Gerechtigkeit (Under-/Overpolicing)
+
+Distributive Gerechtigkeit, d. h. Verteilungsgerechtigkeit, betrifft die Frage, 
+ob die Polizei alle Personen gleichermaßen behandelt. Daran fehlt es, 
+wenn gesellschaftliche Gruppen entweder zu wenig geschützt werden, sog. 
+Underpolicing45, oder häufiger von polizeilichen Maßnahmen betroffen sind, 
+sog. Overpolicing, was mit Kriminalisierungseffekten einhergehen kann.46 Beide 
+Phänomene können auch insofern in Zusammenhang stehen, dass gerade die-
+jenigen, die sich von Overpolicing betroffen sehen, einerseits von Stigmatisierung 
+betroffen sind und dadurch weniger Unterstützung erhalten, und anderer-
+seits ihr Vertrauen verlieren, und somit gar nicht mehr polizeiliche Hilfe in 
+Anspruch nehmen wollen – erst recht, wenn sie bereits eigene Erfahrungen mit 
+rassistischem Handeln oder Gewalt durch die Polizei gemacht haben.47
+
+Eine solche Ungleichverteilung polizeilichen Schutzes bzw. Kontrolle auf-
+grund rassifizierter Differenz wurde für Deutschland wiederholt beschrieben.48 
+Häufig steht sie in Zusammenhang mit orts- bzw. raumabhängigen Arten des 
+Polizierens, z. B. einer höheren Kontrolldichte oder repressiverem Vorgehen in 
+sozial benachteiligten Vierteln.49 Auf dieses Weise kann polizeiliches Handeln 
+
+42 Tyler et al. (2014); Murray et al. (2021); Oberwittler und Roché (2018); Saarikkomäki 
+et al. (2021); Epp et al. (2014); Thurn (2021); Gau (2013).
+43 Bradford (2014); Tyler et al. (1996); Murphy und Cherney (2018).
+44 Murphy und Cherney (2018).
+45 Natapoff (2006).
+46 Thompson (2018); Mohrfeldt (2016).
+47 Abdul-Rahman et al. (2020), S. 40; Louw et al. (2016).
+48 European Union Agency For Fundamental Rights (FRA) (2017); Belina (2016); 
+Thompson (2018); Bruce-Jones (2015).
+49 Hunold (2015); Keitzel (2020); Belina und Wehrheim (2011).
+
+
+
+480 L. Abdul-Rahman
+
+soziale Ungleichheit reproduzieren.50 So kann auch erklärt werden, dass in 
+einigen Studien Personen, die von sozialer Ungleichheit betroffen sind und/
+oder zu einer diskriminierten Gruppe gehören, die Polizei als weniger legitim 
+bewerten und ihr weniger vertrauen.51 Dabei spielen nicht nur die persönlichen 
+Erfahrungen mit der Polizei eine Rolle, sondern auch Erfahrungen anderer, von 
+denen man hört.52 Auch hier ist soziale Identifikation von Bedeutung: Nach 
+einem medial viel besprochenen rassistischen polizeilichen Übergriff in Frank-
+reich stellten Nägel und Lutter fest, dass Vertrauensverluste für Personen, 
+die einer ethnischen Minderheit angehörten, deutlich größer waren als für 
+Angehörige der weißen Mehrheitsgesellschaft.53
+
+In mehreren Untersuchungen wurde festgestellt, dass der Effekt distributiver 
+Gerechtigkeit auf die Legitimitätswahrnehmung geringer ist als der prozeduraler 
+Gerechtigkeit.54 Letztlich kann dies dadurch zu erklären sein, dass Verteilungsge-
+rechtigkeit als Teil von Verfahrensgerechtigkeit gesehen werden kann,55 denn die 
+grundsätzliche Gleichbehandlung aller Personen ist schließlich die Grundvoraus-
+setzung für ein faires Verfahren. Overpolicing stellt einen Mangel an Neutralität 
+dar, die eine Bedingung prozeduraler Gerechtigkeit ist. Konsequenterweise steht 
+eine solche Erfahrung im klaren Widerspruch zu einer respektvollen Behandlung 
+– selbst wenn die handelnden Polizist:innen freundlich und rücksichtsvoll 
+sind. Ein Mangel an distributiver Gerechtigkeit führt also zu einem Mangel an 
+prozeduraler Gerechtigkeit, der sich schließlich auf die Legitimitätsbewertung 
+auswirkt. Auch Hough und andere weisen darauf hin, dass soziale Ungleichheit 
+perpetuiert werden kann, wenn sich nur auf die Art der Behandlung konzentriert 
+wird: Faire und gerechte Behandlung darf nicht nur so scheinen, sondern muss 
+auch ernst gemeint und ehrlich sein.56
+
+50 Belina und Wehrheim (2011); Basu (2016).
+51 Bradford und Jackson (2018); Röder und Muhlau (2012); Piatkowska (2015).
+52 Rosenbaum et al. (2005); Abdul-Rahman et al. (2020), S. 39.
+53 Nägel und Lutter (2021).
+54 Sunshine und Tyler (2003); Tyler und Huo (2002); Hough et al. (2013).
+55 So auch Hough (2021), S. 21.
+56 Hough et al. (2016), S. 12.
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 481
+
+5 F azit: Bedeutung für die Gesellschaft und für die 
+Arbeit der Polizei
+
+Seit dem Sommer 2020 und dem Mord an George Floyd in den USA wird auch in 
+Deutschland vermehrt über Rassismus durch die Polizei debattiert. Bewegungen 
+wie Black Lives Matter, die rassistische Polizeigewalt und Praktiken wie Racial 
+Profiling öffentlich problematisieren, leiteten eine gesellschaftliche Diskursver-
+schiebung ein – weg von der polizeilichen hin zur Perspektive von migrantisch 
+gelesenen bzw. Personen of Color. Empirische Hinweise auf Vertrauens- und 
+Legitimitätsverluste waren bisher zu wenig im Fokus der gesellschaftlichen, 
+wissenschaftlichen und polizeilichen Debatte. Lange wurde mit Blick auf das 
+Ausland darauf verwiesen, dass die deutsche Polizei positiver wahrgenommen 
+wird und auch weniger repressiv vorgeht als z. B. in den USA oder in Frankreich, 
+sowie darauf, dass gesellschaftliche Unruhen, wie z. B. Ausschreitungen in den 
+Banlieus, die als Marker für massive Legitimitätsbrüche angesehen werden, in 
+Deutschland in dieser Form nicht existierten.57 Unter dem Brennglas der Covid 
+19-Pandemie, die soziale Ungleichheit weiter verschärft hat, kam es aber auch 
+in Deutschland zu Zusammenstößen zwischen Polizei und Jugendlichen, z. B. 
+in Stuttgart oder Frankfurt am Main, ausgelöst durch Personenkontrollen, die 
+Anwesende als Racial Profiling wahrnahmen.58 Wie die öffentliche Debatte um 
+die (vermeintliche) Herkunft und den Migrationshintergrund der Jugendlichen, 
+welchen die Polizei in Stuttgart sogar durch Abfragen bei den Standesämtern zu 
+ermitteln suchte, geführt wurde, offenbart die hier beschriebenen Zusammen-
+hänge zwischen gesellschaftlichem Rassismus, öffentlicher Wahrnehmung der 
+Polizei und sozialer Identität.59
+
+Einem sich abzeichnenden Vertrauensverlust, der mit dem Verlust von 
+Kooperationsbereitschaft einhergehen kann, sollte jedoch nicht mit immer 
+repressiveren, konfrontativeren polizeilichen Strategien begegnet werden, die 
+Hough als „Hard Power Trap“ bezeichnet.60 Durch „hartes Durchgreifen“ kann 
+zwar kurzfristig Gehorsam erzwungen werden, langfristig wird dies jedoch zu 
+weiteren Vertrauens- und Legitimitätsverlusten führen und gesellschaftliche 
+Spaltung vorantreiben. Eigene Ungerechtigkeitserfahrungen mit der Polizei oder 
+
+57 Z. B. Oberwittler und Roché (2018).
+58 Khan (2020).
+59 Beyer (2020).
+60 Hough (2021), S. 26 ff.
+
+
+
+482 L. Abdul-Rahman
+
+solche der Gruppe, der man sich zugehörig fühlt, begünstigen eine fortschreitende 
+Entfremdung von Staat und Gesellschaft, insbesondere dann, wenn mangels 
+Anerkennung Gefühle von Schutz- und Machtlosigkeit verstärkt werden.61
+
+Soll Vertrauen gestärkt bzw. zurückgewonnen werden, sollte Kommunikation 
+mit Betroffenen nicht als „Mittel zum Zweck“ verstanden werden. Echte Fair-
+ness und Respekt können nicht rein technisch vermittelt werden, sondern werden 
+erst durch Selbstreflexion und Offenheit für die Perspektive des Gegenübers 
+sowie Sensibilisierung für individuelle als auch strukturelle Rassismen mög-
+lich. Solche inneren Prozesse können bspw. durch Antirassismustrainings oder 
+institutionalisierte Reflexionsangebote, wie Supervisionen oder Einsatznach-
+besprechungen, angeregt werden.
+
+Werden die Konzepte prozeduraler und distributiver Gerechtigkeit zusammen 
+gedacht, lassen sich darüber hinaus weitere konkrete Verbesserungspotentiale 
+identifizieren. Aden, Fährmann und Bosch schlagen Kontrollquittungen vor, 
+um die Transparenz von Personenkontrollen zu verbessern.62 In Verbindung mit 
+Beweiserleichterungen, wie sie das Berliner Landesantidiskriminierungsgesetz 
+(LADG) seit 2020 vorsieht, könnte dies eine Chance sein, mithilfe prozeduraler 
+auch distributive Gerechtigkeit zu erreichen. Nach § 7 LADG wird das Vorliegen 
+einer Diskriminierung vermutet, wenn sie glaubhaft gemacht wird, und es obliegt 
+der Behörde, den Verstoß zu widerlegen.63 Kontrollquittungen könnten auf diese 
+Weise die Beschwerdemacht von rassistischer Diskriminierung Betroffener 
+verbessern, welche häufig und ohne konkreten Verdacht kontrolliert werden. 
+Polizeibeamt:innen wären außerdem stärker in der Begründungspflicht, da es 
+letztlich in der Verantwortung der Institution liegt, zu beweisen, dass sie dis-
+kriminierungsfrei arbeitet. Da keine individuelle, sondern behördliche Haftung 
+vorgesehen ist, liegt der Fokus nicht auf der Frage, ob handelnde Polizist:innen 
+rassistisch motiviert waren, sondern ob die Maßnahme rassistische Wirkung für 
+die Betroffenen entfalte. Insgesamt können Gesetzesänderungen jedoch nur einen 
+Teil der Lösung darstellen, da sich ihre Wirksamkeit erst in ihrer Anwendung 
+zeigt. Ohne ein grundlegendes gesellschaftliches Verständnis von Rassismus in all 
+seinen Dimensionen und damit verbundenes Hinterfragen, wer gesellschaftliche 
+Anerkennung erfährt und wer durch Machtstrukturen exkludiert wird, werden 
+Verfahrensregelungen wenig tatsächliche Veränderung bringen.
+
+61 Vgl. Khan (2020); Belina (2016), S. 143.
+62 Aden et al. (2020).
+63 Vgl. den Beitrag von Ruch in diesem Band.
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 483
+
+Literatur
+
+Abdul-Rahman, L., Espín Grau, H., Klaus, L., & Singelnstein, T. (2020). Rassismus und 
+Diskriminierungserfahrungen im Kontext polizeilicher Gewaltausübung. Ruhr-Uni-
+versität Bochum. doi: https://doi.org/10.13154/294-7738.
+
+Aden, H., Fährmann, J., & Bosch, A. (2020). Intransparente Polizeikontrollen – rechtliche 
+Pflichten und technische Möglichkeiten für mehr Transparenz. In D. Hunold & A. Ruch 
+(Hrsg.), Polizeiarbeit zwischen Praxishandeln und Rechtsordnung (S. 3–22). Wies-
+baden: Springer.
+
+Basu, B. (2016). Die Lüge von der Neutralität. Überlegungen zu Rassismus in Polizei, 
+Justiz und Politik. In Kampagne für Opfer rassistischer Polizeigewalt (Hrsg.), Alltäg-
+licher Ausnahmezustand: Institutioneller Rassismus in deutschen Strafverfolgungsbe-
+hörden (S. 47–84). Münster: Edition Assemblage.
+
+Belina, B. (2016). Der Alltag der Anderen: Racial Profiling in Deutschland? In B. 
+Dollinger & H. Schmidt-Semisch (Hrsg.), Sicherer Alltag? Wiesbaden: Springer Fach-
+medien.
+
+Belina, B., & Wehrheim, J. (2011). „Gefahrengebiete“ – Durch die Abstraktion vom 
+Sozialen zur Reproduktion gesellschaftlicher Strukturen. Soziale Probleme, 23(2), 
+S. 207.
+
+Beyer, J. (2020). „Deutsch“ in Gänsefüßchen. taz. https://taz.de/Krawalle-in-Stuttgart-und-
+Frankfurt/!5695517/. Zugegriffen: 18. Juli 2022.
+
+Birkel, C., Church, D., Hummelsheim-Doss, D., Leitgöb-Guzy, N., & Oberwittler, D. 
+(2019). Der Deutsche Viktimisierungssurvey 2017. Wiesbaden: Bundeskriminalamt.
+
+Blumer, H. (1958). Race prejudice as a sense of group position. Pacific Sociological 
+Review, 1(1), S. 3.
+
+Bobo, L. D. (1999). Prejudice as Group Position: Microfoundations of a Sociological 
+Approach to Racism and Race Relations. Journal of Social Issues, 55(3), S. 445.
+
+Bottoms, A., & Tankebe, J. (2012). Beyond Procedural Justice: A Dialogic Approach to 
+Legitimacy in Criminal Justice. The Journal of Criminal Law & Criminology, 102(1), 
+S. 119.
+
+Bradford, B. (2014). Policing and social identity: Procedural justice, inclusion and 
+cooperation between police and public. Policing and Society, 24(1), S. 22.
+
+Bradford, B., & Jackson, J. (2018). Police legitimacy among immigrants in Europe: 
+Institutional frames and group position. European Journal of Criminology, 15(5), 
+S. 567.
+
+Bradford, B., Murphy, K., & Jackson, J. (2014). Officers as Mirrors. British Journal of 
+Criminology, 54(4), S. 527.
+
+Bradford, B., Milani, J., & Jackson, J. (2016). Identity, Legitimacy and Making Sense of 
+Police Violence. Oxford Legal Studies Research Paper No. 41/2016. doi: https://doi.
+org/10.2139/ssrn.2793818.
+
+Bradford, B., Jackson, J., & Hough, M. (2018). Ethnicity, group position and police 
+legitimacy. In D. Oberwittler & S. Roché (Hrsg.), Police-citizen relations across the 
+world: Comparing sources and contexts of trust and legitimacy. London, New York: 
+Routledge.
+
+
+
+484 L. Abdul-Rahman
+
+Brown, B., & Benedict, W. R. (2002). Perceptions of the police: Past findings, 
+methodological issues, conceptual issues and policy implication. Policing: An Inter-
+national Journal of Police Strategies & Management, 25(3), S. 543.
+
+Bruce-Jones, E. (2015). German policing at the intersection: Race, gender, migrant status 
+and mental health. Race & Class, 56(3), S. 36.
+
+Carter, J. S., & Corra, M. (2016). Racial Resentment and Attitudes Toward the Use of 
+Force by Police: An Over-Time Trend Analysis. Sociological Inquiry, 86(4), S. 492.
+
+Chermak, S., McGarrell, E., & Gruenewald, J. (2006). Media coverage of police 
+misconduct and attitudes toward police. Policing, 29(2), S. 261.
+
+Cremer, H. (2013). „Racial Profiling“ – Menschenrechtswidrige Personenkontrollen 
+nach § 22 Abs. 1a Bundespolizeigesetz. Empfehlungen an den Gesetzgeber, Gerichte 
+und Polizei. Deutsches Institut für Menschenrechte. https://www.institut-fuer-
+menschenrechte.de/fileadmin/user_upload/Publikationen/Studie/Racial_Profiling_
+Menschenrechtswidrige_Personenkontrollen_nach_Bundespolizeigesetz.pdf. 
+Zugegriffen: 18. Juli 2022.
+
+Deutsches Institut für Menschenrechte (2020). Racial Profiling: Bund und Länder 
+müssen polizeiliche Praxis überprüfen: Stellungnahme zum Verbot rassistischer Dis-
+kriminierung. https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/
+Publikationen/Stellungnahmen/Stellungnahme_Racial_Profiling_Bund_Laender_
+muessen_polizeil_Praxis_ueberpruefen.pdf. Zugegriffen: 18. Juli 2022.
+
+Epp, C. R., Maynard-Moody, S., & Haider-Markel, D. P. (2014). Pulled over: How police 
+stops define race and citizenship. Chicago: The University of Chicago Press.
+
+European Union Agency For Fundamental Rights (2017). EU-MIDIS II. Second European 
+Union Minorities and Discrimination Survey. Main Results. https://fra.europa.eu/sites/
+default/files/fra_uploads/fra-2017-eu-midis-ii-main-results_en.pdf. Zugegriffen: 18. Juli 
+2022.
+
+Farren, D., & Hough, M. (2018). Teenagers’ Perceptions of Legitimacy and Preparedness to 
+Break the Law: The Impact of Migrant and Ethnic Minority Status. In S. Roché & M. 
+Hough (Hrsg.), Minority Youth and Social Integration: The ISRD-3 Study in Europe and 
+the US (S. 219–243). Cham: Springer.
+
+Feest, J., & Blankenburg, E. (1972). Die Definitionsmacht der Polizei. Strategien der Straf-
+verfolgung und soziale Selektion. Düsseldorf: Bertelsmann Universitätsverlag.
+
+Gau, J. M. (2013). Consent Searches as a Threat to Procedural Justice and Police 
+Legitimacy. Criminal Justice Policy Review, 24(6), S. 759.
+
+Graziano, L., Schuck, A., & Martin, C. (2010). Police Misconduct, Media Coverage, and 
+Public Perceptions of Racial Profiling: An Experiment. Justice Quarterly, 27(1), S. 52.
+
+Hall, S. (1989). Rassismus als ideologischer Diskurs. Das Argument – Zeitschrift für Philo-
+sophie und Sozialwissenschaften, 31(6), S. 913.
+
+Harkin, D. M. (2015). Police legitimacy, ideology and qualitative methods: A critique of 
+procedural justice theory. Criminology & Criminal Justice, 15(5), S. 594.
+
+Hecker, M. (2019). Vertrauen in der Stadt – Vertrauen in die Stadt: Die Wahrnehmung 
+polizeilicher Legitimität im städtischen Raum. Berlin, Münster: LIT.
+
+Hough, M. (2021). Good Policing: Trust, legitimacy and authority. Bristol: Policy Press.
+Hough, M., Bradford, B., Jackson, J., & Quinton, P. (2016). Does Legitimacy Necessarily 
+
+Tame Power? Some Ethical Issues in Translating Procedural Justice Principles 
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 485
+
+into Justice Policy. LSE Legal Studies Working Paper No. 13/2016. doi: https://doi.
+org/10.2139/ssrn.2783799.
+
+Hough, M., Jackson, J., & Bradford, B. (2013). The drivers of police legitimacy: Some 
+European research. Journal of Policing, Intelligence and Counter Terrorism, 8(2), 
+S. 144.
+
+Hunold, D. (2015). Polizei im Revier: Polizeiliche Handlungspraxis gegenüber Jugend-
+lichen in der multiethnischen Stadt. Berlin: Duncker & Humblot.
+
+Huo, Y. J. (2003). Procedural justice and social regulation across group boundaries: Does 
+subgroup identity undermine relationship-based governance? Personality and Social 
+Psychology Bulletin, 29(3), S. 336.
+
+Jackson, J., & Gau, J. M. (2016). Carving Up Concepts? Differentiating Between Trust and 
+Legitimacy in Public Attitudes Towards Legal Authority. In E. Shockley, T. M. Neal, 
+L. M. PytlikZillig, & B. H. Bornstein (Hrsg.), Interdisciplinary Perspectives on Trust 
+(S. 49–69). Cham: Springer.
+
+Justice, B., & Meares, T. L. (2014). How the criminal justice system educates its citizens. 
+The ANNALS of the American Academy of Political and Social Science, 651(1), S. 159.
+
+Keitzel, S. (2020). Varianzen der Verselbstständigung der Polizei per Gesetz. „Gefährliche 
+Orte“ im bundesweiten Vergleich. Kriminologisches Journal, 52(3), S. 191.
+
+Khan, A. (2020). Kontrolliert wurde nach dem Motto „Mohammed sieht aus wie Ali“ – 
+Junge Frankfurter*innen berichten über Racial Profiling und ihr Erfahrungen mit den 
+Polizeikontrollen am Wochenende. Analyse & Kritik, Sonderheft Polizeiproblem. 
+https://www.akweb.de/politik/polizeikontrollen-und-racial-profiling-junge-frankfurter-
+berichten/. Zugegriffen: 18. Juli 2022.
+
+Leitgöb-Guzy, N. (2019). Vertrauen in die Polizei unter Zugenwanderten/Migrantinnen 
+und Migranten: Ergebnisse des Deutschen Viktimisierungssurvey 2012 und 2017. Vor-
+trag auf der 16. Wissenschaftlichen Tagung der Kriminologischen Gesellschaft, Wien, 
+6. September 2019.
+
+Loader, I. (2006). Policing, Recognition, and Belonging. The ANNALS of the American 
+Academy of Political and Social Science, 605(1), S. 201.
+
+Louw, E., Trabold, L., & Mohrfeldt, J. (2016). Wenn alles anders bleibt – Psychosoziale 
+Folgen rassistischer Polizeigewalt. In Kampagne für Opfer rassistischer Polizeigewalt 
+(Hrsg.), Alltäglicher Ausnahmezustand: Institutioneller Rassismus in deutschen Straf-
+verfolgungsbehörden (S. 29–46). Münster: Edition Assemblage.
+
+Lukes, S. (2005). Power. A Radical View. London: Palgrave Macmillan.
+MacCoun, R. J. (2005). VOICE, CONTROL, AND BELONGING: The Double-Edged 
+
+Sword of Procedural Fairness. Annual Review of Law and Social Science, 1(1), S. 171.
+Mohrfeldt, J. (2016). Die Farbe der (Un-)Schuld: Rassistische Kriminalisierung in der 
+
+deutschen Migrationsgesellschaft. In Kampagne für Opfer rassistischer Polizeigewalt 
+(Hrsg.), Alltäglicher Ausnahmezustand: Institutioneller Rassismus in deutschen Straf-
+verfolgungsbehörden (S. 47–84). Münster: Edition Assemblage.
+
+Murphy, K., & Cherney, A. (2018). Policing marginalized groups in a diverse society. In D. 
+Oberwittler & S. Roché (Hrsg.), Police-citizen relations across the world: Comparing 
+sources and contexts of trust and legitimacy (S. 153–174). London, New York: 
+Routledge.
+
+
+
+486 L. Abdul-Rahman
+
+Murray, K., McVie, S., Farren, D., Herlitz, L., Hough, M., & Norris, P. (2021). Procedural 
+justice, compliance with the law and police stop-and-search: A study of young people in 
+England and Scotland. Policing and Society 31(3), S. 263.
+
+Nägel, C., & Lutter, M. (2021). The 2017 French riots and trust in the police: A 
+quasi-experimental approach. European Journal of Criminology. doi: https://doi.
+org/10.1177/147737082199897.
+
+Natapoff, A. (2006). Underenforcement. Fordham Law Review, 75(3), S. 1715.
+Oberwittler, D., & Roché, S. (2018). Ethnic disparities in police-initiated contacts of 
+
+adolescents and attitudes towards the police in France and Germany. In D. Oberwittler 
+& S. Roché (Hrsg.), Police-citizen relations across the world: Comparing sources and 
+contexts of trust and legitimacy (S. 73–107). London, New York: Routledge.
+
+Oliveira, A., & Murphy, K. (2015). Race, Social Identity, and Perceptions of Police Bias. 
+Race and Justice, 5(3), S. 259.
+
+Piatkowska, S. J. (2015). Immigrants’ confidence in police: Do country-level characteristics 
+matter? International Journal of Comparative and Applied Criminal Justice, 39(1), S. 1.
+
+Radburn, M., Stott, C., Bradford, B., & Robinson, M. (2018). When is policing fair? 
+Groups, identity and judgements of the procedural justice of coercive crowd policing. 
+Policing and Society, 28(6), S. 647.
+
+Roché, S., Schwarzenbach, A., Oberwittler, D., & Maillard, J. de (2018). Adolescents’ 
+divergent ethnic and religious identities and trust in the police: Combining micro- and 
+macro-level determinants in a comparative analysis of France and Germany. In D. 
+Oberwittler & S. Roché (Hrsg.), Police-citizen relations across the world: Comparing 
+sources and contexts of trust and legitimacy (S. 175–195). London, New York: 
+Routledge.
+
+Röder, A., & Muhlau, P. (2012). What Determines the Trust of Immigrants in Criminal 
+Justice Institutions in Europe. European Journal of Criminology, 9(4), S. 370.
+
+Rosenbaum, D. P., Schuck, A. M., Costello, S. K., Hawkins, D. F., & Ring, M. K. (2005). 
+Attitudes Toward the Police: The Effects of Direct and Vicarious Experience. Police 
+Quarterly, 8(3), S. 343.
+
+Roux, G. (2018). Perception of Police Unfairness Amongst Stigmatized Groups: The 
+Impact of Ethnicity, Islamic Affiliation and Neighbourhood. In S. Roché & M. Hough 
+(Hrsg.), Minority Youth and Social Integration: The ISRD-3 Study in Europe and the US 
+(S. 193–217). Cham: Springer.
+
+Saarikkomäki, E., Birk Haller, M., Solhjell, R., Alvesalo-Kuusi, A., Kolind, T., Hunt, 
+G., et al. (2021). Suspected or protected? Perceptions of procedural justice in ethnic 
+minority youth’s descriptions of police relations. Policing and Society, 31(4), S. 386.
+
+Sargeant, E., Antrobus, E., Murphy, K., Bennett, S., & Mazerolle, L. (2016). Social identity 
+and procedural justice in police encounters with the public: Results from a randomised 
+controlled trial. Policing and Society, 26(7), S. 789.
+
+Simon, C. A., Moltz, M. C., & Lovrich, N. P. (2021). Police use of force and nativity: 
+Revisiting standing evidence of public opinion on police use of force. Police Practice 
+and Research, 22(1), S. 1077.
+
+Spivak, G. C. (1985). The Rani of Sirmur: An Essay in Reading the Archives. History and 
+Theory, 24(3), S. 247.
+
+
+
+Vertrauens- und Legitimitätsbrüche: Was bedeutet Rassismus … 487
+
+Staats, C., Capatosto, K., Tenney, L., & Mamo, S. (2017). State of the Science: Implicit 
+Bias Review 2017 Edition. Ohio State University. http://kirwaninstitute.osu.edu/wp-
+content/uploads/2017/11/2017-SOTS-final-draft-02.pdf. Zugegriffen: 18. Juli 2022.
+
+Sunshine, J., & Tyler, T. R. (2003). The role of procedural justice and legitimacy in shaping 
+public support for policing. Law and Society Review, 37(3), S. 513.
+
+Tajfel, H., & Turner, J. C. (1986). The social identity theory of intergroup behavior. In W. 
+G. Austin & S. Worchel (Hrsg.), Psychology of intergroup relations. Chicago: Nelson-
+Hall Publishers.
+
+Tankebe, J. (2009). Public cooperation with the police in Ghana: Does procedural fairness 
+matter? Criminology, 47(4), S. 701.
+
+Thompson, V. E. (2018). „There is no justice, there is just us!“: Ansätze zu einer post-
+kolonialen Kritik der Polizei am Beispiel von Racial Profiling. In D. Loick (Hrsg.), 
+Kritik der Polizei (S. 197–219). Frankfurt, New York: Campus Verlag.
+
+Thurn, R. (2021). Procedural Injustice? Anlassunabhängige Identitätsfestellungen und die 
+Perspektiven Betroffener. Vortrag auf der Nachwuchsforscher:innentagung des Arbeits-
+kreises Empirische Polizeiforschung, 4. März 2021.
+
+Turner, J. C., & Reynolds, K. J. (2010). The story of social identity. In T. Postmers & N. R. 
+Branscombe (Hrsg.), Rediscovering social identity (S. 13–32). New York: Psychology 
+Press, Taylor & Francis.
+
+Tyler, T. R. (1990). Why people obey the law. New Haven, CT: Yale University Press.
+Tyler, T. R. (2004). Enhancing Police Legitimacy. The ANNALS of the American Academy 
+
+of Political and Social Science, 593(1), S. 84.
+Tyler, T. R., & Huo, Y. J. (2002). Trust in the law. New York: Russel Sage.
+Tyler, T. R., & Waksalk, C. J. (2004). Profiling and Police Legitimacy: Procedural Justice, 
+
+Attributions of Motive, and Accpetance of Police Authority. Criminology, 42(2), S. 253.
+Tyler, T. R., Degoey, P., & Smith, H. (1996). Understanding Why the Justice of Group 
+
+Procedures Matters. A Test of the Psychological Dynamics of the Group-Value Model. 
+Journal of Personality and Social Psychology, 70(5), S. 913.
+
+Tyler, T. R., Fagan, J., & Geller, A. (2014). Street Stops and Police Legitimacy: Teachable 
+Moments in Young Urban Men’s Legal Socialization. Journal of Empirical Legal 
+Studies, 11(4), S. 751.
+
+Weber, M. (1964). Wirtschaft und Gesellschaft: Grundriss der verstehenden Soziologie. In 
+J. Winckelmann (Hrsg.), Studienausgabe. Köln, Berlin: Kiepenheuer & Witsch.
+
+Weitzer, R., & Tuch, S. A. (2006). Race and Policing in America: Conflict and Reform. 
+Camebridge: Camebridge University Press.
+
+Laila Abdul-Rahman ist wissenschaftliche Mitarbeiterin am Lehrstuhl für Krimino-
+logie der Ruhr-Universität Bochum. Ihre Forschungsschwerpunkte sind Kriminologie und 
+empirische Polizeiforschung, insbesondere polizeiliche Gewaltanwendungen und Legitimi-
+tät.
+
+
+
+488 L. Abdul-Rahman
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.

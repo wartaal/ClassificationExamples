@@ -1,0 +1,8 @@
+Thrombose bei COVID-19
+
+COVID-19 ist primär eine respiratorische Erkrankung, die durch das „Severe Acute Respiratory Syndrom Coronavirus-2“ (SARS-CoV-2) 
+ausgelöst wird und mit variablen systemischen Komplikationen einhergehen kann. Zu diesen systemischen Komplikationen gehören unter anderem 
+venöse Thrombosen und arterielle Thromboembolien wie auch disseminierte intravaskuläre Koagulopathien. Somit stellt COVID-19 auch eine Erkrankung des Gerinnungssystems dar. 
+Eine neue Art der Koagulopathie tritt nach COVID-19-Impfung mit den Impfstoffen ChAdOx1 (Astra Zeneca) und AD26.COV2 (Johnson & Johnson) 
+auf. Diese thrombotischen Ereignisse einhergehend mit ausgeprägter Thrombozytopenie werden als Vakzin-induzierte thrombotische Thrombopenie 
+(VITT) bezeichnet und sind vergesellschaftet mit dem Auftreten von Thrombosen an untypischen Lokalisationen (z. B. Sinusvenenthrombose). Leitlinien und Empfehlungen zur schnellen Diagnosestellung wie auch ein Behandlungsalgorithmus wurden dahingehend entwickelt

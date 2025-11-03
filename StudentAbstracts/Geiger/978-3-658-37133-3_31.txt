@@ -1,0 +1,1050 @@
+﻿Organisierte (In-)Differenz. Zur 
+Bedeutung von Diversität und 
+Repräsentation für die Polizei
+
+Sabrina Ellebrecht
+
+Zusammenfassung
+
+Unter Rückgriff auf die Theorie repräsentativer Bürokratie skizziert der Bei-
+trag, inwiefern es plausibel ist, dass die Anwesenheit von mehr Polizist:innen 
+mit Migrationshintergrund Diskriminierungsrisiken im Innen- und 
+Außenverhältnis der Polizei reduziert. Dazu werden empirische Ergebnisse 
+zum Umgang der Polizeien mit Diversität in der Personalauswahl und der 
+Teamarbeit diskutiert. In beiden Bereichen zeigt sich ein indifferenter Umgang 
+mit Verschiedenheit: Differenzen werden nicht ausgleichend oder fördernd 
+berücksichtigt, vielmehr wird ihnen im Sinne einer allgemeinen Gleich-
+behandlung mit Standardisierung und Loyalitätsanforderungen begegnet. Ein 
+solches, differenzblindes Verständnis von Diversität verstellt den Blick auf 
+Diskriminierungsrisiken im Innen- und Außenverhältnis der Polizei und über-
+lässt ihre Vielfalt einzelnen Diversitätsträgern.
+
+Schlüsselwörter
+
+Diversität · Interkulturelle Öffnung · Repräsentative Bürokratie · Unparteiliche 
+Polizeiarbeit · Migrationshintergrund
+
+S. Ellebrecht (*) 
+Centre for Security and Society, Albert-Ludwigs-Universität Freiburg,  
+Freiburg, Deutschland
+E-Mail: sabrina.ellebrecht@css.uni-freiburg.de
+
+© Der/die Autor(en) 2022 669
+D. Hunold und T. Singelnstein (Hrsg.), Rassismus in der Polizei, 
+https://doi.org/10.1007/978-3-658-37133-3_31
+
+
+
+670 S. Ellebrecht
+
+1  Einleitung
+
+Diversität wird oftmals als ein Baustein gegen Rassismus und Diskriminierung 
+in der und durch die Polizei angeführt. Auch die Empfehlung des NSU-
+Untersuchungsausschusses1 sowie diversitätspolitische Zielvorgaben vieler 
+Landesregierungen folgen dieser Stoßrichtung. Dabei kommt die Annahme 
+zum Tragen, dass eine Diversifizierung des polizeilichen Personals – gedacht 
+als „mehr Migrant:innen in der Polizei“ – dazu führe, dass die Polizei sowohl 
+in ihrem Außen- als auch in ihrem Innenverhältnis weniger anfällig für dis-
+kriminierende Einstellungen und Handlungsmuster sei. „Denn“, so heißt es in 
+dem Bericht des NSU-Untersuchungsausschuss zur Begründung, „Vielfalt steht 
+einem homogenen Binnenklima entgegen und fördert innovatives und flexibles 
+Organisationshandeln, das den NSU-Ermittlungen offensichtlich gefehlt hat.“2 
+Gleichzeitig wird von einem Zugewinn an Legitimität, Akzeptanz und Effektivität 
+einer Polizei ausgegangen, die in ihrer personellen Zusammensetzung die Gesell-
+schaft abbildet. Der vorliegende Beitrag geht den theoretisch-konzeptionellen 
+Hintergründen dieser Annahmen nach und trägt empirische Befunde3 aus der 
+Organisations- und Polizeiforschung zusammen, die eine kritische Auseinander-
+setzung mit diesen Annahmen ermöglichen.
+
+Zwei Gegenstandsbereichen gilt dabei besondere Aufmerksamkeit: (1.) im 
+Bereich Personal geht es um das Fördern von Vielfalt einerseits und das Erkennen 
+und Verringern von Zugangshürden und Benachteiligungen für bestehende 
+Minderheiten andererseits; (2.) im Bereich Performanz der Polizeiarbeit geht es 
+um die Frage, ob und wie sich eine Diversifizierung des polizeilichen Personals 
+(a) auf die Zusammenarbeit im Team und (b) auf die Interaktion mit unterschied-
+lichen Bevölkerungsgruppen auswirkt. Von besonderem Interesse für diesen Bei-
+trag sind Hinweise auf die Bedeutung von Diversität für eine Polizei, die in ihrem 
+Außen- und Innenverhältnis sensibel gegenüber Diskriminierungen und Rassis-
+mus ist. Zunächst aber werden die Begriffe „Diversität“ und „Repräsentation“ in 
+ihrer Bedeutung für die Polizei näher bestimmt.
+
+1 BT-Drs. 17/14600. Auf den S. 862, 958, 978 wird empfohlen, aktiv mehr Menschen mit 
+Migrationshintergrund für den Polizeidienst zu gewinnen.
+2 BT-Drs. 17/14600, S. 1036.
+3 Die unterschiedlichen Gegenstandsbereiche, die sich für die Polizei zum Thema „Diversi-
+tät“ anschließen, werden exemplarisch beleuchtet. Ein Anspruch auf Vollständigkeit besteht 
+nicht.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 671
+
+2 A nnäherung an die Begriffe Repräsentation und 
+Diversität
+
+Keine Metapher wird zum Themenbereich „Diversität und Polizei“ wohl so aus-
+dauernd angeführt, wie die Beschreibung der Polizei als Spiegelbild der Gesell-
+schaft. Dabei wird die Metapher mal relativierend, mal integrationspolitisch und 
+mal abgrenzend formuliert.4 Während die Werbeplakate eher das Familienalbum, 
+d. h. die Schauseite der Polizei präsentieren, kommt in der Spiegelbildmetapher 
+die Idee der Repräsentation zum Ausdruck. Das Spiegelbild thematisiert einen 
+Abgleich zwischen gesellschaftlichen Verhältnissen und Polizei, ein wechsel-
+seitiges Reflektieren und Sich-aufeinander-beziehen.
+
+2.1  Repräsentation und Polizei(-arbeit)
+
+Repräsentation ist ein Schlüsselkonzept in Demokratien. Gewählte (Volks-)
+Vertreter:innen bilden Mehrheiten, sie haben ein Mandat zur Interessenver-
+tretung. Mit Blick auf die Polizei ist das Argument der Repräsentation nur in 
+Ableitung auf ihre demokratische Verfasstheit bezogen, denn die Polizei ist 
+keine Interessenvertretung und soll dies auch explizit nicht sein. Vielmehr „muss 
+polizeiliche Arbeit […] gegenüber allen Menschen gleich sein“, wobei Gleich-
+behandlung nicht durch die Perspektive der Betroffenen bewertet wird, sondern 
+von „einer allgemeinen und verbindlichen Gerechtigkeitsvorstellung“ abhängig 
+ist.5 Polizist:innen repräsentieren das staatliche Gewaltmonopol; sie sind „die 
+exekutive Seite des Rechtssystems“ und damit beauftragt, Verstöße gegen die 
+Rechtsordnung zu ahnden und abzuwehren.6 Dafür sind ihnen die legitimen 
+Gewaltmittel im Staat anvertraut. Es ist diese Gewaltlizenz, die die demo-
+graphische Zusammensetzung des polizeilichen Personals relevant werden lässt. 
+Denn wenn die Polizei sich ausschließlich aus einer gesellschaftlichen Gruppe, 
+einem Milieu oder einer Klasse rekrutierte, wären Zweifel an ihrer unparteilichen 
+Anwendung der Gewaltmittel wahrscheinlich und das Risiko des Machtmiss-
+brauchs erhöht. Wie sollte also die Zusammensetzung des polizeilichen Personals 
+
+4 Vgl. Behr (2016); Ellebrecht und Wisser (2020).
+5 Behr (2016), S. 3 (Hervorhebung im Original); vgl. auch Behr (2010), S. 148.
+6 Jasch (2019), S. 227.
+
+
+
+672 S. Ellebrecht
+
+sein, damit soziale Ungleichheit nicht zu Ungleichbehandlung durch den Staat 
+und seine Vertreter:innen führt?
+
+Hier setzen Theorien repräsentativer Bürokratie an.7 Diese gehen davon aus, 
+dass Verwaltungs- und Polizeimitarbeiter:innen, die zu einer unterrepräsentierten 
+oder diskriminierten Gruppe gehören, eine unmittelbare Anerkennung der 
+Benachteiligungen und Schwierigkeiten von Minderheiten mit in ihre Arbeits-
+weise einbringen. Der Grund wird in einer sozialen und empathischen Nähe 
+oder gar gemeinsamen sozialen Identität gesehen, die mit eigener Betroffenheit, 
+ähnlichen Erfahrungen oder kulturellem Wissen begründet wird. Eine konzise 
+Beschreibung dieser Grundannahme der Theorie repräsentativer Bürokratie 
+liefern bspw. Andrews et al.:
+
+„The theory of representative bureaucracy maintains that the staff employed in a 
+public organization will share the values and beliefs of the demographic group from 
+which they are drawn and that this ‘value congruence’ will prompt them to exercise 
+discretion in favour of outcomes beneficial to the represented group.“8
+
+Nach dieser Theorie, erhält Polizist:innen, die sich einer Minderheitengruppe 
+zurechnen oder denen eine solche zugeschrieben wird, neben der Rolle der 
+Funktionsbeamt:innen (als Vollzugsbeamter:in, Ermittler:in, Einsatzleiter:in – 
+je nach Verwendung) eine „minority representative role“9, d. h. die Rolle 
+von Fürsprecher:innen. Dies wird nicht im Sinne einer aktiven Parteilich-
+keit gedacht, sondern im Sinne einer ausgleichenden, berücksichtigenden Ein-
+schätzung in Situationen des polizeilichen Ermessens.10 Die Möglichkeit dieser 
+
+7 Der Begriff „representative bureaucracy“ wurde von Kingsley (1944) geprägt und seit-
+her insbesondere im angelsächsischen Raum weiterentwickelt. Insbesondere die Unter-
+scheidung von Mosher (1968) zwischen passiver und aktiver Repräsentation hat etliche 
+Studien zu einem Zusammenhang zwischen personaler Zusammensetzung und Ver-
+waltungsleistung angeregt. Dabei liegt der Schwerpunkt auf race und ethnisch-kulturellen 
+Minderheiten. In der deutschsprachigen Literatur wird die Theorie bisher nur selten 
+referenziert, so jedoch bei Seibel (2016), S. 77, der die repräsentative Zusammensetzung 
+von Verwaltung in der Demokratie als eine ihrer „Funktionsvoraussetzung“ sieht.
+8 Andrews et al. (2013), S. 4.
+9 Sowa und Selden (2003).
+10 Damit sind hier Situationen gemeint, in denen Polizist:innen entscheiden können, ob und 
+wie sie eingreifen (Opportunitätsprinzip).
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 673
+
+ ausgleichenden, diskriminierungssensiblen Polizeiarbeit wird nach dieser Theorie 
+dadurch erhöht, dass soziales Verstehen das polizeiliche Ermessen informiert.
+
+Gleichzeitig kann dieses sozial-kulturelle Verstehen als Korrektiv der von 
+Loick beschriebenen differenziellen Operationslogik der Polizei gedacht werden, 
+nach der unterschiedliche Bevölkerungsgruppen sehr unterschiedlichen Polizei-
+kontakt im Alltag haben, von ihr verschieden adressiert werden und sie ent-
+sprechend anders wahrnehmen. Die differenzielle Operationslogik geht häufig 
+zu Lasten von Minderheiten und vulnerablen Gruppen.11 In ihrer differenziellen 
+Operationslogik ist die Polizeiarbeit also per se anfällig für vorverurteilende, 
+stereotype Wahrnehmungen und benachteiligende Praktiken. Vor diesem Hinter-
+grund ist es plausibel, dass soziale Nähe und soziales Verstehen dazu bei-
+tragen können, Ungleichbehandlung durch die Polizei abzumildern und zu 
+„korrigieren“. Die Minderheitenvertreter würden die differenzielle Operations-
+logik gewissermaßen zurück-korrigieren. Ihre Anwesenheit verhindert, dass eine 
+benachteiligende Behandlung durch die Polizei für deprivierte Bevölkerungs-
+gruppen wahrscheinlich wird. Die Rolle des Fürsprechers fordert den Grundsatz 
+unparteilicher Polizeiarbeit deutlich heraus. Denn sozial-kulturell informiertes 
+Ermessen kann auch als Ungleichbehandlung, Bevorzugung und positive Dis-
+kriminierung angesehen werden.12
+
+Das ausgleichende Moment einer repräsentativ zusammengesetzten Polizei 
+ist darauf bezogen, dass sozial-kulturelle Ungleichheiten nicht dadurch polizei-
+lich relevant werden, dass in den patrouillierenden oder ermittelnden Teams das 
+notwendige soziale oder kulturelle Wissen fehlt. Es ist zu diskutieren, ob solche 
+Kompetenzen gelernt und trainiert werden können, oder ob sie teilweise oder 
+gänzlich an die Identität und Sozialisation von Personen geknüpft sind. Insgesamt 
+wird jedoch davon ausgegangen, dass soziale Repräsentation – also die Idee, dass 
+eine Polizei, die der Gesellschaft entspricht, deren legitime Gewaltmittel ihr über-
+tragen wurden – zunächst einmal das Zutrauen in eine angemessene Polizeiarbeit 
+erhöht. Umgekehrt gerät die Polizei unter Legitimationsdruck, wenn bestimmte 
+Gruppen in ihren Reihen in einem solchen Maße unterrepräsentiert sind, dass der 
+polizeiliche Blick sie als fremd, störend oder gar gefährlich definiert.
+
+11 Loick (2018), S. 9–11.
+12 Für die Polizeiarbeit in den USA bspw. stellen Gilad und Dahan (2021), S. 152 fest, dass 
+„minority bureaucrats’ preferential treatment of their group members may be denounced as 
+biased, unprofessional or undermining the attainment of organizational goals“.
+
+
+
+674 S. Ellebrecht
+
+2.2  Diversität und Polizei(-arbeit)
+
+Die ausgleichende Programmatik der Theorie repräsentativer Bürokratie ist dem 
+Begriff (kulturell-ethnischer) Diversität immanent.13 Diversität gilt als Bekennt-
+nis zu Maßnahmen, die vergangene Benachteiligungen von Gruppen aus-
+gleichen und künftige verhindern.14 Dabei impliziert allein der Begriff Diversität 
+nicht, welche soziale Gruppe angesprochen ist. Diversitätsmerkmale beziehen 
+sich auf jene Zuschreibungen oder Identitäten, mit denen eine gesellschaft-
+liche Benachteiligung historisch oder aktuell verbunden ist.15 In den USA ist 
+
+13 Die ausgleichende Programmatik lässt sich sowohl für die englische diversity 
+nachzeichnen als auch für die deutsche „Diversität“. In den USA stellt die Rassen-
+diskriminierung das historische Andere dar, gegen das Maßnahmen der Affirmative 
+Action und später dann Diversity Management eingesetzt wurden. Für die „Diversität“ 
+kommt Toepfer zu dem Schluss, dass diese ein Begriff sei, „der aus dem menschlichen 
+Erschrecken über sich selbst hervorgegangen ist“ (2019), S. 14. Nach Rixen gipfelte die 
+verweigerte Anerkennung der Gleichwürdigkeit der Menschen, die es „trotz aller tatsäch-
+lichen (oder unterstellten) Unterschiede“ zu achten gelte, in den Massenmorden der NS-
+Zeit (2021), S. 12. Aus dieser Erfahrung heraus impliziere Art. 1 Abs. 1 GG deshalb einen 
+wertschätzenden Umgang mit personaler Identität und Unterschieden. Er schreibt: „Die 
+Würde des Menschen ist ein singularisches Synonym für die Würde der Menschen in all 
+ihrer Verschiedenheit, also Diversität“ (Rixen 2021), S. 13.
+14 Diese Perspektive wird discrimination-and-fairness-Perspektive genannt. Von ihr 
+unterschieden wird seit Thomas und Ely (1996) die sogenannte access-and-legitimacy- 
+Perspektive. Diversität sei das Mittel zur „Erschließung von Märkten, indem Repräsentanten 
+diverser Kundenstämme entsprechend in der Belegschaft vertreten sind“ (Buengeler und 
+Homan 2016), S. 4. Ist in erster Perspektive das AGG der Referenzanker (Diversität als 
+equity case), ist in zweiter Perspektive Diversität gut fürs Geschäft (Diversität als business 
+case). Auch für die Polizei wurden funktional-instrumentelle Perspektiven auf Diversi-
+tät von diskriminierungssensiblen und integrationsorientierten Perspektiven unterschieden. 
+Behr (2016), S. 9–11 bspw. unterscheidet funktionale Deutungen polizeitaktischer Art 
+– Minderheitenvertreter werden als „Milieukenner“ genutzt „um mit der problematischen 
+Klientel besser umgehen zu können“ – von jenen demographisch-kompensatorischer Art – 
+die Polizei öffnet sich für Minderheitenvertreter, um Personalengpässe zu schließen. Ihnen 
+stellt er integrations- und institutionentheoretische Lesarten gegenüber, in denen Akzeptanz, 
+Vertrauen und Legitimität als Grund für eine Diversifizierung des Personals angeführt 
+werden.
+15 Das AGG formuliert in § 1 als Ziel, „Benachteiligungen […] zu verhindern oder 
+zu beseitigen“, die „aus Gründen der Rasse oder wegen der ethnischen Herkunft, des 
+Geschlechts, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der 
+sexuellen Identität“ entstehen.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 675
+
+das entsprechende Konzept diversity eng verbunden „mit der Integration von 
+Minderheiten und dem Kampf gegen Rassismus“16. In Europa wird Diversi-
+tät insbesondere mit kulturellen Unterschieden und der Chiffre Migration 
+assoziiert.17 Dabei steht der Begriff in den letzten Jahren mehr und mehr für ein 
+Lob der Vielfalt und die Idee der inklusiven (anti-exklusiven) Gesellschaft, die 
+nicht nur nichtdiskriminierend ist, sondern anerkennend. Diversität gilt gar als 
+„Pathosformel“18. Kritiker mahnen eine Verschleierung von Problemen sozialer 
+Ungleichheit an, die entlang der Achsen race, class und gender fokussiert 
+werden. Sie fordern ein Verständnis von reflexiver oder kritischer Diversi-
+tät, durch das Prozesse der Diskriminierung und Exklusion sowie hegemoniale 
+Positionen – also die Hürden von Chancengleichheit – und weniger die vermeint-
+lichen Potentiale von Vielfalt fokussiert werden.19
+
+In Bezug auf die Polizei wird Diversität einerseits als Synonym für Vielfalt 
+genutzt, und zwar dann, wenn es um die Zusammensetzung des Personals geht. 
+Diversität erscheint dann als empirischer Befund, den die Behörden ausweisen 
+können. Andererseits transportiert der Diversitätsbegriff eine gesellschaft-
+liche Anforderung an ein bestimmtes Organisationsklima, in dem Individualität 
+und Unterschiedlichkeit eine hohe Wertschätzung erfahren. Dieses, so die ein-
+schlägigen Analysen, stehe der Organisationskultur der Polizei fundamental ent-
+gegen.20 „Während eine Organisation mit Diversitätskultur die individuellen 
+Erwartungen und Fähigkeiten ihrer Mitglieder akzeptiert und fördert, arbeitet die 
+Polizeiorganisation hingegen mit dem Grundsatz, alle ihre Mitglieder gleich zu 
+behandeln.“21 Die Gleichbehandlung übersetzt sich dabei in eine Assimilations-
+kultur für Minderheitenvertreter:innen, die als „Fremde“, „Andere“ oder 
+
+16 Müller und Zifonun (2016), S. 2; vgl. Wood (2003); Kelly und Dobbin (1998); Vertovec 
+(2012). Im Zuge des Verbots der Rassendiskriminierung und der Bürgerrechtsbewegung 
+setzten in den 1970er Jahren US-amerikanische Universitäten auf fördernde Maßnahme um 
+die Nachteile (zuvor) benachteiligter ethnischer Minderheiten auszugleichen. Wie Kelly 
+und Dobbin gezeigt haben, erhielt die Verwendung von diversity erst in Ablösung der auf 
+Minderheitenrechte verweisenden Maßnahmen von Affirmative Action (AA) Konjunktur.
+17 Vertovec (2012), S. 296; Titley und Lentin (2008).
+18 Toepfer (2019), S. 14.
+19 Vgl. zur Kritik Michaels (2016); Fraser (2017); Bührmann (2020); Vertovec (2012), 
+S. 300 f.
+20 Vgl. insbes. Klimke (2010); Behr (2006, 2010, 2016); Hunold (2008).
+21 Klimke (2020).
+
+
+
+676 S. Ellebrecht
+
+ mittlerweile als „Diversitätsträger“22 in die Polizei integriert werden. Behr 
+beschreibt das Verhältnis der Polizei zu Diversität als ein „gebrochenes“23, 
+denn das für sie „dominante Prinzip der Gleichbehandlung“24 mache durch 
+Einheitslaufbahn25, Generalverwendbarkeit26 und Homogenitätskultur27 aus 
+Diversitätsträgern schlicht Polizisten. Während Klimke sieht, dass der Gleich-
+behandlungsgrundsatz sowohl Integrationschancen als auch Ausschlüsse 
+erzeugt28, verbindet Behr diese Spannung mit einer Grundsatzentscheidung: 
+„Entweder will man Vielfalt, dann muss man die Fixierung auf die Gleich-
+behandlung aufgeben oder man will Gleichbehandlung, dann muss man Abschied 
+vom Diversitätsideal nehmen.“29 Schließlich bergen, aus der Perspektive der 
+Polizeiorganisation, Diversität und die Berücksichtigung sozial-kultureller Unter-
+schiede das Risiko einer Relativierung der allgemeinen Gleichbehandlung. Das 
+wird vor allem in dem Hinweis Behrs deutlich, dass „Gleichbehandlung […] 
+nicht abhängig von der Perspektive des Betroffenen“ sei, da die Polizei sich „ja 
+geradezu den Vorwurf von Ungleichbehandlung, Willkür, Intransparenz ersparen“ 
+wolle und müsse.30
+
+Jedoch, aus Sicht des Anti-Diskriminierungsrechts fordert auch Diversität 
+genau jene Gleichbehandlung durch Recht, Verwaltung und eben auch Polizei ein, 
+
+22 Der Begriff „Diversitätsträger“ (carriers of diversity) geht auf Thériault (2004) zurück. 
+In Anschluss an Max Weber formuliert sie, dass die Träger ethnisch-kultureller Merkmale 
+eine vermittelnde Aufgabe in beide Richtungen haben, also in die Organisation und in 
+die Gesellschaft. Vertovec (2012), S. 299 f. weist darüber hinaus darauf hin, dass „die 
+Diversen“ (the diverse) stets die Minderheit ggü. den „Nicht-Diversen“ (the non-diverse) 
+sind. Diversitätsträger sind also immer auch Minderheitenvertreter. Der Begriff wird in 
+diesem Beitrag im generischen Maskulin übernommen; eine sprachliche Anpassung würde 
+m. E. dem Begriff die zusätzliche Möglichkeit nehmen, auf Geschlecht als Grund für eine 
+minortäre Stellung in Organisationen hinzuweisen.
+23 Behr (2016, S. 21).
+24 Behr (2016), S. 21. Schon in seiner Analyse der Polizeikultur setzt Behr Diversität in 
+Opposition zum Organisationsprinzip der Polizei, vgl. das Kapitel „Gleichbehandlung 
+versus Diversität in der Polizei“ (2006), S. 179–181. Später spricht Behr gar vom Gleich-
+behandlungsdogma (2010), S. 149.
+25 Behr (2016), S. 14.
+26 Behr (2016), S. 14.
+27 Behr (2016), S. 4.
+28 Klimke (2020).
+29 Behr (2006), S. 179–181, (2016), S. 21.
+30 Behr (2016), S. 3.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 677
+
+die die Organisation durch ein zu viel an Diversität in den eigenen Reihen ver-
+unsichert sieht.
+
+3  Personal
+
+Die Interkulturelle Öffnung der Polizei wird häufig anhand der Anzahl an 
+Diversitätsträgern in der Organisation bestimmt. Diversität erscheint dann als 
+empirischer Befund.
+
+3.1  „Migrationshintergrund“ und der Befund der 
+Vielfalt
+
+Da der Zugang zum Polizeidienst mit Ausnahme der seit 1993 existierenden 
+Regelung des „dringenden dienstlichen Bedürfnisses“ in § 7 Abs. 3 BBG an die 
+deutsche Staatsangehörigkeit geknüpft ist, spielt der Migrationshintergrund (wie 
+auch das Geschlecht) beim Zugang zu diesem öffentlichen Amt explizit keine 
+Rolle. Ein zugeschriebener oder angegebener Migrationshintergrund ist für das 
+Einstellungsverfahren bei der Polizei formal irrelevant. Es existiert also eine 
+deutliche Spannung zwischen der beamtenrechtlichen Nicht-Relevanz dieses 
+sensiblen personenbezogenen Merkmals und der gesellschaftspolitischen Nach-
+frage zum Befund der Vielfalt in der Polizei.
+
+Vielfalt in der Polizei wird seit ca. 15 Jahren entlang des Anteils an 
+Polizist:innen mit Migrationshintergrund in der politischen Öffentlichkeit 
+thematisiert. In den 1990er Jahren wurde die Interkulturelle Öffnung der Polizei 
+zunächst anhand der Ausländer:innen in der Polizei ausgewiesen, die gemäß der 
+Ausnahmeregelung eingestellt wurden.31 Spätestens seit den Rechercheberichten 
+
+31 In einer Untersuchung hat Brandenburg die „Spitzenposition“ mit 38 Ausländer:innen 
+von insgesamt 400 Auszubildenden bei der Polizei; in den meisten Bundesländern waren 
+es jedoch weniger als fünf Ausländer:innen (Maurer 1995), S. 116–118. Dudek verwendet 
+aus „Mangel an offiziellen Informationen“ eine chronologisch aufbereitete Wiedergabe 
+der Daten aus den Printmedien (2009), S. 18–33. Sie beginnt mit den Jahren 1978 als 
+Frauen erstmals für die Ausbildung in der Schutzpolizei zugelassen wurden und 1979 als 
+das Thema „Ausländer in den Polizeidienst“ präsent wurde. Sie dokumtentiert bis 2006 
+unterschiedliche Einstellungszahlen sowie die Sicht der Presse auf die Diversifizierung der 
+Polizei. Vgl. auch Regge (2013) für Bremen.
+
+
+
+678 S. Ellebrecht
+
+des Mediendienstes Integration32 ist es gängig, zum Thema Vielfalt den Anteil 
+an Polizist:innen mit „Migrationshintergrund“ zu erfragen.33 In den Berichten 
+setzt der Mediendienst Integration den prozentualen Anteilen der Bewerbungen 
+und Neueinstellungen von Menschen mit Migrationshintergrund ins Verhält-
+nis zum Bevölkerungsanteil mit Migrationshintergrund im jeweiligen Bundes-
+land. Dadurch wird angenähert, ob Menschen mit Migrationshintergrund in den 
+Polizeien unterrepräsentiert34 sind. Aus den vier Berichten die seit 2014 ver-
+öffentlicht wurden, lassen sich folgende Punkte zusammenfassen:
+
+• In 2008 erfassen mit Berlin, Hamburg und NRW die ersten Behörden die 
+Variable Migrationshintergrund.35
+
+• Menschen mit Migrationshintergrund sind bei den Neueinstellungen in den 
+Polizeidienst in fast allen Fällen – d. h. in allen vier Berichten und bei den 
+auskunftsgebenden Behörden – unterrepräsentiert im Vergleich zum Anteil an 
+der Bevölkerung. Ausnahmen sind seit 2016 Berlin und Sachsen-Anhalt.
+
+• Insgesamt steigt im dokumentierten Zeitraum die Anzahl der Behörden, die 
+Angaben dazu machen, wie viele Bewerber:innen und Neueingestellte einen 
+Migrationshintergrund angeben.
+
+32 Der Mediendienst Integration ist eine Informations-Plattform für Journalist:innen. Er 
+stellt Zahlen, Fakten und Hintergrundberichte zu den Themen Flucht, Migration und Dis-
+kriminierung zur Verfügung.
+33 Die Berichte stellen die Selbstauskunft der 18 Behörden zu folgenden Fragen dar: 
+erstens, ob Menschen mit Migrationshintergrund von Werbemaßnahmen der Polizeien 
+adressiert werden; zweitens, welche Behörden die Variable Migrationshintergrund mit 
+Blick auf Nachwuchs- und Personalbestand erfassen; und drittens – und diese Ergebnisse 
+stehen im Fokus – wie viele Bewerber:innen und Neueinstellungen mit Migrationshinter-
+grund es anteilig pro Jahr gab.
+34 Der Anteile an der Gesamtbevölkerung ist keine Standard-Referenzgröße, wenn es um 
+die Frage der Unterrepräsentation geht. Bei der Integration von Frauen in die Bundeswehr 
+bspw. wurde nach kontroversen Diskussionen festgelegt, „dass Frauen im Truppendienst 
+als unterrepräsentiert gelten, wenn ihr Anteil unter 15 Prozent liegt“ (Apelt et al. 2020), 
+S. 447.
+35 Seit 2005 wird der Migrationshintergrund als abhängige Variable in der repräsentativen 
+Bevölkerungsstatistik im Rahmen des Mikrozensus mittels 27 Einzelfragen erfasst. Vgl. 
+Will (2016).
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 679
+
+• Der Trend in den Behörden geht nicht allein dahin, den Migrationshintergrund 
+neu zu erfassen. Einige Länder stellen die Erfassung (oder das Reporting) 
+auch ein.36
+
+• Da einige Behörden den Migrationshintergrund bereits mit der Online-
+Bewerbung abfragen, andere hingegen erst zu Beginn der Ausbildung oder 
+des Studiums diese freiwillige Selbstauskunft einholen, sind die Daten zum 
+einen nicht vergleichbar, und ermöglichen zum anderen nur teilweise die 
+Berechnung von Erfolgsquoten.37
+
+• In 2019 geben alle Behörden mit Ausnahme von Thüringen und Sachsen 
+an, spezielle Anwerbestrategien für Menschen mit Migrationshintergrund 
+implementiert haben. Gleichzeitig findet ein Monitoring, in dem Sinne, das über-
+prüft wird, ob die angeworbene neue Zielgruppe auch in der Polizei landet und 
+nicht durch nicht-intendierte Effekte wieder herausselektiert wird, nicht statt.
+
+Insgesamt verdeutlichen die Berichte, dass die Behörden sich zwar mittlerweile 
+zur Variable „Migrationshintergrund“ verhalten, dass die Datenerfassung der 
+Behörden aber meistens keine Grundlage zur Bewertung eines chancengleichen 
+Zugangs generiert. Darüber hinaus ist „Migrationshintergrund“ eine ambivalente 
+Kategorie für Vielfalt, auch weil sie eine binäre Beschreibung nicht über-
+windet. Als soziales Label werden unterschiedliche Zuwanderungsgeschichten, 
+Haushaltssprachen, Förderbedarfe und Nationalitäten mit ihr assoziiert, deren 
+Gemeinsamkeit sich nicht aus dieser Gruppe heraus erschließt, sondern vermeint-
+lich in einer nicht schon immer bestehenden deutschen Staatsbürgerschaft oder 
+diffus zur Chiffre Migration liegt. Supik kritisiert in diesem Zusammenhang, dass 
+das Label in gewisser Weise die „Integrationsleistung“ der Staatsbürgerschaft 
+relativiere und als „rassifizierendes Abgrenzungskriterium“ erscheint.38 Auch 
+
+36 Für den ersten Bericht von 2014 liefern sechs Länder Daten zum „Anteil von 
+Menschen aus Einwandererfamilien unter den Bewerbern und Neueinstellungen […] und 
+zwar Hamburg, Berlin, Hessen, Niedersachsen, Nordrhein-Westfalen und Schleswig-
+Holstein“ (Mediendienst Integration 2014), S. 3. In 2021 liegen dem Mediendienst 
+Integration Angaben der Bundespolizei sowie aus neun Bundesländern vor, hinzu-
+gekommen sind Baden-Württemberg, Rheinland-Pfalz, Sachsen-Anhalt und das Saarland, 
+wobei Schleswig-Holstein keine Daten mehr übermittelt. Seit 2018 erfasst Bremen den 
+Migrationshintergrund bei Bewerbung und Neueinstellung nicht mehr.
+37 Diese Möglichkeit besteht für Berlin, Bremen, Hamburg, NRW und Niedersachsen, da 
+in diesen Ländern „Migrationshintergrund“ als Variable zu Beginn der Bewerbung und zu 
+Beginn der Ausbildung erfasst wird.
+38 Supik (2014).
+
+
+
+680 S. Ellebrecht
+
+birgt es das Risiko von Stigmatisierung und Othering. Vor diesem Hintergrund 
+ist der Befund der Vielfalt auch eine Markierung des Anderen, eine ethnische 
+Differenzierung die eine ambivalente Wirkung entfaltet.
+
+3.2  „Migrationshintergrund“ und chancengleicher 
+Zugang
+
+Zwar ist die Angabe „Migrationshintergrund“ beamtenrechtlich nicht relevant 
+für den Zugang zum Polizeidienst, dennoch – und das gilt es zu unterstreichen – 
+deuten statistische Analysen darauf hin, dass es einen Zusammenhang zwischen 
+dem erfassten „Migrationshintergrund“ eines Bewerbers oder einer Bewerberin 
+und dem Abschneiden im polizeilichen Auswahlverfahren gibt. Für die Länder 
+Berlin, Bremen, Hamburg, NRW und Niedersachsen zeigt das prozentuale 
+Chancenverhältnis39 von Bewerber:innen mit und ohne Migrationshintergrund, 
+dass jene mit Migrationshintergrund weniger erfolgreich in den Auswahlver-
+fahren sind.40 Zum anderen konnte eine Studie von Stumpf und Kollegen zeigen, 
+dass auch unter Kontrolle anderer Variablen wie Geschlecht, Alter, Schulnoten 
+und Art des Schulabschlusses, die Variable Migrationshintergrund schlechteres 
+Abschneiden in den Auswahlverfahren signifikant erklärt. Die Autoren unter-
+streichen, dass „Leistungsunterschiede im Auswahlverfahren zwischen 
+Bewerbern mit versus ohne Migrationshintergrund […] nicht einfach durch den 
+Verweis auf einen niedrigeren Bildungsabschluss […] zu erklären“41 sind. Für 
+Bewerber:innen mit Migrationshintergrund werden also Zugangshürden wirksam, 
+die für jene ohne Migrationshintergrund nicht ins Gewicht fallen.42
+
+39 Eine Benachteiligung wird angenommen, wenn das Chancenverhältnis einer Minder-
+heitengruppe im Vergleich zur Mehrheitsgruppe niedriger als 80 % ist (4/5-Regel).
+40 Eigene Berechnungen nach Mediendienst Integration (2019, 2021).
+41 Stumpf et al. (2016), S. 20.
+42 Für die französischen Polizeieinheiten in Lille und Marseille konnte Duprez (2010) 
+zeigen, dass die ethnische Zugehörigkeit mit schulischer Qualifikation und Geschlecht in 
+einer komplexen Wechselwirkung steht. Sie überprüfte Hypothesen der Benachteiligung für 
+die einzelnen Stationen des Auswahlverfahrens. Insgesamt stellte sich die Wahrscheinlich-
+keit abgelehnt zu werden für maghrebinische männliche Bewerber dreimal so hoch dar wie 
+die ihrer französischen Mitbewerber. Zusammenfassend für die USA Donohue (2020).
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 681
+
+Die Literatur beschreibt die polizeilichen Auswahlverfahren als eine 
+standardisierte und differenzblinde Bestenauslese, die ausgleichende Bewertungen 
+von Bewerber:innen nicht in Betracht ziehen kann.43 So führt nach Behr, der 
+„Umstand, dass von MH-Beamten all das erwartet wird, was von Einheimischen 
+auch erwartet wird, darüber hinaus aber noch ein ‚ethnisch-kultureller‘ Mehrwert 
+(Surplus-Erwartung), […] faktisch und entgegen der offiziellen Verlautbarung 
+zu einer Ungleichbehandlung von Migranten gegenüber den einheimischen 
+Bewerbern.“44
+
+3.3  Selbstselektion – Hürden aufseiten der 
+Bewerber:innen
+
+Seit Mitte der 1990er haben sich verschiedene Arbeiten mit der Berufs-
+motivation und Berufsidentität von ausländischen Bewerber:innen und 
+deutschen Bewerber:innen mit Migrationshintergrund beschäftigt, um heraus-
+zuarbeiten, warum sich diese Gruppen anteilig weniger häufig bei den Polizeien 
+bewerben.45 In den Studien wurden zumeist Interviews mit Anwärter:innen oder 
+Polizist:innen geführt, die eine andere Staatsangehörigkeit als die Deutsche 
+oder einen Migrationshintergrund angeben. In den Studien spielte mehrheitlich 
+weder die Zuwanderungsgeschichte der Familie noch das Thema Integration eine 
+Rolle bei der Berufswahl. Gleichzeitig wurden die Assimilationsleistung und 
+der Anpassungswille der Diversitätsträger trotz erhöhter Unannehmlichkeiten 
+in allen Studien deutlich herausgestellt. Dazu gehörten etwa Mehrarbeit durch 
+Anfrage von Übersetzungstätigkeiten auch außerhalb des Dienstes, Ertragen von 
+Sprüchen, und Loyalitätsbeweise. Diese Studien geben Hinweise auf mögliche 
+Zermürbungsfaktoren, für jene, die es bereits in die Organisation geschafft haben.
+
+Auch scheinen die Erfahrungen dieser erfolgreichen Diversitätsträger ein 
+Stück weit mit den Bedenken übereinzustimmen, die Stone und Tuffin in einer 
+Studie zu den Einstellungen von ethnischen Minderheiten in England gegen-
+über dem Polizeiberuf herausarbeiteten. Als Gründe gegen eine Bewerbung 
+
+43 Hunold (2008); Klimke (2010); Behr (2010); Lang (2021).
+44 Behr (2010), S. 152.
+45 Franzke (1999); Thériault (2004); Blom (2005); Sigel (2009); Majewski (2011); Regge 
+(2013); Molapisi und Behr (2020).
+
+
+
+682 S. Ellebrecht
+
+bei der Polizei, wurde die Befürchtung genannt „to work in a racist environ-
+ment, having to face prejudice from both colleagues and the general public on 
+a daily basis“46. Auch die Sorgen der sozialen Isolation in einer „predominantly 
+white male culture“, des fehlenden Rückhalts in Gefahrensituationen, sowie des 
+„Loyalitätskonflikts“ wurden formuliert.47 In 2011 konnte Majewski in seiner 
+Studie zur Frage „warum sich qualifizierte Migranten nicht bei der Polizei 
+bewerben“ zeigen, dass unter „türkischstämmigen“ Berliner Abiturient:innen die 
+Informationen über Studium und Beruf bei der Polizei eher vage sind und eine 
+konkrete Beschäftigung mit der Polizei als möglichen Arbeitgeber selten statt-
+findet. Aus den Interviews zitiert er einzelne Vorbehalte bzgl. fremdenfeindlicher 
+Einstellungen in der Polizei, die er aber nicht als grundsätzliches Negativimage 
+interpretiert, das unter den türkischstämmigen Schulabsolvent:innen zur Selbst-
+selektion führe.48
+
+Mit Blick auf ausgleichende Programmatik der Theorie repräsentativer Büro-
+kratie, wird deutlich, dass diese bereits vor der Praxis erstickt: denn eigene Vor-
+behalte führen ggf. nicht zu mehr Verständnis später im Dienst, sondern zum 
+Fernbleiben vom Amt. Und so könnte ein bestimmtes Binnenklima möglicher-
+weise durch Diversitätsträger verändert werden, allerdings führt allein das Image 
+eben jenes Klimas dazu, dass die Veränderer sich gar nicht erst bewerben. Denn 
+als Vertreter:innen bestimmter Minderheiten haben sie ein erhöhtes Risiko, 
+benachteiligt zu werden, sowohl in den Auswahlverfahren als auch im Dienst.49
+
+4 P erformanz der Polizeiarbeit – „Diversität im 
+Einsatz“
+
+Eine Diversifizierung des Personals wirkt sich unterschiedlich auf die Dynamiken 
+im Team und die Arbeitsweise sowie den Arbeitserfolgen als Team aus. Bisher 
+gibt es einzelne Untersuchungen, in denen die Berufsidentität und das Erleben 
+
+46 Stone und Tuffin (2000) zitiert nach Majewski (2011), S. 29.
+47 Stone und Tuffin (2000) zitiert nach Majewski (2011), S. 29.
+48 Majewski (2011), S. 79–82, 89.
+49 Das Thema Selbstselektion vor einer Bewerbung hat bisher wenig Beachtung in 
+der deutschsprachigen Polizeiforschung gefunden. Um die Hürden auf Seiten der 
+Bewerber:innen zu identifizieren, stellt sich die Frage, ob die Diversitätsträger weniger 
+informiert, weniger qualifiziert oder weniger interessiert sind. Vgl. Wilson et al. (2016), 
+S. 2.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 683
+
+der Diversitätsträger im Fokus stehen.50 Kaum Beachtung hat bisher das Team-
+geschehen und die wechselseitige Wahrnehmung im Team gefunden. Gibt es 
+Hinweise darauf, dass die Anwesenheit von Diversitätsträgern im Team, Dis-
+kriminierungen im Innen- und Außenverhältnis der Polizei entgegenwirken?
+
+4.1  Kulturell heterogene Teams
+
+Ein bekanntes Risiko für das Miteinander in multinationalen Teams ist die Identi-
+fikation von Nationalität mit Arbeitsmoral.51 In der Polizei spitzt sich dies in 
+Kombination mit einem Negativimage des polizeilichen Gegenübers zu: Ein-
+stellungen und Erwartungen gehen häufig mit Erzählungen und Wahrnehmungen 
+einher, die die Kolleg:innen mit Migrationshintergrund in die soziale Nähe mit – 
+wie es im Polizeijargon heißt – randständigen oder kriminellen Gruppen des 
+polizeilichen Gegenübers bringen.52 Dies kann zu offenem Misstrauen führen. 
+In einer Studie aus Berlin, aus der ich im folgenden ausführlich zitiere, wird die 
+desintegriende Wirkung von Misstrauen deutlich:
+
+„So berichtete ein Polizist, dass einige dieser Personen [Polizistinnen und Polizisten 
+mit zumeist türkischem Migrationshintergrund] eine nachweislich kriminelle Ver-
+gangenheit hätten und dennoch durch die Behörde eingestellt und gefördert worden 
+seien. Zudem seien viele Beispiele über Polizistinnen und Polizisten mit Migrations-
+hintergrund in der Behörde bekannt, über die keine negativen Äußerungen erlaubt 
+seien, da sie sich erfolgreich in die Behörde eingeklagt hätten. Und innerhalb der 
+Behörde seien viele Polizistinnen und Polizisten darüber verärgert, dass sie dazu 
+verpflichtet seien, mit diesen Kolleginnen und Kollegen mit krimineller Vergangen-
+heit gemeinsam arbeiten zu müssen. Ein anderer Polizist äußerte, dass immer wieder 
+
+50 Sigel (2010); Molapisi und Behr (2020).
+51 Besonders geeignet für den spezifischen Fokus des Zusammenspiels eines kulturell 
+diversen Teams (beschrieben durch national-kulturelle Heterogenität) sind Untersuchungen 
+von kleinen Gruppen mit klar definiertem Ziel, wie Sportmannschaften für den Erfolg (vgl. 
+Gerhards et al. 2014) oder Schiffscrews für die sichere Ankunft (Brenker et al. 2017). Ein 
+leistungsfähiges Zusammenwirken ist auf eine kooperative und arbeitsteilige Beziehung der 
+Mitglieder angewiesen. Für gelingende Abläufe sind Abstimmung, „blindes Verstehen“ und 
+Vertrauen wichtig, die in heterogenen Teams von den Mitgliedern nicht selbstverständlich 
+angenommen und auch nicht erlebt werden.
+52 Darüber hinaus kursiert das Narrativ, dass bestimmte Nationalitäten vom polizeilichen 
+gegenüber zum Kollegen werden. Dieses wird auch in der Polizeiforschung paraphrasiert 
+und verdeutlicht wie viel Weg noch zu gehen ist.
+
+
+
+684 S. Ellebrecht
+
+Berichte über negative Erfahrungen mit Migrantinnen und Migranten im Dienstall-
+tag kursieren würden. In diesem Klima würden besonders Geschichten über wahre 
+oder erfundene Verfehlungen von Auszubildenden mit türkischem oder arabischem 
+Migrationshintergrund diskriminierende Haltungen noch weiterbefördern.“53
+
+Ähnliche Vorurteile dokumentierte Sigel in ihrer Studie zur beruflichen Identität 
+von Polizist:innen mit Migrationshintergrund. Ihre Interviewparter:innen waren 
+u. a. mit Sprüchen – „Deine Landsleute mal wieder“54 – und Nationalitäten-
+klischees wie „der Pole, der stiehlt“55 oder „die Ungarin, die als Prostituierte 
+arbeitet“56 konfrontiert. Den Diversitätsträgern kommt in dieser Situation nicht 
+nur die Aufgabe zu, das Vorurteil als unpassend zu markieren, oft müssen sie es 
+auch persönlich widerlegen, die eigene Betroffenheit nicht relevant werden lassen 
+und Loyalität zu den Kolleg:innen und der Organisation Polizei demonstrieren.
+
+Mit Blick auf die eingangs beschriebene Rolle als „Minderheitenver-
+treter“ ist festzuhalten, dass soziale Nähe, die helfen soll, die Klientel zu ver-
+stehen, gleichzeitig ein wunder Punkt für das Miteinander im Team ist. Behr 
+formuliert im Sinne der Kontakthypothese, dass die „interkulturelle Kompetenz 
+einer Organisation […] mit der Anzahl von Gelegenheiten [steigt], in denen sie 
+im Inneren bewiesen werden muss“57. Klimkes Daten suggerieren das Gegen-
+teil: Polizist:innen mit Migrationshintergrund rütteln nicht „an den fremden-
+feindlichen Einstellungen ihrer Kollegen, sondern vermögen sie sogar noch zu 
+
+53 Chahed und Susen (2017), S. 34 f.
+54 Sigel (2009), S. 123.
+55 Sigel (2009), S. 124.
+56 Sigel (2009), S. 127. Dies wird in folgender Schilderung einer Polizistin deutlich, die 
+Sigel als „sehr drastische […] Bewältigungsform“ bespricht: „Natürlich gibt’s da Vorurteile 
+von Männern dann, ‚aha, mhm, die Ungarinnen, jaja‘, gerade mit dem Hintergrund, was 
+man im Kopf hat, okay Dezernat Prostitution. Aber ich glaub, wenn man sich da durch-
+setzen kann und wenn sie sehen, dass ich familiär auch sehr, sag ich mal, gefestigt bin, ich 
+hab ja meinen Freund, und dann ist das in Ordnung, kann man sich da durchsetzen.“ Sigel 
+notiert: „Um dem Vorwurf, der klischeehaften Verbindung von Ungarin und Prostitution 
+zu begegnen, sieht sich E genötigt, ihre eigene familiäre Situation zu demonstrieren. 
+Sie muss öffentlich das Gegenteil des Klischees zeigen: sie hat einen Freund, mit dem 
+sie auch zusammenwohnt, sie ist also ‚familiär sehr […] gefestigt‘. Wenn man bedenkt, 
+dass E immer wieder betont, wie wichtig ihr die strikte Trennung von Beruf und privaten 
+Angelegenheiten ist, so muss man diesen Akt der privaten Öffnung als eine erzwungene 
+Grenzverletzung betrachten, die E aber gezielt vornimmt, um sich von dem Klischee abzu-
+grenzen.“
+57 Behr (2016), S. 11.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 685
+
+festigen. Gerade indem sie den Sprung auf die Seite ‚der Guten‘ vollziehen.“58 
+Es gilt also den Blick zu schärfen für das Diskriminierungsrisiko auf Seiten 
+der Mitarbeiter:innen. Denn dies wirkt sich auch auf die Polizeiarbeit aus, wie 
+Peterson und Uhnoo am Beispiel der schwedischen Polizei herausarbeiten: Auch 
+sie zeigen, dass das Ertragen rassistischer Sprüche als Loyalitätstest gewertet 
+werde. Wenn die Minderheitenvertreter sich aber in ihrem eigenen Arbeits-
+alltag an eine kompromittierende Sprache gewöhnten, wirke diese Abstumpfung 
+„as a deterrent to challenging racism in police work and contribute towards its 
+continuation“59.
+
+4.2  Ethnisches Differenzieren, Responsivität und 
+Ermessen
+
+Was passiert, wenn kulturelles Wissen und soziale Identität polizeiliches 
+Ermessen informieren? Wird dann, um mal anekdotisch zu überlegen, bspw. am 
+Freitag während des Moschee-Besuches das Parken in zweiter Reihe nicht als 
+Ordnungswidrigkeit geahndet, weil das Wissen um das halbstündige Gebet den 
+Verstoß als Bagatelle erscheinen lässt? Ähnlich wie es bei deutschen Hochzeit 
+am Samstag gehandhabt wird? Oder mal struktureller überlegt: Verringert sich 
+das Risiko selektiver Kontrollen, bzw. des racial profilings wenn Polizist:innen 
+mit einem sichtbaren Migrationshintergrund im Team auf Streife sind? Einzelne 
+Ergebnisse aus den USA sind diesbezüglich ambivalent: Bspw. stellten Wilkins 
+und Williams fest, dass die Präsenz von „black officers is related to an increase 
+in racial profiling in the division“60. Kennedy und Kolleg:innen zeigen, dass 
+eine höhere Repräsentation von black officers zu weniger Beschwerden bzgl. 
+übermäßiger Gewalt durch Polizisten führte, gleichzeitig aber zu mehr zivilen 
+Todesopfer durch Polizeigewalt.61 Für England und den Deliktsbereich der häus-
+lichen Gewalt konnten Andrews und Kolleg:innen jedoch zeigen, dass sich die 
+Präsenz von Frauen im Polizeiteam vor Ort positiv auf das Anzeigeverhalten aus-
+wirkt.62
+
+58 Klimke (2010), S. 57.
+59 Peterson und Uhnoo (2012), S. 363.
+60 Wilkins und Williams (2008), S. 654.
+61 Kennedy et al. (2017).
+62 Andrews et al. (2013).
+
+
+
+686 S. Ellebrecht
+
+Piñeiro und Kolleginnen haben in ihren Untersuchungen zur Bedeutung 
+ethnischen Differenzierens für Polizei und Jugendamt in der Schweiz gezeigt, 
+dass intervenierende und verwalterische Arbeitspraktiken flexiblen Gebrauch von 
+ethnischen Differenzierungen machen; dass diese Flexibilität aber insbesondere 
+die Autorität der Behördenvertreter:innen stützt, und weniger ihre Responsivität 
+erhöht.63
+
+5  Organisierte (In-)Differenz?
+
+Für die Polizei wird Diversität als Anerkennungs- und Repräsentationsthema 
+relevant, wenn es um chancengleichen Zugang von Minderheiten geht; es wird 
+als Thema der Qualität und Dienstleistung der Polizei relevant, wenn es um die 
+Gleichbehandlung des polizeilichen Gegenübers geht. Die Diskriminierungs-
+risiken, um die es jeweils geht, betreffen sehr unterschiedliche Referenzgruppen. 
+Deshalb lässt sich der eingangs problematisierte Zusammenhang zwischen 
+einer Diversifizierung des polizeilichen Personals und einer Minderung von 
+Diskriminierungsrisiken im Innen- und Außenverhältnis der Polizei nicht als 
+strategische Beziehung abbilden oder als Wechselwirkung bewerten.
+
+Deutlich wurde jedoch, dass die Polizei sich sowohl in ihrem Innen- als auch 
+Außenverhältnis fundamental auf das Prinzip der Gleichbehandlung bezieht. Die 
+allgemeine Formel Gleiches gleich und Ungleiches unterschiedlich zu behandeln, 
+prägt sowohl die Personalpolitik als auch das Selbstverständnis im Umgang mit 
+unterschiedlichen Bevölkerungsgruppen. Diese Ausrichtung bestätigt jedoch 
+gesellschaftliche Hierarchien mehr als dass sie Nicht-Diskriminierung propagiert.
+
+Durch eine meritokratisch ausgerichtete Personalpolitik wird sichergestellt, 
+dass alle Mitglieder in der Organisation den gleichen Standards entsprechen und 
+dies auch voneinander wissen. So ist Vielfalt auf Plakaten und als statistisches 
+Ergebnis gut, spielt aber mit Blick auf den Zugang zum Dienst im Sinne aus-
+gleichender Regelungen keine Rolle. Diversität, die über den empirischen Befund 
+eines Anteils an Minderheitenvertreter hinausgeht, stößt im Innenverhältnis der 
+Organisation auf die Skepsis der Sonderbehandlung, die den Ruf hat, Kohäsion 
+zu beeinträchtigen und damit eine Desintegration der Gefahrengemeinschaft 
+riskiert. „Die Polizei muss“, so analysiert Klimke, „Differenz verhindern, um 
+zu funktionieren“. Man verlasse sich auf jene, die nicht fremd sind. Deshalb 
+
+63 Piñeiro et al. (2021), S. 126–128.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 687
+
+werde Fremdheit oder Andersartigkeit absorbiert und im Außen der Organisation 
+belassen.
+
+Der differenziellen Organisationslogik im Außenverhältnis der Polizei, steht in 
+ihrem Innenverhältnis also der Grundsatz der Gleichbehandlung gegenüber. Das 
+macht es unwahrscheinlich, dass Minderheitenvertreter ihr sozial-kulturelles Ver-
+stehen tatsächlich in das polizeiliche Ermessen einfließen lassen (können). Denn 
+Gleichbehandlung bzw. die Ablehnung von Sonderbehandlung und individuellen 
+Bewertungen im Innenverhältnis führen im Außenverhältnis zu Vorsicht gegen-
+über einer Relativierung von Recht durch Kultur. Gleichzeitig birgt eine 
+differenzblinde Gleichbehandlung sowohl im Innen- als auch im Außenverhältnis 
+der Polizei Diskriminierungsrisiken.
+
+Um das Verhältnis der Polizei zu Diversität weiter zu analysieren, kann 
+die Erkenntnis als Ausgangspunkt dienen, dass die Organisation ihr Ver-
+hältnis zu Unterschieden durch Standardisierungen und Objektivierbarkeit 
+professionalisiert. Jedoch verstellt diese organisierte Indifferenz den Blick 
+auf Diskriminierungsrisiken innerhalb der Polizei sowie auf Schutzbedürf-
+nisse vulnerabler Gruppen und Identitäten in der Bevölkerung. Um Rassis-
+mus und Diskriminierung in der und durch die Polizei in den Blick zu nehmen, 
+bietet sich ein Fokus auf ethnische Differenzierungen an, d. h. auf die Frage wie 
+Zuschreibungen und Selbstbeschreibungen von kultureller Verschiedenheit und 
+Identität in den Organisationsentscheidungen und Arbeitspraktiken der Polizei 
+relevant werden.
+
+Literatur
+
+Andrews, R., & Johnston Miller, K. (2013). Representative Bureaucracy, Gender, and 
+Policing: The Case of Domestic Violence Arrest in England. Public Administration, 
+91(4), S. 998. doi: https://doi.org/10.1111/padm.12002.
+
+Apelt, M., Dosdall, H., & Trautwein, R. (2020). Wie das Recht in die Organisation 
+kommt – Die Akteur*innen des Antidiskriminierungsrechts in männlich geprägten 
+Organisationen. Kritische Justiz, 53(4), S. 445. doi: https://doi.org/10.5771/0023-4834-
+2020-4-445.
+
+Behr, R. (2006). Polizeikultur. Routinen – Rituale – Reflexionen. Bausteine zu einer Theorie 
+der Praxis der Polizei. Wiesbaden: VS Verlag für Sozialwissenschaft.
+
+Behr, R. (2010). Licht und Schatten: ‚Diversität‘ für die Polizei. In D. Hunold, D. Klimke, 
+R. Behr & R. Lautmann (Hrsg.), Fremde als Ordnungshüter. Die Polizei in der 
+Zuwanderungsgesellschaft Deutschland (S. 145–156). Wiesbaden: Verlag für Polizei-
+wissenschaft. doi: https://doi.org/10.1007/978-3-531-92282-9_6.
+
+Behr, R. (2016). Diversität und Polizei: Eine polizeiwissenschaftliche Perspektive. In P. 
+Genkova & T. Ringeisen (Hrsg.), Handbuch Diversity Kompetenz. Perspektiven und 
+
+
+
+688 S. Ellebrecht
+
+Anwendungsfelder (S. 1–23). Wiesbaden: Springer. https://link.springer.com/content/
+pdf/10.1007%2F978-3-658-08003-765-1.pdf. Zugegriffen: 29. Oktober 2021.
+
+Blom, H. (2005). Anders sein bei der Polizei in Deutschland. Zur Position von allo-
+chthonen Polizisten an ihrem Arbeitsplatz, vor dem Hintergrund ihrer Rolle als Minder-
+heit und der Tatsache, dass sie als ‚anders‘ wahrgenommen werden. Frankfurt am 
+Main: Verlag für Polizeiwissenschaft.
+
+Brenker, M., Möckel, S., Küper, M., Schmid, S., Spann, M., & Strohschneider, S. (2017). 
+Challenges of multinational crewing: a qualitative study with cadets. WMU Journal of 
+Maritime Affairs, 16(3), S. 365. doi: https://doi.org/10.1007/s13437-016-0117-5.
+
+Bührmann, A. D. (2020). Reflexive Diversitätsforschung. Eine Einführung anhand eines 
+Fallbeispiels. Opladen und Toronto: Verlag Barbara Budrich.
+
+Buengeler, C., & Homan, A. C. (2016). Diversity in Teams: Was macht diverse Teams 
+erfolgreich? In P. Genkova & T. Ringeisen (Hrsg.), Handbuch Diversity Kompetenz. 
+Perspektiven und Anwendungsfelder (S. 663–677). Wiesbaden: Springer. https://link.
+springer.com/content/pdf/10.1007%2F978-3-658-08003-765-1.pdf. Zugegriffen: 29. 
+Oktober 2021.
+
+Chahed, H., & Susen, A.-S. (2017). Ansichten | Einsichten | Aussichten des Projekts 
+“Polizei und Vielfalt” der Stiftung SPI 2016–2017. https://www.stiftung-spi.de/
+fileadmin/user_upload/Dokumente/veroeffentlichungen/srup_lebenslagen/propol-
+polizei_broschuere2017.pdf. Zugegriffen: 18. Juli 2022.
+
+Donohue, R. H. (2020). Shades of Blue: A review of the hiring, recruitment, and selection 
+of female and minority police officers. The Social Science Journal, 2(2), S. 1. doi: 
+https://doi.org/10.1016/j.soscij.2019.05.011.
+
+Dudek, S. M. (2009). Diversity in Uniform? Geschlecht und Migrationshintergrund in der 
+Berliner Schutzpolizei. Wiesbaden: Verlag für Sozialwissenschaften.
+
+Duprez, D. (2010). Die Polizei als Abbild der Gesellschaft? Prozesse der Diskriminierung 
+bei der Rekrutierung von Frauen und ethnischen Minderheiten für die französische 
+Polizei. Soziale Probleme, 21(1), S. 42.
+
+Ellebrecht, S., & Wisser, L (2020). Spieglein, Spieglein an der Wand, wer ist Polizei in 
+diesem Land. In H. Groß & P. Schmidt (Hrsg.), Polizei und Migration (S. 292–296). 
+Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+Franzke, B. (1999). Polizisten und Polizistinnen ausländischer Herkunft. Eine Studie zur 
+ethnisch-kulturellen Identität und beruflichen Sozialisation Erwachsener in einer Ein-
+wanderungsgesellschaft. Bielefeld: Kleine Verlag.
+
+Fraser, N. (2017). Vom Regen des progressiven Neoliberalismus in die Traufe des 
+reaktionären Populismus. In H. Geiselberger (Hrsg.), Die große Regression. Eine inter-
+nationale Debatte über die geistige Situation der Zeit (S. 77–91). Berlin: Suhrkamp.
+
+Gerhards, J., Mutz, M., & Wagner, G. G. (2014). Die Berechnung des Siegers: Markt-
+wert, Ungleichheit, Diversität und Routine als Einflussfaktoren auf die Leistung 
+professioneller Fußballteams. Zeitschrift für Soziologie, 43(3), S. 231.
+
+Gilad, S., & Dahan, M. (2021). Representative bureaucracy and impartial policing. Public 
+Administration, 99(1), S. 137. doi: https://doi.org/10.1111/padm.12681.
+
+Hunold, D. (2008). Migranten in der Polizei. Zwischen politischer Programmatik und 
+Organisationswirklichkeit. Frankfurt am Main: Verlag für Polizeiwissenschaft.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 689
+
+Jasch, M. (2019). Rechtsdurchsetzung durch die Polizei. In C. Boulanger, J. Rosenstock 
+& T. Singelnstein (Hrsg.), Interdisziplinäre Rechtsforschung (S. 227–242). Wiesbaden: 
+Springer Fachmedien.
+
+Kelly, E., & Dobbin, F. (1998). How Affirmative Action Became Diversity Management. 
+Employer Response to Antidiscrimination Law, 1961–1996. American Behavioral 
+Scientist, 41(7), S. 960.
+
+Kennedy, B. A., Butz, A. M., Lajevardi, N., & Nanes, M. J. (2017). Active Representation 
+in American Policing. In dies. (Hrsg.), Race and Representative Bureaucracy in 
+American Policing (S. 88–110). Cham: Springer International Publishing.
+
+Kingsley, J. (1944). Representative Bureaucracy. An Interpretation of the British Civil 
+Service. Yellow Springs, OH: The Antioch Press.
+
+Klimke, D. (2010). Die Polizeiorganisation und ihre Migranten. In D. Hunold, D. Klimke, 
+R. Behr & R. Lautmann (Hrsg.), Fremde als Ordnungshüter? Die Polizei in der 
+Zuwanderungsgesellschaft Deutschland (S. 27–59). Wiesbaden: Verlag für Sozial-
+wissenschaften.
+
+Klimke, D. (2020). Die Polizei in der Einwanderungsgesellschaft. https://www.bpb.de/
+gesellschaft/migration/kurzdossiers/303141/die-polizei-in-der-einwanderungsgesell-
+schaft. Zugegriffen: 18. Juli 2022.
+
+Lang, C. (2021). Der Wert des Migrationshintergrunds: Zur Bedeutung ethnischer 
+Differenzierungen in der Personalrekrutierung öffentlicher Verwaltungen. In F. Meier & 
+T. Peetz (Hrsg.), Organisation und Bewertung (S. 219–238). Wiesbaden: Springer.
+
+Loick, D. (Hrsg.) (2018). Kritik der Polizei. Frankfurt am Main und New York: Campus 
+Verlag.
+
+Majewski, A. (2011). Warum sich qualifizierte Migranten nicht bei der Polizei bewerben. 
+Eine qualitative Studie am Beispiel türkischstämmiger Abiturienten in Berlin. Frankfurt 
+am Main: Verlag für Polizeiwissenschaft.
+
+Maurer, A. (1995). AusländerInnen im Polizeidienst. Von Integrationswillen kaum eine 
+Spur. In O. Diederichs et al. (Hrsg.), Hilfe Polizei. Fremdenfeindlichkeit bei Deutsch-
+lands Ordnungshütern (S. 113–120). Berlin: Elefanten Press.
+
+Mediendienst Integration (2014). Anteil der Beamten mit Migrationshintergrund in 
+Polizei und Verfassungsschutz. https://mediendienst-integration.de/fileadmin/Dateien/
+Rercheche_Polizei_Verfassungsschutz_Migrationshintergrund.pdf. Zugegriffen: 18. Juli 
+2022.
+
+Mediendienst Integration (2017). Wie entwickelt sich die Vielfalt bei der Polizei. https://
+mediendienst-integration.de/fileadmin/Dateien/Polizisten_mit_Migrationshinter-
+grund_2017.pdf. Zugegriffen: 18. Juli 2022.
+
+Mediendienst Integration (2019). Wie entwickelt sich die Vielfalt bei der Polizei? https://
+mediendienst-integration.de/fileadmin/Dateien/Infopapier_Vielfalt_Polizei_2019.pdf. 
+Zugegriffen: 18. Juli 2022.
+
+Mediendienst Integration (2021). Polizist*innen mit Migrationshintergrund. https://
+mediendienst-integration.de/fileadmin/Dateien/Polizistinnen_mit_Migrationshinter-
+grund_2021.pdf. Zugegriffen: 18. Juli 2022.
+
+Michaels, W. B. (2016). The Trouble With Diversity. How We Learned to Love Identity and 
+to Ignore Inequality. 2. Aufl. New York: Picador.
+
+Molapisi, A., & Behr, R. (2020). Polizeibeamt*innen mit Migrationsgeschichte in der 
+Phase der beruflichen Sozialisation – aktuelle Befunde. In H. Groß & P. Schmidt 
+
+
+
+690 S. Ellebrecht
+
+(Hrsg.), Polizei und Migration (S. 160–178). Frankfurt am Main: Verlag für Polizei-
+wissenschaft.
+
+Mosher, F. C. (1968). Democracy and the Public Service. New York: Oxford University 
+Press.
+
+Müller, M., & Zifonun, D. (2016). Cultural diversity als Ethnowissen: Die ‚Entdeckung‘ 
+kultureller Vielfalt und die gesellschaftliche Deutung von Migrationsfolgen. In P. 
+Genkova & T. Ringeisen (Hrsg.), Handbuch Diversity Kompetenz: Gegenstandsbereiche 
+(S. 1–17). Wiesbaden: Springer. doi: https://doi.org/10.1007/978-3-658-08932-0_6-1.
+
+Peterson, A., & Uhnoo, S. (2012). Trials of loyalty: Ethnic minority police officers as ‘out-
+siders’ within a greedy institution. European Journal of Criminology, 9(4), S. 354. doi: 
+https://doi.org/10.1177/1477370812447266.
+
+Regge, F. (2013). Migranten im Polizeidienst. Motivation und Hemmnisse von Bewerbern. 
+München: GRIN Verlag.
+
+Piñeiro, E., Koch, M., & Pasche, N. (2021). Un/doing Ethnicity im öffentlichen Dienst. 
+Ethnographien zum ethnischen Differenzieren am Beispiel von Jugendamt und Polizei. 
+Zürich: Seismo.
+
+Rixen, S. (2021). Ambivalenzen der Gleichheit. Zwischen Diversität, sozialer Ungleich-
+heit und Repräsentation. In J. Kersten, S. Rixen & B. Vogel (Hrsg.), Ambivalenzen der 
+Gleichheit. Zwischen Diversität, sozialer Ungleichheit und Repräsentation (S. 9–32). 
+Bielefeld: transcript.
+
+Seibel, W. (2016). Verwaltung verstehen: Eine theoriegeschichtliche Einführung. Berlin: 
+Suhrkamp.
+
+Sigel, J. (2009). Berufliche Identität von Polizisten mit Migrationshintergrund. In K. Liebl 
+(Hrsg.), Polizei und Fremde – Fremde in der Polizei (S. 105–151). Wiesbaden: VS Ver-
+lag für Sozialwissenschaft.
+
+Sowa, J. E., & Selden, S. C. (2003). Administrative Discretion and Active Representation: 
+An Expansion of the Theory of Representative Bureaucracy. Public Administration 
+Review, 63(6), S. 700. doi: https://doi.org/10.1111/1540-6210.00333.
+
+Stumpf, S., Leenen, W. R., & Scheitza, A. (2016). Adverse Impact in der Personalauswahl 
+einer deutschen Behörde: Eine Analyse ethnischer Subgruppendifferenzen. German 
+Journal of Human Resource Management: Zeitschrift für Personalforschung, 31(1), 
+S. 1. doi: https://doi.org/10.1177/2397002216637289.
+
+Supik, L. (2014). Making Up Ehnicities in der amtlichen Statistik. Working Paper Series 
+“Gender, Diversity and Migration” No 3. https://www.fb03.uni-frankfurt.de/51634145/
+Supik_WP.pdf. Zugegriffen: 18. Juli 2022.
+
+Titley, G., & Lentin, A. (2008). The Politics of Diversity in Europe. Straßburg: Council of 
+Europe Publishing.
+
+Thériault, B. (2004). The Carriers of Diversity within the Police Forces: A “Weberian” 
+Approach to Diversity in Germany. German Politics and Society, 22(3), S. 83. doi: 
+https://doi.org/10.3167/104503004782353131.
+
+Thomas, D. A., & Ely, R. (1996). Making Differences Matter. Harvard Business Review, 
+74(5), S. 79.
+
+Toepfer, G. (2019). Diversität. Bemerkungen zur Begriffsgeschichte der Diversität aus-
+gehend von drei Sammelbänden. Forum Interdisziplinäre Begriffsgeschichte, 8, S. 6.
+
+Vertovec, S. (2012). „Diversity“ and the Social Imaginary. European Journal of Sociology, 
+53(3), S. 287. doi: https://doi.org/10.1017/S000397561200015X.
+
+
+
+Organisierte (In-)Differenz. Zur Bedeutung ... 691
+
+Wilkins, V., & Williams, B. (2008). Black or Blue: Racial Profiling and Representative 
+Bureaucracy.Public Administration Review, 68(4), S. 654. doi: https://doi.org/10.1111/
+j.1540-6210.2008.00905.x.
+
+Will, A.-K. (2016). 10 Jahre Migrationshintergrund in der Repräsentativstatistik: ein 
+Konzept auf dem Prüfstand. Leviathan, 44(1), S. 9. doi: https://doi.org/10.5771/0340-
+0425-2016-1-9.
+
+Wilson, C. P., Wilson, S. A., & Gwann, M. (2016). Identifying barriers to diversity in law 
+enforcement agencies. Journal of Ethnicity in Criminal Justice, 14(4), S. 231. doi: 
+https://doi.org/10.1080/15377938.2016.1187234.
+
+Wood, P. (2003). Diversity. The Invention of a Concept. San Francisco: Encounter Books.
+
+Dr. Sabrina Ellebrecht ist Soziologin am Centre for Security and Society der Universität 
+Freiburg und forscht derzeit im Projekt „ZuRecht – Die Polizei in der offenen Gesell-
+schaft“, das durch die Stiftung Mercator gefördert wird. Ihre Arbeitsschwerpunkte liegen in 
+der politischen Soziologie, der Migrations-, Sicherheits- und Technikforschung.
+
+Open Access Dieses Kapitel wird unter der Creative Commons Namensnennung 4.0 Inter-
+national Lizenz (http://creativecommons.org/licenses/by/4.0/deed.de) veröffentlicht, welche 
+die Nutzung, Vervielfältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem 
+Medium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en) und die Quelle 
+ordnungsgemäß nennen, einen Link zur Creative Commons Lizenz beifügen und angeben, 
+ob Änderungen vorgenommen wurden.
+
+Die in diesem Kapitel enthaltenen Bilder und sonstiges Drittmaterial unterliegen eben-
+falls der genannten Creative Commons Lizenz, sofern sich aus der Abbildungslegende 
+nichts anderes ergibt. Sofern das betreffende Material nicht unter der genannten Creative 
+Commons Lizenz steht und die betreffende Handlung nicht nach gesetzlichen Vorschriften 
+erlaubt ist, ist für die oben aufgeführten Weiterverwendungen des Materials die Ein-
+willigung des jeweiligen Rechteinhabers einzuholen.
