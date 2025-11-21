@@ -1,0 +1,11 @@
+{
+    "id": "2955",
+    "keywords": [
+        "Skelettieren",
+        "Algorithmus",
+        "Punktwolke",
+        "Baum"
+    ],
+    "title": "Implementierung und Vergleich zweier Skelettierungsalgorithmen für Baum-Punktwolken",
+    "text": "Im Rahmen dieser Bachelorarbeit werden zwei Skelettierungsalgorithmen für Baum-Punktwolken implementiert und miteinander verglichen. Darüber hinaus werden zwei Erweiterungen für einen der beiden Algorithmen präsentiert."
+}

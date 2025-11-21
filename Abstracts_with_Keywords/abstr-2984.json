@@ -1,0 +1,9 @@
+{
+    "id": "2984",
+    "keywords": [
+        "Maschinelles Lernen",
+        "Automatic Identification System"
+    ],
+    "title": "Lernen von maritimen Aktivitätsmustern aus Schiffsbewegungsdaten",
+    "text": "Die Arbeit untersucht die Anwendung von maschinellem Lernen zur Erkennung von Aktivitäten von Schiffen anhand von AIS-Signalen. Das Automatic Identification System (AIS) wird von Schiffen genutzt, um Informationen über ihren Status in regelmäßigen Intervallen zu übertragen. Auf Basis der Daten wurden mithilfe von Machine Learning-Algorithmen aus der Gruppe der überwachten Klassifikationsalgorithmen Modelle gelernt, die in der Lage sind zu erkennen, welcher Aktivität ein Schiff zu einem Zeitpunkt nachgeht. \r\nDa das erfolgreiche Lernen eines Modells von einer sorgfältigen Datenvorbereitung abhängt, wurden verschiedene Verfahren zur Datenvorbereitung verwendet. Anschließend wurden verschiedene Algorithmen eingesetzt, darunter der Random Forest und k-NN, um Modelle zu lernen.\r\nDie Ergebnisse zeigen, dass die Aktivitäten mit einer Genauigkeit von bis zu 99% erkannt werden konnten, wenn in der Datenvorbereitung geeignete Verfahren gewählt wurden."
+}

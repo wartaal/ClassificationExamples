@@ -1,0 +1,10 @@
+{
+    "id": "1883",
+    "keywords": [
+        "WebGL",
+        "Programmierumgebung",
+        "Lernsoftware"
+    ],
+    "title": "Webbasierte Entwicklungsumgebung für den Einstieg in die WebGL-Programmierung mit automatischer Aufgabenüberprüfung",
+    "text": "In der Arbeit wird untersucht, wie der Einstieg in die WebGL-Programmierung erleichtert werden kann. Dafür wurde eine bestehende Entwicklungsumgebung um möglichst hilfreiche Fehlermeldungen erweitert. Außerdem gibt das System Rückmeldungen, wenn eine gegebene Übungsaufgabe nicht richtig oder unvollständig gelöst wurde. Hierzu werden neben dem Vergleich von bestehenden Hilfen für den Einstieg in WebGL, auch verschiedene Fehlerszenarien definiert und näher untersucht. Auf dieser Grundlage werden Anforderungen an die Anwendung gestellt und daraufhin umgesetzt."
+}

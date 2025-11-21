@@ -1,0 +1,6 @@
+{
+    "id": "1053",
+    "keywords": [],
+    "title": "Vergleich von webbasierten Programmierschnittstellen zum Zugriff auf kontrollierte Vokabulare",
+    "text": "Diese Arbeit beschäftigt sich mit der Analyse von Webschnittstellen für kontrollierte Vokabulare von Informationseinrichtungen. Hierfür werden zunächst einige relevante Arten solcher Vokabulare vorgestellt. Außerdem wird ein Überblick über die in diesem Zusammenhang verwendeten Technologien und Standards für den maschinellen Datenaustausch über das World Wide Web gegeben. Darauf aufbauend werden schließlich die Schnittstellen von vier in der Bibliothekswelt viel genutzten Vokabularen miteinander verglichen. Zu diesem Zweck wird jedes Begriffssystem kurz vorgestellt und die Funktionalitäten der entsprechenden API untersucht. Danach werden die Untersuchungsobjekte nach ausgewählten Kriterien einander gegenübergestellt. Im Abschluss werden die Ergebnisse des Vergleichs präsentiert."
+}

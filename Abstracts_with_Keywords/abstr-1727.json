@@ -1,0 +1,10 @@
+{
+    "id": "1727",
+    "keywords": [
+        "Raspberry Pi",
+        "Luftqualität",
+        "Monitoring"
+    ],
+    "title": "Crowd-basierte Luftqualitätsmessungen mit der Complex Event Processing Engine Siddhi auf Raspberry Pi",
+    "text": "Unter Crowdsensing versteht man Anwendungen, in denen Sensordaten kollaborativ von einer Menge von Freiwilligen erhoben werden. So kann Crowdsensing eingesetzt werden um die Luftqualität an Orten zu messen, an denen keine fest installierten Sensoren verfügbar sind. In Crowdsensing-Systemen müssen die Teilnehmer koordiniert und die Messdaten verarbeitet werden, um relevante Daten zu erhalten. Im Rahmen der Abschlussarbeit wurde ein System konzipiert und prototypisch umgesetzt, das auf einem Raspberry Pi (unter Einsatz geeigneter Sensoren) Sensordaten erhebt und mit der Complex Event Processing Technologie verarbeitet."
+}

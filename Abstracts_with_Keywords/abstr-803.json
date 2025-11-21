@@ -1,0 +1,6 @@
+{
+    "id": "803",
+    "keywords": [],
+    "title": "Mapping und Erweiterung der Ontologie des Forschungsinformationssystems VIVO",
+    "text": "Die Bachelorarbeit beschäftigt sich mit der Ontologie des Forschungsinformationssystems VIVO.  In der Arbeit wird der Versuch unternommen, die Ontologie an die Besonderheiten des deutschen Wissenschaftsbetriebs anzupassen, mit dem Ziel, die Einführung des Systems für eine deutsche Einrichtung zu erleichtern. Das Mapping und die Erweiterung sind auf die Bereiche „Positionsbezeichnungen“ und „Organisationseinheiten“ beschränkt. \r\nDer theoretische Teil behandelt das Thema der Forschungsinformationen und deren Implementierung in ein Forschungsinformationssystem. Unter anderem werden auch die Tendenzen der Standardisierung in dem Bereich beleuchtet. \r\nBei der Darstellung von VIVO als eine Semantic-Web-Anwendung steht die Ontologie, als Grundlage für die Funktionalitäten des Systems im Vordergrund."
+}

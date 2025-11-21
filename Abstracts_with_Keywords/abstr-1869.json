@@ -1,0 +1,11 @@
+{
+    "id": "1869",
+    "keywords": [
+        "Relationenalgebra",
+        "Aufgabensammlung",
+        "Auswertung",
+        "Datenverarbeitungssystem"
+    ],
+    "title": "Ein System zur Lernunterstützung und Bewertung für die relationale Algebra",
+    "text": "In dieser Arbeit wurde ein System entwickelt, welches Übungsaufgaben der relationalen Algebra automatisch auswertet und dies in Form einer Punktevergabe bewertet. Darüber hinaus ist das System in der Lage lernunterstützende Feedbacks zu generieren. Dadurch sollen Studierende, die im Rahmen der Datenbank-Vorlesung relationale Algebra lernen, eine korrekte und optimierte Sprachanwendung im Bereich der relationalen Algebra lernen."
+}

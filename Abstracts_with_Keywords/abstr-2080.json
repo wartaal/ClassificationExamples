@@ -1,0 +1,13 @@
+{
+    "id": "2080",
+    "keywords": [
+        "Software Engineering",
+        "World Wide Web",
+        "Anwendungssystem",
+        "Bronchokonstriktion",
+        "Benutzerfreundlichkeit",
+        "Neuronales Netz"
+    ],
+    "title": "Entwicklung einer Webanwendung zur Visualisierung und Nachbearbeitung von Ergebnisdaten aus Vorhersagen Neuronaler Netze für den Anwendungsfall Bronchokonstriktion",
+    "text": "Das Ziel dieser Bachelorarbeit war die Entwicklung einer voll funktionstüchtigen Webanwendung, die für den Anwendungsfall „Bronchokonstriktion“ Werkzeuge für die Darstellung und die händische Nachbearbeitung von Bilddaten und Vorhersagen aus Neuronalen Netzen bereitstellt. Dadurch können die Test- und Trainingsdatensätze für problematische Fälle erweitert werden. Konkret wurde die Anwendung durch die Verwendung von standardisierten und individuell auf das Problem zugeschnittenen Software-Engineering-Methoden sowie unter Beachtung allgemeiner Usability-Prinzipien entwickelt und evaluiert. Diese Bachelorarbeit fand in Zusammenarbeit mit dem Fraunhofer ITEM und der Forschungsgruppe „Bioinformatik“ statt."
+}

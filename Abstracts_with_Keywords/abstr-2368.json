@@ -1,0 +1,12 @@
+{
+    "id": "2368",
+    "keywords": [
+        "Computersimulation",
+        "Maschinelles Lernen",
+        "Autonomes Fahrzeug",
+        "Parametrisierung",
+        "Öffentlicher Personennahverkehr"
+    ],
+    "title": "Prototypische Entwicklung und Evaluation von Machine Learning Modellen zur Parametrierung eines agentenbasierten Simulationsmodells – Ein gestaltungsorientierter Ansatz am Beispiel des kombinierten simultanen Transports von Personen und Gütern",
+    "text": "Im ländlichen Raum können Mobilitätsbedarfe schwer über den öffentlichen Personennahverkehr gedeckt werden. Wie diese Bedarfslücke über den Einsatz kombinierter Transportkonzepte von Personen und Gütern reduziert werden kann, wird prototypisch über eine agentenbasierte Simulationsanwendung in der Simulationssoftware AnyLogic untersucht. Reale Mobilitätsdaten werden dabei jedoch nicht berücksichtigt.\r\n\r\nDas Ziel der vorliegenden Arbeit ist die Verbesserung der Datengrundlage des Prototypen mit Hilfe von Machine Learning. Unter Verwendung des Forschungsansatzes Design Science Research wurden ML-Modelle entlang des CRISP-DM Frameworks entwickelt. Diese verarbeiten die zur Verfügung stehenden Mobilitätsdaten und können nach deren Integration in den Prototypen zur Parametrierung genutzt werden. Im Zuge der Arbeit werden dazu geeignete Parameter identifiziert, die Mobilitätsdaten beschafft und umfangreich für das Modelltraining in H2O Driverless AI transformiert. Das beste ML-Modell wird in den Prototypen integriert und es werden notwendige Anpassungen vorgenommen, um die Parametrierung zu ermöglichen. Die anschließende Evaluation der Simulationsanwendung zeigt eine datenbasierte und realitätsgetreuere Simulation des simultanen und kombinierten Transports von Personen und Gütern."
+}

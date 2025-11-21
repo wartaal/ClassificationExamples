@@ -1,0 +1,13 @@
+{
+    "id": "299",
+    "keywords": [
+        "TYPO3 4.4",
+        "CMS",
+        "Hacker",
+        "SQL",
+        "World Wide Web 2.0",
+        "Politische Kriminalität"
+    ],
+    "title": "Sicherheit von Webanwendungen für Unternehmen am Beispiel von Typo3",
+    "text": "Die vorliegende Bachelorarbeit beleuchtet die Sicherheitsaspekte von Webapplikationen, mit speziellem Fokus auf das CMS TYPO3. Im ersten Abschnitt werden die gesellschaftspolitischen Hintergründe von Internetkriminalität, sowie die allgemeine Rechtslage beschrieben. Der zweite Abschnitt erklärt die heutigen Angriffsmethoden, mit denen Webseiten attackiert werden. Im weiteren Verlauf der Arbeit untersucht der Autor anhand einer eigenen TYPO3 Installation, welche Möglichkeiten zur effektiven Optimierung der Sicherheit des CMS zur Verfügung stehen. Den Abschluß bilden eine Analyse der durchgeführten Maßnahmen, sowie die Aufstellung allgemeiner Richtlinien für vergleichbare Projekte."
+}

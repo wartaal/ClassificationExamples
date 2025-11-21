@@ -1,0 +1,12 @@
+{
+    "id": "1714",
+    "keywords": [
+        "Genetische Programmierung",
+        "Unterprogramm",
+        "Maschinelles Lernen",
+        "Programmsynthese",
+        "Evolutionärer Algorithmus"
+    ],
+    "title": "Verwendung von Subroutinen in der genetischen Programmierung zur Lösung allgemeiner Problemstellungen",
+    "text": "Insbesondere aufgrund der Zugehörigkeit zum sehr aktuellen und viel betrachteten Thema Machine Learning ist die genetische Programmierung mit ihren vielseitigen Anwendungsmöglichkeiten ein sehr interessantes Gebiet. Wie in allen Forschungsschwerpunkten gibt es auch hier viele Ansätze die standardmäßige Vorgehensweise weiter zu verbessern – einer dieser Ansätze ist die Verwendung von Subroutinen. Diese könnten in diesem Kontext auch als Methoden, Funktionen oder ähnliches bezeichnet werden und bedeuten, dass vom Algorithmus neben dem eigentlichen Programm auch wiederverwendbare Folgen von Anweisungen entwickelt werden, die über einen Bezeichner an beliebigen Stellen verwendet werden können. Hierfür gibt es bereits diverse Konzepte, die in Tests sehr gute Ergebnisse erzielt haben und eine Verbesserung gegenüber der standardmäßigen genetischen Programmierung ohne Subroutinen erreichen konnten. Diese Tests fanden allerdings immer in sehr spezialisierten Testumgebungen statt. Besonders interessant sind allerdings solche Systeme zur genetischen Programmierung, die (theoretisch) beliebige Probleme lösen kann, da sie für eine Vielzahl von Problemstellungen verwendet werden können.\r\nDas Ziel dieser Arbeit ist es, zu untersuchen, ob und inwiefern die Verwendung von Subroutinen auch in einem solchen allgemeinen System zur genetischen Programmierung, das theoretisch dazu in der Lage ist, beliebige Probleme zu lösen, möglich und sinnvoll ist."
+}

@@ -1,0 +1,12 @@
+{
+    "id": "1562",
+    "keywords": [
+        "Informationstechnik",
+        "Kompetenz",
+        "Klassifikation",
+        "Arbeitsmarkt",
+        "Hannover"
+    ],
+    "title": "Analyse und Klassifikation der hannoverschen IT Kompetenzen in einer variablen Datenbasis",
+    "text": "Die allgemeine Digitalisierung und besonders die IT Branche in Hannover, stellen Arbeitgeber_innen und Arbeitnehmer_innen vor große Herausforderungen. Berufsbezeichnungen im IT Sektor zeichnen sich im Gegensatz zu klassischen Berufsfeldern nicht dadurch aus, dass sie vereinheitlicht sind. Unterschiedlichste Berufsbezeichnungen verlangen oftmals identische Kompetenzen. Die Kompetenzen und Fähigkeiten der Arbeitnehmer_innen stehen ebenso immer mehr im Fokus der Arbeitgeber_innen, wie die Bereitschaft der permanenten Weiterbildung.\r\nZielgebend der vorliegenden Abschlussarbeit ist eine Datenbasis für ein kompetenzbasiertes IT Tool zu liefern, welches den Anspruch hat, die bereits beschriebenen Herausforderungen zu analysieren und zu klassifizieren. Zunächst ist daher eine Klassifikation, der auf dem hannoverschen Jobmarkt gesuchten IT Kompetenzen, zu erstellen. Vorbereitend wird eine Marktanalyse angefertigt, die sowohl Jobsuchmaschinen auf ihre Kompetenzorientierung als auch IT Kompetenzklassifikationen untersucht. Die erstellte Klassifikation bildet anschließend die Grundlage für das Kompetenzmatching zwischen Klassifikation und den Kompetenzen, die hannoversche IT Studierende erlernen, um zu verdeutlichen, in welchen Kompetenzen Weiterbildungsbedarf besteht. Die entstandene Datenbasis wird in einer MySQL Datenbank präsentiert, um eine möglichst flexible Verwendung und Weiterentwicklung des Datenbestands zu ermöglichen."
+}

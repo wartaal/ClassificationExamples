@@ -1,0 +1,14 @@
+{
+    "id": "2302",
+    "keywords": [
+        "Linked Data",
+        "Schema",
+        "Moritz",
+        "Sachsen-Lauenburg",
+        "Herzog",
+        "Männerkleidung",
+        "Kulturerbe"
+    ],
+    "title": "Kontextualisierung von Kleidungsstücken des Moritz-Projekts mit Wikidata",
+    "text": "Im Rahmen der zunehmenden Digitalisierung in Kulturerbeeinrichtungen gewinnt die Kontextualisierung digitaler Sammlungen mittels Linked Open Data (LOD) an Bedeutung. So auch für das Forschungsprojekt Moritz aus Buxtehude, in dem die historische Kleidersammlung des Moritz von Sachsen-Lauenburg interdisziplinär erforscht wird. Für die Kontextualisierung historischer Kleidung gibt es bisher jedoch keine etablierten Metadatenstandards oder Plattformen. Um eine niedrigschwellige Möglichkeit aufzuzeigen, wie Kulturerbeeinrichtungen die Metadaten ihrer Kleidungssammlungen als LOD veröffentlichen können, wird geprüft, inwiefern Wikidata sich hierfür anbietet. Dazu wird zunächst ein Wikidata-Schema für Kleidungsstücke entwickelt, welches anschließend durch die Erfassung von acht exemplarischen Objekten des Forschungsprojekts Moritz aus Buxtehude getestet und optimiert wird. Ergebnisse sind ein Wikidata-Property-Schema zur Erfassung von Kleidungsstücken, konkrete Handlungsempfehlungen für die Erfassung der weiteren Moritz-Objekte und ähnlicher Sammlungen, sowie Beispiele für Visualisierungen der kontextualisierten Objektdaten mit Hilfe von Wikidata. Die Ergebnisse der Arbeit zeigen, dass sich historische Kleidungsstücke mit geringem finanziellen, technischen und personellen Aufwand kontextualisieren lassen. Um das Potenzial voll auszuschöpfen, bedarf es allerdings weiterhin der engen Zusammenarbeit und des Engagements von Fachexpert:innen aus dem Kulturerbesektor und Informationswissenschaftler:innen bzw. der Wikidata-Community."
+}

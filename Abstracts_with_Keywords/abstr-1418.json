@@ -1,0 +1,10 @@
+{
+    "id": "1418",
+    "keywords": [
+        "Virtuelles privates Netzwerk",
+        "IP 6",
+        "OpenVPN"
+    ],
+    "title": "Konzeption und Umsetzung eines IPv6-VPN für die Abteilung Informatik",
+    "text": "Im Rahmen dieser Masterarbeit soll ein IPv6-fähiges VPN für die Abteilung Informatik der Fakultät IV der Hochschule Hannover konzipiert und umgesetzt werden.\r\nIm Rahmen der Softwareauswahl fällt die Wahl auf OpenVPN.\r\nAls Authentisierungsmethode werden X.509-Zertifikate gewählt."
+}

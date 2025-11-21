@@ -1,0 +1,12 @@
+{
+    "id": "1705",
+    "keywords": [
+        "PROFInet",
+        "Elektromagnetische Verträglichkeit",
+        "Kabel",
+        "Abschirmung",
+        "Simulation"
+    ],
+    "title": "Simulation der Wirkung des Kabelschirms von PROFINET-Leitungen unter Berücksichtigung der Art der Schirmauflage",
+    "text": "Das Ziel dieser Bachelorarbeit ist es, ein einfach verständliches Simulationsmodell zur Darstellung der Wirkung von Kabelschirmen bei Betrachtung verschiedener Schirmauflageverfahren zu entwickeln. Die erarbeiteten Ergebnisse decken sich mit der allgemein vertretenen Meinung, dass die beste Schirmwirkung durch eine beidseitige und flächige Schirmauflage erzielt wird. Zuerst werden Grundlagen erklärt, wobei sich auf relevante Literatur bezogen wird. Daraus wird das Simulationsmodell hergeleitet, dessen Ergebnisse anhand von theoretischen Überlegungen und praktischen Messungen überprüft werden. Die vorliegende Arbeit ist interessant für Ingenieurinnen und Ingenieure der Automatisierungstechnik in der Prozess- und Fertigungsindustrie, die ein grundlegendes Verständnis für relevante Effekte der Kabelschirmung bilden wollen."
+}

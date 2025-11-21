@@ -1,0 +1,16 @@
+{
+    "id": "3685",
+    "keywords": [
+        "Leistungselektronik",
+        "Isolierstoff",
+        "Versuchsplanung",
+        "Thermische Belastung",
+        "Infrarotkamera",
+        "Verteilungsfunktion",
+        "Lebensdauer",
+        "Fertigungstechnik",
+        "Draht"
+    ],
+    "title": "Lebensdauerprognose von Drahtisolierungen unter Umrichterbelastung : Konzeption und Validierung von DoE-Versuchsplänen zur Lebensdauerabschätzung",
+    "text": "Die kontinuierliche Weiterentwicklung der Leistungselektronik bringt neue Herausforderungen für die Hersteller von Isolierstoffen mit sich. Insbesondere die schnellen Spannungssprünge von Umrichtern können die Lebensdauer und Zuverlässigkeit von Isolationsanordnungen beeinflussen. Für die Entwicklung entsprechender Gegenmaßnahmen ist es notwendig, die Auswirkung der Umrichterbelastung auf die Isolierung zu analysieren und durch Modelle abbilden zu können. Diese Arbeit beschäftigt sich mit der Entwicklung von Versuchsplänen auf Basis statistischer Versuchsplanung (DoE) und der Anwendung mithilfe relevanter statistischer Methoden. Die Ergebnisse dieser Arbeit zeigen, dass für das verwendete PEEK-isolierte Material eine Mindestanzahl von 20 bis 25 Proben pro Durchgang notwendig ist. Weiterhin wird gezeigt, dass sich die Messwerte bei Temperaturen ≤50 °C nicht mehr durch eine einzelne Verteilungsfunktion abbilden lassen. Die Untersuchung mit einer Wärmebildkamera führt zu der Vermutung, dass die thermische Belastung bei diesen Temperaturen nicht konstant ist und sich daraus eine fehlende Unabhängigkeit der Messwerte ergibt. Final werden Möglichkeiten zum weiteren Umgang mit diesen Abweichungen aufgezeigt."
+}

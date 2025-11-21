@@ -1,0 +1,13 @@
+{
+    "id": "239",
+    "keywords": [
+        "Personennamendatei",
+        "RDF",
+        "OWL",
+        "Semantic Web",
+        "Functional Requirements for Bibliographic Records",
+        "Dublin Core"
+    ],
+    "title": "Normdaten im Semantic Web - Konzept für eine Ontologie der Personennamendatei (PND)",
+    "text": "Das Ziel dieser Arbeit ist es, ein Konzept für eine Darstellung der Personennamendatei(PND) in den Sprachen Resource Description Framework (RDF), Resource DescriptionFramework Schema Language (RDFS) und Web Ontology Language (OWL) zu entwickeln. Der Prämisse des Semantic Web folgend, Daten sowohl in menschenverständlicher als auch in maschinell verarbeitbarer Form darzustellen und abzulegen, wird eine Struktur für Personendaten geschaffen. Dabei wird von der bestehenden Daten- und Struktursituation im Pica-Format ausgegangen. Die Erweiterbarkeit und Anpassbarkeit des Modells im Hinblick auf zukünftige, im Moment gegebenenfalls noch nicht absehbare Anwendungen und Strukurveränderungen, muss aber darüber hinaus gewährleistet sein. Die Modellierung orientiert sich an bestehenden Standards wie Dublin Core, Friend Of A Friend (FOAF), Functional Requirements for Bibliographic Records (FRBR), Functional Requirements for Authority Data (FRAD) und Resource Description and Access (RDA)."
+}

@@ -1,0 +1,12 @@
+{
+    "id": "1699",
+    "keywords": [
+        "Webentwicklung",
+        "WordPress",
+        "Plug in",
+        "Veranstaltung",
+        "Festival"
+    ],
+    "title": "Konzeption und Anwendung eines WordPress-Plugins für den Vergleich von Veranstaltungen",
+    "text": "Plugins erweitern die Funktionalität von WordPress und helfen Webseitenbetreibern beim Hinzufügen neuer Elemente oder Funktionen. Dabei muss der Betreiber selbst keinen komplexen Programmcode schreiben. Auch können diese Erweiterungen als Erleichterung bei der Pflege von Informationen und Inhalten dienen. In der vorliegenden Bachelorarbeit wird die Konzipierung, Umsetzung und Anwendung eines solchen Plugins für den Vergleich von Veranstaltungen beschrieben. Dabei findet es Anwendung auf einer Internetseite zum Thema Festivals. Die Informationen bezüglich der Festivals werden per Import in einer Tabelle gespeichert und für den Vergleich dargestellt. Eintragungen können auch händisch getätigt werden, woraus sich schließlich ergibt, dass das Plugin mit seiner Importfunktion eine zeitsparende und sinnvolle Erweiterung ist."
+}

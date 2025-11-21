@@ -1,0 +1,11 @@
+{
+    "id": "1861",
+    "keywords": [
+        "Genetischer Algorithmus",
+        "Komposition",
+        "Java",
+        "Evolutionärer Algorithmus"
+    ],
+    "title": "Evolutionäre Algorithmen - Genetische Algorithmen zur Musikkomposition",
+    "text": "Die Bachelorarbeit befasst sich mit dem Generieren kurzer fröhlicher und harmonischer Musikstücke mittels des Einsatzes genetischer Algorithmen. Dabei werden die Evolutionsprozesse der Biologie nachgeahmt. In der Programmiersprache Java, unter der Verwendung der Open-Source-Programmierbibliothek JFugue, sind dafür die einzelnen Zyklusphasen entworfen und implementiert worden.\r\nDie Vereinigung der Biologie, der Kunst und der Informatik wird damit erreicht, um etwas ästhetisch Wirksames zu schaffen und stellt den besonderen Reiz der Arbeit dar."
+}

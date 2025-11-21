@@ -1,0 +1,13 @@
+{
+    "id": "1924",
+    "keywords": [
+        "Lernsoftware",
+        "Übung",
+        "Theoretische Informatik",
+        "Formale Sprache",
+        "Automatentheorie",
+        "Java"
+    ],
+    "title": "Erweiterung einer Bewertungssoftware für LON-CAPA unter Verwendung von JFLAP",
+    "text": "Bedingt durch die zunehmende Digitalisierung der wissenschaftlichen Ausbildung entstanden verschiedenste Lehrplattformen, mit denen die Verwaltung von Lehrveranstaltungen und Lehrmitteln möglich geworden ist. Die Plattform LON-CAPA ist eine davon.\r\n\r\nNeben der Verwaltung von Lehrveranstaltungen konnten innerhalb der Plattform über eine Programmierschnittstelle auch Übungsaufgaben definiert werden, die durch das Hinterlegen der korrekten Antwort oder bei der Definition von Multiple-Choice Aufgaben einem Studierenden automatisch Feedback über dessen Lösung geben können. Komplexere Aufgaben mussten dagegen häufig manuell durch Menschen korrigiert werden.\r\n\r\nFür die formalen Sprachen und die Automatenlehre der theoretischen Informatik wurde daher die in Java geschriebene Bibliothek JFLAP modifiziert, um als Bewertungsinstrument Aufgaben aus diesem Themengebiet automatisch auf Korrektheit bewerten zu können. Ein genereller Interfaceansatz ermöglich zusätzliche eine zugängliche Definition weiterer Aufgaben für die untersuchten Themengebiete."
+}

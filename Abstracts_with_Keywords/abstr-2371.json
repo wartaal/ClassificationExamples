@@ -1,0 +1,9 @@
+{
+    "id": "2371",
+    "keywords": [
+        "Moodle",
+        "E-Learning"
+    ],
+    "title": "Neue Frageverhalten für Aufgaben zur automatisierten Programmbewertung",
+    "text": "An der Hochschule Hannover wird das Lern-Management-System Moodle eingesetzt. Für die dort verfügbare Quizfunktion wurde der neue Fragetyp MooPT (Moodle Programming Task) von der Abteilung Informatik der Fakultät IV entwickelt. Einem solchen Quiz muss immer ein Frageverhalten zugewiesen werden. Die Frageverhalten, welche Moodle standardmäßig anbietet, sind nicht mit dem MooPT-Fragetypen kompatibel. Aus diesem Grund müssen diese angepasst werden. Dies wurde bereits für zwei der acht Standard-Frageverhalten von der Abteilung Informatik durchgeführt.\r\n\r\nDiese Arbeit beschäftigt sich mit der Entwicklung der restlichen Verhalten für den MooPT-Fragetypen. Dabei wird die Moodle-Quiz-Komponente und der MooPT-Fragetyp mit seinen Frageverhalten analysiert. Anschließen wird auf Basis dieser Analyse die Entwicklung der restlichen Frageverhalten erläutert.\r\n\r\nDer Quellcode der Moodle-Plattform ist in PHP geschrieben und somit auch der des MooPT-Fragetypen und der der Frageverhalten. Auf GitHub stehen die Implementierungen der entwickelten Frageverhalten unter der GPL-Lizenz zur Verfügung:\r\n\r\nhttps://github.com/LennartRolfes/moodle-qbehaviour_adaptivemoopt\r\nhttps://github.com/LennartRolfes/moodle-qbehaviour_adaptivemooptnopenalty\r\nhttps://github.com/LennartRolfes/moodle-qbehaviour_deferredmooptcbm\r\nhttps://github.com/LennartRolfes/moodle-qbehaviour_immediatemooptcbm\r\nhttps://github.com/LennartRolfes/moodle-qbehaviour_interactivemoopt"
+}

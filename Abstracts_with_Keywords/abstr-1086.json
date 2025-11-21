@@ -1,0 +1,9 @@
+{
+    "id": "1086",
+    "keywords": [
+        "XML",
+        "Editor"
+    ],
+    "title": "Entwicklung eines generischen XML-Editors für ein interoperables Programmieraufgabenformat",
+    "text": "Diese Bachelorarbeit befasst sich mit der Entwicklung eines generischen XML-Editors für das ProFormA-Aufgabenformat. ProFormA ermöglicht einen Aufgabenaustausch zwischen Hochschulen, Lernmanagementsystemen und Gradern. Aufgaben werden von Lehrkräften genutzt und für ihren individuellen Lehrkontext angepasst. Weil das manuelle Editieren von ProFormA-Aufgaben durch XML, Erweiterbarkeit und Komplexität des Formats erschwert wird, muss ein XML-Editor entwickelt werden, der generische Mechanismen implementiert, die das Anzeigen, Editieren, Hinzufügen und Entfernen von ProFormA- und Fremdformatelementen ermöglichen."
+}

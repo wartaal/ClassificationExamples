@@ -1,0 +1,11 @@
+{
+    "id": "3718",
+    "keywords": [
+        "Generative KI",
+        "Verzerrung",
+        "Midjourney",
+        "Qualitative Analyse"
+    ],
+    "title": "Biases von KI-Bildgeneratoren – Lassen sich Anzahl und Stärke von generierten Biases von KI-Bildgeneratoren durch einen zusätzlichen Anti-Bias-Disclaimer im Prompt minimieren? Eine Untersuchung.",
+    "text": "In der vorliegenden Arbeit wird der Frage nachgegangen, ob die Implementierung eines zusätzlichen Anti-Bias-Disclaimers in den Prompts dazu beitragen kann, die Anzahl und die Intensität von Verzerrungen (Biases) bei KI-Bildgeneratoren zu reduzieren. Die vorliegende Untersuchung nimmt eine qualitative Analyse zweier Bildreihen von Porträts vor, die mittels des KI-Bildgenerators Midjourney erstellt wurden. Eine Reihe basiert auf einem Standard-Prompt, die zweite ergänzt diesen um den Disclaimer. Die Ergebnisse der Untersuchung legen nahe, dass der Disclaimer selektiv wirkt und einzelne Diversitätsdimensionen wie Geschlecht, Alter und ethnische Merkmale teilweise modifiziert. Eine umfassende Minimierung aller Biases, insbesondere im Hinblick auf sichtbare Behinderungen oder komplexe demografische Merkmale, wird jedoch nicht erreicht. Die Hypothese wird somit nur partiell bestätigt, da der Einfluss des Disclaimers stark kontextabhängig ist und keine generelle Reduktion der Verzerrungen bewirkt."
+}

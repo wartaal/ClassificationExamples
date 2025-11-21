@@ -1,0 +1,12 @@
+{
+    "id": "2209",
+    "keywords": [
+        "Forschungsdaten",
+        "Medizin",
+        "Datenschutz",
+        "Synthetische Daten",
+        "Datenqualität"
+    ],
+    "title": "Methoden und Werkzeuge zur privatheitsbewahrenden Synthese medizinischer Forschungsdaten",
+    "text": "In der medizinischen Forschung nimmt die Bedeutung, langfristigen Zugriff auf hochqualitative medizinische Daten zu erhalten, stetig zu. Aus wissenschaftlicher, ethischer und besonders auch aus rechtlicher Sicht darf die Privatheit betroffener Individuen dabei nicht verletzt werden.\r\n\r\nIn dieser Masterarbeit wurde ein synthetischer Datensatz erzeugt, der sowohl auf die Kriterien einer guten Datenqualität als auch das Offenlegungsrisiko geprüft wurde. Im Rahmen einer Literaturrecherche wurden zunächst Methoden zur Erzeugung synthetischer Daten, Evaluierungstechniken zur Prüfung der Datenqualität synthetischer Daten und Anonymisierungstechniken ermittelt und zusammengetragen. Mit einem Teildatensatz des MIMIC-III-Datensatzes wurde anschließend mit dem Tool DataSynthesizer ein neuer Datensatz synthetisiert.\r\n\r\nDie beiden Datensätze wurden mittels Kolmogorov-Smirnow-Test, Kullback-Leibler-Divergenz und der Paarweisen-Korrelations-Differenz verglichen. Für die kategorischen Attribute konnte eine deutliche Übereinstimmung in der Werteverteilung nachgewiesen werden. Für die numerischen Attribute waren in den Verteilungen Unterschiede, welche mit Fehlwerten im ursprünglichen Datensatz assoziiert wurden.\r\n\r\nFür die Prüfung der Privatheit der Daten wurde für unterschiedliche Szenarien für den ursprunggebenden Datensatz eine höhere k-Anonymität und für den synthetischen Datensatz eine höhere l-Diversity ermittelt.\r\n\r\nZudem wurden in beiden Datensätzen übereinstimmende Objekte ermittelt. Für eine vorab aus dem realen Datensatz erstellte Kontrollgruppe wurde ein mehr als zwei Mal höheres Relatives Risiko und eine 2,9-fach höhere Chance (Odds-Ratio) ermittelt, ein identisches Objekt zu identifizieren, als für den synthetischen Datensatz."
+}

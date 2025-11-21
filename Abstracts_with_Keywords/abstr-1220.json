@@ -1,0 +1,8 @@
+{
+    "id": "1220",
+    "keywords": [
+        "XML"
+    ],
+    "title": "Entwurf und Implementierung eines Instanziierungsservices für variable Programmieraufgaben",
+    "text": "Zu einer Vielzahl von Vorlesungen gibt es Übungsaufgaben, anhand derer das theoretisch erlernte Wissen noch weiter vertieft, gefestigt oder praktisch angewandt werden kann. Klassischerweise erhalten alle Studierende hierfür dieselbe Aufgabe. Allerdings gibt es gute Gründe, für alle eine jeweils individualisierte Variante zu erstellen. Da es für eine einzelne Lehrperson unmöglich ist, für alle Studierenden individuelle Aufgaben zu konzipieren, wurden in anderen Arbeiten bereits Möglichkeiten entwickelt, variable Aufgaben zu formulieren, aus denen viele unterschiedliche Varianten generiert werden können. Diese Bachelorarbeit befasst sich mit dem Entwurf und der Implementierung eines Services, der diese Generierung automatisiert durchführen kann. Er soll unabhängig von einem konkreten Frontend sein und mit beliebigen Gradern zusammenarbeiten können."
+}

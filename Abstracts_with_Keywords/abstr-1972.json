@@ -1,0 +1,10 @@
+{
+    "id": "1972",
+    "keywords": [
+        "Lernsoftware",
+        "Pathologie",
+        "Rückmeldung"
+    ],
+    "title": "Entwicklung einer Lernsoftware für das Fach \"Pathologie\"",
+    "text": "In der Arbeit wird untersucht, wie Aufgaben im pathologischen Kontext automatisiert bewertet und für die Lernenden lernförderliches Feedback generiert werden kann. Dafür wurde eine Lernsoftware entwickelt, welche das Erstellen und automatisierte Bewerten der Aufgaben ermöglicht. Das Feedback informiert die Lernenden nicht nur darüber, ob eine Aufgabe richtig oder falsch gelöst worden ist, sondern unterstützt auch bei der Findung der richtigen Lösung. Hierzu wurde untersucht, wie das Feedback in einer Lernsoftware aufgebaut sein muss, um den Lernerfolg zu fördern. Auf dieser Grundlage wurden mit den Stakeholdern der Medizinischen Hochschule Hannover die Anforderungen an die Lernsoftware definiert und umgesetzt."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "3581",
+    "keywords": [
+        "Automatisierungssystem",
+        "Computersicherheit"
+    ],
+    "title": "Bestandsaufnahme zur Härtung von Automatisierungssystemen im Sinne der OT-Security",
+    "text": "Die vorliegende Arbeit befasst sich mit der Härtung von industriellen Automatisierungssystemen. Unter Härtung versteht man die Umsetzung von Maßnahmen, die die Cybersicherheit dieser Systeme erhöhen. Dies beinhaltet in der Regel das Entfernen oder Deaktivieren von nicht benötigten Funktionen, um die Angriffsfläche zu reduzieren. Mögliche Maßnahmen sind beispielsweise die Reduzierung von Schnittstellen, die Einschränkung von Benutzerrechten oder der Einsatz von Software zur Überwachung und Kontrolle der Systemkonfiguration. Im Rahmen dieser Arbeit wird zunächst der aktuelle Stand der Härtung von industriellen Automatisierungssystemen anhand relevanter Normen und Standards analysiert. Anschließend werden die Härtungsempfehlungen der Hersteller ABB und Siemens in diesem Kontext betrachtet und eingeordnet. Darauf aufbauend wird ein generischer Leitfaden zur Härtung von Operational Technology (OT)-Systemen erarbeitet. Dieser Leitfaden, der als separates Dokument der Arbeit beigefügt ist, soll Anwender dabei unterstützen, ihre industriellen Automatisierungssysteme effektiv und systematisch gegen Cyber-Bedrohungen abzusichern. Der Leitfaden beinhaltet praxiserprobte Empfehlungen und Maßnahmen, die sich an den Erkenntnissen aus der Normenanalyse und den Vorgaben von ABB und Siemens orientieren. Damit soll er Betreibern von OT-Systemen als wertvolle Orientierungshilfe für die Umsetzung geeigneter Härtungsmaßnahmen dienen."
+}

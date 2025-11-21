@@ -1,0 +1,11 @@
+{
+    "id": "3681",
+    "keywords": [
+        "Klassifikation",
+        "Synthetische Daten",
+        "Trainingsdaten",
+        "Convolutional Neural Network"
+    ],
+    "title": "Untersuchung der Effektivität synthetischer Daten für die Bildklassifizierung",
+    "text": "Der rasante Fortschritt im Bereich der künstlichen Intelligenz wird maßgeblich durch den unstillbaren Datenhunger moderner neuronaler Netze getrieben. Während diese Netze beeindruckende Leistungen in der Bildklassifizierung erzielen, benötigen sie dafür Millionen annotierter Trainingsbilder – eine Ressource, die in der Praxis oft schwer zu beschaffen ist. Die Erfassung und manuelle Annotation großer Datenmengen ist nicht nur zeit- und kostenintensiv, sondern stößt auch häufig an datenschutzrechtliche und ethische Grenzen.\r\n\r\nDie Lösung für dieses Dilemma liegt in der Simulation von Daten. Durch das Erschaffen einer digitalen Welt, die der Realität täuschend ähnlich ist, in der neuronale Netze uneingeschränkt lernen dürfen, können unbegrenzte Mengen an Trainingserfahrungen generiert werden. In diesen simulierten Umgebungen können Netze Millionen von verschiedenen Objektvarianten unter verschiedenen Bedingungen erfassen, ohne dass ein einziges reales Bild erfasst werden muss. Die synthetischen Daten kommen dabei mit perfekten Annotationen – also einer Genauigkeit, die bei manueller Beschriftung realer Bilder praktisch nicht möglich wäre."
+}

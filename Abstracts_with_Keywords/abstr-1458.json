@@ -1,0 +1,10 @@
+{
+    "id": "1458",
+    "keywords": [
+        "Umsetzung",
+        "Java",
+        "Lernsoftware"
+    ],
+    "title": "Entwurf und Implementierung eines Konverters für Aufgaben von LON-CAPA nach Moodle-STACK",
+    "text": "An der Hochschule Hannover soll die Lernplattform LON-CAPA von Moodle-STACK abgelöst werden. Dazu werden Aufgaben von LON-CAPA nach Moodle-STACK konvertiert. Durch die Entwicklung eines Konverters kann ein großer Teil dieser Arbeit automatisiert erfolgen. Aufgrund der potentiellen Komplexität von LON-CAPA-Aufgaben ist nicht jede Aufgabe in vollem Umfang zu übersetzen und eine manuelle Nacharbeit notwendig.\r\n\r\nIn dieser Arbeit werden die LON-CAPA-Antworttypen numerical, formula und math response analysiert. Es wird untersucht, wie LON-CAPA-Aufgabenelemente einzeln umgewandelt werden können und welche Parameter im Moodle-STACK-Format gesetzt werden müssen, um eine äquivalente Aufgabe in Moodle-STACK zu erhalten.\r\n\r\nDie technische Umsetzung erfolgt in Java. Der modulare Aufbau sieht Wartbarkeit und Weiterentwicklung vor. Auf GitHub steht die Implementierung unter der GPL (GNU General Public License) zur Verfügung: https://github.com/kiliandangendorf/lc2mdl"
+}

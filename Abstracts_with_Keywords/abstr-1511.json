@@ -1,0 +1,10 @@
+{
+    "id": "1511",
+    "keywords": [
+        "Datenanalyse",
+        "Echtzeitverarbeitung",
+        "Greedy-Algorithmus"
+    ],
+    "title": "Greedy4Cep, ein Greedy-Algorithmus zum Lernen von Complex Event Processing Regeln",
+    "text": "Das Bedürfnis Daten in Echtzeit zu analysieren und auf Ereignisse zu reagieren, ist innerhalb aller Branchen in den letzten Jahren stark gestiegen. Als die Analysetechnik für Echtzeitdatenströme hat sich das Complex Event Processing (CEP) durchgesetzt. Mithilfe von Regeln lassen sich kausale, temporale und räumliche Zusammenhänge von Ereignissen definieren und durch eine CEP-Engine evaluieren. Die Konstruktion von Regeln hat sich dabei als einschränkende Faktor von CEP herausgestellt. Greedy4Cep ist ein algorithmischer Ansatz zur automatisierten Erstellung von CEP-Regeln anhand eines historischen Datenstromes."
+}
