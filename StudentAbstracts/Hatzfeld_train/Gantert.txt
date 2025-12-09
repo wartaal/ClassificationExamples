@@ -1,0 +1,550 @@
+Klaus Gantert
+1.1 Aufgaben, Typen und Träger von
+Bibliotheken
+Wandel, Vielfalt und Kooperation
+The only thing that you absolutely have to know,
+is the location of the library.
+Albert Einstein
+1 Einleitung
+Trotz konkurrierender Angebote sind Bibliotheken weiterhin die zentralen Informationsdienstleister
+für die Bevölkerung. Die Leistungsbilanz der Bibliotheken in Deutschland
+kann sich sehen lassen: Allein die rund 7 000 Bibliotheken, die der Deutschen
+Bibliotheksstatistik Daten geliefert haben, stellten ihren Nutzer:innen mehr als 370 Millionen
+Medien zur Verfügung, rund 335 Millionen Medien wurden 2022 ausgeliehen.
+Trotz der pandemiebedingten Einschränkungen wurden allein die öffentlichen Bibliotheken
+2022 mehr als 84 Millionen Mal aufgesucht.1 Bibliotheken werden somit häufiger
+besucht als Kinos oder die Spiele der Fußballbundesliga. Alle Bibliotheken haben in der
+Zeit der Pandemie ihre digitalen Angebote in allen Bereichen quantitativ erheblich ausgeweitet
+und viele neue virtuelle Services etabliert.
+2 Definition und Aufgaben
+2.1 Definition
+Während vor wenigen Jahrzehnten die Definition des Begriffs „Bibliothek“ und die
+Beschreibung der Hauptaufgaben dieser Institution noch leicht möglich war, lässt
+sich beides heute immer schwerer eindeutig fassen. Als Bibliothek galt bis vor wenigen
+Jahrzehnten eine Sammlung von Büchern, die erworben, erschlossen, zur Benutzung
+zur Verfügung gestellt und teilweise auch dauerhaft archiviert werden. Diese
+traditionellen Aufgaben werden von Bibliotheken auch heute noch erfüllt. Darüber
+hinaus ist das heutige Bibliothekswesen jedoch von drei grundlegenden Tendenzen
+geprägt:
+ Vgl. https://www.bibliotheksstatistik.de/ (07.08.2023).
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-002
+– Alle klassischen bibliothekarischen Aufgaben haben tiefgreifende Veränderungen
+erfahren.
+– Eine Vielzahl neuer Medienformen und neuer Aufgaben sind hinzugekommen.
+– Immer mehr Arbeitsschritte und Services werden heute kooperativ geleistet bzw.
+angeboten.
+Die erste entscheidende Veränderung der letzten Jahre und Jahrzehnte ist eine Veränderung
+der Sammelgegenstände moderner Bibliotheken. Waren früher Printmedien (vor
+allem Bücher und Zeitschriften) die charakteristischen Sammelgegenstände von Bibliotheken,
+so sind die Sammlungen moderner Bibliotheken sowohl im analogen als auch
+im digitalen Bereich durch eine enorme Medienvielfalt geprägt. Neben den klassischen
+Buchmedien beschaffen und verwalten Bibliotheken heute in großem Umfang elektronische
+Publikationen (vor allem E-Books, E-Journals, Datenbanken und Forschungsdaten).
+Oft wird der elektronischen Ausgabe eines Werks grundsätzlich der Vorzug gegeben (eonly-
+bzw. e-preferred-policy). Wissenschaftliche Bibliotheken beispielsweise gaben 2022
+erheblich mehr Mittel für elektronische Publikationen aus (149 Mio. Euro) als für Printmedien
+(102 Mio. Euro).2 Öffentliche Bibliotheken sammeln verstärkt auch audiovisuelle
+Medien, wobei die klassischen Datenträger, wie CDs, DVDs und Blu-rays, immer stärker
+ergänzt werden durch digitale Online-Angebote, wie die Onleihe und bibliothekarische
+Streamingdienste. Daneben gehören zu ihrem Sammelspektrum auch Multimediaangebote,
+Computerspiele und vielfach E-Book-Reader.
+Der Bestand von Bibliotheken ist jedoch nicht nur im Hinblick auf die Vielfalt der
+erworbenen Medien reichhaltiger geworden, das Informationsangebot moderner Bibliotheken
+umfasst weitaus mehr als den eigenen Bestand. Bibliotheken erschließen
+und bieten nicht mehr nur diejenigen Medien an, die sie tatsächlich selbst besitzen.
+Auch externe Angebote werden heute in großem Umfang in das eigene Informationsangebot
+integriert, z. B. wird auf kostenfreie E-Books, Webseiten und Datenbanken
+verlinkt; vielfach bieten Bibliotheken ihren Nutzenden heute im Rahmen der sogenannten
+Patron-Driven-Acquisition (PDA) bzw. Evidence Based Selection (EBS) immer
+häufiger auch sehr große Titelmengen in ihren Katalogen an, deren Erwerbung bzw.
+Lizenzierung ggf. erst durch den Zugriff eines Nutzers bzw. einer Nutzerin ausgelöst
+wird.
+Schon seit vielen Jahren engagieren sich Bibliotheken imBereich des Open Access.
+Auf institutionellen Repositorien bieten z. B. Hochschulbibliotheken sowohl die Strukturen
+als auch die im Open Access publizierten Inhalte ihrer Institution. Daneben stellen
+wissenschaftliche Bibliotheken ihren Angehörigen über Publikationsfonds vielfach Mittel
+zur Verfügung, um Publikationen auch in Zeitschriften von Wissenschaftsverlagen
+im Open Access publizieren zu können. Über verschiedene Formen der Open-Access-
+Transformation überführen Bibliotheken mit ihren Finanzmitteln immer häufiger auch
+ Vgl. Deutscher Bibliotheksverband 2022: S. 4.
+12 Klaus Gantert
+lizenzpflichtige E-Medien in den Open-Access-Bereich. Zunehmend erweitert wird diese
+Open-Access-Bewegung im Bibliotheksbereich durch neue Veröffentlichungsformen
+und neue Formen der wissenschaftlichen Arbeit. Durch Angebote in den Bereichen
+Open Data, Open Educational Resources, Open Source, Citizen Science, Open Peer Review
+und Scientific Social Networks wird das wissenschaftliche Arbeiten zur Open Science
+entwickelt; für die Weiterentwicklung dieses Sektors bieten einige Bibliotheken
+auch spezielle Open Science Labs an.
+Weitreichend verändert haben sich auch die Rahmenbedingungen und die Vorgehensweisen
+bei der Bestandserschließung. Früher waren bibliothekarische Regelwerke
+für die Medienerschließung in idealer Weise auf die analoge Präsentation homogener
+Mediengruppen (Buchmedien) in geschlossenen Systemen abgestimmt (Band-, Zettel-,
+Listenkataloge etc.). Moderne Regelwerke sind für Online-Kataloge konzipiert, wichtige
+Prinzipien sind hierbei der unkomplizierte, vielfach auch spartenübergreifende Datenaustausch
+mit externen Partnern sowie kooperative Lösungen (Fremddatenübernahme,
+Verbundkatalogisierung, internationale Regelwerke, Discovery Services, cloudbasierte
+Infrastruktur). Ebenso wichtig ist der Aspekt des offenen Systems: Bibliographische
+Daten werden in vielfacher Weise untereinander und mit den Daten externer Anbieter
+verknüpft. Bibliotheken stellen ihre Katalogdaten für die kostenlose Nachnutzung und
+gegenseitige Verknüpfung mit anderen Anbietern zur Verfügung (Catalogue Enrichment,
+Linked Open Data). Die klassische Katalogisierungsarbeit in Bibliotheken entwickelte
+sich hierdurch zum komplexen Metadatenmanagement, das auch die Beachtung
+internationaler Regelwerke und Standards und auch den internationalen spartenübergreifenden
+Datenaustausch umfasst. Und schließlich bieten Bibliotheken neben der
+klassischen verbalen Suche inzwischen auch verstärkt semantische Suchen sowie visuelle
+und geografische Recherchemöglichkeiten an.
+Ebenfalls stark verändert hat sich die Rolle der Bibliotheken bei der Archivierung
+der Bestände, die vorrangig von den sogenannten Archivbibliotheken wahrgenommen
+wird. Hier ist zu unterscheiden zwischen der Erhaltung der Originale und der
+Schaffung von Sekundärformen. Bei der Erhaltung der Originale wird mit großem
+technischen Aufwand gegen die verschiedenen Formen des zeit-, nutzungs- und schadensbedingten
+Zerfalls vorgegangen. Eine wichtige Rolle spielt hierbei insbesondere
+der Kampf gegen den Zerfall von säurehaltigem Papier, das vor allem in der Zeit von
+1850 bis 1990 verwendet wurde und große Teile des Altbestands bedroht.
+Durch die weitreichende Digitalisierung von gefährdeten bzw. besonders schützenswerten
+Originalen, aber auch generell durch die fortschreitende Massendigitalisierung
+von älteren, urheberrechtsfreien Beständen können diese nicht nur gesichert und
+leichter benutzbar gemacht werden, sie erhalten auch den medienspezifischen Mehrwert
+einer elektronischen Publikationsform (kostenfreier, orts- und zeitunabhängiger
+Online-Zugriff, Möglichkeit des Datenexports, Volltextsuche, Verlinkung etc.). Die Digitalisierung
+älterer Bibliotheksbestände (Retrodigitalisierung) findet heute flächendeckend
+und kooperativ an vielen Bibliotheken statt, vielfach in großem Umfang mit Hilfe von
+Scanrobotern und in Zusammenarbeit mit externen Partnern; die so entstandenen
+1.1 Aufgaben, Typen und Träger von Bibliotheken 13
+Sammlungen umfassen zum Teil ein Datenvolumen von mehr als einer Milliarde Dateien
+und mehreren hundert Terabyte. Doch dies führt – wie auch die wachsende Zahl
+der neu erworbenen genuin elektronischen Bestände – zu einem anderen Archivierungsproblem:
+Die Langzeitarchivierung elektronischer Daten stellt eine bedeutende
+dauerhafte Herausforderung dar, für die in Bibliotheken technische Lösungen entwickelt
+und eingesetzt werden.
+Ein weiterer Punkt schließlich, der das moderne Bibliothekswesen unserer Zeit von
+den Bibliotheken der vergangenen Jahrzehnte sichtbar unterscheidet, ist die Rolle des
+Gebäudes, in dem die bibliothekarischen Arbeitsabläufe und die Benutzung stattfinden.
+Die weitreichendsten Veränderungen bei der Rolle und der Ausgestaltung des Bibliotheksgebäudes
+betreffen die Benutzung. Während das Gebäude der Bibliothek in früheren
+Jahrzehnten in der Regel nicht nur der zentrale, sondern oft der einzige Ort der
+Ausleihe und der Benutzung des Medienbestands war, treten diese Aspekte durch die
+vielfältigen digitalen Angebote zunehmend in den Hintergrund. Bei der Ausleihe kann
+über das Internet rund um die Uhr von jedem Ort aus bestellt werden, neben die Abholung
+bzw. Benutzung vor Ort treten andere Formen der ortsunabhängigen Bereitstellung
+(Download, Remote Access, Onleihe, Dokumentlieferdienste etc.). Auf diesen
+Wegen kann die Benutzung von Bibliotheksbeständen verstärkt ortsunabhängig erfolgen.
+Das verändert zum einen die Nutzung wissenschaftlicher Spezialliteratur, bei der
+eine Wissenschaftlerin bzw. ein Wissenschaftler heute – abhängig von der Fachrichtung
+– einen überwiegenden Anteil der gewünschten Informationen auf dem eigenen
+Rechner abrufen und in die individuelle virtuelle Forschungsumgebung integrieren
+kann. Zum anderen ist die Nutzung von historischem Kulturgut dank qualitativ hochwertiger
+Sekundärformen nicht mehr allein in Forschungs-, Handschriften- und
+Sonderlesesälen möglich (und damit oft mit Reisen verbunden), sondern auch über
+das Internet überall und jederzeit. Ähnliche Tendenzen zeichnen sich auch im Bereich
+der bibliothekarischen Auskunft ab. Während früher die Infotheke im Lesesaal
+der zentrale Ort für Fragen aller Art war, sind die heutigen Möglichkeiten der Nutzer:
+innen, eine Auskunft zu erlangen, vielfältiger und in der Regel ortsunabhängig.
+Bibliotheken bieten ihre Auskünfte heute über E-Mail, soziale Netzwerke, Chats und Messengerdienste,
+zum Teil auch in virtuellen Welten an; sie chatten, videotelefonieren und
+bearbeiten Anfragen ihrer Nutzenden häufig auch im Rahmen internationaler Auskunftsverbünde.
+Trotz all dieser Entwicklungen sind die Lesesäle von Bibliotheken heute sehr
+gut besucht, allerdings unter veränderten Rahmenbedingungen. Attraktive Architektur,
+verlängerte Öffnungszeiten (bis zu 365 Tage im Jahr rund um die Uhr) und eine sehr gute
+Infrastruktur machen die Bibliotheken heute zu begehrten und häufig überfüllten Treffpunkten
+wissenschaftlich arbeitender wie lernender Nutzer:innen. Loungebereiche sorgen
+vielfach für Entspannung, offene Bereiche und Gruppenarbeitsräume unterstützen
+kooperatives Arbeiten. Durch das Konzept der zonierten Bibliothek ist individuelles konzentriertes
+Arbeiten in der Bibliothek ebenso möglich wie Kommunikation, Gruppenarbeit
+und Entspannung. Dieses breitere Raumangebot sorgt dafür, dass Bibliotheken
+zunehmend als Dritte Orte wahrgenommen werden (nicht-kommerzielle Räume von
+14 Klaus Gantert
+hoher Aufenthaltsqualität, jenseits des Privaten und der Berufswelt). Sehr spezialisierte
+Bereiche wie Makerspaces in wissenschaftlichen und Repair Cafés in öffentlichen Bibliotheken
+ergänzen das Raumangebot vielfach noch zusätzlich.
+2.2 Aufgaben
+Neben den hier nur kurz angerissenen Veränderungen in ihrem klassischen Aufgabenprofil
+übernehmen moderne Bibliotheken heute aber auch eine Vielzahl von
+neuen Aufgaben, von denen zumindest einige wichtige hier aufgeführt werden sollen.
+Immer stärker ausgebaut wird das bibliothekarische Spektrum an Angeboten und
+Veranstaltungen zur Vermittlung von Informations- und Medienkompetenz. Die von
+wissenschaftlichen Bibliotheken angebotenen Veranstaltungen zur Vermittlung von
+Informationskompetenz (IK) werden inhaltlich immer vielfältiger und ausdifferenzierter
+und nehmen auch quantitativ von Jahr zu Jahr zu. Als Einzelveranstaltungen oder
+als modular aufeinander abgestimmte Lehrveranstaltungen vermitteln sie – häufig als
+Bestandteil universitärer Curricula – zentrale Schlüsselkompetenzen für das wissenschaftliche
+Arbeiten: Sie schaffen nicht nur die Grundlagen für die effektive Literaturund
+Informationsrecherche, sondern sie schulen auch den professionellen Umgang mit
+Informationsquellen im wissenschaftlichen Prozess (Literaturverwaltung, Zitieren, gute
+wissenschaftliche Praxis, Publikationsberatung etc.). Schulungen zur Medienkompetenz
+werden vor allem von öffentlichen Bibliotheken angeboten.
+Ein neuerer Arbeitsbereich in Bibliotheken, der insbesondere in Hochschul-, Forschungs-
+und Spezialbibliotheken eine immer größere Rolle spielt, ist das Publizieren
+und Archivieren von Forschungsdaten. Der Umgang mit diesen Daten ist im Vergleich
+zur Handhabung klassischer Publikationen aufgrund der Heterogenität der Datenformate
+überaus anspruchsvoll. Die Aufgaben des Forschungsdatenmanagements beinhalten
+vor allem das Publizieren und Erschließen des Materials, die Gewährleistung
+ihrer Weiterverwendbarkeit und Langzeitarchivierung. Um aufwendig erarbeitete
+Forschungsdaten im Sinne der Nachhaltigkeit langfristig nutzbar anzubieten, aber
+auch um Forschungsergebnisse reproduzieren und überprüfen zu können, fordern
+viele Einrichtungen der Forschungsförderung heute bei der Antragsstellung von den
+Wissenschaftler:innen einen Datenmanagementplan. Bibliotheken unterstützen ihre
+Nutzer:innen hierbei sowohl durch den Aufbau von Infrastruktur wie auch durch die
+Entwicklung von flankierenden Beratungsangeboten.
+Dauerhaft entwickeln Bibliotheken heute auch Softwareanwendungen, Datenbanken,
+Informationsressourcen, Schnittstellen und Verbundsysteme weiter, um so umfassende
+und effiziente Daten- und Informationsinfrastrukturen anbieten zu können.
+Auch die sogenannten forschungsnahen Dienstleistungen wie Publikationsdienste,
+Publikationsdatenmanagement, Szientometrie, Systematic Reviews und die Integration
+digitaler Infrastrukturen nehmen im Dienstleistungsspektrum wissenschaftlicher
+Bibliotheken heute einen wichtigen Platz ein.
+1.1 Aufgaben, Typen und Träger von Bibliotheken 15
+Entsprechend dieser Ausweitung der bibliothekarischen Arbeitsfelder haben sich
+auch im Berufsprofil von Bibliothekar:innen viele neue Schwerpunkte und damit auch
+Spezialisierungen und Bezeichnungen ergeben. Vielfach wird heute – entsprechend dieser
+Spezialisierungen – z. B. unterschieden zwischen Data Librarians (mit dem zentralen
+Arbeitsfeld des Datenmanagements), Embedded Librarians (forschungsnah eingebettet
+in eine wissenschaftliche Projektgruppe) oder Liaison Librarians (zeichnen sich durch
+eine besondere Nähe zu den Benutzenden aus, in wissenschaftlichen Bibliotheken vor
+allem zu den Forscher:innen).
+Neue Aufgabenschwerpunkte im Bereich der öffentlichen Bibliotheken ergeben
+sich insbesondere durch den demografischen und gesellschaftlichen Wandel, wobei es
+aufgrund der Verschiebungen in der Alterspyramide nicht nur zu quantitativen Veränderungen
+kommt. Bibliotheken müssen das veränderte Bildungs- und Freizeitverhalten
+der älteren Generation ebenso berücksichtigen wie die spezifischen Wünsche und Anforderungen
+von Kindern, Jugendlichen und der sogenannten Generationen Y, Z und α.
+Weitere Herausforderungen bilden Aufgaben bei der Integration von Menschen mit
+Migrationshintergrund (s. u.). In der frühkindlichen Bildung und der Leseförderung
+sind öffentliche Bibliotheken die wichtigsten Bildungspartner der Schulen. Darüber hinaus
+gilt weiterhin, dass öffentliche Bibliotheken gerade in ländlichen und kleinstädtischen
+Regionen oft die aktivsten Träger des kommunalen kulturellen Lebens sind.
+Bei nahezu allen Aufgabenbereichen, die hier angesprochen wurden, arbeiten Bibliotheken
+heute in Netzwerken zusammen. Kooperiert wird zumeist auf fachlicher
+oder räumlicher Ebene (lokal, regional, national und international), vielfach auch projektbezogen.
+Fachlich zeigen sich solche Kooperationen im Erwerbungsbereich z. B. in
+der konsortialen Erwerbung von Lizenzen für E-Medien und bei der koordinierten Erwerbung
+wie der Sammlung Deutscher Drucke (SDD). Gemeinsame Erschließungsarbeit
+zeigt sich beispielsweise bei der Nutzung von Verbundkatalogen und im Austausch von
+Metadaten; auch die Erschließung von historischen Beständen mit Unterstützung der
+an sechs Bibliotheken angesiedelten Handschriftenzentren und deren Dienstleistungen
+kann hierzu gerechnet werden. Kooperative Angebote der Bibliotheksbenutzung bieten
+beispielsweise die bibliotheksübergreifende Bestellung, Ausleihe und Rückgabe von Medien
+in lokalen Verbänden, zum Teil basierend auf einer gemeinsamen Benutzungskarte,
+oder der bibliothekarischen Fernleihe. Regionale und Nationale Kooperation
+wird besonders deutlich beim Angebot zentraler Strukturen der Informationsinfrastruktur.
+Sehr wichtig in diesem Zusammenhang sind die Deutsche Digitale Bibliothek
+(DDB), die Fachinformationsdienste für die Wissenschaft (FID) und das Programm Nationale
+Forschungsdateninfrastruktur (NFDI). Projektbasierte bibliothekarische Kooperation
+erfolgt z. B. die retrospektive deutsche Nationalbibliografie (VD 16, VD 17 und VD
+18), vielfach aber auch in den vernetzten Digitalisierungsprojekten im Bereich einzelner
+Medienformen oder Bestandsgruppen.
+Durch diese vielfältige Vernetzung und Zusammenarbeit fügen sich für die Nutzenden
+– die immer im Zentrum der bibliothekarischen Arbeit stehen – die zum Teil sehr
+spezifischen Angebote von völlig unterschiedlichen Bibliotheken zu einem umfassen-
+16 Klaus Gantert
+den Informationsangebot zusammen. Insofern lässt sich das heutige Bibliothekswesen
+zwar kaum noch umfassend definieren und beschreiben, mit den Begriffen „Wandel“,
+„Vielfalt“ und „Kooperation“ lassen sich die wichtigsten Entwicklungslinien jedoch
+durchaus benennen.
+3 Bibliothekstypen
+Der hier aufgezeigten Vielfalt der bibliothekarischen Aufgaben entspricht auch die
+Vielfalt der Bibliothekstypen.
+3.1 Nationalbibliotheken
+Besonders deutlich wird diese Vielfalt des deutschen Bibliothekswesens bereits bei einem
+Blick auf die Bibliotheken von nationaler Bedeutung bzw. auf die Bibliotheken, die nationalbibliothekarische
+Aufgaben übernehmen. Während in anderen Staaten häufig eine
+dominierende Nationalbibliothek alle nationalbibliothekarischen Aufgaben wahrnimmt,
+werden diese in Deutschland aufgrund der geschichtlichen Entwicklungen und der föderalen
+Struktur kooperativ von mehreren Bibliotheken übernommen. Zu nennen ist
+hier zunächst die Deutsche Nationalbibliothek (DNB) mit Sitz in Leipzig und Frankfurt
+am Main. 1912 als Deutsche Bücherei gegründet, sammelt sie auf der Grundlage des
+Pflichtexemplarrechts alle seit 1913 in Deutschland erschienenen Drucke und verzeichnet
+sie in der Deutschen Nationalbibliografie. Ergänzt wird das Sammelspektrum der Deutschen
+Nationalbibliothek durch die im Ausland erschienene Literatur in deutscher Sprache,
+durch Übersetzungen von Werken deutscher Sprache und durch Literatur über
+Deutschland und Persönlichkeiten des deutschen Sprachgebiets, die sogenannten Germanica.
+Wurden zunächst nur gedruckte Werke und elektronische Publikationen auf Datenträgern
+gesammelt, erweiterte das „Gesetz über die Deutsche Nationalbibliothek“ (DNBG)
+2006 die Zuständigkeit der DNB auch auf „Medienwerke in unkörperlicher Form“ (Netzpublikationen).
+Diese werden von der DNB seither zwar in großem Umfang verzeichnet
+und archiviert, eine umfassende Sammlung aller in Deutschland veröffentlichten Online-
+Publikationen findet jedoch noch nicht statt.
+Aufgrund ihrer späten Gründung und ihres Sammelauftrags verfügt die DNB
+über keinen umfassenden Altbestand, und auch die wissenschaftliche Literatur des
+Auslandes wird von ihr nicht gesammelt. Damit fehlt die historische und universelle
+Bestandsdimension. Diese beiden Bereiche werden in Deutschland vor allem durch
+die Staatsbibliothek zu Berlin (SBB) und die Bayerische Staatsbibliothek (BSB) in München
+wahrgenommen. Beide Bibliotheken verfügen über umfassende Sammlungen
+der internationalen Forschungsliteratur und über herausragende medial und regional
+definierte Sondersammlungen (u. a. Handschriften, Karten, Musikalien, Osteuropa-,
+1.1 Aufgaben, Typen und Träger von Bibliotheken 17
+Orient- und Ostasien-Sammlungen). Unterstützt werden sie durch weitere Bibliotheken;
+vor allem die drei Zentralen Fachbibliotheken (ZFB) für Medizin (Köln und
+Bonn), Wirtschaftswissenschaften (Kiel und Hamburg) und Technik und Naturwissenschaften
+(Hannover) sind hier von Bedeutung sowie die FID-Bibliotheken (Fachinformationsdienste
+für die Wissenschaft, thematisch definierte Kooperation) und die
+SDD-Bibliotheken der (Sammlung Deutscher Drucke, zeitlich definierte Zuständigkeit).
+Während die Bibliotheken mit Fachinformationsdiensten auch die internationale Forschungsliteratur
+einzelner Fachgebiete vertieft, sammeln erschließen und der Fachwissenschaft
+zur Verfügung stellen und auf dieser Grundlage zentrale fachliche
+Informationsangebote erarbeiten (u. a. fachliche Rechercheportale), sammeln und erschließen
+die sechs SDD-Bibliotheken die Literatur des deutschen Sprachraums aus
+einzelnen Segmenten im Zeitraum von 1450 bis zur Gegenwart.
+3.2 Regional- und Universitätsbibliotheken
+Weitere wichtige Typen wissenschaftlicher Universalbibliotheken sind vor allem die
+Regional- und Universitätsbibliotheken. Die Regionalbibliotheken sind in der Regel als
+wissenschaftliche Universalbibliotheken angelegt, meist mit einem geistes- und sozialwissenschaftlichen
+Schwerpunkt. Wenn sie nicht mit Bibliotheken eines anderen Typs
+kombiniert sind, werden sie zumeist als Landesbibliothek oder Staatliche Bibliothek
+bezeichnet. Besonders vertieft sammeln sie sowohl die Literatur aus der jeweiligen
+Region – wobei sie häufig von einem regionalen Pflichtexemplar profitieren – als
+auch die Literatur über diese Region, die sogenannte landeskundliche Literatur. Diese
+wird in den Regional- bzw. Landesbibliographien verzeichnet, die im Gegensatz zur
+Deutschen Nationalbibliografie nicht nur die selbstständigen, sondern auch die unselbstständigen
+Publikationen umfassen. Da viele der heute existierenden Regionalbibliotheken
+auf königliche bzw. fürstliche Vorgängerinstitutionen zurückgehen und zu
+Beginn des 19. Jahrhunderts häufig Säkularisationsgut übernahmen, verfügen sie oft
+über reiche historische Sammlungen.
+Die zentrale Aufgabe der Universitätsbibliotheken (UB) ist die Literatur- und Informationsversorgung
+der Hochschulangehörigen (Professor:innen, Dozierende, Studierende).
+Daneben stehen sie aber auch der Öffentlichkeit zur Verfügung. Charakteristisch
+für Universitätsbibliotheken sind u. a. Lehrbuchsammlungen (Sammlungen von besonders
+häufig nachgefragten Werken in Staffelexemplaren), konventionelle und elektronische
+Semesterapparate (separat aufgestellte bzw. digital bereitgestellte Literatur zu
+einzelnen Lehrveranstaltungen) sowie Repositorien für die Publikation von Abschlussarbeiten,
+Publikationen der Universitätsangehörigen und Forschungsdaten. Vielfach ist der
+Universitätsbibliothek auch das Universitätsarchiv angegliedert, oft findet eine enge Kooperation
+mit dem Rechenzentrum statt. Hinsichtlich ihrer Organisationsform und ihrer
+räumlichen Gliederung lassen sich die Universitätsbibliotheken idealtypisch meist einer
+von zwei Gruppen zuordnen: Ältere Universitäten weisen in der Regel ein zweischichti-
+18 Klaus Gantert
+ges Bibliothekssystem auf. Hierbei tritt neben die zentrale Universitätsbibliothek, in der
+sich das Magazin, die Medienbearbeitung, die Ortsleihe, die Lehrbuchsammlung und weitere
+zentrale Dienste befinden, eine Vielzahl von dezentralen Fakultäts-, Instituts-, Seminar-
+und Lehrstuhlbibliotheken (oft über 100), in denen ein Großteil der Publikationen in
+systematischer Freihandaufstellung zugänglich ist. Jüngere Universitätsbibliotheken, insbesondere
+die Bibliotheken der in den 1960er und 1970er Jahren des 20. Jahrhunderts
+neu gegründeten Universitäten, sind hingegen als einschichtige Bibliothekssysteme
+konzipiert. Hier gibt es nur noch eine Bibliothek, die an wenigen Orten (Zentralbibliothek,
+Teilbibliotheken) die Bereitstellung der Literatur in den Lesesälen und alle
+anderen bibliothekarischen Dienste übernimmt. Grundlegende Strukturveränderungen
+haben in den zweischichtigen Bibliothekssystemen heute vielfach zur funktionalen
+Einschichtigkeit geführt.
+Teilweise übernehmen Universitätsbibliotheken gleichzeitig auch die Aufgaben von
+Regionalbibliotheken; dann werden sie zumeist als Universitäts- und Landesbibliothek
+oder Staats- und Universitätsbibliothek bezeichnet (z. B. ULB Münster, ULB Darmstadt,
+SUB Hamburg). Zahlreiche Universitätsbibliotheken betreuen auch Fachinformationsdienste;
+die UB Frankfurt am Main hat in der AG Sammlung Deutscher Drucke den Zeitabschnitt
+von 1801 bis 1871 übernommen.
+Die Bibliotheken der Hochschulen für angewandte Wissenschaften, heute zumeist
+als Hochschulbibliotheken bezeichnet, orientieren sich in ihrem Sammelprofil am Fächerkanon,
+der an der jeweiligen Hochschule angeboten wird. Besonderheiten dieses
+Bibliothekstyps sind vor allem die umfangreichen Lehrbuchsammlungen sowie das
+relativ große Angebot an elektronischen Publikationen. Zur Gruppe der Hochschulbibliotheken
+gehören auch die Bibliotheken der Kunst- und Musikhochschulen mit
+ihrem spezifischen Medienangebot. Wie Universitäts- und Hochschulbibliotheken definieren
+sich auch weitere wissenschaftliche Bibliotheken, wie z. B. Parlaments- und
+Behördenbibliotheken, anhand einer spezifischen Trägerorganisation.
+3.3 Fach- und Spezialbibliotheken
+Ergänzt werden die Angebote dieser Bibliothekstypen durch Forschungsbibliotheken
+und eine Vielzahl von Fach- und Spezialbibliotheken, die in ihren Fachgebieten oft über
+herausragende Sammlungen verfügen und zentrale Dienstleistungen für die Forschung
+erbringen. Als Forschungsbibliotheken werden vor allem Bibliotheken bezeichnet, die –
+unabhängig von einer Universität oder einer Forschungsinstitution – ihre Bestände der
+wissenschaftlichen Nutzung nicht nur zur Verfügung stellen, sondern diese durch eigene
+Forschungsprojekte, Konferenzen, Forschungsstipendien, Publikationsreihen und Ausstellungen
+auch aktiv befördern (z. B. die Herzog August Bibliothek in Wolfenbüttel).
+Fach- und Spezialbibliotheken sind wissenschaftliche Bibliotheken, die sich in ihrem
+Sammelspektrum und ihren Services auf einzelne Fach- (z. B. die Bibliothek des Mathematischen
+Forschungsinstituts Oberwolfach) bzw. Spezialgebiete (z. B. die Bibliothek des
+1.1 Aufgaben, Typen und Träger von Bibliotheken 19
+Instituts für Zeitungsforschung in Dortmund) konzentrieren. Organisatorisch sind Fachund
+Spezialbibliotheken in der Regel einer übergeordneten Einheit zugeordnet, oft einer
+Forschungsinstitution, einem Archiv oder einem Museum. Vor allem hinsichtlich der
+Breite ihres Sammelauftrags, der Größe ihres Bestands und der Zahl ihrer Mitarbeiter:
+innen ist die Gruppe der Forschungs-, Fach- und Spezialbibliotheken besonders heterogen.
+Sie reicht von sehr großen Bibliotheken mit mehr als 100 Mitarbeitenden und
+einem Bestand von über einer Million Medien bis hin zu der großen Zahl von Spezialbibliotheken
+mit nur einer einzigen Fachkraft (One Person Library). Insgesamt lässt sich
+für das wissenschaftliche Bibliothekswesen feststellen, dass Deutschland eine ungewöhnliche
+Dichte leistungsstarker Bibliotheken auch in der Fläche aufweist.
+3.4 Öffentliche Bibliotheken
+Zahlenmäßig die größte Gruppe der Bibliotheken sind die öffentlichen Bibliotheken, die
+sich vor allem zur Bildung, Information und Unterhaltung an die breite Öffentlichkeit
+richten und somit einen wichtigen Beitrag zur Erfüllung des Grundrechts leisten, „sich
+aus allgemein zugänglichen Quellen ungehindert zu unterrichten“ (Art. 5, Abs. 1 GG).
+Während die öffentlichen Bibliotheken auf dem Land und im kleinstädtischen
+Bereich üblicherweise in Form von Einzelbibliotheken organisiert sind, bilden sie in
+Mittelzentren und Großstädten häufig Bibliothekssysteme, die zumeist aus einer
+Zentralbibliothek und mehreren Stadtteilbibliotheken, zum Teil auch aus Fahrbibliotheken
+bestehen (Bücherbusse).
+Ergänzt wird das öffentliche Bibliothekswesen durch eine Vielzahl von Bibliothekstypen,
+die sich in der Regel an eine spezielle Nutzergruppe wenden, beispielsweise
+Schul-, Kinder- und Jugendbibliotheken, Blinden-, Gefängnis-, Krankenhausund
+Werksbibliotheken. Teilweise definieren sich Bibliotheken auch aufgrund eines
+speziellen Sammelgegenstands, z. B. Musikbibliotheken und Artotheken.
+4 Unterhaltsträger
+Unterhalten werden Bibliotheken in Deutschland heute in der Regel von den Ländern
+und den Kommunen, wobei den Ländern eine herausragende Rolle für den Unterhalt
+der wissenschaftlichen, den Kommunen für den der öffentlichen Bibliotheken zukommt.
+Darüber hinaus werden einige Bibliotheken auch vom Bund, von Stiftungen
+und von privatrechtlichen Körperschaften finanziert; auch die Kirchen sind wichtige
+Unterhaltsträger von Bibliotheken.
+Obwohl dem Bund aufgrund der Regelungen im Grundgesetz im Bereich der Bildung,
+der Kultur sowie der Forschung und der Lehre nur sehr eingeschränkte Verantwortung
+zukommt, unterhält er mit der Deutschen Nationalbibliothek (DNB) die
+20 Klaus Gantert
+größte Bibliothek in Deutschland. Darüber hinaus ist er Träger der Bibliotheken seiner
+eigenen Körperschaften; hier sind vor allem die Bibliothek des Deutschen Bundestages
+zu nennen sowie die Bibliotheken der beiden Bundeswehruniversitäten, der
+Bundesministerien, der Obersten Gerichte und der Bundesforschungsinstitute. Über
+Stiftungen und Kooperationen mit den Ländern ist der Bund auch am Unterhalt zahlreicher
+weiterer Bibliotheken maßgeblich beteiligt.
+Die Länder unterhalten in Deutschland das Gros der wissenschaftlichen Bibliotheken.
+Dies betrifft insbesondere die Universitäts- und Hochschulbibliotheken, die
+Staats-, Landes- und Regionalbibliotheken sowie die Bibliotheken der Landesparlamente,
+-behörden und sonstigen Institutionen der Länder.
+Aufgrund von gemeinsamen Vereinbarungen findet bei zahlreichen außeruniversitären
+Forschungseinrichtungen und deren Bibliotheken eine gemeinsame Finanzierung
+durch den Bund und die Länder statt. Dies betrifft u. a. die Einrichtungen der
+Leibniz-Gemeinschaft, zu der die TIB in Hannover (Leibniz-Informationszentrum
+Technik und Naturwissenschaften) und die ZBW in Kiel und Hamburg (Leibniz-
+Informationszentrum Wirtschaft) zählen, sowie die Bibliotheken der Max-Planck-
+Gesellschaft, der Helmholtz-Gemeinschaft und der Fraunhofer-Gesellschaft.
+Die meisten öffentlichen Bibliotheken werden von den Kommunen unterhalten,
+die in der Regel der Information, Bildung und Freizeitgestaltung der Bevölkerung dienen,
+jedoch zum Teil – vor allem in großstädtischen Bibliothekssystemen – auch wissenschaftliche
+Bestände umfassen. In den meisten Ländern werden die öffentlichen
+Bibliotheken durch Landeseinrichtungen, die sogenannten Bibliotheksfachstellen,
+unterstützt.
+Einige wichtige Bibliotheken in Deutschland werden auch von Stiftungen unterhalten.
+Im Bereich der wissenschaftlichen Bibliotheken betrifft dies u. a. die Staatsbibliothek
+zu Berlin (SBB, Stiftung Preußischer Kulturbesitz), die Herzogin Anna Amalia Bibliothek
+in Weimar (HAAB, Klassik Stiftung Weimar) und die Bibliothek der Franckeschen Stiftungen,
+im Bereich der öffentlichen Bibliotheken z. B. die Zentral- und Landesbibliothek
+in Berlin (ZLB, Stiftung Zentral- und Landesbibliothek). Wichtige Bibliotheken, die von
+privatrechtlichen Körperschaften unterhalten werden, sind vor allem Firmenbibliotheken,
+die für die Öffentlichkeit jedoch in der Regel nur eingeschränkt zugänglich sind.
+Bis heute spielen auch die Kirchen eine wichtige Rolle als Trägerinstitutionen für
+Bibliotheken. Dies betrifft im Bereich der wissenschaftlichen Bibliotheken vor allem die
+Dom-, Diözesan- und landeskirchlichen Bibliotheken mit ihren teilweise herausragenden
+historischen Beständen sowie die Bibliotheken der kirchlichen Hochschulen, im Bereich
+der öffentlichen Bibliotheken vor allem die Pfarr- und Gemeindebibliotheken, die
+das kommunale Bibliothekswesen flächendeckend wirkungsvoll unterstützen.
+1.1 Aufgaben, Typen und Träger von Bibliotheken 21
+5 Neue gesellschaftliche Themenfelder
+und Herausforderungen
+Neben den klassischen bibliothekarischen Fachaufgaben, die sich, wie eingangs angedeutet,
+ebenfalls stark verändern und auch vermehren, erfüllen Bibliotheken heute
+aber auch zunehmend wichtige gesellschaftliche Aufgaben in verschiedenen Bereichen
+und sehen sich auch hier vielfältigen Themenfeldern und Herausforderungen
+gegenüber. Besonders wichtige Entwicklungen und Themenfelder für das Bibliothekswesen
+sind hierbei u. a.:
+– Sicherung hochwertiger Informationsversorgung in Zeiten von Social Media,
+Fake News und KI-generierten Inhalten;
+– Demokratieförderung, Pluralität, Integration und Diversität;
+– Green Library, Nachhaltigkeit und Nachhaltigkeitsziele;
+– Fachkräftemangel.
+Schon immer standen Bibliotheken für den offenen Zugang zu unabhängigen und belastbaren
+Informationen. Durch die heutigen Möglichkeiten des Informationsangebots
+und der Informationsinfrastrukturen ist die Versorgung aller Bürger:innen mit gesicherten
+Informationen jedoch ungleich schwerer, aber auch wichtiger. Die Beliebtheit
+Sozialer Medien und ihre intensive Nutzung auch für die Informationsbeschaffung erzeugt
+sogenannte Filterblasen (filter bubbles) und Echokammern (echo chambers), die
+eigene Interessensfelder in der Informationsversorgung bevorzugen und dadurch zu
+einer verstärkten Wahrnehmung eigener Ansichten im Spektrum der Meinungen führen
+können. Intensivieren lassen sich solche problematischen Tendenzen noch durch
+den gezielten Einsatz von Bots, die ebenfalls verstärkend wirken, oder auch durch bewusst
+publizierte Fake News. Zunehmend wichtig wird in diesem Zusammenhang
+auch der Einsatz von KI-generierten Inhalten, die häufig den Anschein erwecken,
+guter wissenschaftlicher Praxis oder den Regeln des Pressekodex zu entsprechen,
+ohne diese Anforderungen tatsächlich zu erfüllen. Hier ist die Aufgabe von Bibliotheken
+nicht nur, alternative, neutrale und wissenschaftlich gesicherte Informationen
+anzubieten, sondern auch aktiv durch breite Schulungsangebote die Informationsund
+Medienkompetenz sowie den kritischen Umgang mit Information zu fördern. Bibliotheken
+bleiben somit weiterhin Garanten der Informationsfreiheit.
+Hieran schließt nahtlos an, dass Bibliotheken sich nicht nur als Orte gelebter Demokratie
+verstehen, sondern die Förderung von Meinungsfreiheit, Pluralität und Demokratie
+auch als einen zentralen gesellschaftlichen Auftrag verstehen. Sie ermöglichen die
+Meinungs- und politische Willensbildung durch Zugang zu vielfältigen Informationen
+an einem nichtkommerziellen Ort für alle Bürger:innen, sie stärken die Teilhabechancen
+an Kultur, Kunst, Bildung und Medien von allen Teilen der Gesellschaft unabhängig
+von Herkunft, Alter, Sprache oder religiöser oder sexueller Ausrichtung. Vielfach entwickeln
+Bibliotheken ein explizites Diversity Management, um bewusst und aktiv auch ge-
+22 Klaus Gantert
+sellschaftliche Gruppen anzusprechen und einzubinden, die häufig einen erschwerten
+Zugang zu Information und gesellschaftlicher Teilhabe aufweisen. Sie fördern Begegnung
+und Beteiligung und werden durch vielfältige Formen interkultureller Angebote
+und Arbeiten der Vielfalt der heutigen Gesellschaft gerecht.
+Als die UN-Vollversammlung 2015 die Agenda 2030 für eine sozial, ökologisch und
+wirtschaftlich nachhaltige Entwicklung beschlossen hat, haben Bibliotheken schon
+früh darauf aufmerksam gemacht, dass sie und ihre Arbeit mit allen der 17 Nachhaltigkeitsziele
+(Sustainable Development Goals, SDGs) in einer engen Verbindung stehen.
+Dies drückte sich schon früh in dem vielfältigen Bestreben aus, in jeder Hinsicht nachhaltige
+Bibliotheken zu schaffen (green libraries), Material, Hintergrundinformation
+und unabhängige wissenschaftliche Daten zur Erreichung aller Ziele anzubieten, aber
+auch das bibliothekarische Angebotsrepertoire bewusst zu erweitern, um nachhaltiges
+Handeln in der Breite der Bevölkerung zu stärken. Solche Angebote können Bibliotheken
+der Dinge umfassen, die den Gedanken der Sharing Economy aufgreifen,
+aber auch Repair Cafés, Saatgutbibliotheken und Bildungsaktionen zum Themenbereich
+Nachhaltigkeit.
+Alle in diesen Abschnitten genannten Aspekte sind explizit auch in zahlreichen
+Positionspapieren, politischen Stellungnahmen und Codes of Ethics von bibliothekarischen
+Verbänden auf nationaler, europäischer und internationaler Ebene festgehalten
+und unterstützt. Bibliotheken und ihre Verbände arbeiten in allen Feldern eng
+mit der Politik zusammen.
+Neben diesen gesellschaftlichen Herausforderungen und Themenbereichen sieht
+sich das deutsche Bibliothekswesen, wie viele andere Branchen und Wirtschaftsbereiche
+auch, aktuell mit dem akuten Fachkräftemangel jedoch auch einem massiven
+Problem gegenübergestellt, das nur von allen beteiligten Gruppen gemeinsam bewältigt
+werden kann (Politik, Bibliotheken, Hochschulen und Ausbildungseinrichtungen).
+Noch immer leidet das Bibliothekswesen an einer vielfach falschen Wahrnehmung in
+der Gesellschaft. Hier kommt es vor allem darauf an, junge Menschen auf die vielfältigen
+Chancen und die attraktiven Arbeitsfelder des Bibliothekswesens aufmerksam zu
+machen, die im Gegensatz zu vielfach geäußerten Vorstellungen vor allem im Bereich
+der Daten- und der Informationstechnologie liegen, aber auch im engen und intensiven
+Umgang mit den Nutzer:innen der verschiedenen Einrichtungen.
+Gerade aufgrund dieser neuen Themenfelder und gesellschaftlichen Herausforderungen
+gilt auch weiterhin, was der damalige Bundespräsident Horst Köhler bereits
+2007 in seiner Festrede zur Wiedereröffnung der Herzogin Anna Amalia Bibliothek in
+Weimar feststellte: „Bibliotheken gehören auf die Tagesordnung.“
+1.1 Aufgaben, Typen und Träger von Bibliotheken 23
+Literatur
+Berufsverband Information Bibliothek (BIB): http://www.bib-info.de/ (07.08.2023).
+Bibliothek & Information Deutschland (BID): http://www.bideutschland.de/ (07.08.2023).
+Deutscher Bibliotheksverband (dbv) (Hrsg.): Bericht zur Lage der Bibliotheken. Zahlen und Fakten 2022/
+2023. Berlin: dbv 2022. https://www.bibliotheksverband.de/sites/default/files/2022-10/Bericht%20zur
+%20Lage%20der%20Bibliotheken_2022-23_web.pdf (07.08.2023).
+Deutscher Bibliotheksverband (dbv): Deutscher Bibliotheksverband e. V. (dbv). http://www.bibliotheksver
+band.de/ (07.08.2023).
+Deutscher Bibliotheksverband (dbv), knb – Das Kompetenznetzwerk für Bibliotheken: Bibliotheksportal.
+http://www.bibliotheksportal.de/ (07.08.2023).
+Gantert, Klaus: Bibliothekarisches Grundwissen. 9., vollst. Neu bearb. und erw. Aufl. Berlin, Boston: De
+Gruyter Saur 2016.
+Handbuch der Bibliotheken 2022. Deutschland, Österreich, Schweiz. 28. Aufl. Berlin: De Gruyter Saur 2022.
+Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz): DBS – Deutsche Bibliotheksstatistik.
+https://www.bibliotheksstatistik.de/ (07.08.2023).
+International Federation of Library Associations and Institutions (IFLA): http://www.ifla.org/ (07.08.2023).
+Jahrbuch der Deutschen Bibliotheken. Hrsg. vom Verein Deutscher Bibliothekare. Bd. 69: 2021/2022.
+Wiesbaden: Harrassowitz 2021 (erscheint alle zwei Jahre).
+Jochum, Uwe: Kleine Bibliotheksgeschichte. 3., verb. und erw. Aufl. Stuttgart: Reclam 2007.
+Lexikon der Bibliotheks- und Informationswissenschaft. Hrsg. von Konrad Umlauf und Stefan Gradmann.
+2 Bde. Stuttgart: Hiersemann 2011, 2014.
+Open Access Network. https://open-access.network/startseite (07.08.2023).
+Rösch, Hermann, Jürgen Seefeldt u. Konrad Umlauf: Bibliotheken und Informationsgesellschaft in
+Deutschland. Eine Einführung. 3., neu konzipierte und aktualisierte Auflage. Wiesbaden:
+Harrassowitz 2019.
+Schade, Frauke, u. Ursula Georgy (Hrsg.): Praxishandbuch Informationsmarketing. Konvergente
+Strategien, Methoden und Konzepte. Berlin: De Gruyter Saur 2019.
+Seefeldt, Jürgen u. Ludger Syré: Portale zu Vergangenheit und Zukunft. Bibliotheken in Deutschland. 6.,
+überarb., erw. und gegenderte Aufl. Hildesheim [u. a.]: Georg Olms-Verlag 2022.
+https://bideutschland.de/wp-content/uploads/2022/12/Georg_Olms_Portale_GER_INH_2022_ebook.
+pdf (07.08.2023).
+Umlauf, Konrad (Hrsg.): Grundwissen Medien, Information, Bibliothek. Stuttgart: Anton Hiersemann
+Verlag 2016.
+Umlauf, Konrad u. Stefan Gradmann (Hrsg.): Handbuch Bibliothek. Geschichte, Aufgaben, Perspektiven.
+Stuttgart, Weimar: Metzler 2012.
+Verein Deutscher Bibliothekare (VDB): http://www.vdb-online.org/ (07.08.2023).
+Webis – Sammelschwerpunkte an deutschen Bibliotheken. Hrsg. von der Staats- und
+Universitätsbibliothek Hamburg. https://wikis.sub.uni-hamburg.de/webis/index.php/ (07.08.2023).
+Wissenschaftliche Bibliotheken 2025. Strategiepapier zur Gestaltung von Zukunftsaufgaben im
+wissenschaftlichen Bibliothekswesen. Berlin: dbv 2022. https://www.bibliotheksverband.de/sites/de
+fault/files/2022-02/Strategiepapier_Wissenschaftliche%20Bibliotheken%202025%20-%20FINAL.pdf
+(07.08.2023).

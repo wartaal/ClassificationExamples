@@ -1,0 +1,643 @@
+Thomas Stöber
+3.1 Lernraumentwicklung und
+Lernraumverwaltung
+in wissenschaftlichen Bibliotheken
+1 Vom Lesesaal zum Lernraum
+Solange der analoge Bestand den Kern der wissenschaftlichen Bibliothek bildete,
+waren auch die Räume der Bibliothek funktional auf diesen Bestand bezogen und
+damit von diesem geprägt. „Bis ins späte 18. Jahrhundert ist der vorherrschende
+Raumtyp größerer Bibliotheken ein mehr oder weniger großer Raum beziehungsweise
+eine Raumfolge mit Bücherregalen an den Wänden und Plätzen für Nutzerinnen
+und Nutzer im selben Raum.“1 Zwar hat das starke Wachstum der Bestände
+(aufgrund der stark ansteigenden Buchproduktion) und die steigende Zahl der Nutzenden
+in der ersten Hälfte des 19. Jahrhunderts eine deutliche Veränderung zur
+Folge gehabt, insofern der Lesesaal, das Magazin und die Bibliotheksverwaltung baulich
+voneinander getrennt wurden. Nichtsdestoweniger sind es gerade die klassischen
+Lesesäle mit ihren Freihandbeständen, welche die wissenschaftlichen Bibliotheken
+über Jahrhunderte baulich geprägt haben.2 Diese Lesesäle hatten dabei zum Teil –
+von den barocken Klosterbibliotheken bis zu den Kuppellesesälen des 19. Jahrhunderts
+– einen klar repräsentativen Charakter: In diesen Räumen wurde der Bestand
+durch seine Präsentation zum integralen Bestandteil des prachtvollen architektonischen
+Ensembles. Lesesäle wie diese haben auch das Bild der Bibliothek als eines
+Raums der Konzentration geprägt, das sich bis heute im kollektiven Bewusstsein gehalten
+hat.
+Mit dem zunehmenden Bedeutungsverlust des Printbestands hat sich diese Verbindung
+zwischen Bibliotheks-Bestand und Bibliotheks-Raum etwa ab Mitte der 1990er
+Jahre jedoch sukzessive aufgelöst. Ihren Ausgang hat diese Entwicklung vor allem im
+angloamerikanischen Bereich genommen.3 Dort wurde vor dem Hintergrund des veränderten
+Lernverhaltens der Studierenden das Konzept der „Learning Commons“ als
+neues Modell für Lernräume an Hochschulen entwickelt. Dieses Konzept stellt die Lernaktivität
+der Studierenden in den Mittelpunkt und betont zugleich den Stellenwert des
+kollaborativen Lernens.4 Im Zuge dieser Diskussion entstehen – wiederum vor allem
+im angloamerikanischen Raum – an den Hochschulen zunehmend „Learning Centres“:
+ Eigenbrodt 2021: S. 44.
+ Naumann 2011: S. 146.
+ Vgl. Eigenbrodt 2021: S. 46 ff.
+ So z. B. Bennett 2003.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-007
+zentrale Lernorte, die ganz auf die Bedürfnisse studentischen Lernens und Arbeitens
+ausgerichtet sind.5
+Die Auswirkungen dieser Entwicklung sind auch in den heutigen Hochschulbibliotheken
+in Deutschland sichtbar. Die klassischen Teilbibliotheken mit ihrer Mischung
+aus gedrucktem Bestand und (vor allem Einzel-) Arbeitsplätzen sind in der
+Regel gut besucht; der Bestand wird jedoch vor allem von den Wissenschaftler:innen
+genutzt, die Studierenden arbeiten zunehmend nicht mehr mit diesem Bestand, sondern
+mit elektronischen Ressourcen und / oder eigenen Lernmaterialien. Gleichzeitig
+sind in immer mehr Bibliotheken Lernräume entstanden, aus denen der analoge Bestand
+vollständig verschwunden ist, die reine „Lernzentren“ sind. Frühe Beispiele
+sind die Universitätsbibliothek Mannheim, die zwischen 2010 und 2014 einen klassischen
+Lesesaal mit Einzelarbeitsplätzen zunächst in einen Gruppenarbeitsbereich
+und dann in ein „Learning Centre“ umgewandelt hat,6 sowie das 2013 an der Universität
+Göttingen eröffnete und von der Staats- und Universitätsbibliothek betriebene
+„Lern- und Studiengebäude“, welches eine breite Palette von Arbeitsplätzen – von
+Einzel- und Gruppenarbeitsplätzen über einen Vortragsraum und „Lernboxen“ bis
+hin zu Pausen- und Ruheräumen – anbietet.7
+Für diese Entwicklung gibt es im Wesentlichen drei Gründe. Der eine Grund
+liegt – wie schon erwähnt – im Medienwandel. In den vergangenen 20 Jahren hat sich
+das Ausleihvolumen in den wissenschaftlichen Bibliotheken in Deutschland mehr als
+halbiert;8 der Literaturbedarf der Studierenden wird zunehmend über Lehrbücher
+sowie verstärkt durch digitale Lernmaterialien wie Skripte und E-Learning-Angebote
+gedeckt.9
+Ein zweiter Grund sind die gesellschaftlichen Megatrends der Digitalisierung, der
+Mobilität und der Konnektivität, die sich auch auf den Bereich der Bildung und des
+Lernens auswirken und dadurch auch die „Lernwelt Hochschule“ verändern.10 Das
+Arbeiten und Lernen wird räumlich und zeitlich flexibler, es läuft stärker über digitale
+und mobile Technologien und Plattformen; in der Folge werden auch die physischen
+Lernräume offener und flexibler.
+Ein dritter und wesentlicher Grund liegt schließlich in den Auswirkungen der Bologna-
+Reform.11 Mit dem Paradigmenwechsel durch die Einführung der Bachelor- und
+Masterstudiengänge sowie des damit verbundenen ECTS-Punktesystems hat sich der
+Blick nicht mehr nur auf die von den Studierenden zu absolvierenden Lehrveranstal-
+ Vgl. Gläser 2008: S. 174 ff.
+ Vgl. Rautenberg u. a. 2014.
+ Vgl. Helmkamp 2015.
+ Quelle: Deutsche Bibliotheksstatistik, Zahl der Ausleihen (ohne Verlängerungen) in den wissenschaftlichen
+Universal- und Hochschulbibliotheken in Deutschland im Zeitraum 2002 bis 2022.
+ Vgl. Huß u. Dölle 2021.
+ Vgl. Becker u. a. 2020.
+ Vgl. Vogel 2020; Eigenbrodt 2021: S. 14 f.
+106 Thomas Stöber
+tungen gerichtet, sondern auch auf die Phasen des Selbststudiums. Dies hat die Aufmerksamkeit
+auch auf die Arbeitsplätze gelenkt, die für diese Phasen des Selbststudiums
+notwendig sind. Darüber hinaus hat die Bologna-Reform neue Lehr- und
+Lernformen wie gruppen-, team- und projektorientiertes Arbeiten mit sich gebracht.
+Diese neuen Lernformen haben neue, gemeinsam nutzbare Raumangebote für die
+Studierenden notwendig gemacht, jenseits der traditionellen Einzelarbeitsplätze mit
+Silentiumsgebot.
+Diese Entwicklung hat zur Konsequenz, dass die Bereitstellung von Lernräumen
+zunehmend ein eigenständiges Serviceangebot wissenschaftlicher Bibliotheken geworden
+ist, unabhängig von ihrem Bestand an Literatur und Informationsressourcen.
+Die Räume, die die Bibliotheken ihren Nutzenden für das Lernen und Forschen zur
+Verfügung stellen, werden zunehmend nicht mehr vom Bibliotheksbestand her gedacht,
+sondern von den Nutzenden und ihren – in den letzten beiden Jahrzehnten
+stark veränderten – Bedürfnissen her.
+2 Veränderte Bedarfe – neue Formen von
+Lernräumen
+Diese Bedürfnisse haben sich in den letzten beiden Jahrzehnten dabei nicht nur stark
+verändert, sondern auch stark ausdifferenziert. Einerseits ist das klassische Modell
+der Fach- oder Teilbibliothek mit ihrer Kombination aus Präsenzbestand und (Einzel-)
+Arbeitsplätzen an wissenschaftlichen Bibliotheken nach wie vor präsent und hat
+seine Berechtigung. Dies trifft vor allem auf Universitäten mit einem geistes- und/
+oder sozialwissenschaftlichen Profil zu, in denen der Printbestand für Studium und
+Forschung nach wie vor eine Rolle spielt. Auch gibt es von Seiten der Nutzenden weiterhin
+eine starke Nachfrage nach „Räumen der Konzentration“, wie sie die traditionellen
+Lesesäle mit ihren Einzelarbeitsplätzen und ihrem Silentiumsgebot verkörpern. Die Atmosphäre
+der Stille und der Konzentration ist nach wie vor ein Alleinstellungsmerkmal
+von Bibliotheken – eine Arbeitsumgebung, die von Wissenschaftler:innen, Studierenden
+und weiteren Nutzendengruppen für das konzentrierte Lernen, Forschen und Arbeiten
+gezielt gesucht wird. Allerdings findet hier schon seit einigen Jahren eine Verschiebung
+statt: während Wissenschaftler:innen die Atmosphäre dieser stillen Lesesäle für ihre
+Forschungsprojekte suchen, nutzen die Studierenden sie zunehmend nicht mehr für
+das Literaturstudium, sondern für die Phasen ihres Selbststudiums, das immer häufiger
+ohne das Literaturangebot der Bibliothek auskommt.
+Neben diese „Räume der Konzentration“ sind jedoch in den beiden letzten Jahrzehnten
+ganz andere Bedarfe, Nutzungsszenarien und Räume getreten. In dem Maße,
+in dem bei den Studierenden gruppen-, team- und projektorientiertes Arbeiten an Bedeutung
+gewonnen hat, wurden auch die entsprechenden Räumlichkeiten notwendig –
+3.1 Lernraumentwicklung und Lernraumverwaltung in wissenschaftlichen Bibliotheken 107
+Räume also, die kollaboratives Arbeiten von Gruppen ermöglichen und unterstützen.
+Hier haben sich mittlerweile eine Vielzahl gestalterischer Lösungen etabliert: zum Beispiel
+offene Räume, in denen Gruppenarbeitstische durch Raumteiler voneinander getrennt
+sind, oder Raum-in-Raum-Lösungen wie Carrels, Gruppenarbeitsräume und
+Sitzkojen. Zu diesen Räumen gehört auch eine technische Ausstattung, die den Austausch
+unterstützt – beispielsweise fest installierte oder mobile Bildschirme zur gemeinsamen
+Nutzung durch die Gruppe, Smartboards oder Beamer (bzw., in der analogen
+Variante, Whiteboards oder Metaplanwände).
+Durch die Digitalisierung sind darüber hinaus in den vergangenen Jahren auch zunehmend
+hybride Lernräume entstanden.12 Hybride Lernräume verschränken den physischen
+und den virtuellen Raum, um der Tatsache gerecht zu werden, dass Lernen
+und Kommunikation in großem Umfang längst auch digital stattfindet. In diesen hybriden
+Konstellationen findet das Lernen und Arbeiten im physischen und im virtuellen
+Raum gleichzeitig statt. Die Spielarten sind dabei vielfältig und reichen von der digitalen
+Echtzeit-Dokumentation eines Lern- oder Arbeitsprozesses im physischen Raum
+(beispielsweise über Smartboards) über die Zuschaltung von Teilnehmenden zu physischen
+Treffen durch Videokonferenzsysteme bis hin zur Online-Vernetzung mehrerer
+Gruppen von Studierenden oder Wissenschaftler:innen, die in unterschiedlichen physischen
+Räumen arbeiten (international vernetzte Arbeitsgruppen etwa). Voraussetzung
+für solche hybriden Lernräume ist damit immer die entsprechende technische Ausstattung
+der physischen Lernräume (wie erwähnt beispielsweise mit Smartboards oder
+Videokonferenzsystemen).
+Seit geraumer Zeit wünschen sich die Studierenden und Wissenschaftler:innen
+neben diesen Arbeits-Räumen aber auch soziale Räume: Räume für den informellen
+Austausch untereinander, Räume, in denen sie eine Pause einlegen und sich entspannen
+können, in denen sie etwas essen und trinken können. Diese sozialen Räume
+haben damit einen eher lounge-artigen Charakter mit bequemen Möbeln – Sitzgruppen
+für den informellen Austausch; bequeme Sessel oder Sofas mit hohen Rückenlehnen,
+die eine Rückzugsmöglichkeit bieten; ein Café oder zumindest ein Getränke- und Snackautomat.
+Während die Arbeits-Räume sich räumlich häufig eher nach innen orientieren,
+öffnen sich diese sozialen Räume nicht selten baulich nach außen – etwa durch die
+Platzierung an einer großen Fensterfront oder die Verlängerung in den Außenbereich
+(Stichwort Leseterrasse).
+Mit den Bedarfen der Nutzenden haben sich also auch die Lernräume stark ausdifferenziert.
+Noch komplexer wird das Bild dadurch, dass der Bedarf zwischen den
+verschiedenen universitären Fachrichtungen stark variiert. So hat eine Studie ergeben,
+dass etwa 30 % der Studierenden aus bestimmten Fächern (insbesondere der Medizin
+und der Rechtswissenschaften) zur Gruppe der Intensivnutzer:innen gehören,
+ Vgl. Kohls 2023.
+108 Thomas Stöber
+die besonders häufig und lange an der Hochschule lernen. Es ist vor allem diese
+Gruppe, die den Bedarf an Lernarbeitsplätzen generiert.13
+Die Herausforderung besteht also darin, Lernräume zu entwickeln, zu gestalten
+und zu betreiben, die diesen zunehmend heterogenen Anforderungen gerecht werden.
+Letzten Endes ist es damit das Ziel der Lernraumentwicklung, „hohe Aufenthaltsqualität
+in funktionalen Räumen“14 zu erreichen – Lernräume zu erschaffen, die
+durch diese Qualität als „Räume der Ermöglichung“15 fungieren. Wie Werner betont,
+hat diese Aufgabe wenig mit klassischen bibliothekarischen Herangehensweisen zu
+tun, sondern besteht eher in einem „Kuratieren“ von Räumen.16
+Daraus resultieren letztlich zwei Aufgabengebiete von wissenschaftlichen
+Bibliotheken:
+– Lernraumentwicklung verstanden als Konzeption, Gestaltung und Einrichtung
+von Lernräumen;
+– Lernraumverwaltung verstanden als Organisation des laufenden Betriebs der
+Lernräume sowie als Sicherstellung der Servicequalität im Alltag.
+3 Die Bibliothek als Anbieterin von Lernräumen
+Wenn sich die Lernräume tendenziell vom Bestand der Bibliothek ablösen und als eigenständiges
+Serviceangebot existieren, bedeutet das für Hochschulbibliotheken auch,
+dass es keine zwangsläufige Anbindung dieses Serviceangebots an die Institution Bibliothek
+mehr gibt. Die Bibliothek verliert ihr „Quasi-Monopol als institutionalisierter informeller
+Lernraum“,17 sie ist nicht mehr selbstverständlich der alleinige Anbieter von
+Lernräumen innerhalb der Hochschule. Diese Entwicklung zeichnete sich bereits in
+den 1990er Jahren durch die Einrichtung von PC-Räumen sowie anderer informeller
+Lernräume an den Hochschulen ab. An vielen Hochschulen werden heute Lernzentren
+von anderen Einrichtungen der Hochschule – von der Liegenschaftsverwaltung,
+der Studienberatung oder von einzelnen Fakultäten – betrieben. In Lernzentren wie
+dem Rolex Learning Centre der École Polytechnique Fédérale de Lausanne oder dem
+Library & Learning Centre der Wirtschaftsuniversität Wien wurde die Bibliothek mit
+anderen Einrichtungen der Hochschule räumlich zusammengefasst. Diese neue Konkurrenzsituation
+ist ein weiteres Symptom für die grundlegenden Verschiebungen im Angebotsspektrum
+der Bibliotheken sowie in den institutionellen Rahmenbedingungen, durch
+die sich viele Selbstverständlichkeiten aufgelöst haben.
+ Vgl. Vogel 2020: S. 156, 159, 161.
+ Werner 2015: S. 95.
+ Eigenbrodt 2021: S. 117.
+ Vgl. Werner 2015: S. 97.
+ Eigenbrodt 2021: S. 16.
+3.1 Lernraumentwicklung und Lernraumverwaltung in wissenschaftlichen Bibliotheken 109
+Wissenschaftliche Bibliotheken müssen deshalb hier zu einer strategischen Positionierung
+finden. Für diese Positionierung bringen sie jahrzehntelange Erfahrungen in
+der Entwicklung und im Betrieb von Lernräumen mit. Viele Bibliotheken haben bereits
+an einem Neu- oder Umbauprojekt mitgewirkt und in diesen Projekten die entsprechende
+Expertise in Bau- und Raumplanung erworben. Sie haben Erfahrungen im Gebäudemanagement,
+in der Zusammenarbeit mit externen Wach- und Aufsichtsdiensten,
+mit der Festlegung von gut austarierten Nutzungsregeln (sowie mit der Beilegung von
+Konflikten, wenn diese nicht gut genug austariert waren), mit Sicherheitskonzepten und
+Notfallplänen, mit Reservierungssystemen und anderen Tools der Lernraumverwaltung.
+Bibliotheken sind darüber hinaus häufig bereits vertraut mit den Methoden der Nutzungsforschung
+und der Nutzerpartizipation – sie haben das Instrumentarium entweder
+bereits selbst erprobt oder können auf das Wissen der bibliothekarischen Fachcommunity
+zurückgreifen. „Die durchaus erfolgreiche Evolution vom Lesesaal zum Raum für
+informelles Lernen verschafft Bibliotheken innerhalb ihrer Institutionen einen Startvorteil,
+weil in der Regel keine andere Einrichtung Vergleichbares bieten kann.“18
+Im Idealfall ist (im Fall der Hochschulbibliotheken) das Lernraumangebot der
+Bibliothek dementsprechend eingebettet in eine hochschulweite Strategie zur Entwicklung
+und zum Betrieb von Lernräumen; die Bibliothek etabliert sich in diesem
+Umfeld als kompetente Anbieterin und Betreiberin von Lernräumen, welche bestmöglich
+auf die unterschiedlichen Bedürfnisse der Nutzenden ausgerichtet und durch
+eine hohe Aufenthaltsqualität geprägt sind.
+4 Lernraumentwicklung
+Die Entwicklung neuer Lernräume ist kaum vom Bibliotheksbau zu trennen. Häufig
+ist die Schaffung neuer Lernräume mit Baumaßnahmen verbunden – von kleineren
+Maßnahmen wie der Erneuerung der Elektroinstallationen über Umbaumaßnahmen
+bis hin zu Bibliotheksneubauten. Der Fokus liegt in diesem Beitrag jedoch nicht auf
+diesen baulichen Aspekten, sondern auf der Konzeption und Entwicklung konkreter
+Lern- und Arbeitsumgebungen, die den oben beschriebenen Nutzendenbedürfnissen
+entsprechen und als „Räume der Ermöglichung“ fungieren.
+Idealtypisch besteht die Planung und Gestaltung von Lernräumen aus den folgenden
+Schritten:
+– der Bedarfsanalyse;
+– der Ableitung von Nutzungsszenarien aus dieser Bedarfsanalyse;
+– der Umsetzung dieser Nutzungsszenarien in eine konkrete räumliche Gestaltung;
+– der Entwicklung eines Betriebskonzepts.
+ Eigenbrodt 2021: S. 203.
+110 Thomas Stöber
+4.1 Bedarfsanalyse und Nutzendenpartizipation
+Wenn es bei der Lernraumentwicklung darum geht, geeignete Lernräume für die aktuellen
+Bedarfe der Nutzenden zu planen und zu gestalten, müssen in einem ersten
+Schritt diese Bedarfe ermittelt werden. Hier bietet sich eine Kombination aus unterschiedlichen
+Methodiken sowie aus quantitativen und qualitativen Ansätzen an.
+Zum einen können die von der Bibliothek erhobenen Nutzungsdaten Aufschluss
+über diese Bedarfe geben. Hier sind vor allem Auslastungszahlen relevant. Die Auswertung
+der Besuche bzw. Zugänge zu den bereits existierenden Lernräumen nach Zeit
+und Standort kann Aufschluss darüber geben, welche Lernräume von den Nutzenden
+präferiert werden, ob die Zahl der Arbeitsplätze ausreichend ist, welche Schwankungen
+und Schwerpunkte es in der Auslastung gibt u. a. m.
+Daneben bietet es sich an, von den Nutzenden quantitatives und qualitatives
+Feedback einzuholen. Das kann über Umfragen geschehen, mit denen man üblicherweise
+eine möglichst große Reichweite und damit eine möglichst gute Abdeckung der
+Zielgruppen zu erreichen versucht. Als weiteres Format haben sich daneben Feedbackwände
+oder graffiti walls bewährt, also analoge oder digitale Flächen, auf denen
+die Nutzenden spontan und niedrigschwellig ihre Ideen und Wünsche zu den (aktuellen
+oder geplanten) Lernräumen der Bibliothek notieren können. In der analogen
+Variante handelt es sich um Whiteboards, Pinnwände o. ä., die möglichst gut sichtbar
+im Lernraum aufgestellt werden; eine digitale Umsetzung ist beispielsweise über ein
+Padlet möglich. Die Bibliothek beschränkt sich in beiden Varianten auf Initiativfragen,
+um den Nutzenden möglichst viel Freiraum zu lassen.
+Unter den qualitativen Ansätzen bieten sich auch Methoden aus dem Bereich der
+User Experience an. Im Zentrum des UX-Ansatzes steht die Frage, welche konkreten Erfahrungen
+die Nutzenden machen, wenn sie in Kontakt mit den Services der Bibliothek
+kommen. Im Rahmen dieses Ansatzes wurden verhaltensbasierte Methoden entwickelt,
+die sich gut auf den Bereich Lernraumentwicklung anwenden lassen. Ein Beispiel ist das
+behavioural mapping: die Beobachtung der Laufwege der Nutzenden in der Bibliothek,
+um beispielsweise Hauptverkehrswege und selten genutzte Bereiche zu identifizieren.19
+Bei der Nutzendenpartizipation kann man jedoch auch noch einen Schritt weitergehen
+und die Nutzenden zu „Innenarchitekten auf Zeit“20 machen. Bei dieser Methode
+wird den Nutzenden die Einrichtung des Lernraums überlassen. Die Bibliothek
+zieht dann aus der konkreten Praxis, aus der praktischen Lernraumgestaltung der
+Nutzenden ihre Schlüsse. Neben dem Rostocker Projekt „Lernraum Bibliothek 2015“
+wurde dieses Verfahren auch in der „Lernwelt“ der Hochschule der Medien angewandt.
+21 Im Rahmen des „Lernwelt“-Projekts wurde ein neuer Lernraum eingerichtet,
+ Vgl. Kugler und Winkler 2020.
+ Vgl. Ilg 2016.
+ Vgl. Strahl 2016.
+3.1 Lernraumentwicklung und Lernraumverwaltung in wissenschaftlichen Bibliotheken 111
+der zwar in drei Zonen für die Einzel- und Gruppenarbeit sowie für das Entspannen
+aufgeteilt war, dessen Einrichtung und technische Ausstattung aber bewusst leicht beweglich
+und mobil war; die Studierenden konnten sich dadurch ihren Lernraum
+selbst einrichten. Dieser Prozess wurde über Kameras, Umfragen und Interviews beobachtet
+und analysiert.
+Daneben bieten sich Interviews – als Einzelinterviews oder Fokusgruppeninterviews
+– als qualitative Methode an. Wegen des zeitlichen Aufwands werden diese
+sinnvollerweise vor allem mit Repräsentant:innen einer bestimmten Gruppe sowie
+mit Stakeholdern geführt – also beispielsweise mit Bibliotheksbeauftragten, Studiendekan:
+innen oder Studierendenvertreter:innen.
+Darüber hinaus können Experteninterviews, Recherchen und Besichtigungen anderer
+Bibliotheken und Hochschulen die Expertise von Fachleuten sowie Best-Practice-
+Beispiele in den Planungsprozess einbringen. Diese können unter Umständen auch
+blinde Flecken in der eigenen Planung, die weder den Nutzenden noch den Planer:innen
+bewusst sind, aufdecken.
+Schließlich gehört auch der Abgleich mit der übergreifenden strategischen Ausrichtung
+der Bibliothek sowie der Hochschule zum Planungsprozess: Welchen Stellenwert
+haben die Lernräume im Portfolio der Bibliothek? Gibt es strategische Setzungen
+von Seiten der Hochschule? Welche strategischen Ziele verfolgen andere Einrichtungen
+der Hochschule in diesem Bereich?
+Die Ergebnisse dieser Bedarfsanalyse werden üblicherweise über Personas typisiert,
+indem man Nutzende zu repräsentativen Gruppen zusammenfasst – an einer Hochschule
+beispielsweise zu den Personas Erstsemester, Studierende:r mit Abschlussarbeit,
+Doktorand:in bzw. wissenschaftliche:r Mitarbeiter:in, Professor:in sowie externe:r Nutzer:
+in. Aus diesen Personas können dann unterschiedliche Nutzungsszenarien abgeleitet
+werden, die wiederum die Basis für die Gestaltung der Lernräume bilden.
+Zu berücksichtigen ist dabei allerdings, dass die grundsätzlichen Herausforderungen
+der Nutzungsanalyse und der Nutzungsforschung auch in diesem Planungsprozess
+bestehen: das Problem der Repräsentativität auf der einen Seite, und das Problem des
+Aufwands (vor allem bei den qualitativen Methoden) auf der anderen Seite.
+4.2 Gestaltung
+Die konkrete Gestaltung der Lernräume ist abhängig von den Bedarfen der Nutzenden,
+die sich aus der Bedarfsanalyse ergeben haben und die – wie oben gezeigt –
+unter Umständen stark voneinander differieren. Es gibt jedoch auch einige übergreifende
+Aspekte, deren Berücksichtigung bei der Gestaltung von Lernräumen sinnvoll
+ist.
+112 Thomas Stöber
+4.2.1 Technische Infrastruktur
+Die grundlegende technische Infrastruktur von Lernräumen reicht von der Beleuchtung
+(Hintergrundbeleuchtung und Arbeitsplatzbeleuchtung) über die Stromversorgung
+an den Arbeitsplätzen (die von den Nutzenden regelmäßig nachdrücklich eingefordert
+wird) bis hin zu einer flächendeckenden Versorgung mit WLAN. Sie bildet eine wichtige
+Schnittstelle zwischen der Lernraumgestaltung und dem Bibliotheksbau, weil die Art
+der Beleuchtung und die notwendige Stromversorgung an den Arbeitsplätzen stark von
+der Art des Lernraums abhängt, die Umsetzung aber in der Regel eine bauliche Maßnahme
+notwendig macht.
+4.2.2 Zonierung
+Häufig müssen – aufgrund der Ausdifferenzierung der Bedarfe – in einem Gebäude
+oder sogar in einem Raum mehrere Nutzungsszenarien unter einen Hut gebracht
+werden. Innerhalb eines Gebäudes können die einzelnen Stockwerke oder Räume unterschiedlichen
+Zonen zugewiesen werden – vom Silentiumsbereich bis zum Bibliotheks-
+Café. Dabei wird man die Zonen in der Regel so staffeln, dass die sozialen
+Räume eher in den nahe am Eingang gelegenen Bereichen mit starkem Publikumsverkehr
+angesiedelt sind, während sich die Räume der Konzentration eher in den oberen
+Stockwerken oder im Innern des Gebäudes befinden. Innerhalb eines Raums kommen
+in der Regel Raum-in-Raum-Lösungen zum Einsatz: Carrels, Alkoven, Workbays und
+Ähnliches. Diese Möblierung stellt eine Art von Mikro-Architektur dar: sie grenzt kleine,
+private Räume innerhalb des großen Raums ab. Sie bietet Gruppen von Nutzenden die
+Gelegenheit, diese Räume als ihre Lern- und Arbeitsräume zu definieren, und stellt
+gleichzeitig einen Sicht- und Schallschutz zwischen den einzelnen Bereichen her.
+4.2.3 Flexibilität
+Die Bedarfe der Nutzenden sind einem kontinuierlichen Wandel unterworfen, der regelmäßig
+in Konflikt mit den Lernraumentwicklungsprojekten und Baumaßnahmen
+steht, die sich oft über mehrere Jahre erstrecken. In begrenztem Umfang kann man
+auf diesen Konflikt reagieren, indem man bei der Möblierung der Lernräume auf
+eine flexible und modulare Gestaltung achtet. So sollte sich nach Möglichkeit die Anordnung
+der Arbeitsplätze verändern lassen. Umgesetzt werden kann das beispielsweise
+über Gruppenarbeitsplätze, die sich individuell zusammenstellen lassen – über
+Tische, die mit Rollen versehen sind, über mobile Bildschirme u. a. m. An ihre Grenzen
+stößt diese flexible Gestaltung allerdings bei der Stromversorgung und der Beleuchtung
+der Arbeitsplätze, da diese in aller Regel fest installiert sein muss.
+3.1 Lernraumentwicklung und Lernraumverwaltung in wissenschaftlichen Bibliotheken 113
+4.2.4 Nachhaltigkeit
+Klimawandel und Energiekrise haben in den vergangenen Jahren deutlich gemacht,
+dass auch bei der Entwicklung von Lernräumen der Aspekt der Nachhaltigkeit Berücksichtigung
+finden muss. Es liegt auf der Hand, dass die großen Stellschrauben dabei
+eher im Bereich der baulichen Maßnahmen als im Bereich der Lernraumentwicklung
+liegen. Allerdings gibt es auch bei der Entwicklung von Lernräumen die Möglichkeit
+der nachhaltigen Gestaltung. So kann zum einen der Energiebedarf berücksichtigt werden,
+etwa bei der Planung der Beleuchtung oder indem die notwendige Heizenergie
+durch kluge Zonierung reduziert wird. Auf der anderen Seite kann der Bedarf an
+„Grauer Energie“ – also jener Energie, die durch die Produktion der Baustoffe, durch
+ihren Transport und ihre Verarbeitung im Gebäude gebunden wird – reduziert werden.
+So macht eine flexible und modulare Gestaltung der Inneneinrichtung unter Umständen
+energieintensive Umbaumaßnahmen überflüssig. Die Umwidmung bzw. der Umbau
+eines bestehenden Gebäudes ist deutlich ressourcenschonender als ein Neubau.
+4.3 Betriebskonzept
+Das Betriebskonzept bildet eine wichtige Schnittstelle zwischen der Lernraumentwicklung
+und der Lernraumverwaltung. Die Festlegungen im Betriebskonzept haben einerseits
+Konsequenzen für den laufenden Betrieb und damit für die Lernraumverwaltung.
+Andererseits sind für manche Festlegungen, die im Betriebskonzept getroffen werden
+(beispielsweise die personallose Öffnung) besondere bauliche oder gestalterische
+Maßnahmen notwendig (in diesem Fall der Zugang zum Lernraum über ein
+RFID-Schließsystem), die bereits in der Lernraumentwicklung bzw. bei den baulichen
+Maßnahmen berücksichtigt werden müssen. Zum Betriebskonzept eines Lernraums
+gehören insbesondere die Öffnungszeiten, die Frage des Personaleinsatzes sowie
+die für den Lernraum bzw. für seine einzelnen Zonen gültigen Nutzungsregeln.
+4.3.1 Öffnungszeiten
+Die Öffnungszeiten des Lernraums leiten sich prinzipiell aus der Bedarfsanalyse ab: Besteht
+der Bedarf nach einer Öffnung am Abend und am Wochenende? Mit wie vielen
+Öffnungsstunden? Soll der Lernraum rund um die Uhr, an sieben Tagen in der Woche
+zugänglich sein? Aus dieser bedarfsorientierten Sicht sind in der Regel möglichst lange
+Öffnungszeiten erstrebenswert und in den letzten beiden Jahrzehnten auch von den
+meisten Bibliotheken umgesetzt worden. Gleichzeitig haben diese möglichst langen Öffnungszeiten
+aber erhebliche Auswirkungen auf die Kosten im laufenden Betrieb: zum
+einen auf die Energiekosten, zum anderen (abhängig wiederum vom Personaleinsatz,
+s. u.) auf die Personalkosten. Dieser Kostenfaktor sowie der Aspekt der Nachhaltigkeit
+114 Thomas Stöber
+können ein Argument sein, auf maximale Öffnungszeiten (wie etwa eine 24/7-Öffnung)
+zu verzichten.
+4.3.2 Personaleinsatz
+Durch die erhebliche Ausweitung der Öffnungszeiten in den vergangenen Jahren an
+vielen Bibliotheken (Öffnung unter der Woche am Abend bis 22 oder 24 Uhr, Öffnung
+auch an Samstagen und Sonntagen bis in den späteren Abend hinein) sind in den wissenschaftlichen
+Bibliotheken 100 Öffnungsstunden pro Woche eher die Regel als die
+Ausnahme. In größeren Hochschulbibliotheken mit mehreren räumlich getrennten
+Standorten multiplizieren sich diese Öffnungsstunden entsprechend. Diese Zeiten
+können längst nicht mehr über das Stammpersonal der Bibliothek abgedeckt; den Bibliotheken
+stehen dabei drei Möglichkeiten zur Verfügung:
+– die Auslagerung der Aufsicht an studentische Hilfskräfte oder externe Dienstleister
+(Wach- oder Aufsichtsdienste);
+– der personallose Betrieb;
+– eine Mischform: beispielsweise der Betrieb mit Stammpersonal in Kernzeiten
+und eine Auslagerung an Aufsichtsdienste oder ein personalloser Betrieb außerhalb
+dieser Kernzeiten.
+Für das Betriebskonzept muss also die Frage beantwortet werden, welches Personal zu
+welchen Zeiten im Lernraum präsent sein muss bzw. ob überhaupt die Anwesenheit
+von Personal erforderlich ist. Inwieweit ist für die Unterstützung der Nutzenden
+Stammpersonal erforderlich? Kann der Support durch die Mitarbeitenden des externen
+Dienstleisters übernommen werden? Ist eine durchgängige Aufsicht erforderlich, welche
+die Ein- und Ausgangskontrolle übernimmt und für die Einhaltung der Nutzungsregeln
+sowie für die Sicherheit sorgt? Kann auf eine solche durchgängige Aufsicht
+verzichtet werden? Ist ein personalloser Betrieb, gegebenenfalls mit einer Bestreifung
+durch einen Sicherheitsdienst, möglich?
+Wenn sich die Bibliothek für den Einsatz von studentischen Hilfskräften entscheidet,
+gewinnt sie im besten Fall wissenschaftsaffines und mit der Bibliothek bereits
+vertrautes Personal. Die Studierenden haben ihrerseits eine Erwerbsmöglichkeit, die
+sich gut in ihren Studienalltag integrieren lässt. Allerdings muss die Bibliothek
+berücksichtigen, dass bei studentischen Hilfskräften der Personaleinsatz vollständig
+durch die Bibliothek organisiert werden muss – von der Personalgewinnung über die
+Arbeitsverträge und die Dienstpläne bis hin zu Notfalllösungen bei kurzfristigen Ausfällen.
+Diese Aufwände stellen insbesondere bei einer großen Anzahl von Hilfskräften
+einen nicht zu unterschätzenden versteckten Kostenfaktor dar.
+Wenn die Aufsicht über den Lernraum einem externen Dienstleister übertragen
+werden soll, ist die Unterscheidung zwischen Wach- und Sicherheitsdiensten einerseits
+und Aufsichtsdiensten andererseits relevant. Ein Wachdienst bzw. Sicherheits-
+3.1 Lernraumentwicklung und Lernraumverwaltung in wissenschaftlichen Bibliotheken 115
+dienst ist auf Sicherheit und Gefahrenabwehr ausgerichtet und hat in der Regel eine
+Zulassung zum Bewachungsgewerbe.22 Ein Wachdienst ist also dann sinnvoll, wenn
+es (auch) um die Gebäudesicherheit geht. Wenn es beispielsweise in einer Hochschulbibliothek
+ausschließlich um die Besetzung der Theke, um eine Ein- und Ausgangskontrolle
+sowie um einfache Auskünfte an der Theke geht und die Sicherheit an der
+Hochschule durch einen hochschulweiten Wachdienst gewährleistet ist, dann ist ein
+Aufsichtsdienst ausreichend – und unter Umständen die bessere Wahl, denn Dienstleister,
+die Aufsichtsdienste anbieten, haben sich eher auf Theken- und Rezeptionsdienste
+spezialisiert und befinden sich damit gegebenenfalls näher am Einsatzzweck
+in der Bibliothek.
+Wesentlicher Vorteil der Auslagerung an einen externen Dienstleister ist, dass
+der Personaleinsatz vollständig vom Dienstleister organisiert wird und die Bibliothek
+dadurch personell entlastet wird. Dem steht der Nachteil gegenüber, dass das eingesetzte
+Personal in der Regel nicht mit der Hochschule und der Bibliothek vertraut ist.
+Soll der Lernraum personallos betrieben werden, muss die Frage beantwortet
+werden, ob der freie Zugang zum Lernraum jederzeit für alle möglich sein soll, oder
+ob eine automatisierte Zugangskontrolle erfolgen soll. Diese Frage hängt wesentlich
+mit dem Nutzungszweck des Lernraums zusammen, aber auch mit seinem räumlichen
+Umfeld (Lage im Gebäudeinneren vs. Lage an der Außenhaut des Gebäudes) sowie
+letztlich mit der konkreten Sicherheitssituation. Eine automatisierte Zugangskontrolle
+erfolgt in der Regel über ein RFID-Schließsystem, über das sich die Nutzer:innen am
+Eingang mit einer Zugangskarte – an Hochschulen beispielsweise mit der Campuscard –
+authentifizieren.
+4.3.3 Nutzungsregeln
+Die Nutzungsregeln leiten sich aus den Nutzungsszenarien der Lernräume bzw. der einzelnen
+Zonen der Lernräume ab. Festlegungen sind hier vor allem bei der Frage notwendig,
+ob es sich um einen Silentiumsbereich, einen halblauten oder einen lauten
+Bereich handelt, ob Überbekleidung und Taschen mitgenommen werden dürfen und ob
+Essen und/oder Trinken erlaubt ist. In den Silentiumsbereichen – also denjenigen Bereichen,
+die den klassischen Lesesälen am ähnlichsten sind – gelten in der Regel restriktivere
+Regeln, die dazu dienen, die oben beschriebene (und von den Nutzenden als
+produktiv empfundene) Atmosphäre der Stille und der Konzentration aufrecht zu erhalten.
+In den reinen Lernräumen geht die Tendenz dagegen zu deutlich liberaleren
+Regelungen – unter Umständen kann sich die Bibliothek hier sogar auf Generalklauseln
+(„verlasse den Raum so, wie du ihn vorzufinden hoffst“) beschränken.
+ Zur Qualifikation der Mitarbeiter:innen gehört in der Regel eine Sachkundeprüfung nach § 34a Gewerbeordnung
+oder ein vergleichbarer Nachweis.
+116 Thomas Stöber
+Das grundsätzliche Ziel dieser Nutzungsregeln ist es, einen Ausgleich zwischen
+den Interessen der unterschiedlichen Nutzendengruppen in den Lernräumen sowie
+einen Ausgleich zwischen den Interessen dieser Gruppen und denjenigen der Bibliothek
+zu schaffen und dadurch letzten Endes Konflikte zu vermeiden oder zumindest
+deutlich zu reduzieren. In den Lernräumen ist dieser Aspekt von besonderer Bedeutung,
+weil durch die Ausdifferenzierung der Nutzungsszenarien hier regelmäßig sehr
+unterschiedliche Interessen aufeinandertreffen (etwa die Interessen einer Doktorandin
+in der Schlussphase ihrer Dissertation und die Interessen einer Gruppe von Studierenden,
+die sich die Zeit zwischen zwei Lehrveranstaltungen vertreiben wollen).
+Deshalb ist eine klare Zonierung der Lernräume mit einer ebenso klaren Kommunikation
+und Visualisierung der Regeln, die in den einzelnen Zonen gelten, wichtig.
+5 Lernraumverwaltung
+In der Lernraumverwaltung geht es zum einen um die Sicherstellung eines möglichst
+reibungslos laufenden Betriebs, zum anderen um die Gewährleistung der Servicequalität
+im Alltag. Viele Aspekte ergeben sich bereits aus den Festlegungen in der Lernraumentwicklung;
+darüber hinaus sind noch die folgenden Punkte relevant.
+5.1 Personaleinsatz, Qualitätssicherung und Nutzersupport
+Wie oben geschildert ist vor allem in den reinen Lernräumen, aber auch in den klassischen
+Lesesälen und Teilbibliotheken die Aufsicht häufig an studentische Hilfskräfte
+oder externe Wach-/Aufsichtsdienste ausgelagert – wenn diese Lernräume nicht ohnehin
+vollständig personallos betrieben werden. Konsequenz dieser Entwicklung ist, dass das
+Bibliothekspersonal als „Gesicht und Stimme“ der Bibliothek in diesen Räumen weniger
+oder gar nicht mehr präsent und sichtbar ist. Diese Entwicklung ist aus personellen Gründen
+unvermeidlich, hat jedoch Folgen.23 Den studentischen Hilfskräften sowie dem externen
+Wach-/Aufsichtspersonal wird dadurch eine Vielzahl von Aufgaben übertragen, die
+früher im Zuständigkeitsbereich des Stammpersonals lagen: Ansprechpersonen für
+Fragen und Beschwerden, Lösung von Problemen und Konflikten, Gewährleistung
+der Sicherheit. Gleichzeitig ist die Qualifikation der studentischen Hilfskräfte sowie
+des externen Wach-/Aufsichtspersonals zwangsläufig geringer als die des Stammpersonals,
+was Auswirkungen auf die Servicequalität in den Lernräumen der Bibliothek
+hat. Dazu kommt, dass die Bibliothek häufig nur noch aus zweiter Hand von
+den Abläufen in ihren Lernräumen erfährt und es dadurch zum Beispiel schwieriger
+wird, sich von einer Beschwerdelage ein konkretes Bild zu machen. Im laufen-
+ Vgl. Duden 2015.
+3.1 Lernraumentwicklung und Lernraumverwaltung in wissenschaftlichen Bibliotheken 117
+den Betrieb des Lernraums kann dieser Entwicklung jedoch mit mehreren Maßnahmen
+entgegengewirkt werden:
+– Die Bibliothek kann verschiedene zeitliche Servicelevel definieren und diese klar
+kommunizieren: Welche Services können die Nutzenden in den Kernzeiten erwarten?
+Welche am Abend und am Wochenende?
+– Durch intensive Schulungen und ein gut funktionierendes Wissensmanagement
+(z. B. durch ein Intranet, das alle wichtigen Informationen für die Theken stets
+aktuell und übersichtlich bereithält) kann die Bibliothek für eine durchgängige,
+verlässliche Grundqualifikation der studentischen Hilfskräfte und des Wach-/Sicherheitsdienstes
+sorgen.
+– Eine laufende Qualitätskontrolle, vor allem bei externen Dienstleistern, sowie gut
+funktionierende Kommunikationskanäle und ein laufender Austausch zwischen
+der Bibliothek einerseits und dem Dienstleister und seinen Mitarbeitenden andererseits
+stellt sicher, dass die Bibliothek rasch von möglichen Problemen erfährt
+und diese entsprechend schnell abstellen kann.
+– Wo das Stammpersonal nicht vor Ort präsent ist, kann es zumindest in den Kernzeiten
+remote über Telefon, Chat oder Videochat erreichbar sein. Eine Alternative
+ist ein Hintergrunddienst, bei dem Bibliothekspersonal in räumlicher Nähe im
+Backoffice arbeitet und von den Hilfskräften oder dem externen Aufsichtsdienst
+in den Kernzeiten hinzugerufen werden kann.
+5.2 Sicherheit
+Die Ausweitung der Öffnungszeiten hat dazu geführt, dass in den Randzeiten am Abend
+und am Wochenende regelmäßig studentische Hilfskräfte oder Mitarbeiter:innen des
+Wach- oder Aufsichtsdienstes in den Bibliotheksräumen bzw. dem -gebäude allein sind.
+Im personallosen Betrieb ist keine Aufsicht mehr vor Ort. Diese Situation muss im laufenden
+Betrieb der Lernräume berücksichtigt werden. Die Sicherheit muss über den
+Wachdienst der Bibliothek bzw. der Hochschule gewährleistet werden, und auch die
+Sicherheitsrichtlinien und der Notfallplan der Bibliothek müssen auf diese Situation
+ausgerichtet sein. Dementsprechend sollte der Notfallplan klare Handlungsrichtlinien
+für das Aufsichtspersonal enthalten. Dabei hat es sich bewährt, neben dem umfassenderen
+Notfallplan die wichtigsten Situationen und Handlungsanweisungen auf einem
+knapp gehaltenen Merkblatt festzuhalten, das beim Eintreten eines Notfalls eine übersichtliche
+Handlungsrichtschnur bereitstellt. Im Rahmen des Notfallplans muss auch
+die Erreichbarkeit des Wachdienstes sowie der Verantwortlichen der Bibliothek sichergestellt
+werden. Schließlich muss in diesem Zusammenhang auch die Ausübung des
+Hausrechts geklärt werden.
+118 Thomas Stöber
+5.3 Zugangs- und Auslastungssteuerung
+Viele Hochschulbibliotheken haben – zumindest in den intensiven Phasen eines Semesters,
+also am Semesteranfang und in den Prüfungsphasen – in ihren Lernräumen
+regelmäßig mit Überfüllung zu kämpfen. Das ist insofern nicht überraschend, als in
+den wissenschaftlichen Bibliotheken in Deutschland auf einen von der Bibliothek zur
+Verfügung gestellten Arbeitsplatz 33 Nutzende kommen.24 Deshalb ist (zumindest in
+diesen intensiven Nutzungsphasen) eine Steuerung des Zugangs zu den Arbeitsplätzen
+bzw. eine Steuerung der Auslastung dieser Arbeitsplätze notwendig.
+Teilweise werden dafür in Bibliotheken sogenannte Pausenscheiben eingesetzt, die
+verhindern sollen, dass Nutzende mit ihren Unterlagen einen Arbeitsplatz belegen, den
+sie selbst erst später nutzen. In der Praxis stellt sich dabei jedoch die Frage des Personaleinsatzes
+(Durch wen wird der Platz abgeräumt, wenn die Zeit abgelaufen ist? Wie
+häufig wird kontrolliert?) sowie unter Umständen ein Haftungsproblem (Wie werden
+Wertgegenstände wie beispielsweise abgeräumte Laptops sicher aufbewahrt?).
+Manche Bibliotheken arbeiten mit einer Überlastregel; das bedeutet, dass ab einer
+bestimmten Auslastung der Arbeitsplätze (etwa wenn die Hälfte der Arbeitsplätze belegt
+ist) nur noch bestimmte Nutzendengruppen Zutritt zum Lernraum haben. Der Zutritt
+kann dann beispielsweise auf die primäre Zielgruppe (an einer Hochschule also auf die
+Studierenden und Wissenschaftler:innen dieser Hochschule) eingeschränkt werden, oder,
+wenn es sich um eine Teilbibliothek mit einem bestimmten fachlichen Zuschnitt handelt,
+auf die Studierenden und Wissenschaftler:innen dieser Fächer. Dafür muss allerdings die
+Auslastung erfasst werden und die Nutzenden müssen sich, wenn die Überlastregel greift,
+beim Betreten authentifizieren – entweder händisch beim Thekenpersonal oder automatisiert
+über einen RFID-Ausweis und ein entsprechendes Lesegerät.
+Seit langem an wissenschaftlichen Bibliotheken im Einsatz sind auch Auslastungsanzeigen.
+Dafür wird die Auslastung der Arbeitsplätze erfasst – über manuelle Zählung,
+über Lichtschranken, über die automatische Erfassung der im WLAN angemeldeten Geräte
+oder über Besucherstromzähler (optische Sensoren, die im Eingangsbereich über
+Mustererkennung die durchgehenden Personen zählen). Besucherstromzähler haben
+dabei den Vorteil, dass sie die genaueste Zählung liefern und die Auslastung automatisiert
+erfassen und an andere Systeme weiterleiten können. Die Auslastung wird dann –
+nach Möglichkeit in Echtzeit – auf den Informationskanälen der Bibliothek (Website,
+Infoscreens, Social-Media-Präsenzen etc.) angezeigt. Mit dieser Information der Nutzenden
+versucht man letztlich, die Besucherströme zu lenken – auf weniger stark genutzte
+Zeiten, und auf weniger stark genutzte Standorte.
+Seit der Covid-19-Pandemie, in der die Bibliotheken sehr schnell Systeme für die
+Kontaktnachverfolgung entwickeln mussten, kommen in wissenschaftlichen Biblio-
+ Quelle: Deutsche Bibliotheksstatistik; Verhältnis der „registrierten Nutzer“ zu den „Benutzerarbeitsplätzen“
+im Jahr 2022.
+3.1 Lernraumentwicklung und Lernraumverwaltung in wissenschaftlichen Bibliotheken 119
+theken zunehmend auch Reservierungssysteme zum Einsatz. Für die Nutzenden wird
+der Besuch des Lernraums mit diesen Systemen planbarer, was beispielsweise an
+Hochschulbibliotheken in Prüfungszeiten Druck von den Lernräumen nehmen und
+Konflikte verringern kann. Viele Reservierungssysteme bieten dabei inzwischen eine
+flexible Parametrisierung, mit der eine möglichst gerechte Verteilung der Arbeitsplätze
+auf die Nutzenden erreicht werden kann. So können die Zeitslots für die Reservierung
+vordefiniert oder frei wählbar sein; die Reservierung kann erst ab einer
+bestimmten Zahl von Tagen vor dem Wunschtermin möglich sein; die Zahl der reservierbaren
+Zeitslots pro Nutzer:in kann pro Tag, Woche oder Monat begrenzt sein. Zu
+mehr Gerechtigkeit trägt auch die automatische Stornierung der Reservierung bei
+Nicht-Erscheinen (no-shows) bei. Dafür checken die Nutzenden bei Betreten des Lernraums
+für ihren reservierten Arbeitsplatz ein; findet der Check-in nicht statt, wird die
+Reservierung nach einer festgelegten Frist automatisch storniert. Darüber hinaus
+kann die Reservierung in manchen Systemen auch auf bestimmte Nutzendengruppen
+eingeschränkt werden. Dadurch kann die Bibliothek beispielsweise einen Teil der Arbeitsplätze
+im Lernraum für alle Nutzenden frei zugänglich lassen, ein anderes Kontingent
+jedoch einer bestimmten Gruppe vorbehalten.
+Literatur
+Becker, Alexandra, Silke Dutz u. Richard Stang: Einleitung. In: Zukunft Lernwelt Hochschule. Perspektiven
+und Optionen für eine Neuausrichtung. Hrsg. v. Richard Stang u. Alexandra Becker. Berlin: De
+Gruyter Saur 2020. S. 1–10
+Bennett, Scott: Libraries designed for learning. Washington: Council on Library and Information
+Resources 2003.
+Duden, Rolf: Vom Nachtwächter zum Lernortmanager? Neue Herausforderungen für das
+Qualitätsmanagement von Wachdiensten in wissenschaftlichen Bibliotheken. 2015. http://nbnresolving.
+de/urn/resolver.pl?urn:nbn:de:0290-opus4-17275 (26.01.2024).
+Eigenbrodt, Olaf: Definition und Konzeption der Hochschulbibliothek als Lernort. In: ABI-Technik 30 (2010)
+H. 4, S. 252–260. https://doi.org/10.1515/ABITECH.2010.30.4.252.
+Eigenbrodt, Olaf: Veränderte Konzepte und Funktionen. Ansätze einer neuen Typologie von
+Wissensräumen. In: Formierungen von Wissensräumen. Optionen des Zugangs zu Information und
+Bildung. Hrsg. v. Olaf Eigenbrodt u. Richard Stang. Berlin: De Gruyter 2014 (Age of Access?
+Grundfragen der Informationsgesellschaft: 3). S. 22–36.
+Eigenbrodt, Olaf: Lernwelt Wissenschaftliche Bibliothek. Pädagogische und raumtheoretische Facetten.
+Berlin, Boston: De Gruyter Saur (Lernwelten) 2021.
+Gläser, Christine: Die Bibliothek als Lernort. Neue Servicekonzepte. In: Bibliothek: Forschung und Praxis
+32 (2008), H. 2, S. 171–182. https://doi.org/10.1515/bfup.2008.018.
+Helmkamp, Kerstin: Automatisierung im Zuge des digitalen Wandels von Benutzungsservices. Das neue
+Lern- und Studiengebäude (LSG) und die Verbesserungen der Studien- und Lernbedingungen am
+Campus-Nord der Universität Göttingen. In: o-bib 2 (2015), H. 4. https://doi.org/10.5282/o-bib
+/2015H4S192-210.
+120 Thomas Stöber
+Hoebel, Friederike u. Michael W. Mönnich: Lernraum-Management. Eine Aufgabe für Bibliotheken. In:
+B.I.T. online 18 (2015), H. 1, S. 15–21. https://www.b-i-t-online.de/heft/2015-01/fachbeitrag-hoebel.pdf
+(26.01.2024).
+Holländer, Stephan, Wilfried Sühl-Strohmenger u. Ludger Syré (Hrsg.): Hochschulbibliotheken auf dem
+Weg zu Lernzentren. Beispiele aus Deutschland, Österreich und der Schweiz. Wiesbaden:
+B.I.T. Verlag 2021 (B.I.T. online Innovativ: 80).
+Huß, Björn u. Frank Dölle: Bedeutung, Nutzung und Zugang zu Lehrbüchern an Hochschulen. Zentrale
+Ergebnisse der Befragungsstudie für das Bundesministerium für Bildung und Forschung. Deutsches
+Zentrum für Hochschul- und Wissenschaftsforschung 2021. https://doi.org/10.2314/KXP:1788361857.
+Ilg, Jens: Innenarchitekt auf Zeit. Bibliotheksnutzer richten sich ein. In: o-bib 3 (2016), H. 4, S. 217–224.
+https://doi.org/10.5282/o-bib/2016H4S217-224.
+Kohls, Christian: Hybride Lernräume auf dem Campus der Zukunft. In: ABI Technik 43 (2023), H. 1, S. 2–12.
+https://doi.org/10.1515/abitech-2023-0002.
+Kugler, Ulrike u. Maria Winkler: „Komfortzone: bitte eintreten“. Ein UX-Projekt an der Bibliothek der
+Wirtschaftsuniversität Wien. In: Künstliche Intelligenz in Bibliotheken. 34. Österreichischer
+Bibliothekartag Graz 2019. Hrsg. v. Christina Köstner-Pemsel, Elisabeth Stadler u. Markus Stumpf.
+Graz: Uni-Press 2020. S. 369–379.
+Naumann, Ulrich: Universitätsbibliotheken. In: Die Weisheit baut sich ein Haus. Architektur und
+Geschichte von Bibliotheken. Hrsg. v. Winfried Nerdinger. München/London/New York: Prestel 2011.
+S. 131–148
+Rautenberg, Katharina, Annette Klein, Jochen Usinger u. Andrea Dombrowe: „Vom Lesesaal zum Learning
+Center“. Ein neues Raum- und Benutzungskonzept an der UB Mannheim. In: B.I.T. online 17 (2014),
+H. 4, S. 321–328. https://www.b-i-t-online.de/heft/2014-04/fachbeitrag-rautenberg.pdf (26.01.2024).
+Strahl, Alexandra: Flexible und vielfältige Ausstattung – ein Schlüssel zur erfolgreichen Lernumgebung. In:
+o-bib 3 (2016), H. 4. https://doi.org/10.5282/o-bib/2016H4S225-242.
+Vogel, Bernd: Das Selbststudium der Studierenden: Ergebnisse einer Befragung zur zeitlichen und
+räumlichen Organisation des Lernens. In: Zukunft Lernwelt Hochschule. Perspektiven und Optionen
+für eine Neuausrichtung. Hrsg. v. Richard Stang u. Alexandra Becker. Berlin: De Gruyter Saur 2020.
+S. 149–164.
+Werner, Klaus Ulrich: Bibliothek als Ort. In: Praxishandbuch Bibliotheksmanagement. Hrsg. v. Rolf Griebel,
+Hildegard Schäffler u. Konstanze Söllner. Berlin: De Gruyter 2015. S 95–107.

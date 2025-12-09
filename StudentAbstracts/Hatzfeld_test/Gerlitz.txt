@@ -1,0 +1,303 @@
+﻿Tilmann Gerlitz
+Umgang mit Medien an den Rändern – Ein
+Praxisbeispiel aus der Thüringer Universitäts-
+und Landesbibliothek Jena (ThULB)
+
+1 Einführung
+Im Februar 2020 erhielt der Verfasser per E-Mail die Anfrage eines Nutzers, der sich
+zur Aufstellung des Titels Revolte gegen den großen Austausch von Renaud Camus1 im
+Bestand der ThULB erkundigte. Der Band stand seinerzeit in der Teilbibliothek
+Rechts-, Wirtschafts- und Sozialwissenschaften im Freihandbestand.
+
+Die Teilbibliothek Rechts-, Wirtschafts- und Sozialwissenschaften ist eine von vier
+Teilbibliotheken der Thüringer Universitäts- und Landesbibliothek Jena (ThULB), un-
+tergebracht im Universitätsgebäude am Ernst-Abbe-Platz. Im gleichen Gebäude befin-
+den sich, neben anderen Einrichtungen der Friedrich-Schiller-Universität Jena, die
+Rechtswissenschaftliche sowie die Wirtschaftswissenschaftliche Fakultät sowie die In-
+stitute für Soziologie und für Politikwissenschaft.2 Diese räumliche Konstellation er-
+möglicht den Gang zu den jeweiligen Fachbeständen, ohne das Gebäude zu verlassen.
+
+Zu unterscheiden ist nach Auffassung des Verfassers bei der Frage der Literatur
+hier und im Folgenden zwischen Quellenliteratur und Forschungs- bzw. Sekundärlite-
+ratur. Quellenliteratur umfasst nach dieser Ansicht in größerer Stückzahl publizierte
+bzw. verlegte Literatur, die die Ideen, Denkgebäude und anderes gedrucktes Grundla-
+genmaterial als Basis für die jeweilige Ideologie enthält. Aufgrund verlagsseitiger Pu-
+blikation gelangt der Titel auf bibliothekarischen Zugangswegen in den jeweiligen Bi-
+bliotheksbestand. Der oben genannte Titel ist aus Sicht des Verfassers durchaus der
+Quellenliteratur zuzurechnen.
+
+Forschungs- und Sekundärliteratur umfasst folglich die Literatur, in der die nach
+eingehender Beschäftigung durch Sammlung von Quellen und anderem Material der
+jeweils untersuchten Strömungen, Ideologen und Gruppierungen sowie deren Analyse
+und Erkenntnisse ihre Niederschrift findet.3 Die Erkenntnisse und Befunde über die
+jeweiligen Beobachtungen finden mittels Veröffentlichung im Verlag ihren Weg in
+u. a. Bibliotheken. Als Beispiel für Forschungsliteratur sei hier der Titel Die Reichsbür-
+
+1 Schnellroda: Antaios 2016.
+2 Beide Institute gehören zur Fakultät für Sozial- und Verhaltenswissenschaften der Friedrich-Schil-
+ler-Universität Jena.
+3 Dem Verfasser ist sehr deutlich bewusst, dass der Forschungsprozess sehr viel komplexer ist als hier
+skizziert, sowohl in inhaltlicher als auch in zeitlicher Hinsicht.
+
+Open Access. © 2024 Tilmann Gerlitz, publiziert von De Gruyter. Dieses Werk ist lizenziert unter einer
+Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111229614-011
+
+
+
+124  Tilmann Gerlitz
+
+ger – Verfassungsfeinde zwischen Staatsverweigerung und Verschwörungstheorie, her-
+ausgegeben von Christoph Schönberger und Sophie Schönberger,4 genannt.
+
+Aus Sicht des Verfassers ist die Forschungs- und Sekundärliteratur und deren Er-
+werb in Bibliotheken unstrittig und keiner größeren Kontroverse ausgesetzt. Im Ge-
+genteil, wird ein Fehlen dieser Literatur vermutlich sogar eher als Manko betrachtet.
+Als kontrovers wird verfasserseitig hingegen die Aufstellung der wie oben als Quellen-
+literatur charakterisierten Publikationen wahrgenommen. Als Beispiel zum Umgang
+mit solchen Titeln mag der eingangs genannte Titel dienen.
+
+2 Forschungsbedarf
+An dieser Stelle werden hinsichtlich des Bedarfes kontroverser Literatur für die wis-
+senschaftliche Forschung einige Überlegungen angestellt und Tatsachen einbezogen.5
+Quellenliteratur dient oft als Material, zum Teil als Ausgangspunkt, der Forschung.6
+Neben dem Institut für Politikwissenschaft der Friedrich-Schiller-Universität besteht
+in Jena mit dem KomRex – Zentrum für Rechtsextremismusforschung, Demokratiebil-
+dung und gesellschaftliche Integration eine „wissenschaftliche Forschungseinrichtung
+der Friedrich-Schiller-Universität“ (KomRex 2023a). Es nahm 2013 unter dem Namen
+„Kompetenzzentrum Rechtsextremismus“ seine Arbeit auf (KomRex 2023b). 2017 wur-
+den die Forschungsschwerpunkte „um die Bereiche Demokratiebildung und gesell-
+schaftliche Integration erweitert“ (KomRex 2023c). Das führte zu einer Umbenennung
+unter Beibehaltung des Kurznamens (KomRex 2023c).
+
+Das KomRex beschäftigt sich „mit den Themenfeldern des Rechtsextremismus
+und -populismus, Radikalisierung, Demokratiebildung und -förderung sowie gesell-
+schaftlicher Integration […] und [vernetzt] Forschende dieser Bereiche miteinander“
+(KomRex 2023c).
+
+Bereits vor der Gründung des KomRex entstanden in benachbarten wissenschaft-
+lichen Disziplinen in der Friedrich-Schiller-Universität Jena Arbeiten zu diesem und
+angrenzenden „wichtige Beiträge“ (KomRex 2023b).
+
+4 Frankfurt, New York: Campus 2020.
+5 Diese sind nicht abschließend und haben nicht den Anspruch auf Absolutheit.
+6 Von der Methode der Quellenauswertung unberührt ist die praktische Notwendigkeit weiterer sozi-
+alwissenschaftlicher Methoden zur Daten- und Erkenntnisgewinnung.
+
+
+
+Umgang mit Medien an den Rändern – Ein Praxisbeispiel  125
+
+3 Bibliothek – Informations- und Literaturbedarf,
+-erschließung und -bereitstellung
+
+Die ThULB vereint die Funktionen einer Universitäts- und einer Landesbibliothek für
+den Freistaat Thüringen (§ 3 ThürBibG).7 Sie hat den (gesetzlichen) Sammelauftrag ei-
+ner Pflichtexemplarbibliothek und die Aufgabe der Literatur- und Informationsver-
+sorgung für die Friedrich-Schiller-Universität Jena. Neben den Fakultäten und Institu-
+ten ist somit auch der Bedarf des KomRex als wissenschaftliche Einrichtung bei der
+Literatur- und Informationsversorgung im Blick zu behalten.
+
+Die bibliothekarischen Standorte der ThULB, an denen der (physische) Bestand
+aufgestellt ist, lassen sich (grob) in den frei zugänglichen Freihand- und den geschlos-
+senen Magazinbestand unterteilen. Dorthin wurde seinerzeit auch das Exemplar des
+fraglichen Titels verbracht, wo es weiterhin für die (wissenschaftliche) Nutzung zur
+Verfügung steht.
+
+4 Fachreferat Politikwissenschaft
+Aus Verfassersicht ist gerade das Fachreferat Politikwissenschaft aufgrund der Be-
+schäftigung mit und Bereitstellung von Literatur und Informationen zu (aktuellen) po-
+litischen Entwicklungen, Strömungen und Erscheinungen, neben vielem anderem, so-
+wohl im politischen als auch vorpolitischen Bereich bzw. den unterschiedlichen politi-
+schen Arenen fast immer auch politischer Natur. Bislang gelangt(e) Literatur zumeist
+durch Initiative der oder des für das jeweilige Fach zuständigen Fachreferentin bzw.
+Fachreferenten in den Bibliotheksbestand, weil diese fachreferatsseitig als für den Be-
+stand notwendig erachtet und daher bestellt wurde.
+
+Die Aufgaben der ThULB bestehen gemäß Thüringer Hochschulgesetz (ThürHG)
+in der Bereitstellung der für Lehre, Forschung und Studium erforderlichen Informati-
+onsmedien.8 Zu diesem Zwecke arbeiten die Bibliotheken „mit Selbstverwaltungsein-
+heiten, wissenschaftlichen Einrichtungen und Betriebseinheiten […] zusammen“ (§ 44
+ThürHG)9 mit dem Ziel der Ausgewogenheit im Bestandsaufbau. Diese Funktion wird
+in der ThULB für die Politikwissenschaft durch den zuständigen Fachreferenten wahr-
+genommen und ergibt sich, neben individuellen Kontakten, in der Berücksichtigung
+der Forschungsschwerpunkte im Institut und im KomRex.10 Verfasserseitig wird, so-
+fern die Literatur nicht indexiert und verboten und daher von strafrechtlicher Rele-
+vanz ist, eine Haltung politischer Neutralität bei Auswahl und Bestellung eingenom-
+
+7 Vgl. § 3 ThürBibG 2008.
+8 Vgl. § 44 ThürHG 2018.
+9 Vgl. § 44 ThürHG 2018.
+10 Zwischen Institut und KomRex gibt es durchaus personelle Parallelen.
+
+
+
+126  Tilmann Gerlitz
+
+men. Um dem Literaturbedarf gerecht zu werden, muss die vielleicht zu diesem oder
+jenem Titel bestehende eigene Meinung weitestgehend ungeachtet und außen vor
+bleiben, was einem „Biss in einen sauren Apfel“ gleichkäme.11
+
+Diese Haltung wird mit Blick auf den größeren fachbibliothekarischen Kontext be-
+kräftigt. Viele bibliothekarische Verbände haben in ihren Ländern Ethik-Richtlinien
+verabschiedet. So schreibt für den deutschen Raum Bibliothek & Information Deutsch-
+land – Bundesvereinigung Deutscher Bibliotheksverbände e. V. (BID) in seinem 2017
+verabschiedeten „Code of Professional Ethics für Bibliothek & Information Deutsch-
+land“, dass eine Zensur von Inhalten abgelehnt würde (BID 2017, 2). Weiterhin wird
+das Ziel einer objektiven, unparteiischen und höflichen Informationsbereitstellung
+und Beratung betont (BID 2017, 3).
+
+Die International Federation of Library Associations (IFLA) spricht in ihrem 2012
+vom IFLA Governing Board angenommenen „IFLA Code of Ethics for Librarians and
+other Information Workers (full version)“, dass Bibliothekarinnen und Bibliothekare
+sowie weitere „information workers“ streng zur Neutralität und einer unvoreinge-
+nommenen Haltung im Hinblick auf Sammlung, Zugang und Service verpflichtet sind
+(IFLA 2012, 4).12
+
+5 Praxisbeispiel – Renaud Camus’ „Revolte gegen
+den großen Austausch“
+
+Mit Blick auf oben geschilderte Voraussetzungen und Grundsätze zur Erwerbung kom-
+men wir an dieser Stelle auf den eingangs genannten Titel zurück. Dieser Titel ist in
+einem Exemplar im Bestand der ThULB nachgewiesen und war seit dessen Bestellung
+2017 im Freihandbestand aufgestellt. Nach der Anfrage des Nutzers Anfang 2020 wur-
+de durch den zuständigen Fachreferenten beschlossen, das in der Teilbibliothek vor-
+handene Exemplar in den geschlossenen Magazinbestand umzusetzen. Der Nutzer
+wurde über diesen Schritt informiert. Maßgeblich für die Entscheidung des Fachrefe-
+renten waren Überlegungen, dass das Buch nach einer Magazinierung weiterhin zur
+Ausleihe zur Verfügung steht. So ist weiterhin eine kritische Auseinandersetzung mit
+den Gedanken und Ideen des Autors möglich. Eine Aussonderung stünde dieser Mög-
+lichkeit indes entgegen.
+
+11 Dr. Thomas Mutschler, Erwerbungsleiter in der ThULB, wird mit diesem Bild zitiert im Artikel
+Nagel, Rix 2017, 15.
+12 Vgl. IFLA 2012, 4. Im englischsprachigen Original: „Librarians and other information workers are
+strictly committed to neutrality and an unbiased stance regarding collection, access and service.“
+
+
+
+Umgang mit Medien an den Rändern – Ein Praxisbeispiel  127
+
+Im äußersten Fall, beispielsweise bei einer wie auch immer entstandenen Beschä-
+digung13 des Buches, wäre es so zudem möglich, die Verursacherin oder den Verursa-
+cher zu ermitteln und dies zu klären. Dies wäre indes nicht so ohne weiteres möglich,
+da es, wäre es im Freihandbestand aufgestellt geblieben, sofern an seinem Platz be-
+findlich, während der Öffnungszeiten jederzeit zugänglich ist.14
+
+Nachdem der Nutzer über die Entscheidung informiert war, erkundigte er sich in
+einer weiteren E-Mail, ob es in der ThULB ein Vorgehen im Umgang mit kontroversen
+Titeln gäbe.15 In einer diesmal längeren Antwort wurde durch den Verfasser beschrie-
+ben, dass die Aufgabe einer Hochschul- und Landesbibliothek darin bestehe, eine um-
+fassende Informationsgrundlage zu bieten16 und dass vor diesem Hintergrund „wert-
+neutral und bis auf die gesetzlich relevanten Fälle auch frei zugängliche Quellen, Lite-
+ratur und Informationen zu einem breiten Themenspektrum“17 gesammelt und mit
+dem Ziel bereitgestellt würden, dass die Nutzerinnen und Nutzer der ThULB18 sich kri-
+tisch mit der Literatur auseinandersetzen könnten.19 „Dazu gehören in bestimmten Fä-
+chern auch Texte aus extremen Spektren (oder) mit ideologischem Inhalt.“20
+
+Die Bedeutung des fraglichen Bandes liegt, so wurde seinerzeit gegenüber dem
+Nutzer argumentiert, in seinem Charakter als „Quelle für die Auseinandersetzung mit
+der sog. ‚Neuen Rechten‘“21 für die Nutzerinnen und Nutzer aber auch für Forschende
+bei ihrer wissenschaftlichen Arbeit. Da Wissenschaftlerinnen und Wissenschaftler da-
+bei (auch) auf Quellenmaterial angewiesen sind, erhält das Buch spätestens dann „für
+Forschung und Wissenschaft vor Ort konkrete Relevanz“.22 „Und bei der wissenschaft-
+lichen Auseinandersetzung wird von den Forschenden das Buch benötigt, welches“23
+durch die ThULB bereitgestellt wird. Eine Antwort des Nutzers, wodurch ein weiterer
+Austausch hätte stattfinden oder sich entwickeln können, erhielt der Verfasser seiner-
+zeit nicht.
+
+13 Eine Beschädigung kann oft einen unbeabsichtigten Hintergrund haben. Einen Vorsatz zu vermu-
+ten wäre aus Sicht des Verfassers ein (ungerechtfertigter) Generalverdacht, der Misstrauen schürte.
+14 Eine Tatsache, die gelegentlich auch bei weit weniger kontroversen Titeln zu beobachten ist.
+15 Vgl. E-Mail vom 22. März 2020 von Nutzer an Verfasser.
+16 Vgl. E-Mail vom 24. März 2020 vom Verfasser an Nutzer, vgl. dazu auch Nagel, Rix 2017, 15.
+17 E-Mail vom 24. März 2020 vom Verfasser an Nutzer.
+18 Die Nutzerinnen und Nutzer der ThULB sind Beschäftigte und Angehörige der Friedrich-Schiller-
+Universität Jena; Studierende anderer Thüringer Hochschulen und Personen (ab 16 Jahren) mit Wohn-
+sitz in Deutschland sind (nach Anmeldung) berechtigt, die Bibliothek zu nutzen, vgl.: ThULB, https://
+www.thulb.uni-jena.de/services/bibliothek-nutzen/anmeldung (Abruf: 23. Mai 2023).
+19 Vgl. Nagel, Rix 2017, 15. Im Artikel Zitat von Dr. Thomas Mutschler.
+20 E-Mail vom 24. März 2020 vom Verfasser an Nutzer.
+21 E-Mail vom 24. März 2020 vom Verfasser an Nutzer.
+22 E-Mail vom 24. März 2020 vom Verfasser an Nutzer.
+23 E-Mail vom 24. März 2020 vom Verfasser an Nutzer.
+
+
+
+128  Tilmann Gerlitz
+
+6 Zusammenfassung und Ausblick
+Die o. g. Anfrage24 war in den Erfahrungen des Verfassers bislang ein Einzelfall. Ein
+weiterer Austausch mit dem Nutzer zum Umgang mit dem Titel und dessen Existenz
+im Bibliotheksbestand wäre aus Sicht des Verfassers interessant gewesen. Nach der
+letzten E-Mail des Verfassers an den Nutzer meldete sich dieser jedoch nicht mehr.
+Daher geriet die Anfrage auch verfasserseitig in den Hintergrund, bedingt auch durch
+die zu diesem Zeitpunkt herrschende Corona-Pandemie.
+
+Für kontroverse, strittige und fragwürdige Literatur ist auf der einen Seite ein
+Forschungsbedarf festzustellen. Demgegenüber steht in der Wahrnehmung des Ver-
+fassers eine heterogene Nutzerschaft, deren Ansichten durchaus avers zu Teilen der
+Literatur und Informationen sein können. Dazwischen befindet sich der Ort der Infor-
+mationsbereitstellung, in vielen Fällen Bibliotheken, deren wichtigste Aufgabe es ist,
+Informationen und deren Zugang ohne Ansehen ihrer Nutzerschaft bereitzustellen,
+wie es international und national von Bibliotheksverbänden schriftlich dargelegt ist.25
+
+Aus den voran gegangenen Überlegungen resultieren für den Verfasser zwei Be-
+funde: So erscheint, zum einen, die Notwendigkeit einer Erläuterung der Ausgewogen-
+heit des Bestandes sowie die Gründe, warum ein strittiger Titel im Bestand ist und zu
+welchem Zweck, zunehmend erklärungsbedürftig. Auch die Möglichkeit, diese Hinter-
+gründe im Fall von Anfragen nachvollziehbar darlegen zu können, erscheint dem Ver-
+fasser relevant. Die Aufgabe des Verfassers bei der Bearbeitung der Anfrage bestand
+darin, die faktischen Hintergründe für die Existenz des Exemplars dieses Titels im Be-
+stand zu erläutern. Im Vordergrund stand die Begründung einer Entscheidung an-
+hand von nachvollziehbaren Faktoren. Die persönliche Meinung zum Titel galt es, so-
+weit es ging, außen vor zu lassen.
+
+Nicht auszuschließen ist, dass, zum anderen, aus Anfragen wie der oben skizzier-
+ten bzw. in aktiv hinterfragten Erwerbungsentscheidungen, ein persönlich subjektiv
+empfundenes Gefühl einer Rechtfertigung resultieren kann. Dadurch kann unter Um-
+ständen das berufliche Selbstverständnis beeinflusst werden. Zur nachvollziehbaren
+Begründung bei der Beantwortung von solchen und ähnlichen Anfragen dienlich er-
+scheinen schriftliche Erwerbungsrichtlinien. Auch enge Kontakte zur Wissenschaft
+bzw. betreuten Einrichtungen und die Kenntnis über die von wissenschaftlicher Seite
+benötigte Literatur wie auch sich abzeichnende Forschungsbedarfe sind für laufende
+und zukünftige Erwerbungsentscheidungen von Bedeutung und bei der Beantwortung
+von Anfragen wertvoll.
+
+24 Vgl. E-Mail vom 24. März 2020 vom Verfasser an Nutzer.
+25 Vgl. dazu die schon erwähnten „Code of Ethics“ von Library and Information in Germany (BID)
+2017 und IFLA 2012.
+
+
+
+Umgang mit Medien an den Rändern – Ein Praxisbeispiel  129
+
+Literatur
+Code of Professional Ethics for Bibliothek & Information Deutschland (BID) – Bundesvereinigung Deut-
+
+scher Bibliotheksverbände e. V. 2017. – https://www.ifla.org/wp-content/uploads/2019/05/assets/fai-
+fe/codesofethics/germancodeofethicsfull.pdf (Abruf: 27.04.2023).
+
+Gerlitz, Tilman: E-Mail vom 24. März 2020 vom Verfasser an Nutzer (Abruf: 02.05.2023).
+IFLA: IFLA Code of Ethics for Librarians and other Information Workers (full version). 2012 – https://repo-
+
+sitory.ifla.org/handle/123456789/1850 (Abruf: 23.05.2023).
+KomRex (2023a): Über uns. – https://www.komrex.uni-jena.de/ueber-uns (Abruf: 24.05.2023).
+KomRex (2023b): Gründung und Geschichte. – https://www.komrex.uni-jena.de/ueber-uns/gruendung-
+
+und-geschichte (Abruf: 24.05.2023).
+KomRex (2023c): Herzlich Willkommen auf der Website des KomRex. – https://www.komrex.uni-jena.de/
+
+(Abruf: 24.05.2023).
+Nagel, Annika und Rix, Benjamin. Saure Äpfel für die Wissenschaft. In: Akrützel – Jenas führende Hoch-
+
+schulzeitung 27,370 (Nov. 2017): 15.
+ThULB. Anmeldung in der Bibliothek. – https://www.thulb.uni-jena.de/services/bibliothek-nutzen/anmel-
+
+dung (Abruf: 23.05.2023).
+Thüringer Bibliotheksgesetz (ThürBibG) vom 16. Juli 2008. – https://www.landesrecht.thueringen.de/per-
+
+ma?d=jlr-BiblGTHV4P3 (Abruf: 02.05.2023).
+Thüringer Hochschulgesetz (ThürHG) vom 10. Mai 2018. – https://www.landesrecht.thueringen.de/perma?
+
+d=jlr-HSchulGTH2018pP44 (Abruf: 23.05.2023).

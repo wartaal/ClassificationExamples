@@ -1,0 +1,588 @@
+Martin Blenkle
+3.7 Discovery-Systeme, Indexstrukturen
+und Metadatenmanagement
+1 Vom OPAC zum Discovery-System
+Als Nachfolger der klassischen OPAC-Systeme bieten die meisten wissenschaftlichen
+Bibliotheken seit einigen Jahren Discovery-Systeme als Kataloge an. Ein wesentliches
+Ziel dieses Systemwechsels ist es, eine zentrale Suchmaschine für alle Medientypen
+bereitzustellen, um einen umfassenden und benutzungsfreundlichen Zugriff auf alle
+verfügbaren Bestände zu ermöglichen. Durch die Berücksichtigung von Benutzungsstandards
+bekannter Websuchmaschinen, wie z. B. Einschlitzsuche und Relevanzsortierung,
+erweist sich die Arbeit mit Discovery-Systemen für die meisten Nutzer:innen
+als erwartungskonformer im Vergleich zur Suche in klassischen Bibliothekskatalogen.
+Discovery-Systeme haben den Anspruch, Nutzer:innen bei thematischen Suchen
+durch Serendipity-Effekte auch zu unerwarteten Entdeckungen zu führen und sie dadurch
+besser zu unterstützen. Der Bereich moderner Bibliothekskataloge erweist sich
+heute als komplexes Thema, das Berührungspunkte zu vielen anderen bibliothekarischen
+Bereichen aufweist und die primäre Schnittstelle zu den Nutzerwünschen darstellt.
+Dieser Beitrag soll einen Überblick über die verschiedenen Aspekte von Discovery-
+Systemen in deutschen Bibliotheken bieten.1
+Discovery-Systeme ermöglichen einen integrierten Zugang zu einem breiten Spektrum
+von Informationsquellen, sowohl physisch als auch digital: z. B. Bücher, Zeitschriften,
+Artikel, Buchkapitel, E-Books und andere digitale Ressourcen, sowohl lizenziert als
+auch frei zugänglich im Open Access. Über ein solches Suchsystem können verschiedene
+eigene Spezialbestände, z. B. aus Repositorien oder Digitalen Sammlungen, mit
+allen anderen Beständen zusammengeführt werden. Dies kann die Sichtbarkeit einzelner
+Bibliotheksbestände und damit deren Nutzung erheblich verbessern. Die Integration
+von Nachweisen von Zeitschriftenaufsätzen und Buchkapiteln aus Printmedien des
+lokalen Bestandes kann zu einer verbesserten Erschließung auch der physischen Medien
+führen.
+Um mit einer einzigen Suchanfrage das gesamte Spektrum verfügbarer Bibliotheksressourcen
+durchsuchen zu können, nutzen Discovery-Systeme einen großen
+einheitlichen Suchindex als Wissensbasis. Metasuchsysteme nach dem Prinzip der sogenannten
+föderierten Suche arbeiten dagegen ohne einen eigenen Index, sondern
+verteilen eine Anfrage auf andere Suchmaschinen und aggregieren dann die verschiedenen
+Ergebnisse. Solche Systeme werden heute jedoch nur noch selten betrieben, da
+ Weitere Übersichtsartikel zum Thema: Christensen u. Finck 2021; Akeroyd 2017; Pfeffer u. Wiesenmüller
+2016.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-013
+die Suchgeschwindigkeit durch eine verzögerte Antwort der Zielsysteme zu stark limitiert
+wird und ein gemeinsames Relevanzranking aufgrund der unterschiedlichen
+Teiltreffermengen nicht möglich ist.2
+Alle Discovery-Systeme basieren auf einem Frontend und einem entsprechenden
+Suchindex, in dem die Nachweise (Metadaten) aller für die jeweilige Bibliothek zusammengestellten
+Medien für eine Recherche zur Verfügung stehen. Dieser „Suchraum“
+moderner Discovery-Systeme ist in der Regel sehr viel größer als der Index
+klassischer Bibliothekskataloge, die ab Mitte der 1990er Jahre zunächst nur für den
+Nachweis der Printmedien einer Institution konzipiert wurden. Bei der Suche in den
+weitaus größeren Indizes heutiger Discovery-Systeme wird eine für die Suchenden
+gut funktionierende Ranking-Funktion der Ergebnisse erwartet. Daher ist es notwendig,
+die klassische boolesche Suchlogik und chronologische Sortierung der OPACSysteme
+durch ein Relevance Ranking zu ersetzen. Da auch Discovery-Systeme die
+physischen Printbestände vor Ort anbieten, müssen die Systeme – genau wie die klassischen
+OPACs – die Kontofunktionen für die Nutzer:innen integrieren. Dazu gehören
+Funktionen wie Verlängerung und Vormerkung sowie die Anzeige der aktuellen Ausleihen.
+Da diese Daten und Dienste Bestandteil des lokalen Ausleihsystems sind, ist
+eine Schnittstelle zwischen beiden Systemen notwendig.
+Bibliothekskataloge stehen jedoch im Wettbewerb mit einer stetig wachsenden Zahl
+von allgemeinen und wissenschaftlichen Suchmaschinen unter hohem Druck, die Erwartungen
+der Nutzenden bestmöglich zu erfüllen. Neben den bekannten allgemeinen Web-
+Suchmaschinen und wissenschaftlichen Angeboten wie Google Scholar, Semantic Scholar
+oder Dimensions sind hier vor allem auch Networking- und Austauschplattformen wie
+Academia.edu und ResearchGate zu nennen, die besonders die schnelle Dokumentversorgung
+und Vernetzung von Wissenschaftler:innen unterstützen.3 Die Recherche in
+Schattenbibliotheken scheint aus Sicht vieler Wissenschaftler:innen mittlerweile
+eine einfachere Möglichkeit der Dokumentversorgung darzustellen als der klassische
+Weg über Bibliotheksangebote. Überregionale, weltweit operierende Recherchedienste
+bieten gegenüber der Regionalität einzelner Bibliotheksangebote zunehmend Vorteile
+für die Nutzenden und verfügen über moderne Benutzeroberflächen. Neben der bibliothekarischen
+Qualität der Suchangebote sind daher insbesondere Fragen der Usability
+und User Experience sowie des Images entscheidend für den weiteren Erfolg von bibliothekarischen
+Suchmaschinen.
+Bibliothekssuchmaschinen haben aber auch Vorteile gegenüber freien kommerziellen
+Suchangeboten, z. B. eine grundsätzlich hohe wissenschaftliche Qualität des Angebots.
+Die Ergebnispräsentation erfolgt ohne Werbung und ohne ein möglicherweise
+ Falls die Rahmenbedingungen keine direkte Indexierung der Daten ermöglichen, kann diese Technik
+weiterhin eine adäquate Lösung für Spezialsuchmaschinen bieten, z. B. auf Basis der Software
+Pazpar2 der Fa. Index Data. https://www.indexdata.com/resources/software/pazpar2/ (12.06.2023).
+ https://scholar.google.de/; https://www.semanticscholar.org/; https://app.dimensions.ai; https://www.
+academia.edu/ und https://www.researchgate.net/ (12.06.2023).
+212 Martin Blenkle
+von kommerziellen Interessen beeinflusstes und damit wenig transparentes Ranking.
+Die meisten modernen Kataloge bieten zudem einfach zu handhabende Exportfunktionen,
+um Metadaten zur Weiterverarbeitung in Literaturverwaltungs- oder Lernmanagementsysteme
+zu übertragen.
+Darüber hinaus tragen Discovery-Systeme dazu bei, die Rolle der Bibliothekar:innen
+im Informationsbereich zu verändern. Sie werden zunehmend zu Expert:innen
+für die Nutzung von Discovery-Systemen: Sie spielen eine zentrale Rolle bei der Beratung
+zur effizienten Recherche, bei der Unterstützung, bei der Bewertung und Auswahl
+relevanter Ressourcen und bei der Lösung von Nutzungsproblemen von Online-
+Medien. Die Neukonzeption und der Betrieb eines Discovery-Angebots erfordern
+Kompetenzen aus verschiedenen Bereichen einer Bibliothek und haben daher das Potenzial,
+die Zusammenarbeit zwischen den Abteilungen einer Institution zu fördern.
+2 Architekturen moderner
+Kataloge/Discovery-Systeme
+Die beiden wesentlichen Strukturelemente einer modernen bibliothekarischen Suchmaschine
+sind zum einen das Frontend-System und zum anderen der Index für die
+Suche. Das Frontend wickelt die Kommunikation mit dem Nutzenden ab, verarbeitet
+die Anfragen an den Index und präsentiert die Ergebnisse der Suchanfrage. Auch alle
+wesentlichen Funktionen zur Modifikation von Sucheingaben und zur Filterung von
+Treffermengen werden von den Frontends der Suchmaschinen ausgeführt.
+Das Backend einer Katalogsuchmaschine oder eines Discovery-Systems bildet
+eine Indexstruktur, die die für eine Institution relevanten Inhalte für Suchanfragen
+bereitstellt. Die Inhalte werden durch die Metadaten der Titel repräsentiert. Titel,
+deren Volltexte bei der Indexierung auch für die Analyse zur Verfügung stehen, können
+auch im Volltext indexiert und in der Suche gefunden werden. Im Index werden
+die Daten in einer speziellen Struktur abgelegt: Dazu werden die aufzunehmenden
+Inhalte nach bestimmten Kriterien aufbereitet und so organisiert, dass eine Suche
+auch in zahlenmäßig großen Indizes sehr schnell erfolgen kann. Diesen Vorgang
+nennt man Indexierung. Um das Angebot stets aktuell zu halten, muss die Indexierung
+in regelmäßigen Abständen wiederholt werden, um neue Inhalte einzupflegen
+oder Änderungen vorzunehmen. Beim Betrieb eines Bibliothekskatalogs wächst der
+Index in der Regel kontinuierlich an, es finden aber auch regelmäßig Korrekturen
+und Löschungen statt. Bei modernen Indexsystemen muss zur Aktualisierung nicht
+mehr der gesamte Bestand neu indexiert werden, sondern es erfolgt in der Regel nur
+eine inkrementelle Indexierung der geänderten Daten. Der Index von Discovery-
+Systemen dient also immer dazu, eine möglichst effiziente Suchfunktion anbieten zu
+können und ist nicht dazu gedacht, auch die grundlegende Datenhaltung der Metadaten
+zu übernehmen. Größere Änderungen oder Korrekturen erfolgen daher immer
+3.7 Discovery-Systeme, Indexstrukturen und Metadatenmanagement 213
+im Metadatenmanagementsystem (z. B. in einer geeigneten Datenbank) und nicht
+im Index zur Suche.
+Typische Softwarekomponenten für den Betrieb einer Suchmaschine im Backend
+sind z. B. Apache Lucene und SOLR der Apache Software Foundation. Während
+Lucene eine umfangreiche Programmbibliothek darstellt und damit die Grundlage
+für die Entwicklung von Suchmaschinen bietet, ist SOLR der eigentliche Suchserver,
+der die Indexstrukturen generiert und die Kommunikation zwischen Frontend und
+Index abwickelt. Eine Alternative zu SOLR ist Elasticsearch,4 das ebenfalls auf Lucene
+basiert, aber im deutschen Bibliothekswesen im Einsatz noch nicht so weit verbreitet
+ist.
+Um die Nutzerkommunikation und die Suchfunktion einer jeweiligen Einrichtung
+im Web zu präsentieren, wird ein Web-Frontend benötigt, das die Kommunikation
+z. B. mit SOLR abwickelt. Neben einer Reihe von Eigenentwicklungen wird hierfür in
+vielen Bibliotheken die freie Software VuFind der Villanova University (USA) eingesetzt.
+Ein weiteres Beispiel für ein SOLR-Webfrontend ist das System Lukida,5 das von
+der Verbundzentrale des Gemeinsamen Bibliotheksverbunds (GBV) entwickelt wurde
+und als Servicelösung angeboten wird.
+In vielen Bibliotheken wird das freie Content Management System (CMS) Typo3
+für den Betrieb der Webseiten eingesetzt. Um eine schlanke Integration von SOLR in
+Typo3 zu ermöglichen, ohne ein weiteres Frontend installieren zu müssen, wurde an
+der SUB Göttingen und der SLUB Dresden die Typo3-Erweiterung find entwickelt.
+Find ermöglicht die Kommunikation mit SOLR, kann die Suche direkt in das Typo3-
+CMS einbinden und dient derzeit als Frontend für den aktuellen Katalog der SLUB
+Dresden.6
+3 Betriebsmodelle für Discovery-Systeme
+Für die Organisation des eigenen Bibliothekskatalogs bestand in der Vergangenheit in
+der Regel nur die Möglichkeit, eine Katalogsoftware des Bibliothekssystemanbieters
+zu nutzen. Diese Systeme waren darauf ausgelegt, die physischen Medien des lokalen
+Datenbankbestandes zu indexieren und für die Recherche bereitzustellen. Die Ansicht
+des Bibliothekskontos mit den ausgeliehenen Titeln sowie Verlängerungs- und Vormerkungsfunktionen
+waren integraler Bestandteil des Bibliothekssystems und des
+OPAC. Offene Schnittstellen für den lesenden und schreibenden Zugriff auf das Konto
+waren jedoch häufig nicht vorhanden. Individuelle Anpassungsmöglichkeiten waren
+ Die UB Paderborn betreibt ihr Katalogsystem seit 2016 mit Elasticsearch: https://blogs.uni-pader
+born.de/ub-katalog/2016/01/26/neue-version-des-katalogs/ (12.06.2023).
+ https://www.lukida.org/software/ (12.06.2023).
+ Vgl. Rodejohann u. Lohmeier 2016.
+214 Martin Blenkle
+unter diesen Bedingungen nur in geringem Umfang realisierbar. Damit waren die Kataloge
+aber auch für viele Bibliotheken standardisiert. Dies ermöglichte den Anbietern
+dieser Systeme, z. B. den Verbundzentralen, eine relativ einfache Pflege der
+Kataloge vieler Standorte. Andererseits erwies sich dieser Zustand auch als deutliches
+Innovationshemmnis, so dass einzelne Bibliotheken begannen, ihre Bibliothekskataloge
+in Eigenregie weiterzuentwickeln und den modernen Anforderungen an Suchsysteme
+im Internet anzupassen. Heute bieten viele größere Bibliotheken neben dem
+zentralen Sucheinstieg für die eigenen Medien häufig weitere Suchmaschinen für ausgewählte
+Teilbestände oder als Dienstleistung für andere Häuser an. Dies können
+Suchsysteme für retrodigitalisierte Bestände, Dokumentenserver oder z. B. auch die
+fachlich begrenzten, aber bundesweit genutzten Suchmaschinen der von der Deutschen
+Forschungsgemeinschaft (DFG) geförderten Fachinformationsdienste sein.
+Eine wesentliche Frage bei der Auswahl eines für die Bibliothek sinnvollen Modells
+für den Katalogbetrieb ist daher die strategische Entscheidung, ob das System
+komplett als externe Dienstleistung beauftragt wird oder ob eigene Entwicklungsund
+Betriebsanteile mit Bibliothekspersonal vor Ort vorgesehen werden. Organisatorische
+Mischkonzepte sind dabei möglich. Einige Bibliotheken betreiben ihre Kataloge
+auch komplett eigenständig.
+Die Anbieter von Bibliothekssystemen und verschiedene deutsche Verbundzentralen
+bieten heute Komplettlösungen für den Betrieb von Katalogfrontend und
+Suchindex aus einer Hand an. Die Verbundzentralen des GBV und des Südwestverbundes
+bieten dazu im Hosting das selbst entwickelte Frontend Lukida und als
+Suchindex den für die jeweilige Bibliothek angepassten Zugriff auf den eigenen Discovery-
+Index K10plus-Zentral an.7 Kunden von Bibliothekssystemen der Firma ExLibris
+nutzen cloudbasierte Angebote z. B. mit Primo (Summon) als Frontend und dem Central
+Discovery Index als Backend. Ein weiteres Beispiel für in deutschen Bibliotheken
+genutzte kommerzielle Indizes ist der EBSCO Discovery Service.8 Ein Cloud-Index wie
+K10plus-Zentral kann aber auch von beliebigen anderen SOLR-basierten und lokal betriebenen
+Discovery-Anwendungen wie Lukida oder VuFind integriert und genutzt
+werden. Bei diesem Betriebsmodell wird das Suchfrontend von einer Bibliothek selbst
+gehostet und kann daher auch selbst angepasst und konfiguriert werden.9
+Einige Bibliotheken betreiben ihre Discovery-Systeme auch komplett in Eigenregie,
+in der Regel, um eine vollständige Kontrolle über die Suchoberfläche und den
+Suchraum des jeweiligen Kataloges im eigenen Haus zu behalten. Dabei kommen
+auch selbst entwickelte Frontend-Systeme zum Einsatz, um z. B. eine besonders naht-
+ https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/discovery-plattform-gbv-zent
+ral (12.06.2023).
+ Z. B. an der UB Freiburg: https://katalog.ub.uni-freiburg.de/opac/RDSProxy/Home (12.06.2023).
+ Z. B. der Qcovery-Verbund einiger norddeutscher Bibliotheken, die eine gemeinsame Version von
+VuFind entwickeln und mit diesem lokalen Frontend den Discovery-Index K10plus-Zentral nutzen.
+https://www.qcovery.de/ (12.06.2023).
+3.7 Discovery-Systeme, Indexstrukturen und Metadatenmanagement 215
+lose Integration der Katalogoberfläche in die Webpräsenz der Bibliothek zu erreichen.
+Der Aufbau und die Konzeption eines eigenen Discovery-Indexes erfordert allerdings
+besondere Ressourcen und ein abgestimmtes Metadatenmanagement.
+4 Index-Design und Metadatenmanagement
+für den Aufbau eines Discovery-Index
+Um einen zentralen Suchindex z. B. für Discovery-Systeme aufzubauen, werden die
+Metadaten aller zu indexierenden Titel in den Index des Discovery-Systems geladen.
+Die dazu notwendigen Maßnahmen werden ganz allgemein als sogenannte ETLProzesse
+(von engl. extract, transform, load) bezeichnet.
+Zuvor muss geklärt werden, wie der geplante Index für die Anforderungen eines
+konkreten Standortes zusammengesetzt sein soll. Der Aufbau eines Indexes ist dabei
+in Bezug auf die größeren inhaltlichen Datenanteile genau abzuwägen, damit bei der
+Suche keine formalen oder thematischen Ungleichgewichte entstehen, die dem Charakter
+des jeweiligen Standortes nicht gerecht werden. Insbesondere bei der Nutzung
+externer und kommerzieller Indizes mit einem Volumen von mehreren hundert Millionen
+Nachweisen ist die Frage zu klären, welche Indexgröße letztlich für einen
+Standort angemessen ist. Die Gewichtung der einzelnen Indexbestandteile kann auch
+über das Ranking so angepasst werden,10 dass bestimmte, für einen Standort wichtige
+Nachweise – z. B. die physischen Titel vor Ort – bei Recherchen gut gefunden werden
+und nicht durch die zahlenmäßig deutlich größeren anderen Indexbestandteile überdominiert
+werden. Als prinzipiell mögliche Indexierungsmuster kann dabei feldbezogen
+vorgegangen oder auch eine Volltextindexierung mitberücksichtigt werden. Bisher
+wurde in den meisten Bibliothekskatalogen nur eine feldbezogene Indexierung verwendet,
+da der Zugriff auf größere Volltextbestände für die meisten Bibliotheken nicht verfügbar
+ist. Seit der Nutzung externer – insbesondere kommerzieller – Indizes ist auch
+eine gemischte feldbezogene Metadaten- und Volltextindexierung möglich.
+Bei einem solchen Indexierungsprozess ist zu berücksichtigen, dass durch die Zusammenführung
+sehr unterschiedlicher Metadatenpakete eine grundsätzlich heterogene Situation
+im Suchraum entsteht, die mit einem nach stark kontrollierten Standards erstellten
+Index eines klassischen Bibliothekskatalogs kaum vergleichbar ist. In einigen Discovery-
+Systemen sind auch Nachweise der weltweit verfügbaren Open-Access-Dokumente aus
+wissenschaftlichen Repositorien enthalten. Da ein erheblicher Anteil dieser Metadaten
+von den Autoren:innen selbst erstellt wurde, kann die Qualität dieser Daten stark differieren.
+Gleichzeitig bieten diese Nachweise aber auch die Chance, eine Vielzahl von frei
+ Der Prozess, bei dem eine bestimmte Gruppe von Dokumenten eine grundsätzlich höhere Relevanz
+erhält als andere Nachweise, wird z. B. im SOLR-Umfeld als „Boosting“ bezeichnet.
+216 Martin Blenkle
+zugänglichen Volltexten auch aus dem hoch spezialisierten wissenschaftlichen Umfeld
+anbieten zu können.
+Um einen gemeinsamen Metadatenindex aus verschiedenen Quellen selbst aufbauen
+zu können, müssen die notwendigen Metadaten zusammengeführt werden.
+Basis für den Index eines Bibliotheksangebots sind in der Regel zunächst die Nachweise
+der physischen Medien eines Standorts, die aus dem lokalen Bibliothekssystem
+oder einer Verbunddatenbank bezogen werden können. Ergänzt werden diese Daten
+durch die Metadaten unselbstständiger Werke: Zeitschriftenaufsätze, Kapitel aus Monographien,
+Sammelbänden oder Reihen. Darüber hinaus ist die Integration von
+Nachweisen aller weiteren für einen Standort relevanten Medien möglich. Einige Bibliotheken
+bilden auch die Suche über ihre eigenen Webseiten in gleicher Weise im
+Discovery-System ab.
+Die Metadaten der unselbstständigen Werke können von den jeweiligen Verlagen
+bezogen werden. Dabei ist zu berücksichtigen, dass solche Lieferungen in der Regel aus
+einer Basislieferung des Grundbestandes und anschließenden kontinuierlichen Lieferungen
+zur inkrementellen Aktualisierung der Daten bestehen. Ab einer gewissen Größenordnung
+der Anzahl unterschiedlicher Verlagsquellen ist dies ein sehr aufwändiges
+Unterfangen, da mit allen Verlagspartnern unterschiedliche Vereinbarungen getroffen
+werden müssen und die meisten Verlage ihre Daten auch in unterschiedlichen Formaten
+liefern. Aus diesen Gründen sind viele Bibliotheken und Verbünde, die einen eigenen
+Index aufbauen, dazu übergegangen, einen Großteil der Verlagsmetadaten nur
+über einen einzigen Anbieter zu beziehen: Crossref. Die Non-Profit-Organisation Crossref
+11 bietet neben der DOI-Registrierung auch Schnittstellen zum Abruf der von den
+Verlagen gelieferten Metadaten an.
+Nach dem Download der Metadaten vom Anbieter werden die Nachweise zum
+Aufbau des eigenen Discovery-Index über verschiedene Teilprozesse weiter modifiziert,
+die beispielhaft wie folgt aussehen können:12 Nach dem Abruf werden die Metadaten
+in standardisierten Prozessketten (sogenannte Pipelines) weiterverarbeitet, um
+die Qualität und Vollständigkeit der Daten zu prüfen und diese gegebenenfalls nach
+bestimmten Kriterien zu filtern. Im nächsten Schritt können die Daten in ein gemeinsames
+internes Format konvertiert und schließlich in einer internen Arbeitsdatenbank
+gespeichert werden. Im letzten Schritt erfolgt der Indexaufbau aus der internen
+Arbeitsdatenbank, z. B. mit SOLR oder einer anderen Indexierungssoftware.
+ Als Initiative der Publishers International Linking Association Inc. als DOI-Registrationsagentur gegründet.
+Zum aktuellen Zeitpunkt verfügt Crossref über ca. 100 Mio. Metadaten von Zeitschriftenartikeln
+elektronischer Journale, die über die Schnittstellen verfügbar sind.
+ Typischer Workflow zum Aufbau eines eigenen Discovery-Index am Beispiel des Metadatenmanagements
+für die Dienste E-LIB und Pollux (FID Politikwissenschaft) der Staats- und Universitätsbibliothek
+Bremen. Zum Einsatz kommt dabei das Workflow-Management-Tool Nightwatch. Vgl. Flug u. Klaproth
+2023.
+3.7 Discovery-Systeme, Indexstrukturen und Metadatenmanagement 217
+Zur Durchführung der einzelnen Teilprozesse, wie z. B. Formatkonvertierungen, können
+verschiedene Softwareprodukte eingesetzt werden. Weit verbreitet ist der Einsatz
+von eigenentwickelten Programmen auf Basis der Programmiersprache Python. Es gibt
+aber auch eine Reihe von freien Toolkits für diesen Zweck, die den Anspruch erheben,
+die Arbeit mit Metadaten ohne eigenen Programmieraufwand zu vereinfachen. Dazu gehören
+z. B. Catmandu, Metafacture vom Hochschulbibliothekszentrum des Landes Nordrhein-
+Westfalen (HBZ) und OpenRefine von Google.13 Da immer mehr Bibliotheken ihre
+Aktivitäten in diesem Bereich des Metadatenmanagements verstärken, besteht ein enormes
+Potential im Austausch und der gemeinsamen Nutzung freier Software zur Konvertierung
+und Qualitätsverbesserung bibliothekarischer Metadaten.
+5 Funktionen der Frontend-Systeme
+von Discovery-Katalogen
+Die Basis eines Discovery-Systems ist ein gut zusammengestellter Index als Backend
+für die Suche. Der Erfolg eines solchen Angebots hängt jedoch ebenso von der Gestaltung
+und Funktionalität der Suchoberfläche und damit des Frontends ab. Dabei sind
+sowohl Fragen der bibliothekarischen Funktionalität als auch der Benutzungsfreundlichkeit
+der Weboberfläche einer Suchmaschine zu berücksichtigen. Es besteht heute
+ein weitgehender theoretischer Konsens darüber, dass Nutzer:innen von Bibliothekskatalogen
+durch die Bedienung bekannter Websuchmaschinen vorgeprägt sind und
+daher auch bei der Suche im Bibliotheksumfeld grundlegende Standards wie Einschlitzsuche,
+Relevanzsortierung und eine entsprechend einfache und gut strukturierte
+Ergebnispräsentation erwarten. Abweichungen von diesem einfachen Schema
+führen immer zu Usability-Problemen.14
+5.1 Ranking
+Bei Indexgrößen von über 100 Mio. Nachweisen erhält die heute übliche Sortierung der
+Treffer nach Relevanz eine zentrale Bedeutung für die Benutzerfreundlichkeit der Recherche.
+Nutzer:innen erwarten mittlerweile, dass ihre gewünschten Ergebnisse stets
+im Kopf einer Trefferpräsentation zu finden sind. Bei der Ermittlung und Sortierung
+der Ergebnisse arbeiten die meisten aktuellen Suchmaschinen nach einem modifizierten
+Vektorraummodell. Dabei wird die Ähnlichkeit der Eingabephrase mit den entspre-
+ https://librecat.org/Catmandu/, https://metafacture.org/, https://openrefine.org/ (alle: 12.06.2023).
+ Z. B. Khoo u. Hall 2012.
+218 Martin Blenkle
+chenden Dokumentmetadaten überprüft und anhand der berechneten Ähnlichkeitswerte
+in absteigender Ähnlichkeit (Relevanz) präsentiert. Zur Repräsentation der Ähnlichkeit
+werden dafür berechnete Vektoren verwendet. Die Relevanz entspricht also
+ausdrücklich nicht der subjektiven Relevanz einer möglichen Nutzereinschätzung. Zur
+Berechnung der Relevanz verwenden die Modelle klassische textstatistische Eigenschaften
+wie die Häufigkeit der Terme im Dokument bzw. im gesamten Index. Darüber hinaus
+werden auch die Häufigkeit und die Position der Begriffe im Dokument in die
+Bewertung mit einbezogen. Seltene Terme werden dabei höher gewichtet als häufige
+Terme und sind damit signifikanter.15 Dabei ist allerdings die vergleichsweise geringe
+Textmenge bibliothekarischer Metadaten zu berücksichtigen. Die Textstatistik des vektorraumbasierten
+Retrievalmodells wurde ursprünglich für die Analyse von Volltexten
+entwickelt, z. B. für die Auswertung von Webseiten oder elektronischen Volltextdokumenten.
+Bibliographische Metadaten hingegen weisen hinsichtlich ihrer Texteigenschaften
+eine grundlegend andere Charakteristik auf: So ist z. B. die auswertbare
+Textmenge sehr viel kleiner. Daher kann eine textstatistische Auswertung von reinen Metadatenpools
+zu einer weniger starken Ausdifferenzierung der Rankingresultate führen
+(z. B. wenn alle Begriffe in den Metadaten weitgehend aus sehr allgemeinen Termen bestehen,
+wie z. B. bei Lehrbüchern).16 Die besondere Bedeutung einzelner, besonders gefragter
+Titel an einem Standort kann durch textstatistische Verfahren allein meist nicht
+vollständig und differenziert abgebildet werden. Um das Ranking für solche Medien zu
+verbessern, können die Ranking-Algorithmen durch die Einbeziehung von Parametern
+modifiziert werden, die auch die Popularität der Titel berücksichtigen – analog zu entsprechenden
+Strategien von Web-Suchmaschinen wie z.B. Google.17 In einzelnen Discovery-
+Systemen wurden daher Parameter implementiert, die die Popularität einzelner
+Titel mit einem Relevanzaufschlag versehen.18 Im Rahmen des Projekts LibRank wurden
+die Auswirkungen solcherMaßnahmen untersucht.19 Einige Systeme versuchen den wissenschaftlichen
+Wert bzw. den Impact eines Textes unabhängig von der jeweiligen Suchanfrage
+(z. B. basierend auf Zitationshäufigkeiten) für das Ranking zu berücksichtigen.20
+Eine Möglichkeit, die Treffersortierung individuell besser auf die jeweiligen Nutzerbedürfnisse
+abzustimmen, können Personalisierungsfunktionen sein, wenn nach
+der Anmeldung das fachliche Interesse oder das wissenschaftliche Niveau (Studienanfänger:
+in oder Forscher:in) der Nutzer:innen dem System bekannt ist. Das Ranking
+ Ein klassisches Prinzip der Textstatistik ist der Quotient aus Termfrequenz und inverser Dokumentfrequenz
+(TF/IDF). https://de.wikipedia.org/wiki/Tf-idf-Ma%C3%9F (20.02.2024).Moderne Systeme
+nutzen heute häufiger die BM25 (Best Match 25) Methode, die das reine TF/IDF-Verfahren um Elemente
+der Wahrscheinlichkeitstheorie erweitert. Vgl. Baeza-Yates u. a. 2011; sowie Hora 2019.
+ Vgl. Schneider 2007.
+ Google Page Rank: https://de.wikipedia.org/wiki/PageRank (20.02.2024).
+ Vgl. Maylein u. Langenstein 2013; sowie Haake u. a. 2015.
+ Vgl. Behnert u. a. 2019.
+ Vgl. Beck 2018.
+3.7 Discovery-Systeme, Indexstrukturen und Metadatenmanagement 219
+kann dann entsprechende Vorgaben berücksichtigen und z. B. für Studienanfänger:innen
+Grundlagenwerke einer bestimmten Disziplin bevorzugen. Bislang werden solche
+Verfahren in Discovery-Systemen allerdings noch vergleichsweise wenig eingesetzt
+und durchaus kontrovers bewertet.21
+5.2 Facettierung & Empfehlungs- und Unterstützungsfunktionen
+Neben der reinen Suche bieten die Oberflächen der Discovery-Systeme weitere unterstützende
+Funktionen zur Verbesserung bzw. Verfeinerung der Suchergebnisse, darunter
+die Facettierungs- bzw. Drill-Down Filter als wichtigste Interaktionsmöglichkeit. Die
+Facettierung gibt eine statistische Auswertung der Treffermenge nach bestimmten Metadatenfeldern
+wieder und ermöglicht eine nachträgliche Filterung nach diesen Kriterien.
+Im Gegensatz zu einer bereits vor der Suche (z. B. im Rahmen einer erweiterten
+Suche) definierten Filterangabe bieten die während der Suche dynamisch generierten
+Filteroptionen eines Drill-Down-Menüs nur Einschränkungsmöglichkeiten, die auch zu
+Treffern in der jeweiligen Ergebnismenge führen. Neben diesen Standardangeboten
+können im Frontend weitere Empfehlungsfunktionen, Recommender- und Alerting-
+Systeme zum Einsatz kommen. Hierzu zählen Funktionen der Eingabeunterstützung,
+die bereits bei der Formulierung einer Suchanfrage Vorschläge zum Vokabular liefern
+und zur Vermeidung von Eingabefehlern beitragen können. Die dazu verwendeten
+Wortlisten basieren in der Regel entweder auf einem speziellen Begriffsindex des Suchraums
+oder auf einem Index aus erfolgreichen Benutzereingaben. Zusätzliche Unterstützung
+bieten Funktionen, die in der Lage sind, Vorschläge für weitere ähnliche oder
+häufig verwendete Titel eines bestimmten Themenbereichs zu liefern.22 Konnte das System
+den fachlichen Kontext einer Suche erfolgreich zuordnen, ist auch die Anzeige weiterer
+fachspezifischer Bibliotheksangebote möglich.
+Moderne Kataloge können auch ein Nutzerfeedback unterstützen. Die im Index zusammengeführten
+Metadaten unterschiedlicher Qualitätsstandards sowie die immer
+vielfältigeren Nutzungsmodalitäten lizenzierter E-Books führen grundsätzlich zu einer
+höheren Fehlerquote in den Daten, die zu Problemen bei der Nutzung des jeweiligen
+Mediums führen können. Um bei derartigen Nutzungsproblemen einen schnellen Support
+gewährleisten zu können, bieten einige Bibliotheken bereits einen Feedback-
+Button bzw. eine Supportanfrage-Option in der Vollanzeige des Titels an.23
+ Vgl. Varnum 2014; sowie Jansen 2014.
+ Die Software BibTip kann flexibel in alle Katalogoberflächen integriert werden: https://www.bibtip.de/
+(12.06.2023).
+ Vgl. Ellis u. a. 2019.
+220 Martin Blenkle
+6 Usability und User Experience (UX)
+von Discovery-Systemen
+Usability und User Experience sind Konzepte, die sowohl die einfache und intuitive
+Bedienbarkeit als auch den Spaß bei der Nutzung von Systemen in den Vordergrund
+stellen. Während Usability-Betrachtungen eher die reine Funktionalität und Gebrauchstauglichkeit
+einer Webanwendung genauer untersuchen, zielt die Betrachtung
+der User Experience zusätzlich darauf ab, das subjektive Nutzungserlebnis zu analysieren
+und gegebenenfalls zu verbessern. Danach bilden sich Nutzer:innen bereits innerhalb
+sehr kurzer Zeit ein subjektives Urteil über eine Webanwendung, basierend auf
+intuitiven Eindrücken der Professionalität und „Coolness“ eines Systems und weniger
+auf harten Fakten der Qualität und Funktionen einer Suche. Nutzer:innen bevorzugen
+danach Webseiten mit hohem prototypischen Charakter und geringer visueller Komplexität:
+24 Prinzipien, die von den Suchoberflächen bibliothekarischer Anwendungen in
+dieser Konsequenz noch nicht immer vollständig berücksichtigt werden. Neben der Bereitstellung
+einer Vielzahl von Informationen und ausgefeilten bibliothekarischen
+Diensten zur Verbesserung der Suchergebnisse sollten daher auch das Gesamtlayout,
+der Komplexitätsgrad und eine klare Priorisierung bei der Anzeige der verschiedenen
+Informationen berücksichtigt werden. Der Designfokus sollte deutlich auf die gewünschte
+Zielgruppe eines Discovery Systems ausgerichtet sein.25
+Während viele Systeme nur einen Suchraum und eine einzige, einheitlich gerankte
+Ergebnisliste anbieten, gibt es auch Beispiele für die Aufteilung der Suchergebnisse in
+verschiedene Reiter (Tabs). Dies geschieht z. B., um die Anzeige der physischen Titel
+einer Bibliothek klar von den Ergebnissen aus dem Bereich der unselbstständigen
+Werke zu trennen. Stammen die Suchergebnisse einer Anfrage aus verschiedenen Indizes,
+ist ein gemeinsames Relevanzranking aus technischen Gründen oft nicht möglich
+und eine Aufteilung der Ergebnisse daher zwingend erforderlich. Bei der Verwendung
+solcher Registerkarten zur Darstellung mehrerer Ergebnislisten einer Suche ist immer
+zu bedenken, dass die korrekte Erkennung der verschiedenen Tabs ein Nutzungshindernis
+darstellen kann.
+Facettierungsfunktionen sind die wichtigsten Elemente zur Modifikation der
+Suche. Grundsätzlich ist es möglich, für sehr viele Metadatenfelder eine Drill-Down-
+Funktion anzubieten. Dabei ist zu berücksichtigen, dass eine zu hohe Anzahl an Facettierungsmöglichkeiten
+auch dazu führen kann, dass die Optionen grundsätzlich nicht
+mehr gut wahrgenommen werden.
+Ein weiteres Problem bei der Gestaltung von Facettenfiltern ist die große Heterogenität
+des Suchraums eines Discovery-Systems, die vom Betreiber kaum kontrolliert
+werden kann: So liefert z. B. eine Facette für „Medientyp“ nur wenig befriedigende
+ Vgl. Tuch 2011.
+ Vgl. Sittner 2022.
+3.7 Discovery-Systeme, Indexstrukturen und Metadatenmanagement 221
+Ergebnisse, wenn es im Gesamtindex sehr viele (meist auch sprachlich) unterschiedliche
+Bezeichnungen für die jeweiligen Medientypen gibt und keine indexweite Standardisierung
+erfolgt.
+Weitere Probleme der Datenheterogenität ergeben sich aus der unterschiedlichen
+Verfügbarkeit von Sacherschließungselementen sowie unterschiedlichen Namensräumen
+und Sprachen der Metadaten innerhalb der Indizes.26 Das Ziel einer durchgängig
+homogenen Sacherschließung erscheint im Hinblick auf den Aufbau größerer
+Indizes durch die Zusammenführung völlig unterschiedlicher Metadaten internationaler
+Provenienz derzeit nicht realistisch umsetzbar. Normdaten aus dem nationalen
+GND-Umfeld liegen nur für einen kleinen Teil der Daten vor. Die Berücksichtigung von
+Normdatenbeziehungen ermöglicht im Rahmen der Recherche in klassischen Bibliothekskatalogen
+z. B. die automatische Integration der Vorzugsbenennung eines Begriffs
+oder Namens. Solche relationalen Verknüpfungen sind in den meisten Volltextsuchmaschinen
+wie SOLR nicht ohne weiteres realisierbar.27
+Usability-Fragen, die grundsätzlich bei allen Bibliotheksangeboten zu prüfen sind, betreffen
+das Wording bzw. die verwendeten Begriffe im Frontend. Facettierungsfunktionen,
+die mit bibliothekarischen Fachbegriffen benannt sind, werden von der Zielgruppe
+unter Umständen nicht verstanden. Ein wichtiger Punkt ist die logische und technische
+Integration des Discovery-Systems in den Webauftritt der Bibliothek, die möglichst nahtlos
+erfolgen sollte. Dabei sollte auf die Eignung für die Darstellung auf mobilen Endgeräten
+geachtet werden, z. B. durch ein vollständig responsives Design.28 Bei der Einführung
+eines neuen Discovery-Systems sollte zudem geprüft werden, ob und mit welchem Konzept
+der klassische Bibliothekskatalog weiterhin angeboten werden soll, damit die Nutzer:
+innen beide Angebote klar beurteilen und unterscheiden können.
+7 Schnittstellen
+Bei der Integration von Discovery-Systemen ist es wichtig, dass die für den Betrieb
+notwendigen und empfohlenen Schnittstellen zu anderen Systemen bzw. zur Weiterverarbeitung
+der Daten vorhanden sind. Dabei ist zunächst der Workflow für
+den Metadatenimport der physischen Medien einer Bibliothek zu konzipieren. Mit der
+zunehmenden Einführung von Electronic-Research-Management-Systemen (ERMSystemen)
+muss ggf. auch die Anbindung bzw. Indexierung von Verfügbarkeitsinformationen
+aus dem ERM-System möglich sein. In vielen Fällen erfolgt die Anzeige
+der Nutzungsoptionen eines E-Mediums über die Abfrage einer externen Wissensba-
+ Vgl. Wiesenmüller 2021.
+ Vgl. Sunckel u. a. 2014.
+ Vgl. Lienhard 2015.
+222 Martin Blenkle
+sis eines sogenannten Linkresolvers, der mit Hilfe des Open-URL-Standards (Z39.88)
+Zugangsmöglichkeiten anbieten kann.
+Weitere wichtige Schnittstellen ermöglichen die Darstellung und Modifikation
+des Benutzerkontos sowie die Anzeige der Exemplarverfügbarkeit physischer Medien
+im Suchergebnis. Der einfache und direkte Zugriff auf diese Informationen über eine
+offene Schnittstelle ist nicht in allen Bibliothekssystemen ohne Weiteres verfügbar.
+Da Bibliothekskataloge zunehmend auch als Metadatenquelle für die Nachnutzung
+der Daten in Literaturverwaltungssystemen dienen, ist es wichtig, einfach zu handhabende
+Exportfunktionen für die strukturiert vorliegenden Metadaten in verschiedene
+gängige Formate anzubieten. Hierfür steht in der Regel die Funktion einer Merkliste
+zur Verfügung.
+8 Offene Fragen und Ausblick
+Da Bibliothekskataloge unter starkem Konkurrenzdruck durch bekannte, weltweit operierende
+Suchmaschinen stehen, ist ein Hauptziel der zukünftigen Entwicklung die weitere
+Verbesserung der Benutzungsfreundlichkeit des Frontends. Neben einer kontinuierlichen
+Weiterentwicklung der Rankingverfahren zählen dazu auch neue Ansätze, die die Möglichkeiten
+zur entdeckenden Suche erweitern. Ein großes Potenzial dazu läge z. B. in der
+Integration von Zitationshinweisen bzw. der Darstellung des Zitationsnetzwerkes eines
+Dokumentes. Damit eröffnet sich eine völlig neue Dimension der Erschließung von
+Fachgebieten und Fachdiskursen. Offene Metadaten zu den Zitationen eines Dokuments
+sind jedoch noch nicht in ausreichendem Maße verfügbar. Die Verknüpfung
+der Daten, z. B. im Rahmen eines Zitationsnetzwerkes, ist allerdings nur der Einstieg
+in eine graphbasierte Aufbereitung und Präsentation bibliothekarischer Metadaten,
+etwa in Kombination mit Faktendaten aus externen Systemen über Linked-Open-
+Data-Strukturen. Vereinzelt nutzen Systeme bereits die Visualisierung von Suchergebnissen
+in gruppierten, zweidimensionalen Konzeptdarstellungen – bisher allerdings
+meist nur prototypisch. Es bleibt abzuwarten, ob die Nutzer:innen diese
+neue Art der Ergebnispräsentation annehmen werden.
+Eine derzeit noch offene Frage ist die Lösung des Problems stark heterogener Metadatenindizes.
+Es liegt auch im Interesse der Verlage, die Qualität der gelieferten Metadaten
+zu verbessern, um die Auffindbarkeit der eigenen Produkte und damit deren
+Nutzung zu erhöhen. Einen Ansatz zur Lösung des Problems und ein weiteres wichtiges
+Entwicklungsfeld eröffnen Methoden, die durch eine Vorverarbeitung von Metadaten
+mit Verfahren aus dem Bereich der Künstlichen Intelligenz auch in Suchräumen mit
+sehr heterogener Erschließungsqualität bessere Suchergebnisse ermöglichen können.29
+Die Entwicklung solcher Spezialdienste kann auch zu Alleinstellungsmerkmalen einer
+ Vgl. Dempsey 2013.
+3.7 Discovery-Systeme, Indexstrukturen und Metadatenmanagement 223
+Suchmaschine führen, z. B. mit Systemen, die die bisherige begriffsbasierte Suche in
+speziellen Fachkontexten um neue Zugriffskonzepte ergänzen können.30 Da diese KIbasierten
+Verfahren zur Vorverarbeitung von Metadaten sehr aufwändig sind, ist für
+die Zukunft eine weitere Zentralisierung der technischen Infrastruktur von Discovery-
+Systemen absehbar.
+Die Frage, ob die Nutzung externer Dienste oder die eigene Auseinandersetzung
+mit Methoden des Metadatenmanagements und der Suchmaschinentechnologie zur
+Kontrolle des eigenen Suchraums und zum Aufbau von lokalem Knowhow die richtige
+Zukunftsstrategie darstellt, muss jede Einrichtung für sich beantworten. Die Bereitstellung
+eigener Suchmaschinen, z. B. für spezielle fachliche Ausschnitte oder zur
+Erschließung von Spezialsammlungen wird jedoch auch in Zukunft notwendig sein.
+Literatur
+Akeroyd, John: Discovery Systems: Are they Now the Library? In: Learned Publishing 30 (2017), H. 1,
+S. 87–89. https://doi.org/10.1002/leap.1085.
+Baeza-Yates, Ricardo u. Berthier de Araújo Neto Ribeiro: Modern Information Retrieval the Concepts and
+Technology Behind Search. 2. Aufl. Harlow, London, New York: Addison-Wesley/Pearson 2011.
+Beck, Cyrus: Primo gegen Google Scholar – benutzerfreundliches Discovery 10 Jahre später. In: ABI
+Technik 38 (2018), H. 4, S. 336–343. https://doi.org/10.1515/abitech-2018-4007.
+Behnert, Christiane, Kim Plassmeier, Timo Borst u. Dirk Lewandowski: Evaluierung von Rankingverfahren
+für bibliothekarische Informationssysteme. In: Information – Wissenschaft & Praxis 70 (2019), H. 1,
+S. 14–23. https://doi.org/10.1515/iwp-2019-0004.
+Christensen, Anne u. Matthias Finck: Discovery-Systeme: Eine Analyse ihrer Geschichte und Gegenwart mit
+dem Hype-Zyklus. In: Bibliothek Forschung und Praxis 45 (2021), H. 3, S. 497–508. https://doi.org/10.
+1515/bfp-2021-0039.
+Dempsey, Lorcan: Generative AI and large language models: background and contexts. 2023.
+https://www.lorcandempsey.net/intro-gen-ai/ (12.06.2023).
+Ellis, Rachel, Noemi Betancort Cabrera u. Katrin Kabitzke: Sie sind meine Heldin des Tages – Anfragen aus
+dem Suchsystem heraus in der SuUB Bremen. In: Bibliothek Forschung und Praxis 43 (2019), H. 3,
+S. 399–405. https://doi.org/10.1515/bfp-2019-2075
+Haake, Elmar, Martin Blenkle, Rachel Ellis u. Hartmut Zillmann: Nur die ersten Drei zählen! Optimierung
+der Rankingverfahren über Popularitätsfaktoren bei der Elektronischen Bibliothek Bremen (E-LIB).
+In: O-Bib. Das Offene Bibliotheksjournal 2 (2015), H. 2, S. 33–42. https://doi.org/10.5282/o-bib/
+2015H2S33-42.
+Hora, Manuel: Methoden für Das Ranking in Discovery-Systemen. In: Perspektive Bibliothek 7 (2019), H. 2,
+S. 2–23. https://doi.org/10.11588/pb.2018.2.57797.
+Jansen, Heiko: Discovery-Services – Einführung, Marktübersicht und Trends. In: Bibliotheksdienst 48
+(2014), H. 10, S. 773–783. https://doi.org/10.1515/bd-2014-0095.
+ Im Rahmen des sogenannten „narrativen Services“ der Suchmaschine PubPharm des FID Pharmazie
+der UB Braunschweig gelingt es durch entsprechende Vorverarbeitung der Metadaten, Konzepte
+und deren Relationen in den Datensätzen zu erkennen und gezielte Sucheinstiege dazu anzubieten.
+Vgl. Kroll u. a. 2023.
+224 Martin Blenkle
+Khoo, Michael u. Catherine Hall: What Would „Google“ Do? Users’ Mental Models of a Digital Library
+Search Engine. In: Theory and Practice of Digital Libraries. Hrsg. von P. Zaphiris, G. Buchanan,
+E. Rasmussen u. F. Loizides. TPDL 2012. Lecture Notes in Computer Science, 7489. Berlin, Heidelberg:
+Springer 2012. S. 1–12. https://doi.org/10.1007/978-3-642-33290-6_1.
+Kroll, Hermann, Jan Pirklbauer, Jan-Christoph Kalo, Morris Kunz, Johannes Ruthmann u. Wolf-Tilo Balke: A
+Discovery System for Narrative Query Graphs: Entity-Interaction-Aware Document Retrieval. In:
+International Journal on Digital Libraries (2023). https://doi.org/10.1007/s00799-023-00356-3.
+Lienhard, Claudia: Usability Mobiler Bibliotheksapplikationen – Untersucht am Beispiel der Mobilen Web-
+App der ETH-Bibliothek Zürich. Berlin: Humboldt-Universität zu Berlin, Philosophische Fakultät I,
+Institut für Bibliotheks- und Informationswissenschaft 2015. https://doi.org/10.18452/2134.
+Maylein, Leonhard u. Anette Langenstein: Neues vom Relevanz-Ranking im HEIDI-Katalog der
+Universitätsbibliothek Heidelberg. In: B.I.T. Online 16 (2013), H. 3, S. 190–200. https://doi.org/10.
+11588/heidok.00015195.
+Pfeffer, Magnus u. Heidrun Wiesenmüller: Resource Discovery Systeme. In: Handbuch
+Informationskompetenz. Hrsg. von Wilfried Sühl-Strohmenger. Berlin, Boston: De Gruyter Saur 2016.
+S. 105–114. https://doi.org/10.1515/9783110403367-012.
+Rodejohann, Christof u. Felix Lohmeier: Schlanke Discovery-Lösung auf Basis von TYPO3. Der Neue
+Bibliothekskatalog der SLUB Dresden. 2016. https://nbn-resolving.org/urn:nbn:de:0290-opus4-25949
+bzw. https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/year/2016/docId/2594
+(15.07.2023).
+Schneider, Karen G.: Relevance ranking and OPAC records. In: Free Range Librarian. K.G. Schneider’s Blog
+on Librarianship, Writing, and Everything Else. 2007. http://freerangelibrarian.com/2007/07/25/rele
+vance-ranking-and-opac-records/ (12.06.2023).
+Sittner, Claudia: User Experience in Bibliotheken: 35 vielversprechende Ansatzpunkte für Einstieg und
+Austausch mit Gleichgesinnten. ZBW Mediatalk 2022 https://www.zbw-mediatalk.eu/de/2022/09/userexperience-
+in-bibliotheken-35-vielversprechende-ansatzpunkte-fuer-einstieg-und-austausch-mitgleichgesinnten/
+(12.06.2023).
+Sunckel, Bettina, Uwe Reh u. Heike Nienerza: Das HeBIS Discovery System: Kooperative Entwicklung einer
+neuen Rechercheoberfläche für HeBIS-Bibliotheken. In: Bibliotheksdienst 48 (2014), H. 10,
+S. 784–794. https://doi.org/10.1515/bd-2014-0096.
+Tuch, Alexandre, Eva Presslaber, Markus Stoecklin, Klaus Opwis u. Javier Bargas-Avila: The Role of Visual
+Complexity and Prototypicality regarding First Impression of Websites: Working Towards
+Understanding Aesthetic Judgments. In: International Journal of Human-Computer Studies 70 (2012),
+H. 11, S. 794–811. http://dx.doi.org/10.1016/j.ijhcs.2012.06.003.
+Varnum, Kenneth J.: Library Discovery From Ponds to Streams. In: The Top Technologies Every Librarian
+Needs to Know: A LITA Guide. Hrsg. von Kenneth J. Varnum. Chicago, IL: ALA TechSource 2014.
+S. 57–65. http://hdl.handle.net/2027.42/107042 (20.02.2024).
+Wiesenmüller, Heidrun: Verbale Erschließung in Katalogen und Discovery-Systemen – Überlegungen zur
+Qualität. In: Qualität in der Inhaltserschließung. Hrsg. von Michael Franke-Maier, Anna Kasprzik,
+Andreas Ledl u. Hans Schürmann. Berlin, Boston: De Gruyter Saur 2021. S. 279–302. https://doi.org/
+10.1515/9783110691597-014.

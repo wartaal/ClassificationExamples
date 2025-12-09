@@ -1,0 +1,1197 @@
+﻿Reinhard Altenhöner und Martin Hermann
+7.3 Digitalisierung von Kulturgut:
+
+Organisationsformen, Akteure, Zugang
+
+1 Einleitung
+Die Digitalisierung von Kulturgut ist in Bibliotheken und anderen Einrichtungen der
+Kulturdomäne ein Thema von zentraler Bedeutung – nicht nur in der Fachdiskussion,
+sondern auch in der öffentlichen Wahrnehmung der Einrichtungen. Schließlich erfol-
+gen große Teile der wissenschaftlichen Kommunikation und Publikation ausschließlich
+digital und bestimmen auch die Methoden und Werkzeuge der Wissenschaft. Es liegt
+daher die Frage auf der Hand, wie die Bereitstellung und Nutzung des aktuell entste-
+henden digitalen Wissens auf Dauer angemessen auszugestalten ist. Die radikale Neu-
+fassung des Zugangs und der (wissenschaftlichen) Nutzungsmöglichkeiten greift aber
+auch auf das über Jahrhunderte in den Bibliotheken gesammelte Kulturgut über: Die
+systematische Konversion dieser Inhalte in digital zugängliche und potenziell weltweit
+verbreitbare Daten rückt so in den Mittelpunkt. Sie umfasst ganze Sammlungen oder
+aber auch herausragende Einzelstücke: Drucke, Handschriften, Musikalien und Tonträ-
+ger sowie Abbildungen aller Art und Video/Film. Auch die Dokumentation von Abläufen
+oder historischen Denkmälern (eine Computerinteraktion oder ein Baudenkmal) kann
+mit dem Begriff der Digitalisierung gemeint sein.
+
+In einem allgemeinen Sinn bezeichnet der Terminus „Digitalisierung“ die Über-
+führung analog vorliegender Information in digitale Form (also: der Prozess des tech-
+nischen Abtastens, der unterschiedlich realisiert sein kann) und die Speicherung des
+Ergebnisses in Form einer digitalen Zeichenkette. Auf diesen Daten setzt die digitale
+Nutzung auf. Zwar ist denkbar, dass auf der digitalen Information basierend ein phy-
+sischer Träger nachproduziert werden könnte, dies ist aber häufig mit Qualitätsver-
+lusten verbunden und aus Sicht der Nutzer:innen gar nicht wünschenswert. Die
+Nutzung der digital vorliegenden Dokumente setzt die Verfügbarkeit von entspre-
+chender Hard- und Software voraus.
+
+Dieses Kapitel beschäftigt sich mit der Digitalisierung vorhandenen Materials auf
+physischen Trägern, terminologisch exakt gefasst mit dem Begriff der „Retrodigitali-
+sierung“. Die Ergebnisse der Retrodigitalisierung können dabei entweder zweidimen-
+sionale Daten (Fotos) oder dreidimensionale Daten sein (Objekte). Da im Kontext der
+Bibliotheken wie anderer Einrichtungen des kulturellen Erbes Digitalisierung und
+Retrodigitalisierung meistens synonym verwendet werden, wird hier der Einfachheit
+
+Anmerkung: Dieses Kapitel ist eine auf Organisationsformen, Akteure und Präsentation fokussierte Über-
+arbeitung des 2014 verfassten Beitrags „Digitalisierung von Kulturgut“ von Reinhard Altenhöner, Tobias
+Beinert, Markus Brantl, Robert Luckfiel und Uwe Müller ✝ aus der ersten Auflage des Praxishandbuchs
+Bibliotheksmanagement.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-036
+
+
+
+606 Reinhard Altenhöner und Martin Hermann
+
+halber überwiegend der Begriff der „Digitalisierung“ verwendet. Im verbreiteten
+Sprachgebrauch werden darüber hinaus neben der Durchführung der Digitalisierung
+selbst auch die Auswahl und Vorbereitung des Materials verstanden. Insgesamt ist die
+Digitalisierung zu einem weitgehend standardisierten Ablauf herangewachsen, der in
+den verschiedenen Sparten des kulturellen Erbes (Museen, Archive, Bibliotheken)
+nach vergleichbaren Qualitätsstandards erfolgt. Hier wird primär auf die Situation in
+Bibliotheken abgestellt.
+
+2 (Kultur-)politischer Hintergrund
+und erste Initiativen
+
+In der Kombination der Digitalisierung mit den Verbreitungsmöglichkeiten, die das
+World Wide Web und seine Technologien bieten, ist die Digitalisierung zu einer Chiffre
+für die weltweite vernetzte Informationsgesellschaft geworden. Die Idee, dass Kulturgut
+weltweit zeit- und ortsunabhängig der Wissenschaft, aber auch den Bürger:innen zur
+Verfügung steht, wirkte auf die Kulturpolitik nach anfänglichen Berührungsängsten gera-
+dezu elektrisierend. Ein wichtiges Moment in diesen Überlegungen war die Möglichkeit
+der spartenübergreifenden Präsentation von Ergebnissen aus Digitalisierungsinitiativen
+der Bibliotheken, Archive und Museen sowie anderer verwandter Bereiche. Es war nun
+in einem großen Maßstab möglich, historische Quellen in einen Sinnzusammenhang zu
+stellen und miteinander zu einem virtuellen Universalangebot zu vernetzen, das sich von
+dem engen Spartenbezug lösen würde. Daran knüpften sich weitreichende Vorstellungen,
+die auf eine umfassende Transformation insbesondere der historischen Buchwissenschaf-
+ten, ihrer Methodik und Arbeitsverfahren z. B. im Bereich der Edition, aber auch kollabo-
+rativer sprachhistorischer Analysen abzielten. Die Digital Humanities etablierten sich
+hieraus als weiteres Forschungsfeld im Verbund mit den herkömmlichen Geisteswissen-
+schaften und treiben bis heute die Bereitstellung von digitalisierten Daten in einer Form
+voran, die sich für die computergestützte Auswertung eignet.
+
+Aber auch in der Wahrnehmung der Bibliotheken selbst hat die Digitalisierung
+zu neuen Möglichkeiten für die Erschließung und Zugänglichmachung von Kulturgut
+geführt und die Idee virtueller, standort- und sammlungsunabhängiger Bibliotheken
+beflügelt bzw. zur Realisierung kommen lassen. Auf diese Weise kann besonders im
+Bestand befindliches gefährdetes Material geschont und zugleich doch zugänglich ge-
+macht werden. Gleichzeitig sind die digitalen Objekte aber als Ergebnis der Digitalisie-
+rung verlustfrei kopier- und damit weiterverarbeitbar, so z. B. für den Einsatz neuer
+automatisierter Erschließungsverfahren.
+
+Der Weg hin zu dem heute erreichten Stand war allerdings keineswegs geradlinig.
+Während zu Beginn der Überlegungen vor allem Bestandserhaltungsaspekte diskutiert
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 607
+
+wurden,1 bekam die Idee des Zugangs für Wissenschaft und Forschung auf digitalisierte
+Materialien durch ein 1997 von der Deutschen Forschungsgemeinschaft (DFG) aufgeleg-
+tes Förderprogramm zur Retrodigitalisierung von gemeinfreiem schriftlichen Kulturgut
+ein anderes Gewicht. Dieses bis heute laufende Programm und viele daran geknüpfte
+Aktivitäten wie der Aufbau von Digitalisierungszentren in einer Reihe von Einrichtun-
+gen haben für die Verbreitung und Durchsetzung der Idee der Digitalisierung maßge-
+bend auch im Bereich technischer Standards und Workflowbildung/Tools bis hin zu
+einem zusammengeführten einheitlichen Zugang gewirkt.
+
+Ohne die Verfügbarkeit der entsprechenden Metadaten lassen sich Digitalisie-
+rungsprojekte nicht sinnvoll durchführen. Die entsprechenden Retrokonversionspro-
+gramme insbesondere der DFG spielten hier auf nationaler Ebene eine wegbereitende
+Rolle. Auch vergleichbare Digitalisierungsprojekte in Archiven und Museen setzen die
+maschinenlesbare Verfügbarkeit der Metadaten voraus.
+
+Neben der Förderlinie der DFG in Deutschland gab es in der Pionierzeit der Retro-
+digitalisierung weitere Initiativen zur Errichtung digitaler Bibliotheken. Aus der inter-
+nationalen Bibliothekscommunity stachen das National Digital Library Program an
+der US-amerikanischen Library of Congress (seit 1995) und das Gallica-Projekt der
+Französischen Nationalbibliothek (seit 1997) als Meilensteine des Digitalisierungs-
+rucks in den Bibliotheken hervor. Einzigartig war das internationale Million Book
+Project unter Beteiligung von mehr als zwei Dutzend universitärer Einrichtungen
+weltweit: Bereits 2003 waren 10 000 Bücher digitalisiert, bis 2007 sollten es 1,5 Millio-
+nen sein – ein Vorbote der kommenden Massendigitalisierung. Und unter den privat
+finanzierten Initiativen waren besonders die Gutenberg-Projekte erwähnenswert: Das
+internationale Project Gutenberg stellte bereits in den frühen 2000er Jahren mehr als
+10 000 retrodigitalisierte E-Books zur Verfügung, das deutsche Pendant Projekt Guten-
+berg DE mehr als 1 000 – für damalige Verhältnisse herausragende Angebote.
+
+Die Ära und der Wille zur Massendigitalisierung wurde schließlich 2004 mit der
+Ankündigung Googles eingeläutet, 15 Millionen Bücher im sog. Library Project in Zu-
+sammenarbeit mit Bibliotheken zu digitalisieren, was in weiten Teilen Europas zu-
+nächst großen Argwohn erregte. Die prominenteste Artikulation dieser Bedenken
+kam von Jean-Noël Jeanneney, dem damaligen Direktor der Französischen Nationalbi-
+bliothek, der davor warnte, wichtige Teile des europäischen Kulturerbes in die Hände
+kommerzieller Unternehmen zu geben, und grundsätzlich die Kompetenzen und Aus-
+wahlkriterien des Vorhabens hinterfragte. Zudem befürchtete er aufgrund der zu-
+nächst vorrangigen Digitalisierung von Büchern aus Universitätsbibliotheken der USA
+das Entstehen einer vornehmlich am Massengeschmack orientierten amerikanischen
+Hegemonie im kulturellen und sprachlichen Bereich.2 Als Reaktion auf Googles Initia-
+
+ Siehe Lesk 1990. Hier wird bereits die einsetzende Verschiebung zu Gunsten einer stärkeren Ge-
+wichtung der Digitalisierung gegenüber der Mikroverfilmung als Bestandserhaltungsmaßnahme
+erkennbar.
+ Jeanneney 2006.
+
+
+
+608 Reinhard Altenhöner und Martin Hermann
+
+tive entstanden weitreichende Überlegungen zu konzertierten Aktivitäten der Euro-
+päischen Union, namentlich die Idee der Europeana, der später auch nationale In-
+itiativen wie die Deutsche Digitale Bibliothek (DDB) folgten. Dahinter steckte der
+Anspruch – formuliert in einem Report einer von der EU-Kommission eingesetzten
+Expertengruppe3 –, einen breiten Zugang zur Nutzung digitalisierter gemeinfreier
+Materialien zu sichern und Anreize zur Digitalisierung und Zugänglichkeit von ur-
+heberrechtlich geschütztem Material zu schaffen sowie schließlich bestehende In-
+itiativen wie die Europeana zu verstetigen.
+
+3 Genese, Akteure und Finanzierung der
+Digitalisierung in Deutschland
+
+Der zentrale förderpolitische Motor der Retrodigitalisierung in Deutschland war und
+ist die DFG. Aufbauend auf den Empfehlungen einer 1994 eingesetzten Arbeitsgruppe
+zum Themenfeld Elektronische Publikationen legte sie drei Jahre später ein erstes
+Förderprogramm zur retrospektiven Digitalisierung von Bibliotheksbeständen als
+Pfeiler der „Verteilten Digitalen Forschungsbibliothek“ auf. Zielsetzung dieser ersten
+Förderphase, die bis ca. 2004 andauerte und als Lern- und Experimentierphase zu
+sehen ist, war es dabei zunächst, ein möglichst breites Spektrum an fachlichen Inhal-
+ten, Materialgruppen und Anwendungsszenarien abzudecken.
+
+In Deutschland entwickelte sich daher von Anfang an, begünstigt durch das Fehlen
+von Basis-Technologien und gemeinsamen Standards für unterschiedliche Material-
+typen, eine von sehr unterschiedlichen Ansätzen, Vorgehensweisen und Nutzungsmög-
+lichkeiten geprägte Digitalisierungslandschaft. Diese Heterogenität führte dazu, dass
+sich neben den Digitalisierungszentren in München und Göttingen die Digitalisierung
+als eine Aufgabe in zahlreichen wissenschaftlichen Bibliotheken und anderen Gedächt-
+nis- und Forschungseinrichtungen etablieren konnte. Zugleich sorgte aber das weitge-
+hende Fehlen eines einheitlichen Ansatzes und verbindlicher Vorgaben dafür, dass eine
+erste, generell durchaus positiv ausgefallene Gesamtevaluation des Förderprogramms
+bereits im Jahr 2005 erheblichen Verbesserungsbedarf feststellte. Hauptkritikpunkte
+waren die oftmals mangelnde Sichtbarkeit der Projektergebnisse, also der erzeugten di-
+gitalen Ressourcen in speziellen Verzeichnissystemen wie auch im Web allgemein, ge-
+ringe Synergien aufgrund fehlender Koordination und Standardisierung sowie eine
+sich auch daraus ergebende sehr geringe und zudem in der Regel auf die jeweilige
+Fachöffentlichkeit beschränkte Nutzung.4
+
+ Lévy u. a. 2011.
+ Czmiel u. a. 2005: S. 3 f.
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 609
+
+Diese Kritikpunkte wurden von der Community in den folgenden Jahren mit Un-
+terstützung durch die DFG aufgegriffen und führten in der Folge zur Erarbeitung von
+allgemein verbindlichen Praxisregeln (DFG-Praxisregeln) für die projektgeförderte Di-
+gitalisierung sowie der Entwicklung des DFG-Viewers als einheitliche Präsentations-
+umgebung. Daneben führte die DFG die umfangreiche Förderung der Digitalisierung
+fort: Insgesamt belief sich das Gesamtfördervolumen durch die DFG bis 2021 auf
+ca. 265 Millionen Euro.5 Die Bandbreite der Projektförderungen erstreckt sich dabei
+von institutionsübergreifenden, großflächigen und zentral koordinierten Maßnah-
+men (z. B. Digitalisierung der Drucke des 16. bis 18. Jahrhunderts) bis hin zur so ge-
+nannten Boutique-Digitalisierung sehr spezieller und wertvoller Einzelbestände
+(z. B. verschiedene Inkunabelprojekte).
+
+Gemäß dem Positionspapier Die digitale Transformation weiter gestalten aus dem
+Jahr 2012 fokussierte die DFG ihre Ausschreibungen im Rahmen des Förderprogramms
+„Erschließung und Digitalisierung“ in den folgenden Jahren auf die Digitalisierung insbe-
+sondere historischer Zeitungen sowie unikalen Materials, also Archivgut, mittelalterliche
+Handschriften und museale Objektsammlungen.6 Das bisher letzte DFG-Positionspapier
+Förderung von Informationsinfrastrukturen für die Wissenschaft von 2018 kündigte
+schließlich die Erweiterung des förderwürdigen Material explizit über die handschriftli-
+che und gedruckte Überlieferung hinaus auf alle wissenschaftlich potenziell interessan-
+ten Objekte an7 und schuf damit u. a. günstige Voraussetzungen für die Förderung von
+3D-Digitalisierungsprojekten in der Zukunft. Diese neue Perspektive mündete zwei Jahre
+später in die Umbenennung und Neuakzentuierung des bisherigen Förderprogramms in
+„Digitalisierung und Erschließung“.8
+
+Neben den umfangreichen Investitionen der DFG als wichtigstem Drittmittelgeber
+haben seit einigen Jahren Bundesländer, aber auch Kulturstiftungen eigene oft zeit-
+lich befristete oder materialspezifisch ausgerichtete Förderprogramme eingerichtet.
+In einer Übersicht über die Akteure der deutschen Digitalisierungslandschaft sind zu-
+nächst die Bayerische Staatsbibliothek mit dem Münchener Digitalisierungszentrum
+(MDZ) sowie das Göttinger Digitalisierungszentrum (GDZ) der dortigen Staats- und
+Universitätsbibliothek zu nennen, die ab 1997 mit erheblicher finanzieller Unterstüt-
+zung der DFG aufgebaut wurden und seit ihrer Gründung maßgeblichen Einfluss auf
+die Entwicklung der Digitalisierung in Deutschland genommen haben.
+
+ Simon-Ritz 2012: S. 219; sowie die Tabelle „Laufende und neue Fördermaßnahmen im Bereich Wis-
+senschaftliche Literaturversorgungs- und Informationssysteme“ in den Jahresberichten der DFG.
+ DFG 2012b: S. 10. Das durch den Schwerpunkt auf historische Zeitungen in der Folge geförderte
+DFG-Projekt „Digitalisierung historischer Zeitungen“ mündete im sogenannten Masterplan Zeitungsdi-
+gitalisierung, der Ausgangspunkt für die Förderungsinitiative der DFG im Bereich Zeitungsdigitalisie-
+rung war. Vgl. https://zeitschriftendatenbank.de//fileadmin/user_upload/ZDB/z/Masterplan.pdf
+(16.11.2023)
+ DFG 2018: S. 4.
+ DFG 2020.
+
+
+
+610 Reinhard Altenhöner und Martin Hermann
+
+Zielstellung war es dabei zunächst, über die beiden mit unterschiedlichen Ansät-
+zen geförderten Zentren die großflächige Digitalisierung konventionellen Bibliotheks-
+guts sowie dessen Onlinestellung und Nutzung zu erproben, um einen Transfer der
+ersten Erfahrungswerte hinsichtlich Vorgehensweisen, technischer Fragen und auf-
+tretender Probleme in weitere Bibliotheken zu ermöglichen. Mit dem Auslaufen der
+Projektförderung durch die DFG wurden die Digitalisierungszentren nach und nach
+in die organisatorischen Strukturen der beiden Häuser integriert.
+
+Das Münchener Digitalisierungszentrum entwickelte sich in Deutschland ab 2007
+mit dem Einsatz von Scanrobotern zum Vorreiter in der Massendigitalisierung. Das
+Aufgabenspektrum des MDZ ging dabei schon früh über die durch die selbst entwi-
+ckelte Zentrale Erfassungs- und Nachweisdatenbank (ZEND) unterstützte digitale Pro-
+duktion (Erfassung, Erschließung, Bereitstellung) hinaus. Es war von Anfang an das
+Bestreben, auch für eng verknüpfte Themen wie beispielsweise die digitale Langzeit-
+archivierung, die Volltexterschließung, für Präsentationslösungen und das elektroni-
+sche Publizieren innovative und nutzerfreundliche Lösungsansätze zu entwickeln.9
+
+Der Fokus des Göttinger Digitalisierungszentrums blieb dagegen stärker auf die Be-
+reiche Digitalisierung und Präsentation beschränkt, wobei das GDZ aber sehr eng mit
+der ebenfalls an der SUB Göttingen angesiedelten Abteilung Forschung und Entwicklung
+kooperierte, beispielsweise bei der Entstehung der auf Open-Source-Basis verfügbaren
+Workflowsoftware für die Digitalisierung Goobi (Göttingen online-objects binaries).
+
+Seither haben sich mit Förderung durch die DFG in den großen Staats-, Universi-
+täts-, Forschungs- und Landesbibliotheken stabile und leistungsfähige Infrastrukturen
+in Form von eigenständigen Inhouse-Digitalisierungszentren etabliert, die großflächig
+angelegte Retrodigitalisierungsprojekte durchführen. Teilweise dienen diese Einrich-
+tungen auch als regionale Service- und Kompetenzzentren, beraten und koordinieren
+Digitalisierungsprojekte und betreiben Forschung und Softwareentwicklung in Bezug
+auf den facettenreichen Themenkomplex Digitale Bibliothek.
+
+Neben diesen regional verteilten Digitalisierungszentren hat sich vor allem im
+Rahmen von Projektförderungen die Digitalisierung von unikalen oder besonders for-
+schungsrelevanten Beständen in den letzten Jahren auch zu einem Aufgabengebiet
+für Bibliotheken kleineren bis mittleren Zuschnitts entwickelt.10 Auch diesen Institu-
+tionen bietet sich die Möglichkeit, mittels Retrodigitalisierung und Bereitstellung im
+Web die Reichweite und Nutzungsmöglichkeiten ihrer oftmals sehr wertvollen Be-
+stände zu verbessern und die Originalwerke zugleich aus konservatorischen Gründen
+einer intensiven Benutzung zu entziehen.
+
+Die Vielzahl der oftmals in sehr unterschiedlicher Art und Weise in der Digitalisie-
+rung tätigen Akteure führte bereits früh zu Forderungen nach Beratungs- und Koordi-
+nationsstellen auf regionaler oder sogar nationaler Ebene. Diese Aufgaben werden
+
+ Brantl u. Schoger 2008: S. 256 ff.
+ Vgl. hierzu die Beiträge im Sammelband von Siebert 2012.
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 611
+
+mittlerweile in vielen Fällen durch die oben genannten regionalen Digitalisierungszen-
+tren wahrgenommen. Mit der Servicestelle Digitalisierung (digiS) am Konrad-Zuse-
+Institut wurde 2012 erstmals in Deutschland im Rahmen eines Pilotprojekts eine zentrale
+und spartenübergreifende Beratungsstelle für das Land Berlin geschaffen. Ihr Aufgaben-
+spektrum umfasst die Beratung, Vernetzung, Koordinierung, den Wissenstransfer und IT-
+Dienstleistungen für Digitalisierungsprojekte. Außerdem finanziert digiS spartenübergrei-
+fend Digitalisierungsprojekte. Eine ähnliche Funktion erfüllt die Koordinierungsstelle
+Brandenburg-digital.
+
+Ein Seitenblick auf den Stand der Digitalisierung in deutschen Archiven zeigt,
+dass dort zunächst die digitale Zugänglichmachung von Bestandsübersichten und
+Findmitteln im Vordergrund stand. Das Archivgut selbst wurde zunächst nur punktu-
+ell in kleineren Projekten sowie für Ausstellungen und im Zuge von konkreten Nut-
+zeranfragen digitalisiert. Mit dem Positionspapier von 2012 setzte die DFG einen
+neuen Förderschwerpunkt auf die Digitalisierung archivalischer Quellen, der inzwi-
+schen mehrere Ausschreibungen zur Digitalisierung und Erschließung archivalischer
+Quellen gefolgt sind.
+
+Im Bereich der Museen setzt sich zunehmend die Haltung durch, die eigenen Be-
+stände für die Nutzer:innen hochauflösend im Web zu präsentieren und damit zusätz-
+lich reale wie virtuelle Besucher:innen anzulocken. Zudem dient die Digitalisierung in
+vielen Museen der Erschließung und Dokumentation sowie der Sicherung der eigenen
+Bestände. Trotz großer Herausforderungen wie zum Beispiel höchst unterschiedlicher
+Objekte und der Komplexität geeigneter Digitalisierungsverfahren (3D) haben die Ak-
+tivitäten in der Digitalisierung in den letzten Jahren deutlich zugenommen und ver-
+bessern die Kompetenzen im Bereich der Kulturerbe-Digitalisierung.11
+
+4 Digitalisierungsinitiativen im internationalen
+Umfeld
+
+Im internationalen Umfeld spielt die Europäische Union eine wichtige Rolle im Bereich
+Digitale Bibliothek/Digitalisierung. Aus unterschiedlichen Arbeitsgruppen und Netzwer-
+ken (z. B. MINERVA, High Level Expert Group on Digital Libraries, Comité des Sages)
+kamen und kommen von dort wichtige Impulse und strategische Überlegungen, die von
+den politischen Gremien (Parlament, Kommission, Rat) aufgegriffen und in verschie-
+dene Initiativen und Programme (z. B. i2010: Digital Libraries, eContentPlus, dynami-
+scher Aktionsplan für die EU-weite Koordination der Digitalisierung kultureller und
+
+ Vgl. hierzu die Aktivitäten im Konsortium NFDI4Culture im Rahmen der Nationalen Forschungsda-
+teninfrastruktur (NFDI), insbesondere im Aufgabenbereich „Digitalisierung und Anreicherung digita-
+ler Kulturgüter“. https://nfdi4culture.de/de/index.html (16.11.2023).
+
+
+
+612 Reinhard Altenhöner und Martin Hermann
+
+wissenschaftlicher Inhalte) sowie staatenübergreifende Kooperationsprojekte (z. B. MI-
+CHAEL) überführt wurden. Im Rahmen und als Folge dieser Aktivitäten konnten letzt-
+endlich die wesentlichen Grundsteine für den Aufbau der europäischen digitalen
+Bibliothek Europeana gelegt werden. Zugleich ergibt sich über die Festlegungen auf eu-
+ropäischer Ebene durch die Urheberrechtsrichtlinie (Richtlinie 2001/29/EG zur Harmoni-
+sierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in
+der Informationsgesellschaft) auch der grundlegende urheberrechtliche Rahmen für
+Digitalisierungsaktivitäten, der dann in der Gesetzgebung der Mitgliedsstaaten jeweils
+seine konkrete Ausgestaltung findet.12
+
+Wenngleich die Europäische Union somit ein wichtiger Motor für die Digitalisie-
+rung des kulturellen Erbes ist, sahen die dortigen Akteure die Produktion des digitalen
+Contents selbst bislang im Wesentlichen in der Verantwortung der Mitgliedsstaaten auf
+nationaler oder regionaler Ebene, am besten in Form koordinierter, nationaler Digitali-
+sierungsstrategien.13 Die direkte Förderung durch Mittel der EU blieb somit vornehm-
+lich auf die Finanzierung des Aufbaus der Infrastrukturen und den fortlaufenden
+Betrieb des Portals und der Dienste rund um die Europeana beschränkt. Prominente
+Ausnahmen bilden das Projekt Europeana Regia zur Digitalisierung von über 1 000
+wertvollen Handschriften aus königlichen Sammlungen vom Mittelalter bis zur Renais-
+sance oder Europeana Collections 1914–1918 zum Aufbau einer digitalen Materialsamm-
+lung zum Ersten Weltkrieg.
+
+Auch auf Seiten der EU befürwortete man 2012 angesichts des immensen Finanz-
+bedarfs als Ergänzung zu den Maßnahmen der öffentlichen Hand seit vielen Jahren
+die Modelle der Public-Private-Partnership (PPP) zur Verfügbarmachung des digitalen
+Erbes im Web.14 Google ist seit der Ankündigung 2004 des Google Library Projects der
+zentrale Akteur der PPP zur Digitalisierung von Kulturgut. Der darauffolgende Auf-
+bau der eigenen digitalen Bibliothek Google Books war allerdings über Jahre hinweg
+von rechtlichen Konflikten begleitet. Schon kurz nachdem die ersten digitalisierten
+Bücher im Mai 2005 den Nutzer:innen im Internet zugänglich gemacht wurden, sah
+sich Google zweier Klagen des amerikanischen Autoren- bzw. Verlegerverbandes
+wegen massiver Urheberrechtsverletzungen ausgesetzt. Während die Auseinanderset-
+zung mit den Verlagen durch einen außergerichtlichen Vergleich 2012 beigelegt wer-
+den konnte, wurde die Klage des Autorenverbands im November 2013 zu Gunsten von
+Google entschieden und im April 2016 abschließend vom Obersten Gerichtshof bestä-
+tigt. Die Digitalisierung urheberrechtlich geschützter Bücher und die Bereitstellung
+von kleinen Ausschnitten (Snippets) daraus ist der Entscheidung zufolge in den USA
+auch ohne Zustimmung der Rechteinhaber als so genannter fair use ausdrücklich zu-
+lässig und steht in Übereinstimmung mit US-amerikanischem Urheberrecht.
+
+ Vgl. hierzu auch Kapitel 7.5 „Rechtliche Rahmenbedingungen“.
+ Lévy u. a. 2011: S. 41 f.
+ Council of the European Union 2012.
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 613
+
+Trotz der sehr lang andauernden rechtlichen Unsicherheiten sowie der zunächst un-
+klaren Motive des Unternehmens wuchsen sowohl die Anzahl der Kooperationspartner
+als auch die der digitalisierten Bücher sehr schnell. Am Google Books Library Project,
+das 2004 offiziell mit fünf Partnern gestartet war, waren und sind mehr als 40 Bibliothe-
+ken beteiligt. Aus dem deutschsprachigen Raum konnten die Bayerische Staatsbibliothek
+(2007), die Österreichische Nationalbibliothek (2010) und vier Hochschulbibliotheken aus
+der Schweiz (2019) jeweils einen Kooperationsvertrag abschließen.15 In Europa sind es
+mittlerweile 18 Partner, dazu zählen u. a. die Nationalbibliotheken in Italien, Großbritan-
+nien, Tschechien und den Niederlanden. Google beschränkt sich in Europa dabei auf die
+Digitalisierung von urheberrechtsfreien Bibliotheksbeständen. Die Bibliotheken erhalten
+in der Regel eine identische Kopie der von Google für die Publikationen aufbereiteten
+Images und Volltexte. Diese Digital Library Copy können die Bibliotheken innerhalb
+ihrer eigenen Katalog- und Präsentationssysteme uneingeschränkt zugänglich machen
+und Endnutzenden zur Nachnutzung für nichtkommerzielle Zwecke anbieten.
+
+Neben der Digitalisierung von Bibliotheksbeständen wird Google Books durch die
+Zusammenarbeit mit über 5 000 Verlagen ergänzt, die ihre urheberrechtlich geschützten
+Werke über das Angebot freiwillig durchsuchbar und in Auszügen zugänglich machen.
+Über einen angeschlossenen E-Book-Store können dann teilweise digitale Versionen die-
+ser Titel – bzw. über eine Verknüpfung zu einem Internethändler auch gedruckte Exem-
+plare – erworben werden. Laut eigener Aussage hatte Google im Jahr 2019 ca. 40
+Millionen Bücher digitalisiert und in der eigenen Datenbank verzeichnet, mehr als 10
+Millionen davon sind öffentlich zugänglich. Das vornehmliche Interesse von Google
+dürfte darin liegen, den aus dem Google Books hervorgehenden Datenbestand für die
+Verbesserung seiner anderen Dienste auszuwerten. Das 400 Sprachen umfassende, nicht
+originär in digitaler Form vorliegende Textkorpus wird für Google zudem eine unikale
+Datenbasis für die Generierung von Wissen mit Hilfe von maschinellem Lernen bzw.
+künstlicher Intelligenz sein.
+
+Neben Google Books gründete sich in den USA bereits 2005 die Open Content Alli-
+ance. Unter der Führung des Internet Archive und Yahoo schlossen sich zahlreiche
+Institutionen und Unternehmen zusammen, die befürchteten, dass mit der Massendi-
+gitalisierung Google seine Dominanz im Suchmaschinenfeld weiter ausbauen und
+letztlich mit einer Quasi-Monopolstellung auch die Nutzungsmöglichkeiten vor allem
+für digitalisierte Bücher aus dem urheberrechtsfreien Bereich weitgehend bestimmen
+könnte. Die Initiative, die auch von der Beendigung der Aktivitäten von Microsoft zur
+Digitalisierung (Live Book Search, eingestellt 2008) profitierte, hatte sich zum Ziel ge-
+setzt, ein dauerhaftes, öffentliches und nicht kommerzielles Archiv von digitalisierten
+
+ Als Ergebnis der Google-Partnerschaften aus dem deutschsprachigen Raum stehen (Stand Mai
+2023) die Digitalisierung von 1,35 Mio. Werken der Bayerischen Staatsbibliothek sowie 750 000 Werke
+aus den Beständen der Österreichischen Nationalbibliothek, der UB Bern und der Zentral- und Hoch-
+schulbibliothek Luzern; weitere 150 000 Werke aus der Universitätsbibliothek Basel und der Zentral-
+bibliothek Zürich werden folgen.
+
+
+
+614 Reinhard Altenhöner und Martin Hermann
+
+Texten und Multimedia-Werken aufzubauen. Die im Rahmen der Initiative digitali-
+sierten Werke gingen im digitalisierten Buchbestand des Internet Archives auf, der
+heute insgesamt ca. 20 Millionen Titel umfasst. Das Internet Archive arbeitet hierbei
+nach wie vor mit Bibliotheken und Universitäten zusammen. Mittlerweile bietet es di-
+gital auch 3,6 Millionen urheberrechtsbehaftete Titel in ihrer Open Library an, deren
+kontrollierte digitale Ausleihe (Controlled Digital Lending) ein US-Bundesrichter 2023
+allerdings als gesetzeswidrig einstufte.16
+
+5 Zugang und Präsentation
+Der Zugang (access) ist, abgesehen von den Aspekten der Bestandserhaltung, das zent-
+rale Ziel von Digitalisierungsvorhaben im Kulturbereich. Er richtet sich zunächst an
+die tradierten Zielgruppen der jeweiligen Einrichtungen – also oftmals vorrangig an
+Wissenschaftler:innen. Die Digitalisierung von Kulturgut und dessen Zugänglichma-
+chung stellt aber auch andere Nutzungsgruppen in den Fokus. Genannt seien die
+kulturinteressierte Öffentlichkeit und der Bildungsbereich.
+
+Mit dem Zugang zu Digitalisaten ist im Allgemeinen die öffentliche Bereitstellung
+der digitalen Objekte per Web-Anwendung gemeint, über die sie in der Regel entgeltfrei
+und ortsunabhängig verfügbar gemacht werden. Dieser Umstand rührt freilich daher,
+dass der Schwerpunkt von Digitalisierungsvorhaben im Bibliotheksbereich bislang auf
+urheberrechtlich nicht mehr geschütztem Material liegt. Die Digitalisate lassen sich auf
+diese Weise vollständig im Browser betrachten, durchblättern und potenziell auch aus-
+drucken, herunterladen und offline weiterverwenden. Bereitgestellt werden in der
+Regel allerdings nicht die Masterfiles, sondern Ansichtsversionen mit einer niedrigeren
+Dateigröße. Die eingesetzten Web-Anwendungen erlauben den Zugang sowohl her-
+kömmlich über den Desktop-Browser als auch über mobile Endgeräte, wobei hier groß-
+formatige Tablets eine bessere Nutzungserfahrung ermöglichen.
+
+5.1 Typen von Zugangsportalen im nationalen und
+internationalen Überblick
+
+Grundsätzlich lässt sich feststellen, dass alle Kulturerbe-Einrichtungen, die die Digitali-
+sierung ihrer Bestände oder zumindest eines Teils davon als ihre Aufgabe angenommen
+haben, diese auch direkt zugänglich machen bzw. dies über einen Dienstleister tun. Das
+gilt jedenfalls insoweit, wie es die jeweiligen rechtlichen Rahmenbedingungen ermögli-
+chen. Gerade für Bibliotheken, die sich auf die Digitalisierung urheberrechtsfreier
+Werke konzentrieren, bedeutet dies, dass sie ihre Bestände in digitalisierter Form mit
+
+ Burga 2023.
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 615
+
+deutlich geringeren organisatorischen Hürden anbieten können, als dies für die analo-
+gen Originale der Fall ist. Denn für die Arbeit mit diesen Beständen ist weder eine An-
+meldung noch die räumliche Präsenz in der Bibliothek vor Ort erforderlich.
+
+Digitalisierte Materialien aus dem Kulturbereich werden auf unterschiedlichen
+Wegen zugänglich gemacht – durch die besitzenden Einrichtungen selbst sowie durch
+übergreifende Zugangs- und Nachweisportale. Diese Systeme fungieren in der Regel als
+Aggregatoren, d. h. sie sammeln, vereinheitlichen, verwalten und halten Metadaten von
+Kultur- und Wissenseinrichtungen vor und geben sie ggf. an Kultur- und Wissensplatt-
+formen weiter.17 In der Regel verbleiben die Digitalisate selbst bei der besitzenden Ein-
+richtung, es gibt aber auch Aggregatoren, bei denen die Digitalisate integriert sind
+(z. B. bavarikon). Aggregatoren haben je nach Ausrichtung eine unterschiedliche Abde-
+ckung, die regional oder national, sparten-, fach- oder themenspezifisch oder durch
+ihre Entstehungszeit bestimmt sein kann. Die nachfolgend beschriebenen Herangehens-
+weisen, die üblicherweise nebeneinander bzw. aufeinander aufbauend verfolgt wer-
+den, können unterschieden werden.
+
+5.1.1 Sammlungs- bzw. einrichtungsbezogene Zugänge
+
+Bibliotheken, die auch die dazugehörigen Originale besitzen, bzw. Digitalisierungszen-
+tren bieten die eigenen Digitalisate auf lokalen Plattformen an – meist gegliedert
+nach Sammlungen, Fachzugehörigkeit oder Materialart. Beispiele sind die Digitalen
+Sammlungen des Münchener Digitalisierungszentrums (MDZ) der Bayerischen Staats-
+bibliothek,18 das Angebot des Göttinger Digitalisierungszentrums (GDZ) an der SUB
+Göttingen,19 die Digitalisierten Sammlungen der Staatsbibliothek zu Berlin in der Stif-
+tung Preußischer Kulturbesitz20 und die SLUB Sammlungen digital der Sächsischen
+Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB).21 Auch eine
+Vielzahl anderer Bibliotheken verfügt über derartige Zugangsmöglichkeiten zu eige-
+nen digitalen Sammlungen. Digitale Sammlungen werden aber nicht nur über dezi-
+dierte Zugangsplattformen angeboten, sondern zusätzlich in der Regel auch in die
+lokalen Kataloganwendungen integriert oder gemeinsam mit genuin elektronischen
+Publikationen (institutionelle Repositorien) präsentiert.
+
+ https://pro.deutsche-digitale-bibliothek.de/glossar/aggregator (12.06.2023)
+ https://www.digitale-sammlungen.de/ (12.06.2023).
+ https://gdz.sub.uni-goettingen.de/ (12.06.2023).
+ https://digital.staatsbibliothek-berlin.de/ (12.06.2023).
+ https://digital.slub-dresden.de/ (12.06.2023).
+
+
+
+616 Reinhard Altenhöner und Martin Hermann
+
+5.1.2 Themenspezifische Portale
+
+Darunter fallen einrichtungsübergreifende Angebote, die digitale Inhalte zu einem The-
+menkomplex bereitstellen und gegebenenfalls zusätzlich erschließen, aufbereiten, kon-
+textualisieren und miteinander verknüpfen. Ein Beispiel dafür bietet das Portal Bach
+Digital.22 Es greift für die Präsentation der digitalen Inhalte auf die Bestände derjenigen
+Einrichtungen zurück, die die Originalobjekte besitzen und digitalisiert haben.
+
+5.1.3 Einrichtungsübergreifende fach- oder spartenspezifische Zugänge
+
+Fachspezifische Zugänge zu digitalen Inhalten (und Nachweisen von nicht-digitalen
+Quellen) bieten in Deutschland die Portale der DFG-geförderten Fachinformations-
+dienste. Darunter fallen insbesondere in den Geisteswissenschaften auch digitalisierte
+Buchbestände. Zugangs- und Nachweisplattformen gibt es selbstverständlich auch au-
+ßerhalb des Bibliotheksbereichs mit einem dezidiert spartenspezifischen Fokus. Ge-
+nannt seien hier beispielhaft das Archivportal Europe23 für den Bereich der Archive,
+das European Film Gateway24 für Kinematheken, die Biodiversity Heritage Library
+(BHL)25 mit digitalisierten Quellen zur Artenvielfalt sowie museum-digital26 für den
+Bereich der Museen.
+
+5.1.4 Spartenübergreifende Zugänge auf regionaler, nationaler und
+internationaler Ebene
+
+Übergreifende Zugangs- bzw. Nachweisportale für digitalisierte Kulturgüter gibt es
+auch auf regionaler Ebene (in Deutschland z. B. Kulturerbe Niedersachsen27, LEO-
+BW28 oder bavarikon)29, mit nationaler Ausrichtung (beispielweise die DDB30 in
+Deutschland, Gallica31 in Frankreich und die Digital Public Library of America –
+DPLA)32 oder weltweit (die World Digital Library in den USA – WDL33). In der Eu-
+
+ https://www.bach-digital.de (12.06.2023).
+ https://www.archivesportaleurope.net/ (12.06.2023).
+ https://www.europeanfilmgateway.eu/ (12.06.2023).
+ https://www.biodiversitylibrary.org/ (12.06.2023).
+ https://www.museum-digital.de/ (12.06.2023).
+ https://kulturerbe.niedersachsen.de/ (12.06.2023).
+ https://www.leo-bw.de/ (12.06.2023).
+ https://www.bavarikon.de/ (12.06.2023).
+ https://www.deutsche-digitale-bibliothek.de/ (12.06.2023).
+ https://gallica.bnf.fr/ (12.06.2023).
+ https://dp.la/ (12.06.2023).
+ https://www.wdl.org/ (12.06.2023).
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 617
+
+ropeana34 sind Digitalisate aus ganz Europa, in der WDL Digitalisate von Spitzenstü-
+cken weltweit zusammengeführt. Diese Vorhaben sind, auch wenn der Name teil-
+weise anderes vermuten lässt, oft nicht auf den Bibliotheksbereich beschränkt.
+Stattdessen führen sie digitale Sammlungen aus mehreren Kulturdomänen zusam-
+men – klassischerweise zumindest von Archiven, Bibliotheken und Museen (DDB,
+DPLA, Europeana).
+
+Die DDB ist als kooperatives Bund-Länder-Vorhaben angelegt und wird von einem
+Kompetenznetzwerk aus 15 Kultureinrichtungen in ganz Deutschland getragen. Neben
+der Bereitstellung eines zentralen und spartenübergreifenden Zugangsportals für digi-
+tale Objekte aus Kultur und Wissenschaft verfolgt sie das Ziel, Kultur- und Wissen-
+schaftseinrichtungen auf dem Gebiet der Digitalisierung und der Aufbereitung und
+Bereitstellung digitaler Inhalte miteinander zu vernetzen. Die DDB bildet auch den natio-
+nalen Aggregationsknoten für die Europeana. Die Beta-Version ging im November 2012
+online, die erste Vollversion wurde im März 2014 freigeschaltet.
+
+Den unterschiedlichen Formen übergreifender Zugangsportale ist gemein, dass
+sie auf den einmal lokal bereitgestellten Digitalisaten und Metadaten der daran betei-
+ligten Einrichtungen aufbauen – sofern der digitale Content nicht durch das zentrale
+Angebot selbst gehostet und vorgehalten wird (wie dies bei BHL-Europe und Museen
+Nord der Fall ist). Im Gegensatz zu lokalen Angeboten müssen für einrichtungs- und
+spartenübergreifende Zugangsportale für digitalisierte Kulturgüter auf nationaler
+oder gar internationaler Ebene große technische und organisatorische Hürden ge-
+nommen werden, die sich aus der Zusammenführung und Harmonisierung der In-
+halte aus den unterschiedlichen Quellen ergeben. Die entsprechenden Vorhaben
+werden daher oft durch langfristig angelegte Projekte angeschoben.
+
+5.2 Grundsätzliche Funktionsweise
+
+Zugangssysteme für Digitalisate sind im Wesentlichen mit zwei Grundfunktionen aus-
+gestattet: Recherche und Discovery sowie ein direkter Objektzugriff. Darüber hinaus
+bieten viele Portale zusätzliche Funktionen, wie z. B. die Erstellung von Merklisten
+oder Favoriten, das Speichern von Suchanfragen, das Exportieren von Zitationen und
+die Aufbereitung von Ausgabeformaten, die Fokussierung auf spezielle Interessensge-
+biete oder das Einrichten von Benachrichtigungen.
+
+Voraussetzung für den Zugang zu einzelnen digitalen Objekten sind Recherche-
+und Discovery-Funktionen, die grundsätzlich den zur Verfügung stehenden Möglichkei-
+ten von Bibliothekskatalogen/Discovery-Systemen entsprechen. Häufig ist das Browsen
+nach Sammlungen auf Basis formaler und/oder inhaltlicher Kriterien eine vergleichs-
+weise prominente Sucheinstiegsoption. Über diesen Weg können Nutzer:innen die Ob-
+
+ https://www.europeana.eu/ (12.06.2023).
+
+
+
+618 Reinhard Altenhöner und Martin Hermann
+
+jekte einzelner Sammlungen entdecken, ohne dafür eine explizite Suchanfrage zu for-
+mulieren. Die Integration der Volltexte der Digitalisate in den Suchindex ist Standard,
+sofern eine Optical Character Recognition (OCR) durchgeführt wurde.
+
+Auf den Einzelansichten der Objekte werden neben gängigen Katalogdaten vor
+allem die eigentlichen Inhalte mittels eines Content Viewers präsentiert. Diese erlau-
+ben oftmals unterschiedliche Ansichten der Objekte sowie das Vergrößern von Aus-
+schnitten und das Drehen einzelner Seiten. Im Falle von Druckwerken ermöglichen
+sie zudem die struktur- bzw. seitenbasierte Navigation sowie die Suche innerhalb von
+Einzelobjekten.
+
+Im einfachsten Fall kann ein PDF-Reader die Funktionen eines Content Viewers er-
+füllen, wenn das Digitalisat als PDF-Datei vorgehalten wird. Zumeist werden die in Form
+einzelner Images abgelegten Objekte allerdings in integrierten Web-Anwendungen dar-
+gestellt. Der am weitesten verbreitete Content Viewer ist der DFG-Viewer, wohl auch,
+weil für Digitalisate aus DFG-geförderten Vorhaben die Möglichkeit einer Anzeige in die-
+sem Viewer verpflichtend ist. Fast alle Anbieter lokaler und übergreifender Zugangs-
+plattformen präsentieren ihre Digitalisate allerdings zusätzlich oder exklusiv in eigenen
+Viewern (z. B. die Deutsche Nationalbibliothek – DNB – mit dem DNB Bookviewer). Seit
+dem Aufkommen des IIIF-Standards (International Image Interoperability Framework)35
+für Bild-Auslieferungsschnittstellen in den 2010er Jahren setzen immer mehr Einrichtun-
+gen auf IIIF-kompatible Viewer, die eine komfortable Anzeige und den Einsatz diverser
+Zusatzwerkzeuge ermöglichen (z. B. Bayerische Staatsbibliothek und Staatsbibliothek zu
+Berlin mit dem Mirador-Viewer). Für die Darstellung von 3D-Objekten gibt es eine
+immer größere Anzahl an 3D-Viewern, sowohl kommerzielle Angebote36 als auch Open-
+Source-Entwicklungen.37 Bei den nichtkommerziellen Lösungen ist oftmals die Nachhal-
+tigkeit und Weiterentwicklung des 3D-Viewers unklar. Mit dem DFG-3D-Viewer ist aller-
+dings ein Pendant zum herkömmlichen DFG-Viewer in der Entwicklung.
+
+5.3 Übergreifende Zugangsplattformen
+
+Bei dem oben dargestellten einrichtungsübergreifenden Zugang zu digitalisierten Ob-
+jekten ist eine Reihe von Besonderheiten zu beachten. So ist grundsätzlich die Syn-
+chronisation der verteilt erstellten und vorgehaltenen Daten erforderlich – also ein
+Datenaustausch zwischen den beteiligten Einrichtungen und der übergreifenden
+Plattform. Dazu müssen zumindest die Metadaten von den einzelnen Anbietern an
+
+ https://iiif.io/ (12.06.2023)
+ Z. B. Sketchfab 3D Viewer (https://sketchfab.com/, 12.06.2023), u. a. im Einsatz bei LEO-BW.
+ Z. B. Smithsonian Voyager (https://3d.si.edu/open-source-resources), u. a. im Einsatz bei der LMU
+München, oder kompakt (https://kompakkt.de/home), an dem im Rahmen der NFDI4Culture verschie-
+dene Einrichtungen der öffentlichen Hand arbeiten (https://nfdi4culture.de/news/flexfunds-2022-kom
+pakkt.html (12.06.2023).
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 619
+
+das zentrale Portal übertragen werden. Dies kann (a) durch dezidierte Lieferung,
+(b) per regelmäßigem Harvesting oder (c) durch die Übertragung von Suchanfragen
+und -ergebnissen zur Laufzeit geschehen. In den meisten Anwendungen wird heute
+einer der ersten beiden Ansätze gewählt, da der Cross-Searching-Ansatz (c) Schwierig-
+keiten in Bezug auf Performanz und Aufbereitung der Daten (Sortierung, Ranking, ein-
+heitliche Darstellung von Suchergebnissen) mit sich bringt und nicht gut skaliert. Die
+Ansätze (a) und (b) implizieren die grundsätzliche Notwendigkeit der zentralen Spei-
+cherung der Metadaten. Der Austausch von Daten durch Lieferung (a) eignet sich vor
+allem für abgeschlossene Sammlungen, für die im Laufe der Zeit keine Veränderungen
+oder Erweiterungen zu erwarten sind. Für den regelmäßigen und automatisierten Da-
+tenabgleich (b), der sich bei allen wachsenden Sammlungen empfiehlt, kommt üblicher-
+weise das OAI-Protokoll zum Einsatz. Der entscheidende Faktor für die tatsächliche
+Synchronität der Daten zwischen Liefer- und Zugangssystem bildet dabei die Frequenz
+der Update-Zyklen.
+
+5.3.1 Heterogenität von Daten und ihre Konsequenzen
+
+Kennzeichnend für übergreifende Zugangs- bzw. Nachweissysteme ist die (potenzielle)
+Heterogenität von Metadaten und sonstigen technischen Parametern (beispielsweise die
+Größe von Vorschaubildern), die der Anforderung an ein einheitliches Internformat als
+Voraussetzung für eine übergreifende feldbasierte Suche, eine gemeinsame Navigations-
+struktur und ein einheitliches Erscheinungsbild entgegenlaufen. Diese Heterogenität
+muss auf Seiten der Datenlieferanten und/oder des übergreifenden Systems aufgelöst
+werden.
+
+Zu erwähnen sind in diesem Zusammenhang vor allem die Standardisierungsbe-
+mühungen für Bibliotheksformate, die sich unter anderem in den DFG-Richtlinien zur
+Digitalisierung niederschlagen (hier vor allem die Verwendung von METS/MODS). Die
+Praxis beim Aufbau übergreifender Nachweissysteme zeigt allerdings, dass wegen der
+unterschiedlichen Verwendung der Formate im Einzelfall dennoch Anpassungen er-
+forderlich sind.
+
+Eine besondere Dimension erfährt die Problematik der Heterogenität von Daten-
+formaten im Falle spartenübergreifender Vorhaben wie der Europeana oder der DDB.
+Hier fließt regelmäßig ein erheblicher Teil der Aufwendungen in die Transformation
+der unterschiedlichen Eingangsformate in ein gemeinsames Internformat (beispiels-
+weise Europeana Data Model) und deren konzeptionelle und technische Vorbereitung
+(Mapping) – und zwar unabhängig davon, ob für diesen Prozess grundsätzlich die je-
+weils liefernde Einrichtung (wie im Falle der Europeana) oder das übergreifende Sys-
+tem (wie bei der DDB) zuständig ist.
+
+Auf diese Weise kann es schnell dazu kommen, dass Dutzende oder gar Hunderte
+unterschiedlicher Sets von Mapping-Regeln für die verschiedenen Datenlieferanten
+eines übergreifenden Nachweissystems existieren, weil unterschiedliche Eingangsfor-
+
+
+
+620 Reinhard Altenhöner und Martin Hermann
+
+mate abgedeckt und selbst bei identischen Eingangsformaten oft providerspezifische
+Anpassungen vorgenommen werden müssen.
+
+Weil es sich bei der Datenlieferung an ein übergreifendes System in der Regel nicht
+um einen einmaligen Vorgang handelt, müssen die Mapping-Regeln und deren Zuord-
+nung zu den jeweiligen Datenlieferanten gespeichert und archiviert werden. Auch eine
+Versionierung ist erforderlich – nicht nur, weil die einzelnen Regelsets zumindest im
+Falle kleinerer Anpassungserfordernisse voneinander abgeleitet werden, sondern auch
+weil sich mit der Zeit die Beschaffenheit des tatsächlichen Lieferformats und die Anfor-
+derungen an das intern verwendete Zielformat der Transformation ändern können.
+Technisch werden dafür, ähnlich wie bei der Softwareentwicklung, Versionskontrollsys-
+teme verwendet wie SVN oder Git.
+
+5.3.2 Zentrale Datenhaltung
+
+Für übergreifende Zugangs- bzw. Nachweissysteme gibt es darüber hinaus drei unter-
+schiedliche Ausprägungen in Bezug auf den Umfang der zentral gehaltenen Daten:
+– Zentrale Speicherung ausschließlich von Metadaten: Vorschaubilder werden, falls
+
+sie auf dem Portal überhaupt angezeigt werden, direkt aus den lokalen Systemen
+eingebunden (Beispiel Europeana). Als Probleme können längere Ladezeiten, un-
+terschiedliche Servicelevel oder temporäre Nicht-Verfügbarkeit auftreten.
+
+– Zentrale Speicherung von Metadaten und Vorschaubildern: Damit liegen alle
+Daten, die für das Zugangs- und Nachweisportal unmittelbar benötigt werden, di-
+rekt vor, woraus sich auch ein Vorteil bei der Performanz ergibt. Der Zugriff auf
+die vollständigen Digitalisate wird (wie auch im ersten Szenario) über einen Link
+realisiert, der in der Regel auf die lokale Repräsentation des Objekts beim besit-
+zenden Datengeber oder zum DFG-Viewer führt (Beispiel: DDB).
+
+– Zentrale Speicherung von Metadaten und Digitalisaten (Beispiel: BHL-Europe
+oder DDB): Diese Option ist besonders aus Sicht kleinerer Einrichtungen interes-
+sant, die eine eigene Infrastruktur mit ausreichendem Servicelevel nicht zur Ver-
+fügung stellen können oder wollen. Grundsätzlich können die Einrichtungen in
+diesem Szenario vollständig auf eine eigene (dauerhafte) Datenhaltung und ein
+lokales Zugangssystem verzichten. Dieser lokale Blick kann stattdessen durch
+eine entsprechende Sicht auf das zentrale Zugangssystem realisiert werden.
+
+Die Mehrzahl der existierenden übergreifenden Zugangsplattformen bedient sich
+einer der beiden erstgenannten Ansätze. Aus Sicht der Nutzer:innen unterscheiden
+sie sich nicht – abgesehen von der Performanz bei der Anzeige der Vorschaubilder.
+Die Gründe für diese verteilte Architektur liegen oftmals in der kooperativen Ausrich-
+tung der zugrundeliegenden Vorhaben, die einen zentralen Nachweis und damit eine
+erhöhte Sichtbarkeit der lokalen Angebote beinhaltet und dabei die Bedeutung der
+einzelnen Einrichtungen hinter der zentralen Plattform nicht in den Hintergrund tre-
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 621
+
+ten lassen soll (Branding). Aus Sicht der Nutzer:innen ergibt sich daraus allerdings die
+Situation, mit ganz unterschiedlichen Lokalsystemen und entsprechend heterogenen
+Design- und Bedienkonzepten konfrontiert zu werden.
+
+5.3.3 Stabile Identifier
+
+Eine grundsätzliche Anforderung für digitale Ressourcen ist das Vorhandensein stabiler
+Bezeichner (identifier), mit denen Objekte zu einem beliebigen Zeitpunkt wiedergefun-
+den, verlinkt und zitiert sowie gegebenenfalls auch aktualisiert bzw. synchronisiert
+werden können. Die Notwendigkeit stabiler Identifier ergibt sich auf zwei unterschied-
+lichen Ebenen – für die Metadatensätze, die zum übergreifenden System übertragen
+werden, und für die digitalen Objekte, die bei den lokalen Einrichtungen verbleiben
+und daher verlinkt werden müssen.
+
+Stabile und eindeutige Identifier für die Datensätze sind erstens vor allem für den
+Fall von Daten-Updates notwendig, damit die Neulieferung eines Datensatzes für ein be-
+reits vorhandenes Objekt erkannt wird und nicht zu einer Doppelung des Eintrags im
+Nachweissystem führt. Aber auch für etwaige Updates überdauernde Objektanreiche-
+rungen im übergreifenden System – z. B. Verknüpfungen mit Normdaten oder mit an-
+deren Objekten oder Einordnung in persönliche Sammlungen – sind dauerhafte und
+persistente Identifier erforderlich. Sie müssen durch die jeweiligen lokalen Systeme rea-
+lisiert und gepflegt werden. Ändern sich diese Bezeichner und werden bei einer Neulie-
+ferung von Datensätzen andere Identifier verwendet als bei einer vorherigen Abgabe,
+ist die Zuordnung zwischen bereits vorhandenen und neu gelieferten Datensätzen
+nicht möglich.
+
+Zweitens sind persistente Identifier für die eigentlichen digitalen Objekte erfor-
+derlich – also stabile URLs (Uniform Resource Locators) zu den Binärdaten oder zur
+Landing Page eines Objekts im System der liefernden Einrichtung. Auch die Stabilität
+dieser Identifier muss letztlich durch entsprechende Vorkehrungen bei den liefern-
+den Systemen gesichert werden. Daran ändert auch die Verwendung eines extern be-
+triebenen PI-Systems, etwa dem URN-Dienst38 (Uniform Resource Name) der DNB
+nichts, da das Nachhalten von PI- und URL-Zuordnungen organisatorisch nur durch
+die das lokale System betreibende Einrichtung geleistet werden kann, die Änderungen
+an den PI-Dienst melden muss. Ändern sich Links auf die digitalen Objekte beim Daten-
+geber, ohne dass der PI-Dienst diese kennt und korrekt auflöst, ist den Endnutzer:innen
+der Rückverweis auf das Digitalisat bei der besitzenden Einrichtung versperrt – es
+kommt zu broken links.
+
+ https://www.dnb.de/urnservice (12.06.2023).
+
+
+
+622 Reinhard Altenhöner und Martin Hermann
+
+5.3.4 Dubletten
+
+Einen weiteren Aspekt übergreifender Zugangssysteme bildet die Dublettenproblema-
+tik. Sie entsteht nicht nur durch sich ändernde Identifier bei der Neulieferung bereits
+vorhandener Sammlungen, sondern auch durch die Verwendung unterschiedlicher Lie-
+ferwege. Z. B. liefern deutsche Kultureinrichtungen teilweise direkt an die Europeana
+bzw. werden über spartenspezifische Plattformen aggregiert, während die DDB in ihrer
+Funktion als nationaler Aggregator für Europeana dieselben Daten ebenfalls nachweist
+und an Europeana weitergibt. Dasselbe Problem tritt durch Aggregatoren innerhalb
+Deutschlands ebenfalls auf. Die Lösung besteht entweder in einer strikten Nachverfol-
+gung der Lieferwege und einer Beschneidung von Aggregationsfunktionen (z. B. liefert
+die DDB einzelne Bestände auf Wunsch nicht an die Europeana weiter, falls andere Lie-
+ferwege bereits vereinbart sind) oder in der Verwendung stabiler Identifier und deren
+Weitergabe durch Aggregatoren. Dadurch können Dubletten automatisch erkannt und
+eliminiert werden.
+
+5.4 Weiterentwicklung von Zugangsplattformen
+
+Die Weiterentwicklung von Zugangsplattformen für digitalisiertes Kulturgut ist zu
+einer Daueraufgabe der beteiligten Akteure aus dem Kulturbereich geworden. Das
+liegt zum einen an den wachsenden Beständen digitaler Sammlungen, an denen das
+Potenzial für die Präsentation und weitergehende Nutzbarkeit der Materialien erst
+deutlich wird. Zum anderen wird die Entwicklung durch ambitionierte Vorhaben mit
+einem übergreifenden Nachweis- und Vernetzungsanspruch wie die Europeana und
+die DDB befördert. Einen wichtigen Aspekt der verbesserten Zugänglichmachung digi-
+taler Bestände bildet die Unterstützung mobiler Endgeräte. Dabei muss zwischen der
+Optimierung der originären Webangebote für kleine Displays, die auf den mobilen
+Endgeräten im normalen Browser laufen (auch als Web-Apps bezeichnet) einerseits
+und der Implementierung nativer Apps für die gängigen Plattformen (Android und
+Apple) andererseits unterschieden werden. Aktuelle Portale werden heute bereits re-
+gelmäßig nach den Grundsätzen des Responsive Design39 auf der Basis von JavaScript
+oder HTML5 erstellt (z. B. das Portal der DDB). Sie lassen sich damit komfortabel auch
+mit dem Smartphone nutzen, weil die Elemente nicht einfach verkleinert, sondern an-
+ders angeordnet und gegebenenfalls auch ausgeblendet werden sowie an die auf
+Touchscreens basierenden Bedienkonzepte angepasst sind.
+
+ Unter Responsive Design wird eine Technik zur Gestaltung und Umsetzung von Webseiten ver-
+standen, durch die dynamisch auf die Eigenschaften des jeweils verwendeten Endgeräts (insbeson-
+dere die Bildschirmauflösung) reagiert und die Darstellung optimiert werden kann.
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 623
+
+Weniger fortgeschritten ist die Realisierung nativer Apps für Smartphones und Ta-
+blets als alternative Zugangsmöglichkeit für digitalisiertes Kulturgut. Konzeption und
+Umsetzung sind hier potenziell mit einem höheren Aufwand verbunden. Native Apps
+bieten gegenüber der reinen Optimierung von Webseiten auf mobilen Geräten aber
+auch zusätzliche Vorteile – so die Möglichkeit der lokalen Speicherung von Daten zur
+Offline-Nutzung digitaler Bestände oder die Nutzung des GPS-Empfängers zur Unter-
+stützung ortsbasierter Dienste, wie sie z. B. für den Kulturtourismus denkbar wären.
+Eines der wenigen Beispiele für existierende native Apps, die auf digitalisierten Kultur-
+gütern basieren, ist die App „Famous Books“ der Bayerischen Staatsbibliothek.40
+
+Zukünftige Erweiterungs- und Innovationsmöglichkeiten wie die Etablierung zu-
+sätzlicher Services ergeben sich vor allem aus der Wiederverwendbarkeit einmal be-
+reitgestellter Materialien und deren Metadaten. Diese Wiederverwendung kann auf
+lokaler Ebene stattfinden, indem eine Einrichtung ihre eigenen digitalen Sammlungen
+für weiterreichende Angebote nutzt. Ein Beispiel dafür bildet die digitale Bildersuche
+der Bayerischen Staatsbibliothek,41 die dafür ihre eigenen digitalen Bestände nach-
+nutzt und aus den Digitalisaten von Büchern und Handschriften die grafischen Abbil-
+dungen extrahiert hat.
+
+Noch vielfältigere Möglichkeiten der Weiterverwendung ergeben sich einerseits
+durch die Anreicherung der Daten über externe Quellen (beispielsweise Normdaten,
+Georeferenzdaten) und darauf basierende Verknüpfungen sowie andererseits durch
+die maschinenlesbare Bereitstellung der eigenen Daten über offene Schnittstellen
+nach außen. Ein Beispiel für die Anreicherung über externe Datenquellen bildet die
+Verknüpfung digitaler Objekte mit der Gemeinsamen Normdatei (GND),42 wie sie die
+DDB eingeführt hat. Über die dort realisierten Entitätenseiten, also aus verschiedenen
+Quellen maschinell zusammengezogenen Informationen etwa zu Personen, können
+einzelne Objekte in einen semantischen Zusammenhang zueinander gestellt werden.
+Auch die mögliche Anreicherung digitaler Objekte mit Texten oder Bildern aus der
+Wikipedia ist ein Beispiel für dieses Vorgehen.
+
+In eine andere Richtung weist die Öffnung der Bestände durch APIs (Application
+Programming Interface – Programmierschnittstelle). Dadurch wird es Dritten ermög-
+licht, die Daten und die dazugehörigen Such- und Zugriffsmethoden für ihre Zwecke
+nachzunutzen und sie in andere Kontexte zu stellen. Da zumindest im Bibliotheksbe-
+reich die Bereitstellung der Metadaten unter einer CC0-Lizenz (Creative-Commons-
+Lizenz 0)43 als Standard gesetzt ist und sie damit gemeinfrei gestellt sind, ergeben sich
+für die Nachnutzung dieser Daten nahezu unbeschränkte Möglichkeiten. Auch die digi-
+talen Objekte selbst oder zumindest niedrig aufgelöste Vorschauversionen sind vielfach
+gemeinfrei. Bei Reproduktionen urheberrechtsfreier visueller Werke entstehen gemäß
+
+ https://www.bsb-muenchen.de/recherche-und-service/apps/famous-books/ (12.06.2023).
+ https://bildsuche.digitale-sammlungen.de/ (12.06.2023).
+ https://www.dnb.de/gnd (12.06.2023).
+ Siehe https://creativecommons.org/publicdomain/zero/1.0/ (12.06.2023).
+
+
+
+624 Reinhard Altenhöner und Martin Hermann
+
+Urheberrechtsreform von 2021 ohnehin keine neuen Schutzrechte mehr.44 Auf dieser
+Grundlage stellen immer mehr Bibliotheken interessante Datensätze in sogenannten
+Bibliothekslabs zur Verfügung, so z. B. die DNB45 oder die Staatsbibliothek zu Berlin.46
+Durch das Bereitstellen öffentlicher APIs lässt sich der Kreis potenzieller Entwickler für
+zusätzliche Dienste und Applikationen signifikant erhöhen. Die standardisierten IIIF-
+APIs eignen sich hier in besonderer Weise. Das heißt, innovative Nutzungsmöglichkei-
+ten der eigenen Bestände müssen nicht mehr nur durch die bereitstellende Einrichtung
+realisiert werden. Von der Modularisierung des Zugangssystems durch die gezielte Ver-
+gabe von Entwicklungsaufträgen für einzelne Komponenten bis hin zur Auslobung er-
+gebnisoffener Programmierwettbewerbe bietet dieser Ansatz vielfältiges Potenzial, das
+es auszuschöpfen gilt. Durch die Veröffentlichung ihrer jeweiligen APIs und die Bereit-
+stellung der darüber ausgelieferten Daten unter CC0 haben die Europeana und die DDB
+die entscheidende Voraussetzung hierfür geschaffen.
+
+6 Stand der Digitalisierung und künftige
+Herausforderungen
+
+Die Digitalisierung hat sich in Deutschland als ein wichtiges Arbeitsfeld von Bibliotheken
+und anderen Einrichtungen der Kulturdomäne etabliert. Digitalisierungsprojekte und Di-
+gitalisierung, mehr aber noch die Nachbearbeitung und -bereithaltung der entsprechen-
+den Daten, Werkzeuge und Zugangssysteme sind ein integraler Bestandteil des Portfolios
+vieler Kulturerbe-Einrichtungen, mit steigender Tendenz. Daher wird die Recherche
+nach und der Zugang zu den Ergebnissen der Digitalisierung (Digitalisate, Volltexte, An-
+reicherungen) zunehmend auch in die generellen Nachweissysteme der Einrichtungen
+integriert. Über einige Jahre hinweg wurde die Digitalisierung – angefacht durch das
+Google Books Library Project – zum Gegenstand einer vergleichsweise intensiv geführten
+kulturpolitischen Debatte. Das damit verbundene hohe Wahrnehmungspotenzial führte
+auf europäischer Ebene zu einer Intensivierung der Anstrengungen für die Sichtbarkeit
+von Digitalisaten aus dem Bereich des Kulturerbes, insbesondere durch die Etablierung
+der Europeana und einer spartenübergreifenden Aggregationsinfrastruktur für Digitali-
+sate. Darüber hinaus unternahm die Europäische Union erste Schritte zur Regelungen
+des Umgangs mit vergriffenen Werken. Diesem Engagement auf europäischer Ebene ent-
+spricht in Deutschland die DDB, die spartenübergreifend die Nachweise zu Digitalisaten
+in einem Datenpool zusammenführt und unter einer Rechercheoberfläche anbietet.
+
+ Klimpel 2021: S. 7–9.
+ Siehe https://www.dnb.de/dnblabsets (12.06.2023).
+ Siehe https://lab.sbb.berlin/daten/ (12.06.2023).
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 625
+
+Heute weist das nationale Aggregationsportal DDB Metadaten von rund 47,3 Mil-
+lionen Objekten aus verschiedenen Sparten der Kultur nach. Der Anteil der hinter
+den Beschreibungen stehenden verfügbaren digitalen Objekte liegt mit 17,4 Millionen
+digitalisierten Werken mittlerweile bei 36 %– Tendenz steigend. Trotz der signifikan-
+ten Fortschritte bei der spartenübergreifenden Digitalisierung von Kulturgut aus
+deutschen Einrichtungen muss man aber auch eine gewisse Stagnation bei der Digita-
+lisierung von zentralen Bibliotheksbeständen konstatieren. Die Grundidee einer voll-
+ständigen Digitalisierung des gedruckten Kulturerbes (oder darüber hinaus) wird in
+ihrer Umsetzung noch viel Zeit beanspruchen. So wurde das ehrgeizige Ziel, den
+Druckbestand bis 1800 in deutschen Bibliotheken vollständig zu digitalisieren,47 bei
+Weitem bisher nicht erreicht, auch wenn hier bereits nennenswerte Prozentanteile
+digitalisiert sind.48 Für das 16. und 17. Jahrhundert liegt die Digitalisierungsquote zwi-
+schen 60 und 70 %, für das 18. Jahrhundert bei 50 %. Für das 19. Jahrhunderts dürfte
+die Quote deutlich niedriger liegen.49
+
+Im 20. Jahrhundert schließlich steigt die Buch- und Zeitschriftenpublikation noch
+einmal enorm an, und aus diesem Zeitraum wurde bislang insbesondere aufgrund der
+urheberrechtlichen Beschränkungen wenig digitalisiert. Um diese Lücke zumindest in
+Ansätzen zu füllen, bereitet die DFG im Rahmen ihres Förderprogramms eine Pilot-
+phase zur Digitalisierung und Bereitstellung rechtebewehrter Objekte vor. Die urheber-
+und lizenzrechtliche Klärung ist hierbei Voraussetzung für den allgemeinen und freien
+Zugang auf das digitalisierte Material. Bis zur Umsetzung bleiben Digitalisierungspro-
+jekte, die Bestand aus dem vergangenen Jahrhundert digitalisieren, die Ausnahme. Er-
+wähnenswert sind hierbei Projekte zu Zeitungsbeständen aus den ersten Jahrzehnten
+sowie Projekte wie DigiZeitschriften,50 in dem Zeitschriften und Serien digitalisiert wur-
+den, oder die Digi20Plattform,51 auf der auf Grundlage entsprechender vertraglicher
+Vereinbarungen auch urheberrechtlich geschützte Werke zugänglich gemacht werden.
+Für die Digitalisierung von ausgewählten Werken mit Erscheinungsjahr vor 1966 stand
+zudem von 2015 bis 2021 der aktuell ausgesetzte Lizenzierungsservice Vergriffene
+Werke (VW-LiS) der Deutschen Nationalbibliothek zur Verfügung, in dessen Rahmen
+über 45 000 Werke zur potenziellen Digitalisierung registriert wurden.52 Angesichts von
+bis zu 6 Millionen Einheiten für den in Frage kommenden urheberrechtsbewehrten
+Zeitraum ist hier noch viel Potenzial. Bis zur Umsetzung von notwendigen Anpassungen
+
+ Bürger 2011: S. 136.
+ Vgl. Beyer 2022: S. 85.
+ Angaben der VD-Bibliotheken im August 2023, derzeit in Vorbereitung zur Publikation.
+ https://www.digizeitschriften.de/ (12.06.2023). Auch Backfiles von Verlagen wurden z. T. von den
+Verlagen selbst digitalisiert.
+ https://digi20.digitale-sammlungen.de/ (12.06.2023).
+ Im Gegensatz zum relativen Erfolg des Lizenzierungsservices für vergriffene Werke stehen die
+Zahlen von verwaisten Werken: Gerade einmal etwas mehr als 300 literarische Werke sind in der EU-
+Datenbank durch deutsche Einrichtungen registriert worden.
+
+
+
+626 Reinhard Altenhöner und Martin Hermann
+
+des Urheberrechtsgesetzes und des Verwertungsgesellschaftengesetzes an die Vorgaben
+des Europarechts ist die Lizenzierung und damit die Digitalisierung vergriffener Werke
+allerdings nicht möglich.
+
+Ob sich nach Wiederaufnahme des Lizenzierungsservices dieses Verfahren auch
+für Massendigitalisierungsprojekte im Sinne von Google Books eignet, muss sich erst
+noch zeigen. Das Google-Projekt zeigt grundsätzlich, dass auch Projekte dieser Grö-
+ßenordnung mit entsprechenden Ressourcen umsetzbar sind. Dafür wäre aber sicher-
+lich ein flankierendes übergreifendes Programm erforderlich, das von Bund und
+Ländern über einen langen Zeitraum hinweg finanziert und die entsprechende Infra-
+struktur aufbauen hilft, um die Digitalisierung zu ermöglichen. Ein solches Sonder-
+programm mit einem finanziellen Rahmen von 300 bis 400 Millionen Euro für eine
+vollständige Digitalisierung der Druckwerke – so zumindest die Berechnungen der
+notwendigen Investitionsmittel in den 2000er – ist allerdings nicht absehbar.
+
+Nimmt man den kaum abschätzbaren Bestand an grundsätzlich (respektive recht-
+lich) digitalisierbarem Material aus Archiven und Museen bzw. der Kulturdomäne
+insgesamt in den Blick und nimmt dabei zusätzlich auch noch nichttextuelle Objekte
+wie Ton- und Bewegtbilddokumente ins Visier, wird die Größenordnung der erforder-
+lichen Kraftanstrengung noch deutlicher. Da Sammlungen in diesen Einrichtungen oft
+auch noch nicht maschinenlesbar erschlossen sind, müssen hier Vorleistungen einkal-
+kuliert werden, die den Zeit- und Ressourcenbedarf weiter steigen lassen. Insofern
+wird die Digitalisierung bis auf Weiteres in enger Anbindung an die Bedarfe wissen-
+schaftlicher Forschungscommunities erfolgen, partiell gebündelt durch materialspezi-
+fische Aktivitäten wie zum Beispiel im Bereich der Zeitungsdigitalisierung.
+
+Im Rahmen der Entwicklungen rund um die DDB wurde angesichts des nach wie
+vor heterogenen Bildes der Digitalisierungslandschaft in Deutschland der Bund vor
+allem durch ein Thesenpapier des Deutschen Bibliotheksverbands (DBV) verstärkt zum
+Adressaten der Forderungen nach einer nationalen Digitalisierungsstrategie.53 Letztlich
+wurden im Rahmen der Digitalisierungsoffensive des Beauftragten der Bundesregierung
+für Kultur und Medien 2013 erstmals 5 Millionen Euro aus dem Bundeshaushalt für die
+Digitalisierung von Büchern, Archivalien und Museumsgut zur Verfügung gestellt. In der
+Folge konzentrierte sich die Bundesförderung vor allem auf IT-Infrastruktur und weni-
+ger auf die Produktion von digitalem Content. So steht in der aktuellen Digitalstrategie
+der Bundesregierung die Entwicklung der Deutschen Digitalen Bibliothek als nationale
+Internetplattform für die Präsentation von Kulturerbe und Wissen an erster Stelle.54
+
+Die Retrodigitalisierung dagegen wird punktuell und anlassbezogen unterstützt.
+So wurden in Reaktion auf die COVID-19-Pandemie im Rahmen von NEUSTART KUL-
+TUR zwei befristete Förderprogramme aufgelegt: Für die „Zielgerichtete Digitalisie-
+
+ Deutscher Bibliotheksverband 2011.
+ Vgl. Bundesregierung.
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 627
+
+rungsförderung bei Kultureinrichtungen aus dem Netzwerk der DDB“ standen etwa
+2,2 Millionen Euro zur Verfügung,55 beim Digitalprogramm WissensWandel wurden
+knapp 11,4 Mio. für die Digitalisierung ausgegeben.56
+
+In der Gesamtschau zeigt sich damit allerdings, dass es bislang weder auf europäi-
+scher noch auf Ebene des Bundes oder der Länder gelungen ist, nachhaltige und vor
+allem langfristig finanzierte Programme zur Digitalisierung von Kulturgut in Bibliothe-
+ken, Archiven und Museen ins Leben zu rufen. Eine nationale, langfristig und übergrei-
+fend ausgerichtete Strategie, die Förderer und digitalisierende Einrichtungen in einer
+gemeinsamen Planung von Ressourcen und Umsetzung inkl. Infrastruktur zusammen-
+führt und so die Digitalisierung weiter stimuliert, ist aus heutiger Sicht unwahrscheinlich.
+Zudem konnten auch in den regulären Etats der allermeisten Gedächtnisinstitutionen bis
+heute kaum bzw. keine fixen Posten für systematische, groß angelegte Digitalisierungs-
+vorhaben dauerhaft etabliert werden. Die Abhängigkeit von den Fördertöpfen ist daher
+nach wie vor und bis heute ein prägendes Merkmal der deutschen Digitalisierungsland-
+schaft geblieben.
+
+Auf nationaler Ebene ist dabei nach wie vor die DFG die wesentliche Finanzie-
+rungsquelle von Digitalisierungsprojekten. Die Förderung von anderen Materialarten
+und Objektklassen ist ausgedehnt worden und unter definierten Voraussetzungen in-
+zwischen auch mit Beständen in Einrichtungen außerhalb Deutschlands möglich. Die
+Initiative, zukünftig auch rechtebewehrte Objekte digitalisieren zu wollen und dafür
+adäquate Vorgehensweisen zu definieren, wurde 2022 ergriffen, mit dem Ziel, auch
+solche Materialien Forschung und Wissenschaft zugänglich machen zu können. Diese
+langfristig angelegte Förderstrategie der DFG wird durch eine Reihe von Landesinitia-
+tiven flankiert, die – zum Teil komplementär und nicht explizit nur den Interessen
+von Wissenschaft und Forschung verpflichtet sind – eigene Akzente setzen. Dennoch
+haben diese Aktivitäten ihrem Volumen nach nur ergänzenden Charakter gegenüber
+der Förderung der DFG.
+
+Das seit mehr als 25 Jahren bestehende DFG-Programm hat der Digitalisierung in
+Deutschland nicht nur finanziell, sondern auch technisch und organisatorisch den Weg
+gebahnt. Auf der so entstandenen Förder- und Arbeitsstruktur setzen die DDB, aber
+auch nahezu alle anderen Förderstrukturen auf. Trotz der damit verbundenen Errun-
+genschaften ist diese Fokussierung der Finanzierungsförderung auf die DFG allerdings
+auch nicht unproblematisch: Gerade kleine Einrichtungen haben große Schwierigkei-
+ten, überhaupt die Fördervoraussetzungen der DFG zu erfüllen und können somit nicht
+an den Programmen partizipieren.
+
+ https://www.deutsche-digitale-bibliothek.de/content/blog/die-zielgerichtete-digitalisierungsfoerde
+rung-erreicht-ein-breites-spektrum-kultur-und-wissenseinrichtungen/ (12.06.2023). Bemerkenswert ist
+hierbei der insgesamt angemeldete Förderbedarf von 16,6 Mio. Euro, der die bestehende Unterfinan-
+zierung der Digitalisierung verdeutlicht.
+ Deutscher Bibliotheksverband 2023.
+
+
+
+628 Reinhard Altenhöner und Martin Hermann
+
+Die Entwicklungen gerade in der Massendigitalisierung stellen die beteiligten
+Gedächtnisinstitutionen zudem vor neue Herausforderungen im Hinblick auf die Si-
+cherung der Nachhaltigkeit von Digitalisierungsprojekten. Auf der einen Seite stehen
+den allermeisten Einrichtungen in der Regel nur für einen begrenzten Projektzeit-
+raum Ressourcen für die Digitalisierung, die Speicherung sowie die Präsentation der
+Digitalisate zur Verfügung. Die projektbasierte Finanzierung unterstellt damit implizit,
+dass die Digitalisierung letzten Endes eine einmalige Maßnahme sei, nach deren Ab-
+schluss die entsprechenden Förderprogramme geschlossen werden könnten. Dies ver-
+kennt aber, dass mit erfolgreichen Digitalisierungsprojekten und damit einer ständig
+wachsenden Zahl an Digitalisaten bei den tragenden Einrichtungen ein (insbesondere
+auch finanzieller) dauerhafter und steigender Bedarf an sicheren Speichertechnologien,
+aktiven Maßnahmen des Datenmanagements und der digitalen Langzeitarchivierung
+sowie der Aktualisierung von Angeboten und Präsentationslösungen weit über Projekt-
+zeiträume hinaus anfällt. Allein schon aus Gründen des Investitionsschutzes für die ent-
+standenen Digitalisate müssen die Verfügbarkeit der Daten und Zugriffswerkzeuge
+abgesichert sein. Diese Aufgabe bringt schon heute manche Einrichtung an den Rand
+ihrer Möglichkeiten und zukünftigen Handlungsfähigkeit, welche sich mit jedem neuen
+Projekt weiter einschränken. Es entsteht also dringend die Notwendigkeit, die Folgekos-
+ten im Bereich der Bereitstellungs- und Speicherinfrastruktur auf Dauer abzusichern.
+Perspektivisch werden hier die Aufwände im technisch-organisatorischen Umfeld deut-
+lich, stetig und unwiderruflich ansteigen.
+
+Angesichts der Dimension und Komplexität der hier entstehenden Herausforderun-
+gen ist der Aufbau kooperativ getragener Lösungen bereits mittelfristig unumgänglich.
+Mit der DDB und dem DFG-Viewer wurde ein zentrales Nachweisportal sowie eine ein-
+heitliche Präsentationslösung für den Nachweis der Metadaten aufgebaut. Die Schaffung
+von funktionellen und institutionsübergreifenden Infrastrukturen für die Datenbereit-
+stellung und Langzeitarchivierung von Digitalisaten steht in Deutschland aus. Gerade
+für die Vielzahl der in der Digitalisierung tätigen Einrichtungen kleinerer und mittlerer
+Größe ist der dauerhafte Betrieb eines digitalen Langzeitarchivs in Eigenregie nur
+schwerlich zu leisten, sodass auch hier der Aufbau einer gemeinschaftlichen Lösung mit
+wenigen zentralen ggf. auch spezialisierten Clustern nicht nur aus Gründen der Effizienz
+weiterhin geboten erscheint. Das Entstehen kooperativer Strukturen auf regionaler
+Ebene könnte hier der Ansatz sein. Ein Blick in die USA zeigt, wie sich so ein gemein-
+schaftlicher Ansatz möglicherweise gestalten ließe: Dort besteht mit dem HathiTrust seit
+2008 ein kooperativ betriebenes Archivierungs- und Bereitstellungssystem von über 60
+Universitäts- und Forschungsbibliotheken für Digitalisate aus der Google-Digitalisierung
+wie auch anderen Ursprungs.
+
+
+
+7.3 Digitalisierung von Kulturgut: Organisationsformen, Akteure, Zugang 629
+
+Literatur
+Beyer, Hartmut: Rundgespräche zur Zukunft der nationalbibliographischen Verzeichnisse (VD) Bericht der
+
+veranstaltenden VD17-Trägerbibliotheken (Staatsbibliothek zu Berlin – Preußischer Kulturbesitz,
+Bayerische Staatsbibliothek München, Herzog August Bibliothek Wolfenbüttel). In: Zeitschrift für
+Bibliothekswesen und Bibliographie 69 (2022), H. 1–2, S. 82–91.
+
+Brantl, Markus u. Astrid Schoger: Das Münchener Digitalisierungszentrum zwischen Produktion und
+Innovation. In: Information–Innovation–Inspiration: 450 Jahre Bayerische Staatsbibliothek. Hrsg. von
+Rolf Griebel u. Klaus Ceynowa. München 2008. S. 253–280.
+
+Bundesregierung: Digitalstrategie. Gemeinsam digitale Werte schöpfen. https://digitalstrategie-
+deutschland.de/static/67803f22e4a62d19e9cf193c06999bcf/220830_Digitalstrategie_fin-barrierefrei.
+pdf (12.06.2023).
+
+Burga, Solcyre: Internet Archive Loses Lawsuit Over E-Book Copyright Infringement. Here’s What to Know.
+https://time.com/6266147/internet-archive-copyright-infringement-books-lawsuit/ (12.06.2023).
+
+Bürger, Thomas: Die Digitalisierung der kulturellen und wissenschaftlichen Überlieferung – Versuch einer
+Zwischenbilanz. In: Zeitschrift für Bibliothekswesen und Bibliographie 58 (2011), H. 3–4, S. 133–141.
+
+Council of the European Union conclusions on the digitisation and online accessibility of cultural material
+and digital preservation. 10./11. Mai 2012. https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:
+C:2012:169:0005:0008:EN:PDF (12.06.2023).
+
+Czmiel, Alexander, Martin Iordanidis, Pia Janczak und Susanne Kurz: Retrospektive Digitalisierung von
+Bibliotheksbeständen. Evaluierungsbericht über einen Förderschwerpunkt der DFG. Köln: Universität
+zu Köln 2005.
+
+Deutscher Bibliotheksverband: Deutschland braucht eine nationale Digitalisierungsstrategie!
+Thesenpapier des Deutschen Bibliotheksverbands e. V. Berlin 2011. https://www.bibliotheksverband.
+de/sites/default/files/2021-01/2011_03_17_dbv_Stellungnahmen_Digitalisierungsstratgie.pdf
+(12.06.2023).
+
+Deutscher Bibliotheksverband: WissensWandel. Digitalprogramm für Bibliotheken und Archive innerhalb
+von NEUSTART Kultur. Berlin 2023. https://www.bibliotheksverband.de/sites/default/files/2023-05/
+dbv_WissensWandel_Abschlussbericht_final.pdf (12.06.2023).
+
+DFG: Die digitale Transformation weiter gestalten. Bonn 2012. https://www.dfg.de/resource/blob/170622/
+c9807e83bb07c64667b0287a115e5232/positionspapier-digitale-transformation-data.pdf (14.09.2024).
+
+DFG: Förderung von Informationsinfrastrukturen für die Wissenschaft. Bonn 2018. https://www.dfg.de/
+resource/blob/173200/66e1e4296848c5f700b83898f7f48995/positionspapier-informationsinfrastruktu
+ren-data.pdf (14.09.2024).
+
+DFG: Förderprogramm „Digitalisierung und Erschließung“ https://www.dfg.de/foerderung/info_wissen
+schaft/2020/info_wissenschaft_20_58/ (12.06.2023).
+
+Jeanneney, Jean-Noel: Googles Herausforderung: Für eine europäische Bibliothek. Berlin:
+Wagenbach 2006.
+
+Klimpel, Paul: Urheberrechtsreform 2021. Neue Chancen für das kulturelle Erbe. Berlin: Zuse Institute
+Berlin 2021. https://nbn-resolving.org/urn:nbn:de:0297-zib-84315
+
+Lesk, Michael E.: Report. Image Formats for Preservation and Access. A report of the Technology
+Assessment Advisory Committee to the Commission on Preservation and Access (July 1990).
+
+Lévy, Maurice, Elisabeth Niggemann u. Jacques de Decker: The new renaissance. Report of the comité des
+sages on bringing Europe’s cultural heritage online. Brüssel 2011.
+
+Siebert, Irmgard: Digitalisierung in Regionalbibliotheken. Frankfurt a. M.: Vittorio Klostermann 2012.
+Simon-Ritz, Frank: Kulturelles Erbe im digitalen Zeitalter: Der Weg der Bibliotheken. In: BuB Forum
+
+Bibliothek und Information 64 (2012), H. 3, S. 218–222.

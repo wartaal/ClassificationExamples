@@ -1,0 +1,539 @@
+Christoph Janello und Christian Pierer
+4.2 Strategien des Bestandsmanagements
+1 Vom strategischen Bestandsaufbau zum
+volatilen Bestandsmanagement
+Die Grundsätze der Erwerbungspolitik und des Bestandsmanagements ergeben sich aus
+der Aufgabenstellung und Zielsetzung, die der jeweilige Unterhaltsträger bzw. Auftraggeber
+definiert, aus dem haushaltsrechtlichen und finanziellen Rahmen, den er zur Verfügung
+stellt, und aus den Bedürfnissen der von ihm vorgegebenen Zielgruppen. Neben
+Bund, Ländern, Kommunen, Universitäten, Unternehmen und Stiftungen als direkten
+Unterhaltsträgern kommen als Auftraggeber auch Drittmittelgeber in Frage, wie beispielsweise
+die DFG.1
+Der spezifische Auftrag von Bibliotheken war damit seit jeher strategiebestimmend
+in der Erwerbungspolitik. Neue Lizenzmodelle bei E-Medien, stagnierende Etats, hohe
+Preissteigerungen und eine nach wie vor stark wachsende wissenschaftliche Literaturproduktion
+führen jedoch dazu, dass ein einrichtungsspezifisch geplanter, strategischer
+Bestandsaufbau nur noch schwer durchführbar ist. In vielen Bibliotheken ist daher das
+Management volatiler Bestände, die sich in Abhängigkeit von Nachfrage und verfügbarem
+Budget verändern, die Regel und das präferierte Vorgehen für ein bedarfsorientiertes
+Angebot.
+1.1 Erwerbungsprofile, hybride Bibliotheken und E-Only-Bestände
+In den 1990er Jahren intensivierte sich durch die Etatkrise in den Universitätsbibliotheken
+der alten Bundesländer sowie den Neubeginn im Medienerwerb in den Universitätsbibliotheken
+der neuen Länder die Diskussion um einen strategischen Bestandsaufbau in der
+bibliothekarischen Fachwelt.2 Im Zentrum der Diskussion standen die Begriffsbestimmung
+und die Entwicklung von schriftlich fixierten Erwerbungsprofilen, die sich jedoch
+nicht flächendeckend durchsetzen konnten. Hierbei spielte die sich immer stärker zuspitzende
+Etatkrise eine Rolle – aber auch der um die Jahrtausendwende beginnende
+Wandel hin zu hybriden Bibliotheken. Diese erwarben mehr und mehr elektronische
+Ressourcen, die nur mit großen Schwierigkeiten in Erwerbungsprofile eingebracht
+werden konnten.3 In den folgenden Jahren wurde das Bestandsmanagement
+zunehmend vom E-Medienangebot dominiert, während die Aufwendungen für ge-
+ Dieser Beitrag basiert auf Rothe, Johannsen u. Schäffler 2015.
+ Vgl. Rothe, Johannsen u. Schäffler 2015: S. 185 ff.
+ Vgl. Hammerl, Moravetz-Kuhlmann u. Schäffler 2009: S. 304.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-015
+druckte Medien kontinuierlich sanken. Verbesserungen in den Konzepten zur Langzeitarchivierung,
+eine steigende Bedeutung von Open-Access-Publikationen und
+eine sich stetig wandelnde Nutzungspräferenz weisen für viele Bibliotheken und
+Fachdisziplinen den Weg zu einem weitgehenden E-Only-Neuzugang in einer nicht
+allzu fernen Zukunft.4
+1.2 Bestandsstrategien: Volatilität wird zur Normalität
+Auftrag und Etat bestimmen seit jeher die Möglichkeiten des Bestandsaufbaus und
+geben Bibliotheken den Rahmen für die strategische Planung vor. Mit den elektronischen
+Medien kam die Langzeitarchivierung als weiteres zentrales Element hinzu. Bibliotheken,
+die einen Sammel- oder Archivauftrag erfüllen müssen, legen bei E-Medien,
+die mit dauerhaftem Nutzungsrecht erworben werden, große Aufmerksamkeit auf elektronische
+Archive mit digitalen Archivkopien.5 Der Abschluss von Lizenzen ohne dauerhafte
+Nutzungsrechte ist bei Archivbibliotheken weniger ausgeprägt und muss im
+Hinblick auf eine notwendige Langzeitverfügbarkeit geprüft werden.
+Für die meisten wissenschaftlichen Bibliotheken steht jedoch die Literaturversorgung
+ihrer aktuellen Nutzerinnen und Nutzer im Vordergrund. Dadurch erhalten diese
+Bibliotheken die Freiheit zum flexiblen, primär bedarfsorientierten Bestandsaufbau. Der
+Erwerb von gedruckter Literatur spielt dabei in manchen Fachgebieten immer noch
+eine wichtige Rolle. Entscheidend für das Bestandsmanagement sind jedoch die elektronischen
+Medien. Durch Lizenzen mit dauerhaften oder temporären Nutzungsrechten
+können Bibliotheken große Datenmengen zur Verfügung stellen. Etatveränderungen wirken
+sich jedoch unmittelbar auf dieses Angebot aus, da durch ein Lizenzierungsende
+große Datenmengen verloren gehen und durch Neulizenzierungen große Datenmengen
+gewonnen werden. Der Bestand einer vorrangig bedarfsorientierten wissenschaftlichen
+Bibliothek bildet daher primär ihre aktuellen finanziellen Möglichkeiten ab und ist
+meist volatil. Ein kontinuierliches Bestandswachstum ist daher weder Ziel noch Qualitätsmerkmal.
+Stattdessen werden die finanziellen Möglichkeiten genutzt, den volatilen
+Bestand bestmöglich auf die Nachfrage hin auszurichten.
+ Es ist unstrittig, dass der Neuzugang in allen Bibliotheken mehr und mehr digital sein wird. Ob sich
+daraus die Obsoleszenz aller gedruckten Bibliotheksbestände ableiten lässt, wurde 2016 nach einem
+Interview von Raphael Ball in der Neue Zürcher Zeitung öffentlichkeitswirksam in der Bibliothekswelt
+diskutiert.
+ Für die Langzeitverfügbarkeit kommerzieller Ressourcen ist portico (https://www.portico.org/,
+06.09.2023) durch eine Vielzahl von Vereinbarungen mit Verlagen für Bibliotheken zum zentralen Anbieter
+geworden.
+248 Christoph Janello und Christian Pierer
+1.3 Grundannahmen eines modernen Bestandsmanagements
+Wenn Bibliotheken keinen Archiv- oder Sammelauftrag erfüllen müssen, wird das Bestandsangebot
+vorrangig auf den Bedarf der Nutzerinnen und Nutzer ausgerichtet. Da
+sich Bedarf, Verlagsangebote und Bibliotheksetats rasch ändern können, geben Strategien,
+die sich über einen Zeitraum von mehreren Jahren erstrecken, bestenfalls noch
+einen Rahmen vor. Stattdessen müssen Bibliotheken ein kontinuierliches Bestandsmanagement
+leisten, das für die meisten angebotenen Informationsressourcen und
+Wissenschaftsdisziplinen auf folgenden Grundannahmen beruhen kann:
+– Insbesondere für die zentralen E-Medienangebote von Großverlagen gilt, dass es
+grundsätzlich keine vergriffenen Inhalte mehr gibt. Medien können demzufolge
+tatsächlich erst lizenziert werden, wenn eine konkrete Nutzung angefragt wird.
+Ein proaktiver Erwerb direkt nach der Veröffentlichung ist nicht mehr zwangsläufig
+nötig.
+– Gleicher oder ähnlicher Inhalt kann meist auf verschiedene Arten bereitgestellt
+werden. Zeitschriften können beispielsweise oft innerhalb von Datenbanken, in
+Zeitschriftenarchiven wie JSTOR oder von den Verlagen direkt lizenziert werden.
+Es gibt dabei Unterschiede im Umfang der Inhalte, bei den Kosten sowie hinsichtlich
+der Nutzungsmöglichkeiten und der Einräumung von Archivrechten, die im
+Zuge des Bestandsmanagements gewichtet werden müssen.
+– Der Erwerb oder die Lizenzierung eines einzelnen Mediums ist immer noch ein
+wichtiger Teil des bedarfsorientierten Bestandsmanagements. Diese Erwerbungsform
+verliert aber an Bedeutung zugunsten von E-Medien-Lizenzen, die viele
+Titel enthalten.
+– Im wissenschaftlichen E-Book-Markt ist wie im Zeitschriftensegment eine Konzentration
+durch Verlagsübernahmen und Kooperationen zu beobachten. Hierdurch
+werden die Inhalte kleinerer Verlage, die bisher gar nicht oder nur in
+Auswahl als E-Books angeboten wurden, im Zeitverlauf in Lizenzmodellen verfügbar.
+Strukturierte Bestandsaufbau-Konzepte auf Basis des Einzeltitelerwerbs,
+die für diese kleineren Verlage zunächst sinnvoll erschienen, können so rasch obsolet
+werden.
+– Die Lizenzmodelle für E-Medien erweitern den Bestand einer einzelnen Bibliothek
+signifikant. Insbesondere im E-Book-Bereich ist die Fernleihe jedoch erschwert
+oder vertraglich untersagt. Das führt zur paradoxen Situation, dass einzelne Bibliotheken
+lokal immer mehr, überregional jedoch immer weniger Bestände anbieten
+können. Außerdem gleichen sich die Bibliotheksbestände stärker an – eine Entwicklung,
+die schon bei Einführung der Approval Plans6 für Print-Erwerbungen kritisch
+gesehen wurde.
+ Im Rahmen eines Approval Plans findet die Literaturauswahl auf der Grundlage vereinbarter Kriterien
+durch einen Lieferanten statt. Da diese Leistung nur von wenigen Bibliothekslieferanten angebo-
+4.2 Strategien des Bestandsmanagements 249
+– Insbesondere Lizenzen für E-Zeitschriften wurden in den letzten Jahren um Komponenten
+zum Open-Access-Publizieren erweitert. Die Übernahme der Publikationsgebühren
+im Rahmen von Zeitschriftenlizenzen hat sich dadurch als Element
+der Bedarfsorientierung etabliert.
+– Beim Angebot von E-Ressourcen spielen Fragen des Datenschutzes und der Authentifizierung
+eine immer größere Rolle. Informationsanbieter möchten einerseits möglichst
+viel über das Nutzungsverhalten herausfinden und personalisierte Dienste anbieten.
+Andererseits können diese Informationen weiterverkauft und mit anderen Daten
+aggregiert werden.7 Bibliotheken sollten daher bei der Lizenzierung immer
+eine möglichst große Anonymität für die Nutzung vereinbaren. Wenn dies nicht
+umfassend möglich ist, müssen die Nutzerinnen und Nutzer für das Thema sensibilisiert
+und informiert werden, damit sie die Hoheit über ihre Daten weitestgehend
+behalten können.
+1.4 Rolle der Fachreferate und der Bibliothek
+bei der Medienauswahl
+Als um die Jahrtausendwende mehr und mehr elektronische Medien und neue Technologien
+im Bibliothekswesen Einzug hielten, wurden die klassischen Tätigkeiten des
+Fachreferats – Bestandsaufbau und Inhaltserschließung – als Kernaufgaben in Frage
+gestellt. Mittlerweile ist es zur Normalität geworden, dass Fachreferentinnen und
+Fachreferenten ein vielfältiges Aufgabenspektrum wahrnehmen, zu dem weiterhin
+das Bestandsmanagement gehört.
+Die Rahmenbedingungen für das Bestandsmanagement unterliegen aber immer
+noch einem starken Wandel. Wenn im Extremfall nur noch E-Medien-Lizenzen mit
+großen Inhaltespektren abgeschlossen werden, gibt es dann überhaupt noch Bedarf
+für ein aktives Management? Für viele Wissenschaftsdisziplinen und Spezialbibliotheken
+ist eine Kombination aus Lizenzmodellen und Einzeltitelerwerb noch die Regel,
+sodass hier wie eh und je eine aktive, eher kleinteilige Bestandsauswahl durch das
+Fachreferat nötig ist. Bei Fächern, die mit wenigen, großen E-Medien-Lizenzen gut
+versorgt werden könnten, erfordern spätestens die begrenzten finanziellen Möglichkeiten
+der Bibliothek eine Auswahl und kreative Lösungsansätze.8
+In beiden Fällen ist ein Fachreferat gefordert, da nur dort die beste Strategie für
+das jeweilige Bestandsmanagement gemeinsam mit den Fachvertreterinnen und Fachten
+wird und von diesen aus Effizienzgründen vereinheitlichte Auswahlverfahren eingesetzt werden,
+erhalten die Bibliotheken oftmals die gleichen Titel.
+ Vgl. Siems 2022.
+ Anstelle eines E-Book-Pakets wird etwa nur ein Print-PDA oder eine temporäre E-Book-Lizenz angeboten.
+Oder ein Zeitschriftenpaket wird nicht lizenziert, dafür werden die einzelnen Artikel über
+Fernleihe und Zeitschriftenarchive zur Verfügung gestellt.
+250 Christoph Janello und Christian Pierer
+vertretern ausgearbeitet werden kann. Aufgabe des Fachreferats ist es hierbei, in Zusammenarbeit
+mit der Erwerbungsleitung aus der Vielzahl von angebotenen Ressourcen
+und Lizenzierungsoptionen die beste Auswahl zu treffen, die fortwährend anhand
+von Budget und Benutzungsanforderungen evaluiert werden sollte.
+2 Instrumente des Bestandsmanagements
+Für dieses aktive Bestandsmanagement ist der jeweils strategiespezifisch angepasste
+Einsatz von verschiedenen bestandsverändernden Instrumenten zielführend. Hierzu
+wird im nächsten Abschnitt das zur Verfügung stehende Portfolio an Erwerbungsund
+Lizenzierungsmodellen skizziert. In den darauffolgenden Abschnitten werden
+mit der Langzeitverfügbarkeit, der Portfolioevaluation und den Aussonderungen
+übergreifende Aufgabenfelder thematisiert.
+2.1 Erwerbungs- und Lizenzierungsmodelle
+Neben den klassischen, der Logik von Printmedien folgenden bestands(aufbau)
+orientierten Erwerbungsmodellen stehen eine Vielzahl moderner Konzepte zur Verfügung.
+Das Potential dieser Konzepte ergibt sich aus der verstärkten Digitalisierung
+von Prozessen und Inhalten. Dabei ist festzustellen, dass die vor einigen Jahren beschriebene
+Dichotomie „Kauf versus Lizenz“ bzw. „ownership versus access“9 in dieser
+Trennschärfe nicht mehr besteht – stattdessen existieren vielmals Mischmodelle, die
+die Vorteile beider Ansätze kombinieren.
+2.1.1 Klassischer Ansatz: dauerhafter Erwerb
+Um einen umfassenden Überblick über das zur Verfügung stehende Instrumentarium
+zu geben, werden nachstehend zunächst die klassischen Varianten des Bestandsaufbaus
+vorgestellt. Diese zeichnen sich durch eine dauerhafte Nutzbarkeit nach einmaligem
+Erwerb aus.10
+Gedruckte Bücher: Trotz der seit vielen Jahren voranschreitenden Mediendigitalisierung
+stellen gedruckte Bücher noch immer einen elementaren Teil des bibliothekarischen
+Medienerwerbs dar. Obwohl diese Erscheinungsform offensichtliche Nachteile
+ Vgl. Hammerl, Moravetz-Kuhlmann und Schäffler 2009.
+ Es sei darauf hingewiesen, dass trotz einmaligem Erwerb Folgekosten entstehen können, etwa
+durch Hosting Fees der Anbieter oder auch durch die Lagerung physischer Medien.
+4.2 Strategien des Bestandsmanagements 251
+(Personalaufwand in Medienbearbeitung und Ausleihe, Abnutzung, Lagerplatz, keine
+Gleichzeitigkeit der Nutzung etc.) mit sich bringt, ist sie nach wie vor unverzichtbar.
+So ist sie bspw. in vielen Fällen alternativlos, von Nutzenden gezielt gewünscht, günstiger
+als die elektronische Ausgabe oder aufgrund der rechtlichen Ungleichbehandlung
+E-Books überlegen, etwa in der Fernleihverfügbarkeit.
+E-Books: Auch im Bereich der elektronischen Bücher ist der Erwerb dauerhafter Nutzungsrechte
+die derzeit, zumindest im deutschsprachigen Raum, vorherrschende Erwerbungsform.
+Hierbei können Bücher zum einen auf Einzeltitelbasis erworben werden. Die
+Preise orientieren sich in diesem Falle oft an denen der Printausgabe.11 Neben den Verlagsplattformen
+zumeist größerer Verlage existieren noch Aggregatorplattformen. Diese
+vereinen das Angebot verschiedener Verlage, oftmals jedoch unter restriktiveren Nutzungsmöglichkeiten.
+Zunehmend öffnen sich auch Verlagsplattformen durch sog. Vertriebspartnerschaften
+für die Inhalte anderer Verlage und nehmen somit selbst die Rolle
+eines Aggregators ein, allerdings ausgehend von den eher nutzerfreundlicheren Nutzungsbedingungen
+der Verlagsplattform. Somit wächst die Anzahl an Plattformen, über
+die oftmals gleiche Inhalte zu unterschiedlichen Konditionen vertrieben werden. Die
+Folge: Das Angebot wird zunehmend unübersichtlicher.
+Von größerer Bedeutung als Einzelkäufe sind E-Book-Pakete. Diese beinhalten, oft
+fachlich unterteilt, die Jahresproduktion eines Verlages. Pakete sind gegenüber dem
+Einzeltitelkauf pro Titel zumeist deutlich rabattiert, inkludieren in der Regel aber auch
+Titel, die bei Einzelbetrachtung nicht gekauft worden wären. Große Effizienzvorteile liegen
+in der Erwerbung und Katalogisierung, da nur eine Bestellung und Rechnung pro
+Paket zu bearbeiten ist und die Metadaten zwar zumeist aufbereitet werden müssen,
+aber maschinell in die Nachweissysteme eingespielt werden können.
+Zeitschriften: Das klassische Abonnement einer einzelnen, gedruckten Zeitschrift
+mit jahrgangsweiser Bindung verliert zusehends an Bedeutung. Dennoch wird diese
+Form des Abonnements für wissenschaftlich relevante Publikumszeitschriften und
+graue Literatur nach derzeitigem Stand nicht vollends verschwinden. Sinkende Abonnementerlöse
+bei steigenden Druck- und Vertriebskosten erzeugen jedoch einen starken
+wirtschaftlichen Druck, der oftmals zur Reduktion auf die elektronische Form
+oder zur Einstellung der Zeitschriften führt.
+Nach einer Übergangsphase des zumeist aufpreispflichtigen Parallelbezugs der
+gedruckten und elektronischen Variante hat sich spätestens seit der umsatzsteuerlichen
+Gleichstellung12 im Jahre 2019 der rein-elektronische Bezug (e-only) als Standard
+für wissenschaftliche Zeitschriften durchgesetzt. Die gebundenen Zeitschriftenbände
+ Zu beachten ist allerdings, dass sich in den Preisen für E-Lehrbücher unter Umständen die bisherige
+Staffelung im Printverkauf in einem entsprechenden Faktor niederschlägt.
+ Vgl. § 12 Absatz 2 Nr. 14 UStG.
+252 Christoph Janello und Christian Pierer
+werden in ihrer Archivfunktion durch vertraglich fixierte Nutzungs- bzw. Archivrechte
+ersetzt.
+Die Lösung von der körperlichen Form ermöglichte im Zeitschriftenbereich die
+Bündelung von Einzeltiteln zu Themen- oder Verlagspaketen, die sich durch günstigere
+Einzeltitelpreise auszeichnen. Diese Modelle sind insbesondere bei der in Abschnitt
+3 „Überregionale Literaturversorgung und Lizenzierung“ in diesem Kapitel
+aufgeführten, überregionalen Lizenzierung von Bedeutung.
+Datenbanken (Einmalkauf): Wenngleich die temporäre Lizenz das vorherrschende
+Vertriebsmodell im Datenbankbereich darstellt, so gibt es dennoch in einigen Fällen die
+Möglichkeit, dass die Inhalte durch Einmalkauf dauerhaft in den Besitz der Bibliothek
+übergehen. Der Kauf ist in der Regel zunächst mit hohen Kosten verbunden, zieht aber
+im besten Fall keine Folgekosten mit jährlichen Preissteigerungen nach sich. Jährliche
+access fees für den Zugriff auf den Anbieterserver sind bei Kaufmodellen allerdings
+keine Seltenheit. Aufgrund des hohen Investments sollten Bibliotheken Datenlieferungen
+und Hosting-Rechte vereinbaren und eine entsprechende Hosting-Infrastruktur
+vorhalten, was wegen des hohen Aufwands faktisch aber kaum geschieht.
+Unberechneter Zugang und Pflichtabgabe: Neben der kostenpflichtigen Akquise besteht
+auch der unberechnete Zugang mit seinen Ausprägungsformen Tausch- und Geschenkzugang
+fort. Dabei ist, bedingt durch Open-Access-Primärveröffentlichung, ein
+Rückgang des Tauschvolumens gerade bei Dissertationen festzustellen. Während Bibliotheken
+vor dem Hintergrund entstehender Folgekosten die Annahme von Geschenken
+in der Regel ablehnen können, ist Pflichtexemplarbibliotheken diese
+Wahlmöglichkeit nicht gegeben. Die Umsetzung dieses spezifischen Sammelauftrags
+im Bereich elektronischer Publikationsformen ist aufgrund von quantitativen und
+technischen Herausforderungen weiterhin in Diskussion.13
+2.1.2 Temporäre Lizenzierung
+Elektronische Medien ermöglichen die Vergabe und Durchsetzung zeitlich befristeter
+Nutzungsrechte. Im Folgenden wird aufgezeigt, wie diese Eigenschaft im Rahmen des
+strategischen Bestandsmanagements gezielt eingesetzt werden kann.
+Datenbanken: Datenbanken integrieren einen meist fachlich abgegrenzten Informationspool
+unter einer Rechercheoberfläche. Diese Sammlungen können ähnlich einem
+Lexikon Fakten enthalten, bibliografische und/oder bibliometrische Angaben aggregieren
+oder Volltexte bündeln – wie beispielsweise digitalisiertes Quellenmaterial oder bereits
+publizierte Medieninhalte. Volltextdatenbanken kommt eine besondere Bedeutung
+zu, da sie zu vergleichsweise geringen Kosten eine kurzfristige (und befristete) Auswei-
+ Vgl. Geisler u. Mauk 2022.
+4.2 Strategien des Bestandsmanagements 253
+tung des von Bibliotheken bereitgestellten Inhalteportfolios erlauben. Gleichzeitig ermöglichen
+viele dieser Datenbanken aufgrund ihres zielgruppenorientierten Zuschnitts
+eine umfassende und doch passgenaue Recherche.
+Elektronische Zeitschriften ohne Archivrechte: Neben der oben dargestellten Lizenzierung
+von elektronischen Zeitschriften mit Archivrechten gibt es auch Verlage
+bzw. Fachgesellschaften, die lediglich befristete Zugangsrechte anbieten. Eine bibliotheksseitige
+Archivierung ist in diesem Fall nur durch Printabonnements möglich, sofern
+diese noch angeboten werden.
+E-Book-Kollektionen: Anstelle des dauerhaften Erwerbs von E-Book-Paketen bieten
+Aggregatoren und manche Verlage die laufzeitgebundene Lizenzierung von E-Book-
+Kollektionen an. Ähnlich einer Volltextdatenbank können hiermit bspw. temporäre
+Nachfragespitzen bedient werden. Aufgrund der hohen Titelmengen und veränderlichen
+Titelzusammenstellung stellt die korrekte Abbildung der aktuell lizenzierten
+Titel in den bibliothekarischen Nachweissystemen oftmals eine Herausforderung dar.
+2.1.3 Mischmodelle
+Mischmodelle vereinen temporäre Lizenzen mit dauerhaften Erwerbskomponenten
+in einem Produkt.
+Evidence Based Selection (EBS): Das inzwischen am weitesten verbreitete Mischmodell
+verbindet die temporäre Lizenzierung von Inhalten, in der Regel von E-Book-
+Paketen, mit dem dauerhaften Kauf einer Teilmenge der lizenzierten Inhalte zum
+Laufzeitende. Als gängigste Bezeichnung hat sich der Begriff Evidence Based Selection
+(EBS)14 etabliert, da die Nutzungsstatistiken als „Evidenz” zur Auswahl der dauerhaft
+erworbenen Inhalte herangezogen werden können. Dabei kann, etwa aus erwerbungsstrategischen
+Gründen, aber auch von der statistisch vorgenommenen Reihung
+abgewichen werden. Charakteristisch für EBS ist die Zahlung einer Fixsumme zu Beginn
+der vorab festgelegten Lizenzlaufzeit. Für die Dauer dieses Zeitabschnittes gewähren
+die Anbieter solcher Modelle den Zugriff auf ausgewählte Pakete oder sogar
+auf das gesamte E-Book-Angebot. Nach dem Ende der Laufzeit entscheidet die Bibliothek,
+in der Regel anhand der Nutzungsstatistiken, welche Titel dauerhaft in ihren Besitz
+übergehen sollen. Die Kosten für die dauerhafte Lizenzierung der ausgewählten
+Titel sind dabei – ggf. nach Abzug einer Lizenzgebühr für das große Inhaltespektrum
+im Lizenzzeitraum – bereits durch die gezahlte Summe abdeckt. Dieses Verfahren bietet
+viele Vorteile: Nutzerinnen und Nutzer profitieren von dem breiten Angebotsspek-
+ Das Verfahren wird synonym auch als EBA (Evidence Based Acquisition) oder UBCM (Usage Based
+Collection Management) bezeichnet, vgl. Otto 2019: S. 19.
+254 Christoph Janello und Christian Pierer
+trum während der Lizenzperiode; zudem wird das eingesetzte Kapital nachhaltig in
+nachweislich benötigte bzw. intellektuell ausgewählte Titel umgesetzt.15 Je nach Höhe der
+vereinbarten Fixsumme kann das EBS-Modell bei fortgesetzter Durchführung jedoch
+immer unattraktiver werden, insbesondere wenn alle vielgenutzten Bücher bereits im
+Bestand sind, das definierte Umsatzvolumen aber zunehmend zum permanenten Erwerb
+wenig genutzter E-Books zwingt.
+Patron Driven Acquisition: Charakteristisch für Patron Driven Acquisition (PDA) ist
+die Einspielung von Titeldaten in den Bibliothekskatalog, ohne dass sich diese Titel im
+Besitz der Bibliothek befinden. Der Erwerb (oder eine vorangeschaltete kostenpflichtige
+Ausleihe des E-Books) wird erst durch den konkreten Bedarf ausgelöst. Dabei
+kann es sich sowohl um elektronische als auch um gedruckte Bücher handeln, die
+schnellstmöglich bestellt und zur Nutzung vorbereitet werden.16
+Trotz des Vorteils, dass ein beträchtlicher Anteil der Nutzung in der explorativen
+Phase unterhalb des mit Kosten verbundenen Nutzungsschwellenwertes liegt,17 hat
+PDA im E-Book-Bereich in den letzten Jahren zu Gunsten von EBS stark an Bedeutung
+verloren. So hat EBS den Vorteil, dass die Titel ohne Restriktionen auf Verlagsplattformen
+zugänglich sind, während PDA zumeist auf mit DRM-basierten Nutzungseinschränkungen
+versehenen Aggregatorplattformen umgesetzt wird. Darüber hinaus haben
+auch deutliche Preiserhöhungen vieler Verlage bei Kurzzeitleihen dieses Modell weniger
+attraktiv gemacht.18
+Zeitschriften: Auch im Bereich der Zeitschriften gibt es Erwerbungsmodelle, die den
+zeitlich begrenzten Zugang zu Inhalten mit dauerhaften, nach Ende des Vertragszeitraums
+einsetzenden Zugriffsrechten auf einen Teilbereich des Angebots kombinieren.
+Üblich ist bei lokalen Subskriptionen (e-only oder auch print + e) die Freischaltung von
+zurückliegenden Archivjahrgängen, auch wenn in den betreffenden Jahren keine Subskription
+bestand.
+Klassische Zeitschriften-Konsortien wurden häufig auf Grundlage der bei den teilnehmenden
+Einrichtungen bereits bestehenden Abonnements gebildet: Jede Einrichtung
+gewann so – unter der Festschreibung ihres eigenen eingebrachten Bestands bzw.
+Umsatzes – Zugriff auf all diejenigen Titel hinzu, die andere teilnehmende Einrichtungen
+in den gemeinsamen Bestand einbrachten (cross access) bzw. erhielt Zugriff auf
+das komplette Verlagspaket (complete access) oder definierte Teile davon. Für diesen
+unsubscribed content wurden jedoch typischerweise keine Archivrechte erworben.
+ Wie dieses Verfahren konkret im Bibliotheksalltag umgesetzt werden kann, zeigen bspw. Hindersmann
+u. Tholen-Wandel 2018: S. 121 ff.
+ Für eine detaillierte Darstellung von PDA vgl. Herb 2015.
+ Vgl. Balz u. Janello 2014.
+ Vgl. Hindersmann u. Tholen-Wandel 2019.
+4.2 Strategien des Bestandsmanagements 255
+Da klassische Einzelabonnements heutzutage immer weniger bestehen, werden
+Konsortien zusehends auf der Basis bestandsunabhängiger Messgrößen (bspw. FTEs)
+gebildet oder es werden Transformationsverträge abgeschlossen, die Open-Access-
+Publikationskosten beinhalten. In letzteren verliert aufgrund des ohnehin angestrebten,
+hohen Open-Access-Anteils das Thema dauerhafter Zugriffsrechte auch auf Anbieterseite
+an Bedeutung, sodass diese oft inkludiert werden können.
+2.1.4 Retrodigitalisierung des Printbestandes
+Nachfrageorientiertes Bestandsmanagement bedeutet auch, den Inhalt in der jeweils
+nachgefragten Form (Medientyp) bereitzustellen. Durch eine nachfrageinduzierte Digitalisierung
+on demand können viele Vorteile elektronischer Medien auf der Basis gedruckter
+Vorlagen generiert werden, entsprechend den urheberrechtlichen Möglichkeiten. Als
+Beispiele seien digitale Semesterapparate, die Retrodigitalisierung gemeinfreier Textkorpora
+in den Digital Humanities oder die Digitalisierung von Inhalten für die Nutzung im
+Digitalen Lesesaal nach § 60e Abs. 4 UrhG genannt.
+2.2 Gewährleistung der (langfristigen) Nutzbarkeit
+elektronischer Medien
+Da elektronische Medien im Gegensatz zu ihren gedruckten Pendants nicht ohne Hilfsmittel
+genutzt werden können, sind bei der Erwerbungsentscheidung auch organisatorische
+und technische Fragen zu berücksichtigen. Technische Eigenschaften beeinflussen die
+Nutzbarkeit der Inhalte zum Teil erheblich und sind somit bereits bei der Entwicklung
+der Erwerbungsstrategie mitzudenken. Exemplarisch sei hier hingewiesen auf die Voraussetzungen
+zur Einbindung in Resource Discovery Systeme, auf Lese- und Downloadfunktionalitäten
+ohne Einschränkung durch ein restriktives Digital Rights Management
+(DRM), auf die Lieferung standardisierter Statistiken und Metadaten insbesondere
+bei E-Books und die komfortable Gestaltung der Nutzeroberfläche bis hin zur Darstellbarkeit
+auf verschiedensten Endgeräten. Der ortsunabhängige Zugriff (remote
+access) ist bei lizenzpflichtigen Onlineressourcen nur für im Lizenzvertrag aufgeführte
+Personengruppen gestattet – im Fall von Universitätsbibliotheken beispielsweise
+nur für Universitätsangehörige. Es ergeben sich also Einschränkungen gegenüber
+den gedruckten Versionen, die auch von externen Nutzerinnen und Nutzern mit Bibliotheksausweis
+nach Hause entliehen werden können.
+Sofern sich aus der im Rahmen des Bestandsmanagements erfolgten Bedarfsanalyse
+ein dauerhaftes Zugriffserfordernis ableitet, ist die Frage nach der nachhaltigen
+Verfügbarkeit der Online-Version maßgeblich. Sollte diese angestrebt werden, so ist
+eine konsequente E-only-Policy nur dann möglich, wenn für den Fall Vorsorge getroffen
+wurde, dass der primäre Inhalteanbieter seiner vertraglichen Bereitstellungs-
+256 Christoph Janello und Christian Pierer
+pflicht nicht mehr nachkommen kann oder will. Dieses Problem wurde zunächst über
+Archiv- und Hostingrechte gelöst. Mit dieser Lösung geht jedoch auch ein erheblicher
+Aufwand einher, zumal die Inhalte vorsorglich archiviert werden müssen. Als weniger
+aufwändige Alternative ist inzwischen der versicherungsähnliche Dienst Portico
+in Form eines deutschlandweiten Konsortiums etabliert, der jedoch nicht alle Inhalte
+abdeckt. Kann keine digitale Vorsorge getroffen werden, muss auf die Printversion als
+Archivkopie zurückgegriffen werden.
+2.3 Portfolio-Evaluation
+Als Grundlage für ein auftrags- und nachfrageorientiertes Bestandsmanagement ist
+eine kontinuierliche Bewertung des Angebotsspektrums erforderlich. Neben der Fortschreibung
+von Erwerbungskriterien im Monografienbereich sind insbesondere Datenbanklizenzen
+und das Zeitschriftenportfolio regelmäßig zu überprüfen und ggf.
+anzupassen.
+Die umfassende Digitalisierung, sowohl im Bereich der Rechercheinstrumente als
+auch im Bereich der Medien selbst, ermöglicht die Nutzung von verschiedensten
+Daten. So liegen flächendeckend Zugriffsdaten zu elektronischen Inhalten vor, in der
+Regel im weitestgehend standardisierten Format COUNTER 5.19 Im Gegensatz zu traditionellen
+Print-Ausleihdaten erfassen die Plattformbetreiber auch vergebliche Zugriffsversuche
+auf nicht lizenzierte Inhalte (denials). Diese Statistiken ergeben –
+zusammen mit Recherche- und Ausleihdaten aus dem Bibliothekssystem, Fernleihdaten
+sowie einer inhaltlichen Auswertung von Nutzerinteraktionen (etwa in Ticketoder
+Chatsystemen) – einen umfangreichen, aber zerklüfteten Datenbestand.
+Die Herausforderung besteht also nicht mehr in der Verfügbarkeit von Daten,
+sondern in deren Aggregation, Aufbereitung, Gewichtung und Interpretation. Hierbei
+erscheint der Einsatz von Data-Mining-Technologien vorteilhaft. Eine auf das
+bibliothekarische Anwendungsfeld angepasste Standardsoftware konnte sich jedoch
+bislang nicht durchsetzen. Zumindest der automatisierte Import von Nutzungsstatistiken
+in ERM-Systeme über das SUSHI20-Protokoll ist inzwischen weit verbreitet und
+reduziert den Arbeitsaufwand bei der Datensammlung. Durch die Kombination mit
+Beschaffungskonditionen ist es möglich, bestehende wie auch fehlende Inhalte zu
+bewerten und Alternativen zu vergleichen, um so den Einsatz knapper Finanzmittel
+zu optimieren. Hierbei gilt es jedoch, unterschiedliche Preisniveaus der Wissenschaftsdisziplinen
+zu berücksichtigen. Am Ende der Analyse steht die Aktualisierung
+des Erwerbungs- bzw. Lizenzierungsprofils. Es sei abschließend darauf hingewie-
+ COUNTER steht für Counting Online Usage of NeTworked Electronic Ressources, vgl. hierzu Barbers
+2019.
+ SUSHI steht für Standardized Usage Statistics Harvesting Initiative.
+4.2 Strategien des Bestandsmanagements 257
+sen, dass es sich bei der Portfolioevaluation um eine kontinuierliche Aufgabe handelt,
+die erhebliche und hochqualifizierte Personalressourcen beansprucht.
+2.4 Aussonderungen
+Die oben geschilderte kontinuierliche Portfolioanpassung ist, insbesondere bei Betrachtung
+der kalkulatorischen Lagerkosten, in Form von Aussonderungen auch auf
+den gedruckten Bestand auszudehnen. Diese Aufbewahrungskosten wurden 2009 auf
+jährlich 4,26 US-Dollar für Medien in Freihandaufstellung und 0,86 US-Dollar für Magazinaufstellung
+geschätzt,21 es ergeben sich also bereits bei überschaubaren Bestandsgrößen
+nennenswerte Beträge.
+Die Frage der Aussonderung dauerhaft erworbener E-Medien stellt sich derzeit
+nur im Kontext ggf. zu entrichtender hosting fees bzw. bei lokalem Hosting durch die
+Bibliothek entstehender Kosten, die ggf. eingespart werden können.
+3 Überregionale Literaturversorgung
+und Lizenzierung
+In der Nachkriegszeit zeichnete sich das deutsche Bibliothekswesen durch eine doppelte
+Strategie im Bestandsaufbau aus. Zum einen pflegte jede Bibliothek gemäß ihrem Auftrag
+ihren lokalen Bestand. Zum anderen war die überregionale Literaturversorgung
+durch ein Fernleihnetz und durch die von der DFG geförderten Sondersammelgebietsbibliotheken
+und weitere Fachbibliotheken prägend für die lokale Erwerbungspolitik. Mit
+dem voranschreitenden Wandel von einer gedruckten zu einer elektronischen Publikationskultur
+veränderte sich das Konzept der überregionalen Literaturversorgung stark.
+So verlor die Fernleihe an Bedeutung, da sich die lokalen Bibliotheksbestände
+durch den Abschluss von E-Medien-Lizenzen mit einer Vielzahl von Inhalten und
+einem zunehmenden Open-Access-Angebot deutlich erweiterten. Dadurch sank einerseits
+der Bedarf, andererseits verhindern rechtliche Bedingungen insbesondere im
+E-Book-Segment oft eine Fernleihe.
+Das von 1949 bis 2013 bestehende Sondersammelgebietssystem wurde nach Evaluierung
+in ein gänzlich neues DFG-Förderprogramm überführt. Anstelle eines umfassenden
+Sammelauftrags für gedruckte Literatur bieten die nun geförderten Fachinformationsdienste
+für die Wissenschaft (FID) auf die jeweilige Fachkultur abgestimmte Angebote.22
+ Vgl. Courant u. Nielsen 2010.
+ Zur Umwandlung der Sondersammelgebiete in Fachinformationsdienste, vgl. exemplarisch Kümmel
+u. Strohschneider 2014 sowie Griebel 2015.
+258 Christoph Janello und Christian Pierer
+Das FID-System soll aber auch elektronische Ressourcen überregional zur Verfügung
+stellen.
+Überregionale Zusammenarbeit ist im Bereich der Lizenzierung elektronischer
+Medien mittlerweile der Standardfall geworden. Die meisten Angebote von Bibliotheken
+werden von Konsortialstellen verhandelt. Durch die Kooperation können meist
+bessere Preise erzielt, Änderungen an Lizenzverträgen leichter erreicht und die einzelnen
+Bibliotheken vom komplexen Verhandlungsprozess entlastet werden. Die
+überregionale Lizenzierung zeichnet sich zudem dadurch aus, dass sie immer wieder
+in teils erheblicher Höhe durch Drittmittel unterstützt wird. Die von der DFG lange
+Jahre geförderten National- und Allianzlizenzen sind hier ebenso zu nennen, wie von
+einzelnen Bundesländern unterstützte Landeslizenzen. Gerade diese Drittmittel sind
+aber auch ein zentraler Kritikpunkt an der überregionalen Lizenzierung. Die zusätzlichen
+Gelder führen in der Regel zu keiner Preisreduktion. Die Anbieter verdienen
+hingegen in Summe oft sogar mehr, da zwar für die teilnehmenden Einrichtungen die
+Kostenbeteiligung gleichbleibt, die Angebotserweiterung aber durch Drittmittel finanziert
+wird. Problematisch wird es für die teilnehmenden Bibliotheken meist erst,
+wenn die überregionale Lizenzierung nach Auslaufen der Drittmittelförderung fortgeführt
+werden soll.
+Während die überregionale Lizenzierung über viele Jahre die Erweiterung des Angebots
+zum Ziel hatte, trat mit den Transformationsverträgen23 ein neues Element hinzu.
+Die Lizenzen werden nun immer öfter um die Möglichkeit des kostenfreien Publizierens
+für Angehörige der teilnehmenden Einrichtungen erweitert. Bisher führten Transformationsverträge
+nicht zu den langersehnten Preissenkungen. Vielmehr bewegen sich die Bibliotheken
+auf den Pfaden des Subskriptionsgeschäfts – für eine Preissteigerung erhält
+man gleichbleibenden oder erweiterten Inhalt. Durch die Angebotserweiterung steigt
+aber auch die Abhängigkeit, da die Abbestellung von Lizenzen zu größerem Verlust und
+hohem Kommunikationsaufwand führt. Die Verhandlung von überregionalen Transformationsverträgen
+erscheint zunächst widersinnig, da das Publikationsverhalten eine lokale
+Angelegenheit ist, in die vormals fast ausschließlich der einzelne Forschende
+involviert war. In Transformationsverträgen wird die einzelne Publikation in überregionale
+Verrechnungsmodelle eingebracht, was sowohl zu Kostenverschiebungen innerhalb
+von Hochschulen und Forschungseinrichtungen als auch zwischen den teilnehmenden
+Einrichtungen führt. Zu rechtfertigen ist der überregionale Transformationsvertrag jedoch
+durch das Endziel – das flipping von Subskriptions- zu Open-Access-Zeitschriften.
+ Vgl. Kapitel 4.1 „Erwerbungspolitik, Etatplanung und Mittelallokation in wissenschaftlichen
+Bibliotheken“.
+4.2 Strategien des Bestandsmanagements 259
+4 Ausblick
+Durch das angestrebte flipping hin zu Open Access ergibt sich eine vollständige Verschiebung
+der Kosten vom Inhaltezugriff hin zur Inhaltepublikation. Um dieser Verschiebung
+Rechnung zu tragen, fordert u. a. der Wissenschaftsrat die Einführung von
+umfassenden Informationsbudgets. In diesen werden zunächst alle publikationsbezogenen
+Ausgaben „virtuell“ zusammengeführt, um Transparenz zu erzeugen. Der
+nächste Schritt besteht in einer umfassenden Zentralisierung aller Mittel.24 Im Falle
+einer vollständigen Open-Access-Transformation würde sich somit der planmäßige
+Bestandsaufbau erübrigen, da die Inhalte ohnehin frei verfügbar wären. Aber bereits
+in der Übergangsphase schwindet der finanzielle Handlungsspielraum der Bibliotheken,
+da an vielen Einrichtungen im Zweifel Publikationen höher gewichtet werden als
+Kosten für den Zugriff auf Literatur. Derzeit ist jedoch schwer abzusehen, ob die vollständige
+Transformation jemals erreicht wird – wahrscheinlicher ist zumindest in
+den kommenden Jahren die Persistenz der derzeitigen Mischsituation. Integrierte
+Informationsbudgets führen hier, sofern sie nicht ausreichend finanziert sind, zu
+einem institutionalisierten Konflikt zwischen Publikations- und Literaturversorgungsansprüchen,
+die einrichtungsspezifisch im Dialog gelöst werden müssen.
+Literatur
+Balz, Nina u. Christoph Janello: Zwischen Archivauftrag und Kundenorientierung: Nutzergesteuerte
+Erwerbung an der Bayerischen Staatsbibliothek. In: Bibliotheksforum Bayern 8 (2014), H. 3,
+S. 190–193.
+Barbers, Irene: COUNTER Release 5 in der Praxis. 2019. Verfügbar unter http://hdl.handle.net/2128/21879
+(06.09.2023).
+Courant, Paul M. u. Matthew Nielsen: On the Cost of Keeping a Book. In: The Idea of Order: Transforming
+Research Collections for 21st Century Scholarship. Hg. Paul N. Courant, Lisa Spiro, Kathlin Smith,
+Roger C. Schonfeld, Matthew Nielsen, Geneva Henry u. Charles Henry. Washington, D.C. 2010.
+S. 81–105.
+Geisler, Felix u. Lena Mauk: Pflicht oder Kür? Die Sammlung von Netzpublikationen an der Badischen
+Landesbibliothek im regionalen und nationalen Kontext – ein Werkstattbericht. In: Bibliotheksdienst
+56 (2022), H. 12, S. 699–715. https://doi.org/10.1515/bd-2022-0114.
+Griebel, Rolf: Dienste ohne Content? Die Fachinformationsdienste und der förderpolitische
+Paradigmenwechsel in der DFG. In: Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in
+Berlin und München 10 (2015), H. 1, S. 63–68.
+Hammerl, Michaela, Monika Moravetz-Kuhlmann u. Hildegard Schäffler: E-Medien im Profil: Digitaler
+Bestandsaufbau im Spannungsfeld von bestandsorientierter Erwerbungspolitik und
+bedarfsorientierter Informationsvermittlung. In: Bibliothek. Forschung und Praxis 33 (2009), H. 3,
+S. 303–314. https://doi.org/10.1515/bfup.2009.034.
+ Vgl. Wissenschaftsrat 2022: S. 71 ff.
+260 Christoph Janello und Christian Pierer
+Herb, Silvia: Patron-Driven Acquisition. In: Praxishandbuch Bibliotheksmanagement. Band 1. Hg. Rolf
+Griebel, Hildegard Schäffler u. Konstanze Söllner. Berlin, München, Boston: De Gruyter 2015.
+S. 227–240.
+Hindersmann, Jost u. Carin Tholen-Wandel: Warum eBooks das Leben nicht unbedingt leichter machen:
+Ein Erfahrungsbericht aus einer Universitätsbibliothek. In: b.i.t. online 21 (2018), H. 2, S. 116–127.
+Hindersmann, Jost u. Carin Tholen-Wandel: Warum eBooks das Leben noch immer nicht leichter machen:
+Ein Update von A bis F. In: b.i.t. online 22 (2019), H. 3, S. 207–212.
+Kümmel, Christoph u. Peter Strohschneider: Ende der Sammlung? Die Umstrukturierung der
+Sondersammelgebiete der Deutschen Forschungsgemeinschaft. In: Zeitschrift für Bibliothekswesen
+und Bibliographie 61 (2014), H. 3, S. 120–129. https://doi.org/10.3196/186429501461324.
+Otto, Anne: Erfahrungen mit dem Evidence Based Selection Modell zur Erwerbung von eBooks. In: KIM
+Kompakt 103 (2019), S. 19–23. https://ojs.ub.uni-konstanz.de/kimkompakt/article/view/7554
+(13.03.2023).
+Rothe, Ulrike, Jochen Johannsen u. Hildegard Schäffler: Strategien des Bestandsaufbaus in der hybriden
+Bibliothek. In: Praxishandbuch Bibliotheksmanagement. Band 1. Hg. Rolf Griebel, Hildegard Schäffler
+u. Konstanze Söllner. Berlin, München, Boston: De Gruyter 2015. S. 184–204.
+Siems, Renke: Das Lesen der Anderen: Die Auswirkungen von User Tracking auf Bibliotheken. In: O-Bib.
+Das Offene Bibliotheksjournal 9 (2022), H. 1, S. 1–25. https://doi.org/10.5282/o-bib/5797.
+Wissenschaftsrat: Empfehlungen zur Transformation des wissenschaftlichen Publizierens zu Open Access.
+2022. https://doi.org/10.57674/fyrc-vb61.

@@ -1,0 +1,609 @@
+Berthold Gillitzer
+3.4 Überregionale Bibliotheksdienstleistungen:
+Fernleihe und Direktlieferdienste
+1 Fernleihe, Direktlieferdienste, Konzepte
+überregionaler Versorgung: Gemeinsamkeiten
+und Unterschiede
+Die historischen Wurzeln der Fernleihe im 19. Jahrhundert haben mit der wachsenden
+Buchproduktion einerseits und einer Internationalisierung der Wissenschaften
+andererseits zu tun, die es den Bibliotheken unmöglich machten, auch nur die für
+ihren unmittelbaren Nutzerkreis relevanten Bücher zu erwerben. Die begrenzten Ressourcen
+betreffen dabei nicht nur Geldmittel, sondern auch Fragen der Kapazität und
+Logistik. Im Eigeninteresse bzw. im Interesse ihrer Nutzenden mussten die Bibliotheken
+kooperieren und einen Austausch ihrer Bücher auf Einzelbestellung in ihren
+Informationsservice aufnehmen. Das ist prinzipiell bis heute unverändert geblieben.
+Die Knappheit der Ressourcen betrifft im Gegensatz zur Fernleihe bei den Direktlieferdiensten
+nicht unbedingt die generelle Verfügbarkeit der Information, die wäre prinzipiell
+über die Fernleihe vorhanden, sondern ihre aktuelle Verfügbarkeit zu einem
+bestimmten Zeitpunkt und unabhängig von der konkreten Nutzungsumgebung einer
+Bibliothek, und hat deshalb mehr mit dem Bedarf einer „Wissens- und Informationsgesellschaft“
+zu tun, in der die Erreichbarkeit einer Information, auch unter zeitlichem
+Aspekt, einen Wirtschafts- und Erfolgsfaktor darstellt. Aus dieser unterschiedlichen
+Ausgangslage und unterschiedlichen Ausrichtung ergeben sich mehrere Konsequenzen:
+Während die Direktlieferdienste mit höheren Kosten auf Schnelligkeit angelegt sind,
+stellt die Fernleihe eine kostengünstige breite Versorgung sicher, liefert aber stets nur
+an die Heimatbibliothek der Nutzenden. Vereinfachend kann man sagen, dass die Fernleihe
+zu den Basisdiensten der Bibliotheken gehört, dass hingegen die Direktlieferung
+mit ihrem besonderen Serviceniveau als zusätzliche Leistung und deshalb nicht von
+allen Bibliotheken angeboten wird.
+In beiden Bereichen fanden grundlegende Weiterentwicklungen statt, die wenigstens
+bis dato eine Verschmelzung nicht nahelegen, jedoch zu einer gewissen Angleichung
+der Services führten. Zudem kann die klare Trennung zwischen Fernleihe und
+Direktlieferdiensten insbesondere im Bereich der Fachinformationsdienste so nicht
+mehr aufrechterhalten werden. Hier werden zum Teil spezialisierte Lieferdienste im
+Rahmen der Fernleihe oder unter Nutzung der Fernleihe für die Versorgung wissenschaftlicher
+Communities mit spezialisierter Literatur angeboten, die damit nicht
+mehr exakt dem einen oder anderen Service zugeordnet werden können. Dem liegt
+auch eine Vermischung der Zielsetzungen von Fernleihe und Direktlieferdiensten zu-
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-010
+grunde: Mit der immer weiter fortschreitenden Diversifikation von Wissenschaft und
+Forschung und dem auch weiter beschleunigt wachsenden Angebot an Informationsressourcen
+für diese Gebiete ist es nicht mehr nur die Knappheit der finanziellen und
+logistischen Ressourcen (Magazin und Speicherplatz beispielsweise), die es der Bibliothek
+vor Ort unmöglich macht, den gesamten Bedarf ihrer Nutzenden zu befriedigen.
+Zum einen sind auch hochspezialisierte Kenntnisse gefordert, um die relevanten
+Informationsressourcen für die ebenso hochspezialisierten Wissenschaften zur Verfügung
+zu stellen, und dies bedingt nicht nur ein spezialisiertes Personal, sondern
+auch einen Aufbau der Services in enger Abstimmung mit der wissenschaftlichen
+Community. Diese ist nie nur auf einen Ort begrenzt, sondern stets überregional, im
+Grunde heute auch stets international zu betrachten. Zum anderen ist auch in Wissenschaft
+und Forschung der Bedarf eines schnellen Informationszugangs gestiegen. Entsprechend
+können die dafür notwendigen Serviceangebote nicht nur als Basisservice
+auf Vollständigkeit angelegt sein, sondern müssen zudem die Aspekte einer bedarfsorientierten
+Dienstleistung berücksichtigen, was insbesondere auch heißt, dass nicht
+nur zur Abholung vor Ort bereitgestellt werden darf.
+Zugleich müssen diese Dienstleistungen vor dem Hintergrund einer fortschreitenden
+Digitalisierung der Bibliotheksservices auch in einem weiteren Kontext betrachtet werden.
+Während besonders für die Fernleihe die Lieferung aus Printbestand im Vordergrund
+stand, geht es jetzt vermehrt um die Zurverfügungstellung digitaler Medien möglichst für
+den unmittelbaren Zugriff.
+Im Folgenden wird ausführlicher auf diese grundlegende Dienstleistung der Fernleihe
+im Bibliothekswesen eingegangen. Des Weiteren wird am Beispiel von subito in
+Grundzügen der klassische Direktlieferdienst dargestellt. Weitere Services der überregionalen
+Bereitstellung von Informationen werden exemplarisch kurz angerissen, um
+dadurch die grundlegenden Faktoren und Konzepte dieser Entwicklung zu erläutern.
+2 Der Leihverkehr: grundlegende Begriffe
+und Strukturen
+Aus der Perspektive der Nutzenden bedeutet Fernleihe, dass sie Bücher oder Kopien
+aus einer anderen als ihrer Heimatbibliothek bekommen. Was hier tatsächlich geschieht,
+wird durch den englischen Begriff interlibrary loan besser getroffen: Die Heimatbibliothek
+entleiht das Buch bei der kooperierenden Bibliothek und stellt es dann
+wiederum ihren Kund:innen zur Ausleihe zur Verfügung. Die Heimatbibliothek der
+Nutzenden wird in diesem Zusammenhang auch als nehmende Bibliothek bezeichnet,
+ihr Anteil am ganzen Vorgang als nehmende oder auch passive Fernleihe. Die Bibliothek,
+die die Literatur zur Verfügung stellt, wird als gebende Bibliothek bezeichnet,
+ihr Anteil an diesem Geschehen als gebende oder aktive Fernleihe.
+160 Berthold Gillitzer
+Ganz wörtlich darf dieses Entleihen der nehmenden Bibliothek bei der gebenden
+Bibliothek allerdings nicht genommen werden, denn schließlich unterscheidet man
+im Leihverkehr auch die Fernleihe von Büchern, die Monographien-Fernleihe von
+der Kopien-Fernleihe oder auch Fernleihe nichtrückgabepflichtiger Medien, was den
+Begriff der „Leihe“ etwas merkwürdig erscheinen lässt. Beim zweiten Service werden
+von der gebenden Bibliothek Kopien einzelner Aufsätze aus Zeitschriften oder kleiner
+Teile von Büchern geliefert, die dann bei den Nutzenden der nehmenden Bibliothek
+verbleiben.
+Die Fernleihe innerhalb Deutschlands wird auf der Basis der Leihverkehrsordnung
+(LVO) abgewickelt. Rechtlich verbindliche Regeln existieren international nicht,
+aber Richtlinien der International Federation of Library Associations and Institutions
+(IFLA), die für eine gewisse Einheitlichkeit auch auf dieser Ebene sorgen.1 Obwohl
+oder gerade weil es in Deutschland eine Nationalbibliothek im strengen und engen
+Sinn, wie die British Library mit der Möglichkeit einer weitgehend zentralen Informationsversorgung,
+nicht gibt, ist dennoch das deutsche Fernleihwesen weltweit geradezu
+einmalig, sowohl was die Abdeckung der möglichen Informationsversorgung
+betrifft, wie auch die Möglichkeit eines kostengünstigen und dennoch praktisch flächendeckend
+angebotenen Services. Für eine Gesellschaft, die sich als Wissens- und
+Informationsgesellschaft versteht, stellt das wohl eine der Hauptschlagadern dar.
+3 Die Leihverkehrsordnung
+Die Abwicklung der Fernleihe wird in Deutschland grundlegend durch die „Ordnung
+des Leihverkehrs in der Bundesrepublik Deutschland“ oder auch kurz „Leihverkehrsordnung“
+(LVO)2 geregelt. Durch die LVO werden die grundlegenden Prinzipien des
+Leihverkehrs festgelegt, die kurz vorgestellt seien, aber auch viele Einzelheiten der
+tatsächlichen Abwicklung, auf die hier nicht näher eingegangen werden soll.
+1. Die Fernleihe beruht auf Gegenseitigkeit. Bibliotheken, die am Leihverkehr teilnehmen,
+verpflichten sich, nicht nur Bücher von anderen zu leihen, sondern
+auch die eigenen Bestände zur Verfügung zu stellen.3 In der Realität kommt dies
+nicht immer im vollen Umfang zum Tragen, so dass sich gerade kleinere Bibliotheken
+in gar nicht wenigen Fällen de facto nur nehmend an der Fernleihe
+beteiligen.
+ Internationaler Leihverkehr und internationale Dokumentlieferung: Grundsätze und Verfahrensrichtlinien;
+http://www.ifla.org/files/assets/docdel/documents/international-lending-de.pdf (04.03.2024).
+ https://www.bibliotheksverband.de/vertraege-und-vereinbarungen#Leihverkehrsordnung (20.09.2024).
+ Vgl. LVO Präambel
+3.4 Überregionale Bibliotheksdienstleistungen: Fernleihe und Direktlieferdienste 161
+2. Das Regionalprinzip: Deutschland ist in sieben Leihverkehrsregionen mit zehn
+Leihverkehrszentralen unterteilt. Das Regionalprinzip sieht vor, dass Fernleihbestellungen
+primär in der eigenen Region erledigt werden und erst dann in andere
+Regionen weitergeleitet werden, wenn die angemessene Erledigung in der eigenen
+Region nicht möglich ist (LVO, § 5). Die wichtige Konsequenz aus diesem Prinzip
+besteht in der derzeit auch regional organisierten technischen Infrastruktur
+der Fernleihe, in der die Fernleihbestellungen prinzipiell zunächst innerhalb
+eines Verbundes und des von ihm betriebenen Fernleihservers abgearbeitet
+werden.
+3. Ein drittes wesentliches Element des deutschen Leihverkehrs ist seine prinzipielle
+Kostenfreiheit für den Nutzenden. So heißt es in der LVO, dass für die Nutzenden
+lediglich eine vom Unterhaltsträger festzulegende Kostenpauschale erhoben wird
+(LVO § 19).
+Die Regelungen der Leihverkehrsordnung schaffen im Gesamten einen organisatorischen
+Rahmen, der sicherstellt, dass durch einen kooperativen Verbund öffentlich zugänglicher
+Bibliotheken – zum allergrößten Teil finanziert durch den Bund, die
+Länder oder Kommunen – eine prinzipiell kostengünstige flächendeckende Informationsversorgung
+für Wissenschaft, Fort-, Aus- und Weiterbildung gewährleistet ist. Dem
+dienen eine Fülle von Regelungen, die beispielsweise den Zweck des Leihverkehrs betreffen,
+die Zulassung der Bibliotheken, Versandbestimmungen, Bestände, die vom
+Versand generell ausgenommen werden können und vieles mehr. Diese Gewährleistung
+einer allgemeinen und prinzipiell kostenfreien Informationsversorgung klingt
+als Ziel der LVO vielleicht allgemein und pauschal, ist aber gerade auch im internationalen
+Vergleich etwas Besonderes. Es mag hochgegriffen erscheinen, hat aber durchaus
+seine Berechtigung, wenn man sagt, dass diese Besonderheit ein wesentliches
+Element der Demokratie vor allem in einer Wissensgesellschaft darstellt.
+4 Fernleihbestellungen
+4.1 Technische Aspekte der Fernleihbestellungen – Fernleihserver
+Zur Aufgabe einer Fernleihbestellung benötigt die Nutzenden zunächst die Information,
+welche Titel außerhalb seiner Bibliothek an anderen Bibliotheken, die an der
+Fernleihe teilnehmen, zur Verfügung stehen. Derzeit werden diese Informationen
+über die regionalen Verbundkataloge zur Verfügung gestellt. Um auf die gewünschten
+Informationen zugreifen zu können, muss aber entweder der lokale Bibliothekskatalog
+über eine Portalfunktionalität verfügen, die den Nutzenden die Recherche in diesen
+weiteren Katalogen erlaubt, oder er muss gleich in eine entsprechende regionale
+Rechercheumgebung wechseln. Die jeweilige Rechercheumgebung muss sodann über
+162 Berthold Gillitzer
+eine Bestellfunktion zur Fernleihbestellung verfügen und mit den regionalen Fernleihservern
+kommunizieren, die solche Bestellungen verwalten. Die ehemals übliche
+Aufgabe von Fernleihbestellungen über manuell auszufüllende „rote Leihscheine“ ist
+mittlerweile praktisch vollständig verschwunden.
+Über die Fernleihserver werden die Bestellungen innerhalb einer Region zentral
+verwaltet und es erfolgt darüber die Kommunikation mit den lokalen Bibliothekssystemen,
+um dort den Status der gewünschten Bücher zu überprüfen und die Bestellungen
+in der gebenden und nehmenden Bibliothek für die Ausleihe zu verbuchen. Auch
+die Reihenfolge, in der die potenziellen Geberbibliotheken für die Bestellung kontaktiert
+werden, der sogenannte Leitweg, ist in den Fernleihservern verankert. Ebenso
+wird das Nachsignieren zunächst nicht erfüllbarer Bestellungen über die zentralen
+Fernleihserver erledigt.
+Für Bestellungen, die über eine Region hinaus an andere Leihverkehrsregionen
+gehen, müssen zusätzlich die Fernleihserver zweier oder mehrerer Verbünde miteinander
+kommunizieren und Bestellungen und Statusmeldungen austauschen. Durch
+das komplexe Zusammenspiel von zum Teil lokalen Recherche- und Ausleihumgebungen
+und zentralen Servern wird ein erheblicher Zeitgewinn erreicht.4
+4.2 Technische Aspekte der Kopien-Fernleihe
+Schon bei der Bestellung von Kopien einzelner Artikel oder kleiner Teile eines Buches
+gibt es einige Besonderheiten. Zunächst sind diese Dokumente sehr häufig nicht direkt
+im Katalog nachgewiesen, und aus Fachdatenbanken, in denen sie enthalten sind, ist
+umgekehrt nicht immer eine Fernleihbestellung möglich, weil die besitzenden Bibliotheken
+dort nicht verzeichnet sind. In den meisten Fällen wird der Bestellung deshalb
+der Nachweis einer Zeitschrift oder bestenfalls eines Zeitschriftenbandes zugrunde liegen
+und die genauen Angaben zum Artikel (Verfasser, Titel, Seitenzahl usw.) werden
+durch die Nutzenden ergänzt.
+Auch die weitere Verarbeitung weist deutliche Unterschiede zur Buchausleihe
+auf: Da in diesen Fällen keine Bücher oder Zeitschriftenbände verliehen werden,
+muss auch keine Bestell- oder Ausleihverbuchung in den Lokalsystemen stattfinden.
+Einer Bestellverwaltung bedarf es aber dennoch zur Bearbeitung der Kopiebestellungen.
+Optimalerweise ist auch die Lieferkomponente mit der Bestellverwaltung integriert.
+Idealtypisch sieht der Ablauf dann so aus, dass in der gebenden Bibliothek ein
+Bestellzettel mit den bibliographischen Daten ausgedruckt wird, auf dem auch ein
+Barcode enthalten ist, über den an einer Scanstation, die mit dem Bestell- und Liefer-
+ An dieser Stelle ist festzuhalten, dass eine ideale Bestellabwicklung geschildert wurde. Wieweit der
+Durchgriff auf die lokalen Bibliothekssysteme tatsächlich stattfindet und wie hoch der Grad der Integration
+ist, hängt von den lokalen Systemen und den zentralen Fernleihservern in den Verbünden ab.
+3.4 Überregionale Bibliotheksdienstleistungen: Fernleihe und Direktlieferdienste 163
+system verknüpft ist, dann wiederum genau der zugehörige Auftrag identifiziert werden
+kann. Nach dem Scannen und der Qualitätskontrolle wird die Kopie des Artikels
+auf den Server des Liefersystems automatisch hochgeladen und für die nehmende
+Bibliothek zum Ausdruck bereitgestellt, der auch dort automatisch erfolgt. In allen
+deutschen Systemen, die funktional dem geschilderten Ablauf entsprechen, ist derzeit
+noch aus Gründen fehlender Tantiemevereinbarungen sichergestellt, dass die nehmende
+Bibliothek in jedem Fall nur einen Papierausdruck erhält, der den Nutzenden
+bereitgestellt wird. Es liegen jedoch bereits Konzepte vor, die in Absprache mit den
+Verwertungsgesellschaften VG Wort und VG Bild und Kunst auch die direkte elektronische
+Belieferung der Nutzenden im Rahmen des Leihverkehrs ermöglichen können.
+Für nehmende Bibliotheken, die ihren Nutzenden diesen Service zur Verfügung stellen
+wollen, hat das allerdings höhere Kosten zur Folge. Die Grenze zwischen Fernleihe
+und Direktlieferdienst verschwimmt damit nochmals.
+4.3 Fernleihe von Büchern und Buchtransport
+Da der postalische Einzelversand von Büchern oder Aufsatzkopien sehr zeitaufwändig
+und teuer ist, wurde in der Folge zweier zwischen 1993 und 1998 durch das Bundesministerium
+für Bildung, Wissenschaft, Forschung und Technologie finanzierter
+Projekte5 eine optimierte Infrastruktur geschaffen mit einer Kombination aus regionalen
+Bücherautodiensten mit regionalen Transportzentralen und überregionalem
+Postcontainerversand. Damit konnten Lieferungen unterschiedlicher Bibliotheken gebündelt
+werden, was erhebliche Einspareffekte erbrachte.
+Durch die starken Veränderungen im Gütertransport, in dem durch die Konkurrenz
+der verschiedenen Unternehmen deutliche Kostensenkungen bei gleichzeitig verbessertem
+Service erreicht werden konnten, wurde inzwischen auch das bislang
+etablierte Modell zugunsten einer Lösung in Frage gestellt, die dem Postcontainerversand
+ein stärkeres Gewicht beilegt. Vorstellbar wäre dabei eine Lösung, in der die regionalen
+Bücherautos vollständig aufgegeben werden und der gesamte Versand über
+eine Hauptumschlagsbasis stattfindet, an die alle Bibliotheken den Großteil ihres Versandaufkommens
+schicken und von der sie nach Umverteilung dort auch wieder beliefert
+werden. Ausgenommen von der Belieferung über diese Hauptumschlagsbasis
+wären nur die Sendungen zwischen Bibliotheken, deren gegenseitiges Lieferaufkommen
+so groß ist, dass ein direkter Postcontainerversand zwischen ihnen möglich ist,
+genauso wie der Versand an die Bibliotheken, deren Bestell- oder Lieferaufkommen
+so gering ist, dass sie gar keinen Postcontainer füllen können.
+ Zur Geschichte des Buchtransports und Fragen der Zukunftsperspektiven vgl. https://www.sub.unigoettingen.
+de/buechertransportdienst-deutschland// (04.03.2024).
+164 Berthold Gillitzer
+In einigen Ländern wurde der Weg zur zentralen Infrastruktur beschritten, mit
+der Nutzung der Versandzentrale an der SUB Göttingen als Hauptumschlagsbasis und
+ihrem geografisch sehr zentralen Sitz in Deutschland. In diesen Ländern wurden dementsprechend
+auch die regionalen Transportzentralen und Bücherautodienste abgeschafft.
+In anderen Regionen wurde die je eigene Transportzentrale samt Bücherauto
+beibehalten, weil diese bereits vorfinanzierte Infrastruktur sich noch als rentabel erweist.
+So findet derzeit der gesamte Büchertransport in einer Kombination aus diesen
+Modellen statt und beinhaltet direkten Postcontainerversand zwischen einzelnen Bibliotheken
+mit einem bilateral hohen Lieferaufkommen, den regionalen Versand über
+Bücherauto und Postcontainerlieferung an die regionale Transportzentrale, den Postcontainerversand
+zwischen unterschiedlichen regionalen Transportzentralen und den
+Postcontainerversand zur Transportzentrale an der SUB Göttingen, die sich als eine Art
+Hauptumschlagsbasis etabliert hat. Die weitere Entwicklung ist hier schwer abzuschätzen,
+zumal sie ja auch davon abhängt, welche Rolle der physische Transport von Büchern
+künftig spielen wird. Grundsätzlich werden aktuell schon vermehrt Bücherautos
+durch Postcontainerversand abgelöst, auch wenn regionale Transportzentralen beibehalten
+werden.
+4.4 E-Medien und Fernleihe
+Zunächst scheinen die Themen Fernleihe und E-Medien wenigstens nicht viel miteinander
+zu tun zu haben, wenn nicht gar in Konflikt zu stehen. Wenn es in der Fernleihe
+darum geht, Bücher oder Artikel aus Büchern von einem Ort zu einem anderen zu bringen,
+an dem sie benötigt werden, aber nicht vorhanden sind, dann scheint das für
+E-Medien überflüssig zu sein, da für diese ja gerade charakteristisch ist, dass sie
+nicht ortsgebunden zur Verfügung stehen müssten. De facto ist es aber doch so, dass
+sehr viele elektronische Medien gewissermaßen nur ortsgebunden zur Verfügung
+stehen, weil sie durch Lizenzbeschränkungen nur für Nutzende einer bestimmten
+Bibliothek zugreifbar sind. Dadurch entstehen Probleme, die sich bislang sehr viel
+schwieriger gestalten als der Transport von Büchern oder Kopien.
+Während für das Verleihen von Büchern oder das Kopieren von Artikeln aus dem
+eigenen Bestand einer Bibliothek eine urheberrechtliche Basis vorhanden ist, gibt es
+für die Ausweitung von Zugriffsmöglichkeiten auf elektronische Medien, für die die
+Bibliothek nur eine Nutzungslizenz erworben hat, keine derartige unumstrittene
+rechtliche Basis.6 Ob eine Bereitstellung über den Kreis der eigenen Nutzenden hinaus,
+z. B. als Ausdrucke oder Kopien einzelner Artikel, erlaubt ist oder nicht, hängt
+dann in einer Vielzahl von Fällen vom Lizenzvertrag und nicht vom Urheberrecht
+ Vgl. dazu auch Kapitel 10.2 „Urheberrecht“.
+3.4 Überregionale Bibliotheksdienstleistungen: Fernleihe und Direktlieferdienste 165
+ab,7 was lange Zeit zu einer diffusen rechtlichen Situation führte. Als Folge dieser unübersichtlichen
+Lage wurden bis ins Jahr 2013 aktuelle digitale Dokumente gänzlich
+von den Systemen der Fernleihe ausgeschlossen. Immer mehr Zeitschriften und auch
+Monographien werden aber nur noch digital erworben und bleiben überregional unzugänglich,
+wenn keine gezielten Maßnahmen ergriffen werden.8
+Für E-Journals wurden inzwischen die entscheidenden Schritte getan und eine
+prinzipiell funktionierende Lösung entwickelt, mit zwei grundlegenden Pfeilern, dem
+Nachweis der Lizenzdaten je Bibliothek in Elektronischer Zeitschriftenbibliothek
+(EZB) und Zeitschriftendatenbank (ZDB) und der Erweiterung der Fernleihserver um
+die Überprüfung dieser Lizenzdaten und einer Lieferkomponente, die es gestattet, die
+Kopien aus elektronischen Zeitschriften in der gleichen Weise auszuliefern, wie Kopien
+aus Printmedien. Auf die Einzelheiten dieser Lösung soll hier nicht weiter eingegangen
+werden. Wichtig ist die Tatsache, dass die Lieferung immer gemäß den jeweils
+geltenden Lizenzverträgen erfolgt, deren Fernleihklauseln für die Vergabe von
+Fernleihindikatoren in der EZB ausgewertet wurden. Zugleich wurde im Service
+über die Lieferung von Kopien aus Printzeitschriften nicht hinausgegangen, selbst
+wenn der Lizenzvertrag z. B. die Weitergabe einer Datei an die Endnutzer:innen erlauben
+sollte.9
+Bei E-Books sieht die Situation ungleich schwieriger aus.10 Zunächst existieren
+hier derzeit noch keine Fernleihklauseln in den Lizenzverträgen, wie dies bei Zeitschriften
+gängigerweise der Fall ist.11 Zum anderen kann aber auch das Modell der
+Kopie, die weitergegeben werden kann, nicht Anwendung finden, weil zumeist das
+ganze Buch für die Nutzenden von Interesse ist, welches auch im Printbereich nicht
+ Mit dem Urheberrechts-Wissensgesellschafts-Gesetz wurden im Urheberrecht eigene Schrankenregelungen
+geschaffen, die speziell den Versand von Kopien durch Bibliotheken regeln. Dabei wurde
+zum einen nicht mehr zwischen digitalen Kopien und analogen Kopien unterschieden, zum anderen
+wurde in § 60g ausdrücklich geregelt, dass Vereinbarungen (z. B. Bestimmungen in Lizenzverträgen)
+die erlaubte Nutzung gemäß den Schrankenregelungen grundsätzlich nicht unterbinden können.
+Somit können prinzipiell auch Kopien aus elektronischen Zeitschriften versandt werden, ohne dass
+dies ausdrücklich in den entsprechenden Lizenzverträgen geregelt sein müsste. Schwerwiegend wird
+das aber dadurch wieder eingeschränkt, dass dies nur für Neuverträge ab 1. März 2018 gilt. Zwar wurden
+dadurch die juristischen Spielräume erweitert, die Situation gleichzeitig aber verkompliziert.
+Vgl. https://www.gesetze-im-internet.de/urhg/__60g.html; https://www.gesetze-im-internet.de/urhg/__
+137o.html (04.03.2024) ; siehe dazu auch: Talke (2021).
+ Verschärfend wirkt hier sicher auch die e-preferred policy der DFG, die den bevorzugten Erwerb
+von E-Medien bei Förderung durch die DFG vorsieht. Vgl. Grundsätze für den Erwerb von Publikationen
+in den DFG-geförderten Fachinformationsdiensten für die Wissenschaft: https://www.dfg.de/for
+mulare/12_101/12_101_de.pdf (04.03.2024).
+ Inwieweit E-Medien in die direkte Auslieferung von Kopien an Endkunden im Leihverkehr über
+Tantiemenvereinbarungen mit der VG Wort einbezogen werden können, ist aktuell in Prüfung.
+ Vgl. zum Folgenden: Gillitzer 2016.
+ In wenigen Fällen sind Lizenzklauseln vorhanden, die die Lieferung von Kopien kleiner Teile gestatten.
+Für das Gesamtproblem fallen diese aber nicht ins Gewicht.
+166 Berthold Gillitzer
+als vollständige Kopie weitergeben werden darf. Der aktuell verfolgte Lösungsansatz
+beruht auf folgenden Grundgedanken: Für den Spitzenbedarf muss eine genau begrenzte
+Anzahl an zusätzlichen Einzelzugriffen ermöglicht werden, die kontrolliert
+auf Bestellung hin zur Verfügung gestellt werden können. Dies soll einerseits gewährleisten,
+dass dringend benötigte Information den berechtigen Nutzenden nicht prinzipiell
+vorenthalten bleibt, und andererseits den Rechteinhabern und Lizenzgebern die
+Gewähr bieten, dass ihre legitimen wirtschaftlichen Interessen nicht eingeschränkt
+werden. Zugleich erfordert das aber neue Lizenzmodelle, die einen solchen Service
+ermöglichen, wie auch ein technisches System, das wiederum gestattet, die Lizenzinformationen
+und diese limitierten Einzelzugriffe zu verwalten.
+In einem Pilotprojekt wurde das Vorhaben bereits innerhalb von Bayern umgesetzt.
+Im Hinblick auf die Lizenzen sieht dieses Modell vor, dass der Verlag der gebenden
+Bibliothek oder auch einem ganzen Konsortium von Bibliotheken für die E-Books
+eines bestimmten Pakets das Recht einräumt, jedes E-Book innerhalb eines Kalenderjahres
+auf Einzelbestellung innerhalb der Fernleihe, maximal n-mal bereitzustellen.
+Wird die Lizenz konsortial abgeschlossen, gilt die Höchstgrenze der Zugriffe pro Buch
+unter Umständen für alle am Paket beteiligten Bibliotheken gemeinsam. In den Pilotverträgen,
+die bislang geschlossen wurden, bewegt sich n zwischen 5 und 10 Bestellungen
+je Buch pro Jahr. Die Nutzenden müssen sich sowohl bei der Bestellung wie
+auch bei der Bereitstellung des gewünschten Dokuments über eine Anmeldung in
+ihrer lokalen Bibliothek authentifizieren und erhalten dann das E-Book über einen
+einmalig nur für diesen Vorgang generierten Link für die begrenzte Zeit von zwei Wochen
+bereitgestellt. Die Bereitstellung erfolgt stets so, wie eine Bereitstellung für die
+Nutzenden vor Ort. Wird ein Werk z. B. kapitelweise zur Verfügung gestellt, können
+auch die Nutzenden der Fernleihe nur kapitelweise darauf zugreifen. Die Bestellung
+und Lieferung eines E-Books für verschiedene Nutzende kann, im Gegensatz zur Ausleihe
+gedruckter Bücher, auch parallel erfolgen. Ist die maximale Anzahl von Bestellungen
+jedoch erreicht, kann das Buch nicht mehr bestellt werden. Die gebende
+Bibliothek erhält dann eine Benachrichtigung und könnte ggf. reagieren, z. B. durch
+eine Erweiterung der Lizenz in Verhandlung mit dem betreffenden Verlag.
+Auch wenn sich die Verbünde und Leihverkehrsregionen in Deutschland darauf
+geeinigt haben, einheitlich dieses Modell zu verfolgen, ist es noch nicht gelungen, den
+Service maßgeblich über Bayern hinaus zu erweitern. Vereinzelt werden lediglich
+Teilkopien aus E-Books, insbesondere Nachschlagewerken, für die entsprechende
+Klauseln in den Lizenzverträgen vorhanden sind, im Rahmen der Fernleihe zur Verfügung
+gestellt.
+Als proof of concept ist das noch immer laufende Pilotprojekt erfolgreich. Es
+zeigte sich, dass bezogen auf die zur Auswahl stehende Titelmenge, die Anzahl der
+Fernleihbestellungen auf E-Books exakt der gleichen Quote entspricht, wie sie Fernleihbestellungen
+auf Printbücher im Hinblick auf die dort zur Auswahl stehende sehr
+viel größere Titelmenge erreichen. Die große Befürchtung der Verlage, dass durch so
+3.4 Überregionale Bibliotheksdienstleistungen: Fernleihe und Direktlieferdienste 167
+ein Angebot die Lizenzierung der E-Book-Pakete durch Bibliotheken gefährdet sein
+könnte, erweist sich als nicht zutreffend.
+Dennoch ist es seit dem Start des Projekts im Jahr 2015, das technisch reibungslos
+und stabil läuft, nicht gelungen, die Anzahl der Lizenzen und der sich beteiligenden Verlage
+maßgeblich zu erhöhen. Da das Thema aber gerade im Bereich der Fachinformationsdienste
+mit ihrer Verpflichtung zur überregionalen Bereitstellung eine signifikante
+Rolle spielt, wird aktuell versucht, die technische Lösung für einen deutschlandweiten
+Zugriff zu erweitern. Zugleich werden durch die FIDs auch weitere Lizenzen nach dem
+oben erwähnten Modell abgeschlossen, um eben einer überregional tätigen Community
+den Zugriff auf E-Books zu ermöglichen.
+5 Direktlieferdienste: Grundlegende Fakten
+Prinzipielle Unterschiede der Direktlieferdienste zum Fernleihservice wurden einleitend
+schon aufgeführt, wichtige Aspekte seien hier nochmals kurz wiederholt. Beim
+Direktlieferdienst handelt es sich um eine privatrechtliche Dienstleistung der Bibliothek.
+Die Nutzenden bestellen direkt bei der liefernden Bibliothek12 und erhalten die
+Dienstleistung der Dokumentlieferung auch direkt von dieser und nicht über den
+Umweg einer Heimatbibliothek. Somit kann es hier auch keine Bündelung von Lieferströmen
+geben, sondern jede Kundin und jeder Kunde muss eigens beliefert werden. Ziel
+dieses Vorgehens ist in jedem Fall eine höhere Liefergeschwindigkeit und ein besserer
+Service für den Kunden, die Lieferung just in time.13 Dafür können im Direktlieferdienst
+differenzierte Service-Level geboten werden, die sich wiederum in unterschiedlichen
+Preisen niederschlagen. Im Gegensatz zur Fernleihe werden die Direktlieferdienste auch
+nicht als prinzipiell kostenfreie Basisdienstleistung verstanden, sondern Kostendeckungsaspekte
+spielen durchaus eine Rolle.
+ Dass Nutzende direkt bei der liefernden Bibliothek bestellen heißt nicht, dass auch das Bestellportal
+von der liefernden Bibliothek bereitgestellt werden muss. Im subito-Service sind mehrere Bibliotheken
+zusammengeschlossen und es wird ein gemeinsames Portal zur Recherche und Bestellung
+betrieben, aber die Geschäftsbeziehung besteht letztlich zwischen dem einzelnen Kunden und der jeweils
+liefernden Bibliothek.
+ Eine Ausnahme bilden hier Direktlieferdienste, die sich speziell dem Alten Buch widmen wie das
+EOD-Netzwerk. Hier geht es darum, Material, das außer zur Nutzung vor Ort sonst nicht zugänglich
+ist, auf Einzelbestellung überhaupt bereitzustellen und damit zugleich einen Beitrag zum digitalen Bestandsaufbau
+zu leisten. Vgl. dazu auch https://books2ebooks.eu/de?lang=de (04.03.2024).
+168 Berthold Gillitzer
+5.1 subito – Dokumente aus Bibliotheken e. V.
+Den prominentesten Direktlieferdienst in Deutschland stellt subito14 dar. Bei subito
+handelt es sich um einen gemeinnützigen Verein, bei dem als beschließendes Organ
+die Mitgliederversammlung fungiert. Die Stimmenverteilung berücksichtigt zu gewissem
+Ausmaß das Lieferaufkommen, was seine Berechtigung darin hat, dass zum
+einen die Bibliotheken mit dem höheren Lieferaufkommen auch mehr zur Finanzierung
+des Vereins beitragen, da der Verein und seine Infrastruktur sowohl durch feste
+Grundbeträge, die für alle gleich sind, finanziert wird, wie auch durch Beiträge und
+Entgelte, die abhängig vom Lieferaufkommen entrichtet werden. Zum anderen hat
+die gewichtete Stimmenverteilung ihre Berechtigung auch darin, dass Bibliotheken
+mit höherem Lieferaufkommen von allen Beschlüssen und ihren Auswirkungen entsprechend
+stärker betroffen sind. Als weiteres Vereinsorgan gibt es einen dreiköpfigen
+Vorstand, der durch die Mitgliederversammlung gewählt wird. Der Vorstand
+vertritt den Verein nach außen und ist zuständig für die strategische Entwicklung der
+subito-Dienste. Das dritte wichtige Vereinsorgan ist die Geschäftsstelle, die für den Betrieb
+der operativen Dienste zuständig ist, also das Bestellportal, die zentrale Rechnungsregulierung
+mit den Endkunden und die Abrechnung mit der VG Wort und den
+Verlagen.
+subito ist der Zusammenschluss von derzeit 38 Bibliotheken im gemeinnützigen
+Verein „subito – Dokumente aus Bibliotheken e. V.“. Durch den Zusammenschluss in
+einem Verein, der eine zentrale technische Infrastruktur mit Bestell- und Abrechnungssystem
+und einem zentralen Katalog zur Verfügung stellt, erhalten Kunden ein sehr
+umfassendes Angebot zur Bestellung von Aufsatzkopien oder Büchern zur Ausleihe.
+Eine Analyse der meistbestellten Zeitschriftentitel hat gezeigt, dass praktisch keine nennenswerte
+Konzentration auf bestimmte Zeitschriften festgestellt werden kann, sich
+vielmehr die gesamten Bestellungen sogar auf deutlich über 100 000 Zeitschriften aus
+den verschiedensten Fachgebieten verteilen. Der subito-Zeitschriftenkatalog bietet dazu
+eine Auswahl aus über 1 Mio. Zeitschriften.
+Die andere Seite des kooperativen Zusammenschlusses bilden die Synergieeffekte für
+die beteiligten Bibliotheken. Der Betrieb eines Bestellportals mit freier Kundenregistrierung,
+einer Abrechnungs- und Regulierungskomponente mit Abrechnung zwischen Bibliothek
+und Kunden auf der einen Seite und Verlagen und den Verwertungsgesellschaften
+auf der anderen Seite, wäre für eine einzelne Bibliothek viel zu aufwändig, rentiert sich
+aber für einen Zusammenschluss von Bibliotheken, die gemeinsam den Aufwand tragen.
+subito ist als kooperativer Verbund in Deutschland der größte Dokumentlieferdienst.
+Er ist aber auch paradigmatisch insofern, als die Dienstleistung im Hinblick
+auf die eingangs genannten Ziele der Direktlieferdienste perfektioniert ist. Der gesamte
+Prozess von der Nutzerregistrierung, über Verwaltungsinformationen zum Pro-
+ https://www.subito-doc.de/ (04.03.2024).
+3.4 Überregionale Bibliotheksdienstleistungen: Fernleihe und Direktlieferdienste 169
+duktportfolio, über die zwar lokal betriebenen Auftragsverwaltungen bis hin zur zentralen
+Abrechnung mit den Kunden, den Verlagen und der VG Wort wird durch
+integrierte oder eng miteinander verzahnte Systeme vollständig unterstützt und
+ermöglicht so eine rationelle Abwicklung des Service. Der Lieferservice wird als
+Standardlieferung mit garantierter Auslieferung innerhalb von 72 Stunden und als
+Eilservice mit einer garantierten Lieferfrist von 24 Stunden angeboten. Bei Kopien
+können verschiedene Lieferwege gewählt werden, von der Postlieferung bis hin
+zur elektronischen Lieferung einer graphischen Datei, abhängig von den urheberrechtlichen
+oder lizenzrechtlichen Bedingungen. Für die Lieferungen werden
+gemäß den vertraglichen Vereinbarungen mit den Verlagen und der VG Wort und
+im Hinblick auf soziale Ausgewogenheit mehrere Kundengruppen unterschieden.
+Durch die komplexen Verträge, die sich im Laufe der Jahre aus dem Urheberrecht
+und verschiedenen rechtlichen Auseinandersetzungen zwischen subito und den Verlagen
+ergeben haben, ist auch die Struktur der Kundengruppen sehr kompliziert geworden. Zunächst
+unterscheidet subito zwischen Bibliotheken als Kunden („library service“) und direkt
+belieferten Endkunden („direct customer service“). Daneben spielt es auch eine Rolle,
+ob sich ein Kunde innerhalb Deutschlands oder des sogenannten GALS-Territoriums befindet
+(Deutschland, Österreich, Liechtenstein, Schweiz) oder im darüberhinausgehenden
+Ausland. Bei der Direktbelieferung von Kunden werden dann schließlich drei Kundengruppen
+unterschieden, bei der die günstigsten Konditionen für wissenschaftliche Nutzende
+angeboten werden, da hier ein explizites Förderinteresse vorhanden ist. Davon
+werden kommerzielle Nutzende unterschieden und Privatpersonen.
+Der konkrete Preis einer Lieferung ist von all diesen Faktoren abhängig, was zunächst
+kompliziert wirken mag. Hat sich ein Kunde aber einmal korrekt zugeordnet,
+kann er mit vollkommen einheitlichen Konditionen rechnen, über alle Bibliotheken
+hinweg, sowohl was Preise als auch was die Liefermodalitäten betrifft. Durch die vollständige
+Abdeckung aller Fachgebiete und den einheitlichen Service hat subito in dieser
+Hinsicht das Konzept eines Dokumentlieferdienstes vollständig verwirklicht.
+5.2 Services überregionaler Informationsbereitstellung
+in den Fachinformationsdiensten (FID)
+Wie im einleitenden Absatz zu den unterschiedlichen Typen der Services schon dargelegt,
+gehört die überregionale Bereitstellung von Informationen zu den Kernaufgaben
+der Fachinformationsdienste (FID).15 Ein besonderes Gewicht liegt hierbei auf der Zurverfügungstellung
+eines Zugangs zu elektronischen Ressourcen wie Datenbanken,
+elektronischen Zeitschriften, E-Books usw. Die Lieferung einzelner Titel auf Bestellung
+ist dabei nicht das bevorzugte Mittel der Wahl. Eine solche Bestellung stellt immer
+ S. hierzu auch das Kapitel 5.5 „Fachinformationsdienste für die Wissenschaft“.
+170 Berthold Gillitzer
+schon eine Hürde und meist auch eine zeitliche Verzögerung dar, im Vergleich zum
+direkten Online-Zugriff. Da der Zugriff auf lizenzierte Medien normalerweise auf die
+registrierten Nutzenden einer Einrichtung beschränkt ist, manchmal sogar nur auf
+bestimmte Nutzergruppen, sind gerade bei diesen Medien, die technisch grundsätzlich
+ortsunabhängig nutzbar wären, hohe Hürden für eine überregionale Bereitstellung
+gegeben. Eine mögliche Lösung ist eine pauschale überregionale Lizenzierung
+mit sogenannten Nationallizenzen.16 Die Lizenzierung erfolgt beim Rechteinhaber
+dabei für alle Nutzenden wissenschaftlicher Einrichtungen (und ggf. unabhängigen
+Einzelpersonen) mit Wohnsitz in Deutschland. Über die institutionelle Anmeldung
+per IP-Adresse hinaus ist zwar bei nicht institutionell zugeordneten Nutzenden eine
+Einzelanmeldung für diesen Dienst notwendig. Diese steht aber prinzipiell jedem mit
+Wohnsitz in Deutschland offen. Als eigene Förderlinie wurde diese Form der Lizenzierung
+von der DFG bereits 2010 aufgegeben. Im Rahmen der Fachinformationsdienste
+werden solche Lizenzen aber dennoch weiter abgeschlossen. Klar ist dabei, dass dies
+nicht für die Versorgung mit Grundlagenliteratur geeignet ist, die ja auch breitflächig
+an Universitäts- und Hochschulbibliotheken vorgehalten wird. Selbst bei spezialisiertem
+Content werden in größeren Fächern mit einer potenziell umfangreichen Nutzerschaft
+aus Kostengründen hier schnell Grenzen erreicht.
+In einer anderen Form der FID-Lizenzen erfolgt die Lizenzierung gezielt für eine
+begrenzte Community der Angehörigen einer speziellen wissenschaftlichen Disziplin.
+Auf Varianten und Details soll an dieser Stelle nicht eingegangen werden. Die Anmeldung
+der Nutzenden ist in diesem Fall dann häufig mit einer Zuordnung zu einer Institution
+verknüpft, die überprüft wird und auf deren Basis die Zugehörigkeit zur
+gefragten wissenschaftlichen Community sichergestellt wird.
+Für Nutzende hat diese Form der Überregionalität den Vorteil, dass der Zugriff
+auf die gewünschten Medien ad hoc möglich ist, sobald einmal die Hürde der Anmeldung
+genommen ist. Als alleiniges Modell greift es zu kurz, weil schon aus Kostenund
+Aufwandsgründen nicht der gesamte, im Rahmen von FID-Mitteln bereitgestellte
+Content mit dieser Art von Lizenzen verfügbar gemacht werden kann.
+Wie weiter oben schon erwähnt wurde, spielt deshalb ergänzend nach wie vor die
+Fernleihe innerhalb der FID-Services eine gewisse Rolle. Zum einen betrifft das die Integration
+des Bestellservice in die FID-Portale, die zunächst einmal für Nutzende aus
+Wissenschaft und Forschung den Service präsent und verfügbar macht. Zum anderen
+geht es um die Integration von E-Medien in die Fernleihe, die noch ausgebaut werden
+muss. Bei Aufsätzen ist hier ohnehin schon eine gute Verfügbarkeit auch von ERessourcen
+über den Leihverkehr gegeben. Die größere Herausforderung stellen, wie
+oben ausgeführt, in dem Zusammenhang noch immer E-Books dar. Für die Lizenzierung
+existieren Modelle, deren Vereinbarung mit den Rechteinhabern allerdings aufwändig
+ist und derzeit oftmals auch auf Vorbehalte stößt. Die technische Infrastruktur,
+ Siehe hierzu: https://www.nationallizenzen.de/ (04.03.2024).
+3.4 Überregionale Bibliotheksdienstleistungen: Fernleihe und Direktlieferdienste 171
+die bislang nur in Bayern vollständig Verwendung findet, wird aktuell aber so erweitert,
+dass für FID-Bibliotheken der Einsatz deutschlandweit möglich wird. Trotz dieser
+sinnvollen Ergänzung der FID-Lizenzen bleiben E-Books im Zusammenhang der überregionalen
+Bereitstellung von Informationen ein Problem. Täglich erreichen die Bibliotheken
+Anfragen, die wegen vertraglicher Beschränkungen nicht erfüllt werden können
+und im schlimmsten Fall kann für Nutzende eine Bibliotheksreise notwendig werden,
+um E-Medien vor Ort in einer Bibliothek zu konsultieren, weil ihnen aufgrund der besagten
+Einschränkungen kein Remote-Zugriff ermöglicht werden kann.
+Ein entscheidender Schritt, um diese Situation zu verbessern, wäre die Verankerung
+der Lieferbarkeit von E-Books im Leihverkehr durch eine Schrankenregelung im
+Urheberrecht. Nach einem EuGH Urteil von 2016 sollen E-Books im Verleih Printbüchern
+gleichgestellt werden, was im Grunde auch die Möglichkeit der Fernleihe beinhalten
+würde. Die Anwendung auf die Lizenzmodelle bei wissenschaftlichen
+E-Books, die im Regelfall das parallele Zugriffsrecht für einen definierten Nutzerkreis
+vorsehen und nicht die zeitlich befristete Überlassung einer Kopie, wie beispielsweise
+im Service der Onleihe, erscheint jedoch schwierig. Dennoch wäre es denkbar, hier
+rechtliche Rahmenbedingungen zu schaffen, um einzelne externe Zugriffe über den
+Rahmen des vertraglich primär vereinbarten Nutzerkreises hinaus ganz grundsätzlich
+zu ermöglichen, wie dies beispielsweise bei der E-Book-Fernleihe der Fall ist.
+Andere Entwicklungen zur bedarfsgerechten überregionalen Bereitstellung von
+Informationsressourcen im Bereich der FIDs adressieren die Problematik der Beschaffung
+von Literatur (in Print oder digital), die in Bibliotheken nicht oder wenigstens
+noch nicht vorhanden ist. Zum einen ist das eine direkte Konsequenz auf den Verzicht
+des möglichst vollständigen Sammelns, der mit der Veränderung von den Sondersammelgebieten
+(SSGs) zu den FIDs einherging. Zum anderen ist es aber auch die Konsequenz
+der eingangs bereits erwähnten weiter anwachsenden Menge an zur Verfügung
+stehender hochspezialisierter Literatur und der grundsätzlich beschränkten Kapazität,
+diese vorsorgend vorzuhalten. Der bedarfsorientierte Service kann aber auch schlicht
+die Form der Bereitstellung für die Nutzenden betreffen. Ein Beispiel dafür ist der Service
+des „Wunschbuchs“, wie er unter diesem oder anderem Namen in unterschiedlichsten
+FIDs angeboten wird.17 Hierbei geht es sowohl um Anschaffungswünsche
+unterschiedlichster Arten von Medien wie auch um eine Digitalisierung bereits vorhandener
+vor allem urheberrechtsfreier Literatur. Am Ende steht immer eine Bereitstellung
+für die anfordernden Nutzenden, sei es in digitaler Form oder im Rahmen der
+bereits bekannten Services, wie Fernleihe, Direktlieferdienst oder als freie Webressource.
+18 Stets geht es darum, einen möglichst vollständigen Nachweis der fachrelevan-
+ S. dazu beispielhaft: https://www.historicum.net/services/wunschbuch; https://www.osmikon.de/ser
+vices/wunschbuch (beide 04.03.2024)
+ Ein Beispiel hierfür ist unter anderem ein Service wie der „Direkte Leihverkehr“ im FID für internationale
+und interdisziplinäre Rechtsforschung, der einen Buchversand zur Entleihung oder auch
+den Zugang zu einem virtuellen Lesesaal, also den kontrollierten Zugang zu E-Ressourcen nur für or-
+172 Berthold Gillitzer
+ten Ressourcen in einem Portal zu bündeln und von dort aus eine Vielzahl unterschiedlicher
+Zugangswege anzubieten, um gewissermaßen in jedem Fall für die einschlägige
+Community den Zugang zu ermöglichen, sei es über eine Ausleihe vor Ort in der nächstgelegenen
+Bibliothek, die oben beschriebenen Bereitstellungswege oder, wie beispielsweise
+im Service adlr.link des FID Medien-, Kommunikations- und Filmwissenschaften,
+auch den Versand eines neu beschafften Printmediums zur Ausleihe, direkt an die Anfragenden
+im Zuge des Vorgangs der Beschaffung.19
+6 Perspektiven der Direktlieferdienste
+und Fernleihe
+Seit einer deutlichen Verschärfung des Urheberrechts im Hinblick auf die Lieferdienste
+der Bibliotheken im Jahr 2008 sind deutliche Rückgänge bei Bestellung und
+Lieferung sowohl in den Direktlieferdiensten wie auch – moderater, aber spürbar –
+bei der Fernleihe zu verzeichnen. Auch eine erneute Revision des Urheberrechts, zum
+Teil zu Gunsten der Bibliotheken, im Jahr 2018 hat für keine Trendwende in der Hinsicht
+gesorgt. Es mag hier vielfältige Ursachen geben, aber zum einen hat die Tendenz
+sicherlich mit der laufend verbesserten Versorgung mit genuin elektronischen Ressourcen
+durch Bibliotheken zu tun. Zum anderen ist sicherlich auch ein verändertes
+Nutzungsverhalten, bei dem ein unmittelbarer Abruf der gewünschten Information
+erwartet wird, für diese Rückgänge verantwortlich.
+All das ändert jedoch nichts daran, dass der grundsätzliche Bedarf einer Ressourcenteilung
+und des überregionalen Austauschs weiterhin vorhanden ist und sich gerade
+auch bei E-Books sogar verschärfen kann. Dass von Nutzenden diese Lücke zum
+Teil nicht wahrgenommen wird, weil sie sich mit dem unmittelbar im Web Verfügbaren
+zufriedengeben, kann im Grunde nicht als Fortschritt betrachtet werden, sei hier
+aber nicht weiter diskutiert.
+Die Bibliotheken haben mit weitreichenden Modifikationen der Dienste darauf
+bereits reagiert, und es wird sich in den kommenden Jahren zeigen, wohin die teilweise
+Angleichung von Direktlieferdiensten und Fernleihe führt. Es scheint plausibel,
+dass eine modernisierte Fernleihe als Basis-Service Bestand haben wird. Ob sich
+neben diesem traditionellen Service groß angelegte und auch entsprechend aufwändige
+Services und Projekte wie Subito langfristig werden behaupten und an die jeweiligen
+Herausforderungen anpassen können, werden die kommenden Jahre erweisen.
+dentliche Professorinnen oder Professoren oder den zugeordneten akademischen Mittelbau des Faches
+zur Verfügung stellt. https://vifa-recht.de/service/direkter-leihverkehr/ (04.03.2024).
+ https://katalog.adlr.link/Search/Home, https://wikis.sub.uni-hamburg.de/webis/index.php/Kommuni
+kations-,_Medien-_und_Filmwissenschaft (04.03.2024).
+3.4 Überregionale Bibliotheksdienstleistungen: Fernleihe und Direktlieferdienste 173
+Es wird sich zunächst aber ein anderer Trend fortsetzen, wie er sich in den Services
+der FIDs zeigt.
+So wie sich der Informationsbedarf in Wissenschaft und Forschung dynamisch entwickelt,
+so müssen auch die zugehörigen Services laufend modifiziert und weiterentwickelt
+werden. Es entsteht eine Vielzahl an Diensten, die oftmals Projektcharakter haben
+und deren Kontinuität nicht von vornherein sichergestellt werden kann. War beispielsweise
+Subito als Direktlieferservice im Verbund von Bibliotheken noch als zentral organisierte
+Dienstleistung mit einheitlichen Konditionen angelegt, die über lange Jahre
+gemeinschaftlich weiterentwickelt wurde, sind die Services der überregionalen Informationsversorgung
+heute oftmals auf die ganz speziellen Bedürfnisse bestimmter Fächer
+und wissenschaftlicher Communities ausgerichtet. Es ist klar, dass sich diese
+Services mit der Entwicklung in Forschung und Wissenschaft verändern müssen, aber
+auch wieder durch andere Services abgelöst werden können.
+Literatur
+Gillitzer, Berthold: Digitale Lücken schließen. In: Bibliotheksforum Bayern 10 (2016), S. 164–167.
+Gillitzer, Berthold u. Knaf Karin: Dokumente für die Wissensgesellschaft – Das Urheber-
+Wissensgesellschafts-Gesetz und die Fernleihe. Ein Schritt für die digitale Informationsversorgung
+der Wissenschaft? In: Bibliotheksdienst 52 (2018), S. 619–630. https://doi.org/10.1515/bd-2018-0072.
+Hilpert, Wilhelm,Berthold Gillitzer, Sven Kuttner u. Stephan Schwarz: Dokumentlieferung:
+Direktlieferdienste und kommerzielle Fernleihdienste. In: Benutzungsdienste in Bibliotheken.
+Bestands- und Informationsvermittlung. Berlin: De Gruyter 2014. S. 212–228.
+Hilpert, Wilhelm,Berthold Gillitzer, Sven Kuttner u. Stephan Schwarz: Dokumentlieferung: Fernleihe. In:
+Benutzungsdienste in Bibliotheken. Bestands- und Informationsvermittlung. Berlin: De Gruyter 2014.
+S. 181–209.
+Homann, Mark: Die Umsetzung des UrhWissG bei subito – ein kurzer Blick in den Maschinenraum. In:
+GMS Medizin – Bibliothek – Information 18 (2018). https://doi.org/10.3205/mbi000418.
+Talke, Armin: Bibliothekserlaubnisse im Urheberrecht. Berlin: Universitätsverlag der TU Berlin 2021.
+https://doi.org/10.14279/depositonce-10809.

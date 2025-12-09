@@ -1,0 +1,613 @@
+﻿Karina Iwe
+9.2 Ausstellungs- und
+
+Veranstaltungsmanagement
+
+1 Einleitung
+1.1 Bibliothek und museale Ausstellungspraxis
+
+Bibliotheken wie Museen sind beide gleichermaßen öffentliche Orte, die Zugang zu Wissen
+ermöglichen, dieses vermitteln und die Besucher:innen insbesondere im Ausstellungsbe-
+reich in ihren Bann ziehen sollen. Beide Institutionen sind wichtige Einrichtungen unserer
+heutigen Gesellschaft und auch neben anderen Faktoren entscheidend, wenn es beispiels-
+weise um relevante Themen wie Nachhaltigkeit und auch das Wohlbefinden der Besu-
+cher:innen geht. Bibliotheken mit Museen bzw. einem Ausstellungsbereich setzen sich in
+Ausstellungen mit den Themen ihrer vielfältigen, einzigartigen und reichen Sammlungen
+kritisch auseinander. Die erzählten Geschichten vermitteln den Besucher:innen neue Per-
+spektiven und machen Zusammenhänge verständlicher. Im besten Falle regen sie gesell-
+schaftliche Debatten an oder laden anhand der Sammlungsbestände zum Diskutieren mit
+der Öffentlichkeit ein. Das Endprodukt Ausstellung schafft ein Erlebnis, das sich aus
+Sammlungsobjekten, Objektgeschichten (Inhalten), ggf. Multimediaeinsatz und szenografi-
+schen Elementen zusammensetzt – und beim Publikum vielleicht auch Emotionen weckt.
+
+Die Ausstellungsbereiche bieten den Nutzer:innen der Einrichtung, aber auch der
+weiter gefassten Öffentlichkeit, an, regelmäßig vorbeizukommen, einzigartige Stücke
+der Dauer- und/oder Sonderausstellungen in einem Ausstellungsraum, wo ein konzen-
+triertes und zugewandtes Hinschauen möglich ist, in Augenschein zu nehmen, in die
+Geschichten rund um die Sammlungsstücke und Wissenswelten einzutauchen und sich
+mit den breitgefächerten Themen der Gedächtnisinstitutionen auseinanderzusetzen.
+
+Diverse Veranstaltungen für die allgemeine Öffentlichkeit oder auch spezielle
+Zielgruppen gehören zum vielfältigen Kernangebot wissenschaftlicher Bibliotheken.
+Neben den klassisch präsentierten Ausstellungen gibt es auch Interventionen im Frei-
+handbereich. Das Veranstaltungsangebot rund um die Ausstellungen lässt viele Mög-
+lichkeiten und Formate zu, um ein stetes Interesse zu generieren – und auch neue
+Zielgruppen anzusprechen. Die Entwicklungen der letzten Jahre, wie etwa hybride
+Veranstaltungen oder digitale Ausstellungen, tragen zur Attraktivität, Zugänglichkeit
+und Reichweite bei und unterstreichen ein zeitgemäßes Angebot.
+
+Im Bereich öffentlicher Bibliotheken fallen die zahlreichen Wechselausstellungen
+mit kleinen Budgets auf. Sie sind an diesen Einrichtungen ein unverzichtbarer Bestand-
+teil der Programmarbeit und präsentieren häufig die Zusammenarbeit mit Kunstschaf-
+fenden und/oder lokalen Vereinen, Organisationen oder Verlagen.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-042
+
+
+
+738 Karina Iwe
+
+Im Folgenden sollen Kernbereiche aus dem aufwendigen Ausstellungsprozess, von
+der Ausstellungskonzeption bis zur Realisierung, sowie aktuelle Trends und Angebote
+vorgestellt werden. Sie dienen der Orientierung innerhalb eines dynamischen Arbeits-
+bereiches, der naturgemäß abteilungsübergreifend agiert. Das Konzipieren von Ausstel-
+lungen bedeutet die wechselhafte Gestaltung (visuelle Kommunikation) immer wieder
+neuer Inhalte und das Begleiten von Ausstellungen vor und nach dem Eröffnungszeit-
+raum. Es setzt damit eine Zusammenarbeit mit zahlreichen Akteur:innen voraus. Der
+Ausstellungsbereich einer Bibliothek unterliegt der Abhängigkeit von fachlichen, perso-
+nellen, finanziellen und zeitlichen Ressourcen, die die Möglichkeiten und Spielräume
+beeinflussen. Dieser Beitrag will Perspektiven des Veranstaltungsmanagements ebenso
+in den Blick nehmen wie die Verknüpfung mit digitalen Dienstleistungen – und so den
+verschiedenen Sammlungen gerecht werden.
+
+1.2 Die neue ICOM-Museumsdefinition und ihre Bedeutung für
+das Ausstellen von Sammlungsbeständen
+
+Die Herausforderungen unserer Zeit sind umfangreich und vielschichtig. Die Gesell-
+schaft „verändert sich, sie wird dynamischer, komplexer, digitaler, vielstimmiger, ver-
+netzter und nachhaltiger“.1 Der museal geprägte Ausstellungsbereich hat durch die
+2022 neu formulierte Museumsdefinition, auf die sich die Museumsakteur:innen des
+Internationalen Museumsrats (International Council of Museums – ICOM) einigen
+konnten, einen zentralen Bezugspunkt für die aktuelle Ausstellungsarbeit:
+
+Ein Museum ist eine nicht gewinnorientierte, dauerhafte Institution im Dienst der Gesellschaft, die
+materielles und immaterielles Erbe erforscht, sammelt, bewahrt, interpretiert und ausstellt. Öffent-
+lich zugänglich, barrierefrei und inklusiv, fördern Museen Diversität und Nachhaltigkeit. Sie arbeiten
+und kommunizieren ethisch, professionell und partizipativ mit Communities. Museen ermöglichen
+vielfältige Erfahrungen hinsichtlich Bildung, Freude, Reflexion und Wissensaustausch.2
+
+Darin spiegeln sich aktuelle Entwicklungen und Richtlinien für die Aufgaben und Funk-
+tionen von Museen wider. Die neue ICOM-Museumsdefinition ist eine wichtige Orientie-
+rung für die Vielfalt, die innerhalb der Museen besteht, sie ist Ausdruck einer Haltung
+und kennzeichnet die Art, wie man arbeiten sollte, sie ist jedoch nicht rechtlich bin-
+dend. Wichtige Gegenwartsbegriffe unserer Gesellschaft werden nun hervorgehoben:
+Der museale Ausstellungsbereich präsentiert die Sammlungen, die öffentlich zugäng-
+lich, barrierefrei sowie inklusiv präsentiert werden. Diversität sowie Nachhaltigkeit
+werden explizit aufgeführt. Die Orte dienen dem Austausch von Wissen, eines der zen-
+
+ Die deutsche Übersetzung liegt seit 2023 vor: Deutscher Museumsbund e. V., Arbeitskreis Ausstel-
+lung 2023.
+ ICOM Deutschland 2023.
+
+
+
+9.2 Ausstellungs- und Veranstaltungsmanagement 739
+
+tralen Ziele ist es, mit der Museums- und Ausstellungsarbeit den gesellschaftlichen Zu-
+sammenhalt zu stärken.
+
+1.3 Ausstellungen und dazugehörige Begleitprogramme –
+Tradition und neue Wege
+
+„Nach der Ausstellung ist vor der Ausstellung“ – kaum sind die Ausstellungen eröffnet,
+beginnt die intensive Zeit der Begleitprogramme und Führungen für alle Akteur:innen
+rund um das Ausstellungsgeschehen. Jede Ausstellung hat ein eigenes Thema als
+Schwerpunkt und spricht eigene Zielgruppen an. So müssen verschiedene Vermitt-
+lungsformate entwickelt und umgesetzt werden, da die Angebote bei Ausstellungen zu
+mittelalterlichen Handschriften oder zeitgenössischen Fotografieausstellungen abwei-
+chend ausfallen können. Es ist ratsam, das Begleitprogramm über Kooperationen und
+abteilungsübergreifend aufzusetzen.
+
+Um auch ein möglichst breites Publikum der Ausstellung anzusprechen, sind kre-
+ative Wege bei der Angebotsauswahl sinnvoll, Vielfalt spielt hier eine große Rolle,
+jedoch müssen die Angebote ihr Publikum mitunter auch erst finden und sich etablie-
+ren. Das Ausprobieren und Experimentieren mit originellen (Vermittlungs-)Formaten
+für ein vielfältiges Publikum mit unterschiedlichen Bedürfnissen gehört zu den
+Grundpfeilern der modernen Ausstellungsarbeit.
+
+Neben den klassischen Kurator:innen-Führungen für die Öffentlichkeit, für Mitar-
+beiter:innen, für angemeldete Gästegruppen, Schulklassen und Einzelbesucher:innen
+ermöglicht auch ein spezielles Vermittlungsformat wie „Unter der Lupe“ der SLUB Dres-
+den den Besucher:innen, Betrachtungen an originalen Handschriften durch Bibliotheks-
+mitarbeiter:innen und/oder Wissenschaftler:innen für das Publikum vorzunehmen.
+Unterhaltsame Kurzführungen zu spezifischen Tageszeiten (z. B. Lunchtime und/oder
+Coffeebreak-Führungen) können beispielsweise auf 15 Minuten angelegt sein, um die
+Vermittlung von Wissenswertem, Kuriositäten und Überraschendem anzuteasern und
+zu einem erneuten, ausführlichen Ausstellungsbesuch einzuladen. Regelmäßige Durch-
+sagen durch die Lautsprecheranlage kurz vor dem Termin im Haus können zu zahlrei-
+chen Begegnungen mit Neubesucher:innen im Ausstellungsbereich führen.
+
+Der Einsatz von Tablets ist im Ausstellungsbereich ebenso denkbar. Einerseits
+können sie erweiterte Informationen durch Bild- und Filmmaterial zur Verfügung
+stellen. Es ist aber auch die Bereitstellung mehrsprachiger Optionen mit dieser techni-
+schen Lösung denkbar. Bei den Geräten wird vorausgesetzt, dass sie schnell zu akti-
+vieren sind und eine geringe Wartungsrate haben. Das Bestücken der Tablets mit
+weiteren Inhalten ist jederzeit durch das Personal möglich.
+
+Weiterhin können digitalisierte Inhalte durch Technologien wie 3D-Visualisierungen,
+Virtual-Reality- oder Augmented-Reality-Anwendungen das Erlebnis eines Ausstellungs-
+besuches interaktiver gestalten – und so erweitern sowie bereichern. Im Vorfeld müssen
+
+
+
+740 Karina Iwe
+
+Anwendungsfelder bei der Vermittlung und der Betreuungsaufwand solcher Stationen
+bedacht werden.
+
+2 Grundlagen des Projektmanagements von
+Ausstellungen
+
+Die Ausstellungsplanung umfasst eine Organisation, die Hand in Hand mit zahlreichen
+Aktivitäten verschiedener Zuständigkeitsbereiche geht. Das zugrundliegende Projekt-
+management verfolgt einen Ausstellungsplan mit verschiedenen Planungsphasen und
+Meilensteinen im Zusammenspiel mit internen und externen Personen (was, wann, wie
+und von wem). Für die Planung kann folgende Checkliste3 verwendet werden:
+1. Ausstellungsplanung: Auswahl und Festlegung der Ausstellungsthemen und Zeiträume
+2. Entwicklung einer Ausstellungsidee und eines Ausstellungskonzeptes, Ziele (Leitli-
+
+nien: Themen, Fragen, Leitexponate, ggf. Anfragen bei potentiellen Leihgeber:innen
+stellen)
+
+3. Festlegung Projektteam:
+– Projektleitung
+– Kurator:innen
+– weitere Teammitglieder, die sich abteilungsübergreifend zusammensetzen
+– ggf. Kooperationspartner:innen
+
+4. Ausloten der Möglichkeiten zur Finanzierung und Förderung (z. B. Sponsoring),
+Vergabeprozess, Durchführung von Gestaltungswettbewerben
+
+5. Prüfen, ob die Ausstellung oder Teile dieser als Wanderausstellung konzipiert
+werden können
+
+6. Festlegung des Ausstellungsraumes/-ortes (u. a. Lage, Erreichbarkeit, Barrieren,
+Statik, Brandschutz, technische Gebäudeausrüstung, Licht, konservatorische Be-
+dingungen, Besonderheiten)
+
+7. Kick-of-Treffen mit den adminstrativen Akteur:innen (für Beschaffung u. ä.)
+8. Auswahl Gestalter:innen/Gestaltungskonzept (Innenarchitektur, Grafikdesign, Me-
+
+dienanwendung und Inszenierung)
+9. Festlegung eines Ausstellungstitels
+10. Exponatauswahl
+11. ggf. partizipative Elemente frühzeitig mitdenken und vorbereiten (Interaktion
+
+fördern)
+
+ Unter Berücksichtigung von: Deutscher Museumsbund e. V., Arbeitskreis Ausstellung 2023.
+
+
+
+9.2 Ausstellungs- und Veranstaltungsmanagement 741
+
+12. Textproduktion (verständlich, Textlänge eingrenzen, ggf. zielgruppenorientierte
+Texte)/Storytelling/Texte auf roten Faden bzw. Zusammenhänge überprüfen/Zeit
+zum Korrekturlesen einplanen)
+
+13. Zusammenarbeit mit den Restaurator:innen/Buchbinder:innen:
+– Konservatorische Rahmenbedingungen
+– Präsentationsform bzw. Inszenierung der Objekte (z. B. liegend/stehend, er-
+
+weitert mit Illustrationen zur Erläuterung)
+14. Überprüfung der technischen Ausstattung
+15. ggf. Medienplanung berücksichtigen (Konzept, Planung, Umsetzung, Bereitstellung)
+
+– Medienstation
+– Audioguide
+
+16. Absprache mit der Öffentlichkeitsarbeit (inkl. Marketing/Werbemaßnahmen)
+– Verteiler
+– Medienkampagne: Plakatierung, Anzeigenschaltung, ggf. Medienpartnerschaft
+– Flyer (u. a. Umfang, Papierauswahl, Auflage)
+– Postkarten (u. a. Anzahl der Motive, Motivauswahl, Auslage)
+– weitere Informationsmaterialien (z. B. Lesezeichen)
+– Bestücken der Webseite (Ausstellungsüberblick, Rubrik der Vorankündigun-
+
+gen, ggf. aktuelle Sliderankündigung auf der Hauptseite der Einrichtung,
+Ausstellungsarchiv)
+
+– E-Mail-Signatur mit Ausstellungshinweis erstellen
+17. Produktion: Grafikproduktion, Ausstellungsbau; besondere Sorgfalt beim Umgang
+
+mit Prototypen
+18. Erstellen eines Begleitprogrammes (Vermittlung und Bildung):
+
+– Formate
+– Vorträge
+– Führungen (z. B. Kurator:innenführungen, After-Work-Führungen, Mitarbei-
+
+ter:innenführungen)
+– Filmabende
+– Spaziergänge
+– Veranstaltungsplanung (Kalendereintragungen, Veranstaltungsorganisation)
+
+19. Begleitpublikationen:
+– Katalog (ja/nein/digitale Bereitstellung)
+– Veröffentlichungen in Jahresbüchern/Fachzeitschriften (z. B. Aspekte der
+
+Ausstellung oder Ausstellungskonzeption vorstellen)
+20. Presserundgang: Erstellung der Presseinformation, -mappe und -materialien
+
+(Pressemeldung)
+21. Ausstellungsaufbau: Ablaufplan, Objekthandling, Einleuchten der Ausstellung
+22. Gewährleistung der Sicherheit im Ausstellungsbereich (Security, Aufsichten,
+
+Handlungsketten)
+23. Ausstellungsrundgang für Aufsichten und Ausstellungsguides organisieren, letz-
+
+tere rechtzeitig mit Ausstellungsmaterialien ausstatten
+
+
+
+742 Karina Iwe
+
+24. Ausstellungseröffnung: Veranstaltungsplanung
+25. Besucher:innenerfahrung/Evaluation: Gesamtbewertung der Ausstellung
+26. Statistische Erhebung von Besucher:innenzahlen
+27. Fotografische Ausstellungsdokumentation
+28. Pflege und Wartung der Ausstellung (z. B. Technikbetreuung, Vitrinenreinigung),
+
+Mängelbeseitigung
+29. Ausstellungsabbau/Rückführung ggf. von Leihgaben
+
+– Entsorgung oder Lagerung von Ausstellungsutensilien (Texttafeln, Sockel)
+– ggf. Recycling von Materialien für zukünftige Ausstellungen
+
+30. Abschluss: Konstruktive Feedbackrunde im Team (u. a. auch Auswertung des Gäs-
+tebuches, statistische Auswertung von Besucher:innenzahlen, Presseschau)
+
+Während der Ausstellungsplanung muss regelmäßig der Zeitplan überprüft werden,
+um eine fristgemäße Eröffnung garantieren zu können. Zudem ist eine intensive Kom-
+munikation mit den Prozessbeteiligten für die Projektorganisation essentiell.
+
+2.1 Digitalisiertes und online Zugängliches
+
+Die Covid-19-Pandemie hat ab 2020 eine Veränderung in der Nutzung digitaler Angebote
+gebracht bzw. diese beschleunigt. Um den Bedürfnissen von Besucher:innen gerecht zu
+werden, ist es sinnvoll, eine Bandbreite an Formaten für analoge und digitale Zielgrup-
+pen und Besucher:innen zu entwickeln und bereitzustellen. An den Ausstellungsorten
+empfangen die Einrichtungen ihre analogen Besucher:innen. Die Vor- und Nachberei-
+tung eines Ausstellungsbesuches profitiert enorm von den Digitalisierungsprojekten
+der Bestände der Bibliotheken. Ein Besuch der Webseiten zeigt schnell, dass digitale Be-
+sucher:innen auf ein großes, vielfältiges und erweiteres Angebot stoßen können – und
+man sich ergänzend mit den Sammlungsbeständen und Ausstellungsexponaten ausein-
+andersetzen kann. Die im Folgenden vorgestellten Optionen– digitalisierte Sammlungs-
+objekte, digitale Ausstellungskataloge, virtuelle Ausstellungen, online Audioguides,
+virtuelle Rundgänge und Live-Touren sowie die Präsenz der Ausstellung auf der Web-
+seite – dienen der Anregung. Im praktischen Umsetzungsfall bietet sich das Verwenden
+einer Auswahl der genannten Möglichkeiten an.
+
+Die digitalisierten Sammlungsobjekte: Der Zugang zu Objekten und Sammlungs-
+beständen wird durch frei zugängliche Digitalisate vereinfacht.
+
+Der digitale Ausstellungskatalog: Nicht jede Ausstellung produziert ressourcenbe-
+dingt einen analogen Ausstellungskatalog. Der digital verfügbare Katalog einer Aus-
+stellung ermöglicht einen vereinfachten Zugang zur Ausstellung, er ist jederzeit –
+auch aus der Ferne – zugänglich, frei verfügbar und auch nach Ausstellungsende
+noch abrufbar. Zusammen mit Ausstellungsbildern bietet sich die Möglichkeit, die
+Ausstellungen auch nach Laufzeitende abzubilden.
+
+
+
+9.2 Ausstellungs- und Veranstaltungsmanagement 743
+
+Die virtuelle Ausstellung: Virtuelle Ausstellungen präsentieren Themen in digita-
+ler Form für verschiedene Endgeräte wie Computer, Notebooks, Tablets oder auch
+Mobiltelefone. Diese spezifische Form einer Ausstellung ermöglicht mit hochauflösen-
+den Fotografien (Bildergalerien, Blätterkataloge mit Zoomfunktionalität) oder auch
+Audio- und Videomaterial eine neue bzw. erweiterte Präsentationsform.4 Der Besuch
+ist zeit- und ortsunabhängig möglich.
+
+Der online abrufbare Audioguide: Die Verwendung von QR-Codes im Ausstel-
+lungsbereich kann den Einsatz von Audioguides vereinfachen, wenn diese mit der
+Webseite der Bibliothek verlinkt sind. Mitunter gibt es in den Einrichtungen selbst
+oder bei Kooperationspartner:innen die Möglichkeit, die Produktion eines Audiogui-
+des in einem Podcast-Studio zu realisieren.
+
+Virtueller 360°-Rundgang: Diese Form des Rundganges schafft einen neuen Zu-
+gang zu Ausstellungen. Sie vermittelt einen ersten Eindruck, und bei der Navigation
+können Punkte im Raum anvisiert werden, an denen erweitert Bilder und Videos als
+zusätzliche Informationen eingebunden werden können.
+
+Live-Touren: Live-Touren, beispielsweise auf Plattformen der Sozialen Medien
+oder mittels Video-Konferenz-Tools, ermöglichen online ein Dazuschalten aus ande-
+ren Städten und Regionen. Das kann auf Basis einer 360°-Ansicht geschehen oder tat-
+sächlich in der Ausstellung. Damit holen sich Besucher:innen das Erlebnis direkt nach
+Hause, wobei das Gruppenerlebnis in Teilen ausbleibt. Voraussetzungen für Live-
+Touren sind internetfähige Endgeräte (Computer, Tablet, Smartphone) und ein Inter-
+netanschluss mit ausreichender Bandbreite.
+
+Dokumentation auf der Webseite: Die Präsenz einer analogen Ausstellung auf der
+Webseite (samt eines erweiterten Angebotes) lädt zu einer Vorbereitung und auch zu
+einer Nachbetrachtung des Ausstellungsbesuches ein. Wenn die Ausstellung bereits
+längst abgebaut ist, sorgt das Nachlesen im Internet für eine weitere Sichtbarkeit der
+Inhalte, weltweit und jederzeit abrufbar, und kommt auch einer Archivfunktion der
+Ausstellungen gleich.
+
+2.2 Eine nachhaltige Ausstellungsplanung
+
+Das Thema Nachhaltigkeit ist kein ganz neues Thema im musealen Kontext. Die Mu-
+seen haben 2022 den Wandel in der Gesellschaft in ihrer Museumsdefinition benannt,
+indem sie wichtige Schlagworte wie Nachhaltigkeit, Zugang und Diversität veranker-
+ten. Insbesondere die Nachhaltigkeit hat eine ökologische, aber auch soziale und öko-
+nomische Ausrichtung – sie gilt als Teamaufgabe.
+
+Die ressourcenschonende und -effiziente Planung prägt seit jeher das Ausstel-
+lungsgeschehen an kleineren Häusern bzw. an Häusern mit einem begrenzten (Aus-
+
+ Deutsche Digitale Bibliothek 2023.
+
+
+
+744 Karina Iwe
+
+stellungs-)Etat und geringen Personalressourcen. Dennoch zeigen Beispiele aus dem
+Ausstellungsbau wie die Wiederverwendung von alten Texttafeln (das Bedrucken der
+Rückseiten jener Tafeln) oder auch die Laufzeitverlängerungen, dass in vielen Berei-
+chen nachhaltig agiert werden kann. Bei dem Materialverbrauch ist auch die Abgabe
+bzw. Weitergabe alter Bild- und Texttafeln an Fachbereiche der Hochschulen (z. B. Ar-
+chitektur, um dort beim Bau von Modellen zum Einsatz zu kommen). Es ist auch rat-
+sam, den jeweiligen Ausstellungsgestalter:innen einen Überblick über vorhandene
+Ressourcen zu ermöglichen, so dass Vorhandenes von Beginn an im Projekt einge-
+plant werden kann.
+
+Im Zuge der Ausstellung entstehen auch regelmäßig Begleitpublikationen und
+Werbemittel wie Postkarten und Flyer. Hier ist der Einsatz von umweltfreundlichen
+Recycling-Papier zu prüfen.
+
+Zusammengefasst ist ein nachhaltiges Agieren in den folgenden Bereichen bei
+Ausstellungen möglich und denkbar:
+1. Materialauswahl,
+2. Recycling und Wiederverwendung,
+3. Energieeffizienz,
+4. Digitale Medien,
+5. Transport und Versand,
+6. Langfristige Planung,
+7. Monitoring und Verbesserung,
+8. Kooperationen.
+
+Allgemein sind Allianzen und Kooperationen mit anderen musealen Einrichtungen
+mitunter sinnvoll, um Ressourcen zu bündeln. Nachhaltiges Arbeiten betrifft jedoch
+auch die Personalpolitik in ausstellungsrelevanten Bereichen, um durch Stellen mit
+dauerhaften Perspektiven Fachwissen an der Einrichtung zu halten.
+
+2.3 Zusammenarbeit mit Ehrenamtlichen – unersetzlich
+
+Die museale Ausstellungsarbeit ist auch immer durch Beziehungsarbeit gekennzeich-
+net – man arbeitet mit vielen Menschen und zahlreichen Akteur:innen innerhalb und
+außerhalb der eigenen Einrichtung zusammen. Eine besonders wichtige Gruppe sind
+die Ehrenamtlichen bzw. Freiwilligen. Häufig mangelt es bei den Ausstellungsberei-
+chen an Personal. Auf diese Weise können gezielt Interessierte angesprochen und in
+die Aktivitäten eingebunden werden. Sie können den Ausstellungsbereich bei regelmä-
+ßigen Führungen unterstützen und sind damit sozusagen auch die Gesichter der Aus-
+stellung, direkte Ansprechpartner:innen des Publikums und auch Multiplikator:innen.
+Beide, die eigene Einrichtung und die ehrenamtliche Person, profitieren voneinander.
+Dieses Engagement ist für die Ausstellungsbereiche der Bibliotheken unerlässlich. Zu-
+künftig wird noch spannend, in welche Richtung sich das traditionelle Ehrenamt, das
+
+
+
+9.2 Ausstellungs- und Veranstaltungsmanagement 745
+
+eine Mitarbeit vor Ort bedeutet, entwickeln wird. Impulse wie das digitale Ehrenamt
+stimmen hoffnungsvoll.
+
+2.4 Teilhabe bzw. Partizipation
+
+Mit der neuen Museumsdefinition wurde gesellschaftliche Teilhabe mehr in den
+Fokus gerückt. Sie ist gleichermaßen eine Orientierungshilfe für Museums-/Ausstel-
+lungsmacher:innen wie auch ein Aufruf an die Gesellschaft, sich aktiv mit den Ange-
+boten der Einrichtungen auseinanderzusetzen.
+
+Partizipationsformen für die Besucher:innen bzw. Lai:innen reichen vom Mitku-
+ratieren von Ausstellungen, also dem Mitgestalten innerhalb eines vorgegebenen
+Handlungsrahmens über Wände, an denen Besucher:innen Kommentare hinterlassen
+können, bis hin zu alternativen Objektbeschreibungen durch Besucher:innen für aus-
+gestellte Exponate. Formen der Teilhabe von Kultureinrichtungen schaffen neue ge-
+sellschaftliche Zugänge zu Kultur und öffnen auch den Blick auf die Einrichtungen
+für die Öffentlichkeit. Sie dienen der besseren Wahrnehmung und auch Akzeptanz.
+
+2.5 Viele Geschichten zum Kommunizieren – Öffentlichkeitsarbeit
+
+Damit die Ausstellung und die präsentierten Objekte ihr Zielpublikum effektiv finden
+können, bedarf es einer umfassenden Kommunikationsstrategie (u. a. Situationsanalyse,
+Festlegung von Zielen und Zielgruppen, Botschaften, Instrumenten- und Maßnahmenpla-
+nung, Evaluation). Um die Zielgruppen zu erreichen, muss man zielgruppengerecht bei
+der Kommunikation und in der Medienkampagne vorgehen.
+
+Im Bereich der Sozialen Medien ist es sinnvoll, regelmäßig Beiträge zu entwi-
+ckeln, die beispielsweise aus dem Bereich „Hinter den Kulissen“ berichten. Die Beteili-
+gung an Aktionstagen wie dem #TagDerBibliotheken sind eine weitere Gelegenheit,
+auf die Ausstellungsarbeit aufmerksam zu machen. Es bietet sich an, die Beiträge mit
+bestimmten Hashtags (Begriffe zur Verschlagwortung und zum Wiederauffinden) zu
+verknüpfen und so über eine noch größere Reichweite Sichtbarkeit zu erlangen.
+
+Um die Ausstellungen zu bewerben und auch den Ort als Ausstellungsort in den
+Mittelpunkt der Aufmerksamkeit zu rücken, ist eine zielgerichtete Medienkampagne
+notwendig. Damit einher geht auch die Anzeigenschaltung, die neben wiederkehren-
+den Anzeigeportalen auch ihr Zielpublikum in speziellen Zeitschriften und Orten
+sucht, wo diese sich bewegen.
+
+
+
+746 Karina Iwe
+
+2.6 Veranstaltungsplanung rund um die Ausstellung
+
+Mit der Ausstellungseröffnung wird die Aufgabe intensiviert, das Interesse für diese
+in der Öffentlichkeit zu wecken – das gelingt am besten über ein für die Zielgruppe
+attraktives Veranstaltungsprogramm. Es folgen einige Beispiele für verschiedene Ziel-
+gruppen und denkbare Veranstaltungsformate:
+– Erwachsene (Studierende): z. B. Vorträge
+– Jugendliche: z. B. Handlettering-Kurse Highlight-Führungen
+– Kinder: z. B. Maus-Türöffner-Tag
+– Expert:innen: z. B. Fachvorträge
+
+Folgende zentrale Fragen und Aspekte begleiten diesen Bereich der Planung:
+1. Welche Zielgruppen hat die Ausstellung?
+2. Veranstaltungsideen zusammentragen
+3. Welche finanziellen Mittel stehen der Veranstaltungsplanung zur Verfügung?
+4. Veranstaltungsplanung: Zeitpunkt, Raum, Beteiligte
+5. Kooperationspartner:innen ggf. einbeziehen
+6. Bewerbung der Veranstaltung
+7. Aufbau/Abbau der Veranstaltung
+8. Statistische Erhebung der Teilnehmer:innenzahlen
+
+2.7 Evaluation und Feedback der Besucher:innen
+
+Eine Evaluation, analog ausgelegt oder auch digital erreichbar, ist ein zentrales Instru-
+ment der besucher:innen orientierten Entwicklung von Veranstaltungen und Ausstel-
+lungen. Die Umfrage-Bögen für den Ausstellungsbereich haben die folgende Zielsetzung:
+– die Ausstellungsbesucher:innen besser kennenzulernen. So kann man z. B. abfra-
+
+gen, aus welchem Radius sie angereist sind und welchen Aufwand sie betrieben
+haben, um die Ausstellung zu besuchen;
+
+– Werbeaktionen gezielter zu steuern;
+– als Inspirationsquelle für Verbesserungen im Ausstellungsbereich zu dienen.
+
+Diese Auswahl an Fragen gibt Aufschluss über die Besucher:innen:
+– Wie oft waren die Besucher:innen in einem bestimmten Zeitraum im Ausstel-
+
+lungsbereich?
+– Über welche Portale/Netzwerke wurden die Besucher:innen auf den Ausstellungs-
+
+bereich aufmerksam?
+– Woher sind die Besucher:innen angereist? Abfrage der Postleitzahl
+– Wurden die Erwartungen beim Besuch des Ausstellungsbereiches erfüllt?
+– Weitere Anmerkungen/Wünsche/Ideen – als freies Feld;
+– Angaben zur Person: Geschlecht, Alter.
+
+
+
+9.2 Ausstellungs- und Veranstaltungsmanagement 747
+
+Umfragen für die Besucher:innen der Ausstellungen helfen, das Publikum besser ken-
+nenzulernen und Werbemaßnahmen für Ausstellungen sowie begleitende Veranstal-
+tungen passgenauer darauf auszurichten.
+
+3 Herausforderungen im Ausstellungsmanagement
+Der Ausstellungsbereich ist aufgrund von Ausstellungswechseln von einer hohen Dyna-
+mik geprägt. In Zeiten gesellschaftlicher Herausforderungen (z. B. Pandemien, Klima-
+wandel, neue Arbeitsweisen, gesellschaftlicher Wandel) müssen die Ausstellungen
+einerseits mit der Zeit gehen, andererseits auch die Flexibilität besitzen, Testballons zu
+starten, mit Vermittlungsformaten zu experimentieren, neue Technologien auszupro-
+bieren, Aufmerksamkeit zu schaffen – um auch neue Zielgruppen anzusprechen bzw.
+die, die bereits in die Bibliotheken kommen, auch (immer wieder) für die Ausstellungen
+zu begeistern. All diese Wege bedürfen eines entsprechenden Personals für die Umset-
+zung. Mit den neuen Technologien und Möglichkeiten geht auch eine Professionalisie-
+rung der Akteur:innen einher, die zum Beispiel durch kollegialen Austausch und
+Weiterbildungen ergänzt werden kann. Ein Austausch untereinander soll dazu führen,
+Fehler anderer erst gar nicht zu machen. Notwendig ist zudem, eine Fehlerkultur inner-
+halb der Institution bzw. des Arbeitsbereiches zu entwickeln und zu etablierenen bzw.
+diese dann auch auszugestalten.
+
+Zu den Herausforderungen der aktuellen Ausstellungsarbeit gehört weiter, die In-
+halte auf unterschiedliche Weise zugänglich zu machen. Zu den Facetten des Zugangs
+zählen beispielsweise mehrsprachige Texte für ein internationales Publikum. Hier gilt
+zu überlegen, welche Übersetzungstools genutzt werden können – bei gleichzeitig ge-
+ringen Personalkapazitäten.
+
+Künstliche Intelligenz (KI): Neue Technologien wie Künstliche Intelligenz ermögli-
+chen einen vielversprechenden Einsatz im Bereich der Ausstellungen. Automatische
+Übersetzungen und Unterstützung bei der Textproduktion sind denkbare Einsatzfel-
+der. Auf diese Weise können einerseits Zielgruppen besser erreicht werden und ande-
+rerseits Ausstellungen effektiver geplant werden.
+
+Besucher:innenleitsystem: Das Leitsystem bezieht sich zum einen auf den Weg
+zum Ausstellungsbereich und den Rundgang durch die Ausstellung. Letzterer muss
+eine blendfreie Beleuchtung und logische Raumstrukturen berücksichtigen.
+
+Der inklusive Ausstellungsbereich: Maßnahmen, die realisiert werden können,
+sind beispielsweise ein taktiles Bodenleitsystem, Objektangaben in Brailleschrift,
+Taststationen oder auch das Angebot eines Audioguides. Das Verfassen von Texten in
+einfacher bzw. leichter Sprache sorgt für eine weitere Barrierefreiheit.
+
+
+
+748 Karina Iwe
+
+4 Quo vadis?
+Die Schnelligkeit und Dynamik der heutigen Zeiten hat auch Auswirkungen auf die
+Ausstellungsbereiche der Bibliotheken. Um Ressourcen zu bündeln, ist es sinnvoll,
+übergreifende Verknüpfungen innerhalb der Einrichtung zu suchen. Auch ist es rat-
+sam, zu prüfen, von welchen Kooperationen das Ausstellungsmanagement profitieren
+kann – schon in der Planungsphase bzw. mit Ausstellungsbeginn. Das kann beispiels-
+weise eine Zusammenarbeit mit Studierenden sein, die Texte verfassen bzw. Inhalte
+zu einem Thema wissenschaftlich erarbeiten. Die Vernetzung von Akteur:innen und
+Institutionen kann über gemeinsame Themen und Interessen geschehen.
+
+Ein Blick in Gästebücher verrät, dass die Besucher:innen die Ausstellungsarbeit
+schätzen! Für die Zukunft sind mehr Vermittlungsprogramme für spezielle Zielgrup-
+pen denkbar. Das Bereitstellen mehrsprachiger Angebote schafft auch einen weiteren
+Zugang zu den kulturellen Angeboten unserer Einrichtungen.
+
+Sogenannte Third Spaces (Dritte Orte) haben bereits die Bibliotheken und Museen
+erreicht, dabei geht es darum, neben dem eigenen Zuhause (Erster Ort) und dem Ar-
+beits- bzw. Ausbildungsort (Zweiter Ort) neue (öffentliche) Räume in der Stadt einzu-
+nehmen und dort niedrigschwellig auf Inhalte der Einrichtung bzw. auf Ausstellungen
+hinzuweisen. Ziel ist es vornehmlich, den Dialog und Austausch zu befördern, die ei-
+gene Wahrnehmung zu verstärken und auch Menschen ohne Ausstellungserfahrung
+die Scheu vor dem Betreten der eigenen Einrichtung zu nehmen.
+
+Die Zukunft wird zeigen, welche weiteren Aspekte noch eine Rolle im komplexen
+Ausstellungsgeschehen der Einrichtungen spielen werden. Kern der Arbeit bleiben
+die Kommunikation und die Teamarbeit – manches Mal mit kreativen Lösungen –
+damit gelingt eine Ausstellung.
+
+Literatur
+Deutsche Digitale Bibliothek: Virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek. Blogeintrag.
+
+14.04.2023. https://www.deutsche-digitale-bibliothek.de/content/blog/virtuelle-ausstellungen-der-
+deutschen-digitalen-bibliothek/ (09.10.2023).
+
+Deutscher Museumsbund e. V., Arbeitskreis Ausstellung: Ausstellungspraxis in Museen. Ein Handbuch.
+2023. https://www.museumsbund.de/wp-content/uploads/2023/05/2023-ausstellungspraxis-in-
+museen-160dpi.pdf (09.10.2023).
+
+Giella, Wolfgang: Der „Dritte Ort“ in einer wissenschaftlichen Bibliothek? In: Vernetztes Wissen. Online.
+Die Bibliothek als Managementaufgabe. Festschrift für Wolfram Neubauer zum 65. Geburtstag. Hrsg.
+von Rafael Ball u. Stefan Wiederkehr. Berlin, Boston: De Gruyter Saur 2015.
+
+Hauke, Petra: Praxishandbuch Ausstellungen in Bibliotheken. Berlin, Boston: De Gruyter Saur 2016.
+ICOM Deutschland: Klarheit geschaffen: Offizielle deutsche Übersetzung der neuen Definition für Museen
+
+veröffentlicht. Pressemitteilung vom 11.07.2023. https://icom-deutschland.de/de/component/con
+tent/category/31-museumsdefinition.html?Itemid=114 (09.10.2023).
+
+Iwe, Karina: Zwischen Sichtbarkeit und Zugangsmöglichkeiten – das Museum der SLUB Dresden. Ein
+Beitrag zum Internationalen Museumstag am 21. Mai 2023. SLUBlog 21.05. 2023. https://blog.slub-
+
+
+
+9.2 Ausstellungs- und Veranstaltungsmanagement 749
+
+dresden.de/beitrag/2023/05/21/zwischen-sichtbarkeit-und-zugangsmoeglichkeiten-das-museum-der-
+slub-dresden-ein-beitrag-zum-internationalen-museumstag-am-21-mai-2023 (09.10.2023)
+
+Schneider, Ulrich Johannes: Bücher erschossen und erlegt. Neue Wege, Besucher für Buchausstellungen
+zu begeistern. BIS – Das Magazin der Bibliotheken in Sachsen 9 (2016), H. 1, S. 26–27. https://nbn-
+resolving.org/urn:nbn:de:bsz:14-qucosa2-73928.
+
+SLUB Dresden: Ausstellungen. In: Das ABC der SLUB: Lexikon der Sächsischen Landesbibliothek – Staats-
+und Universitätsbibliothek Dresden. Aus Anlass des 450. Gründungsjubiläums im Auftrag der
+Gesellschaft der Freunde und Förderer der SLUB Dresden e. V. Hrsg. von Thomas Bürger
+u. Konstantin Hermann. Dresden: Michel Sandstein Verlag 2006. https://nbn-resolving.org/urn:nbn:
+de:bsz:14-qucosa-150144.
+
+SLUB Dresden: „Dicz puech ist volbracht“. Deutschsprachige Handschriften des Mittelalters in der SLUB.
+2022. https://www.slub-dresden.de/besuchen/ausstellungen-corty-galerie/ausstellungen-2022/
+deutschsprachige-handschriften-des-mittelalters (09.10.2023).

@@ -1,0 +1,523 @@
+Susanne Göttker, Sabine Kuniß und Sascha Lauer
+4.1 Erwerbungspolitik, Etatplanung und
+Mittelallokation in wissenschaftlichen
+Bibliotheken
+1 Erwerbungspolitik
+1.1 Einführung
+Zu den erwerbungspolitischen Herausforderungen wissenschaftlicher Bibliotheken
+gehört, dem Versorgungsauftrag1 gerecht zu werden. An einer Universitätsbibliothek
+ist dieser stark diversifiziert. Denn hierzu gehört einerseits die klassische Versorgung
+mit Informationen, aber auch die Ermöglichung von Open-Access-Publikationen der
+Angehörigen der eigenen Einrichtung. Hierfür bedarf es der Erarbeitung und Pflege
+des Informationsbudgets der Einrichtung, der Planung und Verwaltung des Etats und
+der Einwerbung von Drittmitteln für Publikationen.
+Obwohl die Erwerbungsetats der deutschen Universitätsbibliotheken von 2011 bis
+2021 insgesamt um 30,66 % gestiegen sind,2 gibt es keine Anzeichen dafür, dass die „strukturelle
+Etatkrise“3 abgewendet ist. Im Gegenteil, neben dem „exorbitant wachsende[n]
+Medienangebot, dessen Preisentwicklung kontinuierlich über der allgemeinen Inflationsrate
+liegt“4 beanspruchen inzwischen auch Article und Book Processing Charges (APC/
+BPC) zur Finanzierung von Open-Access-Publikationen die Budgets.
+Daher sind die Mittel, die die Bibliotheken für den Kauf von Medien genutzt
+haben, von 97,56 % im Jahr 2011 auf 88,47 % im Jahr 2021 gesunken.5 Im Durchschnitt
+wurden 2021 ca. 10 % der Erwerbungsmittel für Kosten aus Open Access (OA) aufge-
+ Vgl. Gantert 2014.
+ Variable Auswertung der DBS (https://www.hbz-nrw.de/produkte/bibliotheksstatistik/auswertungen,
+06.09.2023): deutsche Universitätsbibliotheken (Unterhaltsträger: Land), Frage 149 (Ausgaben Erwerbung
+gesamt) in den Jahren 2011 bis 2021. Zum Zeitpunkt der Erstellung dieses Buchabschnitts lagen
+der DBS noch keine zuverlässig auswertbaren Zahlen für 2022 vor.
+Es ist zu berücksichtigen, dass aufgrund der Corona-Pandemie in den Jahren 2020 und 2021 vielerorts
+Sondermittel ausgeschüttet wurden.
+ Moravetz-Kuhlmann 2014: S. 161.
+ Ebd.
+ Variable Auswertung der DBS (https://www.hbz-nrw.de/produkte/bibliotheksstatistik/auswertungen,
+06.09.2023): deutsche Universitätsbibliotheken (Unterhaltsträger: Land), Frage 149 (Ausgaben Erwerbung
+gesamt) und Frage 150 (Erwerbung, davon [bezogen auf 149]: Kauf) in den Jahren 2011 bis 2021.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-014
+wendet. Die Zahlen gehen jedoch weit auseinander. Forschungsstarke Einrichtungen
+verausgabten bis zu 27 % ihrer Mittel für die Finanzierung von OA.6
+1.2 Gedruckte Medien
+Die Preise für gedruckte Bücher sind im Zeitraum von 2011 bis 2021 von durchschnittlich
+33,88 Euro auf 42,84 Euro um 26,42 % gestiegen7.
+Die Preissteigerung bei gedruckten Büchern ist ein Element der allgemeinen
+Preisentwicklung von bibliotheksrelevanten Medien, jedoch nicht das ausschlaggebende,
+denn die Ausgaben deutscher Universitätsbibliotheken für gedruckte Medien
+insgesamt sind von 2011 bis 2021 um 44,43 % gesunken.8 Dazu hat vor allem die Abkehr
+von gedruckten hin zu elektronischen Zeitschriften beigetragen. Die Anzahl der
+abonnierten Print-Zeitschriften ging um 43,83 % zurück. Damit sank der Anteil der
+Ausgaben für gedruckte Medien von 55,20 % im Jahr 2011 auf 25,89 % im Jahr 2021.9
+1.3 Zeitschriften
+Während es für gedruckte Zeitschriften z. B. von EBSCO weiterhin den Serials Price
+Projection Report10 gibt, der einen allgemeinen Anhaltspunkt für eine durchschnittliche
+wissenschaftliche Bibliothek bietet, wird es bei den elektronischen Zeitschriften
+zunehmend schwieriger, eine Preisentwicklung, geschweige denn eine Preisvorhersage
+zu erstellen, die für eine einzelne Bibliothek tragfähig wäre. Zu unterschiedlich
+sind die Beschaffungswege. Denn neben der Lizenzierung von Einzeltiteln können Bibliotheken
+bilateral Fachpakete einzelner Verlage bis hin zu sogenannten Big Deals,
+also ganze Verlagsportfolios abonnieren. Ebenso gut ist es mittlerweile bei den gängigsten
+wissenschaftlichen Verlagen möglich, einem Konsortium beizutreten. Hieraus
+erwachsen die unterschiedlichsten Preisentwicklungen, da die geforderten Beträge
+nicht mehr den Listenpreisen entsprechen, die es für Einzelabonnements weiterhin
+ Variable Auswertung der DBS: Frage 151,1 (Erwerbung, davon [bezogen auf 149]: Ausgaben für Open
+Access Publikationen). Die Zahlen enthalten folglich nicht die Ausgaben für Transformationsverträge.
+ Variable Auswertung der DBS: Frage 19 (Bücher [einschl. Dissertationen], Zeitschriften und Zeitungen
+insgesamt – Zugang), Frage 122 (Anzahl [Abonnements] im Berichtsjahr laufend gehaltener nichtelektronischer
+Zeitschriften und Zeitungen), Frage 21 (Bücher [einschl. Dissertationen], Zeitschriften
+und Zeitungen insgesamt – Ausgaben) und Frage 123 (Ausgaben für laufend gehaltene nichtelektronische
+Zeitschriften und Zeitlungen) in den Jahren 2011 bis 2021. (Frage 21-Frage 23)/(Frage 19/
+Frage 122).
+ Variable Auswertung der DBS: Frage 21 in den Jahren 2011 bis 2021.
+ Variable Auswertung der DBS: Frage 21 und Frage 150 in den Jahren 2011 bis 2021.
+ Z. B. EBSCO 2022: 2023 Serials Price Projection Report. https://www.ebsco.com/sites/default/files/ac
+quiadam-assets/EBSCO-Serials-Price-Projections-Report-2023.pdf. (08.05.2023).
+230 Susanne Göttker, Sabine Kuniß und Sascha Lauer
+gibt. Preise hängen sowohl bei der bilateralen als auch bei der konsortialen Lizenzierung
+von Faktoren wie der Laufzeit der Lizenz, der Anzahl der Vollzeitäquivalente
+und/oder der Forschungsintensität der jeweiligen Einrichtung ab.
+1.4 E-Books
+Dagegen sind die Ausgaben für E-Books von 2014 bis 2021 um 181,23 % gestiegen.11 Der
+Shift von gedruckten zu elektronischen Büchern ist also unübersehbar. In diesem
+Marktsegment lassen sich jedoch keine allgemeinen Aussagen zur Preisentwicklung
+treffen, da E-Books sowohl einzeln als auch in Paketen und in verschiedenen Lizenzformen
+erworben oder lizenziert werden können. Der paketweise Kauf von E-Books ergibt
+in den meisten Fällen einen signifikanten Preisvorteil gegenüber Einzelkäufen. Auch
+die dem Erwerb von Paketen folgende bibliotheksinterne Weiterverarbeitung der Metadaten
+kann erheblich schneller erfolgen als die Katalogisierung einzelner Titel. Dieser
+Vorteil wird umso relevanter, je weniger Personal hierfür zur Verfügung steht.
+Gerade die Covid-19-Pandemie hat die Vorzüge von E-Books gegenüber gedruckten
+Büchern deutlich hervortreten lassen. Sofern die Nutzer:innen in das Netz ihrer
+Einrichtung eingeloggt sind, lassen sich E-Books ohne gravierende Einschränkungen
+an jedem Ort nutzen. Auch um hier keinen Wettbewerbsnachteil zu haben, gibt es in
+manchen Einrichtungen eine E-only-Policy, so dass nur mehr solche Bücher in gedruckter
+Form erworben werden, die ausdrücklich als solche gewünscht werden und/
+oder bei denen der Preis für die elektronische Version in keinem Verhältnis zum Nutzen
+steht (Spitzenforschung). Außerdem sind noch längst nicht alle Bücher als EBooks
+mit einer Campuslizenz erhältlich.
+1.5 Datenbanken
+Bei den von den deutschen Universitätsbibliotheken bezogenen Datenbanken kommt
+die Preissteigerung sehr deutlich zum Tragen. Die Anzahl der abonnierten Datenbanken
+nahm von 2011 bis 2021 um 7,55 % ab, die dafür verausgabten Mittel stiegen jedoch
+um 95,06 %.12
+ Variable Auswertung der DBS: Frage 113,4 (Digitale Bestände [Anzahl], darunter [bezogen auf 113]:
+Ausgaben für kommerziell vertriebene E-Books) in den Jahren 2014 bis 2021. Dieser Wert wird von der
+DBS erst seit 2014 erhoben.
+ Variable Auswertung der DBS: Frage 118 (Digitale Bestände [Anzahl], darunter [bezogen auf 110]:
+Bestand Datenbanken und Plattformen) und Frage 121 (Digitale Bestände [Anzahl], darunter [bezogen
+auf 110]:Ausgaben für Datenbanken – Ausgaben) in den Jahren 2011 bis 2021. Lt. DBS sollen die Kosten
+für Zeitschriftenangebote eines Verlages (z. B. SpringerLink) bei den Zeitschriften und nicht bei den
+Datenbanken angegeben werden Einiges deutet darauf hin, dass die gelebte Praxis eine andere ist.
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 231
+1.6 Preissteigerungen – Einige Gründe und Reaktionen
+Insgesamt erhöhten sich von 2011 bis 2021 die Ausgaben für elektronische Medien von
+46,95 % auf 75,97 %.13 Durch die allgemeine Preisentwicklung bei den elektronischen
+Medien, der verstärkten Hinwendung der Bibliotheken zur konsortialen Lizenzierung
+von Datenbanken und Zeitschriftenpaketen und der damit verbundenen oftmals
+mehrjährigen Bindung an Verträge sind stetig wachsende Anteile der Bibliotheksetats
+gebunden. Dadurch schwindet die Flexibilität der Etats. Der Spielraum für Neuerwerbungen
+bzw. neue Lizenzen tendiert daher in vielen Einrichtungen gegen Null, wenn
+nicht zuvor bestehende Subskriptionen abbestellt wurden.
+Die Preiserhöhungen für elektronische Zeitschriften bewegten sich in den letzten
+Jahren vor der Pandemie, dem Krieg in der Ukraine und der daraus resultierenden
+Energiekrise in einem einigermaßen moderaten Rahmen von durchschnittlich 4 %.
+Doch allein dies ergibt bei den hochpreisigen Lizenzen Summen, denen die Erwerbungsbudgets
+nicht immer ohne weiteres gewachsen sind. Die hinlänglich bekannten
+Folgen sind weiterhin Abbestellungen von Einzelabonnements und/oder Einsparungen
+im Bereich des Bucherwerbs.
+Die regelmäßigen Preisanstiege werden von den Zeitschriftenverlagen mit den
+ebenso stetig wachsenden Artikelzahlen pro Jahr begründet. Diese sind wiederum ein
+Resultat des fortwährenden Publikationsdrucks auf die Wissenschaftler:innen. Zusätzlich
+besteht dieser Druck nicht nur darin, möglichst viel zu publizieren, sondern auch
+darin, sich bei der Wahl des Publikationsorts auf renommierte Zeitschriften mit entsprechend
+hohen Impact Faktoren zu konzentrieren. „The per-journal average APC is
+958 USD while the per-article average APC is 1,626, suggesting that authors are more
+likely to choose to publish in more expensive journals.“14 Verschiedene Wissenschaftsorganisationen
+äußerten sich in den vergangenen Jahren dahingehend, dass sie sich
+„für eine verantwortungsvolle und qualitätsorientierte Forschungsbewertung“15 einsetzen
+wollen. So schreibt auch die Deutsche Forschungsgemeinschaft (DFG):
+Durch die Verknüpfung von publikationsbezogenen Kennzahlen wie der Anzahl der Aufsätze
+und des Impact-Faktors der Publikationsorte mit der Mittelvergabe können Fehlanreize in der
+Forschungsbewertung entstehen, denen gezielt und kontinuierlich entgegengetreten werden
+muss.16
+„Für die Wahl des Publikationsortes nicht primär handlungsleitend sein sollten [...]
+Aspekte wie dessen Impact oder Reputation.“17 Daher sei es Aufgabe der Wissenschaft,
+ Variable Auswertung der DBS: Anteil von Frage 151 (Erwerbung, darunter [bezogen auf 150]: Kauf,
+Ausgaben für digitale/elektronische Medien) von Frage 150 im Jahr 2021.
+ Morrison, Borges, Zhao, Kakou und Shanbhoug 2021.
+ Allianz der Wissenschaftsorganisationen 2022.
+ DFG 2022a: S. 6.
+ DFG 2022b: S. 4.
+232 Susanne Göttker, Sabine Kuniß und Sascha Lauer
+„alternative Systeme der Reputationszuschreibung zu stärken“.18 Auf einer anderen
+Ebene bewegt sich die Initiative der Declaration on Research Assessment (DORA), die
+mit ihren Empfehlungen seit 2012
+die Notwendigkeit [betont], die Verwendung von auf Fachzeitschriften basierenden Kennzahlen,
+wie dem Journal Impact Factor, bei Abwägungen zur Finanzierung, Einstellung und Beförderung
+abzuschaffen und die Forschung selbst zu bewerten, und dieses nicht auf Grundlage der Fachzeitschrift,
+in der sie veröffentlicht wird, zu tun.19
+Eine Veränderung des Publikationsverhaltens der Wissenschaftler:innen, die eine Abwendung
+von der Ausrichtung nach Reputation des Publikationsortes beinhaltet, ist
+die Voraussetzung für einen Ausstieg aus der fortwährend steigenden Preisentwicklung
+von Zeitschriften. Dies gilt gleichermaßen für Subskriptionskosten als auch für
+Article Processing Charges.
+1.7 Open Access
+Einen Ausweg aus der Preisspirale bei elektronischen Zeitschriften verspricht auf
+lange Sicht die Transformation des wissenschaftlichen Publizierens zu Open Access.
+Die Transformation wird politisch gestützt durch den Koalitionsvertrag der Bundesregierung
+(2021/2025), in dem ein Ziel lautet: „Open Access und Open Science
+wollen wir stärken.“20 Ein weiteres starkes politisches Signal kam 2022 vom Wissenschaftsrat
+(WR) mit seinen „Empfehlungen zur Transformation des wissenschaftlichen
+Publizierens zu Open Access“.21
+Mit dem Abschluss eines Transformationsvertrags mit kommerziellen Verlagen
+akzeptieren die Bibliotheken (nolens volens) das Gewinnstreben der Verlage. Daher
+entwickeln sich die Article Processing Charges weiterhin recht lebhaft. Eine Analyse
+der von der Initiative OpenAPC22 bereitgestellten Daten ergibt, dass die in Deutschland
+gezahlten APC im Zeitraum von 2018 bis 2021 bei den zehn Verlagen, in denen
+2018 am häufigsten OA publiziert wurde, um durchschnittlich 21,44 % gestiegen sind.
+ DFG 2022b: S. 4.
+ San Francisco Erklärung zur Forschungsbewertung. https://sfdora.org/read/read-the-declarationdeutsch/
+(10.05.2023).
+ Mehr Fortschritt wagen 2021. Koalitionsvertrag zwischen SPD, Bündnis 90/Die Grünen und FDP.
+https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800 (16.09.2024).
+ Wissenschaftsrat 2022.
+ OpenAPC. https://treemaps.openapc.net/apcdata/openapc/ (13.05.2023). Von den 10 Verlagen in
+denen 2018 am häufigsten OA publiziert wurde, sind 2021 acht vertreten: Copernicus, Elsevier, Frontiers,
+MDPI, Oxford Univ. Pr., PLOS, Springer Nature, Wiley (alphabetische Reihenfolge). 2018 waren
+noch Hindawi und die Optical Soc. of America darunter (sie wurden 2021 von Informa und IEEE
+abgelöst).
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 233
+Es besteht also das Risiko, dass sich die „Zeitschriftenkrise“ der 1990er Jahre nun
+bei den APC wiederholt. „Journals from the 2011 dataset that are still publishing
+showed price increases well beyond inflation rates, suggesting that an APC market
+could replicate the inelastic market long observed with subscription journals.“23 Eine
+tiefergehende Behandlung erfolgt in Kapitel 5.1 „Open Access bei Zeitschriften“.
+1.8 Informationsbudget
+Angesichts dieser Entwicklung geraten gerade forschungsstarke Einrichtungen unter finanziellen
+Druck, da neben den steigenden APC auch weiterhin in erheblichem Umfang
+Lizenzen und Subskriptionen von den Bibliotheksetats gezahlt werden müssen. Um
+einen Überblick und „ein Wissens- und Steuerungsinstrument zu erhalten, das die Open-
+Access-Transformation unterstützen soll“,24 empfiehlt der Wissenschaftsrat den wissenschaftlichen
+Einrichtungen, ihre Ausgaben ganzheitlicher zu betrachten, sich bei den Ausgaben
+für Informationen nicht allein auf die Bibliotheksmittel zu fokussieren, sondern
+ihr Informationsbudget in allen seinen Komponenten zu erfassen und mögliche Einsparungen
+auf der Erwerbsseite sowie mögliche Einnahmequellen gegen steigende Ausgaben für Publikationsdienstleistungen
+zu bilanzieren. [...] Die Informationsbudgets schaffen Transparenz und bilden
+die Basis für die Gestaltung des Systems jenseits der transformativen Verträge sowie
+für mögliche Ausgleichsmechanismen.25
+Mittermaier spezifiziert:
+Hierbei geht [es] nicht ‚nur‘ um Interdependenzen zwischen Zeitschriftenabonnements und Publikationsgebühren
+für Zeitschriftenartikel im Open Access, sondern um grundsätzlich alle Ausgaben
+(und Einnahmen) sowohl für die Beschaffung von Information als auch für das Publizieren.26
+Um diese neue Herausforderung zu unterstützen, gründete sich 2022 das Projekt „open-
+Cost“27 mit dem Ziel, eine technische Infrastruktur zu schaffen, „mit der Publikationskosten
+über standardisierte Schnittstellen und Formate frei zugänglich abgerufen
+werden können. Dadurch soll eine Kostentransparenz auf institutioneller, nationaler
+und internationaler Ebene ermöglicht werden.“28
+Bereits seit 2020 betreibt die Zentralbibliothek des Forschungszentrums Jülich
+den „Open Access Monitor“.29 Darin wird
+ Morrison, Borges, Zhao, Kakou und Shanbhoug 2021.
+ Taubert u. Pieper 2022: S. 1.
+ Wissenschaftsrat 2022.
+ Mittermaier 2022.
+ openCost. https://www.opencost.de/ (14.05.2023).
+ openCost – Projekt. https://www.opencost.de/projekt/ (14.05.2023).
+ Open Access Monitor. https://open-access-monitor.de/ (14.05.2023).
+234 Susanne Göttker, Sabine Kuniß und Sascha Lauer
+das Publikationsaufkommen deutscher akademischer Einrichtungen in wissenschaftlichen Zeitschriften
+[erfasst]. Durch Analysen von Subskriptionsausgaben und (Open Access-) Publikationsausgaben
+wird dabei die Transformation des Publikationswesens in den Open Access beobachtet
+und unterstützt.30
+Des Weiteren hat sich 2023 die Fokusgruppe Informationsbudget31 gegründet. Im Rahmen
+von Open Access Network soll sie dem aktiven und praktischen Informationsaustausch
+zwischen den wissenschaftlichen Bibliotheken dienen. Die Gruppe hat sich zum
+Ziel gesetzt: die Elemente von Informationsbudgets zu definieren und deren Darstellung
+zu standardisieren, Handlungsschritte zur Einführung eines Informationsbudgets
+darzustellen und Best Practices zu teilen. Für eine möglichst breite Abdeckung beteiligen
+sich Vertreter aus allen Bibliothekstypen.
+Die Erstellung des Informationsbudgets kann durchaus herausfordernd sein. Dies
+gilt vor allem für Einrichtungen mit zweischichtigen Bibliothekssystemen. Wenn inneruniversitär
+die Konsequenz ist, dass Fakultäten und einzelne Forschende Mittel
+abtreten müssen, kann dies zu Konflikten führen. Eine pragmatische Haltung kann
+hier darin bestehen, ‚sich auf den Weg zu machen‘ und vorhandene bzw. leicht beschaffbare
+Informationen und Daten zusammenzutragen.32
+2 Etatplanung und Mittelallokation
+in wissenschaftlichen Bibliotheken
+2.1 Einführung
+Eine große Herausforderung im Bereich der Erwerbung an wissenschaftlichen Bibliotheken
+ist eine dem Versorgungsauftrag gerecht werdende Verteilung der zugewiesenen
+Mittel. Im bisherigen (und häufig noch praktizierten) Verständnis stehen den
+Bibliotheken Mittel zur Verfügung, um Verlagsprodukte (Monografien, Zeitschriften,
+elektronische Ressourcen) zu erwerben bzw. zu lizenzieren. An dieser Stelle setzen
+Etatverteilungsmodelle ein.
+Seit vielen Jahren vollzieht sich ein Paradigmenwechsel in der Literatur- und
+Informationsversorgung von gedruckten hin zu elektronischen Medien. Nun gewinnen
+auch Open-Access-Veröffentlichungen und Publikationsunterstützung im Rahmen
+von Publikationsfonds oder durch Transformationsverträge immer mehr an Bedeu-
+ Open Access Monitor (OAM). https://www.fz-juelich.de/de/zb/open-science/open-access/open-ac
+cess-monitor (14.05.2023).
+ Fokusgruppe „Informationsbudget“. https://open-access.network/vernetzen/digitale-fokusgruppen/
+fokusgruppe-informationsbudget (18.05.2023).
+ Vgl. Taubert u. Pieper 2022: S. 7.
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 235
+tung. Konsequenterweise wird ein Umdenken bei der Ausgestaltung von Etatverteilungsmodellen
+hin zu Informationsbudgets33 notwendig. Die Herausforderung, vor
+der alle Beteiligten stehen, lautet: wie kann eine möglichst faire/ausgewogene Verteilung
+der Mittel gewährleistet werden? Dabei kollidieren oftmals die real verfügbaren
+Mittel mit den subjektiven Interessen.
+Das Etatverteilungsmodell bildet die zugewiesenen Mittel und die geplanten Ausgaben
+für die Literatur- und Informationsversorgung ab. Das Modell hilft bei der Planung
+der tatsächlichen Abläufe innerhalb eines Budgetjahres, zwingt aber auch dazu,
+Probleme frühzeitig zu erkennen (z. B. Unterfinanzierung von Fachbereichen) und gegenzusteuern.
+Je nach Einrichtung müssen verschiedene Akteure und/oder Entscheidungsträger
+bei der Erarbeitung eines Etatmodells einbezogen werden: die Direktion
+und Fachreferent:innen der Bibliothek, die Leitung der Einrichtung, die Bibliothekskommission
+usw. Das hat Einfluss auf den Zeitrahmen der Erstellung und auf die Anpassung.
+Je mehr Personen/Gremien einzubeziehen sind, umso schwerfälliger wird
+die Entwicklung, und es muss genügend Zeit für die Begutachtung eingeplant werden.
+Ein weiterer Aspekt ist die Laufzeit für das Modell. Wird das Modell auf mehrere
+Jahre angelegt oder ist von Beginn an eine jährliche Evaluation/Anpassung geplant
+bzw. gefordert? Für eine jährliche Evaluation müssen ausreichende personelle und
+zeitliche Ressourcen eingeplant werden.
+Eine Grundanforderung an Etatverteilungsmodelle steht im Vordergrund: Anhand
+ihres Modells soll die Bibliothek schnell und unkompliziert auf externe und interne
+Veränderungen reagieren können, um eine Aktualisierung der Verteillogik
+vorzunehmen. Bereits seit vielen Jahren besteht ein Anpassungsdruck, da es bedingt
+durch den Medienwandel von gedruckten zu elektronischen Publikationen deutliche
+Verschiebungen in den Medienetats gibt. Das Thema Open Access muss im Kontext
+von Etatverteilungsmodellen neu gedacht und in geeigneter Form in die Modelle integriert
+werden.
+2.2 Etatplanung und Mittelallokation
+Der erwähnte Anpassungsdruck veranlasste die Bibliotheken in den Jahren 2010 bis
+2020 verstärkt, sich mit den veränderten Anforderungen an die bisher eingesetzten
+Etatverteilungsmodelle auseinanderzusetzen. E-Journals sind bereits seit vielen Jahren
+etabliert, E-Books haben sich in den letzten 10 Jahren ebenfalls durchgesetzt. Die
+Breite der elektronischen Angebote in den Bibliotheken ist immer auch abhängig vom
+Markt. Im Zuge des Medienwandels und der damit einhergehenden veränderten Rezeptions-
+und Publikationskultur ist eine deutliche Ausgabenverschiebung von Erwerbungsmitteln
+zu konstatieren. Es war und ist weiterhin eine starke Verlagerung von
+ Vgl. Mittermaier 2022.
+236 Susanne Göttker, Sabine Kuniß und Sascha Lauer
+Printerwerbungen zur Akquisition von E-Medien (insbesondere im Monografienbereich)
+zu beobachten (vgl. Abb. 1).
+Viele Bibliotheken verabschiedeten E-First34 oder E-only-Strategien35 für den Medienerwerb.
+Die Gründe hierfür liegen auf der Hand. Mangelnde Platzreserven in den
+Magazinen der Bibliotheken, die zunehmende Digitalisierung in allen Lebensbereichen
+und damit auch in der Wissenschaftskommunikation und der Lehre. Die Vorteile
+der elektronischen Versionen von Monografien und Zeitschriften sind evident. Die Inhalte
+stehen zeit- und ortsunabhängig zur Verfügung und können einfach und schnell
+durchsucht werden. Links zu den Ressourcen können in Lernplattformen eingefügt
+werden. Ebenfalls großen Einfluss auf die Etatverteilung hat die verstärkte Konzentration
+von Mitteln in großen Konsortien für Datenbanklizenzen und E-Journal-Paketen
+sowie Transformationsverträgen.
+Mit den „Big Deals“ werden erhebliche Erwerbungsmittel häufig über mehrere
+Jahre gebunden, was aufgrund der starken Einschränkung der budgetären Flexibilität
+auch kritisch gesehen wird. „Big Deals“ gehen in der Regel nicht mit einem bedarfsgerechten
+und profilorientierten Bestandsaufbau einher, was die Entwicklung eines tragfähigen
+und nachhaltigen Etatverteilungsmodells für die Einrichtungen erschwert.
+Durch die starke Mittelbindung kann es zudem zu einer Konzentration des verfügbaren
+Budgets bei wenigen Großverlagen kommen. Die Bibliotheken müssen gemäß ihrem
+Auftrag36 dennoch auf eine breit aufgestellte Versorgung mit verfügbarer Forschungsliteratur
+achten, die dem Profil der zu versorgenden Zielgruppe entspricht.
+Die erwartete weltweite Transformation des Publikationswesens hin zu Open Access
+bleibt jedoch bislang aus, da sich die weltweit führenden Wissenschaftsnationen
+außerhalb Europas nur zögerlich dieser Bewegung anschließen, wie die Auswertung
+des Hybrid Open Access Dashboards zeigt.37 Also kann mit dem Begriff „Transformation“
+bei einem deutschen Transformationsvertrag38 vorerst nur gemeint sein, das
+Publizieren in Deutschland zu transformieren, nicht jedoch die Zeitschriften kommerzieller,
+international agierender Verlage.
+Die DFG ist sich im Klaren darüber, dass mit der Transformationsinitiative neben den generellen
+Kritikpunkten auch spezifische Risiken verbunden sind. Der Publikationsoutput Deutschlands
+liegt bei unter 10 % des globalen Outputs. Selbst wenn alle Artikel im Open Access erscheinen,
+reicht das nicht unbedingt, um Zeitschriften komplett umzustellen.39
+ Dammeier, Hark, Huber und Hüls 2020.
+ Müller-Wiegand und Pohlmann 2019.
+ S. FN 1.
+ Hybrid Open Access Dashboard, Country view. https://subugoe.github.io/hoaddash/#country-view
+(20.05.2023).
+ Der Begriff „richtet sich nach der Terminologie der DFG-Ausschreibung“. S. Hillenkötter 2018: S. 51.
+ Holzer 2017.
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 237
+Damit sind bei steigenden Kosten für die Publikationsfinanzierung, auf absehbare
+Zeit auch weiterhin Literaturerwerbungsmittel in substanzieller Höhe erforderlich.
+Die durch die Konsortien verhandelte Kostenreduktion bei einzelnen Produkten geht
+meist auch mit einer Umstellung der Bezugswege einher. Der Handel, der im deutschsprachigen
+Raum für die Beschaffung eine vor allem im Print-Bereich essenzielle Rolle
+spielt, verliert durch das konsortiale Direktgeschäft im Bereich der E-Medien zunehmend
+an Bedeutung.40 Dies kann zukünftig auch signifikante Auswirkungen auf die Etats der
+Einrichtungen haben. Bisher versucht der Handel noch durch Mischkalkulation die Beschaffungskosten
+über das Gesamtportfolio niedrig zu halten. Jedoch steht zu befürchten,
+dass sich die Library Supplier künftig wirtschaftlich gezwungen sehen werden, für die
+verbleibenden Produkte, sofern diese nicht der Preisbindung unterliegen, reale Kosten
+anzusetzen. Dies kann zu erheblichen Kostensteigerungen führen. Betroffen sind hier
+v. a. die zum Teil schwer beschaffbaren ausländischen Printmedien der Geistes- und Kulturwissenschaften.
+Auch wenn diese Entwicklungen nicht umkehrbar sind, versucht in
+Deutschland u. a. das GeSIG Netzwerk Fachinformation e. V. durch einen kontinuierlichen
+Austausch zwischen Verlagen, Handel und Bibliotheken Lösungswege zu finden
+(s. auch Kapitel 4.3 „Lizenzierung elektronischer Medien“).41
+Ein Aspekt, der bisher nicht oder nicht ausreichend über Etatverteilungsmodelle
+abgedeckt werden kann, ist die Finanzierung von Open-Access-Publikationskosten.
+Die Kosten für Publikationen werden aktuell über große Transformationsverträge
+wie z. B. dem Projekt DEAL42 oder über die Finanzierung von APCs (Article Processing
+Charges) oder BPCs (Book Processing Charges) für die Autoren und Autorinnen der
+Trägereinrichtung abgedeckt. Gibt es einen Publikationsfonds und werden die Mittel
+aus dem Etat der Bibliothek bereitgestellt, müssen die Ausgaben in das Etatverteilungsmodell
+integriert werden.
+Bisher eingesetzte Modelle in einschichtigen Universitätsbibliotheken konnten
+mit ihrer Verteillogik diesen Ansprüchen häufig nicht gerecht werden, da die verwendeten
+Kennzahlen noch stark auf tradierten Strukturen aus der Printerwerbung basierten.
+In mehrschichtigen Bibliothekssystemen können Etatverteilungsmodelle in
+der Regel nur in den Segmenten Anwendung finden, die aus zentralen Mitteln finanziert
+werden. Es kann jedoch auch in budgetär zweischichtigen Organisationen eine
+Bedarfsplanung auf der Basis eines Etatverteilungsmodells geben, hier müssen die
+Mittel jedoch jedes Jahr neu bei den Instituten als budgetverwaltende Einrichtungen
+eingeworben werden. Ein Gesamtüberblick könnte künftig über ein virtuelles Informationsbudget
+einer Einrichtung erreicht werden, dass sowohl die zentralen als auch
+die dezentralen Ausgaben für Medien und Publikationen abbildet.
+ Unruhe im Bibliotheksgeschäft (2016): Hochschulen verhandeln mit Grossverlagen über Bundeslizenzen.
+In: Buchreport. Veröffentlicht am 27.04.2016. https://www.buchreport.de/news/unruhe-im-bib
+liotheksgeschaeft/ (20.05.2023).
+ GESIG Netzwerk Fachinformation e. V. https://gesig.org/ (20.05.2023).
+ DEAL Konsortium: DEAL Konsortium – Homepage. 2023. https://deal-konsortium.de/ (26.02.2023).
+238 Susanne Göttker, Sabine Kuniß und Sascha Lauer
+DBS Feld 21 Ausgaben Bücher DBS Feld 113 Ausgaben Digitale
+Bestände DBS Feld 21 Ausgaben Bücher DBS Feld 113 Ausgaben Digitale
+Bestände DBS Feld 21 Ausgaben Bücher DBS Feld 113 Ausgaben Digitale
+Bestände
+Berlin UB Humboldt Chemnitz UB Düsseldorf UuLB
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 239
+Tabelle 1 vergleicht die Etatverteilungsmodelle von drei beispielhaft ausgewählten
+Universitätsbibliotheken. Andere Lösungsansätze für ein Etatverteilungsmodell
+haben z. B. die Universitätsbibliothek Potsdam43 und die Universitätsbibliothek Kassel44
+gefunden.
+2.3 Zukünftige Etatverteilungsmodelle
+Etatverteilungsmodelle verfolgen häufig das gleiche Ziel: eine möglichst gerechte Mittelverteilung
+der zur Verfügung stehenden Mittel. Doch wie kann, bei dem sehr heterogenen
+Rezeptions- und damit auch Publikationsverhalten, eine gerechte Verteilung
+in der heutigen Zeit erfolgen?
+Die Erfahrungen aus den letzten Jahren haben gezeigt, dass bisher eingesetzte Parameter
+nur noch bedingt für eine Mittelverteilung geeignet sind. So weicht z. B. eine Parametrisierung
+nach Sollbedarf pro Fach45 zunehmend lokalen Bedürfnissen (z. B. durch
+den Einsatz von nutzergesteuerter Erwerbung für Monografien) und lokalen Forschungsschwerpunkten.
+Im Bereich der Zeitschriften hat sich eine E-only-Policy in vielen Häusern
+inzwischen durchgesetzt. Aber auch im Bereich Monografien kann häufig das
+gedruckte Buch durch das E-Book ersetzt werden. In diesem Zusammenhang muss der
+ebenso oft eingesetzte Parameter Durchschnittspreis gesehen werden. Durchschnittspreise
+sollten auf der Basis einer Analyse des eigenen Erwerbungsverhaltens betrachtet
+werden. Die zunehmende Konzentration in Konsortialverträgen oder in paketbasierter
+Lizenzierung bzw. Kauf führt zu einer starken Veränderung in den Durchschnittspreisen.
+Deutlich wird dieser Effekt, vergleicht man Fächer mit einem hohen Anteil an Pick &
+Choose-Erwerbung und Fächer mit einem hohen Anteil an Paketkäufen (vgl. Tabelle 2).
+Damit geht auch eine Verschiebung von subskriptions- oder fachbasiertem Bestandsaufbau
+zu einer konsortialen Paketlizenzierung/Paketerwerbung einher, die zu einer zunehmenden
+Interdisziplinarität führt und damit zur Lösung von der inneruniversitären
+fachlichen Zuordnung. Ausgehend von den Datenbanken, hat dieses Problem inzwischen
+auch großflächig die E-Journals (E-Journal-Pakete, Konsortialverträge) und ebenso die
+E-Books (Paketvermarktung) erreicht. Viele Bibliotheken lösen das Problem mit großen
+Vorwegabzügen. Alle Medien, für die keine fachliche Zuordnung möglich ist, werden
+einem allgemeinen Fach oder eben dem Vorwegabzug zugeführt. Bei diesem Verfahren
+muss allerdings wieder die Rezeptionskultur der Fächer und die angestrebte gerechte
+Mittelverteilung beachtet werden. Fächer, die wenig von einem Vorwegabzug profitieren,
+dafür aber z. B. hohe Einzelsubskriptionskosten haben, wären damit benachteiligt, da die
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 241
+Tab. 1 (fortgesetzt)
+Bibliothek der HU Berlin ULB Düsseldorf UB Chemnitz
+Studierende Wichtung  % im Verhältnis
+zur gesamten Einrichtung =
+Universitätssäule
+Besonderheiten Grundzuweisung/
+Mindestsumme
+. € je Fakultät
+(Modellzahl)
+Kappungsgrenze  % am Gesamtetat
+für große/ % am
+Gesamt-etat für kleine
+Fakultäten
+Laufzeit jährlich
+Säulen  % Universitäts-säule/ %
+Literatursäule
+242 Susanne Göttker, Sabine Kuniß und Sascha Lauer
+Kosten für diese aus den Fachetats finanziert werden müssen. Dafür bedarf es einer Analyse
+des Erwerbungsverhaltens pro Fach über einen angemessenen Zeitraum.
+Der Aspekt Open-Access-Publikationskosten/-Transformationsverträge ist in den
+letzten Jahren deutlich in den Vordergrund gerückt. Ausgaben im Kontext von Open
+Access sind schwer planbar und abhängig vom Publikationsoutput der Wissenschaftler:innen.
+Mittel für Transformationsverträge werden häufig über Vorwegabzüge abgedeckt.
+Die vertragliche Basis der Vereinbarungen gibt den Bibliotheken eine gewisse
+Budgetsicherheit. Publikationskosten für APCs fallen möglicherweise im Haushalt der
+Bibliothek an (z. B. über einen an der Bibliothek angesiedelten Publikationsfonds), aber
+auch im Gesamthaushalt der Einrichtung durch eine dezentrale Finanzierung von Artikelgebühren.
+Die Bibliothek hat als einzige Steuerungsmöglichkeit eine Deckelung des
+Publikationsfonds und die Definition von Fördergrenzen beispielsweise durch die Einziehung
+einer maximalen Fördersumme pro Artikel oder der maximalen Anzahl an
+Förderungen pro Autor:in. Dies erfordert ein Monitoring der Ausgaben. Lokale Bibliothekssysteme
+bieten hierfür jedoch meist keine auf die Spezifika von Publikationskosten
+anwendbaren Module.48 Die unterschiedliche Publikationskultur in den STMFächern
+und den HSS-Fächern muss hierbei berücksichtigt werden. Kennzahlen für die
+Integration in ein Etatverteilungsmodell gibt es aktuell nicht. Folglich muss im Bereich
+der Publikationskosten noch viel stärker auf Zahlen der eigenen Einrichtung zurückgegriffen
+werden als bei der Erwerbung. Neben den Ausgaben der Bibliothek spielen
+auch dezentrale Finanzierungen zunehmend eine große Rolle.
+ In Schönfelder (2023) werden jedoch Möglichkeiten der APC-Verwaltung mit dem lokalen Bibliothekssystem
+Alma beschrieben.
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 243
+Literatur
+Allianz der Wissenschaftsorganisationen: Stellungnahme zur Initiative der Europäischen Kommission:
+Reform der Forschungsbewertung vom 02.05.2022. https://www.allianz-derwissenschaftsorganisationen.
+de/themen-stellungnahmen/reform-der-forschungsbewertung/
+(10.05.2023).
+Dammeier, J., C. Hark, A. Huber u. S. Hüls: E-First beim Bucherwerb an der Universität Tübingen:
+Ergebnisse des einjährigen Tests. In: o-bib 7 (2020), H. 1, S. 1–16. https://doi.org/10.5282/o-bib/5564.
+Deutsche Forschungsgemeinschaft (2022a): Rolle und perspektivische Entwicklung der Deutschen
+Forschungsgemeinschaft im deutschen Wissenschaftssystem. Mai 2022. https://www.dfg.de/down
+load/pdf/dfg_im_profil/geschaeftsstelle/publikationen/stellungnahmen_papiere/2022/220629_posi
+tionspapier_rolle_entwicklung_dfg.pdf (10.05.2023).
+Deutsche Forschungsgemeinschaft (2022b): Wissenschaftliches Publizieren als Grundlage und
+Gestaltungsfeld der Wissenschaftsbewertung. Positionspapier. Mai 2022. Online: https://doi.org/10.
+5281/zenodo.6538163.
+Gantert, K.: Wandel, Vielfalt und Kooperation – Aufgaben, Typen und Träger von Bibliotheken, 10: „Die
+zentrale Aufgabe der Universitätsbibliotheken (UB) ist die Literatur- und Informationsversorgung der
+Hochschulangehörigen (Professoren, Dozenten, Studierenden).“ In: Praxishandbuch
+Bibliotheksmanagement. Hrsg. von R. Griebel, H. Schäffler u. K. Söllner. Berlin: de Gruyter 2014.
+S. 5–16. https://doi.org/10.1515/9783110303261.5.
+Göttker, S.: Das neue Etatmodell der ULB Düsseldorf mit Open-Access-Komponente. Open Access in der
+Erwerbung, dbv-Kommission Erwerbung und Bestandsentwicklung. 2021. https://doi.org/10.5446/
+52193.
+Hillenkötter, K.: An der Schwelle zur Transformation: ‚alte‘ und ‚neue‘ Lizenzmodelle im Überblick. In:
+Bibliothek, Forschung und Praxis 42 (2018), H. 1, S. 42–56. https://doi.org/10.1515/bfp-2018-0008.
+Holzer, A.: Wozu Open-Access-Transformationsverträge? 93. In: o-bib 4 (2017), H. 2, S. 87–95. https://doi.
+org/10.5282/o-bib/2017H2S87-95.
+Mittermaier, B.: DEAL: Wo stehen wir nach 10 Jahren? Teil 1. In: b.i.t.online 26 (2023), H. 2, S. 123–131.
+https://www.b-i-t-online.de/heft/2023-02-fachbeitrag-mittermaier.pdf (31.07.2023). Teil 2. In: b.i.t.
+online 26 (2023), H. 3, S. 217–225. https://www.b-i-t-online.de/heft/2023-03-fachbeitrag-mittermaier.
+pdf (31.07.2023).
+Mittermaier, B.: Das Informationsbudget: Konzept und Werkstattbericht. In: o-bib 9 (2022), H. 4, S. 1–17.
+https://doi.org/10.5282/o-bib/5864.
+Moravetz-Kuhlmann, M.: Erwerbungspolitik, Etatplanung und Mittelallokation in wissenschaftlichen
+Bibliotheken. In: Praxishandbuch Bibliotheksmanagement. Hrsg. von R. Griebel, H. Schäffler u. K.
+Söllner. Berlin: de Gruyter 2014. S. 161–183. https://doi.org/10.1515/9783110303261.161.
+Moravetz-Kuhlmann, M.: Das Bayerische Etatmodell, ein erfolgreiches Konzept zur Sicherung der
+Literatur- und Informationsversorgung vor neuen Herausforderungen. In: Bibliotheken: Innovation
+aus Tradition, Rolf Griebel zum 65. Geburtstag. Hrsg. von K. Ceynowa u. M. Hermann. Berlin: de
+Gruyter 2015. S. 409–418. https://doi.org/10.1515/9783110310511.409.
+Morrison, H., L. Borges, X. Zhao, T. Kakou u. A. Shanbhoug: Open access journals & article processing
+charges 2011–2021. 2021. S. 12. http://hdl.handle.net/10393/42327 (13.05.2023).
+Müller-Wiegand, D. u. T. Pohlmann: Das neue Etatmodell der UB Kassel. Nutzungsbasiertes
+Portfoliomanagement für E-Journals und Datenbanken. In: o-bib 6 (2019), H. 4, S. 39–49. https://doi.
+org/10.5282/o-bib/2019H4S39-49.
+Open Access in der Erwerbung: dbv-Kommission Erwerbung und Bestandsentwicklung. 2021. https://doi.
+org/10.5446/s_1053.
+Schönfelder, N.: Monitoring, Informationsbudget & Alma. In: o-bib 10 (2023), H. 3, S. 1–7. https://doi.org/
+10.5282/o-bib/5948.
+244 Susanne Göttker, Sabine Kuniß und Sascha Lauer
+Taubert, N. u. D. Pieper: Informationsbudget. Herausforderungen der lokalen Implementation, Stand der
+Diskussion. Bericht über einen Workshop vom 12.05.2022. Universität Bielefeld 2022. S. 1. https://doi.
+org/10.5281/zenodo.6784050.
+Thomas, L.: Die Segmente des neuen Mittelverteilungsmodells der Universitätsbibliothek Potsdam: Die
+Verankerung von Zeitschriftenpaketverträgen und die Verstetigung von Open Access im
+Bibliotheksetat. In: Bibliotheksdienst 52 (2018), H. 8, S. 631–640. https://doi.org/10.1515/bd-
+2018-0073.
+Wissenschaftsrat: Empfehlungen zur Transformation des wissenschaftlichen Publizierens zu Open Access.
+2022. https://doi.org/10.57674/fyrc-vb61.
+Winter A., A. Herwig u. K. Braschoß: Etatverteilung 2020. In: o-bib 7 (2020), H. 3, S. 1–13. https://doi.org/10.
+5282/O-BIB/5621.
+4.1 Erwerbungspolitik, Etatplanung und Mittelallokation 245

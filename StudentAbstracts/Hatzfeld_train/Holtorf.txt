@@ -1,0 +1,491 @@
+Martin Holtorf und Nathalie Küchler
+3.5 Bibliothekarische Auskunft
+und Informationsdienstleistungen
+1 Grundlagen und Voraussetzungen
+Der Auftrag von Bibliotheken besteht in der Sammlung und Bereitstellung von Informationen
+und bündelt sich im Auskunftsdienst. Dieser bildet die Schnittstelle zu den
+Endnutzer:innen, widmet sich deren Informationsbedarf und verkörpert auf persönliche
+Weise das bibliothekarische Informationsangebot.
+Der veränderliche Faktor der bibliothekarischen Auskunft besteht in der Frage,
+wodurch sich die Informationsanliegen der Nutzer:innen ergeben und wie, d. h. mit
+welchen Mitteln und in welcher thematischen oder räumlichen Einbettung, sie beantwortet
+werden. Rösch u. a.1 staffeln Anfragen nach ihrer Komplexität in Orientierungs-,
+bibliographische und Sachauskünfte. Sie werden in der Kategorie der passiven, d. h.
+von Benutzer:innen eingeforderten Auskünfte zusammengefasst und von der aktiven
+Auskunft abgegrenzt, bei der Information proaktiv verfügbar gemacht wird.
+Praktisch vollzieht sich die Auskunft üblicherweise in Form eines Dialogs. Die
+Kommunikation zwischen dem Bibliothekspersonal und seinen Adressat:innen kann
+entweder synchron stattfinden – „Face-to-Face“, im Live-Chat oder per Telefon – oder
+asynchron – per E-Mail, Chatbot etc.2 Die Live-Auskunft, bei der Benutzungsfragen
+spontan zu beantworten sind, stellt eine besondere Herausforderung dar. Hier gilt es,
+die Anliegen innerhalb kurzer Zeit vollständig zu erfassen und adäquat zu beantworten.
+Entsprechend einig sind sich die bibliothekarischen Standardwerke daher über
+die Bedeutung von (fremd)sprachlichem wie auch nonverbalem Kommunikationsgeschick
+und von Empathiefähigkeit bzw. sozialer Kompetenz beim Auskunftspersonal.3
+Da der Auskunftsdienst oft auch für Beschwerdemanagement zuständig ist, umfasst
+dies zusätzliche Kompetenzen im Umgang mit Konflikten. Soft Skills – auch als People
+Skills bezeichnet – besitzen für den Auskunftsdienst eine größere Bedeutung als in
+vielen anderen bibliothekarischen Tätigkeitsbereichen.
+ Rösch u. a. 2019: S. 215.
+ Vgl. Rösch u. a. 2019: S. 212.
+ Vgl. Hilpert 2014: S. 230; Rösch u. a. 2019: S. 213.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-011
+2 Entwicklungslinien des Auskunftsdienstes
+Lange Zeit waren Bibliotheken im Besitz des Informationsmonopols, ihre Bestände an
+(wissenschaftlichen) Monographien, Romanen, Sachbüchern, Lexika, Zeitschriftenartikeln
+und Zeitungen waren einzigartig und der Auskunftsdienst entscheidend für
+deren Zugänglichkeit. Wer keine umfangreiche Privatbibliothek besaß, konnte über
+diese Häuser Zugang zur gesamten Wissenswelt erhalten. Tatkräftige Unterstützung
+boten Auskunftsbibliothekar:innen, die die Recherche im Zettelkatalog beherrschten
+und einen Überblick über die relevanten Bibliographien und darin verzeichneten
+Standardwerke besaßen.
+Mit der Überführung bibliographischer Angaben in elektronische Kataloge und
+Datenbanken wurde die Recherchearbeit als Self-Service auf die Nutzenden ausgelagert.
+Während sie ihre Bibliothek zunächst noch physisch aufsuchen mussten, ermöglichte
+die Einführung von Online-Katalogen einen bequemen Zugang von zuhause,
+aus dem sich bald entsprechende Ansprüche an die Mediennutzung ableiteten. Der
+Auskunftsdienst übernahm die Rolle eines Vermittlers und Beraters, der aufgesucht
+werden konnte, um sowohl Überblick als auch Einblick in die jeweiligen Fachgebiete
+zu erhalten oder sich die Regeln der Katalogrecherche erläutern zu lassen.
+Im Informationszeitalter verloren die bibliothekarischen Auskunftsdienste nach und
+nach ihre Informationshoheit. Das World Wide Web lieferte nicht nur Informationen
+über Publikationen, sondern oftmals gleich deren Inhalt. Denn auch die Publikationspraxis
+wandelt sich: Informationen werden auf Websites und Content-Plattformen veröffentlicht
+und Offline-Medien wie Printpublikationen verlieren ihre Vorrangstellung.
+An die Stelle mehrbändiger Nachschlagewerke treten kollektiv erarbeitete Online-
+Enzyklopädien, Ratgeberliteratur wird durch Erklärvideos verdrängt, Sprachkurse
+vom Print- ins App-Format überführt. Bibliotheken sehen sich konkurrierenden
+Informationsmonopolen ausgesetzt, die insbesondere die Nachfrage nach Instant-
+Informationen decken. Der überwiegende Teil alltäglicher Recherchefragen lässt sich
+inzwischen mobil und sekundenschnell online beantworten, und der Besuch einer
+Bibliothek bedeutet demgegenüber einen unverhältnismäßigen Mehraufwand.4
+Nicht nur die Recherche nach Informationen ist heute niedrigschwellig, sondern
+auch die Content-Produktion, was sich allerdings in der Qualität online verfügbarer
+Informationen niederschlagen kann. Am anderen Ende der Skala ist jedoch auch die
+wissenschaftliche Forschung so produktiv wie nie.5 Es ist leicht möglich, sich in dieser
+heterogenen Informationsflut zu verlieren. Selten war Orientierung so wertvoll und –
+gemessen an den Lizenzkosten für Fachdatenbanken – so exklusiv. Während allgemeine
+Überblicksdarstellungen online frei abgerufen werden können, hat sich der
+Open-Access-Standard bei Fachpublikationen noch nicht flächendeckend durchgesetzt
+ Vgl. IFLA Trend Report 2021: S. 15.
+ Vgl. White 2019.
+176 Martin Holtorf und Nathalie Küchler
+und valide Informationen aus Normen, Lehrbüchern oder Rechtskommentaren sind
+oft nur gedruckt verfügbar oder hinter Bezahlschranken verborgen.
+Die Auskunftsdienste bieten sich nun als Lotsen an, nicht nur weil sie nach wie
+vor über die Kenntnis und den Zugang zu den relevantesten Fachdatenbanken und
+Recherchekatalogen verfügen, sondern weil sie außerdem die blinden Flecke derjenigen
+ausfüllen können, die auf die marktführenden Suchmaschinen konditioniert sind.
+Der Mehrwert bibliothekarischer Auskunftsdienstleistungen besteht heute insbesondere
+darin, Nutzer:innen für die Limitierung ihrer Recherchestrategien zu sensibilisieren.
+Der Auskunftsdienst unterstützt die Nutzer:innen dabei, Inhalte zu finden, bei
+denen die Suchmaschinenindizes (noch) an ihre Grenzen stoßen und kann Auskunftssituationen
+nutzen, um Informationskompetenz zu vermitteln.
+3 Räumliche Rahmenbedingungen
+Informationsvermittlung vollzieht sich räumlich, selbst wenn beispielsweise die Chat-
+Auskunft in virtuellen „Räumen“ stattfindet. Insofern sind die Auskunftsorte bzw.
+deren Gestaltung aufschlussreich für das Verständnis der dort erbrachten Dienstleistung.
+Das Ursprungshabitat bibliothekarischer Informationsdienstleistungen ist die
+Auskunftstheke, die sogar namentlich mit ihrer Bibliothek verbunden ist. Traditionell
+nimmt sie eine erhöhte Position im Zentrum panoptisch entworfener Lesesäle ein.
+Klassische Theken fungieren als Trennlinien zwischen Bibliothekspersonal und Benutzenden
+und drücken ein Ungleichgewicht zwischen beiden aus: Wer eine Auskunftsleistung
+in Anspruch nehmen will, muss sich zur Theke hinbewegen und sein
+Anliegen stehend vortragen. Gleichzeitig bindet der Thekendienst das Personal zeitlich
+und räumlich unabhängig von der aktuellen Nachfragesituation.
+Die Veränderungen von Benutzungsansprüchen und -angeboten schlagen sich
+räumlich in den Lesesälen nieder. Einerseits veränderte sich die Theken-Gestaltung
+und erlaubte durch höhenflexible und barrierefreie Plätze eine beiderseitige Begegnung
+auf Augenhöhe. Andererseits wurden in vielen Einrichtungen verteilte Anlaufstellen
+für Ausleihe, bibliothekarische Auskünfte, technischen Support etc. nach dem
+Vorbild des Handels in zentralen Single Points of Contact (SPoC) gebündelt.6
+Mit Konzepten wie der Roving Reference wird schließlich ein Richtungswechsel vollzogen.
+Die Idee hinter diesem Ansatz ist die Ablösung der statischen Theke durch einen
+mobilen Auskunftsdienst, der sich zwischen den Arbeitsplätzen bewegt und im Vorbeigehen
+angesprochen werden kann. Das verringert nicht nur die Distanz zu den Benutzenden,
+sondern auch zu deren (Recherche-)Problemen am jeweiligen Arbeitsplatzrechner.
+Mit der Virtualisierung der Informationsdienstleistungen bewegt sich die Auskunft
+noch weiter auf ihre Zielgruppe zu: bis zu deren präferiertem Arbeitsort. Während in
+ Gillitzer u. a. 2022: S. 242 f.
+3.5 Bibliothekarische Auskunft und Informationsdienstleistungen 177
+der Arbeitswelt der New-Work-Ansatz Einzug hält und Bildungseinrichtungen vermehrt
+auf Alternativlösungen zur Präsenzlehre setzen, wird auch die Leistungserbringung der
+Bibliothek dorthin verlagert, wo sie benötigt wird: „vom Abholen der Auskunft durch
+die Nutzer:innen hin zum Abholen der Nutzer:innen durch die Bibliothek“.7
+Inzwischen ist der Ort der Bibliotheksbenutzung für viele Endnutzer:innen der
+Browser am heimischen Rechner oder das mobile Smartphone. Aber auch die Auskunftstätigkeit
+löst sich vom physischen Bibliotheksort. Das Auskunftspersonal kann von einem
+beliebigen Ort aus virtuell Auskunft geben oder seiner Zielgruppe an ebenso beliebigen
+Orten physisch begegnen. Embedded Librarians lassen sich beispielsweise in die Arbeitsprozesse
+an Forschungsinstituten einbinden.8 Unerschlossenen Nutzungsgruppen kann
+das Servicespektrum der Bibliothek auf Messen, Kongressen oder kulturellen Veranstaltungen
+(Wissenschaftsnächten und Co.) nahegebracht werden. Mit niedrigschwelligen
+Vermittlungsangeboten in Schulen oder städtischen Begegnungszentren initiieren Bibliotheken
+unter dem Schlagwort „Outreach“ zudem den Kontakt zu bibliotheksfernen Zielgruppen
+und gewinnen damit nicht nur neue Kund:innen für ihre Services, sondern
+fördern zugleich deren Partizipation an der Informationsgesellschaft.
+Diese erweiterten Angebote beeinträchtigen nicht den Wert des physischen Lesesaals.
+Die Bedeutung der Bibliothek als sozialer Raum verdeutlichten die Bemühungen,
+die Lesesaal-Atmosphäre während der Covid-19-Lockdowns mithilfe von Videokonferenz-
+Systemen auf Online-Lesesäle zu übertragen. Als Dritte Orte sind Bibliotheken
+Treffpunkte, zu deren Benutzung das Bibliothekspersonal einlädt und sich bei Bedarf
+als Guide zur Verfügung stellt.
+4 Technische Hilfsmittel der
+Informationsvermittlung
+Schon immer setzen Auskunftsteams technische Hilfsmittel wie Zettelkataloge und Recherchetechniken
+ein, um Anfragen zu beantworten. Durch die Digitalisierung ist die
+Nutzbarkeit der Tools effizienter, jedoch nicht zwangsläufig intuitiv oder einheitlich
+geworden. Das hängt insbesondere mit der Komplexität der Medien-Verzeichnung zusammen,
+aber auch mit den jeweiligen Bereitstellungsbedingungen.
+Der Auskunftsdienst steht den Benutzer:innen mit seiner Expertise beiseite, um bibliographischen
+Datenbanken umfassende Recherche-Ergebnisse zu entlocken. Obwohl
+sich diese Lösung lange Zeit bewährt hat, steht sie zunehmend in Konflikt mit der Usability-
+Erwartung, mit der Endnutzer:innen heute technischen Systemen begegnen. Ihre
+Erfahrung ist geprägt von der Durchdringung des täglichen Handelns mit serviceorien-
+ Gillitzer u. a. 2022: S. 242 f.
+ Vgl. Jacobs 2013.
+178 Martin Holtorf und Nathalie Küchler
+tierten Assistenzsystemen, wie die sprachgesteuerten Helfer auf Smartphones bis zu
+dem in Suchmaschinen integrierten Navigationssystemen. Deren smarte, personalisierte
+Dienstleistungen reduzieren Eigenaufwände auf ein Minimum.
+Ein Ausgangspunkt dieses Konflikts lässt sich auf die Suchmaschinen-Revolution des
+World Wide Web am Ende des 20. Jahrhunderts zurückführen. Web-Suchmaschinen bieten
+neben der Volltext-Suche eine algorithmische Sortierung der Trefferlisten nach Relevanzkriterien.
+Die Darstellung der Suchergebnisse verliert in diesem Moment ihre
+Neutralität zugunsten von Orientierung, die im exponentiell ansteigenden Informationsangebot
+essenziell ist. Zwischen den puristischen Oberflächen der marktführenden Suchmaschinen
+und einem typischen Bibliothekskatalog besteht heute eine große visuelle
+Diskrepanz, die Ungeübte überfordern kann. Ein nicht geringer Anteil von Anfragen ergibt
+sich aus dem Erklärungsbedarf zu den bibliografischen Rechercheinstrumenten. Da
+Bibliotheken aber Routine darin haben, sich an Nutzungsbedürfnisse anzupassen, werden
+auch Recherchekataloge stetig optimiert, Oberflächen angepasst und ihre Usability
+gesteigert.
+Nicht nur die bibliographischen Recherche-Instrumente, sondern auch das Einholen
+von Auskünften gewinnt unter Einsatz digitaler Technik an Nutzungsfreundlichkeit,
+d. h. vor allem an Flexibilität. Bibliotheken bedienen dafür neben der Theken-Auskunft
+vor Ort die gesamte Bandbreite verfügbarer Kommunikations- und Informationstechnologie:
+Telefon, E-Mail, Chat, Messenger-Dienste und Social-Media-Kanäle. Die Auskunftstätigkeit
+setzt sogar schon vor der Begegnung mit ihren Nutzenden ein: Der
+Erstkontakt vollzieht sich in der Regel auf der Bibliothekswebsite. Bedarforientiert gestaltete
+Hilfe- und Kontaktseiten, FAQ-Sammlungen, Erklärvideos oder zielgerichtete
+Anfrage-Formulare sind im Idealfall die unmittelbarsten Einstiege zur gewünschten
+Information.
+Auch Folgekontakte mit dem Auskunftsdienst finden, spätestens seit die Covid-19-
+Pandemie zu einer flächendeckenden Verbreitung von Videokonferenz-Technik und –
+Knowhow geführt hat, zunehmend virtuell statt. Die Online-Auskunft ersetzt allerdings
+die physische nicht. Vielmehr werden physische, virtuelle oder hybride Lösungen
+bei der Konzeption von Services heute parallel gedacht. Das ist sinnvoll, denn
+Online-Angebote bauen Barrieren wie die physische Erreichbarkeit ab, kommen jedoch
+nicht ohne Nutzungsvoraussetzungen aus und setzen neben Technik-Affinität
+bzw. –Vorbehaltlosigkeit9 etwa eine geeignete audiovisuelle Ausstattung und stabile
+Netzverbindung voraus.
+Die räumliche Flexibilisierung, die Kombination von synchronen und asynchronen
+Auskunftsangeboten und der virtuell leicht zu bewerkstelligende Zusammenschluss zu
+Auskunftsverbünden reduzieren Limitierungen im Hinblick auf Erreichbarkeit, Verfügbarkeitszeiten
+und Personalressourcen. Damit werden neue Zielgruppen erreichbar,
+deren verschiedenartige Anliegen wiederum zum Maßstab des Service-Angebots wer-
+ Roters 2021: S. 150.
+3.5 Bibliothekarische Auskunft und Informationsdienstleistungen 179
+den. Um bedarfsgerechte Auskunftsformate anzubieten, kann das Angebotsspektrum
+von der schnellen Chat-Anfrage bis zur individuellen Sprechstunde per Book-a-Librarian
+aufgefächert und können Auskunftskanäle nach Belieben kombiniert werden.
+Die Entscheidung für einen bestimmten Kommunikationskanal und eine konkrete
+Software bestimmen dabei wesentlich die Auskunftssituation, da das Kommunikationsmedium
+auf den -inhalt zurückwirkt. Im besten Fall fördert das Medium die Verständigung:
+Niedrigschwellige Unterstützungsangebote wie die Möglichkeit, die Bibliothek
+zunächst über ihre Website kennenzulernen oder Fragen anonym über das zwanglose
+Medium Chat zu stellen, können insbesondere für Neulinge oder Menschen ohne Bibliothekssozialisation
+Hemmschwellen reduzieren und die allgemeine Zugänglichkeit der
+Bibliothek erhöhen. Die Kanalisierung komplexer Anfragen in Termin-Services wie
+Book-a-Librarian machen im Gegenzug die Auskunftstätigkeit auch für das Bibliothekspersonal
+planbarer.
+Die flexible Wahl des geeignetsten Mediums wird durch die Variationsbreite verfügbarer
+Hard- und Software möglich. Je nachdem, ob die Kommunikation auf schriftlichem,
+auditivem oder visuellem Weg jeweils synchron oder asynchron erfolgen soll, finden sich
+auf dem Markt eine Vielzahl von Standardlösungen. Um eine passende Auswahl treffen
+zu können, ist es erforderlich, sowohl mit den verschiedenen Techniken als auch mit
+deren Kommunikationsstandards vertraut zu sein. Nur so lässt sich für jedes Informationsbedürfnis
+nicht nur das richtige Medium, sondern auch der richtige Ton finden.
+Die digitale und virtuelle Transformation von Informationsdienstleistungen ist eine
+Herausforderung, zumal der Auskunftsdienst auch die erste Anlaufstelle von Benutzer:innen
+mit technischen Problemen ist. Technikaffinität nimmt im Kompetenzprofil des
+Auskunftspersonals eine wichtige Rolle ein. Die kontinuierliche Weiterentwicklung digitaler
+Lösungen bedingt, dass der Schulungsbedarf des Personals ebenso regelmäßig zu
+evaluieren ist, wie Lizenzmodelle, Gerätekompatibilität, Barrierefreiheit und Datenschutzkonformität
+der virtuellen Services.
+Im Gegenzug lassen sich mit der passenden Technik auch bibliotheksfernere Zielgruppen
+erreichen. In Blog-Artikeln, Podcasts oder (virtuellen) Coffee Lectures geben
+Bibliotheken Einblick in ihre Sammlungen, bieten Recherche-Anregungen und stoßen
+ggf. sogar Forschungsfragen an. Über integrierte Chat- und Kommentar-Funktionen solcher
+proaktiven Informationsangebote können wiederum klassische Auskunftssituationen
+entstehen. Die virtuelle Informationsvermittlung ist jedoch nicht länger nur an den
+Bibliothekskontext gebunden. Ein noch wenig erschlossenes Feld für die aktive Auskunftstätigkeit
+sind die Web-Angebote von Fremdanbietern, hierunter fallen beispielsweise
+Social-Media-Kanäle kooperierender Einrichtungen, dezentrale Twitter-Debatten
+oder erste Ansätze, Bibliotheks-Chats direkt im Browser der Nutzenden einzubinden.10
+ Browsererweiterungen wie zum Beispiel das Add-on „Lean library“ des Sage Verlages schlagen
+eine Brücke zwischen der Web-Recherche nach Literatur und den Auskunftsservices verschiedener
+Bibliotheken. S. https://leanlibrary.com/ (12.02.2024).
+180 Martin Holtorf und Nathalie Küchler
+Bislang noch kaum digitalisiert ist allerdings das Auskunftspersonal selbst: Robotik
+und künstliche Intelligenz setzten sich in Lesesälen bislang wenig durch. Das kreative
+Alleinstellungsmerkmal des Auskunftsdienstes wird jedoch durch die immer
+weiter fortschreitenden Entwicklungen auf dem Feld der künstlichen Intelligenz herausgefordert.
+Je nachdem, wie entsprechende Systeme trainiert und mit welchen
+Daten sie angereichert werden, können sie den Auskunftsprozess künftig entweder
+unterstützen oder aber ersetzen. In jedem Fall ist zu erwarten, dass ihn die technische
+Weiterentwicklung entscheidend verändern wird.
+5 Die Auswirkungen künstlicher Intelligenz
+auf die Auskunftsdienste
+und Informationsdienstleistungen
+Die KI-Entwicklung im Jahr 2022 hat mit der Veröffentlichung von Chat-GPT durch
+OpenAI einen für die breite Öffentlichkeit sichtbaren und spürbaren Fortschritt erzielt.
+11 Damit wurde ein konkreter Ausblick geliefert, welche Möglichkeiten und Potenziale
+in KI-basierten Anfragesystemen stecken.
+Das Projekt lässt erahnen, wie Benutzer:innen zukünftig ihr Verhalten anpassen
+werden, um nach Informationen zu suchen oder um Texte zu verfassen. Aus Anwendungssicht
+wurde praktisch nachvollziehbar, dass das vorgestellte Chatsystem und
+dessen Konkurrenzprodukte ein zwar nicht perfektes, aber zukunftsweisendes Niveau
+erreicht hatten. Auch für Bibliotheken stellte sich nun die Frage: Wenn das vorgestellte
+System schon jetzt so viele Auskunftsfragen beantworten kann, wohin wird
+es sich in den nächsten Jahren entwickeln? Aufgrund der zahlreich publizierten KIEinführungen12
+muss an dieser Stelle nicht auf die grundlegenden KI-Technologien
+eingegangen werden. Aufschlussreicher ist die Frage, was diese Technologie für die
+Auskunfts- und Informationsdienstleistungen praktisch bedeutet.
+KI-gestützte Systeme können an verschiedenen Stellen entlang der Wertschöpfungskette
+von Bibliotheksdienstleistungen eingesetzt werden: Sie unterstützen bereits
+seit einiger Zeit die inhaltliche Erschließung von Medien durch automatisierte Erschließungsverfahren
+und erhöhen deren Effizienz, weil mehr Medien bei gleichbleibendem
+Personaleinsatz verarbeitet werden können und diese Medien wiederum zur inhaltlichen
+Suche oder semantischen Weiterverarbeitung zur Verfügung gestellt werden können.
+Sofern Volltexte von Publikationen in die Datenquellen von KI-Systemen eingehen,
+können sie deren Auffindbarkeit in Information-Retrieval-Systemen erhöhen und die
+Literaturrecherche deutlich erleichtern, wodurch sich Beratungsbedarf reduziert. Die-
+ Vgl. Gillitzer, Maas u. Räuber 2022.
+ Ertel 2005; Kersting 2019.
+3.5 Bibliothekarische Auskunft und Informationsdienstleistungen 181
+ser lässt sich wiederum teils mit Chatbots beantworten, die bereits vereinzelt Auskunftsdienste
+unterstützen – bislang meist noch außerhalb der Servicezeiten.
+Die KI-Entwicklungen wirken sich zweifellos auf die Auskunftsdienstleistungen und
+die Erwartungen seitens der Nutzer:innen aus. Im außerbibliothekarischen Kontext etablieren
+sich Systeme, die Suchstrategien nachhaltig verändern. In den klassischen Suchmaschinen
+– und Bibliothekskatalogen – geben die Nutzer:innen themenspezifische
+Suchbegriffe ein und müssen die Entscheidung treffen, welcher Link in der Trefferliste
+mit einer hohen Wahrscheinlichkeit die gesuchte Information liefert. Kommerzielle
+Suchmaschinenbetreiber minimieren das Risiko eines Fehlgriffs durch ihre
+Rankingmethoden. Mit KI-gestützten Suchmaschinen können dagegen natürlichsprachliche
+Eingaben getätigt werden, und die Suchmaschinentechnologie übersetzt
+sie in eine maschinell verarbeitbare Eingabe. Als Antwort wird eine Kombination
+aus Link und Antworttext ausgegeben. Die Suche nach Informationen entwickelt
+sich hin zu einem Chatgespräch.13
+Die Dialogfähigkeit KI-gesteuerter Chatsysteme ist bereits so ausgereift, dass ihre
+Antworten nicht mehr zwingend von menschlichen Antworten unterscheidbar sind.
+Die Textqualität automatisch erzeugter Antworten wird immer besser, sodass elementare
+Anfragen problemlos auf diese Weise beantwortet werden können. Eine Limitierung
+für die KI-Antwortqualität ergibt sich in erster Linie durch die Datenbasis,14 mit
+denen diese Systeme trainiert wurden.15 Daten, die nicht frei im Netz verfügbar sind,
+sondern sich hinter Bezahlschranken verbergen, erzeugen einen Information-Gap,
+der beispielsweise durch Bibliotheken gefüllt werden kann.
+Die Voraussetzung dafür wäre, dass es Informationseinrichtungen gelingt, mit
+einer eigenen Datenbasis trainierte Chatsysteme anzubieten, die einen möglichst umfassenden
+Sucheinstieg gewährleisten. Neben bibliothekseigenen Datenquellen, d. h.
+den jeweiligen Sammlungen und deren Metadaten, wären auch Fach- und Volltextdatenbanken
+sowie Open-Access-Plattformen zu einer Datenbasis zusammenzuführen –
+eine mit hohen finanziellen, personellen und technischen Aufwänden verbundene
+Herausforderung, die nur im Verbund bewältigt werden könnte. Auf diese Weise ließen
+sich jedoch die bibliothekarischen Informationsdienstleistungen um eine KIgestützte
+Technologie erweitern, die den zu erwartenden künftigen Sucherwartungen
+gerecht würde und gegenüber kommerziellen Anbietern konkurrenzfähig wäre. Denn
+ Vgl. die KI-basierte Bing-Suche https://www.heise.de/news/Klar-macht-das-neue-Bing-Fehler-span
+nend-ist-die-KI-Suche-dennoch-7493727.html (29.03.2023).
+ Berberich 2019: S. 19; Brown u. a. 2020: S. 8 ff.
+ Die Leistungsfähigkeit eines KI-Systems hängt unter anderem von der Datenbasis ab, dem erfolgreichen
+Training des Modells auf Grundlage der Datenbasis und dem passenden KI-Modell zum Anwendungsfall,
+für den die KI eingesetzt wird (Krause u. a. 2019: S. 21). Soll natürliche Sprache
+verarbeitet werden, so sind die KI-Modelle für die Verarbeitung von natürlicher Sprache einzusetzen
+(Ertel 2005: S. 351 ff.)
+182 Martin Holtorf und Nathalie Küchler
+es ist zu erwarten, dass kommerzielle Akteur:innen ebenfalls KI-gestützte Rechercheund
+Auskunftssysteme auf den Markt bringen werden.16
+Es bleibt offen, inwieweit es möglich sein wird, ein Gegengewicht zu den etablierten
+Technologiekonzernen und Wissenschaftsverlagen zu schaffen. Unabhängig davon,
+ob künftig einmal eigenentwickelte oder eingekaufte Systeme zum Einsatz kommen
+werden, müssen Informationseinrichtungen das KI-Thema strategisch aufbereiten, entsprechendes
+Know-how aufbauen und nötige Ressourcen personeller wie finanzieller
+Art generieren, um insbesondere die Zukunft des Auskunftsdienstes und damit ihre
+Schnittstelle zu den Nutzer:innen selbstbestimmt gestalten zu können.
+Das seit den Anfängen der Chatbot-Bewegung Anfang der 2000er Jahre angestrebte
+Ziel, hochwertige Auskunftsdienstleistungen unabhängig von den Servicezeiten
+der Bibliothek anzubieten, wird durch die jüngsten KI-Entwicklungen greifbar.
+Für den bibliothekarischen Einsatzbereich sind in Zukunft Chatsysteme denkbar, die
+auch (Bibliotheks-)Content enthalten und in den Antworten Verweise auf elektronische
+E-Ressourcen integrieren bzw. die Nutzer:innen unmittelbar auf die gesuchten
+Medien leiten. Noch weiter gedacht: Durch Schnittstellen-Erweiterungen zu Literaturverwaltungs-
+und Office-Programmen ließe sich die Weiterverarbeitung dieser Inhalte
+erleichtern, etwa im Sinne einer bibliothekarischen Schreibbegleitung oder
+Publikationsunterstützung.
+Es ist absehbar, dass sich die Schwerpunkte der Auskunftstätigkeit verlagern,
+diese sich jedoch nicht erübrigen wird. Zwar ändern sich die Werkzeuge, mit denen
+Informationen für die Recherche aufbereitet werden: Vom mittelalterlichen Buchkatalog
+zum Zettelkatalog über den OPAC und Discovery-Systeme bis zu KI-basierten Informations-
+und Retrieval-Systemen. Selbst wenn KI-Chatsysteme inzwischen wie
+menschliche Gegenüber wirken, kommt es darauf an, ihnen die richtigen Fragen zu
+stellen, um die richtigen Informationen für den eigenen Bedarf zu erhalten. Die
+Benutzenden müssen unverändert die Fähigkeit besitzen, ihren Informationsbedarf
+in geeigneter Weise darzulegen und die Antworten (auch kritisch) zu interpretieren.
+Je leistungsfähiger die KI-System erscheinen, desto stärker stehen Bibliotheken in der
+Verantwortung, Recherche-Kompetenz und kritisches Denken zu vermitteln und für
+die technologischen Grenzen von Informationssystemen zu sensibilisieren, auch und
+gerade gegenüber künftigen Generationen, die mit smarten Technologien sozialisiert
+werden.
+In dieser Hinsicht können Informationseinrichtungen ihre Dienstleistungen weiter
+spezialisieren und sich noch stärker in Richtung von interdisziplinären Übersetzerinnen
+und Wegbegleiterinnen wandeln, die ihre Kund:innen bei der Informationssuche
+begleiten. Indem sie ihnen gegenüber aktiv für ein Bewusstsein werben, dass es mehr
+ Hier kommt der Open-Access-Bewegung eine maßgebliche Rolle zu, die einen breiten, über die einzelne
+Bibliothekseinrichtung hinausgehenden Datenpool generieren kann, der mit der jeweiligen Bibliotheks-
+Datenbasis zu verknüpfen wäre.
+3.5 Bibliothekarische Auskunft und Informationsdienstleistungen 183
+als eine Quelle gibt und die gefundenen Informationen selbständig zu bewerten sind,
+erfüllen sie ihre spezifische gesellschaftliche Aufgabe.17
+6 Herausforderungen und Potentiale
+Durch die digitale Transformation erhöhen Bibliotheken ihre Erreichbarkeit und
+prinzipiell auch ihre Reichweite. Viele Bibliotheksservices sind für eine sich ausdehnende,
+heterogene Zielgruppe anzupassen. Gleichzeitig finden sich Bibliotheken in
+einer Konkurrenzsituation um ihre Nutzer:innen wieder. Es ist unabdingbar, dass sie
+ihre Position als zentrale Anlaufstellen im Informationszeitalter behaupten, denn im
+Gegensatz zu den marktführenden Anbietern von Informationen, Suchmaschinen und
+KI-Systemen, sind Bibliotheken in der Lage, nichtkommerziell und mit gesamtgesellschaftlichem
+Auftrag sowohl verlässliche Auskünfte als auch Informationskompetenz
+und –mündigkeit zu vermitteln. An der Schnittstelle zu den Nutzenden entscheidet
+sich, ob sie weiterhin ihrer Rolle gerecht werden, nicht nur Wissen zu bewahren, sondern
+am gesellschaftlichen Diskurs und der stetigen Weiterentwicklung individueller
+und kollektiver Perspektiven mitzuwirken.
+Diese Herausforderung gelingt einerseits durch kontinuierliche Evaluationen der
+Angebote sowie Anpassung an das veränderliche Nutzungs- und Kommunikationsverhalten
+der Zielgruppen. Wie sehr sich die Rahmenbedingungen der Auskunftstätigkeit
+auch ändern, es ist immer eine gleichbleibende Qualität der Auskunftsdienstleistungen
+zu gewährleisten, indem passende Qualitätsmanagement-Maßnahmen wie Auskunftsleitlinien18
+u. ä. etabliert werden.
+Aber auch qualitativ hochwertige und bedarfsgerechte Auskunftsangebote müssen
+heute verstärkt beworben und ihre Mehrwerte aufgezeigt werden. Zum Standard-
+Marketinginstrument zählen die Kommunikationsplattformen der sozialen Medien, auf
+denen Bibliotheken durch aktive Auskünfte Präsenz zeigen, um die breite Masse von
+Nutzenden zu binden und Noch-Nicht- oder Nicht-Mehr-Nutzende zu erreichen. Vielversprechend
+ist auch die gezielte Adressierung potentieller Nutzungsgruppen. Um diese
+zu identifizieren, lohnt es sich beispielsweise, Interessenschnittmengen zu den diversen
+Organisationen und Strukturen zu evaluieren, in die Bibliotheken bereits eingebettet
+sind – seien es bibliothekarische Netzwerke, Hochschuleinrichtungen, Unternehmen
+oder die Stadtöffentlichkeit. Auch außerhalb des Kultur- und Wissenschaftsbetriebs
+warten unerschlossene Potentiale: Durch konsequente Zielgruppenorientierung lassen
+sich gewinnbringende Kooperationen ebenso mit Science-Influencer:innen oder Citi-
+ Vgl. Seeliger u. a. 2021: S. 292.
+ Vgl. Becker 2007, Hämmer u. a. 2012.
+184 Martin Holtorf und Nathalie Küchler
+zen-Science-Netzwerken19 wie mit trivial- und massenkulturellen Interessengruppen, lokalen
+Vereinen oder bildungsorientierten Begegnungseinrichtungen initiieren. Dabei
+verschwimmen die Trennlinien zwischen aktiver Auskunft, offenen Bildungsangeboten
+und gesellschaftlicher Vermittlungsarbeit. In ihrer Schnittstellen-Funktion für Benutzungsinteressen
+sind die Auskunftsteams sowohl in Bezug auf die (Nicht-)Nutzungsforschung
+als auch bei der Entwicklung und Erprobung neuer Formate ein Dreh- und
+Angelpunkt der Bibliotheksentwicklung.
+Diesen lohnenden Aufwand zu investieren, wird Bibliotheken überhaupt erst möglich,
+weil die digitale Transformation Ressourcen freisetzt. Indem Standard-Anfragen mithilfe
+technischer Tools abgewickelt werden können, reduziert sich zwar die persönliche
+Interaktion zwischen Auskunftsteam und der Masse der Bibliotheksnutzenden, gewinnt
+aber im Gegenzug eine neue Qualität.20 Denn der quantitative Rückgang geht mit einer
+Komplexitätssteigerung einher, d. h. die Informationsbedürfnisse Einzelner werden inhaltlich
+anspruchsvoller, sowie zeit- und aufwandsintensiver. Die Erwartungshaltung, die
+sie an den Auskunftsdienst stellen, ist zugleich von der Effizienz und zunehmenden
+Qualität allgemein verfügbarer Informationstechnologie beeinflusst.21 Inhaltlich ist
+die bibliothekarische Auskunft heute mit einer größeren Bandbreite an Anfragethemen
+konfrontiert. Sie erschöpfen sich nicht mehr in Fragen zu Recherche, Vervielfältigungen
+oder der Orientierung im Lesesaal, sondern beziehen sich auf den gesamten
+Kosmos des digitalen Arbeitens. Dazu zählen Hilfe zu Schreib- und Literaturverwaltungsprogrammen
+ebenso wie Technik-Support zu bibliothekseigenen E-Book-Readern
+und persönlichen Mobilgeräten, aber auch zu Fragen zum Handling digitaler Dokumente
+und Daten.
+Während die Reduzierung von Routinearbeit eine Tätigkeit anspruchsvoller macht,
+steigert sie zugleich deren Attraktivität. Die wachsende Komplexität der Auskunftstätigkeit
+bedingt die Notwendigkeit, originäre Auskunftsfähigkeiten wie Kreativität, Lösungs-
+und Sozialkompetenz einzubringen, wodurch sich wiederum ein Anspruch des
+Personals auf Angebote zur stetigen Weiterbildung und Weiterentwicklung ableitet.22
+Der Auskunftsdienst ist ein Vorzeigebeispiel für die Notwendigkeit von lebenslanges
+Lernen: Für die Mitarbeiter:innen ist ihre fachliche Qualifikation und ein vertieftes Verständnis
+für Forschungs- und Rechercheprozesse nach wie vor essentiell. Bedingt durch
+die fortschreitende technische Entwicklung gewinnt darüber hinaus ein konzeptionelles
+Verständnis für Datenbanken-, Suchmaschinentechnologien oder maschinelles Lernen
+an Relevanz, auch um die Unwägbarkeiten dieser Technologien abschätzen und Alter-
+ Diverse Anbieter wie das Influencer Marketing Hub evaluieren regelmäßig die Reichweite von Science-
+Influencer-Kanälen auf Instagram, Youtube und Co. Vgl. https://influencermarketinghub.com/topscience-
+influencers-germany (12.02.2024), Citizen Sientists vernetzen sich unter anderem auf Plattformen
+wie https://www.buergerschaffenwissen.de (12.02.2024).
+ Vgl. Roters 2021.
+ Vgl. Roters 2021: S. 151 f.; Gillitzer u. a. 2022.
+ Vgl. Roters 2021: S. 152 f, 157.
+3.5 Bibliothekarische Auskunft und Informationsdienstleistungen 185
+nativangebote unterbreiten zu können. Gleichermaßen sind praktische Fertigkeiten beispielsweise
+im Umgang mit verschiedenen Kommunikationsplattformen und Softwareumgebungen
+erforderlich, um sich auf veränderliche technische Service-Lösungen
+ebenso einlassen zu können wie auf variable Endgeräte von Nutzenden. Neben den
+Software-Anwendungskenntnissen umfasst dies auch eine Sensibilität für Lizenzrecht,
+Barrierefreiheit und Datensicherheit – dieses Anforderungsspektrum legt eine enge
+Vernetzung mit IT-Servicestellen der eigenen oder verwandter Einrichtungen nahe.
+Zu den gewinnbringendsten Ressourcen des Auskunftsteams zählen jedoch ebenso
+Persönlichkeitsmerkmale wie die Bereitschaft zu zeitlicher Flexibilität oder zur lokalen,
+regionalen und digitalen Mobilität, um den Bedürfnissen der Nutzer:innen weitestmöglich
+entgegenzukommen. Das wahrscheinlich entscheidende Kriterium für die
+Nutzungszufriedenheit – und ein wesentlicher Unterschied zur KI – besteht in der
+Empathiefähigkeit, die erforderlich ist, um sich in die Lebenswelten der Kund:innen
+hineinzudenken: We love to inform you!23
+Literatur
+Becker, Tom u. Hanne Riehm: „Was für ein Service!“ Die Entwicklung von Qualitätsstandards für den
+Auskunftsdienst in der Münchner Stadtbibliothek Am Gasteig. In: „Was für ein Service!“. Entwicklung
+und Sicherung der Auskunftsqualität von Bibliotheken. Hrsg. v. Tom Becker. Wiesbaden 2007
+(B.I.T. online-Innovativ 13). S. 159–194.
+Berberich, Nico: Algorithmen. Über die Kunst, Computer zu Problemlösern zu machen. In: Wie Maschinen
+lernen. Hrsg. v. Kristian Kersting u. a. Wiesbaden 2019. S. 11–20. https://doi.org/10.1007/978-3-658-
+26763-6.
+Brown, Tom B. u. a.: Language models are few-shot learners. In: arXiv (2020): 2005.14165. https://doi.org/
+10.48550/arXiv.2005.14165.
+Ertel,Wolfgang: Grundkurs Künstliche Intelligenz. Eine praxisorientierte Einführung, Wiesbaden 52021.
+https://doi.org/10.1007/978-3-658-32075-1.
+Gillitzer, Berthold, Julia Maas u. Jörg Räuber: Zwei Jahre Corona – Was geht, was bleibt, was kommt? Zur
+Transformation der Benutzungsservices. In: Zeitschrift für Bibliothekswesen und Bibliographie 69
+(2022), H. 5, S. 237–245.
+Hämmer, Viola u. Manuela Schmitt: Wegweiser durch den Informationsdschungel – Wie organisiert man
+eine einheitliche Auskunft? Vortrag im Rahmen des Bibliothekartags 2012. https://opus4.kobv.de/
+opus4-bib-info/frontdoor/index/index/year/2012/docId/1186, (06.04.2023).
+Hilpert, Wilhelm, Berthold Gillitzer, Sven Kuttner u. a.: Benutzungsdienste in Bibliotheken. Berlin 2014
+(Bibliotheks- und Informationspraxis 52). urn:nbn:de:101:1-201605262381.
+IFLA Trend Report 2021. Update 06.01.2022. https://repository.ifla.org/handle/20.500.14598/1830
+(23.09.2024).
+Jacobs, Anne: Embedded Librarian. Hrsg. v. Berufsverband Information Bibliothek. Kommission für One-
+Person Librarians (Checkliste 38). 2013. https://www.bib-info.de/fileadmin/public/Dokumente_und_
+Bilder/Komm_OPL/Checklisten/check38.pdf (14.04.2023).
+ Vgl. IFLA Trend Report 2021. Update 2021: S. 24.
+186 Martin Holtorf und Nathalie Küchler
+Kersting, Kristian, Christoph Lampert u. Constantin Rothkop: Wie Maschinen lernen. Wiesbaden 2019.
+https://doi.org/10.1007/978-3-658-26763-6.
+Korthals, Julia, Tobias Seidl u. Cornelia Vonhof: Ein Blick in die Zukunft. Szenarien für den Einsatz
+Künstlicher Intelligenz in der bibliothekarischen Auskunft. In: BuB 72 (2020), H. 7, S. 408–413.
+https://www.b-u-b.de/fileadmin/archiv/imports/pdf_files/2020/bub_2020_07_408_413.pdf
+(14.04.2023).
+Krause, Michael u. Elena Natterer: Maschinelles Lernen. Wie sich Computer an Probleme anpassen. In:
+Wie Maschinen lernen. Hrsg. v. Kristian Kersting u. a. Wiesbaden 2019. S. 21–27. https://doi.org/10.
+1007/978-3-658-26763-6.
+OpenAI: Introducing ChatGPT. In: OpenAI Blog, 30.11.2022. https://openai.com/blog/chatgpt#OpenAI
+(06.04.2023).
+Rösch, Herrmann, Jürgen Seefeldt, Konrad Umlauf u. a.: Bibliotheken und Informationsgesellschaft in
+Deutschland. Eine Einführung. Wiesbaden 2019. urn:nbn:de:101:1-2021022413041259743348
+Roters, Anja: 7 Erfolgsfaktoren für das Servicemanagement 4.0. In: Services Management und digitale
+Transformation. Impulse und Beispiele für die erfolgreiche Umsetzung digitaler Services. Hrsg. v. Kai
+Altenfelder u. a. Wiesbaden 2021. S. 147–162. urn:nbn:de:101:1-2021110203052044341086.
+Seeliger, Frank u. a.: „Work in progress“. Zum erfolgversprechenden Einsatz von KI in Bibliotheken.
+Diskussionsstand eines WhitePapers in progress – Teil 2. In: b.i.t. online 24 (2021), H. 3, S. 290–299.
+https://www.b-i-t-online.de/pdf/bit/bit2021-3.pdf (06.04.2023).
+White, Karen E.: Science and Engineering Publication Output Trends. 2017 Shows U. S. Output Level
+Slightly Below That of China but the United States Maintains Lead with Highly Cited Publications. In:
+InfoBriefs 5 (NSF 19-317) (2019). https://www.nsf.gov/statistics/2019/nsf19317 (14.04.2023).

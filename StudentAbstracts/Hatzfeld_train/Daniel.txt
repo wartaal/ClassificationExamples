@@ -1,0 +1,913 @@
+﻿Silvia Daniel und Matthias Razum
+5.7 Forschungsdaten und ihr Management
+
+1 Einführung
+„Der digitale Wandel hat Forschungsdaten und Forschungsmethoden erfasst, er ver-
+ändert die Wissenschaft grundlegend.“1 Das Bewusstsein für die Bedeutung von For-
+schungsdaten in Wissenschaft und Gesellschaft ist im letzten Jahrzehnt deutlich
+gewachsen und ihr Management stellt eines der großen Handlungsfelder für die Wis-
+senschaft als Ganzes, aber auch für Bibliotheken dar.
+
+Die Zahl der Datenzentren und Repositorien für Forschungsdaten ist im letzten
+Jahrzehnt deutlich gestiegen.2 Internationale Initiativen haben sich etabliert und set-
+zen neue Standards oder Best Practices zu Nachnutzbarkeit und ethischen Grundsätzen.
+Im Forschungsdatenmanagement (FDM) sind neben der lokalen bzw. institutionellen
+Ebene der Hochschulen und außeruniversitären Forschungseinrichtungen regionale
+Landesinitiativen, Großvorhaben wie die Nationale Forschungsdateninfrastruktur (NFDI)
+für Deutschland sowie die europäische und internationale Ebene relevant. Gleichzeitig
+gibt es eine Vielzahl an Akteuren: Wissenschaftler:innen, Forschungseinrichtungen, For-
+schungsförderer, Gedächtnisinstitutionen und Infrastruktureinrichtungen. Bibliotheken
+und Bibliothekar:innen nehmen vielfältige Rollen in diesem System ein, die nach einem
+Überblick über Definition und Grundsätze des Forschungsdatenmanagements in den fol-
+genden Abschnitten beleuchtet werden.
+
+2 Definition und Bedeutung
+Für den Begriff Forschungsdaten gibt es viele Definitionen, die sich vor allem im Um-
+fang der eingeschlossenen Datentypen unterscheiden.3 Die Deutsche Forschungsge-
+meinschaft (DFG) erklärt den Begriff in einem umfassenden Sinn:
+
+Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte,
+Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entste-
+hen, entwickelt oder ausgewertet werden. Methodische Testverfahren, wie Fragebögen, Software
+
+ RfII – Rat für Informationsinfrastrukturen: Leistung aus Vielfalt. Empfehlungen zu Strukturen, Pro-
+zessen und Finanzierung des Forschungsdatenmanagements in Deutschland. Göttingen 2016.: https://
+rfii.de/de/dokumente/?wpdmdl=1998: S. 1, (Alle im folgenden zitierten Links wurden letztmalig abgeru-
+fen am 01.08.2023).
+ In Deutschland gab es Anfang 2015 158 registrierte Datenrepositorien, diese Zahl ist bis April 2023
+auf 494 angewachsen (Quelle: re3data, https://www.re3data.org).
+ Vgl. Kindling u. Schirmbacher 2013: S. 130. RfII – Rat für Informationsinfrastrukturen 2016: B-3.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-026
+
+
+
+414 Silvia Daniel und Matthias Razum
+
+und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen
+und sollten daher ebenfalls unter den Begriff Forschungsdaten gefasst werden.4
+
+Die Berücksichtigung von Software ergibt sich aus dem stetigen und rasanten Zu-
+wachs an Forschungsdaten, zu deren Verarbeitung und Interpretation – oftmals
+durch die Wissenschaftler:innen selbst geschriebene – Programme notwendig sind.5
+
+Dieser weite Forschungsdatenbegriff, der nicht nur die im Forschungsprozess ent-
+stehenden Daten umfasst, sondern auch alle dabei verwendeten analogen und digita-
+len Informationen und Objekte (z. B. so unterschiedliche Datentypen wie Archivalien,
+NMR-Spektren oder Bohrkerne), schließt die Bestände von Bibliotheken und die dort
+vorhandenen Metadaten explizit mit ein und zeigt die Bedeutung des Themas im Kon-
+text des Bibliotheksmanagements auf. Wissenschaftliches Arbeiten ist bereits in vielen
+und wird künftig in nahezu allen Disziplinen maßgeblich durch digitale Forschungs-
+praktiken und Informationsinfrastrukturen geprägt sein. Dieser Paradigmenwechsel
+und die sich daraus ergebenden Potenziale für datenbasierte wissenschaftliche Entde-
+ckungen und Erkenntnisse6 verdeutlichen die disruptive Bedeutung des digitalen
+Wandels. Forschungsdaten ermöglichen nicht nur neue Formen des Erkenntnisge-
+winns, sondern erleichtern im Fall ihrer Verfügbarkeit auch die Nachvollziehbarkeit
+und Reproduzierbarkeit von Ergebnissen.7 Der von Bund und Ländern eingesetzte
+Rat für Informationsinfrastrukturen sieht darüber hinaus in der wissenschaftlichen
+Nachnutzung qualitätsgesicherter Forschungsdaten einen erheblichen Mehrwert öf-
+fentlicher Investitionen in die Forschung. Gleichzeitig birgt dies ein hohes Wertschöp-
+fungspotenzial für Wissenschaft und Wirtschaft.8
+
+ Deutsche Forschungsgemeinschaft: Leitlinien zum Umgang mit Forschungsdaten. Bonn 2015. https://
+www.dfg.de/resource/blob/172112/4ea861510ea369157afb499e96fb359a/leitlinien-forschungsdaten-data.pdf.
+ Vgl. Deutsche Forschungsgemeinschaft: Digitaler Wandel in den Wissenschaften. Impulspapier.
+Bonn 2020. S. 5: https://doi.org/10.5281/zenodo.4191345. Für Forschungssoftware siehe Kapitel 5.8
+„Forschungssoftware“.
+ Vgl. Hey 2009.
+ Vgl. Putnings u. a. 2021: S. 5 f.
+ Vgl. RfII – Rat für Informationsinfrastrukturen 2016. S. 9. Ebenso: Hochschulen sind wichtige Ak-
+teure innerhalb der Infrastrukturen für das Forschungsdatenmanagement: https://www.hrk.de/filead
+min/redaktion/hrk/01-Bilder/01-03-Personen/01-03-01-HRK/Erklaerung_Workshop_Forschungsdatenma
+nagement_16122016.pdf.
+
+
+
+5.7 Forschungsdaten und ihr Management 415
+
+3 Lebenszyklus von Forschungsdaten
+Der Lebenszyklus von Forschungsdaten beschreibt unterschiedliche Phasen, die sie
+von der Planung bis zur Archivierung und Nachnutzung durchlaufen:9
+– Planung
+
+Bereits bei der Planung von Forschungsvorhaben sollte ein Konzept für den Um-
+gang mit Forschungsdaten über den gesamten Lebenszyklus hinweg erstellt wer-
+den, das z. B. Datentypen, Datenmengen, Speicherorte, rechtliche und ethische
+Fragestellungen, Verantwortlichkeiten, Rollen und Aspekte der Datenpublikation
+und langfristigen Aufbewahrung/Archivierung beinhaltet. Üblicherweise geschieht
+das in Form von Datenmanagementplänen.10
+
+– Erstellung/Erhebung
+Die bei der Durchführung des Vorhabens entstehenden bzw. genutzten For-
+schungsdaten (inkl. relevanter externer Daten) müssen mit Metadaten erschlos-
+sen bzw. kontextualisiert werden. Für nachgenutzte oder personenbezogene
+Daten sind rechtliche Fragen wie z. B. Einwilligungen oder Lizenzierung zu
+klären.
+
+– Aufbereitung und Analyse
+Nun folgt die eigentliche Verarbeitung der Forschungsdaten in Form von Validie-
+rung, Bereinigung, Aggregation, Interpretation und schließlich der Ableitung von
+Ergebnissen bzw. Erkenntnissen.
+
+– Teilen und Publizieren
+Das Teilen und Publizieren der Daten erfordert unter Umständen deren er-
+neute Aufbereitung, die Klärung rechtlicher Fragen (z. B. Urheberschaft, zu
+verwendende Lizenzen, Datenschutz) sowie die Wahl eines geeigneten Reposi-
+toriums bzw. Datenzentrums.
+
+– Archivierung
+Als essentieller Teil wissenschaftlicher Arbeit müssen Forschungsdaten gemäß den
+Regeln guter wissenschaftlicher Praxis langfristig verfügbar bleiben. Die eigentliche
+Archivierung sollte durch entsprechend qualifizierte interne oder externe Dienst-
+leister erfolgen, sie setzt aber gegebenenfalls eine weitere Datenaufbereitung bzw.
+Migration in archivwürdige Datenformate voraus.
+
+– Nachnutzung
+Voraussetzungen für die Nachnutzung von Daten umfassen deren Auffindbarkeit
+(z. B. durch eindeutige Referenzierung und Verknüpfung mit Publikationen), In-
+teroperabilität und die Schaffung von Vertrauen11 in die Daten durch adäquate
+
+ Die folgende Aufstellung orientiert sich an forschungsdaten.info, findet sich aber ähnlich in vielen
+Lebenszyklusmodellen wieder. Vgl. z. B. Michener 2015.
+ Vgl. Michener 2015; Neuroth 2023: S. 344–347.
+ Vgl. auch: Riding the wave. How Europe can gain from the rising tide of scientific data. Final re-
+port of the High Level Expert Group on Scientific Data. A submission to the European Commission.
+
+
+
+416 Silvia Daniel und Matthias Razum
+
+beschreibende Metadaten, die z. B. auch den Entstehungskontext (Provenienz)
+dokumentieren.
+
+Die konkrete Ausgestaltung dieser Phasen hängt von der wissenschaftlichen Disziplin
+und dem Design des Forschungsvorhabens ab. Der Aufwand für Datenaufbereitung
+und Erschließung ist dabei nicht zu vernachlässigen. Je früher im Lebenszyklus diese
+Aufgaben auch im Hinblick auf folgende Phasen angegangen werden, desto einfacher
+können Datenpublikation und -archivierung erfolgen. Gleichzeitig sind es wichtige
+Maßnahmen der Qualitätssicherung und unerlässliche Voraussetzungen für die Nach-
+nutzung von Forschungsdaten.
+
+4 Grundsätze und Standards des
+Forschungsdatenmanagements
+
+Forschungs- und Erkenntnisprozesse ebenso wie Qualitätssicherungsverfahren und Publi-
+kationstraditionen sind meist fachspezifisch ausgeprägt. Darauf muss das Forschungsda-
+tenmanagement eingehen. Trotzdem lassen sich übergreifende Grundsätze formulieren.
+Maßgeblich für das Forschungsdatenmanagement ist die gute wissenschaftliche Praxis,
+wie sie z. B. die DFG mit ihrem Kodex „Leitlinien zur Sicherung guter wissenschaftlicher
+Praxis“12 festlegt. Daneben gibt es drei wesentliche Prinzipiensammlungen, die Best Prac-
+tices in den Bereichen Datennachnutzung (FAIR-Prinzipien), ethisch verantwortlicher
+Umgang mit indigenen Daten (CARE-Prinzipien) und Vertrauenswürdigkeit von Reposito-
+rien (TRUST-Prinzipien) beschreiben.
+
+Die FAIR-Prinzipien umfassen fünfzehn Maßnahmen, um die Nachnutzung von
+Daten zu verbessern. Sie sind in die vier Gruppen Auffindbarkeit (Findable), Zugäng-
+lichkeit (Accessible), Interoperabilität (Interoperable) und Wiederverwendbarkeit
+(Reusable) gegliedert, aus deren Anfangsbuchstaben sich das Akronym FAIR ableitet.13
+Die FAIR-Prinzipien zielen auf Open Data, erlauben aber auch die Veröffentlichung
+nur der Metadaten zum Nachweis und zur Auffindbarkeit von Daten. Dadurch kön-
+nen auch kommerziell angebotene oder sensible Daten FAIR bereitgestellt werden.
+Die Prinzipien berücksichtigen Recherche, Zugriff und Nutzung sowohl durch Men-
+schen als auch durch Maschinen. Ihre Umsetzung erfordert einen vollständig digitali-
+sierten Prozess im Forschungsdatenmanagement.
+
+October 2010. S. 17. https://www.fosteropenscience.eu/content/riding-wave-how-europe-can-gain-ri
+sing-tide-scientific-data/.
+ Deutsche Forschungsgemeinschaft: Guidelines for Safeguarding Good Research Practice. Code of
+Conduct. April 2022. https://doi.org/10.5281/zenodo.6472827.
+ Vgl. Wilkinson u. a. 2016: S. 1
+
+
+
+5.7 Forschungsdaten und ihr Management 417
+
+Die CARE-Prinzipien (Collective Benefit, Authority to Control, Responsibility, and
+Ethic)14 nehmen die Rechte und Interessen indigener Völker und Gruppierungen an
+ihren eigenen Daten bzw. Daten über sie und ihre Kultur in den Blick. Sie fokussieren
+in Ergänzung zu den datenorientierten FAIR-Prinzipien auf den Menschen und die
+Zweckorientierung. Sie zielen auf einen gerechten Ausgleich der indigenen Selbstbe-
+stimmung auf der einen mit den modernen Datenökosystemen und den daraus resul-
+tierenden Innovationen auf der anderen Seite. Inzwischen werden die CARE-Prinzipien
+oftmals breiter verstanden im Sinn eines ethisch verantwortlichen Umgangs mit Daten,
+Datenproduzenten und Datensubjekten.15
+
+Die TRUST-Prinzipien dienen dem Nachweis der Vertrauenswürdigkeit digitaler
+Repositorien. Sie umfassen die Aspekte der Transparenz (Transparency), Verantwor-
+tung (Responsibility), Nutzerorientierung (User focus), Nachhaltigkeit (Sustainability)
+und Technologie (Technology)16 und bieten Orientierung über relevante technische
+und organisatorische Maßnahmen für die Sicherstellung einer verlässlichen und lang-
+fristigen Verfügbarkeit von Daten.
+
+Ein weiterer Grundsatz des Forschungsdatenmanagements umfasst die Berück-
+sichtigung rechtlicher Rahmenbedingungen. Hierzu zählen etwa die Klärung der
+Schutzwürdigkeit von Forschungsdaten und der Nutzungsrechte an ihnen, notwen-
+dige Regelungen für das Teilen und Archivieren sowie der Umgang mit personenbezo-
+genen Daten. Maßgeblich sind vor allem das Urheber- und Datenschutzrecht, aber je
+nach Kontext und Datentyp bzw. Sammlungsform können auch weitere Rechtsgebiete
+tangiert sein. Mittlerweile existiert ein umfassendes Überblickswerk zu allen rechtli-
+chen Aspekten des Forschungsdatenmanagements.17 Gleichzeitig entwickelt sich das
+Datenrecht dynamisch weiter18 und erfordert eine kontinuierliche Beobachtung.
+
+Aufbauend auf diesen übergreifenden Grundsätzen sollten Forschungsdatenma-
+nager:innen jedoch die Gegebenheiten des jeweiligen Fachs aufgreifen und fachliche
+Standards berücksichtigen. Dies betrifft insbesondere die Wahl geeigneter Dateifor-
+mate und Dokumentationsrichtlinien zur Beschreibung der Daten (z. B. adäquater Me-
+tadatenschemata), die Nutzung dafür geeigneter Vokabulare und Normdaten sowie
+die Anwendung disziplinüblicher Maßnahmen der Qualitätssicherung.
+
+Forschungsdaten sind Bestandteil des scientific record und sollten damit über
+persistente Identifier eindeutig und dauerhaft zitierbar sein. Für Forschungsdaten
+
+ Vgl. Carroll u. a. 2020.
+ Vgl. Imeri u. Rizzolli 2022: S. 13.
+ Vgl. Lin u. a. 2020.
+ Vgl. Baumann u. a. 2021.
+ Siehe z. B. der European Data Act: https://digital-strategy.ec.europa.eu/de/policies/data-act, und Eu-
+ropean Data Governance Act: https://digital-strategy.ec.europa.eu/en/policies/data-governance-act,
+sowie das geplante Forschungsdatengesetz in Deutschland.
+
+
+
+418 Silvia Daniel und Matthias Razum
+
+sind DataCite Digital Object Identifier (DOI)19 und ePIC Handles20 weit verbreitet. Der
+Bibliotheksdienstleister OCLC entwickelte darüber hinaus für die persistente Identifi-
+zierung von Webseiten Mitte der 1990er Jahre den Persistent Uniform Resource Loca-
+tor (PURL).21 Im bibliothekarischen Umfeld setzt z. B. die Deutsche Nationalbibliothek
+den Uniform Resource Name (URN) für die eindeutige und dauerhafte Identifizierung
+von Ressourcen ein.22 In welcher Granularität Forschungsdaten persistent identifizier-
+bar sein sollen, ergibt sich letztlich aus dem wissenschaftlichen Nutzungskontext. Die-
+ser Umstand setzt gleichzeitig der Aussagekraft von Outputmessungen enge Grenzen,
+erst recht über Disziplinen hinweg.
+
+Um Forschungsdaten verstehen und nachnutzen zu können, müssen sie kontex-
+tualisiert sein. Das betrifft beispielsweise die Beschreibung ihrer Struktur und Seman-
+tik, ihren Sammlungs- bzw. Entstehungskontext oder ihre Beziehung zu anderen
+Artefakten des Forschungsprozesses wie z. B. Publikationen. Hierfür haben sich unter-
+schiedliche übergreifende und fachspezifische Beschreibungsstandards in Form
+von Metadatenschemata herausgebildet. DataCite hat mit dem DataCite Metadata Ker-
+nel einen disziplinübergreifenden Beschreibungsstandard etabliert, der sich notwen-
+digerweise auf wenige Elemente beschränkt. Um Daten gemäß den FAIR-Prinzipien
+umfassend beschreiben zu können, benötigt man darüber hinaus fachspezifische
+Standards, wie sie der Metadata Standards Catalog23 der Research Data Alliance
+sammelt.
+
+Interoperabilität von Daten und Metadaten ist ein zentrales FAIR-Kriterium. Glei-
+che semantische Konzepte in unterschiedlichen (Meta-)Datensätzen sollen identisch
+benannt werden. Hierfür eignen sich normierte Vokabulare und Ontologien, die
+Konzepte nicht nur durch standardisierte Benennungen, sondern zusätzlich durch
+eindeutige Identifikatoren auszeichnen. Benennungen von Konzepten in mehreren
+Schreibweisen oder in unterschiedlichen Sprachen können so immer auf das gleiche
+Konzept zurückgeführt werden. Damit lassen sich robuste und semantisch eindeutige
+Verknüpfungen über die Grenzen eines Datensatzes oder einer Domäne hinweg schaf-
+fen. Ein bekanntes Beispiel dafür ist die Gemeinsame Normdatei (GND).24 Je nach Kon-
+text und Disziplin werden unterschiedliche Vokabulare und Ontologien zum Einsatz
+kommen. Bibliotheken können hier ihre Kompetenzen im Bereich interoperabler Me-
+tadaten zielführend einbringen.
+
+Eine weitere Herausforderung ist die verantwortungsvolle Auswahl der For-
+schungsdaten in allen Phasen ihres Lebenszyklus. Die gezielte Auswahl beispielsweise
+nur solcher Daten, die die eigene Hypothese stützen, verzerrt die Interpretation von
+
+ Siehe https://datacite.org/value.html.
+ Siehe https://www.pidconsortium.net/.
+ Siehe https://purl.archive.org/.
+ Siehe https://www.dnb.de/DE/Professionell/Services/URN-Service/urn-service_node.html (01.08.2023).
+ Siehe https://rdamsc.bath.ac.uk/.
+ https://gnd.network/. Jegan 2023.
+
+
+
+5.7 Forschungsdaten und ihr Management 419
+
+Ergebnissen und stellt einen Verstoß der guten wissenschaftlichen Praxis dar. Ent-
+sprechend fordert die DFG in ihrem Kodex eine möglichst vollständige Bereitstellung
+von Forschungsdaten unter Einschluss von Negativdaten.25
+
+Die Prüfung dieser Auswahl ist ein Teil der notwendigen Qualitätssicherung, die
+mit verteilten Rollen zu unterschiedlichen Zeitpunkten ihres Lebenszyklus erfolgt.
+Idealerweise startet sie mit einem Datenmanagementplan und endet mit einem Peer
+Review der Daten vor ihrer Veröffentlichung. Die Qualitätssicherung umfasst eine
+fachlich-inhaltliche Kontrolle (Einhaltung disziplinärer Standards und Best Practices
+bei Sammlung/Erzeugung/Messung, bei Analyse und Verarbeitung sowie bei der Do-
+kumentation) ebenso wie eine formale Kontrolle (Vollständigkeit und Konsistenz der
+Daten und Dokumentation, Verwendung geeigneter Datenformate für Publikation
+und Nachnutzung).
+
+Die Bereitstellung von Forschungsdaten kann in verschiedenen Formen und auf ver-
+schiedenen Plattformen erfolgen. Sowohl der DFG-Kodex wie auch die FAIR-Prinzipien
+ermutigen zu einer Veröffentlichung, antizipieren aber auch diesbezügliche rechtliche
+und ethische Einschränkungen. Sichergestellt werden sollte auf jeden Fall die Verfüg-
+barkeit der Daten über einen angemessenen Zeitraum (meist zehn Jahre), um bei
+Bedarf Forschungsergebnisse nachvollziehen zu können. Dabei sind zentrale, insti-
+tutionelle Lösungen einer individuellen Archivierung durch Wissenschaftler:innen
+vorzuziehen. Im Fall einer Publikation gilt es, die geeignete Plattform auszuwählen.
+Stehen anerkannte disziplinspezifische Datenzentren, Datenbanken oder Repositorien
+zur Verfügung, sollten sie den Vorzug erhalten. Diese gibt es aber nicht für alle Diszipli-
+nen und Datentypen. Hier kommen dann generische Lösungen wie z. B. institutionelle
+Repositorien ins Spiel. Bei der Auswahl geeigneter Publikationsplattformen unterstützt
+die Registry of Research Data Repositories re3data.26
+
+Die Bereitschaft zum Teilen von Forschungsdaten unterscheidet sich zwischen
+den Disziplinen. Während Datenpublikationen in der Hochenergiephysik, Klimafor-
+schung oder Astronomie üblich sind, überwiegen bei Wissenschaftler:innen z. B. in
+der Chemie oder der Geschichtswissenschaft oft noch die Bedenken. Sie fürchten den
+zusätzlichen Aufwand für die notwendige Aufbereitung der Daten, die Gefahren einer
+fehlerhaften oder missbräuchlichen Verwendung und den Verlust eines Wettbewerbs-
+vorteils gegenüber konkurrierenden Wissenschaftler:innen. Durch die Bereitstellung
+einer adäquaten Forschungsdateninfrastruktur und durch die Finanzierung der zu-
+sätzlichen Aufgaben (etwa im Rahmen von Projektförderungen) müssen Rahmenbe-
+dingungen geschaffen werden, die die Bereitschaft zum Teilen von Daten befördern
+und langfristig zu einem Kulturwandel führen. Entscheidend ist dabei insbesondere
+
+ Vgl. FN 12.
+ https://www.re3data.org/.
+
+
+
+420 Silvia Daniel und Matthias Razum
+
+die Anerkennung von Datenpublikationen als relevanter Leistung in wissenschaftli-
+chen Bewertungssystemen.27
+
+5 Akteure des Forschungsdatenmanagements
+5.1 Wissenschaftler:innen
+
+Wissenschaftler:innen sind die primären Produzent:innen und Konsument:innen von
+Forschungsdaten. Über Fachgesellschaften, nationale und internationale Initiativen ent-
+wickeln sie disziplinäre Standards und Best Practices für das Forschungsdatenmanage-
+ment. Diese zentrale Akteursgruppe zeichnet sich durch ein hohes Maß an Heterogenität
+aus, bedingt durch die Vielzahl der Fächer, Wissenschaftskulturen und Forschungsan-
+sätze.28 Die vielfältigen Anforderungen zu erfassen und bedarfsgerechte Angebote zu ent-
+wickeln, ist eine zentrale Herausforderung des Forschungsdatenmanagements.
+
+5.2 Die lokale Ebene: Bibliotheken, Rechenzentren
+und Datenzentren
+
+Wenn es um die Planung eines Projekts, den Nachweis, die Publikation oder die lang-
+fristige Speicherung von Forschungsdaten geht, stellen an den meisten Hochschulen
+und Forschungseinrichtungen Bibliotheken oder Rechenzentren die ersten Anlaufstel-
+len für all diejenigen Forscher:innen dar, die in ihren Fächern nicht über bereits fest
+etablierte disziplinäre Standards und Repositorien verfügen. Oft kooperieren beide
+beim Angebot von Datenzentren. Zum Teil existieren solche Datenzentren auch mit
+fachlichen Schwerpunkten, die von Fakultäten oder einzelnen Fachbereichen getra-
+gen und somit auch von Forschungsinteressen geprägt sind.29 Abhängig vom Standort
+sind diese Strukturen zurzeit noch unterschiedlich stark ausgebaut. Jedoch zeichnet
+sich das Feld durch ein hohes Maß an Vernetzung und Wissenstransfer zwischen den
+Akteur:innen aus, sodass sich auf der Grundlage offen geteilter Best-Practice-Beispiele
+und Erfahrungsberichte ein standardisiertes Portfolio herauszubilden beginnt.
+
+ An entsprechenden Kriterien und Prozessen arbeitet z. B. die Coalition for Advancing Research As-
+sessment: https://coara.eu/.
+ Welche Unterschiede es schon innerhalb der Naturwissenschaften und Mathematik gibt, zeigen
+Elsässer, Thomas u. a.: Open Research Data in Naturwissenschaften und Mathematik. Empfehlungen
+der mathematisch-naturwissenschaftlichen Klasse der BBAW. In: Denkanstöße aus der Akademie 10
+(2022) https://nbn-resolving.org/urn:nbn:de:kobv:b4-opus4-37378.
+ Ein Beispiel stellt das Data Center for the Humanities der Universität zu Köln dar: https://dch.phil-
+fak.uni-koeln.de/.
+
+
+
+5.7 Forschungsdaten und ihr Management 421
+
+In den Datenzentren werden auf lokaler Ebene nicht nur institutionelle Reposito-
+rien betrieben. Sie halten auch generische Datenmanagementpläne zur individuellen
+Anpassung vor, bieten Beratung rund um Datenerhebung, -beschreibung und -analyse
+sowie rechtliche Fragen und führen allgemeine und disziplinspezifische Data-Literacy-
+Schulungen durch. Für diese Aufgaben werden umfassende Kompetenzen benötigt, die
+in neuen Berufsbildern wie Datenkuratoren oder Data Stewards münden.30 Sie sind
+mittlerweile gefragte Fachkräfte, die durch die Bedeutung des FDM auch eine Rolle im
+Wettbewerb der Hochschulen untereinander spielen.
+
+5.3 Regionale Initiativen
+
+Im föderalen Geflecht der deutschen Wissenschaftspolitik haben sich darüber hinaus
+auf Länderebene Initiativen gebildet, die die lokal vorhandenen Aktivitäten ergänzen,
+vernetzen und Synergien schaffen, um die Digitalisierung der Hochschulen und der
+Wissenschaft allgemein weiter zu fördern.31 Schwerpunkte bilden hier der Erfah-
+rungsaustausch sowie Multiplikatorenarbeit durch Schulungen und Beratungsange-
+bote. Zum Teil werden auch föderierte Services zur Datenkuration, -Analyse oder -
+Speicherung angeboten.32
+
+Diese existierenden Initiativen sind in allen Fällen disziplinübergreifend ausge-
+richtet, dabei aber ganz unterschiedlich finanziell und personell ausgestattet. Es exis-
+tieren auch noch nicht in allen Bundesländern solche Strukturen und Projekte.
+
+5.4 Überregionale Akteure und Initiativen
+
+Die seit 2014 mit Förderung der Deutschen Forschungsgemeinschaft aufgebauten der-
+zeit 40 Fachinformationsdienste für die Wissenschaft (FID) bilden zusammen mit
+den Zentralen Fachbibliotheken ein eigenes bibliotheksgeleitetes Infrastruktursystem
+für den Wissenschaftsstandort.33 Die FID bieten dabei eine am Bedarf der wissenschaft-
+lichen Fächer orientierte „vorrangig digitale und standortunabhängige Informations-
+versorgung”34 an, die sich an den Bedarfen der jeweiligen Fachcommunity ausrichtet
+
+ Zum Berufsbild und immensen Bedarf vgl. auch: Seidlmayer u. a. 2023. Neben Data Stewards gibt
+es eine Vielzahl von Bezeichnungen wie Data Expert, Data Manager, Data Librarian, deren Aufgaben
+nicht trennscharf voneinander unterscheidbar sind.
+ Auf dem Stand von 2020 sehr gut zum FDM in den Ländern: Putnings u. a. 2021: S. 543 ff.
+ Vgl. etwa https://www.uni-marburg.de/en/hefdi/hefdi-data-services. Zum Projekt „Digitale Langzeit-
+verfügbarkeit für Wissenschaft und Kultur in Bayern” vgl. Brugbauer u. a. 2022.
+ Vgl. dazu auch Kapitel 5.5 „Fachinformationsdienste für die Wissenschaft“.
+ DFG-Vordruck 12.10 – 05/23, Merkblatt und ergänzender Leitfaden. Fachinformationsdienste für
+die Wissenschaft. 2023. 2. https://www.dfg.de/formulare/12_10/12_10_de.pdf.
+
+
+
+422 Silvia Daniel und Matthias Razum
+
+und mit ihren Angeboten einen Mehrwert gegenüber der lokal vorhandenen Grundver-
+sorgung darstellen soll. Gerade für kleine und hochspezialisierte Fachcommunities sind
+die FID zentrale Anlaufstellen für Literaturversorgung, digitale Recherche und Wissen-
+schaftskommunikation. Schwerpunkte beim Forschungsdatenmanagement im enge-
+ren Sinne, das einige FID mittlerweile neben ihren Kernaufgaben betreiben, bilden
+individuelle Beratungsangebote und allgemeine Schulungen, der Nachweis von
+institutionsübergreifenden Forschungsdaten in Katalogen und Bibliographien, Hos-
+ting und Langzeitarchivierung in fachlichen Repositorien und Publikationsdienst-
+leistungen.35 Für andere Player des FDM wie insbesondere NFDI-Konsortien (s. u.)
+sind die FID interessante Partner aufgrund ihrer Bedeutung als Schnittstellen zwi-
+schen Fachcommunities und Infrastruktureinrichtungen sowie aufgrund ihrer auch
+im Falle hochspezialisierter Bedarfe ausgeprägten Metadatenkompetenz für Nach-
+weis, Suche und Datenkonnektivität. Beim Versuch, die Strukturen FID und NFDI
+zueinander ins Verhältnis zu setzen, avanciert daher auch die Fügung einer “syn-
+ergetischen Komplementarität”36 zur förderpolitischen Formel.
+
+Seit 2014 gibt es die AG Forschungsdaten der Deutschen Initiative für Netzwerkinfor-
+mation (DINI) und des Vereins nestor zur digitalen Langzeitarchivierung. Sie gibt u. a. die
+Zeitschrift Bausteine Forschungsdatenmanagement heraus und hat das Portal forschungs-
+daten.org aufgebaut. Dieses kooperiert inzwischen mit dem Informationsportal for-
+schungsdaten.info, das aus einer regionalen Initiative in Baden-Württemberg entstand.
+Neben sehr guten Informationen zu allen FDM-Aspekten und einem umfangreichen Glos-
+sar führt der Veranstaltungskalender von forschungsdaten.info auch einschlägige Tagun-
+gen, Vorträge und Workshops auf.
+
+In der Nationalen Forschungsdateninfrastruktur (NFDI) werden wertvolle Da-
+tenbestände von Wissenschaft und Forschung für das gesamte deutsche Wissenschafts-
+system systematisch erschlossen, vernetzt und nachhaltig sowie qualitativ nutzbar
+gemacht. Bislang sind sie zumeist dezentral, projektbezogen oder auf Zeit verfügbar.37
+Die NFDI konstituiert sich aus aktuell 26 fachlichen Konsortien,38 einem übergreifenden
+Basisdienste-Konsortium und dem Verein Nationale Forschungsdateninfrastruktur e. V.
+(NFDI) mit Sitz in Karlsruhe. Im Gründungsprozess haben sich Bibliotheken bereits
+früh für eine solche Infrastruktur ausgesprochen.39 NFDI-Konsortien sind Zusammen-
+
+ Vgl. Aktionsplan 2022–2024 des FID-Lenkungsgremiums für das FID-Netzwerk, 30.8.2022. S. 9–12,
+und Anlage 3: https://wikis.sub.uni-hamburg.de/webis/images/8/8a/Aktionsplan-FID-Netzwerk_2022-
+2024.pdf.
+ Aktionsplan 2022–2024: S. 3.
+ Vgl. https://www.nfdi.de/verein/. Vgl. auch Lipp u. Sure-Vetter 2022.
+ Vgl. https://www.nfdi.de/konsortien/.
+ Bayerische Staatsbibliothek: Forschungsdateninfrastruktur für die Geschichtswissenschaft. Posi-
+tionspapier der Bayerischen Staatsbibliothek. 27. Juni 2018. https://www.bsb-muenchen.de/article/for
+schungsdateninfrastruktur-fuer-die-geschichtswissenschaft-die-bayerische-staatsbibliothek-bezieht-
+stellung-2472/. Gemeinsame Stellungnahme der FID leitenden Einrichtungen und der AG Fachinforma-
+tionsdienste (AG FID) zur Einbindung von Fachinformationsdiensten in den Aufbau einer Nationalen
+
+
+
+5.7 Forschungsdaten und ihr Management 423
+
+schlüsse von Hochschulen, außeruniversitären Forschungseinrichtungen und Einrich-
+tungen der Informationsinfrastruktur innerhalb eines Forschungsfeldes, für das sie
+Konzepte und Lösungen für das Forschungsdatenmanagement entwickeln. An einzel-
+nen Konsortien sind die Deutsche Nationalbibliothek, Zentrale Fachbibliotheken sowie
+große Staats- und Universitätsbibliotheken als mitantragstellende Institutionen betei-
+ligt.40 Die Konsortien kooperieren interdisziplinär beim Aufbau einer gemeinsamen na-
+tionalen Lösung und deren Einbindung in internationale Initiativen wie der European
+Open Science Cloud (EOSC) und Gaia-X. Die NFDI verfolgt einen Bottom-up-Ansatz und
+bringt Forschende und Infrastrukturanbieter zusammen mit dem Ziel, einen wissen-
+schaftsgeleiteten Prozess zu etablieren und so bedarfsgerechte Lösungen bereitzustel-
+len. Für Aufbau und Betrieb der NFDI stellen Bund und Länder von 2019 bis 2028
+jährlich bis zu 90 Millionen Euro bereit. Nach einer erfolgreichen Evaluierung der Kon-
+sortien und des Vereins ist eine langfristige Finanzierung geplant.
+
+5.5 Die internationale Ebene
+
+Die Research Data Alliance (RDA) ist eine internationale Graswurzelbewegung, die
+sich 2013 mit Unterstützung durch die Europäische Union, die National Science Founda-
+tion, das National Institute of Standards and Technology und das australische Depart-
+ment of Innovation gründete. Sie versucht, die notwendige soziale und technische
+Infrastruktur für das Teilen und die Nachnutzung von Forschungsdaten aufzubauen.41
+Sie organisiert sich in Interest Groups, die über einen längeren Zeitraum hinweg The-
+men bearbeiten, und Working Groups, die innerhalb von 18 Monaten konkrete Ergeb-
+nisse entwickeln. Beispiele sind die oben erwähnten CARE-Prinzipien und der Metadata
+Standards Catalog. Bereits im Jahr 2016 gab die RDA außerdem ein Factsheet speziell für
+Bibliotheken heraus mit dem Titel 23 Things. Libraries for Research Data. An overview of
+practical, free, online resources and tools that you can begin using today to incorporate
+research data management into your practice of librarianship.42 Die dahinterstehende in-
+ternational besetzte Libraries for Research Data (L4RD) Interest Group ist auch heute
+noch aktiv.
+
+Auch die Ligue des Bibliothèques Européennes de Recherche (LIBER) widmet
+sich mit einer Research Data Management Working Group dem Thema auf europäi-
+scher Ebene und hat 2022 einen Arbeitsplan veröffentlicht, mit dem die definierten
+
+Forschungsdateninfrastruktur, 26.9.2018. https://wikis.sub.uni-hamburg.de/webis/images/a/a1/AG_FID_
+zu_NFDI.pdf.
+ Vgl. auch Hartl u. a. 2022.
+ Vgl. Berman u. a. 2014.
+ Witt, Michael: RDA Libraries for Research Data Interest Group, 23 Things: Libraries for Research
+Data, 22.12.2016, https://doi.org/10.15497/rda00005.
+
+
+
+424 Silvia Daniel und Matthias Razum
+
+Ziele umgesetzt werden sollen.43 Dabei geht es erstens um die Erforschung und Ent-
+wicklung von Bibliotheksdiensten im Zusammenhang mit FAIR-Forschungsdaten,
+zweitens um Wissenstransfer und Kompetenzaufbau und drittens um eine Vernet-
+zung mit anderen RDM-Initiativen.44 Die Gruppe veröffentlicht in regelmäßigen Ab-
+ständen Handreichungen für Bibliotheken wie etwa The 6 Pillars of Engaging
+Researchers in Research Data Management (RDM)45 aus dem Jahr 2020.
+
+Die European Open Science Cloud (EOSC) möchte ein „web of FAIR data“ auf-
+bauen. Trotz ihres Namens und der Förderung durch die EU richtet sich ihr Angebot an
+die in ihrem Wesen grenzenlose, globale Wissenschaft. Gleichzeitig bildet sie den Daten-
+raum für Forschung und Innovation. Die EOSC setzt auf bestehende Forschungsinfra-
+strukturen wie etwa den ESFRI-Roadmap-Projekten des European Strategy Forum on
+Research Infrastructures auf und föderiert sie, um (interoperable) Daten und Services
+anzubieten. Sie wurde 2015 ins Leben gerufen und ist nach wie vor im Aufbau be-
+griffen. Die NFDI betrachtet die EOSC als folgerichtige internationale Anbindung ihres
+Diensteportfolios und strebt perspektivisch die Integration ihrer Angebote in die
+EOSC an.
+
+Gaia-X zielt auf den Aufbau einer leistungs- und wettbewerbsfähigen, sicheren
+und vertrauenswürdigen Dateninfrastruktur für Europa. Sie soll eine Alternative zu
+den großen Hyperscalern wie Amazon, Microsoft oder Google bilden und damit die
+digitale Souveränität Europas stärken. Sie richtet sich an Wirtschaft, Wissenschaft
+und Verwaltung und wird vorwiegend von europäischen Partnern getragen. Über so-
+genannte Datenräume treibt sie vor allem die Ökonomisierung von Datenbeständen
+voran, wobei sie eine Kooperation mit EOSC und der NFDI anstrebt.46
+
+In einer solch schlaglichtartigen Auswahl internationaler RDM-Akteure darf schließ-
+lich auch das von großen Bibliotheken geprägte Konsortium DataCite nicht fehlen, das
+unter anderem von der TIB Hannover mit gegründet wurde, wo auch die Geschäftsstelle
+beheimatet ist. Seit seiner Konstituierung hat DataCite unter anderem durch die Vergabe
+von Digital Object Identifiern (DOI) maßgeblich zur eindeutigen Referenzierung sowie
+durch die Entwicklung eines Metadatenschemas zur einheitlichen Beschreibung von For-
+schungsdaten beigetragen.
+
+ Vgl. https://libereurope.eu/wp-content/uploads/2022/01/LIBER-RDM-WG-Workplan-2023.pdf.
+ Vgl. https://libereurope.eu/working-group/research-data-management/.
+ Vgl. https://libereurope.eu/wp-content/uploads/2020/12/The-6-Pillars-of-Engaging-Researchers-in-Re
+search-Data-Management-RDM.pdf.
+ Zum Vergleich von NFDI, EOSC und Gaia-X vgl. RfII – Rat für Informationsinfrastrukturen: Föde-
+rierte Dateninfrastrukturen für die wissenschaftliche Nutzung. NFDI, EOSC und Gaia-X: Vergleich und
+Anregungen für eine engagierte Mitgestaltung des Ausbaus und der Weiterentwicklung, RfII Berichte
+No. 4, Göttingen 2023. https://nbn-resolving.org/urn:nbn:de:101:1-2023021709.
+
+
+
+5.7 Forschungsdaten und ihr Management 425
+
+5.6 Weitere Akteure
+
+In zahlreichen Disziplinen existieren fachliche Repositorien. Für die global ausge-
+richtete Wissenschaft spielen nationale Grenzen keine Rolle. Entsprechend finden
+sich relevante Repositorien weltweit. Falls keine rechtlichen Einschränkungen dies
+verhindern, sind sie oft der geeignetste Ort für die Publikation und dauerhafte Archi-
+vierung von Forschungsdaten, weil ihre Kurationsregeln und Beschreibungsstandards
+den Anforderungen der jeweiligen Fächer am besten gerecht werden und sie auch die
+Sichtbarkeit der Forschungsdaten innerhalb ihrer Community gewährleisten. Viele
+der fachlich orientierten Datenzentren mit regionaler oder globaler Bedeutung orga-
+nisieren sich im World Data System des International Science Councils.47
+
+„The world’s most valuable resource is no longer oil, but data“, schrieb Kiran Bha-
+geshpur 2017.48 So ist es wenig verwunderlich, dass auch kommerzielle Angebote zum
+Forschungsdatenmanagement existieren. Insbesondere die großen Wissenschaftsver-
+lage wie Wiley mit figshare und Elsevier mit Mendeley Data sind hier aktiv und werben
+mit der komfortablen Ablage und Kuratierung von Daten in Verbindung mit Publikatio-
+nen. Oft werden sie ergänzt durch weitere Werkzeuge wie Forschungsinformationssys-
+teme oder Datenanalysetools. Google bietet eine Dataset Search49 an. Es bleibt aber zu
+konstatieren, dass „eine privatwirtschaftliche Dominanz des wissenschaftlichen Daten-
+marktes [...], im Unterschied zum wissenschaftlichen Publikationsmarkt, noch nicht
+festzustellen” ist.50 Bibliotheken sollten gemeinsam mit Forscher:innen auf Basis ihrer
+Erfahrungen aus der Open-Science-Bewegung darauf achten, dass die Hoheit über die
+Forschungsdaten auch zukünftig in der Hand der Wissenschaft bleibt.
+
+Nicht unerwähnt bleiben sollen auch stellvertretend einige wissenschaftspolitische
+Impulsgeber und Forschungsförderer. Neben der 2009–2011 tätigen Kommission für
+die Zukunft der Informationsinfrastruktur (KII) und des Schwerpunkts „Digitalität in der
+Wissenschaft“ der Allianz der Deutschen Wissenschaftsorganisationen hat zuvorderst der
+von Bund und Ländern getragene Rat für Informationsinfrastrukturen mit einer ganzen
+Reihe von Positionspapieren die Nationale Forschungsdateninfrastruktur aus der Taufe
+gehoben und setzt bis heute prägende Impulse auf dem Feld, die im Bibliothekswesen
+beachtet und aufgenommen werden.
+
+Dies konkretisiert sich in spezifischen Förderlinien der DFG und des Bundesminis-
+teriums für Bildung und Forschung (BMBF), die damit Einfluss auf die Geschwindigkeit
+und die Ausrichtung der FDM-Aktivitäten in Bibliotheken und Infrastruktureinrichtun-
+gen nehmen. Gleichzeitig wirken sie auch auf die Forscher:innen ein, in ihren Projek-
+
+ https://worlddatasystem.org/.
+ Bhageshpur, Kiran: The world’s most valuable resource is no longer oil, but data. In: Economist,
+6. Mai 2017, https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-
+longer-oil-but-data.
+ Vgl. https://datasetsearch.research.google.com/.
+ Scholze, Frank u. a.: Wissenschaftlicher Datenmarkt. In: Putnings u. a. 2021: S. 172.
+
+
+
+426 Silvia Daniel und Matthias Razum
+
+tanträgen das Forschungsdatenmanagement zu adressieren und somit den Kulturwan-
+del von dieser Seite zu beschleunigen.51
+
+6 Die Rolle von Bibliotheken
+im Forschungsdatenmanagement
+
+Bibliotheken sind auf allen Ebenen des lokalen, regionalen, nationalen und internatio-
+nalen Forschungsdatenmanagements, in generischen und fachlichen Kontexten sowie
+auf allen Feldern des Forschungsdatenlebenszyklus aktiv: Sie unterstützen beratend
+bei der Planung von Projekten, der Erhebung, Aufbereitung und Analyse von Daten
+und schaffen – oftmals in Kooperation mit anderen Akteuren – die technischen Struk-
+turen, um Forschungsdaten publizieren, archivieren und nachnutzen zu können.52
+
+Durch den jahrzehntelangen Aufbau digitaler Sammlungen und Dienste verfügen
+Bibliotheken über Expertise auf zentralen Feldern: der standardisierten Metadaten, der
+Normdateien und Wissensorganisationssysteme, des bibliographischen Nachweises, der
+Suchsysteme, Bereitstellung digitaler Inhalte, Datenkonnektivität, Interoperabilität tech-
+nischer Systeme wie auch der Open-Access-Publikation digitaler Inhalte und schließlich
+der Langzeitarchivierung. Die in den FAIR-Prinzipien formulierten Grundsätze sind Teil
+der DNA von digital innovativen Bibliotheken. Bibliothekar:innen sind ebenso lang auf
+den Feldern der Informationskompetenz aktiv, wodurch ein Engagement bei Beratung
+und Schulung von Datenkompetenz direkt anschlussfähig ist.53 Bibliotheken agieren
+sowohl bei der lokalen Beratung von Forschungsvorhaben als auch in größeren
+Zusammenhängen wie der NFDI als Multiplikatoren bei der Metadatenkompetenz,
+die Voraussetzung für die Vernetzung ist.54 Sie stehen gemeinsam mit Infrastruktur-
+einrichtungen, Forschungsmuseen und Archiven für nachhaltige und finanziell weitge-
+hend abgesicherte Infrastrukturen. Die Mehrzahl der informationswissenschaftlichen
+FDM-Stellen in Deutschland ist an Bibliotheken angesiedelt, „wodurch deren zentrale Be-
+deutung für ein funktionierendes, institutionelles FDM untermauert wird”.55 All diese
+Kompetenzen und Voraussetzungen schätzen sowohl Wissenschaft als auch Infrastruktu-
+
+ Vgl. dazu auch Neuroth 2023: S. 339 f.
+ Vgl. auch Horstmann 2021. Stellvertretend für zahlreiche FDM-Berichte an unterschiedlichen Bi-
+bliotheken vgl. die o-bib-Hefte 2 und 3 (2018): https://doi.org/10.5282/o-bib/2018H2, https://doi.org/10.
+5282/o-bib/2018H3. Lindstädt u. Schmitz 2019.
+ Vgl. Strauch 2020.
+ Vgl. Horstmann 2021: S. 275.
+ Zeunert u. Schneemann 2022: S. 109.
+
+
+
+5.7 Forschungsdaten und ihr Management 427
+
+ranbieter. Umgekehrt bietet das arbeitsteilige Vorgehen auch für Bibliotheken Vorteile
+beim technischen Wissenstransfer und weiteren Ausbau forschungsnaher Dienste.56
+
+Nichtsdestotrotz wird bezogen auf die gesamte Menge der Forschungsdaten(typen)
+und auf alle Fachdisziplinen gesehen der überwiegende Teil der Daten sinnvollerweise in
+anderen Institutionen gehostet und langzeitarchiviert. Diese Relation sollte bei allen Über-
+legungen nicht aus dem Blick verloren werden. Bibliotheken konzentrieren sich in den
+meisten Fällen weiterhin auf serielle Texte und dazugehörige Metadaten sowie histori-
+sche Artefakte und die entsprechenden Daten. Allerdings könnten sich mit der „datafica-
+tion”57 gerade diese traditionellen Sammlungsgegenstände von Bibliotheken wandeln hin
+zu einem „multimedial entgrenzten Informationsfluss” und einem „sich kontinuierlich
+neu knüpfenden Netz”58 in digitalen Wissens- und Erkenntnisräumen.
+
+Herausforderungen beim FDM existieren noch auf allen Stufen des Datenlebenszy-
+klus und für alle Wissenschaftsdisziplinen: Allein aufgrund der schieren Menge an be-
+reits vorhandenen Forschungsdaten stellen schon deren persistente Auszeichnung und
+die ausreichende Beschreibung und Dokumentation in domänenspezifisch standardi-
+sierten und zwischen Disziplinen und Sparten aufeinander abbildbaren Metadatensche-
+mata einen großen Punkt auf der Agenda von Bibliotheken dar. Hinzu kommt für viele
+Häuser auch die Verzeichnung der an der eigenen Institution produzierten (aber nicht
+in allen Fällen dort kuratierten) Forschungsdaten, genau wie dies im Rahmen von
+Hochschulbibliographien, mancherorts auf der Basis von Forschungsinformationssyste-
+men, längst erfolgt. Schließlich ist beim FDM auch der Beratungsbedarf der Forschenden
+signifikant höher als dies bislang auf den Feldern der Literatursuche- und Beschaffung
+oder der Informationskompetenz gegeben war. Sofern Bibliotheken hierfür zuständig
+sind, gilt es hier in größerem Maßstab Ressourcen vorzuhalten und Ansprechpartner:in-
+nen zu haben, die sowohl datentechnisches Knowhow als auch ein gewisses fachli-
+ches Grundverständnis für die Projekte mitbringen. Insgesamt führt das Engagement
+von Bibliotheken für Forschungsdaten zu einem erweiterten Selbstverständnis, neuen
+Zuständigkeiten, Interaktionen und Kooperationen sowie einem Wandel des Berufs-
+bilds.59 Der Forschungsdatendiskurs und das praktische FDM der letzten fünf bis zehn
+Jahre wirken damit als Katalysatoren auf verschiedene, längst angelegte Entwick-
+lungen im Bibliothekswesen:60
+
+ Vgl. auch Hartl 2022. Allerdings fußt dieser Beitrag nur auf neun freiwilligen Interviews aus dem
+Bibliothekswesen.
+ Der Begriff wird benutzt, um die Durchdringung einzelner Lebens- und Arbeitsbereiche und auch
+der Wissenschaft mit Daten und datengetriebenen Methoden und Praktiken zu umschreiben. Ur-
+sprünglich kam datafication im Zusammenhang mit Big Data auf. Cukier u. Mayer-Schoenberger 2013:
+S. 35.
+ Ceynowa 2014: S. 57.
+ Aus internationaler Perspektive: Andrikopoulou u. a. 2022.
+ Als international angelegte Bestandsaufnahme aus dem Jahr 2018 nimmt den bevorstehenden
+Wandel vorweg: Cox u. a. 2019.
+
+
+
+428 Silvia Daniel und Matthias Razum
+
+Dies betrifft erstens die Herausbildung digitaler Sammlungsprofile in der Biblio-
+thekslandschaft, die bislang nur in Ausnahmefällen formuliert und kommuniziert wer-
+den. Gerade für große Staats- und Forschungsbibliotheken stellt sich die Frage, mit
+welcher fachlich begründeten, mit anderen Akteuren abgestimmten und technisch und
+finanziell realistischen Datenprofilstrategie, die auch das Verhältnis von Datenbesitz
+und Datenzugang beleuchtet, sie für die Zukunft das digitale kulturelle Erbe der Gegen-
+wart sammeln wollen. Konkret geht es darum, für welche Datentypen und Inhalte sie
+sich zukünftig langfristig mit allen Folgen und Folgekosten verantwortlich erklären. Die
+schiere Masse und Heterogenität der Daten lassen formatunabhängige Sammlungsstrate-
+gien an ihre Grenzen geraten. Dabei tritt für diese Institutionen das neue Feld neben das
+herkömmliche Diensteportfolio, das dauerhaft weiterhin seine Berechtigung haben wird.
+
+Andere, stärker an den aktuellen Bedarfen ausgerichtete Bibliotheken sehen hinge-
+gen schon das weitgehende Ende der klassischen physischen Handlungsfelder am Hori-
+zont und begreifen sich mehr und mehr als rein digitale Dienstleister. Wissenschaftlichen
+Bibliotheken unterschiedlicher Ausprägung gemein ist aber, dass dieser erneute, durch
+Forschungsdaten ausgelöste Schub einhergehen wird mit Reorganisationsprozessen: Die
+in vielen Häusern historisch gewachsenen informationstechnologischen Strukturen und
+Zuständigkeiten werden im Sinne eines Kultur- und Organisationswandels an neue
+Daten- und Digitalstrategien institutionsbezogen anzupassen sein. Aufgrund der Erfah-
+rung mit Sammlungsprofilen können Bibliotheken zusätzlich Diskussionen zwischen den
+FDM-Akteuren zu einer verteilten und zuverlässigen Verantwortung für die dauerhafte
+Sicherung wertvoller Datenbestände für die Wissenschaft der Zukunft anstoßen und mit
+moderieren. Auch die nachhaltige Finanzierung von verlässlichen Langzeitarchivierungs-
+infrastrukturen wird dabei eine zentrale Rolle spielen.
+
+Zweitens befördert die datafication von Wissenschaft und Gedächtnisinstitutio-
+nen auch den Wandel der Bibliotheken hin zu stärker von Interaktion und Partizipa-
+tion geprägten Institutionen,61 die sich gerne auch als Library Labs verstanden wissen
+wollen.62 Zwar bezogen sich jeweils zeitgenössisch aktuelle bibliothekarische Samm-
+lungsgegenstände, also vornehmlich Texte, schon immer auf ältere Bestände. Doch ist
+anzunehmen, dass die Datenflüsse zwischen Gedächtnisinstitutionen und Forschen-
+den zukünftig noch schneller und öfter hin- und her fließen werden, indem etwa
+Daten und Metadaten angereichert, annotiert und in neuen Zusammenhängen ge-
+nutzt werden oder Bibliotheken Daten aus der Forschung zu ihren (historischen)
+Sammlungen in ihr Bestandsprofil integrieren und langfristig sichern. Damit werden
+Sammlungen noch dynamischer und lebendiger.
+
+ Vgl. Bonte 2022: S. 16.
+ Diese Entwicklung betont auch die LIBER Stratgie: Vgl. LIBER Strategy 2023–2027, Version to be
+approved by the meeting of participants 7 July 2022. https://libereurope.eu/wp-content/uploads/2021/10/
+May22_Meeting_of_Participants_LIBER_Strategy_2023-2027_Framework.pdf?mc_cid=f02ff8bc33&mc_
+eid=UNIQID.
+
+
+
+5.7 Forschungsdaten und ihr Management 429
+
+Drittens beschleunigt sich durch die Forschungsdaten die weiterhin rasante techno-
+logische Entwicklung, mit der Bibliothekar:innen „on the job“ Schritt halten müssen;
+damit ist eine fortlaufende Anpassung der Curricula in der bibliothekarischen Ausbil-
+dung vonnöten. Als Data Stewards oder Datenkurator:innen werden zugleich vermehrt
+Quereinsteiger:innen gefragt sein.
+
+Bibliothekar:innen sollten die beschriebenen Best Practices und Standards sowie die
+unterschiedlichen Initiativen und Förderformate im Blick behalten, miteinander verzah-
+nen und sich bei den Wissenschaftler:innen Gehör verschaffen, um das Forschungsdaten-
+management in die Breite zu bringen.63 Zu dem geforderten Kulturwandel in der
+Wissenschaft können sie durch leistungsfähige Publikationsinfrastrukturen, Open Access
+Data Journals, hochqualitative Metadaten und Suchsysteme, die eine Verlinkung zwi-
+schen Daten und Forschungssynthesen sichtbar machen, sinnvoll beitragen.
+
+Abzuwarten bleibt, wie tiefgreifend Methoden und Verfahren der Künstlichen In-
+telligenz, die im Jahr 2023 einen Quantensprung in der Entwicklung gemacht haben,
+sich auch auf dieses Feld auswirken. Für die Bibliotheken bieten maschinelle Verfah-
+ren großes Potential bei der teilautomatisierten Erschließung von großen Datenmen-
+gen,64 aber auch beim Discovery in Wissensgraphen; für die Forscher:innen bei
+neuen Methoden der Datenanalyse.
+
+7 Resümee
+Forschungsdatenmanagement ist eine zentrale Herausforderung für die Wissenschaft im
+digitalen Wandel, die nur von allen Akteuren gemeinsam angegangen werden kann. In
+diesem sich aktuell noch stetig weiterentwickelnden System können und müssen Biblio-
+theken ihre Kompetenzen einbringen und wichtige Funktionen und Aufgaben überneh-
+men. Dies erfordert aber gleichzeitig den Willen und die Bereitschaft zur Veränderung:
+Eigene digitale Sammlungsprofile zu konzipieren gehört ebenso dazu wie Informations-
+und Datenkompetenz zu vermitteln, (KI-gestützte) Methoden zur Erschließung und zum
+Discovery in die Anwendung zu bringen sowie innovative Angebote und Dienste koopera-
+tiv mit Wissenschaftler:innen und Fachcommunities zu entwickeln. Entsprechend verän-
+dern sich Tätigkeitsprofile und Kompetenzen von Bibliothekar:innen.
+
+Forschungsdatenmanagement kommt als neues Aufgabenfeld hinzu, ohne dass an-
+dere deswegen entfallen. Damit stellt sich die Frage, woher die notwendigen Ressourcen
+kommen sollen. Man wird um eine Priorisierung von Aufgaben nicht umhinkommen,
+aber auch nicht um eine Arbeitsteilung mit anderen Einrichtungen. Dies betrifft sowohl
+die Angebotsseite, auf der die Kooperation mit Rechenzentren, anderen Gedächtnis- und
+Infrastruktureinrichtungen sinnvoll ist, wie die Nachfrageseite, auf der nur in enger Ab-
+
+ Vgl. Neuroth u. Oevel 2021: S. 553.
+ Vgl. Schöning-Walter u. Mödden 2023.
+
+
+
+430 Silvia Daniel und Matthias Razum
+
+stimmung mit den späteren Nutzer:innen erfolgreiche Angebote zu konzipieren und aus-
+zurollen sind. Nachhaltigkeit und langfristige Finanzierung gelingt dabei meist nur, wenn
+Infrastruktureinrichtungen wie Bibliotheken diese Angebote als Teil ihrer Kernaufgaben
+betrachten und sie in ihr Portfolio aufnehmen.
+
+Literatur
+Andrikopoulou, Angeliki, Jennifer Rowley u. Geoff Walton: Research Data Management (RDM) and the
+
+Evolving Identity of Academic Libraries and Librarians: A Literature Review, in: Academic
+Librarianship 28 (2022), H. 4, S. 349–365. https://doi.org/10.1080/13614533.2021.1964549.
+
+Baumann, Paul; Krahn, Philipp; Lauber-Rönsberg, Anne: Forschungsdatenmanagement und Recht. Bd. 28.
+Feldkirch u. Düns 2021 (Arbeitshefte der Arbeitsgemeinschaft für juristisches Bibliotheks- und
+Dokumentationswesen).
+
+Berman, Fran, Ross Wilkinson u. John Wood: Building Global Infrastructure for Data Sharing and Exchange
+Through the Research Data Alliance. In: D-Lib Magazine 20 (2014), H. 1–2. https://doi.org/10.1045/
+january2014-berman.
+
+Bonte, Achim: Mit Schwung und Leichtigkeit. Rede zur Amtseinführung von Achim Bonte. In:
+Bibliotheksmagazin 17 (2022), H. 1, S. 12–19. https://www.bsb-muenchen.de/fileadmin/pdf/publikatio
+nen/bibliotheksmagazin/bm_2022_1.pdf
+
+Brugbauer, Ralf, Klaus Ceynowau u. André Schüller-Zwierlein: Stets einen Schritt voraus: Die Schaffung
+einer kooperativen Infrastruktur für digitale Langzeitverfügbarkeit in Bayern. In: ZfBB 69 (2022), H. 3,
+S. 131–141.
+
+Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett,
+Simeon Materechera u. Mark Parsons: The CARE Principles for Indigenous Data Governance. In: Data
+Science Journal 19 (2020), Art. 43. https://doi.org/10.5334/dsj-2020-043.
+
+Ceynowa, Klaus: Der Text ist tot. Es lebe das Wissen! In: Hohe Luft (2014), H.1, S. 52–57.
+Cox, Andrew M., Mary Anne Kennan, Liz Lyon, Stephen Pinfield u. Laura Sbaffi: Maturing research data
+
+services and the transformation of academic libraries. In: Journal of Documentation 75 (2019), H. 6,
+S. 1432–1462. https://doi.org/10.1108/JD-12-2018-0211.
+
+Cukier, Kenneth u. Viktor Mayer-Schoenberger: The Rise of Big Data. How It’s Changing the Way We Think
+About the World. In: Foreign Affairs 92 (2013), H. May/June, S. 28–40.
+
+Hartl, Natalie, Lukas Jansen, Laura Bodman, Hendrik Seitz-Moskaliuk, Elena Wössner, Eva Lübke u. York
+Sure-Vetter: Bibliotheken als Akteure bei NFDI. Herausforderungen, Chancen, Zukunftsaussichten. In:
+ZfBB 69 (2022), H. 1–2, S. 18–25. http://dx.doi.org/10.3196/1864295020691244.
+
+Hey, Tony u. a.: The Fourth Paradigm: Data-Intensive Scientific Discovery. Oktober 2009. S. XVIIf.
+https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-
+discovery/ (01.08.2023).
+
+Horstmann, Wolfram: Forschungsdaten und Bibliotheken – Gedankenexperimente zur Covidpandemie
+und Einschätzungen. In: Bibliothek – Forschung und Praxis 45 (2021), H. 2, S. 273–279. https://doi.
+org/10.1515/bfp-2021-0029.
+
+Imeri, Sabine u. Michaela Rizzolli: CARE Principles for Indigenous Data Governance. Eine Leitlinie für
+ethische Fragen im Umgang mit Forschungsdaten? In: o bib 9 (2022), H. 2, S. 1–14. https://doi.org/10.
+5282/o-bib/5815.
+
+Jegan, Robin u. a.: Integrating Access to Authority Data for Improved Interoperability of Research Data in
+the Digital Humanities. In: BTW. Hrsg. von B. König-Ries, S. Scherzinger, W. Lehner u. G. Vossen.
+Gesellschaft für Informatik e. V. 2023. https://doi.org/10.18420/BTW2023-54.
+
+
+
+5.7 Forschungsdaten und ihr Management 431
+
+Kindling, Maxi u. Peter Schirmbacher: „Die digitale Forschungswelt“ als Gegenstand der Forschung. In:
+Information – Wissenschaft – Praxis 64 (2013), S. 127–136. https://doi.org/10.1515/iwp-2013-0017.
+
+Lin, Dawei, Jonathan Crabtree, Ingrid Dillo, Robert R. Downs, Rorie Edmunds, David Giaretta, Marisa De
+Giusti u. a.: The TRUST Principles for digital repositories. In: Scientific Data 7 (2020), H. 1, S. 144.
+https://doi.org/10.1038/s41597-020-0486-7.
+
+Lindstädt, Birte, Jasmin Schmitz: Das Management von Forschungsdaten als Handlungsfeld
+wissenschaftlicher Bibliotheken: Forschungsunterstützung am Beispiel ZB MED –
+Informationszentrum Lebenswissenschaften. In: Bibliothek Forschung und Praxis 43 (2019), H. 1,
+S. 42–48. https://doi.org/10.1515/bfp-2019-2006.
+
+Lipp, Anne u. York Sure-Vetter (2022): NFDI – Akteure und Prozesse, Erfolgsfaktoren und
+Herausforderungen. In: ZfBB 69 (2022), H. 1–2, S. 10–17. http://dx.doi.org/10.3196/
+1864295020691230.
+
+Michener, William K.: Ten Simple Rules for Creating a Good Data Management Plan. Herausgegeben von
+Philip E. Bourne. In: PLOS Computational Biology 11 (2015), H. 10, e1004525. https://doi.org/10.1371/
+journal.pcbi.1004525.
+
+Neuroth, Heike: Forschungsdaten. In: Grundlagen der Informationswissenschaft. Hrsg. Von Christa
+Womser-Hacker, Rainer Kuhlen, Wolfgang Semar und Dirk Lewandowski. Berlin, Boston: De Gruyter
+2023. S. 339–349. https://doi.org/10.1515/9783110769043-029.
+
+Putnings, Markus, Heike Neuroth u. Janna Neumann (Hrsg.): Praxishandbuch
+Forschungsdatenmanagement. Berlin: De Gruyter Saur 2021. https://doi.org/10.1515/9783110657807.
+
+RfII - Rat für Informationsinfrastrukturen: Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen
+und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen 2016
+
+Schöning-Walter, Christa u. Elisabeth Mödden: KI und Digital Humanities in Bibliotheken, 1. Februar 2023.
+https://blog.dnb.de/ki-und-digital-humanities-in-bibliotheken-ein-erfahrungsaustausch-auf-
+werkstattebene/.
+
+Seidlmayer, Eva, Fabian Hoffmann, Jens Dierkes, Birte Lindstädt, Ralf Depping u. Konrad U. Förstner:
+Forschung unterstützen. Empfehlungen für Data Stewardship an akademischen
+Forschungseinrichtungen, Ergebnisse des Projekts DataStew. 02.02.2023. 10.4126/FRL01-006441397.
+
+Strauch, Annette: Universitätsbibliotheken heute. Partner im Forschungsdatenmanagement in der Praxis.
+In: ABI Technik 40 (2020), H. 2, S. 177–186. https://doi.org/10.1515/abitech-2020-2008.
+
+Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie
+Baak, Niklas Blomberg u. a.: The FAIR Guiding Principles for scientific data management and
+stewardship. In: Scientific Data 3 (2016), 160018. https://doi.org/10.1038/sdata.2016.18.
+
+Zeunert, Miriam u. Carsten Schneemann: Forschungsdatenmanagement als Arbeitsschwerpunkt für
+Informationswissenschaftler/innen. In: Information – Wissenschaft & Praxis 73 (2022), H. 2–3,
+S. 103–112. https://doi.org/10.1515/iwp-2021-2191.

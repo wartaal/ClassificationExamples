@@ -1,0 +1,1593 @@
+﻿Frauke Schade, Ute Engelkenmeier
+Ethische Grundlagen, berufsethisches
+Verständnis, Dilemma-Diskussionen und
+Handlungsempfehlungen
+
+1 Einleitung
+Vor dem Hintergrund der „Medien an den Rändern“ kann Bibliotheksethik Orientie-
+rung schaffen und dazu beitragen, sich über wertebezogenes Handeln im Klaren zu
+werden. Dieser Beitrag geht zunächst auf grundlegende Aspekte von Ethik, Moral und
+Recht ein. Darauf aufbauend wird Bibliotheksethik als Teilgebiet der Informations-
+ethik innerhalb der Angewandten Ethik vorgestellt. Abgeleitet werden davon die An-
+forderungen, die sich an eine bibliothekarische Berufsethik stellen. Aufgezeigt wird
+das Werteverständnis des Berufsfeldes, das in Ethikkodizes, Positionspapieren und
+weiteren ethischen Positionierungen vor allem von den Verbänden artikuliert wird.
+Vor dem Hintergrund der Medien an den Rändern werden auf dieser theoretischen
+Basis zwei typische Dilemmata im Berufsfeld Bibliothek und Information diskutiert
+und ethisch bewertet. Der Beitrag endet mit einem Ausblick, in dem Wege aufgezeigt
+werden, wie auf individueller und institutioneller Ebene informationsethische Kompe-
+tenz gefördert werden kann und Individual- und Institutionenethik bestenfalls zusam-
+menwirken.1
+
+2 Ethik, Moral und Recht
+Die Kernfrage der Ethik lautet: „Was sollen wir tun?“ Der Bewertungsmaßstab für die
+Beantwortung dieser Frage liegt im Gegensatz von Gut und Schlecht. In der Ethik steht
+das Gute für alle Werte, auf die das Denken, Wollen und Handeln von Einzelnen und
+Gruppen idealerweise ausgerichtet ist. Es geht um die Erkenntnis dessen, was gut im
+Sinne eines Charakters, einer Haltung und/oder in der moralischen Verfasstheit einer
+Gemeinschaft ist. Alternativ werden für die ethische Bewertung von Haltungen und
+Handlungen auch die Begriffe ethisch richtig und – je nach Perspektive – ethische
+bzw. moralische Qualität verwendet (Regenbogen und Meyer 2013, 273; Pieper 2017,
+148; Rösch 2019, 49; Rommerskirchen 2019, 18).
+
+1 Der Beitrag beruht insbes. in Kapitel 1, 5 und 6 auf der Dissertation Verantwortungsethik als Insti-
+tutionenethik für das Berufsfeld Bibliothek und Information in Deutschland, die von Frauke Schade an
+der Philosophischen Fakultät der Humboldt-Universität zu Berlin am 15. Dezember 2023 verteidigt
+wurde und im Juli 2024 bei De Gruyter unter dem Titel „Verantwortungsethik als Institutionenethik.
+Grundlagen, Verfahren und Instrumente für das Berufsfeld Bibliothek und Information“ erscheint.
+
+Open Access. © 2024 Frauke Schade, Ute Engelkenmeier, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111229614-003
+
+
+
+28  Frauke Schade, Ute Engelkenmeier
+
+Im Spannungsfeld von Gut und Schlecht werden Argumente reflektiert, um
+schließlich in konkreten Situationen Orientierung zu finden und zu begründeten ‚gu-
+ten‘ Entscheidungen und Handlungen zu kommen, die Einfluss auf den Charakter des
+Einzelnen sowie auf die moralische Verfasstheit einer Gemeinschaft haben. Deutlich
+wird, dass Ethik keine Patentrezepte liefern kann, die Individuum und Gemeinschaft
+aus der Verantwortung entlassen, das Gute zu tun. Vielmehr bilden Kontext und Kon-
+sequenzen für die Ethik einen Reflexions- und Diskursrahmen, Handlungen und Ent-
+scheidungen auf den verschiedenen Ebenen des individuellen, kollektiven, institutio-
+nellen und gesellschaftlichen Seins sowie auf den verschiedenen Diskursebenen der
+theoretischen und praktischen Ethik zu bewerten (Rösch 2019, 50).
+
+Gegenstand ethischer Reflexion sind die Normen und Werte, Ge- und Verbote von
+Individuen, Institutionen und von Gesellschaft. Als Moral bezeichnet man die Summe
+an Normen und Werten, die sich eine Gemeinschaft gegeben hat (Rommerskirchen
+2019, 19). Ideal der Moral ist Gerechtigkeit als Maß für sozial angemessenes Verhalten,
+an dem sich Individuum und Institutionen in der Ordnung der Gemeinschaft ausrich-
+ten (Höffe 2007, 96; Regenbogen und Meyer 2013, 252).
+
+Werte sind Einstellungen und Haltungen, die von Individuen als ideal angesehen
+werden und als Orientierung dienen, ein gelungenes Leben zu gestalten. Sie sind indi-
+vidueller Natur und drücken eine persönliche Werthaltung aus (Krijnen 2011, 549;
+Funiok 2011, 48; Rommerskirchen 2019, 22). Da persönliche Werte auch Eigeninteres-
+sen und Nutzenerwägungen zum Ausdruck bringen können, unterscheidet Frankena
+zwischen moralischen und außermoralischen Werten. Moralische Werte sind als Mo-
+tive und/oder Charaktereigenschaften in Menschen angelegt, werden bestenfalls ge-
+schult und sind aus moralischen Gründen gut. In der Antike gehörten beispielsweise
+Klugheit, Tapferkeit, Mäßigung und Gerechtigkeit zu den zentralen moralischen Wer-
+ten der Gesellschaft. Außermoralische Werte hingegen erfüllen nach Frankena einen
+Zweck, z. B. Handlungen, die zur Erfüllung einer Pflicht ausgeführt werden oder die
+einen Nutzen stiften (Frankena 2017, 63, 78). Insgesamt können sich Werte jedoch nur
+entfalten, wenn sie resonanzfähig sind mit den Werten einer Gemeinschaft (Krijnen
+2011, 552; Rommerskirchen 2019, 22). Zu unterscheiden sind daher persönlich subjek-
+tive Werte und sogenannte objektive bzw. kategorische Werte, die für eine Gemein-
+schaft eine unbedingte Geltung haben (Krijnen 2011, 551). Gemeinschaft kann sich da-
+bei auf eine Nation, eine Fachcommunity oder andere Kollektive beziehen, z. B. eine
+Region, Stadtgesellschaft, Verein etc. Zu den kategorischen moralischen Werten demo-
+kratischer Gesellschaften gehören beispielsweise die Menschenrechte (s. u.).
+
+Normen formulieren Verhaltenserwartungen der Gemeinschaft an das Individu-
+um und stellen dar, was man tut (z. B. die Wahrheit sagen) und was man nicht tut
+(z. B. lügen). Sie haben die Funktion, regelbasiertes Verhalten in einer Gemeinschaft
+zu gewährleisten (Rehbock 2011, 235). Normen und Werte stehen in einem engen Zu-
+sammenhang: Während Normen moralisches Handeln begrenzen, begründen Werte
+diese. Ohne konsensfähige Werte haben Normen und Recht in einer Gemeinschaft kei-
+ne konstitutive Kraft (Funiok 2011, 48; Rommerskirchen 2019, 22).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  29
+
+Um eine bestehende Gesellschaftsordnung abzusichern, werden Normen und
+Werte in Gesetzen kodifiziert (Rommerskirchen 2019, 31, 32). Gesetze begründen dabei
+einerseits Verpflichtungen, etwas zu tun oder zu unterlassen; andererseits Ansprüche,
+die Dritten gegenüber geltend gemacht werden können (Fritzsche 2016, 18). Ziel des
+Rechts ist es, Gerechtigkeit herzustellen (Höffe 2007, 96). Legal und rechtskonform ist
+Verhalten immer dann, wenn es in Übereinstimmung mit geltendem Recht steht (Rom-
+merskirchen 2019, 23). Grundlage des Rechts ist die Moral einer Gemeinschaft und das
+Ideal an Gerechtigkeit, das diese Gemeinschaft verhandelt hat (Höffe 2007, 96; Rom-
+merskirchen 2019, 23).
+
+Neben einklagbaren Rechten gibt es moralische Rechte, die nicht einklagbar sind,
+sondern das Ergebnis einer Verständigung auf grundlegende Werte darstellen. Eine
+Kategorie moralischer Rechte sind die Menschenrechte. Sie gründen auf der westli-
+chen und aufklärerischen Überzeugung, „[…] dass alle Menschen frei und gleich sind
+und ihnen durch ihr Menschensein universelle und unveräußerliche Rechte zu kom-
+men, deren Gesamtheit auch nicht teilbar ist“ (Schneidereit 2011, 300). Diese morali-
+schen Rechte wurden in der Allgemeinen Erklärung der Menschenrechte (AEMR) von
+den Mitgliedern der Vereinten Nationen (United Nations, UN) 1948 verabschiedet. Die
+30 Artikel der Menschenrechtserklärung, auch Menschenrechtscharta genannt, enthal-
+ten grundlegende Rechte, die jedem Menschen unabhängig von Herkunft, sexueller
+Identität und Religionszugehörigkeit zu Teil werden sollen (ECCHR o. S.). Sie beziehen
+sich inhaltlich auf das Recht auf Leben, auf Unversehrtheit, Gleichbehandlung, Frei-
+heit, Sicherheit, Eigentum sowie auf Meinungs-, Informations-, Bekenntnis- und Religi-
+onsfreiheit (Schneidereit 2011, 300). Rechtsverbindliche Menschenrechtsstandards
+wurden im Rahmen der Menschenrechte mit dem sogenannten Zivilpakt und dem so-
+genannten Sozialpakt 1966 geschaffen. Mitgliedsstaaten der UN, die einen oder beide
+Pakte ratifiziert haben, verpflichten sich dabei darauf, Menschenrechte in ihren Ver-
+fassungen zu verankern (Peters und Askin 2020, 6).
+
+In Deutschland sind die Menschenrechte im Grundgesetz für die Bundesrepublik
+Deutschland (GG) als Grundrechte verankert. Grundgesetzartikel, die mit „jeder“,
+„alle“, „niemand“ eingeleitet werden, kennzeichnen diese Menschenrechte. Sie be-
+gründen einen Schutzanspruch für alle Menschen, die sich in Deutschland aufhalten.
+Dazu gehören der Schutz der Menschenwürde, Gleichheit vor dem Gesetz, Meinungs-
+und Informationsfreiheit sowie Gewissens- und Religionsfreiheit. Zu unterscheiden
+sind diese Menschenrechte von sogenannten Bürger*innenrechten, die nur von Men-
+schen mit deutscher Staatsbürgerschaft einklagbar sind (Fritzsche 2016, 20, 23). Zu den
+Bürger*innenrechten gehören beispielsweise die Versammlungs- und Vereinigungs-
+freiheit oder die Wahlfreiheit (Fritzsche 2016, 28).
+
+Ethik, Moral und Recht verhalten sich zueinander nicht kongruent. Vielmehr
+wirkt Ethik konstitutiv auf Moral und Recht. Einerseits thematisiert und reflektiert
+Ethik die vorgefundene Moral von Individuen und Gemeinschaft; andererseits stellt
+Ethik Prinzipien bereit, Rechtsgüter und Gesetze zu begründen, oder diese – als In-
+
+
+
+30  Frauke Schade, Ute Engelkenmeier
+
+strument der Rechtskritik – zu hinterfragen (Rommerskirchen 2019, 26; Rösch 2019,
+51).
+
+Zu unterscheiden ist Ethik von Meinungen. Ethisches Handeln muss stets be-
+gründbar sein und sich an ethischen Prinzipien objektiv ausrichten lassen (s. Kap. 5 in
+diesem Beitrag).
+
+Ethik hat auch nichts gemeinsam mit Politik. Politik befasst sich mit der Organisa-
+tion der Gesellschaft und ihrer Verwaltung und setzt in demokratischen Staaten die
+Bedürfnisse und Interessen ihrer Bürger*innen um. Ethik und Politik sind miteinan-
+der verknüpft, da politische Entscheidungen oft ethische Fragen aufwerfen und (im
+Idealfall) ethische Überlegungen in die Gestaltung politischer Maßnahmen einfließen
+sollten.
+
+3 Bibliotheksethik als Angewandte Ethik innerhalb
+der Informationsethik
+
+Bibliotheksethik ist eine Teilmenge der Informationsethik und eine Bereichsethik der
+Angewandten Ethik (Rösch 2021, 228). Ziel von Angewandten Ethiken ist die Entwick-
+lung von Orientierungswissen, Entscheidungshilfen und Handlungsregeln für konkre-
+te Fragestellungen in Berufsfeldern und Wissenschaftsdisziplinen (Filipovic 2016, 41;
+Rösch 2019, 54). An Bereichsethiken der Angewandten Ethik stellen sich durch die Ar-
+gumentationslogik der Ethik zwei Bedingungen: Erstens müssen die Prinzipien der
+Normativen Ethik auf den spezifischen Kontext angewendet werden und dabei zeigen,
+wie und welche Maximen einen Beitrag zur Beantwortung ethischer Fragestellungen
+im Anwendungskontext liefern. Zweitens setzt Angewandte Ethik eine klare Gegen-
+standsbenennung voraus (Aßländer und Schumann 2011, 177,179; Filipovic 2016, 45).
+Neben der thematischen Zuordnung von Handlungskontexten in den Bereichsethiken
+ist zudem relevant zu klären, aus welcher Perspektive Ethik menschliches Handeln
+bewertet. Neuere Ansätze der Angewandten Ethik entlehnen daher aus der Soziologie
+die konkret abgrenzbaren Kategorien der Mikro-, Meso- und Makroebene und unter-
+scheiden Individualethik, Institutionenethik und Sozialethik (Gutmann und Quante
+2015, 7).
+
+3.1 Gegenstand der Ethik im Berufsfeld Bibliothek und
+Information
+
+Gegenstand ethischer Auseinandersetzungen im Berufsfeld Bibliothek und Informati-
+on sind alle Aktivitäten, die sich den Kernfunktionen Sammeln, Bewahren, Ordnen,
+Bereitstellen und Vermitteln zuordnen lassen (Rösch et al. 2019, 8). Dazu gehören die
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  31
+
+Kuratierung von Daten, Information und Medien über Kauf, Lizenzierung oder Open
+Access, die Entwicklung und Anwendung von Informationssystemen und -architektu-
+ren, Information Research und Information Retrieval, die formale und inhaltliche Er-
+schließung, Wissensorganisation und -management, Archivierung und digitale Lang-
+zeitarchivierung, die Entwicklung von physischen und digitalen Lern- und For-
+schungsumgebungen, die Analyse des Informationsverhaltens sowie von großen
+Datenmengen, die Entwicklung von Daten-, Informations- und Medienkompetenz, In-
+formationsmanagement und -marketing (Gantert et al. 2019, 189–194). Relevant sind
+dabei alle ethischen Implikationen, die mit dem sicheren Umgang von Daten und In-
+formation, dem Schutz geistigen Eigentums, dem gerechten Zugang zu Information,
+der Entwicklung von informationsethischer Kompetenz zusammenhängen sowie un-
+ethische Praktiken bei der Produktion, Speicherung, Erschließung, Verteilung und
+Nutzung von Information aufdecken und möglichst verhindern (Rösch 2021, 65–66).
+
+Insgesamt ist Angewandte Ethik eine vergleichsweise junge Disziplin, die sich seit
+den 1960er-Jahren stetig ausdifferenziert, um Antworten auf ethisch relevante Frage-
+stellungen vor dem Hintergrund funktional differenzierter Gesellschaften zu finden
+(Aßländer und Schumann 2011, 178; Rösch 2019, 54; Rösch 2021, 32). Dies spiegelt sich
+auch in der Bibliotheks- und Informationswissenschaft bzw. in der Bibliotheksethik
+und in der Informationsethik wider. Ursprünge ethischer Auseinandersetzungen las-
+sen sich hier auf den Beginn des 20. Jahrhunderts datieren. Die amerikanische Biblio-
+thekarin Mary Wright Plummer setzte sich für die Professionalisierung bibliothekari-
+scher Praxis in Form einer Berufsethik ein (Rösch 2017, 101; Plummer 1903). Mit der
+Library Bill of Rights verabschiedete die American Library Association (ALA) bereits
+1939 eine bibliothekarische Berufsethik (Rösch 2019, 55). Der Begriff der Informations-
+ethik in einem weiter gefassten Verständnis wurde hingegen erstmals 1988 von Robert
+Hauptmann und von Rafael Capurro verwendet (Capurro 1988; Hauptmann 1988;
+Rösch 2021, 55). Seit Mitte der 1990er-Jahre hat die Entwicklung der Informations- und
+Kommunikationstechnologien (IKT) nicht nur erhebliche Auswirkungen auf Entwick-
+lungen im Berufsfeld sowie die Bibliotheks- und Informationswissenschaft, sondern
+auch auf die Bibliotheks- bzw. auf die Informationsethik. Informationsethik trat als
+sogenannter umbrella term und damit als Sammelbegriff zunehmend in den Aus-
+tausch mit der Computerethik, aber auch mit der Medien-, der Technik- und der Wirt-
+schaftsethik (Smith 2001, 32; Floridi 2008, 7; Capurro 1987; Capurro et al. 1995; Kuhlen
+2004). Mit dem Aufkommen der Informationsgesellschaft hat sich der Gegenstandsbe-
+reich der Informationsethik Anfang des 21. Jahrhunderts weiter ausgedehnt und wur-
+de zunehmend auf alle Lebensbereiche bezogen. Informationsethik wurde dabei von
+Luciano Floridi als Makroethik entwickelt (Floridi 2008). Eine Konsolidierung der In-
+formationsethik, die sowohl zentrale Funktionen benennt als auch Gedächtnisinstitu-
+tionen miteinbezieht, legte schließlich Hermann Rösch vor (Rösch 2021).
+
+Informationsethik wird durch Rafael Capurro in diesem Diskurs treffend charak-
+terisiert, da er zwischen einem enger und einem weiter gefassten Verständnis unter-
+scheidet:
+
+
+
+32  Frauke Schade, Ute Engelkenmeier
+
+[…] Informationsethik im engeren Sinne befasst sich mit den Auswirkungen digitaler IKT (Infor-
+mations- und Kommunikationstechnologien) auf die Gesellschaft und die Umwelt, vor allem in
+Hinblick auf ethische Fragen im Umgang mit dem Internet. Informationsethik im weiteren Sin-
+ne befasst sich hingegen mit ethischen Fragen von Information und Kommunikation unter Einbe-
+ziehung von, aber nicht ausschließlich digitaler Medien (Capurro 2011, o. S.).
+
+Rösch differenziert zwischen verschiedenen Teilmengen der Informationsethik mit
+höherem Abstraktionsgrad wie Computerethik, Medienethik und Netzethik und Teil-
+mengen mit konkretem institutionellem Anwendungsbezug, wie die Archiv-, Biblio-
+theks- und der Museumsethik (Rösch 2021, 229). Auf dieser Grundlage weist Rösch Bi-
+bliotheksethik als eigenständige Bereichsethik aus und ordnet diese in die Informati-
+onsethik ein (Rösch 2021, 229).
+
+Für die Bibliotheksethik skizziert Rösch Anforderungen, die sich an eine Berufs-
+ethik stellen. Berufsethiken sind Individualethiken. Sie transferieren die Theorie des
+guten Lebens auf berufliche Tätigkeiten und streben die individuelle Selbstbindung
+an Werte an, auf die sich ein Berufsfeld bestenfalls verständigt (Höffe 2007, 31; Rösch
+2021, 457). Aufgabe von Berufsethiken ist die Entwicklung eines Wertekanons, der
+identitätsstiftend in ein Berufsfeld hineinwirkt und als konsolidiertes Werteverständ-
+nis dem Einzelnen Orientierung gibt, ethisch abgesicherte Entscheidungen zu treffen
+(Rösch 2014, 39; Rösch 2017, 102). Berufsethiken sollen dabei die individuelle Selbstbin-
+dung an Werte bei der Berufsausübung unterstützen und ebenso zur Sozialisation des
+beruflichen Nachwuchses beitragen (Rösch 2014, 40; Rösch 2017, 102). Dabei sendet das
+Berufsethos auch ein Signal an das Umfeld und alle Anspruchsgruppen, die mit dem
+Berufsfeld in Verbindung stehen, indem das Werteverständnis bestenfalls nicht nur in
+der Berufsausübung gelebt wird, sondern auch in Kodizes, Positionspapieren, Mani-
+festen und Stellungnahmen als Leitwerte und Verhaltenserwartungen festgeschrieben
+wird (Rösch 2021, 46–47).
+
+Das konsolidierte Werteverständnis einer Berufsethik ist Basis für Institutionen-
+ethiken. Individual- und Institutionenethik wirken bestenfalls zusammen, indem die
+Institutionenethik in Organisationen die Rahmenbedingungen schafft, in der sich die
+individuelle Wertorientierung entfalten kann (Rösch 2021, 48; s. Kap. 3.2 in diesem Bei-
+trag). In funktionaldifferenzierten Gesellschaften haben Institutionenethiken zwi-
+schen Makro- und Mikroebene auf der Mesoebene dabei eine intermediäre Funktion,
+da sie auf der Makroebene den Sozialraum gestalten und auf der Mikroebene den
+Rahmen für individuelles Handeln setzen (Rösch 2021, 35). Rösch zeigt für das Berufs-
+feld Bibliothek und Information auf, dass es zwar in über 70 Ländern Individualethi-
+ken gibt, Institutionenethiken jedoch nahezu überall fehlen (Rösch 2017, 99; Rösch
+2021, 436).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  33
+
+3.2 Werte im Berufsfeld Bibliothek und Information
+
+Ethikkodizes, Berufsstandards, Positionspapiere, Manifeste und Stellungnahmen legen
+offen, an welchen Werten und Idealen sich ein Berufsfeld ausrichtet (Burgess 2019, 25;
+Rösch 2021, 45, 46). Sie sind ebenso Basis einer Berufsethik, wie fachliche Literatur, die
+sich um ethische Positionierungen bemüht. Wie in ethischen Positionen anderer Pro-
+fessionen auch, findet sich ein zentraler Bezugspunkt in der Wertorientierung von Be-
+rufsethiken in den Menschenrechten, zu denen ein fachlicher Bezug hergestellt wird.
+Das Wertverständnis eines Berufsfeldes unterliegt im Kontext gesellschaftlicher Ent-
+wicklungen jedoch auch einem stetigen Wandel und muss immer wieder neu verhan-
+delt werden (Rösch 2017, 102; Rösch 2021, 60, 61).
+
+Die Internationale Vereinigung bibliothekarischer Verbände und Einrichtungen
+(International Federation of Library Associations and Institutions – IFLA) setzte 1997
+einen gesonderten Ausschuss für den freien Zugang zu Information und Meinungsfrei-
+heit ein (Free Access to Information and Freedom of Expression – FAIFE). Der Aus-
+schuss erarbeitete den IFLA Code of Ethics for Librarians and other Information
+Workers (IFLA 2012), der nach einem Beteiligungsverfahren unter den IFLA-Mitglie-
+dern und auch Externen im August 2012 durch das Governing Board verabschiedet
+wurde. Dieser Code of Ethics wurde in zahlreiche Sprachen übersetzt. In der American
+Library Association (ALA) hat das Committee on Professional Ethics (COPE)2 nach der
+ersten Fassung des Code of Ethics des amerikanischen Bibliotheksverbandes inzwi-
+schen verschiedene revidierte Fassungen erarbeitet, in der Fachwelt diskutiert und
+veröffentlicht. Ein Beispiel dafür, dass auch ethische Grundsatzpapiere niemals starr
+oder gar fertig sein können, sondern dass ein kontinuierlicher Diskurs in der Fachwelt
+stattfinden muss. Ebenso zahlreiche andere Verbände, wie der kanadische Verband
+Canadian Federation for Library Associations,3 oder der Verband des Vereinigten Kö-
+nigreichs Chartered Institute of Library and Information Professionals (CILIP),4 der
+südafrikanischen Verband Library and Information Association of South Africa (LIA-
+SA)5 haben Statements bzw. Frameworks zur ethischen Praxis veröffentlicht. Im
+deutschsprachigen Raum gibt es derzeit die ethischen Grundsätze, die vom Dachver-
+band Bibliothek & Information Deutschland (BID) 2007 und 20176 erarbeitet wurden,
+
+2 S. https://www.ala.org/tools/ethics (Abruf: 20.09.2023).
+3 S. http://cfla-fcab.ca/wp-content/uploads/2019/06/Code-of-ethics.pdf (Abruf: 20.09.2023).
+4 https://www.cilip.org.uk/page/ethics (Abruf: 20.09.2023).
+5 https://www.liasa.org.za/page/code_ethics (Abruf: 20.09.2023).
+6 https://media02.culturebase.org/data/docs-bideutschland/Ethische%20Grundsaetze.pdf (Abruf:
+20.09.2023).
+
+
+
+34  Frauke Schade, Ute Engelkenmeier
+
+sowie den Ethikkodex des Verbands Bibliosuisse (Ethikkodex für alle Mitarbeitenden
+von Bibliotheken und Dokumentationsstellen in der Schweiz 20217). Aktuell arbeitet
+eine Arbeitsgruppe Informationsethik8 in der Vereinigung Österreichischer Bibliothe-
+karinnen und Bibliothekare (vöb) an der Erstellung eines Ethikkodex. FAIFE hat eine
+Zusammenstellung von ethischen Grundsatzpapieren auf ihren Webseiten9 veröffent-
+licht.
+
+Die genannten Positionspapiere zeigen eine hohe Übereinstimmung in der Wert-
+orientierung. So wird das Menschenrecht der Meinungs- und Informationsfreiheit un-
+ter verschiedenen Aspekten von allen Verbänden ebenso geteilt, wie der Schutz der
+Privatheit, der Gleichheitsgrundsatz, Lese- und Bildungsförderung, Nutzer*innen-
+orientierung und Professionalität. Nahezu überwältigend ist in Berufsethiken aller-
+dings die Vielfalt an genannten Werten, die zu einer Verunsicherung und Überforde-
+rung des Einzelnen führen kann. Dies ist jedenfalls ein Ergebnis der Arbeit von Scott
+Young, der die Wertorientierung von Bibliotheksmitarbeitenden im amerikanischen
+Raum untersucht hat (Young 2022). Gerade durch den individualethischen Charakter
+von Berufsethiken ist zudem festzuhalten, dass moralische Werte sich auf Einstellun-
+gen und Haltungen beziehen und eben keine Tätigkeiten, wie zum Beispiel Informati-
+onskompetenzförderung, darstellen. Der Wertbegriff muss für die Bibliotheksethik ge-
+rade deshalb geschärft werden, weil sie den Anspruch hat, eine Berufsethik zu sein.
+Ausgehend von Frankenas Wertdefinition wird daher im Folgenden zwischen morali-
+schen und außermoralischen Werten differenziert (s. Kap. 2 in diesem Beitrag). Fest-
+gestellt werden kann dabei durchweg, dass moralische Werte durch Aufgaben und Tä-
+tigkeiten im Berufsfeld eingelöst werden. Diese werden in der Ethik als außermorali-
+sche Werte bezeichnet. Die Aufstellung ist dabei an moralischen Werten orientiert.
+Außermoralische Wertaspekte werden in der Tabelle dort aufgeführt, wo sie sich am
+ehesten zuordnen lassen. Die Verweise zeigen das Zusammenwirken von Werten auf
+(s. Tab. 1).
+
+7 https://www.bibliosuisse.ch/Portals/0/Inhalte/%C3%9Cber%20uns/Kommissionen/Berufsethik/Ethik-
+kodex.pdf (Abruf: 20.09.2023).
+8 https://voeb-b.at/voeb-kommissionen/ag-informationsethik/ (Abruf: 20.09.2023).
+9 https://www.ifla.org/national-codes-of-ethics-for-librarians-by-countries/ (Abruf: 20.09.2023).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  35
+
+Tab. 1: Moralische und außermoralische Werte im Berufsfeld Bibliothek und Information
+
+Werte im Berufsfeld Bibliothek und Information
+Moralische Werte Außermoralische Werte
+Gerechtigkeit
+– Chancengerechtigkeit – Demokratieförderung
+– Informationsgerechtigkeit – Förderung des Gemeinwohls
+– Nachhaltigkeit → Im Weiteren konkretisiert in den moralischen Werte Freiheit,
+
+Gleichheit, Meinungs- und Informationsfreiheit, Wahrheit und
+Professionalität und ihren außermoralischen Wertaspekten.
+
+Freiheit
+– Unversehrtheit – Schutz der Menschenwürde
+
+– Jugendschutz
+– (informationelle) Selbstbestimmung – Schutz der Privatsphäre
+– Privatheit
+– Geistiges Eigentum – Schutz des Geistigen Eigentums
+
+– Plagiarismusprävention
+– Wahrung der Authentizität und Integrität von Dokumenten
+
+Gleichheit
+– Neutralität – Gleichbehandlung
+
+– Barrierefreiheit
+– Förderung von Diversität, kultureller Vielfalt und des inter-
+
+kulturellen Dialogs
+– Förderung von Integration, Inklusion und Partizipation
+– Gewährleistung von Teilhabe
+– Bildungsförderung
+– Gleiche Bezahlung von Männern und Frauen
+– Verwendung von gendersensibler Sprache
+– Bekämpfung der digitalen Spaltung
+
+Meinungs- und Informationsfreiheit (Kunstfreiheit, Wissenschaftsfreiheit)
+– Neutralität – Informationelle Grundversorgung
+– Transparenz – Zugang zu Information, Wissen und Kultur
+
+– Zugang zu Informations- und Kommunikationstechnik
+– Open Access/Umsetzung von FAIR-Prinzipien (Findable,
+
+Accessible, Interoperable, Reusable)
+– Neutralität
+– Bekämpfung von Zensur
+– Verhinderung der Einflussnahme von Dritten in die
+
+Bestandspolitik
+– Förderung von Forschung und Lehre
+– Überlieferung des kulturellen Erbes
+– Langfristige Nutzbarkeit digitaler Ressourcen
+– Publikumsfreundliche Präsentation von Daten, Information
+
+und Medien
+
+
+
+36  Frauke Schade, Ute Engelkenmeier
+
+Tab. 1: (Fortsetzung)
+
+Werte im Berufsfeld Bibliothek und Information
+Moralische Werte Außermoralische Werte
+Wahrheit
+– Neutralität – Informationsqualität
+– Transparenz – Informationsökologie
+
+– Förderung wissenschaftlicher Integrität und Vertrauens-
+würdigkeit von Forschungsergebnissen
+
+– Plagiarismusprävention
+– Bekämpfung von Desinformation, Fake News und Fake
+
+Science
+– Kommerzfreier Schutzraum
+
+→ Im Weiteren konkretisiert in den moralischen Werten Geistiges
+Eigentum sowie Meinungs- und Informationsfreiheit, Wahrheit
+und Professionalität und ihren außermoralischen Wertaspekten.
+
+Professionalität
+– Integrität
+– Offenheit
+– Dienstleistungs- und Nutzer*innenorientierung
+– Nachhaltigkeit und Ressourcenschutz
+– Verantwortungsbewusster und transparenter Einsatz von
+
+Informationstechnologie, Algorithmen und Künstlicher Intel-
+ligenz
+
+– Weiterentwicklung des Berufsfeldes durch Forschung, Perso-
+nalentwicklung, Vernetzung und Dialog
+→ Konkretisiert in allen moralischen Werten und ihren außermo-
+ralischen Wertaspekten.
+
+Festgestellt werden kann, dass berufsethische Standards aus dem Berufsfeld Biblio-
+thek und Information bisher kaum Aussagen über die persönliche Gewissensfreiheit
+treffen. Die persönliche Gewissensfreiheit stellt ebenso einen moralischen Wert dar,
+der in der bundesdeutschen Verfassung in Artikel 4 garantiert wird (Art. 4 GG). Ledig-
+lich der Ethikkodex des Schweizer Bibliotheksverbandes Bibliosuisse formuliert hier
+eine eindeutige Position, in dem festgestellt wird, dass Mitarbeitende in Bibliotheken
+und Dokumentationsstellen „[…] das Recht auf freie Meinungsäusserung am Arbeits-
+platz [haben], solange dies nicht gegen den Grundsatz der beruflichen Neutralität ge-
+genüber ihren Nutzer*innen verstösst“ (Bibliosuisse 2021, 8).
+
+Das Neutralitätsgebot stützt sich in der Rechtsprechung des Bundesverfassungsge-
+richts (BVerfG) dabei auf die Grundrechte der Gleichheit (Art. 3 GG), der Meinungsfrei-
+heit (Art. 5 GG), der Versammlungsfreiheit (Art. 8 GG), der Vereinigungsfreiheit (Art. 9
+GG), dem Prinzip der Chancengleichheit von Parteien während des Wahlkampfes (Art.
+21 GG) und auf Artikel 38 Absatz 1 des Grundgesetzes (GG), der die Gewissensfreiheit
+von Abgeordneten im Bundestag regelt (Payandeh 2016: 521). Neutralität bedeutet für
+Mitarbeitende in Bibliotheken u. a., sich vor allem für die Vielfalt an gesellschaftli-
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  37
+
+chen, kulturellen, politischen und weltanschaulichen Wertvorstellungen einzusetzen,
+die kennzeichnend für den Pluralismus einer demokratischen Grundordnung sind.
+
+4 Medien an den Rändern
+Medien an den Rändern sind sogenannte umstrittene Werke. Der Dachverband Biblio-
+thek & Information Deutschland (BID) und der Landesverband Niedersachsen im
+Deutschen Bibliotheksverband (dbv) definieren umstrittene Werke in ihrem Positions-
+papier als Medien, „[…] die kontroverse gesellschaftliche Debatten auslösen sowie
+ethische und juristische Fragen aufwerfen“ (BID 2016, 1). Der Begriff Medien an den
+Rändern leitet sich dabei aus dem sogenannten Hufeisenmodell ab, das aufgrund sei-
+ner vereinfachten Darstellung umstritten ist, weil das politisch rechte und linke Spek-
+trum nur ungenau abgebildet werden. Anhand der Achse von links bis rechts sowie
+der Achse von demokratisch bis antidemokratisch lässt sich mit diesem Modell das po-
+litische Spektrum jedoch schematisch aufzeigen (Pfahl-Traughber 2020, o. S.).
+
+Zu klären ist in diesem Beitrag, was diese Ränder konkret charakterisiert. Im Fol-
+genden wird zunächst Extremismus in seinen zentralen Merkmalen dargestellt und
+von radikalen und konservativen Positionen abgegrenzt. Dabei wird auch auf die rhe-
+torische Praxis von Populismus und Propaganda eingegangen.
+
+4.1 Die Ränder
+
+Extremismus ist ein Sammelbegriff für politische, weltanschauliche oder religiöse
+Strömungen, die antidemokratisch sind (Grantz 2020, 8). Eine Negativdefinition ergibt
+sich daraus, dass Extremismus den Gegenpol zu Demokratie bildet. Für eine Demokra-
+tie werden Volkssouveränität, Menschenwürde, demokratische Prinzipien und Rechts-
+staatlichkeit allgemein als Minimalbedingungen angesehen. Diese Minimalbedingun-
+gen werden von Extremist*innen abgelehnt (Grantz 2020, 9).
+
+Neben der Ablehnung der Rechtsstaatlichkeit des bestehenden Systems und sei-
+nen demokratischen Prinzipien ist für extremistische Strömungen ein exklusiver und
+dogmatischer Absolutheitsanspruch der eigenen Ideologie konstitutiv. Aus dem Inter-
+pretationsmonopol der eigenen Ideologie wird ein Herrschaftsanspruch und die Legi-
+timation zur totalen Steuerung der Gesellschaft abgeleitet (Pfahl-Traughber 2007, 18,
+23–24, 27 zit. n. Grantz 2020, 10, 11). Die identitären Gesellschaftskonzeptionen sind da-
+bei geprägt von politischer, weltanschaulicher und/oder religiöser Homogenität, in
+der sich der Einzelne in ein Kollektiv einordnet und einer Führungsriege unterordnet
+(Pfahl-Traughber 2007, 27 zit. n. Grantz 2020, 10, 11). Das Beharren auf festen politi-
+schen, weltanschaulichen oder religiösen Dogmen wird auch als Fundamentalismus
+bezeichnet (Schubert und Klein 2020, o. S.). Referenzpunkt für die Unterscheidung von
+
+
+
+38  Frauke Schade, Ute Engelkenmeier
+
+politisch rechten und linken Extremismus ist die Gleichheit bzw. Ungleichheit von
+Menschen. Während rechter Extremismus von ethnischer und kultureller Ungleich-
+heit von Ethnien und Kulturen ausgeht, aus dem der Herrschaftsanspruch einer ver-
+meintlichen Elite begründet wird, propagiert linker Extremismus kollektive Homoge-
+nität, die in einer herrschaftsfreien kommunistischen und/oder anarchistischen Ge-
+sellschaft mündet (BMI 2021, 122; Schubert und Klein 2020, o. S.).
+
+Kennzeichnend für religiösen Extremismus ist, dass heilige Schriften, wie die Bi-
+bel, der Koran oder die Tora alleiniger Maßstab zur Bewertung und Lösung von sozia-
+len, wirtschaftlichen und politischen Problemen angesehen werden, wobei eine „[…]
+historisch-kritische Exegese […]“ abgelehnt wird (Rösch 2021, 268; Schubert und Klein
+2020, o. S.). In Deutschland spielt vor allem Islamismus eine Rolle, der vom Bundesmi-
+nisterium des Innern und für Heimat (BMI) in den politischen Extremismus eingeord-
+net wird (BMI 2021, 176). Unter Berufung auf die von Allah gewollte Ordnung des Is-
+lam, zielt Islamismus auf die „[…] teilweise oder vollständige Abschaffung der demo-
+kratischen Grundordnung […]“ Deutschlands ab (BMI 2021, 176). Zum islamistischen
+Spektrum gehören jihadistische Gruppierungen, wie der Islamische Staat (IS), terroris-
+tische Organisationen, wie die HAMAS, und legalistische Strömungen wie die „Millî
+Görüş“-Bewegung, die versucht, eine islamkonforme Ordnung durchzusetzen. Die ra-
+dikalste Variante des Islamismus ist der Salafismus. Salafist*innen richten Denken
+und Handeln vollständig am Koran aus und beanspruchen für sich exklusiv, die einzig
+‚wahren‘ Muslim*innen zu sein (BMI 2021, 176, 177).
+
+Auf der Achse von demokratisch bis antidemokratisch markieren extremistische
+Positionen jedoch immer nur den äußersten politischen Rand und sind von radikalen
+und konservativen Positionen des demokratischen Spektrums abzugrenzen. Maßgeb-
+lich für die Extremismusintensivität ist, wie viele demokratische Prinzipien abgelehnt
+werden. Bei der Bewertung und Einordnung spielen die Rigidität ideologischer Vorstel-
+lungen, die Schärfe der Gesellschaftskritik und die Kompromisslosigkeit bei Lösungs-
+vorschlägen eine zentrale Rolle. Radikale Positionen unterscheiden sich dabei von ex-
+tremistischen Positionen dadurch, dass demokratische Prinzipien nicht absolut abge-
+lehnt und der Verfassungsstaat nicht vollständig beseitigt werden soll. Grenzen und
+Grauzonen sind fließend und häufig nicht eindeutig bestimmbar (Grantz 2020, 16).
+
+Extremismus bzw. Fundamentalismus stellt die radikalste Form von Identitätspo-
+litik dar. Identitätspolitik bezeichnet den Konflikt zwischen gesellschaftlichen Grup-
+pen, die sich aus der Mehrheitsgesellschaft aufgrund von bestimmten Merkmalen und
+Einstellungen ausgeschlossen und marginalisiert fühlen (Schorkopf 2023, o. S.). Sie be-
+zieht ihre Kraft aus der Identifikation mit einer Ideologie, wobei alle anderen Positio-
+nen kategorisch abgelehnt werden (Kastner und Susemichel 2019, 11). Ausgeprägt ist
+das Denken in Freund-Feind-Stereotypen sowie die Polarisierung von Gut und Böse
+(Pfahl-Traughber 2007, 28–29, 35 zit. n. Grantz 2020, 11).
+
+Untrennbar mit Identitätspolitik ist die rhetorische Praxis des Populismus sowie
+die Agitation durch Propaganda verbunden. Populismus ist – wie Extremismus – ein
+Relationsbegriff, der erst dann Substanz erhält, wenn er – hier ideologisch – ausgefüllt
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  39
+
+wird (Priester 2012, 3). Populist*innen sind dabei häufig charismatische Führungsfigu-
+ren, die sich als Stimme des Volkes verstehen und sich gegenüber einer vermeintlich
+korrupten, eigennützigen und arroganten Führungselite auflehnen (Grantz 2020, 35).
+Charakteristische Merkmale des Populismus sind die ‚moralische‘ Aufladung von poli-
+tischen Themen, die Konstruktion von Feindbildern sowie der Antagonismus von Volk
+und Führung (Priester 2012, 5,7; Grantz 2020, 35). Als Stilmittel werden Techniken des
+Framings eingesetzt, indem Botschaften so formuliert werden, dass sie an persönliche
+Erfahrungen von Rezipient*innen anknüpfen, schnell gelernt werden können und für
+komplexe Sachverhalte einfache Erklärungen und Lösungen liefern (Huck-Sandhu
+2015, 657). Dazu gehören Common-Sense-Argumente, die Emotionalisierung von Bot-
+schaften, das Schüren von Ängsten, die Verwendung von Metaphern, das Auslassen
+von Fakten durch eine starke Vereinfachung von Inhalten sowie Provokationen und
+Tabubrüche (Grantz 2020, 35). Dabei zeigt populistische Rhetorik in einem zeitgemä-
+ßen Verständnis eine hohe Überschneidung mit Propaganda, die jedoch in der Regel
+medienvermittelt erfolgt (Zurstiege 2016, 148).
+
+Zusammenfassend kann festgehalten werden, dass von linken, wie von religiös
+motivierten Extremismen laut Verfassungsschutzbericht 2021 zwar ein erhebliches Ge-
+fährdungspotenzial ausgeht (BMI 2021, 121, 176), dieses im Diskurs um umstrittene
+Werke bzw. Medien an den Rändern sich bisher allerdings nicht widerspiegelt – im
+Gegensatz zur Diskussion um Medien am politisch rechten Rand. Linksextremist*in-
+nen agitierten während der Corona-Pandemie vor allem gegen staatliche Repression
+durch die Maßnahmen zum Bevölkerungsschutz und nehmen aktuell Einfluss auf ge-
+sellschaftliche Diskurse durch Protestaktionen zum Klimawandel, der Mobilitätswen-
+de und zur Gentrifizierung (BMI 2021, 122, 123). Vertreter*innen des Islamismus bedie-
+nen sich überwiegend sozialer Medien, um Propaganda zu verbreiten und Anhän-
+ger*innen zu rekrutieren (BMI 2021, 177).
+
+4.2 Medien am politisch rechten Rand
+
+Extremistische, radikale und konservative Strömungen im politisch rechten Spektrum
+sind in Organisationsformen und ideologischer Programmatik vielfältig und disparat.
+Zu den Vertretern gehören Parteien, wie die Nationaldemokratische Partei Deutsch-
+lands (NPD), die Alternative für Deutschland (AfD) oder der III. Weg, rechtsextreme
+Organisationen und Strömungen, wie die Identitäre Bewegung (IB), die Neue Rechte
+oder die Reichsbürger*innen, völkische Vereinigungen oder terroristische Zusammen-
+schlüsse, wie der Nationalsozialistische Untergrund (NSU) (Grantz 2020, 22, 23).
+
+Nährboden rechter Programmatiken ist bei allen Unterschieden jedoch faschisti-
+sches und antisemitisches Gedankengut. Die Ungleichheit von Ethnien wird als natur-
+gegeben angenommen, woraus ein Führungsanspruch einer vermeintlichen Elite ab-
+geleitet wird. Eine Durchmischung von Ethnien und Kulturen wird ebenso abgelehnt,
+wie liberaler Wertepluralismus oder demokratische Staatsformen. Feindbilder ent-
+
+
+
+40  Frauke Schade, Ute Engelkenmeier
+
+zünden sich an Andersdenkenden, fremden Kulturen und/oder an sexuellen Orientie-
+rungen und Geschlechteridentitäten, die nicht heteronormativ sind (Grantz 2020, 22,
+23).
+
+Ausgehend vom antidemokratischen Rechtsextremismus fächert sich das rechte
+Spektrum in rechtsradikale und rechtskonservative Positionierungen auf, wobei die
+Grenzen fließend und häufig nicht eindeutig bestimmbar sind. Für die Einordnung
+der Radikalisierung ausschlaggebend ist das Maß der Demokratiefeindlichkeit und die
+Ausgeprägtheit von Homogenitätsvorstellungen. Während rechtsextreme Positionen
+anhand ihrer maximalen Systemfeindlichkeit gegenüber demokratischer Rechtsstaat-
+lichkeit enttarnt werden können, erweist sich die Unterscheidung von rechtsradikalen
+und rechtskonservativen Positionen als besonders herausfordernd. Deutlich wird dies
+zum Beispiel anhand von Migrationsthemen. Während im Rechtsradikalismus Migra-
+tion kategorisch abgelehnt wird, wägen Rechtskonservative die Assimilierbarkeit von
+Menschen und Bevölkerungsgruppen aus anderen Kulturkreisen ab, wobei unbe-
+stimmt bleibt, woran das jeweils konkret festgemacht wird (Grantz 2020, 29).
+
+Die Neue Rechte grenzt sich von nationalsozialistischen Strömungen der Alten
+Rechten insofern ab, dass Ungleichheit nicht mehr rassistisch, sondern ethnisch be-
+gründet wird. Als Ursache für den Kulturverfall wird dabei unter anderem die Durch-
+mischung von Ethnien gesehen (Grantz 2020, 27). Zu den charakteristischen Merkma-
+len der Neuen Rechten gehören unter anderem die Intellektualisierung rechten Ge-
+dankenguts und die rhetorische Praxis des Populismus (s. Kap. 3.1 in diesem Beitrag).
+Rechtspopulismus richtet sich einerseits gegen (regierende) Eliten und versteht sich
+als Stimme des Volkes, andererseits grenzt er all jene aus, die nicht zur eigenen Ethnie
+gehören, in Deutschland vornehmlich Menschen mit Migrationshintergrund, Jüd*in-
+nen sowie Menschen, die sich im Sinne einer Anwaltschaft für eine multikulturelle
+Gesellschaft einsetzen (Diehl 2016, 19; s. Kap. 3.1 in diesem Beitrag). Die Neue Rechte
+sucht eine Positionierung rechts des konservativen Meinungsspektrums, wobei der ra-
+dikale bis extremistische Rand nicht konkret bestimmbar ist (Speit 2017; Grantz 2020,
+29).
+
+Rechtes Gedankengut wird in Publikumsverlagen, wie der Deutschen Verlagsan-
+stalt (DVA), aber auch in explizit rechten Verlagen, wie dem Hohenrain Verlag, dem
+Kopp Verlag, der Deutschen Stimme oder dem Verlag Antaios veröffentlicht (BPB o. J.).
+Diese Werke finden ihren Weg in die Bibliotheken im Rahmen der Pflichtabgabe für
+Bibliotheken mit Sammlungsauftrag, als Gegenstand von Lehre und Forschung Wis-
+senschaftlicher Bibliotheken sowie als Bestseller, Leser*innenwunsch, zur Meinungs-
+bildung und Aufklärung in Öffentlichen Bibliotheken. Darüber hinaus gibt es insbe-
+sondere in Wissenschaftlichen Bibliotheken Altbestände nationalsozialistischer Litera-
+tur (Rösch 2018: 774).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  41
+
+4.3 Ethische Einordnung von Medien an den Rändern
+
+Da insbesondere Extremismen die demokratische Verfassung konsequent ablehnen,
+werden folglich sämtliche demokratischen Werte in Frage gestellt. Der Wert der Mei-
+nungs- und Informationsfreiheit, denen sich Bibliotheken insbesondere durch das Plu-
+ralismus- und das Neutralitätsgebot verpflichtet fühlen, konfligiert hier mit weiteren
+moralischen Werten. Ein Wertkonflikt mit dem Gleichbehandlungsgrundsatz und dem
+Gebot der Menschenwürde ergibt sich, wenn Einzelne oder Bevölkerungsgruppen her-
+abgewürdigt werden. Gleiches gilt für den Wert der Freiheit, wenn zudem Persönlich-
+keitsrechte verletzt werden, Gewaltverherrlichung die geistige und körperliche Unver-
+sehrtheit von Menschen in Frage stellt, Jugendliche nach dem Jugendschutzgesetz ge-
+fährdet werden oder die demokratische Staatsform als solche bedroht wird. Eine
+grundlegende Orientierung gibt immer die Würde des Menschen. Der Wert der Wahr-
+heit wird dann tangiert, wenn im Rahmen von populistischer bzw. propagandistischer
+Identitätspolitik Falschinformation verbreitet oder gezielt auf Desinformation gesetzt
+wird, um die Bevölkerung zu verunsichern oder von politischen, religiösen und/oder
+weltanschaulichen Ideen zu überzeugen. Der intensive und vehement geführte Dis-
+kurs über die Erwerbung und Bereitstellung von Werken insbesondere im rechten
+Meinungsspektrum zeigt zudem, dass der Wert der Professionalität sowie das Neutra-
+litätsgebot mit dem Wert der Glaubens-, Bekenntnis- und Gewissensfreiheit sowie der
+persönlichen Meinungsfreiheit im Berufsfeld konfligiert.
+
+4.4 Rechtliche Schranken für Medien an den Rändern
+
+Der Umgang mit Medien an den Rändern in Bibliotheken unterliegt rechtlichen
+Schranken. Zudem sind Bibliotheken dann gefragt, wenn es darum geht, sich gemäß
+ihrer berufsethischen Standards für demokratische Werte einzusetzen.
+
+Der Schutz der freiheitlich-demokratischen Grundordnung ist jedoch in erster Li-
+nie Aufgabe des Verfassungsschutzes. Das Bundesamt für Verfassungsschutz (BfV) so-
+wie die Landesbehörden des Verfassungsschutzes gehören als Inlands-Geheimdienst,
+neben dem Bundesnachrichtendienst (BND) und dem Militärischen Abschirmdienst
+(MAD), zu den drei Nachrichtendiensten der Bundesrepublik Deutschland. Dieser Ver-
+fassungsschutzverbund versteht sich als „[…] Frühwarnsystem […]“ zum Schutz des
+demokratischen Gemeinwesens (BMI 2022, 16). Zur Gefahrenabwehr übermittelt der
+Verfassungsschutzverbund seine Erkenntnisse und Analysen an die Bundes- und Lan-
+desregierungen sowie an Staatsanwaltschaften und Polizeibehörden, um legislative
+und/oder exekutive Maßnahmen einzuleiten und zu unterstützen (BMI 2021, 16, 17).
+Unter Beobachtung des Verfassungsschutzes steht laut Verfassungsschutzbericht des
+Bundesamtes für Inneres und Heimat (BMI) 2021 bspw. im rechtsextremen Spektrum
+die Nationalsozialistische Partei Deutschland (NPD), Der III. Weg oder das COMPACT-
+Magazin; im linksextremen Spektrum die Rote Hilfe, die Deutsche Kommunistische
+
+
+
+42  Frauke Schade, Ute Engelkenmeier
+
+Partei (DKP) sowie die Sozialistische Gleichheitspartei (SGP); im religiösen Extremis-
+mus bspw. der Islamische Staat (IS), die Deutsche Muslimische Gemeinschaft (DMG)
+oder das Islamische Zentrum Hamburgs (IZH) (BMI 2022, 92–99, 165–174, 206–225).
+
+Die Erwerbung, Verzeichnung und Bereitstellung extremistischer Werke unterlie-
+gen zudem einer Reihe von rechtlichen Schranken. Die Verbreitung und Verwendung
+verfassungsfeindlicher Symbole ist nach § 86 und § 86a des Strafgesetzbuches (StGB)
+verboten (§ 86, § 86a StGB). Zudem ist die Verbreitung von Werken verboten, die zum
+Angriffskrieg aufrufen, religiöse Bekenntnisse sowie die Verfassung und Staatsorgane
+verunglimpfen (§ 80a, § 90a, § 90b, § 103 StGB). Die genannten Paragraphen werden
+durch den sogenannten Volksverhetzungsparagraphen gestützt und ergänzt (§ 130
+StGB). Demnach ist es zudem untersagt, Schriften zu beziehen, bereitzustellen, zu be-
+werben und zu verbreiten, die Hass gegen Teile der Bevölkerung schüren, zu Gewalt-
+und Willkürhandlungen gegen Personen und/oder Bevölkerungsgruppen sowie zu
+Straftaten aufrufen oder die Menschenwürde durch Beschimpfungen und Verleum-
+dungen verletzten (§ 130 StGB, Upmeier 2015, 702). Selbstredend ist, dass auch der Ver-
+fassungsschutz diese Maßstäbe zugrunde legt. Die genannten Rechtsgrundlagen gelten
+allerdings nicht, wenn extremistische Werke der Forschung, zur „[…] staatsbürgerli-
+chen Aufklärung […]“ oder Berichterstattung dienen (Upmeier 2015, 761). Nach einer
+Entscheidung des Bundesgerichtshofes (BGH) sind zudem Werke aus dem Dritten
+Reich von dem Erwerbungs- und Verbreitungsgebot ausgenommen, da sie vorkonsti-
+tutionelle Schriften darstellen, die vor Gründung der Bundesrepublik Deutschland im
+Mai 1949 erschienen sind (Upmeier 2015, 761). Im Ergebnis kann festgehalten werden,
+dass extremistische Werke zu Forschungszwecken, staatsbürgerlichen Aufklärung, Be-
+richterstattung und im Rahmen der Pflichtabgabe im juristischen Sinne erworben
+werden können und die Bereitstellung nach strengen Auflagen erfolgt. Um extremisti-
+sche Werke rechtssicher bereitzustellen empfiehlt Upmeier, diese nicht auszuleihen,
+sondern Nutzer*innen unter Aufsicht vor Ort in einem Sonderlesesaal zur Verfügung
+zu stellen, wobei eine Erklärung zur Nutzung gemäß § 86 Abs. 3 StGB unterschrieben
+wird und sichergestellt ist, dass die Nutzenden nicht minderjährig sind. Bei Studieren-
+den empfiehlt Upmeier zusätzlich die Bestätigung des Forschungsprojekts durch die
+betreuenden Professor*innen (Upmeier 2015, 783)10.
+
+5 Ethische Bewertung von Medien am politisch
+rechten Rand
+
+Der Diskurs über den Umgang mit Medien an den Rändern wird in der Fachcommu-
+nity vehement und hitzig geführt. Medien an den Rändern stellen sich für Bibliotheks-
+
+10 https://www.gesetze-im-internet.de/stgb/ (Abruf: 20.09.2023).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  43
+
+mitarbeitende häufig als Dilemma dar. Im Folgenden aufgezeigt, was ein ethisches Di-
+lemma ist und wie es ethisch bewertet werden kann. Auf dieser Grundlage werden
+zwei Fallbeispiele diskutiert.
+
+5.1 Dilemmata
+
+In der Ethik steht das Dilemma sprichwörtlich für eine Zwickmühle, bei der zwischen
+zwei Handlungsalternativen entschieden werden muss, ohne dass es eine zufrieden-
+stellende Lösung für alle Beteiligten gibt. Mindestens einer Forderung kann dabei
+nicht entsprochen werden (Brune 2011, 331; Besenkemper 2015, 179; Regenbogen und
+Meyer 2013, 151, 152; Rösch 2021, 29). Zeigen sich in einer Entscheidungssituation mehr
+als zwei Handlungsalternativen, die nicht zu einer zufriedenstellenden Gesamtlösung
+führen, bezeichnet man dies als Tri-, Tetra- oder Polylemma (Regenbogen und Meyer
+2013, 152).
+
+Damit eine Entscheidungssituation als Dilemma klassifiziert werden kann, müs-
+sen fünf Bedingungen erfüllt sein:
+
+1. Mindestens zwei Handlungsoptionen schließen sich aus;
+2. Die Handlungsoptionen beruhen jeweils auf gleichberechtigten Forderungen, die miteinan-
+
+der konfligieren;
+3. Die Zwangslage wurde nicht selbst verursacht;
+4. Der [sic!] Handelnde verfügt über die Kompetenzen und den Handlungsspielraum, die Ent-
+
+scheidung in der dilemmatischen Situation zu treffen;
+5. Das Dilemma lässt sich nicht zufriedenstellend für alle Beteiligten lösen. Mindestens einer
+
+Forderung kann dabei nicht entsprochen werden (Sellmaier 2011, 50 f. zit. n. Besenkemper
+2015, 179).
+
+Insgesamt gilt für Di-, Tri-, Tetra- und Polylemma immer, dass Wertebezüge und Inter-
+essenslagen aller Beteiligten offengelegt werden müssen, um die „Zwickmühlen“ ob-
+jektiv zu bewerten und eine Entscheidung treffen zu können.
+
+Dilemmata liegen unterschiedliche Konflikte zugrunde, die Brune folgenderma-
+ßen zusammenfasst:
+– Allgemeine Grundrechte konfligieren;
+– Nutzenerwägungen konfligieren;
+– Verpflichtungen gegenüber Dritten konfligieren;
+– Werte nicht ethischer Art konfligieren;
+– Eigeninteressen konfligieren (Brune 2011, 333).
+
+Dementsprechend unterscheidet man ethische Dilemmata und instrumentelle Dilem-
+mata, zu denen auch strategische Dilemmata gehören (s. hier Beitrag Wimmer „Neu-
+tralität als konstitutives Dilemma der Öffentlichen Bibliothek“).
+
+
+
+44  Frauke Schade, Ute Engelkenmeier
+
+Ethische Dilemmata liegen vor, wenn moralische Werte tangiert werden. Im Be-
+rufsfeld von Bibliothek und Information entzünden sich moralische Dilemmata dabei
+an Wertkonflikten zwischen den moralischen Werten von Freiheit, Gleichheit, Wahr-
+heit, Professionalität sowie Meinungs- und Informationsfreiheit und den (außermora-
+lischen) Wertaspekten, die diesen Werten zugeordnet sind (s. Kap. 2 in diesem Beitrag
+S. 27–30).
+
+Ein ethisches Dilemma liegt nicht vor, wenn ethische Forderungen mit den Eigen-
+interessen von Beteiligten konfligieren (Besenkemper 2015, 180). Zudem sind Dilem-
+mata von Konflikten abzugrenzen. Die Unterscheidung von Dilemma und Konflikt
+stellt Rösch folgendermaßen dar: „Konflikte treten auf, sobald spezifische Interessen
+und damit kollidierende Wertorientierung eine einvernehmliche Lösung ausschlie-
+ßen“ (2021, 29).
+
+Als Beispiel führt Rösch einen fundamentalistischen Anhänger einer Religionsge-
+meinschaft an, der eine Bibliothek dazu auffordert, alle Werke aus dem Bestand zu
+entfernen, die dem Glauben dieser Religion widersprechen. Das Eigeninteresse des Re-
+ligionsanhängers konfligiert hier mit dem moralischen Wert der Meinungs- und Infor-
+mationsfreiheit einer Bibliothek in einem Land mit demokratischer Verfassung. Das
+Ansinnen auf Zensur des Fundamentalisten muss in diesem Kontext zurückgewiesen
+werden. Damit kann dieser Konflikt zumindest in Deutschland eindeutig gelöst wer-
+den und es besteht keine Zwangslage (Rösch 2021, 29).
+
+Im Folgenden werden zwei Fallbeispiele diskutiert, die aufzeigen, wie herausfor-
+dernd das Treffen von moralischen Entscheidungen im Berufsfeld von Bibliothek und
+Information sind. Die Anforderungen, die sich an ein Dilemma stellen werden dabei
+anhand der ersten Fallbeschreibung aufgezeigt.
+
+5.2 Deutschland schafft sich ab von Thilo Sarrazin
+
+5.2.1 Fallbeschreibung und ethische Einordnung
+
+Einem Benutzungswunsch entsprechend steht eine Lektorin einer Öffentlichen Biblio-
+thek 2011 vor der Entscheidung, das Buch Deutschland schafft sich ab. Wie wir unser
+Land aufs Spiel setzen von Thilo Sarrazin zu erwerben und dem Benutzungswunsch
+zu entsprechen (Handlungsalternative A) oder den Kauf abzulehnen (Handlungsalter-
+native B).
+
+Das Buch des ehemaligen Berliner Finanzsenators aus der SPD-Fraktion und Vor-
+standsmitglied der Deutschen Bundesbank (DBB) wurde 2010 von der Deutschen Ver-
+lagsanstalt (DVA) veröffentlicht. Sarrazin diskutiert darin Thesen, die aufzeigen sollen,
+welche Auswirkungen Bildungspolitik, demografischer Wandel, Migration vornehm-
+lich islamischer Herkunft und Genetik auf Deutschland haben. Dabei setzt er gezielt
+auf Polemik und Tabubrüche (Speit 2016, 12; Abmeier 2016, 42; Schröder und Milden-
+berger 2016, 42; Littau 2022, 194). Tabubrüche beziehen sich beispielsweise darauf,
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  45
+
+dass Bevölkerungsgruppen bereits im Vorfeld der Veröffentlichung als „Produzenten
+von Kopftuchmädchen“ bezeichnet werden (Diehl 2016, 20). Das Werk ist rechtspopu-
+listisch orientiert und bekam breiten Zuspruch aus dem rechten Meinungsspektrum,
+aber auch aus der Mitte der breiteren Bevölkerung (Diehl 2016; s. Kap. 4.2 in diesem
+Beitrag). Eine Befragung des Marktforschungsunternehmen TNS Infratest Forschung
+zeigte bereits vor Veröffentlichung des Buches, dass zwei Drittel der Bevölkerung Sar-
+razins Thesen zur Zuwanderungs- und Integrationspolitik zustimmen. Jeder sechste
+stimmte vollumfänglich zu (Littau 2022: 186).11 Das Buch sorgte auch in den Medien
+für eine hitzige Debatte und stand wochenlang auf der Bestsellerliste (Littau 2022,
+188). Sarrazins Positionen führten dazu, dass er von seinem Vorstandsamt bei der
+Deutschen Bundesbank (DBB) entbunden wurde. Für den hier diskutierten Zeitraum
+weniger relevant ist, dass er 2020 von der SPD aufgrund seiner politischen Positionen
+ausgeschlossen wurde (Littau 2022, 188).12
+
+5.2.2 Einordnung als Dilemma und Fallanalyse
+
+Als ausgebildete Bibliothekarin verfügt die Lektorin in einer Öffentlichen Bibliothek
+weitgehend über die Kompetenzen als auch über die Handlungsfreiheit, diese Erwer-
+bungsentscheidung zu treffen. Gleichermaßen wird anhand der fachwissenschaftli-
+chen Debatte deutlich, wie herausfordernd die Einordnung von Werken ist, bei dem
+breites Expert*innenwissen eigentlich erforderlich ist. Die Erwerbungsentscheidung
+wurde von außen an sie herangetragen und nicht von ihr selbst herbeigeführt. Ange-
+merkt werden muss hier, dass Lektor*innen in Bibliotheken keinen Einfluss darauf
+haben, welche Literatur auf dem Buchmarkt erscheint, weshalb alle Erwerbungsent-
+scheidungen, die zu Zwangslagen führen, als von außen herbeigeführt betrachtet wer-
+den können. Zudem handelt es sich bei diesem Werk um einen Bestseller.
+
+Handlungsalternative A beruht auf dem moralischen Wert der Meinungs- und In-
+formationsfreiheit (Art. 5 GG), dem die Aspekte der Neutralität und Abwehr von Zen-
+sur zugeordnet sind. Zudem wird hier der moralische Wert der Professionalität adres-
+siert, da in der Erfüllung von Benutzer*innen-Wünschen Dienstleistungs- bzw. Nut-
+zer*innenorientierung zum Ausdruck kommt.
+
+Handlungsalternative B beruht auf den moralischen Werten der Menschenwürde
+(Art. 1 GG), Freiheit (Art. 2 GG) und Gleichheit (Art. 3 GG), die die Diskriminierung von
+Bevölkerungsgruppen ausschließen. Zudem kommt der moralische Wert der Gewis-
+sensfreiheit (Art. 4 GG) sowie das Neutralitätsgebot ins Spiel. Die wissenschaftliche Re-
+
+11 S. https://de.statista.com/statistik/daten/studie/169286/umfrage/meinung-zu-den-thesen-von-thilo-
+sarrazin/ (Abruf: 20.09.2023).
+12 https://de.wikipedia.org/wiki/Deutschland_schafft_sich_ab#:~:text=Sarrazin%20besch%C3%A4ftigt%
+20sich%20darin%20mit,%C3%BCberwiegend%20muslimischen%20L%C3%A4ndern%20ergeben%
+20werden (Abruf: 20.09.2023).
+
+
+
+46  Frauke Schade, Ute Engelkenmeier
+
+zeption des Werkes, an dem sich Politikwissenschaftler*innen, Genetiker*innen, Psy-
+cholog*innen, Migrationsforscher*innen, Jurist*innen und Ökonom*innen abgearbei-
+tet haben, zeigt, dass mindestens Zweifel am Wahrheitsgehalt der Schrift bestehen.13
+
+Insgesamt konfligieren in dieser ethischen Entscheidungssituation die morali-
+schen Werte der Menschenwürde (Art. 1 GG), Freiheit (Art. 2 GG), Gleichheit (Art. 3 GG)
+sowie der Meinungs- und Informationsfreiheit (Art. 5 GG). Es handelt sich also um ein
+echtes ethisches Dilemma und es handelt sich um ein konstitutives Dilemma, wie es
+Ulla Wimmer in ihrem Beitrag adressiert (s. Beitrag Wimmer: „Neutralität als konsti-
+tutives Dilemma der Öffentlichen Bibliothek“ in diesem Band). Die moralischen Werte
+Wahrheit und Professionalität würden nachrangig betrachtet werden, da diese Forde-
+rungen nicht gleichberechtigt sind mit den genannten Menschenrechten sind. Unter
+diesen Prämissen lässt sich das Dilemma nicht auflösen, ohne dass einer dieser mora-
+lischen Werte verletzt wird.
+
+Bei der ethischen Bewertung konfligierender Menschenrechte bietet die Würde
+des Menschen eine grundlegende Orientierung (Abmeier 2016, 37). Die Herabwürdi-
+gung von Bevölkerungsgruppen sowie menschenverachtende Äußerungen sind mora-
+lisch und ethisch nicht akzeptabel (Schröder und Mildenberger 2016, 42). Abmeier
+stellt in Bezug auf Sarrazins Veröffentlichung fest:
+
+Die Schranke der Meinungsfreiheit misst sich daran, wie sie einzelnen Menschen und Gruppen
+dient, Lebenschancen wahrzunehmen und ein menschenwürdiges Leben zu führen, und wann
+sie die Rechte anderer verletzt – sei es durch Herabwürdigung, öffentliche Bloßstellung, Demüti-
+gung oder durch (bewusste) Falschdarstellung […]. (Abmeier 2016, 38)
+
+Diese grundsätzliche Orientierung an der Würde des Menschen bedeutet jedoch nicht
+zwangsläufig, dass der Titel nicht erworben wird. Informationsfreiheit stellt ebenfalls
+ein demokratisches Gut dar. Der Wert ist grundlegend für den Auftrag von Bibliothe-
+ken und zentral als berufsethischer Wert. Ein charakteristisches Merkmal von Men-
+schenrechten ist, dass sie in Summe nicht teilbar sind, was bedeutet, dass sie nicht
+gegeneinander aufgewogen werden können. In diesem Fall geht es darum, wie die
+Verletzung von Menschenrechten bemerkt, markiert und eingeordnet wird (s. Kap. 1,
+Kap. 3.3 u. Kap. 3.4 in diesem Beitrag).
+
+In der Abwägung von Werten wird bei ethischen Entscheidungen häufig ein Aus-
+gleich angestrebt. Bei umstrittenen Werken kommt das durch die Strategie der Kon-
+textualisierung zum Ausdruck. Dabei können Medien an den Rändern im Rahmen der
+Erwerbung und Bestandspräsentation durch Werke kontextualisiert werden, die sich
+kritisch mit diesen Positionen auseinandersetzen (enge Kontextualisierung) (Grantz
+2020, 115, 116). Nutzenden „[…] soll es dadurch erleichtert werden, rechte Ideologeme
+zu dekonstruieren, dass auch die Publikationen und Stellungnahmen bereitgestellt
+
+13 https://de.wikipedia.org/wiki/Deutschland_schafft_sich_ab#:~:text=Sarrazin%20besch%C3%A4ftigt%
+20sich%20darin%20mit,%C3%BCberwiegend%20muslimischen%20L%C3%A4ndern%20ergeben%
+20werden (Abruf: 20.09.2023).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  47
+
+werden, die sich kritisch darauf beziehen und fragwürdige, verzerrende und falsche
+Aussagen widerlegen“ (Rösch 2018, 778). Die Aufklärung der Bevölkerung ist auch
+rechtlich durchaus gewollt (s. Kap. 4. 4 in diesem Beitrag). Programmarbeit zur politi-
+schen Bildung, Meinungsbildung und Demokratieförderung, zur Informations- und
+Medienkompetenzförderung ermöglichen es gerade bei gesellschaftlichen Kontrover-
+sen für demokratische und berufsethische Werte einzutreten (weite Kontextualisie-
+rung) (Rösch 2018, 778, 779; Grantz 2020, 117). Selbstredend ist, dass Kontextualisierung
+abhängig von der Bibliotheksgröße mehr oder weniger leistbar ist. Werke, die politi-
+sche Positionen exemplarisch aufzeigen, sollten jedoch in jeder Öffentlichen Biblio-
+thek vorhanden sein oder über den Leihverkehr beschafft werden können (Grantz
+2020, 59).
+
+Nicht legitim ist es, Meinungsvielfalt und Meinungsbildung durch eine einseitige
+Bestandspolitik zu verhindern, indem Werke aus einem der Ränder kategorisch nicht
+erworben werden. Auch der „gesunde Menschenverstand“ oder das „Bauchgefühl“
+sind nur bedingt gute Ratgeber, wenn es um objektive Berufsstandards geht (Rösch
+2018, 780, 781). Die persönliche Gewissensfreiheit ist gegenüber dem Grundsatz beruf-
+licher Neutralität abzuwägen (Bibliosuisse 2021, 8). Dies ist individualethisch kaum
+lösbar, sondern muss institutionenethisch mit allen Mitarbeitenden einer Einrichtung
+und bestenfalls auch eines Berufsfeldes verhandelt werden (s. Kap. 6 in diesem Bei-
+trag). Nicht ausreichend ist es, Werke aufgrund ihres Verlages in das politische Spek-
+trum einzuordnen (s. Kap. 4 und Grantz 2020). Im Zweifelsfall ist eine Einzelfallent-
+scheidung geboten. Medien an den Rändern bleiben dabei auf individualethischer
+Ebene ein Dilemma, weil – neben den ethischen Kompetenzen – vor allem breite fach-
+liche Kenntnisse in Geschichte, Politik, Recht und weiteren Wissenschaftsdisziplinen
+für eine Einordnung häufig notwendig sind, die von Mitarbeitenden zumindest in Öf-
+fentlichen Bibliotheken nicht zwangsläufig erwartet werden können. Aus kapazitären
+und Effizienzgründen ist das für Bibliotheken auch kaum leistbar.
+
+5.3 Wir lesen euch die Welt, wie sie euch gefällt von Vicky Voyage
+und Eric BigClit in der Stadtteilbibliothek Bogenhausen der
+Münchner Stadtbibliothek
+
+5.3.1 Fallbeschreibung und ethische Einordnung
+
+In der Stadtteilbibliothek Bogenhausen der Münchner Stadtbibliothek findet im Juni
+2023 aus Anlass der Pride-Week die Veranstaltung Wir lesen euch die Welt, wie sie
+euch gefällt statt, bei der die Drag-Künstler*innen Vicky Voyage und Eric BigClit Kin-
+dern ab vier Jahren aus Büchern zum Thema „anders sein“ vorlesen. Ziel der Veran-
+staltung ist es, auf spielerische Art – durch Vorlesen und Singen – über Individualität,
+Selbstakzeptanz, Diversität und Akzeptanz von Personen, die anders sind, ins Ge-
+
+
+
+48  Frauke Schade, Ute Engelkenmeier
+
+spräch zu kommen. Ursprünglich geplant war zudem, dass die 13-jährige Julana aus
+ihrem Buch Julana, endlich ich lesen sollte, in dem sie ihre Transition vom männlichen
+zum weiblichen Geschlecht beschreibt. Bei der Veranstaltung handelt es sich nicht um
+eine singuläre Veranstaltung. Die Themen Diversität, Queerness, kulturelle Vielfalt
+und „Anderssein“ sind fester Bestandteil der Bibliotheksstrategie und auch der Pro-
+grammarbeit in der Münchner Stadtbibliothek (s. Vision und Jahresbericht der
+Münchner Stadtbibliothek 2022).14 Die veranstaltenden Mitarbeiter*innen der Münch-
+ner Stadtbibliothek sind erfahren und gehen differenziert mit den genannten Themen
+um. Bereits im Vorfeld der Veranstaltung machen sie sich viele Gedanken über ihre
+Rolle, wie z. B. über die Frage, inwieweit sich die Bibliothek, die eine mehrheitsgesell-
+schaftliche Perspektive hat und die ihre Räume bewusst auch für kleine Communitys
+öffnet, sich in die inhaltliche Gestaltung einer Veranstaltung einmischen dürfe oder
+solle, in welcher es gerade um die Perspektive einer bestimmten Sicht und Expertise
+geht.15
+
+Nach der Ankündigung der Veranstaltung wurden die Autorin, die beiden Drag-
+künstler*innen und Mitarbeitende der Bibliothek im Mai 2023 von rechten Gruppen
+beleidigt und bedroht; es kam Kritik von einzelnen Vertreter*innen der CSU und der
+Freien Wähler. Die AfD positionierte sich als Partei durch einen Verbotsantrag im
+Stadtrat. Zwei Wochen vor der Veranstaltung berichteten Süddeutsche Zeitung (SZ)
+und Neue Züricher Zeitung (NZZ) kritisch über Julanas Geschichte und veröffentlichten
+den sogenannten Deadname – ein Tabu für Trans*Menschen.16 Aufgrund der Bedro-
+hungen im Anschluss an die Zeitungsartikel sagte die Familie Julanas ihre Teilnahme
+an der Veranstaltung ab. Gleichermaßen erhielt die Bibliothek und alle Beteiligten Un-
+terstützung von den Grünen, der Partei Die Linke, der SPD und dem Verein München
+ist bunt!, der sich für gesellschaftliche Toleranz und gegen Rassismus stark macht.17
+Während der Lesung mit rund 70 Teilnehmenden kam es vor der Bibliothek zu laut-
+starken Protesten. Anhänger*innen der AfD, der Querdenker*innen sowie zwei weite-
+ren kleineren religiösen Gruppen skandierten gegen „Gender-Propaganda“; der Verein
+München ist bunt! rief zur Gegendemo auf und verteidigte Diversität, kulturelle Viel-
+falt und Toleranz. Befürworter*innen der Lesung überwogen die Gegner*innen deut-
+lich. In Sorge um das Kindeswohl soll Staatsminister Hubert Aiwanger (Freie Wähler)
+vor der Veranstaltung – mit Beginn der medialen Berichterstattung – in der Presse
+das Jugendamt zum Handeln aufgefordert haben. Das Jugendamt positionierte sich
+dazu mit einer Stellungnahme und stufte die Veranstaltung nach Prüfung der Bücher
+und des Ablaufs als unbedenklich ein. Auch bei der Veranstaltung war das Jugendamt
+
+14 www.muenchner-stadtbibliothek.de/vision#c6445; https://muenchner-stadtbibliothek.pageflow.io/
+jahresbericht-2022#spannungsspitzen (beide Abruf: 20.09.2023).
+15 Die Autorinnen dieses Beitrags konnten am 10. August 2023 mit Margareta Lindner und mit Sarah
+Hergenröther ein Gespräch zu den Hintergründen der Veranstaltung via Videokonferenz führen.
+16 Als „Deadname“ wird der Name einer Transperson vor ihrer Transition bezeichnet.
+17 https://muenchen-ist-bunt.de/ (Abruf: 20.09.2023).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  49
+
+zugegen und bestätigte erneut seine Einschätzung. Ein Pfarrer stellte Strafanzeige we-
+gen Volksverhetzung, weil er auf Wahlkampfplakaten der AfD, die auch während der
+Protestaktion genutzt wurden, Anleihen auf antisemitische Karikaturen ausgemacht
+hatte. Eine kleine Gruppe junger Erwachsener, die der Identitären Bewegung (IB) zu-
+geordnet wurden, wurde in der Bibliothek wegen Hausfriedensbruch verhaftet (Win-
+kelbauer 2023, o. S.). In redaktionellen und sozialen Medien sorgte die Veranstaltung
+für eine hitzige Kontroverse und für Publicity (Verstegen 2023, o. S.; Winkelbauer 2023,
+o. S.). Die Abendzeitung München (AZ) zitierte aus einer Stellungnahme der Münchner
+Stadtbibliothek: „Unser breit aufgestelltes Programm richtet sich an eine vielfältige
+Stadtgesellschaft. Daher haben wir auch Lesungen zum Thema Diversität im Pro-
+gramm“ (Verstegen 2023, o. S.).
+
+5.3.2 Fallanalyse
+
+Zur ethischen Diskussion der Veranstaltung werden die Prioritätenregeln aus der Ver-
+antwortungsethik angewandt. Sie sind ein Instrument ethischer Kasuistik, das auf Pa-
+tricia Werhane, Hans Lenk und Ludger Heidbrink beruht und von Frauke Schade für
+das Berufsfeld modifiziert wurde. Ziel dieses Instruments ist es, normative, ethische
+Prinzipien kontextsensitiv abzuwägen und Orientierung bei konkreten ethischen Ein-
+zelfallentscheidungen zu geben (Werhane 1985, 72, 73 u. Lenk 1992, 37–38; Lenk 1998,
+29–293 zit. n. Heidbrink 2017, 18). Wichtig anzumerken ist hierbei, dass diese Regeln
+keine normativen Direktiven darstellen und sich daraus auch keine Patentrezepte ab-
+leiten lassen. Die Prioritätenregeln möchten Anregungen bieten, ethische Fragestellun-
+gen diskursiv abzuwägen und zu klären:
+1. Moralische Werte (Menschenrechte) vor anderen Werten.
+2. Kategorische Verantwortung hat in der Regel Vorrang vor Aufgaben- und Rollen-
+
+verantwortung.
+3. Bei kollidierenden Werten: Suche nach Kompromissen zwischen gleichwertigen
+
+Werten oder gleicher Berücksichtigung betroffener Personen.
+4. Abwägung des geringsten Schadens für Betroffene.
+5. Fairness der Lastenverteilung bei Kompromisslösungen.
+6. Zeitlich direkte Verantwortung hat in der Regel Vorrang vor indirekter Fernver-
+
+antwortung (bei gleichen Lasten).
+7. Öffentliches Wohl geht individuellen, nicht moralischen Interessen voran.
+
+In diesem Dilemma konfligieren die moralischen Werte der Menschenwürde
+(Art. 1 GG), der Gleichheit (Art. 3 GG) und der Freiheit (Art. 2 GG) – hier unter dem
+Aspekt der Selbstbestimmung und Unversehrtheit – mit dem moralischen Wert der
+Meinungs- und Informationsfreiheit (Art. 5 GG). Letzterem sind die Aspekte der Neu-
+tralität und des Pluralismus zugeordnet. Der Kernkonflikt liegt in der Verknüpfung ei-
+ner Kinderveranstaltung mit dem Thema Queerness, der sich in München insbesonde-
+
+
+
+50  Frauke Schade, Ute Engelkenmeier
+
+re am Namen Eric BigClit entzündet. Die Anzeige des Pfarrers gegen die AfD-Plakate
+markiert möglicherweise den „Rand“, an dem freie Meinungsäußerung enden könnte.
+Dies und die Einschüchterungen gegen die Beteiligten zu klären, ist jedoch Aufgabe
+des Rechts und der Strafverfolgungsbehörden und dankenswerterweise nicht der Bi-
+bliothek.
+
+Ziel von Ethik und Recht ist insgesamt, Gerechtigkeit herzustellen, weshalb unter
+Gerechtigkeit auch Teilhabe mit den Aspekten von Partizipation, Inklusion und Inte-
+gration adressiert werden (s. Kap. 1 in diesem Beitrag). Festgehalten werden kann,
+dass in diesem Dilemma ausschließlich moralische Werte tangiert werden und weite-
+re Werte keine Rolle spielen. Es handelt sich um ein echtes ethisches Dilemma (Regel
+1) und es handelt sich um ein konstitutives Dilemma, wie es Ulla Wimmer in ihrem
+Beitrag adressiert (s. Beitrag Wimmer „Neutralität als konstitutives Dilemma der Öf-
+fentlichen Bibliothek“ in diesem Handbuch). Die Bibliothek und mit Einvernehmen
+auch die Veranstaltenden sind hier für die Durchführung der Veranstaltung verant-
+wortlich – einerseits in ihrer Aufgaben- und Rollenverantwortung, andererseits, weil
+Menschenrechte tangiert werden, die in demokratischen Staaten von Individuen nicht
+abgewehrt werden können, weshalb dieser Verantwortungstyp als Kategorische Ver-
+antwortung bezeichnet wird. (Regel 2) (s. Kap. 2 in diesem Beitrag).
+
+Regel 3 kann nunmehr unter Berücksichtigung der Regeln 4 bis 7 diskutiert wer-
+den. Die Fragen richten sich auf eine mögliche Schadensbegrenzung, Lastenverteilung
+und auf Kompromisslösungen. Einen Kompromiss bei konfligierenden Menschenrech-
+ten zu finden ist stets schwierig.
+
+Festgehalten werden kann jedoch, dass die Veranstaltung in einem geschlossenen
+Raum stattfand – der obere Bereich der Bibliothek war für das Publikum geschlossen –
+und nicht etwa im Eingangsbereich oder einem anderen hochfrequentierten Bereich
+der Bibliothek. Jede*r, die/der mit dem Programm nicht einverstanden war, hätte die-
+ser Veranstaltung also einfach aus dem Weg gehen können und es den Erziehungsbe-
+rechtigten überlassen, ob sich ihre Kinder mit dem Thema „Anderssein“ beschäftigten
+oder nicht. Die Veranstaltenden haben hier bereits eine Lösung angestrebt, die mitein-
+bezieht, dass nicht jede*r mit dem Programm konform geht. Im Raum steht dabei die
+Frage, warum eine Veranstaltung zum Thema Queerness in einer demokratischen Ge-
+sellschaft nicht einfach ausgehalten werden kann und warum Positionen an den Rän-
+dern solche Stimmung machen. Das Argument der Kindeswohlgefährdung, das auf die
+Würde des Menschen und den Wert der Unversehrtheit Bezug nimmt, wird benannt
+und ist für die Gegner*innen der Veranstaltung ein zentrales Argument. Dieses wurde
+vom Jugendamt eingeschätzt und als unbedenklich eingestuft. Die Leidtragenden der
+rechten Angriffe sind Julana, ihre Familie und die beteiligten Drag-Künstler*innen. Ju-
+lanas Lesung wurde zum Schutz der Minderjährigen von ihren Eltern gecancelt. Zur
+Frage der Schadensbegrenzung ist auch die Frage relevant, warum die Veranstalten-
+den die Provokation mit zwei Dragkünstler*innen eingehen, in welchem ein Name
+nicht nur radikale Stimmen auf den Plan riefen, sondern eben auch konservative, wie
+von Stadtrat Hans Theiss und Münchens Oberbürgermeister Dieter Reiter (SPD) (Ver-
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  51
+
+stegen 2023, o. S.)18. Die Antwort auf die Frage ist, dass die erfahrenen Veranstalter*in-
+nen die Provokation im Namen des Dragkings trotz ihrer umfangreichen Vorüberle-
+gungen schlicht anders eingeschätzt haben – als Spiel mit Rollen und Zuschreibungen.
+Die Frage richtet sich auch darauf, was von der Stadtteilbibliothek in Bogenhausen
+bestmöglich erreichbar gewesen wäre, um für die demokratischen Werte der Toleranz
+und kulturellen Vielfalt einzutreten. Eine Lesung mit Julana hätte möglicherweise für
+weniger Aufsehen gesorgt als ein Dragking, dessen Namen weitläufig als anstößig
+empfunden wurde. Möglicherweise hätte die Bibliothek für eine Lesung aus dem Buch
+Julana, endlich ich einen geschützten Rahmen bieten können, in dem sich Kinder un-
+behelligt über das Thema „Anderssein“ und Selbstakzeptanz austauschen (Regel 4 und
+5). Insgesamt haben die Veranstalter*innen Verantwortung für die aktuelle Veranstal-
+tung und nicht für einen befürchteten Sittenverfall in Zukunft (Regel 6). Regel 7 ist
+insofern interessant, weil es zwar allen Beteiligten – auch den Protestierenden – in
+unterschiedlichen Ansichten und Haltungen, um das öffentliche Wohl zu gehen
+scheint, Parteien und (politische) Gruppierungen dabei jedoch stets politische Interes-
+sen und eben nicht ein ausschließlich moralisches Interesse verfolgen. Hierin besteht
+der Unterschied zwischen Ethik und Politik (s. Kap. 2 in diesem Beitrag). Im Anspruch,
+sich für eine vielfältige Stadtgesellschaft und dem Gleichheitsgrundsatz einzusetzen,
+der auch gesellschaftlichen Gruppen ein Forum bietet, die nicht zur Mehrheitsgesell-
+schaft gehören, ist die Veranstaltung der Bibliothek zwischen die Fronten des rechten
+und linken Meinungsspektrums geraten, da sich München bereits im Wahlkampf be-
+fand.
+
+Das Drag-Künstler*innen-Lesungs-Dilemma zeigt ein weiteres Dilemma im Um-
+gang mit Dilemmata im Berufsfeld Bibliothek und Information auf: Dilemmata lassen
+sich auf der Ebene der Individualethik innerhalb einer Berufsethik nicht im Einzelfall,
+sondern nur in Allianz mit einer Institutionenethik lösen. In diesem Fall war die
+Münchner Stadtbibliothek gut vorbereitet – eigentlich. Die Bibliothek hat eine Kom-
+mission für Diversitätsentwicklung eingerichtet und das Thema fest in ihrem Leitbild
+verankert. Für die Programmarbeit gibt es Handlungsempfehlungen, die aufzeigen,
+wie man Veranstaltungen zumindest diskriminierungskritisch durchführt. Die Mitar-
+beitenden der Münchner Stadtbibliothek setzen sich im Rahmen der Förderung im
+360°-Fonds für Kulturen der neuen Stadtgesellschaft der Bundeskulturstiftung dafür
+ein, „[…] diverse Perspektiven ab[zu]bilden, ohne Stereotype zu reproduzieren“.19 Die
+Bibliothek hat nicht damit gerechnet, derart zwischen die Fronten der Politik zu gera-
+ten. Auch intern hat der Fall für erheblichen Wirbel gesorgt und wurde aufgearbeitet.
+Mitarbeitende, die das Erlebte für sich reflektieren wollten, hatten die Möglichkeit, an
+
+18 Dieter Reiter hat seine Äußerungen hinterher öffentlich zurückgenommen und der Bibliothek im
+Nachgang zur Veranstaltung dafür gedankt, dass sie standhaft geblieben sind. (Videogespräch Hergen-
+röther/Lindner 10. August 2023)
+19 https://muenchner-stadtbibliothek.pageflow.io/jahresbericht-2022#spannungsspitzen (Abruf:
+20.09.2023).
+
+
+
+52  Frauke Schade, Ute Engelkenmeier
+
+einer Supervision zum Umgang mit Hatespeech teilzunehmen. Weitere Veranstaltun-
+gen zum Themenspektrum wurden in den Herbst verschoben, um keinen weiteren
+Zündstoff für den anstehenden Wahlkampf in München zu liefern.
+
+Die Eskalation wirft auch ein kritisches Licht auf die Rezeption der Veranstaltung.
+Eskalation und Tabubrüche gehören stets zum Programm populistischer Praxis, weil
+sich damit politische Interessen medial und aufmerksamkeitswirksam positionieren
+lassen (Abmeier 2016; Diehl 2016; Schröder, Mildenberger 2016). Selbst in bester Ab-
+sicht – im Eintreten für Menschenrechte und eine vielfältige, bunte und diverse Stadt-
+gesellschaft – wurde die Bibliothek hier zur Bühne, in der Interessen linker und rech-
+ter Politik aufmerksamkeitsstark verhandelt wurden. Selbstredend ist, dass zu einer
+vielfältigen Stadtgesellschaft ebenso Stimmen aus dem rechten Meinungsspektrum ge-
+hören, die es in Diversitätskonzepten und Bibliotheksstrategien zu berücksichtigen
+gilt, zumindest dann, wenn sie sich in das demokratische Spektrum einordnen lassen.
+Als öffentliche Einrichtung ist die Bibliothek auf das Neutralitätsprinzip verpflichtet
+(Payandeh 2016, 544). Neutralität bedeutet für Mitarbeitende in Bibliotheken u. a., sich
+für die Vielfalt an gesellschaftlichen, kulturellen, politischen und weltanschaulichen
+Wertvorstellungen einzusetzen, die kennzeichnend für den Pluralismus einer demo-
+kratischen Grundordnung sind. Insofern kann abschließend festgehalten werden,
+dass die Bibliothek sich mit dieser Veranstaltung genau dafür eingesetzt hat, worauf
+sie als öffentliche Einrichtung unter dem Neutralitätsgebot sowieso verpflichtet ist. Al-
+lerdings ist die Frage offen und wird das Berufsfeld – nach Einschätzung der Verfasse-
+rinnen dieses Beitrages – in Zukunft weiterhin beschäftigen, wie verhindert werden
+kann, dass Veranstaltungen derart zwischen die politischen Fronten geraten.
+
+6 Auswege
+Einzelne sollten bei ethischen Entscheidungen im Berufsfeld nicht allein gelassen wer-
+den. Als problematisch empfundene Themen, Werke und Debatten können ebenso als
+belastend empfunden werden. Emotional anstrengend kann es auch sein, wenn die
+Situation mit persönlichen Erfahrungen oder Ereignissen zusammenhängen. Hier
+kann es schwierig sein, eine klare ethische Position einzunehmen. Die Bewertung von
+Medieninhalten hängt oft auch von der individuellen Wertorientierung ab. Was für
+die eine Kollegin, den einen Kollegen als unproblematisch angesehen wird, kann für
+eine*n Andere*n als ethisch bedenklich betrachtet werden. Gerade hier ist es wichtig,
+dass sich das Berufsfeld auf einen Wertekanon verständigt, auf den sich Einzelne stüt-
+zen können. Insbesondere der Fall Sarrazin zeigt, wie herausfordernd eine inhaltliche
+Bewertung des Werkes Deutschland schafft sich ab ist. Hier ist eben nicht nur eine
+ethische Bewertung gefragt, sondern bestenfalls stützt diese sich auf eine historische
+und gesellschaftspolitische Einordnung. Arbeitsgruppen, wie das Netzwerk Medien an
+den Rändern helfen dabei, Werke inhaltlich sicher einzuordnen. Orientierung gibt die
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  53
+
+Bundeszentrale für Politische Bildung (bpb),20 das Bundesministerium für Inneres und
+Heimat (BMI), das Bundesamt für Verfassungsschutz (BfV),21 die Amadeu Antonio Stif-
+tung,22 der Deutsche Ethikrat,23 die Faktencheck-Redaktion CORRECTIV24 sowie die
+Plattform EUVSDESINFO25 der East StratCom Task Force im Europäischen Auswärtigen
+Dienst. Die Fallstudien Ethische Konflikte und Dilemmata in der bibliothekarischen Pra-
+xis aus dem Projekt Ethische Fundierung bibliothekarischer Praxis (EFubiP)26 von Her-
+mann Rösch zeigen anhand von konkreten Beispielen, wie Werte in ethischen Ent-
+scheidungen abgewogen werden können. Einfache Instrumente, wie die Prioritätenre-
+geln können dabei helfen, sich bei ethischen Entscheidungen zu orientieren. Um
+sichere ethische Entscheidungen zu treffen, muss Ethik eingeübt werden. Es ist Aufga-
+be der Hochschulen, Aus- und Weiterbildungseinrichtungen sowie nicht zuletzt der
+Verbände, ethische Themen in den Fokus zu rücken und informationsethische Kompe-
+tenz zu fördern.
+
+Im Bereich der alltäglichen Konflikte oder Dilemmata im Berufsalltag ist es zen-
+tral, Beschäftigte zu befähigen und zu ermächtigen, zu guten Entscheidungen zu ge-
+langen. Dabei geht es zum einen darum, eigene Überzeugungen, Werte und Ziele zu
+erkennen, zu definieren und sich selbst zu reflektieren, diese Werte oder Überzeugun-
+gen auch zu hinterfragen, um z. B. kritisch zu prüfen, ob eine persönliche Meinung
+oder ein Wert zugrunde liegt. Ziel des Empowerments ist es, den Einzelnen eine grö-
+ßere Selbstreflexion, wie auch Selbstvertrauen und Autonomie im Denken und Han-
+deln zu ermöglichen und an Entscheidungen teilzuhaben. Es fördert somit auch die
+Beteiligung in allen relevanten Arbeitsgebieten. Auf institutioneller Ebene geben von
+Mitarbeitenden formulierte und konsolidierte Leitbilder eine erste Orientierung, ethi-
+sche Einzelfallentscheidungen in Bibliotheken zu treffen. Abgestimmt auf die Biblio-
+theksstrategie und ihr Selbstverständnis können ethische Standards ausgearbeitet
+werden, wie die bibliothekarische Einrichtung mit ethischen Fragestellungen umge-
+hen kann. Die gemeinsame Verständigung auf Werte und Umgangsweisen setzt den
+Rahmen für Fragestellungen, die individualethisch kaum lösbar sind und bestenfalls
+in einer Institutionenethik realisiert werden, die auch Instrumente, Verfahren und
+Prozesse bereitstellt, ethische Dilemmata zu lösen (Rösch 2018, 782). Im Hinblick auf
+Medien an den Rändern bietet die enge und weitere Kontextualisierung hier eine Stra-
+tegie an.
+
+Auf Ebene der bibliothekarischen Verbände muss sich sehr deutlich dafür einge-
+setzt werden, dass Wertbegriffe klar definiert, konsolidiert und als solche auch ver-
+
+20 https://www.bpb.de/ (Abruf: 20.09.2023).
+21 https://www.verfassungsschutz.de/DE/themen/themen_node.html (Abruf: 20.09.2023).
+22 https://www.amadeu-antonio-stiftung.de/ (Abruf: 20.09.2023).
+23 https://www.ethikrat.org/ (Abruf: 20.09.2023).
+24 https://correctiv.org/ (Abruf: 20.09.2023).
+25 https://euvsdisinfo.eu/ (Abruf: 20.09.2023).
+26 https://www.iws.th-koeln.de/efubip/ (Abruf: 20.09.2023).
+
+
+
+54  Frauke Schade, Ute Engelkenmeier
+
+standen werden. Sie haben hier die Aufgabe, das Bewusstsein für Berufsethik zu
+schärfen, die Auseinandersetzung berufsethischer Fragestellungen sowie die berufli-
+che Integrität zu fördern (und damit die Werte wie auch die Qualität der bibliotheka-
+rischen Arbeit zu wahren). Ihre Rollen und Aufgaben liegen insbesondere in der Erar-
+beitung von berufsspezifischen Ethikrichtlinien, die Orientierung bei ethischen Ent-
+scheidungen geben. Zudem sollte die Auseinandersetzung mit Dilemmata im
+Berufsfeld gefördert werden. Dies kann durch Fortbildungsveranstaltungen, Schulun-
+gen und Workshops geschehen, um Berufsangehörige über ethische Fragestellungen
+zu informieren und auch um für Auseinandersetzungen mit ethischen Fragestellun-
+gen zu sensibilisieren und befähigen, Dilemmata zu erkennen und zu diskutieren.
+Boyer und Reiß-Golumbeck stellten 2011 fest, dass die Grundsatzpapiere zwar bekannt
+und als von Bedeutung erachtet werden, der Wunsch nach begleitenden Leitfäden
+oder Praxisbeispielen jedoch sehr hoch ist (Boyer und Reiß-Golumbeck 2011, 14). Die
+Auseinandersetzung mit berufsethischen Fragestellungen in der Praxis nahm in den
+folgenden Jahren durchaus zu. 2013 startete die von Hermann Rösch begründete Fall-
+studiensammlung,27 2018 erschien ein Schwerpunktheft Ethik28 der BuB – Forum Bi-
+bliothek und Information, im Mai 2019 erschien die Stellungnahme des Deutschen Bi-
+bliotheksverbandes „Bibliotheken und Demokratie“,29 um hier nur einige Beispiele zu
+nennen. Eine kontinuierliche Auseinandersetzung mit ethischen Fragestellungen ge-
+hört zum diskursethischen Prinzip und kann im deutschen Bibliothekswesen noch
+ausgebaut werden. Ein Blick auf den US-amerikanischen Berufsverband ALA zeigt
+hier gute Vorgehensweisen auf, wie berufsethische Grundsätze weiter begleitet wer-
+den können. Die ALA hat zu unterschiedlichen Themen und Spezialfragen (z. B. „Eva-
+luating Library Collections“ oder „Access to Library Resources and Services for Mi-
+nors“) eine Reihe von Stellungnahmen veröffentlicht, die auch je nach Thema ständig
+weiterentwickelt werden (Rösch 2021, 438). Insgesamt müssen ethische Fragestellun-
+gen insbesondere zu Themen der Medien an den Rändern breiter eingebunden wer-
+den in das Thema der Demokratieförderung (Grantz 2020).
+
+Eine weitere Aufgabe insbesondere für bibliothekarische Verbände wird auf Ebe-
+ne der Interessensvertretung (Advocacy) gesehen. Verbände müssen sich auch auf po-
+litischer Ebene dafür einsetzen, Werte der Berufsethik zu vermitteln, ethische Prinzi-
+pien wie auch Problemfelder gegenüber Gesetzgebenden und Trägereinrichtungen zu
+benennen sowie diese lösungsorientiert zu adressieren und zu diskutieren. Neben
+dem Einsatz für Meinungs- und Informationsfreiheit, Datenschutz bis hin zum fairen
+Zugang zu Information können Verbände auf Probleme hinweisen, die durch Restrik-
+
+27 Ethische Fundierung bibliothekarischer Praxis, https://www.iws.th-koeln.de/efubip/ (Abruf:
+20.9.2023).
+28 https://www.b-u-b.de/archiv/pdf-archiv-bub/pdf-archiv-detailseite/04/2018%20Schwerpunkt:%
+20Ethik (Abruf: 20.09.2023).
+29 https://www.bibliotheksverband.de/sites/default/files/2020-12/Flyer_Bibliotheken_und_Demokratie.
+pdf (Abruf: 20.09.2023).
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  55
+
+tionen entstehen können und Wege aufzeigen, Teilhabe zu ermöglichen und Chancen-
+gerechtigkeit zu stärken. In direkter Zusammenarbeit mit den Bibliotheken können
+Verbände die Öffentlichkeit über Herausforderungen und Dilemmata im Literatur-
+und Medienbereich aufklären. Dies kann dazu beitragen, ein besseres Verständnis für
+die Komplexität ethischer Entscheidungen in der Öffentlichkeit wie auch in den Medi-
+en zu fördern und eine Diskussion darüber zu ermöglichen. Ein Best-Practice-Beispiel
+ist hier das Office Intellectual Freedom Committee der ALA, das durch die Entwick-
+lung von Richtlinien, Kampagnen und Beratungsangeboten die zentralen Werte wie
+intellektuelle Freiheit und den Zugang zu Information stützt. Mit Kampagnen und Ru-
+briken wie „Top 10 most challenged books“ oder „Fight Censorship“ klärt das Office
+for Intellectual Freedom die Öffentlichkeit über die Bedeutung der geistigen Freiheit
+auf und berichtet über verbotene Bücher, Zensur und Datenschutz im Bibliothekswe-
+sen.
+
+7 Fazit
+Der Beitrag zeigt auf, dass Ethik Orientierung bieten kann, Lösungen für Probleme
+oder Herausforderungen zu finden. Ethik hilft Einzelnen wie auch Gruppen und Insti-
+tutionen dabei, ihr Verhalten in bestimmten Situationen zu reflektieren. Ethische Di-
+lemmata lassen sich durch genaue Betrachtung ihrer Einzelfälle und Zugrundelegen
+moralischer Werte diskutieren.
+
+Hochschulen können die Forschung zu ethischen Fragen weiter vorantreiben, ge-
+meinsam mit Verbänden und Bibliotheken können Best Practices identifiziert und
+geteilt werden. Institutionenethiken, Richtlinien und Instrumente ethischer Kasuistik
+unterstützen in Einrichtungen des Bibliothekswesens individualethische Entschei-
+dungen. Gremien und Verbände sind aufgefordert, ethische Diskurse zu fördern und
+durch Grundsatzpapiere/Berufsethiken zu rahmen und zu begleiten. Dies kann dazu
+beitragen, die Qualität und Integrität der Entscheidungsfindungen zu verbessern.
+
+Dabei sind Regelungen nicht „in Stein gemeißelt“. Gerade die Herausforderungen
+der digitalen Welt erfordert es, neue Situationen zu durchdenken – nicht vorschnell,
+sondern mit genügend Zeit, einen gut begründeten Standpunkt herauszuarbeiten und
+entwickeln zu können – gemeinsam und im Dialog.
+
+Literatur
+Abmeier, Karlies. Zur Fragwürdigkeit von verschwiegenen Bereichen. In: Aus Politik und Zeitgeschichte
+
+(APuZ) 62,5–6 (2016): 37–42.
+Aßländer, Michael und Schumann, Olaf. Wirtschaftsethik als angewandte Ethik. Handbuch Wirtschaftsethik.
+
+Hrsg. von Aßländer, Michael. Stuttgart, Weimar: Metzler 2011. 177–187.
+
+
+
+56  Frauke Schade, Ute Engelkenmeier
+
+Besenkemper, Klaus. Dilemmadiskussion. Handbuch der Philosophie und Ethik. Band I Didaktik und
+Methodik. Hrsg. von Nida-Rümelin, Julian; Spiegel, Irina und Tiedemann, Markus. Paderborn:
+Schöningh 2015. 178–186.
+
+Bibliosuisse. Ethikkodex für alle Mitarbeitenden von Bibliotheken und Dokumentationsstellen in der
+Schweiz. Aarau: Bibliosuisse 2021. – https://www.bibliosuisse.ch/mitglieder/ethikkodex (Abruf:
+29.09.2023).
+
+Bibliothek & Information Deutschland (BID). Ethische Grundsätze von Bibliothek & Information Deutsch-
+land (BID). Berlin: BID 2017. – https://media02.culturebase.org/data/docs-bideutschland/Ethische%
+20Grundsaetze.pdf (Abruf: 29.09.2023).
+
+Boyer, Jens und Reiß-Golumbeck, Iris. Bibliothekarische Berufsethik in der Praxis. In: LIBREAS. Library
+Ideas 19 (2011): 10–16. – http://dx.doi.org/10.18452/8988.
+
+Brune, Jens Peter. Dilemma. Handbuch Ethik. 3. Aufl. Hrsg. von Düwel, Marcus; Hübenthal, Christoph und
+Werner, Micha. Stuttgart, Weimar: Metzler 2011. 331–337. – https://doi.org/10.1007/978-3-476-05192-9.
+
+Bundesministerium des Innern und für Heimat (BMI). Verfassungsschutzbericht 2021. Berlin: BMI 2022.
+– https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb-2021-
+gesamt.html (Abruf: 20.09.2023).
+
+Bundeszentrale für politische Bildung (bpb). Grundgesetz für die Bundesrepublik Deutschland. Bonn: Bun-
+deszentrale für politische Bildung 2022. – https://www.bpb.de/shop/buecher/grundgesetz/34367/
+grundgesetz-fuer-die-bundesrepublik-deutschland/ (Abruf: 06.08.2023).
+
+Burgess, John T. F. History of Ethics in the Information Professions (Chapter 3). Foundations of Information
+Ethics. Hrsg. Von Burgess, John T. F. und Knox, Emiliy J. M. Chicago: American Library Association
+(ALA) 2019. 25–36.
+
+Capurro, Rafael. Zur Computerethik. Ethische Fragen der Informationsgesellschaft. Technik und Ethik.
+Hrsg. von Lenk, Hans und Rophol, Günter. Stuttgart: Reclam 1987. – http://www.capurro.de/compu-
+terethik.html (Abruf: 03.08.2023).
+
+Capurro, Rafael. Informationsethos und Informationsethik. Gedanken zum verantwortungsvollen Handeln
+im Bereich der Fachinformation. In: Nachrichten für Dokumentation (Information. Wissenschaft &
+Praxis) 39 (1988):1–4. – http://www.capurro.de/informationsethos.htm (Abruf: 29.09.2023).
+
+Capurro, Rafael. Digitale Ethik. 2011. http://www.capurro.de/DigitaleEthik.html#:~:text=Digitale%20Ethik%
+20oder%20Informationsethik%20im,im%20Umgang%20mit%20dem%20Internet (Abruf: 29.09.2023)
+
+Capurro, Rafael; Wiegerling, Klaus und Brellochs, Andreas (Hrsg.). Informationsethik. Konstanz: UVK 1995
+Diehl, Paula. Populismus und Massenmedien. In: Aus Politik und Zeitgeschichte (APuZ) 62,5–6 (2016):
+
+16–22.
+European Center for Constitutional and Human Rights (ECCHR): Thema Allgemeine Erklärung der Men-
+
+schenrechte. – https://www.ecchr.eu/glossar/allgemeine-erklaerung-der-menschenrechte/ (Abruf:
+29.09.2023).
+
+Filipovic, Alexander. Angewandte Ethik. In: Handbuch Medien- und Informationsethik. Hrsg. von Heesen,
+Jessica. Stuttgart, Weimar: Metzler 2016. 41–49. – https://doi.org/10.1007/978-3-476-05394-7.
+
+Floridi, Luciano. Foundations of Information Ethics. In: The Handbook of Information and Computer Ethics.
+Hrsg. von Himma, Kenneth E. und Tavani, Hermann T. Hoboken, NJ: Wiley & Sons 2008. 3–23.
+– https://doi.org/10.1002/9780470281819.
+
+Frankena, William K. Ethik. Eine analytische Einführung. Hrsg. und übersetzt von Hoester, Norbert.
+Wiesbaden: Springer VS 2017. – https://doi.org/10.1007/978-3-658-10748-2_3.
+
+Fritzsche, Karl Peter. Menschenrechte. Eine Einführung mit Dokumenten. Paderborn: Schöningh 2016.
+Funiok, Rüdiger. Medienethik. Verantwortung in der Mediengesellschaft. Stuttgart: Kohlhammer 2011.
+Gantert, Klaus; Neher, Günther und Schade, Frauke. Informationswissenschaft in Forschung und Lehre. In:
+
+der Informationswissenschaft. Hat die Informationswissenschaft eine Zukunft. Hrsg. von Bredemeier,
+Willi. Berlin: Simon Verlag für das Bibliothekswesen 2019: 187–212.
+
+
+
+Ethische Grundlagen, berufsethisches Verständnis, Dilemma-Diskussionen  57
+
+Grantz, Kristin. Sachbücher des politisch rechten Randes in Öffentlichen Bibliotheken. Handlungsempfeh-
+lungen zum Umgang mit umstrittenen Werken. Hamburg: Hochschule für Angewandte Wissenschaf-
+ten Hamburg, Fakultät Design, Medien, Information, Department Information 2020.
+
+Gutmann, Thomas und Quante, Michael. Individual-, Sozial- und Institutionenethik. In: Preprints and
+Working Papers of the Centre for Advanced Study in Bioethics 85 (2015): 1–9. https://doi.org/10.1007/
+978-3-658-14686-3_9.
+
+Hauptmann, Robert. Ethical Challenges in Librarianship. Phoenix, AZ: Oryx Press 1988.
+Heidbrink, Ludger. Definitionen und Voraussetzungen der Verantwortung. In: Handbuch Verantwortung.
+
+Hrsg. von Heidbrink, Ludger; Langbehn, Claus und Loh, Janina. Wiesbaden: Springer VS 2017. 3–34.
+– https://doi.org/10.1007/978-3-658-06110-4.
+
+Höffe, Ottfried. Lexikon der Ethik. München: Beck 2008.
+Huck-Sandhu, Simone. Corporate Messages entwickeln und steuern. Agenda Setting, Framing, Storytelling.
+
+In: Handbuch Unternehmenskommunikation. Hrsg. von Zerfaß, Ansgar und Piwinger. Manfred.
+Wiesbaden: Springer 2014. 651–668. – https://doi.org/10.1007/978-3-8349-4543-3_31.
+
+International Federation of Library Associations and Institutions (IFLA). IFLA Code of Ethics for Librarians
+and Other Information Workers. 2012. – https://repository.ifla.org/handle/123456789/1850.
+
+Kastner, Jens und Susemichel, Lea. Zur Geschichte linker Identitätspolitik. In: Aus Politik und Zeitgeschich-
+te. Identitätspolitik 69,9–11 (2019): 11–17
+
+Krijnen, Christian. Wert. In: Handbuch Ethik. Hrsg. von Düwel, Marcus; Hübenthal, Christoph und Werner,
+Micha. Stuttgart, Weimar: Metzler 2011. 548–547. – https://doi.org/10.1007/978-3-476-05192-9.
+
+Kuhlen, Rainer. Informationsethik. Konstanz: UVK 2004.
+Lenk, Hans. Verantwortlichkeit und Verantwortungstypen. Arten und Polaritäten. In: Handbuch Verantwor-
+
+tung. Hrsg. von Heidbrink, Ludger; Langbehn, Claus und Loh, Janina. Wiesbaden: Springer VS 2017.
+57–84. – https://doi.org/10.1007/978-3-658-06110-4.
+
+Littau, Artur. Thilo Sarrazin. Deutschland schafft sich ab/Feindliche Übernahme. Schlüsseltexte der ‚Neuen
+Rechten‘. Kritische Analysen antidemokratischen Denkens (Edition Rechtsextremismus). Hrsg. von
+Meierling, David. Wiesbaden: Springer Fachmedien 2022. – https://doi.org/10.1007/978-3-658-36453-
+3_16.
+
+Peters, Anne und Askin, Eilf. Internationaler Menschenrechtsschutz. Eine Einführung. In: Aus Politik und
+Zeitgeschichte (APuZ). Menschenrechte 20 (2020): 4–10.
+
+Pfahl-Traughber, Armin. Was ist das Hufeisenmodell. In: Humanistischer Pressedienst. 30. März 2020.
+– https://hpd.de/artikel/hufeisen-modell-17894 (Abruf: 02.08.2023).
+
+Pieper, Annemarie. Einführung in die Ethik. Tübingen: A. Francke 2007.
+Plummer, Martha W. The Pros and Cons of Training for Librarianship. In: Public Libraries 8,5 (1903).
+Priester, Karin. Wesensmerkmale des Populismus. In: Aus Politik und Zeitgeschichte (APuZ). 62,5–6 (2012):
+
+3–9.
+Regenbogen, Arnim und Meyer, Uwe. Wörterbuch der philosophischen Grundbegriffe. Hamburg: Meiner
+
+2013.
+Rehbock, Thedda. Ethik. In: Philosophie. Geschichte, Disziplinen, Kompetenzen. Hrsg. von Breitenstein,
+
+Peggy und Rohbeck, Johannes. Stuttgart, Weimar: Metzler 2011. 233–259 – https://doi.org/10.1007/
+978-3-476-00402-4.
+
+Rösch, Hermann. Bibliothekarische Berufsethik auf nationaler und internationaler Ebene. Struktur und
+Funktion des IFLA-Ethikkodex. In: VOEB-Mitteilungen 67,1 (2014): 38–57.
+
+Rösch, Hermann. Ethik und Bibliothek. Institutionenethik als Desiderat. In: Bibliothek – Forschung für die
+Praxis. Festschrift für Konrad Umlauf zum 65. Geburtstag. Hrsg. von Hauke, Petra; Kaufmann, Andrea
+und Petras, Vivien. Berlin, Boston: De Gruyter 2017. 99–110. – https://doi.org/10.1515/9783110522334-
+011.
+
+Rösch, Hermann. Zum Umgang mit umstrittener Literatur in Bibliotheken aus ethischer Perspektive. Am
+Beispiel der Publikationen rechtsradikaler und rechtspopulistischer Verlage. In: Bibliotheksdienst
+
+
+
+58  Frauke Schade, Ute Engelkenmeier
+
+52,10–11 (2018): 773–783. – https://www.degruyter.com/document/doi/10.1515/bd-2018-0093/html
+(Abruf: 29.09.2023).
+
+Rösch, Hermann. Soziale Netzwerke und Ethik: Problemdiagnose und Schlussfolgerungen. In: Die digitale
+Transformation in Institutionen des kulturellen Gedächtnisses. Hrsg. von Büttner, Stephan. Berlin:
+Simon Verlag für Bibliothekswissen 2019. 193–209.
+
+Rösch, Hermann. Informationsethik und Bibliotheksethik. Grundlagen und Praxis. Berlin, Boston: De
+Gruyter Saur 2021. – https://doi.org/10.1515/9783110522396.
+
+Rösch, Hermann; Seefeldt, Jürgen und Umlauf, Konrad. Bibliotheken und Informationsgesellschaft in
+Deutschland. Eine Einführung. Wiesbaden: Harrassowitz 2019.
+
+Rommerskirchen, J. Das Gute und das Gerechte Handeln. Eine Einführung in die praktische Philosophie.
+Wiesbaden: Springer Fachmedien 2019. – https://doi.org/10.1007/978-3-658-22505-6.
+
+Schneidereit, Nele: Rechtsphilosophie. In: Philosophie. Geschichte, Disziplinen, Kompetenzen. Hrsg. von
+Breitenstein, Peggy und Rohbeck, Johannes. Stuttgart, Weimar: Metzler 2011. 291-301. https://doi.org/
+10.1007/978-3-476-00402-4_17
+
+Schorkopf, Frank. Identitätspolitik, II. Rechtswissenschaft, Version 08.08.2023. In: Staatslexikon online.
+– https://www.staatslexikon-online.de/Lexikon/Identit%C3%A4tspolitik (Abruf: 03.09.2023).
+
+Schröder, Hartmut und Mildenberger, Florian. Tabu, Tabuvorwurf und Tabubruch im politischen Diskurs.
+In: Aus Politik und Zeitgeschichte (APuZ) 62,5–6 (2016): 42–48.
+
+Schubert, Klaus und Klein, Martina. Das Politiklexikon. Bonn: Dietz 2020.
+Smith, Martha. Information Ethics. In: Advances in Librarianship 25 (2001): 29–65.
+Speit, Andreas. Bürgerliche Scharfmacher. Deutschlands neue rechte Mitte. Bonn: Bundeszentrale für poli-
+
+tische Bildung 2017.
+Upmeier, Arne. Spiel nicht mit den Schmuddelkindern, sing nicht ihre Lieder. Der rechtskonforme Umgang
+
+mit Problemtexten in Bibliotheken. In: BuB – Forum Bibliothek und Information 67,12 (2015): 760–
+763.
+
+Verstegen, Guido. „Rote Linie überschritten“. Debatte um Kinderlesung mit Drag Queens in München. In:
+Abendzeitung München. 5. Juni 2023. – https://www.abendzeitung-muenchen.de/muenchen/rote-li-
+nie-ueberschritten-debatte-um-kinderlesung-mit-drag-queens-in-muenchen-art-898883 (Abruf:
+20.09.2023).
+
+Winkelbauer, Isabel. Drag-Lesung in München. Rechtsextreme Gruppe dringt in Bibliothek ein. Trans-
+Autorin (13) sagt Auftritt ab. In: Merkur.de. 21. Juni 2023. – https://www.merkur.de/lokales/muen-
+chen/drag-lesung-proteste-kinder-veranstaltung-politik-muenchen-92341017.html (Abruf:
+29.09.2023).
+
+Young, Scott W. H. A Theoretical Framework and Practical Toolkit for Ethical Library Assessment (Disserta-
+tion). Berlin: Humboldt-Universität zu Berlin, Philosophische Fakultät 2022. – https://doi.org/
+10.18452/25372.
+
+Zurstiege, Guido. Propaganda. In: Handbuch Medien- und Informationsethik. Hrsg. von Heesen, Jessica.
+Stuttgart, Weimar: Metzler 2016. 146 – 152.–https://doi.org/10.1007/978-3-476-05394-7.

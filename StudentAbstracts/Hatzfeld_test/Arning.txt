@@ -1,0 +1,542 @@
+Ursula Arning, Margo Bargheer, Isabella Meinecke,
+Dagmar Schobert und Regine Tobias
+5.4 Open-Access-Repositorien
+und Universitätsverlage für eine
+offene Wissenschaft
+Vom Server zum Service
+1 Vorwort
+Im Zuge der digitalen Transformation haben sich Handlungsfelder und Rollenverständnis
+der wissenschaftlichen Bibliotheken verändert und fortentwickelt. Das dynamische
+digitale Umfeld der Wissenschaftskommunikation und die in Forschung und Lehre zum
+Einsatz kommenden, sich ständig weiterentwickelnden Werkzeuge haben ebenfalls unmittelbare
+Auswirkungen auf die Ausrichtung und Ausgestaltung institutioneller Publikationsdienste.
+In diesem Wirkungsbereich haben Bibliotheken den ursprünglichen
+Fokus ihrer Repositorien auf die bloße Bereitstellung von Hochschulschriften oder
+Zweitveröffentlichungen mittlerweile weit hinter sich gelassen. Mit zunehmender Konsolidierung
+und Standardisierung im Umfeld des Publizierens stellen Aufbau und Betrieb
+von institutionellen und fachlichen Publikationsdiensten in technischer und
+konzeptioneller Hinsicht keine Pionierarbeit mehr dar. Weiterhin liegen jedoch die großen
+Herausforderungen im Management weiterer Entitäten wie Projekte oder Forschungszusammenhänge
+sowie in der Vernetzung mit weiteren und mit großer Dynamik
+neu entstehenden lokalen und regionalen digitalen Diensten.
+Die zunehmende Vielfalt und stärkere Ausdifferenzierung der Angebote erfordern
+es, deren Verhältnisse zueinander neu zu verhandeln und aus veränderter strategischer
+Perspektive zu betrachten. Im Zuge der voranschreitenden Open-Access-
+Transformation, insbesondere aber auch angesichts der steigenden Anforderungen
+durch eine zunehmende Öffnung aller Aspekte des Forschungskreislaufs gemäß einer
+offenen Wissenschaft (Open Science) müssen sich wissenschaftliche Bibliotheken neu
+ausrichten und positionieren. Mit der Entwicklung ihrer Angebote gehen sie dabei
+konform mit jüngsten wissenschaftspolitischen Entwicklungen. So betont der Rat der
+Europäischen Union in seinen Schlussfolgerungen vom 23. Mai 2023 „die Bedeutung
+gemeinnütziger Open-Access-Modelle des wissenschaftlichen Publizierens“ und unterstreicht
+zugleich, „wie wichtig es ist, die Entwicklung solcher Modelle, die von öffentlichen
+Forschungsorganisationen getragen werden, zu unterstützen“. Zugleich fördert
+die Europäische Union durch zahlreiche große Projekte den europaweiten Aufbau
+entsprechender grundlegender Infrastrukturen und Standards. Die Kultusministerkonferenz
+(KMK) befürwortet in ihren Leitlinien „Open Access in Deutschland“ im selben
+Jahr zudem ausdrücklich Diamond Open Access, ein Geschäftsmodell, bei dem
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-023
+die Veröffentlichung für Publizierende kostenfrei ist: „Bund und Länder teilen die
+Einschätzung des Wissenschaftsrates, dass Diamond-Open-Access-Modelle zur Diversität
+des Systems beitragen und in Konkurrenz zu gebührenfinanzierten Modellen treten
+können.“1
+2 Bestandsaufnahme der Publikationsdienste 2023
+Nach mehr als 20 Jahren sind Publikationsdienste zu einem festen Bestandteil im
+Portfolio von wissenschaftlichen Bibliotheken und Forschungseinrichtungen national2
+wie auch international geworden. Unter wissenschaftlichen Publikationsdiensten
+werden Angebote verstanden, über die Forschungsergebnisse und andere Wissenschaftsinformationen
+veröffentlicht werden können. Zu diesen Angeboten zählen vorwiegend
+textbasierte Repositorien, Universitätsverlage und ähnliche institutionelle
+wie fachliche Dienste. Im Fokus stehen dabei Angebote, die eine offene Wissenschaft
+unterstützen. Es haben sich grundlegende Infrastrukturen und Werkzeuge etabliert,
+welche die Einrichtung und den Betrieb solcher Publikationsdienste vereinfachen und
+unterstützen. So stellt die Arbeitsgemeinschaft Elektronisches Publizieren (E-PUB) der
+Deutschen Initiative für Netzwerkinformation e. V. (DINI) seit 2004 mit einem alle drei
+Jahre aktualisierten Kriterienkatalog eine Anleitung für den Aufbau und den Betrieb von
+Open-Access-Publikationsdiensten bereit, die aktuellen Standards entsprechen wollen.
+Dieser Kriterienkatalog bildet die Grundlage für das DINI-Zertifikat, das vertrauenswürdige,
+professionelle Dienste auszeichnet.3 Es gilt als Standard4 für die Einrichtung und
+den erfolgreichen Betrieb von auf wissenschaftliche Publikationen fokussierte Publikationsdienste
+bzw. Repositorien. Um deren Betrieb zu gewährleisten, stellen betreibende
+Einrichtungen entsprechende Ressourcen bereit. Ergänzend existieren Angebote für das
+Hosting von Repositorien und anderen Diensten, die vorwiegend von kleineren Einrichtungen
+genutzt werden, um den technischen Betrieb auszulagern.
+ Vgl. Kultusministerkonferenz 2023: S. 4.
+ Die DINI-Liste der Open-Access-Publikationsdienste listet 530 Angebote: https://dini.de/dienste-pro
+jekte/publikationsdienste/ (10.07.2023).
+ Vgl. DINI-Arbeitsgruppe Elektronisches Publizieren 2022; Beucke, Meinecke u. Severiens 2022.
+ So referenziert die Deutsche Forschungsgemeinschaft (DFG) das Zertifikat: „Ein Überblick über verschiedene
+qualitätsgesicherte Publikationsinfrastrukturen in Deutschland ist bei der Deutschen Initiative
+für Netzwerkinformation e.V. zu finden [...] Die DINI e. V. hat ein Zertifikat entwickelt, das
+Qualitätsstandards für Open-Access-Publikationsdienste setzt. Viele Repositorien orientieren sich an
+den Qualitätskriterien des DINI-Zertifikats, auch wenn sie aktuell nicht zertifiziert sind.“ Deutsche
+Forschungsgemeinschaft: Veröffentlichung von Abschlussberichten. 2023. https://www.dfg.de/foerde
+rung/antrag_foerderprozess/abschlussberichte/ (10.07.2023).
+364 Ursula Arning et al.
+Weitere Publikationsdienste sind die Universitätsverlage aus der Phase der digitalen
+Transformation (siehe Abschnitt 4 „Universitätsverlage und verlagsähnliche Publikationsdienste“
+in diesem Kapitel), die zum Teil mit Repositorien verbunden sind,
+zum Teil auf andere prozessunterstützende Software-Lösungen zurückgreifen. Technisch
+basieren die Angebote weitgehend auf Open-Source-Software.5
+Forschungsförderer haben Open Access durch eine Vielzahl von Drittmittelprojekten
+inhaltlich vorangetrieben und durch die Unterstützung überregionaler Beratungs-
+und Anlaufstellen weiter konsolidiert. Fixpunkt im deutschsprachigen Raum
+ist das Projekt open-access.network,6 ein Vernetzungsprojekt mit ursprünglicher Förderung
+der Deutschen Forschungsgemeinschaft (DFG), mittlerweile des Bundesministeriums
+für Bildung und Forschung (BMBF), das ein umfangreiches Informations- und
+Vernetzungsangebot rund um das Publizieren hervorgebracht hat. Interessierte finden
+hier disziplinübergreifend zentrale Informationen rund um das Thema Open Access
+und damit verbundene Services.
+Die Fachgemeinschaft des institutionseigenen Publizierens ist mittlerweile umfangreich
+und ausdifferenziert. Erfahrene Kolleg:innen aus beispielgebenden Infrastrukturen
+geben ihre Expertise strukturiert weiter, so dass es den Verantwortlichen neu gegründeter
+Dienste ermöglicht wird, sich schnell und systematisch in die Thematik einzuarbeiten
+und ein qualitativ angemessenes Angebot zu entwickeln.7 Veranstaltungen wie die jährlichen
+Open-Access-Tage bringen Praktiker:innen unterschiedlicher Erfahrungsstufen und
+-bereiche zusammen. Dieser Austausch ist mit großem Erkenntnisgewinn verbunden.
+Konsens ist, dass der Aufbau neuer Publikationsinfrastrukturen eines grundsätzlichen
+Verständnisses vom Wesen des wissenschaftlichen Publizierens sowie eines
+nachhaltigen Konzepts bedarf und eine komplexe Herausforderung darstellt. Es ist
+ein langer institutioneller Atem nötig, um ein neues Angebot in bestehende Strukturen
+der eigenen Einrichtung einzubetten und es vertrauenswürdig und qualitätsgesichert
+auf dem Campus oder in der Fachgemeinschaft zu platzieren. Grundsätzliche
+Überlegungen vom Projektmanagement über den Ressourceneinsatz bis zur Qualitätssicherung
+und zu Standards sind dabei entscheidend.8
+ Bei Repositorien dominieren im deutschsprachigen Raum Lösungen wie DSpace/DSpace-CRIS, EPrints,
+MyCoRe und OPUS. Als prozessunterstützende Software-Lösungen kommen häufig Open Monograph
+Press, Open Journal Systems oder Janeway, aber auch Eigenentwicklungen wie PUBLISSO
+(basiert auf dem Open Source CMS Drupal) zum Einsatz.
+ Vgl. open-access.network: Repositorien. 2022. https://open-access.network/informieren/publizieren/
+repositorien (10.07.2023).
+ Für Publikationsdienste allgemein: Beringer u. Arning 2020; für Hochschulverlage: Arbeitsgemeinschaft
+Universitätsverlage 2022. Die DFG bezeichnet die Einhaltung dieser Qualitätsstandards als verbindlich
+für die Gewährung von Fördermitteln, s. Deutsche Forschungsgemeinschaft: Merkblatt und
+ergänzender Leitfaden Open-Access-Publikationskosten. DFG-Vordruck 12.21–01/23. 2023. https://www.
+dfg.de/formulare/12_201/12_201_de.pdf, 13 (10.07.2023).
+ Vgl. Arning 2021.
+5.4 Open-Access-Repositorien und Universitätsverlage für eine offene Wissenschaft 365
+3 Repositorien
+Repositorien sind Dokumentenserver, auf denen wissenschaftliche Erkenntnisse (Publikationen)
+und/oder ihnen zugrundeliegende Materialien (z. B. Forschungsdaten,
+Quellenmaterialien) samt Beschreibungen (Metadaten) erschlossen, veröffentlicht
+und nachhaltig zur Verfügung gestellt werden. Sie spielen eine wichtige Rolle bei der
+Bereitstellung von Forschungsveröffentlichungen aus der eigenen Universität, Hochschule
+oder Forschungseinrichtung sowie von Fachgemeinschaften. Repositorien entwickelten
+sich weitgehend in den 1990er Jahren. Für die Entstehung der Open-Access-
+Bewegung waren sie von großer Bedeutung, boten sie doch einen einfachen und unabhängigen
+Weg für die Veröffentlichung und nachhaltige Verbreitung von wissenschaftlichen
+Publikationen. Auf diese Weise schufen sie neue Möglichkeiten für die
+Wissenschaftskommunikation.
+Während fachliche Repositorien zunächst als Preprintserver in Erscheinung traten,
+9 entstanden institutionelle Repositorien als Ablageserver für Qualifikationsschriften
+(Dissertationen sowie vereinzelt Habilitationen samt zugehöriger Supplemente).
+Beide Formen entwickelten sich auch gegen Widerstände, etwa bedingt durch unterschiedliche
+Fächerkulturen, Bedenken gegenüber den zunächst neuen digitalen Möglichkeiten
+oder aus Sorge um Reputationsverlust beim Bereitstellen von Publikationen
+über eine solche Infrastruktur. In Unkenntnis ihrer Potenziale wurden Repositorien zunächst
+oft auf „virtuelle Bücherregale“ reduziert, die zudem aktiv aufzusuchen waren,
+wollte man sich Informationen beschaffen. Darüber hinaus enthielten sie häufig heterogene
+Inhalte – frei zugängliche ebenso wie nicht allgemein verfügbare Materialien oder
+auch Metadaten ohne Volltexte. Zudem gab es keine einheitlichen Regeln für die Beschreibung
+der abgelegten Objekte, was eine strukturierte übergeordnete Recherche in
+Repositorien erschwerte und oft unmöglich machte. Die Entwicklung von Standards für
+Metadaten (mit unterschiedlichen Vokabularen für unterschiedliche Szenarien) sowie
+das im Jahre 2000 entwickelte OAI Protocol for Metadata Harvesting (OAI-PMH)10 schufen
+Abhilfe und waren ein wesentlicher Schritt in Richtung Vernetzung. Standardisierte
+Metadaten konnten nun eingesammelt und von Dritten für eine übergreifende Recherche
+zentral bereitgestellt werden. Das o. g. DINI-Zertifikat unterstützte früh die Entfaltung
+des Potenzials von Repositorien. Seit 2004 werden in einem Kriterienkatalog
+Anforderungen (zunächst) an Open-Access-Repositorien, mittlerweile an Open-Access-
+Publikationsdienste allgemein gebündelt. Im Katalog werden Anforderungen an die
+Sichtbarkeit und Nachhaltigkeit des Angebots, an Leitlinien, Autor:innenunterstützung,
+rechtliche Aspekte, Erschließung, Informationssicherheit, Langzeitarchivierung und
+Metriken sowie an Schnittstellen aufgestellt. Neben standardisierten Metadaten (vor-
+ Richtungsweisend war die seit 1991 existierende erfolgreiche Plattform arXiv: www.arxiv.org
+(30.09.2023).
+ Vgl. Open Archives Initiative Protocol for Metadata Harvesting: https://www.openarchives.org/
+pmh/ (30.09.2023).
+366 Ursula Arning et al.
+nehmlich dem schlichten, aber effizienten Dublin-Core- [DC], mittlerweile auch dem auf
+DC basierenden Datacite-Vokabular11) und einer OAI-Schnittstelle wird u. a. verlangt,
+Metadaten nicht ohne frei verfügbare Dokumente bereitzustellen. Der Kriterienkatalog
+des DINI-Zertifikats hat sich als De-facto-Standard etabliert und über die Jahre maßgeblich
+zur Verbesserung der Repositorienqualität beigetragen.
+Institutionelle wie auch fachliche Repositorien erfüllen damit wichtige Funktionalitäten
+für den Goldenen und Grünen Weg des Open Access. Mittlerweile ist die elektronische
+Open-Access-Veröffentlichung von Dissertationen weit verbreiteter Standard.
+Andere typische institutionelle textuelle Erstveröffentlichungen sind Materialien der sogenannten
+grauen Literatur, wie Projektberichte, Abschlussberichte oder auch Working
+Papers, aber auch Poster und Vortragsfolien. Weitere Dokumente werden in Form von
+Zweitveröffentlichungen – in der Regel in kommerziellen Verlagen publizierte qualitätsgeprüfte
+Inhalte – bereitgestellt, die über unterschiedliche Kanäle eingespeist
+werden.12
+Kontinuierliche Suchmaschinenoptimierung verbesserte die Sichtbarkeit der über
+Repositorien verfügbaren freien wissenschaftlichen Inhalte ebenso wie deren Harvesting
+durch Google Scholar sowie deren Verfügbarkeit in Nachweissystemen, wie etwa
+Bielefeld Academic Search Engine (BASE), OpenAIRE oder CORE.13 Der globale Zusammenschluss
+„Confederation of Open Access Repositories“ (COAR) entwickelte mit Next
+Generation Repositories (NGR)14 Konzepte, um neue und verbesserte Komponenten für
+Repositorien zu schaffen. Diese Entwicklungen spiegeln die Ausdifferenzierung von
+und steigenden Anforderungen an Repositorien wider. In diesem Kontext haben auch
+Forschungsdatenrepositorien über die Jahre zunehmend an Bedeutung gewonnen, die
+sich parallel zu textorientierten Repositorien herausgebildet hatten.15
+Nach Jahren bewusster Trennung kommt es wieder vermehrt zur Zusammenführung
+unterschiedlicher Repositorientypen. Vornehmlich aus Ressourcengründen werden
+Forschungsdaten trotz deren spezifischer Anforderungen in einigen Fällen in
+denselben Repositorien abgelegt wie Publikationen. Zudem werden Repositorien oft
+ Das Datacite-Vokabular wurde vor allem für Forschungsdaten entwickelt, wird aber zunehmend auch
+für textbasierte Plattformen eingesetzt. So empfiehlt das DINI-Zertifikat neben DC auch das Datacite-
+Vokabular. Die europäische Forschungsinformationssystem OpenAIRE (https://openaire.eu/, 30.09.2023)
+hat das Schema mit geringen Anpassungen ebenfalls für viele Arten von Datenlieferanten adaptiert.
+ Der Lieferdienst DeepGreen versorgt angeschlossene Open-Access-Repositorien automatisiert mit frei
+verfügbaren wissenschaftlichen Verlagsveröffentlichungen: https://info.oa-deepgreen.de/ (30.09.2023).
+ Google Scholar: https://scholar.google.com/, BASE: https://www.base-search.net/, CORE: https://core.
+ac.uk/, OpenAIRE s. FN 11 (30.09.2023).
+ Vgl. COAR: Next Generation Repositories, https://www.coar-repositories.org/news-updates/whatwe-
+do/next-generation-repositories/ (10.07.2023).
+ Vgl. Registry of Research Data Repositories (https://www.re3data.org/, 30.09.2023) sowie Kapitel 5.7
+„Forschungsdatenmanagement“.
+5.4 Open-Access-Repositorien und Universitätsverlage für eine offene Wissenschaft 367
+als Bereitstellungsumgebung für Publikationsdienste wie z. B. Universitätsverlage genutzt.
+Ebenfalls aus Praktikabilitäts- und Synergiegründen werden Hochschulbibliografien
+in Repositorien überführt, sodass Repositorien nicht mehr nur Datensätze mit
+dazugehörigen Volltexten oder digitalen Objekten enthalten, sondern auch reine Metadatensätze.
+Diese erweiterten Angebote werden zusätzlich um die Wissenschaftler:innen
+unterstützende Dienste wie z. B. Forschungsprofildienste, erweiterte Vernetzungsmöglichkeiten
+auf Basis von persistenten Identifikatoren u. a. zu Wissensgraphen
+oder um szientometrische Messverfahren erweitert.
+Die letztgenannten Entwicklungen führen die Repositorien in angrenzende Tätigkeitsfelder
+von Forschungsinformationssystemen, die vielerorts an Hochschulen und
+Forschungseinrichtungen umgesetzt wurden – denn auch in den Hochschulen und Forschungseinrichtungen
+haben Controlling und Auskunft über die Forschungsaktivitäten
+Einzug gehalten. Forschende und Leitungsebene erfüllen regelmäßig Berichtspflichten
+gegenüber externen Förderorganisationen und Geldgebern und stehen im Wettbewerb
+um die besten Rankingergebnisse. In der Konsequenz bilden sich Forschungsinformationssysteme16
+als Sammelstellen für die Erfassung von Forschungsinformationen über
+die Forschungsaktivitäten einer Einrichtung an vielen Standorten heraus und bringen
+neue Schnittstellen und Anwendungsszenarien mit sich. Diese sind an vielen Einrichtungen
+aus nachvollziehbaren Gründen mit den bislang in Repositorien verwalteten,
+meist textuellen und datenbezogenen Forschungsinhalten verknüpft. Dabei ergeben
+sich vielfältige Synergieeffekte und teilweise auch neue Anforderungen an die Positionierung
+etablierter institutioneller Publikationsdienste bis hin zu Mehrwertdiensten
+für Forschende, die herkömmliche Repositorien in der Regel allein nicht bereitstellen
+können.17 Denn auch wenn Publikationen weiterhin eine zentrale Rolle in der Forschungsberichterstattung
+spielen, so sind für die Berichterstattung doch zunehmend
+weitere, kontextuelle Fragestellungen von Bedeutung. Forschungsinformationssysteme
+gehen dabei über die bislang vorwiegend auf ihren Sammelauftrag ausgerichteten Repositorien
+hinaus. Beispiele sind Aussagen zur Anzahl der Publikationen oder zur
+Frage, welche Publikationen im Rahmen von Forschungsprojekten entstanden sind
+bzw. welche Drittmittelgeber für welchen Forschungsoutput zum Zuge kamen. Es gilt
+an jedem Standort abzuwägen, an welchen institutionellen Dienst diese erweiterten Erfassungsroutinen
+am besten anzugliedern sind.
+Im Laufe der letzten Jahre haben sich darüber hinaus neue Standards für die Forschungsberichterstattung
+international und national herauskristallisiert, die auch auf
+die Erfassung der Publikationstypen der Repositorien Auswirkungen haben. So führte
+der in Deutschland seit 2016 vom Wissenschaftsrat beförderte Kerndatensatz For-
+ Vgl. u. a. die Positionspapiere der DINI AG Forschungsinformationssysteme: https://dini.de/ag/fis/
+veroeffentlichungen-und-dokumente/ (10.07.2023).
+ Eine gute Übersicht liefert Beucke, Hauschke, Herwig, Höhner u. Schirrwagen 2022.
+368 Ursula Arning et al.
+schung18 dazu, dass das bislang in Deutschland für das DINI-Zertifikat empfohlene
+„Gemeinsame Vokabular der Publikationstypen“ überarbeitet und mit den vom KDSF
+vorgesehenen Publikationstypen harmonisiert wurde.19 Die durch den KDSF formulierten
+Anforderungen waren der Anlass, langjährige Routinen zu hinterfragen und
+mit neueren Entwicklungen abzugleichen.
+Neue Entwicklungen zielen darauf ab, institutionelle Repositorien und andere
+Publikationsdienste um Review-Workflows und Kommentierungen anzureichern und
+so dazu beizutragen, die Reputation der Dienste zu erhöhen. Dazu gehört zum Beispiel,
+Veröffentlichungen mit zusätzlichen Services zu verknüpfen. Auf europäischer Ebene
+ist exemplarisch die neue Publikationsplattform Open Research Europe für EU-Projekte
+zu nennen, die eine offene Begutachtung nach Veröffentlichung (Post Publication Peer
+Review) anbietet.20 Initiativen der Confederation of Open Access Repositories (COAR)
+wie die Notify-Initiative, die auf Repositorien abgelegte Veröffentlichungen mit externen
+Diensten wie Overlay-Journals und offene Begutachtungsdienste verknüpfen will,
+oder die o. g. NGR-Initiative, die für entsprechende Angebote die technischen Voraussetzungen
+schafft,21 verstehen Repositorien ebenfalls als Ausgangspunkt für neue zukunftsweisende
+Dienste für die Wissenschaft. All diese Entwicklungen sind noch nicht
+ausgereift, weisen in ihrer Gesamtheit jedoch in Richtung vorhandener Bedarfe und
+Interessen.
+4 Universitätsverlage und verlagsähnliche
+Publikationsdienste
+Wie in den Abschnitten 2 „Bestandsaufnahme der Publikationsdienste 2023“ und 3
+„Repositorien“ dieses Kapitels ausgeführt, hat sich der Funktionsumfang von vielen
+Repositorien entlang den Bedürfnissen der Wissenschaft ständig weiterentwickelt.
+Neue und in vielen Fällen zu den Repositorien komplementäre Services werden
+durch erweiterte fachliche und institutionelle Publikationsdienste angeboten. Dieser
+Bereich ist durch eine starke Dynamik gekennzeichnet und besitzt viele neue Facetten
+und Akteure. Letztere sind in der Regel wissenschaftsgeleitet (scholar-led), nicht kommerziell,
+einer offenen Wissenschaft verpflichtet und im rein digitalen oder (bei Büchern)
+hybriden Publizieren verortet. Unter diesen sind es vor allem Universitätsbzw.
+Hochschulverlage, die bereits auf eine lange Tradition zurückblicken können
+ Vgl. KDSF – Standard für Forschungsinformationen in Deutschland, https://www.kerndatensatz-for
+schung.de/ (17.03.2023).
+ Vgl. DINI AG Elektronisches Publizieren, DINI AG Forschungsinformationssysteme 2022.
+ Vgl. European Commission (2023): Open Research Europe, https://open-research-europe.ec.europa.
+eu/ (17.09.2024).
+ Vgl. FN 14.
+5.4 Open-Access-Repositorien und Universitätsverlage für eine offene Wissenschaft 369
+und die zu den ersten Angeboten gehörten, die nichtkommerzielle Wissenschaftsorientierung
+zeitgemäß ausgestalteten.
+4.1 Entwicklung der Universitätsverlage
+Nach den Verlagsgründungen der Neuzeit, des Barock und der Aufklärung als erster
+Welle von Universitätsverlagen (etwa Herder oder Vandenhoeck & Ruprecht) und der
+zweiten Welle im Zusammenhang von Universitätsgründungen zum Aufbau der
+neuen Gesellschaftsordnungen nach dem Zweiten Weltkrieg wurden die enormen Potenziale
+des Internets als Kommunikations- und Verbreitungsmedium zu Strategien
+erklärt und leiteten die dritte Welle von Universitätsverlagsgründungen ein.22 So empfahlen
+bereits der Wissenschaftsrat 2001 und die Hochschulrektorenkonferenz 2002 angesichts
+der Krise im wissenschaftlichen Publikationswesen, dass die wissenschaftliche
+Gemeinschaft wieder ins Zentrum der Wertschöpfungskette gerückt werden müsse und
+Hochschulen eigene Publikationswege aufbauen sollten.23 Die Bereitstellung im freien Zugriff
+wurde dabei besonders betont. Den Hochschulbibliotheken wurde in diesem Prozess
+eine Rolle zugewiesen, die – über deren Kernkompetenz der traditionellen Literaturversorgung
+hinaus – die Schaffung von Publikationsmöglichkeiten vorsah.24 Diese Strategien
+beruhten auf bereits erfolgreichen Prozessen, etwa dem Projekt Diss-Online, das Mitte
+der 1990er Jahre im Verbund die ersten verlässlichen Repositorien für die rein digitale
+Veröffentlichung und Verbreitung von Dissertationsschriften aufbaute. Auch die Schaffung
+von Strukturen für die Massenretrodigitalisierung von Altbeständen und die bibliothekarischen
+Routinen der Sicherung von sogenannter grauer Literatur sowie die
+Herausgabe von Ausstellungskatalogen und Schriften zu den eigenen Spezialsammlungen
+waren wichtige Voraussetzungen. Folgerichtig stehen heute viele wissenschaftliche
+Publikationsdienste an Forschungseinrichtungen – ob sie Universitätsverlag, Publishing-
+oder Publikationsdienst heißen – in enger Verbindung zu den Repositorien der
+jeweiligen Einrichtung. Verlage, die zur Bereitstellung ihrer Publikationen die Infrastruktur
+des Repositoriums nutzen, nehmen aber vor dem Hintergrund der wissenschaftlichen
+Profilierung in der Regel eine klare Differenzierung der Primärpublikationen mit verlegerischer
+Bearbeitung (Begutachtungsprozesse, Beratung, Corporate Design etc.) von den
+Zweitveröffentlichungen sowie den niederschwelligen Publikationsformen (Working Papers,
+Berichte, Blogposts) vor. Die Aufnahmekriterien der Arbeitsgemeinschaft Univer-
+ Siehe auch Bargheer u. Pabst 2016.
+ Vgl. Wissenschaftsrat 2001, Hochschulrektorenkonferenz: Zur Neuausrichtung des Informationsund
+Publikationssystems der deutschen Hochschulen. Beschluß der Hochschulrektorenkonferenz vom
+05.11.2002. https://www.hrk.de/fileadmin/_migrated/content_uploads/Empfehlung_Bibliothek.pdf (10.07.2023).
+ Vgl. Wissenschaftsrat 2001: S. 18 ff.
+370 Ursula Arning et al.
+sitätsverlage, deren Mitglieder sich als „institutionelle Publikationsdienste für eine offene
+Wissenschaft“ verstehen, berücksichtigen diese Mehrfachnutzung.25 Sie setzen aber voraus,
+dass begutachtete Primärpublikationen in erkennbaren Sammlungen präsentiert
+werden. Einige Mitglieder der AG Universitätsverlage schalten daher eigene Webseiten –
+z. B. mit Webshop-Funktionalitäten – für die Verlagspublikationen vor oder organisieren
+diese in einer separaten Facette des Repositoriums.
+Das Konzept der wissenschaftlichen Publikationsdienste aus den Informationsinfrastrukturen
+der Forschungseinrichtungen selbst heraus geht auf: Allein die deutschsprachigen
+Universitätsverlage haben inzwischen bald 8 000 Bücher im Open Access
+veröffentlicht. Diese Leistung erbringen sie in der Regel als kleine Einheit an einer wissenschaftlichen
+Bibliothek und veröffentlichen pro Verlag zwischen 20 bis und 150 Bücher
+pro Jahr. Ein wachsender Anteil an Universitätsverlagen bringt zudem auch
+wissenschaftliche Zeitschriften heraus.26 Viele dieser Verlage und Publikationsdienste
+gehören organisatorisch zu denjenigen Bibliotheksbereichen, die auch für den Repositoriumsbetrieb
+oder die Forschungsinformationssysteme zuständig sind. Die Anzahl dieser
+Eigenverlage steigt weiterhin. Sie haben sich unter dem Dach der Arbeitsgemeinschaft
+der Universitätsverlage (31 Mitglieder, davon sieben assoziierte) zusammengeschlossen,
+um sich gegenseitig durch Fachkompetenz zu unterstützen, aber auch, um politisch
+nach außen zu wirken.27 Eingebettet in die Servicestruktur ihrer Institution, können sie
+auf die Nähe zu den Forschenden ihrer Häuser zählen, sie wissen von deren Bedarfen
+und können proaktiv Services aufbauen, um die Dissemination von Forschungserkenntnissen
+zu erleichtern und zu beschleunigen. Einen aktuellen Ansatz bieten Publikationsportale
+wie PUBLISSO, das Open-Access-Portal für die Lebenswissenschaften, die
+unterschiedliche Publikationsangebote in einer übergreifenden Dienstleistung vereinen.28
+ Vgl. Arbeitsgemeinschaft Universitätsverlage: https://www.ag-univerlage.de; Arning, Bargheer,
+Meinecke, Schobert u. Tobias 2020.
+ Im Jahr 2023 wird in der Arbeitsgemeinschaft eine Umfrage zu Open-Access-Zeitschriften unter
+den Mitgliedern durchgeführt. Die Ergebnisse werden im Herbst 2023 vorliegen. Erste Erkenntnisse
+deuten auf eine Zahl von Open-Access-Zeitschriften mindestens im höheren zweistelligen Bereich,
+davon mindestens 60 Prozent im Diamond Open Access.
+ Beispiele: Arning, Bargheer, Meinecke, Schobert u. Tobias 2022; Arbeitsgemeinschaft Universitätsverlage
+2018. Die Bedeutung der Universitätsverlage und vergleichbarer Publikationsdienste zeigt sich
+auch auf europäischer Ebene. In der 2010 gegründeten Association of European University Presses
+sind zurzeit 42 Voll- sowie je drei assoziierte und unterstützende Mitglieder organisiert. https://www.
+aeup.eu (30.09.2023).
+ Vgl. PUBLISSO: https://www.publisso.de/ (17.03.2023).
+5.4 Open-Access-Repositorien und Universitätsverlage für eine offene Wissenschaft 371
+4.2 Aufgaben der Universitätsverlage
+Diese Verlage und Publikationsdienste stärken die Autor:innenrechte durch Beratung
+zur Vergabe von offenen Lizenzen und setzen Maßnahmen zur Qualitätssicherung in
+traditioneller Form (Peer Review) um. Gleichzeitig können sie wegen ihrer Forschungsnähe
+als Laborumgebung für innovative Publikationsformen wie z B. von Living
+Handbooks29 fungieren. Im Programm der genannten Dienste befinden sich
+vereinzelt bereits Publikationen, die sich als enhanced publications bezeichnen lassen
+und die im freien Zugriff im Internet die vollen Potenziale des digitalen Publizierens
+ermöglichen, etwa wenn Struktur und Inhalt maschinenlesbar differenziert sind und
+die wissenschaftliche Präzision durch nutzungsseitige Parametrisierung kontrolliert
+wird. Der zunehmende Umstieg auf XML-basiertes Publizieren in der Wissenschaft
+wird nicht auf investitionsstarke Großverlage beschränkt sein. Jedoch wird der XMLEinsatz
+den bruchlosen Übergang von Wissenschaftsergebnissen in parametrisierter
+Form in die Präsentationsform (Layout, Zusatzfunktionalitäten, Datenvisualisierungen)
+zwar erleichtern, erfordert aber zunächst auch prototypisches Experimentieren,
+bevor diese Ansätze in die Breite ausgerollt werden können.
+Open-Science-Ansätze werden voraussichtlich tiefgreifende Veränderungen im
+wissenschaftlichen Kommunikationsprozess nach sich ziehen, besonders da, wo die
+Disziplinen in ihrem Forschungsansatz darauf angewiesen sind, komplexe Daten zu
+prozessieren sowie auszuwerten und diese Prozesse nachvollziehbar und überprüfbar
+zu präsentieren. Veröffentlicht werden nicht nur die textuellen Repräsentationen
+der Forschungsergebnisse, sondern auch die zugrundeliegenden Daten sowie die Auswertungsprozesse
+oder Datenkompilierungen und -visualisierungen. Dass dies als
+vollwertige Publikation mit dem Potenzial des Reputationsgewinns betrachtet wird,
+ist bisher noch die Ausnahme und findet dementsprechend erst zögerlich seinen Weg
+in die konventionelle Verlagswelt. Auch innovative Begutachtungsformen wie Open
+Peer Review müssen technisch ermöglicht, arbeitsteilig organisiert und dargestellt
+werden, damit sie ihren Weg in die Praxis finden können.
+Die repositoriumsbasierten oder -nahen Publikationsdienste und Universitätsverlage
+bereiten dafür den Weg. Repositorien bieten die technische Grundlage für die
+Ausschöpfung des Potenzials, weil die verlegerischen Dienstleistungen, Markenbildung
+und Mehrwerte in der Verzahnung mit den technischen Möglichkeiten des zugrundeliegenden
+bzw. verknüpften Repositoriumsbetriebs fortentwickelt werden.
+Dies kommt der Verbreitung und Sichtbarkeit von verlegerisch bearbeiteten Publika-
+ Beispiele: Hamburg University Press mit dem frühen auf Mediawiki-basierten Pilotprojekt „Living
+Handbook of Narratology“ (archivierte Version https://www-archiv.fdm.uni-hamburg.de/lhn/), aktuell
+PUBLISSO Living Handbooks (https://books.publisso.de) und Living Enzyklopädien (https://budrich.pu
+blisso.de/) sowie das an der FU Berlin entwickelte Open Encyclopedia System (https://www.open-encyclo
+pedia-system.org/), mit dem verschiedene Anwendungen umgesetzt werden (alle: 17.09.2024).
+372 Ursula Arning et al.
+tionen zugute. Die Universitätsverlage und Publikationsdienste aus der Wissenschaft
+ermöglichen damit eine deutlich höhere Anschlussfähigkeit ihrer Publikationen, als
+es Wissenschaftsverlage vergleichbarer Größe in der Regel bieten können.
+5 Wie geht es weiter: Diamond Open Access und
+eigenverlegerische Aktivitäten liegen im Trend
+Wissenschaftliche Bibliotheken sind als Publikationsdienstleister etabliert. Schon
+lange sind sie durch den Aufbau und Betrieb von leistungsfähigen, gut vernetzten Repositorien
+im Bereich Open-Access-Publizieren aktiv, die Publikationen sind über
+standardisierte Schnittstellen weltweit sichtbar. Das Engagement von Bibliotheken, eigene
+Plattformen aufzubauen, steigert sich zudem seit einigen Jahren. Publikationsunterstützung
+ist daher inzwischen als Kernaufgabe von wissenschaftlichen Bibliotheken
+zu bezeichnen. Die Bibliotheken leisten durch diese Dienste einen Beitrag zu einer
+vielfältigen Publikationslandschaft (Stichwort Bibliodiversität) und erweitern die
+Wahlmöglichkeiten der Wissenschaftler:innen bei der Veröffentlichung ihrer Forschungsergebnisse
+insbesondere durch selbstverantwortete Publikationsangebote,
+die zudem mit nationalen und internationalen wissenschaftspolitischen Anforderungen
+und Entwicklungen konform gehen. Bibliotheken bringen dabei ihre Kompetenzen
+u. a. im Metadatenmanagement ein, bei der Beratung, im Verständnis für Open
+Access, bei der Lizenzvergabe (CC-Lizenzen) und dem Rechtemanagement (z. B. einfache
+Verwertungsrechte).
+Es wurde bereits gezeigt, dass solch ein Engagement wissenschaftspolitisch erwünscht
+ist. Der Deutsche Bibliotheksverband (dbv) legt im Einklang mit entsprechenden
+Stellungnahmen in seinem Papier „Wissenschaftliche Bibliotheken 2025“ dar, dass
+eine gelungene Open-Access-Transformation auch eine Änderung der wissenschaftlichen
+Publikationskultur bedeutet. Er plädiert daher u. a. für eine „Differenzierung und
+Weiterentwicklung des Publikationsmarktes“ sowie die „Entwicklung moderner Publikationsformate
+(„enhanced publication“)“ und formuliert sehr klar die Anforderung an
+Bibliotheken, neue Etatstrukturen bzw. -modelle zu erarbeiten und auch Publikationsservices
+weiterzuentwickeln.30 Gleichermaßen postuliert das dbv-Strategiepapier die
+„Publikationsdienstleistungen“ als eines von acht Handlungsfeldern wissenschaftlicher
+Bibliotheken und stellt es auf Platz zwei. Auch das u. a. vom Wissenschaftsrat propagierte
+Informationsbudget-31 ist ein Wegweiser in diese Richtung. Durch den zentralen
+Zusammenfluss der Gelder in den Einrichtungen soll eine einheitliche Open-Access-
+Transformation befördert werden, z. B. auch für den Aufbau oder die Weiterentwick-
+ Vgl. Deutscher Bibliotheksverband 2018: S. 16.
+ Vgl. Wissenschaftsrat 2022.
+5.4 Open-Access-Repositorien und Universitätsverlage für eine offene Wissenschaft 373
+lung von Publikationsdiensten. Bibliotheken, die durch Etatumschichtungen in den Aufbau
+und die Weiterentwicklung von Publikationsdiensten investieren, können somit
+die Informationsversorgung dauerhaft und unabhängig von kommerziellen Interessen
+ermöglichen. Auch die IFLA hat in ihrem Report innerhalb der wichtigsten fünf Trends
+der globalen Informationswelt die technologische Transformation und den umfassenden
+Zugang zu Information hervorgehoben.32
+Das Engagement der Bibliotheken auf dem Feld des wissenschaftseigenen Publizierens
+wird entsprechend durch Maßnahmen der Forschungsförderer und Hochschulen
+unterstützt. So sollen z. B. für die Bewilligung von Drittmittel-Anträgen nur
+noch die wichtigsten Publikationen aus Sicht der Antragstellenden angegeben werden.
+Sie fordern z. B. für die Bewilligung von Drittmittel-Anträgen (DFG) keinen Journal
+Impact Factor mehr bzw. beziehen – wie im neuen Berliner Hochschulgesetz
+formuliert ist33 – auch Open-Science-Praktiken in die Bewertung von Wissenschaftler:innen
+mit ein. Viele Einrichtungen haben zudem die DORA-Declaration und CoARA
+unterzeichnet und unterstützen damit die Beurteilung der Publikationen nach ihren
+Inhalten, statt und nicht nach ihrem Publikationsort – ein Verfahren, das für die Wissenschaftler:
+innen aufwändiger, aber in jedem Fall auch fairer ist.34
+Als nicht-kommerzielle Anbieter der öffentlichen Hand betreiben die wissenschaftlichen
+Bibliotheken kein Data Tracking zur ökonomischen Optimierung ihres Serviceportfolios
+oder zum Weiterverkauf an Dritte. Die Daten der Forschenden sind bei ihnen
+sicher. Auch nachhaltige Themen wie die Langzeitarchivierung sind im Blick der öffentlichen
+Hand. So wird vermieden, dass Forschungserkenntnisse, z. B. durch Verlagsschließungen
+oder technische Innovationen, nicht mehr zugänglich sind.
+Häufig können sich Publikationsdienste öffentlicher Einrichtungen nicht selbst
+um die Technik kümmern und nutzen Kooperationspartner, darunter auch kommerzielle
+Verlage oder Dienstleister. Daraus ergibt sich die Erwägung, ob Services in Eigenregie
+aufgebaut werden oder über gemeinsame Infrastrukturen Synergien genutzt
+werden können. Ein Beispiel für einen kooperativen Verlag zwischen vier Einrichtungen
+ist Berlin Universities Publishing (BerlinUP).35
+Die Nutzung von Open-Source-Software als technische Grundlage befördert Kooperationen
+und die Nachnutzung von Ressourcen, wodurch Synergien geschaffen werden.
+Dennoch sind damit Kosten verbunden. Hier sind auch die Forschungsförderer gefragt,
+ Vgl. IFLA: Trend Report 2021 Update. 2022. https://repository.ifla.org/handle/123456789/1830
+(30.09.2023).
+ Vgl. Gesetz über die Hochschulen im Land Berlin (Berliner Hochschulgesetz – BerlHG) in der Fassung
+vom 14.09.2021, § 41 (5): „Die Hochschulen fördern die Anerkennung von Praktiken offener Wissenschaft
+(Open Science) bei der Bewertung von Forschungsleistungen im Rahmen ihrer internen
+Forschungsevaluation und bei Einstellungsverfahren.“ https://gesetze.berlin.de/bsbe/document/jlr-
+HSchulGBE2011V27P41 (30.09.2023).
+ Declaration on Research Assessment (DORA: https://sfdora.org/), Coalition for Advancing Research
+Assessment (CoARA: https://coara.eu/) (alle: 30.09.2023).
+ Berlin Universities Publishing: https://berlin-universities-publishing.de (30.09.2023).
+374 Ursula Arning et al.
+die zum Teil schon Infrastrukturen fördern (DFG, BMBF, EU), aber oft von den Institutionen
+Eigenleistungen und Nachhaltigkeit verlangen, die diese durch die zunehmenden
+Kosten der Infrastrukturen allein häufig nicht leisten können. Umso wichtiger ist
+der Fokus auf Nachhaltigkeit beim Aufbau technischer und organisatorischer Infrastrukturen.
+Diese schafft eine wesentliche Voraussetzung für die Unterstützung einer
+offenen Wissenschaft durch Open-Access-Repositorien und eigenverlegerische Dienste
+wie Universitätsverlage.
+Das macht deutlich, dass sich Repositorien aktuell zu umfassenden forschungsunterstützenden
+Plattformen für die Wissenschaft entwickeln. Die funktionale Erweiterung
+der Repositorien von einer nachhaltigen, distribuierenden Präsentationsplattform hin
+zu einem Ausgangspunkt für erweiterte und übergreifende Angebote, die qualitative
+wie quantitative Nachnutzung von Publikationen und deren Management ermöglichen,
+bietet viel Potenzial. Sie schafft einen fließenden Übergang zu Universitätsverlagen und
+vergleichbaren eigenverlegerischen Aktivitäten sowie verlagsähnlichen institutionellen
+und fachlichen Diensten und Beratungsangeboten. Hier gilt es, Stärken und Schwächen
+dieser Entwicklung genau in den Blick zu nehmen. Der Verlust der Trennschärfe bedingt
+die zunehmende Notwendigkeit der Abgrenzung, Neudefinition oder Neuaufstellung
+der Dienste, um die besten Lösungen für die Wissenschaft zu schaffen. Dazu gehört
+es auch, sich weiter von digitaler Offenheit (Open Access, Open Science) leiten zu lassen
+und die Verantwortung in den Händen wissenschaftlicher Einrichtungen zu belassen.
+Literatur
+Arbeitsgemeinschaft Universitätsverlage: Sieben Positionen zu institutionellen Publikationsinfrastrukturen
+und Universitätsverlagen. In: Zenodo (2018). https://doi.org/10.5281/zenodo.2560004.
+Arbeitsgemeinschaft Universitätsverlage: Qualitätsstandards für Open-Access-Bücher (Version 2). In:
+Zenodo (2022). https://doi.org/10.5281/zenodo.7075761.
+Arning, Ursula: Aufbau einer qualitätsgesicherten Open-Access-Publikationsplattform – die drei
+wichtigsten Überlegungen aus Sicht einer Publikationsmanagerin. Gemeinsamer Blog der DINI AG
+Forschungsinformationssystem und Elektronisches Publizieren. 15.03.2021. https://doi.org/10.57689/
+DINI-Blog.20210315.
+Arning, Ursula, Margo Bargheer, Isabella Meinecke, Dagmar Schobert u. Regine Tobias:
+Mitgliedschaftskriterien der Arbeitsgemeinschaft der deutschsprachigen Universitätsverlage. In:
+Zenodo (2020). https://doi.org/10.5281/zenodo.3954902.
+Arning, Ursula, Margo Bargheer, Isabella Meinecke, Dagmar Schobert u. Regine Tobias: Open-Access-
+Transformation für Bücher: die Rolle von institutionellen Verlagen und Publikationsdiensten. In:
+Zenodo (2022). https://doi.org/10.5281/zenodo.6346234.
+Bargheer, Margo u. Jutta Pabst: „Being small is not a fault“: Making sense of the newer generation of
+German-language university presses. In: Learned Publishing 29 (2016), H. S1, S. 335–341. https://doi.
+org/10.1002/leap.1053.
+Beringer, Constanze u. Ursula Arning: Leitfaden zum Aufbau von Open-Access-Publikationsplattformen für
+den Goldenen und Grünen Weg. ZB MED – Informationszentrum Lebenswissenschaften 2020.
+https://doi.org/10.4126/FRL01-006419770.
+5.4 Open-Access-Repositorien und Universitätsverlage für eine offene Wissenschaft 375
+Beucke, Daniel, Isabella Meinecke u. Thomas Severiens: Warum wird das DINI-Zertifikat immer wieder
+angepasst? In: ABI Technik 42 (2022), H. 3, S. 226. https://doi.org/10.1515/abitech-2022-004.
+Beucke, Daniel, Christian Hauschke, Sebastian Herwig, Kathrin Höhner u. Jochen Schirrwagen: Synergien
+und Herausforderungen bei der Integration von Repositorien mit Forschungsinformationssystemen.
+In: Zenodo (2022). https://doi.org/10.5281/zenodo.7458529.
+Deutscher Bibliotheksverband: Wissenschaftliche Bibliotheken 2025. Strategiepapier zur Gestaltung von
+Zukunftsaufgaben im wissenschaftlichen Bibliothekswesen. 2018. https://www.bibliotheksverband.
+de/sites/default/files/2022-02/Strategiepapier_Wissenschaftliche%20Bibliotheken%202025%20-%
+20FINAL.pdf (17.03.2023).
+DINI-Arbeitsgruppe Elektronisches Publizieren: DINI-Zertifikat für Open-Access-Publikationsdienste 2022.
+https://doi.org/10.18452/24678.
+DINI-Arbeitsgruppe Forschungsinformationssysteme: Forschungsinformationssysteme in Hochschulen
+und Forschungseinrichtungen. Positionspapier. 2016. https://doi.org/10.5281/zenodo.14828
+DINI-Arbeitsgruppe Forschungsinformationssysteme: Management von Forschungsinformationen in
+Hochschulen und Forschungseinrichtungen. Eine Standortbestimmung 2022. https://doi.org/10.
+18452/25440.
+Kultusministerkonferenz: Open Access in Deutschland. Gemeinsame Leitlinien von Bund und Ländern.
+2023. https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/772960_Open_Access_in_Deutsch
+land (10.07.2023).
+Rat der Europäischen Union: Wege des hochwertigen, transparenten, offenen, vertrauenswürdigen und
+fairen wissenschaftlichen Publizierens. Schlussfolgerungen (gebilligt am 23.03.2023). https://data.con
+silium.europa.eu/doc/document/ST-9616-2023-INIT/de/pdf (10.07.2023).
+Wissenschaftsrat: Empfehlung zur digitalen Informationsversorgung durch wissenschaftliche Bibliotheken
+(Drs. 4935-01 vom 13.07.2001). 2001. https://www.wissenschaftsrat.de/download/archiv/4935-01
+(10.07.2023).
+Wissenschaftsrat: Empfehlungen zur Transformation des wissenschaftlichen Publizierens zu Open Access.
+2022. https://doi.org/10.57674/fyrc-vb61.

@@ -1,0 +1,639 @@
+﻿Thorsten Meyer
+9.3 Zielgruppenorientierte Kommunikation
+
+und Bibliotheksdienste
+
+1 Einleitung
+Das folgende Kapitel beschäftigt sich mit der komplexen Verknüpfung eines kollabo-
+rativen Miteinanders aus Nutzenden von Bibliotheken und den Personen in den Ein-
+richtungen, die dafür Sorge tragen, dass eine moderne Bibliothek die Ansprache,
+Dienstleistung und den Lernort (als „Dritten Ort“) bietet, den die verschiedensten Ziel-
+gruppen erwarten. Die Zielgruppenorientierung oder -definition steht vorne an, denn
+ohne festzulegen, an wen sich ein Angebot richtet und wie diese Gruppe sich in der
+Bibliothekswelt bewegen möchte, kann ein gut gemeintes und professionell ausgestal-
+tetes Angebot sehr schnell am Bedarf vorbeigehen. Es gilt also zunächst zu erfahren,
+für wen die Bibliothek da ist. Wer sind die Nutzenden und was benötigen sie für ihre
+Arbeit und ihren Aufenthalt am Lernort oder in der digitalen Anwendung? Dieser im
+besten Fall wissenschaftlich untermauerte Prozess der Herausarbeitung der Zielgrup-
+pen erfordert neben ausreichender Zeit und Sorgfalt auch eine kritische Auseinander-
+setzung mit der eigenen Perspektive und somit die Fähigkeit, sich in die „Gegenseite“
+zu versetzen. Zunehmend wird es immer mehr und immer unterschiedlichere Ziel-
+gruppen geben, da auch Studierende, Forschende oder Lehrende durch die Nutzung
+neuer Tools und Methoden unterschiedlichste Bedarfe an Funktionalitäten von Biblio-
+theksservices selbst entwickeln.
+
+In der dann folgenden Kommunikation mit der Zielgruppe geht es zunächst ganz
+klassisch darum, dass der zu vermittelnde Inhalt so gestaltet und an die Empfänger-
+gruppe transportiert wird, dass er verstanden und richtig eingeordnet wird. Dabei darf
+es möglichst wenig Unklarheiten, Interpretationsspielraum und Potential für Rückfra-
+gen geben. Anders als z. B. im Produktmarketing ist die Zielgruppenkommunikation in
+einer Bibliothek zunehmend eine Einbahnstraße. Zwar lässt sich an Dokumenten-
+Downloads, physischen Ausleihen von Medien oder Buchungen zu Informationsver-
+anstaltungen ablesen, dass die Botschaft verstanden wurde, trotzdem kommt aber eine
+weitere Dimension hinzu und wird sogar vermehrt aktiv eingefordert: Nutzende reagie-
+ren unmittelbarer als früher auf ein Angebot und suchen den Austausch. Ein Großteil
+der Zielgruppen ist es durch eigene Mediennutzungsaktivitäten (z. B. Social Media,
+Suchmaschinen, Open AI) gewohnt, schnelle und fundierte Antworten auf Fragen zu be-
+kommen. Kommunikation geht in beide Richtungen und erfordert auch von den Biblio-
+theksbetreibenden und den Beschäftigten der Benutzungsdienste eine nahezu jederzeit
+abrufbare Sachkompetenz, Hilfestellung und die Fähigkeit, Bedarfe zu erkennen, bevor
+die Zielgruppe einen Workaround um die Bibliothek herum findet. Dabei hat sich der
+Schwerpunkt der direkten Ansprache an Service- und Informationstheken verlagert
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-043
+
+
+
+752 Thorsten Meyer
+
+hin zu einer Mischung aus physischem Kontakt und digitalen Medien, wie z. B. Mail-
+oder Chatsystemen. Erste Bibliotheken experimentieren mit einer neuen Generation
+von Chatbots und evaluieren deren Umsetzbarkeit.
+
+Neue Systeme für sich verändernde Zielgruppen generieren neue Bibliotheksser-
+vices. Dabei führt jede neue Dienstleistung zu mehr und anderer Kommunikation, so-
+wohl zu deren Implementierung als auch in der späteren Begleitung der Anwendenden.
+Umsetzungsbeispiele für zielgruppenorientierte Bibliotheksdienste sind ebenfalls Be-
+standteil dieses Kapitels.
+
+2 Definition von Zielgruppen
+Um die Angebote und Dienstleistungen optimal auf die Bedürfnisse der Nutzenden ab-
+zustimmen, bedarf es einer genaueren Kenntnis dieser (unterschiedlichen) Bedürf-
+nisse. Auch die Kommunikation mit den Zielgruppen sollte darauf basieren, die
+Nutzenden und ihre Anliegen zu kennen, um bspw. auf neue Angebote oder generelle
+Themen wie etwa Open Access aufmerksam zu machen.
+
+Dabei geht es zunächst darum, die Zielgruppen der Bibliothek zu identifizieren.
+Des Weiteren sind Bedarfsanalysen und Nutzenden-Feedback hilfreich und wichtig.
+Ein weiterer wichtiger unterstützender Aspekt ist die Einbindung der Zielgruppen.
+Hier haben sich die unterschiedlichen Herangehensweisen im Rahmen der User Expe-
+rience (UX) in den letzten Jahren sehr gut etabliert.
+
+In diesem Abschnitt werden zum einen die potentiellen Nutzendengruppen dar-
+gestellt und einige UX-Herangehensweisen erläutert. Für eine überregionale Informa-
+tionsinfrastruktur gibt es noch eine weitere Zielgruppe, die ebenfalls vorgestellt wird.
+
+2.1 (Mögliche) Zielgruppen für wissenschaftliche Bibliotheken
+
+Eine wichtige Zielgruppe für wissenschaftliche Bibliotheken sind Studierende, die in der
+Regel intensive Nutzende der Bibliothek als Lernort, aber auch als Informationszugang
+sind. Entsprechend ihrer Studiensituation können hier verschiedene Gruppen unter-
+schieden werden, wie z. B. Bachelor- oder Masterstudierende, Promovierende oder auch
+internationale Studierende. Für jede dieser Gruppen gibt es möglicherweise spezifische
+Bedürfnisse und Anforderungen an die Bibliothek, die berücksichtigt werden müssen.
+Eine weitere Zielgruppe sind Lehrende und Forschende, die die Bibliothek weniger als
+Lernort und mehr als Infrastrukturdienstleisterin für ihre wissenschaftliche Arbeit nut-
+zen. Dazu gehören z. B. Publikationsservices, wie Open Access Publizieren, Forschungs-
+datenmanagement oder die Betreuung von Semester- oder Handapparaten.
+
+
+
+9.3 Zielgruppenorientierte Kommunikation und Bibliotheksdienste 753
+
+Neben diesen beiden großen Zielgruppen gibt es auch weitere Nutzergruppen,
+die in wissenschaftlichen Bibliotheken bedient werden können. Hierzu zählen z. B.
+Schüler:innen, die für ihre Facharbeiten oder Referate auf die Bibliothek zurückgrei-
+fen, aber auch Alumni, die nach ihrem Studium weiterhin Interesse an wissenschaftli-
+cher Literatur haben, oder die interessierte Öffentlichkeit. Diese Zielgruppen werden
+im Folgenden nicht näher betrachtet.
+
+Um die Bedürfnisse und Anforderungen der verschiedenen Zielgruppen zu ermit-
+teln, können vielerlei Methoden wie z. B. Umfragen, Feedbackgespräche, Interviews
+oder Analyse von Nutzungsdaten genutzt werden. Auf Basis dieser Informationen
+können dann gezielte Kommunikations-, aber auch Marketingmaßnahmen entwickelt
+werden, die die Zielgruppen ansprechen und auf die Angebote der Bibliothek auf-
+merksam machen.
+
+2.2 Besonderheit für die ZBW
+
+Die ZBW bietet seit ihrem Bestehen ihre Dienste und Services in einem großen Maße
+nicht direkt den o. g. Nutzenden an, sondern fungiert mittelbar als Dienstleister für
+andere Bibliotheken. Damit erfüllt sie ihren satzungsgemäßen Auftrag.1 Daher sind
+für eine Einrichtung wie die ZBW Informations- und wissenschaftliche Infrastruktur-
+einrichtungen in Deutschland eine weitere wichtige, wenn nicht gar die wichtigste
+Zielgruppe. Auch international ist diese Zielgruppe für die ZBW relevant, vor allem,
+um Best Practices aus anderen Ländern nach Deutschland und in die eigenen Dienst-
+leistungen einzubringen.
+
+2.3 Einbindung von Zielgruppen (UX)
+
+Neben klassischen Herangehensweisen der Nutzendenbefragung über Umfragen oder
+qualitative Interviews hat sich in den letzten Jahren insbesondere die Anwendung
+von UX-Methoden etabliert. Diese werden in der Regel im direkten Kontakt mit den
+Nutzenden angewandt.
+
+User Experience richtet sich grundlegend an einer umfassenden Perspektive der
+Nutzenden aus. Die Idee kommt ursprünglich aus der Software-Entwicklung mit dem
+Ziel, alle Aspekte der Anwendung z. B. einer Benutzungsoberfläche durch die Nutzen-
+den einzubeziehen. Es geht um menschenzentrierte Gestaltungsaktivitäten und Pla-
+nungen.2 Dazu gehören die einfache Nutzbarkeit, der Nutzen der Anwendung an sich,
+aber auch das Erlebnis, die Anwendung zu nutzen, was Spaß machen oder zumindest
+
+ Vgl. ZBW 2022: § 2 Stiftungszweck.
+ Vgl. Geis u. Tesch 2019: S. 40–41.
+
+
+
+754 Thorsten Meyer
+
+effizient sein soll. Optimal läuft es dann, wenn Nutzende den Service wiederholt nut-
+zen, weil die Aspekte gut bedient werden. User Experience basiert auf den Ergebnis-
+sen eines oder mehrerer Design-Prozesse.3
+
+In Bibliotheken können diese Methoden sowohl für die Verbesserung von Disco-
+very Services oder andere digitale Angebote genutzt werden als insbesondere auch für
+die Weiterentwicklung des Lernortes. So können die Nutzenden gezielt in die Gestal-
+tung der Lernorte vor Ort eingebunden werden. Die UX-Methoden unterstützen dies in
+einer strukturierten und zielführenden Weise. Durch Begehungen mit den Nutzenden
+können u. a. Laufwege für bestimmte Aktivitäten wie Scannen oder Nutzung des Frei-
+handbestands ermittelt werden. Die Erkenntnisse können zu einer Weiterentwicklung
+der Anordnung der physischen Angebote führen, wenn dies baulich möglich ist. Damit
+sind die Erfahrungen der Nutzenden in der direkten Praxis in die Gestaltung des Lern-
+ortes eingeflossen. Dabei können auch die unterschiedlichen Aufenthaltsgründe4 der
+Nutzenden für die Entwicklung verschiedener Nutzungsszenarien5 und Use Cases ge-
+nutzt werden, die zusammen mit den aktiv beteiligten Nutzenden möglichst nah an der
+Vorstellung eines optimalen Lernortes liegen.
+
+2.4 Was ist sonst noch wichtig?
+
+Die Definition von Zielgruppen und die Identifizierung ihrer Bedürfnisse ist ein wichtiger
+Schritt, allerdings nur der Anfang. In einer Zeit stetig voranschreitender und häufig dis-
+ruptiver technischer Entwicklungen modifizieren sich die Bedürfnisse der Zielgruppen
+vermutlich nicht grundlegend, jedoch verändern sich die Anforderungen an die Biblio-
+theksservices. Mit der Veröffentlichung von ChatGPT als OpenAI wird die Anwendung
+generativer KI-Systeme für das Auffinden von Informationen und die Nutzung der KI für
+die Erstellung der eigenen Haus- und Abschlussarbeiten vermeintlich umgehend einfa-
+cher. Dabei sind die aktuellen Systeme auf Grund unvollständiger Datenzugänge (noch)
+gar nicht in der Lage, wissenschaftlich fundierte und vollständige Informationen zu lie-
+fern.6 Damit verbunden sind neue Anforderungen an Recherchezugänge und Funktiona-
+litäten von Bibliotheksdiensten. Gleichzeitig verändern sich auch unter Umständen die
+Schwerpunkte bei der Beratung und Schulung der Nutzenden, insbesondere der Studie-
+
+ Für eine grundlegende Einführung in User Experience und der Anwendung in Bibliotheken
+vgl. Priestner 2021.
+ Z. B. Verweilzeiten, Lese-, Schreib- oder Lern-Zeiten.
+ Z. B. verschiedene Verweilmöglichkeiten durch das Einrichten von Arbeits- und Pausenräumen, in
+denen sich die Nutzenden wohlfühlen.
+ So hat ChatGPT derzeit gar keinen Zugang zu den Volltexten lizenzpflichtiger wissenschaftlicher
+Zeitschriften, welche nach wie vor den größten Anteil des wissenschaftlichen Diskurses ausmachen.
+Im Gegensatz dazu könnten Instrumente der sogenannten „explainable AI“ genutzt werden, die im ei-
+genen Recherchekontext einer Bibliothek transparenter die Quellen benennen.
+
+
+
+9.3 Zielgruppenorientierte Kommunikation und Bibliotheksdienste 755
+
+renden im Umgang mit wissenschaftlichen (Des-)Informationen und ihrer Nutzung. Die
+Bewertung von Informationen (Informationskompetenz) ist weiterhin von großer Bedeu-
+tung, allerdings ist auch die transparente Nutzung von KI-generierten Informationen zu
+klären und zu schulen.7
+
+3 Umsetzungsbeispiele
+Im folgenden Abschnitt sollen verschiedene Umsetzungsbeispiele für die Herange-
+hensweise bei der Entwicklung zielgruppenorientierter Bibliotheksservices und Kom-
+munikation am Beispiel der ZBW vorgestellt werden.
+
+3.1 Umsetzungsbeispiel: (Lern)Orte
+
+Hintergrund: Das Angebot von Lernorten vor Ort ist für die ZBW keine satzungsge-
+mäße Hauptaufgabe. Allerdings dienen die Lernorte der ZBW in Kiel und Hamburg
+als wichtiges Testbed für die eigenen Dienste und die Erprobung von Ideen beispiel-
+weise im Rahmen von Forschungsprojekten. Ziel ist immer, Erfahrungen zu sam-
+meln – für die eigenen Services und als Best Practices für andere. So wurden in den
+letzten Jahren gemeinsam mit der Professur Web Science verschiedene Projekte zu
+Augmented Reality durchgeführt. Eine sogenannte Reception App soll die Erlebbarkeit
+des physischen Lernortes virtuell abbilden.
+
+Gleichzeitig haben sich die Angebote der ZBW zunehmend digitalisiert. War die
+direkte Beratung vor Ort neben den Beratungsmöglichkeiten über Chat, E-Mail und
+Telefon ein wichtiger Bestandteil der täglichen Arbeit, wurden bereits zahlreiche
+Schulungen zur Nutzung von Services oder zum wissenschaftlichen Arbeiten als We-
+binare angeboten. Mit der Covid-19-Pandemie wurden die physischen Lernorte plötz-
+lich unbenutzbar. Für die ZBW war der Umstellungsprozess relativ leicht, da ein
+Großteil der Schulungs- und Beratungsangebote bereits digital bzw. hybrid konzeptio-
+niert war und mit überschaubarem Anpassungsaufwand direkt wieder angeboten
+werden konnte.
+
+Auch hat sich dadurch die Arbeit der Kolleg:innen verändert. War bis dahin der
+Standort Hamburg oder Kiel ein relevantes Kriterium, wer sich wann wie und in wel-
+cher Form um die Dienste kümmern konnte, waren nun die Standortgrenzen über-
+wunden. Durch die Weiterentwicklung der internen Abläufe und der Einführung
+entsprechender Kommunikationsinstrumente ist der Standort – Hamburg, Kiel oder
+
+ Die Diskussion wird weiterhin geführt und erste Forschungsfördereinrichtungen und Universitäten
+haben bereits ihren Umgang damit geregelt, z. B. die DFG (2023) oder die Humboldt-Universität zu Ber-
+lin (2023)
+
+
+
+756 Thorsten Meyer
+
+Homeoffice – größtenteils kein Kriterium mehr. Das hat auch positive Auswirkungen
+auf die Quantität und Qualität des digitalen Angebots.
+
+In diesem Jahrzehnt wird die ZBW in Hamburg ein neues Gebäude beziehen. Das
+ist eine hervorragende Möglichkeit, den Lernort Bibliothek neu zu denken und hybrid
+zu planen. Gerade in dieser Konstellation ist die Einbindung der Nutzenden in den
+Gestaltungsprozess hilfreich und unerlässlich. Dabei ist das Ziel, einen attraktiven Ort
+zu schaffen, der zum Austausch und zu kooperativem Arbeiten und Lernen anregt.
+Dazu gehört grundlegend eine offene und moderne Architektur, die zum Betreten der
+Bibliothek einlädt. Darüber hinaus soll die technische Ausstattung sowohl die Arbeit
+mit den eigenen Geräten als auch die Kollaboration mit entsprechenden Monitoren
+und Geräten ermöglichen. Für eine möglichst flexible Gestaltung der Arbeits- und Auf-
+enthaltsbereiche direkt durch die Nutzenden werden leichte und bewegliche Möbel
+und Stromquellen benötigt.
+
+Idee: Einbindung der Nutzenden in den Gestaltungsprozess des Lernortes am neuen
+Standort der ZBW in Hamburg.
+
+Herangehensweise: Bereits seit 2016 werden im Bereich der Benutzungsdienste jähr-
+lich Nutzendenstudien mit Hilfe von Methoden der User Experience durchgeführt,
+um die Nutzenden besser einzubinden und ihre Bedürfnisse und Wünsche besser zu
+kennen. So wurden z. B. die „What‘s in your bag“-Methode oder „Cognitive Mapping“
+eingesetzt.8
+
+Ein neues Gebäude – im Falle der ZBW ist es ein altes Gebäude, das einer neuen
+Nutzung zugeführt wird – ist für Bibliotheken immer eine fast einmalige Gelegenheit,
+die räumlichen Gegebenheiten an aktuelle und zukünftige Bedürfnisse der Nutzenden
+anzupassen. Dies ist im Bestand in der Regel nur eingeschränkt möglich.
+
+Die Einbindung der Nutzenden in den Gestaltungsprozess hat die ZBW auch durchge-
+führt, um die eigenen Ideen auf Umsetzbarkeit in der späteren Praxis hin zu evaluieren.
+Die eigenen Planungen zielen auf möglichst flexible Nutzungsflächen. Flexibilität meint
+hier die regelmäßige Anpassung des Lernortes an die sich wandelnden Anforderungen
+während des im Semesters durch die Nutzenden. Innerhalb der Prüfungsphase werden
+mehr ruhige Lernplätze benötigt, während im Semester viele flexible Gruppenflächen
+notwendig sind, um z. B. gemeinsame Projekte zu erarbeiten. Gleichzeitig benötigen ein-
+zelne Nutzenden stille Arbeitsplätze für die Erstellung ihrer Qualifikationsarbeiten. Für
+Schulungsformate und Führungen werden Räumlichkeiten mit Präsentationsmedien be-
+nötigt, die aber auch als Arbeitsplätze für die Nutzenden oder für Projekte der Kolleg:in-
+nen zur Verfügung stehen können. Auch gesellige Bereiche und Rückzugsmöglichkeiten,
+in denen auch einmal nicht gearbeitet wird, sind unentbehrlich.
+
+Diese Flexibilität ist nur möglich, wenn zum einen das Mobiliar mobil ist und
+zum anderen die digitalen Arbeitsmöglichkeiten zur Ausstattung gehören. Die hier
+
+ Vgl. Clasen 2020.
+
+
+
+9.3 Zielgruppenorientierte Kommunikation und Bibliotheksdienste 757
+
+aufgeführten Beispiele bilden bei weitem nicht alle Nutzungsszenarien ab, die in
+einem Lernort ZBW am Standort Hamburg möglich wären. Für die Planung und Aus-
+stattung ist es daher wichtig, möglichst viele potentielle Nutzenden und ihre Bedürf-
+nisse zu erfassen und einzubeziehen.
+
+Mit den Methoden der User Experience konnten dabei wichtige Erkenntnisse ge-
+wonnen werden, die die Erfahrungen vor Ort durch die Kolleg:innen, die Inspiration
+durch den Besuch innovativer Bibliotheken9 insbesondere im Ausland sowie die Er-
+kenntnisse aus Studien mit dem direkten Bezug zur Praxis der Nutzenden vor Ort
+erweitern.
+
+Die bereits genannten Methoden „What‘s in your bag“ und „Cognitive Mapping“
+dienten auch als Vorbereitung auf eine noch intensivere Interaktion mit Nutzenden –
+den Spaziergang durch die Bibliothek. Dabei wurden Nutzende von Kolleg:innen be-
+gleitet, um herauszufinden, welche Orte wie genutzt werden. Das gab wertvolle Hin-
+weise auf die Schwerpunktbereiche eines Lernortes: Was benötigen die Nutzenden
+am dringendsten? Im Falle der ZBW waren dies vor allem Einzel- und Gruppenar-
+beitsplätze. Für den neuen Lernort plant die ZBW so z. B. mehr Gruppenräume ein,
+die eine noch bessere kollaborative Interaktion der Nutzenden ermöglichen. Auch die
+Erkenntnisse zur Anwendung von Infrastruktur sind hilfreich, um diese, beispiels-
+weise Ladestationen für Mobilgeräte, so zu positionieren, dass sie nicht nur der ei-
+gentlichen Intention, dem Laden von Geräten, dienen können, sondern auch als
+Lagerort für diese Geräte, um möglichst ungestört von Ablenkungen arbeiten zu
+können.
+
+Fazit: Die Erkenntnisse aus den Nutzendeninteraktionen sind für die ZBW sehr hilf-
+reich, insbesondere bei der Planung des Bibliotheksbereichs. Auf Grund der positiven
+Erfahrungen werden die Nutzenden auch weiterhin mit Hilfe von UX-Methoden bei
+der Entwicklung der neuen Bibliothek zu einem hybriden Lernort eng eingebunden.
+
+3.2 Umsetzungsbeispiel: ChatBot
+
+Hintergrund: Seit 2004 gibt es einen in das Fachportal EconBiz eingebundenen Chat.
+Dieser ist Teil des „Research Guide EconDesk“, in dem alle Online-Auskunftsdienste der
+ZBW zusammengefasst sind.10 Bei dieser Chatoption antworten Kolleg:innen aus der
+Bibliothek auf Fragen von Nutzenden. Dies sind teilweise Fragen zu thematischen Re-
+cherchen und Fakteninformationen, aber auch Fragen zu Öffnungszeiten der Biblio-
+thek, vergessenen Zugangsinformationen, Mahngebühren und vielem mehr. Zudem
+sind die Nutzenden sowohl in Deutschland wie auch insbesondere international zusätz-
+lich außerhalb der betreuten Chatzeiten aktiv. Daher gab es schon frühzeitig Überle-
+
+ Z. B. das DOKK1 in Aarhus, Dänemark: https://www.dokk1.dk/english (02.10.2023).
+ https://www.econbiz.de/eb/de/hilfe/research-guide-econdesk/fragen-sie-uns (02.10.2023)
+
+
+
+758 Thorsten Meyer
+
+gungen, vornehmlich wiederkehrende Fragen über einen ChatBot11 abzufangen. Seit ei-
+nigen Jahren versprechen Machine-Learning-Verfahren und andere Ansätze künstli-
+cher Intelligenz neue Möglichkeiten, aus vorhandenen Chatprotokollen zu lernen und
+darauf aufbauend einen ChatBot zu generieren.
+
+Idee: Entwicklung eines Chatbots auf Basis der verfügbaren und anonymisierten
+Protokolle.
+
+Herangehensweise: Die verfügbaren EconDesk-Chat-Protokolle seit 2004 wurden an-
+onymisiert und mit entsprechenden „Labeln“ ausgezeichnet. Die Entwicklung eines Pro-
+totyps wurde auf verschiedenen Wegen unter Einbeziehung interessierter Nutzender
+vorangetrieben. So wurden Erkenntnisse aus der EconBiz-eigenen Nutzendenforschung
+ebenso eingebracht, wie die technischen Kenntnisse von Kolleg:innen im Haus.
+
+Im Rahmen eines Hackathons wurden 2020 in einer kleinen Runde erste interne
+Ideen mit einer Öffentlichkeit geteilt und weiterentwickelt. Dafür standen den Teil-
+nehmenden ca. 4 000 anonymisierte Chat-Transkripte zur Verfügung, mit dem Auf-
+trag, darauf aufbauend einen Chatbot zu entwickeln und zu trainieren. Dieses Projekt
+hat dem ZBW-Team wertvolle Hinweise gegeben zu notwendigen Clusterungen oder
+der Festlegung von Sets von Nutzendenabsichten, auf die der Chatbot reagiert. So
+wurde schnell klar, dass die Transkripte besser aufbereitet werden mussten, damit
+der Chatbot lernen kann. In der Folge wurden ZBW-intern für bestimmte Use-Cases
+entsprechende User-Stories erstellt und vorhandene Konversationen aufbereitet. Eine
+Frage nach den Öffnungszeiten der ZBW kann z. B. auf viele unterschiedliche Arten
+gestellt werden. Die Frage muss korrekt verstanden werden, ggf. noch nach Standort
+unterteilt, und die entsprechende Antwort ausgegeben werden.
+
+Auf dieser Grundlage wurde ein erster Prototyp entwickelt, der 2023 zunächst in-
+ternen Tests unterzogen wurde. Danach werden die Tests ausgeweitet auf eine immer
+weitergehende Gruppe interessierter Nutzender. In einem weiteren Schritt wird der
+Chatbot als Beta-Version für alle zur Verfügung gestellt.
+
+Fazit: Der Chatbot befindet sich noch im Entwicklungsstadium. Eine weitere Erpro-
+bung steht noch aus. Allerdings sind die bisherigen Rückmeldungen insbesondere von
+Bibliothekskolleg:innen sehr hilfreich, den Chatbot in eine Richtung zu entwickeln,
+die nicht nur grundlegende Informationen automatisiert rund um die Uhr verfügbar
+macht, sondern perspektivisch weitergehende Unterstützung geben kann, wenn er in
+Betrieb geht. Spezifische Hilfe zu wirtschaftswissenschaftlichen Spezialthemen ist für
+eine breitere Zielgruppe als die reinen Bibliotheksnutzenden von Interesse, wie das
+folgende Umsetzungsbeispiel verdeutlicht.
+
+ Die SUB Hamburg bot von 2004 bis 2015 den ChatBot Stella an, stellte diesen aber u. a. aufgrund
+des hohen Betreuungsaufwandes wieder ein (https://www.sub.uni-hamburg.de/bibliotheken/projekte-
+der-stabi/abgeschlossene-projekte/chatbot-stella.html (02.10.2023).
+
+
+
+9.3 Zielgruppenorientierte Kommunikation und Bibliotheksdienste 759
+
+3.3 Umsetzungsbeispiel: Open Educational Resources –
+wirtschaftswissenschaftlich spezifische Angebote
+
+Hintergrund: „Open Educational Resources (OER) sind Bildungsmaterialien jeglicher
+Art und in jedem Medium, die unter einer offenen Lizenz stehen.“12 Die Idee dahinter
+ist, alle Arten von Materialien frei nachnutzbar zur Verfügung zu stellen. Dabei ist es
+unerheblich, ob es sich um eine Publikation oder einen ganzen Kurs handelt.
+
+Lehrende aus den Wirtschaftswissenschaften traten mit dem Wunsch um Unter-
+stützung an die ZBW heran. Insbesondere zum Thema „Erstellen einer Hausarbeit“
+wünschten sie sich Unterstützung.
+
+Idee: Unterstützung der Bibliotheken und Lehrenden mit spezifischen Angeboten für
+die Wirtschaftswissenschaften durch die ZBW, insbesondere eine Broschüre zur Un-
+terstützung des Schreibens einer Hausarbeit.
+
+Herangehensweise: Um diese Wünsche zu bedienen, wurden verschiedene Angebote
+mit einem unterschiedlichen Grad an Offenheit erstellt. Zunächst gab es Videos, PDF-
+Handouts sowie spielerisch gestaltete Webseiten zu Fragen wie „Warum benötige ich
+korrekte Informationen?“, „Wie recherchiere ich richtig?“ oder „Wie zitiere ich richtig?“.
+Diese Angebote wurden kontinuierlich evaluiert und mit den Nutzenden und Kolleg:in-
+nen diskutiert.
+
+Später wurden auch Forschende am Anfang ihrer Karriere als Zielgruppe mit ein-
+bezogen mit Modulen zur ersten eigenen Publikation, zum Netzwerken oder auch
+zum Forschungsdatenmanagement.
+
+Am konsequentesten wurde der Gedanke der Zielgruppenorientierung und Be-
+reitstellung passender Materialien bei der Broschüre „Schreibe Deine beste Hausar-
+beit in Wirtschaftswissenschaften“13 verfolgt. Eine erste Version der Broschüre wurde
+an Studierende, Lehrende sowie Bibliothekskolleg:innen verschickt und auf Basis der
+Rückmeldungen entsprechende Anpassungen vorgenommen. Die Broschüre wurde in
+gedruckter Form auf Deutsch und Englisch bereitgestellt und mehrfach nachgedruckt.
+Sie steht auch mit einer CC-Lizenz als OER zum Download bereit. Viele Studierende
+scheinen aber in diesem Fall nach wie vor die gedruckten Exemplare vorzuziehen, da
+sie diese bei der Arbeit am Notebook und nur einem Bildschirm parallel öffnen
+können.
+
+In einem weiteren Schritt wurde die Broschüre auch ins Englische übersetzt, da
+auch das Kollegium der international mit der ZBW kooperierenden Einrichtungen
+diese für seine Arbeit mit den Studierenden nutzen möchte.
+
+ UNESCO 2023; siehe auch Kapitel 5.6 „OER an Bibliotheken“.
+ https://www.econbiz.de/eb/de/wissenschaftlich-arbeiten/how-to-guides (02.10.2023)
+
+
+
+760 Thorsten Meyer
+
+Fazit: Die Broschüre, in enger Abstimmung mit Nutzenden, Kolleg:innen in den Bi-
+bliotheken und Lehrenden entwickelt, stellt einen großen Erfolg dar.14 Sie wird von
+Studierenden, Kolleg:innen und Lernenden gleichermaßen genutzt bzw. empfohlen.
+Das Angebot deckt genau die Bedürfnisse ab und unterstützt die Kolleg:innen in den
+Bibliotheken vor Ort ebenso wie die Lernenden, die den Studierenden ein Hilfsmittel
+an die Hand geben können. Sie dient vor allem den Studierenden bei ihrer ersten Ar-
+beit und ganz sicher auch danach bei einer weiteren Hausarbeit. Der Erfolg basiert
+insbesondere auf dem engen Austausch mit den Zielgruppen.
+
+3.4 Umsetzungsbeispiel: Open Economic Guide bzw.
+Zielgruppenorientierte Kommunikation über Content
+
+Hintergrund: Die ZBW richtet ihr gesamtes Handeln an den Open-Science-Prinzipien
+aus, soweit dies möglich ist. Ein Schwerpunkt liegt dabei auf Open Science und den
+Akteur:innen in den Wirtschaftswissenschaften. Die Frage ist, wie sich offene Wissen-
+schaftspraktiken im Arbeitsalltag von Wirtschaftsforschenden einfinden und welche
+Rolle diese spielen. Für die ZBW geht es dabei auch darum, sich als Kompetenzpartner
+für die Wirtschaftsforschung zu positionieren und den Diskurs über Open Science unter
+den Wirtschaftsforschenden zu fördern. Gleichzeitig sehen viele Forschende weiterhin
+größere Hürden, offene Wissenschaftspraktiken anzuwenden und ihre Forschungser-
+gebnisse offener verfügbar zu machen. Mit einem gezielten Angebot möchte die ZBW
+die Weiterentwicklung und Etablierung von Open Science unterstützen.
+
+Ziel: Verankerung offener Wissenschaftspraktiken in der Wirtschaftsforschung.
+
+Herangehensweise: Zum Thema Open Science und dessen Verankerung in der Wirt-
+schaftsforschung hat die ZBW mehrere Studien durchgeführt. In der letzten durchge-
+führten Online-Befragung unter Forschenden in den Wirtschaftswissenshaften an
+deutschen Hochschulen zur Bedeutung von Open Science15 wurde deutlich, dass die
+Anwendung von Open-Science-Praktiken in den Wirtschaftswissenschaften nicht un-
+eingeschränkt positiv gesehen wird. Zu viele Hürden der Einführung würden zu einer
+Entmutigung führen. Der Zeitmangel und fehlender Support waren dabei Hauptargu-
+mente. Als Ergebnis der Studie wurde eine stärkere Unterstützung und Hilfe bei der
+Auswahl und Nutzung von Instrumenten und Werkzeugen gefordert: „Die Forschen-
+den wünschen sich vor allem einen Überblick über relevante Plattformen, Werkzeuge
+und Anwendungen, die Open-Science-Praktiken unterstützen.“16
+
+ Vgl. z. B.: https://www.bibliotheksverband.de/best-practice-wettbewerb-informationskompetenz#
+Preistraeger2022 (02.10.2023)
+ Vgl. Scherp u. a. 2020.
+ Siegfried 2023: S. 235
+
+
+
+9.3 Zielgruppenorientierte Kommunikation und Bibliotheksdienste 761
+
+Darauf aufbauend hat die ZBW den „Open Economics Guide“17 konzeptioniert
+und eingeführt. Damit sollen Wirtschaftsforschende unterstützt werden, offene Wis-
+senschaftspraktiken für ihre Bedürfnisse zu wählen und anzuwenden. Er basiert aus-
+schließlich auf der Perspektive und den Bedürfnissen von Forschenden. So wird
+z. B. der Zeitmangel als größtes Hindernis für Open Science durchgehend berücksich-
+tigt. Aus diesem Grund sind die Texte des Leitfadens knappgehalten. Die konkreten
+Vorteile für die Forschenden stehen im Vordergrund. Es war nicht das primäre Ziel,
+neue Inhalte zu generieren, sondern systematisch bestehende Inhalte zu prüfen, auf-
+zugreifen, darauf zu verweisen oder gegebenenfalls zu empfehlen. Da das Angebot an
+Informationen, Anleitungen und Tools rund um Open Science ständig wächst, geht es
+darum, eine gute Orientierung für Forschende zu geben und auf aktuelle Entwicklun-
+gen einzugehen.
+
+Fazit: Die Bedürfnisse und Wünsche der Wirtschaftsforschenden im Hinblick auf
+Open Science sollen mit dem Angebot des Open Economics Guide gezielt bedient wer-
+den. Der Guide wird gut genutzt. In einem nächsten Schritt ist zu evaluieren, ob Teile
+des Angebots evtl. angepasst werden sollten, und wie das Thema Open Science und
+offene Wissenschaftspraktiken in den Wirtschaftswissenschaften weiter etabliert wer-
+den können, wenn die grundlegenden Hürden – Zeitknappheit und der Informations-
+überfluss – überwunden sind.
+
+3.5 Community-Management –Weiterentwicklung der
+Kommunikationsinstrumente für Zielgruppen
+
+Hintergrund: Seit 2010 befasst sich die ZBW mit dem gezielten Community-Manage-
+ment insbesondere im Hinblick auf Social Media-Kanäle und ihre Ausrichtung.18 Der
+Einsatz von Kommunikationskanälen ist aus unterschiedlichen Gründen regelmäßig
+zu evaluieren und neu zu bewerten. So haben sich im Lauf der Zeit Kanäle wieder
+aufgelöst wie etwa Google + . Andere Kanäle, z. B. Facebook, haben sich von der Art
+der Nutzung und Herangehensweise der Nutzenden verändert.19 Auch werden diese
+Angebote regelmäßig im Hinblick auf Datenschutz kritisch bewertet. Der Umgang mit
+Facebook ist daher auch eine rechtliche Frage, die regelmäßig zu bewerten ist. Neue
+Angebote sind hinzugekommen. Ein weiterer Aspekt ist die Konsolidierung von Kanä-
+len oder der Ausbau, wenn ein Kanal ausschließlich für eine bestimmte Zielgruppe
+genutzt werden soll.
+
+ https://openeconomics.zbw.eu/ (01.10.2023)
+ Vgl. Meyer 2014.
+ Grob zusammengefasst war Facebook für die jungen Generationen nicht mehr die zentrale Platt-
+form, als ihre Eltern und Großeltern diese Plattform ebenfalls für sich entdeckt hatten.
+
+
+
+762 Thorsten Meyer
+
+Dies gilt es im Rahmen des Community-Managements zu begleiten, neue Plattfor-
+men zu bewerten, bestehende Plattformen zu evaluieren und insgesamt die Kommu-
+nikationsstrategie anzupassen. Diese Anpassung soll anhand von zwei Beispielen
+verdeutlicht werden.
+
+Idee: Ist Facebook als Kommunikationskanal und Testbed noch sinnvoll? Wie kann
+die Kommunikation zu Science 2.0/Open Science zukünftig gezielter erfolgen?
+
+Herangehensweise: Facebook wurde von der ZBW nicht nur als Kommunikationska-
+nal hin zu den Studierenden genutzt. Vielmehr wurden Angebote direkt dort ver-
+knüpft, z. B. eine Suchfunktion zum Portal EconBiz oder ein Research Guide, der die
+Vernetzung von Facebook zu den ZBW-Angeboten vertiefte. Auf Grund der rechtli-
+chen Rahmenbedingungen im Hinblick auf die datenschutzrechtliche Bewertung die-
+ser Vernetzungen wurden nicht nur die Plug-ins evaluiert und bewertet, sondern
+auch der Auftritt der ZBW insgesamt.
+
+Die ZBW hat entschieden, sich Ende 2016 weitgehend aus Facebook zurückzuzie-
+hen. Mittlerweile gibt es noch einen Account für den Blog „ZBW-Mediatalk“20. Ansons-
+ten findet gezielte Kommunikation mit Nutzenden über Facebook nicht mehr statt.
+
+Der Blog „ZBW-Mediatalk“ wurde 2011 als Kommunikationsplattform für alle The-
+men rund um Open Science im weiteren Sinne eingerichtet. Ziel war und ist es, den
+Weg hin zu Open Science in der Forschung und in der Informationsinfrastruktur zu
+begleiten. Daher runden Themen wie Science Policy, Web, Innovationsmanagement
+und Infos aus der ZBW das Angebot ab.
+
+Mit der Verstetigung des Open-Science-Gedankens im wissenschaftlichen Diskurs
+wuchs der Bedarf, dieses Thema für die Kommunikation mit Forschenden und auch
+für die wissenschaftspolitischen Adressat:innen anders aufzubereiten, um gezielter
+die Unterstützung der Forschung zu gewährleisten. Aber auch der Diskurs zu Open-
+Science-Praktiken und ihrer Bedeutung für die Wirtschaftswissenschaften bedurfte
+einer anderen kommunikativen Begleitung. Gleichzeitig war der ZBW-Mediatalk als
+anerkannte Kommunikationsplattform der ZBW weiterhin wichtig, ist er für For-
+schende und insbesondere Bibliothekskolleg:innen doch einfach zu erreichen. Auch
+werden Blogbeiträge von diesen Gruppen gerne angenommen und veröffentlicht.
+
+Es wurde entschieden, dass der ZBW-Mediatalk weiterhin eine breite Themenviel-
+falt umfasst. Als weitere Plattform wurden u. a. der Open Economic Guide und das
+Open Science Magazin geschaffen.21
+
+Fazit: Eine angepasste Ausrichtung der Kommunikationskanäle ist wichtig und ist das
+Ergebnis einer regelmäßigen Evaluierung und Prüfung, ob damit weiterhin die vorgese-
+hene Zielgruppe überhaupt erreicht wird und ob dies in einer Form geschieht, die der
+Zielgruppe wertvolle Erkenntnisse liefert und somit für sie ein attraktiver Kanal ist,
+
+ https://www.facebook.com/ZBWMediaTalk/?locale=de_DE (04.10.2023)
+ https://open-science-future.zbw.eu/ (04.10.2023)
+
+
+
+9.3 Zielgruppenorientierte Kommunikation und Bibliotheksdienste 763
+
+den es zu nutzen lohnt. Mit den hier genannten Beispielen konnten auch Ressourcen
+umgeleitet und somit effizienter für die gezielte Ansprache eingesetzt werden.
+
+4 Fazit und Ausblick
+Zielgruppenorientierung als zentrale Handlungsoption von Bibliotheken ist nicht neu.
+Durch technische Entwicklung und sich weiterentwickelnde Methoden der Kommuni-
+kation ergeben sich neue Möglichkeiten und Herausforderungen der Interaktion mit
+den Zielgruppen.
+
+Die Einbindung von Nutzenden in die Gestaltung und Weiterentwicklung der ei-
+genen Angebote bietet großes Potential, die eigenen Services noch besser auf die Nut-
+zenden abzustimmen und neue Wege der Interaktion zu gehen.
+
+Das ist keine Einbahnstraße, sondern ein Prozess des gegenseitigen Austausches
+und der Beteiligung. Gleichzeitig kann damit auch schneller auf sich verändernde An-
+forderungen und Bedürfnisse der Zielgruppen eingegangen werden.
+
+Die Einbindung von Nutzenden birgt aber auch die Gefahr, Erwartungen zu we-
+cken, die auf Grund der räumlichen Gegebenheiten, mangelnder personeller und finan-
+zieller Ressourcen nicht umsetzbar sind. Daher ist neben der zielgruppenorientierten
+Kommunikation und Entwicklung von Bibliotheksservices das Erwartungsmanagement
+von hoher Relevanz.
+
+Literatur
+Clasen, Nicole: User Experience in Bibliotheken: 4 Best-Practice-Beispiele aus der ZBW. ZBW Mediatalk.
+
+Veröffentlicht am 22.09.2020. https://www.zbw-mediatalk.eu/de/2020/09/user-experience-in-
+bibliotheken-4-best-practice-beispiele-aus-der-zbw/ (01.10.2023).
+
+Deutsche Forschungsgemeinschaft (DFG): Stellungnahme des Präsidiums der Deutschen
+Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf
+die Wissenschaften und das Förderhandeln der DFG. 2023. https://www.dfg.de/download/pdf/dfg_
+im_profil/geschaeftsstelle/publikationen/stellungnahmen_papiere/2023/230921_stellungnahme_
+praesidium_ki_ai.pdf (04.10.2023).
+
+Deutsche UNESCO-Kommission: Open Educational Resources. 2023. https://www.unesco.de/bildung/
+open-educational-resources (02.10.2023).
+
+Geis, Thomas u. Guido Tesch: Basiswissen Usability und User Experience. Heidelberg: dpunkt 2019.
+Humboldt Universität zu Berlin: Empfehlungen zur Nutzung von Künstlicher Intelligenz in
+
+Studienleistungen und Prüfungen an der Humboldt-Universität zu Berlin. Berlin 2023. https://www.
+hu-berlin.de/de/pr/nachrichten/september-2023/hu_empfehlungen_ki-in-pruefungen_20230905.pdf
+(04.10.2023).
+
+Priestner, Andy: A Handbook of User Experience Research and Design in Libraries. Independently
+published. 2021.
+
+
+
+764 Thorsten Meyer
+
+Meyer, Thorsten: Social Media und mobile Applikationen. In: Praxishandbuch Bibliotheksmanagement.
+Hrsg. von Rolf Griebel, Hildegard Schäffler u. Konstanze Söllner. Berlin: De Gruyter 2014, S. 524–537.
+https://doi.org/10.1515/9783110303261.
+
+Scherp, Guido, Doreen Siegfried, Kristin Biesenbender u. Christian Breuer: Die Bedeutung von Open
+Science in den Wirtschaftswissenschaften. Ergebnisbericht einer Online-Befragung unter
+Forschenden der Wirtschaftswissenschaften an deutschen Hochschulen 2019. Kiel/Hamburg: ZBW –
+Leibniz Informationszentrum Wirtschaft 2020. http://hdl.handle.net/10419/220086 (03.10.2023).
+
+Siegfried, Doreen: Wirkungsorientierte Kommunikationsarbeit. Positionierung der ZBW als Open-Science-
+Partner für die Wirtschaftsforschung. In: b.i.t.online 26 (2023), H. 3, S. 234–241. https://www.b-i-t-
+online.de/heft/2023-03-fachbeitrag-siegfried.pdf (03.10.2023).
+
+ZBW – Leibniz-Informationszentrum Wirtschaft: Satzung der Stiftung ZBW – Leibniz-Informationszentrum
+Wirtschaft. 2022. https://www.zbw.eu/de/satzung (01.10.2023)

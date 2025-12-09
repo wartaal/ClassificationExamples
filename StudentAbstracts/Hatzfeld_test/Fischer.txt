@@ -1,0 +1,949 @@
+﻿Barbara Fischer, Sarah Hartmann, Esther Scheven, Lars G. Svensson
+und Brigitte Wiechmann
+6.3 Normdaten, Linked Data
+1 Was sind Normdaten bzw. Normdateien
+und wozu dienen sie?
+
+Der Terminus Normdaten bezeichnet Daten über Objekte aller Art, deren unmittelba-
+rer Zweck in der Zusammenführung unterschiedlicher identifizierender Benennungen
+und Begriffe für das jeweilige Objekt besteht. Im bibliothekarischen Kontext werden die-
+jenigen Daten als Normdaten bezeichnet, die zur Identifizierung und als Sucheinstiege
+für Daten zu Personen, Körperschaften, Konferenzen, geografischen Namen, Sachschlag-
+wörtern und Werktiteln zur Erschließung von Materialien wie Büchern, Zeitschriften, On-
+line-Publikationen, Archivalien, Museumsobjekte, Forschungsdaten etc. dienen.
+
+In Normdatensätzen werden die unterschiedlichen Benennungsvarianten und
+damit mögliche Sucheinstiege für die genannten Objekte zusammengeführt sowie Er-
+läuterungen und Definitionen festgehalten. Dabei ist immer eine bevorzugte Benen-
+nung oder ein bevorzugter Name (dieser Terminus wird im Zusammenhang mit
+Personennamen und Namen von Körperschaften gebraucht) enthalten. Daneben die-
+nen abweichende Namensformen als weitere Sucheinstiege. Identifizierende Angaben
+etwa zur Individualisierung von Personen, Quellenangaben und Beziehungen zu an-
+deren Normdatensätzen vervollständigen die Datensätze. Die Bildung von Normdaten
+erfolgt auf der Grundlage einer Ontologie, welche die jeweils zu normierenden Be-
+griffe und die Art der Normierung festlegt. Die in Deutschland, Österreich und der
+Schweiz verwendeten Regelwerke, in denen die Festlegungen getroffen sind, die letzt-
+lich zu Normdaten führen, sind die Resource Description and Access (RDA)1 und die
+Regeln für die Schlagwortkatalogisierung (RSWK).2 Erstere werden für die Formaler-
+schließung genutzt, Letztere bilden die Grundlage der Sacherschließung für alle Enti-
+täten, die nicht nach RDA erfasst werden.
+
+Eine Normdatei ist die Gesamtheit der Normdatensätze. Sie stellt ein Verzeichnis
+dieser normierten Begriffe dar und ist damit eine Form eines kontrollierten Vokabu-
+lars, in dem festgelegt wird, welche Namensform bei der Erschließung zu verwenden
+ist. Im Englischen werden Normdateien als authority files bezeichnet.
+
+ Zur Einführung in RDA vgl. Wiesenmüller und Horny (2017) sowie das Kapitel zu Formalerschlie-
+ßung in diesem Band.
+ Regeln für die Schlagwortkatalogisierung 2017.
+
+Anmerkung: Der Hauptteil dieses Aufsatzes stammt von Brigitte Wiechmann und geht auf ihren Beitrag
+für die erste Auflage zurück. Die restlichen Autorinnen und Autoren haben ihn überarbeitet und auf den
+aktuellen Stand gebracht.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-032
+
+
+
+528 Barbara Fischer et al.
+
+Normdateien sind unverzichtbare Instrumente der bibliothekarischen Erschlie-
+ßung. Sie können auf zwei Arten genutzt werden: als separate Informationsdatei oder
+als integrierte Datei. Werden die Normdatensätze nur dazu genutzt, bevorzugte Na-
+mensformen zu ermitteln oder gegebenenfalls korrekte Titelzuordnungen aufgrund
+von Informationen in den Normdatensätzen vorzunehmen, gleicht der Nutzen dem
+anderer Nachschlagewerke. Beispiele hierfür sind der Virtual International Authority
+File VIAF3 oder auch Normdateien, die in gedruckter Form erschienen sind, wie z. B.
+Personennamen der Antike (PAN)4 oder die Anonymous Classics,5 eine Publikation
+der IFLA. Bei einer integrierten Nutzung von Norm- und Titeldaten in der gleichen
+Rechercheumgebung entfaltet sich das volle Potenzial der Normdatensätze, da neben
+der bevorzugten Namensform alle weiteren Bestandteile der Datensätze wie abwei-
+chende Namensformen, identifizierende Informationen wie Lebensdaten oder Berufe
+bei Personen, Definitionen bei Sachbegriffen, Koordinaten bei Geografika etc. im Ka-
+talog gesucht und angezeigt werden können. In der Regel ist bei der integrierten Nut-
+zung der Normdatensatz mit den Titeldatensätzen über eine Identifikationsnummer
+verknüpft. Der Vorteil dabei ist, dass Ergänzungen und Korrekturen nur im Normda-
+tensatz durchgeführt werden müssen, aber auf alle damit verknüpften Titeldaten Aus-
+wirkungen haben. Die Entscheidung für die Art der Nutzung ist abhängig von den
+technischen Möglichkeiten, aber auch vom leistbaren Aufwand. Die Pflege einer eige-
+nen bzw. integrierten Normdatei erfordert einen gewissen Ressourceneinsatz. Unter
+bestimmten Voraussetzungen reicht es möglicherweise aus, bevorzugte Namensfor-
+men aus einer als Referenz bekannten Quelle zu übernehmen und somit auf eine voll-
+ständige Übernahme von Datensätzen zu verzichten.
+
+Neben den großen nationalen oder internationalen Normdateien gibt es auch
+lokal oder in Spezialeinrichtungen gehaltene Normdateien. So haben z. B. das Deut-
+sche Literaturarchiv Marbach und die Bibliothek des Deutschen Bundestages neben
+der Gemeinsamen Normdatei (GND)6 Normdatensätze in ihren Katalogen, die gemäß
+des jeweiligen Auftrags mehr oder andere Informationen enthalten. Hierbei spielen
+neben technischen Gründen nicht zuletzt inhaltliche eine Rolle – Normdateien mit
+hochspezialisiertem Inhalt sind oft nur für einen kleinen Kreis von Nutzerinnen und
+Nutzern interessant und verfügen für diesen Zweck über eine eigene Ontologie und
+ein eigenes Datenformat, die nicht mit denen anderer Normdateien kompatibel sind.
+
+Normdateien in Bibliotheken helfen, bestimmte Fragen zu beantworten. In der
+Formalerschließung ist es meist die Frage nach der Zuordnung von Publikationen zu
+Autorinnen und Autoren oder Personen, die an der Veröffentlichung z. B. als Heraus-
+
+ https://viaf.org (25.01.2024).
+ Fabian u. Klier 1994.
+ Anonymous Classics 2004.
+ S. u. Abschnitt 2.
+
+
+
+6.3 Normdaten, Linked Data 529
+
+geber, Illustratorinnen, Bearbeiter oder Übersetzerinnen mitgewirkt haben bzw. bei
+Körperschaften zu einem Urheber. Bis zur zweiten Hälfte des 20. Jahrhunderts wur-
+den solche Fragen bei der Formalerschließung nicht berücksichtigt; der Zweck des Al-
+phabetischen Katalogs war lediglich der Nachweis der in der Bibliothek vorhandenen
+Titel, und dafür genügte es, wenn durch die Kombination von Person/Körperschaft
+und Titel (in Verbindung mit dem Verlag und der bibliographischen Beschreibung)
+die Identifizierung und der Nachweis des Werkes im Katalog vorgenommen wurde.
+
+Die Fragestellungen in der Sacherschließung sind inhaltlicher Natur: Welche Lite-
+ratur gibt es zu einem Thema, zu einem Werk, über eine Person, eine Körperschaft,
+ein Geografikum? In Sachkatalogen wurden solche Fragen immer schon auf der
+Grundlage von normiertem Vokabular beantwortet; mit Hilfe digitaler Normdateien
+ist die Recherche allerdings ungleich einfacher als in einem Zettelkatalog, dessen Nut-
+zung die Kenntnis der Regeln unabdingbar voraussetzt. In einer Zeit, in der die Nut-
+zung von Bibliothekskatalogen nur noch sehr eingeschränkt vor Ort und mit Hilfe
+von bibliothekarischem Fachpersonal geschieht, ist es notwendig, die Informationen
+für die Nutzerinnen und Nutzern so aufzubereiten, dass diese mögliche Fragestellun-
+gen zu Publikationen selbständig und ohne Kenntnisse bibliothekarischer Regelwerke
+beantworten können.
+
+2 GND – Entstehung und Nutzung einer
+nationalen Normdatei
+
+Die Gemeinsame Normdatei (GND) entstand aus den zuvor bestehenden Normdateien
+Gemeinsame Körperschaftsdatei (GKD), Schlagwortnormdatei (SWD), Personenna-
+mendatei (PND) und der Einheitssachtiteldatei des Deutschen Musikarchivs (EST-
+DMA).
+
+Als älteste der nationalen Normdateien entstand die GKD in den siebziger Jahren
+aus Körperschaftsaufnahmen der Bayerischen Staatsbibliothek, der Staatsbibliothek
+zu Berlin und der Deutschen Bibliothek. Sie wurde von den genannten Bibliotheken
+und der Österreichischen Nationalbibliothek erarbeitet und redaktionell betreut
+sowie laufend um die Körperschaftsaufnahmen aus der Zeitschriften- und Monogra-
+fienerschließung der deutschen und österreichischen Bibliotheksverbünde erweitert.
+Anfang 2012 enthielt die GKD mehr als eine Million Normdatensätze.
+
+1986 entstand anlässlich der Einführung der RSWK die Schlagwortnormdatei
+(SWD). Sie bot einen normierten, terminologisch kontrollierten Wortschatz an. Die
+dafür benutzten Quellen waren in der „Liste der fachlichen Nachschlagewerke“ ver-
+zeichnet. Die Schlagwörter umfassten alle Fachgebiete und Schlagwortkategorien. Sie
+wurden mittels ISO-Ländercode, ISO-Sprachencode und den Notationen der SWD-
+Sachgruppen (heute GND-Systematik) klassifiziert. In Kooperation mit allen deutsch-
+sprachigen Bibliotheksverbünden, der Schweizerischen Nationalbibliothek und dem
+
+
+
+530 Barbara Fischer et al.
+
+Kunstbibliotheken-Fachverbund Florenz-München-Rom wurde die SWD von der Deut-
+schen Nationalbibliothek erstellt und durch die Sacherschließungsredaktionen der
+Partnerinstitutionen laufend aktualisiert.
+
+Die Personennamendatei (PND) wurde von 1994 bis 1998 in einem Projekt aufge-
+baut und stand zunächst als Teil des Katalogs der Deutschen Nationalbibliothek, spä-
+ter in allen Verbunddatenbanken zur Verfügung. Zum Zeitpunkt des Einspielens in
+die GND umfasste die PND rund 7,1 Millionen Namen aus der Katalogisierung der
+PND-Kooperationspartner und der Deutschen Nationalbibliothek, aus Projekten der
+Altbestandserschließung und Namen der Bayerischen Staatsbibliothek aus dem osteu-
+ropäischen und islamischen Kulturkreis, aus den Bereichen Musik und Karten sowie
+den Personennamen der Zentralkartei der Autographen der Staatsbibliothek zu Berlin
+und den Personennamen der SWD. In der PND waren nicht nur Normdatensätze für
+Personen enthalten, die durch Angaben wie Lebensdaten, Beruf, geografische Angaben
+(Geburts-, Wirkungs- und Sterbeort), in Beziehung stehende Institutionen und abwei-
+chende Namensformen individualisiert waren (ca. 2,6 Millionen Personen). Daneben
+gab es eine Mehrheit von sogenannten Personennamensätzen, die keinerlei Identifikati-
+onsmerkmale enthielten und die dann für die Formalerschließung genutzt wurden,
+wenn eine eindeutige Individualisierung nicht möglich war oder die Zuordnung von Ti-
+teln nicht zuverlässig vorgenommen werden konnte. Beide Arten von Datensätzen sind
+zunächst in der GND beibehalten worden. Bei Personennamensätzen kann die Frage
+„Welcher Autor hat welche Werke verfasst?“ nicht beantwortet werden, da sie für ver-
+schiedene Personen mit demselben Namen verwendet wurden. Sie entsprachen nicht
+den heutigen Anforderungen an Normdaten, die eindeutig und zuverlässig Entitäten
+identifizieren und beschreiben. Aus diesem Grund sind diese nicht-individualisierten
+Namensdatensätze für Personen seit Mitte 2020 nicht mehr Bestandteil der GND.
+Neben Datensätzen für natürliche Personen werden z. B. auch fiktive und mytholo-
+gische Personen erfasst. Insgesamt umfasst die GND 2023 etwa 6,2 Millionen nor-
+mierte Personendatensätze.
+
+Die Einheitssachtiteldatei des Deutschen Musikarchivs umfasste mehr als 100 000
+Normdatensätze für Werke der Musik. Diese wurden nach den Regeln für die Alpha-
+betische Katalogisierung für die Ausgaben musikalischer Werke (RAK-Musik) erstellt
+und für die Formalerschließung des Deutschen Musikarchivs integriert genutzt.
+
+Diese durchaus heterogenen Bestände enthielten Überschneidungen in den je-
+weils verzeichneten Normdaten – so gab es z. B. Körperschaften und Konferenzen in
+der GKD und der SWD, Werktitel der Musik in der SWD und der Einheitssachtiteldatei
+(EST) des Deutschen Musikarchivs. Bei Personen wurden zwar die Datensätze der
+PND von Formal- und Sacherschließung gemeinsam genutzt, aber die Ansetzungsform
+war je nach Regelwerk abweichend. Dazu lag jede der Normdateien in einem eigenen
+Format vor, und die Regeln zur Bildung der Normdatensätze waren unterschiedlich.
+In einem mehrjährigen Projekt, an dem alle an den einzelnen Normdateien beteilig-
+ten Partner mitarbeiteten, wurden das Format und die Regeln für eine neue gemein-
+same Normdatei erarbeitet. Dies bedeutete in einigen Fällen die Abkehr von teilweise
+
+
+
+6.3 Normdaten, Linked Data 531
+
+jahrzehntelang eingeübten Regeln und die Bereitschaft zu Kompromissen. In den
+Fällen, in denen es Unterschiede in den vorher angewandten Regelwerken gab, wur-
+den Übergangsregeln erarbeitet und abgestimmt. Auf ein völlig neues Regelwerk für
+Normdaten wurde verzichtet, da 2012 bereits absehbar war, dass neue internationale
+Regeln auch in Deutschland, Österreich und der deutschsprachigen Schweiz einge-
+führt würden und somit die – schon weitgehend an den RDA (Resource Description
+and Access) orientierten – Übergangsregeln für die Zeit bis zu deren Einführung ge-
+dacht waren. Im April 2012 wurden die bis dahin aktuell geführten Normdateien ge-
+schlossen und insgesamt mehr als 9,5 Millionen Normdatensätze in das neue Format
+überführt. Die Verknüpfung mit den Titeldaten erfolgte anschließend, so dass nach
+Abschluss dieser Phase in allen Bibliotheken, deren Titel vorher mit einer oder meh-
+reren der Normdateien verknüpft waren, diese jetzt mit der GND verlinkt sind. In
+einem zweiten Schritt erfolgte das Zusammenführen von eindeutig dubletten Norm-
+datensätzen, wobei viele Sätze nicht maschinell umzulenken sind, da das Zusammen-
+führen von zwei Normdatensätzen für eine Entität oft nur intellektuell durchgeführt
+werden kann.
+
+Seit Mai 2012 arbeiten alle den deutschsprachigen Bibliotheksverbünden ange-
+schlossenen Bibliotheken, die Schweizerische Nationalbibliothek und die Deutsche
+Nationalbibliothek mit der GND. Neue Normdatensätze werden von allen beteiligten
+Bibliotheken eingebracht, Korrekturen und Ergänzungen im Rahmen von Absprachen
+ebenfalls von den Bibliotheken oder den regionalen bzw. zentralen Redaktionen
+gemacht.
+
+Individualnamen für Personen, Körperschaften und Konferenzen bilden den
+größten Teil der GND; Sachbegriffe, die als Schlagwörter für die Inhaltserschließung
+genutzt werden, stellen einen echten Thesaurus dar, dessen Begriffe durch Relationen
+miteinander verbunden sind. Das können gleichordnende Beziehungen zwischen ver-
+wandten Begriffen sein, aber auch hierarchische Relationen zwischen engeren und
+weiteren Begriffen.
+
+Alle Daten der GND stehen weltweit frei unter der Creative-Commons-Zero-Lizenz
+(CC0)7 zur Nachnutzung zur Verfügung.
+
+3 Datenmodelle, Formate und Schnittstellen
+Wenn eine Normdatei nicht als zufällige Ansammlung von Einträgen entstanden ist,
+die konkret in einem bestimmten Kontext benötigt werden, liegt in der Regel ein Da-
+tenmodell dahinter. Das kann auf der Basis eines für die Erschließung genutzten Re-
+gelwerks entwickelt worden sein oder auch als gezielt erarbeitetes Modell. Das im
+
+ https://creativecommons.org/publicdomain/zero/1.0/legalcode bzw. https://de.wikipedia.org/wiki/
+Creative_Commons#CC_Zero (25.01.2024).
+
+
+
+532 Barbara Fischer et al.
+
+Rahmen einer Arbeitsgruppe der IFLA entstandene Modell Functional Requirements for
+Authority Data (FRAD)8 ist ein konzeptionelles Modell, in dem die in einer Normdatei vor-
+kommenden Entitäten und deren Attribute (die Merkmale, die zu den jeweiligen Entitä-
+ten gehören) definiert und ihre Beziehungen zueinander beschrieben werden. Die in
+FRAD definierten Entitäten spiegeln sich in der GND wider, obwohl der ursprüngliche
+Zweck bei der Erstellung der GKD und PND die Erleichterung der Katalogisierung durch
+Festlegung der Ansetzungsform war und kein theoretisches Modell dahinter lag.
+
+Die GND wird im Format MARC 21 Authority9 (MAchine-Readable Cataloging 21)
+ausgeliefert. Das Erfassungsformat ist daran angelehnt, aber um einige anwenderspezi-
+fische Felder ergänzt. Dieses Format ist so aufgebaut, dass die erste der drei Stellen der
+Feldbezeichnung jeweils angibt, ob es sich um eine bevorzugte oder abweichende Be-
+nennung, einen Hinweis oder Link auf einen anderen Datensatz, die bevorzugte Benen-
+nung in einer anderen Normdatei oder einer anderen Schrift handelt. Die beiden
+folgenden Stellen zeigen die Art der Entität (also des Informationsobjekts) – Person,
+Körperschaft, Konferenz, Werk, Sachbegriff, Geografikum an. So werden die Felder 100,
+400, 500 und 700 für Personen genutzt, wohingegen z. B. in 110 und 410 Körperschaften
+stehen. Verlinkungen zwischen den Normdatensätzen erlauben das Navigieren und er-
+leichtern die Suche durch Einschränkungsmöglichkeiten auf verschiedene Aspekte (Bei-
+spiel für einen Normdatensatz Abb. 1). Sie haben darüber hinaus den Vorteil, dass bei
+einer Änderung der bevorzugten Benennung alle verlinkten Datensätze ebenfalls die
+neue korrekte Form anzeigen.
+
+ Mozart, Leopold bevorzugter Name
+ Mozart, Johann Georg Leopold abweichender Name aus anderer Quelle
+ Mozart, Wolfgang Amadeus Sohn, hier als Relation angegeben
+ Komponist Beruf
+ Augsburg Geburtsort
+ Salzburg Sterbeort
+
+Abb. 1: Beispiel eines Personendatensatzes.
+
+Im deutschen Sprachraum werden verschiedene Schnittstellen zum Austausch für
+Normdaten genutzt. Gängige Verfahren sind das Protokoll OAI-PMH (Open Archive
+Initiative, Protocol for Metadata Harvesting), bei dem die Daten in einem bekannten
+Format bereitgestellt werden und die andere Seite sie automatisiert abholt (harves-
+tet). Dieses Verfahren eignet sich für große Mengen von Daten und wird von den
+Bibliotheksverbünden angewandt, um den lokalen Spiegel der GND mit der Master-
+datei, die von der GND-Zentrale gehostet wird, synchron zu halten. In der Regel er-
+folgen solche Anfragen über den gesamten Bestand und einen Zeitstempel – alles,
+
+ IFLA Working Group on Functional Requirements and Numbering of Authority Records 2013.
+ http://www.loc.gov/marc/authority/ (25.01.2024).
+
+
+
+6.3 Normdaten, Linked Data 533
+
+was nach einer bestimmten Zeit neu oder verändert ist, wird eingesammelt. Ein wei-
+teres Verfahren, das ebenfalls für Normdaten wie die der GND verwendet wird, ist
+SRU (Search/Retrieve via URL). Dabei handelt es sich um ein standardisiertes Webser-
+vice-Protokoll zur Abfrage von Datenbanken im Internet. Die Ergebnisse der Suche
+werden in einem definierten XML-Format zur Verfügung gestellt. Das SRU-Protokoll
+ermöglicht die gezielte Suche mittels Suchindizes und Suchbegriffen und die Über-
+nahme der entsprechenden Treffer in die eigene Umgebung. Die Anfragen werden
+in der Retrievalsprache CQL (Common/Contextual Query Language) formuliert.
+
+4 Internationalisierung der Regelwerke
+und Normdateien
+
+Im Zuge dieser Veränderungen werden naturgemäß nationale Grenzen überschritten,
+und allenfalls Sprach- oder Regelwerkskenntnisse sind noch ein Hindernis bei der glo-
+balen Recherche. Das war einer der Gründe für die Einführung eines international
+genutzten Regelwerks. Resource Description and Access (RDA) ist ein Regelwerk, das
+unter anderem auf den Functional Requirements for Bibliographic Records (FRBR)10
+und den Functional Requirements for Authority Data (FRAD) basiert und u. a. beson-
+deren Wert auf die Sucheinstiege legt. Normdaten haben in diesem Zusammenhang
+einen hohen Stellenwert und werden – wenn sie nach international einheitlichen
+Regeln gebildet werden – leichter zusammenfinden, selbst wenn sie in unterschied-
+lichen Sprachen beschrieben sind. In stärkerem Ausmaß als bei den bisher in
+Deutschland genutzten Regelwerken werden Normdatensätze untereinander und
+mit den Publikationen in Beziehung gesetzt und haben somit für die Suche und
+Identifikation von Publikationen noch an Bedeutung gewonnen.
+
+Internationalität ist auch das Stichwort bei der weltweiten Normdatei Virtual Inter-
+national Authority File (VIAF). In dieser von OCLC geführten Datei werden mehr als 50
+verschiedene Normdateien ausgewertet und Individualnamen zusammengebracht. Der
+Schwerpunkt liegt auf Personen, aber auch Körperschaften und Geografika werden
+berücksichtigt. Dabei werden mit Hilfe der mit den Normdaten verknüpften Titel
+Cluster gebildet, in denen die nationalen Normdatensätze in der originalen Form zu-
+sammengeführt werden. Unterschiedliche Regelwerke und Sprachen kommen somit
+zusammen und erlauben ausgehend von entsprechenden Suchergebnissen die Re-
+cherche in den jeweiligen Normdateien. Auch nicht-lateinische Schriften werden
+berücksichtigt. So sind Namen in kyrillischer, hebräischer und arabischer Schrift
+enthalten – entweder als Personen aus diesem Sprachraum oder auch als anders-
+
+ IFLA Study Group on the Functional Requirements for Bibliographic Records 2009.
+
+
+
+534 Barbara Fischer et al.
+
+schriftliche Variante eines eigentlich in lateinischer Schrift publizierenden Autors
+bzw. einer Autorin.
+
+VIAF wurde 2003 von der Library of Congress (LoC), der Deutschen Nationalbi-
+bliothek (DNB) und OCLC als Projekt gestartet, die Bibliothèque nationale de France
+(BnF) trat im selben Jahr dem Konsortium bei. Diese vier Organisationen waren die
+Hauptakteure im Konsortium und trugen gemeinsam die Verantwortung für VIAF.
+Dabei kümmerte sich OCLC um die Abläufe und stellte die Software bereit, während
+die anderen Partner Normdaten und bibliographische Daten liefern. Weitere Institu-
+tionen traten dem Konsortium später als Lieferanten von Norm- und Titeldaten bei
+und tragen mit ihren Fachkenntnissen zur Weiterentwicklung von VIAF bei. 2012 bei
+der Überführung in einen regulären Dienst von OCLC waren es bereits 30 Kooperati-
+onspartner. Die Zahl der Beteiligten hat sich seither mehr als verdoppelt.
+
+Inzwischen sind in VIAF teilweise auch Daten von Institutionen integriert, die nicht
+aus dem Bibliothekswesen kommen. Beispielhaft soll hier ISNI genannt werden, der In-
+ternational Standard Name Identifier auf der Basis der ISO-Norm 27729.11 ISNI enthält
+Informationen aus verschiedenen Quellen, die zum Teil von den Personen oder Institu-
+tionen selbst geliefert werden, und dient der eindeutigen Identifizierung von Autorin-
+nen, Musikern, Schauspielerinnen, Komponisten etc. Hauptquellen sind deshalb die
+Datenbanken der Rechteverwertungsgesellschaften. Da in der ISNI-Datenbank ebenfalls
+Werke und Personen zusammengeführt sind, helfen die über die in bibliothekarischen
+Normdateien hinausgehenden Informationen im VIAF bei der Qualitätsverbesserung.
+
+5 Crosskonkordanzen als Brücken zwischen
+Normdateien
+
+Eine besondere Bedeutung hat die Internationalisierung im Kontext von Sachbegrif-
+fen. In Rahmen des internationalen Datenaustausches übernehmen Bibliotheken oft
+Titeldaten von ausländischen Bibliotheken. Da Bibliotheken bei der inhaltlichen Er-
+schließung normalerweise kontrolliertes Vokabular in ihrer lokalen Sprache verwen-
+den, sind die übernommenen Titeldaten in den Katalogen nur schwer auffindbar, da
+die Deskriptoren nicht in der Sprache sind, die die Benutzerinnen und Benutzer für
+ihre Recherche verwenden. So verwenden Bibliotheken im deutschsprachigen Raum
+die Sachbegriffe der GND, in der – gemäß RSWK – Deutsch die führende Sprache ist.
+Im englischsprachigen Raum sind die Library of Congress Subject Headings (LCSH)
+vorherrschend, während die Bibliothèque nationale de France den Thesaurus Réper-
+toire d’autorité matière encyclopédique et alphabétique unifié (RAMEAU) für die Be-
+schlagwortung verwendet, der Deskriptoren in Französisch beinhaltet. Mit Hilfe von
+
+ https://www.isni.org (25.01.2024).
+
+
+
+6.3 Normdaten, Linked Data 535
+
+sog. Crosskonkordanzen können Wissensorganisationssysteme bzw. Begriffssysteme
+so miteinander verbunden werden, dass eine Suchanfrage mit Begriffen aus dem
+einen System auch Ressourcen findet, die mit einem anderen Begriffssystem indexiert
+worden sind.12
+
+Im Kontext der GND entstanden die ersten Mappings zu anderen Vokabularen im
+Projekt MACS (Multilingual Access to Subjects), einem Gemeinschaftsprojekt der Deut-
+schen Nationalbibliothek, der Schweizerischen Nationalbibliothek und der Bibliothè-
+que nationale de France mit dem Ziel, die damalige Schlagwortnormdatei, die Library
+of Congress Subject Headings und den französischen Thesaurus RAMEAU zu verlin-
+ken.13 Im Rahmen von weiteren Kooperationen wurde die mehrsprachige Verlinkung
+auf das italienische Vokabular Nuovo Soggetario (NSogg), das spanische Encabezami-
+entos de materia de la Biblioteca Nacional de España (EMBNE), die Medical Subject
+Headings (MeSH) und das multilinguale AGROVOC aus dem Bereich Ernährung und
+Landwirtschaft erweitert. Da im deutschsprachigen Raum einige Disziplinen eigene
+Fachthesauri für die Erschließung verwenden, wie den Standardthesaurus Wirtschaft
+(STW) für die Wirtschaftswissenschaften und den Thesaurus Sozialwisssenschaft (TheSoz)
+in den Sozialwissenschaften, pflegen die DNB, die ZBW – Leibniz-Informationszentrum
+Wirtschaft und GESIS – Leibniz-Institut für Sozialwissenschaften gemeinschaftlich Map-
+pings zwischen diesen Vokabularen und der GND, um ein einheitliches Retrieval zu
+ermöglichen.
+
+Bei der Erstellung von Crosskonkordanzen (CK) – oft auch Mappings genannt –
+werden die Begriffe der beiden Systeme miteinander in Beziehung gesetzt. Dabei ist
+nicht die Bedeutung eines Begriffes in der natürlichen Sprache ausschlaggebend, son-
+dern der in der Normdatei festgelegte Begriffsumfang des jeweiligen Sachbegriffes.
+Der Begriffsumfang lässt sich einerseits aus den im Normdatensatz enthaltenen Refe-
+renzquellen, Definitionen oder Benutzungshinweisen sowie aus den vorhandenen
+Thesaurus-Relationen ableiten, andererseits aus den damit beschlagworteten Biblio-
+theksbeständen (engl. literary warrant). Dabei müssen auch die unterschiedlichen
+Syntaxen und Strukturen der verschiedenen Indexierungssprachen berücksichtigt
+werden. Gerade hier liegt die hauptsächliche Schwierigkeit bei der Erstellung von Re-
+lationen von und zu Sachbegriffen in der GND.
+
+Das GND-Schlagwort Operation wird – entsprechend der angegebenen Quellen M
+(Meyers Konversationslexikon) und B (Brockhaus-Enzyklopädie), des Synonymverwei-
+ses und der systematischen Zuordnung zu Chirurgie, Orthopädie – im Kontext Medi-
+zin verwendet (Abb. 2). Der Bedeutungsumfang ist festgelegt. Dieses Schlagwort wird
+nicht im Kontext Militär oder Mathematik gebraucht, dafür gibt es die Begriffe Opera-
+tion < Militär >14 bzw. Operation <Mathematik > .15
+
+ S. zum Folgenden Betz, Jahns u. Kolbe (2022) und die dort zitierte Literatur.
+ Siehe hierzu Landry 2006.
+ https://d-nb.info/gnd/4203217-9 (25.01.2024).
+ https://d-nb.info/gnd/4115450-2 (25.01.2024).
+
+
+
+536 Barbara Fischer et al.
+
+Abb. 2: Das GND-Schlagwort „Operation“ im Katalog der Deutschen Nationalbibliothek.
+
+Im Prinzip kann jede Art von Beziehung zwischen Begriffen definiert und als Map-
+ping verwendet werden. In der Praxis werden die Mappings durch die Art des zu ver-
+knüpfenden Vokabulars bestimmt. Zwischen Thesauri sind daher die wichtigsten
+Typen Äquivalenz-, hierarchische und assoziative Relation – wie im Thesaurus selbst.
+Die Äquivalenzrelation ist für Anwendungen von Crosskonkordanzen die wichtigste.
+Aufgrund der hohen Spezifizität und guten Binnendifferenzierung der GND sind je-
+doch hierarchische Relationen für viele Crosskonkordanzen zur GND unabdingbar.
+Tabelle 1 zeigt die in Crosskonkordanzen zur GND möglichen Typen von Relationen.
+
+Tab. 1: Diese Typen von Relationen sind in Crosskonkordanzen zur GND möglich.
+
+Beschreibung ISO MARC XX $i GND GND
+- (Relationship $-Relation $-Code
+(MARC Information) (ft =
+XX $) Fremder
+
+Thesaurus)
+
+Äquivalenz EQ Equivalence (Alternativ: Fremder ftaa Der Begriff ist
+Equivalence mapping) Thesaurus: synonym zur GND.
+
+Aequivalenz
+
+Exakte =EQ Exact equivalence Fremder ftae Der Begriff ist
+Äquivalenz Thesaurus: genau
+
+exakte bedeutungsgleich.
+Aequivalenz
+
+
+
+6.3 Normdaten, Linked Data 537
+
+Tab. 1 (fortgesetzt)
+
+Beschreibung ISO MARC XX $i GND GND
+- (Relationship $-Relation $-Code
+(MARC Information) (ft =
+XX $) Fremder
+
+Thesaurus)
+
+Inexakte ~EQ Inexact equivalence Fremder ftai Der Begriff ist
+Äquivalenz Thesaurus: nicht exakt
+
+inexakte bedeutungsgleich.
+Aequivalenz
+
+Partielle (wird nicht ftai
+Äquivalenz extra
+
+ausgewiesen)
+
+Kumulative EQ| Cumulative Compound Fremder ftao Dieser und weitere
+Äquivalenz equivalence Thesaurus: Begriffe decken
+
+ODER- sich mit der GND.
+Aequivalenz
+
+Kombinierte EQ + Intersecting Fremder ftau Die Kombination
+Äquivalenz Compound Thesaurus: aus zwei oder
+
+equivalence UND- mehr Begriffen ist
+Aequivalenz bedeutungsgleich.
+
+Nullrelation No mapping Fremder ftnu Es gibt keine
+Thesaurus: Beziehung zum
+Nullrelation anderen
+
+Vokabular.
+
+Hierarchisches BM Broader mapping Fremder ftob Der Begriff ist in
+Mapping (zu Thesaurus: der Bedeutung
+einem OB) Oberbegriff- weiter.
+
+Relation
+
+Hierarchisches NM Narrower mapping Fremder ftub Der Begriff ist in
+Mapping (zu Thesaurus: der Bedeutung
+einem UB) Unterbegriff- enger.
+
+Relation
+
+Assoziatives RM Related Fremder ftvb Die Begriffe
+Mapping (zu mapping (Alternativ: Thesaurus: überschneiden sich
+einem VB) Associative mapping) Verwandter- in ihrer
+
+Begriff- Bedeutung.
+Relation
+
+In Onlinekatalogen werden die Mappings unterschiedlich angezeigt und verwendet.
+Bei der Anzeige stehen sie häufig unter der Überschrift „Synonyme“ oder „Links zu
+anderen Vokabularen“ (Abb. 3 und Abb. 4).
+
+
+
+538 Barbara Fischer et al.
+
+Abb. 3: Das GND-Schlagwort Zement im GND-Explorer (Ausschnitt). Mappings zu LCSH und RAMEAU unter
+dem Label „Andere Normdateien“.
+
+Im Kontext des Information Retrievals können Crosskonkordanzen vor allem auf
+zwei Arten nützlich sein. Einerseits können die jeweiligen fremden Schlagwörter mit
+Hilfe der Crosskonkordanzen in die eigene Indexierungssprache übersetzt und die Ti-
+teldaten entsprechend maschinell angereichert werden. Die Titeldaten können dann
+z. B. mittels GND durchsucht werden, obwohl ursprünglich mit dem fremden Vokabu-
+lar erschlossen wurde. So verwendet die DNB die STW-Indexate der ZBW für graue
+Literatur in den Wirtschaftswissenschaften, um mit Hilfe des Mappings zwischen
+STW und GND die Titeldaten mit GND-Schlagwörtern anzureichern (Abb. 5).
+
+Eine andere Möglichkeit ist die Suchraumerweiterung. Hier werden die original ver-
+gebenen Schlagwörter an den Titeldaten nicht verändert, nur für die Suchanfrage wer-
+den die fremden Schlagwörter aus der Crosskonkordanzen als zusätzliche Suchterme
+genutzt. Auf diese Weise werden z. B. Titeldaten, die mit deutschen GND-Schlagwörtern
+indexiert sind, auch mit französischen Suchanfragen gefunden, weil die Crosskonkordanz
+zu RAMEAU im Hintergrund ausgewertet wird (Abb. 6).
+
+
+
+6.3 Normdaten, Linked Data 539
+
+Abb. 4: Das italienische Schlagwort „Cementi“ des Nuovo Soggetario (NSogg) im Thesaurus-Portal der
+BNCF. Mappings zu LCSH, RAMEAU und GND mit jeweiligen Landesflaggen unter dem Label „Equiv. in
+altri strumenti di indicizzazione“ (Screenshot: 01.09.2022).
+
+Abb. 5: Titeldatensatz im Katalog der Deutschen Nationalbibliothek mit automatisch vergebenen
+Schlagwörtern aus der Crosskonkordanz STW-GND.
+
+
+
+540 Barbara Fischer et al.
+
+Abb. 6: Eine Suche mit dem französischen Term „Imperialisme“ findet den Titel „Land Grabbing in
+Ostafrika“, da der Begriff „Imperialisme“ mit dem automatisch vergebenen Schlagwort
+„Neokolonialismus“ verknüpft ist.
+
+6 Normdateien außerhalb des Bibliothekswesens
+Wie die im Folgenden genannten Beispiele illustrieren, setzen sich auch im nichtbi-
+bliothekarischen Bereich allmählich Normdateien durch, die nicht nur in einer Insti-
+tution, sondern auf Landesebene, national oder international geführt werden. Im
+Archivbereich beispielsweise gibt es dafür einen eigenen Standard EAP-CPF,16 der als
+XML-Schema die Erschließung von Körperschaften, Personen und Familien institutio-
+nenübergreifend ermöglicht. Die Erschließung von Archivalien, Nachlässen, Filmen
+oder auch Bildern geschieht zunehmend nicht nur innerhalb einer Institution, son-
+dern vernetzt. Die Aufbereitung der Materialien ist im Internet sichtbar. Dadurch
+werden Quellen verfügbar, die bisher nur einzelnen Besucherinnen und Besuchern
+bzw. Nutzerinnen und Nutzern der besitzenden Institution zugänglich waren.
+
+Beispiele dafür sind das Deutsche Zentrum für Kunstgeschichte – Bildarchiv Foto
+Marburg.17 Dessen Bestände werden zunehmend digitalisiert und mit Hilfe von Norm-
+datensätzen erschlossen, die zum Teil bereits Bestandteil der GND sind. Das Deutsche
+Filminstitut18 hat zur Darstellung von Filmen und Filmschaffenden im filmportal19
+
+ https://eac.staatsbibliothek-berlin.de/ (25.01.2024).
+ https://www.fotomarburg.de/ (25.01.2024).
+ https://deutsches-filminstitut.de/ (25.01.2024).
+ https://www.filmportal.de/ (25.01.2024).
+
+
+
+6.3 Normdaten, Linked Data 541
+
+eine eigene Normdatenbank erstellt und verknüpft die Datensätze mit der GND. Eine
+eigene Normdatei, die nicht Bestandteil der GND ist, liegt auch hinter der Bilddaten-
+bank des Bundesarchivs20. Sie erlaubt eine themenbezogene Suche nach Personen,
+Geografika und Schlagwörtern.
+
+Ein weiterer Dienst, der international agiert, ist ORCID.21 Dort wird eine Identifi-
+kationsnummer gezielt für Forschende mit dem Hauptzweck vergeben, diesen schon
+am Beginn ihrer Publikationskarriere einen eindeutigen Identifier zuzuteilen. Sie mel-
+den sich dort selbst an und pflegen ihre Informationen in der Datenbank selbst. Die
+Nummer kann dann von Verlagen, Bibliotheken und anderen Institutionen genutzt
+werden, um die Publikationen eindeutig zuzuordnen. Für Forschende wird es zuneh-
+mend wichtiger, dass dies nicht nur innerhalb ihrer Institution oder national, sondern
+verlags- und länderübergreifend möglich ist. Im DFG-Projekt ORCID DE22 wurden die
+Grundlagen für nun produktive Dienste geschaffen, die die Verlinkung zwischen
+ORCID und GND ermöglichen und vorantreiben.
+
+Durch die oben aufgeführten Beispiele von nichtbibliothekarischen Institutionen,
+deren Normdatensätze Bestandteil der GND sind, stellt sich die Frage, ob sich die GND
+als bibliothekarische Normdatei so weit öffnen kann, dass auch andere Bestände sinn-
+voll eingebunden werden können. Bereits heute wird die GND schon außerhalb des
+bibliothekarischen Bereichs genutzt. Eine aktive Mitarbeit setzt allerdings Anpassun-
+gen der organisatorischen und der Darstellung der Regeln je Anwendergemeinschaft
+voraus. Dazu wurden u. a. die Geschäftsordnung des Standardisierungsausschusses
+und geltende Regeln über eine neu geschaffene webbasierte Dokumentationsplatt-
+form leichter zugänglich, durchsuchbar, filterbar und aktualisierbar gemacht.
+
+Ein praktischer Startpunkt für viele Anwendergruppen in die Mitarbeit könnten En-
+titäten zu Personen sein. Sie bieten sich dafür an, da sie die größte Gruppe in der GND
+bilden und gleichzeitig von vielen nichtbibliothekarischen Nutzerinnen und Nutzern
+eingegeben, ergänzt und angewendet werden können. Hier besteht, womöglich im Un-
+terschied zu anderen Entitäten, in vielen Nachschlagewerken, Katalogen, Datenbanken
+und sonstigen Verzeichnissen Konsens darüber, was zur Identifizierung notwendig und
+nützlich ist. Mit dieser Gruppe kann die Öffnung einer bibliothekarischen Normdatei
+hin zu einem Knotenpunkt erfolgen, der als Vorzug die eindeutige Identifizierung von
+Personen und gleichzeitige Normierung des Namens beinhaltet, dabei aber auch die
+Suche nach weiteren Kriterien wie abweichenden Namensformen oder biografischen
+Angaben erlaubt. Web-unterstützte Eingabemöglichkeiten, bei denen formatunabhängig
+und feldbezogen Inhalte erfasst und ohne die Nutzung von komplexen Schnittstellen an
+die Normdatei übermittelt werden können, werden die Zukunft der Normdatei sein.
+
+ https://www.bild.bundesarchiv.de/ (25.01.2024).
+ https://orcid.org/ (25.01.2024).
+ https://www.orcid-de.org (25.01.2024).
+
+
+
+542 Barbara Fischer et al.
+
+Dieser Zukunft öffnet sich die Gemeinsame Normdatei durch die Entwicklung
+einer Infrastruktur, die dem Bedarf nach Normdaten aus Kultur und Forschung zu
+begegnen weiß. Die Konzepte hierzu wurden im DFG-Projekt „GND4C – Gemeinsame
+Normdatei für Kulturdaten“ entwickelt und finden zunehmend auch in den geistes-
+wissenschaftlichen Konsortien der nationalen Forschungsdateninfrastruktur (NFDI)
+Anwendung. Auf organisatorischer Ebene sind dies die GND-Agenturen und Interes-
+sengruppen, für die intuitivere Nutzung der GND steht der GND-Explorer und für die
+verbesserte Zugänglichkeit und Inklusivität die im Jahr 2023 veröffentlichte STA-
+Dokumentationsplattform, die die Regeln zur Erschließung umfasst.
+
+Wenn man den Begriff Normdatei noch etwas weiter auslegen will, dann gehört
+auch eine Datei wie Geonames23 dazu – die Datenbank enthält über elf Millionen geo-
+grafische Namen, wobei nicht nur verschiedene Namensformen und die staatliche Zu-
+gehörigkeit, sondern auch die Koordinaten aufgeführt sind. Auch wenn die Namen
+der angegebenen Länder, Orte und Ortsteile nicht normiert sind, so werden doch die
+Koordinaten nach einem einheitlichen normierten System verzeichnet und erfüllen
+dadurch die am Anfang des Kapitels genannten Vorgaben für eine Normdatei.
+
+Zwei Aspekte können zu dieser Öffnung beitragen: die automatische Erschließung
+digitaler Texte und die Mitwirkung vieler (Stichwort Wikipedia/Crowdsourcing). Auto-
+matische Erschließung erfolgt derzeit in den Fällen, in denen die Ressourcen nicht in-
+tellektuell erschlossen werden können. Gerade im Bereich der Normdaten haben sich
+in den letzten Jahren aus eher verhaltenen Anfängen interessante und erfolgreiche
+Verfahren entwickelt, die insbesondere bei der Schlagwortvergabe durch lernende
+Programme gute Erfolge zeigen. Auch zur Bildung von Normdatensätzen für Personen
+wurde in der DNB ein entsprechendes Verfahren entwickelt, das zunächst zwar nur
+die Erfassung der digital gelieferten Personennamen als String ermöglichte, aber in
+weiteren Stufen so verfeinert wurde, dass auch die Zuordnung von Titeln zu Personen
+und nicht nur zu Personennamen eindeutig möglich ist. Ähnliche Algorithmen, bei
+denen die mit Personen verknüpften Titel die Grundlage bilden, werden auch in VIAF
+angewandt. Ob auf künstlicher Intelligenz (KI) basierende Anwendungen die Erschlie-
+ßungsarbeit tatsächlich rationalisieren kann, hängt auch von der Qualität der vorlie-
+genden Daten und ihrer Zugänglichkeit ab. Eine Vernetzung und Standardisierung
+der Daten böten hierfür eine wesentliche Grundlage.
+
+Wikipedia ist ein Beispiel dafür, wie kollektive Intelligenz zu guten Ergebnissen
+führt. Die Mitwirkung vieler, von denen jede einzelne Person Kenntnisse zu einem
+oder mehreren Spezialgebieten hat, ermöglicht die Qualitätsverbesserung von Tex-
+ten – und auch von Normdaten. Durch Meldungen von Nutzerinnen und Nutzern
+werden auch jetzt schon GND-Daten aufgearbeitet und verbessert. Wenn die Mitarbeit
+erleichtert wird und der Nutzen für alle sichtbar ist, kann genau das Phänomen, das
+Wikipedia derzeit zur erfolgreichsten allgemeinen Nachschlagequelle macht, auch
+
+ https://www.geonames.org (25.01.2024).
+
+
+
+6.3 Normdaten, Linked Data 543
+
+eine Normdatei noch besser machen. Die Öffnung für alle brächte nicht nur für Bi-
+bliotheken einen Qualitätsgewinn mit sich.
+
+7 Linked Open Data und Semantic Web
+Linked Data ist eine Entwicklung, die darauf abzielt, Informationen über Entitäten
+jeglicher Art sowie zu den Beziehungen dazwischen maschinenlesbar darzustellen
+und unter Verwendung von Standardprotokollen des World Wide Web zugänglich zu
+machen. Wenn die Daten öffentlich zugänglich sind und unter einer offenen Lizenz
+stehen (Open Data),24 spricht man von Linked Open Data.25
+
+Das Grundkonzept von Linked Data ist, Entitäten jeglicher Art, wie z. B. Personen,
+Orte, abstrakte Konzepte oder Typen von Beziehungen zwischen den Entitäten, durch
+eindeutige Identifikatoren (Uniform Resource Identifier – URIs) zu bezeichnen. Durch
+die Verwendung von HTTP-URIs entstehen Hyperlinks, die direkt zu menschen- und
+maschinenlesbaren Informationen über die jeweilige Entität führen. Wenn die abge-
+rufenen Informationen ihrerseits Hyperlinks auf verwandte Entitäten beinhalten, ent-
+steht ein maschinenlesbares Datennetz. Dieses Grundkonzept geht im Wesentlichen
+auf Tim Berners-Lee zurück, der es in vier Regeln zusammenfasste:
+1. Use URIs as names for things.
+2. Use HTTP URIs so that people can look up those names.
+3. When someone looks up a URI, provide useful information, using the standards
+
+(RDF,26 SPARQL).
+4. Include links to other URIs, so that they can discover more things.27
+
+Die Prinzipien hinter Linked Data bauen auf den Grundideen des World Wide Web
+(WWW) auf. Das WWW basiert auf einer kleinen Zahl im Prinzip einfacher Standards:
+– URIs als globaler Mechanismus für die Identifikation von Ressourcen;28
+– das Hypertext Transfer Protocol (HTTP) als Zugriffsmechanismus und die Hyper-
+
+text Markup Language (HTML) als Format für Inhalte.
+
+ „Offene Daten sind Daten, die von jedermann frei benutzt, weiterverwendet und geteilt werden
+können – die einzige Einschränkung betrifft die Verpflichtung zur Nennung des Urhebers.“ https://
+opendatahandbook.org/guide/de/what-is-open-data/ (25.01.2024).
+ Eine vollständige Einführung in die Konzepte von Semantic Web und Linked Data würde den Rah-
+men dieses Kapitels sprengen. Einen guten Einstieg in das Thema bietet Heath u. Bizer 2009.
+ Resource Description Framework. S. auch unten.
+ Vgl. Berners-Lee 2009.
+ In der Architektur des WWW und somit auch des Semantic Web werden alle Dinge, über die wir Aus-
+sagen machen, als Ressourcen (engl. resources) bezeichnet. Im Kontext der GND kann der Begriff synonym
+mit „Entität“ verwendet werden. In diesem Abschnitt werden beide Begriffe verwendet: Wenn der Kontext
+eher technisch ist, wird „Ressource“ verwendet, wenn der Kontext eher fachlich ist „Entität“.
+
+
+
+544 Barbara Fischer et al.
+
+Dazu kommt die Verwendung von Hyperlinks, um Dokumente zu verknüpfen, die auf
+unterschiedlichen Servern liegen können. Durch die Hyperlinks entsteht ein globaler
+Informationsraum, in dem Benutzer und Benutzerinnen von einem Dokument zur
+nächsten navigieren können, um verwandte Informationen zu bekommen. Linked Data
+erweitern im Grunde das (dokumentenbasierte) WWW, so dass aus dem (menschenles-
+baren) Informationsraum ein globaler (maschinenlesbarer) Datenraum entsteht.
+
+Bei der Entstehung der GND wurde die Veröffentlichung der Normdatensätze als Lin-
+ked Open Data gleich mitgedacht, um die Wiederverwendung der Daten in möglichst vie-
+len Kontexten zu erlauben. Jede Entität in der GND hat einen URI zur eindeutigen
+Identifikation der Ressource. Diese URIs sind alle http-URIs29 und sind nach dem Schema
+https://d-nb.info/gnd/<NID> aufgebaut, wobei die Normdatenidentnummer < NID > die
+Identifikationsnummer des Normsatzes ist. Wichtig dabei ist, dass die URIs die bezeich-
+nete Ressource identifiziert und nicht eine bestimmte Repräsentation30 davon. So identi-
+fiziert https://d-nb.info/gnd/121649091 die Person Tim Berners-Lee und nicht die
+Beschreibung von ihm, so wie https://d-nb.info/gnd/4363898-3 das abstrakte Konzept
+„World Wide Web“ identifiziert und https://d-nb.info/gnd/1020028-9 die Organisation
+CERN, wo Berners-Lee den ersten Webserver konzipierte.
+
+Ein Dokument, das „Tim Berners-Lee“ beschreibt, ist aber nicht das gleiche wie
+die Person „Tim Berners-Lee“. Daraus folgt, dass wir für die Repräsentation von ihm
+einen anderen URI brauchen als für die Person, und auch, dass es einen Mechanismus
+braucht, um von der Personen-URI zur Beschreibungs-URI zu kommen. Da das Web
+schon von Anfang an dazu gedacht war, Informationen sowohl für Menschen als auch
+für Maschinen bereitzustellen, muss dieser Mechanismus auch in der Lage sein her-
+auszufinden, welche Repräsentation für den Anfrager der richtige ist. So wollen Men-
+schen in der Regel eine HTML-Seite bekommen, die sie im Browser lesen können,
+während für Maschinen eher strukturierte Datenformate wie CSV (Comma-separated
+values), MARC 21 oder RDF (Resource Description Framework) sinnvoll sind.
+
+Mit der sog. Content Negotiation enthält HTTP einen solchen Mechanismus. Bei Con-
+tent Negotiation teilt der Client in dem Accept-Header mit, welche(s) Datenformat(e) er
+bevorzugt verarbeiten kann und davon ausgehend wählt der Server die Repräsentation
+aus, die am besten dazu passt. Sollte keines der verfügbaren Datenformate passen,
+haben die Server normalerweise ein Defaultformat. So kann z. B. ein Webbrowser wie
+Opera, Firefox oder Edge mit dem Header Accept: text/html, application/xhtml + xml mit-
+teilen, dass er bevorzugt HTML-Seiten empfangen möchte. Ein Client für die Bearbeitung
+bibliographischer Daten würde diese Präferenz mit Accept: application/marcxml + xml,
+
+ Auch wenn sie mit https anfangen, werden sie http-URIs genannt, da sie für Auflösung und Trans-
+port der Inhalte das Hypertext Transfer Protocol verwenden.
+ In der Architektur des World Wide Web (Jacobs und Walsh 2004) wird der Term „Repräsentation“
+für menschen- bzw. maschinenlesbare Dokumente verwendet, die auch Ressourcen beschreiben kön-
+nen, die sich nicht über Netzwerke transportieren lassen, wie z. B. Personen oder Orte.
+
+
+
+6.3 Normdaten, Linked Data 545
+
+application/marc mitteilen, und somit darauf hinweisen, dass er Daten in ISO-MARC (ap-
+plication/marc) oder MARC XML (application/marcxml + xml) verarbeiten kann.
+
+Bei der Auslieferung von Daten im LinkedData-Format RDF ist die Sache etwas
+komplizierter, da RDF kein Datenformat ist, sondern eine sog. abstrakte Syntax, die in
+unterschiedlichen Serialisierungen ihren konkreten Ausdruck findet. RDF ist ein Stan-
+dard des W3C (World Wide Web Consortium), der u. a. regelt, wie Daten aufbereitet
+werden müssen, damit diese sich in das Semantic Web eingliedern lassen. RDF sieht
+vor, dass alle Informationen als Aussagen (engl. statements) formuliert werden, die aus
+drei Gliedern bestehen: Einem Subjekt (engl. subject), einem Prädikat (engl. predicate)
+und einem Objekt (engl. object); Subjekt, Prädikat und Objekt ergeben zusammen ein
+Triple. Subjekte und Prädikate sind immer URIs, die auf Ressourcen verweisen. Objekte
+können entweder URIs sein, also auf Entitäten verweisen, oder Literale sein, also aus
+Text bestehen.
+
+Abb. 7: Ausschnitt aus der RDF-Repräsentation des Normdatensatzes für Tim Berners-Lee. Die Ellipse
+bezeichnen Entitäten, die Rechtecke Literale (Text) und die Pfeile Beziehungen.
+
+Abbildung 7 zeigt einen Ausschnitt aus der RDF-Repräsentation des GND-Datensatzes für
+Tim Berners-Lee (NID 121649091). In der am häufigsten verwendeten RDF-Serialisierung
+Turtle31 würde dieser Ausschnitt wie folgt aussehen:
+(1) @prefix gnd: < https://d-nb.info/gnd/ >
+(2) @prefix gndo: <https://d-nb.info/standards/elementset/gnd# >
+(3) gnd:121649091 gndo:preferredNameForThePerson „Berners-Lee, Tim“
+(4) gndo:placeOfBirth gnd:407335-4
+(5) gnd:407335-4 gndo:preferredNameForThePlaceOrGeographicName „London“
+
+ Terse Triple Language, vgl. Becket u. a. 2014.
+
+
+
+546 Barbara Fischer et al.
+
+Die ersten beiden Zeilen definieren sog. Präfixe, die es erlauben, URIs übersichtlicher
+und sprechender zu schreiben. Durch das Zusammenfügen des Präfixes und dem Ab-
+schnitt nach dem Doppelpunkt entsteht der volle URI. So lässt sich im Beispiel oben
+der URI https://d-nb.info/gnd/121649091 mit gnd:121649091 abkürzen. Dies erhöht nicht
+nur die Lesbarkeit, weil die Syntax kompakter ist, sondern ermöglicht durch die Wahl
+des Präfixes auch eine leichtere Zuordnung der Entität zu einem Datenset oder einer
+Wissensdomäne, in diesem Fall zur GND.
+
+Die Zeilen 3–4 beschreiben zwei RDF-Triples, die Aussagen über die Entität
+gndo:121649091 machen. Zeile 3 besteht aus Subjekt (gndo:121649091), Prädikat (gndo:
+preferredNameForThePerson) und Objekt („Berners-Lee, Tim“) und sagt aus, dass die
+Entität gnd:121649091 die bevorzugte Namensform „Berners-Lee, Tim“ hat. Zeile 4 be-
+steht nur aus Prädikat und Objekt. Das Semikolon am Ende von Zeile drei besagt aber,
+dass die nächste Aussage – Zeile 4 – sich auf das gleiche Subjekt bezieht, dass also die
+Entität gnd:121649091 als Geburtsort die Entität gnd:407335-4 hat. Der Punkt am Ende
+von Zeile 4 schließt die Aussage ab, so dass gnd: 121649091 nicht mehr als Subjekt gilt.
+
+Zeile 5 schließlich hat wieder Subjekt, Prädikat und Objekt. Hier wird beschrei-
+ben, dass die Entität gnd:407335-4 die Vorzugsbenennung „London“ hat.
+
+Die Prädikate in dem Beispiel haben alle das Präfix gndo. Die Präfixdeklaration in
+Zeile 2 zeigt, dass diese Relationstypen aus der GND-Ontologie32 kommen, einer
+Sammlung von Entitätentypen und Relationen (im Kontext des Semantic Web spricht
+man auch von Klassen und Properties), die eigens für die Beschreibung der GND-
+Daten im Semantic Web angelegt wurde. Die GND-Ontologie umfasst 131 Klassen (Enti-
+tätentypen) und 256 Properties (Beziehungstypen), die die Entitätencodes und die Re-
+lationscodes der GND in RDF abbilden. Sie stellt auch die verschiedenen Klassen und
+Properties in Beziehung zueinander und auch zu anderen RDF-Vokabularen wie Dub-
+lin Core und SKOS und beschreibt auch das Verhältnis der RDF-Eigenschaften zu den
+entsprechenden Konstrukten des MARC 21 Authority-Formats. Die GND-Ontologie
+wurde im Rahmen des Projektes KIM (Kompetenzzentrum Interoperable Metadaten)33
+entwickelt und wird laufend fortgeschrieben.
+
+8 Fazit
+Das Bibliothekswesen ist demselben schnellen Wandel unterworfen wie alle anderen
+Bereiche unseres Lebens, wobei die mittel- und langfristigen Auswirkungen durch die
+Veränderung der Informationstechnologie und der Suchgewohnheiten nicht absehbar
+sind. War es traditionell die Aufgabe von Bibliotheken, über sinnvolle Erwerbung
+und Erschließung ihren Nutzerinnen und Nutzern die notwendige Literatur zur Ver-
+
+ https://d-nb.info/standards/elementset/gnd (25.01.2024).
+ http://dini.de/ag/kim/ (25.01.2024).
+
+
+
+6.3 Normdaten, Linked Data 547
+
+fügung zu stellen, so werden jetzt andere und wesentlich weitergehende Anforderun-
+gen an die Bibliotheken gestellt. Zuverlässige Bereitstellung von Informationen über
+Publikationen – seien sie im Bestand einer Bibliothek oder nicht – dienen als Anker
+für die Suche von jedem beliebigen Ort aus. Normdaten spielen hierbei eine wichtige
+Rolle, da nicht zuletzt Suchmaschinenbetreiber ihre Verlässlichkeit erkannt haben
+und sie entsprechend beim Ranking berücksichtigen.
+
+Normdaten sind – verglichen mit der langen Tradition des Nachweises von
+Büchern und Zeitschriften in Bibliothekskatalogen – ein relativ neues Arbeitsfeld für
+Bibliothekspersonal. So lange Benutzerinnen und Benutzern von Bibliotheken sich
+lokal informiert haben und das Auffinden von Beständen der Hauptzweck eines Bi-
+bliothekskatalogs war, war die einheitliche Ansetzung von Namen und Schlagwörtern
+Sache der einzelnen Bibliothek. Durch die Erstellung gedruckter Verzeichnisse, die
+anderen Bibliotheken als Maßstab dienten, waren Festlegungen zur Benennung oder
+zur Bildung von Namensansetzungen überregional, national und international erfor-
+derlich. Aufgrund der technischen Möglichkeiten, aber auch aus der Einsicht, dass
+dieselbe Arbeit nicht in jeder Institution fast zeitgleich erledigt werden muss, hat die
+Übernahme von bibliographischen Daten anderer Bibliotheken dazu geführt, dass
+auch die Namen von Verfassern, Urheberinnen und Werken einheitlich verzeichnet
+wurden und dass die sachliche Erschließung meist national auf der Basis eines Regel-
+werks geschah. Von dort ist es nur ein kleiner Schritt zur Anwendung von Normda-
+ten, die nicht mehr bei jeder Verwendung in Gänze, sondern nur noch durch die sie
+identifizierende Nummer ausgetauscht werden. Bibliotheken haben diesen Schritt be-
+reits hinter sich, andere Kultur- und Wissenschaftseinrichtungen erkennen den Nut-
+zen an und folgen in der Anwendung. Auch kommerzielle Unternehmen wie Verlage
+verschließen sich nicht länger der Idee des Datentauschs, der nur auf der Basis ver-
+einbarter Formate und Inhalte erfolgen kann. Normdaten werden in einer digitalen
+Welt als zuverlässige Informationen hoch geschätzt, gerade wenn sie von Bibliothe-
+ken als den Lieferanten verlässlicher Daten stammen.
+
+Literatur
+Becket, David u. a.: RDF 1.1 Turtle. Terse RDF Triple Language. W3C Recommendation 25 February 2014.
+
+http://www.w3.org/TR/2014/REC-turtle-20140225/ (25.01.2024).
+Berners-Lee, Tim: Linked Data. 2009. https://www.w3.org/DesignIssues/LinkedData.html (25.01.2024).
+Betz, Florian, Yvonne Jahns u. Ines Kolbe: Regeln für GND-Crosskonkordanzen (Mapping-Methodik). 2022.
+
+https://wiki.dnb.de/x/aQy6Dw (25.01.2024).
+Fabian, Claudia u. Ute Klier (Hrsg.): Personennamen der Antike. Wiesbaden: Reichert 1994 (Regeln für die
+
+Alphabetische Katalogisierung 7).
+Heath, Tom u. Christian Bizer: Linked Data: Evolving the Web into a Global Data Space. San Rafael:
+
+Morgan and Claypool 2011. https://doi.org/10.1007/978-3-031-79432-2. Auch verfügbar unter:
+http://linkeddatabook.com/ (25.01.2024).
+
+IFLA: Anonymous classics. A list of uniform headings for European literatures. 2. Aufl. 2004.
+
+
+
+548 Barbara Fischer et al.
+
+IFLA Study Group on the Functional Requirements for Bibliographic Records: Functional Requirements for
+Bibliographic Records: Final Report. 2009. https://repository.ifla.org/handle/123456789/811
+(25.01.2024).
+
+IFLA Working Group on Fiunctional Requirements and Numbering of Authority Records (FRANAR):
+Functional Requirements for Authority Data – A Conceptual Model. Berlin, München: DeGruyter Saur
+2013. https://repository.ifla.org/handle/123456789/757 (25.01.2024).
+
+Jacobs, Ian u. Norman Walsh: Architecture of the World Wide Web, Volume One. W3C Recommendation
+15 December 2004. 2004. https://www.w3.org/TR/webarch/ (25.01.2024).
+
+Hengel, Christel: The Virtual International Authority File (VIAF). In: New Perspectives on Subject Indexing
+and Classification. Hrsg. von der Deutschen Nationalbibliothek. Leipzig, Frankfurt a. M., Berlin: DNB
+2008. S. 269–272.
+
+Landry, Patrice: Multilinguisme et langages documentaires: le projet MACS en contexte européen. In:
+Documentation et bibliothèques 52 (2006), S. 121–129. https://doi.org/10.7202/1030015ar.
+
+Regeln für die Schlagwortkatalogisierung: RSWK/bearb. von Esther Scheven und Julijana Nadj-Guttandin.
+4., vollständig überarbeitete Auflage. Leipzig, Frankfurt a. M.: Deutsche Nationalbibliothek 2017. urn:
+nbn:de:101-2017011305.
+
+Taylor, Arlene G. u. Barbara B. Tillett (Hrsg.): Authority Control in Organizing and Accessing Information.
+Definition and International Experience. New York u. a. 2004.
+
+Wiesenmüller, Heidrun u. Silke Horny: Basiswissen RDA: Eine Einführung für deutschsprachige Anwender.
+2. Aufl. Berlin, Boston: De Gruyter Saur 2017 (De Gruyter Saur Studium). https://doi.org/10.1515/
+9783110544725.

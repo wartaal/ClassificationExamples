@@ -1,0 +1,826 @@
+﻿Reinhard Laube
+7.1 Provenienzen, Sammlungen und die
+
+Verantwortung für die kulturelle
+Überlieferung
+
+1 Einführung
+Provenienzen, Sammlungen und kulturelle Überlieferung sind Leitbegriffe des Biblio-
+thekswesens, die aufeinander bezogen sind und Handlungsfelder markieren. Biblio-
+theken sind Akteure der modernen Gesellschaft, die Gegenwart verarbeiten und
+gestalten. Dazu gehört die Erfahrung, dass die Frage nach der Provenienz zugleich die
+Frage nach Transparenz, Funktion und Selbstbeschreibung einer öffentlichen Einrich-
+tung stellt. Auch Kulturgut als Raubgut wird in den Beständen überliefert und in Räu-
+men und Sammlungen analog und digital vermittelt. Offen ist, ob Anfragen der
+Gegenwart und von öffentlicher Bedeutung produktiv im Bibliotheksmanagement
+verarbeitet werden können, Auskunftssysteme wie Online-Kataloge Fragen nach Pro-
+venienz, Sammlung und Überlieferung beantworten können. Als Exemplum und roter
+Faden durchzieht den vorliegenden Beitrag die Schlossbibliothek Friedersdorf, be-
+schrieben von Theodor Fontane, untergegangen in der Bodenreform und den Enteig-
+nungen nach dem Zweiten Weltkrieg. Bibliotheken übernehmen auch in diesem Fall
+Verantwortung für die kulturelle Überlieferung.
+
+2 Die Bibliothek von Schloss Friedersdorf
+Theodor Fontane besucht in seinen Wanderungen durch die Mark Brandenburg das
+Schloss Friedersdorf, gelegen im Oderbruch unweit von Frankfurt (Oder). Er be-
+schreibt das Herrenhaus mit seiner Eingangshalle, die „Gesamträumlichkeit“ mit
+Treppen, Korridoren und Gemächern sowie ihren Mobilien – Möbel, Bilder und Bü-
+cher.1 In seinen Notizbüchern skizziert er zudem die Anordnung der Räume.2 Auf
+einem Kiesweg durch den Park gelangen die Besucher:innen zur Kirche mit Grablege
+der adligen Familie. Der Innenraum hinterlasse den Eindruck eines Museums: Neben
+Grabmonumenten finden sich Porträts, Sarkophage, Büsten und Figuren. An einen Ge-
+
+ Fontane, Theodor: Wanderungen durch die Mark Brandenburg, Das Oderland, Schloss Friedersdorf
+(1864). In: Hanser Fontane-Ausgabe (= HFA) II, 1. München 1966‒1968, S. 752–810.
+ Theodor Fontane: Notizbuch A 21 (Edierter Text/Textkritischer Apparat). Hrsg. von Gabriele Rade-
+cke. In: Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hg.
+v. Gabriele Radecke, Blatt 17r. https://fontane-nb.dariah.eu/index.html (20.02.2024).
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-034
+
+
+
+568 Reinhard Laube
+
+denkstein heftet Fontane eine Geschichte des Siebenjährigen Krieges, und zwar die
+Geschichte des Oberst Johann Friedrich Adolf von der Marwitz und seiner Bücher:
+
+Er besaß eine höchst wertvolle Bibliothek, die sich noch jetzt im Friedersdorfer Schloß befindet.
+Alle diese Bücher hatte er, partienweise, dem Quintus Icilius im Spiel abgewonnen und sich da-
+durch nachträglich und auf dem Wege Rechtens in Besitz derselben Bibliothek gesetzt, deren Fort-
+führung aus Schloß Hubertusburg er, als unwürdig eines Marwitz und Obersten der Gensdarmes
+verweigert hatte. Dieser Johann Friedrich Adolf, oder der Hubertusburg-Marwitz, wie wir ihn ge-
+nannt haben, starb 1781. Die Friedersdorfer Kirche bewahrt sein Andenken durch einen Grab-
+stein, auf dem wir die Worte lesen: „Johann Friedrich Adolf. Er sah Friedrichs Heldenzeit und
+kämpfte mit ihm in allen seinen Kriegen. Wählte Ungnade, wo Gehorsam nicht Ehre brachte“.3
+
+Hier öffnet sich ein Panorama: In der Mark Brandenburg findet Theodor Fontane die
+Geschichte einer Büchersammlung mitsamt der Frage nach ihrer Provenienz, nach
+ihrem Besitz, Vorbesitz und Gebrauch, und auch der Feststellung ihrer Überlieferung
+in den Räumen des Schlosses. Provenienz, Sammlung und Überlieferung werden er-
+zählt, eindeutig und in anekdotischer Verdichtung, und zwar aus der Sicht eines Besu-
+chers und Lesers der Schlossbibliothek Mitte des 19. Jahrhunderts. Der Philosoph
+Hans Blumenberg erkennt hier die Vermittlung von „Bedeutsamkeit“:
+
+Ihr Träger, ihr Substrat ist „das Bleibende“, die Schloßbibliothek von Friedersdorf: das unge-
+rechte Gut, durch gutgläubigen Erwerb justifiziert, zugleich zur Nutzlosigkeit verdammt wie die
+Tugend des Oberst Marwitz, der nun nichts mehr mit dem „Tugendlohn“ anzufangen weiß, statt
+dessen an Praß und Trunk wie Spielsucht schnell verfällt.4
+
+Was Fontane in die Form einer Erzählung brachte, versah der Fontane-Leser Blumen-
+berg als „das Bleibende“ mit einem Potential an „Bedeutsamkeit“: Die Geschichte der
+Schlossbibliothek Friedersdorf als verfügbare Grundlage. Doch die narrative Ordnung
+wird durch die Frage nach Provenienz, Sammlungskontext und Überlieferung ge-
+sprengt.5 Aus der ruhigen Ordnung des Vorher und Nachher, die narrativ Gewissheit
+und Bedeutsamkeit stiftet, werden Kontexte, die Komplexität vermitteln: Fontane hat
+die Geschichte des rebellierenden Oberst den Erinnerungen von Friedrich August
+Ludwig von der Marwitz entnommen, Neffe des Hubertusburg-Marwitz, der mit sei-
+ner Familiengeschichte adliges Selbstverständnis artikuliert und Topoi adliger Wider-
+ständigkeit verwendet. Ludwig, selbst entschiedener Widersacher des preußischen
+Reformministers Hardenberg, formiert die adlige Gutsherrschaft in Friedersdorf neu
+und traditionsbildend. Sie umfasst ein Ensemble von Schloss, Bibliothek, Park, Land,
+
+ Fontane, Theodor: Wanderungen durch die Mark Brandenburg (s. Fn. 1), S. 761 f.
+ Blumenberg, Hans: Zwischen Anekdote und Mythos: Ders.: Geschichte einer Bibliothek. In: Gerade
+noch Klassiker. Glossen zu Fontane. München 1998, S. 136–138, hier S. 138.
+ Zu Herausforderungen und Grenzen historischer Narrative: Schlögel, Karl: Narrative der Gleichzei-
+tigkeit oder Die Grenzen der Erzählbarkeit von Geschichte. In: Merkur. Deutsche Zeitschrift für euro-
+päisches Denken 65 (2011): S. 583–595.
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 569
+
+Kirche und Grablege. Zum adligen Haus gehört eine Hausüberlieferung, die aus der
+Erinnerung an die Geschichte der Familie Ansprüche an Gegenwart und Zukunft ab-
+leitet, 1852 erstmals postum im Druck erschienen. Hier erhält nun Johann Friedrich
+Adolf seinen Platz, übernimmt in der Familiengeschichte die Paraderolle eines ehr-
+und freiheitsbewussten Adligen, der auch dem König die Stirn bietet – unabhängig
+von der Glaubwürdigkeit mitgeteilter Details. Dazu gehört der in diesem Zusammen-
+hang aufgestellte Gedenkstein in der frisch hergerichteten Dorfkirche, und zwar mit
+der berühmten Inschrift. Sie bildete zusammen mit weiteren Epitaphien ein Ensemble
+gestifteter Erinnerungen und machte in der weiteren Überlieferung eine Karriere, die
+den Kontext abstreifte – über Fontane bis zur bundesrepublikanischen Erinnerung
+an den militärischen Widerstand des Jahres 1944 und zur einprägsamen Anekdote
+Blumenbergs. Fontane fügt also 1864 eine Geschichte in seine Wanderungen ein, von
+der Marwitz-Forschung als „Set von Erinnerungsfiguren“ identifiziert, die „jeweils ge-
+genwartsbezogen ausgedeutet“ werden.6
+
+Die Geschichte der Schlossbibliothek Friedersdorf markiert also das Feld für die
+Einführung in die Themenfelder Provenienzen, Sammlungen und kulturelle Überlie-
+ferung. Die Geschichte erzählt Fontane und mit ihm seine Quelle Ludwig von der Mar-
+witz so, dass die Bibliothek mit ihrer Provenienz in den Blick gerät: Fontane konnte
+sie vor Ort in Friedersdorf sehen und bei Ludwig die Berliner Herkunft der Teilsamm-
+lung von Hubertusburg-Marwitz nachlesen:
+
+Er kam wenig nach Friedersdorf und lebte meistentheils in Berlin, wo er eine sehr schöne Biblio-
+thek hatte (die noch hier in meinem Zimmer steht), deren größten Theil er in den Winterquartie-
+ren zu Leipzig dem Quintus Jcilius im Spiel abgenommen hatte, die er aber fort während
+vermehrte. Auch hatte er eine nicht unbedeutende Gemälde-Sammlung.7
+
+Die Geschichte der Erwerbung ist vielfältig, hatte Marwitz doch die Plünderung des
+sächsischen Schlosses Hubertusburg, den Raub der Bücher abgelehnt, nicht jedoch
+den Sammlungsaufbau durch rechtgläubigen Erwerb im Spiel, freilich ohne die Frage
+der Restitution nach Friedensschluss zu stellen. Die Erwerbungsart Spielgewinn galt
+offenbar als ehrenvoll. Die Bücher sind schließlich in die Sammlungen der Familie
+eingegangen. Der dargestellte Lebenswandel von Johann Friedrich Adolf lässt keine
+Gebrauchspuren in den Bänden erwarten. Mit der Frage der Provenienz ist jedoch
+der Stachel gesetzt und die Geschichte wird auf ihre historische Tragfähigkeit hin
+überprüfbar. Blumenberg sieht in Fontanes Verarbeitung der Geschichte eines Spie-
+lers auch einen Hinweis auf die Geschichte seines Vaters. Geblieben sind diese auf
+ihre Herkunft befragbaren Geschichten, eine Sammlungsgeschichte, die heute ohne
+
+ Frie, Ewald: Friedrich August Ludwig von der Marwitz 1777–1837. Biographien eines Preußen. Pa-
+derborn 2001: S. 13.
+ Marwitz, Ludwig von der: Aus dem Nachlasse Friedrich August Ludwig’s von der Marwitz auf Frie-
+dersdorf, Königlich Preußischer General-Lieutenants a. D. Erster Band: Lebensbeschreibung. Berlin
+1852: S. 9.
+
+
+
+570 Reinhard Laube
+
+ihr Substrat auskommen muss: die Bibliothek. Sie ging mit der Zerstörung des Schlos-
+ses und der Bodenreform nach dem Zweiten Weltkrieg unter – Familie von der Mar-
+witz musste Friedersdorf verlassen. Archiv und Bibliothek von Schloss Friedersdorf
+wurden zunächst auf das Gut Groß Kreutz zwischen Brandenburg und Potsdam ver-
+bracht. Die Landesbücherei Brandenburg bzw. die spätere Brandenburgische Landes-
+und Hochschulbibliothek in Potsdam war so eine erste, nahegelegene Station für ent-
+eignete Bücher im Zuge der Bodenreform.8
+
+Was bleibt, ist ein „Set von Erinnerungsfiguren“, abrufbar in der Gegenwart, und
+materiale Überlieferung: Die Verbunddatenbank K10plus zeigt zehn Treffer an, die
+mit der Provenienz „Von der Marwitz’sche Bibliothek zu Friedersdorf“ verknüpft
+sind. Provenienzen, Sammlungen und Überlieferung können in Geschichten erzählt
+oder in ihrer synchronisierenden Sprengkraft beschrieben werden.
+
+3 Provenienzen
+Mit Entfaltung des Paradigmas „Provenienz“ werden Fragen nach provenire, nach Her-
+vorkommen, Entstehen und Ereignen grundsätzlich und Bibliotheken als historisch und
+sozial gebundene Phänomene sichtbar. In der ausdifferenzierten, polyzentrisch und
+multiperspektivisch verfassten Gesellschaft der Moderne können Institutionen, Ordnun-
+gen und Sammlungen nicht einfach vorausgesetzt oder aus ihrem vermeintlichen
+Wesen abgeleitet werden, sondern müssen über ihre selbsttragenden Funktionen und
+Entstehungsbedingungen beschrieben werden. Sachliche, zeitliche und soziale Dimen-
+sionen öffnen Kontexte und machen deutlich, dass keine unveränderlichen Substanzen
+wie Sammlungen schon Orientierung vermitteln können: Fontanes scheinbar beiläufi-
+ger Blick auf Geschichte, Bestand und Moralistik der Schlossbibliothek Friedersdorf bie-
+tet eine zeitliche Ordnung der Geschichte mit dem Anspruch, am Einzelfall das Ganze
+anschaulich zu machen. Das Ganze bleibt jedoch unter modernen Bedingungen unver-
+fügbar, eine Geschichtsschreibung produziert lediglich Perspektiven und Narrative.
+Fontanes Friedersdorfer Bericht eröffnet aber mit Hinweis auf Ort, Geschichte und
+Überlieferung Anknüpfungspunkte für neue Fragerichtungen.
+
+Herausragende Provenienzen waren immer schon geeignet, Objekte, Sammlun-
+gen und Institutionen zum Leuchten zu bringen. Das gilt für Ursprungsmythen, die
+fürstlichen und gelehrten Gründungsfiguren genialische Weitsicht und einheitsstif-
+tenden Sammlungsaufbau attestieren, ebenso wie für bedeutende Objekte und Teil-
+sammlungen wie Bibliotheken von Fürstinnen und Fürsten oder Autorenbibliotheken
+wie die von Johann Wolfgang Goethe oder Theodor Fontane. Zu dieser Sichtweise ge-
+
+ Zur Friedersdorfer Überlieferung Heegewaldt u. Harnisch 2010: S. 80–83. Den Hinweis auf die Ge-
+pflogenheit, „Bodenreformgut“ an die nächstgelegene Landes- oder Universitätsbibliothek abzuliefern,
+verdanke ich Dr. Regine Dehnel (Berlin).
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 571
+
+hört eine Vorstellung vom Wesen einer Bibliothek oder Sammlung, in das Forscher:in-
+nen sowie Bibliothekar:innen „tiefer“ eindringen, und zwar durch Tiefenerschlie-
+ßung. Neue Perspektiven bleiben gemessen an dieser Vorstellung bewusst an der
+Oberfläche, erschließen funktionale Zusammenhänge und Netzwerke mit immer
+neuen Informationen, die vor allem auch Provenienzen und Sammlungszusammen-
+hänge betreffen. Damit werden die Sammlungen in ihre jeweiligen Gegenwarten
+übersetzt und mit aktuellen Fragen ihrer Nutzung konfrontiert. Zwei Herausforderun-
+gen durch Nutzungsanforderungen – national und international – können veran-
+schaulichen, dass Bibliotheken einen Strukturwandel im Rahmen der Wahrnehmung
+ihrer Funktion in der modernen und digitalen Gesellschaft vollziehen.
+
+In (West-)Deutschland war es die Fragestellung des Anglisten Bernhard Fabian,
+die 1983 den Zusammenhang von „Buch, Bibliothek und geisteswissenschaftlicher For-
+schung“ in den Blick nahm und im internationalen Vergleich nach einem Nationalar-
+chiv der gedruckten Überlieferung fragte.9 Daraus wurden die Sammlung Deutscher
+Drucke (SDD) und ein Handbuch der historischen Buchbestände in Deutschland, Öster-
+reich und Europa, für das die Bibliotheken allererst gewonnen werden mussten. Sie
+bleiben ausdifferenzierte Lieferanten wissenschaftlicher Literatur und Informatio-
+nen, werden aber zugleich neu in den Blick genommen, als Archive der kulturellen
+Überlieferung und vor allem als „Archive neuer Art: Knotenpunkte geistiger Netze,
+deren Verknüpfungen noch zu untersuchen sind“.10 Damit werden nun aber die über-
+lieferten Materialien, ihr Umfang, ihre Ordnung und Zugänglichkeit zum Thema und
+mit ihnen die Bedeutung von Exemplaren und Sammlungszusammenhängen. Das
+Handbuch der historischen Buchbestände soll als „Maschine“ funktionieren, Fragen be-
+antworten und neue provozieren.
+
+Das Vorwort publizierte Bernhard Fabian 1991 bereits mit Hinweis auf die welt-
+historische Wende von 1989 und einen veränderten politischen Erfahrungsraum für
+Erwartungen an Bibliotheken. Im Rückblick zeichnet sich ab, dass Bibliotheken als di-
+gitale Akteure und Einrichtungen mit prekärem Besitz neu in ihrer Funktion beschrie-
+ben werden. Während Daten kooperativ erstellt und geteilt werden können, wird mit
+der Frage nach NS-Raubgut, Kulturgutentziehungen nach dem Zweiten Weltkrieg und
+Sammlungsgut aus kolonialen Kontexten deutlich, auf welche Fragen die von Fabian
+in Aussicht gestellte Maschine heute eine Antwort bieten muss. Angaben zur Proveni-
+enz und zu Sammlungskontexten sind inzwischen nicht nur in Museen Standard, feh-
+lende Angaben werden registriert und eingefordert. Das Bibliothekswesen war nur
+bedingt auskunftsfähig. Es bedurfte eines Mentalitätswandels und einer neuen Idee
+für Kataloge, den zentralen Auskunftssystemen von Bibliotheken, mit denen zugleich
+ihr Selbstverständnis und ihre wahrgenommene Funktion öffentlich vermittelt wer-
+den. Gesucht ist eine Lösung für einen sammlungserschließenden Katalog, der an den
+
+ Vgl. Fabian 1983.
+ Fabian 1991: S. 10.
+
+
+
+572 Reinhard Laube
+
+Reflexionsstand von Fabians Handbuch anknüpft und spartenübergreifend Proveni-
+enzen und mit ihnen Profile von Beständen, Netzwerke von Sammlungen und Ge-
+brauchs- und Nutzungszusammenhänge sichtbar macht. Ebenfalls zu dokumentieren
+sind der Zustand und die notwendige Arbeit zur Erhaltung der Überlieferung.
+
+Jürgen Weber stellte mit diesem Problembewusstsein 2005 ein Projekt der Herzo-
+gin Anna Amalia Bibliothek Weimar zur Einrichtung eines Provenienz-Portals vor:
+„ProvenanceFinder is designed to be an efficient tool of research with free access for
+everyone who wants to search internet databases for information on provenance.“
+Weber klärt die Frage: „Why provenance research now?“ mit Hinweis auf Fabians
+Handbuch und die Initiative „Lost Art Internet Database“: „The Koordinierungsstelle
+has been collecting data on the losses and the changes in ownership of cultural pro-
+perty.“ Tatsächlich war der Bedarf groß, Informationen und Akteure auf dem Feld
+der Normdatenproduktion und der Provenienzforschung zusammenzubringen, so da-
+mals als Kooperationspartner Die Deutsche Bibliothek, die Koordinierungsstelle für
+Kulturgutverluste Magdeburg und die Bibliothèque municipale de Lyon sowie weitere
+Einrichtungen, die standardisiert Provenienzdaten zur Verfügung stellen.
+
+Gefragt waren neben einer Suchmaschine Möglichkeiten, die bislang in interna-
+tionalen Regelwerken vernachlässigten Provenienzdaten standardisiert und damit
+retrievalfähig über multilinguale Thesauri und Richtlinien einzubinden: „At present,
+the most important task is to provide access to already existing provenance informa-
+tion and to link it up.“11 Der Drittmittelantrag war jedoch seiner Zeit voraus, konnte
+wissenshistorisch und politisch noch nicht auf gemeinsam geteilte Überzeugungen
+der Fachgutachter:innen setzen. Zentrales Argument der Ablehnung war, dass das
+Provenienz-Portal für den geschichtswissenschaftlichen Bedarf irrelevant und der
+dargestellte Aufwand zu hoch sei.
+
+Im Rückblick wird deutlich, welche Bedeutung die Umsetzung der Washingtoner
+Prinzipien (1998)12 und der sogenannten Gemeinsamen Erklärung (1999)13 für die Durch-
+setzung des Provenienz-Paradigmas haben, mit dem eine bereits bekannte zu einer
+grundsätzlichen Fragestellung an Bestände und Sammlungen wurde, die ihren Rechts-
+status, ihre Deutung und weitere Vermittlung in den Fokus rückt. Eine Umkehr der Per-
+spektiven am Leitfaden der Provenienz bedeutet jetzt, die unbewusste oder bewusste
+Herstellung von Latenzen in der Verwaltung von Sammlungen zum Thema zu machen.
+Für die Bundesrepublik Deutschland bedeuten die Washingtoner Prinzipien die Selbst-
+verpflichtung auf Grundsätze, die nicht nur Suche und Restitution von NS-Raubgut be-
+trifft, sondern vor allem die Herstellung von Transparenz zur Identifikation von
+Vorbesitz und Erwerbungsvorgängen. Die Gemeinsame Erklärung der Bundesregierung,
+der Länder und der kommunalen Spitzenverbände ist eine Selbstverpflichtung zur Um-
+
+ Weber 2005: S. 71, 72.
+ https://kulturgutverluste.de/sites/default/files/2023-04/Washingtoner-Prinzipien.pdf (20.02.2024).
+ https://kulturgutverluste.de/sites/default/files/2023-04/Gemeinsame-Erklaerung.pdf (20.02.2024).
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 573
+
+setzung der Prinzipien und spartenübergreifend auf „öffentlich unterhaltene Archive,
+Museen, Bibliotheken und deren Inventar“ ausgerichtet. Im Grundsatz wurden die zen-
+tralen Handlungsfelder wie Erwerbung, Erschließung, Erhaltung und Vermittlung auf
+Berücksichtigung der Provenienz-Perspektive verpflichtet, auf Suche, Dokumentation
+und Restitution. Die gemeinsame Arbeit an digitalen Informationssystemen und Doku-
+mentationen wird festgeschrieben und heute am Deutschen Zentrum Kulturgutverluste
+Magdeburg (DZK) die Forschungs- und Fachdatenbanken Lost Art und Proveana geführt.
+Inzwischen stehen mit der Handreichung zur Umsetzung der Gemeinsamen Erklärung in
+einer Neufassung von 201914 und einem Leitfaden Provenienzforschung15 begleitende
+Texte zur Verfügung, die Provenienzforschung, Erschließung und Restitution fest im Auf-
+gabenspektrum von Kultureinrichtungen verankern und im Rückblick bereits stabile
+Kommunikationen und Infrastrukturen für laufende Arbeitsprozesse festhalten. Die ge-
+sellschaftliche und politische Aufforderung zur Klärung von Provenienzen und Rechtsan-
+sprüchen sowie die Durchführung von Restitutionen hat das Verwaltungshandeln von
+Bibliotheken verändert und mit ihm auch einen Mentalitätswandel im Bibliotheksma-
+nagement befördert: Auskunftsfähigkeit über Provenienzen und Sammlungen wird zum
+Kriterium gelungener Funktionswahrnehmung, Geschäftsgänge müssen auch Rückgaben
+abbilden.
+
+Vor diesem Hintergrund ist zu erwarten, dass Katalogsysteme einen prominenten
+Einstieg in die Provenienz- und Sammlungsrecherche anbieten. Das bleibt jedoch eine He-
+rausforderung für Bibliotheken. Kooperative Vorhaben bestehen im gesamten deutschen
+Bibliothekswesen, die inzwischen von der dbv-Kommission „Provenienzforschung und
+Provenienzerschließung“ auch als Geschäftsstelle des Arbeitskreises „Provenienzfor-
+schung und Restitution – Bibliotheken“ koordiniert werden. Es handelt sich um ein aus-
+differenziertes Netzwerk, das auf Vorarbeiten und eine eingeführte Praxis zurückgreifen
+kann. Dazu zählen Empfehlungen zur Provenienzverzeichnung der Arbeitsgemeinschaft
+Alte Drucke und der mehrsprachig angelegte Weimarer Thesaurus der Provenienzbegriffe
+(T-PRO), die auf Vorbilder wie die Guidelines for the Cataloguing of Rare Books der Li-
+brary Association Rare Books Group (1997) und Provenance evidence: thesaurus for use in
+rare book and special collections cataloguing (1988) der Association of College and Re-
+search Libraries der American Library Association zurückgreifen konnten. Sie werden
+heute von der dbv-Kommission verantwortet und im Rahmen des ProvenienzWiki, der
+Plattform für Provenienzforschung und Provenienzerschließung, weiterentwickelt und
+zur Nachnutzung angeboten.16
+
+Für die kooperative Erschließung und Präsentation in Online-Katalogen und die Zu-
+sammenführung von Informationen sind gemeinsam geteilte Richtlinien, Normdateien
+und der Einsatz von Thesauri entscheidend. Auf der Grundlage des vorliegenden Ob-
+
+ https://kulturgutverluste.de/sites/default/files/2023-04/Handreichung.pdf (20.02.2024).
+ https://kulturgutverluste.de/sites/default/files/2023-04/Leitfaden-Download.pdf (20.02.2024).
+ https://provenienz.gbv.de/Hauptseite (20.02.2024).
+
+
+
+574 Reinhard Laube
+
+jekts, eines Buchs, einer Handschrift oder eines anderen Kulturguts, werden erkenn-
+bare Spuren von Vorbesitz und Gebrauch dokumentiert. Die Praxis unterscheidet sich
+in den Bibliotheksverbünden. Für jeden Provenienzsachverhalt können jeweils neue
+Beschreibungen in Form von interpretationsbedürftigen Provenienzketten entstehen.
+Vorbesitzer werden mit Rückgriff auf Normdateien ebenso festgehalten wie Eviden-
+zen, Kennzeichen des Besitzes, der Lektüre und des Gebrauchs oder der Funktion des
+Exemplars. So werden Stempel, Spuren des Gebrauchs wie Marginalien oder ein Wid-
+mungsexemplar als Typ dokumentiert, der Thesaurus erläutert die Deskriptoren und
+ihre Verwendung. Weitere Hinweise wie Datierungen und Kontextinformationen
+sind möglich. Provenienzketten für jeden festgestellten Sachverhalt repräsentieren
+eine Form des Wissens, die Vorliegendes festhält, ein Nebeneinander, das weitere Ein-
+ordnungen, Interpretationen und Narrative unterstützt oder in Frage stellt, laufend
+aktualisierbar durch neue Befunde.
+
+Ein in der Staatsbibliothek zu Berlin überliefertes Exemplar des Werks L’Ambas-
+sadeur Et Ses Fonctions von Abraham van Wicquefort in einer Ausgabe von 1715 do-
+kumentiert eine Überlieferung aus Friedersdorf und die Praxis im GBV: Es wird
+derzeit mit fünf Ketten beschrieben, die verschiedene Provenienz-Sachverhalte wie-
+dergeben und über eine Signatur der Staatsbibliothek zu Berlin (SPK), Exemplarspezi-
+fika und einen Vorbesitz miteinander verbunden sind. Sie nehmen Bezug auf eine
+Sammlung: Von der Marwitz’sche Bibliothek zu Friedersdorf. Eine erste Information
+verweist auf ein Bibliotheksexemplar mit einem Stempel und einer handschriftlich
+hinzugefügten Nummer, wiederum überstempelt mit „Übernommen Dt. Staatsbibl.“.
+In einer weiteren Kette mit Hinweis auf Vorbesitz und Bibliotheksexemplar wird das
+Etikett mit der Signatur 167 festgehalten, erläutert mit dem Hinweis, dass es sich mit
+der handschriftlich notierten Nummer auf dem Buchrücken befindet. Eine dritte In-
+formation verweist auf die Bodenreform mit Datum 1945 bis 1948, ein Hinweis, der
+die Enteignung und Auflösung der Friedersdorfer Bibliothek markiert. Eine Zwischen-
+station im Zuge der Bodenreform hält die vierte Kette fest: Brandenburgische Landes-
+und Hochschulbibliothek Potsdam, gekennzeichnet als ein Aussonderungsexemplar
+mit dem erläuternden Stempel Dublette. Und schließlich ein fünfter Provenienzsachver-
+halt: Zugang bzw. Vergabe der Zugangsnummer in der Vorgängereinrichtung Deutsche
+Staatsbibliothek am 16. Mai 1963 mit der Erläuterung: „Herkunft lt. Akzessionsjournal:
+Alter Bestand“. Die Identifizierung und Dokumentation der weiteren Evidenzen des Ex-
+emplars machen deutlich, dass die Wendung im Zugangsbuch Provenienz verschleiert,
+Intransparenz herstellt.17
+
+ Für den Datensatz mit Provenienzketten: https://lbssbb.gbv.de/DB=1/XMLPRS=N/PPN?PPN=
+252627814 (20.02.2024).
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 575
+
+4 Sammlungen
+Die dargestellten und dokumentierten Spuren schaffen Kontexte und führen so zu
+Sammlungen, die nach einer grundsätzlichen Wende zum Paradigma Provenienz neu
+beschrieben werden müssen. Die Frage nach Herkunft, Gebrauch und Beschreibung
+einer Sammlung nimmt ihre Funktionen in den Blick, fragt nach Akteuren und Objek-
+ten in einem bestimmbaren gesellschaftlichen und institutionellen Kontext – unter
+Voraussetzung einer materiellen Überlieferung in den Beständen und Räumen einer
+Gedächtniseinrichtung. Selbstbeschreibungen von Sammler:innen und Institutionen,
+die ihre Sammlungen aus einem Narrativ herleiten und auf diese Weise die Genialität
+des Begründers und ihres Sammlungsprofils ebenso rühmen wie Umfang und Bedeu-
+tung des gegenwärtigen Stands, sehen sich mit der gegenläufigen Perspektive kon-
+frontiert, mit Fragen nach Vorbesitz, Produktion und Funktionen von Sammlungen.
+Meistererzählungen, die mit Spitzenstücken und unikalen Kulturgütern glänzen,
+haben durch die gesellschaftliche Verankerung von Institutionen und Sammlungen
+immer eine Person, die sie beobachtet und ihnen zuruft: „Wie interessant! Weißt Du,
+dass andere mit den gleichen Objekten ganz andere Geschichten erzählen können?“
+
+Narrative produzieren immer Latenzen, die Beobachter:innen als blinde Flecke des
+Sammlungsmanagements ausmachen können. Prominentes Beispiel sind Fragen, die der
+Atlas der Abwesenheit. Kameruns Kulturerbe in Deutschland spartenübergreifend stellt.
+Sammeln in Deutschland wird in diesem Fall als Plündern, Sammlungsgeschichten als
+Strategien der Dekontextualisierung und Verbergung, Beschreibungen als unangemessen
+beobachtbar.18 Was aus Sicht der Dekolonialisierung eine politische Katastrophe ist, ist
+aus Sicht von Einrichtungen wie Bibliotheken eine Informationskatastrophe, wenn ihre
+Interfaces auf diese Fragen keine Antworten oder ausbaufähige Anknüpfungspunkte bie-
+ten. Sammlungskulturen und Institutionen geraten mit ihren vorausgesetzten Ordnun-
+gen, Repräsentationen und Präsentationen von Wissen in den Blick.
+
+Sammlungsbegriffe stellen mit diesem Problembewusstsein von Was- auf Wie-
+Fragen um. Sie sind nicht als Entitäten festschreibbar, sondern werden realisiert als
+Modelle mit Sach-, Zeit- und Ortszusammenhängen. Narrative, Beschreibungen und
+Präsentationen stellen immer nur mögliche Perspektiven auf Sammlungen vor und
+sind selber wiederum Sammlungen. Es sind anlassgebunden oder durch Suchanfragen
+hergestellte Sammlungen von Beschreibungen, die u. a. in Präsentationen, Ausstellun-
+gen, Datensätzen, digitalen Guides und Selbstbeschreibungen auch von Institutionen
+angeboten werden. Analoge und digitale Bestände und Repositorien werden durch die
+Perspektive einer Erschließung und Erzählung oder durch eine Suchanfrage zu Samm-
+lungen und können selbst wieder als materiale Bestände beschrieben werden. Eine
+funktionale Beschreibung von Sammlungen über flexible Relationen rückt ab von alt-
+vertrauten Vorstellungen, wonach Sammlungen mit Beständen und Bestandsaufbau
+
+ Vgl. Gouaffo, Meyer u. Savoy 2023.
+
+
+
+576 Reinhard Laube
+
+gleichgesetzt und in Katalogen statisch abgebildet werden. So ist ein einzelnes Objekt
+wie eine Inschrifttafel mit ihrer Objektgeschichte, ihren Inhalten, späteren Beschrei-
+bungen und Bedeutungszuweisungen Teil unterschiedlichster Sammlungskontexte und
+bildet auch als Einzelobjekt eine Sammlung.19 Diese Sicht macht deutlich, dass Samm-
+lungen gegenwartsbezogen in der Gesellschaft gebildet werden und gesellschaftsbezo-
+gen gestalten.
+
+In der tradierten Vorstellung werden aus mehr oder wenig ausgewählten und
+angehäuften Objekten oder Daten, gelegentlich abgeleitet aus einer anthropologisch
+bedingten Sammelleidenschaft oder modernen Forschungsbedarfen, hochgeschätzte
+Wissensbestände mit Substanz und Aussagefähigkeit: „Mehr noch als ein einzelnes Ob-
+jekt vermag eine strukturierte Sammlung einen Wissensbestand darzustellen und neue
+Erkenntnisse zu gewähren.“20 In Gruppenstärke werden Objekte und Forschungsdaten
+so zu aussagefähigen Sammlungen, mit Zuständen von mülleimerverdächtigem Sam-
+melsurium bis zur forschungsbasierten Sammlung mit Potential. Von dieser Vorstellung
+einer substantiellen Ansammlung, vorzugweise aus edlen Motiven erstellt für Kultur
+und Forschung mit Zugangsverwaltung durch Gatekeeper wie Bibliothekar:innen, ver-
+abschiedet sich eine funktionale Beschreibung. „What is a collection?“ wird funktionali-
+siert und prozessiert zur Frage „When is a collection?“:
+
+Sammlung ist eine mediale Form kooperativer Informationsverarbeitung, die als Prozess gedacht
+wird. In der Funktion eines physischen oder elektronischen Repositoriums bilden Sammlungen
+Sets von Objekten, die modular, iterativ und intermediär genutzt und transportiert werden kön-
+nen, ohne dass sich Objekte und Struktur der Sammlungen wesentlich verändern.21
+
+Mit dieser Neubeschreibung von Sammlungen in wissen(schaft)s- und institutionssozio-
+logischer Perspektive, und zwar im Anschluss an Susan Peirce und Michael Heaney für
+Sammlungsbeschreibungen, Ross Atkinson für einen funktionalen Sammlungsbegriff
+und Susan Leigh Star mit ihrem Blick auf prozesshaft verstandene Infrastrukturen,
+werden relationale Beschreibungen von Netzwerken favorisiert, die polyzentrisch ver-
+fasst sind und lokale und temporäre Kennzeichen haben. Es sind nicht zufällig Ansätze,
+die trotz aller Unterschiede auch zur Beschreibung der modernen und inzwischen digi-
+talen Gesellschaft genutzt werden. Diese Modelle sind kontextgebunden und konstrukti-
+vistisch so gefasst, dass die Sammlungen als gesellschaftliche Phänomene anschaulich
+werden. Mit einer durchgängigen Prozessierung der Unterscheidung von „collection“
+und „anti-collection“ wird im Collection Management ein funktionaler Begriff von Ross
+Atkinson in Anschlag gebracht, der weitere Merkmale so ansetzt, dass keine Beschrei-
+bung mehr plausibel ist, die eine Sammlung konzentrisch um einen Kern herum anlegt.
+
+ Laube 2020: S. 6–9.
+ Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastrukturen. Wissenschafts-
+rat. DrS. 10464-11. Berlin 28.01.2011, S. 11. https://www.wissenschaftsrat.de/download/archiv/10464-11.
+html (20.02.2024).
+ Weber 2020: S. 15.
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 577
+
+Vielmehr werden an einem Ort und zu einer Zeit Relationen hergestellt, die aus ganz
+unterschiedlichen Perspektiven der Nutzung und Schwerpunktbildung resultieren kön-
+nen und Sammlungen bilden.22
+
+Informationsinfrastrukturen wie Bibliotheken geraten in Bewegung, wenn ihre
+Repositorien als Grenzobjekte (boundary objects) beschrieben werden. Susan Leigh
+Star, zuletzt Professorin für Library and Information Science an der School of Infor-
+mation Sciences der University of Pittsburgh, interessierte sich für heterogene Prakti-
+ken ihrer Nutzungen von Ausleihen, Anwendungen oder Ausstellungen, die Spuren in
+den Sammlungen hinterlassen und ohne ein steuerndes Zentrum oder gatekeeper aus-
+kommen. Repositorien werden so als verbindende, im Prozess realisierte boundary
+objects beschrieben, auf die unterschiedlichste Nutzungen Bezug nehmen. „Boundary
+objects,“ so das Konzept von Susan Leigh Star und James R. Griesemer,
+
+haben verschiedene Bedeutungen in unterschiedlichen sozialen Welten, aber ihre Struktur ist für
+mehr als eine Welt gemeinsam genug, damit sie als Mittel der Übersetzung erkennbar sind. Die Er-
+zeugung und das Management von Grenzobjekten stellen einen entscheidenden Prozess dar, um in
+sich überschneidenden sozialen Welten Kohärenz zu entwickeln und aufrechtzuerhalten.23
+
+Repositorien und Sammlungen übernehmen mit diesem Problembewusstsein gesell-
+schaftliche Verantwortung. Im Rahmen der institutionalisierten Informationsinfrastruk-
+tur der Bibliothek wird deutlich, dass Sammlungen an Kommunikationen gebunden
+sind und Aushandlungs- und Übersetzungsprozesse von gesellschaftlichen Akteuren ein-
+schließen. Wenn kulturelle Überlieferung über Provenienzen beschrieben und konstru-
+iert wird, so sind es Sammlungen, die Kontexte herstellen und Anhaltspunkte für die
+Interpretation von Provenienzen liefern. Diese können in vorliegenden Fällen bibliothe-
+karisch mit ihren gegenwärtig ablesbaren Spuren und damit in ihrer Synchronizität do-
+kumentiert werden.
+
+Eine Möglichkeit der Repräsentation von Provenienzen sind Kettenbildungen zu
+verschiedenen Provenienzsachverhalten, die im Fall der Marwitz’schen Bibliothek zu
+verschiedenen, zeitlich bedingten Zuständen der Sammlung führen. Sammlungsda-
+tensätze berücksichtigen Kriterien der Beschreibung wie Funktion, Umfang, Raum,
+Zeit, Relation, Überlieferung und Materialität.
+
+Für Michael Heaney steht fest, dass eine Sammlung mehr ist als eine „aggregation of
+physical and/or electronic Items“: „ownership, administration and location are relevant
+to the definition of a collection“.24 Die Bibliothek in Friedersdorf ist untergegangen, die
+Sammlung bleibt aber in Narrativen und in Spuren von Orten und Verwaltungsvorgän-
+gen gegenwärtig, ablesbar an Provenienzhinweisen auf den überlieferten Objekten, re-
+präsentiert und recherchierbar über Metadaten, die reversibel bleiben müssen – und
+
+ Vgl. Atkinson 1991. Vgl hierzu Weber 2020: S. 17 f.
+ Star u. Griesemer 1989/2017: S. 87, zit. nach Weber 2020: S. 20 mit Anm. 28.
+ Heaney 2000: S. 11, S. 19, zit. nach Weber 2020: S. 22.
+
+
+
+578 Reinhard Laube
+
+dennoch: Verantwortung für Erhalt, Erschließung, Kontextualisierung und ggf. Restituie-
+rung der Bände ist Aufgabe der bestandsführenden Einrichtung.
+
+5 Verantwortung für die kulturelle Überlieferung
+Kulturelle Überlieferung und Kulturgut werden in Provenienzen konstruiert, in Samm-
+lungen kontextualisiert und durch Sicherung des Originalerhalts in Einrichtungen wie
+Bibliotheken konkret prozessiert. Durch das als Bestand konfigurierte Kulturgut (cultural
+property) werden Bibliotheken zu Archiven für kulturelle Überlieferung, für einen Origi-
+nalerhalt, der Verantwortung für die materiale und digitale Überlieferung übernimmt.
+Es geht um die Wahrnehmung von Verantwortung für einen vorliegenden Überliefe-
+rungszustand, der die Materialien und Daten für modellierende und konkurrierende
+Ausdeutungen erhält. Originale sind im Anschluss an Susan Leigh Star boundary objects:
+
+Boundary Objects are both plastic enough to adapt to local needs and constraints of the several
+parties employing them, yet robust enough to maintain a common identity across sites. They are
+weakly structured in common use, and become strongly structured in individual-site use. They
+may be abstract or concrete. They have different meanings in different social worlds but their
+structure is common enough to more than one world to make them recognizable, a means of
+translation. The creation and management of boundary objects is key in developing and maintai-
+ning coherence across intersecting social worlds.25
+
+Materialien werden in den institutionalisierten Prozessen zu kultureller Überliefe-
+rung, Beständen, Originalen und zu Medien in bestandserhaltenden Prozessen.
+
+Es besteht keine Aussicht auf Bestände und Originale, die immer schon vorausge-
+setzt werden können, als sprudelnde Quellen für Gesellschaft und Forschung, die aus
+sich heraus Orientierung vermitteln oder durch Tiefenerschließung substantielle Bin-
+dungen ermöglichen. Neubeschreibungen der Herausforderungen kultureller Überliefe-
+rung mit kritischer Überprüfung von scheinbar selbstverständlichen, ja verschliffenen
+Leitbegriffen sind notwendig. Die philosophische Tradition des amerikanischen Prag-
+matismus setzt für redescriptions im Zeichen der modernen Gesellschaft auf die Herstel-
+lung von Relationen. Dieser „Panrelationismus“ hat, so Richard Rorty,
+
+keinen Platz für den Begriff eines intrinsischen, beschreibungsunabhängigen Wesens der Dinge.
+Die klassischen Pragmatisten sind auf der richtigen panrelationistischen Spur, wenn sie geltend
+machen, die traditionellen Probleme der Philosophie seien insofern verbaler Art, als sie durch
+Neubeschreibung, durch die Verwendung anderer sprachlicher Werkzeuge gelöst werden
+können.26
+
+ Star u. Griesemer 1989: S. 393, zit. nach Weber 2020: S. 20 mit Anm. 28.
+ Rorty 2023: S. 248 f.
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 579
+
+Die Praktiken geraten in den Blick und mit ihnen Kontexte für Beschreibungen. Es
+gibt „nicht so etwas wie die richtige Beschreibung einer Sache: Es gibt nur die Be-
+schreibungen, die dieser Sache, indem sie sie zu anderen Dingen in Beziehung setzen,
+in Kontexte einbetten, die unseren derzeitigen, vielfältigen Bedürfnissen dienen“.27
+
+Tatsächlich lässt die bibliotheksfachliche Rede von „Altbeständen“ vermuten,
+dass hier erst besondere Anschlüsse an Bestände und Sammlungen der Gegenwart ge-
+sucht werden müssen. Doch die Gegenwart der Bestände in Archiven und Bibliothe-
+ken ist evident und wird in Katastrophen und Krisen offenbar: Der Brand in der
+Herzogin Anna Amalia Bibliothek 2004 und der Einsturz des Kölner Stadtarchivs 2009
+waren dramatische Anlässe einer öffentlichen Aufmerksamkeit für Gefährdungen des
+schriftlichen Kulturguts in Archiven und Bibliotheken sowie die Erarbeitung von Be-
+standsaufnahmen und bundesweiten Handlungsempfehlungen im Jahr 2015,28 veröf-
+fentlicht durch die 2011 eingerichtete Koordinierungsstelle für die Erhaltung des
+schriftlichen Kulturguts (KEK). Sie wird finanziert von der Beauftragten der Bundesre-
+gierung für Kultur und Medien (BKM) und der Kulturstiftung der Länder (KSL).29
+
+Die KEK koordiniert mit zahlreichen Projekten auch die Kommunikation von
+Begriff und Konzept des Originals, das in den KEK-Förderlinien mit dem BKM-
+Sonderprogramm und den KEK-Modellprojekten zum Originalerhalt vermittelt wird.
+Die Staatsministerin für Kultur und Medien veranschaulicht im Jahresbericht 2022 der
+KEK die „Bedeutung des Originalerhalts“mit dem „Themenkomplex Entschädigung und
+Wiedergutmachung“: „In den Akten aus der Nachkriegszeit ist das Schicksal unzähliger
+Menschen dokumentiert, die in der NS-Zeit verfolgt und entrechtet wurden. Sie sind
+heute von unschätzbarem Wert für die Nachfahren der Opfer, für Aufarbeitung und
+Forschung.“30 Im Jahr 2019 berichtete die KEK über ihre Förderungen 2017 bis 2019
+unter dem Titel Originale koordiniert überliefern und bot Einblicke in Anforderungen
+an die Restaurierung des Manuskripts von Fontanes Wanderungen mit aufgeklebten
+Korrekturzetteln und Fehlstellen-Schließung in dessen Skizzen zu Fünf Schlösser. Ein
+Projekt zu Fontanes Handbibliothek zeigt die gleichberechtigte „Verschränkung von
+Original und digitaler Weiterverarbeitung“.31
+
+Wie in der Praxis und in unterschiedlichsten Kommunikationen Begriff und Kon-
+zeption von Original und Bestand ausgehandelt werden, so auch in Bestanderhaltungs-
+
+ Rorty 2023: S. 54.
+ Die Erhaltung des schriftlichen Kulturguts in Archiven und Bibliotheken in Deutschland. Bundes-
+weite Handlungsempfehlungen für die Beauftragte der Bundesregierung für Kultur und Medien
+(BKM) und die Kultusministerkonferenz (KMK). Vorgelegt von der Koordinierungsstelle für die Erhal-
+tung des schriftlichen Kulturgutes (KEK). Berlin 2015. https://www.kek-spk.de/sites/default/files/2019-
+07/KEK_Bundesweite_Handlungsempfehlungen%20Version%20Online_0.pdf (20.02.2024).
+ Vgl. Die Erhaltung des schriftlichen Kulturguts 2015.
+ Roth. In: Jahresbericht der KEK 2022. Originalerhalt in KEK-Modellprojektförderung und BKM-
+Sonderprogramm, Berlin 2023, S. 11. https://www.kek-spk.de/sites/default/files/2023-06/20230606_GW_
+KEK_Jahresbericht2022_A4hoch_RZ-Web-PDF-RGB.pdf (20.02.2024).
+ Originale Koordiniert Überliefern 2019: S. 30.
+
+
+
+580 Reinhard Laube
+
+konzepten und Strategiepapieren von Gedächtnis- und Kultureinrichtungen. Satzungen,
+Gesetze und Fach-Normen wie die DIN „Bestandserhaltung in Archiven und Bibliothe-
+ken“ verorten den gesellschaftlichen Akteur Bibliothek und stecken den Rahmen ab: Es
+geht um Daueraufgaben von Institutionen, die in der Praxis ihrer Infrastrukturen be-
+reits Materialien als Kulturgut ausweisen und bearbeiten. Gedächtnisauftrag und Kul-
+turunterstellung bieten einen sozialen Rahmen, in dem die verfügbare Infrastruktur
+die Unversehrtheit von Objekten und Beständen gewährleisten soll, die allerdings
+durch die wahrgenommene Funktion der Einrichtung herausgefordert wird, Nutzungs-
+szenarien zu ermöglichen. Wer Nutzungen ermöglichen will, haptisch oder digital, hat
+„Risiken“ und ihre Abfederung im Blick.32 Eingesetzte Verfahren von vorsorgender prä-
+ventiver Konservierung bis zur invasiven Restaurierung sind abhängig von Zielen der
+Erhaltungsmaßnahmen, die zugleich die Überlieferung bearbeiten und formatieren.
+Dazu zählen die Sicherung von Informationskontexten und der Originalerhalt.
+
+Durch die Herausforderungen der Digitalität müssen Leitbegriffe wie „Original“
+neu beschrieben werden, so in Bestandserhaltungskonzepten und Positionspapieren.
+Wenn im Kontext von Archiven für „originär digitale Daten“ auf „Standards zur Siche-
+rung von Integrität und Authentizität bei der Langzeitarchivierung“ hingewiesen
+wird, ist die Frage gestellt, ob durch Prozessdokumentation und Qualitätsmanage-
+ment in der Retrodigitalisierung „die Kopie die Funktionen des Originals übernehmen
+kann“.33 Im Gegensatz dazu wird ein „Primat des Originals“ in Anschlag gebracht, der
+grundsätzlich auf die Materialität der Überlieferung abhebt. Wesentlich sei, „dass der
+Erhalt des Originals in seiner ursprünglichen Entstehungsform Vorrang hat vor der
+Digitalisierung“: „Sämtliche Bestandteile eines Originals sind historische Informati-
+onsträger mit Quellenwertcharakter.“ Hinweise auf Trägermaterialien, die für Origi-
+nale konstitutiv sind, klammern die Rede von digitalen Originalen aus.34
+
+Argumentationen mit Ursprüngen, Quellen und Ganzheitlichkeiten sind voraus-
+setzungsreich. Sie sind Setzungen, die auf die jeweilige gesellschaftliche Gegenwart
+bezogen bleiben und Absicherungen anbieten. Ausgangspunkte sind die vorliegenden
+Räume, Materialien und Digitalisate, die in Infrastrukturen wie Archiv und Bibliothek
+zu Kulturgut und kultureller Überlieferung geformt werden und für die Verantwor-
+tung übernommen wird. Es gilt, „dass die wissenschaftliche Rede von Dingen als Kul-
+turgütern oder materiellem Kulturerbe vielfach die Tatsache übergeht, dass diese
+Begriffe keine wissenschaftlichen Kategorien bezeichnen, sondern ihrem Ursprung
+nach, gesellschaftliche“. Mit dieser Klassifizierung geht es „doch stets um eine Zu-
+schreibung der Gesellschaft an die entsprechenden Dinge aufgrund ihrer angenom-
+menen stabilisierenden Funktion für die Gesellschaft“.35
+
+ Vgl. zu Begriff und Konzept der Risikominimierung: Weber 2009.
+ Boden, Hänger, Niederhut, Förstner u. John 2023: S. 42.
+ Frohmann u. a. 2023: S. 105.
+ Hilgert 2020: S. 69.
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 581
+
+Weimars Aschebücher sind eine Erfindung nach dem Brand der Bibliothek 2004.
+Geborgen aus dem Brandschutt war es eine überlieferungs- und kulturpolitische Ent-
+scheidung, nicht von Brandverlust, sondern von schwer brandgeschädigten Büchern zu
+sprechen, für die Staat und Zivilgesellschaft Verantwortung übernehmen. Ausgehend
+vom vorliegenden Schadensbefund werden die Bände und Blätter mit anspruchsvoller
+Restaurierungstechnik erhalten und in einen benutzbaren Zustand überführt, der die
+Spuren von Substanzverlust und Brand erkennen lässt. In der Dokumentation und digi-
+talen Vermittlung entstehen auch originär digitale Daten, die Teil der Überlieferung
+werden.
+
+Dieser radikale Gegenwarts- und Gesellschaftsbezug bleibt oftmals latent, prägt
+aber die Debatten um Verantwortung für Kulturerbe und Cultural Heritage. Bernhard
+Fabian hat Nüchternheit im Umgang mit diesen Begriffen angemahnt und für eine
+schlichte Rede von kultureller Überlieferung geworben, für „Kulturelle Überlieferung als
+Inbegriff einer nicht quantifizierbaren, nicht überschaubaren und zunächst nicht kate-
+gorisierbaren Menge von kulturellen Objekten“, und zwar in Abgrenzung von bereits
+affektiv und normativ geladenen Begriffen wie Erbe, Heritage oder Patrimoine.36 Mit
+der Übernahme von institutionalisierter Verantwortung für kulturelle Überlieferung
+werden Materialien zu Kulturobjekten in Sammlungen und mit der Zuschreibung von
+Werten und Bedeutungen wird auch die Aufklärung dieser Prozesse notwendig. Nicht
+zuletzt nach Raubgut- und Postkolonialismus-Debatten werden Heritage Keywords neu
+befragt, Neubeschreibungen mit Blick auf Heritage Conventions der UNESCO und im
+Rahmen von Critical Heritage Studies gefordert. Im Anschluss an Richard Rorty ist das
+Ziel der „redescription“ „to rearrange and show matters in a different light“.37 Reflexio-
+nen über Authenticity. Rhetorics of Preservation and the Experience of the Original kom-
+men zu dem Ergebnis, dass in den Begrifflichkeiten das europäische 19. Jahrhundert
+und institutionalisierte Strukturen nachleben: „Authenticity is commonly defined as the
+quality of being true and genuine and is ascribed to objects that are in their original
+state.“ Vielmehr gelte es, unter Berücksichtigung von Beispielen einer performativen
+Herstellung von Authentizität festzuhalten: „[T]here is no definite description of au-
+thenticity: it depends entirely on the situation and the context.“38
+
+Offen ist, ob das Bibliotheksmanagement ermöglicht, Fragen nach Kontexten zu
+stellen, nach Provenienzen, Sammlungen und kultureller Überlieferung über samm-
+lungserschließende Kataloge und Interfaces, ob es Formen anbietet, die Funktion von
+Bibliotheken neu zu beschreiben: Als Raum für Bestände und Sammlungen mit gesell-
+schaftlichem Auftrag, skalierbar von einem maschinellen Abruf über KI bis zur per-
+sönlichen Nutzung und Erfahrung von Sammlungen und Sammlungsräumen sowie
+der Mitwirkung an reversiblen Erschließungsdaten für Future Memory: Das Prove-
+
+ Fabian 2017: S. 30.
+ Samuels u. Rico 2015.
+ Karlström 2015: S. 29.
+
+
+
+582 Reinhard Laube
+
+nienzWiki zitiert zur Marwitz’schen Bibliothek zu Friedersdorf einen Satz aus dem
+Handbuch der Historischen Buchbestände (Bibliotheken in Brandenburg): „Von den Bi-
+bliotheken der Familie von der Marwitz in Fredersdorf bei Berlin und Groß-Kreutz
+bei Potsdam [...] existieren nur noch wenige Bände.“39 Fontane-Leser:innen wissen: Es
+geht um Friedersdorf im Oderbruch. Provenienzforscher:innen ahnen: Wir wissen
+noch zu wenig über die Anzahl der erhaltenen Bände. Ein Teil der Bibliothek gelangte
+2008 aus der Potsdamer Bibliothek wieder nach Friedersdorf.40 Neue Geschichten und
+Forschungen, die zur Beschreibung von Sammlungen gehören. Das ist die Gegenwart
+der Bibliothek, die im Management der Sammlungen Horizonte öffnet.
+
+Literatur
+Atkinson, Ross: The Conditions of Collection Development (1991). In: Community, collaboration, and
+
+collections. The Writings of Ross Atkinson. Hrsg. von Robert Alan and Bonnie MacEwan; with an
+introduction by Sarah Thomas. Chicago 2005, S. 199–213.
+
+Boden, Ragna, Christian Hänger, Jens Niederhut, Dirk Förstner u. Kristina John: Bestandserhaltung als
+Massengeschäft – Das neue Bestandserhaltungskonzept des Bundesarchivs. In: ABI Technik 43
+(2023), H. 1, S. 37–45. https://doi.org/10.1515/abitech-2023-0005.
+
+Fabian, Bernhard: Buch, Bibliothek und geisteswissenschaftliche Forschung. Zu Problemen der
+Literaturversorgung und der Literaturproduktion in der Bundesrepublik Deutschland. Göttingen
+1983 (= Schriftenreihe der Stiftung Volkswagenwerk, Bd. 24).
+
+Fabian, Bernhard: Vorwort (1991). In: Handbuch der historischen Buchbestände in Deutschland, Bd. 1.
+Hildesheim u. a. 1996. S. 9–11.
+
+Fabian, Bernhard: Die Kulturelle Überlieferung als Sammlung. In: Die Zukunft des Sammelns an
+wissenschaftlichen Bibliotheken. Hrsg. von Michael Knoche, Wiesbaden 2017 (= Bibliothek und
+Wissenschaft 50). S. 19–37.
+
+Frohmann, Jakob, Johannes Kistenich-Zerfaß, Maria Elisabeth Müller, Stephanie Preuss, Laura Scherr,
+Alessandro Sorbello Staub u. Marcus Stumpf: Zum Verhältnis von Originalerhalt und Digitalisierung
+von schriftlichem Kulturgut. In: ABI Technik 43 (2023), H. 2, S. 103–109. https://doi.org/10.1515/abi
+tech-2023-0018.
+
+Gouaffo, Albert, Andrea Meyer u. Bénédicte Savoy (Hrsg.): Atlas der Abwesenheit: Kameruns Kulturerbe in
+Deutschland. Berlin 2023. https://doi.org/10.11588/arthistoricum.1219.
+
+Grundsätze der Washingtoner Konferenz in Bezug auf Kunstwerke, die von den Nationalsozialisten
+beschlagnahmt wurden (Washington Principles). https://kulturgutverluste.de/sites/default/files/
+2023-04/Washingtoner-Prinzipien.pdf (20.02.2024).
+
+Heaney, Michael: An Analytical Model of Collections and Their Catalogues. An Analytical Model of
+Collections and their Catalogues. Third Issue, Revised. Oxford, 14 January 2000. https://www.ukoln.
+ac.uk/metadata/rslp/model/amcc-v31.pdf (20.02.2024).
+
+Heegewaldt, Werner u. Harriet Harnisch: Übersicht über die Bestände des Brandenburgischen
+Landeshauptarchivs. Teil I/1: (Adlige) Herrschafts-, Guts- und Familienarchive (Rep. 37). Berlin 2010.
+
+Hilgert, Markus: Zwischen Kulturerhalt und gesellschaftlichem Transfer. Perspektiven im Rahmen der
+Ausstellung „Brandbücher | Aschebücher“. In: Brandbücher | Aschebücher. Perspektiven auf
+
+ https://provenienz.gbv.de/Von_Der_Marwitz’sche_Bibliothek_zu_Friedersdorf (20.02.2024).
+ Auskunft von Dorothee von der Marwitz an den Verfasser (2. August 2023).
+
+
+
+7.1 Provenienzen, Sammlungen und die Verantwortung für die kulturelle Überlieferung 583
+
+Hannes Möllers künstlerische Intervention in der Herzogin Anna Amalia Bibliothek (Konstellationen
+1). Hrsg. von Reinhard Laube. Weimar 2020. S. 68–77. https://doi.org/10.26013/ksw.pub_00000078.
+
+Karlström, Anna: Authenticity. Rhetorics of Preservation and the Experience of the Original. In: Heritage
+Keywords, Heritage Keywords. Rhetoric and Redescription in Cultural Heritage. Hrsg. von Kathryn
+Lafrenz Samuels u. Trinidad Rico. Boulder 2015. S. 29–46.
+
+Laube, Reinhard: Das Wissen der Sammlungen. Die Zukunft der Archiv- und Forschungsbibliothek. In:
+Zeitschrift für Bibliothekswesen und Bibliographie 67 (2020), H. 1, S. 6–14. https://doi.org/http://dx.
+doi.org/10.3196/186429502067129.
+
+Originale Koordiniert Überliefern. Das BKM-Sonderprogramm zur Erhaltung des schriftlichen Kulturguts
+im Kontext der KEK-Förderungen von 2017 bis 2019. Berlin 2019. S. 10–33. https://www.kek-spk.de/
+sites/default/files/2020-05/KEK-Sonderprogramm_2017-2019.pdf (20.02.2024).
+
+Rorty, Richard: Pragmatismus als Antiautoritarismus. Hrsg. von Eduardo Mendieta. Mit einem Vorwort von
+Robert B. Brandom, übersetzt von Joachim Schulte. Frankfurt a. M. 2023.
+
+Samuels, Kathryn Lafrenz u. Trinidad Rico (Hrsg.): Heritage Keywords. Rhetoric and Redescription. In:
+Cultural Heritage. Boulder 2015.
+
+Star, Susan Leigh u. James R. Griesemer: Institutional Ecology, „Translations“ and Boundary Objects:
+Amateurs, Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907–39. In: Social Studies of
+Science 19 (1989), H. 3, S. 387–420. https://lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/
+pdfMrgHgzULhA.pdf (20.02.2024).
+
+Star, Susan Leigh u. James R. Griesemer: Institutionelle Ökologie, „Übersetzungen“ und Grenzobjekte.
+Amateure und Professionelle im Museum of Vertebrate Zoology in Berkeley, 1907–39 (1989). In:
+Susan Leigh Star, Grenzobjekte und Medienforschung. Hrsg. von Sebastian Gießmann u. Nadine
+Taha. Übersetzt von Michael Schmidt. Bielefeld 2017 (= Locating Media | Situierte Medien, Bd. 10).
+S. 81–115. https://www.transcript-open.de/doi/10.14361/9783839431269-003.
+
+Weber, Jürgen: ProvenanceFinder – preparing a search engine for the retrieval of provenance data. In:
+Books and their owners: provenance information and the European cultural heritage. Hrsg. von
+David J. Shaw. London 2005. S. 71–79. http://documents.cerl.org/publications/cerl_papers_v.pdf
+(20.02.2024). Wieder in: Ders.: Sammeln nach 1998. Wie Provenienzforschung die Bibliotheken
+verändert. Bielefeld 2024 (= Phänomenologie der Bibliothek: Redescriptions 1). https://doi.org/10.
+14361/9783839472248-009.
+
+Weber, Jürgen: Risikominimierung – Vernetzung – Mengenrestaurierung. Organisatorische und
+konservatorische Herausforderungen nach dem Brand der Herzogin Anna Amalia Bibliothek. In:
+Zeitschrift für Bibliothekswesen und Bibliographie 56 (2009), H. 3–4, S. 167–173. http://dx.doi.org/10.
+3196/1864295009563457.
+
+Weber, Jürgen: Was ist eine Sammlung? In: Zeitschrift für Bibliothekswesen und Bibliographie 67 (2020),
+H. 1, S. 15–24. https://doi.org/http://dx.doi.org/10.3196/186429502067133. Wieder in: Ders., Sammeln
+nach 1998. Wie Provenienzforschung die Bibliotheken verändert. Bielefeld 2024 (= Phänomenologie
+der Bibliothek: Redescriptions 1). https://doi.org/10.14361/9783839472248-007.

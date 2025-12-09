@@ -1,0 +1,587 @@
+Bernhard Mittermaier und Ursula Stanek
+4.3 Lizenzierung elektronischer Medien
+1 Einführung
+Elektronische Medien gehören nun schon seit langer Zeit zum Angebot von Bibliotheken.
+Sie werden auf lokaler, (über)regionaler und nationaler Ebene lizenziert und zu
+ihnen zählen E-Journals, E-Books und Datenbanken, aber auch z. B. Normen, Patente
+und Loseblatt-Werke in elektronischer Form. Teilweise sind die Übergänge fließend,
+z. B. enthalten Volltext-Datenbanken E-Books und/oder E-Journals. Ein besonderer Aspekt
+dieser Mediengattung ist der kontinuierliche Wandel, den die elektronischen Medien
+mit sich bringen und dem sie selbst unterworfen sind.
+Lizenzierung bedeutet, dass vom Rechteinhaber (z. B. Verlag oder Urheber) befristet
+oder auf Dauer Nutzungsrechte eingeräumt werden, die vertraglich fixiert
+werden müssen. Im Bibliotheksbereich sind dies in aller Regel einfache Rechte, d. h. sie
+werden nicht exklusiv nur einem Vertragspartner eingeräumt. Selbst wenn elektronische
+Dokumente gekauft werden, betrifft der „Kauf“ zumeist nur die Daten, die Nutzung unterliegt
+in aller Regel dem daneben (oder implizit) unterzeichneten Lizenzvertrag.
+Zu den Aspekten in bibliothekarischen Lizenzverträgen, die im Vergleich zu Kaufverträgen
+des konventionellen, gedruckten Umfelds oder auch aufgrund des elektronischen
+Formats besondere Beachtung erfordern, zählen:
+– Definition des Nutzerkreises,
+– Definition der Nutzungsrechte,
+– Fragen der Nutzungsstatistiken,
+– Laufzeiten und damit verknüpft gegebenenfalls Absprachen zur Preisgestaltung
+und zur (vorzeitigen) Kündigung,
+– Fragen der dauerhaften Nutzung und der Langzeitarchivierung auch und gerade
+nach Beendigung des Vertrages.
+Diese Punkte und viele andere sind sowohl in lokalen Einzelverträgen wie auch in
+Konsortialverträgen unabhängig von der Produktgattung zu beachten.1
+Anmerkung: Verfasser dieses Kapitels in der Ausgabe 2014 des vorliegenden Werkes waren Bernhard
+Mittermaier und Werner Reinhardt.
+ Vgl. dazu auch Abschnitt 4 „Richtlinien für den Abschluss von Lizenzverträgen“ in diesem Kapitel.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-016
+2 Lizenzebenen und Akteure
+Lizenzierung findet auf unterschiedlichen Ebenen statt: Lokal auf Ebene der einzelnen
+Institution, regional im Rahmen der regionalen Konsortien, die jedoch produktspezifisch
+auch überregional und bundesweit agieren können, und schließlich national oder
+auch international. Prominente Beispiele für nationale Lizenzierung sind die DFGgeförderten
+Nationallizenzen oder seit 2019 die unter der Federführung der Hochschulrektorenkonferenz
+(HRK) verhandelten DEAL-Lizenzen.2
+2.1 Lokale Lizenzierung elektronischer Medien
+Nach dem Auftauchen der ersten Endnutzer-orientierten elektronischen Medien ergab
+sich in den 1990er Jahren ein neues Tätigkeitsfeld für Bibliotheken. Zunächst fokussierten
+sich Einrichtungen auf bilateral zwischen ihnen und den Anbietern geschlossene
+Lizenzverträge; diese sind auch heute bei der Lizenzierung einzelner Medien wohl
+alternativlos.
+Vorteile der lokalen Lizenzierung (eine Auswahl):
+– Optimaler Produktzuschnitt für die jeweilige Einrichtung.
+– Berücksichtigung der lokalen Bedingungen bei der Verhandlung der Kosten und
+der Regelungen im Lizenzvertrag.
+– Konkrete Nutzungsszenarien wie z. B. die Umsetzung von Text und Data Mining
+(TDM) können im engen Austausch zwischen Anbieter und Einrichtung geregelt
+werden.
+Nachteile der lokalen Lizenzierung (eine Auswahl):
+– Sie setzt ein erhebliches Maß an Kompetenzen voraus, insbesondere was Verhandlungsgeschick,
+Kenntnis der rechtlichen Rahmenbedingungen und Geschäftsmodelle
+betrifft.
+– Eine einzelne Einrichtung hat geringeren Spielraum was die Lizenz- oder Geschäftsmodelle
+angeht, zudem liegen die Kosten in der Regel über den Kosten, die
+gemeinschaftlich über Konsortien verhandelt werden können.
+Je nach Volumen der lokalen Lizenzierung können die hier benannten Nachteile in
+höherem oder niedrigerem Grad relevant sein.
+ Hillenkötter (2018) bietet einen Überblick der Lizenzierungsebenen und der Akteure im Zusammenspiel
+mit Herausforderungen der Transformation wissenschaftlicher Inhalte in den Open Access.
+264 Bernhard Mittermaier und Ursula Stanek
+2.2 Konsortiale Lizenzierung elektronischer Medien
+2.2.1 Strukturen konsortialen Handelns in Deutschland
+Seit Mitte der 1990er Jahre formierten sich nach und nach – entsprechend der föderalen
+Struktur der Bundesrepublik Deutschland – regionale Konsortien, die sich schon zu
+Beginn des Jahres 2000 in der Arbeitsgemeinschaft Deutscher, Österreichischer und
+Schweizer Konsortien – German, Austrian, Swiss Consortia Organisation (GASCO)3 zusammenschlossen.
+Weitere Konsortien werden durch die außeruniversitären Forschungseinrichtungen
+(z. B. Helmholtz-Gemeinschaft Deutscher Forschungszentren)
+sowie von den Ressortforschungseinrichtungen gebildet, die ebenfalls Mitglieder der
+GASCO sind.
+Die Konstruktion der deutschen Konsortien reicht vom eingetragenen Verein
+(Friedrich-Althoff-Konsortium4) über den Zusammenschluss von Bibliotheken im Rahmen
+von Bibliotheksverbünden (NRW-Konsortium,5 HeBIS,6 Bayern-Konsortium7) bis
+hin zu Zusammenschlüssen mit engem Bezug auf ein Bundesland (Niedersachsen-
+Konsortium,8 Konsortium Baden-Württemberg9).
+In der internen Organisation findet man Geschäftsstellen mit diesen fest zugeordneten
+und zentral finanzierten Personalstellen (hbz, HeBIS), aber auch Geschäftsstellen,
+deren Personal durch eine Umlage finanziert wird (Friedrich-Althoff-Konsortium). Daneben
+gibt es die zentrale Administration durch eine einzelne Bibliothek und deren
+Personal (Bayerische Staatsbibliothek für das Bayern-Konsortium), aber auch produktund/
+oder aufgabenbezogene Aufteilung der anfallenden, konsortialen Tätigkeiten auf
+die Teilnehmerbibliotheken (Helmholtz-Konsortium).
+2.2.2 Aspekte konsortialen Handelns
+Vorteile konsortialen Handelns (eine Auswahl):
+– Aufbau und Weitergabe der notwendigen Kompetenz beim Aushandeln von Verträgen
+zum Teil mit global agierenden Konzernen/Verlagen, sodass nicht jede
+ Eine Liste der GASCO-Mitglieder sowie Informationen über bestehende Lizenzverträge sind auf der
+Homepage der GASCO zu finden: https://www.hbz-nrw.de/produkte/digitale-inhalte/gasco (16.09.2024).
+ https://althoff-konsortium.de/ (04.04.2023).
+ https://www.hbz-nrw.de/produkte/digitale-inhalte (04.04.2023).
+ https://www.hebis.de/konsortium (04.04.2023).
+ https://www.bsb-muenchen.de/kompetenzzentren-und-landesweite-dienste/landesweite-aufgabenund-
+dienste/bayern-konsortium/ (04.04.2023).
+ https://www.nds-bibliotheksbeirat.de/sektion-w-wissenschaftliche-bibliotheken/konsortium/
+(04.04.2023).
+ https://www.konsortium-bw.de/ (04.04.2023).
+4.3 Lizenzierung elektronischer Medien 265
+Teilnehmerinstitution diese Kompetenz in diesem Ausmaß entwickeln und/oder
+vorhalten muss.
+– Reduktion der Kosten gegenüber Einzelabschlüssen. Gerade bei der Lizenzierung
+von Datenbanken oder E-Book-Paketen können umso größere Einsparungen erzielt
+werden, je mehr Standorte sich zusammenfinden.
+– Konsortiale Verträge ermöglichen es, bei gleichbleibenden oder nur wenig erhöhten
+Kosten mehr Inhalte für die Teilnehmer zu lizenzieren (z. B. Zugriff auf das
+Gesamtpaket bzw. fachlich definierte Teilpakete des Anbieters).
+– Konsortiales Handeln ermöglicht den Aufbau von „Marktmacht“.10
+– Sofern zentrale Mittel (regional und/oder bundesweit) zur Verfügung stehen,11
+kommen Teilnehmer in den Genuss von ermäßigten Kosten.
+Nachteile konsortialen Handelns (eine Auswahl):
+– Die Teilnahme an einem Konsortium bedeutet einen Verlust an Selbständigkeit.
+Die Abhängigkeit von den verhandlungsführenden Personen muss akzeptiert
+werden.
+– Die Gruppendynamik eines Konsortiums kann zur Abhängigkeit von den übrigen
+Teilnehmern führen.12
+– Die Teilnahme an E-Journal-Verträgen geht in der Regel mit der Fixierung eines
+bestehenden Umsatzniveaus mit dem Verlag einher.
+– Die Teilnahme an Mehrjahresverträgen bedeutet einen Verlust an (finanzieller)
+Flexibilität sofern kein Opt-out während der Vertragslaufzeit möglich ist.
+Sowohl als Vor- als auch als Nachteil ist zu nennen, dass über Konsortialverträge in
+der Regel größere E-Journal- oder E-Book-Pakete abgedeckt werden, sodass der „Beifang“
+für die einzelne Einrichtung zum Teil erheblich sein kann (long tail), was jedoch
+oft durch die konsortiale Kostenersparnis im Vergleich zur Einzellizenzierung auf lokaler
+Ebene und die oben genannten Vorteile ausgeglichen wird.
+ Der Begriff „Macht“ ist im Konsortialgeschäft sehr unterschiedlich zu begreifen, da es sich in aller
+Regel um Anbieter mit Monopolcharakter handelt. Wenn deren Marktstellung national (insbes. im juristischen
+Bereich) oder international herausragend ist, sind die Möglichkeiten auf Konsortialseite
+begrenzt.
+ Im Jahr 2023 verfügten das Konsortium Baden-Württemberg, das HeBIS-Konsortium, das Niedersachsen-
+Konsortium und Sachsen über zentrale Mittel zur Beschaffung elektronischer Inhalte. Daneben
+ist zu berücksichtigen, dass für die personelle Ausstattung der Geschäftsstellen in mehreren
+Konsortien erhebliche Mittel zentral bereitgestellt werden.
+ Z. B. kann ein lokal gewünschter/notwendiger Ausstieg dazu führen, dass sich die Konditionen für
+die verbleibenden Teilnehmereinrichtungen verschlechtern oder eine vereinbarte Mindestteilnehmerzahl
+unterschritten und damit das Konsortium gesprengt wird.
+266 Bernhard Mittermaier und Ursula Stanek
+Sofern der Anbieter dem zustimmt und es aus Sicht der Konsortien möglich13 und
+vorteilhaft ist, stehen Konsortialverträge auch überregional für interessierte Einrichtungen
+offen. Es gibt auch Produkte, für die nur ein einziger nationaler Konsortialvertrag
+existiert. Insbesondere bei kleineren Anbietern oder Spezialprodukten finden
+sich auf regionaler Ebene nicht genügend Teilnehmer, sodass sich ein bundesweiter
+Konsortialvertrag anbietet.14
+2.3 Lizenzierung auf nationaler Ebene
+Neben den Konsortien haben sich weitere Akteure etabliert, die bundesweit agieren,
+und durch Förderprogramme, aber auch durch Veränderungen des Publikationsmarktes
+entstanden neue Lizenztypen. Eine Aufzählung ohne Anspruch auf Vollständigkeit:
+– Nationallizenzen: In der Zeit von 2004 bis 2010 standen Fördermittel der Deutschen
+Forschungsgemeinschaft (DFG) zur Verfügung, mit denen alle Kosten dieser
+Verträge abgedeckt werden konnten. Nach Registrierung und Anerkennung der ausgehandelten
+Nutzungsbedingungen können die Produkte durch alle wissenschaftlichen
+Einrichtungen in Deutschland kostenfrei genutzt werden. Überwiegend handelte
+es sich um Verträge zur Nutzung abgeschlossener Ressourcen (Volltextdatenbanken,
+Zeitschriftenarchive, E-Book-Sammlungen). In den Jahren 2008 bis 2010 wurden sie ergänzt
+durch ein Pilotprojekt für laufende E-Journals. Verhandlungsführend in diesem
+Bereich war nicht die DFG selbst, sondern Bibliotheken aus dem Kreis der damaligen
+Sondersammelgebietsbibliotheken.
+– Allianz-Lizenzen:15 Diese Verträge zeichneten sich gegenüber „normalen“ Konsortialverträgen
+durch erweiterte Nutzungsrechte wie beispielsweise durch die Hinzunahme
+von Konditionen hinsichtlich grünem Open Access aus oder auch den jahrgangsweisen
+Übergang von Backfiles in allgemein zugängliche Nationallizenzen. Die DFG förderte von
+2011 bis 2020 Allianz-Lizenzen und trug 25 % der beantragten Gesamtkosten. Im Fokus
+standen E-Journalpakete mit laufenden Inhalten.16
+– FID-Lizenzen: Im Rahmen des DFG-Förderprogramms der Fachinformationsdienste
+für die Wissenschaft (FID),17 dem Nachfolgeprogramm der Sondersammelgebiete,
+spielt die überregionale Versorgung der individuell definierten Fachcommunities
+ Der Einsatz zentraler Landesmittel kann beispielsweise dazu führen, dass Konsortien nur Einrichtungen
+aus der jeweiligen Region zulassen.
+ Einen Überblick bietet der GASCO-Monitor: https://laser.hbz-nrw.de/gasco (04.04.2023).
+ Diese Bezeichnung leitet sich her von der „Allianz der deutschen Wissenschaftsorganisationen“
+http://www.allianzinitiative.de/ (04.04.2023), deren Arbeitsgruppe Nationale Lizenzierung innerhalb
+der Schwerpunktinitiative Digitale Information in diesem Bereich federführend war.
+ Eine Bilanz der Allianz-Lizenzen bietet Heidler (2021).
+ Siehe hierzu Kapitel 5.5 „Fachinformationsdienste für die Wissenschaft“.
+4.3 Lizenzierung elektronischer Medien 267
+mit elektronischen Medien eine zentrale Rolle. Seit 2014 entstand der neue Typus der
+FID-Lizenzen, wobei die Zugriffsberechtigungen produktspezifisch von einer sehr kleinen
+Nutzergruppe mit persönlicher Registrierung über Campuslizenzen bis hin zu Nationallizenzen
+reichen kann.18 Hierbei unterstützt in der Regel das ebenfalls DFG-geförderte
+Kompetenzzentrum für Lizenzierung die FID.19 Aufgrund ihrer Überregionalität liegen
+die FID-Lizenzen quer zu den drei Ebenen, können aber am ehesten auf der nationalen
+Ebene verortet werden, da die Nutzerschaft in der Regel bundesweit definiert wird.
+– DEAL-Lizenzen:20 Unter Federführung der Hochschulrektorenkonferenz (HRK) und
+mit Mandat der Allianz der Wissenschaftsorganisationen wurden seit 2016 mit den drei
+großen Wissenschaftsverlagen Elsevier, Wiley und Springer Nature Verhandlungen
+über nationale Transformationsverträge geführt, um die bestehenden Subskriptionsverträge
+abzulösen.21 Der erste DEAL-Vertrag wurde 2019 mit Wiley geschlossen, 2020
+folgte der Vertrag mit Springer Nature und 2023 ein Vertrag mit Elsevier. Allen Wissenschaftler:
+innen in Deutschland wird ermöglicht, in den Zeitschriften dieser Verlage im
+Open Access zu publizieren. Als Vertragspartnerin fungiert die MPDL Services gGmbH,
+die auch für die Administration verantwortlich zeichnet.22
+– Forum 13+:23 2018 formierte sich ausgehend von der Allianzinitiative und ihrem
+Handlungsfeld „Wissenschaftliches Publikationssystem“24 eine Gruppe, die auf nationaler
+Ebene agiert und Verlage jenseits der DEAL-Verhandlungen in den Fokus nimmt,
+die für Wissenschaftler:innen in Deutschland von besonderer Bedeutung sind. Der Arbeitskreis
+Forum 13+ führt Akteure der überregionalen Lizenzierung, von Open-Access-
+Infrastrukturprojekten, Hochschulbibliotheken, des Deutschen Bibliotheksverbandes
+(dbv) und der DFG zusammen und beschäftigt sich mit der Modellierung, Verhandlung
+und Umsetzung von Transformationsverträgen.
+ Der Lizenzbaukasten des Kompetenzzentrums für Lizenzierung bietet einen systematischen Überblick:
+https://www.fid-lizenzen.de/FIDInfo_Lizenzmodelle_20190124_v2_oL.pdf (04.04.2023). Verfügbare
+FID-Lizenzen werden in FIDELIO, dem zentralen Nachweis der FID-Lizenzen, verzeichnet.
+ https://www.fid-lizenzen.de/ (04.04.2023).
+ https://deal-konsortium.de/ueber-deal (04.04.2023).
+ Mittermaier 2023.
+ https://mpdl-services.de/ (04.04.2023).
+ https://forum13plus.de/index.html (04.04.2023).
+ https://www.allianzinitiative.de/handlungsfelder/ (04.04.2023).
+268 Bernhard Mittermaier und Ursula Stanek
+3 Besonderheiten und Entwicklungsperspektiven
+der einzelnen Gattungen elektronischer Medien
+3.1 Elektronische Zeitschriften – E-Journals
+E-Journals sind bei den meisten wissenschaftlichen Bibliotheken ein zentrales Mittel
+der Informationsversorgung. Stand in früheren Jahren die Printausgabe im Vordergrund
+bzw. waren die Medienarten gleichgestellt, so gilt mittlerweile das E-Journal als
+das Hauptprodukt. Für die Lizenzierung sind vorwiegend vier Ansätze von Bedeutung,
+welche sowohl auf Einrichtungsebene wie auch in Konsortien verwirklicht sein
+können:
+– Lizenzierung einzelner E-Journals: Bei diesem Verfahren wird die Lizenzierungsentscheidung
+auf Einzeltitelbasis getroffen, wodurch man nur tatsächlich benötigte Zeitschriften
+lizenziert bzw. bei Änderung des Bedarfs leichter reagieren kann. Es ist jedoch
+aufwändig sowohl im Auswahlprozess als auch bei der Abwicklung. Ein weiterer Nachteil
+ist, dass man bei diesem Ansatz in der Regel keine Rabatte erhält. Für kleinere Einrichtungen
+oder Bibliotheken mit speziellem Sammelauftrag sowie bei fachlich breit aufgestellten
+Verlagen hat dieses Geschäftsmodell seine Berechtigung. Bei dieser Lizenzart
+werden in der Regel dauerhafte Nutzungsrechte erworben (perpetual access):25 Auch
+nach Abbestellung des E-Journals bestehen Zugriffsrechte auf die bezahlten Jahrgänge.
+Um unterschiedliche Nutzungsgewohnheiten bedienen zu können, beziehen manche Einrichtungen
+sowohl die Printversion als auch das E-Journal. In diesem Fall empfiehlt es
+sich, für die Printausgabe einen Rabatt (deep discount) zu vereinbaren.
+– Lizenzierung von Zeitschriftenpaketen: Die Bündelung von E-Journals eines Verlags
+in fachlich ausgerichteten Paketen bis hin zum Gesamtpaket ist für Bibliotheken
+ein zentraler Baustein bei der Informationsversorgung ihrer Nutzenden. Mit verhältnismäßig
+geringem administrativen Aufwand für die Bibliotheken wird die Literaturversorgung
+durch den Paketbezug signifikant verbessert. Diese als Big Deal bezeichnete
+Lizenzierung findet in dem so genannten „Datenbankmodell“ ihre Fortsetzung. Beiden
+gemeinsam ist hinsichtlich der Kosten die Orientierung an dem historischen Umsatzvolumen
+der Einrichtung, verbunden mit einem relativ geringen Aufpreis. Ist beim Big
+Deal oft noch die Fortführung der bestehenden Zeitschriften Voraussetzung,26 lösen
+sich die Verlage beim Datenbankmodell meist von der Bestandsorientierung. Dies erfor-
+ Polchow 2021.
+ In der Regel besteht lediglich ein geringer Spielraum für Abbestellungen im Rahmen einer cancellation
+allowance. Diese orientiert sich in der Regel prozentual am bisherigen Umsatz. Kleine, immer
+einstellige Prozentzahlen bieten Standorten mit wenig Abonnements de facto keinen Spielraum. Im
+Konsortium wird jedoch meist vereinbart, dass das Abbestellvolumen gebündelt wird (pooling), sodass
+die Teilnehmereinrichtungen mehr Flexibilität haben.
+4.3 Lizenzierung elektronischer Medien 269
+dert jedoch die Regelung der dauerhaften Nutzungsrechte im Falle einer Kündigung.
+Nachteile dieses Lizenzierungsansatzes sind insbesondere die fehlende Flexibilität des
+Titelportfolios und die Bindung der Etatmittel – mit den in der Regel jährlich steigenden
+Kosten für die E-Journal-Paketen können die Etats der Einrichtungen nicht Schritt halten.
+27 Kleinere, vom Verlag zusammengestellte Fachpakete können hier eine passende
+Lösung darstellen. Relativ selten ist die Möglichkeit, dass sich Einrichtungen selbst definierte
+Pakete zusammenstellen, die dann während der Lizenzlaufzeit stabil bleiben
+und die Vorteile der Bedarfsorientierung mit jenen der Kostenersparnis verbinden. Inzwischen
+ist diese Lizenzierungsform oftmals übergegangen in den Abschluss von
+Transformationsverträgen (vgl. Kapitel 5.1 „Open Access bei Zeitschriften“). Bei diesen
+wird neben dem lesenden Zugriff auch das Recht zur Open-Access-Publikation erworben,
+im Idealfall ohne jegliche Zusatzkosten und ohne Einschränkung hinsichtlich der
+Zahl der Artikel und der Auswahl der Zeitschriften, in denen die OA-Publikation möglich
+ist. Bei einigen Vertragsmodellen (z. B. American Chemical Society) orientiert sich
+das Finanzvolumen der einzelnen Teilnehmereinrichtungen an ihren bisherigen Lizenzzahlungen,
+bei anderen Vertragsmodellen (z. B. DEAL-Verträge ab 2024) ist dagegen
+das Publikationsaufkommen der einzelnen Teilnehmereinrichtung bestimmend für die
+Zahlung. Letzteres bedeutet in vielen Fällen eine starke Änderung des Finanzbedarfs
+und einen noch stärkeren Rückgang der Kostenkontrolle.
+– Lizenzierung einer Aggregator-Datenbank: Manche Aggregatoren wie EBSCO oder
+Gale Cengage bieten eine Vielzahl von E-Journals verschiedener Verlage gebündelt in
+einer Datenbank an. Dabei sind teils Volltexte, teils nur Abstracts verfügbar. Die Inhalte
+werden teilweise unmittelbar nach Erscheinen der Zeitschrift, teilweise erst nach einer
+Embargofrist zwischen sechs und 24 Monaten in die Datenbank eingestellt. Die Zusammensetzung
+der Datenbank ist durch die Lizenznehmer nicht steuerbar und kann sich
+laufend ändern. Dieses Modell, bei dem keine dauerhaften Zugriffsrechte erworben
+werden, eignet sich gut als Ergänzung zu bestehenden Abonnements.
+– Kauf einzelner Artikel im Pay per View: Pay per View stellt den Übergang zwischen
+Dokumentlieferung und Lizenzierung dar: Im Rahmen einer entsprechenden
+Regelung im Lizenzvertrag können einzelne Artikel erworben werden. Dies kann entweder
+den Einzelfall betreffen oder es wird eine bestimmte Menge Artikel (Token) zu
+einem festgelegten Preis vereinbart.28
+Diese skizzierten Ansätze ergänzen sich gegenseitig: In einem idealisierten Modell lizenziert
+eine Einrichtung geeignete Zeitschriftenpakete von Verlagen oder Aggregatoren,
+ Osterman 2020 geht auf die Auswirkungen der Kündigung von Big Deals und Nutzungsmöglichkeiten
+durch alternative Zugangsmodelle wie Open Access, Fernleihe und text-sharing-Plattformen ein.
+S. auch Rodríguez-Bravo 2021.
+ Dieses Modell kommt im FID-Kontext zur Anwendung, aber es wird auch in den Standardverträgen
+von Elsevier als Option benannt.
+270 Bernhard Mittermaier und Ursula Stanek
+ergänzt diese mit Einzellizenzen weiterer Kernzeitschriften, die in den erworbenen
+Paketen nicht enthalten sind, und deckt den darüberhinausgehenden Bedarf durch
+Pay per View ab.29 Essentiell ist dabei die Steuerung des Bestandes mittels Kosten-
+Nutzen-Analysen.30 Die Basis sind in der Regel Nutzungsdaten anhand von COUNTERStatistiken,
+31 bei der Analyse unterstützen Electronic-Resource-Management-Systeme
+(ERMS).32
+Jährliche Preissteigerungsraten bei stagnierenden oder sinkenden Budgets erfordern
+Flexibilität im Bestandsaufbau, bedarfsorientierte Auswahlmöglichkeiten werden,
+sofern es sie überhaupt gibt, jedoch in aller Regel mit Kostensteigerungen erkauft.
+Veränderungen des Publikationsmarktes durch Open Access führen zu gravierenden
+Veränderungen in der Lizenzierung. Neben einer wachsenden Zahl goldener Open-
+Access-Journals bieten die meisten Verlage Möglichkeiten des hybriden Publizierens in
+Subskriptionsjournals. Um double dipping – die Bezahlung sowohl des Freikaufs als
+auch der Subskriptionskosten der Zeitschrift – zu vermeiden, ist eine enge Abstimmung
+zwischen den Bereichen Lizenzierung und Open Access in den Einrichtungen erforderlich.
+Kosten für den Zugriff auf Inhalte und Publikationskosten müssen gemeinsam betrachtet
+und im Informationsbudget zusammengefasst werden.33
+3.2 E-Books
+E-Books34 in der heute bekannten Form gibt es etwa seit der Jahrhundertwende, die
+Entwicklung verläuft damit einige Jahre versetzt zu elektronischen Zeitschriften. Wie
+bei den E-Journals gibt es auch hier eine Vielzahl von Geschäftsmodellen. Wichtige
+Unterscheidungskriterien sind:
+– Vertragsart: Kauf oder Lizenzierung. Mit dem Kauf eines E-Books erwirbt man
+dauerhafte Zugriffsrechte. Dies ist in der Regel das Modell der Wahl, insbesondere
+wenn es keine gedruckte Parallelausgabe gibt oder die Bibliothek diese z. B. aus Kostengründen
+nicht erwirbt (im monographischen Bereich gibt es in der Regel keinen
+ Die Analyse von Walters (2021) ergab u. a., dass Volltextdatenbanken der kosteneffizientere Weg
+sind im Vergleich zur Auswahl von Einzeltiteln.
+ Vosberg 2021.
+ COUNTER Code of Practice, https://www.countermetrics.org/ (04.04.2024).
+ Siehe hierzu Kapitel 4.3 „Electronic Resource Management Systeme (ERMS)“.
+ Mittermaier 2022. Zu den Auswirkungen der Transformation auf die Erwerbungs- und Bestandspolitik
+und Open Access siehe die ausführlichen Kapitel 4.5 „Auswirkungen der OA-Transformation auf
+die Erwerbungs- und Bestandspolitik von Bibliotheken“ und 5 „Open Science und Forschungsnahe
+Dienstleistungen“.
+ Als E-Books werden sowohl Geräte (E-Book-Reader, Hardware) als auch die auf diesen Geräten betrachteten
+Inhalte (Software) und außerdem die Kombination aus beidem verstanden. In diesem Kapitel
+werden ausschließlich die Inhalte besprochen.
+4.3 Lizenzierung elektronischer Medien 271
+Preisnachlass bei Doppelerwerbung) sowie grundsätzlich für Bibliotheken mit einem
+auf Nachhaltigkeit angelegtem Sammelauftrag. Anderenfalls kann ein Lizenzmodell
+in Frage kommen, bei dem der Zugriff gegen eine access fee freigeschaltet wird. Es ist
+besonders geeignet für Titel mit schneller Auflagenfolge oder nur vorübergehender
+Aktualität, wie z. B. Lehrbüchern und Referenzwerken. In einigen Fällen wird nach
+einer festgelegten Anzahl von Lizenzierungsjahren dauerhafter Zugriff gewährt.
+– Distributionsweg: Lokales Hosting, Webzugriff beim Verlag, Webzugriff auf verlagsübergreifender
+Plattform (Aggregator).35 Mit dem Kauf ist vielfach das Recht verbunden,
+die E-Books ausgeliefert zu bekommen, um sie dann im eigenen Netz den Nutzern
+zur Verfügung zu stellen. Allerdings sind Datenhaltung und Oberflächengestaltung
+nicht trivial, weshalb in der Regel beim Verlag bzw. beim Aggregator zugegriffen wird.
+Eine Bibliothek will aber meist nicht darauf verzichten, die E-Books im eigenen Katalog
+nachzuweisen, da Nutzer andernfalls zur Literatursuche die Webseiten (mehrerer) Verlage
+und Aggregatoren aufsuchen müssen. Die Metadaten – deren Lieferung durch den
+Anbieter in der Regel Vertragsbestandteil ist, deren Qualität aber ein eigenes Thema
+darstellt36 – schöpfen allerdings nicht alle Retrievalmöglichkeiten aus, die E-Books bieten.
+So ist eine Volltextsuche nur auf den Verlagsseiten möglich, außer man hat in Einzelfällen
+die Option, lokal einen Index über die Volltexte zu erstellen und in die Suche
+einzubinden. In gewissem Umfang bieten auch Discovery Services37 Zugang auf die Volltextebene
+von lizenzpflichtigen E-Books.
+– Umfang des Erwerbs: Einzeltitel oder Paket. Über Pick & Choose-Modelle bieten Verlage
+und Aggregatoren die der Printwelt vergleichbare Option an, einzelne Titel zu erwerben.
+E-Books werden jedoch oftmals in Paketen erworben, die fachlich zugeschnitten
+sein oder auch das Komplettangebot eines Verlags umfassen können. Der Vorteil der Pakete
+liegt in den pro Titel geringen Transaktionskosten und in den gewährten Rabatten.
+Es wird zwischen Frontlist – dem Kauf der Jahresproduktion im Voraus auf der Basis
+von Titelanzahl oder -listen – und Backlist – dem Kauf früherer Jahresscheiben zu einem
+nochmals stärker rabattierten Preis – unterschieden. Auch hier spielt die zeitnahe
+Verfügbarkeit qualitativ akzeptabler Metadaten eine große Rolle, v. a. wenn nicht
+die komplette Verlagsproduktion erworben wird. Einige Verlage bieten eine weitere
+Variante an: Die E-Books werden einzeln ausgewählt, jedoch gebündelt erworben.
+Abhängig von der Titelzahl oder dem Gesamtpreis gewährt der Verlag Rabatte auf
+alle Titel in einer gemeinsam übermittelten Bestellung. Da bei dieser Variante Be-
+ In den letzten Jahren hat eine starke Konzentration der Aggregator-Plattformen für E-Books stattgefunden.
+Aktuell bieten vor allem EBSCO eBooks und ProQuest Ebook Central verlagsübergreifend
+Literatur für wissenschaftliche Bibliotheken.
+ Geuther 2021.
+ Einbindung eigener (z. B. Bibliothekskatalog) und fremder (z. B. externe Datenbanken) Daten in
+einem umfassenden zentralen Suchmaschinenindex und Verfügbarmachung unter einer einheitlichen
+Oberfläche.
+272 Bernhard Mittermaier und Ursula Stanek
+stellmengen gesammelt werden, geht sie einher mit einem gewissen zeitlichen Verzug
+in der Bereitstellung, wobei die Bibliothek selbst entscheiden kann, in welchen
+Abständen die Bestelllisten übermittelt werden.
+– Auswahlentscheidung: Durch Mitarbeitende der Bibliothek oder Nutzende.
+Üblicherweise erfolgt die Titelauswahl immonographischen Bereich durch die Bibliothek.
+Durch nutzungsgesteuerte Modelle können jedoch die Nutzenden aktiv an der Auswahlentscheidung
+beteiligt werden.38 Es haben sich mehrere Begriffe für diese Modelle etabliert:
+Evidence Based Acquisition (EBA), Evidence Based Selection (EBS), Patron Driven
+Acquisition (PDA) oder Demand Driven Acquisition (DDA). Nutzungsgesteuerte Erwerbungsmodelle
+werden sowohl von Verlagen als auch Aggregatoren angeboten. Die Gemeinsamkeit
+dieser Varianten ist die Freischaltung eines definierten Titelspektrums für
+einen vereinbarten Zeitraum. Bei EBA/EBS–Modellen wird im Voraus ein Betrag an den
+Anbieter gezahlt und nach Ende der Laufzeit anhand zur Verfügung gestellter Nutzungsdaten
+E-Books in Höhe des vorausgezahlten Betrags für den dauerhaften Kauf ausgewählt.
+39 Bei PDA/DDA-Modellen fallen jeweils bei einer Nutzung (trigger events40) Kosten
+an, die Einrichtung kann jedoch meist vereinbaren, ob und unter welchen Bedingungen
+Titel dauerhaft gekauft werden. Nutzungsgesteuerte Modelle können durchaus mehrere
+Jahre hintereinander durchgeführt werden, wodurch den Nutzenden während der Vertragslaufzeit
+ein großes Titelspektrum zur Verfügung gestellt werden kann. Ähnlich wie
+bei der Lizenzierung von großen Zeitschriftenpaketen besteht nach Vertragsende erhöhter
+Kommunikationsbedarf, wenn plötzlich viele Inhalte nicht mehr verfügbar sind.
+Ein entscheidender Punkt ist in jedem Fall die Höhe des Kaufpreises bzw. der Lizenzgebühr.
+Orientierungsgröße ist häufig der Print-Preis der Hardcover-Ausgabe, der korrigiert
+wird um Abschläge (gegebenenfalls Mengenrabatt und Rabattierung für zurückliegende
+Jahrgänge; reduzierter Preis im Lizenzmodell) oder Zuschläge (für große Einrichtungen
+und für vermuteten Mehrfachzugriff).41
+Einige Anbieter versehen die E-Books mit Digital Rights Management (DRM). Dies
+trifft insbesondere auf Aggregatoren zu, die oft den kleinsten gemeinsamen Nenner
+zwischen den beteiligten Verlagen finden müssen. Aus Nutzersicht sind Einschränkungen
+durch DRM sehr negativ zu bewerten, insbesondere Beschränkungen bei Ausdruck
+und Abspeicherung sowie bei der Zahl der gleichzeitigen Zugriffe. Hintergrund
+solcher Restriktionen mag sein, dass manche Verlage immer noch unsicher sind, wie
+ In nutzungsgesteuerte Modelle können E-Journals, Datenbanken und E-Books eingebunden werden,
+am häufigsten ist dies jedoch bei E-Books der Fall.
+ Manche Verlage ziehen zuvor eine Art „Bereitstellungsgebühr“ ab, nicht das gesamte eingesetzte
+Budget kann in Titelkäufe umgewandelt werden.
+ Trigger Events können z. B. sein: das Öffnen eines E-Books für mehr als fünf Minuten, das Ausdrucken
+von Seiten, das Herunterladen von Kapiteln oder der Gesamtdownload.
+ Bei Lehrbüchern ist der zehnfache Preis eines Einzelexemplars keine Seltenheit.
+4.3 Lizenzierung elektronischer Medien 273
+sich die Umsatzentwicklung im Verhältnis zu den bisherigen Printverkäufen darstellen
+wird.42
+Auch bei den E-Books spielt das Thema Open Access eine zunehmende Rolle. Beispielsweise
+bieten immer mehr Verlage die Option, durch Kostenübernahme der
+Book Processing Charges (BPC) Monographien im Open Access zu veröffentlichen.
+Ebenso gibt es mittlerweile einige Crowd-Funding-Projekte, durch die Bibliotheken gemeinschaftlich
+den Freikauf von E-Book-Paketen finanzieren.43 Insgesamt ist dieser
+Bereich jedoch noch recht dynamisch und die Auswirkungen auf die Lizenzierung zumindest
+aktuell noch nicht so signifikant wie bei den E-Journals. Eine Ursache hierfür
+kann sein, dass die Transformationsmodelle, bei den die bisherigen Subskriptionsausgaben
+das Publizieren mit abdecken, im Buchbereich nicht funktionieren.
+3.3 Datenbanken
+Der Begriff „Datenbank“ bezeichnet eine sehr heterogene Produktgruppe: Inhalte können
+z. B. bibliografische Daten, Abstracts, Volltexte, Bilddateien, Audio- oder Videomaterialien
+sein, wobei bibliographische Datenbanken die längste Tradition haben. An
+Lizenzierungsmodellen ist im Wesentlichen zu unterscheiden:
+– Campusweiter Zugang ohne obligatorische persönliche Identifizierung mit Nutzername/
+Passwort: Die Authentifizierung erfolgt über die IP-Adresse oder Authentifizierungssysteme
+wie Shibboleth oder Athens. Die Lizenzgebühr wird fest vereinbart
+und ist für die Vertragsdauer somit unabhängig von der tatsächlichen Nutzung. Diesem
+Verfahren sollte möglichst der Vorzug gegeben werden.
+– Zugang mittels persönlicher Identifizierung der Nutzenden (Nutzername/Passwort):
+Dieses Verfahren wird angewandt, wenn eine Lizenz mit Zugriff für alle
+Berechtigten Nutzenden zu teuer ist und die Datenbank nur einen eher begrenzten
+Nutzerkreis hat. Die Lizenzgebühr steigt mit der Zahl der namentlich genannten
+Nutzenden.
+Der Kaufpreis bzw. die Lizenzgebühr richtet sich in der Regel nach Einrichtungsart
+(z. B. Universitäten, Hochschulen für Angewandte Wissenschaften, Forschungsinstitute)
+und nach Größe (in der Regel Vollzeitäquivalente, Full Time Equivalents – FTE,
+z. T. auch Publikationsoutput). Verlage und Anbieter ziehen jedoch auch durchaus die
+Nutzung als Parameter heran,44 was aus Bibliothekssicht kritisch zu bewerten ist. Be-
+ Blummer (2020) gibt einen Überblick über die Entwicklungen bei E-Books in wissenschaftlichen
+Bibliotheken und wertete dafür Studien von 2001 bis 2017 aus.
+ Eines der frühesten Beispiele ist Knowledge Unlatched (mittlerweile übernommen von Wiley),
+aber auch FID stoßen für ihre Fächer Freikaufprojekte an.
+ Prominentes Beispiel ist die American Chemical Society (ACS), die für das E-Journal-Angebot die
+Nutzung als einen Preisparameter heranzieht.
+274 Bernhard Mittermaier und Ursula Stanek
+sonders schwierig ist die Bewertung der Lizenzkosten, wenn die Bepreisungsparameter
+nicht transparent sind oder nicht überprüft und verglichen werden können – dies
+schränkt den Spielraum bei Preisverhandlungen ein.
+Kostendämpfend kann die Beschränkung auf die Anzahl gleichzeitiger Nutzer
+(concurrent users) wirken, was aus Benutzungsperspektive aber nicht erstrebenswert
+ist. Im besten Falle kann diese mitunter signifikante Nutzungseinschränkung im konsortialen
+Bereich durch das pooling, d. h. die Bündelung der einzelnen Simultannutzer
+jeder Teilnehmereinrichtung, etwas ausgeglichen werden.
+Datenbanken sind des Öfteren bei mehreren Anbietern erhältlich. Ein Beispiel ist
+die von The Institution of Engineering and Technology (IET) hergestellte Datenbank
+INSPEC, die man gegenwärtig über neun verschiedene Plattformen lizenzieren kann.
+Bei der Auswahl des Anbieters sind neben dem Preis und den Lizenzbedingungen45
+insbesondere die Aktualisierungshäufigkeit und die Benutzbarkeit der Suchoberfläche
+von Bedeutung. Zu berücksichtigen ist ferner, dass bei manchen Anbietern die
+Einbindung der Datenbank in eine gemeinsame Suchoberfläche mit anderen Datenbanken
+vom gleichen Anbieter möglich ist. Dies bietet vordergründig Vorteile für die
+Benutzung, da Metasuchen ermöglicht werden und man sich nicht laufend auf neue
+Suchoberflächen einstellen muss. Andererseits ist auch ein Lock-In-Effekt denkbar: Je
+mehr Datenbanken in einer gemeinsamen Suchoberfläche zusammengefasst sind,
+umso größer ist die Gefahr, dass Nutzer andere Datenbanken, die ebenfalls relevant
+wären, nicht benutzen. Auch die Bibliothek wird eventuell in die Versuchung geraten,
+schlechtere Konditionen zu akzeptieren, nur um das gewohnte Suchumfeld nicht
+aufzubrechen.
+Die Grenzen zwischen den Produktgattungen E-Journals und E-Books einerseits
+und Datenbanken andererseits verwischen zunehmend: Für die Zeitschriften zeigt
+schon der Begriff „Datenbankmodell“, dass die Verlage ihr Zeitschriftenportfolio in
+diese Richtung entwickeln, und auch Mega-Journals46 ähneln eher einer Datenbank
+als einer Zeitschrift. Vergleichbares ist bei E-Books zu beobachten.47 Auch treten die
+immer weiter verbreiteten Discovery-Systeme in Konkurrenz zu bibliographischen
+Datenbanken. Der Weg der Nutzenden führt oft vom Discovery System ihrer Bibliothek
+direkt zum Volltext, ohne dass deutlich wird, dass der Nachweis des gefundenen
+Artikels über eine von der Bibliothek lizenzierte Datenbank erfolgt ist, oder der Index
+des Discovery-Systems die bibliographische Datenbank ersetzt hat.
+ Preis und Lizenzbedingungen unterscheiden sich zwischen verschiedenen Anbietern für eine bestimmte
+Einrichtung oft nicht wesentlich. Man kann annehmen, dass es diesbezüglich restriktive Vorgaben
+durch den Datenbankhersteller gibt.
+ Open-Access-Zeitschrift, die vielfach unabhängig von der fachlichen Ausrichtung alle eingereichten
+Artikel publiziert, so lange sie allgemeinen wissenschaftlichen Ansprüchen genügen. Vergleiche
+auch Björk 2018.
+ Ein Beispiel ist der Landolt-Börnstein/SpringerMaterials.
+4.3 Lizenzierung elektronischer Medien 275
+4 Richtlinien für den Abschluss von Lizenzverträgen
+Im Zuge der Bedeutungszunahme elektronischer Medien zum Ende des 20. Jahrhunderts
+stieg auch das Interesse der Bibliotheken an Handreichungen zur qualifizierten
+Beurteilung von Lizenzverträgen. Dass bei der Lizenzierung elektronischer Produkte
+im Vergleich zum Kauf gedruckter Literatur andere Fragestellungen auftauchen, ist
+vorstehend ausführlich dargelegt. Neben der englischen Sprache stellen bei Verträgen
+mit internationalen Anbietern vor allem die Unterschiede zwischen den Rechtssystemen
+eine zusätzliche Hürde dar. Eine praxisnahe Handreichung ist die „Checkliste für
+Lizenzverträge“ der GeSIG.48 Die besondere Bedeutung der GeSIG-Checkliste, die auch
+ein hilfreiches deutsch-englisches Glossar enthält, liegt darin, dass sie von Vertretern von
+Bibliotheken, Verlagen und Zwischenhandel gemeinsam entwickelt wurde. Trotzdem hat
+auch diese Checkliste nur einen empfehlenden Charakter; es besteht kein Anspruch darauf,
+dass einzelne Regelungen auch tatsächlich in einem Vertrag berücksichtigt werden.
+Eine sehr umfangreiche Checkliste Lizenzverträge haben die Kommission für
+Elektronische Ressourcen im Bibliotheksverbund Bayern und die Kommission Recht
+des dbv gemeinsam herausgegeben.49 Es gibt auch einige Monographien, die sich
+auf Vertragsverhandlungen und -regelungen beziehen, teilweise auf Grundlage des
+US-amerikanischen Rechts.50
+Hilfreiche Unterstützung können auch konkrete Vorschläge für Lizenzen darstellen,
+so zum Beispiel die sechs Musterlizenzen für verschiedene Produktgruppen und
+Lizenzierungszusammenhänge von Ringgold Inc.51 In Deutschland wurde im Rahmen
+der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen
+ebenfalls eine Musterlizenz entwickelt.52 Als Alternative zu Lizenzen
+wurde das Konzept Shared Electronic Resource Understanding (SERU) entwickelt.
+Es handelt sich dabei nicht um eine Lizenz, sondern um ein einvernehmliches Verständnis
+von Anbieter und Bibliothek zur Nutzung elektronischer Ressourcen, wodurch
+ein Lizenzvertrag überflüssig wird.53
+Das Problem bei allen Checklisten und Musterlizenzen liegt in der im Einzelfall
+jeweils notwendigen Abwägung – wie verhält man sich, wenn alle Verhandlungsbemühungen
+vergeblich sind? Überwiegt im Zweifel das Interesse am Abschluss des Lizenzvertrags
+oder das Interesse an günstigen Lizenzbedingungen? Man sollte dabei
+nicht vorschnell zurückstecken, denn auch beim Anbieter ist das wirtschaftliche Inte-
+ https://gesig.org/wp-content/uploads/2021/04/gesigcl.pdf (04.04.2023).
+ https://www.bib-bvb.de/documents/11183/a26dd12b-dac9-4321-9905-63c720b559c7 (04.04.2023)
+ Z. B. Harris 2019.
+ http://www.licensingmodels.com/ (04.04.2023).
+ https://gfzpublic.gfz-potsdam.de/pubman/item/item_2889894 (04.04.2023).
+ In Deutschland sind mit Stand 4. April 2023 acht Einrichtungen aus Deutschland bei SERU registriert.
+Geuther 2021 bewertet das Konzept positiv.
+276 Bernhard Mittermaier und Ursula Stanek
+resse am Abschluss eines Vertrags in der Regel groß. Dies gilt umso mehr, je größer
+das Umsatzvolumen des Vertrags ist, was Konsortialverträge tendenziell begünstigt.
+In manchen Fällen kann auch ein Ausweg darin bestehen, dass statt einer Klausel, die
+eine Seite klar benachteiligt, eine Regelung gesucht wird, die zumindest ausgewogen
+ist. Beispielsweise empfehlen Checklisten, als Gerichtsstand den Sitz der Bibliothek zu
+vereinbaren; in den Musterverträgen der Anbieter wird dagegen in der Regel der Sitz
+des Anbieters als Gerichtsstand fixiert. Eine Einigungsmöglichkeit kann dann sein,
+dass der Gerichtsstand jeweils am Sitz der beklagten Partei ist.
+5 Fazit
+Die Lizenzierung elektronischer Medien ist heutzutage keine neue Aufgabe von Bibliotheken
+mehr, die sich in manchen Aspekten aber doch deutlich von der jahrhundertealten
+Praxis des Kaufs gedruckter Literatur unterscheidet. Unter finanziellen
+Gesichtspunkten sind die Erwerbungsausgaben für elektronische Medien meist der
+zweitgrößte Ausgabeposten in Bibliotheken nach den Personalaufwendungen. An die
+fachliche Kompetenz der Bibliotheksmitarbeiter:innen stellt die Lizenzierung neue
+Anforderungen insbesondere zu juristischen Aspekten und zu Verhandlungstechniken.
+Lizenzen werden oftmals nicht von einer einzelnen Bibliothek, sondern arbeitsteilig
+erworben, wobei der Zusammenschluss von der regionalen bis in die multinationale
+Ebene reicht. Dies birgt einerseits die Gefahr der Fremdbestimmung, eröffnet aber andererseits
+auch Möglichkeiten der Kooperation und der Kostenersparnis – vom Aufbau
+von Marktmacht zu sprechen ist allerdings übertrieben.
+Veränderungen des wissenschaftlichen Publizierens durch Open Access haben
+weitreichende Auswirkungen auf die Informationsversorgung und dadurch auch auf
+die Lizenzierung. Im Zeitschriftenbereich werden reine Lizenzverträge zunehmend
+abgelöst durch Verträge, die neben Leserechten auch Open Access-Publizieren beinhalten
+(Publish & Read-Verträge), siehe Kapitel 5.1 „Open Access bei Zeitschriften“.
+Literatur
+Björk, Bo-Christer: Evolution of the scholarly mega-journal, 2006–2017. In: PeerJ Life and Environment 6
+(2018), e4357. https://dx.doi.org/10.7717/peerj.4357.
+Blummer, Barbara u. Jeffrey M. Kenton: A Systematic Review of E-Books in Academic Libraries: Access,
+Advantages, and Usage. In: New Review of Academic Librarianship 26 (2020), H. 1, S. 79–109.
+Geuther, Christina, Casey D. Hoeve u. Faye O’Reilly: Trends in content development and licensing of
+electronic resources. In: Journal of Electronic Resources Librarianship 33 (2021), H. 1, S. 1–12.
+http://dx.doi.org/10.1080/1941126X.2021.1871195.
+Harris, Lesley Ellen: Licensing digital content: a practical guide for librarians. 3. Aufl. Chicago: American
+Library Association 2019.
+4.3 Lizenzierung elektronischer Medien 277
+Heidler, Richard u. Angela Holzer: Überregionale Lizenzierung: Bilanz eines DFG-Förderprogramms.
+In: O-Bib 8 (2021), H. 2, S. 1–24. https://doi.org/10.5282/o-bib/5707.
+Hillenkötter, Kristine: An der Schwelle zur Transformation: „alte“ und „neue“ Lizenzmodelle im Überblick.
+In: Bibliothek Forschung und Praxis 42 (2018), H. 1, S. 42–56. https://doi.org/10.1515/bfp-2018-0008.
+Mittermaier, Bernhard: Das Informationsbudget: Konzept und Werkstattbericht. In: O-Bib. Das Offene
+Bibliotheksjournal 9 (2022), H. 4, S. 1–17. https://doi.org/10.5282/o-bib/5864.
+Mittermaier, Bernhard: DEAL: Wo stehen wir nach 10 Jahren? In: BIT online 26 (2023), Teil 1: S. 123–131,
+https://www.b-i-t-online.de/heft/2023-02-fachbeitrag-mittermaier.pdf; Teil 2: S. 217–225,
+https://www.b-i-t-online.de/heft/2023-03-fachbeitrag-mittermaier.pdf.
+Osterman, Anne C. u. a.: The impact of big deal breaks on library consortia: An exploratory case study. In:
+The Serials Librarian 79 (2020), H. 1–2, S. 153–162. https://doi.org/10.1080/0361526X.2020.1740855.
+Polchow, Michelle: Exploring Perpetual Access. In: The Serials Librarian 80 (2021), H. 1–4, S. 107–113.
+https://doi.org/10.1080/0361526X.2021.1883206.
+Rodríguez-Bravo, Blanca u. a.: The evolution and revision of big deals: a review from the perspective of
+libraries. In: Profesional de la información 30 (2021), H. 4, e300415. https://doi.org/10.3145/epi.2021.
+jul.15.
+Vosberg, Dana u. Andreas Lütjen: Bestandscontrolling bei elektronischen Ressourcen: Entscheidungshilfen
+für die Lizenzierung. In: O-Bib 8 (2021), H. 1, S. 1–21. https://doi.org/10.5282/o-bib/5672.
+Walters, William H. u. Susanne Markgren: Comparing the Prices of Commercial and Nonprofit Journals: A
+Realistic Assessment. In: Libraries and the Academy 21,2 (2021) 389–410.

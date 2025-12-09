@@ -1,0 +1,362 @@
+Michaela Selbach, Miriam Konze und Irene Barbers
+4.4 Electronic-Resource-
+Management-Systeme (ERMS)
+Anforderungen und Lösungsansätze für Systeme zur Verwaltung
+elektronischer Ressourcen
+1 Ausgangssituation und Anforderungen an ERMS
+Der steigende Anteil digitaler Informationsangebote innerhalb der wissenschaftlichen
+Informationsversorgung und die Komplexität elektronischer Ressourcen erfordern
+den Betrieb einer Infrastruktur für die Verwaltung digitaler Medien und der mit
+ihnen verbundenen Lizenzen und Nutzungsrechte. Electronic-Resource-Management-
+Systeme (ERMS) sollen die Verwaltung dieser Medien in den Bibliotheken erleichtern
+und Informationen über die Verfügung stehenden Ressourcen und die damit verbundenen
+Nutzungsrechte geben.
+Laut Deutscher Bibliotheksstatistik betrug in wissenschaftlichen Bibliotheken der
+Anteil der Erwerbungsausgaben für elektronische Ressourcen am gesamten Erwerbungsetat
+im Jahr 2021 knapp 70 % gegenüber einem Anteil von 43 % im Jahr 2012.
+Der Trend, der bereits in der ersten Auflage dieses Praxishandbuchs beschrieben
+wurde, hat sich also deutlich fortgesetzt. Auch wenn in Zukunft vermutlich eine Sättigung
+zu erwarten ist, zeigt dies umso deutlicher den Bedarf an Instrumenten auf, um
+diese Ressourcen, die sich in entscheidenden Punkten von den klassischen Printmedien
+unterscheiden, effizient zu verwalten.
+Bei den Systemen ist zu unterscheiden zwischen Modulen, die in Bibliotheksmanagementsysteme
+eingebettet sind, zwischen Stand-Alone-Lösungen, die sich ausschließlich
+auf Funktionen des Electronic-Resource-Managements beschränken, sowie
+die Möglichkeit, die Administration des gesamten Bereichs auf mehrere Systeme zu
+verteilen, die jedoch miteinander kommunizieren sollten. Während zur Zeit der ersten
+Auflage des Praxishandbuchs die damals gängigen Bibliotheksmanagementsysteme
+noch kaum auf die Verwaltung elektronischer Ressourcen ausgerichtet waren,
+hat es seither auch in diesen Systemen Weiterentwicklungen gegeben, um dem Bedarf
+an entsprechenden Werkzeugen gerecht zu werden.
+In ERMS soll der gesamte Zyklus der Erwerbung elektronischer Ressourcen abgebildet
+werden können. Sowohl Abonnements als auch Einmalkäufe, Einzelmedien
+aber auch ganze Pakete, dauerhafter oder begrenzter Zugriff müssen verwaltet werden.
+Während bei elektronischen Zeitschriften die Laufzeiten von Abonnements
+sowie der Zuschnitt von Titelpaketen innerhalb von Verträgen eine Rolle spielen, stellen
+bei E-Books die verschiedenen Erwerbungsmodelle wie Evidence Based Selection
+(EBS), Patron Driven Acquisition (PDA) oder Pick & Choose-Modelle besondere Herausforderungen
+dar (vgl. Kapitel 4.3 „Lizenzierung elektronischer Medien“). Häufige Än-
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-017
+derungen im Bestand von teilweise umfangreichen Titelpaketen sowie die unterschiedlichen
+Zugriffsmöglichkeiten sollten im ERMS nachvollzogen werden können.
+Grundlage für die Verwaltung elektronischer Ressourcen sollte eine Knowledge
+Base für Titeldaten sein, um diese nach Bedarf an den unterschiedlichen Stellen innerhalb
+des ERMS mit den abgebildeten Lizenzen verknüpfen zu können. Eine solche
+Knowledge Base kann als externe Quelle per Schnittstelle angebunden und regelmäßig
+aktualisiert werden oder aber als interne Datenbank vorgehalten werden. Letzteres
+allerdings ist nicht empfehlenswert, da der Aufwand zur Synchronisation einer
+solchen Datenbank viel zu groß wäre und zudem ein Datenaustausch mit anderen
+Systemen erschwert oder gar unmöglich gemacht würde.
+Die Liste der bei elektronischen Ressourcen zu verwaltenden Merkmale umfasst
+insbesondere allgemeine Vertragsbedingungen, Fernleihrechte, technische Zugriffsmöglichkeiten,
+Nutzungsstatistiken, sowie sämtliche Finanzdaten inklusive Budgetverwaltung.
+Schließlich sollte der Abruf bedarfsgerechter Auswertungen zur Evaluierung des
+Portfolios einer Einrichtung durch umfassende Monitoring-Funktionen möglich sein.
+Wünschenswert sind schließlich noch eine Dokumenten- und Aufgabenverwaltung
+sowie eine Möglichkeit zur Organisation von Benutzerprofilen von Mitarbeiter:innen
+samt Vergabe von Bearbeitungsrechten.
+Schnittstellen sind nicht nur für den Import von Daten erforderlich, sondern für ein
+modernes ERMS auch als Möglichkeit der Datenweitergabe an andere Systeme unabdingbar,
+zum Beispiel an Kataloge oder Suchmaschinen, die Elektronische Zeitschriftenbibliothek
+(EZB),1 oder andere Nachweissysteme und Analysetools wie beispielsweise an den
+Open Access Monitor.2 Noch nicht durchgängig realisiert sind Verbindungen zu zentralen
+Finanzsystemen der Einrichtungen.
+Neben der Verwaltung von elektronischen Ressourcen auf lokaler Ebene in einzelnen
+Einrichtungen werden bei der Verwaltung von Konsortien zusätzliche Funktionen
+benötigt, die ein solches System mandantenfähig machen: dazu gehören Teilnehmerverwaltung,
+Umfragefunktionen, automatisierte Lizenzverlängerungen sowie nach
+Möglichkeit eine direkte Rechnungsstellung aus dem System heraus.
+2 Umsetzung der Anforderungen in LAS:eR
+In den folgenden Abschnitten wird die Umsetzung der skizzierten Anforderungen am
+Beispiel des ERMS LAS:eR3 beschrieben. Die nötigen Vorarbeiten in Form einer Bedarfsanalyse,
+einer Evaluation bestehender Systeme und der Konzeption des Datenmodells
+wurden innerhalb eines durch die DFG geförderten Projektes durchgeführt.
+ Elektronische Zeitschriftenbibliothek: http://ezb.ur.de/ezeit/ (06.09.2023).
+ Open Access Monitor: https://open-access-monitor.de/ (06.09.2023).
+ LAS:eR: https://laser.hbz-nrw.de/ (06.09.2023).
+280 Michaela Selbach, Miriam Konze und Irene Barbers
+Die vorgenommene Bedarfsanalyse bestätigte die vermuteten heterogenen Verfahren
+der Lizenzverwaltung in Deutschland: Nur wenige Bibliotheken und Verhandlungsführer
+setzten kommerzielle Stand-Alone-Lösungen ein, hauptsächlich wurden Tabellenkalkulationsprogramme
+oder in Einzelfällen unterschiedliche, behelfsmäßig auf
+die Bedürfnisse der Einzeleinrichtung konfigurierte Datenbanken verwendet. Allen
+bisherigen Praktiken gemein war ihre fehlende Nachhaltigkeit und Vernetzung, wodurch
+Doppelarbeit verursacht wurde.
+Ein durch die DFG gefördertes Projekt zur Bildung eines bundesweiten ERMS konnte
+federführend durch die Konsortialstelle des Hochschulbibliothekszentrums des Landes
+Nordrhein-Westfalen (hbz) in Zusammenarbeit mit Projektpartnern der Hessischen Konsortialstelle
+(HeBIS), der Universität Freiburg und des Gemeinsamen Bibliotheksverbundes
+(GBV) gemeinschaftlich aufgebaut werden. Seit Ende 2019 wird das im Projekt
+entwickelte System LAS:eR als eine Software-as-a-Service-Dienstleistung des hbz betrieben.
+Aufgabe des Systems ist die Schaffung einer Vernetzung von Informationen auf nationaler,
+konsortialer und lokaler Ebene, um so Ressourcen sowohl in Bibliotheken als
+auch bei Konsortialstellen einzusparen und Arbeitsabläufe zu optimieren. Diesen Vorteil
+und dieses Arbeitsinstrument setzen in Deutschland mittlerweile die meisten Konsortialstellen
+ein und pflegen in LAS:eR ihr Konsortialportfolio, damit dadurch die jeweils teilnehmenden
+Einrichtungen die eigenen Lizenzinformationen einsehen können. Zugriff
+haben neben den verschiedenen Konsortialstellen auch mittlerweile schon über 500 akademische
+Einrichtungen im deutschsprachigen Raum Abb. 1. Stellvertretend für diese
+Einrichtungen agieren deren jeweilige Bibliotheken in LAS:eR, die durch einen kostenfreien
+Zugriff auf das System den Konsortialstellen zuarbeiten und direkt mit diesen im
+System vernetzt sind. So werden von den Einrichtungen selbst notwendige Informationen
+zu Ansprechpartnern, IP-Adressen, Nutzerzahlen oder Bibliotheks-Identifikatoren in LAS:
+eR aktuell gehalten, um damit die Kommunikation innerhalb des Lizenzierungsprozesses
+auf allen Seiten zu optimieren und erleichtern. Auch das Platzieren neuer Konsortialangebote
+in bestimmten Einrichtungskreisen sowie jährliche konsortiale Lizenzverlängerungsprozesse
+können von den nutzenden Konsortialstellen in LAS:eR gesteuert und den
+eigenen Teilnehmern zur Bearbeitung sichtbar gemacht werden. Durch die Bereitstellung
+zentraler Informationen zu einer Lizenz (u. a. Vertrag, Bestandsinformationen, Nutzungsstatistiken,
+Kosten), welche jederzeit von den teilnehmenden Einrichtungen eingesehen
+werden können, wird einerseits das Ziel einer erhöhten Transparenz von Lizenzkonditionen
+verfolgt sowie andererseits die Vernetzung zwischen den an Konsortien teilnehmenden
+Einrichtungen und deren Konsortialstellen ausgebaut.
+Neben dem Fokus auf der Abbildung konsortialer Lizenzen liegt ein weiterer
+Schwerpunkt auf dem Management außer-konsortialer Lizenzen. Auch wenn Konsortiallizenzen
+einen Großteil des von den Einrichtungen bezogenen Lizenzportfolios abdecken,
+so gibt es natürlich bei der großen Vielfalt des E-Ressourcen Marktes auch
+immer wieder Lizenzen, die nicht über Konsortien angeboten werden und für welche
+die Bibliotheken einzeln bilaterale Verhandlungen führen. Um dies adäquat zentral in
+einem System abbilden und verwalten zu können, haben Einrichtungen die Option,
+4.4 Electronic-Resource-Management-Systeme (ERMS) 281
+Abb. 1: Anzahl und regionale Verteilung von LAS:eR nutzenden Einrichtungen.
+282 Michaela Selbach, Miriam Konze und Irene Barbers
+einen kostenpflichtigen LAS:eR Pro Account zu lizenzieren. So können diese neben
+der Übersicht zu den eigenen Konsortialteilnahmen auch eigene, lokale Lizenzen zentral
+in LAS:eR verwalten. Bereits über 50 Einrichtungen nutzen derzeit diese LAS:eR
+Pro Version.
+2.1 Verwaltung von Lizenzen
+Sowohl Konsortialstellen als auch Einrichtungen mit einem LAS:eR Pro Zugang haben
+im ERMS die Option, die eigenen Lizenzen einerseits abzubilden und andererseits diverse
+Funktionalitäten zu nutzen, um die eigenen, sich vielfach wiederholenden Arbeitsabläufe
+in LAS:eR zu vereinheitlichen und zu automatisieren.
+Mit Blick auf das passgenaue Nachhalten von Lizenzen in den einzelnen Lizenzjahren
+steht sowohl LAS:eR Pro Nutzer:innen als auch Konsortialstellen durch das Hinterlegen
+eines Start- und Endzeitraums einer Lizenz der Aufbau einer Lizenzhistorie zur
+Verfügung, so dass eine Navigation ausgehend von einer aktuellen Lizenz in die Vorjahre
+– sofern diese angelegt wurden – ermöglicht wird. Der Lizenz hinzugefügte Elemente
+wie z. B. flexibel auswählbare Lizenzmerkmale, Kosten, Anmerkungen, Verträge
+oder – aus Konsortialstellensicht – Teilnehmer der jeweiligen Lizenz können so pro Lizenzjahr
+eingesehen und durch ein komplexes Reporting ausgewertet sowie aufbereitet
+werden. Ebenfalls mit einer Lizenz verknüpfbar sind Bestandsdaten der Inhalte, welche
+pro Jahr im Zugriff der Lizenz abrufbar sind bzw. gegebenenfalls dauerhaft erworben
+wurden. Grundlage für die Verknüpfung dieser Bestandsanzeige sind die Anbieter-,
+Paket- und Plattformdaten, welche in der an LAS:eR angeschlossenen Knowledgebase
+we:kb4 von den jeweiligen Anbietern selbstständig und weitgehend automatisiert gepflegt
+werden. Durch das Nachhalten der verschiedenen Elemente wie beispielsweise
+Kosten oder Bestand wachsen auch die im Reporting auswählbaren Auswertungsoptionen,
+mit Hilfe deren sich Konsortialstellen wie auch LAS:eR Pro Nutzer:innen einen
+Überblick u. a. über die Entwicklung der Lizenzkosten oder des Titelbestandes verschaffen
+können.
+Zentraler Punkt der Lizenzverwaltung für Konsortialstellen ist daneben auch die umfangreiche
+Umfragen-Funktion in LAS:eR. So können Konsortialstellen sich jährlich wiederholende
+Abläufe wie z. B. das Abfragen von Lizenzverlängerungen bzw. -kündigungen
+bei den eigenen Konsortiallizenzen zentral in LAS:eR steuern und zugeschnitten auf den
+eigenen Teilnehmerkreis zur Bearbeitung öffnen. In Form von Verlängerungsumfragen
+haben Konsortialführer so die Option, den jeweiligen Teilnehmern eines Konsortiums die
+Lizenzkonditionen für das Folgejahr transparent mitzuteilen und wiederum von
+den Einrichtungen fristgerecht Rückmeldungen zur Verlängerung oder Kündigung
+der entsprechenden Lizenz einzuholen. Andere Umfrage-Funktionen z. B. für Abfra-
+ we:kb: https://wekb.hbz-nrw.de/ (06.09.2023).
+4.4 Electronic-Resource-Management-Systeme (ERMS) 283
+gen zum Interesse an neu gegründeten Konsortien oder auch das Freischalten von
+Titelumfragen für EBS/EBA oder Pick & Choose-Modelle sind ebenfalls flexibel einsetzbar.
+Ziel ist dabei ein klar strukturierter Kommunikationsprozess im Rahmen
+der Lizenzverlängerung in Konsortien, der durch die Kommunikation beider Seiten
+in LAS:eR abgebildet wird. Die maschinell aufbereiteten Ergebnisse solcher Umfragen
+können im Anschluss an solche Prozesse in einer strukturierten Weise an die
+jeweiligen Inhaltsanbieter gesandt werden, was den manuellen Aufwand erheblich
+reduziert und Rückfragen vermindert.
+Individuelle wie auch allgemeingültige Merkmale zum Nachhalten bestimmter Lizenzkonditionen
+stellen zudem einen Kernaspekt in LAS:eR dar. So können Konsortialstellen
+wie auch LAS:eR Pro Nutzer:innen die eigene Arbeitsebene über das Vergeben
+solcher Merkmale gestalten, um beispielsweise festzuhalten, ob bei einer Lizenz ein dauerhaftes
+Archivrecht eine Rolle spielt, eine Pflege des Titelbestands in der Elektronischen
+Zeitschriften Datenbank (EZB) vorgenommen wird oder ob ein unlimitierter zeitgleicher
+Nutzerzugriff bei der entsprechenden Lizenz verhandelt wurde. Der individuelle Gebrauch
+solcher Merkmale orientiert sich stark am Ziel von LAS:eR als Arbeitsinstrument
+sowie der transparenten Aufbereitung zentraler Informationen. Konsortialführer
+haben zudem die Option, bestimmte Merkmale mit dem eigenen Teilnehmerkreis zu
+teilen, so dass hier eine weitere Vernetzung der Konsortial- und Teilnehmerebene
+zu Tragen kommt.
+Um die im Alltag der E-Medien-Erwerbung stets wiederkehrende Frage nach den
+aktuell im Zugriff befindlichen Titeln einer Lizenz zu klären, greift LAS:eR als Arbeitsgrundlage
+auf den Anbieter-gepflegten Datenbestand aus der we:kb zurück, wobei auf
+dieses Zusammenspiel noch gesondert eingegangen wird.
+2.2 Verwaltung von Verträgen
+Im Rahmen von Vorarbeiten zum ERMS wurde auf möglichst weltweit standardisierte
+Begriffe zur Definition von Vertragsinhalten zurückgegriffen, um so perspektivisch
+ein mögliches Matching der entsprechenden Vertrags-Passagen zwischen den einzelnen
+Systemen zu vereinfachen. Neben dem Grundvokabular wurde das Setting der
+Begriffe zu Beginn von LAS:eR durch die teilnehmenden Einrichtungen sowie Konsortialstellen
+erweitert und bildet nun das Mindestsetting an vergebenen und somit relevanten
+Vertragsparametern. Mit diesem einheitlichen Vorgehen verbunden wird zum
+einen für alle Einrichtungen, die an Konsortien teilnehmen, eine Wissensbasis geschaffen,
+so dass beispielsweise die für die EZB relevanten Fernleihindikatoren direkt
+schon zu Beginn einer Lizenzgründung für alle teilnehmenden Einrichtungen ersichtlich
+sind. Zusätzlich können durch dynamische Prozesse diese Begriffsabstimmungen
+gemeinsam durchgeführt und erweitert werden. So wurden beispielsweise im Rahmen
+einer Arbeitsgruppe vertragsrelevante Begriffe des Open Access entsprechend
+ergänzt. Perspektivisch wäre es durch das gemeinsame Vorgehen der Begriffsbestim-
+284 Michaela Selbach, Miriam Konze und Irene Barbers
+mung zum einen möglich, nicht nur den Druck zur Vereinheitlichung des Vokabulars
+auch bei Verlagen und Anbietern von elektronischen Ressourcen zu verstärken, sondern
+auch darauf aufbauend automatisierte Prozesse zu steuern. Der in der Vergangenheit
+aufgesetzte Standard von Onix-PL könnte sich somit durch ein optimiertes
+und vereinfachtes Vorgehen eventuell doch durchsetzen und den Umgang mit Verträgen
+vereinfachen.
+2.3 Integration von Metadaten/Knowledge Base
+Um in LAS:eR passgenau Inhalte für Einrichtungen im Rahmen von Konsortial- oder
+bilateralen Lizenzen darzustellen, nutzt LAS:eR die offene Knowledge Base we:kb.5 Die
+Integration dieser Knowledge Base in LAS:eR ermöglicht den direkten Datenaustausch
+zwischen Konsortialstellen, Nutzer:innen und Anbietern. Hierfür wurden automatisierte
+Kommunikationsabläufe entwickelt. Die Anbieter pflegen die Daten zu ihren
+Plattformen und Paketinhalten selbst und halten sie durch automatisierte Prozesse aktuell.
+Der Einspielprozess der Titeldaten in der we:kb erfolgt in dem von der NISO6 empfohlenen
+KBART-Format,7 durch das aktuelle Titellisten in einem maschinenlesbaren
+Format in standardisierter Weise aufbereitet werden können und für das spezifische
+Felderweiterungen entwickelt wurden, um verschiedene Ressourcentypen abbilden zu
+können. Dreh- und Angelpunkt bei der intellektuellen Verknüpfung von Lizenz und
+Paket ist dabei stets die sogenannte Anbieter Produkt ID, die als interne Kennung dient,
+mit welcher der Anbieter selbst die in der we:kb abgebildete Verkaufseinheit einwandfrei
+identifizieren kann. Die Paket- und Plattformdaten sind schließlich in der LAS:eRAnwendungsoberfläche
+verfügbar, um Einblicke in Lizenzinhalte zu gewähren und diese
+direkt mit den jeweiligen Lizenzen zu verknüpfen zu können. Während dabei die Anbieter
+Produkt ID die Suche nach Paketen erleichtert, bietet die Plattformebene Informationen
+zu möglichen Authentifizierungsmethoden sowie zur Bereitstellung von
+Nutzungsstatistiken nach dem COUNTER-Standard.8 Sofern bei den Anbietern die nötigen
+Schnittstellen zur Verfügung stehen, können die Nutzungsstatistiken über die
+we:kb direkt in LAS:eR bereitgestellt werden. Die we:kb trägt so zur Vernetzung,
+Transparenz und Automatisierung im Erwerbungsprozess bei.
+ https://wekb.hbz-nrw.de/
+ National Information Standards Organization (NISO): https://www.niso.org/ (06.09.2023).
+ Knowledge Base And Related Tools ist eine Initiative zum Austausch von Metadaten zwischen Anbietern
+und Betreibern von Link Resolvern und Electronic-Resource-Managment-Systemen (auch bekannt
+als Knowledge Bases). Das KBART-Format besteht aus standardisierten TSV-Dateien mit
+Angaben wie Publikations-Identifier, Zugangs-URLs und Embargos. Vgl. https://format.gbv.de/kbart
+(06.09.2023).
+ COUNTER Metrics: https://www.countermetrics.org/ (06.09.2024).
+4.4 Electronic-Resource-Management-Systeme (ERMS) 285
+2.4 Schnittstellen für den Datenaustausch
+Die durch den kooperativen Ansatz gepflegten Daten der Einrichtungen, der Anbieter,
+der Lizenzen und Verträge sowie alle weiteren Daten, die LAS:eR nachhält, können
+über entsprechende Schnittstellen und mit der entsprechenden Berechtigung abgerufen
+werden und somit in weiterführende Systeme weitergereicht werden. Auf diese
+Art werden die Prozesse rund um die Datenpflege im Erwerbungsbereich der Bibliotheken
+vereinfacht und Doppelarbeit vermieden, da die Stelle, die die Datenhoheit innehat,
+diese teilt. Durch das im System implementierte Rechtemanagement muss der/
+die jeweilige Urheber:in der Daten diese erst explizit freigeben, damit sie über APISchnittstellen
+ausgeliefert werden können. Schnittstellen existieren bereits von der
+we:kb zu LAS:eR, um die von den Anbietern gepflegten Daten für alle LAS:eR-Nutzer:innen
+aktuell zur Verfügung zu stellen und die entsprechenden Erwerbungsabläufe
+und das Nachhalten der Ressourcen zu ermöglichen. Die Daten aus LAS:eR werden
+zudem bereits aktiv in der GASCO-Übersichtseite9 zur Verfügung gestellt, wo interessierte
+Einrichtungen durch die Konsortialstellen angezeigt bekommen, wo bei welchem
+Produkt eine Konsortialteilnahme möglich ist. Daneben können über die
+vorhandenen Schnittstellen auch bereits Daten zu Lizenzen und Subskriptionskosten
+an den Open-Access-Monitor weitergereicht werden, der das Publikationsaufkommen
+der akademischen Einrichtungen in wissenschaftlichen Zeitschriften erfasst.
+Dort wird für registrierte Bibliotheken ein Analysebereich für Publikations- und Subskriptionskosten
+der eigenen Einrichtung bereitgestellt. Für Einrichtungen, die beim
+Nationalen Statistikserver10 teilnehmen, können die Daten nach LAS:eR geladen werden,
+um dort die Statistiken zu den lizenzierten Ressourcen anzuzeigen. Seit 2023
+existiert eine Schnittstelle zum Datenexport zu Folio,11 um auch dorthin die zentral
+in LAS:eR festgehaltenen Daten exportieren zu können. Perspektivisch wird zudem
+aktiv an einer Schnittstelle zur EZB gearbeitet, so dass aus LAS:eR heraus eine automatische
+Gelbschaltung von Lizenzen im Zielsystem erfolgen kann und nicht eine
+nochmalige Datenpflege nötig ist.
+3 Weitere Systeme und Anwendungen
+Neben dem Komplettsystem LAS:eR verbreitet sich in Deutschland derzeit vor allem
+der Einsatz von Folio-Anwendungen. Folio ist eine Open Source Bibliotheksmanage-
+ GASCO (German, Austrian and Swiss Consortia Organisation) – Arbeitsgemeinschaft Deutscher, Österreichischer
+und Schweizer Konsortien: https://www.hbz-nrw.de/produkte/digitale-inhalte/gasco
+(06.09.2023).
+ Nationaler Statistikserver: https://statistik.hebis.de/stats/site/login (06.09.2023).
+ Folio: https://www.folio.org/ (06.09.2023).
+286 Michaela Selbach, Miriam Konze und Irene Barbers
+ment-Plattform, die verschiedene Funktionen für die Bibliotheksverwaltung in Apps
+anbietet. Die-ERM-Apps „Agreements“, „eHoldings“, „eUsage“ sowie „Licenses“ bieten
+im Zusammenspiel einen ähnlichen Funktionsumfang12 wie LAS:eR. Folio setzt auf die
+GOKb13 als offene, kollaborativ gepflegte Knowledge Base für Metadaten. Die Apps
+können wiederum über Schnittstellen an andere Systeme angebunden werden. Auch
+eine Verbindung zu LAS:eR steht zur Verfügung, um je nach Nutzungsszenario der
+verschiedenen Anwendungen einen Abzug von Daten hin zu Folio zu ermöglichen, um
+so die Informationen der von den Konsortialstellen gepflegten Lizenzen auch in dieser
+Umgebung einbinden zu können. Beispielsweise können so die Lizenz und Vertragsdaten
+zu Konsortiallizenzen aus der entsprechenden Teilnehmersicht von LAS:eR in die
+Folio-Apps übertragen werden. Als kommerziell verfügbare Version wird EBSCO ERM14
+für Folio angeboten.
+Next Generation Bibliotheksmanagement-Systeme wie Alma15 verfügen über eine
+umfangreiche Knowledge Base und bieten ebenfalls die Möglichkeit, elektronische
+Ressourcen zu verwalten, jedoch nicht im selben Funktionsumfang wie beispielsweise
+LAS:eR. Auch hier werden Möglichkeiten des Datenaustauschs über Schnittstellen
+geprüft.
+In internationalem bzw. europäischen Rahmen ist als ERM für einzelne Einrichtungen
+das dänische System SemperTool16 zu nennen, während sich zur Verwaltung
+von konsortialen Lizenzen das ebenfalls in Dänemark entwickelte System Consortia
+Manager17 durchgesetzt hat.
+4 Ausblick
+Der sich in den letzten Jahren stetig beschleunigende Wandel des wissenschaftlichen
+Publikationswesens in den Open Access wirkt sich auf die Bereitstellung und Nutzung
+und dadurch auch auf die Administration von elektronischen Ressourcen aus. So müssen
+immer mehr Verträge mit Publikationskomponenten in ERMS abgebildet werden.
+Die Verwaltung von sogenannten Transformations- oder auch Publish & Read-
+Verträgen erfordert die Zusammenarbeit bei Erwerbungs- und Open-Access-Workflows,
+um Daten zu allen Komponenten dieser Vereinbarungen zu bearbeiten. Sie beinhalten
+neben den erwähnten neuartigen Rahmenbedingungen auch besondere Eigenschaften
+ Eine Übersicht findet sich bei der FOLIO ERM Special Interest Group: https://wiki.folio.org/display/
+ERMSIG/ERM+SIG+Home (06.09.2023).
+ Global Open Knowledgebase (GOKb): https://gokb.org/de/index.html (06.09.2023).
+ EBSCO ERM: https://www.ebsco.com/de-de/resources/ebsco-electronic-resource-management-erm
+(06.09.2023).
+ Alma: https://exlibrisgroup.com/products/alma-library-services-platform/ (16.09.2024).
+ SemperTool: https://www.sempertool.dk/ (06.09.2023).
+ Consortia Manager: https://consortiamanager.com/ (06.09.2023).
+4.4 Electronic-Resource-Management-Systeme (ERMS) 287
+der finanziellen Dimension, die in ERMS abgebildet werden müssen. Zugriffs- und Publikationsrechte
+sollten als Lizenzmerkmale eingetragen werden können. Zudem sind die
+oftmals vorab zu zahlenden Gesamtgebühren häufig aufgeteilt in zwei Beträge, mit
+denen jeweils die Lese- und die Publikationsrechte bezahlt werden, und die entsprechend
+mit unterschiedlichen Mehrwertsteuersätzen ausgewiesen werden. Es ist also sowohl notwendig,
+die Anteile getrennt erfassen zu können, als auch diese mit entsprechenden
+Merkmalen zu versehen, damit eine Kostenübersicht über sämtliche Ausgaben auch
+nach diesen Kriterien gruppiert oder gefiltert werden kann.
+Eine weitere Besonderheit stellen Subscribe to Open-Verträge (S2O) dar. Hier werden
+– in der Regel von den bisherigen lizenznehmenden Einrichtungen – die üblichen
+Subskriptionsgebühren gezahlt, im Gegenzug schaltet der Anbieter den jeweiligen Jahrgang
+einer Zeitschrift komplett im Open Access frei. Während die Kostenstruktur für
+solche Lizenzen derjenigen eines Subskriptionsvertrags ähnelt, können die üblichen
+Evaluationsparameter wie Kosten pro Download bei S2O, aber auch bei Transformationsverträgen
+oder anderen Open-Access-Inhalten nicht greifen, da die Nutzung der
+freigeschalteten Inhalte nicht nur aus dem Bereich der Lizenznehmer heraus möglich
+ist. So ist also zu bedenken, dass nicht nur einrichtungsbezogene, sondern auch globale
+Nutzungsstatistiken heranzuziehen und in die Bewertung einer Lizenz einzubeziehen
+sind. Auch hier wird wiederum die Bedeutung von Standards deutlich: nur ein
+ERMS, das den jeweils gültigen aktuellen Standard von Nutzungsstatistiken verarbeiten
+kann, ist in der Lage, bedarfsgerechte Auswertungen zu bieten.
+Die Verwaltung einzelner Article Processing Charges (APCs) stellt ebenfalls eine
+Option für einen neuen Anwendungsbereich innerhalb von ERMS dar. Bisher sind die
+Systeme jedoch in der Bereitstellung von Metadaten und Strukturen noch nicht auf
+die Ebene einzelner Zeitschriftenartikel ausgerichtet. Hier spielen derzeit vor allem
+Dashboards einzelner Verlage oder auch die Tools kommerzieller Services eine Rolle
+sowie technische Intermediäre wie OA Switchboard.18 Daten aus diesen Dashboards
+könnten zukünftig in ERMS importiert werden, um die lokale Verwaltung der Publikationsgebühren
+in eine gesamte Kostenübersicht zu integrieren. Neben dem KBARTStandard
+für Titel-Metadaten wäre dafür beispielsweise ein Datenschema wie die
+Neuentwicklung des Projekts openCost19 zu implementieren. Neue Lizenzmerkmale
+sowie auf APCs angepasste Kostenelemente müssen entwickelt werden. Ein großer
+Vorteil der Erfassung von Publikationsgebühren innerhalb eines ERMS wäre die Möglichkeit,
+Lizenz- und Publikationsgebühren innerhalb eines Systems zu bearbeiten.
+Schließlich kann ein modernes ERMS zukünftig auf diese Weise zur Etablierung von
+Informationsbudgets beitragen, indem wesentliche Elemente dort erfasst und ausgewertet
+können.
+ OA Switchboard: https://www.oaswitchboard.org/about (06.09.2023).
+ openCost-Metadatenschema: https://www.opencost.de/metadatenschema/ (06.09.2023).
+288 Michaela Selbach, Miriam Konze und Irene Barbers
+Schnittstellen und gemeinsame Standards als Grundlage des Datenaustauschs sind
+essenziell für die effektive Nutzung aller modernen Anwendungen und die Bearbeitung
+gegenwärtiger sowie zukünftiger Aufgaben des Electronic-Resource-Managements. In
+welchem der verschiedenen Systeme welcher Bereich bearbeitet wird, wird nicht
+durch technische Gegebenheiten begrenzt sein, sondern wird sich nach den jeweiligen
+Bedürfnissen der anwendenden Bibliothek oder Konsortialstelle richten.

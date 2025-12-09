@@ -1,0 +1,770 @@
+﻿Heidrun Wiesenmüller
+6.1 Praxis und Standards in der
+
+Formalerschließung
+
+1 Einführung
+1.1 Allgemeines zur Formalerschließung
+
+Auch wenn Bibliotheken in jüngerer Zeit viele neue Aufgaben übernommen haben,
+so spielt dennoch weiterhin der Bestand eine zentrale Rolle: Gemeint sind damit phy-
+sische und elektronische Ressourcen, welche die Bibliothek entweder im eigentlichen
+Sinne besitzt oder zu denen sie Zugang gewähren kann. Nutzende recherchieren in
+Bibliothekskatalogen – herkömmlichen Online-Katalogen oder Discovery-Systemen –
+und entscheiden anhand der angebotenen Informationen, ob eine gefundene Res-
+source für sie geeignet ist oder nicht. Die Basis dafür ist die Formalerschließung bzw.
+Katalogisierung, bei der Ressourcen „gemäß festgelegten Regeln nach äußerlichen,
+formalen Kriterien beschrieben und auffindbar gemacht“1 werden.
+
+Welche formalen Aspekte erfasst werden, hängt von der Art der Ressource ab.
+Bei einem gedruckten Buch beispielsweise sind es u. a. Verfasser:in, Titel, Verlag, Er-
+scheinungsdatum, Umfang und ISBN. Bei der CD-Ausgabe eines klassischen Konzerts
+können es u. a. Komponist:in, musikalische Besetzung, Dirigent:in, Phonogramm-
+Datum, Ort und Datum der Aufzeichnung sowie die Zahl der CDs sein. Bei Online-
+Ressourcen sind u. a. Informationen wie die URL und ggf. der Persistent Identifier
+(DOI, URN) relevant. Darüber hinaus werden nicht nur die Ressourcen selbst beschrie-
+ben, sondern auch andere Arten von Entitäten (insbesondere Personen und Körperschaf-
+ten), die mit ihnen in Beziehung stehen – z. B. als Verfasser:innen, Übersetzer:innen
+oder herausgebende Körperschaften.
+
+Die Abbildung inhaltlicher Aspekte von Ressourcen ist hingegen nicht Aufgabe
+der Formalerschließung, sondern wird im Rahmen der inhaltlichen Erschließung
+(Sacherschließung) geleistet (vgl. dazu Kapitel 6.2 „Inhaltserschließung und Katalogan-
+reicherung“). Jedoch werden die Ergebnisse der Formal- und Sacherschließung einer
+Ressource üblicherweise im selben Katalogisat zur Verfügung gestellt.
+
+ Wiesenmüller u. Horny 2017: S. 3.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-030
+
+
+
+484 Heidrun Wiesenmüller
+
+1.2 Ziele der Formalerschließung
+
+Mit der Formalerschließung werden zwei Ziele verfolgt.2 Erstens soll die jeweilige
+Ressource angemessen beschrieben werden: Sie soll eindeutig identifizierbar und von
+ähnlichen Ressourcen unterscheidbar sein. Auch sollen sich Nutzende anhand der Be-
+schreibung eine gute Vorstellung von der Ressource machen können. Folglich müssen
+die erfassten Informationen nicht nur korrekt, sondern auch ausreichend ausführ-
+lich sein.
+
+Zweitens sollen die Ressourcen über die berücksichtigten formalen Aspekte im
+Katalog gefunden werden können. Eine häufige Art der formalen Recherche ist die
+sogenannte known-item search, bei der man feststellen möchte, ob eine bereits be-
+kannte Ressource an der Bibliothek vorhanden ist und wenn ja, wo bzw. wie man Zu-
+gang dazu erhält. Ein weiterer Recherchetyp ist die Suche nach einer Gruppe von
+Ressourcen, die ein oder mehrere formale Aspekte gemein haben – z. B. alle Bände in
+einer Schriftenreihe oder alle Werke einer Person (collocation search). Solche Zusam-
+menführungen werden mit besonderen Mechanismen – insbesondere Verknüpfungen
+zwischen Datensätzen und der Verwendung von Normdaten – unterstützt.
+
+Die bei der Formalerschließung erfassten Angaben können außerdem zum Sortie-
+ren (z. B. nach dem Erscheinungsdatum), zum Einschränken einer Ergebnisliste (z. B.
+über Facetten) oder zum Navigieren (z. B. von der Beschreibung einer Ressource zur
+Beschreibung für eine damit in Beziehung stehenden Person) genutzt werden.
+
+1.3 Metadaten
+
+Die bei der Formalerschließung erzeugten Informationen können auch als soge-
+nannte Metadaten betrachtet werden, d. h. als „[s]tructured, encoded data that de-
+scribe characteristics of information-bearing entities to aid in the identification,
+discovery, assessment, management, and preservation of the described entities“.3 Es
+handelt sich dabei um einzelne Aussagen über die jeweilige Ressource. Angegeben
+wird einerseits der Aspekt, zu dem etwas ausgesagt wird (hier als „Element“ bezeich-
+net), und andererseits der dafür erfasste Wert.
+
+Bei der Beschreibung des vorliegenden Handbuchs nach dem aktuellen Katalogi-
+sierungsregelwerk RDA würde beispielsweise im Element „Haupttitel“ der Wert „Pra-
+xishandbuch Bibliotheksmanagement“ erfasst werden und im Element „Inhaltstyp“
+der Wert „Text“ (aus einer festen Liste). Da es vier Herausgebende gibt, könnte das
+Element „Mitwirkende:r“ viermal mit der Beziehungskennzeichnung „Herausgeber:in“
+belegt werden. Um gleichnamige Personen unterscheiden zu können, erfasst man
+
+ Vgl. Wiesenmüller 2023: S. 208.
+ Zeng u. Qin 2022: S. 14. Für eine allgemeine Einführung vgl. ebd. S. 3–38.
+
+
+
+6.1 Praxis und Standards in der Formalerschließung 485
+
+am besten einen geeigneten Identifikator.4 Gängig ist die Verwendung der GND-
+Nummer, d. h. der Nummer des zugehörigen Normdatensatzes in der Gemeinsamen
+Normdatei (GND). Bei Hildegard Schäffler ist dies „118181408“. Als Aussagen formu-
+liert ergibt sich: Die beschriebene Ressource hat den Haupttitel „Praxishandbuch Bi-
+bliotheksmanagement“, den Inhaltstyp „Text“ und eine Herausgeberin mit der GND-
+Nummer 118181408.
+
+2 Praxis
+2.1 Katalogdatenbanken und Verbundkatalogisierung
+
+In der bibliothekarischen Praxis werden die Beschreibungen in Form von Datensätzen
+in Katalogdatenbanken erstellt. Das in Deutschland insbesondere bei wissenschaftli-
+chen Bibliotheken angewendete Datenmodell unterscheidet Titeldatensätze (bibliografi-
+sche Datensätze) und Normdatensätze. Erstere beschreiben konkrete Ressourcen wie
+z. B. physische und digitale Bücher, Zeitschriften, Musik-CDs, Landkarten oder Daten-
+banken; letztere beschreiben u. a. Personen, Körperschaften und Geografika.
+
+Zwischen den Datensätzen bestehen vielfältige Verknüpfungen. Beispielsweise
+werden in der Regel die Normdatensätze der an einer Ressource beteiligten Personen
+mit dem entsprechenden Titeldatensatz verknüpft. Ein Vorteil davon ist, dass alle im
+Personennormdatensatz erfassten Namensformen für die Recherche genutzt werden
+können. Ebenso genügt es bei einer Namensänderung (z. B. aufgrund von Heirat), die
+Informationen im Normdatensatz anzupassen – in den verknüpften Titeldatensätzen
+wird dadurch automatisch die aktuelle Vorzugsform angezeigt.5
+
+Auch zwischen mehreren Titeldatensätzen kann es Verknüpfungen geben, z. B.
+zwischen dem Datensatz für eine Zeitschrift und dem für ihren Nachfolger. Zudem ist
+bei komplexeren Fällen mitunter mehr als ein Datensatz für die Beschreibung nötig,
+etwa wenn für eine mehrteilige Monografie (z. B. ein dreibändiges Handbuch) eine
+sogenannte hierarchische Beschreibung angelegt wird. Dabei legt man sowohl einen
+Datensatz für die Ressource als Ganzes an als auch Datensätze für die einzelnen Teile,
+welche mit dem übergeordneten Datensatz verknüpft werden.
+
+Manche Bibliotheken – insbesondere öffentliche Bibliotheken und bestimmte
+Spezialbibliotheken – katalogisieren in einer eigenen Katalogdatenbank. Die meisten
+wissenschaftlichen Bibliotheken nehmen jedoch an der kooperativen Katalogisierung
+
+ Bei einer Aufbereitung für die Anzeige werden natürlich auch der bevorzugte Name und ggf. die
+Lebensdaten angezeigt.
+ Dies bezieht sich nur auf die Anzeige der jeweiligen Person als geistige Schöpferin, Herausgeberin
+etc. Die Verantwortlichkeitsangabe bleibt davon unberührt und zeigt stets die in der Ressource ge-
+nannte Namensform.
+
+
+
+486 Heidrun Wiesenmüller
+
+in einem Verbundkatalog teil. Dies bedeutet, dass alle Bibliotheken, die eine be-
+stimmte Ressource besitzen, dafür denselben Titeldatensatz nutzen. Informationen,
+die jeweils nur für eine spezifische Bibliothek gültig sind (z. B. der Standort und die
+Signatur), werden in sogenannten Lokal- oder Exemplardatensätzen gespeichert.
+
+Bei der klassischen Form der Verbundkatalogisierung kommen die für die jeweilige
+Bibliothek relevanten Katalogdaten aus der Verbunddatenbank in das lokale Bibliotheks-
+system – entweder über eine Online-Schnittstelle oder über regelmäßige Datenabzüge.
+Dabei werden alle neuen bzw. geänderten Titeldatensätze, an denen die Bibliothek Be-
+stand hat, lokal eingespielt und sind damit auch über den Katalog der jeweiligen Biblio-
+thek recherchierbar. Der Verbundkatalog ermöglicht hingegen eine übergreifende Suche
+im Bestand aller beteiligten Bibliotheken, z. B. für die Fernleihe. Veränderungen bei der
+technischen Umsetzung der kooperativen Katalogisierung ergeben sich aufgrund der
+Einführung neuartiger, cloud-basierter Bibliotheksmanagementsysteme.
+
+2.2 Datenformate
+
+Sogenannte Datenformate regeln, welche Informationen in welchen Datenfeldern er-
+fasst werden, und definieren Funktions- und Steuerzeichen (z. B. für die Verknüpfun-
+gen). Ebenso gibt es Festlegungen für Informationen, die in codierter Form in den
+Datensätzen stehen. Solche Codes können sowohl internen Zwecken dienen (z. B. lokale
+Codes für die Erstellung von Statistiken oder die Steuerung von Geschäftsgängen) als
+auch in der Recherche genutzt werden (z. B. zum Filtern von Ressourcen nach bestimm-
+ten Aspekten wie Sprache oder Inhaltstyp). Nützlich ist außerdem, dass codierte Infor-
+mationen in unterschiedlicher Form – z. B. in verschiedenen Sprachen – angezeigt
+werden können, ohne dass man dafür die Daten selbst verändern muss.
+
+Bei den Datenformaten unterscheidet man zwischen internen, von der eingesetzten
+Software abhängigen Formaten der unterschiedlichen Katalogdatenbanken und soge-
+nannten Austauschformaten wie MARC 21.6 Letztere werden immer dann verwendet,
+wenn Daten zwischen mehreren Systemen mit u. U. unterschiedlichen Internformaten
+transportiert werden sollen. Sind beispielsweise Daten von einem Verbundsystem mit
+Internformat A an ein Lokalsystem mit Internformat B zu liefern, so werden die Daten
+über eine Exportschnittstelle des Verbundsystems vom Internformat A in das Austausch-
+format umgewandelt und in diesem Format übertragen. Über die Importschnittstelle
+des Lokalsystems werden die Daten sodann vom Austauschformat in das Internformat B
+konvertiert. Es müssen also keine speziellen Konverter für die Umwandlung zahlreicher
+Formate entwickelt und gepflegt werden. Während systemspezifische Formate für die
+
+ Teilweise ist noch zu unterscheiden zwischen dem Internformat im engeren Sinne (in dem die
+Daten intern gespeichert sind) und dem ebenfalls systemspezifischen Erfassungsformat.
+
+
+
+6.1 Praxis und Standards in der Formalerschließung 487
+
+intellektuelle Erfassung von Katalogdaten verwendet werden und deshalb komfortabel
+in der Anwendung sein sollten, erfolgt die Konvertierung in das bzw. vom Austauschfor-
+mat maschinell.
+
+2.3 Linked (Open) Data
+
+Im sogenannten Resource Description Framework (RDF) werden Metadaten als Aussa-
+gen in der Form „Subjekt – Prädikat – Objekt“ (sog. Tripel) modelliert. Dabei ist das
+Subjekt die Ressource, das Prädikat ist das Element und das Objekt der erfasste Wert.
+
+Bereitet man derartige Aussagen in einer bestimmten Art und Weise technisch
+auf – u. a. unter Nutzung von weltweit gültigen Identifikatoren, den Uniform Resource
+Identifiers (URI) – können sie im Internet als „Linked (Open) Data“ zur Verfügung ge-
+stellt und mit Tripeln aus anderen Datenbeständen verknüpft werden. Dies ermöglicht
+es, Informationen aus unterschiedlichen Quellen über dieselbe Ressource zu kombinie-
+ren, komplexe Abfragen mit Hilfe einer besonderen Abfragesprache (SPARQL) zu stel-
+len sowie aus den vorhandenen Tripeln neue Informationen logisch abzuleiten.
+
+Eine Reihe großer Bibliotheken und Bibliotheksverbünde stellt routinemäßig Ka-
+talogdaten in dieser Form zur Verfügung, indem die in den Katalogdatenbanken vor-
+liegenden Datensätze maschinell in Tripel umgewandelt werden. Linked (Open) Data
+gilt als eine Vorstufe des sogenannten Semantic Web, bei dem Informationen im Web
+auch für Maschinen interpretierbar sein sollen.
+
+2.4 Organisation der Formalerschließung
+
+Die Formalerschließung ist heutzutage zum einen durch die intellektuelle Tätigkeit
+entsprechend qualifizierter Mitarbeitender in den Bibliotheken geprägt, zum anderen
+durch die Übernahme bereits vorliegender Daten. Hingegen spielen – anders als im
+Bereich der inhaltlichen Erschließung – maschinelle Erschließungsverfahren bisher
+kaum eine Rolle.
+
+Spezielle Katalogisierungsabteilungen gibt es nur noch selten; zumeist wurden die
+Aufgaben der Formalerschließung und der Erwerbung bzw. des Bestandsmanagements
+in Form einer integrierten Medienbearbeitung zusammengeführt. Dies ist auch deshalb
+sinnvoll, weil vielfach bereits bei der Bestellung einer Ressource ein vorläufiges Katalo-
+gisat (sog. Bestelldatensatz) angelegt wird. In jüngerer Zeit findet sich häufiger das
+Wort „Metadaten“ im Namen einschlägiger Abteilungen (z. B. Bestandsentwicklung und
+Metadaten), da zum Aufgabenspektrum vermehrt auch das Management von Metada-
+ten aus unterschiedlichen Quellen gehört (z. B. Homogenisierung, Anreicherung von In-
+formationen, Qualitätsverbesserung).
+
+Aufgrund der kooperativen Katalogisierung in Verbundkatalogen ist der Grad an
+Rationalisierung bei der Formalerschließung im deutschsprachigen Raum extrem hoch.
+
+
+
+488 Heidrun Wiesenmüller
+
+Bei Monografien findet man vielfach bereits ein Katalogisat eines anderen Verbundteil-
+nehmers vor und muss nur noch die eigenen Lokaldaten ergänzen. Darüber hinaus
+werden regelmäßig sogenannte Fremddaten – d. h. bereits vorliegende Metadaten an-
+derer Produzenten – in die Verbundkataloge eingespielt. Typische Quellen solcher
+Fremddaten sind die Deutsche Nationalbibliothek (DNB), weitere Nationalbibliotheken,
+große internationale Buchhändler sowie Verlage. Auch Katalogisate aus anderen Ver-
+bünden können über bestimmte Verfahren übernommen und nachgenutzt werden.
+Entsprechend muss nur noch ein recht überschaubarer Teil der Ressourcen „von null
+an“ katalogisiert werden. Eine Besonderheit stellen E-Books dar, die zum großen Teil in
+Form von Paketen erworben werden. Die dafür von Verlagen oder Aggregatoren zur
+Verfügung gestellten Metadaten werden vielfach weitgehend unverändert genutzt, auch
+wenn sie nicht dieselbe Qualität besitzen wie originär bibliothekarische Katalogisate.7
+
+Derzeit existieren in Deutschland sechs Bibliotheksverbünde: Bibliotheksverbund
+Bayern (BVB), Gemeinsamer Bibliotheksverbund (GBV), Hessisches Bibliotheksinfor-
+mationssystem (hebis), Hochschulbibliothekszentrum NRW (hbz), Kooperativer Biblio-
+theksverbund Berlin-Brandenburg (KOBV) und Südwestdeutscher Bibliotheksverbund
+(SWB). Aufgrund von Kooperationen ist die Zahl der Verbundkataloge bereits auf vier
+gesunken: BVB und KOBV haben ihre Daten im B3Kat zusammengeführt, GBV und
+SWB die ihren im K10plus. Auch plant hebis, sich dem K10plus anzuschließen. Die
+DNB ist kein Mitglied eines Verbunds; nutzt aber intensiv Daten von Verlagen nach.
+In Österreich gibt es nur einen einzigen Verbund (Österreichischer Bibliothekenver-
+bund – OBV), dem auch die Österreichische Nationalbibliothek (ÖNB) angehört. In der
+Schweiz sind die meisten Verbünde in der Swiss Library Service Platform (SLSP) auf-
+gegangen, die die nationale Bibliotheksplattform swisscovery betreibt. Die Schweizeri-
+sche Nationalbibliothek (NB) ist kein Mitglied von SLSP.
+
+Für die Katalogisierung von Zeitungen, Zeitschriften, monografischen Reihen und
+sogenannten integrierenden Ressourcen (z. B. regelmäßig aktualisierte Datenbanken)
+gibt es außerdem die Zeitschriftendatenbank (ZDB), die kooperativ von Bibliotheken
+in Deutschland und Österreich betrieben wird und deren Daten auch in die Verbund-
+kataloge gelangen. Ergänzt wird sie durch die Elektronische Zeitschriftenbibliothek
+(EZB) mit einem Schwerpunkt auf Zugangsfunktionalitäten für E-Journals. Auch die
+benötigten Normdaten werden in einem zentralen System – der Gemeinsamen Norm-
+datei – kollaborativ von Einrichtungen in Deutschland, Österreich und der Schweiz
+erstellt und gepflegt. Daneben gibt es weitere im Verbund betriebene Systeme, u. a.
+für bestimmte Medienarten – z. B. Kalliope für Nachlässe und Autographen oder die
+IKAR Altkartendatenbank für gedruckte Karten 1850.8
+
+ Zu den Anforderungen, die bei Metadatenlieferungen zu E-Books und E-Book-Paketen von den Da-
+tenlieferanten zu erfüllen sind, vgl. Arbeitsgemeinschaft der Verbundsysteme 2023.
+ Zu Verbundkatalogen vgl. Gantert u. Lauber-Reymann 2023: S. 72–74 und S. 237–247.
+
+
+
+6.1 Praxis und Standards in der Formalerschließung 489
+
+Damit die kooperative Katalogisierung auf den verschiedenen Plattformen funktio-
+nieren kann, benötigt man nicht nur eine Vielzahl technischer Tools und Mechanismen,
+sondern ebenso diverse Absprachen und Regelungen, die auch dokumentiert und ge-
+pflegt werden müssen. Eine zentrale Rolle bei Entwicklung, Umsetzung und Koordina-
+tion spielen einerseits die Verbundzentralen und andererseits die Nationalbibliotheken.
+Sie werden unterstützt von einem komplexen System von Expertengremien auf unter-
+schiedlichen Ebenen – von Arbeitsgruppen innerhalb der Verbünde bis hin zu den vom
+Standardisierungsausschuss (STA)9 eingesetzten D-A-CH-weiten Expert:innengruppen.
+
+3 Standards in der Formalerschließung
+Die umfassende Kooperation bei der Formalerschließung und der sich daraus erge-
+bende hohe Grad an Rationalisierung wären nicht möglich, wenn man sich nicht auf
+gemeinsame Standards geeinigt hätte. Dies hat im Bibliothekswesen eine lange Tradi-
+tion – sowohl auf nationaler als auch auf internationaler Ebene. Aus der großen Zahl
+vorhandener Metadatenstandards können im Folgenden nur die für den deutschspra-
+chigen Raum besonders wichtigen vorgestellt werden. Auf die historische Entwick-
+lung wird dabei nur dort eingegangen, wo es zum Verständnis der aktuellen Situation
+wichtig ist.10
+
+3.1 Standards und ihre Einteilung
+
+Gängig ist eine Einteilung der Standards in vier Typen:11 Ein Strukturstandard ist im
+Wesentlichen eine Liste möglicher Elemente, die für die Erfassung genutzt werden
+können. Die Frage, wie ein solches Element inhaltlich zu befüllen ist (z. B. ob etwas
+von der Ressource abgeschrieben wird oder ob eine bestimmte Angabe frei formuliert
+werden kann), wird von einem Inhaltsstandard beantwortet. Nicht selten schreibt
+ein solcher Inhaltsstandard für manche Elemente vor, dass diese nur mit Werten aus
+einem bestimmten Standard – einem sogenannten Wertestandard – gefüllt sein dür-
+
+ „Der Standardisierungsausschuss ist ein kooperativer Zusammenschluss von Organisationen und In-
+stitutionen der Kultur und Wissenschaft der Bundesrepublik Deutschland, Österreichs und der Schweiz
+(DACH-Raum) mit der Zielsetzung, den Einsatz einheitlicher Standards für die Erschließung, Schnittstel-
+len und Formate in Bibliotheken sicher zu stellen und die spartenübergreifende Harmonisierung der
+Erschließung und Datenvernetzung zu fördern.“ Geschäftsordnung des STA: https://www.dnb.de/Shared
+Docs/Downloads/DE/Professionell/Standardisierung/afsGeschaeftsordnung.pdf (03.11.2023).
+ Für einen kurzen historischen Abriss vgl. Wiesenmüller u. Horny 2017: S. 4 f., für einige weitere,
+hier nicht behandelte Standards aus unterschiedlichen Bereichen vgl. Wiesenmüller 2023: S. 211–216.
+ Vgl. Zeng u. Qin 2022: S. 23–26.
+
+
+
+490 Heidrun Wiesenmüller
+
+fen. Dies kann etwa eine einfache Liste normierter Begriffe, eine Klassifikation oder
+eine Normdatei sein. Als vierten Typ gibt es Standards für die Eingabe (Erfassung)
+der Daten, deren Austausch und/oder Präsentation (Anzeige); hier spricht man
+auch von Formaten.
+
+Nicht selten regelt ein Standard mehrere Aspekte, z. B. sind Inhaltsstandards prak-
+tisch immer auch Strukturstandards, legen also sowohl die zur Verfügung stehenden
+Elemente als auch deren Befüllung fest. Häufig basieren konkrete Standards auf abs-
+trakten konzeptionellen Modellen, die typischerweise als Entitäten-Beziehungsmodell
+oder als Ontologie modelliert sind.12
+
+3.2 ISBD
+
+Ein wichtiger Bereich der Formalerschließung ist die bibliografische Beschreibung, bei
+der man äußere Merkmale angibt – bei einem Buch z. B. Titel, Verantwortlichkeitsan-
+gabe, Verlagsname, Erscheinungsdatum u. Ä. Für die bibliografische Beschreibung
+wurde bereits Ende der 1960er Jahre von der International Federation of Library Asso-
+ciations and Institutions (IFLA) ein Standard erarbeitet: die International Standard Bi-
+bliographic Description (ISBD). Zunächst in mehreren Versionen für unterschiedliche
+Materialarten erschienen, wurden diese 2011 zur ISBD consolidated zusammengeführt.
+Die aktuelle Fassung stammt von 2021.13
+
+Die ISBD ist einerseits ein Strukturstandard, der Elemente definiert und in Grup-
+pen einteilt, und andererseits ein Anzeigestandard, der ihre Reihenfolge und Tren-
+nung voneinander durch bestimmte Deskriptionszeichen festlegt. Der Standard war
+für den Zettelkatalog optimiert und ermöglichte eine sehr kompakte Darstellung, wie
+das folgende Beispiel zeigt:
+
+Text : ohne Hilfsmittel zu benutzen
+Die Verdammten : Roman / Jim Thompson ; aus dem Amerikanischen von Simone Salitter und Gun-
+ter Blank. – Vollständige deutsche Erstausgabe. – München : Wilhelm Heyne Verlag, 2015. – 300
+Seiten ; 19 cm. – (Heyne Hardcore). – Originaltitel: The transgressors. – ISBN 978-3-453-43789-0
+
+Da man die verschiedenen Informationen anhand ihrer Position und der Zeichenset-
+zung stets problemlos zuordnen kann, macht die ISBD bibliografische Beschreibungen
+auch über Sprachgrenzen hinweg verständlich. Weitere Ziele der ISBD waren es, in-
+ternationalen Austausch zu ermöglichen und die maschinelle Verarbeitung von Kata-
+logisaten zu erleichtern. In der Tat war die ISBD eine wichtige Grundlage für die
+Entwicklung bibliothekarischer Datenformate wie MARC.
+
+ Vgl. Zeng u. Qin 2022: S. 159–171.
+ IFLA ISBD Review Group 2022, vgl. Wiesenmüller und Horny 2017: S. 6–9.
+
+
+
+6.1 Praxis und Standards in der Formalerschließung 491
+
+Die ISBD war über viele Jahre ein fester Bestandteil der nationalen Katalogisie-
+rungsregelwerke. Erst das internationale Regelwerk RDA ging einen neuen Weg,
+indem es die Anwendung der ISBD nicht mehr zwingend vorschrieb. Eine strenge
+ISBD-Darstellung findet sich heute zwar nur noch selten (z. B. in manchen Nationalbi-
+bliografien), doch orientiert sich die Abfolge der Informationen auch in Online-
+Katalogen weiterhin meist an der ISBD; teilweise sind auch noch Deskriptionszeichen
+zu erkennen.
+
+3.3 MARC und BIBFRAME
+
+Eine herausragende Bedeutung bei den Formaten hat Machine-Readable Cataloging
+(MARC). Es wurde ursprünglich 1968 an der Library of Congress entwickelt und exis-
+tiert in mehreren Ausprägungen; die wichtigste Variante ist MARC 21.14 Entsprechend
+dem Trend weg von nationalen Lösungen wurde das deutsche Maschinelle Austausch-
+format für Bibliotheken (MAB) seit 2009 schrittweise von MARC abgelöst. Anders als
+im deutschsprachigen Raum wird MARC 21 in der angloamerikanischen Welt nicht
+nur als Austauschformat (s. o. Abschnitt 2.2 „Datenformate“) genutzt, sondern dient
+auch als Erfassungsformat in nahezu allen Katalogdatenbanken.
+
+Von den verschiedenen Teilformaten wird hier MARC Bibliographic (für Titelda-
+tensätze) betrachtet. In seiner Struktur orientiert es sich noch an Zettelkarten, wurde
+jedoch insoweit ertüchtigt, dass es auch mit RDA verwendet werden kann. Auch
+wurde es erweitert, um Besonderheiten des im deutschsprachigen Raum genutzten
+Datenmodells abzubilden – insbesondere die Möglichkeit, Datensätze miteinander zu
+verknüpfen.
+
+Das nachfolgende Beispiel zeigt einige Charakteristika: dreistellige Feldnummern
+(hier 245 für die Gruppe 1 der ISBD), eine Untergliederung mit Unterfeldern (hier $a
+für den Haupttitel, $b für den Titelzusatz und $c für die Verantwortlichkeitsangaben)
+sowie die Verwendung von bis zu zwei Indikatoren pro Feld. Der zweite, auf „4“ ste-
+hende Indikator bedeutet beispielsweise, dass die ersten vier Zeichen des Haupttitels
+(der Artikel und das Leerzeichen) bei der Sortierung zu übergehen sind.
+
+245 14 $a Die Verdammten $b Roman $c Jim Thompson ; aus dem
+Amerikanischen von Simone Salitter und Gunter Blank
+
+Im deutschsprachigen Raum werden innerhalb eines MARC-Felds nur dort ISBD-
+Deskriptionszeichen verwendet, wo die Codierung durch Feldnummer und Unterfeld
+ansonsten nicht ausreichend wäre. In der angloamerikanischen Praxis sieht man hin-
+
+ Vgl. die umfangreiche Formatdokumentation zu MARC in: Library of Congress, Network Develop-
+ment and MARC Standards Office (2022) sowie Arbeitsgemeinschaft der Verbundsysteme (2021).
+
+
+
+492 Heidrun Wiesenmüller
+
+gegen häufig noch durchgängig ISBD-Deskriptionszeichen, die beim Katalogisieren
+manuell erfasst werden.
+
+Obwohl die Bedeutung von MARC derzeit noch unangefochten ist, hat es eine
+Reihe von Defiziten: Es ist kaum mehr ausbaufähig und mit den vorhandenen Mitteln
+kann nur ein geringer Grad an Spezifizierung und Differenzierung erreicht werden.
+Vielfach müssen ganz unterschiedliche Informationen in dasselbe MARC-Feld einge-
+tragen werden. Beispielsweise sind im Unterfeld 300 $b nicht nur die Illustrationen
+bei einem Buch anzugeben, sondern u. a. auch die Verkleinerungsrate von Microfi-
+ches oder das Audio-Format einer CD (z. B. MP3). Dies ist besonders dann problema-
+tisch, wenn bibliografische Informationen nicht nur für Menschen verständlich sein
+sollen (die sich die jeweilige Bedeutung aus dem Gesamtkontext erschließen können),
+sondern auch für Maschinen.
+
+Die 2011 gestartete Bibliographic Framework Initiative (BIBFRAME) sollte eine
+zeitgemäße, für das Semantic Web geeignete Alternative zu MARC entwickeln. Ent-
+standen ist dabei kein neues Datenformat, sondern ein abstraktes Modell in Form
+einer Ontologie.15 Die Version 2.0 von 2016 besitzt als Kern drei Entitäten mit unter-
+schiedlichem Abstraktionsgrad: „Work“ für die konzeptionelle Ebene, „Instance“ für
+dessen Verkörperungen (z. B. eine bestimmte Ausgabe eines Werks) und „Item“ für
+ein konkretes Exemplar. Diese stehen wiederum in Beziehungen zu „Agents“, „Sub-
+jects“ und „Events“. Das Gesamtmodell erlaubt auch sehr detaillierte Beschreibungen,
+die mit Linked-Data-Techniken umgesetzt werden.
+
+BIBFRAME hat mittlerweile das Experimentierstadium verlassen. Es gibt neben
+Umwandlungstools auch Editoren, mit denen man direkt in BIBFRAME erfassen kann,
+sowie erste auf BIBFRAME basierende Kataloge.16 Die Library of Congress strebt sogar
+einen vollständigen Umstieg darauf an. Ob BIBFRAME künftig auch in der deutsch-
+sprachigen Praxis eine Rolle spielen wird, bleibt allerdings abzuwarten.
+
+3.4 GND
+
+Der wichtigste Wertestandard im deutschsprachigen Raum ist die Gemeinsame Norm-
+datei (GND), welche Normdatensätze zu Personen, Familien, Körperschaften, Geogra-
+fika, Veranstaltungen (z. B. Konferenzen), Werken und Sachbegriffen enthält. Sie
+entstand ursprünglich 2009 bis 2012 in einem groß angelegten Projekt durch die Zu-
+sammenführung mehrerer älterer Normdateien und wird seitdem kollaborativ ge-
+pflegt und weiter ausgebaut.
+
+Teil des Projekts war auch die Entwicklung eines geeigneten Datenformats auf
+der Basis des für Normdaten gedachten Teilformats von MARC 21 (MARC Authority).
+
+ Bibliographic Framework Initiative: https://www.loc.gov/bibframe/ (13.06.2023).
+ Ein Beispiel ist die Plattform Share-VDE: https://www.svde.org/ (03.11.2023).
+
+
+
+6.1 Praxis und Standards in der Formalerschließung 493
+
+Zugleich einigte man sich auf gemeinsame Regeln für die Erfassung derjenigen Ob-
+jekte, die sowohl in der Formal- als auch der Sacherschließung genutzt werden.
+Diese Regeln basieren inzwischen im Wesentlichen auf RDA und den Regeln für die
+Schlagwortkatalogisierung (RSWK).17
+
+3.5 Von AACR und RAK zu RDA
+
+Bei den Inhaltsstandards der Formalerschließung spricht man von Katalogisierungsre-
+gelwerken. Bereits weitgehend Geschichte sind nationale Regelwerke wie die Anglo-
+American Cataloguing Rules in der zweiten Auflage (AACR2)18 und die in Deutschland
+und Österreich angewendeten RAK mit ihrer primären Version Regeln für die alphabe-
+tische Katalogisierung in wissenschaftlichen Bibliotheken (RAK-WB).19 Beide stammten
+aus der Ära der Zettelkataloge und waren ab einem gewissen Punkt nicht mehr zeitge-
+mäß. Man sieht dies etwa an Begrenzungsregeln, die in einer digitalen Katalogisierungs-
+umgebung nicht mehr nötig sind – z. B. wurde gemäß RAK nur die Beziehung zur
+ersten herausgebenden Person berücksichtigt. Die Katalogschränke waren aber längst
+durch Online-Kataloge abgelöst. Später rückte auch die Idee des Semantic Web in den
+Fokus, wofür u. a. eine präzisere Unterscheidung und Spezifizierung von Informationen
+nötig ist, als sie diese Regelwerke boten.
+
+Die älteren Regelwerke waren außerdem in erster Linie auf gedruckte Bücher
+ausgerichtet. Regeln für elektronische und andere Materialien wurden nachträglich
+ergänzt und nicht immer schlüssig eingepasst.20 Im EDV-Zeitalter war die Vorrangstel-
+lung gedruckter Materialien nicht mehr sachgemäß. Benötigt wurden stattdessen Re-
+geln, die für alle Arten von Ressourcen in gleicher Weise geeignet sein sollten.
+
+Sowohl in Deutschland als auch in der angloamerikanischen Welt arbeitete man
+deshalb an grundlegenden Modernisierungen. Nach langen Diskussionen fiel dann aber
+die Entscheidung, die Weiterentwicklung der RAK zu stoppen und stattdessen einen
+Umstieg auf das angloamerikanische Regelwerk anzustreben. Dieser wurde als gemein-
+sames Projekt von Deutschland, Österreich und der deutschsprachigen Schweiz21 ge-
+plant. Man versprach sich davon Rationalisierungs- und Einsparungseffekte – zum
+einen durch leichtere Nachnutzung angloamerikanischer Titeldaten und zum anderen
+
+ Für eine ausführliche Darstellung der GND vgl. das Kapitel 6.3 „Normdaten, Linked Data“.
+ Joint Steering Committee for Revision of AACR u. a. 2005.
+ Arbeitsstelle für Standardisierung 2007, vgl. Wiesenmüller und Horny 2017: S. 5.
+ Beispielsweise gab es bei RAK separate Sonderregeln für Nichtbuchmaterialien (RAK-NBM) mit
+grundsätzlichen Abweichungen gegenüber RAK-WB. Dies führte dazu, dass die Katalogisate einer
+Druck- und einer E-Book-Ausgabe desselben Werks sehr unterschiedlich aussahen.
+ In der deutschsprachigen Schweiz hatte man das eigene Regelwerk schon früher aufgegeben und
+war auf eine Katalogisierung mit (angepassten) AACR2 umgestiegen.
+
+
+
+494 Heidrun Wiesenmüller
+
+aufgrund der Erwartung, dass keine eigenständige Regelwerksarbeit mehr nötig sein
+würde. Beides ist jedoch nur zum Teil eingetreten.
+
+Der Umstieg wurde dadurch erleichtert, dass sich alle, die AACR anwendeten, be-
+wusst für eine Internationalisierung ihres Regelwerks entschieden. Ein veränderter
+Titel ohne geografische Verortung signalisierte den Neuanfang: „Resource Description
+and Access“ (RDA), also ungefähr „Ressourcen beschreiben und zugänglich machen“.
+Auch das Wort „Rules“ verschwand aus dem Titel, da RDA beim Katalogisieren eine
+höhere Flexibilität ermöglichen sollte. Anstelle starrer Vorschriften wünschte man
+sich mehr Optionen; auch sollte es möglich sein, den Detailgrad bei den Beschreibun-
+gen selbst zu entscheiden – von ganz knapp mit nur den allernötigsten Angaben bis
+hin zu umfangreichen, sehr detaillierten Informationen. Schließlich sollte das neue
+Regelwerk auch eine theoretische Fundierung besitzen – ein zugrundeliegendes ab-
+straktes Modell, aus dem sich die konkreten Regeln sozusagen logisch ableiten lassen
+sollten (s. u. Abschnitt 3.6 „RDA, FRBR und LRM“). RDA erschien erstmals 2010 online
+im sogenannten RDA Toolkit.22 Diese, heute als Original RDA Toolkit bezeichnete Platt-
+form wurde mittlerweile abgelöst und wird in absehbarer Zeit nicht mehr verfüg-
+bar sein.
+
+Nach einer mehrjährigen Vorbereitungsphase, in der u. a. eine deutsche Übersetzung,
+umfangreiche Anwendungsrichtlinien zu den oft recht unkonkreten RDA-Bestimmungen
+sowie Schulungen erarbeitet und durchgeführt wurden, startete die Katalogisierung
+gemäß RDA in Deutschland, Österreich und der deutschsprachigen Schweiz Ende 2015.23
+
+Für die Vorbereitung und Implementierung des Umstiegs wurden erhebliche Res-
+sourcen aufgewendet. Auch in den Jahren danach war eine intensive Regelwerksar-
+beit nötig, um die sehr dynamische Weiterentwicklung von RDA aktiv zu begleiten.24
+Während RDA anfangs inhaltlich noch sehr nah an AACR2 war, entwickelte es sich
+kontinuierlich weiter zu einem modernen und stärker internationalen Regelwerk,
+wobei auch Impulse aus der deutschsprachigen Anwendergemeinschaft aufgenom-
+men wurden. Überraschend wurde jedoch schon Ende 2016 eine Komplettüberarbei-
+tung angekündigt.
+
+3.6 RDA, FRBR und LRM
+
+Die wichtigste theoretische Grundlage für RDA bildete das Modell der erstmals 1997 von
+der IFLA veröffentlichten Functional Requirements for Bibliographic Records (FRBR).25
+
+ Für eine ausführliche Darstellung vgl. Joudrey, Taylor u. Miller 2015: S. 42–45, 130–133, 139–151.
+ Über das RDA-Projekt wurde u. a. regelmäßig in der Zeitschrift „Dialog mit Bibliotheken“ berichtet,
+z. B. Behrens und Frodl 2013; Behrens 2015.
+ Vgl. Wiesenmüller 2017.
+ IFLA Study Group on the Functional Requirements for Bibliographic Records 2009, vgl. Joudrey,
+Taylor u. Miller 2015: S. 61–101.
+
+
+
+6.1 Praxis und Standards in der Formalerschließung 495
+
+In Form eines Entitäten-Beziehungsmodells werden darin die für die Nutzer:innen rele-
+vanten Entitäten mit ihren Merkmalen und möglichen Beziehungen definiert.
+
+Von besonderer Bedeutung ist die Unterscheidung in Werk, Expression, Manifes-
+tation und Exemplar (Gruppe 1). Ein Werk ist dabei ganz abstrakt gedacht; es wird
+durch eine oder mehrere Expressionen realisiert. So sind die Textfassung und die
+Hörbuchfassung eines Romans zwei Expressionen desselben Werks. Übersetzt man
+den Roman, entsteht eine weitere Expression. Eine Verfilmung wäre hingegen keine
+weitere Expression, sondern ein neues, eigenständiges Werk mit einer Beziehung
+zum ursprünglichen Werk. Manifestationen sind physische Verkörperungen einer Ex-
+pression (z. B. Ausgaben in verschiedenen Verlagen) und ein Exemplar ist ein Einzel-
+stück einer Manifestation. Die Entitäten der Gruppe 2 – Personen, Familien und
+Körperschaften – stehen mit den Entitäten der Gruppe 1 in Beziehung, z. B. als geistige
+Schöpfer:innen eines Werks (z. B. Verfasser:in) oder Mitwirkende an einer Expression
+(z. B. Übersetzer:in).
+
+RDA übernahm das FRBR-Modell und orientierte sich auch in seinem Aufbau
+genau daran. Im ersten Teil von RDA ging es um die verschiedenen Entitäten und ihre
+Merkmale. Im zweiten Teil wurden die möglichen Beziehungen zwischen den Entitä-
+ten dargestellt.
+
+Da sich FRBR nur auf Titeldaten bezieht, wurde es durch zwei weitere Modelle
+für den Normdatenbereich ergänzt,26 was allerdings zu einigen Widersprüchlichkei-
+ten führte. Deshalb wurde FRBR 2017 von einem neuen, umfassenden Modell abgelöst,
+dem IFLA Library Reference Model (LRM).27 Das LRM bringt eine merklich veränderte
+Entitätenstruktur mit sich. Positiv ist die Einführung eigener Entitäten für Geografika
+und Zeiträume. Ein weiterer Unterschied ist, dass fiktive Personen nicht mehr unter
+die Entität Person fallen, sondern nur noch unter eine übergreifende Top-Level-
+Entität Res. Viele Modellierungen und Konzepte des LRM sind relativ kompliziert und
+schwer verständlich, z. B. die neue Entität Nomen.28
+
+Konsequenterweise musste RDA an die veränderte theoretische Basis angepasst
+werden; zugleich sollten weitere Ziele wie eine bessere Eignung für Linked Data und
+maschinelle Verfahren erreicht werden. Im 3R-Projekt (RDA Toolkit Restructure and Re-
+design Project) wurde RDA seit 2016 drastisch umgestaltet. Die neue Version wurde
+nicht mehr als linearer Text, sondern in lexikonartiger Form (Data dictionary) in einer
+sehr abstrakten Sprache und ohne Nummerierungssystem auf einer neu entwickelten
+Online-Plattform publiziert, welche seit Ende 2020 als Official RDA Toolkit bezeichnet
+
+ Functional Requirements for Authority Data (FRAD) von 2009 und Functional Requirements for
+Subject Authority Data (FRSAD) von 2011.
+ Riva, Le Boeuf u. Žumer 2017, vgl. Wiesenmüller u. Horny 2017: S. 22 f.
+ In FRBR galten Namen als Merkmale anderer Entitäten (z. B. war der Name einer Person ein Merk-
+mal dieser Person), das LRM besitzt eine eigene Entität dafür. Ein Nomen bestimmt sich einerseits
+durch das, was es bezeichnet, und andererseits durch die Zeichenfolge (also den eigentlichen Namen).
+
+
+
+496 Heidrun Wiesenmüller
+
+wird.29 Auch inhaltlich hat sich RDA an vielen Stellen verändert, insbesondere durch
+die Übernahme von theoretischen Konzepten aus dem LRM – dennoch bleiben die kon-
+kreten Ergebnisse beim Katalogisieren weitgehend unverändert. Die neue Fassung gibt
+den Anwendergemeinschaften außerdem weitaus mehr Freiheiten als früher, da nun-
+mehr sämtliche Regelungen als optional gelten. Dadurch wird allerdings der internatio-
+nale Datenaustausch potenziell wieder erschwert.
+
+3.7 STA-Dokumentationsplattform und RDA DACH
+
+Nachdem eine Evaluation ergeben hatte, dass das Official RDA Toolkit als Werkzeug für
+die praktische Katalogisierung nicht gut geeignet ist, wurde für den deutschsprachigen
+Raum ein eigenes Erschließungshandbuch unter dem Namen RDA DACH entwickelt. Es
+ist Teil einer neuen, integrierten Dokumentationsplattform des STA, die alle Regelungen
+und Materialien aus dem gesamten Erschließungsbereich bündeln und in einheitlicher
+Form zugänglich machen soll.30 Dies bezieht sich nicht nur auf die RDA-Regeln für biblio-
+thekstypische Materialien und die GND-Regeln, sondern umfasst auch die Erschließung
+von Sondermaterialien (z. B. Künstlerbücher, Nachlässe, Exlibris) sowie die Sacherschlie-
+ßung und die Formate. Die datenbankbasierte Dokumentationsplattform nutzt eine aus
+dem Linked-Data-Bereich stammende Wiki-Software (Wikibase).
+
+Die 2023 veröffentlichte erste Version von RDA DACH führt die Regelungen des
+Original RDA Toolkit und die deutschsprachigen Anwendungsrichtlinien in Form von
+praxisnahen Texten und mit vielen Beispielen zusammen. Wo möglich, wird die aktu-
+elle Terminologie verwendet. Neue theoretische Konzepte wurden zunächst nur dort
+übernommen, wo sie einen unmittelbar erkennbaren Mehrwert bieten und problem-
+los zu implementieren waren.
+
+RDA DACH gliedert sich in drei Teile: Im Teil „Allgemeines“ finden sich allgemeingül-
+tige Regelungen, z. B. zu Informationsquellen oder Erfassungsmethoden. Im „Elemente“-
+Teil werden alle üblicherweise benötigten Elemente nach einem festen Schema darge-
+stellt. Hier finden sich auch spezifische Regelungen z. B. für fortlaufende Ressourcen, kar-
+tografische Ressourcen oder Alte Drucke. Einen weiteren Zugang eröffnet der Teil
+„Ressourcentypen“. Dieser enthält workflowartige Dokumente und präsentiert die jeweils
+relevanten Regeln, z. B. für Hochschulschriften, mehrteilige Monografien, E-Books, Musik-
+ressourcen oder religiöse Werke. Darüber hinaus gibt es verschiedene Anwendungspro-
+file, an denen beispielsweise abzulesen ist, welche Elemente für einen bestimmten
+Ressourcentyp verpflichtend oder empfohlen sind.
+
+ RDA Steering Committee 2023. Zum 3R-Projekt finden sich zahlreiche Materialien und Präsentatio-
+nen auf der Website des RDA Steering Committee: https://www.rdatoolkit.org/rsc (15.06.2024).
+ STA 2023.
+
+
+
+6.1 Praxis und Standards in der Formalerschließung 497
+
+4 Aktueller Stand und Ausblick
+Die Entwicklung bei den Standards in der Formalerschließung war im vergangenen
+Jahrzehnt einerseits durch eine enge Kooperation der deutschsprachigen Länder ge-
+prägt, andererseits durch die Anbindung an internationale Entwicklungen im Zuge
+des RDA-Umstiegs. Neben dem Austausch mit der angloamerikanischen Welt gehörte
+dazu auch eine intensivere Zusammenarbeit auf europäischer Ebene im Rahmen der
+European RDA Interest Group (EURIG).
+
+Die Einführung von RDA im D-A-CH-Raum hat gewiss nicht alle Erwartungen er-
+füllen können und war mit deutlich mehr Aufwand verbunden als ursprünglich ver-
+mutet – zumal mit der Erarbeitung von RDA DACH ein weiteres Großprojekt nur kurz
+nach dem Umstieg zu stemmen war. Im Ergebnis hat die Formalerschließung jedoch
+gewaltige Fortschritte gemacht. So hat die gemeinsame Erarbeitung der deutschspra-
+chigen RDA-Anwendungsrichtlinien an vielen Stellen zu einer Vereinheitlichung der
+Katalogisierungspraxis geführt, während zuvor selbst zwischen den deutschen Ver-
+bünden erhebliche Unterschiede existierten. Auch ist heute eine einheitliche Behand-
+lung von gedruckten und elektronischen Ressourcen ganz selbstverständlich geworden.
+Inzwischen wurden auch die Regelungen für Sondermaterialien verstärkt an RDA
+angepasst.31
+
+Ein weiterer Entwicklungsschritt wurde in jüngster Vergangenheit erreicht: Sowohl
+im Vergleich mit dem ursprünglichen als auch dem aktuellen RDA Toolkit ist das neue
+RDA DACH ein deutlich komfortableres und praxistauglicheres Werkzeug. Mit der Ent-
+wicklung der neuen integrierten Dokumentationsplattform vereinfacht sich außerdem
+die Nutzung der verschiedenen Standards und zuvor zahlreichen verstreuten Doku-
+mente erheblich. Abzuwarten bleibt allerdings, ob zumindest mittelfristig auch die in
+den verschiedenen Bibliotheksverbünden und an einzelnen Institutionen gepflegten Do-
+kumentationen vollständig abgelöst werden können. Diese sind typischerweise eng mit
+dem jeweiligen internen Format sowie verbundspezifischen Workflows und Praktiken
+verwoben.
+
+In jedem Fall wird die weitere Optimierung und Pflege von RDA DACH unter
+Berücksichtigung der internationalen Entwicklung eine wichtige Aufgabe der nächsten
+Jahre sein. Zu begrüßen wäre es außerdem, wenn die in der Bibliothekswelt entwickel-
+ten Standards in Zukunft verstärkt auch von anderen Anwendergemeinschaften (z. B.
+Museen, Archive) genutzt und weiterentwickelt werden würden.
+
+ Ein Beispiel bietet die Ablösung der früheren Regeln zur Erschließung von Nachlässen und Auto-
+graphen (RNA) durch die an RDA angepasste Ressourcenerschließung mit Normdaten in Archiven
+und Bibliotheken (RNAB), die 2022 verabschiedet wurde.
+
+
+
+498 Heidrun Wiesenmüller
+
+Literatur
+Arbeitsgemeinschaft der Verbundsysteme: Vereinbarungen der Arbeitsgruppe Kooperative
+
+Verbundanwendungen zum Datentausch in MARC 21. Überarbeitete Online-Ausgabe. Frankfurt a. M.:
+AGKVA 2021. https://www.agkva.org/888242273.html (10.09.2023).
+
+Arbeitsgemeinschaft der Verbundsysteme: Metadaten für E-Books: Anforderungen der deutschsprachigen
+Verbundsysteme und der Deutschen Nationalbibliothek an Metadatenlieferungen zu E-Books und
+E-Book-Paketen. Überarbeitete Online-Ausgabe. Frankfurt a. M.: AGKVA 2023. https://www.agkva.
+org/888668211.html (10.09.2023).
+
+Arbeitsstelle für Standardisierung (2007): Regeln für die alphabetische Katalogisierung in
+wissenschaftlichen Bibliotheken (RAK-WB). 2. Aufl. Stand: April 2006. Leipzig, Frankfurt am Main,
+Berlin: Deutsche Nationalbibliothek 2006. https://nbn-resolving.org/urn:nbn:de:101-2007072711.
+
+Behrens, Renate: RDA auf der Zielgeraden – Vorbereitungen für den Umstieg. In: Dialog mit Bibliotheken
+27 (2015), H. 1, S. 6–12. https://nbn-resolving.org/urn:nbn:de:101-20161103178.
+
+Behrens, Renate u. Christine Frodl: Kooperative Implementierung der RDA in Deutschland, Österreich und
+der deutschsprachigen Schweiz. In: Dialog mit Bibliotheken 25 (2013), H. 2, S. 16–21. https://nbn-
+resolving.org/urn:nbn:de:101-20161103148.
+
+Gantert, Klaus u. Margrit Lauber-Reymann: Informationsressourcen: Ein Handbuch für Bibliothekare und
+Informationsspezialisten. 3. Aufl. Berlin: De Gruyter Saur 2023 (Bibliotheks- und Informationspraxis:
+72). https://doi.org/10.1515/9783110673272.
+
+IFLA ISBD Review Group: ISBD International Standard Bibliographic Description: 2021 Update to the 2011
+Consolidated Edition. Den Haag: IFLA 2022. https://repository.ifla.org/handle/123456789/1939
+(13.06.2023).
+
+IFLA Study Group on the Functional Requirements for Bibliographic Records: Functional Requirements for
+Bibliographic Records: Final Report (as amended and corrected through February 2009). 2009.
+https://repository.ifla.org/handle/123456789/811 (13.06.2023).
+
+Joint Steering Committee for Revision of AACR; American Library Association; Canadian Library
+Association; CILIP: Anglo-American Cataloguing Rules. 2nd ed., 2002 revision, 2005 update. Chicago:
+ALA 2005.
+
+Joudrey, Daniel N., Arlene G. Taylor u. David P. Miller: Introduction to cataloging and classification. 11th
+ed. Santa Barbara, Denver: Libraries Unlimited 2015.
+
+Library of Congress, Network Development and MARC Standards Office: MARC standards. 2022.
+https://www.loc.gov/marc/ (13.06.2023).
+
+RDA Steering Committee: RDA Toolkit. 2023. https://access.rdatoolkit.org/ (13.06.2023).
+Riva, Pat, Patrick Le Boeuf u. Maja Žumer: IFLA Library Reference Model: A Conceptual Model for
+
+Bibliographic Information (as amended and corrected through December 2017). Den Haag: IFLA
+2017. https://repository.ifla.org/handle/123456789/40 (13.06.2023).
+
+STA: Dokumentationsplattform des Standardisierungsausschusses. 2023. https://sta.dnb.de/doc
+(13.06.2023).
+
+Wiesenmüller, Heidrun: Baustelle RDA – die Dynamik des Regelwerks als Herausforderung. In: o-bib 4
+(2017), H. 4, S. 176–188. https://doi.org/10.5282/o-bib/2017H4S176-188.
+
+Wiesenmüller, Heidrun: Formale Erschließung. In: Grundlagen der Informationswissenschaft. Hg. von
+Rainer Kuhlen, Dirk Lewandowski, Wolfgang Semar und Christa Womser-Hacker. 7. Ausg. Berlin,
+Boston: De Gruyter 2023. S. 207–218. https://doi.org/10.1515/9783110769043-018.
+
+Wiesenmüller, Heidrun u. Silke Horny: Basiswissen RDA: Eine Einführung für deutschsprachige Anwender.
+2. Aufl. Berlin, Boston: De Gruyter Saur 2017 (De Gruyter Saur Studium). https://doi.org/10.1515/
+9783110544725.
+
+Zeng, Marcia Lei u. Jian Qin: Metadata. 3rd ed. Chicago: ALA Neil Schuman 2022.

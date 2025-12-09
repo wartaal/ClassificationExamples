@@ -1,0 +1,707 @@
+﻿Judith Ludwig
+10.2 Urheberrecht
+
+1 Einleitung
+Die Digitalisierung hat eine Dynamik in Gang gesetzt, die einen enormen Einfluss auf
+die Gesellschaft und die Wirtschaft genommen hat. Auch Bibliotheken sind von dieser
+Entwicklung betroffen und müssen sich diesen neuen Gegebenheiten stellen. Insbe-
+sondere das Urheberrecht spielt in diesem Zusammenhang eine wichtige Rolle, da es
+die Nutzung und Verbreitung von digitalen und analogen Werken regelt. Dieser recht-
+liche Rahmen ist von maßgebender Bedeutung für das Management von Bibliotheken
+und wird nachfolgend zusammenfassend dargestellt. Für die Nutzung von Werken ist
+eine konkrete rechtliche Prüfung im Einzelfall unumgänglich.
+
+2 Allgemeines
+Der Gesetzgeber hat im Jahr 1962 das „Gesetz über Urheberrecht und verwandte
+Schutzrechte (Urheberrechtsgesetz)“ erlassen. Aufgabe des Urheberrechts ist es, die
+Schöpferin oder den Schöpfer eines Werkes der Literatur, der Musik oder der bilden-
+den Künste (Urheber:in) gegen eine unbefugte wirtschaftliche Auswertung der schöp-
+ferischen Leistung und gegen Verletzungen der ideellen Interessen am Werk zu
+schützen.1 Deshalb umfasst Urheberrecht eine Summe einzelner Regelungen, die teils
+den Schutz der geistigen und persönlichen Beziehungen der Schöpfenden zu ihrem
+Werk (Urheberpersönlichkeitsrecht) regelt, teils dem Schutz der Vermögensinteressen
+der Schöpfenden dient (Verwertungsrechte), teilweise aber auch Erlaubnisse schafft,
+die die Nutzung urheberrechtlich geschützter Werke zum Allgemeinwohl (Schranken)
+ermöglicht. Darüber hinaus werden die Leistungen geschützt, die der schöpferischen
+Leistung des Urhebers ähnlich sind oder in Zusammenhang mit den Werken der Ur-
+heber:innen erbracht werden (Leistungsschutzrechte).
+
+2.1 Nationaler Anwendungsbereich des Urheberrechts
+
+Jedes Land hat seine eigenen Regelungen zum Urheberrecht, das deutsche Urheber-
+rechtsgesetz (UrhG) gilt somit nur in Deutschland. Um dennoch international für
+Rechtssicherheit sorgen zu können, einigte man sich international auf das sogenannte
+
+ Deutscher Bundestag 1962: S. 27.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-045
+
+
+
+786 Judith Ludwig
+
+Schutzlandprinzip. Das Schutzlandprinzip ist ein international anerkannter Rechts-
+grundsatz, der besagt, dass bei Geltendmachung von Ansprüchen für Rechtsverletzun-
+gen, die sich nicht aus Verträgen ergeben, das Recht des Landes Anwendung findet,
+für dessen Gebiet der Schutz geltend gemacht wird.2 Findet also in Deutschland eine
+urheberrechtlich erlaubte Nutzungshandlung eines ausländischen Werkes statt, kön-
+nen ausländische Rechteinhaber:innen grundsätzlich nur gemessen an deutschem Ur-
+heberrecht gegen diese Nutzungshandlung vorgehen. Zu beachten ist jedoch, dass
+manche urheberrechtlich relevanten Nutzungen durch bilaterale Vereinbarungen
+(z. B. Lizenzverträge) gesondert geregelt werden können, sodass das Schutzlandprin-
+zip nicht zwingend zur Anwendung kommt.
+
+2.2 Werksbegriff
+
+Schutzfähig sind nur persönliche geistige Schöpfungen (§ 2 Abs. 2 UrhG). Für den Biblio-
+theksalltag relevant sind insbesondere folgende geschützte Werke: Sprachwerke, Schrift-
+werke, Reden, Computerprogramme, Werke der Musik, Lichtbildwerke, Filmwerke und
+Darstellungen wissenschaftlicher oder technischer Art, wie Zeichnungen, Pläne, Karten,
+Skizzen, Tabellen und plastische Darstellungen. Die Frage nach der Schutzfähigkeit eines
+Werkes hängt jedoch stark vom Einzelfall ab und kann nicht pauschal beantwortet wer-
+den. In der Regel genügt es, dass eine geistige Leistung erbracht wurde, die sich in einer
+konkreten Schöpfung manifestiert hat, die gewisse individuelle Züge aufweist.3 Durch
+Maschinen oder künstliche Intelligenz geschaffene Werke sind demnach nicht schutz-
+fähig. Auch genießen bloße Fakten oder Ideen keinen urheberrechtlichen Schutz. For-
+schungsdaten oder ähnliche Ansammlungen können aber urheberrechtlich geschützt
+sein, wenn sie strukturiert in einem Sammelwerk (§ 4 Abs. 1 UrhG) oder einem Daten-
+bankwerk (§ 4 Abs. 2 UrhG) zusammengefasst sind oder so intellektuell bearbeitet wur-
+den, dass sie eigenständige Werke darstellen.
+
+2.3 Urheberpersönlichkeitsrecht
+
+Die relevantesten Rechte von Schöpfenden im Rahmen des Urheberpersönlichkeits-
+rechts sind das Erstveröffentlichungsrecht (§ 12 UrhG), das Recht auf Anerkennung
+der Urheberschaft (§ 13 UrhG) und das Recht auf den Schutz der Werkintegrität
+(§ 14 UrhG). Demnach dürfen Schöpfende über die Art und den Zeitpunkt der Veröffentli-
+chung entscheiden, müssen stets als Schöpfende im Zusammenhang mit ihrem Werk
+
+ Brehm 2022: S. 93 m. w. N.
+ Kreutzer 2021: S. 30.
+
+
+
+10.2 Urheberrecht 787
+
+angegeben werden und dürfen Entstellungen oder andere Beeinträchtigungen des
+Werkes, die ihre berechtigten geistigen oder persönlichen Interessen gefährden könn-
+ten, verbieten.
+
+2.4 Verwertungsrechte
+
+Die Rechte, die ausschließlich den Urheber:innen zustehen, sog. Verwertungsrechte,
+sind im Urheberrechtsgesetz in den §§ 15 ff. UrhG geregelt. Urheber:innen haben dem-
+nach das ausschließliche Recht, ihr Werk zu verwerten; das Recht umfasst insbeson-
+dere das Vervielfältigungsrecht (§ 16 UrhG), das Verbreitungsrecht (§ 17 UrhG) und
+das Ausstellungsrecht (§ 18 UrhG). Ferner haben Urheber:innen das ausschließliche
+Recht, ihre Werke in unkörperlicher Form öffentlich wiederzugeben (Recht der öf-
+fentlichen Wiedergabe). Das Recht der öffentlichen Wiedergabe umfasst insbesondere
+das Vortrags-, Aufführungs- und Vorführungsrecht (§ 19 UrhG), das Recht der öffentli-
+chen Zugänglichmachung (§ 19a UrhG), das Senderecht (§ 20 UrhG), das Recht der
+Wiedergabe durch Bild- oder Tonträger (§ 21 UrhG), das Recht der Wiedergabe von
+Funksendungen und von öffentlicher Zugänglichmachung (§ 22 UrhG). Verwertungs-
+rechte können auf Dritte übertragen werden, beispielsweise durch eine Lizenzverein-
+barung. Das Urheberrecht selbst kann nicht übertragen werden (§ 29 UrhG). Es
+verbleibt immer bei den Schöpfenden. Die wesentlichen Nutzungsmöglichkeiten für
+Bibliotheken werden nachfolgend zusammenfassend dargestellt (s. Abb.1):
+– Recht zur Vervielfältigung (§ 16 UrhG)
+
+Das Vervielfältigungsrecht ist das Recht, Vervielfältigungsstücke des Werkes herzu-
+stellen, gleichviel ob vorübergehend oder dauerhaft, in welchem Verfahren und in
+welcher Zahl. In der bibliothekarischen Praxis können dies zum Beispiel Kopien auf
+Papier sein, oder auch alle Formen der Speicherung auf digitalen Speichermedien.
+
+– Recht zur Verbreitung (§ 17 UrhG)
+Das Verbreitungsrecht ist das Recht, das Original oder Vervielfältigungsstücke des
+Werkes der Öffentlichkeit anzubieten oder in den Verkehr zu bringen. Unter die-
+ses Verwertungsrecht fällt nur die Verbreitung körperlicher Werkstücke. Digitale
+Werkstücke sind somit nicht vom Recht zur Verbreitung umfasst.4 Vom Verbrei-
+tungsrecht umfasst ist in der bibliothekarischen Praxis zum Beispiel die Ausleihe
+oder der Kopiendirektversand.
+
+– Recht der öffentlichen Zugänglichmachung (§ 19a UrhG)
+Das Recht der öffentlichen Zugänglichmachung ist das Recht, das Werk drahtgebun-
+den oder drahtlos der Öffentlichkeit in einer Weise zugänglich zu machen, dass es
+Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich ist.
+Dabei ist die Wiedergabe öffentlich, wenn sie für eine Mehrzahl von Mitgliedern der
+
+ Wandtke 2022: § 17 Rn 13.
+
+
+
+788 Judith Ludwig
+
+Öffentlichkeit bestimmt ist. Zur Öffentlichkeit gehört jeder, der nicht mit demjeni-
+gen, der das Werk verwertet, oder mit den anderen Personen, denen das Werk in
+unkörperlicher Form wahrnehmbar oder zugänglich gemacht wird, durch persön-
+liche Beziehungen verbunden ist (§ 15 Abs. 3 UrhG). Die Verwertungshandlung in
+der bibliothekarischen Praxis ist u.a. das Veröffentlichen auf allgemein zugängli-
+chen Webseiten oder auch das Aufstellen von Terminalarbeitsplätzen (s. hierzu Ab-
+schnitt 3.1.4 „Terminalarbeitsplätze“ in diesem Kapitel).“
+
+Abb. 1: Übersicht: urheberrechtliche Nutzungsmöglichkeiten in Bibliotheken.
+
+2.5 Urheberrechtliche Nutzungsmöglichkeiten
+
+Bei der Nutzung von urheberrechtlich geschützten Werken muss immer sichergestellt
+sein, dass die konkrete Art der Nutzung erlaubt ist. Diese Erlaubnisse ergeben sich aus
+vertraglichen oder gesetzlichen Regelungen. Unter vertraglichen Regelungen sind im
+Bibliothekskontext die klassischen Lizenzverträge zu verstehen, die die einzelnen Nut-
+zungen konkret regeln. Bei der Beschaffung von digitalen Ressourcen sind Lizenzver-
+träge abzuschließen, denn anders als bei der Erwerbung von analogen Werken müssen
+erst die einzelnen Nutzungsmöglichkeiten verhandelt werden, bevor der Zugriff auf die
+gewünschten Inhalte ermöglicht wird (s. hierzu Kapitel 4.3 „Lizenzierung elektronischer
+
+
+
+10.2 Urheberrecht 789
+
+Medien“). Gesetzliche Regelungen sind die im Urheberrecht festgeschriebenen Erlaub-
+nisse. In den §§ 60aff UrhG sind umfassende Erlaubnisse für die sogenannte Wissensge-
+sellschaft zu finden; für Bibliotheken sind die Erlaubnisse im Konkreten in § 60e UrhG
+geregelt (s. hierzu Abschnitt 3.1 „Bibliotheken“ in diesem Kapitel).
+
+Eine Nutzung ohne Zustimmung ist jedoch möglich, wenn die sogenannten Schutz-
+fristen abgelaufen sind. Sobald diese abgelaufen sind, werden die Werke gemeinfrei
+und können von der Allgemeinheit uneingeschränkt genutzt werden. Die für Bibliothe-
+ken wohl relevanteste Regelung besagt, dass das Urheberrecht in Deutschland 70 Jahre
+nach dem Tod der Schöpfenden erlischt (§ 64 UrhG). Die Gemeinfreiheit beginnt am 1.1.
+des Folgejahres nach dem fristauslösenden Ereignis (§ 69 UrhG). Ein Werk wird also am
+1.1.2024 gemeinfrei, wenn die schöpfende Person des Werkes im Jahr 1953 gestorben ist.
+
+2.6 Verwandte Schutzrechte
+
+Darüber hinaus hat der Gesetzgeber bestimmte Leistungen rechtlich privilegiert
+(§§ 70 ff UrhG), die nicht an die persönliche geistige Schöpfung anknüpfen, sondern
+an deren Verkörperung. Hierbei kann es sich zum Beispiel um persönliche Leistungen
+handeln, wie z. B um die klassische wissenschaftliche Editionsarbeit durch die Verfas-
+ser:innen wissenschaftlicher Ausgaben (§ 70 UrhG). Zum anderen werden aber auch
+die wirtschaftlichen, organisatorischen oder technischen Leistungen durch verwandte
+Schutzrechte (Leistungsschutzrechte) geschützt. Beispiele sind der Schutz wesentli-
+cher Investitionen durch das Datenbankherstellerrecht (§§ 87a ff UrhG) und wirt-
+schaftlicher bzw. organisatorischer Leistungen von Presseverleger:innen (§§ 87 f ff
+UrhG). Bei der Feststellung der Gemeinfreiheit können diese verwandten Schutz-
+rechte auch eine Rolle spielen. Meistens enden diese Schutzfristen aber vor Schutz-
+fristen der Schöpfenden. So enden z. B. Leistungsschutzrechte an wissenschaftlichen
+Ausgaben und nachgelassenen Werke bereits 25 Jahre nach Erscheinen bzw. der Ver-
+öffentlichung. Vervielfältigungen gemeinfreier visueller Werke werden nicht durch
+verwandte Schutzrechte geschützt (§ 68 UrhG).
+
+3 Urheberrechtliche Erlaubnisse („Schranken“)
+Urheberrechtliche Erlaubnisse oder Schranken sind Ausnahmen und Beschränkungen
+des Urheberrechts, die die Nutzung von geschützten Werken ohne Zustimmung der
+Rechteinhaber:innen gestatten. Diese gesetzlichen Einschränkungen des Urheber-
+rechts dienen dazu, das Gleichgewicht zwischen den Interessen der Schöpfenden und
+der Nutzenden zu wahren. So ist aufseiten der Rechteinhaber:innen insbesondere das
+Recht auf Eigentum aus Art. 14 Abs. 1 Satz 1 Grundgesetz für die Bundesrepublik
+Deutschland (GG) zu berücksichtigen, welches auch die Immaterialgüterrechte in
+
+
+
+790 Judith Ludwig
+
+Form des Schutzes von Werken und verwandten Schutzrechten in ihren vermögens-
+bezogenen Aspekten einschließt.5 Gleichzeitig müssen aber auch die Interessen des
+Gemeinwohls und andere Rechte von Verfassungsrang berücksichtigt werden.6 Auf-
+seiten der Nutzenden ist insbesondere das Grundrecht der Freiheit von Forschung
+und Lehre aus Art. 5 Abs. 3 Satz 1 GG zu berücksichtigen. Aber auch das gewichtige
+Interesse des Gemeinwohls auf gute und umfassende Bildung muss sichergestellt wer-
+den. Gerade die Befugnisse für Bibliotheken, Museen und Archive beruhen dabei auf
+dem Interesse der Allgemeinheit an der Erhaltung und Verfügbarmachung des kultu-
+rellen Erbes.7 Sie ermöglichen es beispielsweise Bibliotheken, bestimmte Werke zu di-
+gitalisieren und online zur Verfügung zu stellen, um den Zugang zu Bildung und
+Wissen zu erleichtern. Allerdings sind diese Schranken in der Regel eng begrenzt
+und müssen im Einzelfall geprüft werden, um sicherzustellen, dass durch die Nutzung
+keine Urheberrechtsverletzung vorliegt. Nachfolgend werden die für Bibliotheken re-
+levantesten urheberrechtlichen Erlaubnisse zusammenfassend dargestellt:
+
+3.1 Bibliotheken (§ 60e UrhG)
+
+Für Bibliotheken besteht im UrhG ein eigener umfangreicher Erlaubniskatalog, der die
+gesetzliche Grundlage für wesentliche Aufgaben der Bibliotheken schafft. Dabei umfasst
+der Begriff „Bibliotheken“ öffentlich zugängliche Bibliotheken, die keine unmittelbaren
+oder mittelbaren kommerziellen Zwecke verfolgen. Soweit eine Bibliothek nicht unter
+die Definition des § 60e Abs. 1 fällt, weil sie als Unternehmensbibliothek kommerziellen
+Zwecken dient oder nicht öffentlich zugänglich ist, kann sie sich immer noch auf § 53
+UrhG berufen.8 Im § 60e UrhG werden – mit Ausnahme der Ausleihe – die erlaubten
+Nutzungen geschützter Werke durch öffentlich zugängliche Bibliotheken geregelt. Diese
+erlaubten Nutzungshandlungen sind Vervielfältigungen, erlaubte Verbreitungen, die
+Zugänglichmachung an Terminals und der Kopienversand auf Bestellung. Dabei ist her-
+vorzuheben, dass die Erlaubnisse sowohl digitale als auch analoge Werke umfassen,
+nicht jedoch Inhalte von Datenbanken.
+
+Die Erlaubnisse des § 60e UrhG fallen in den Anwendungsbereich des § 60g UrhG.
+Demnach sind die Regelungen für Werke, die nach dem 01.03.2018 lizenziert wurden,
+nicht durch Verträge einschränkbar und somit ohne rechtliche Prüfung im Rahmen der
+Erlaubnisse anwendbar. Rechteinhaber:innen können sich also nicht auf Vereinbarun-
+gen berufen, die eine Nutzung beschränken oder untersagen, die über § 60e gestattet ist
+(s. § 60g UrhG). Dieser Grundsatz gilt jedoch nicht für Regelungen zum Kopiendirekt-
+versand und Terminalarbeitsplätze. Sollten Verträge bestehen, die ausschließlich den
+
+ BVerfGE 31, 229, 238 f.
+ Deutscher Bundestag 2017: S. 26, m. w. N.
+ Deutscher Bundestag 2017: S. 26.
+ Talke 2021: S. 65.
+
+
+
+10.2 Urheberrecht 791
+
+Kopiendirektversand oder die Terminalnutzung regeln, haben diese Verträge Vorrang
+vor den gesetzlichen Erlaubnissen. Im Rahmen des Kopienversands auf Bestellung stel-
+len etwa die Verträge von subito e. V., dem gemeinsamen Dokumentlieferdienst der
+deutschen wissenschaftlichen Bibliotheken,9 ein Beispiel für solche Vereinbarungen
+dar. Als weitere Einschränkung dieses Grundsatzes ist die Unterscheidung zwischen
+Alt- und Neuverträgen zu nennen. Bei der Nutzung von Inhalten aus Lizenzverträgen,
+die vor dem 01.03.2018 geschlossen wurden, gelten die rechtlichen Erlaubnisse nicht
+uneingeschränkt (§ 137o UrhG).10 Bei der Nutzung lizenzierter Werke sollte daher da-
+rauf geachtet werden, dass der Zugang zu den lizenzierten Werken nicht auf einem
+vor dem 01.03.2018 abgeschlossenen Lizenzvertrag beruht, der die jeweilige Nutzung
+explizit verbietet oder dessen Bedingungen als Verbot auszulegen sind.11 Die einzelnen
+Erlaubnisse werden nachfolgend im Einzelnen dargestellt.
+
+3.1.1 Vervielfältigungen (§ 60e Abs. 1 UrhG)
+
+Öffentlich zugängliche Bibliotheken dürfen Werke aus ihrem Bestand vervielfältigen,
+wenn es für die Zugänglichmachung, Indexierung, Katalogisierung, Erhaltung und
+Restaurierung nötig ist (§ 60e Abs. 1 UrhG).
+
+Dieses Vervielfältigungsrecht ist dahingehend zu verstehen, dass es Bibliotheken
+gestattet ist, dauerhafte oder auch nur vorübergehende Vervielfältigungsstücke von
+Werken aus ihrem Bestand herzustellen, unabhängig von dem Verfahren oder der An-
+zahl der Kopien. Kopien für Zwecke der Erhaltung ermöglichen den Bibliotheken eine
+umfassende Bestandssicherung, wie z. B. bei der Langzeitarchivierung von analogen
+und digitalen Beständen. Die Vervielfältigung zum Zweck der Indexierung wird erlaubt,
+damit Bibliotheken z. B. durchsuchbare pdf-Dateien erstellen dürfen. Wofür diese Ver-
+vielfältigungen nach Abs. 1 sodann eingesetzt werden dürfen, bestimmt sich nach den
+Absätzen 2 bis 5. Ergibt sich hieraus nicht ausdrücklich eine weitergehende Erlaubnis,
+dürfen die Vervielfältigungen ausschließlich bibliotheksintern genutzt werden.12
+
+Diese Art der Vervielfältigung ist vergütungsfrei (§ 60h Abs. 2 Nr. 2 UrhG) (s. hierzu
+Abschnitt 4 „Vergütungen“ in diesem Kapitel).
+
+3.1.2 Verbreiten und Verleihen (§ 60e Abs. 2 UrhG)
+
+Bibliotheken dürfen Vervielfältigungen eines Werkes aus ihrem Bestand an andere Bi-
+bliotheken oder an Archive, Einrichtungen im Bereich des Film- oder Tonerbes für Zwe-
+
+ Nordemann 2018: S. 1342.
+ Talke 2021: S. 97.
+ Zu Text and Data Mining: Brehm 2022: S. 8.
+ Deutscher Bundestag 2017: S. 42.
+
+
+
+792 Judith Ludwig
+
+cke der Restaurierung weitergeben. Das gleiche gilt für öffentlich zugängliche Museen
+und Bildungseinrichtungen, die keine unmittelbaren oder mittelbaren kommerziellen
+Zwecke verfolgen. Weiter dürfen sie restaurierte Werke sowie Vervielfältigungsstücke
+von Zeitungen, vergriffenen oder zerstörten Werken aus ihrem Bestand verleihen. Das
+Verbreiten beinhaltet jedoch nicht das unkörperliche Versenden von Dateien, z. B. per
+E-Mail oder über Download.13 Die Nutzungen sind angemessen zu vergüten und werden
+über die Verwertungsgesellschaften abgerechnet.
+
+3.1.3 Verbreiten für Zwecke der Ausstellung und Dokumentation
+(§ 60e Abs. 3 UrhG)
+
+Das UrhG erlaubt es Bibliotheken in § 60e Abs. 3 UrhG gewisse körperliche Vervielfälti-
+gungen zu verbreiten, sofern dies in Zusammenhang mit deren öffentlicher Ausstellung
+oder zur Dokumentation des Bestandes der Bibliothek erfolgt. Die Nutzungen sind ange-
+messen zu vergüten und werden über die Verwertungsgesellschaften abgerechnet.
+
+3.1.4 Terminalarbeitsplätze (§ 60e Abs. 4 UrhG)
+
+Bibliotheken dürfen an speziellen Geräten, den sog. Terminalarbeitsplätzen, in ihren
+Räumen ein Werk aus ihrem Bestand ihren Nutzenden für deren Forschung oder private
+Studien zugänglich machen. Das zugänglich gemachte Werk muss sich hierbei im Be-
+stand der Bibliothek befinden und kann für die Nutzung digitalisiert werden. Dabei ist
+die Zugänglichmachung an den Terminalarbeitsplätzen nicht auf die Anzahl der im Be-
+stand befindlichen Exemplare begrenzt. Auch gibt es keine Spezifizierung hinsichtlich
+der technischen Ausgestaltung. Es können daher insbesondere auch mobile Geräte wie
+Tablets oder andere Handheld-Geräte eingesetzt werden.14 Die Terminals dürfen keiner
+anderen Funktion dienen als der Zugänglichmachung dieser Werke, also etwa nicht auch
+den Zugang zum Internet oder Möglichkeiten zum Bearbeiten von Dokumenten bieten.15
+Gleichzeitig müssen sich die Terminalarbeitsplätze in den Räumlichkeiten der Bibliothe-
+ken befinden, dies können auch Zweigstellen und Nebengebäude der Bibliothek sein.16
+
+Nach § 60e Abs. 4 S. 2 dürfen Bibliotheken den Nutzenden je Sitzung Vervielfältigun-
+gen an den Terminals von bis zu 10 % eines Werkes sowie von einzelnen Abbildungen,
+Beiträgen aus derselben Fachzeitschrift oder wissenschaftlichen Zeitschrift, sonstigen
+Werken geringen Umfangs und vergriffenen Werken zu nicht kommerziellen Zwecken
+ermöglichen. Nutzende dürfen also eine sogenannte „Anschlusskopie“ erstellen und
+
+ Talke 2021: S. 71.
+ Spindler 2019: § 60e Rn 28.
+ Spindler 2019: § 60e Rn 29.
+ Nordemann 2018: S. 1351.
+
+
+
+10.2 Urheberrecht 793
+
+zwar sowohl in analoger als auch in digitaler Form – jedoch nur zu nicht kommerziellen
+Zwecken und nur bis zu einem Umfang von bis zu 10 % eines Werkes.17 Bibliotheken
+sind verpflichtet, auf die Einhaltung der Nutzungsbeschränkungen hinzuwirken, dies
+sollte durch die entsprechende technische Konfiguration der Terminals sichergestellt
+werden. Die Höhe der Vergütung von Terminal-Nutzungen ist über einen Rahmenver-
+trag mit der VG Wort, der zuständigen Verwertungsgesellschaft, geregelt.
+
+3.1.5 Kopienversand auf Bestellung (§ 60e Abs. 5 UrhG)
+
+Bibliotheken dürfen auf Einzelbestellung zu nicht kommerziellen Zwecken Vervielfälti-
+gungen von bis zu 10 % eines erschienenen Werkes sowie einzelne Beiträge, die in Fach-
+zeitschriften oder wissenschaftlichen Zeitschriften erschienen sind, übermitteln (§ 60e
+Abs. 5 UrhG). Damit ist auch der Versand per E-Mail an einzelne Nutzende möglich. Die
+Nutzenden dürfen die ihnen übermittelte Vervielfältigung jedoch nur zu nicht kommer-
+ziellen Zwecken verwenden, also z. B. im privaten Kontext oder für die nicht kommerzi-
+elle wissenschaftliche Forschung.
+
+Weiterhin muss für die Übermittlung des Werks an die Nutzerin oder den Nutzer
+das Werk erschienen sein. Gemäß § 6 Abs. 2 UrhG ist ein Werk erschienen, wenn mit
+Zustimmung des Schöpfenden Vervielfältigungsstücke des Werks nach ihrer Herstel-
+lung in genügender Anzahl der Öffentlichkeit angeboten oder in Verkehr gebracht
+worden sind. An ein Erscheinen werden höhere Anforderungen gestellt als an eine
+Veröffentlichung. Damit ist ein erschienenes Werk auch immer gleichzeitig veröffent-
+licht, nicht jedes veröffentlichte Werk aber gleichzeitig erschienen.
+
+Die Nutzungen sind angemessen zu vergüten und werden über einen Tarif der
+VG Wort geregelt. Dieser Kopienversand-Tarif der VG Wort geht über die urheber-
+rechtliche Erlaubnis hinaus und regelt auch die angemessene Vergütung für die auf
+Einzelbestellung durch Bibliotheken erfolgende Übermittlung von Vervielfältigungen
+von Artikeln an kommerzielle Nutzende per Post, Fax und in sonstiger elektronischer
+Form. Diese Erweiterung der erlaubten Nutzungen ist der VG Wort auf Grund der
+Wahrnehmungsverträge mit den Schöpfenden möglich, da diese weitergehende Rech-
+teeinräumungen enthalten.
+
+3.2 Digitalisierung und Veröffentlichung verwaister Werke
+(§ 61 UrhG)
+
+Verwaiste Werke sind veröffentlichte Wort-, Film- und Musikwerke (einschließlich
+ihrer Bestandteile), für die auch nach sorgfältiger Suche (§ 61a UrhG) keine Rechtein-
+
+ Deutscher Bundestag 2017: S. 44.
+
+
+
+794 Judith Ludwig
+
+haber:innen ausfindig gemacht werden können. Bleibt die Suche erfolglos, so können
+Bibliotheken diese Werke digitalisieren und öffentlich zugänglich machen, ohne dass
+es einer Zustimmung oder Vergütung bedarf. Die sorgfältige Suche hat in dem Land
+der Erstveröffentlichung zu erfolgen und ist durch Eintrag in ein Register beim Deut-
+schen Patent- und Markenamt (DPMA), welches die Daten an das Harmonisierungs-
+amt für den Binnenmarkt weiterleitet, zu dokumentieren. Danach gelten die Werke in
+allen EU-Staaten als verwaist. Melden sich nach der öffentlichen Zugänglichmachung
+Rechteinhaber:innen, so hat die Einrichtung, die das Werk eingestellt hat, das Werk
+vom Netz zu nehmen und diese ggf. angemessen zu entschädigen.
+
+3.3 Vervielfältigung und Veröffentlichung von nicht verfügbaren
+Werken (§ 61d UrhG)
+
+Bibliotheken dürfen nicht verfügbare Werke aus ihrem Bestand vervielfältigen und der
+Öffentlichkeit auf nicht kommerziellen Internetseiten zugänglich machen. Vorausset-
+zung ist, dass keine Verwertungsgesellschaft besteht, die diese Rechte für die jeweiligen
+Arten von Werken wahrnimmt und insoweit repräsentativ (§ 51b des Verwertungsge-
+sellschaftengesetzes) ist. Dabei hat die Bibliothek während der gesamten Nutzungs-
+dauer im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum
+(EUIPO Portal) über die betreffenden Werke, deren Nutzung und das Recht zum Wider-
+spruch zu informieren. Vor der öffentlichen Zugänglichmachung müssen Rechteinha-
+ber:innen sechs Monate lang die Möglichkeit haben, der Nutzung über das EUIPO
+Portal zu widersprechen. Nicht verfügbare Werke sind Werke, die nicht (mehr) auf üb-
+lichen Vertriebswegen erhältlich sind (§ 52b VGG) oder die ursprünglich nicht für den
+Handel bestimmt sind (bzw. waren) und für die keine konkreten Anhaltspunkte für
+eine spätere kommerzielle oder anderweitige Verfügbarkeit für die Allgemeinheit be-
+stehen. Diese Art der öffentlichen Zugänglichmachung ist mangels Informationen zu
+den Rechteinhaber:innen bzw. repräsentativer Verwertungsgesellschaft vergütungsfrei.
+Rechteinhaber:innen können der Veröffentlichung aber jederzeit widersprechen.
+
+3.4 Ausleihe (§ 17 Abs. 2 UrhG)
+
+Die Ausleihe von physischen Werken ist eine wesentliche Aufgabe von Bibliotheken.
+Gesetzlich wird diese Kernaufgabe durch den sog. Erschöpfungsgrundsatz gesichert
+(§ 17 Abs. 2 UrhG). Demnach erschöpft sich das sog. Verbreitungsrecht im Gebiet der
+Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den
+Europäischen Wirtschaftsraum mit der rechtmäßigen Erstverbreitung des Ausgangs-
+werkes. Werke, die also mit Zustimmung des Berechtigten erstmals in den Verkehr
+gebracht wurden, dürfen weiterverbreitet werden. Demnach darf eine Bibliothek
+jedes physische Exemplar aus ihrem Bestand ohne Einwilligung verleihen. Als Aus-
+
+
+
+10.2 Urheberrecht 795
+
+gleich wird den Urheber:innen eine angemessene Vergütung, die sogenannte „Biblio-
+thekstantieme“, gezahlt (§ 27 Abs. 2 UrhG). Diese Vergütung wird von Bund und Län-
+dern an Verwertungsgesellschaften gezahlt, die das Geld nach einem bestimmten
+Verteilungsschlüssel den Wahrnehmungsberechtigten auszahlen. Mit diesem Kon-
+strukt sichern Bibliotheken das Grundrecht auf Informationsfreiheit, indem sie es der
+Allgemeinheit ermöglichen, sich aus allgemein zugänglichen Quellen ungehindert zu
+unterrichten. Dieses aus Art. 5 Abs. 1 GG abgeleitete Freiheitsrecht auf Meinungsbil-
+dung bildet eine wichtige Grundlage für die freie Meinungsäußerung. In der digitalen
+Welt stößt dieses in der analogen Welt eindeutige Konstrukt jedoch an seine Grenzen.
+Denn beim sogenannten E-Lending wird den registrierten Bibliotheksnutzer:innen
+technisch betrachtet nur eine Kopie des digitalen Werks zum Download zur Ver-
+fügung gestellt. Dabei werden die Einschränkungen der Ausleihe in der analogen
+Welt – einschließlich der Wartezeiten – durch ein entsprechendes Digital Rights Ma-
+nagement (DRM) künstlich nachgebildet. Das Werk wird beim E-Lending somit nicht
+physisch verbreitet, sondern öffentlich wiedergegeben. Der Erschöpfungsgrundsatz
+findet deshalb bisher keine direkte Anwendung auf digitale Medien. Dies hat zur
+Folge, dass die Ausleihe von digitalen Werken derzeit nur auf Basis vertraglicher Re-
+gelungen mit Verlagen und Aggregatoren möglich ist.
+
+3.5 Text und Data Mining (§§ 44b, 60d UrhG)
+
+Bibliotheken können im Rahmen von Text und Data Mining (TDM) verschiedene Rol-
+len spielen: So sind sie eine relevante Anlaufstelle für Forschende, die den Zugang auf
+eine Vielzahl von Werken benötigen, darüber hinaus können sie die Regelungen aber
+auch für die eigenen Auswertungen direkt nutzen, um z. B. ihren eigenen Bestand
+auszuwerten, oder um die ausgelesenen Daten zum Zwecke der wissenschaftlichen
+Forschung zur Überprüfung wissenschaftlicher Erkenntnisse zu speichern. Dabei ist
+in der bibliothekarischen Praxis stets zu empfehlen, dass alle zum TDM gehörenden
+Handlungen in Deutschland durchgeführt werden.
+
+TDM ist die automatisierte Analyse von einzelnen oder mehreren digitalen oder
+digitalisierten Werken, um daraus Informationen insbesondere über Muster, Trends
+und Korrelationen zu gewinnen (§ 44b Abs. 1 UrhG). Dafür dürfen die auszuwerten-
+den Inhalte gespeichert werden.18 Als rechtmäßiger Zugang gilt dabei der Zugang zu
+im Internet frei verfügbaren Inhalten und der Zugang zu vertraglich lizenzierten In-
+halten, etwa durch Abonnements. Aber auch andere rechtmäßige Mittel können
+einen rechtmäßigen Zugang gewähren.19 Wenn Berechtigte somit rechtmäßigen Zu-
+gang zu urheberrechtlich geschützten Inhalten haben, dürfen sie diese mithilfe von
+
+ Deutscher Bundestag 2021: S. 88.
+ Deutscher Bundestag 2021: S. 96.
+
+
+
+796 Judith Ludwig
+
+TDM-Methoden auch automatisiert analysieren („the right to read is the right to
+mine“). Diese Freistellung umfasst neben der Berechtigung zur automatisierten Ana-
+lyse auch das Recht, die Quellen vorher zu speichern, zu normalisieren, anzureichern
+oder sonst zu bearbeiten. Diese rechtmäßigen Zugänge können jedoch unter besonde-
+ren Umständen eingeschränkt werden.
+
+Während im Bereich des Data Mining strukturierte, d. h. tabellarisch vorliegende
+Daten mit algorithmen-basierten Analysemethoden auf Trends, Muster und Zusammen-
+hänge untersucht werden, wird im Bereich des Text Mining unstrukturierter Text – sei
+es etwa in Form von wissenschaftlichen Publikationen, Zeitungsartikeln, E-Mails, Tweets
+oder Patientenakten – untersucht.20 Mit Hilfe von TDM können so neue Technologien
+geschaffen werden, die es ermöglichen, große Mengen an Daten zu analysieren und
+Muster zu erkennen bzw. dahingehend zu interpretieren, dass automatisch neue Trends
+und Muster entdeckt werden, bzw. automatische Vorhersagen getroffen werden können.
+Ein Beispiel für die Anwendung von TDM sind sogenannte KI-Schreibtools, wie z. B.
+ChatGPT.
+
+TDM lässt sich auf die folgenden Schritte aufteilen: Vervielfältigung, Speichern,
+automatisierte Analyse, Veröffentlichung und Online-Bereitstellung der Ergebnisse
+(soweit zulässig), Archivierung des Korpus. Die automatisierte Analyse beim TDM
+stellt dabei keine urheberrechtlich relevante Nutzung dar und kann ohne Einschrän-
+kungen erfolgen.21 Alle anderen Schritte bedürfen somit einer gesetzlichen oder ver-
+traglichen Erlaubnis.
+
+Das UrhG kennt zwei Arten von TDM: Das „allgemeine TDM“ (§ 44bUrhG) und das
+„TDM für Zwecke der wissenschaftlichen Forschung“ (§ 60d UrhG). Beide Regelungen
+finden nebeneinander Anwendung.
+
+3.5.1 Allgemeines Text und Data Mining (§ 44b UrhG)
+
+Mit Hilfe des allgemeinen TDM sollen alle die Möglichkeit erhalten, TDM aus rechtmä-
+ßig zugänglichen Werken durchzuführen – ohne Einschränkungen im Hinblick auf den
+Kreis der Berechtigten oder den Zweck.22 Bei allgemeinem TDM können die Rechteinha-
+ber:innen jedoch Nutzungsvorbehalte erklären und TDM ausdrücklich verbieten. Dieser
+Nutzungsvorbehalt muss ausdrücklich erklärt werden und in einer Weise erfolgen, die
+den automatisierten Abläufen beim Text und Data Mining angemessen ist.23
+
+ Brockmeyer 2022: S. 20.
+ Götting, Lauber-Rönsberg u. Rauer 2023: § 44b Rn 12.
+ Deutscher Bundestag 2021: S. 87.
+ Deutscher Bundestag 2021: S. 89.
+
+
+
+10.2 Urheberrecht 797
+
+3.5.2 Text und Data Mining zu wissenschaftlichen Zwecken (§ 60d UrhG)
+
+Öffentlich zugängliche Bibliotheken und Forschende haben das Recht, Datenbanken,
+Zeitschriften und andere urheberrechtlich geschützte Werke übergreifend automati-
+siert auszulesen, zu speichern und auszuwerten. Neben solchen Vervielfältigungshand-
+lungen dürfen Bibliotheken die bearbeiteten Korpora nach der Analyse so lange
+aufbewahren, wie dies für Forschungs- bzw. Überprüfungszwecke erforderlich ist.
+Rechteinhaber:innen können erforderliche Maßnahmen ergreifen, um zu verhindern,
+dass TDM zu wissenschaftlichen Zwecken die Sicherheit und Integrität ihrer Netze und
+Datenbanken durch die Vervielfältigungen gefährdet. Solche Maßnahmen müssen aber
+im Hinblick auf die diesbezüglichen Risiken verhältnismäßig bleiben und dürfen nicht
+über das zur Verwirklichung des Ziels („Wahrung der Sicherheit und Integrität des Sys-
+tems“) notwendige Maß hinausgehen. TDM zu wissenschaftlichen Zwecken kann somit
+nicht durch pauschale maschinenlesbare Nutzungsbeschränkungen untersagt werden.
+
+Die Erlaubnis des TDM zu wissenschaftlichen Zwecken fällt in den Anwendungs-
+bereich des § 60g UrhG. Demnach sind die Regelungen für Werke, die nach dem
+01.03.2018 lizenziert wurden, nicht durch Verträge einschränkbar und somit ohne
+rechtliche Prüfung im Rahmen der Erlaubnisse anwendbar. Rechteinhaber:innen kön-
+nen sich also nicht auf Vereinbarungen berufen, die eine Nutzung beschränken oder
+untersagen, die über § 60d UrhG gestattet ist. Bei der Nutzung von Inhalten aus Li-
+zenzverträgen, die vor dem 01.03.2018 geschlossen wurden, gelten die rechtlichen Er-
+laubnisse jedoch nicht uneingeschränkt (§ 137o UrhG).24 Beim wissenschaftlichem
+TDM sollte daher darauf geachtet werden, dass der Zugang zu lizenzierten Textpubli-
+kationen nicht auf einem vor dem 01.03.2018 abgeschlossenen Lizenzvertrag beruht,
+der TDM explizit verbietet oder dessen Bedingungen als Verbot auszulegen sind.25 Der
+Vorgang des TDM selbst ist vergütungsfrei; die Zugänglichmachung des Korpus ist je-
+doch vergütungspflichtig.26
+
+3.6 Vervielfältigungen zum privaten und sonstigen eigenen
+Gebrauch (§ 53 UrhG)
+
+Vor der Einführung des § 60e Abs. 5 UrhG war der § 53 UrhG die maßgebende Norm für
+Bibliotheken für die Nutzung des Bestands. Für den Bereich der Nutzung von Vervielfäl-
+tigungen zu privaten und zu sonstigen Zwecken bietet § 53 UrhG die rechtliche Grund-
+lage. Zulässig sind danach einzelne Vervielfältigungen auf beliebigen Trägern, sofern
+sie weder unmittelbar oder mittelbar Erwerbszwecken dienen und die Vorlage nicht
+
+ S. hierzu im Detail Brehm 2022: S. 69 ff.
+ Brehm 2022: S. 8.
+ Bundesregierung 2022: S. 61.
+
+
+
+798 Judith Ludwig
+
+offensichtlich rechtswidrig hergestellt oder öffentlich zugänglich gemacht wurde. Wis-
+senschaftliche Nutzungen können daher nur bei privaten Forschungsinteressen, die
+jenseits des beruflichen Kontexts verfolgt werden, auf die Norm gestützt werden. § 53
+Abs. 2 UrhG erlaubt Vervielfältigungen für private Archivzwecke, die eigene Unterrich-
+tung zu Tagesfragen aus dem Rundfunk und zum sonstigen eigenen Gebrauch. Der
+sonstige eigene Gebrauch umfasst auch Vervielfältigungen, die beruflichen bzw. ge-
+werblichen Zwecken dienen. Danach können auch Bibliotheken z. B. für „sonstige ei-
+gene Zwecke“ in beschränktem Rahmen Kopien anfertigen und diese auch verleihen.27
+
+4 Vergütungen
+Die meisten gesetzlichen Schranken erfordern, dass für die Anwendung eine angemes-
+sene Vergütung zu entrichten ist, die nur über eine Verwertungsgesellschaft geltend ge-
+macht werden kann. Das Gesetz über die Wahrnehmung von Urheberrechten und
+verwandten Schutzrechten durch Verwertungsgesellschaften (Verwertungsgesellschaf-
+tengesetz – VGG) regelt diese Beziehung. Ein Verwertungsgesellschaft ist eine Organisa-
+tion, die gesetzlich oder auf Grundlage einer vertraglichen Vereinbarung berechtigt ist
+und deren ausschließlicher oder hauptsächlicher Zweck es ist, für Rechnung mehrerer
+Rechteinhaber:innen Urheberrechte oder verwandte Schutzrechte zu deren kollektivem
+Nutzen wahrzunehmen, gleichviel, ob in eigenem oder in fremdem Namen (§ 2 Abs. 1
+VGG). Ihre Tätigkeit unterliegt der Aufsicht des Deutschen Patent und Markenamts. Die
+Verwertungsgesellschaften veröffentlichen die einschlägigen Tarife und Rahmenver-
+träge auf ihren Webseiten.28
+
+5 Technische Schutzmaßnahmen (§§ 95a f. UrhG)
+Wirksame technische Maßnahmen zum Schutz eines nach diesem Gesetz geschützten
+Werkes oder eines anderen nach diesem Gesetz geschützten Schutzgegenstandes dür-
+fen ohne Zustimmung der Rechteinhaberin oder des Rechteinhabers nicht umgangen
+werden, soweit dem Handelnden bekannt ist oder den Umständen nach bekannt sein
+muss, dass die Umgehung erfolgt, um den Zugang zu einem solchen Werk oder
+Schutzgegenstand oder deren Nutzung zu ermöglichen (§ 95a UrhG). Wenn Rechtein-
+haber:innen technische Maßnahmen einsetzen, um bestimmte Nutzungshandlungen
+zu verhindern oder zu erschweren, obwohl diese aufgrund von Schrankenregelungen
+
+ Talke 2021: S. 65.
+ Alle für Bibliotheken relevanten Gesamt- und Rahmenverträge sind in der jeweils geltenden Fas-
+sung unter https://www.bibliotheksverband.de/vertraege-und-vereinbarungen (11.03.2024) abrufbar.
+
+
+
+10.2 Urheberrecht 799
+
+erlaubt sind, können sie aber verpflichtet sein, die Schutzmaßnahmen aufzuheben
+(§ 95b UrhG). Dies soll sicherstellen, dass die Werke im Rahmen der Schrankenrege-
+lungen auf die übliche Art genutzt werden können. Die Rechteinhaber:innen müssen
+den Nutzungsberechtigten dann die notwendigen Mittel zur Verfügung stellen, um
+von den dort genannten Nutzungserlaubnissen Gebrauch machen zu können.
+
+6 Rechtsverletzungen (§§ 97 ff. UrhG)
+Das UrhG räumt Rechteinhaber:innen verschiedene Möglichkeiten ein, bei Verletzungen
+ihrer Rechte gegen die Schädigenden vorzugehen. Dabei können Rechteinhaber:innen
+sowohl einen Unterlassungsanspruch gegen Verletzende geltend machen als auch
+Schadensersatz verlangen (§ 97 ff. UrhG) und auch strafrechtlich gegen die vorsätzlich
+Verletzenden (§ 109 UrhG) vorgehen. Bei der Höhe des Ersatzes von materieller Schä-
+den infolge einer schuldhaften und rechtswidrigen Urheberrechtsverletzung haben
+sie dabei die Wahl zwischen verschiedenen Berechnungsmethoden: Einerseits kann
+der Schadensersatz am konkreten Schaden berechnet werden (konkrete Schadensbe-
+rechnung) oder auf Grundlage des Betrags, den die Schädigenden als angemessene
+Vergütung hätten entrichten müssen, wenn die Erlaubnis zur Nutzung vorher einge-
+holt worden wäre (Lizenzanalogie). Eine weitere Möglichkeit ist die Berechnung des
+Schadens gemessen an dem Gewinn, den Verletzende durch die Rechtsverletzung er-
+wirtschaftet haben (Verletzergewinn). Im Vordergrund steht beim Schadensersatz je-
+doch immer die Kompensations- und Ausgleichsfunktion, d. h. ersatzfähig ist nur der
+Schaden, welcher dem Verletzten tatsächlich entstanden ist. Dieser Grundsatz gilt je-
+doch nach ständiger Rechtsprechung nicht für Verwertungsgesellschaften und andere
+befugte Rechteinhaberverbände, in denen ein eigener Verwaltungszweig dafür eingerich-
+tet worden ist, Rechtsverletzungen zu erfassen und zu verfolgen und dadurch eindeutig
+abgrenzbare Kosten verursacht werden, um aufwändige Kontroll- und Überwachungsap-
+parate unterhalten müssen. Hier wird regelmäßig ein 100%iger Zuschlag auf den an-
+wendbaren Schadensersatz zugebilligt.29
+
+Literatur
+Brehm, Elke: Guidelines zum Text und Data Mining für Forschungszwecke in Deutschland. Hannover:
+
+Technische Informationsbibliothek 2022. https://doi.org/10.34657/9388.
+Brettschneider, Peter: F 3 Urheberrecht. In: Grundlagen der Informationswissenschaft. Hrsg. von Rainer
+
+Kuhlen, Dirk Lewandowski, Wolfgang Semar u. Christa Womser-Hacker. Berlin, Boston: De Gruyter
+2022. S. 789–802. https://doi.org/10.1515/9783110769043-067.
+
+ Götting, Lauber-Rönsberg u. Rauer 2021: § 97 Rn 127m. w. N.
+
+
+
+800 Judith Ludwig
+
+Brockmeyer, Henning: Text und Data Mining: Eine rechtsökonomische Analyse der neuen Schranken im
+Urheberrecht. München: C. H. Beck 2022. https://doi.org/10.5771/9783748933199.
+
+Bundesministerium der Justiz: Evaluierungsbericht der Bundesregierung gemäß § 142 des
+Urheberrechtsgesetzes zu den durch das Urheberrechts-Wissensgesellschafts-Gesetz reformierten
+Vorschriften der §§ 60a bis 60h des Urheberrechtsgesetzes. Berlin 2022. https://www.bmj.de/Shared
+Docs/Downloads/DE/Gesetzgebung/Evaluierung/Evaluierungsbericht_Urheberrechts-
+Wissensgesellschafts-Gesetz.pdf?__blob=publicationFile&v=3 (07.03.2024).
+
+Deutscher Bundestag: Entwurf eines Gesetzes über Urheberrecht und verwandte Schutzrechte
+(Urheberrechtsgesetz). Drucksache IV/ 270. 1962.
+
+Deutscher Bundestag: Entwurf eines Gesetzes zur Angleichung des Urheberrechts an die aktuellen
+Erfordernisse der Wissensgesellschaft. Drucksache 18/12329. Hrsg. von Bundesregierung,
+Bundesministerium der Justiz und für Verbraucherschutz. 2017.
+
+Deutscher Bundestag: Entwurf eines Gesetzes zur Anpassung des Urheberrechts an die Erfordernisse des
+digitalen Binnenmarktes. Drucksache 19/27426. 2021
+
+Götting, Horst-Peter, A. Lauber-Rönsberg u. N. Rauer: BeckOK Urheberrecht. München: C. H. Beck 2023.
+Gräbitz, Anja: Das Werk als Nutzungsobjekt in den Schranken für Lehre, Forschung und Bibliotheken
+
+(§§ 60a, 60c, 60e UrhG). In: Bibliotheksdienst 54 (2020), H. 6, S. 458–489. https://doi.org/10.1515/bd-
+2020-0057.
+
+Kreutzer, Till u. Henning Lahmann: Rechtsfragen bei Open Science. Ein Leitfaden. 2. Ausg. Hamburg:
+Hamburg University Press 2021. https://doi.org/10.15460/HUP.211.
+
+Nordemann, Axel, Jan Bernd Nordemann u. Christian Czychowski (Hrsg.): Urheberrecht: Kommentar zum
+Urheberrechtsgesetz, Verlagsgesetz, Einigungsvertrag (Urheberrecht), neu: zur
+EU-Portabilitätsverordnung. 12., erweiterte und überarbeitete Auflage. Rechtswissenschaften und
+Verwaltung. Kommentare. Stuttgart: W. Kohlhammer 2018.
+
+Salden, Peter: Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der
+Hochschulbildung. Bochum: Ruhr-Universität 2023. https://doi.org/10.13154/294-9734.
+
+Sens, Irina, Alexander Pöche, Dana Vosberg, Judith Ludwig u. Nicola Bieg: E 5 Lizenzierungsformen. In:
+Grundlagen der Informationswissenschaft. Hrsg. von Rainer Kuhlen, Dirk Lewandowski, Wolfgang
+Semar u. Christa Womser-Hacker. Berlin, Boston: De Gruyter 2022, S. 655–666. https://doi.org/10.
+1515/9783110769043-056.
+
+Spindler, Gerald, Fabian Schuster u. Katharina Anton (Hrsg.): Recht der elektronischen Medien.
+Kommentar. 4. Auflage. München: C. H. Beck 2019.
+
+Talke, Armin: Bibliothekserlaubnisse im Urheberrecht. Berlin: Universitätsverlag der TU Berlin 2021.
+https://doi.org/10.14279/depositonce-10809.
+
+Wandtke, Artur-Axel: Praxiskommentar Urheberrecht: UrhG, UrhDaG, VGG, InsO, UKlaG, KUG, EVtr,
+InfoSoc-RL, Portabilitäts-VO. 6., neu bearbeitete und erweiterte Auflage. München: C. H. Beck 2022.

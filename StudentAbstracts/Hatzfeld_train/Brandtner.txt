@@ -1,0 +1,598 @@
+Andreas Brandtner und Hildegard Schäffler
+1.3 Bibliotheken in der internationalen
+Zusammenarbeit
+Organisationen, Netzwerke, Kooperationsformen
+1 Einführung
+Die wohl bekannteste Definition internationaler Bibliotheksarbeit, die im Grundsatz
+auch heute noch Bestand hat, stammt von J. Stephen Parker aus dem Jahr 1974:
+International librarianship consists of activities carried out among or between governmental or
+non-governmental institutions, organizations, groups or individuals of two or more nations, to
+promote, establish, develop, maintain and evaluate library, documentation and allied services,
+and librarianship and the library profession generally, in any part of the world.1
+Dieser ganz konkreten grenzüberschreitenden Zusammenarbeit von Bibliotheken
+und Bibliothekar:innen in mehr oder minder institutionalisierter Form, die Gegenstand
+des vorliegenden Beitrags ist, steht mit der vergleichenden internationalen Bibliothekswissenschaft
+eine komparatistische Subdisziplin der Bibliotheksforschung
+gegenüber, die im Folgenden nicht näher betrachtet werden soll.2
+Wissenschaftliche Bibliotheken haben naturgemäß durch ihren auf das Wissen
+der Welt gerichteten Sammlungsgedanken eine internationale Ausrichtung. Die früheste
+Form der Kooperation ist dabei wohl das handschriftliche Kopieren von Werken.
+Mit der Erfindung des Buchdrucks mit beweglichen Lettern rückt die Publikation
+von Sammlungsbeschreibungen, etwa auf der Basis von Reiseberichten, zur Erfassung
+des existenten Wissenskosmos und als Grundlage für den systematischen Auf- und
+Ausbau der Bibliotheken in den Vordergrund. Grenzüberschreitende Tauschbeziehungen
+zu Dissertationen und Akademieschriften wurden zu Beginn des 19. Jahrhunderts
+etabliert. Die Anfänge institutionalisierter internationaler Zusammenarbeit
+zwischen Bibliotheken liegen im ausgehenden 19. Jahrhundert mit der Professionalisierung
+des Bibliothekarsberufs und der Gründung entsprechender nationaler Verbände.
+Die Conference of Librarians in London im Oktober 1877, bei der die (British)
+Library Association gegründet wurde, gilt als der erste internationale Bibliothekskongress.
+Das International Institute of Bibliography, Vorläufer der International Federa-
+ Parker 1974: S. 221.
+ Vgl. dazu Lor 2019: S. 91–93, der sich für die klare Unterscheidung von „international librarianship“
+und „comparative librarianship“ ausspricht. Nach Meinhardt 2011 erreichte die theoretische Reflexion
+der vergleichenden internationalen Bibliothekswissenschaft, die bis in die 1950er-Jahre zurückgeht, in
+den 1970er und 1980er Jahren ihren Höhepunkt und erlebt aktuell in Zeiten der zunehmenden internationalen
+Vernetzung eine gewisse Renaissance.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-004
+tion for Information and Documentation (FID), wurde bereits 1895 ins Leben gerufen.
+Die International Federation of Library Associations and Institutions (IFLA) wurde im
+Jahr 1927 in Edinburgh gegründet.3 In den ersten Jahrzehnten nach dem Zweiten
+Weltkrieg spielte die United Nations Educational, Scientific and Cultural Organisation
+(UNESCO) gerade in der Bibliotheksarbeit postkolonialer Staaten eine wichtige Rolle.
+Eng verknüpft mit der Entstehung entsprechender Informationstechnologien seit den
+1970er Jahren ließen sich internationale bibliographische Standards, die auf eine
+lange Tradition zurückblicken, auf eine ganz neue Stufe heben. In der digitalisierten
+und globalisierten Welt des 21. Jahrhunderts erscheint grenzüberschreitende Kooperation
+aufgrund der weltweiten elektronischen Vernetzung, der erhöhten Mobilität
+der Bibliotheksnutzer:innen sowie der grenzübergreifenden Informationsangebote
+geradezu unerlässlich. Zu nennen sind hier auch die vergleichbaren Herausforderungen,
+denen sich Bibliotheken weltweit gegenübersehen, zumal die Rahmenbedingungen,
+unter denen sie arbeiten, in Teilen auch auf einer supranationalen Ebene –
+insbesondere im Rahmen der Europäischen Union – gesetzt werden. Der internationale
+Austausch ist dabei nicht nur wechselseitige Ideenbörse, sondern immer auch
+Vergleichsmaßstab für die eigene Praxis.
+Internationale Zusammenarbeit kann ein breites Spektrum an Formen annehmen,
+die einen mehr oder weniger ausgeprägten Grad der Institutionalisierung und
+fachlichen Spezialisierung aufweisen. Mögliche Organisationsformen reichen dabei
+von der auch thematisch weltumspannenden IFLA bis zur International Association
+of Music Libraries (IAML) und dem eher informellen Netzwerk der International Coalition
+of Library Consortia (ICOLC) bis hin zur Zusammenführung von Metadaten
+und digitalen Beständen in Europeana4 oder im WorldCat5 vom Online Computer Library
+Center (OCLC). Grenzüberschreitende Kooperation bedeutet aber auch abseits
+formalisierter Strukturen bilaterale Vereinbarungen mit Partnerbibliotheken im Ausland
+bis hin zu persönlichen Netzwerken, Beteiligung an internationalen Projekten
+etwa im Kontext von EU-Programmen, Austauschoptionen mit ausländischen Bibliotheken,
+Teilnahme an internationalen Konferenzen oder auch – wie etwa bei der
+Open-Access-Bewegung – das Verfolgen eines gemeinsamen, global definierten Ziels.
+ Zur historischen Entwicklung der internationalen bibliothekarischen Zusammenarbeit vgl. Glynn
+2004 und Lor 2010: S. 4–47.
+ http://www.europeana.eu/ (31.01.2024).
+ http://www.worldcat.org/ (31.01.2024).
+44 Andreas Brandtner und Hildegard Schäffler
+2 Organisationsformen internationaler
+Zusammenarbeit in Deutschland
+Deutsche Bibliotheken bzw. Bibliothekar:innen engagieren sich in vielfältiger Art und
+Weise in internationalen Zusammenhängen.6 Einen koordinativen Rahmen erhält diese
+dichte Vernetzung im nationalen Kontext über die Verbandsstrukturen. Im Zentrum
+steht hier Bibliothek & Information Deutschland (BID), „der Dachverband der Institutionen-
+und Personalverbände des Bibliothekswesens und zentraler Einrichtungen der
+Kulturförderung in Deutschland“. Von der BID heißt es weiter, sie vertrete „deren
+Gesamtinteressen auf nationaler und europäischer Ebene sowie in internationalen
+Gremien“.7 Auf der letztgenannten Ebene agiert der Dachverband BID durch seine
+Vertretung in internationalen Verbänden und durch seine Ständige Kommission
+Bibliothek und Information International (BI-International oder auch BII).8 BIInternational
+koordiniert in Zusammenarbeit mit dem Goethe-Institut den internationalen
+bibliothekarischen Fachaustausch und unterstützt den Dialog, den Erfahrungsaustausch
+und die berufliche Kooperation über Ländergrenzen hinweg. Dabei
+werden Studienaufenthalte, Kongressteilnahmen und Fachaufenthalte deutscher
+Bibliothekar:innen im Ausland und ebenso ausländischer Bibliothekar:innen in
+Deutschland gefördert. Zudem wählt BID alle drei Jahre ein Partnerland, das in den
+darauffolgenden Jahren im besonderen Fokus der internationalen Kooperation des
+Verbandes steht.9
+Im Jahr 2004 hat das Kompetenznetzwerk für Bibliotheken (knb) seine Arbeit mit
+dem Ziel aufgenommen, unverzichtbare überregionale Dienstleistungen für das gesamte
+Bibliothekswesen zu sichern. Der Deutsche Bibliotheksverband (dbv) ist für die gesamte
+Koordination des knb zuständig und betreut außerdem die Aufgabenbereiche „Internationale
+Kooperation“, die Informationsplattform Bibliotheksportal sowie die EU- und
+Drittmittelberatung.10 Die zentrale Zielsetzung besteht darin, durch internationalen Wissenstransfer
+Innovationen im Bibliothekswesen zu fördern, die Interessensvertretung
+der Bibliotheken im globalen Kontext wahrzunehmen und die internationale Zusammenarbeit
+zu unterstützen.11 Zum konkreten Aufgabenportfolio gehören insbesondere:
+– Unterstützung der Interessensvertretung von Bibliotheken in europäischen und
+internationalen bibliothekarischen und außerbibliothekarischen Gremien/Verbänden
+(hier insbesondere IFLA, EBLIDA, LIBER),
+– Einbindung deutscher Fachkreise in internationale Strukturen,
+ Einen historischen Rückblick auf die bibliothekarische Auslandsarbeit in Deutschland in den Jahren
+1963 bis 2000 bieten Simon u. Seydelmann 2001.
+ https://bideutschland.de/ (31.01.2024).
+ Vgl. zur Ausbildung dieser Strukturen auch Böttger u. a. 2005 sowie Schleihagen 2005.
+ https://bi-international.de/ (31.01.2024).
+ Vgl. Klauser 2019.
+ Vgl. https://bibliotheksportal.de/wir-ueber-uns/arbeitsbereiche/ (31.01.2024).
+1.3 Bibliotheken in der internationalen Zusammenarbeit 45
+– Sicherung und Koordination der Expertenvertretung in diversen internationalen
+Gremien,
+– Beobachtung relevanter internationaler Entwicklungen sowie ggf. Initiierung von
+Stellungnahmen durch deutsche Bibliotheksgremien,
+– Informationsweitergabe und -angebote für die deutsche und internationale
+Fachgemeinde,
+– Vertretung des dbv in der ständigen Kommission des Dachverbands BID für den
+internationalen Fachaustausch BII.
+Dieser Arbeitsbereich ist außerdem für das Sekretariat des IFLA-Nationalkomitees
+Deutschland12 verantwortlich, das es sich zur Aufgabe gemacht hat, das deutsche Engagement
+im Weltbibliotheksverband zu koordinieren und zu fördern sowie eine angemessene
+deutsche Vertretung in den IFLA-Gremien zu sichern.
+Der Arbeitsbereich „EU- und Drittmittelberatung“ des knb berät und unterstützt
+Bibliotheken, die an EU- und internationalen Projekten teilnehmen möchten und informiert
+über Fördermöglichkeiten und Drittmittelakquise. Dies umfasst auch Unterstützung
+bei der Suche nach geeigneten Kooperationspartnern im Ausland.13
+Als Teil der dezentralen Struktur grenzübergreifender Bibliotheksarbeit in
+Deutschland wird schließlich auch das Goethe-Institut betrachtet, das per definitionem
+über einen internationalen Auftrag verfügt, zu Beginn des Jahres 2024 Bibliotheken an
+93 Standorten weltweit betreibt14 und damit die aktive Auseinandersetzung mit Sprache,
+Kultur und Gesellschaft fördert.15
+3 Internationale Organisationen und Netzwerke
+Im nachfolgenden Abschnitt werden konkrete Beispiele internationaler Organisationen
+und Netzwerke betrachtet, die mit bibliotheksrelevanten Fragestellungen befasst
+sind und die im vorliegenden Zusammenhang naturgemäß nur in Auswahl dargestellt
+werden können. Dabei reicht das Spektrum von Einrichtungen mit breiter thematischer
+Aufstellung über die Interessensvertretungen bestimmter Bibliothekstypen bis
+hin zu fachlich spezialisierten Kooperationsformen.
+ http://www.ifla-deutschland.de/ueber-uns/ (31.01.2024).
+ https://bibliotheksportal.de/wir-ueber-uns/arbeitsbereiche/ (31.01.2024).
+ https://www.goethe.de/de/kul/bib.html (31.01.2024).
+ Vgl. Klauser 2017.
+46 Andreas Brandtner und Hildegard Schäffler
+3.1 Der Weltverband IFLA
+Als weltweit größte und global agierende Interessengemeinschaft aller bibliothekarischen
+Sparten ist die IFLA16 zu nennen, die sich selbst beschreibt als „the global voice
+of libraries, representing the interests of the profession and working to improve services
+worldwide“.17 Die IFLA wurde 1927 im schottischen Edinburgh gegründet und
+zählte Ende 2022 ca. 1 660 institutionelle Mitglieder (Bibliotheksverbände und Einzeleinrichtungen)
+aus rund 140 Ländern. Ihren Sitz hat sie im niederländischen Den
+Haag mit Regionalbüros für Afrika in Pretoria (Südafrika), für Asien und Ozeanien in
+Singapur und für Lateinamerika und die Karibik in Buenos Aires (Argentinien).
+Ihre Zielsetzung sieht die IFLA nicht nur in konkreter Sacharbeit im Rahmen der
+Entwicklung von Standards für bibliothekarische Aufgaben, sondern insbesondere auch
+in politischer Lobbyarbeit „to encourage widespread understanding of the value of good
+library & information services“,18 nicht zuletzt vor dem Hintergrund der Bedeutung des
+freien Zugangs zu Information als Fundament freiheitlich-demokratischer Gesellschaften.
+Wie der erstmals bei der Jahrestagung 2013 in Singapur veröffentlichte und seither
+regelmäßig aktualisierte IFLA Trend Report zeigt, befasst sich die IFLA auch auf einer
+höheren Abstraktionsebene mit globalen Entwicklungen einer vernetzten Welt, die den
+Rahmen für die künftige Rollenentwicklung von Bibliotheken bilden.19
+Einmal im Jahr hält die IFLA an wechselnden Orten den World Library and Information
+Congress (WLIC) ab. Diese Konferenz bietet nicht nur Gelegenheit, im Zuge eines
+umfangreichen Tagungsprogramms ein breites Spektrum an Themen mit Kolleg:innen
+aus aller Welt zu diskutieren, sondern dient auch der Zusammenkunft der verschiedenen
+IFLA-Gremien und damit der konkreten Verbandsarbeit. Dazu zählt die Generalversammlung
+der Mitglieder (General Assembly), welche die Präsidentin bzw. den
+Präsidenten und das Lenkungsgremium (Governing Board) wählt. Letzteres setzt sich
+zusammen aus amtierendem und designiertem Präsidenten, dem Schatzmeister und
+den Vorsitzenden des Professional Council, des Regional Council und der Management
+of Library Associations Section sowie fünf gewählten Mitgliedern. Die inhaltliche Arbeit
+orientiert sich an der Strategie, die aktuell (2019–2024) vier Schwerpunktbereiche aufweist:
+20 „strengthen the global voice of libraries“, „inspire and enhance professional
+practice“, „connect and empower the field“ und „optimise our organisation“. Die konkrete
+Sacharbeit wird in den mit Expert:innen besetzten und mit Stand Anfang 2024 insgesamt
+42 Sektionen (Sections) und 12 Special Interest Groups geleistet. Die Sektionen
+ Vgl. zum Folgenden auch Shimmon u. a. 2018.
+ http://www.ifla.org/about (31.01.2024). Die nachfolgenden Ausführungen zu aktuellen Aufgaben
+und Organisationsstrukturen der IFLA sind ebenfalls dieser Seite entnommen.
+ IFLA Annual Report 2022: https://cdn.ifla.org/wp-content/uploads/ifla-annual-report-2022_rev.pdf.
+(31.01.2024).
+ http://trends.ifla.org/ (31.01.2024).
+ https://www.ifla.org/de/units/strategy/ (31.01.2024).
+1.3 Bibliotheken in der internationalen Zusammenarbeit 47
+sind in acht Divisions zusammengefasst.21 Die Arbeit der IFLA wird über ihr Organ
+„IFLA Journal“ dokumentiert.
+Die IFLA unterhält direkten Kontakt zu internationalen Organisationen, in deren
+weiterreichendem Fokus auch Bibliotheksfragen stehen, darunter die UNESCO,22 die
+World Intellectual Property Organization (WIPO) und Blue Shield International (BSI),
+eine Organisation für den Schutz von Kulturgut vor den Auswirkungen von Kriegen,
+bewaffneten Konflikten und Katastrophen.
+Die Idee einer internationalen Bibliotheksorganisation entstand in der Zeit nach
+dem Ersten Weltkrieg und unter dem Einfluss der Gründung des Völkerbundes.23 Am
+30. September 1927 wurde am Rande des Jahrestreffens des britischen Bibliotheksverbands
+in Edinburgh eine siebenköpfige Arbeitsgruppe unter dem Namen International
+Library and Bibliographical Committee ins Leben gerufen. Den Namen International
+Federation of Library Associations erhielt die Vereinigung zwei Jahre später. Der Vorsitzende
+dieser Gruppe und spätere erste Präsident war der Schwede Isak G. A. Collijn,
+Direktor der Königlichen Bibliothek zu Stockholm. In den 1930er Jahren begann die Organisation
+zu wachsen, wenn auch mit einem ausgeprägt europäischen Schwerpunkt
+und noch relativ wenig konkreten Arbeitsergebnissen. Kriegsbedingt war die Arbeit der
+IFLA von 1940 bis 1945 weitgehend unterbrochen, bis sie ihr Wirken im Mai 1946 wieder
+aufnehmen konnte. Der erste große Aufschwung in Bezug auf die Mitgliederzahlen
+und damit auch eine weltweite Öffnung erfolgte in den 1960er Jahren, in denen ein Zuwachs
+von 81 auf 231 Mitgliedseinrichtungen zum Ende des Jahrzehnts zu verzeichnen
+war. In diese Zeit fallen auch die wegweisende International Conference on Cataloging
+Principles in Paris von 1961,24 die Einrichtung eines ersten hauptamtlichen IFLASekretariats
+im Jahr 1962 und die programmatische Neuausrichtung im Jahr 1963 unter
+dem ersten deutschen Präsidenten Gustav Hofmann in der Publikation Libraries in the
+World: A Long-Term Program for the IFLA, die den Weg zu einer echten Öffnung der
+Organisation über die westliche Welt hinauswies. Entsprechend hielt der Zustrom in
+den 1970er Jahren an. Bis zum Ende des Jahrzehnts zählte die IFLA über 900 Mitglieder,
+was gleichzeitig zu entsprechenden Herausforderungen bezüglich der Organisationsstruktur
+und einer weiteren Professionalisierung führte. In den 1980er Jahren verlangsamte
+sich das Mitgliederwachstum, aber die Breite der Themen und die geografische
+Ausdehnung mit ersten Konferenzen in Asien, Afrika und Australien nahm zu. Die
+zweite Hälfte des Jahrzehnts sah mit Hans-Peter Geh den zweiten deutschen IFLAPräsidenten.
+Mit den 1990ern hielt auch in der IFLA die digitale Revolution Einzug und
+ Vgl. https://www.ifla.org/professional-divisions/ (31.01.2024). In der Zeitschrift Bibliotheksdienst
+wird regelmäßig über die IFLA berichtet.
+ Als Beispiel für bibliotheksrelevante Aktivitäten der UNESCO sei das Dokumentenerbe im Rahmen
+des Programms „Memory of the World“ (https://www.unesco.org/en/memory-world, 31.01.2024) genannt.
+ Vgl. zu den nachfolgenden Ausführungen zur Geschichte der IFLA: Wilhite 2012: S. 23–88.
+ Diese Konferenz kann als Meilenstein in einer bis heute anhaltenden Tradition der IFLA gelten,
+Standardisierungsbemühungen in Erschließungsfragen voranzutreiben.
+48 Andreas Brandtner und Hildegard Schäffler
+mit ihr die weitere Internationalisierung, die sich nicht zuletzt in der Wahl der Konferenzorte
+niederschlug. In die 1990er-Jahre fällt die Gründung des Freedom of Access to
+Information and Freedom of Expression Committee (FAIFE). Die Mitgliederzahlen sind
+seit der Jahrtausendwende auf hohem Niveau etwas rückläufig. Seit dem Jahr 2002, in
+dem das 75-jährige Gründungsjubiläum im schottischen Glasgow begangen wurde, heißen
+die IFLA-Konferenzen entsprechend dem globalen Anspruch World Library and Information
+Congresses. Mit Claudia Lux kam die Präsidentin in den Jahren 2007–2009
+erneut aus Deutschland und von 2021–2023 war mit Barbara Lison eine weitere deutsche
+Bibliotheksdirektorin IFLA-Präsidentin.
+Ein Blick auf die Geschichte der IFLA zeigt, dass sie sich im Verlauf der Jahrzehnte
+zu einer globalen Organisation entwickelt hat, die nicht nur die Interessen
+aller Regionen der Erde mit ihren je unterschiedlichen Voraussetzungen, sondern
+auch ein breitest mögliches inhaltliches Spektrum abdecken will. Dieser umfassende
+Ansatz ist ein folgerichtiger Anspruch in der globalisierten Welt des 21. Jahrhunderts,
+stellt eine Organisation dieser Größe aber auch vor die Herausforderung, inhaltliche
+Bandbreite mit strategischer Fokussierung in Einklang zu bringen.
+3.2 Europäische Organisationen und Netzwerke
+Neben dem Weltverband IFLA gibt es auf europäischer Ebene eine Reihe von Organisationen,
+zu deren Zielsetzungen es vielfach auch gehört, Lobbyarbeit für die Anliegen
+wissenschaftlicher und öffentlicher Bibliotheken bei einschlägigen EU-Gremien zu betreiben:
+Ligue des Bibliothèques Européennes de Recherche – Association of European
+Research Libraries (LIBER), European Bureau of Library, Information and Documentation
+Associations (EBLIDA), National Authorities on Public Libraries in Europe (NAPLE)
+und Knowledge Exchange werden hier im Folgenden näher vorgestellt.
+3.2.1 LIBER
+Auf europäischer Ebene versteht sich die LIBER als das zentrale Netzwerk wissenschaftlicher
+Bibliotheken.25 Anfang 2024 waren in LIBER etwa 420 Einrichtungen aus
+mehr als 40 Ländern als Mitglieder vertreten. Die Organisation wurde 1971 in Straßburg
+mit Unterstützung des Europarats gegründet26 und ist seit 2009 eine Stiftung
+nach niederländischem Recht mit Sitz an der Koninklijke Bibliotheek der Niederlande.
+ Vgl. https://libereurope.eu/about-us/ (31.01.2024).
+ Die Entstehungsgeschichte von LIBER ist in engem Zusammenhang mit der Entwicklung der IFLA
+in den 1960er Jahren zu sehen, als sich deren Fokus erheblich erweiterte und die Notwendigkeit einer
+Konzentration auf die Belange europäischer wissenschaftlicher Bibliotheken in anderem organisatorischen
+Rahmen gesehen wurde. Zur Geschichte von LIBER vgl. Häkli 2011.
+1.3 Bibliotheken in der internationalen Zusammenarbeit 49
+Einmal im Jahr findet an wechselnden Orten die LIBER-Konferenz statt, die sich insbesondere
+an die Führungsebene wissenschaftlicher Bibliotheken richtet. Das zentrale
+Publikationsorgan von LIBER ist die Zeitschrift LIBER Quarterly.
+Die Arbeit von LIBER konzentriert sich neben der Unterstützung bei der Weiterentwicklung
+und Optimierung der von wissenschaftlichen Bibliotheken getragenen
+Informationsinfrastrukturen nicht zuletzt auf die politische Lobbyarbeit auf europäischer
+Ebene, die sich auch in der konkreten Beteiligung an EU-Projekten27 niederschlägt.
+Diese inhaltliche Fokussierung lässt sich auch an der aktuellen thematischen
+Schwerpunktsetzung der vier Steering Committees zu „Research Libraries as Engaged
+and Trusted Hubs“, „Research Libraries as Providers of State-of-the-Art Services“, „Research
+Libraries as Leaders for Advancing Open Science“ und „Upskilling the Library
+Workforce“ ablesen, die neben einem gewählten Executive Board zu den zentralen
+Organen der Organisation zählen und im Rahmen der Strategie 2023–2027 eingesetzt
+sind.
+Die Arbeit des Steering Committee „Research Libraries as Engaged and Trusted
+Hubs“ kreist um die Herausforderung, wissenschaftliche Bibliotheken als engagierte und
+vertrauenswürdige Zentren ihrer Communities zu gestalten, die untereinander und mit
+lokalen, nationalen und internationalen Akteuren in ihrer Rolle als Vermittler und Moderatoren
+des Wandels zusammenarbeiten und die Aufgabe des öffentlichen Engagements
+in der Forschung übernehmen.28 Eine besondere Rolle spielen hier die Bereiche
+Bibliotheksbau und Citizen Science. Das Steering Committee „Research Libraries as Providers
+of State-of-the-Art Services“ unterstützt wissenschaftliche Bibliotheken dabei, zukunftsweisende,
+hochmoderne Dienstleistungen für das Sammeln, Publizieren und
+Kuratieren von Informationen und (Meta-)Daten anzubieten.29 Das Steering Committee
+„Research Libraries as Leaders for Advancing Open Science“ fördert die Entwicklung
+von Infrastrukturen und Praktiken, um Open Science gemeinsam mit der Wissenschaft
+auf die nächste Stufe zu heben. Besonderes Augenmerk wird dabei auf Open Access,
+Open Data und Open Educational Resources gelegt.30 Schließlich leistet das Steering
+Committee „Upskilling the Library Workforce“ einen markanten Beitrag zur Personalentwicklung
+in wissenschaftlichen Bibliotheken, damit sie ihre neuen Rollen und Aufgaben
+kompetent bewältigen können.31 Einen wesentlichen Anteil daran haben die beiden
+Weiterbildungsreihen „Journées for Library Directors“ und das „Emerging Leaders
+Programm“.
+ Beispiele für EU-Projekte, an denen LIBER mitwirkt, finden sich unter: https://libereurope.eu/pro
+jects/ (31.01.2024); vgl. dazu auch Ayris 2011 und Ayris 2012.
+ https://libereurope.eu/strategy/#hubs (31.01.2024).
+ https://libereurope.eu/strategy/#services (31.01.2024).
+ https://libereurope.eu/strategy/#openscience (31.01.2024).
+ https://libereurope.eu/strategy/#upskilling (31.01.2024).
+50 Andreas Brandtner und Hildegard Schäffler
+3.2.2 EBLIDA
+Das EBLIDA wurde 1992 in Den Haag gegründet und versteht sich als „independent
+umbrella association of library, information, documentation associations and institutions
+in Europe“,32 die als Interessensvertretung gegenüber den Gremien und Organen
+der Europäischen Union agiert. Thematische Schwerpunkte umfassen unter
+anderem die europäische Bibliotheksgesetzgebung, einschließlich Urheberrecht und
+Lizenzierung, der Einfluss von Bibliotheken auf die Gesellschaft und die Ziele für
+nachhaltige Entwicklung in Europa. Anders als LIBER hat EBLIDA auch öffentliche Bibliotheken
+im Fokus, wie sich das etwa in der Zusammenarbeit mit National Authorities
+on Public Libraries in Europe (NAPLE) (s. u.) und Public Libraries 2030 (PL2030)33
+niederschlägt.
+Ein Beispiel für die Lobbyarbeit von EBLIDA sind die vielfältigen Aktivitäten zur
+Unterstützung der UNESCO-Programms „Bildung für nachhaltige Entwicklung: die globalen
+Nachhaltigkeitsziele verwirklichen“, um die Agenda 2030 mit ihren 17 globalen
+Nachhaltigkeitszielen (Sustainable Development Goals – SDGs) umzusetzen.34 So stellt
+der Bericht Sustainable Development Goals and Libraries – First European Report35 ein
+nicht nur vollwertiges Konzept dar, das geeignet ist, die Bibliotheksarbeit in den breiteren
+und weitreichenden Rahmen der Agenda 2030 für nachhaltige Entwicklung einzubetten,
+sondern auch den Versuch, SDG-Projekte in europäischen Bibliotheken für
+politische Entscheidungsträger zu Lobbyzwecken aufzubereiten.
+3.2.3 NAPLE
+Die Organisation NAPLE bzw. NAPLE Forum, gegründet 2002, ist ein Zusammenschluss
+von Bibliotheksagenturen, der sich auf europäischer Ebene für die Interessen
+von öffentlichen Bibliotheken einsetzt.36 Das NAPLE Forum kooperiert in seiner politischen
+Lobbyarbeit seit Jahren eng mit EBLIDA. So veröffentlichten die beiden Organisationen
+2009 gemeinsam die Vienna Declaration,37 in der sie eine „Library Policy for
+Europe“ unter anderem im Bereich des Urheberrechts fordern, oder sie organisieren
+gemeinsame Konferenzen. 2022 wurde eine noch intensivere Zusammenarbeit, an der
+auch das Netzwerk Public Libraries 2030 (PL2030) beteiligt ist, vereinbart. Die Zusammenarbeit
+soll sich auf drei Hauptbereiche konzentrieren: einen engeren Informa-
+ https://eblida.org/about-eblida/ (31.01.2024).
+ https://publiclibraries2030.eu/ (02.03.2024)
+ https://eblida.org/activity/libraries-un-sdgs-matrix/ (31.01.2024).
+ https://www.eblida.org/Documents/EBLIDA-Report-SDGs-and-their-implementation-in-European-li
+braries.pdf (31.01.2024).
+ https://naple.eu/ (31.01.2024).
+ https://voeb-b.at/vienna-declaration-eblida-naple-forum/ (31.01.2024).
+1.3 Bibliotheken in der internationalen Zusammenarbeit 51
+tionsaustausch, die gegenseitige Unterstützung zur Steigerung der Beteiligung von Bibliotheken
+an EU-finanzierten Programmen und die gemeinsame Auswertung und
+Nutzung von Daten.
+3.2.4 Knowledge Exchange
+Im Unterschied zu den bisher vorgestellten europäischen Organisationen, die auf breite
+Mitgliedschaft angelegt sind, ist das 2005 gegründete Knowledge Exchange38 die gezielte
+Kooperation von ursprünglich vier, mittlerweile sechs europäischen Organisationen,
+die für die Entwicklung von nationalen Informationsinfrastrukturen für Wissenschaft
+in ihren jeweiligen Ländern einschlägig sind. Neben der Deutschen Forschungsgemeinschaft
+(DFG) beteiligen sich das britische Joint Information Systems Committee (Jisc),
+das dänische Danish e-infrastructure Consortium (DeiC), das finnische IT Center for Science
+(CSC), das französische Centre national de la recherche scientifique (CNRS) und
+das niederländische Samenwerkende Universitaire Rekenfaciliteiten (SURF).
+Das Leitmotiv von Knowledge Exchange ist „to support the development of digital
+infrastructure to enable open scholarship“. Die konkrete Sacharbeit findet in Arbeitsgruppen
+zu thematischen Schwerpunkten statt, zu denen auch regelmäßig Workshops
+veranstaltet werden. Der Austausch von Information zwischen Expert:innen aus den
+sechs Ländern ist also ganz wörtlich zu nehmen und zentrales Programm dieses Netzwerks.
+Nachdem Knowledge Exchange ursprünglich mit einem etwas breiteren Handlungsspektrum
+an den Start gegangen war, bei dem unter anderem Open Access,
+Forschungsprimärdaten, Virtuelle Forschungsumgebungen, multinationale Lizenzierung
+und die Rolle von Bibliotheken im digitalen Zeitalter im Vordergrund standen,
+kam es in den letzten Jahren zu einer stärkeren thematischen Fokussierung. Aktuell
+liegen die Schwerpunkte auf Open Science, und dabei vor allem auf Open Access und
+Open Data. Knowledge Exchange veröffentlicht auch Berichte und Studien, z. B. im
+Jahr 2023 Alternative Publishing Platforms.39
+3.3 Spezialverbände und -netzwerke
+Nachfolgend wird eine Auswahl von Verbänden und Netzwerken vorgestellt, die sich
+über einen spezialisierten Interessensschwerpunkt definieren: Consortium of European
+Research Libraries (CERL), Conference of European National Libraries (CENL),
+Europeana, International Association of University Libraries (IATUL) sowie weitere
+Spezialverbände und Arbeitsgemeinschaften.
+ Zum Folgenden vgl. https://www.knowledge-exchange.info/ (31.01.2024).
+ https://knowledge-exchange.pubpub.org/pub/d9h2tp1x/release/1 (31.01.2024).
+52 Andreas Brandtner und Hildegard Schäffler
+3.3.1 CERL
+Im 1992 gegründeten CERL haben sich europäische und nordamerikanische Forschungsbibliotheken
+mit bedeutenden Sammlungen historischer Buchbestände zusammengeschlossen.
+CERL ist in Großbritannien als Non-Profit-Unternehmen eingetragen
+und entwickelt konkrete, aus den Mitgliedsbeiträgen finanzierte Services zur Erforschung
+des europäischen Kulturerbes der Handpressen-Zeit: CERL
+is the international focal point for the engagement with the historic printed books and manuscripts,
+the written heritage of Europe, represented by the collections of our members and beyond. We
+focus on manuscripts and printed books produced before the middle of the nineteenth century.40
+Die wichtigsten Angebote von CERL umfassen die „Heritage of the Printed Book Database“
+(ursprünglich unter dem Namen „Hand Press Book Database“),41 in der europaweite
+Bestände aus der Handpressen-Zeit nachgewiesen sind, den CERL-Thesaurus,42
+der Namensvarianten von Druckorten, Druckern usw. zusammenführt und die Datenbank
+„Material Evidence in Incunabula“,43 in der kodikologische und exemplarspezifische
+Informationen von Inkunabeln verzeichnet sind.
+3.3.2 CENL
+Die 1987 ins Leben gerufene CENL44 ist eine Stiftung nach niederländischem Recht, an
+der sich derzeit 46 Nationalbibliotheken aus 45 Mitgliedsländern des Europarats beteiligen.
+Zentrale Themenschwerpunkte ergeben sich aus den besonderen Aufgabenstellungen
+von Nationalbibliotheken, also die Sammlung des nationalen Schrifttums
+(sowohl in gedruckter als auch in elektronischer Form), die Bewahrung und Förderung
+des nationalen Kulturerbes sowie die Förderung der nationalen Kulturpolitik. So
+lautet die Vision:
+Europe’s national libraries are leading memory institutions, playing a vital role in the intellectual,
+educational, cultural, social and economic development of the continent, the countries and
+the communities they serve. As the Conference of European National Librarians we will advocate
+the cause of European national libraries by supporting and advising our colleagues and staff in
+meeting the needs of our audiences, in preserving and developing our heritage and in developing
+ http://www.cerl.org/ (31.01.2024).
+ https://www.cerl.org/resources/hpb/main (31.01.2024).
+ https://www.cerl.org/_detail/resources/cerl_thesaurus.png?id=resources%3Amain (31.01.2024).
+ https://www.cerl.org/resources/mei/main (31.01.2024).
+ https://www.cenl.org/ (31.01.2024).
+1.3 Bibliotheken in der internationalen Zusammenarbeit 53
+innovative services in a sustainable environment. Together we form a strong professional community
+that promotes our common goals and shared values of collaboration and partnership.45
+Die Nationalbibliotheken sehen sich in der Situation, ihre eigene Position sichern
+zu müssen, um die Voraussetzungen für einen freien und ungehinderten Zugang zu Information
+und Dokumentation zu schaffen. Mehr denn je erachten sie es daher als notwendig,
+neue Modelle der Zusammenarbeit zu entwickeln und Ressourcen zu teilen.
+3.3.3 Europeana
+Europeana46 versteht sich als virtuelle Bibliothek, die das digitalisierte kulturelle Erbe
+Europas aus Bibliotheken, Archiven, Museen und Galerien spartenübergreifend aggregiert.
+Im Zentrum dieser Initiative steht also ein konkretes Produkt. Betrieben wird das
+Portal von der Europeana Foundation, einer Stiftung nach niederländischem Recht. Die
+Organisation wird von einem Board of Directors geleitet, das von einem Supervisory
+Board mit Mitgliedern aus europäischen Organisationen des kulturellen und wissenschaftlichen
+Erbes begleitet wird. Ein Advisory Board bietet fachliche Einblicke, Wissen
+und Empfehlungen zur strategischen Ausrichtung der Stiftung. Dieser Beirat repräsentiert
+die Stimme des Sektors insgesamt, wobei die Mitglieder ein breites Spektrum von
+Ländern, Bereichen und Perspektiven widerspiegeln.47 Das mit Förderung der Europäischen
+Union aufgebaute Angebot ging mit einer Beta-Version 2008 an den Start und umfasst
+mit Beginn des Jahres 2024 mehr als 55 Millionen Nachweise digitaler Objekte aus
+etwa 2 000 Institutionen und 36 Ländern. Im Umfeld von Europeana ist eine Reihe von
+Projekten48 angesiedelt, die sich verschiedenen technischen bzw. inhaltlich definierten
+Schwerpunkten widmen. Dazu zählte beispielsweise Europeana Newspapers, bei dem
+digitalisierte Zeitungsbestände von 18 Partnerinstitutionen zusammengetragen und die
+besonderen Herausforderungen der Zeitungsdigitalisierung untersucht werden. Die
+Projektergebnisse werden mittlerweile in die Europeana-Plattform überführt.
+3.3.4 IATUL
+Die IATUL, heute International Association of University Libraries, wurde 1955 unter
+dem Namen International Association of Scientific and Technological University Li-
+ https://www.cenl.org/wp-content/uploads/2023/08/CENL_strategy2023-2027.pdf (31.01.2024).
+ Zum Folgenden vgl. https://pro.europeana.eu/about-us/mission (31.01.2024).
+ https://pro.europeana.eu/about-us/foundation (31.01.2024).
+ Eine aktuelle Übersicht dieser Projekte findet sich unter https://pro.europeana.eu/about-us/projects
+(31.01.2024).
+54 Andreas Brandtner und Hildegard Schäffler
+braries49 in Düsseldorf als Diskussionsforum für Bibliotheken technischer Universitäten
+gegründet. Damit sollte ein Netzwerk von Informationseinrichtungen ähnlichen
+Typs mit auch in internationaler Perspektive vergleichbaren Fragestellungen und
+Herausforderungen geschaffen werden. Besondere Herausforderungen dieser Bibliothekssparte
+lagen dabei in dem auf dem naturwissenschaftlich-technischen Sektor besonders
+rasanten Übergang zu einer rein elektronischen Literaturversorgung und
+Arbeitsweise, der ausgeprägt hochpreisigen Zeitschriftenliteratur oder auch der teilweise
+engen Bezüge zu industrieller Forschung.
+Auf der Jahreskonferenz 2014 in Helsinki beschloss die Generalversammlung der
+IATUL, ihr Mandat auf alle Universitätsbibliotheken weltweit auszuweiten, unabhängig
+von ihrer akademischen Spezialisierung. Diese Änderung spiegelt das Mitgliederprofil
+der IATUL wider, bei dem die überwiegende Mehrheit der Einrichtungen inzwischen
+zu Volluniversitäten gehört. Entsprechend ist die zentrale Zielsetzung der Vereinigung
+formuliert:
+The association promotes in particular: science and research in the field of library services, effective
+cooperation among member libraries, introduction of innovative technology. It provides a
+forum where library directors and senior managers can meet to exchange views on matters of
+current significance. Subject to the above, IATUL is representing the interests of, and serving as a
+competent partner to its members, and providing facilitation of networking opportunities for
+university libraries around the world.50
+IATUL hat mit Stand Anfang 2024 mehr als 240 institutionelle Mitglieder und veranstaltet
+einmal jährlich eine Konferenz. IATUL steht seit ihrer Gründung in enger Verbindung
+zur IFLA und ist aktuell mit der IFLA Section of Science and Technology
+Libraries assoziiert.
+3.3.5 Weitere Spezialverbände und Arbeitsgemeinschaften
+Auch die nachfolgende Auswahl an Spezialverbänden und Arbeitsgemeinschaften, auf
+deren Aktivitäten im vorliegenden Rahmen nicht vertieft eingegangen werden kann, verbindet
+die Konzentration auf Sammlungsschwerpunkte oder einen eng definierten thematischen
+Fokus. Zu den Verbänden, die Spezialsammlungen in den Mittelpunkt ihrer
+Arbeit stellen, gehört beispielsweise die International Association of Music Libraries, Archives
+and Documentation Centres (IAML),51 die 1951 in Paris gegründet wurde und die
+Anfang 2024 in 26 Ländern in Amerika, Asien, Australien und Europa nationale Zweigstellen
+betreibt. Ein weiteres Beispiel ist der Verband europäischer Medizinbibliotheken, die
+ Vgl. dazu Fjällbreit u. Trussell 2018.
+ https://www.iatul.org/about/constitution.html (31.01.2024).
+ http://www.iaml.info/ (31.01.2024).
+1.3 Bibliotheken in der internationalen Zusammenarbeit 55
+European Association for Health Information and Libraries (EAHIL).52 Sie hat sich 1987
+konstituiert und verfügt zu Beginn des Jahres 2024 über rund 1 100 Mitglieder. Auch für
+den Bereich der rechtswissenschaftlichen Bibliotheken gibt es seit 1959 mit der International
+Association of Law Libraries (IALL)53 eine Organisation, die aktuell über
+400 Mitglieder aus mehr als 50 Ländern aus aller Welt aufweist. Auf einen regionalen
+Sammlungsschwerpunkt ausgerichtet ist die als Verein organisierte Arbeitsgemeinschaft
+der Bibliotheken und Dokumentationsstellen der Ost-, Ostmittel- und Südosteuropaforschung
+(ABDOS),54 deren Mitglieder zwar überwiegend in Deutschland angesiedelt
+sind, die aber auch aus Großbritannien, Österreich, der Schweiz, Tschechien und Ungarn
+kommen. Auch das Middle East Libraries Committee (MELCom International)55 definiert
+sich über einen regionalen Sammelschwerpunkt. Ursprünglich hervorgegangen
+aus MELCom UK hat sich die Organisation seit 1988 international aufgestellt.
+Ein thematischer Schwerpunkt steht bei Netzwerken wie der International Coalition
+of Library Consortia (ICOLC)56 im Vordergrund, in der sich Bibliothekskonsortien aus
+aller Welt, die sich mit der gemeinschaftlichen Beschaffung elektronischer Ressourcen
+in einem globalisierten Markt befassen, seit 1996 zum Erfahrungsaustausch und zur Erarbeitung
+gemeinsamer Strategien zusammengefunden haben. Auch die im Jahr 2000
+gegründete German, Austrian and Swiss Consortia Organisation (GASCO)57 fungiert im
+deutschsprachigen Raum – unter Beteiligung von Luxemburg – als Forum für Konsortien.
+Als weitere Beispiele solcher thematisch definierter Interessensgruppen seien etwa
+die International Group of Ex Libris Users (IGeLU),58 die European RDA Interest Group
+(EURIG)59 oder die Confederation of Open Access Repositories (COAR)60 genannt.
+4 Perspektiven der internationalen
+Zusammenarbeit im 21. Jahrhundert
+Die Zusammenarbeit zwischen Bibliotheken und Bibliothekar:innen über Ländergrenzen
+hinweg hat eine lange Tradition. Internationale Kooperation kann dabei vielfältige
+Formen annehmen, die von persönlichen Kontakten über supranationale Standardisierungsbemühungen
+bis hin zu mehr oder weniger institutionalisierten Netzwerken, Inte-
+ http://www.eahil.eu/ (31.01.2024).
+ https://iall.org/ (31.01.2024).
+ http://www.abdos.de/ (31.01.2024).
+ http://www.melcominternational.org/ (31.01.2024).
+ http://icolc.net/ (31.01.2024).
+ https://www.hbz-nrw.de/produkte/digitale-inhalte/gasco (31.01.2024).
+ http://igelu.org/ (31.01.2024).
+ http://www.rda-rsc.org/europe (31.01.2024).
+ https://www.coar-repositories.org/ (31.01.2024).
+56 Andreas Brandtner und Hildegard Schäffler
+ressensgemeinschaften, Organisationen und Verbänden reichen. Für das 21. Jahrhundert
+lässt sich konstatieren, dass der Blick über den eigenen Tellerrand zu keinem Zeitpunkt
+unverstellter war als in einer vernetzten digitalen Welt. Mittlerweile sind tendenziell
+sämtliche bibliothekarische Fragestellungen globalisiert, und es werden vermehrt supranationale
+Forschungs- und Informationsinfrastrukturen aufgebaut (z. B. European
+Open Science Cloud – EOSC).
+Bibliotheken müssen sich im digitalen Umfeld in vielerlei Hinsicht neu erfinden,
+um zukunftsfähig zu bleiben, die Digitalisierung des kulturellen Erbes schreitet voran
+und stößt auf vergleichbare Chancen und Grenzen etwa mit Blick auf das Urheberrecht
+oder die Frage der digitalen Langzeitarchivierung. Der Publikationsmarkt, vielfach geprägt
+durch international agierende Verlage, ist nicht zuletzt durch die weltweite Open-
+Access-Initiative in Bewegung gekommen. Die Kund:innen der wissenschaftlichen Bibliotheken
+arbeiten mehr denn je in internationalen Forschungskontexten. Politische
+Rahmenbedingungen werden gerade in Europa nicht selten auf supranationaler Ebene
+vorgegeben, weshalb erfolgreiche Lobbyarbeit auch ein internationales Sprachrohr benötigt.
+Gleichzeitig – am besten ablesbar in den Programmen und Aktivitäten der
+IFLA – gibt es global betrachtet nach wie vor große Unterschiede in den Voraussetzungen,
+unter denen bibliothekarische Arbeit und ganz generell Zugang zu Information
+stattfinden kann, was länderübergreifenden Erfahrungsaustausch nicht minder motiviert.
+Hella Klauser hat bereits vor 15 Jahren in einem Beitrag zum erfolgreichen Aufbau
+internationaler Netzwerke beschrieben,61 wie solche Verbindungen funktionieren
+und wie man aus ihnen – in einem Prozess der gezielten Auswahl aus der Fülle der
+Möglichkeiten und nach dem Prinzip des wechselseitigen Gebens und Nehmens – den
+besten Nutzen für die eigene Arbeit ziehen kann.
+Hervorgehoben sei hieraus abschließend eine Erkenntnis, die sich beim Engagement
+in internationalen wie im Übrigen auch regionalen/nationalen Kontexten immer
+wieder bestätigt. Auch nach Abschluss konkreter Gremienarbeit, Projekte und Arbeitsaufträge
+bleiben Kontakte zwischen den Beteiligten bestehen, die weit über den ursprünglich
+institutionalisierten Rahmen hinauswirken können.
+Literatur
+Ayris, Paul: Establishing the Library Landscape in Europe: LIBER’s Portfolio of EU projects. In: LIBER
+Quarterly 21 (2011), H. 1, S. 86–101. https://doi.org/10.18352/lq.8009.
+Ayris, Paul: Developing European Library Services in Changing Times. In: LIBER Quarterly 21 (2012), H. 3–4,
+S. 331–346. https://doi.org/10.18352/lq.8029.
+Böttger, Klaus, Claudia Lux, Christel Mahnke u. Barbara Schleihagen: Auf dem Weg zur globalen
+Wissensgesellschaft: Die internationale Arbeit der BID. In: Bibliotheksdienst 39 (2005), H. 6,
+S. 727–732.
+ Vgl. Klauser 2009.
+1.3 Bibliotheken in der internationalen Zusammenarbeit 57
+Fjällbrant, Nancy u. Alice Trussel: International Association of Technological University Libraries (IATUL).
+In: Encyclopedia of Library and Information Sciences. Hrsg. von John D. McDonald u. Michael Levine-
+Clark. Bd. 4, 4. Aufl. Boca Raton: CRC Press 2018. S. 2418–2420.
+Glynn, Tom: Historical Perspectives on Global Librarianship. In: Global Librarianship. Hrsg. von Martin
+A. Kesselman u. Irwin Weintraub. New York, Basel: Dekker 2004. S. 1–17.
+Häkli, Esko: Innovation through co-operation. The history of LIBER (Ligue des Bibliothèques Européennes
+de Recherches) 1971–2009. Copenhagen: Museum Tusculanum Press 2011.
+IFLA Annual Report 2022. https://cdn.ifla.org/wp-content/uploads/ifla-annual-report-2022_rev.pdf
+(31.01.2024).
+Klauser, Hella: Aufbau erfolgreicher Netzwerke: Internationale Erfahrungen. In: 97. Deutscher
+Bibliothekartag in Mannheim 2008. Wissen bewegen. Bibliotheken in der Informationsgesellschaft.
+Hrsg. von Ulrich Hohoff u. Per Knudsen. Frankfurt am Main: Klostermann 2009. S. 141–148.
+Klauser, Hella: Strategien für die Bibliothek als Ort in den Goethe-Instituten weltweit. In: Strategien für die
+Bibliothek als Ort. Festschrift für Petra Hauke zum 70. Geburtstag. Hrsg. von Konrad Umlauf, Klaus
+Ulrich Werner u. Andrea Kaufmann. Berlin, Boston: De Gruyter Saur 2017. S. 178–188. https://doi.org/
+10.1515/9783110481037-013.
+Klauser, Hella: Global denken – global handeln. Internationale Erfahrungen für die eigene
+Bibliotheksarbeit nutzen. In: Öffentliche Bibliothek 2030. Herausforderungen – Konzepte – Visionen.
+Hrsg. von Petra Hauke. Bad Honnef: Bock + Herchen 2019. S. 341–347. https://edoc.hu-berlin.de/
+handle/18452/20799 (31.01.2024).
+Lor, Peter J.: International and Comparative librarianship: Concepts and Methods for Global Studies.
+Berlin, Boston: De Gruyter Saur 2019.
+Meinhardt, Haike: Vergleichende internationale Bibliothekswissenschaft. In: BuB Forum Bibliothek und
+Information 63 (2011), H. 5, S. 386–391.
+Parker, J. Stephen: International librarianship – a reconnaissance. In: Journal of Librarianship 6 (1974),
+H. 4, S. 219–232.
+Schleihagen, Barbara: Perspektivenwechsel ermöglichen: Unterstützung für die internationale
+bibliothekarische Zusammenarbeit. In: Dialog mit Bibliotheken 17 (2005), H. 3, S. 54–59.
+Shimmon, Ross, Peter J. Lor, Sofia Kapnisi, Sjoerd Koopman u. Stuart Hamilton: International Federation of
+Library Associations and Institutions (IFLA). In: Encyclopedia of Library and Information Sciences.
+Hrsg. von John D. McDonald u. Michael Levine-Clark. Bd. 4, 4. Aufl. Boca Raton: CRC Press 2018.
+S. 2451–2464.
+Simon, Elisabeth u. Gertrud Seydelmann: Austausch – Teilhabe – Erfahrung. Bibliothekarische
+Auslandsarbeit in den Jahren 1963–2000. Berlin: EDBI 2001.
+Wilhite, Jeffrey M.: 85 Years IFLA: a history and chronology of sessions 1927–2012. Berlin, Boston: De
+Gruyter Saur 2012.

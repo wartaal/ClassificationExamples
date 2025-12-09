@@ -1,0 +1,535 @@
+﻿Eric W. Steinhauer
+10.3 Pflichtexemplarrecht
+
+1 Einleitung
+1.1 Hinführung
+
+Es gehört zu den zentralen Aufgaben von Bibliotheken als Gedächtnisinstitutionen,
+Bücher und andere Medienwerke umfassend zu sammeln und dauerhaft aufzubewah-
+ren. Zum Zwecke einer vollständigen Sammlung haben bestimmte Bibliotheken einen
+gesetzlichen Anspruch auf kostenfreie Ablieferung von Veröffentlichungen, die in
+ihrem Zuständigkeitsbereich erscheinen. Dieser gesetzliche Anspruch wird, wie auch
+das Rechtsgebiet selbst, das sich mit den juristischen Aspekten rund um die Pflichtab-
+lieferung beschäftigt, als Pflichtexemplarrecht bezeichnet. Traditionell steht dieses
+Recht den Landes- bzw. Nationalbibliotheken zu und ist prägend für diesen Biblio-
+thekstyp.1 Darüber hinaus gibt es im Zusammenhang mit Hochschulprüfungen oder
+der Nutzung von Sonderbeständen weitere gesetzlich normierte Ablieferungspflich-
+ten, die mit dem Pflichtexemplarrecht eng verwandt sind. Einen eigenständigen
+Sammlungsbereich stellen die amtlichen Veröffentlichungen dar. Sie werden meist
+auf Grundlage ministerieller Erlasse sowohl von Bibliotheken als auch von Archiven
+gesammelt. Mit dem Aufkommen des Internet steht das traditionelle Pflichtexemplar-
+recht vor großen Herausforderungen, denn sein wichtigstes Ziel, nämlich die Samm-
+lung aller für das kulturelle Leben relevanten Veröffentlichungen, kann ohne eine
+Berücksichtigung von Online-Quellen, die in vielen Bereichen gedruckte Publikatio-
+nen bereits erheblich zurückgedrängt haben, nicht mehr gewährleistet werden.
+
+1.2 Geschichtliches
+
+Die Anfänge des Pflichtexemplarrechts reichen zurück in die Frühzeit des Buch-
+drucks.2 Zum einen wurden Bücher als Gegenleistung für die Gewährung landesherr-
+licher Privilegien, die in Ermangelung eines Urheberrechts im heutigen Sinne den
+Drucker vor unerlaubten Nachdrucken schützen sollten, abgeliefert. Zum anderen ge-
+langten Bücher nach ihrer Prüfung durch eine Zensurbehörde, der sie vorzulegen
+waren, an die Bibliothek des Landesherrn und wurden dort gesammelt.
+
+ Syré 2000: S. 17.
+ Zum älteren Pflichtexemplarrecht Franke 1889; Flemming 1940; Will 1955.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-046
+
+
+
+802 Eric W. Steinhauer
+
+1.3 Rechtfertigung
+
+Mit dem Aufkommen eines modernen Urheberrechts und der Neuorganisation des
+Zensurwesens traten die überkommenen Begründungen für eine Pflichtablieferung
+in den Hintergrund, ohne freilich zu einem Verzicht auf die entschädigungslose
+Pflichtablieferung zu führen. Verleger und Drucker kritisierten diese Praxis. Sie
+sahen darin eine Enteignung und das Pflichtstück als ungerechtfertigte Sonderabgabe,
+ja sogar als Eingriff in ihre Gewerbefreiheit. Als Reaktion auf diese Kritik wurden ins-
+besondere von bibliothekarischer Seite kulturpolitische Aspekte betont. Danach sei es
+Aufgabe von Bibliotheken, die literarischen Erzeugnisse einer Region im Sinne des
+Denkmalschutzes für die Nachwelt zu sammeln und zu erhalten.3 Dieser Ansatz liegt
+auch dem heutigen Pflichtexemplarrecht zugrunde, das sich von seinen urheberrecht-
+lichen und polizeilichen Wurzeln vollständig gelöst hat, wenngleich die rechtlichen
+Grundlagen der Pflichtablieferung teilweise immer noch im Presserecht zu finden
+sind – einer Materie, die wegen der dort normierten Verantwortlichkeit für den ver-
+breiteten Inhalt einen Rest polizeirechtlicher Elemente enthält.
+
+Das Pflichtexemplarrecht selbst, das innerhalb des Presserechts einen in sich ge-
+schlossenen Regelungsbereich darstellt, ist spätestens seit einer Entscheidung des
+Bundesverfassungsgerichts vom 14. Juli 1981,4 die das hessische Pflichtexemplarrecht
+zum Gegenstand hatte, rechtlich allgemein anerkannt.5 Das Gericht hat in der Abliefe-
+rung der Pflichtstücke keine Enteignung gesehen, die von Verfassungs wegen in jedem
+Einzelfall finanziell zu entschädigen wäre, sondern eine in der Sozialbindung des Eigen-
+tums wurzelnde Inhaltsbestimmung der Eigentumsposition, die Verleger und Drucker
+aus kulturstaatlichen Gründen hinzunehmen haben. Sinn des Pflichtexemplarrechts sei
+es, „künftigen Generationen einen umfassenden Eindruck vom geistigen Schaffen frü-
+herer Epochen zu vermitteln“.6 Demgegenüber falle der wirtschaftliche Nachteil der
+Verlegerin oder des Verlegers bei der Ablieferung einzelner Pflichtstücke nicht ins Ge-
+wicht. Soweit bei Kleinauflagen oder hochwertigen Exemplaren die Ablieferung im Ein-
+zelfall eine besondere finanzielle Härte bedeute, sei dies aber durch eine angemessene
+Entschädigungszahlung zu kompensieren.
+
+Im Zuge der Pflichtexemplarentscheidung des Bundesverfassungsgerichts wur-
+den nahezu alle Pflichtexemplarbestimmungen um einen Entschädigungsanspruch
+für Härtefälle ergänzt. Wo solche Regelungen lange Zeit fehlten, wie in den Ländern
+Bremen und Schleswig-Holstein, ergab sich der Entschädigungsanspruch direkt aus
+der Verfassung selbst.
+
+ Pfeiffer 1913: S. 36, dort auch Nachweise zur Kritik.
+ Gödan 2003: S. 148–156.
+ Zur älteren Diskussion Löffler u. Ricker 1978: S. 83–85.
+ Gödan 2003: S. 154.
+
+
+
+10.3 Pflichtexemplarrecht 803
+
+1.4 Gesetzliche Grundlagen
+
+Das Pflichtexemplarrecht unterliegt als traditioneller Teil des Presserechts der Kultur-
+hoheit der Länder, so dass es sechzehn unterschiedliche Pflichtexemplarbestimmungen
+gibt. Hinzu tritt aus Gründen der nationalstaatlichen Kulturpflege auch ein dem Bund
+zustehendes Recht auf Pflichtexemplare, das im Gesetz über die Deutsche Nationalbi-
+bliothek normiert ist. Die insgesamt siebzehn verschiedenen Regelungen unterscheiden
+sich trotz vieler Gemeinsamkeiten im Detail zum Teil erheblich voneinander.7
+
+Der Gegenstand der Ablieferungspflicht, die in Brandenburg, in Bremen und in
+Schleswig-Holstein lediglich eine Anbietungspflicht ist, wird meist traditionell als Druck-
+werk, seltener als Text, mittlerweile überwiegend als Medienwerk umschrieben. Abliefe-
+rungspflichtig ist in erster Linie der Verleger bzw. die Verlegerin, hilfsweise auch
+Hersteller oder Herstellerin. Für Härtefälle ist durchgängig eine Entschädigungsregelung
+vorgesehen. In Baden-Württemberg ist das zweite, an die örtlich unzuständige Landesbi-
+bliothek auf Anforderung abgelieferte Exemplar mit dem halben Ladenpreis zu entschä-
+digen. In den meisten Fällen stellt die Nichterfüllung der Ablieferungspflicht eine
+Ordnungswidrigkeit dar. Die Zahl der geforderten Pflichtstücke variiert von Land zu
+Land. In der Regel wird nur ein Exemplar gefordert, der Bund verlangt genauso wie der
+Freistaat Bayern zwei Exemplare, in Baden-Württemberg ist ein zweites Exemplar nur
+auf gesonderte Anforderung zu leisten, wohingegen in Schleswig-Holstein bis zu drei Ex-
+emplare gefordert werden können. Durchgehend stellen die Pflichtexemplarvorschriften
+klar, dass es keinen Anspruch auf Einarbeitung der Pflichtstücke gibt, teilweise werden
+bereits im Gesetz selbst bestimmte Arten von Publikationen ausgeschlossen. Einzelheiten
+der Ablieferung sowie der Entschädigung werden meist in einer separaten Rechtsver-
+ordnung geregelt.
+
+Insgesamt lassen sich drei Regelungsebenen im Pflichtexemplarrecht unterschei-
+den. Die Ablieferungspflicht selbst sowie dem Grunde nach auch die Entschädigung
+sind in einem Parlamentsgesetz geregelt. Im Licht der Rechtsprechung des Bundesver-
+fassungsgerichts ist eine solche gesetzliche Regelung unverzichtbar, denn eine Inhalts-
+bestimmung grundrechtlich geschützten Eigentums kann nur der parlamentarische
+Gesetzgeber, nicht aber die Verwaltung vornehmen. Auf Grundlage der gesetzlichen
+Regelungen enthält eine Rechtsverordnung, die nach Inhalt, Zweck und Ausmaß im
+Gesetz selbst schon vorgesehen sein muss, die Einzelheiten der Ablieferungspflicht.
+Dadurch wird eine größere Flexibilität im Pflichtexemplarrecht erreicht, denn eine
+Rechtsverordnung kann vom zuständigen Ministerium im Vergleich zu dem relativ
+schwerfälligen Gesetzgebungsverfahren einfacher geändert werden. Zudem wird der
+Gesetzgeber von der Normierung technischer Details entlastet. Die sammelnde Biblio-
+thek schließlich legt ihr Sammelprofil meist in Form von Sammelrichtlinien fest, die
+rechtlich als Verwaltungsvorschrift zu qualifizieren sind. Erst in der Zusammenschau
+
+ Übersicht mit einigen Ungenauigkeiten bei Burkhardt 2023.
+
+
+
+804 Eric W. Steinhauer
+
+dieser drei Ebenen lässt sich der tatsächliche Umfang der Sammlungstätigkeit der
+Pflichtexemplarbibliotheken erkennen.
+
+Die gesetzliche Grundlage des Pflichtexemplarrechts ist in drei verschiedenen Arten
+von Gesetzen zu finden. Etwa ein Drittel der Länder regeln ihr Pflichtexemplarrecht im
+Landespressegesetz bzw. im Landesmediengesetz. Die Bestimmungen hier sind, da sie
+sich an einem Muster-Entwurf für ein Pressegesetz orientieren, sehr vergleichbar. Seit
+den 1980er Jahren haben die Länder Bayern, Berlin, Hamburg und Nordrhein-Westfalen
+und jüngst auch Niedersachsen ihr Pflichtexemplarrecht in eigenen Pflichtexemplargeset-
+zen neu normiert. Anlass war hier unter anderem die Ausweitung der Sammeltätigkeit
+über den Bereich der reinen Druckschriften hinaus. Bestimmungen, die sich etwa auf
+audio-visuelles Material beziehen, wurden als für das Presserecht unpassend angesehen.
+In Hessen wurde das Pflichtexemplarrecht erstmals in ein Bibliotheksgesetz aufgenom-
+men und steht dort im Zusammenhang mit den Bestimmungen über die landesbibliothe-
+karischen Aufgaben. Vergleichbar hiermit sind die bundesrechtlichen Bestimmungen im
+Gesetz über die Deutsche Nationalbibliothek. Dem Beispiel Hessens sind die Länder Bre-
+men, Rheinland-Pfalz, Schleswig-Holstein sowie Thüringen gefolgt. Nordrhein-Westfalen
+hat sein Pflichtexemplargesetz in das Kulturgesetzbuch des Landes integriert, das eben-
+falls ein Bibliotheksgesetz enthält.
+
+Überblickt man die Entwicklung der gesetzlichen Grundlagen des Pflichtexem-
+plarrechts, so treten zwei Tendenzen besonders hervor. Zuerst ist die nahezu flächen-
+deckende Regelung von Entschädigungsansprüchen als Reaktion auf die Entscheidung
+des Bundesverfassungsgerichts zu nennen. Sodann hat zeitgleich eine stete Anpassung
+der Pflichtexemplarbestimmungen an die sich wandelnde Medienlandschaft begon-
+nen, die bis heute nicht abgeschlossen ist. Während audio-visuelle Materialien mit
+Ausnahme des Films mittlerweile durchgängig dem Pflichtexemplarrecht unterfallen,
+ist dies für reine Netzpublikationen nicht der Fall. Diese werden seit 2006 von der
+Deutschen Nationalbibliothek gesammelt und haben in unterschiedlicher Akzentuie-
+rung seither Einzug in das Pflichtexemplarrecht der meisten Länder gehalten. Aller-
+dings ergeben sich hier einige bislang nicht vollständig geklärte juristische Probleme
+(s. Abschnitt 2.5 „Netzpublikationen als Herausforderung“ in diesem Kapitel).
+
+2 Pflichtexemplare
+2.1 Das Sammeln der Amtsdruckschriften
+
+Zu den Veröffentlichungen, die für das Verständnis historischer und kultureller Zusam-
+menhänge bedeutsam sind, zählen auch die von staatlichen Stellen herausgegebenen
+amtlichen Veröffentlichungen. Da sie meist nicht über den Buchhandel vertrieben wer-
+den, sind sie nur selten in Bibliotheken zu finden und fallen daher leicht aus dem kultu-
+rellen Gedächtnis. Um dem entgegenzuwirken, sammeln die Pflichtexemplarbibliotheken
+
+
+
+10.3 Pflichtexemplarrecht 805
+
+in der Regel auch die meist als Amtsdruckschriften bezeichneten Publikationen öffentli-
+cher Stellen. Die rechtliche Grundlage für diese Sammeltätigkeit findet sich aber nicht in
+den Pflichtexemplarregelungen, die amtliche Veröffentlichungen regelmäßig von der Ab-
+lieferungspflicht ausschließen, sondern in eigenen Bestimmungen, meist ministeriellen
+Ablieferungserlassen. Im Rahmen der Fachaufsicht werden dabei die Stellen, die amtliche
+Publikationen herausgeben, angewiesen, diese den im Erlass bezeichneten Bibliotheken
+kostenfrei zu übermitteln. Dabei sind nicht nur die Pflichtexemplarbibliotheken oder aus
+traditionellen Gründen weitere Regionalbibliotheken (beispielsweise Oldenburg oder Det-
+mold) empfangsberechtigt, sondern auch Parlamentsbibliotheken, Archive, die Deutsche
+Nationalbibliothek sowie die Staatsbibliotheken in München und Berlin, wobei die Berli-
+ner Bibliothek am internationalen Amtsdruckschriftentausch beteiligt ist.
+
+Die Ablieferungspflicht lediglich im Erlasswege zu regeln, erscheint auf den ers-
+ten Blick sinnvoll, denn der Staat verpflichtet sich üblicherweise nicht selbst in Form
+von Gesetzen, sondern regelt seine inneren Angelegenheiten durch hierarchische
+Weisungen. Allerdings reichen Erlasse grundsätzlich nur so weit, wie die Fachaufsicht
+der erlassenden Behörde reicht. Das hat zur Folge, dass die Amtsdruckschriftenerlasse
+im Selbstverwaltungsbereich von Kommunen und Hochschulen keine unmittelbare Gel-
+tung haben.8 Diese Verwaltungsstellen werden daher in den jeweiligen Erlassen le-
+diglich gebeten, auch ohne strikte Rechtspflicht ihre amtlichen Veröffentlichungen
+abzuliefern. Eine allein schon wegen der länderübergreifenden Sammlung der
+Staatsbibliotheken in München und Berlin wünschenswerte Vereinheitlichung bei
+den Abgabeerlassen wird durch einen Mustererlass der Kultusministerkonferenz
+von 1995 angestrebt, der in seiner letzten Fassung aus dem Jahre 2007 auch die
+Netzpublikationen der Behörden umfasst. Die Länder haben dies jedoch nicht voll-
+ständig umgesetzt. Einige Ländern tendieren dazu, amtliche Veröffentlichungen
+nur noch in den zuständigen Archiven zu sammeln. So gibt es im Freistaat Sach-
+sen, in Mecklenburg-Vorpommern und in Thüringen keinen Amtsdruckschriftener-
+lass. Das Land Hessen hat seinen Erlass im Jahr 2000 ersatzlos aufgehoben,9 so
+dass die hessischen Bibliotheken Amtsdruckschriften nur noch auf gewohnheits-
+rechtlicher Grundlage beziehen. In den vorstehend genannten Ländern enthalten
+jedoch die Archivgesetze Bestimmungen über die Ablieferung amtlicher Veröffent-
+lichungen. In Berlin hingegen ist die Materie im Pflichtexemplargesetz selbst gere-
+gelt, so dass dort auch Selbstverwaltungseinrichtungen ihre Veröffentlichungen
+abliefern müssen. Gleiches gilt für Rheinland-Pfalz und Bremen, wo die amtlichen
+Veröffentlichungen jeweils im Bibliotheksgesetz gesetzlich normiert sind. Neben
+die Amtsdruckschriftenerlasse oder die archivrechtlichen Bestimmungen treten
+mitunter sehr versteckte und spezielle Ablieferungsregelungen. So wurden etwa
+die Thüringer Hochschulen im Haushaltsbewirtschaftungserlass vom 17. Januar
+
+ Kirchner 1981: S. 200.
+ Hessischer Staatsanzeiger 2000: S. 4223.
+
+
+
+806 Eric W. Steinhauer
+
+2007 (Az. 1A3/0403-1/2007) gebeten, ihre Veröffentlichungen im Sinne eines kosten-
+freien Belegexemplars an die Bibliothek des Ministeriums zu liefern.
+
+Die im Vergleich zum Pflichtexemplarrecht unübersichtliche und lückenhafte Rege-
+lung der Amtsdruckschriften wurde vielfach kritisiert.10 Teilweise wurde Unverständnis
+geäußert, dass der Staat sich selbst von der Pflichtablieferung ausnimmt, teilweise wird
+die Doppelspurigkeit von Pflichtexemplarvorschriften und Amtsdruckschriftenbestim-
+mungen als zu kompliziert empfunden.
+
+2.2 Weitere Pflichtablieferungsbestimmungen
+
+Neben das Pflichtexemplarrecht im engeren Sinn treten im Bibliotheksbereich noch
+zwei weitere gesetzliche Ablieferungspflichten, nämlich die Ablieferung von Hochschul-
+schriften (Dissertationen, Habilitationen) auf Grundlage prüfungsrechtlicher Bestim-
+mungen sowie die Abgabepflicht von Belegexemplaren im Rahmen der Benutzung von
+Sonderbeständen (Handschriften, Nachlässe), wenn eine Publikation unter wesentlicher
+Verwendung dieser Bestände erarbeitet wurde. An dieser Stelle nur kurz erwähnt sei
+der Filmbereich.11 Hier sammelt das Bundesarchiv auf der Grundlage von § 49 Filmför-
+derungsgesetz subventionierte Produktionen. Zudem besteht nach § 17 Bundesarchivge-
+setz eine Registrierungspflicht für deutsche Kinofilme, die jedoch nicht an das Archiv
+abgeliefert werden müssen. Ein singuläres Kuriosum ist die Ablieferungspflicht von in
+Sachsen herstellten Medaillen an das Münzkabinett der Staatlichen Kunstsammlungen
+Dresden auf Grundlage von § 16 des sächsischen Archivgesetzes, wobei die dafür not-
+wendige Rechtsverordnung bis heute fehlt.
+
+2.3 Hochschulschriften
+
+Die Promotions- und Habilitationsordnungen sehen durchgängig eine Veröffentli-
+chungspflicht vor und verlangen zugleich die Abgabe einer bestimmten Anzahl von
+Exemplaren der Prüfungsarbeit zur Aufnahme in die Hochschulbibliothek sowie für
+den Hochschulschriftentausch. Dem Anspruch auf die Freiexemplare korrespon-
+diert die unausgesprochene öffentlich-rechtliche Pflicht, die Hochschulschriften der
+eigenen Hochschule dauerhaft zu sammeln.12 Der Hochschulschriftentausch dient
+vor allem bei Arbeiten, die außerhalb des Buchhandels erscheinen, der Herstellung
+einer wissenschaftlichen Öffentlichkeit. Dieser Austausch wird mitunter als ausrei-
+chend angesehen, um diese Arbeiten dauerhaft zu erhalten, so dass die Pflichtexem-
+
+ Kaspers 1954.
+ Koschmieder 2021.
+ Kirchner 1981: S. 202; Vogt 2002: S. 110.
+
+
+
+10.3 Pflichtexemplarrecht 807
+
+plarvorschriften die Hochschulschriften teilweise von der Ablieferungspflicht aus-
+nehmen. Als wissenschaftliche Publikationen sind sie überdies auch keine amtli-
+chen Druckschriften.
+
+In älteren Hochschulgesetzen war die Veröffentlichungs- und Ablieferungspflicht
+explizit geregelt. Man hielt dies aus verfassungsrechtlichen Gründen wegen des Ein-
+griffs in Urheber- und Eigentumsrechte für geboten.13 Im Zuge der Deregulierung im
+modernen Hochschulrecht sind entsprechende Bestimmungen mit Ausnahme von
+Mecklenburg-Vorpommern vollständig aufgehoben worden, so dass sich die Abliefe-
+rungspflicht heute allein in den jeweiligen Prüfungsordnungen als Hochschulsatzun-
+gen findet.
+
+Ob über den Kreis von Doktorarbeiten und Habilitationsschriften hinaus auch stu-
+dentische Abschlussarbeiten ablieferungspflichtig gemacht werden können, scheint
+zweifelhaft, da diese Arbeiten keine eigenständigen wissenschaftlichen Ergebnisse
+enthalten müssen, die als Teil der zu erbringenden Prüfungsleitung der wissenschaftli-
+chen Öffentlichkeit zu präsentieren wären. Soweit sie in Prüfungsämtern gesammelt
+werden, können sie, da sie als Prüfungsunterlagen gelten und insofern nicht veröffent-
+licht sind, aus urheberrechtlichen Gründen nicht an die Hochschulbibliothek zur allge-
+meinen Benutzung und Verzeichnung abgegeben werden. Werden diese Arbeiten im
+Hochschularchiv verwahrt, richtet sich ihre Nutzung nach Archivrecht.
+
+2.4 Belegexemplare
+
+In den Benutzungsordnungen von Bibliotheken findet sich häufig die Verpflichtung, von
+Publikationen, die auf Grundlage von Sonderbeständen wie Handschriften oder Nachläs-
+sen erarbeitet wurden, der Bibliothek ein kostenfreies Belegexemplar zu überlassen.
+Rechtfertigen lässt sich eine solche Regelung damit, dass die Bibliothek über sie betref-
+fende Forschungen informiert sein soll (Erschließungsfunktion), wodurch unnötige Dop-
+pelforschungen am Original vermieden werden (Schutzfunktion). Schließlich kann das
+Belegexemplar auch als Kompensation für die mitunter arbeitsintensive Betreuung der
+Nutzer:innen angesehen werden (Abgeltungsfunktion).14 Obwohl die Forderung eines
+Belegexemplars sachgerecht erscheint, dürften viele Belegexemplarbestimmungen man-
+gels einer ausreichenden gesetzlichen Grundlage aber rechtswidrig sein. Sie stellen
+einen Eingriff in das Eigentum der Bibliotheksnutzer:innen dar, der nur durch oder auf-
+grund gesetzlicher Regelung erfolgen darf. Dies wurde im Archivrecht zuerst erkannt.15
+Daher finden sich in fast allen Archivgesetzen entsprechende Ermächtigungsgrundlagen,
+die in Härtefällen übrigens auf die Entschädigungsregelungen des Pflichtexemplarrechts
+
+ Ausführlich dazu Stumpf 2016.
+ Schoch u. a. 2007: S. 224.
+ Schoch u. a. 2007: S. 221–225.
+
+
+
+808 Eric W. Steinhauer
+
+verweisen. Für Bibliotheken gibt es derzeit in den Bibliotheksgesetzen und im Kulturge-
+setzbuch Nordrhein-Westfalen eine entsprechende Vorschrift.
+
+2.5 Netzpublikationen als Herausforderung
+
+Das Pflichtexemplarrecht hat sich, soweit es um Druckwerke geht, weitgehend bewährt.
+Zudem konnte es flächendeckend auch auf audio-visuelle Materialien ausgeweitet wer-
+den. Mit dem Aufkommen des Internets steht es gegenwärtig aber vor seiner größten
+Herausforderung, denn ein Großteil der zeitgeschichtlich relevanten Publikationen ist
+mittlerweile online zu finden. Wenn das Pflichtexemplarrecht auch künftig seiner Auf-
+gabe, die möglichst vollständige Sammlung aller kulturell und historisch bedeutsamen
+Publikationen zu gewährleisten, gerecht werden will, müssen auch Netzpublikationen
+in seinen Anwendungsbereich einbezogen werden. Tatsächlich sind erste Schritte in
+diese Richtung schon recht frühzeitig im Zusammenhang mit der Einführung von elek-
+tronischen Dissertationen erfolgt. Im Projekt DissOnline hat Die Deutsche Bibliothek,
+die Vorgängereinrichtung der Deutschen Nationalbibliothek, bereits 1998 damit begon-
+nen, Online-Publikationen zu sammeln und dauerhaft zu erhalten, was einmal mehr
+das Zusammenspiel von Hochschulschriften und Pflichtexemplarrecht illustriert. Die
+dabei gewonnenen Erfahrungen mündeten in den Erlass des Gesetzes über die Deut-
+sche Nationalbibliothek im Jahr 2006. Darin wurde der Sammelauftrag der Bibliothek
+technikneutral auf Medienwerke bezogen, die sowohl in körperlicher als auch in unkör-
+perlicher Form, worunter Netzpublikationen verstanden werden, abzuliefern sind. Der
+Gesetzgeber wollte sogar, dass die Bibliothek künftig das deutsche Internet in regelmä-
+ßigen Abständen im Wege des Web-Harvesting vollständig sichert, ein Vorhaben, das
+freilich nur in der Gesetzesbegründung, nicht jedoch im Gesetzestext selbst seinen Nie-
+derschlag gefunden hat.16
+
+Die Ausweitung des Sammelauftrags der Deutschen Nationalbibliothek auf Netzpu-
+blikationen war zwar sinnvoll, leidet jedoch unter einem juristischen Konstruktionsfeh-
+ler, der bis heute nicht restlos behoben ist.17 Anders als bei Büchern und anderen
+Trägermedien wird mit der Ablieferung von Netzpublikationen nicht zugleich ein Ei-
+gentumserwerb bewirkt, der im analogen Bereich die Grundlage für die Nutzung und
+Erhaltung der Pflichtstücke bildet, sondern lediglich eine Vervielfältigung auf dem Ser-
+ver der Bibliothek erzeugt. Neben der Ablieferung wäre daher auch die Regelung von
+Nutzungsrechten für die Pflichtexemplarbibliothek erforderlich gewesen, zumal urheber-
+rechtliche Schrankenbestimmungen nicht ohne weiteres ein selbständiges Einsammeln
+von Netzpublikationen durch die Bibliothek oder eine rechtssichere Langzeitarchivierung
+
+ Bundestags-Drucksache 16/322: S. 12.
+ Steinhauer 2016.
+
+
+
+10.3 Pflichtexemplarrecht 809
+
+gestatten, die stets mit redundanten Vervielfältigungen und Formatänderungen verbun-
+den ist. Dies gilt auch für die Nutzung der unkörperlichen Pflichtexemplare.
+
+In der Anfangszeit hat man dieses Problem offenbar nicht so recht erkannt und
+das Leitbild der Ablieferung körperlicher Werkstücke einfach auf den Bereich der Netz-
+publikationen übertragen. Auch erste Regelungen in den Bundesländern haben im We-
+sentlichen nur die bisherigen Bestimmungen auf Netzpublikationen ausgeweitet. Da die
+Pflichtexemplarvorschriften selbst keine urheberrechtlichen Schrankenbestimmungen
+darstellen, wird man bei der Ablieferung von Netzpublikationen wenigstens eine
+schlüssige Übertragung von Nutzungsrechten annehmen müssen, damit die empfangs-
+berechtigten Bibliotheken überhaupt eine Arbeitsgrundlage haben.18 Problematisch
+dabei ist allerdings, dass es Nutzungsrechte an sich nicht gibt, sondern dass sie in Reich-
+weite und Umfang stark variieren können. Von daher muss sich aus den Pflichtexem-
+plarvorschriften hinreichend deutlich ergeben, in welchem Umfang die Bibliothek die
+abgelieferten Werke nutzen wird. Ungelöst bleibt freilich, wie mit säumigen Abliefe-
+rungspflichtigen zu verfahren ist. Auch ein Web-Harvesting ist auf dieser Grundlage
+nicht zulässig.
+
+Mittlerweile hat der Gesetzgeber das Problem teilweise erkannt. Die neueren
+Pflichtexemplarbestimmungen für Netzpublikationen umschreiben recht genau die
+bei der Ablieferung einzuräumenden Nutzungsrechte.19 Teilweise ist sogar eine Er-
+satzvornahme mit gesetzlicher Nutzungsrechtseinräumung vorgesehen.
+
+Problematisch freilich ist, dass die Länder aus kompetenzrechtlichen Gründen
+keine urheberrechtlichen Bestimmungen erlassen können und landesgesetzliche Re-
+gelungen daher nur aus Gründen des gesetzgeberischen Sachzusammenhangs zu
+rechtfertigen sind. Richtigerweise ist es Aufgabe des Bundesgesetzgebers, die Samm-
+lung, Erhaltung und Nutzung von Netzpublikationen durch Pflichtexemplarbiblio-
+theken mit eigenen urheberrechtlichen Schrankenbestimmungen abzusichern.20 Da
+es um den Erhalt nationalen Kulturgutes geht, stehen der Einführung solcher Be-
+stimmungen keine europarechtlichen Hindernisse im Weg. In Art. 2 des Gesetzes
+zur Angleichung des Urheberrechts an die aktuellen Erfordernisse der Wissensge-
+sellschaft (Urheberrechts-Wissensgesellschafts-Gesetz – UrhWissG) vom 1. Septem-
+ber 2017 wurde das Gesetz über die Deutsche Nationalbibliothek dahingehend
+geändert, dass nach § 16a DNBG Netzpublikationen von der Bibliothek aktiv einge-
+sammelt werden können. Auf diese Bestimmungen können sich nach § 21 DNBG
+auch die Pflichtexemplarbibliotheken der Länder berufen.21 Problematisch bleibt
+freilich, dass die Langzeitarchivierung und die Nutzung in den Bibliotheken nur auf
+Grundlage von urheberrechtlichen Schrankenbestimmungen möglich sind, die künf-
+tig auch wieder entfallen können. Richtigerweise hätte der Gesetzgeber den Biblio-
+
+ Heckmann u. Weber 2008.
+ Steinhauer 2012: S. 2–14.
+ Umfassend dazu Euler 2011.
+ Dreier 2022.
+
+
+
+810 Eric W. Steinhauer
+
+theken dauerhafte Nutzungsrechte als funktionales Äquivalent zum Eigentumsrecht
+an analogen Pflichtstücken zuweisen müssen.
+
+Im Bereich der Amtsdruckschriften machen unkörperliche Medienwerke inso-
+weit weniger Probleme, als der Staat in der Regel selbst Inhaber entsprechender Nut-
+zungsrechte ist, so dass eine Nutzung in seinen eigenen Pflichtexemplarbibliotheken
+keinen urheberrechtlichen Bedenken begegnet. Soweit es um die Forderung von Be-
+legexemplaren für die Nutzung von Sonderbeständen geht, wären die Auswirkungen
+der Digitalisierung und freien Verfügbarkeit dieser Ressourcen im Internet näher zu
+würdigen, denn die Online-Nutzung allein dürfte keine ausreichende Grundlage für
+die Abgabe von Freistücken darstellen.
+
+3 Die Zukunft des Pflichtexemplarrechts
+Ob das Pflichtexemplarrecht die Ausweitung in den Bereich der Netzpublikationen
+tatsächlich erfolgreich wird bewältigen können, ist eine offene Frage. Es gilt nämlich
+nicht nur, technische und rechtliche Probleme zu lösen, die größte Herausforderung
+stellt die Konvergenz der unterschiedlichen Medientypen im digitalen Bereich dar.
+Während in der analogen Welt weitgehend klar ist, welche Publikationen als kulturell
+relevante Veröffentlichung gelten, ist dies im digitalen Bereich in weiten Teilen noch
+unbestimmt. Sinnvoll erscheint zumindest eine Sammeltätigkeit zu sein, die sich im
+Sinne eines Schalenmodells auf eine möglichst vollständige Sammlung derjenigen Pu-
+blikationen konzentriert, die überkommene Druckwerke ersetzen, und sich im Be-
+reich der Ephemera wie auch jetzt schon auf eine exemplarische Dokumentation
+beschränkt. Hierzu kann auch ein periodisches Web-Harvesting gehören. Inwieweit
+dies überhaupt noch von Bibliotheken geleistet werden kann oder ob es speziell für
+den Netzbereich nicht einer vollkommen anders aufgestellten Gedächtnisinstitution
+bedarf, die neben Bibliotheken, Archive und Museen als vierte Säule des kulturellen
+Gedächtnisses treten könnte, ist ebenfalls eine noch offene Frage. Für eine solche, die
+Pflichtexemplarbibliotheken ergänzende Institution spricht, dass die im Pflichtexem-
+plarrecht traditionell ausgesparten Bereiche des Films sowie des Rundfunks in ihrer
+neuen digitalen Form ebenfalls umfassend gesammelt und dokumentiert werden
+könnten. Um hier freilich zu einer sinnvollen Lösung zu kommen, bedarf es noch in-
+tensiver kultur- und medienwissenschaftlicher Überlegungen, was in welcher Form
+künftig Inhalt des kulturellen Gedächtnisses einer Informationsgesellschaft im Inter-
+netzeitalter sein soll.22
+
+ Steinhauer 2015.
+
+
+
+10.3 Pflichtexemplarrecht 811
+
+Literatur
+Burkhardt, Emanuel H.: Anhang § 12 LPG Pflichtexemplarrecht. In: Presserecht. Kommentar zu den
+
+deutschen Landespressegesetzen. Begr. von Martin Löffler. Hrsg. Emanuel H. Burkhardt. 7. Aufl.
+München: Beck 2023, S. 873–925.
+
+Dreier, Thomas: Nebenurheberrecht. In: Urheberrechtsgesetz, Urheberrechts-Diensteanbieter-Gesetz,
+Verwertungsgesellschaftengesetz, Nebenurheberrecht, Kunsturhebergesetz. Kommentar, 7. Aufl.
+München: Beck 2022, Rn. 3–1 1.
+
+Euler, Ellen: Das kulturelle Gedächtnis im Zeitalter digitaler und vernetzter Medien und sein Recht. Status
+quo der rechtlichen, insbesondere urheberrechtlichen Rahmenbedingungen und
+Regelungsalternativen. Bad Honnef: Bock + Herchen 2011.
+
+Flemming, Alfred: Das Recht der Pflichtexemplare. München: Beck 1940.
+Franke, Johannes: Die Abgabe der Pflichtexemplare von Druckerzeugnissen. Unter besonderer
+
+Berücksichtigung Preussens und des Deutschen Reiches. Berlin: Asher 1889 (Sammlung
+bibliothekswissenschaftlicher Arbeiten 3).
+
+Gödan, Jürgen Christoph: Entscheidungssammlung zum Bibliotheksrecht. Hrsg. von der
+Rechtskommission des Deutschen Bibliotheksinstituts und der Kommission für Rechtsfragen des
+Vereins Deutscher Bibliothekare 2. Aufl. Wiesbaden: Harrassowitz 2003 (Bibliotheksrecht 2).
+
+Heckmann, Jörn u. Marc Philipp Weber: Elektronische Netzpublikationen im Lichte des Gesetzes über die
+Deutsche Nationalbibliothek (DNBG). In: AfP 39 (2008), S. 269–276.
+
+Kaspers, Heinrich: Die Abgabe amtlicher Drucksachen an die öffentlichen Bibliotheken. Das
+Pflichtexemplarrecht für amtliche Drucksachen in Deutschland von seinen Anfängen bis zum
+gegenwärtigen Stand. Köln: Greven 1954 (Arbeiten aus dem Bibliothekar-Lehrinstitut des Landes
+Nordrhein-Westfalen 4).
+
+Kirchner, Hildebert: Bibliotheks- und Dokumentationsrecht. Wiesbaden: Reichert 1981 (Elemente des
+Buch- und Bibliothekswesens 8).
+
+Koschmieder, Norman: § 17 Pflichtregistrierung für deutsche Kinofilme. In: Christoph J. Partsch,
+Bundesarchivgesetz: Handkommentar. 2. Aufl. Baden-Baden: Nomos 2021.
+
+Löffler, Martin u. Reinhart Ricker: Handbuch des Presserechts. München: Beck 1978.
+Pfeiffer, Friedrich Wilhelm: Das materielle Recht der Pflichtexemplare in Deutschland. Eine historisch-
+
+dogmatische Untersuchung. München: Rieger in Komm. 1913.
+Schoch, Friedrich, Michael Kloepfer u. Hansjürgen Garstka: Archivgesetz (ArchG-ProfE). Entwurf eines
+
+Archivgesetzes des Bundes. Berlin: Duncker & Humblot 2007 (Beiträge zum Informationsrecht 21).
+Steinhauer, Eric W: Stellungnahme zu dem Entwurf eines Gesetzes über die Ablieferung von
+
+Pflichtexemplaren in Nordrhein-Westfalen (Pflichtexemplargesetz Nordrhein-Westfalen) Drucksache
+16/179 vom 16.11.2012. Stellungnahme 16/231 (Landtag Nordrhein-Westfalen).
+
+Steinhauer, Eric W.: Die Sammlung, Bewahrung und Verwaltung von Netzpublikationen durch
+Pflichtexemplarbibliotheken in Deutschland. In: Bibliotheksdienst 49 (2015), S. 1101–1 113.
+
+Steinhauer, Eric W.: 10 Jahre Pflichtablieferung von Netzpublikationen – Eine Baustelle wird besichtigt. In:
+Dialog mit Bibliotheken 28 (2016), H. 2, S. 31–36.
+
+Stumpf, Gerrit Hellmuth: Dissertationsdruckzwang. In: Wissenschaftsrecht 49 (2016), S. 257–295.
+Syré, Ludger: Typ und Typologie von Regionalbibliotheken. In: Regionalbibliotheken in Deutschland. Mit
+
+einem Ausblick auf Österreich und die Schweiz. Hrsg. von Bernd Hagenau. Frankfurt a. M.:
+Klostermann 2000 (Zeitschrift für Bibliothekswesen und Bibliographie – Sonderhefte 78), S. 13–35.
+
+
+
+812 Eric W. Steinhauer
+
+Vogt, Winold: Gutachten zur Frage der Behandlung überzähliger Dissertationen. In: Gutachtensammlung
+zum Bibliotheksrecht. Gutachten, Stellungnahmen, Empfehlungen, Berichte. Red. Jürgen Christoph
+Gödan Wiesbaden: Harrassowitz 2002 (Bibliotheksrecht 1), S. 110–111.
+
+Will, Erich: Köln: Die Abgabe von Druckwerken an öffentliche Bibliotheken. Recht und Praxis der
+deutschen Pflichtexemplare. Köln: Greven 1955 (Arbeiten aus dem Bibliothekar-Lehrinstitut des
+Landes Nordrhein-Westfalen 10).

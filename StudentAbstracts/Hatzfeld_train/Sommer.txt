@@ -1,0 +1,764 @@
+Dorothea Sommer
+2.1 Planungen zum Bibliotheksbau –
+Überlegungen und Hinweise zu
+Grundlagenermittlung und
+Planungsschritten für Bibliotheken
+1 Vorbemerkung
+Der Bau, Umbau und die Sanierung von Bibliotheken in den letzten Jahrzehnten des 20.
+und in den ersten des 21. Jahrhunderts haben sich vor dem Hintergrund der digitalen
+Transformation stetig weiterentwickelt. Eine beeindruckende Reihe von herausragenden
+Gebäuden wurde bereits fertiggestellt oder befindet sich im Bau. Die neuen Bibliotheken
+spiegeln die Ambitionen ihrer Architektinnen und Architekten, der jeweiligen
+Geldgeber, der seitens der Bibliotheken verantwortlichen Personen und idealerweise
+auch der Nutzerinnen und Nutzer1 wider. Genannt werden können hier u. a. die Bibliothek
+DOKK 1 von Schmidt Hammer Lassen in Aarhus (Dänemark), die neue finnische
+Zentralbibliothek Oodi in Helsinki von ALA Architects, Santiago Calatravas Rechtsbibliothek
+in Zürich, das Rolex Learning Center in Lausanne von den japanischen Architekten
+Kazuo Sejima und Ryne Nishizawa (SANAA), das Bibliotheksgebäude von Zaha
+Hadid für die Wirtschaftsuniversität in Wien, die neue chinesische Nationalbibliothek
+in Peking von Engel und Zimmermann oder die verschiedenen Bibliotheksbauten von
+Max Dudler in Deutschland.2 Nicht zu vergessen sind auch die sorgfältigen und aufwändigen
+Sanierungen von historischen Bibliotheksbauten wie u. a. des Gebäudes der
+Staatsbibliothek zu Berlin unter den Linden, das nach Plänen von HG Merz aufwendig
+wieder hergerichtet wurde oder die Restaurierung der Bibliothèque Nationale de
+France mit ihrem wunderbaren Lesesaal. Dieser wurde ursprünglich entworfen von
+Henri Labrouste und konnte nun bei laufendem Betrieb in jahrelanger Arbeit durch
+Bruno Gaudin in neuen Glanz versetzt werden. Bibliotheken sind geeignet, mit ikonischen
+Bauten zum urbanen Charakter einer Stadt beizutragen und ihn mitunter auch
+zu prägen, wobei sie für einen definierten Ort für Wissen, Information und Kommunikation
+stehen, der allgemein zugänglich ist.
+Ihre moderne Rolle in der kulturellen oder wissenschaftlichen Landschaft eines
+Ortes ist dabei zunehmend von informationsgeleiteten Gesellschaften bestimmt, die
+sich auf moderne Technologien und neue Medienformate stützen. Wir beobachten
+ Gemeint sind hier sowohl die Bibliotheksnutzerinnen und -nutzer wie auch das in Bibliotheken tätige
+Personal. Im weiteren Verlauf des Artikels wird entsprechend den Gepflogenheiten im Bauwesen
+unter „Nutzer“ die Bibliothek als Organisation verstanden.
+ https://www.maxdudler.de/de/projekte/?cid=6 (24.10.2023).
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-005
+also ein scheinbares Paradoxon: Die Medien und Dienstleistungen in den Bibliotheken,
+die genutzt werden, sind zunehmend elektronisch und virtuell, während der
+physische Raum für Bibliotheken nach wie vor gefragt ist und sich in der Entwicklung
+neuer und interessanter Gebäude- und Designformen niederschlägt. Es gibt viele Beispiele
+für eher unbekannte und kleine Bibliotheken, bei deren Bau und Ausstattung
+ebenfalls auf diesen Trend reagiert wird.
+2 Planungsbedarfe
+Dennoch muss man sich vergegenwärtigen, dass die Genese eines Bibliotheksbaus
+häufig eine lange Vorgeschichte hat. Sie mag einsetzen bei der Erkenntnis, dass ein
+Bau notwendig oder sanierungsbedürftig ist, dass eine Anpassung an aktuelle Normen
+und Sicherheitsstandards erforderlich ist oder die Magazinkapazitäten nicht ausreichen.
+In Zeiten, in denen in vielen öffentlichen und wissenschaftlichen Bibliotheken
+den Nutzerinnen und Nutzern das Hauptaugenmerk gilt, sind zudem verschiedene
+Varianten von Nutzungs- und Gruppenarbeitsplätzen einzuplanen. Allgemein gesagt:
+Planungsbedarf entsteht, sobald erkennbar wird, dass die vorhandene räumliche Situation
+die Erfüllung der Aufgaben einer Bibliothek nicht mehr gewährleistet.3
+In einem weiteren Schritt ist sodann diese Kenntnis vorhandener bestimmter Defizite
+in ihrer Dringlichkeit in die Wahrnehmung von politischen und gesellschaftlichen
+Entscheidungs- und Mandatsträgern auf dem Verwaltungsweg zu transferieren,
+um eine Realisierung und Finanzierung einer in der Regel sehr kostenintensiven Investition
+zu erreichen. Bereits in dieser Phase ist es erforderlich, seitens der Bibliothek
+die Bedarfe für ein künftiges Gebäude, einen Umbau oder eine Erweiterung klar
+zu benennen bzw. in ersten Bedarfspapieren und konzeptionellen Überlegungen zu
+beschreiben. Ist dieser Prozess einmal abgeschlossen, der sich durchaus über mehrere
+Jahre hinziehen, viele Diskussionen mit verschiedenen Stakeholdern beinhalten und
+mitunter auch gegenläufige Diskursverläufe annehmen kann, und ein Finanzierungswille
+des Kostenträgers erkennbar, kann schließlich die Arbeit an den Planungen und
+ersten Kostenschätzungen beginnen.
+3 Planungshorizonte
+Planungen für Gebäude der öffentlichen Hand sind in der Regel umfangreich und langwierig.
+Man muss sich bewusst sein, dass man für ein Gebäude plant, das erst in einigen
+Jahren realisiert sein wird. In gewisser Weise müssen die an der Planung beteiligten
+ Bibliotheksbau 1994: S. 32.
+62 Dorothea Sommer
+Bibliothekarinnen und Bibliothekare ihr Denken auch an Prognosen ausrichten und
+können den vorhandenen Status Quo nicht einfach auf ein Wunschgebäude mit Funktionen
+übertragen, die im unmittelbaren Augenblick passend erscheinen mögen. Man
+muss vielmehr in der Lage sein, Vorstellungen und Anforderungen für den Betrieb der
+Bibliothek in der Zukunft zu entwickeln und eine Flexibilität für die Nutzung von Flächen
+vorzusehen. Ein mittelfristiger Planungshorizont liegt bei ungefähr 20–25 Jahren,
+die bei der Formulierung von Raumbedarfen für den Zuwachs von Bibliotheksbeständen
+in die Kalkulation aufzunehmen sind.
+Nicht selten tritt leider auch der Umstand ein, dass aufgrund langjähriger Planungs-
+und Bauprozesse die Magazinreserven von größeren wissenschaftlichen Bibliotheken
+beim Bezug eines Neubaus schon wieder erschöpft sind. Es ist daher auch
+immer sinnvoll, auf die Erweiterungsfähigkeit eines Standorts zu achten. Flexible Flächennutzung
+bedeutet auch, dass die Aufstellung und Präsentation physischer Sammlungen
+die Einhaltung gewisser Lastannahmen erfordert, die grundsätzlich gegeben
+sein müssen. Man kann jederzeit regalierte Flächen in Flächen für Nutzerarbeitsplätze
+umwandeln, wie dies in vielen Bibliotheken aufgrund des Medienwandels ein
+Trend ist. Umgekehrt ist dies bei einem Neubau mit differenzierter Deckenlasttragkraft
+auf verschiedenen Geschossebenen aber eben nicht ohne weiteres möglich.
+4 Stakeholder im Planungs- und Bauprozess
+An dieser Stelle sei noch auf einen weiteren Umstand hingewiesen, der in den IFLA
+Library Building Guidelines sehr zutreffend formuliert wurde: „[T]he fact that designing
+and constructing a new library is an art most library directors and professional
+librarians only experience once or only very occasionally in their professional
+lives. The same is often true for the architect.”4 Gerade Letzteres mag eine erstaunliche
+Erkenntnis sein, aber Architektinnen und Architekten bauen in der Regel nicht
+ausschließlich Bibliotheken, sondern auch viele andere Gebäudetypen. Dies gilt ebenso
+für Bauingenieure und Fachplanerinnen, die unerlässlich sind für das Planungs- und
+Baugeschehen.
+Die Aussage beschreibt zudem den Planungs- und Bauprozess interessanterweise
+als Kunst. Sicherlich ist die Architektur als Baukunst den bildenden Künsten zugeordnet,
+aber ihre Gestaltungsmittel, die Tektur, die Formen, Farben und die dekorativen
+Elemente sind in der Regel zweckgebunden. Architektur ist neben den an sie gerichteten
+ästhetischen Ansprüchen auch ein Handwerk, für dessen Ausübung es Vorschriften,
+Regeln und Normen gibt, die es gilt, erfolgreich in die Praxis umzusetzen. Der
+Gesetzgeber fordert für ein Gebäude, dass es dem „Stand der Technik“ entsprechen
+muss. Architektinnen und Architekten benötigen aber immer für ihre Arbeit Angaben
+ Niegaard u. Latimer 2007: S. 9.
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 63
+zur Größenordnung des geplanten Projekts, zu den Bedarfen, zur Gliederung verschiedener
+Flächen und ihren jeweiligen funktionalen Zusammenhängen, die durch
+die Bibliothekarinnen und Bibliothekare als Nutzer bereitzustellen sind. Diese wiederum
+sind in ihren Wünschen und Vorstellungen bei der Entwicklung ihrer Konzeption
+an die Finanzierungsmöglichkeiten ihrer Kostenträger gebunden.
+5 Rolle der Vertreterinnen und Vertreter der
+Bibliothek im Planungsprozess
+Auch wenn seitens der Bibliothek die Bedarfserhebung erfolgt und eine erste Programmskizze
+formuliert wird, bedeutet dies nicht, dass in den später folgenden
+Schritten bei der Planung und Realisierung eines Gebäudes die Bibliothek die Planungshoheit
+und Bauherrenfunktion hat. Sie nimmt an den Planungsprozessen in der
+Regel als „Nutzerin“ des künftigen Gebäudes teil. Die Bauherrenfunktion wird wahrgenommen
+von den jeweiligen Baubehörden des Staates, der Länder oder der Kommunen
+und Landkreise. Im Bereich der Universitäten und Forschungseinrichtungen
+kann dies auch durch die jeweiligen Bauabteilungen erfolgen, wenn diese mit entsprechenden
+Vollmachten ausgestattet wurden. Sie übernehmen in der Regel die
+Steuerung eines Projekts und sind für die Einhaltung des Kosten- und Zeitplans
+verantwortlich.
+Dies bedeutet für die Bibliothek, dass sie als Nutzerin zwar funktionale und fachliche
+Anforderungen formulieren kann, sich ansonsten aber in die Planungsprozesse
+und -abläufe einzugliedern hat. Umso wichtiger ist es daher, dass die Vertreterinnen
+und Vertreter der Bibliothek nicht nur über ihre Geschäftsgänge innerhalb der Bibliothek
+Bescheid wissen, die Einfluss auf die Raumgliederung haben und Raumqualitäten
+beschreiben können, sondern auch über einschlägige Vorschriften und Normen
+des Bibliotheksbaus informiert sind. Die Anwendung von normierten und vereinheitlichten
+Begriffen erleichtert für alle am Planungsprozess Beteiligten die Erfüllung
+einer Bauaufgabe. Des Weiteren ist es erforderlich, Kenntnisse von den verschiedenen
+Leistungsphasen von Hochbauprojekten zu besitzen, die nach der Honorarordnung
+für Architekten und Ingenieure (HOAI)5 gegliedert sind. Planungen werden in
+vielen Schritten ausgeführt. Grundlegende Dokumente sind nicht nur die detaillierten
+Protokolle der Besprechungen, sondern vor allem auch die Bauzeichnungen und -
+pläne. Diese werden im Laufe des Planungsprozesses ausgehend von den ersten Entwürfen
+immer weiterentwickelt und verfeinert. Es empfiehlt sich daher, sich auch
+ Verordnung über die Honorarordnung für Architekten- und Ingenieurleistungen (Honorarordnung
+für Architekten und Ingenieure – HOAI), 2021. https://www.hoai.de/hoai/volltext/hoai-2021/
+(24.10.2023).
+64 Dorothea Sommer
+mit der Technik des Lesens von Architekturzeichnungen vertraut zu machen, denn
+nach diesen Zeichnungen, die im Planungsprozess immer wieder überarbeitet und detaillierter
+gestaltet werden, und den in ihnen enthaltenen Maßen und Angaben wird
+letztlich gebaut.
+Neben den Architektinnen und Architekten sowie den staatlichen oder kommunalen
+Bauherren kommt man im fortlaufenden Planungsprozess auch mit einer Reihe
+von Fachleuten verschiedener Gewerke zusammen, die ebenfalls in der Regel die Anforderungen
+seitens der Nutzer abfragen und deren planerische Vorschläge zur Umsetzung
+des Bauvorhabens eingeschätzt werden müssen.
+Die Perspektiven der Baubehörden, Architektinnen oder Architekten und der
+Nutzer können mitunter durchaus differieren. Beispielsweise setzt eine ausgefeilte
+technische Lösung beim späteren Gebäudebetrieb oft den dauerhaften Einsatz von
+speziell ausgebildetem technischen Fachpersonal voraus, über das die Bibliotheken
+nicht immer per se verfügen. Die Nutzungsperspektive wird also immer auch die Aufwände
+beim späteren Betrieb des Gebäudes in den Blick zu nehmen haben. Dies bedeutet
+für alle am Planungsprozess beteiligten Stakeholder, dass möglichst bereits bei
+der Planung die Lebensphasen eines künftigen Gebäudes zu antizipieren sind: Nach
+der Planung und dem Bau sind dies die Nutzung, Erneuerung und ein möglicher
+Rückbau eines Gebäudes.
+6 Grundprinzipien
+Die grundsätzlichen Überlegungen hinsichtlich eines geplanten Neubaus, der Erweiterung
+oder eines Umbaus eines Gebäudes sind stets auch bestimmt von den örtlichen
+Gegebenheiten. Es handelt sich hierbei um das Vorhandensein eines Grundstücks,
+seine Lage, seine Gliederung und sein Bezug zu seiner Umgebung innerhalb einer
+Stadt oder einer Gemeinde. Bibliotheken sollten verkehrstechnisch gut zu erreichen
+sein und auch genügend Park- und Fahrradstellplätze in der unmittelbaren Umgebung
+aufweisen.
+Eine große Rolle spielen die jeweils geltenden örtlichen Bestimmungen des Baus.
+Bauplanungen für Bibliotheken können dem Bund, dem Land oder einer Kommune
+obliegen. Entsprechend unterschiedlich sind auch die geltenden rechtlichen Bestimmungen.
+Alle Bauherren verantworten aber die Qualität und Nachhaltigkeit eines Gebäudes,
+sie sind der Wirtschaftlichkeit bei der Errichtung und dem späteren Betrieb
+verpflichtet und sie haben auf die Einhaltung des Zeitrahmens für Planung, Bau und
+Inbetriebnahme eines Gebäudes zu achten. Sie werden auch die Barrierefreiheit eines
+Bibliotheksgebäudes berücksichtigen. Letztere ist für Bibliotheken, die im weitesten
+Sinne mit ihren Services der breiten Öffentlichkeit zur Verfügung stehen, ein besonderes
+Anliegen. Die Herstellung der baulichen Barrierefreiheit bedeutet an vielen Stellen
+im Gebäude und gerade auch bei der Gestaltung der Eingangssituation besondere
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 65
+Aufmerksamkeit. Auch der Umbau und die Sanierung von historischen Gebäuden, die
+nicht nach diesem Prinzip errichtet wurden, kann herausfordernd sein, zumal hier
+häufig Aspekte des Denkmalschutzes zu beachten sind, die einen rigorosen Eingriff in
+die Gebäudesubstanz zur Herstellung von Barrierefreiheit aus Bestandsschutzgründen
+nicht zulassen.
+Im Zusammenhang mit der Bauplanung spielt auch immer die Nachhaltigkeit eine
+große Rolle. Betrachtet man die großen Gedächtnisinstitutionen, sieht man häufig Gebäude,
+die – abgesehen von Kriegszerstörungen – seit mehreren hundert Jahren schon
+ihren Dienst tun. Dabei lohnt auch ein Blick auf die zur Anwendung gekommenen Baumaterialien.
+Bei der Bayerischen Staatsbibliothek, die 1832–1843 von Friedrich von Gärtner
+errichtet wurde, handelt es sich noch um einen Blankziegelbau.6 Bei jüngeren
+Gebäuden, man denke an den Bau von vielen Universitätsbibliotheken, ist in den vergangenen
+Jahrzehnten vermehrt Beton zum Einsatz gekommen. Im Hinblick auf die
+Nachhaltigkeit von Gebäuden spielt deren materielle Substanz aber eine immer größere
+Rolle.7 Dies ist angesichts des Klimawandels und der angestrebten Klimaziele der Bundesrepublik
+Deutschland wie auch der Europäischen Union, die darauf ausgerichtet
+sind, bis 2030 den CO2-Ausstoß zu halbieren und bis 2045 klimaneutral zu werden, gerade
+für den Baubereich eine große Herausforderung. Durch den Bau und die Nutzung
+von Gebäuden werden umfangreiche natürliche Ressourcen wie Energie, Wasser und
+Baustoffe benötigt. Die Bauindustrie verantwortet einen beträchtlichen Anteil an der
+CO2-Produktion und muss nun das Augenmerk auf eine Kreislaufwirtschaft richten, die
+zunehmend mit erneuerbaren Rohstoffen arbeitet und ein klimaneutrales Bauen ermöglicht.
+In der Konsequenz bedeutet dies in Zukunft den Verbau von weniger Beton,
+und den erneuten und verstärkten Einsatz von Materialien wie Holz, Stein und Ziegeln
+sowie die Anwendung möglichst baulicher und weniger technischer Lösungen, um die
+verschiedenen Anforderungen an das Klima innerhalb eines Bibliotheksgebäudes zu erzielen.
+Neben der Nachhaltigkeit sind zusätzlich immer auch die soziale und kulturelle
+Auswirkung eines Bauvorhabens (Funktion, Gestaltung, Ästhetik, Denkmalschutz)
+gleichberechtigt zu berücksichtigen.8
+7 Normen
+Für den Bau gibt es eine Vielzahl an Vorschriften, Regeln und Normen, die zur Anwendung
+kommen. Insgesamt existieren ca. 3 700 DIN-Standards für das Bauen in
+Deutschland.9 Die Normung wird mittlerweile als wesentlicher Kostentreiber im Bau
+ Kaindl 2023.
+ Kister 2022: S. V.
+ Neufert 2022: S. 61.
+ Stand 2019. Vgl. Haack 2022: S. 3.
+66 Dorothea Sommer
+eingeschätzt. Dennoch ist ihre Einhaltung Voraussetzung für die Errichtung eines
+mangelfreien Bauwerks. Normen und Regeln der Technik tragen dazu bei, die in den
+Bauordnungen der Länder definierten allgemeinen Schutzziele für Gebäude wie
+Standsicherheit, Brandschutz, gesunde Lebensverhältnisse, Arbeitsschutz und Umweltschutz
+einzuhalten.
+7.1 DIN 277 und DIN 276: Flächen und Kosten
+Für die Planung von Gebäuden ist allgemein die Kenntnis der DIN 277 und der DIN
+276 relevant. Für Bibliotheksbauten, die dem Hochbau zuzuordnen sind, gelten zunächst
+allgemein die DIN 277-1,10 welche die Flächen und Rauminhalte im Hochbau
+regelt. Durch die hier vorgegebenen Gliederungen lassen sich Flächen und Rauminhalte
+einheitlich berechnen und vergleichen, wodurch die Anwendung der DIN eine
+wichtige Basis für Planungsarbeiten und Kostenschätzungen bildet.
+So wird die Gesamtheit der Grundflächen eines Gebäudes oder eines Teilbereichs
+des Bauwerks über alle Geschosse hinweg und unabhängig von deren Nutzbarkeit als
+Brutto-Grundfläche (BGF) bezeichnet. Diese teilt sich in die Konstruktions-Grundfläche
+(KGF), welches die Summe der Grundflächen der begrenzenden konstruktiven Bauteile
+(Wände, Schächte, Pfeiler, Stützen) ist, und die Netto-Raumfläche (NRF). Die Netto-
+Raumfläche bezeichnet die Grundflächen aller nutzbaren Räume aller Grundrissebenen
+eines Bauwerks, das heißt, die Nutzungsflächen (NUF), die Technikflächen (TF) und die
+Verkehrsflächen (VF). Weitere Flächen sind die Grundstücksfläche (GF), die Bebaute
+Fläche (BF) – der Anteil der Grundstückfläche, die durch das Bauwerk ober- oder unterhalb
+der Geländeoberfläche bebaut ist – die Unbebaute Fläche (UB) und die Außenanlagenflächen
+(AF). Der Brutto-Rauminhalt (BRI) ist die Gesamtheit aller Rauminhalte eines
+Bauwerks oder eines Geschosses, das sich in Netto-Rauminhalt und Konstruktions-
+Rauminhalt (KRI) gliedert. Er wird von den äußeren Begrenzungsflächen des Bauwerks
+umschlossen, die von den Gründungsflächen, den Außenwänden und den Dächern gebildet
+werden, und ist die Maßzahl für das Gebäude-Volumen. Die Nutzungsflächenarten
+(NUF) sind noch tiefer gegliedert, in der aktuellen DIN 277 sind unter NUF 7 „Räume,
+deren Zweckbestimmung noch nicht festlegbar ist“ neu hinzugekommen.
+Die DIN 27611 dient wiederum der Kostenplanung im Bauwesen, deren Ermittlung
+und Gliederung für den Neubau, den Umbau und die Modernisierung von Bauwerken.
+Die Kostenermittlung ist in der Regel die Angelegenheit des Bauherrn, sowie je nach
+Beauftragung der Planer:innen und Architekt:innen. Sie soll bei einem Bauprojekt Wirtschaftlichkeit,
+Kostensicherheit und Kostentransparenz sicherstellen. Es werden jedoch
+von der Bibliothek auch entsprechende Zuarbeiten benötigt, die die Bedarfe ausweisen
+ DIN – Deutsches Institut für Normung: DIN 277-1 2021.
+ DIN – Deutsches Institut für Normung: DIN 276 2018.
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 67
+und im Raum- und Flächenprogramm niedergelegt sind. Es gibt fünf Stufen der Kostenermittlung,
+die sich je nach Planungsschritt wie folgt gliedern:
+1. Kostenrahmen
+Der Kostenrahmen wird in der Phase der Grundlagenermittlung mit dem Ziel der Erarbeitung
+einer Vorgabe für die Kostenschätzung auf der Grundlage des Raum- und
+Funktionsprogramms erstellt. Er enthält Angaben über Nutzungsarten, Nutzergruppen
+und Nutzerbereiche mit entsprechenden Quantitätsvorgaben wie der Anzahl der
+Personen oder der Flächen. Auch qualitative Bedarfsangaben wie Ausstattungsstandards
+können hier einfließen. Gerade in diesem frühen Anfangsstadium spielen die
+Angaben und genannten Bedarfe seitens der Bibliothek eine große Rolle. Es empfiehlt
+sich, frühzeitig bereits möglichst genaue Angaben zu machen, denn eine nachträgliche
+Korrektur oder Anpassung der Größenordnung eines Kostenrahmens wird sich in
+der Regel als sehr schwierig erweisen und ist mit den politischen Entscheidungsträgern
+für ein Projekt zu konsentieren.
+2. Kostenschätzung
+Die Kostenschätzung wird in der Vorentwurfsphase erstellt mit dem Ziel der Erarbeitung
+einer Kostenvorgabe für die Kostenberechnung. Sie wird auch zur Kostenkontrolle
+eingesetzt. Auf ihrer Grundlage wird entschieden, ob die Vorplanung zur
+Entwurfsplanung weitergeführt werden kann, wobei der Brutto-Rauminhalt (BRI) von
+vergleichbaren Objekten eine besondere Rolle spielt. Die Kennzahlen werden auf der
+Basis der Nutzungsarten und Nutzungsbereiche ermittelt und umfassen mit der Angabe
+der Anzahl von Räumen, Flächen und Rauminhalten besonders quantitative Angaben.
+Die Kostenschätzung muss sich entsprechend dem neuesten Stand der Norm
+in sieben Kostengruppen bis zur zweiten Ebene der Kostengliederung12 erstrecken.
+Sie trägt noch unverbindlichen Charakter.
+3. Kostenberechnung
+Kostenberechnungen werden wiederum auf der Grundlage der Kosten der bereits ausgereiften
+Entwurfsplanung ermittelt. Anders als die Kostenschätzung bietet sie aufgrund
+der fortgeschrittenen Planungstiefe genauere Angaben. Auf der Grundlage der Kostenberechnung
+wird entschieden, ob ein Projekt in die Genehmigungsplanung überführt werden
+kann. Ihre Grundlage ist ein detailliertes Raumprogramm der Bibliothek. Sie ist bis
+zur dritten Ebene der Kostengliederung zu präzisieren. Ziel ist die Kostenvorgabe für den
+Kostenanschlag wie auch die Kostenkontrolle.
+ Die Ebenen der Kostengliederung sind charakterisiert durch dreistellige Ordnungszahlen nach Hunderterstellen,
+Zehnerstellen und Einerstellen. Die Hunderterstellen bezeichnen in der ersten Ebene der
+Kostengliederung die Unterteilung des Bauwerks nach Struktur und Konstruktion. In den Zehnerstellen,
+der zweiten Ebene der Kostengliederung, werden Aussagen über die Hauptelemente der Konstruktion
+und Bauausführung getroffen (Dächer, Decken, Außenwände etc.). In den Einerstellen, der dritten Ebene,
+werden konstruktive Hauptbestandteile (Dachbekleidungen, Deckenbeläge etc.) detailliert angegeben.
+68 Dorothea Sommer
+4. Kostenanschlag
+Der Kostenanschlag wird in der Regel von der Planerin/dem Planer des Bauherrn erstellt,
+was auch die Architektin/der Architekt sein kann. Hierfür werden Einheits- und
+Pauschalpreise von Angeboten herangezogen. Anhand seiner Ergebnisse wird die Entscheidung
+über die Ausführungsplanung getroffen. Zugleich dient er auch bereits der
+Vorbereitung der Vergabe. Zu diesem Zeitpunkt sollen die Planungsunterlagen wie
+Konstruktionszeichnungen und Leistungsbeschreibungen den endgültigen und vollständigen
+Ausarbeitungsgrad aufweisen, da auf ihrer Grundlage die Angebote eingeholt
+werden.
+5. Kostenfeststellung
+In dieser werden die tatsächlich entstandenen Kosten erfasst und dokumentiert. Dies
+geschieht in der Regel in der Phase der Inbetriebnahme des Gebäudes auf der Basis
+von Schlussrechnungen und weiterer Kostenbelege.
+Insgesamt ist die Genauigkeit der Kostenermittlung in den Anfangsstufen der Planung
+mit gewissen Unschärfen verbunden. Im Zuge des Planungsfortschritts werden die Kostenangaben
+immer weiter präzisiert. Im Bauwesen werden für die Genauigkeit auch bestimmte
+Schwankungsbreiten, je nach Stand der Kostenermittlung, einkalkuliert und
+Indices zur Baupreissteigerung herangezogen. Da gerade die Einhaltung der Kosten
+eines Projekts aufgrund der volatilen und zumeist steigenden Kosten für Rohstoffe und
+Materialien sowie Arbeitsleistungen der Firmen immer ein entscheidendes Kriterium
+für den Erfolg eines Projekts ist, ist eine möglichst realistische und detaillierte Kostenermittlung
+für die Projektsteuerung in den verschiedenen Stufen unerlässlich. Im Rahmen
+der Projektvorbereitung werden jedoch mit der frühzeitigen Entscheidung über Größe
+und Volumen des Bauvorhabens die grundlegenden Voraussetzungen getroffen, die den
+größten Einfluss auf die Baukosten haben. Ist man also im Projektverlauf gefordert, signifikante
+Einsparungen zu erbringen, ist dies häufig nur in den frühen Leistungsphasen
+sinnvoll möglich. Im Rahmen von Material- und Einrichtungsplanungen sind bezogen
+auf ein Neubauvorhaben in der Regel für eine Projektsteuerung keine nennenswerten
+Sparpotentiale mehr zu erzielen. Im Bereich der Grundlagenermittlung oder der Vorplanung
+können zudem auch Nutzungsvarianten erarbeitet werden, die Auswirkungen auf
+die Kosten haben und Abwägungen für ein wirtschaftliches Bauen ermöglichen.
+Die aktuelle Fassung der DIN-Norm 276 beinhaltet eine in drei Ebenen noch tiefer
+gegliederte verbindliche Aufschlüsselung der verschiedenen Kosten als ihre vorherige
+Fassung. Ein Beispiel für die Abhängigkeit von Weltmarktpreisen für Bauprojekte im
+Bibliotheksbereich sind die Kosten für Stahl, die in den letzten Jahren stark gestiegen
+sind. Wird also eine umfangreiche Regalanlage für ein Magazin geplant, ist dies ein
+größerer Kostenfaktor, der aber auch Schwankungen unterworfen sein kann.
+Für Bibliothekarinnen und Bibliothekare, die Planungsaufgaben von Nutzerseite
+begleiten, ist auch die grundsätzliche Kenntnis der Kostengruppen relevant. Deren
+Gliederung gestaltet sich nach der DIN 276 folgendermaßen:
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 69
+Kostengruppe 100 – Grundstück
+Kostengruppe 200 – Vorbereitende Maßnahmen
+Kostengruppe 300 – Bauwerk – Baukonstruktionen
+Kostengruppe 400 – Bauwerk – Technische Anlagen
+Kostengruppe 500 – Außenanlagen und Freiflächen
+Kostengruppe 600 – Ausstattung und Kunstwerke
+Kostengruppe 700 – Baunebenkosten
+Kostengruppe 800 – Finanzierung
+Von besonderem Interesse für die Bibliotheksfunktionen sind die Kostengruppen 300
+(Baukonstruktion) und 400 (Technische Anlagen) sowie die Kostengruppe 600 (Ausstattung
+und Kunstwerke). In der Kostengruppe 300 können beispielsweise alle fest
+mit dem Gebäude verbundenen Ausstattungen untergebracht werden wie Theken
+oder Rollregalanlagen. Technische Ausstattungen wie Netzwerke, Telefonie, Beleuchtung,
+Medientransport- und Sortieranlagen werden der Kostengruppe 400 zugerechnet.
+In der Kostengruppe 600 sind Ausstattungen für die Innenräume, vornehmlich
+die öffentlichen Bereiche wie Lesesäle, Informationsbereiche, Arbeitsräume und verschiedene
+Nutzungszonen zu berücksichtigen. Es empfiehlt sich, dass die Nutzer hier
+frühzeitig ihre Bedarfe anmelden und sich informieren, ob entsprechende Kosten in
+der Planung berücksichtigt und eingestellt sind.
+In der Kostengruppe 700 werden Leistungen, die neben den Bauleistungen und
+Lieferungen für ein Bauprojekt erbracht werden, erfasst. Im Wesentlichen werden
+hier die Kosten für die Bauherrenaufgaben, die Fachplanung, die Objektplanung und
+die Wettbewerbskosten hinterlegt. Für Architekturleistungen gilt, dass das Honorar
+für diese seit 2021 prinzipiell frei vereinbart werden kann. Die HOAI dient dazu als
+unverbindliche Orientierung, die bei der Ermittlung der Honorarhöhe zugrunde gelegt
+werden kann. Wenn im Zuge eines Projekts Planungen erneuert werden müssen,
+weil bestimmte Grundlagen verändert werden oder unklar waren, können leicht zusätzliche
+Honoraranforderungen seitens der Architektinnen und Fachplaner entstehen
+und an den Bauherren herangetragen werden. Es kommt hierbei vor allem auf
+den Zeitpunkt an: Je später im Planungsverlauf Änderungen veranlasst werden, in
+umso mehr Plänen müssen auch diese Änderungen nachvollzogen werden.
+Für die Nutzer gilt daher, dass im fortgeschrittenen Planungsstadium, also ab der
+Entwurfsplanung, das Einbringen von Änderungswünschen sehr sorgfältig zu überlegen,
+zu begründen bzw. möglichst zu vermeiden ist, da dies zu erhöhten Baunebenkosten
+führen kann. In den RL Bau des Freistaats Bayern13 wurde beispielsweise ein
+Änderungsmanagement bei Großen Baumaßnahmen in einem gestuften Verfahren eingeführt.
+Darin ist festgehalten, dass Änderungen am Bedarf oder baufachlicher Art bis
+zur Projektgenehmigung grundsätzlich zu vermeiden sind. Sind diese jedoch unabding-
+ RLBau 2019: Anlage E1, S. 19–25.
+70 Dorothea Sommer
+bar und ins Gewicht fallend, werden sie durch Änderungsanträge strukturiert erfasst. Die
+Entscheidung hierüber trifft das Bauamt, im Bedarfsfall ist auch die Exekutive zu beteiligen.
+Nach Projektgenehmigung sind Änderungen am Bedarf, also potentielle Nutzerwünsche,
+grundsätzlich nicht möglich. Sollten baufachliche Änderungen unabdingbar und ins
+Gewicht fallend sein, werden sie auch hier durch ein Änderungsmanagement erfasst, in
+dem sorgfältig zwischen Änderungsbedarfen baufachlicher Art oder am Bedarf des Nutzers
+entschieden wird. In der Folge ist ein Genehmigungsverfahren einzuhalten, in das
+nicht nur das Bauministerium und das Staatsministerium involviert sind, sondern auch
+der Ausschuss für Staatshaushalt und Finanzfragen befasst wird. Mit fortschreitender Planung
+erhöht sich somit nicht nur der Genauigkeitsgrad, sondern auch der Verbindlichkeitsgrad
+an Planungsunterlagen und den damit verbundenen Kostenaussagen.
+7.2 Relevante Normen für Bibliotheken
+Für den Bibliotheksbau, für den lange Jahre der DIN-Fachbericht 13 zur Bau- und Nutzungsplanung
+von Bibliotheken und Archive ein unerlässliches Werkzeug für die
+Grundlagenermittlung des Raum- und Bauprogramms eines Gebäudes war,14 hat es in
+den letzten Jahren einige wichtige Weiterentwicklungen hin zu einer Normierung gegeben.
+Dies gelang in erster Linie mit der Einführung der DIN 67700: Bau von Bibliotheken
+und Archiven – Anforderungen und Empfehlungen für die Planung,15 die den DINFachbericht
+13 ersetzt hat. Anders als der Fachbericht 13, der in Bauplanungen lediglich
+den Status einer Empfehlung hatte, ist mit der Norm ein höherer Verbindlichkeitsgrad
+gegeben, der bei Ausschreibungen oder Verträgen zu beachten ist. In Planungsberatungen
+ist der Verweis auf Normen immer auch ein Hinweis auf die Zuverlässigkeit der
+darin enthaltenen Informationen und geeignet, gerade bei Diskussionen die Anforderungen
+seitens der Bibliothek zu legitimieren. Dennoch ist die Anwendung von Normen,
+im Unterschied zu Gesetzen und Verordnungen, nicht immer verpflichtend.
+Die DIN 67700 gilt als Planungsinstrument für den Neubau wie auch für die Umnutzung
+bestehender Gebäude und Räume von öffentlichen und wissenschaftlichen
+Bibliotheken. Sie trifft Regelungen für bibliotheksspezifische Funktionsbereiche, deren
+Anordnung, Verbindung und Ausstattung. In der DIN werden Flächen für Bibliotheksnutzerinnen
+und -nutzer, Mitarbeiterinnen und Mitarbeiter, Bestände, Logistik und Verwaltung
+beschrieben. Sie formuliert allerdings keine Anforderungen und Empfehlungen für
+die Ausstattung der Technik- und Verkehrsflächen von Bibliotheken. Des Weiteren enthält
+sie Auskünfte zu Lastannahmen sowie zu verschiedenen Sicherungsmaßnahmen für
+Gebäude, Personen und Medien. Sie trifft Aussagen zu Lüftung und Klima, Licht und Beleuchtung,
+Raumakustik und Schallschutz sowie Bodenbelägen.
+ DIN – Deutsches Institut für Normung: DIN Fachbericht 13 2009.
+ DIN – Deutsches Institut für Normung: DIN 67700 2017.
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 71
+Die Anforderungen an die Aufbewahrung von Archiv- und Bibliotheksgut sind
+nochmals näher geregelt in der DIN ISO 11799.16 Bei ihr handelt es sich um die Übersetzung
+der internationalen Norm ISO 11799:2015.17 Unter Berücksichtigung der sehr verschiedenen
+Medien, die in Bibliotheken aufbewahrt werden können, sind in dieser
+Norm vor allem die Merkmale von Magazinen für die Langzeitaufbewahrung von Bibliotheksgut
+geregelt. Sie trifft einige grundlegende Aussagen zur Gebäudekonstruktion
+unter dem Gesichtspunkt des Risikomanagements, wobei Sicherheit, Klimastabilität im
+Inneren und die Anforderungen an die Innengliederung und Belastbarkeit beachtet
+werden. Des Weiteren finden sich Aussagen zu Installation und Ausstattung sowie Wartung
+von Magazinen. In den Anhängen wird zu Brandverhütungssystemen, Brandbekämpfungssystemen,
+Klimabedingungen und Luftschadstoffen informiert.
+Eine europäische Norm, die DIN EN 16893,18 gibt in Ergänzung zu nationalen und
+regionalen Bauvorschriften seit 2018 ausführliche Vorgaben und Leitlinien für den
+Standort, die Errichtung und Anordnung von Gebäuden, die speziell für die Lagerung
+aller Arten und Formate von Sammlungen des Kulturerbes vorgesehen sind. Die Kenntnis
+dieser Norm ist besonders relevant für Bibliotheken mit umfangreichen historischen
+Beständen und entsprechenden Magazinen bzw. Magazinbedarfen. In dieser Norm werden
+explizit Aussagen zur Nachhaltigkeit getroffen. Es wird auf die Notwendigkeit der
+Planung von Lebenszykluskosten hingewiesen sowie die vorrangige Untersuchung des
+Einsatzes erneuerbarer Energiequellen für die Heizung oder Tiefkühllagerung zum langfristigen
+Schutz von Sammlungen. Neben Aussagen zum Risikomanagement, zu einer
+umgebungsbezogenen Strategie und einer Facility-Management-Strategie werden auch
+hier Vorgaben u. a. für den Standort eines Gebäudes, Baumaterialien, Luftbeschaffenheit,
+Fenster und Beleuchtung getroffen. Auch auf den Brandschutz und die Brandverhütung
+wird eingegangen, und es werden Sicherheitsvorgaben formuliert.
+Die Kenntnis dieser Normen sollte Voraussetzung für eine fundierte Grundlagenermittlung
+sowie informierte Teilnahme an Planungsgesprächen für Bibliothekarinnen
+und Bibliothekare sein, die mit Planungsaufgaben befasst sind. Speziell für
+öffentliche Bibliotheken entstand 2018 unter Berücksichtigung der DIN 67700 eine
+Handreichung zu Bau und Ausstattung Öffentlicher Bibliotheken,19 deren Konsultation
+ebenso anzuraten ist.
+ DIN – Deutsches Institut für Normung: DIN ISO 11799 2017.
+ DIN – Deutsches Institut für Normung: ISO 11799 2015.
+ DIN – Deutsches Institut für Normung: DIN EN 16893 2018.
+ Fachkonferenz der Bibliotheksfachstellen in Deutschland 2018.
+72 Dorothea Sommer
+8 Planungsphasen
+Aus den Erläuterungen der Kostenplanung nach der DIN 276 wurde bereits deutlich,
+dass die Planung eines Gebäudes ein Prozess ist, der nach bestimmten Phasen verläuft.
+Dessen allgemeine Kenntnis ist für Bibliotheken unabdingbar, schon allein, um
+ein Verständnis dafür zu erlangen, ab wann man welche Bedarfe anmelden kann und
+ab wann Änderungswünsche an den Bedarfen möglichst nicht mehr von Nutzerseite
+eingebracht werden sollten, da der Komplexitätsgrad der Planung bereits zu hoch ist
+und höhere Baunebenkosten aufgrund zusätzlicher Planungen entstehen.
+In der Praxis ist festzustellen, dass Bibliotheksplanungen durchaus mit unterschiedlicher
+Dynamik verlaufen können und sich auch nicht immer gleichen. Dies hat u. a.
+seine Ursache in den unterschiedlichen örtlichen Voraussetzungen, der jeweiligen Situation
+der Bibliothek und den an der Planung beteiligten oder zu konsultierenden Personen,
+in den Auflagen verschiedener Behörden, wie beispielsweise des Denkmalschutzes
+oder der Naturschutzbehörden und natürlich auch der Art der Baumaßnahme (Neubau,
+Erweiterung, Umbau, Umnutzung).
+Die Gliederung der Bauphasen ergibt sich aus den in der HOAI niedergelegten
+neun Leistungsphasen:
+– Leistungsphase 1 – Grundlagenermittlung
+– Leistungsphase 2 – Vorplanung
+– Leistungsphase 3 – Entwurfsplanung
+– Leistungsphase 4 – Genehmigungsplanung
+– Leistungsphase 5 – Ausführungsplanung
+– Leistungsphase 6 – Vorbereitung der Vergabe
+– Leistungsphase 7 – Mitwirkung bei der Vergabe
+– Leistungsphase 8 – Objektüberwachung
+– Leistungsphase 9 – Objektbetreuung und Dokumentation
+Die Leistungsphasen 1 bis 5 umfassen die planenden Arbeiten, ab Leistungsphase 6
+bis 9 werden die Schritte zur konkreten Durchführung des Projekts beschrieben.
+8.1 Leistungsphase 1 – Grundlagenermittlung
+Hierbei handelt es sich um die sicherlich wichtigste Phase der Bearbeitung eines Projekts,
+denn in dieser wird die konkrete Aufgabenstellung geklärt. Dies kann etwa im
+Rahmen eines Wettbewerbs geschehen, aber selbst zur Durchführung des Wettbewerbs
+werden Angaben benötigt, die im Rahmen der Grundlagenermittlung erarbeitet werden.
+In der Regel findet auch eine Ortsbesichtigung aller Planungsbeteiligten statt oder
+es werden Referenzbauten besichtigt. In einer sehr frühen Phase, die möglichst noch
+vor der Grundlagenermittlung liegen sollte, können seitens der Bibliothek auch Wün-
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 73
+sche und Bedarfe der Bibliotheksnutzerinnen und -nutzer in einem partizipativen Prozess
+erhoben werden.
+Die Architektinnen und Architekten beraten den Bauherrn zum gesamten Leistungsbedarf
+und es werden Überlegungen für die Auswahl der Fachingenieurinnen
+und -ingenieure angestellt. Der Nutzer sollte zur Information der Architektin/des Architekten
+und des Bauherrn ein Raum- und Funktionsprogramm bereithalten. Es bildet die
+Grundlage der Gebäudeplanung und umfasst eine Auflistung der verschiedenen Nutzungsbereiche,
+Raumgruppen und Räume mit entsprechenden Größenangaben, für
+deren Ermittlung bei der Planung eines Neubaus die Flächenangaben der DIN 277 und
+der DIN 67700 herangezogen werden.
+Das Raumprogramm wird ergänzt durch Angaben im Funktionsprogramm, das
+die Beziehungen der Flächen untereinander definiert und die Verkehrsströme für
+Bibliotheksnutzerinnen und -nutzer, Mitarbeiterinnen und Mitarbeiter sowie Medien
+beschreibt. Daraus ergibt sich bereits eine Differenzierung in öffentliche und interne,
+ruhige und laute Bereiche. Es sollte auch Angaben zu Funktion, Aufgaben, bestimmten
+Services und besonderen Nutzerzielgruppen enthalten. Im Rahmen der Grundlagenermittlung
+wird der Kostenrahmen des Projekts definiert.
+Exkurs: Wettbewerbe
+Im Bereich des öffentlichen Bauens werden für Bauvorhaben von besonderer Bedeutung
+häufig Architekturwettbewerbe durchgeführt. Sie sind in den Planungsstadien
+zwischen der Grundlagenermittlung und der Vorplanung angesiedelt. Architekturwettbewerbe
+ermöglichen die Betrachtung und Bewertung von ganz verschiedenen
+Entwurfsansätzen zur Lösung einer architektonischen Aufgabe. Sie können insofern
+auch kompliziert ablaufen, weil zum einen die Organisationsaufwände beträchtlich
+sind. Zum anderen muss sich eine Vielzahl von Bau- und Planungsbeteiligten im
+Laufe eines in der Regel sehr kompakten, eng getakteten und nur wenige Tage umfassenden
+Verfahrens eine konsensuelle und differenzierte Meinungsbildung zu einer
+Reihe von Entwürfen erarbeiten.
+Es gilt unter verschiedenen Wettbewerbsarten zu unterscheiden. So sind z. B. Realisierungswettbewerbe
+mit der konkreten Absicht verknüpft, später einen Bau durchzuführen.
+Ideenwettbewerbe sollen häufig die Grundlage einer Planungsaufgabe klären
+und weitere Entscheidungen vorbereiten. Architekturwettbewerbe verlaufen anonym
+und sind für potentielle Teilnehmerinnen und Teilnehmer unterschiedlich offen. Realisierungswettbewerbe
+können beschränkt (einzelne Büros werden direkt zur Teilnahme
+aufgefordert) oder offen mit unterschiedlich großem Geltungsbereich (Stadt, Bundesland,
+bundesweit) durchgeführt werden. Für die Durchführung von Architekturwettbe-
+74 Dorothea Sommer
+werben gilt in Deutschland die Richtlinie für Planungswettbewerbe (RPW).20 Ein Architekturwettbewerb
+kann durch das jeweils zuständige Bauamt durchgeführt werden,
+oder eine freiberuflich tätige Person kann für diese Aufgabe beauftragt werden.
+In den Auslobungsunterlagen finden sich die Angaben aus der Grundlagenermittlung
+sowie Informationen zu Anlass und Zweck des Wettbewerbs, zum Auslober und
+zur Wettbewerbsart mit ausführlichen Beschreibungen der Wettbewerbsaufgabe.
+Diese umfassen u. a. das Raumprogramm, technische Vorgaben, städtebauliche Rahmenbedingungen
+und erste Aussagen zum Kostenrahmen. Die Bibliothek sollte unbedingt
+in die Formulierung der Wettbewerbsaufgabe einbezogen sein, um ihre Ziele
+und Interessen angemessen artikulieren zu können.
+Im Ergebnis der Auslobung werden von den verschiedenen Architekturbüros
+Vorentwürfe im Maßstab 1:200 eingereicht, die eine grundsätzliche gestalterische und
+funktionale Lösung für die Wettbewerbsaufgabe darstellen sollen. Die anonym und
+fristgerecht einzureichenden Beiträge werden im Wettbewerbsverfahren baufachlich
+vorgeprüft und durch eine Jury bewertet, die sich in der Regel aus Fach- und Sachpreisrichter:
+innen zusammensetzt. Auch Sachverständige, wie beispielsweise Vertreterinnen
+und Vertreter des Denkmalschutzes können je nach Bedarf zur Beratung
+hinzugezogen werden.
+Wie schon in der Grundlagenermittlung und bei der Formulierung der Wettbewerbsaufgabe,
+sollte auch die Bibliothek, ggf. auch Vertreterinnen und Vertreter anderer
+Bibliotheken, die besondere Erfahrung und Expertise aufweisen, in der Jury als
+Sachpreisrichterinnen und -richter vertreten sein. Die Vertreterinnen und Vertreter der
+Bibliothek werden sich weniger mit der Beurteilung der technischen, städtebaulichen,
+architektonischen und wirtschaftlichen Aspekte befassen, sondern die bibliotheksspezifische
+Perspektive einnehmen und das funktionelle Konzept der Entwürfe bewerten
+(Wegesysteme, Raumgliederung etc.). Auch werden sie darauf achten, ob die Flächenund
+Raumvorgaben im Entwurf beispielsweise geeignet sind, die verschiedenen Servicebereiche
+und angegebenen Bestände in vollem Umfang unterzubringen.
+Im Ergebnis der Preisgerichtssitzung wird eine Rangfolge der mit Preisen auszuzeichnenden
+Arbeiten festgelegt, und es können ein oder mehrere Entwürfe angekauft
+werden. Das Ergebnis des Wettbewerbs muss anschließend in einer Ausstellung
+der Öffentlichkeit vorgestellt werden. Den Bauauftrag kann der erste Preisträger erhalten,
+aber es kann auch in eher seltenen Fällen geschehen, dass der Empfehlung
+des Preisgerichts nicht gefolgt wird und ein anderer Entwurf den Bauauftrag erhält.
+Die Einflussmöglichkeiten der Bibliothek sind hier eher begrenzt, da verschiedene
+Gremien in die Entscheidung zur Vergabe des Bauauftrags zu involvieren sind.
+ Bund Deutscher Architekten BDA 2014: RPW.
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 75
+8.2 Leistungsphase 2 – Vorplanung
+Während der Vorplanung werden unter Leitung der Architektin oder des Architekten
+die ermittelten Grundlagen weiter analysiert und die Zielvorstellungen des Projekts
+näher ausgearbeitet. Die Architekt:innen liefern erste Entwürfe in Form von Zeichnungen
+mit der Darstellung von Grundrissen, Schnitten und Fassaden, meist im Maßstab
+1:200, ab. Es werden die Leistungen anderer fachlich Beteiligter integriert und
+wesentliche Zusammenhänge und Bedingungen betrachtet. Dies können u. a. die städtebauliche
+Integration und gestalterische Lösungen sein, der Zuschnitt des Grundstücks,
+die Erschließungssituation hinsichtlich der Energie- und Wasserversorgung,
+der Baumbestand in den Außenanlagen. Es werden Vorverhandlungen mit bestimmten
+Behörden zu notwendigen Genehmigungsverfahren durchgeführt sowie ein erster
+Terminplan aufgestellt. In dieser Phase können auch verschiedene Entwurfsvarianten
+entstehen, um alternative Lösungsmöglichkeiten für die Unterbringung von Beständen,
+für die Anordnung von Funktionsbereichen innerhalb eines Gebäudes oder eine
+sinnvolle Wegeführung zu untersuchen. Hier kann gerade von Nutzerseite noch auf
+die Einhaltung bestimmter funktionaler Zusammenhänge oder gewünschter Raumanordnungen
+gezielt eingewirkt werden. Im Rahmen der Vorentwurfsplanung wird die
+bereits erwähnte Kostenschätzung vorgenommen. Die Vorplanung ist vom Bauherrn
+zu bestätigen.
+8.3 Leistungsphase 3 – Entwurfsplanung
+Im Rahmen der Entwurfsplanung wird die architektonische Entwurfsidee weiter konkretisiert,
+was sich auch in der zeichnerischen Darstellung der Pläne niederschlägt, die
+nun im Maßstab M 1:100 und im Bereich von Innenraumdetails auch 1:50 oder 1:20 ausgefertigt
+werden. Es werden in einem iterativen Prozess die Kriterien der Vorplanung
+(u. a. Städtebau, Gestaltung, Konzept) unter Einbeziehung der fachlich Beteiligten vertieft
+weiterbearbeitet. In der Entwurfsplanung wird auch die verbale Objektbeschreibung
+angefertigt, die Aussagen zum Entwurf, der Konstruktion, den Materialien, dem
+Farbkonzept und dem Betrieb des Bauwerks enthält. Mit den Genehmigungsbehörden
+wird über die Genehmigungsfähigkeit verhandelt. Der Terminplan wird fortgeschrieben.
+In dieser Planungsphase erfolgt auch die Kostenberechnung nach DIN 276, die
+nach Prüfung durch die Behörde als verbindlich anzusehen ist.
+Die Entwurfsplanung mündet im Bereich des öffentlichen Bauens in die Anfertigung
+der Haushaltsunterlage Bau durch die Architektin bzw. den Architekten. Diese wird vom
+Bauherrn zur Prüfung bei der jeweiligen Förderbehörde eingereicht. Es empfiehlt sich,
+dass auch die Nutzer die Haushaltsunterlage Bau (HU Bau) vor der Einreichung zur Genehmigung
+sehr sorgfältig prüfen. Sie kann zum einen Fehler in Beschreibungen oder
+Zeichnungen enthalten, zum anderen verhält es sich so, dass Dinge, die in der Entwurfsplanung
+nicht erfasst sind, später nicht gebaut werden bzw. nur noch sehr schwierig in
+76 Dorothea Sommer
+den Planungen unterzubringen sind. Daher sollte auch darauf geachtet werden, dass
+man für die häufig umfangreiche Prüfung rechtzeitig ein entsprechendes Zeitfenster in
+der Terminplanung erhält. Unbedingt vermieden werden muss eine lediglich kurzfristige
+Bestätigung der Unterlagen von Nutzerseite.
+Die HU Bau enthält in einem gesonderten Teil auch die Kostenberechnungen zu
+den Ausstattungskosten für die Ersteinrichtung der Bibliothek wie dem beweglichen
+Mobiliar, Textilien (Vorhänge), Bücherregalsystemen, die nicht fest mit dem Bau verbunden
+sind, und anderen Arbeitsgeräten. Diese Kosten sind von der Bibliothek zu
+ermitteln durch Einholen von Angeboten, die die Grundlage für die geschätzten Preise
+bilden. Auch hierfür ist ein entsprechender Zeit- und Arbeitsaufwand vorzusehen.
+8.4 Leistungsphase 4 – Genehmigungsplanung
+In Ergänzung der Entwurfsplanung werden im Rahmen der Genehmigungsplanung
+die Vorlagen für die nach öffentlich-rechtlichen Vorschriften erforderlichen Genehmigungen
+oder Zustimmungen eingeholt, was auch Ausnahmen und Befreiungen von
+bestimmten Auflagen einschließen kann. Die Nutzer sind an dieser Stelle im Planungsprozess
+weniger involviert. Dieser Planungsschritt hat als Ergebnis den Bauantrag,
+nach dessen Prüfung die Baugenehmigung mit eventuellen Auflagen erteilt wird.
+8.5 Leistungsphase 5 – Ausführungsplanung
+Während der Ausführungsplanung werden die Ergebnisse der Leistungsphasen 3 und 4
+vertieft weiterbearbeitet und in Werkpläne für die verschiedenen Gewerke überführt,
+so dass nach ihnen gebaut werden kann. Die Maßangaben in den Plänen erfolgen im
+Maßstab 1:50, für bestimmte Darstellungsbereiche werden noch größere Maßstäbe genutzt,
+die bis zum Detail 1:1 ausgefertigt und auch mit entsprechenden textlichen Anmerkungen
+versehen werden. In dieser Planungsphase sind die Nutzer weniger involviert
+und werden in der Regel nur punktuell hinzugezogen. Dies geschieht bei bestimmten
+Bemusterungen oder bei Fragen der Ausstattung zur Gestaltung der Räumlichkeiten
+(Farbkonzept, Einsatz von Materialien, mit dem Bauwerk fest verbundenes Mobiliar).
+Die Terminplanung wird fortgeschrieben und der Kostenanschlag vorgenommen.
+8.6 Leistungsphase 6 – Vorbereitung der Vergabe
+In der Leistungsphase 6 wird durch die Architektin/den Architekten die Vergabe von
+Leistungen vorbereitet, die die Durchführung der Ausführungsplanungen innerhalb
+eines zivilrechtlichen Rahmens gewährleistet. In bestimmten Projekten wird die Ausführungsphase
+von Bauprojekten auch von Generalunternehmern durchgeführt. In
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 77
+diesem Stadium sind Vergabeunterlagen zu definieren, was das Aufstellen von Leistungsbeschreibungen
+nach VOB (Verdingungsordnung für Bauleistungen) umfasst. Es
+werden für jedes Gewerk Mengen, Materialien und Qualitäten definiert und beschrieben.
+Ein Vergabeterminplan wird erstellt.
+8.7 Leistungsphase 7 – Mitwirkung bei der Vergabe
+Es werden durch die Architektin/den Architekten oder den Generalunternehmer Angebote
+eingeholt, geprüft und bewertet sowie Verhandlungen mit Bietern durchgeführt.
+Preisspiegel nach Einzelpositionen und Teilleistungen werden erstellt und die Angemessenheit
+der Preise bewertet. Die Vergabevorschläge werden zusammengestellt und dokumentiert,
+wobei nicht nur das wirtschaftlichste Angebot, sondern auch die Sicherstellung
+der gestalterischen und technischen Qualitäten eine Rolle spielen. Hier können sich auch
+noch Rückfragen seitens der Baufachleute an die Bibliothek ergeben, die vergleichende
+Betrachtungen bestimmter Qualitätsmerkmale in den Angeboten betrachten können,
+welche jedoch bereits in der Ausschreibung zu formulieren waren. Dies kann besonders
+bei der Bewertung von Regalsystemen und anderen Einrichtungsobjekten der Fall sein.
+Die Rechtssicherheit und Transparenz des Verfahrens ist hierbei entscheidend, um
+Vergabeentscheidungen und Auftragserteilung, die durch Mitbieter angefochten
+werden können, zu einem positiven Abschluss zu bringen und die Terminabläufe
+für die Bauausführung nicht zu gefährden.
+8.8 Leistungsphase 8 – Objektüberwachung
+In dieser Leistungsphase wird der Bau durchgeführt, wobei für die Bauleitung häufig
+ein:e Projektarchitekt:in oder der Generalunternehmer zuständig sind. Die Nutzer werden
+während der Bauausführung, die entsprechend der öffentlich-rechtlichen Genehmigungen,
+den Ausführungsplänen und den Leistungsbeschreibungen unter Anerkennung der
+Regeln der Technik und den einschlägigen Vorschriften durchgeführt wird, nur noch
+punktuell konsultiert. Beim Bauen im Bestand kann dies häufiger der Fall sein, um bestimmte
+technische Schnittstellen zu definieren. Nicht immer ist die Bauausführung ein
+stromlinienförmiger Prozess, sondern es kann zu Situationen kommen, wo bestimmte
+bauliche oder technische Vorgaben in der Realität nicht ausgeführt werden können, so
+dass Planungsänderungen erfolgen müssen, die erneut Abstimmungen mit den an den
+Planungen beteiligten Personen, einschließlich der Bibliothek als Nutzer, notwendig machen.
+Auch Zeitverzögerungen können entstehen, wenn Vergabeentscheidungen angefochten
+werden oder Lieferengpässe bestehen. Der Bauablauf wird in einem Bautagebuch
+dokumentiert, der Terminplan fortgeschrieben. Die Bauausführung ist laufend zu überwachen
+und die Kosten sind zu kontrollieren. Es erfolgt die Kostenfeststellung nach DIN 276.
+Die Bauabnahme erfolgt unter Einbeziehung aller fachlich Beteiligten, einschließlich
+78 Dorothea Sommer
+der Feststellung von Mängeln, die zu beseitigen sind bzw. deren Verjährungsfristen festzuhalten
+sind.
+8.9 Leistungsphase 9 – Dokumentation
+In dieser Leistungsphase werden die zeichnerischen Darstellungen und rechnerischen
+Ergebnisse des Bauprojekts systematisch zusammengestellt. Sorgfältige Objektdokumentationen
+sind wichtige Unterlagen, die beim Bauherren und bei der Architektin/dem Architekten
+aufbewahrt werden, wobei es sich empfiehlt, dass auch Nutzer bestimmte
+Planungsunterlagen erhalten, denn eine Kenntnis des Gebäudes ist für den erfolgreichen
+laufenden Betrieb und den Erhalt auch in den folgenden Jahren unabdingbar.
+9 Resümee
+Die hier nur kurz beschriebenen Grundlagen und Planungsschritte für den Bibliotheksbau
+sollen verdeutlichen, nach welchen Spielregeln ein Bauprojekt entsteht und
+geplant wird und welche Rolle die Bibliothek von Nutzerseite her in diesem Prozess
+einnimmt, um gewisse Gestaltungsmöglichkeiten zu erhalten. Es hängt durchaus von
+den Kompetenzen und der Expertise der Personen ab, die in das Baugeschehen seitens
+der Bibliothek einbezogen werden, immer wieder auch die Aufgaben, Arbeitsabläufe
+und Anforderungen der Bibliothek in den verschiedenen Planungsphasen allen
+Planungsbeteiligten zu verdeutlichen und fachlich klar zu kommunizieren. Dabei
+sollte möglichst darauf geachtet werden, dass bibliotheksinterne Abstimmungen zu sich
+abzeichnenden bestimmten Problemstellungen vorher konsentiert werden, bevor man
+sich in einer größeren Planungsrunde äußert, da ansonsten die Gefahr besteht, dass
+zeitverschwendende Diskussionen geführt werden. Ein Bauvorhaben wird immer auch
+nach wirtschaftlichen Gesichtspunkten durchgeführt, und die Planungsphasen sollten
+daher auch zeitlich nicht ausufern.
+Jedes Bauvorhaben ist aber komplexer Natur und die Abläufe sind nicht einfach
+schematisierbar, da jede Bibliothek, die gebaut, erweitert oder umgebaut werden soll,
+ihre eigenen Rahmenbedingungen aufweist und bestimmte Aufgaben und Funktionen
+zu erfüllen hat. Daher gestaltet sich eine konkrete Ausarbeitung jedes Projekts
+auch immer individuell unterschiedlich. Man sollte sehr frühzeitig möglichst genaue
+Vorstellungen haben, diese im Planungsprozess entwickeln und in den späteren
+Planungsphasen möglichst wenige Änderungen und Anpassungen vornehmen.
+Es bleibt zu hoffen, dass auch in Zukunft weiterhin interessante, gestalterisch anspruchsvolle
+und funktional ausgereifte Bauprojekte für Bibliotheken in Deutschland
+realisiert werden können, um eine leistungsfähige Literatur- und Informationsversorgung
+zu gewährleisten und Bibliotheksnutzerinnen und -nutzern attraktive physische
+2.1 Planungen zum Bibliotheksbau – Überlegungen und Hinweise 79
+Orte zu bieten, die es ermöglichen, in Austausch und Kommunikation mit den analogen
+und virtuellen Welten des Wissens zu treten.
+Literatur
+Bibliotheksbau: Kompendium zum Planungs- und Bauprozess. Berlin: Deutsches Bibliotheksinstitut 1994.
+Bund Deutscher Architekten BDA (Hrsg.): Richtlinien für Planungswettbewerbe RPW 2013. Berlin 2014.
+https://www.bda-bund.de/wp-content/uploads/2016/12/RPW-2013_Kommentierung-und-
+Handlungsempfehlungen.pdf (23.10.2023).
+DIN – Deutsches Institut für Normung: DIN 277-1 Grundflächen und Rauminhalte im Bauwesen – Teil 1
+Hochbau. Berlin: Beuth 2021.
+DIN – Deutsches Institut für Normung: DIN 67700: Bau von Bibliotheken und Archiven – Anforderungen
+und Empfehlungen für die Planung. (Qualität, Statistik und Leistungsevaluierung). Berlin:
+Beuth 2017.
+DIN – Deutsches Institut für Normung: DIN ISO 11799: 2015. Information und Dokumentation –
+Anforderungen an die Aufbewahrung von Archiv- und Bibliotheksgut.
+DIN – Deutsches Institut für Normung: DIN ISO 11799: 2017-04. Information und Dokumentation –
+Anforderungen an die Aufbewahrung von Archiv- und Bibliotheksgut.
+DIN – Deutsches Institut für Normung: DIN EN 16893. Erhaltung des kulturellen Erbes – Festlegungen für
+Standort, Errichtung und Änderung von Gebäuden oder Räumlichkeiten für die Lagerung und
+Nutzung von Sammlungen des kulturellen Erbes. Deutsche Fassung EN 16893:2018.
+DIN – Deutsches Institut für Normung: DIN Fachbericht 13. Bau- und Nutzungsplanung von Bibliotheken
+und Archiven. Berlin: Beuth 2009.
+Fachkonferenz der Bibliotheksfachstellen in Deutschland (Hrsg.): Handreichung zu Bau und Ausstattung
+Öffentlicher Bibliotheken. Wiesbaden, Stuttgart 2018.
+Fansa, Jonas: Baufachliche Planungsaufgaben für Bibliothekare – zur Planung von Sanierungen, Um- und
+Neubauten. In: Praxishandbuch Bibliotheksmanagement. Hrsg. von Rolf Griebel, Hildegard Schäffler
+und Konstanze Söllner. Bd. 1. Berlin: De Gruyter Saur 2015. S. 108–124.
+Haack, Lydia: Den gordischen Knoten durchschlagen. In: Bauen in Bayern. Jahresbeilage der Bayerischen
+Staatszeitung vom 9. Dezember 2022.
+Niegaard, Helen u. Latimer, Karen (Hrsg.): Introduction: A new tool for planning library buildings. In: IFLA
+Library Building Guidelines: Developments & Reflections. Edited on behalf of IFLA by Karen Latimer
+and Hellen Niegaard. München 2007. S. 8–10.
+Kaindl, Annemarie: „Das großartigste Gebäude in München“: die Baugeschichte der Bayerischen
+Staatsbibliothek. Wiesbaden: Harrassowitz 2023 (Schriftenreihe der Bayerischen Staatsbibliothek).
+Kister, Johannes: Vorwort. In: Bauentwurfslehre. Begründet von Ernst Neufert, weitergeführt von
+Professor Johannes Kister, 43., überarbeitete u. aktualisierte Auflage. Wiesbaden: Springer Vieweg
+2022. S. V.
+Messerschmidt, Burkhard u. Niemöller, Christian (Hrsg.): Honorarordnung für Architekten und Ingenieure:
+Kommentar. München: Beck 2023.
+Neufert, Ernst: Bauentwurfslehre. Begründet v. Ernst Neufert, weitergeführt von Professor Johannes
+Kister, 43., überarbeitete u. aktualisierte Auflage. Wiesbaden: Springer Vieweg 2022.
+80 Dorothea Sommer
+Richtlinien für die Durchführung von Hochbauaufgaben des Freistaates Bayern (RLBau) vom 5. Dezember
+2019, Az. 11-4201-2-2 und 13-B 1005-1/7. Bayerisches Ministerialblatt 2019 Nr. 542 v. 18. Dezember
+2019, Anlage E1. S. 19–25. https://www.gesetze-bayern.de/Content/Document/BayVV_631_B_10824/
+true (23.10.2023).
+Verordnung über die Honorare für Architekten- und Ingenieurleistungen (Honorarordnung für
+Architekten und Ingenieure – HOAI) in der Fassung von 2021. https://www.hoai.de/hoai/volltext/
+hoai-2021/ (05.09.2023).

@@ -1,0 +1,813 @@
+Fabian Franke und Maren Krähling-Pilarek
+3.6 Aufgaben und Organisation
+der Teaching Library
+1 Einführung
+Als Teaching Library bezeichnen sich Bibliotheken, die Aufgaben in der Lehre übernehmen
+und Lehrveranstaltungen anbieten. Doch wieso spricht man von einer „Teaching
+Library“, aber nicht beispielsweise von einer „Acquisition Library“ oder einer
+„User-Service-Library“? Offenbar soll das „Lehren“ als Aufgabe von Bibliotheken hier
+besonders betont werden, während das Erwerben und das Bereitstellen von Büchern
+und Medien unumstritten ist. Ein Blick in die Deutsche Bibliotheksstatistik DBS zeigt,
+dass das Angebot von Schulungen fest etabliert ist. Die Anzahl der wissenschaftlichen
+Universal- und Hochschulbibliotheken, die im Bereich der Lehre aktiv sind, ist seit
+2010 quasi konstant, die Dauer und die Teilnehmenden der Schulungen erreichen bis
+zur Beginn der Corona-Pandemie 2020 hohe Werte. Die coronabedingten Einschränkungen
+ab 2020 führten zwar zu einem deutlichen Einbruch der Nutzungszahlen. Allerdings
+ist inzwischen wieder ein signifikanter Anstieg festzustellen, zudem umfasst
+die Statistik (s. Abb. 1) keine E-Learning-Angebote.
+Doch ist jede Bibliothek, die in irgendeiner Form eine Schulung anbietet, bereits eine
+„Teaching Library“? In der Literatur1 findet sich keine allgemeingültige Definition einer
+Teaching Library unter den deutschen Rahmenbedingungen. Dieser Beitrag beginnt
+daher mit dem Versuch einer Definition der Teaching Library und gibt einen Überblick
+über das mögliche Angebotsspektrum, die vielfältigen Aufgaben und möglichen Organisationsformen
+und Strukturen einer Teaching Library.2 Er steht dabei dem Konzept der
+Teaching Library nicht distanziert gegenüber, sondern bringt zum Ausdruck, dass Biblio-
+ S. Sühl-Strohmenger 2012, Krauß-Leichert 2007, Lux u. Sühl-Strohmenger 2004.
+ Bewusst konzentriert sich der Beitrag auf Teaching Libraries in wissenschaftlichen Bibliotheken. Die
+Angebotsfülle, die in öffentlichen Bibliotheken im Bereich der Bibliothekspädagogik anzufinden ist, ist
+so groß und vielfältig, dass dies den Beitrag sprengen würde. Ein wichtiger Teilbereich sind spezifische
+Veranstaltungen und Services zur Förderung von Informations- und Digitalkompetenz. Meist sind hier
+die Übergänge zur Medienkompetenz- sowie Leseförderung fließender sowie die wichtigen Kooperationspartner
+andere. Zur Schärfung und Öffnung des eigenen Blicks empfiehlt sich der gezielte Austausch
+zwischen pädagogisch-didaktischen Mitarbeiter:innen öffentlicher und wissenschaftlicher
+Bibliotheken. Vergleiche die Veröffentlichungen und Veranstaltungen der AG Bibliothekspädagogik des
+Deutschen Bibliotheksverbands, z. B. AG Bibliothekspädagogik 2023 sowie die Broschüre Mit Bibliotheken
+lernen – ein Leben lang der Fachkommission Bibliothekspädagogik im Landesverband Baden-
+Württemberg des Deutschen Bibliotheksverband, die den gesamten Lebenslauf vom Kleinkind über die
+Schule, Studium und Wissenschaft bis hin zum lebenslangen Lernen in den Blick nimmt. Vgl. AG Bibliothekspädagogik
+im Deutschen Bibliotheksverband: Bibliotheken als Bildungspartnerinnen. 2023. https://
+www.b-u-b.de/detail/bibliotheken-als-bildungspartnerinnen (02.10.2023), sowie Landesverband Baden-
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-012
+33,784
+30,448
+36,195
+37,555
+42,116
+45,039
+45,875
+48,905 50,339
+48,747 48,325
+51,292
+53,068
+52,836
+52,868 54,183
+52,988
+24,590
+28,626
+35,590
+3,17,053
+3,94,776
+4,44,352
+4,86,470
+5,27,781
+5,32,963
+5,35,063
+5,34,374 5,33,220
+5,53,140
+5,42,194
+5,41,710
+5,50,173
+3,05,665
+3,70,010
+4,05,723
+151
+164 169 179
+193 195 201 207 214 216 211 215 216 213 215 212 214 204 202 210
+0
+1,00,000
+2,00,000
+3,00,000
+4,00,000
+5,00,000
+6,00,000
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Benutzerschulungen (Stunden) Teilnehmer Bibliotheken mit Benutzerschulungen
+Abb. 1: Deutsche Bibliothekstatistik 2003–2022. Anzahl der wissenschaftlichen Universal- und Hochschulbibliotheken mit Einträgen in Feld 177
+„Benutzerschulungen (Stunden)“, Daten aus Feld 177 „Benutzerschulungen (Stunden)“ und Daten aus Feld 178 „Teilnehmende an
+Benutzerschulungen“ (seit 2007 erhoben).
+190 Fabian Franke und Maren Krähling-Pilarek
+theken den Aufforderungen von Politik, Gesellschaft und Wissenschaftsgremien, Informationskompetenz
+zu fördern, nachkommen sollten.3
+2 Definition der Teaching Library
+Wir definieren die Teaching Library als eine Bibliothek oder eine Einheit innerhalb
+einer Bibliothek, die die Förderung von Informationskompetenz nachhaltig in ihren
+Organisationsstrukturen verankert hat, diese dauerhaft bearbeitet und dabei stets aktuelle
+fundierte didaktische Methoden anwendet. Diese Definition fokussiert insbesondere
+auf drei Aspekte: Thema, Organisation und Didaktik.
+Thematisch steht die Förderung von Informationskompetenz im Vordergrund.4 Informationskompetenz
+ist die Fähigkeit, den Informationsbedarf zu erkennen und die benötigten
+Informationen zu finden, zu bewerten und effektiv, legal und verantwortungsvoll
+zu nutzen. Die meistzitierte Definition stammt von der American Library Association aus
+dem Jahr 1989: „Information literacy is a set of abilities requiring individuals to recognize
+when information is needed and have the ability to locate, evaluate, and use effectively
+the needed information.“5
+Das 2016 in den USA entwickelte „Framework for Information Literacy for Higher
+Education“6 geht einen Schritt weiter. Es
+ermöglicht eine neue Perspektive auf Informationskompetenz als umfassenden Satz von Fähigkeiten,
+bei dem die Studierenden zugleich Konsumenten und Schaffende von Informationen sind
+und erfolgreich in kollaborativen Umgebungen mitwirken. [...] Informationskompetenz ist ein
+Satz von Fähigkeiten, der die reflektierte Erkundung von Informationen, das Verständnis davon,
+wie Informationen entstehen und bewertet werden sowie die Verwendung von Informationen
+Württemberg des Deutschen Bibliotheksverband: Mit Bibliotheken lernen – ein Leben lang. 2023. https://
+www.bibliotheksverband.de/fachkommission-bibliothekspaedagogik (03.10.2023).
+ Vergleiche hierzu die Stellungnahme des Deutschen Bibliotheksverbandes zu von der Kultusministerkonferenz
+vorgelegten Strategie „Bildung in der digitalen Welt“ aus dem Jahr 2016: Deutscher Bibliotheksverband:
+Bibliotheken vermitteln Schlüsselqualifikationen für die digitale Gesellschaft.
+Stellungnahme des Deutschen Bibliotheksverbandes (dbv) zum KMK-Strategiepapier „Bildung in der
+digitalen Welt“. 2016. https://www.bibliotheksverband.de/sites/default/files/2020-11/2016_07_15_dbv_Stel
+lungnahme_KMK_Strategie_digitale_Bildung.pdf (02.10.2023).
+ Die enge Verflechtung der Informationskompetenz mit der Medienkompetenz, der Digital Literacy,
+der Data Literacy usw. ist den Autor:innen bewusst. Gezielt wird hier zugunsten des einführenden
+Charakters auf eine ausführliche Darstellung der Komplexität des Feldes verzichtet.
+ American Library Association: Presidential Committee on Information Literacy. Final Report. 1989.
+http://www.ala.org/acrl/publications/whitepapers/presidential (23.09.2023).
+ Association of College and Research Libraries (ACRL): Framework for Information Literacy for Higher
+Education. 2016. http://www.ala.org/acrl/standards/ilframework (23.09.2023).
+3.6 Aufgaben und Organisation der Teaching Library 191
+zur Schaffung neuen Wissens und der ethisch korrekten Mitwirkung in Gemeinschaften des Lernens
+umfasst.7
+Während diese beiden Definitionen den universitären Kontext im Blick haben, hat die
+Information Literacy Group der britischen Library and Information Association 2018
+eine Definition von Informationskompetenz erarbeitet, die auf die Bedeutung von
+Informationskompetenz in den Zusammenhängen Alltagsleben, Bürgerrechte, Bildung,
+Arbeitsplatz und Gesundheit abzielt: „Information literacy is the ability to think
+critically and make balanced judgements about any information we find and use. It
+empowers us as citizens to reach and express informed views and to engage fully
+with society.“8
+Als Teaching Library werden Bibliotheken aktiv, damit Menschen Informationskompetenz
+im Sinne des lebenslangen Lernens (weiter-)entwickeln können. Sie stellen
+nicht nur Medien bereit, sondern helfen auch ihren Nutzer:innen, mit Medien
+und Informationen effizient, effektiv und verantwortungsbewusst umzugehen. Informationskompetenz
+bleibt nicht bibliotheksbezogen, führt also nicht nur in die Räumlichkeiten
+der Bibliotheken, ihre Aufstellungssystematik, ihren Katalog und ihre
+Ausleihmöglichkeiten und Bestell- und Vormerkkonditionen ein, sondern bezieht sich
+grundlegend auf Prozesse und ethische wie technische Aspekte rund um die Verwendung
+von (wissenschaftlichen) Informationen.
+Über die Fokussierung auf Informationskompetenz hinaus werden in Teaching
+Libraries Schulungen bzw. Workshops sowie individuelle Beratungen in den Themenbereichen
+wissenschaftliches Schreiben und Arbeiten im weitesten Sinne, Medienkompetenz,
+Digital und Data Literacy, Künstliche Intelligenz innerhalb des wissenschaftlichen
+Arbeitsprozesses, Beratung in Bezug auf wissenschaftliches Publizieren und auf das Management
+von Forschungsdaten angeboten. Diese Themen können insbesondere in Kooperationen
+mit anderen Einrichtungen breit aufgefächert und in ein größeres Angebot
+von Schlüsselkompetenzförderung eingebettet werden. Bibliotheken positionieren sich
+mit einer Teaching Library als eine wichtige Partnerin in der Förderung von Zukunftskompetenzen/
+Future Skills.9
+Didaktisch kann dies in verschiedenen Formaten geschehen: in einem breiten
+Präsenz-, Hybrid- und Online-Kursangebot für alle Zielgruppen zu vielfältigen Themen,
+in umfangreichen Beratungsangeboten und Sprechstunden, als asynchrones
+Lernangebot in E-Learning-Portalen, in Peer-to-Peer-Formaten, in Barcamps, Workshops,
+Labs. Einigkeit besteht unter Teaching Librarians darüber, dass eine interaktive,
+handlungsorientierte Didaktik gewählt wird, die die Selbstreflexion und das
+ Schoenbeck, Schröter u. Werr 2021: S. 4.
+ CILIP The Library and Information Association: CILIP Definition of Information Literacy 2018.
+https://infolit.org.uk/definitions-models/ (23.09.2024).
+ Zur Debatte um die Future Skills siehe die Website des Stifterverbands für die Deutsche Wissenschaft
+e. V. unter https://www.future-skills.net/ (23.09.2023), sowie Ehlers 2020.
+192 Fabian Franke und Maren Krähling-Pilarek
+Transfervermögen der Teilnehmenden fördert. Didaktisches und lernpsychologisches
+Wissen sowie pädagogische Grundkenntnisse sind Voraussetzung für eine gelingende
+Konzeption.
+Der sprachliche Fokus auf das Lehren im Begriff „Teaching Library“ spielt in die
+Eigenwahrnehmung der Bibliothek hinein. Das eigene Rollenverständnis kann mit
+sehr unterschiedlichen Inhalten gefüllt werden: von Schulungsleitungen über Informationsexpert:
+innen bis hin zu Lernbegleiter:innen gibt es eine breite Vielfalt im Berufsverständnis
+von Teaching Librarians. Dieser Fokus auf die eigene Rolle kommt
+insbesondere auch im „Framework for Information Literacy for Higher Education“
+zum Tragen. Bibliotheksmitarbeitende sehen sich darin als innerhalb eines breiteren
+Netzwerks Handelnde, als einen Baustein, um Studierenden in ihrem Lern-, Selbstreflexions-
+und Entwicklungsprozess Wege zu eröffnen.10 Eine Teaching Library bleibt
+in diesem Sinne nicht passiv, wartet nicht nur auf Nachfragen von Benutzer:innen
+und beschränkt sich nicht auf das bloße Anbieten von Veranstaltungen und Kursen,
+die genutzt werden oder eben nicht. Stattdessen geht sie auf die Menschen zu, strebt
+die Vernetzung mit anderen Bildungspartnern an und wird mit intensiver Öffentlichkeitsarbeit
+beworben sowie in Rückkopplung mit den Nutzenden der Bibliothek
+weiterentwickelt.
+Die organisatorische Verankerung spiegelt nicht selten den Stellenwert wider,
+den die jeweilige Bibliothek dem Thema innerhalb ihres eigenen Profils gibt. Existiert
+ein Team? Wie ist die Leitung des Teams in der Hierarchie angesiedelt? Wie ist die
+Personalausstattung? Ist das Thema an andere Serviceeinheiten angedockt? Wird es
+als Querschnittsthema mehr oder weniger intensiv angegangen? Allein die Existenz
+von Benutzerschulungen, die, wie der noch häufig verwendete Begriff „Schulung“ bereits
+impliziert, auf die Weitergabe rein anwendungsorientierter Techniken und Fähigkeiten
+abzielen, reicht also nicht aus, um bereits von einer Teaching Library zu
+sprechen. Es geht um die nachhaltige Verankerung in den Organisationsstrukturen.
+Eine Teaching Library ist kein Experiment, das von einigen interessierten und engagierten
+Kolleg:innen in der Bibliothek ergebnisoffen durchgeführt wird und das man
+schnell wieder aufgeben kann. Eine Teaching Library ist im Geschäftsverteilungsplan
+sichtbar, die in ihr anfallenden Aufgaben sind im Tätigkeitsspektrum von Bibliothekarinnen
+und Bibliothekaren definiert. Zur Verankerung in die Organisationsstrukturen
+gehört auch die stetige Fortbildung der Bibliothekar:innen sowie eine regelmäßige
+Evaluation und kontinuierliche Optimierung des Angebots. An Hochschulbibliotheken
+sind die Integration in Studienordnungen sowie die enge Zusammenarbeit mit und
+die Akzeptanz bei Fakultäten und der Universitätsleitung ein zentraler organisatorischer
+Aspekt.
+ Association of College and Research Libraries (ACRL): Framework for Information Literacy for Higher
+Education. 2016. http://www.ala.org/acrl/standards/ilframework (23.09.2023), S. 8 f, sowie die Hinweise
+für wissenschaftlich Mitarbeitende und Verwaltung, S. 26 ff.
+3.6 Aufgaben und Organisation der Teaching Library 193
+3 Anforderungen an die Teaching Library
+Im Jahr 2001 hat die so genannte Stefi-Studie11 eindeutig die Defizite von Studierenden
+und Lehrenden beim Umgang mit Informationen aufgezeigt. Die Kernaussagen der
+Stefi-Studie sind:
+– Eine formale Verankerung der Nutzung elektronischer wissenschaftlicher Information
+im Studium hat noch nicht nachhaltig stattgefunden.
+– Das Angebot elektronischer wissenschaftlicher Information wird von den Studierenden
+als unstrukturiert und unübersichtlich empfunden.
+Eine ähnlich umfassende empirische Studie wurde seitdem nicht mehr durchgeführt,
+eine aktuelle Erhebung zum Stand der Informationskompetenz bei den Studierenden
+wurde bereits 2012 von der Hochschulrektorenkonferenz gefordert.12
+Die Ergebnisse einiger seither durchgeführter regional begrenzter Studien bestätigen
+die Stefi-Studie. Offenbar ist noch keine signifikante Verbesserung der Informationskompetenz
+der Studierenden feststellbar.
+– In einer Befragung der Universitäts- und Hochschulbibliotheken in Bayern 2006/07,
+an der 13 792 Studierende teilgenommen haben, äußerten die Befragten signifikanten
+Nachholbedarf bei ihren Kenntnissen zu fachspezifischen Recherchemedien
+und wünschten sich ein größeres Angebot an fachspezifischen Kursen,
+Online-Hilfen und Rechercheanleitungen.13
+– Untersuchungen an der Universität Augsburg 2008 zeigten, dass die Studierenden
+ihre Suche nach wissenschaftlichen Quellen sowohl im Internet als auch in der
+Bibliothek wenig zielgerichtet, breit und einseitig gestalten und Recherchetools
+nicht effektiv nutzen können.14
+ Klatt, Rüdiger, Konstantin Gavriilidis, Kirsten Kleinsimlinghaus, Maresa Feldmann u. a.: Nutzung
+elektronischer wissenschaftlicher Information in der Hochschulausbildung. Barrieren und Potenziale
+der innovativen Mediennutzung im Lernalltag der Hochschulen. Dortmund 2001. https://hdms.bsz-bw.
+de/frontdoor/deliver/index/docId/298/file/nutzungwissinfo.pdf (01.10.2023).
+ Hochschulrektorenkonferenz: Hochschulen im digitalen Zeitalter: Informationskompetenz neu begreifen
+– Prozesse anders steuern. 2012. http://www.hrk.de/fileadmin/redaktion/hrk/02-Dokumente/02-
+10-Publikationsdatenbank/Beitr-2013-01_Informationskompetenz.pdf (01.10.2023).
+ Franke u. Schüller-Zwierlein 2008.
+ Finke, Julia: Informationskompetenz bei der Suche nach wissenschaftlichen Quellen: Eine empirische
+Studie unter Studierenden der Universität Augsburg. 2008. http://websquare.imb-uni-augsburg.
+de/files/BA_JFink_2008_w.e.b.Square.pdf (01.10.2023).
+Heinze, Nina: Bedarfsanalyse für das Projekt i-literacy: Empirische Untersuchung der Informationskompetenz
+der Studierenden der Universität Augsburg. Universität Augsburg, Medienpädagogik.
+Augsburg 2008 (Arbeitsbericht Nr. 19). urn:nbn:de:bvb:384-opus4-5414.
+194 Fabian Franke und Maren Krähling-Pilarek
+– Bei einer Studie des Leibniz-Zentrums für Psychologische Information und Dokumentation
+(ZPID) 2015 zur Ermittlung der Informationskompetenz von Psychologiestudierenden
+wurden deutliche Wissensdefizite festgestellt.15
+Die Enquete-Kommission Internet und digitale Gesellschaft des Deutschen Bundestages
+sieht die Vermittlung von Informationskompetenz als übergreifende Aufgabe in
+allen Bildungsstufen:
+Die Vermittlung von Informationskompetenz stellt Lehrende und Lernende in Kindertagesstätten,
+Schulen und Hochschulen angesichts des „Information Overflow“ und der notwendigen
+Kenntnis der entsprechenden Werkzeuge, die benötigt werden, um relevante und zuverlässige
+Informationen filtern zu können, vor große Herausforderungen. Untersuchungen belegen, dass
+diesen Herausforderungen noch nicht hinreichend begegnet wird und auch die damit verbundenen
+Chancen beziehungsweise Möglichkeiten noch nicht ausreichend genutzt werden. So ist
+etwa an Schulen und Hochschulen nach wie vor zu beobachten, dass Schüler und Studierende
+komplexe Informationsrecherchen auf einfache Suchmaschinenanfragen reduzieren. Relevante
+Kompetenzen im Umgang mit den mächtigen Retrieval-Werkzeugen im Internet bei Lehrenden
+und Lernenden zu stärken, gehört daher zu den Aufgaben des sich im Wandel befindlichen
+Bildungssystems.16
+Im Gesamtkonzept für die Informationsinfrastruktur in Deutschland wird die Vermittlung
+von Informationskompetenz an Studierende und Wissenschaftlerinnen und
+Wissenschaftler explizit als Aufgabe der Universitätsbibliotheken genannt:
+Das Wissen um die Bedeutung von Informationskompetenz muss prinzipiell in allen Teilen der
+Gesellschaft verankert werden. Die Vermittlung sollte bereits in der Schule ansetzen und weitergehend
+an den Universitäten und Hochschulen flächendeckend systematisch und mit modernen
+und aktuellen Unterrichtsmaterialien erfolgen, die hohen pädagogisch-didaktischen Ansprüchen
+genügen. [...] Die Universitätsbibliotheken sind in ihrer Aufgabe zu unterstützen, die Grundversorgung
+an Informationskompetenzvermittlung in allen grundständigen und weiterführenden
+Studiengängen, aber auch für das wissenschaftliche Personal zu leisten.17
+Die Hochschulrektorenkonferenz betont die Bedeutung der curricularen Verankerung
+der Lehrangebote. Die Qualifizierung der Lehrenden sieht sie als Aufgabe u. a. der
+Bibliotheken:
+Vor diesem Hintergrund erscheint es unabdingbar, dass Lehrende qualifiziert sind im Hinblick
+auf die Vermittlung von Informationskompetenz, indem sie erforderlichenfalls entsprechende
+ Rosman 2016.
+ Deutscher Bundestag: Sechster Zwischenbericht der Enquete-Kommission „Internet und digitale
+Gesellschaft“. 2013. http://dipbt.bundestag.de/dip21/btd/17/120/1712029.pdf (01.02.2014).
+ Kommission Zukunft der Informationsinfrastruktur: Gesamtkonzept für die Informationsinfrastruktur
+in Deutschland. Empfehlungen der Kommission Zukunft der Informationsinfrastruktur im
+Auftrag der Gemeinsamen Wissenschaftskonferenz des Bundes und der Länder. 2011. https://www.
+hof.uni-halle.de/web/dateien/KII_Gesamtkonzept_2011.pdf (01.10.2023).
+3.6 Aufgaben und Organisation der Teaching Library 195
+Fortbildungs- und Trainingsangebote wahrnehmen. Die geeigneten Ansprechpartner für die Lehrenden
+sind – von Hochschule zu Hochschule unterschiedlich – die Bibliotheken, Rechenzentren,
+Hochschuldidaktischen Zentren sowie die Medien- und E-Learningzentren.18
+Um die Forschenden besser unterstützen zu können, fordert die Hochschulrektorenkonferenz
+Hochschulbibliotheken und Rechenzentren auf, ihre Kompetenzen in Richtung
+auf das Profil „Data Librarian“ bzw. „Data Curator“ zu erweitern. Auch der
+Umgang mit Forschungsdaten gehört also zur Informationskompetenz, die an den
+Hochschulen gestärkt werden soll.
+Vor dem Hintergrund des digitalen Wandels wurde in den Strategiepapieren der
+letzten Jahre verstärkt der Ausbau von digitalen Kompetenzen gefordert. Im Papier
+Wissenschaftliche Bibliotheken 2025 formuliert der Deutschen Bibliotheksverband
+(dbv) im Handlungsfeld „Förderung digitaler Medien- und Informationskompetenz“
+dieses Zielszenario:
+Bibliotheken stellen daher nicht nur digitale Informationen und Werkzeuge für den Umgang mit
+Informationen bereit, sie bieten darüber hinaus systematische Beratungsdienstleistungen für
+Multiplikatoren und Individuen an – der Werkzeugkasten reicht von Handreichungen, FAQs, Tutorials,
+Webinaren oder klassischen Schulungsveranstaltungen bis hin zu nationaler und internationaler
+Netzwerkbildung sowie individuellen Beratungen. Präsenz- und E-Learning-Angebote für
+Studierende, Graduierte, Lehrende und Forschende sind ebenso fest wie flächendeckend in den
+Curricula und in ihrem Aufgabenspektrum verankert. Durch die Beteiligung an der Entwicklung
+und Verbreitung von Open Educational Resources leisten die Bibliotheken zusätzlich spezifische
+Beiträge zur Qualitätsentwicklung in der Lehre. Die Angebote der Bibliotheken zur Förderung
+von Informationskompetenz sind in die digitalen Strategien der Hochschulen eingegangen und
+umfassen den gesamten Lern-, Forschungs- und Transferprozess. Von zentraler Bedeutung sind
+in diesem Zusammenhang Curricula zu Data Science, um zur Kompetenzentwicklung und Professionalisierung
+im Umgang mit Forschungsdaten in Forschung, Lehre und Studium beizutragen.
+Politik, Hochschulpolitik und Gesellschaft fördern diese Aufgabe der Bibliotheken in besonderem
+Maße, da Bibliotheken wissenschaftsbasiert und unabhängig im Informationsmarkt handeln und
+Informationskompetenz qualitätsorientiert sowie frei von kommerziellen und ideologischen Interessen
+vermitteln.19
+Die Kulturministerkonferenz (KMK) äußert in ihren 2019 verabschiedeten Empfehlungen
+zur Digitalisierung in der Hochschullehre klare Zielvorstellungen. Dort heißt
+es u. a.:
+1. Die Hochschulleitung stellt sicher, dass die Digitalisierung der Hochschullehre in der strategischen
+Gesamtentwicklung der Hochschule auf allen Ebenen verankert ist.
+2. Die Hochschule schafft die organisatorischen, personellen und finanziellen Voraussetzungen
+zur Durchführung und Unterstützung der Lehre in der digitalen Welt.
+ S. FN 12.
+ Deutscher Bibliotheksverband 2018: S. 22 f.
+196 Fabian Franke und Maren Krähling-Pilarek
+3. Die Hochschulen nutzen die Chancen der Digitalisierung konsequent zur hochschulübergreifenden
+Unterstützung und Weiterentwicklung der Lehre.
+4. Die Hochschule stellt die Information, den Austausch und die Vernetzung der Lehrenden
+zur Weiterentwicklung digitaler Lehre sicher.
+5. Die Lehrenden tauschen sich in ihren Fachdisziplinen zum Einsatz digitaler Medien aus
+und entwickeln geeignete Konzepte zur curricularen Integration digitaler Elemente in die
+Lehre und neuer digitaler Lern- und Lehrformate.
+6. Die Hochschuldidaktik entwickelt forschungsbasierte und praxisorientierte Angebote für
+die digitale Gestaltung der Lehre und Konzepte zu deren Umsetzung.
+7. Mit der Akkreditierung von Studiengängen wird sichergestellt, dass digitale Kompetenz curricular
+in den Studiengängen angemessen verankert ist.20
+Bibliotheken können diese Ziele umfassend aufgreifen. Die Kulturministerkonferenz
+fordert, dass „übergreifende Kooperationsstrukturen auf allen Ebenen (auf Fakultätsbzw.
+Fachbereichs-, Hochschul- und Länderebene) sowie mit angrenzenden Servicebereichen,
+wie z. B. Rechenzentren und Bibliotheken, gefördert werden.“21
+Die Weiterentwicklung der Künstlichen Intelligenz wird in Zukunft auch die
+Hochschullehre und die Teaching Library erheblich beeinflussen.22 In einem Gemeinsamen
+Positionspapier Wissenschafts- und Innovationssystem: Die nächste Ausbaustufe
+zünden – Wissenschaft und Wirtschaft zur neuen Legislaturperiode fordern die
+Spitzenorganisationen und -verbände von Wissenschaft und Wirtschaft im Oktober
+2021 unter der Überschrift „Digitale Transformation voranbringen“:
+Deutschland muss zum Vorreiter in digitaler und datenbasierter Forschung und Lehre werden.
+Wichtige Aspekte dabei sind die digitale Datennutzbarmachung für Wissenschaft und Wirtschaft,
+die breite Nutzung von Methoden der künstlichen Intelligenz und des maschinellen Lernens,
+Data Science und Data Literacy sowie die Aus- und Weiterbildung von Data Scientists.23
+Dies schließt auch die Teaching Library ein.
+ Kulturministerkonferenz: Empfehlungen zur Digitalisierung in der Hochschullehre. Beschluss der
+Kulturministerkonferenz vom 14.03.2019. https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAk
+tuelles/2019/BS_190314_Empfehlungen_Digitalisierung_Hochschullehre.pdf (01.10.2023), S. 4 f.
+ Kultusministerkonferenz 2019: S. 9.
+ Siehe z. B. Schmohl 2023.
+ Wissenschafts- und Innovationssystem. Die nächste Ausbaustufe zünden. Gemeinsames Positionspapier
+der Spitzenorganisationen und -verbände von Wissenschaft und Wirtschaft. 2021. https://www.
+wissenschaftsrat.de/download/2021/Wissenschaft_Wirtschaft_Okt_2021.html (01.10.2023), S. 5.
+3.6 Aufgaben und Organisation der Teaching Library 197
+4 Merkmale der Teaching Library
+Woran erkennt man nun, dass eine Bibliothek eine Teaching Library ist? Hier werden
+vier Merkmale genannt, die relativ einfach zu überprüfen sind und zumindest eindeutige
+Indizien liefern: 1. Statistik, 2. Standards, Framework und Referenzrahmen,
+3. Netzwerke, 4. Organisationsstruktur und Fortbildung.
+4.1 Statistik
+Eine Teaching Library führt eine umfassende Statistik über ihre Aktivitäten zur Förderung
+von Informationskompetenz und kann damit eine angemessene Anzahl von
+Veranstaltungen mit verschiedenen Schwerpunkten und für unterschiedliche Zielgruppen
+nachweisen. Ein Beispiel für eine solche Statistik ist die gemeinsame IKStatistik
+auf dem Portal www.informationskompetenz.de, die sich zum Zeitpunkt der
+Erstellung des Beitrags in einem umfassenden Relaunch befindet.24
+4.2 Standards, Framework und Referenzrahmen
+Eine Teaching Library orientiert sich an innerhalb der Bibliothekscommunity herausgegebenen
+Leitlinien. Darüber hinaus empfiehlt sich der Blick über den Tellerrand
+hinaus, zum Beispiel in die Felder der Medienpädagogik und der Digital Literacy-
+Förderung.25
+Die im Jahr 2000 in den USA verabschiedeten Information Literacy Competency
+Standards for Higher Education26 sowie die darauf aufbauenden, im Jahr 2009 verabschiedeten,
+Standards der Informationskompetenz für Studierende27 des Deutschen Bibliotheksverbands
+waren und sind prägend für die didaktische Konzeption, für die
+ https://www.informationskompetenz.de/index.php/veranstaltungsstatistik (01.10.2023).
+ Als zwei Beispiele unter vielen vergleiche die Veröffentlichungen der Gesellschaft für Medienpädagogik
+und Kommunikationskultur auf https://www.gmk-net.de/ (02.10.2023) sowie das Digital Competence
+Framework for Citizens (DigComp) des Joint Research Centers der Europäischen Kommission
+aus dem Jahr 2022 auf https://joint-research-centre.ec.europa.eu/digcomp_en (02.10.2023).
+ Association of College and Research Libraries (ACRL): Information Literacy Competency Standards
+for Higher Education. 2002. https://alair.ala.org/bitstream/handle/11213/7668/ACRL%20Information%
+20Literacy%20Competency%20Standards%20for%20Higher%20Education.pdf (23.09.2023). Die englischsprachigen
+Standards wurden bereits 2002 von Benno Homann übersetzt, woraufhin eine ausgeprägte
+Diskussion zur deutschen Version im Jahre 2009 geführt wurde. Eine ausführliche Darstellung
+der Rezeptionsgeschichte befindet sich in: Schoenbeck, Schröter u. Werr 2021b.
+ Deutscher Bibliotheksverband: Standards der Informationskompetenz für Studierende. 2009.
+https://www.informationskompetenz.de/wp-content/uploads/2015/02/DBV_Standards_Infokompetenz_
+03.07.2009_endg.pdf (22.09.2023).
+198 Fabian Franke und Maren Krähling-Pilarek
+Formulierung von Lernzielen wie auch für organisatorischen und strukturellen
+Rahmenbedingungen.
+2016 wurde – nach langem Entwicklungsprozess – das Framework for Information
+Literacy for Higher Education herausgegeben und im Jahr 2021 ins Deutsche übersetzt.
+28 Das Framework wird als Paradigmenwechsel weg von formalisierten und
+operationalisierbaren Standards hin zu einem offenen Rahmen gesehen, der sich am
+ganzheitlichen Lernen sowie an sogenannten Schwellenkonzepten orientiert.29 Sie
+sind stark am Wissenschaftskontext orientiert – Übertragungen auf andere Kontexte
+in der Praxis existieren bereits.30
+Der 2016 verabschiedete Referenzrahmen Informationskompetenz des Deutschen
+Bibliotheksverbands31 hat zum Ziel „jede Bibliothek und jede Bildungseinrichtung dabei
+[zu unterstützen], ihre Veranstaltungen und Angebote zur Förderung von Informationskompetenz
+einzuordnen und zu klassifizieren“.32 Er orientiert sich am Gemeinsamen
+Europäischen Referenzrahmen für Sprachen und unterteilt Informationskompetenz in
+sechs Niveaustufen von A1 bis C2. Damit soll auch der Brückenschlag zwischen schulischem
+und hochschulischem Niveau und damit zwischen öffentlichen und wissenschaftlichen
+Bibliotheken geschafft werden.
+4.3 Netzwerke
+Teaching Libraries arbeiten in Netzwerken zusammen, um ihre Standards weiterzuentwickeln,
+den Austausch zu fördern und Best-Practice zu koordinieren. Netzwerke
+sind daher unverzichtbar, um eine hohe Qualität des Angebots sicherzustellen. Beispiele
+für Netzwerke sind die regionalen Arbeitsgruppen Informationskompetenz der
+Bibliotheksverbünde und der Bibliotheks- und Berufsverbände33 oder das Netzwerk
+„Tutorials in Bibliotheken“ mit eigenem Kanal im Kommunikationsdienst Discord.
+ Die Übersetzung wurde von verschiedenen Artikeln innerhalb eines Themenschwerpunktheftes
+der Zeitschrift o-bib flankiert. Schoenbeck, Schröter u. Werr 2021a.
+ Vgl. Schoenbeck, Schröter u. Werr 2021b.
+ Zum Beispiel Bärnreuther 2021, Blümig 2021.
+ Klingenberg, Andreas: Referenzrahmen Informationskompetenz. Erarbeitet von Andreas Klingenberg
+im Auftrag der dbv-Kommission Bibliothek & Schule und der Gemeinsamen Kommission Informationskompetenz
+des dbv und VDB. 2016. https://www.bibliotheksverband.de/sites/default/files/2020-
+12/Referenzrahmen_Informationskompetenz.pdf (23.09.2023).
+ S. FN 31, S. 3.
+ http://www.informationskompetenz.de/index.php/regionen/ (01.10.2023).
+3.6 Aufgaben und Organisation der Teaching Library 199
+4.4 Organisationsstruktur und Fortbildung
+Eine Teaching Library beschreibt ihre Aktivitäten zur Förderung von Informationskompetenz
+in ihrer Außendarstellung und hat sie in ihrem Profil oder Leitbild verankert.
+Im Geschäftsverteilungsplan finden sich die dafür notwendigen Strukturen
+wieder, indem die entsprechenden Aufgaben beschrieben und jeweils Mitarbeiter:innen
+zugewiesen sind.
+Die der Teaching Library zugeordneten Mitarbeiter:innen werden umfassend didaktisch
+und inhaltlich aus- und fortgebildet. Dazu gehören – neben der konstanten
+fachlichen Weiterbildung – auch pädagogisch-didaktische Grundkenntnisse über die
+Entwicklungs- und Lernpsychologie der jeweiligen Zielgruppe.
+5 Aufgaben der Teaching Library
+Eine Teaching Library fördert Informationskompetenz bzw. weitere Schlüsselkompetenzen.
+Dies kann auf vielfältige Weise geschehen, zum einem durch Kurse und Workshops
+in Form von Präsenz- oder Hybridveranstaltungen sowie von virtuellen Online-Tutorials
+und E-Learning-Modulen, zum anderen durch die Schaffung einer umfassenden Beratungskultur
+sowie eines Lernortes mit einer lernförderlichen Infrastruktur.
+Unabhängig davon, ob virtuell, hybrid, in Präsenz oder asynchron als E-Learning-
+Modul unterrichtet wird, gilt es die Herangehensweise zu klären: Was steht im Vordergrund
+– Wissen über die praktische Nutzung von konkreten Suchinstrumenten,
+die Bewerbung von lizenzierten Ressourcen, Transferwissen über Informationssuche,
+-bewertung, und -verarbeitung im Allgemeinen, die Reflexion über den Umgang mit
+Informationen im wissenschaftlichen Prozess bzw. in der Gesellschaft im Allgemeinen?
+Vor der Konzeption eines Programms steht immer die Frage des Lernzieles der
+Teilnehmenden und des Ziels, das die Bibliothek für sich mit der Ausrichtung der Teaching
+Library verbindet.
+5.1 Objektbezogene Kenntnisse
+Zu den objektbezogenen Kenntnissen, die innerhalb von Schulungen vermittelt werden,
+gehören solche zu einzelnen Katalogen, Datenbanken oder anderen Programmen,
+z. B.
+– Einführung in den Bibliothekskatalog bzw. das Resource Discovery System der
+Bibliothek,
+– Literaturrecherche in einer spezifischen Datenbank,
+– Durchführung von Fernleihbestellungen,
+200 Fabian Franke und Maren Krähling-Pilarek
+– Zitationsanalyse in Web of Science,
+– Literaturverwaltung mit einer spezifischen Software.
+Schulung und Vermitteln sind hier die passenden Begriffe, denn es werden in der Regel
+technische Fähigkeiten unterrichtet, etwa wie man die Recherchemöglichkeiten einer
+Datenbank optimal ausnutzt und die weiteren Funktionen (z. B. Abspeichern/Ausdrucken
+von Suchergebnissen, Alert-Services) einsetzt. Dies kann didaktisch durchaus anspruchsvoll
+(Gruppenarbeiten, Einsatz von digitalen Tools usw.) geschehen.
+Objektbezogene Kurse informieren zwar über Inhalt und Nutzen des betreffenden
+Objekts (des Katalogs, der Datenbank, des Literaturverwaltungsprogramms), stellen
+es aber meist nicht in den Zusammenhang des Prozesses der Informationssuche
+und bieten allenfalls den Anstoß zur Transferleistung zu anderen ähnlich aufgebauten
+Suchinstrumenten (Datenbanken, Katalogen usw.). Die Frage, bei welchem Informationsbedarf
+der Katalog oder die jeweilige Datenbank benutzt werden sollte bzw.
+bei welchen Anforderungen das jeweilige Literaturverwaltungsprogramm geeignet
+ist, wird oft nicht thematisiert. Objektbezogene Kurse stellten in der Geschichte der
+Informationskompetenzvermittlung den Startpunkt an vielen Bibliotheken dar. Viele
+Bibliotheken bieten weiterhin solche objektbezogenen Kurse an, um den eigenen Katalog
+oder ihre lizenzierten Datenbanken zu bewerben und deren Nutzung zu steigern.
+Oft sind die Übergänge zu den themenbezogenen Kursen fließend, beziehungsweise
+beide Aspekte spielen in die didaktische Konzeption hinein.
+5.2 Themenorientierung und Förderung
+von Reflexion und Haltung
+Themenorientierte Kurse behandeln umfassende Fragen der Literaturrecherche und
+des Umgangs mit Information, z. B.
+– Literatursuche in einem bestimmten Fach,
+– Umgang mit Forschungsdaten,
+– Elektronisches Publizieren und Open Access,
+– Richtiges Zitieren und Vermeidung von Plagiaten oder
+– Forschungsdatenmanagement.
+Themenbezogene Kurse sollten alle Fähigkeiten der Informationskompetenz abdecken:
+1. Informationsbedarf erkennen: Warum ist das Thema für mich relevant?
+2. Informationen finden: Wie finde ich geeignete Werkzeuge und wie benutze
+ich sie?
+3. Informationen bewerten: Wie erkenne ich, dass ich gute Ergebnisse erzielt habe,
+und wie verbessere ich gegebenenfalls meine Ergebnisse?
+4. Informationen weiterverarbeiten: Wie gehe ich mit meinen Ergebnissen um?
+3.6 Aufgaben und Organisation der Teaching Library 201
+Verstärkt wird in den letzten Jahren der Fokus auf weiter gefasste Inhalte wie Publikationsdienste,
+Data Literacy, Urheberrechte, Digital Literacy sowie wissenschaftliches Arbeiten
+im Allgemeinen gelegt. Dies und die innerbibliothekarische Auseinandersetzung
+mit dem Framework for Information Literacy for Higher Education führen dazu, dass
+Veranstaltungen zunehmend themenorientiert ausgerichtet sind. Die Reflexion über die
+eigene Position im Forschungsprozess sowie über die Informationsgesellschaft im Allgemeinen
+wird mit Diskussionen, Übungen und anderen didaktischen Formaten gefördert.
+Peer-to-Peer-Formate sowie offene Veranstaltungen wie Barcamps fördern die
+eigenständige Auseinandersetzung mit den Themen. Gerade anhand solcher partizipativer
+Formate zeigt sich, dass die didaktische Ausrichtung und Konzeption das eigene
+Rollenverständnis der Teaching Librarians berühren: Bin ich die lehrende Expert:in,
+die klassische Schulungsleitung, die pädagogisch handelnde Lernbegleitung oder die
+Moderator:in?
+5.3 Zielgruppenorientierte Kurse
+Durch zielgruppenorientierte Kurse können Bibliotheken Interessierte direkt ansprechen
+und gezielt die für sie relevanten Themen behandeln. Die Zielgruppen können
+sein:
+– Bibliothekseinführungen für Schüler:innen,
+– Fortbildungen für Lehrer:innen,
+– Master-Studierende,
+– Promovierende,34
+– Wissenschaftler:innen sowie Lehrstuhlangehörige oder
+– Berufstätige und Hobbyforscher:innen.
+Die Inhalte werden spezifisch auf die Bedürfnisse der Zielgruppe abgestimmt und
+können je nach den Wünschen der Teilnehmenden variieren.
+5.4 Curriculare Einbindung der Kurse und Prüfungsverfahren
+Die flächendeckende curriculare Einbindung der Kurse wird von der Hochschulrektorenkonferenz
+explizit gefordert. Praxisbeispiele zeigen, dass Bibliotheken auch
+Kurse mit ECTS-Punkten anbieten und Prüfungen abnehmen können.35 Mögliche Prü-
+ Becker-Haumann 2023.
+ Siehe z. B. https://www.bibliothek.uni-wuerzburg.de/lernen/kurse-module-e-learning/basismodulinformationskompetenz/
+(01.10.2023)
+202 Fabian Franke und Maren Krähling-Pilarek
+fungsverfahren reichen von elektronischen Multiple-Choice-Tests über den Einsatz
+von Recherche-Portfolios bis hin zu schriftlichen Klausuren.
+5.5 Einsatz aktueller didaktischer Methoden
+Eine Teaching Library setzt moderne Methoden der Hochschuldidaktik und der Pädagogik
+ein. Dabei stehen die verschiedenen Formen von Gruppenarbeit in den Übungen
+im Vordergrund, aber auch Präsentationen und Vorlesungen sollen zumindest
+kleine interaktive Anteile enthalten. Darüber hinaus spielen Beratungen und Peer-to-
+Peer-Formate eine immer größere Rolle. Die auf Austausch und Diskussion abzielenden
+didaktischen Formate werden idealerweise auch im digitalen oder hybriden
+Raum umgesetzt. Um die Qualität der Lehre sicherzustellen, nehmen die Bibliothekar:innen
+der Teaching Library regelmäßig an didaktischen Fortbildungen teil. Ansprechpartner
+hierfür sind neben den bibliothekarischen Fortbildungseinrichtungen häufig
+die didaktischen Zentren der Hochschulen.
+5.6 Evaluation
+Die Evaluation von Lehrveranstaltungen gehört zur gängigen Praxis an Hochschulen
+und ist in der Regel hochschulintern verpflichtend. Meist werden dazu entsprechende
+Programme (z. B. EvaSys) eingesetzt. Auch eine Teaching Library evaluiert standardmäßig
+ihre Kurse durch einen Evaluationsbogen und durch mündliche Rückmeldungen
+der Teilnehmenden. Die Ergebnisse der Evaluation werden im Netz veröffentlicht.
+Eine weitere Methode der Evaluation besteht in der kollegialen Beratung. Kolleg:innen
+hospitieren gegenseitig in Kursen und geben ein standardisiertes Feedback.
+5.7 Online-Kurse
+Während der Corona-Pandemie, in der Präsenzveranstaltungen stark eingeschränkt
+werden mussten, haben die meisten Bibliotheken ihr Online-Angebot deutlich ausgebaut.
+Sinnvolle und häufig eingesetzte Online-Formate sind:
+– Online-Kurse, Webinare,
+– Virtuelle Führungen, z. B. als Videorundgang oder Fotoserie,
+– Coffee-Lectures,
+– Online-Tutorials,
+– Videokonferenz-Sprechstunden und
+– Videokonferenz-Fragestunden.
+3.6 Aufgaben und Organisation der Teaching Library 203
+Auch bei virtuellen Veranstaltungen sollten aktivierende Methoden eingesetzt werden.
+Empfohlen werden z. B.36
+– Vorstellungsrunde,
+– Kursthemen sammeln und auswerten lassen,
+– Aktivierende Fragen,
+– Chat,
+– Gruppenarbeiten,
+– Gemeinsames Whiteboard und
+– Bildschirm teilen.
+5.8 E-Learning-Module
+Ergänzend zu Online-Kursen stellen einige Bibliotheken Selbstlernmaterialien und ELearning-
+Module bereit. Meist werden dazu E-Learning-Plattformen (z. B. Moodle,
+Ilias) genutzt. Da der Personal- und Ressourcenaufwand für die Erstellung und Betreuung
+von E-Learning-Modulen nicht unerheblich ist, werden oft auch kooperativ
+erstellte Module genutzt. Das größte bibliothekarische Projekt war das von der Universitäts-
+und Landesbibliothek Münster betriebene Library Online Tour and Self
+Paced Education (LOTSE).37 Für die Zielgruppe der Schüler:innen hat die AG Informationskompetenz
+des Bibliotheksverbunds Bayern das „Online-Tutorial für Schülerinnen
+und Schüler zum Thema Informationskompetenz (S.P.U.T.N.I.K.)“ erstellt, das
+modular aufgebaut ist und in den Unterricht an Schulen integriert werden kann.38
+Auch das von der Hochschule der Medien herausgegebene „Tutorial Informationskompetenz“
+spricht explizit Schüler:innen an.39
+5.9 Auskunftsdienst
+Eine Teaching Library definiert sich nicht nur über ihre Lehrveranstaltungen, sondern
+auch durch die grundsätzliche Einstellung der Bibliothekar:innen. Die Förderung
+von Informationskompetenz findet in einer Teaching Library auch im realen
+und virtuellen Auskunftsdienst statt, in dem über die engere Fragestellung hinaus Unterstützung
+angeboten wird.
+ Franke u. a. 2013.
+ https://www.ulb.uni-muenster.de/lotse/ (01.10.2023).
+ https://fhoed.iliasnet.de/goto.php?target=sahs_1767322&client_id=FHOED (01.10.2023)
+ Hochschule der Medien Stuttgart, Studiengang Bibliotheks- und Informationsmanagement/Studiengang
+Informationsdesign, in Zusammenarbeit mit dem Netzwerk Informationskompetenz Berlin/Brandenburg
+(NIK-BB): Tutorial Informationskompetenz. 2014. https://www.wlb-stuttgart.de/tutorialinformationskompetenz/
+(03.10.2023).
+204 Fabian Franke und Maren Krähling-Pilarek
+5.10 Lernort Bibliothek
+Der Lernort Bibliothek ist innerhalb einer Teaching Library eng mit der aktiven Vermittlungsarbeit
+und der Bereitstellung von digitalen Lernmöglichkeiten verzahnt.
+Neben flexibel gestaltbaren Schulungsräumen bietet eine Teaching Library differenzierte
+und zonierte Arbeitsbereiche für verschiedenartige Lernszenarien. Virtueller
+und realer Raum greifen durch die entsprechende Infrastruktur ineinander. Die Arbeitsgruppe
+Lernräume der Deutschen Initiative für Netzwerkinformation (DINI) widmet
+gleich drei ihrer elf Thesen dem Thema:
+Lehren und Lernen:
+IX. These: Lehren und Lernen müssen sich dem digitalen Wandel anpassen.
+X. These: Moderne Lernräume erfordern die Überwindung institutioneller Grenzen und müssen von
+den Studierenden wesentlich mitbestimmt werden.
+XI. These: Moderne Lernräume sind architektonisch und technisch offen zu gestalten und mit
+hybriden Infrastrukturen zu erweitern.40
+Das „Lernraum Toolkit“41 gibt praxisnahe Informationen zur Gestaltung von Lernräumen
+im universitären Kontext. Auch in den öffentlichen Bibliotheken wird die Gestaltung
+des Lernorts Bibliothek intensiv im Zusammenhang mit pädagogischen Angeboten
+diskutiert, da beide Aspekte zentral für die Positionierung innerhalb der jeweiligen
+Kommune sind: „Selbst die Frage nach einer Neudefinition der Aufgabe steht im Raum,
+wobei es hier häufig eher um eine Schwerpunktverschiebung als um eine wirkliche
+Neudefinition geht, denn Bibliotheken waren schon immer Lernorte.“42
+6 Organisation
+Die Teaching Library entsteht durch die Verankerung in die Organisationsstruktur der
+Bibliothek und durch die Aufgabenbeschreibung der beteiligten Bibliothekar:innen.
+ Deutsche Initiative für Netzwerkinformation e. V.: Thesen zur Informations- und Kommunikationsinfrastruktur
+der Zukunft. 2018. https://www.doi.org/10.18452/19126, S. 3 bzw. S. 17 ff, sowie Deutsche Initiative
+für Netzwerkinformation e. V.: Die Hochschule zum Lernraum entwickeln. Empfehlungen der
+DINI-AG „Lernräume“. Kassel 2013. urn:nbn:de:0002-36551 (beide 01.02.2014).
+ Das Lernraum Toolkit ist eine ergänzte und aktualisierte Übersetzung und Zusammenstellung
+zweier englischsprachiger Toolkits: des UK Higher Education Toolkit sowie des Learning Space Toolkit
+US. Vgl. Zinke, Katharina u. Markus Wust: Lernraum Toolkit. Tübingen 2022. http://hdl.handle.net/
+10900.3/OER_RWQXFBMZ (23.09.2023), sowie NCSU Libraries: Learning Space Toolkit. o. J. https://lear
+ningspacetoolkit.org/ (23.09.2023) und UCISA, AUDE, SCHOMS: The UK Higher Education Learning
+Space Toolkit: a SCHOMS, AUDE and UCISA collaboration. 2016. https://www.ucisa.ac.uk/Resources/
+The-UK-Higher-Education-Learning-Space-Toolkit (23.09.2023).
+ Stang u. Umlauf 2018. Der Sammelband gibt einen Überblick über die Vielschichtigkeit der Lernortdiskussion
+in Zusammenhang mit pädagogisch-didaktischer Arbeit in Bibliotheken.
+3.6 Aufgaben und Organisation der Teaching Library 205
+Dabei gibt es in der bibliotheksspezifischen Ausprägung verschiedenartige Gestaltungsmöglichkeiten,
+die aber den in diesem Kapitel beschriebenen Grundzügen folgen.
+6.1 Teaching Library und Bibliotheksleitung
+Die Teaching Library wird von der Bibliotheksleitung getragen und findet sich im
+Leitbild und Profil der Bibliothek wieder. Die Bibliotheksleitung unterstützt aktiv die
+Förderung von Informationskompetenz, indem sie insbesondere nach außen
+– die Bedeutung von Informationskompetenz beim Unterhaltsträger oder bei der
+Hochschulleitung betont sowie
+– für die Akzeptanz der Aktivitäten der Bibliothek wirbt
+und nach innen
+– die Ressourcen für die Vermittlung und Förderung von Informationskompetenz
+bereitstellt sowie
+– den Mitarbeiter:innen die Freiräume und die Fortbildung gibt, die sie für die Vermittlung
+und Förderung von Informationskompetenz benötigen.
+Ihre unterstützende Haltung haben die Bibliotheksleitungen der in der Sektion 4 des
+Deutschen Bibliotheksverbands zusammengeschlossenen wissenschaftlichen und
+Universalbibliotheken43 sowie zusätzlich auch der Universitätsbibliotheken in Nordrhein-
+Westfalen und der wissenschaftlichen Bibliotheken in Baden-Württemberg44
+durch Stellungnahmen45 zur Entschließung der Hochschulrektorenkonferenz46 zum
+Ausdruck gebracht.
+ Deutscher Bibliotheksverband: Wissenschaftliche Bibliotheken 2025. Beschlossen von der Sektion 4
+„Wissenschaftliche Universalbibliotheken“ im Deutschen Bibliotheksverband e. V. (dbv) im Januar
+2018. https://www.bibliotheksverband.de/sites/default/files/2021-08/2018_02_27_WB2025_Endfassung_
+endg.pdf (01.10.2023).
+ Netzwerk Informationskompetenz Baden-Württemberg: Förderung von Informationskompetenz
+in Baden-Württemberg – Potenziale der wissenschaftlichen Bibliotheken des Landes. Stellungnahme
+des Netzwerks Informationskompetenz Baden-Württemberg. http://www.informationskompetenz.de/
+wp-content/uploads/2015/02/NIK-BW_Stellungnahme_Foerderung_IK1.pdf (12.02.2024).
+ Deutscher Bibliotheksverband 2013, Verband der Bibliotheken des Landes Nordrhein Westfalen/
+AG Universitätsbibliotheken 2013.
+ Hochschulrektorenkonferenz: Hochschulen im digitalen Zeitalter: Informationskompetenz neu begreifen
+- Prozesse anders steuern. 2012. http://www.hrk.de/fileadmin/redaktion/hrk/02-Dokumente/02-
+10-Publikationsdatenbank/Beitr-2013-01_Informationskompetenz.pdf (01.10.2023).
+206 Fabian Franke und Maren Krähling-Pilarek
+6.2 Teaching Library und Fachreferat
+In der Aufgabenbeschreibung der Fachreferent:innen der Universitätsbibliotheken
+nimmt die Vermittlung von Informationskompetenz eine wesentliche Rolle ein. Es gehört
+zu ihrem Tätigkeitsprofil, Kurse und Lehrveranstaltungen zu organisieren, vorzubereiten
+und durchzuführen und die Studierenden und Fachvertreter:innen zu allen
+Aspekten der Informationsrecherche und des Informationsmanagements zu beraten
+und zu unterstützen. Dazu gehören insbesondere auch Themen wie z. B. Literaturverwaltung,
+elektronisches Publizieren, Open Access oder Forschungsdatenmanagement.
+Für diese Aufgaben soll in den Fachreferaten mindestens die Hälfte der Arbeitszeit zur
+Verfügung stehen.
+6.3 Teaching Library als eigene Organisationseinheit
+Eine Teaching Library kann für die Vermittlung von Informationskompetenz eine eigene
+Abteilung oder ein eigenes Sachgebiet einrichten. Die Mitarbeiter:innen dieser
+Abteilung oder dieses Sachgebiets sind dann mit dem überwiegenden Anteil ihrer Arbeitszeit
+mit dieser Aufgabe beschäftigt. Sie haben damit die Möglichkeit, ein umfassendes
+Spezialwissen aufzubauen und es für den Auf- und Ausbau der Teaching
+Library einzusetzen.
+6.4 Teaching Library als Querschnittsaufgabe
+Mit der Vermittlung von Informationskompetenz können in einer Teaching Library
+Mitarbeiter:innen aus verschiedenen Abteilungen und Sachgebieten mit einem Teil
+ihrer Arbeitszeit eingesetzt sein. Sie sind dann oft in einer Arbeitsgruppe organisiert
+und können ihre Kompetenzen aus den anderen Bereichen der Bibliothek dabei einbringen.
+Diese Organisationsform bietet sich bei stark dezentralisierten Bibliotheken
+an. Wichtig ist es, darauf zu achten, dass ein ausreichendes Zeitbudget für den Aufund
+Ausbau der Teaching Library zur Verfügung steht. Eventuell wird der Einsatz
+von einer Mitarbeiterin oder einem Mitarbeiter koordiniert.
+6.5 Teaching Library und Aus- und Fortbildung
+Eine Teaching Library setzt sich dafür ein, dass die bibliothekarischen Aus- und
+Fortbildungseinrichtungen das Aufgabenprofil des „Teaching Librarian“ ausführlich
+berücksichtigen. Sie organisiert bei Bedarf selbstständig notwendige Fortbildungen
+und einen kollegialen Austausch. Als Beispiel sei die kollegiale Beratung bei der Vermittlung
+von Informationskompetenz im Bibliotheksverbund Bayern genannt, bei der
+3.6 Aufgaben und Organisation der Teaching Library 207
+sich Kolleg:innen aus verschiedenen Bibliotheken gegenseitig besuchen und sich über
+ihre Konzepte und Kurse austauschen.
+6.6 Teaching Library und institutionelle Kooperationen
+Zur Erfüllung ihrer Aufgaben kooperiert die Teaching Library mit anderen Einrichtungen
+und Zentren, z. B. innerhalb einer Hochschule mit
+– dem Rechenzentrum bei der Einbeziehung von IT-Kompetenzen und der Einrichtung
+der Lernräume,
+– der Studienberatung zur Information der Studierenden, z. B. bei der Literaturrecherche
+für Seminar- und Hauarbeiten,
+– den Graduiertenschulen zur Information und Unterstützung der Promovierenden,
+z. B. bei der Literaturverwaltung und beim Publizieren,
+– dem Bereich Forschungsförderung zur Information und Unterstützung der Forschenden,
+z. B. bei Open-Access-Fragen und Forschungsdatenmanagement.
+6.7 Teaching Library und bibliothekarische Netzwerke
+Zur Entwicklung von allgemein anerkannten Standards, zur Qualitätssicherung und
+zum kollegialen Austausch sind Teaching Libraries in bibliothekarischen Netzwerken
+und Arbeitsgruppen aktiv. Die zentrale Informations- und Austauschplattform ist das
+Portal www.informationskompetenz.de. Des Weiteren sind auf dem Portal Standards,
+Konzepte und Erklärungen zur Informationskompetenz sowie Informationen der regionalen
+Arbeitsgruppen zu finden.
+Die Pflege und laufende Aktualisierung dieses Portals ist eine wichtige Aufgabe
+der im Herbst 2012 gegründeten gemeinsamen Kommission Informationskompetenz
+des Deutschen Bibliotheksverbands und des Vereins Deutscher Bibliothekarinnen und
+Bibliothekare.47 Sie soll darüber hinaus auch als Ansprechpartnerin z. B. für die
+Hochschulrektorenkonferenz, wissenschaftliche Fachgesellschaften, bibliothekarische
+Ausbildungsstätten und Vertreter der Bildungspolitik fungieren, Tagungen zu aktuellen
+Fragestellungen planen und durchführen, die Verankerung von Informationskompetenz
+in den Curricula möglichst aller Bildungsebenen vorantreiben und einen
+Referenzrahmen zur Informationskompetenz erarbeiten.
+ https://www.bibliotheksverband.de/kommission-informationskompetenz (01.10.2023).
+208 Fabian Franke und Maren Krähling-Pilarek
+7 Fazit
+Die Anforderungen an eine Teaching Library sind vielfältig und umfassend. Bibliotheken,
+die die hier beschriebenen zahlreichen Aufgaben vollständig umsetzen möchten,
+stehen vor großen Herausforderungen bei der Einrichtung und Optimierung der notwendigen
+Organisationsstrukturen, um die erforderlichen Ressourcen bereitzustellen.
+Die bereits in den politischen, gesellschaftlichen und wissenschaftlichen Gremien
+sowie innerhalb der Bibliotheksverbände geführten Diskussionen über das zukünftige
+Aufgabenspektrum von Bibliotheken werden an Intensität sicher noch zunehmen.
+Doch ist angesichts der angespannten Haushaltslage der öffentlichen Hand sicher
+nicht zu erwarten, dass Bibliotheken für neue Aufgaben dauerhaft zusätzliche Mittel
+oder Personalstellen erhalten. Die Nachhaltigkeit der Teaching Library müssen Bibliotheken
+durch effektive und effiziente Strukturen selbst gewährleisten.
+Literatur
+Bärnreuther, Karin: Informationskompetenz-Vermittlung für Schulklassen mit Wikipedia und dem
+Framework Informationskompetenz in der Hochschulbildung. In: O-Bib. Das Offene
+Bibliotheksjournal 8 (2021), H. 2. https://doi.org/10.5282/o-bib/5650.
+Becker-Haumann u. Anja Helena: Ein innovatives Lehr-/Lernkonzept für Promovierende: Als Teaching
+Librarian Forschung proaktiv begleiten. In: O-Bib. Das Offene Bibliotheksjournal 10 (2023), H. 3,
+S. 1–25. https://doi.org/10.5282/o-bib/5949.
+Blümig, Gabriele: S.P.U.T.N.I.K. – ein Schülertutorial im Sinne des Framework. Ein Werkstattbericht.
+In: O-Bib. Das Offene Bibliotheksjournal 8 (2021), H. 2. https://doi.org/10.5282/o-bib/5669.
+Ehlers, Ulf-Daniel: Future Skills. Lernen der Zukunft – Hochschule der Zukunft. Wiesbaden 2020.
+https://link.springer.com/book/10.1007/978-3-658-29297-3 (23.09.2023).
+Franke, Fabian u. a.: Förderung von Informationskompetenz in der digitalen Lehre. Herausforderungen
+und Empfehlungen. In: Bibliotheksforum Bayern (2013), H. 3, S. 57–61.
+Franke, Fabian: Mit Informationskompetenz zum (Studien-)Erfolg. Die bayerischen Universitäts- und
+Hochschulbibliotheken beschließen Standards für die Durchführung von Informations-kompetenz-
+Veranstaltungen. In: Bibliothekdienst (2009), H. 7, S. 758–763.
+Franke, Fabian: Standards der Informationskompetenz. Das Angebot der wissenschaftlichen Bibliotheken.
+In: Bibliotheksforum Bayern (2012), H. 1, S. 56–58.
+Franke, Fabian u. André Schüller-Zwierlein: Wie informationskompetent sind die bayerischen
+Studierenden im Jahr 2007? In: Bibliotheksforum Bayern (2008), H. 1, S. 36–39.
+Homann, Benno: Standards der Informationskompetenz. Eine Übersetzung der amerikanischen Standards
+der ACRL als argumentative Hilfe zur Realisierung der Teaching Library. In: Bibliotheksdienst 36
+(2002), H. 5, S. 625–637. https://doi.org/10.1515/bd.2002.36.5.625.
+Krauß-Leichert, Ute (Hrsg.): Teaching Library – eine Kernaufgabe für Bibliotheken. Frankfurt
+a. M. u. a. 2007.
+Lemke, Dorothea u. Caroline Leiß: Interaktiv, lebendig und spannend: Webinare an der
+Universitätsbibliothek der Technischen Universität München. In: Bibliotheksforum Bayern 12 (2018),
+H. 4, S. 242–246. https://www.bibliotheksforum-bayern.de/fileadmin/archiv/2018-4/BFB-4-18_003_We
+binare_an_der_Uni-Bib_der_TU_Muenchen.pdf (01.10.2023).
+3.6 Aufgaben und Organisation der Teaching Library 209
+Lux, Claudia u. Wilfried Sühl-Strohmenger: Teaching Library in Deutschland. Vermittlung von
+Informations- und Medienkompetenz als Kernaufgabe für Öffentliche Bibliotheken. Wiesbaden 2004
+(B.I.T. online – Innovativ 9).
+Rosman, Tom, Anne-Kathrin Mayer u. Günter Krampen: Measuring Psychology Students’ Information-
+Seeking Skills in a Situational Judgment Test Format. In: European Journal of Psychological
+Assessment 32 (2016), H. 3, S. 220–229. https://doi.org/10.1027/1015-5759/a000239.
+Schmohl, T., A. Watanabe u. K. Schelling (Hrsg.): Künstliche Intelligenz in der Hochschulbildung: Chancen
+und Grenzen des KI-gestützten Lernens und Lehrens. Bielefeld 2023 (Hochschulbildung: Lehre und
+Forschung, 4). https://doi.org/10.14361/9783839457696.
+Schoenbeck, Oliver, Marcus Schröter u. Naoka Werr: Themenschwerpunkt „Framework for Information
+Literacy for Higher Education“. In: O-Bib. Das Offene Bibliotheksjournal 8 (2021), H. 2. https://doi.
+org/10.5282/o-bib/5703 (23.09.2023).
+Schoenbeck, Oliver, Marcus Schröter u. Naoka Werr: Making of oder Lost in translation? Das Framework
+for Information Literacy for Higher Education – Herausforderungen bei der Übersetzung ins
+Deutsche und der bibliothekarischen Anwendung. In: O-Bib. Das Offene Bibliotheksjournal 8 (2021),
+H. 2, S. 1–16. https://doi.org/10.5282/o-bib/5703.
+Stang, Richard u. Konrad Umlauf (Hrsg.): Lernwelt Öffentliche Bibliothek. Dimensionen der Verortung und
+Konzepte. Berlin, Boston: De Gruyter Saur 2018. https://doi.org/10.1515/9783110590982.
+Sühl-Strohmenger, Wilfried: Teaching Library. Förderung von Informationskompetenz durch
+Hochschulbibliotheken. Berlin/Boston 2012.
+Sühl-Strohmenger, Wilfried (Hrsg.): Handbuch Informationskompetenz. Berlin, Boston: De Gruyter
+Saur 2012.

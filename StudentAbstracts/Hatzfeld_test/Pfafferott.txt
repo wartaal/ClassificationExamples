@@ -1,0 +1,578 @@
+Milena Pfafferott
+2.2 Bibliothekseinrichtung und technische
+Ausstattung
+1 Einleitung
+Wer in den letzten Jahren wissenschaftliche Bibliotheken besucht hat, sich bei Konferenzen
+Vorträge zu Bau- oder Umbauprojekten angehört hat oder sich selbst für die
+eigene Institution überlegt, wie eine moderne wissenschaftliche Bibliothek eingerichtet
+und ausgestattet werden sollte, der weiß: Bibliotheken haben sich gewandelt. Das
+gedruckte Buch, das physische Medium hat an Bedeutung eingebüßt – nicht zuletzt
+durch die Pandemie, als vielerorts eine Strategie gefahren wurde, die dem elektronischen
+Buch den Vorzug vor dem gedruckten Buch gab. Neben den klassischen Leseund
+Arbeitsplätzen sind Räume und Bereiche entstanden, die das Lernen und Arbeiten
+der Nutzerinnen und Nutzer noch stärker in den Fokus stellen. Im vorliegenden
+Kapitel sollen die Entwicklungen in Bezug auf die Einrichtung und technische Ausstattung
+wissenschaftlicher Bibliotheken zusammengefasst und gebündelt werden. Der
+Fokus liegt dabei auf den Bereichen für Nutzer:innen.
+2 Von Bau, Einrichtung und Raumgestaltung
+Das Gesamtkonstrukt eines Bibliotheksgebäudes besteht im Wesentlichen aus drei
+Komponenten: dem Bau, der Einrichtung und der Raumgestaltung. Zum Bau an sich,
+also der architektonischen Idee und ihrer ingenieurtechnischen Umsetzung, zählen
+z. B. der Grundriss, die Höhe und Ausrichtung des Gebäudes, die Außen- und Innengestaltung
+sowie die Raumstruktur. Eine Änderung der baulichen Gegebenheiten ist
+meist nur mit großem Einsatz finanzieller Mittel möglich und wird im Allgemeinen
+nicht durch die Bibliothek alleine entschieden und durchgeführt werden können. Die
+Einrichtung, also die Wahl der Möbel und Einrichtungselemente, steht in direktem
+Zusammenhang mit den Nutzungskonzepten der Bibliothek und ihrer räumlichen
+Struktur. Eine Änderung der Einrichtung ist mit dem Einsatz finanzieller Mittel verbunden,
+kann aber meist durch die Bibliothek alleine entschieden werden.
+In die Raumgestaltung, d. h. in die Idee, die einem Raum oder einem Bereich zugrunde
+liegt, fließen auch weiche Faktoren, wie beispielsweise der Wohlfühlfaktor
+oder eine inspirierende Atmosphäre ein. Das Nutzungskonzept für diesen Bereich ist
+von großer Bedeutung. Eine Änderung der Raumgestaltung ist durchaus ohne den
+Einsatz oder nur mit geringem Einsatz finanzieller Mittel möglich und kann in der
+Regel durch die Bibliothek alleine entschieden werden.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-006
+2.1 Bauliche Aspekte der Raumgestaltung
+Einige (bauliche) Aspekte können im Zuge der Neu- oder Umgestaltung eines Raums
+berücksichtigt und ausgenutzt werden:
+– Licht und Belüftung: Helle und gut belüftete Räume schaffen eine angenehme Atmosphäre
+für die Nutzerinnen und Nutzer. Der oft gewünschte direkte Einfall
+von Tageslicht kann allerdings auch negative Effekte mit sich bringen, wie beispielsweise
+Blendung oder Erhöhung der Temperatur. Insbesondere ältere Gebäude
+sind nicht vollständig klimatisiert, eine Nachrüstung oft zu teuer oder
+technisch nicht möglich. Aufenthaltsbereiche und Laufwege müssen entsprechend
+ihrer Nutzung ausreichend beleuchtet sein.
+– Wechselspiel zwischen Raum und Nutzungskonzept: Faktoren wie die Deckenhöhe,
+die Anzahl der Fenster oder das Vorhandensein von Treppen oder Ebenen
+innerhalb eines Bereichs sollten im Nutzungskonzept berücksichtigt werden.
+Langgezogene Räume mit niedriger Deckenhöhe eignen sich möglicherweise
+nicht so gut als Vortragsräume, sind dafür aber perfekt als große und wandelbare
+Gruppenarbeitsbereiche nutzbar.
+– Barrierefreiheit: Die Bibliothek und ihre Angebote müssen für alle Nutzenden zugänglich
+und nutzbar sein.1 Barrierefreiheit in all ihren Ausprägungen sollte
+daher sowohl bei Bauprojekten, der Raumplanung als auch bei der Wahl der Einrichtungselemente
+berücksichtigt werden.
+– Sicherheit: Die Sicherheit der Nutzenden, der Mitarbeitenden sowie des Bibliotheksbestands
+muss in der Raumplanung berücksichtigt werden, z. B. durch Notausgänge
+und Sicherheitseinrichtungen. Hier haben die Bibliotheken meistens
+wenig Spielraum, da sie baulichen und technischen Richtlinien unterworfen
+sind.2 Im Bibliotheksalltag sollte aber großes Augenmerk auf Fluchtwege, Verletzungsgefahren
+und Brandschutz gerichtet werden, insbesondere bei multifunktionalen
+Bereichen oder Kreativräumen.
+– Orientierung im Raum: Eine gute Raumaufteilung, die Einhaltung oder Etablierung
+von Sichtachsen und eindeutig erkennbare Laufwege erleichtern die Orientierung
+der Nutzer:innen im Gebäude. Dazu gehört u. a. auch die Zonierung des Gebäudes,
+also eine klare Erkennbarkeit und Abgrenzung von Bereichen mit unterschiedlichen
+Nutzungskonzepten. Ergänzend dazu sollte ein möglichst barrierefreies Leitund
+Orientierungssystem vorhanden sein, das beispielsweise Piktogramme statt
+Text verwendet.3
+– Flexibilität: Die Raumgestaltung sollte im Rahmen der baulichen Möglichkeiten
+anpassungsfähig sein, um auf sich ändernde Anforderungen und Bedürfnisse der
+ Eigenbrodt 2019.
+ Pfafferott 2016.
+ Huth 2016.
+84 Milena Pfafferott
+Nutzenden reagieren zu können. Hier sind meist grundlegende Änderungen der
+Nutzungskonzepte gemeint, d. h. das Umstellen oder Abbauen von Regalen zur
+Schaffung eines Beratungsplatzes, und keine spontanen Möbelrückaktionen.
+Bibliotheken sind nicht nur Aufenthaltsorte für Nutzende, sondern auch Arbeitsort
+für Bibliotheksmitarbeitende. Eine moderne, gesundheitsfördernde Ausstattung der
+unterschiedlichen Arbeitsplätze sollte unbedingt vorgehalten werden. Dies wird im
+vorliegenden Kapitel nicht näher betrachtet.
+2.2 Räume und Funktionsbereiche wissenschaftlicher
+Bibliotheken
+Eine wissenschaftliche Bibliothek bietet verschiedene Bereiche, die den heterogenen
+Bedürfnissen der Nutzenden, der Mitarbeitenden und der Bestände gerecht werden
+sollen. In der 2017 veröffentlichten DIN 67700 „Bau von Bibliotheken und Archiven –
+Anforderungen und Empfehlungen für die Planung“, die Bauabteilungen, Architekturbüros
+und Bibliotheken als Richtschnur und Maßstab im Entwurfs- und Entstehungsprozess
+einer Bibliothek dienen soll, werden neun verschiedene Funktionsbereiche
+von Bibliotheken benannt (siehe Abb. 1).
+Die Nutzerplätze werden dabei in Standardnutzerplätze, Nutzerplätze in offenen Bereichen
+und Nutzerplätze in abgetrennten Bereichen unterschieden. Die Art und Anzahl
+der Nutzerplätze hängt laut DIN 67700 von mehreren Faktoren ab, u. a. von den
+Öffnungszeiten, den Bereitstellungsfristen für Medien aus Magazinen, der Anzahl der
+Personen der verschiedenen Zielgruppen und der Fachrichtung der Studierenden.
+Abb. 1: Funktionsbereiche einer Bibliothek nach DIN 67700.4
+ S. DIN 67700:2017–05 Bau von Bibliotheken und Archiven - Anforderungen und Empfehlungen für
+die Planung. Berlin: Beuth-Verlag 2017.
+2.2 Bibliothekseinrichtung und technische Ausstattung 85
+Von rund drei Millionen registrierten Nutzer:innen in Universitäts- und Fachhochschulbibliotheken
+im Jahr 2022 gehören etwas mehr als die Hälfte zur Gruppe der Studierenden.
+5 Diese stellen in den meisten Bibliotheken auch diejenige Personengruppe
+dar, die vor Ort in den Räumen und Lernbereichen der wissenschaftlichen Bibliotheken
+arbeitet. Eine Befragung an der UB Rostock, die bereits im Wintersemester 2013/2014
+durchgeführt wurde, zeigte, dass für die Studierenden u. a. die folgenden Bereiche am
+wichtigsten waren:6
+– Bereich zum Lernen, Lesen und Arbeiten, in dem nicht geredet werden darf;
+– Bereich zum Lernen, Lesen und Arbeiten, in dem geredet werden darf;
+– Bereich zum Reden, Essen und Trinken (mit Sofas);
+– Abgeschlossener Gruppenarbeitsbereich.
+Knapp zehn Jahre nach dieser Befragung sind dies immer noch die Bereiche, die in
+Bibliotheken von Bedeutung sind und mit deren Ausgestaltung sich Bibliotheksmitarbeitende
+und Bibliotheksleitungen beschäftigen. Aus diesem Grund nimmt dieses Kapitel
+vor allem diese Nutzungsbereiche und ihre Einrichtung in den Fokus.
+3 Möbel, Einrichtungselemente und technische
+Ausstattung
+Bei der Auswahl von Möbeln, Einrichtungselementen und technischer Ausstattung
+von wissenschaftlichen Bibliotheken sollten einige Aspekte mitgedacht werden, die
+für die Nutzbarkeit und Arbeitsatmosphäre der Räume und Bereiche ausschlaggebend
+sind: Ergonomie, Multifunktionalität, Mobilität, Nachhaltigkeit, Barrierefreiheit und
+Sicherheit. Diese werden im Folgenden erläutert.
+Ergonomie: Die Ausstattung der Arbeitsplätze, Stühle und Lesetische sollte ergonomisch
+gestaltet sein, um eine bequeme und gesunde Arbeitsposition zu ermöglichen.
+Angesichts der mehrstündigen Sitzdauer vieler Nutzenden sollten sich Ergonomie und
+Gemütlichkeit aber auch nicht ausschließen. Ein Angebot von Arbeitsplätzen mit flexibler
+Sitzmöglichkeit oder unterschiedliche Arbeitsplätze, z. B. Stehtisch mit Hocker oder
+Lesesessel, ist empfehlenswert.
+Multifunktionalität: Es kann sinnvoll sein, einen Bereich oder einen Raum innerhalb
+kürzester Zeit sowohl durch Bibliothekspersonal als auch durch Nutzende für verschiedene
+Szenarien umgestalten zu können. Diese Multifunktionalität ist eng mit der
+Auswahl sowohl der Möbel und Einrichtungselemente als auch mit der technischen
+Ausstattung verknüpft. Ein multifunktionaler Raum kann sowohl für freie Gruppenar-
+ https://www.bibliotheksstatistik.de (06.03.2024), hier: Auswertung für das Jahr 2022.
+ Ilg 2014.
+86 Milena Pfafferott
+beit als auch für Seminarfachveranstaltungen oder Lesungen genutzt werden. Häufig
+übernehmen die Mitarbeitenden der Bibliothek das alltägliche Umräumen, in seltenen
+Fällen mit Unterstützung durch Hausmeister. Schwere, unhandliche, instabile oder
+sperrige Möbel werden die Motivation der Beteiligten deutlich dämpfen, abgesehen von
+Verletzungs- oder Unfallgefahren.
+Mobilität: Die Mobilität von Tischen, Stühlen und anderen Elementen ist immer
+dann notwendig, wenn man eine flexible oder multifunktionale Nutzung eines Bereichs
+anstrebt. Sie schließt damit an den letzten Aspekt des vorherigen Absatzes an:
+Umräumen und Änderung von Nutzungskonzepten. Mobile Einrichtung kann mit Rollen
+versehen sein, lässt sich leicht auseinander- und zusammenbauen oder ist insgesamt
+aus leichten Materialien und nicht zu sperrig. Technische Ausstattung, wie z. B.
+Touchdisplays, ist nicht immer mit beweglichen Möbeln kompatibel. Diese sind teilweise
+fest an der Wand montiert oder an einen Standort nahe der Stromversorgung
+gebunden.
+Nachhaltigkeit: Seit einigen Jahren gewinnt das Thema Nachhaltigkeit immer mehr
+an Bedeutung. Im Kontext von Einrichtung und Ausstattung können damit u. a. Langlebigkeit
+und Multifunktionalität gemeint sein. Ein ebenso wichtiger Aspekt sind jedoch
+Produktion, Transportwege und Materialien. Viele Hochschulen und wissenschaftliche
+Einrichtungen haben inzwischen Nachhaltigkeitsaspekte in die Beschaffungsworkflows
+integriert und berücksichtigen z. B. regionale Produktion oder recyclebare Materialien.
+Barrierefreiheit: Bereits im Kontext von Bau und Raumgestaltung wurde die Barrierefreiheit
+der Bibliothek angesprochen. Sowohl die Benutzung der Services als
+auch die Räumlichkeiten von Bibliotheken sollten möglichst barrierefrei nutzbar sein.
+Bei der Möblierung und Ausstattung heißt das, dass Aspekte wie Unterfahrbarkeit,
+Höhenverstellbarkeit, rollstuhlgerechte Zugänge und Türen bedacht werden müssen.
+Das Leit- und Orientierungssystem darf nicht nur textbasiert sein, sondern sollte
+z. B. taktile Elemente beinhalten. Das Angebot spezieller Arbeitsplätze sollte geprüft
+werden.
+Sicherheit: Bei der Beschaffung von Möbeln sind Sicherheitsaspekte zu berücksichtigen.
+Je nach Standort der Möbel kann es notwendig sein, eine bestimmte
+Brandschutzklasse nachzuweisen. Insbesondere Möbel, die in Fluren oder Eingangsbereichen
+stehen, zählen dazu. Ein weiterer Aspekt, den man bedenken sollte, ist
+das Verletzungs- oder Unfallrisiko, das durch die Benutzung der Einrichtungselemente
+entstehen kann. Der Unfallversicherungsträger übernimmt möglicherweise
+keine Kosten, die ein Beinbruch nach sich zieht, der durch den Zusammensturz
+eines selbstgebauten Barhockers verursacht wurde. Bestehen hinsichtlich Brandschutz
+oder anderen Sicherheitsfragen Unsicherheiten, sollte am besten die zuständige
+Fachkraft für Arbeitssicherheit hinzugezogen werden.
+2.2 Bibliothekseinrichtung und technische Ausstattung 87
+3.1 Möbel für (Wissenschaftliche) Bibliotheken
+Ehrlicherweise muss man sagen, dass das, was in wissenschaftlichen Bibliotheken als
+neu oder sogar gewagt betrachtet wird, häufig schon lange in öffentlichen Bibliotheken
+zum Einsatz kommt. Das betrifft vor allem Möbel, die sich vor allem für kommunikative
+Zonen eignen oder einen hohen Gemütlichkeitsfaktor haben. So findet man
+seit ein paar Jahren auch in Universitätsbibliotheken Sitzsäcke oder Sofalandschaften.
+Im Folgenden werden die unterschiedlichen Möbeltypen wissenschaftlicher Bibliotheken
+betrachtet.
+3.1.1 Tische
+Tische waren und sind ein zentrales Element der Bibliothekseinrichtung. Bei freier
+Platzwahl und unterschiedlichen Arten von Arbeitsplätzen scheinen Studierende die
+bewährte Kombination aus Arbeitstisch und Bürostuhl zu bevorzugen,7 Einzelarbeitsplätze
+haben immer noch große Bedeutung.8 An den Tischen wird gelesen, geschrieben,
+recherchiert und gearbeitet. Sie kommen im Lesesaal, zwischen Bücherregalen,
+in Kommunikations- und Einzelarbeitsbereichen zum Einsatz. Tische sind damit tatsächlich
+Dauerbrenner im Bibliotheksalltag und werden auch zukünftig von großer
+Bedeutung sein. Sie sind nicht zuletzt auch ein Unterscheidungsmerkmal zwischen
+dem Lernort Bibliothek und dem heimischen WG-Zimmer oder der Gemeinschaftsküche.
+Wo, wenn nicht in der Bibliothek, findet man ausreichend große, saubere und
+aufgeräumte Tische vor, an denen man sofort mit der Arbeit beginnen kann?9
+Die Tischfläche sollte groß genug sein, damit Bücher, Laptops und Notizblöcke ihren
+Platz finden. In Gruppenarbeitsbereichen kann es eine gute Lösung sein, mehrere kleine
+Tische statt eines großen anzubieten. Wenn sich die kleinen Tische zusammenstellen lassen,
+hat man gleich mehrere Nutzungsszenarien ermöglicht. Es sollten möglichst alle Bereiche
+der Tischfläche von allen Seiten erreichbar sein. Möglichkeiten zur Durchführung
+von Kabeln in den Tischen können bei längerem Arbeiten mit Laptops hilfreich sein.
+Tische sollten über zusätzliche Einstellmöglichkeiten wie Höhenverstellbarkeit
+oder Winkelung der Arbeitsfläche verfügen. Es sollte beachtet werden, dass elektrisch
+höhenverstellbare Tische in der Nähe von Steckdosen aufgestellt sein müssen, um
+ihre Funktionalität nutzen zu können. Das wiederum schränkt die Mobilität dieser Tische
+ein. Die Tischhöhe sollte auf jeden Fall abhängig vom Bereich und der Nutzung
+des Tisches zu gestalten sein. Steharbeitsplätze ermöglichen anderes Arbeiten und
+ Stahl 2016.
+ Kohl-Frey 2014.
+ Eine Umfrage der ZBW, die in den Anfangszeiten der Corona-Pandemie durchgeführt wurde und
+maßgeblich auf eingesendeten Fotos der Heimarbeitsplätze der Nutzer:innen basierte, zeigt, wie wichtig
+ein ausreichend großer Schreibtisch ist (Clasen u. Behrens 2022).
+88 Milena Pfafferott
+eine größere Bewegungsfreiheit der Nutzer:innen als Sitzarbeitsplätze. Mobile Aufsatzpulte
+können die rasche Einrichtung von Steharbeitsplätzen ermöglichen.10
+Neue Lehr- und Lernformen bedienen sich agiler Methoden, wie z. B. Sprints, und
+sind daher ausdrücklich auf Bewegung und Interaktion ausgelegt.11 In Bereichen, die
+sehr auf Multifunktionalität ausgerichtet sind, können klappbare Tische mit Rollen in
+die Auswahl einbezogen werden. So lassen sich schnell und ohne große körperliche
+Anstrengung Tische aus dem Weg räumen oder Tischgruppen anders arrangieren.
+Tresen, wie man sie beispielsweise aus Coworking-Spaces kennt, ermöglichen die
+Nutzung von Bereichen, die nicht für das klassische Tisch-Stuhl-Konstrukt geeignet
+sind. So können Gänge oder Bereiche an Wänden oder Fensterfronten mit klappbaren
+Tischen und Barhockern ausgestattet werden, die bei Nichtnutzung platzsparend verstaut
+werden können.
+Sobald Polstermöbel oder niedrigere Sitzmöbel allgemein angeboten werden
+(Abb. 2) sind auch Ablagemöglichkeiten notwendig, die an die Höhe der Sitzmöbel
+eingepasst sind. Sie sollten mindestens so groß sein, dass ein Laptop darauf abgelegt
+werden kann.
+ Die Bibliothek des KIT Karlsruhe verleiht seit 2019 mobile Stehpulte. https://www.ifss.kit.edu/hoch
+schulsport/download/Stehpult_Broschuere_A5-Final.pdf (06.03.2024).
+ Watty u. a. 2023.
+Abb. 2: Sitzgelegenheiten in der Bayrischen Staatsbibliothek (Bildrechte: U. Rehusch, Quelle: https://www.
+instagram.com/p/CVkE_ZZox9j/, 06.03.2024).
+2.2 Bibliothekseinrichtung und technische Ausstattung 89
+3.1.2 Stühle und andere Sitzmöbel
+Nutzende sitzen oft stundenlang in der Bibliothek. Ergonomische Arbeitsstühle mit
+einer guten Rückenstütze fördern eine gesunde Sitzhaltung, verhindern Verspannungen
+und sind damit unabdingbar. Ob Funktionalitäten eines klassischen Schreibtischstuhls
+(z. B. Rollen, höhenverstellbare Sitzfläche, bewegliche Rückenlehne) erfüllt
+werden müssen, hängt vom Einsatzbereich des Stuhls ab. Eine Beschaffung gepolsterter
+Stühle ist vor dem Hintergrund von Verschmutzung oder Verschleiß zu prüfen.
+Nicht gepolsterte Stühle, z. B. aus Holz oder Hartplastik, können mit bunten Sitzkissen
+ausgestattet werden. Diese stellen nicht nur einen geringeren Kostenfaktor dar und
+sind waschbar, sondern ermöglichen zusätzliche Farbakzente im eher gedeckt gehaltenen
+Interieur einer wissenschaftlichen Bibliothek.
+Polstermöbel, wie Sofas, Sitzwürfel oder Sitzgruppen, halten zunehmend Einzug in
+wissenschaftliche Bibliotheken. Insbesondere die Studierenden wünschen sich gemütliche
+Möbel, die eine Abwechslung schaffen zum Sitzen auf Hörsaalsitzen und Seminarraumstühlen.
+12 Die Einschätzung, dass Loungemöbel in erster Linie zum Entspannen
+und weniger zum konzentrierten Arbeiten genutzt werden,13 hat sicherlich ihre Berechtigung.
+Es gibt aber auch noch Arbeitsweisen zwischen Entspannung und Konzentration.
+Insbesondere für kreatives Arbeiten, Brainstorming und Ideenentwicklung können bequeme
+Möbel für eher informelles Arbeiten dienlich sein. Dem Einsatz von Sofas und
+Sessel steht oft die Frage gegenüber, wie viel Loungefeeling ins das Selbstverständnis
+der jeweiligen Bibliothek oder ihrer Trägereinrichtung passt. Bei diesen Diskussionen
+prallen nicht nur wissenschaftliche Fachkulturen, sondern auch unterschiedliche Generationen
+aufeinander. Verstehen sich Bibliotheken aber als Angebot an die jeweiligen
+Zielgruppen und möchten diese einladen, sich in den Bibliotheksräumlichkeiten zu entfalten,
+so müssen sie diese Wünsche aufgreifen und zumindest versuchen, diesen in der
+eigenen Raumgestaltung und -möblierung Rechnung zu tragen.
+In vielen wissenschaftlichen Bibliotheken findet man heutzutage Sitzgruppen, die
+mit Schalldämpfung ausgestattet sind und so die Kommunikation und Interaktion in
+Bereichen ermöglichen, die dafür aus akustischen Gründen eher nicht geeignet sind,
+wie z. B. Foyers oder Gänge. In manchen Bibliotheken wurden solche Sitzgruppen fest
+verbaut.14 In anderen Einrichtungen sind diese Sitzgruppen als neue Möblierung in
+die entsprechenden Bereiche eingezogen und ihre Nutzung damit flexibler.
+In den letzten Jahren fanden, nicht zuletzt durch die Erfahrungen der Pandemie
+und die steigende Bedeutung von Videokonferenzen und Online-Vorlesungen, zunehmend
+Raum-in-Raum-Lösungen, z. B. Videokonferenz- oder Gruppenarbeitskabi-
+ Kressin u. a. 2023.
+ Stahl 2016.
+ Vogt 2017.
+90 Milena Pfafferott
+Abb. 3: Sitzkojen der Badischen Landesbibliothek in Karlsruhe (Quelle: https://www.instagram.com/p/
+CbZownxoKow/, 06.03.2024).
+Abb. 4: Groupworkboxen der SUB Hamburg (Quelle: https://www.instagram.com/p/30eGjHjd1V/,
+06.03.2024).
+2.2 Bibliothekseinrichtung und technische Ausstattung 91
+nen ihren Weg in Bibliotheken.15 Diese Objekte sind nicht im eigentlichen Sinne
+mobil, da sie oft an Strom, Netzwerk oder Klimatechnik angebunden sind. Trotzdem
+ermöglichen sie eine kostengünstigere Raumgestaltung im Vergleich zu einer vollumfänglichen
+Baumaßnahme.
+Neben gemütlichen Sitzmöbeln für Kommunikation oder kreatives Arbeiten, sind zunehmend
+Möbel in Bibliotheken zu finden, die für Ruhepausen und Entspannungsphasen
+genutzt werden können. So hat die Universitätsbibliothek Ilmenau vor einigen
+Jahren in einem Bereich Regale abgebaut und eine Chill-Out-Zone eingerichtet.16
+Zunehmend bieten auch wissenschaftliche Bibliotheken Sitzsäcke, Sitzhocker an. Es
+finden sich Sitztreppen oder andere treppenartige Konstrukte aus Sitzwürfeln, die in
+Foyers oder kommunikativen Bereichen als Treffpunkte und Sitzplätze dienen. Ein Kritikpunkt
+daran sei gestattet: Sie erfüllen nur bedingt die Kriterien barrierefreier
+Möblierung.
+Abb. 5: Raum-in-Raum-Lösung für Gruppenarbeitsbereiche an der UB Wuppertal (Bildrechte: Sebastian
+Jarych, Quelle: https://www.uni-wuppertal.de/de/news/detail/modernes-arbeiten-unibibliothek-eroeffnet-
+14-think-tanks/, 06.03.2024).
+ https://www.uni-wuppertal.de/de/news/detail/modernes-arbeiten-unibibliothek-eroeffnet-14-thinktanks/
+(06.03.2024).
+ https://www.tu-ilmenau.de/universitaet/quicklinks/universitaetsbibliothek/lernen-arbeiten/arbeits
+raeume/besondere-arbeitsbereiche#c133897 (06.03.2024).
+92 Milena Pfafferott
+Abb. 6: Chillout-Zone der UB Ilmenau. Es gibt Leseleuchten, die eine grundsätzliche Abdunklung des
+Bereichs bei gleichzeitiger Ausleuchtung einzelner Sitzplätze ermöglichen. (Bildrechte: UB Ilmenau).
+Abb. 7: Sitzstufen im Erdgeschoß der Fachhochschulbibliothek Erfurt (Bildrechte: M. Pfafferott).
+2.2 Bibliothekseinrichtung und technische Ausstattung 93
+3.1.3 Regale und Bücherschränke
+Regale sind unverzichtbar, um Bücher, Zeitschriften und andere Medienmaterialien
+geordnet und leicht zugänglich zu präsentieren. Auch wenn vielerorts die Nutzung
+der physischen Bestände zurückgeht und Bibliotheken Bestände – vor allem im Freihandbereich
+– reduzieren, um neue Arbeitsbereiche zu schaffen: Regale sind aus den
+heutigen Bibliotheken (noch) nicht wegzudenken. Immerhin sind sie mindestens eine
+Reminiszenz an das, was Bibliotheken jahrhundertelang waren. Außerdem schaffen
+sie Atmosphäre, sind wunderbare Raumteiler, definieren Sichtachsen und können
+Laufwege und Zonengrenzen anzeigen. Im Wesentlichen dienen sie natürlich der Aufstellung
+und Zugänglichmachung der Bestände.
+Im Zuge einer Umgestaltung des Benutzungsbereichs kann man auch mal mutig
+sein und überlegen, von der traditionellen Regalhöhe abzuweichen. Niedrigere Regale
+lassen den Raum lichter und großzügiger wirken, haben Vorteile hinsichtlich der Barrierefreiheit
+und ermöglichen gegebenenfalls eine Ausstattung mit Rollen und damit
+wiederum eine flexible Nutzung des Bereichs.
+Das vorliegende Kapitel fokussiert die Lese- und Arbeitsbereiche wissenschaftlicher
+Bibliotheken, nicht die Regalbereiche, Magazine und ihre Gestaltung vor dem
+Hintergrund von Aufbewahrung, Bestandserhaltung und Zugänglichkeit. Ebenso werden
+logistische Fragen des Büchertransports außer Acht gelassen. Für Fragen der zeitgemäßen
+Aufbewahrung und Aufstellung von Beständen sei auf die entsprechende
+Fachliteratur verwiesen.
+3.1.4 Weitere Einrichtungselemente
+Um einen großen Raum in kleinere Nutzungseinheiten zu unterteilen, sind Raumteiler
+eine gute Option. In Umfragen wünschen sich Nutzer:innen eine klare Abgrenzung zwischen
+den unterschiedlichen Zonen einer Bibliothek.17 Ist diese Zonierung nicht durch
+bauliche Mittel möglich, können Raumteiler die Zonengrenzen definieren. Falls rollbare
+und damit bewegliche Raumteiler genutzt werden, ist der gesamte Bereich sogar flexibel
+gestaltbar. Raumteiler können geeignet sein, um neue Nutzungskonzepte auszuprobieren,
+z. B. Regale abzubauen und den Bereich für leise Gruppenarbeit umzugestalten.
+Kleingruppenbereiche können ebenso ermöglicht werden wie die Abgrenzung eines größeren
+Raumbereiches vom Rest des Lesesaals. Auf diese Weise kann ein neues Nutzungskonzept
+zunächst als Testballon gestartet werden, um anschließend ggf. über
+bauliche Maßnahmen verstetigt zu werden. Mobile Akustikwände sind besonders in Bereichen
+zu empfehlen, die aufgrund z. B. ihrer räumlichen Größe ein hohes Lärmpotential
+bei gleichzeitig stattfindenden Gruppenarbeiten bieten. Hier lassen sich durch
+ Kressin et al 2023.
+94 Milena Pfafferott
+schallschluckende Raumteiler Bereiche abtrennen, und den Nutzenden kann die gewünschte
+Privatsphäre geboten werden.18
+Mobile Whiteboards oder Pinnwände erfüllen gleich mehrere Zwecke. Sie schaffen
+Abgrenzung gegenüber anderen Bereichen oder Arbeitsgruppen und sind zugleich Arbeitsmittel
+in interaktiven Lehr- und Lernprozessen. Beim Einsatz von Whiteboards
+sollte bedacht werden, dass diese nur mit entsprechenden Stiften beschrieben werden
+dürfen. In der Universitätsbibliothek Ilmenau werden seit Jahren Whiteboardstifte und
+dazugehörige Schwämme ausgeliehen, die u. a. der Grundstock für die 2023 etablierte
+Bibliothek der Dinge waren.19 Nach der Beschaffung von Pinnwänden wurden ausleihbare
+Boxen vorbereitet, die neben Utensilien für die Whiteboards auch Pinnnadeln und
+Moderationskarten enthalten.
+Einige Bibliotheken bieten Laufbänder oder andere Einrichtungselemente, die
+eine Verbindung von körperlicher Aktivität und Schreibtischtätigkeit ermöglichen.
+Eine Verquickung von Gesundheits- und Nachhaltigkeitsaspekten ist die Etablierung
+eines Fahrradergometers an der FU Berlin, mit dem gleichzeitig mobile Endgeräte geladen
+werden können.20
+Makerspaces und andere Kreativräume gewinnen auch in wissenschaftlichen
+Bibliotheken an Bedeutung. Dabei können Werkbänke, Lötstationen oder Fräsmaschinen
+zum Einsatz kommen. Die Einrichtung ist sehr individuell und hängt vom
+jeweiligen Nutzungskonzept ab.21
+Nicht in jeder wissenschaftlichen Bibliothek gibt es die räumlichen Möglichkeiten,
+um Eltern-Kind-Bereiche zu schaffen und abzutrennen. Hier können mobile Kinderzimmer
+Abhilfe schaffen. In den fahrbaren Schränken sind Spielsachen, Bücher,
+ein Kinderbett oder ähnliches verstaut. Die Utensilien können zumindest dabei helfen,
+Phasen zu überbrücken, in denen Lernen und Arbeiten mit der Kinderbetreuung
+zu kollidieren droht. Je nach örtlichen Gegebenheiten kann es sinnvoll sein, bestimmte
+Bereiche für den Einsatz dieser KidsBox freizugeben.
+ Stahl 2016.
+ Die Bibliothek der Dinge der UB Ilmenau beinhaltet verschiedene Arbeitsmaterialien, aber auch
+Körbe für die Bibliotheksbenutzung, mobile Beamer und ein Bügeleisen, das im Makerspace zum Einsatz
+kommen kann. https://www.tu-ilmenau.de/universitaet/quicklinks/universitaetsbibliothek/lernenarbeiten/
+bibliothek-der-dinge (06.03.2024).
+ Wagner 2019.
+ Lüthi-Esposito 2016.
+2.2 Bibliothekseinrichtung und technische Ausstattung 95
+3.1.5 Pflanzen
+Pflanzen sind seit jeher ein Konfliktthema bei der Gestaltung von Bibliotheksräumen. Sie
+schaffen ein angenehmes Raumklima, sorgen für Wohlfühlatmosphäre22 und bringen
+Farbe in die oft eher gedeckte Optik wissenschaftlicher Bibliotheken. Sie machen Lernbereiche
+wohnlich. Sie sind wunderbar vielfältige Raumteiler, ohne Bereiche blickdicht abzuschotten.
+Sie sind Blickfänger und dezente Gestaltungselemente gleichzeitig. Es darf aber
+nicht verschwiegen werden, dass die Pflege von Pflanzen Arbeit macht und dass das Einbringen
+von Pflanzen auch Nachteile mit sich bringt. Dies soll trotzdem ein eindeutiges
+Plädoyer für Pflanzen in der Bibliothek sein, insbesondere in Bereichen, in denen Personen
+lernen, arbeiten oder sich kreativ austauschen. An dieser Stelle lohnt ein Blick in Richtung
+Coworking-Szene, in der Pflanzen seit jeher festes Element der Raumgestaltung sind.23
+3.2 Technische Ausstattung
+Der Einsatz moderner Möbel ist in der Regel vor allem ein finanzieller Aufwand und
+eine gestalterische Entscheidung. Der Einsatz moderner Technik hat neben finanziel-
+Abb. 8: Die Kidsbox der Universitätsbibliothek
+Ilmenau ist mobil und kann bei Bedarf in alle
+Bereiche der UB verschoben werden (Bildrechte:
+UB Ilmenau).
+ Depping 2013.
+ Bukvic 2020.
+96 Milena Pfafferott
+len und IT-seitigen Rahmenbedingungen, die erfüllt sein müssen, noch einen anderen
+Aspekt, den es zu beachten gilt: die potentiell notwendige Unterstützung der Nutzenden
+bei der Bedienung und Fehlerbehebung, die die Bibliotheksmitarbeitenden leisten
+müssen. Nicht immer ist eine IT-affine Person zur Stelle, die beispielsweise
+Probleme bei der drahtlosen Kopplung eines bestimmten Endgeräts an das Touchdisplay
+helfen kann. Anleitungen etc. sollten daher auch immer auf die Bibliotheksmitarbeitenden
+ausgerichtet sein. Moderne Technik, die man nicht bedienen kann und bei
+deren Inbetriebnahme die Bibliothek nicht unterstützen kann, sorgt für Frust und
+schlechte Lernerfolge.
+Die technische Ausstattung von Bibliotheken ist meist eng verwoben mit ITFragen
+und gebäudetechnischen Herausforderungen, die das Bibliothekspersonal oft
+nicht allein in aller Gänze überblicken oder beeinflussen kann. Es ist daher empfehlenswert,
+die Entscheidungen gemeinsam mit den Expert:innen aus den zuständigen
+Abteilungen oder Bereichen zu treffen. Lieber eine Besprechung zu viel im Vorfeld
+einer Beschaffung, als jede Menge Nacharbeit, wenn man selbst einen wichtigen Aspekt
+übersehen hat.
+3.2.1 Bibliotheks-IT, Strom und Netzwerk
+Es scheint ein Naturgesetz zu geben: Es sind nie genug Steckdosen vorhanden! Dabei
+sind vor allem die Bereiche benachteiligt, die nach einem Neu- oder Umbau erneut
+umgenutzt wurden und deren ursprüngliche Nutzung keinen Einsatz von elektronischen
+Endgeräten vorgesehen hat. Oft wurden in diesen Bereichen keine Bodentanks
+eingeplant, von der Decke hängende Steckdosenwürfel sieht man auch eher selten in
+Bibliotheksräumen. In Zeiten von digitalem Arbeiten und hybriden Lebenswelten ist
+das Vorhandensein von Stromversorgung aber genauso essentiell wie leistungsfähiges
+Internet. Aus Sicherheitsgründen ist von der Verwendung einer Kette von Verlängerungskabeln
+und munteren Arrangements von Mehrfachsteckdosen abzusehen. Falls
+sich keine Lösung z. B. mit flachen Kabelschächten finden lässt, bleibt oft nur das
+Überdenken des Nutzungskonzepts oder das Einbinden derjenigen, die den Bereich
+mit entsprechender Infrastruktur aufrüsten können.
+Flächendeckende Versorgung mit Netzwerkdosen und WLAN sollte inzwischen
+Standard in wissenschaftlichen Bibliotheken sein. An Universitäten und Hochschulen
+wird diese Infrastruktur oft durch das Rechenzentrum bereitgestellt und administriert.
+Inzwischen haben immer mehr Studierende mehr als ein digitales Endgerät,
+das sich bei Betreten der Bibliothek ins Netzwerk einwählen möchte. Dementsprechend
+sollte die Ausstattung mit ausreichend starken Access Points regelmäßig überprüft
+werden.
+Computerarbeitsplätze stellen weiterhin einen großen Anteil der technischen Ausstattung
+dar. Falls dies nicht durch andere Akteure, wie beispielsweise das Rechenzentrum,
+angeboten wird, kann geprüft werden, ob auf den Computern der Bibliothek
+2.2 Bibliothekseinrichtung und technische Ausstattung 97
+bestimmte Software angeboten werden kann. Es gibt verschiedene kostenpflichtige Programme,
+z. B. zum technischen Zeichnen oder mathematischer Modellierung, die über
+die Universität lizenziert werden und nur unter bestimmten Rahmenbedingungen genutzt
+werden dürfen.
+Einige Bibliotheken sind in letzter Zeit dazu übergegangen, Computerarbeitsplätzen
+zugunsten von Arbeitsplätzen, die lediglich mit Monitoren ausgestattet sind, abzubauen.
+Die Nutzenden können ihre Endgeräte mit dem Monitor verbinden. Ein Vorteil
+für die Bibliothek ist der geringere Administrationsaufwand.
+Waren vor einigen Jahren noch Beamer und Präsentationsflächen, wie z. B. Leinwände,
+ein wichtiges Element in bestimmten Räumen der Bibliothek, so sind es seit längerem
+mobile, interaktive Displays. Damit wird einer zunehmenden Flexibilisierung der
+Bibliotheksnutzung Rechnung getragen. Die Displays werden durch die Nutzenden in
+der täglichen Arbeit eingesetzt und können für verschiedene Veranstaltungen innerhalb
+der Bibliothek genutzt werden. Eine drahtlose Anbindung an die Endgeräte ermöglicht
+digitales und hybrides Arbeiten im Rahmen verschiedener Nutzungskontexte.
+3.2.2 Drucken, Scannen, Binden
+Auch im Jahr 2023 ist das Vorhandensein von Druck-, Kopier- und Scantechnik absolut
+notwendig. Der digitale Wandel sorgt zwar für einen Rückgang der laufenden Printbestände,
+der Zugriff auf gedruckte Literatur ist aber weiterhin wichtig. Moderne, nutzungsfreundliche
+Scantechnik kann die altgedienten Multifunktionsgeräte ersetzen,
+Abb. 9: Scanzelt der Staatsbibliothek zu Berlin (Quelle: https://blog.sbb.berlin/scannen-per-smartphone/,
+06.03.2024).
+98 Milena Pfafferott
+setzt aber voraus, dass Nutzer:innen z. B. einen USB-Stick dabeihaben, eine entsprechende
+App installiert haben oder dass die Geräte es ermöglichen, Scans in eine
+Cloud zu speichern und später abzurufen.
+Jede Bibliothek kennt ihre Zielgruppen am besten und weiß aus Erfahrung oder
+aus Statistiken der Auskunftstheke, welche Dienstleistungen besonders beratungsintensiv
+sind oder welche Services am häufigsten nachgefragt werden. Infolgedessen
+können dann auch Buchbindemaschinen und andere kleinere Utensilien ihren Weg
+in den öffentlich zugänglichen Bereich der Bibliothek oder in eine Bibliothek der
+Dinge finden.
+3.2.3 Klima und Beleuchtung
+Nicht zuletzt durch die Covid-19-Pandemie wurde in vielen öffentlichen Einrichtungen
+der Einsatz von Luftfiltern diskutiert. Unabhängig von Infektionsschutzaspekten können
+ein Luftfilter oder ein Messgerät zu Prüfung der Luftqualität insbesondere in
+schlecht belüfteten Gruppenarbeitsräumen eine wertvolle Ergänzung sein.
+Die klassische Beleuchtung in Bibliotheksräumen ist die Deckenbeleuchtung. Mit
+dem Einzug von mehr Gemütlichkeit in den Arbeits- und Lernräumen der Bibliothek
+sind diese Leuchtelemente nicht mehr unbedingt die Mittel der Wahl. Klar ist, dass
+die Räumlichkeiten – schon aus Sicherheitsgründen – gut ausgeleuchtet sein müssen,
+aber eine Ergänzung um Arbeitsplatzleuchten, Stehlampen und ähnliches kann geeig-
+Abb. 10: Bindegerät für Plastikbindungen in der Fachhochschulbibliothek Erfurt (Bildrechte: M. Pfafferott).
+2.2 Bibliothekseinrichtung und technische Ausstattung 99
+net sein, um die Arbeitsatmosphäre zu verbessern. Eine smarte Bedienmöglichkeit
+dieser Beleuchtungselemente mit dem Smartphone kann technikbegeisterte Nutzende
+zusätzlich für den Bibliotheksbesuch erwärmen.
+3.2.4 Besondere technische Ausstattung
+Im Rahmen besonderer Nutzungskonzepte können Ton- oder Videotechnik zum Einsatz
+kommen. Falls man im eigenen Haus über keine Expertise dazu verfügt, ist hier eine
+Partnerschaft mit Lehrenden, Studierenden oder anderen Akteurinnen und Akteuren
+denkbar.24
+In Kreativräumen, Werkstätten und Makerspaces kommen oft besondere Maschinen,
+wie z. B. 3D-Drucker oder Lasercutter, zum Einsatz.25 Diese erfordern meist nicht nur
+eine umfassende Einführung in die Benutzung, sondern benötigen bestimmte Rahmenbedingungen,
+wie z. B. Starkstrom oder Schallschutz.
+Abb. 11: Tonraum der Universitätsbibliothek Marburg (Quelle: https://www.uni-marburg.de/de/ub/ler
+nen/medienzentrum/tonraum, 06.03.2024).
+ Die Multifunktionsräume der Universitätsbibliothek Marburg verfügen u. a. über Filmtechnik und
+Gaming-Ausstattung. https://www.uni-marburg.de/de/ub/lernen/medienzentrum/multifunktions
+raeume (06.03.2024).
+ Im SLUB Makerspace der SLUB Dresden befinden sich u. a. Gipsdrucker, Styroporcutter und Technik
+zur Videodigitalisierung. https://www.slub-dresden.de/mitmachen/slub-makerspace/geraete-undberatung
+(06.03.2024).
+100 Milena Pfafferott
+4 Die Gestaltung des Raums – das Beste kommt
+zum Schluss?
+Ausgangspunkt sind der Raum oder der Bereich, die zur Um- oder Neugestaltung vorgesehen
+sind. Das Nutzungskonzept ist klar, die Zielgruppe definiert. Die Auswahl von
+Farbe, Material und Stil der Möbel gibt die Richtung für die gesamte Raumgestaltung
+vor. In der Realität sehen die ausgewählten Möbel in ihrer geplanten Anordnung im
+Raum manchmal anders aus als auf dem Papier- es kann daher sinnvoll sein, sich die
+gewünschten Möbel vorab in einer maßstabsgerechten, digitalen 3D-Ansicht des
+Raums anzusehen. Neben der Art der Möbel spielen bei der Raumgestaltung u. a. Bodenbelag,
+Beleuchtung und Wandfarbe wichtige Rollen – nicht alles davon kann man
+im Zuge einer Umgestaltung ändern. Gestalterische Elemente wie Sichtschutz an den
+Wänden oder Accessoires tun ihr Übriges für ein gelungenes Gesamtkonzept.
+Es ist empfehlenswert, sich bei der Umgestaltung von Räumen oder Bereichen
+von Anfang an die Zielgruppen mit an den Tisch zu holen. Dies kann über Umfragen,
+Interviews, Praxisprojekte im Rahmen von Studiengängen oder Workshops stattfinden.
+Der partizipative Ansatz hat dabei mehrere Vorteile:
+– Änderung des Blickwinkels: Statt von innen schaut man plötzlich von außen –
+durch die Brille der Zielgruppe – auf die Bibliothek und ihre Räume.
+– Kennenlernen der Zielgruppe: Oft entspinnen sich in derartigen Formaten weitere
+Gesprächsfäden zur Bibliothek, ihren Angeboten und wie diese von der Zielgruppe
+gesehen werden.
+– Verbundenheit der Zielgruppe mit der Bibliothek: Das Gefühl, mitgestalten zu
+können und dass die eigene Einschätzung gefragt sowie im besten Fall aufgegriffen
+wird und in eine Neugestaltung einfließt, schafft eine Verbindung zwischen
+der Bibliothek als Institution und der Zielgruppe.
+Neben der Zielgruppe gibt es oft weitere Stakeholder, die bei der Gestaltung von Bibliotheksräumen
+als Ideengeber:innen, Partner:innen oder neue Nutzende auftreten
+können. Diese bringen beispielsweise Aspekte der Barrierefreiheit ein, haben spezielle
+Anforderungen aus dem Lehrkontext oder können gemeinsam mit der Bibliothek
+Mittel aufbringen oder Projekte beantragen, die zu einer weiteren Verbesserung des
+Lernraums Bibliothek führt.
+Sind Räume oder Bereiche neu gestaltet worden, muss man den Nutzenden Zeit
+geben, sich diese zu erschließen. Es ist günstig, diese Phase mit einer Evaluation zu begleiten.
+Das können unterschiedliche Möglichkeiten des Feedbacks sein, Befragungen
+von Nutzenden oder Beobachtungen der Nutzung des Bereichs. Schlussendlich ändern
+sich Bedarfe von Zielgruppen im Laufe der Zeit. Flexibilität gilt also nicht nur für die
+Raumgestaltung, sondern auch für die Offenheit in den Köpfen der Bibliotheksmitarbeitenden
+und der Bibliotheksleitung und des Trägers – wissenschaftliche Bibliotheken
+sind dynamisch, ihre Einrichtung und Nutzungskonzepte sollten es auch sein.
+2.2 Bibliothekseinrichtung und technische Ausstattung 101
+Literatur
+Bukvic, Robert: Die Coworking Evolution. München: Redline Verlag 2020.
+Clasen, Nicole u. Alena Behrens: Der ideale Lernort für Studierende. Ergebnisse einer ZBW-Foto-Umfrage.
+22.06.2022. https://www.zbw-mediatalk.eu/de/2022/06/der-ideale-lernort-fuer-studierendeergebnisse-
+einer-zbw-foto-umfrage/ (07.11.2023).
+Depping, Ralf: Können Bibliotheksbau und -ausstattung verhaltenssteuernd wirken? Ein Beitrag zur
+Architekturpsychologie in Bibliotheken. In: b-i-t online (2013), S. 103–114. http://b-i-t-online.de/heft/
+2013-02/fachbeitrag-depping.pdf (06.03.2024).
+Eigenbrodt, Olaf: Universal Design für Bibliotheken. Bessere Nutzbarkeit für alle. In: BuB Forum Bibliothek
+und Information (2019), S. 728–730.
+Huth, Anna Katharina: Leitsysteme – Funktion und Entwicklungsprozesse. In: Praxishandbuch
+Bibliotheksbau: Planung – Gestaltung – Betrieb. Hrsg. von Petra Hauke u. Klaus Ulrich Werner.
+Berlin/Boston: De Gruyter 2016. S. 311–325.
+Ilg, Jens: Lernen wie Wohnen? Ergebnisse einer Befragung zum Lernraum Bibliothek. In: b.i.t. online
+(2014). https://www.b-i-t-online.de/heft/2014-03-fachbeitrag-ilg.pdf (06.03.2024).
+Kohl-Frey, Oliver: Die Universitätsbibliothek als neuer Lernraum. Konzepte der Universität Konstanz. In:
+Formierungen von Wissensräumen. Optionen des Zugangs zu Information und Bildung. Hrsg. Olaf
+Eigenbrodt u. Richard Stang. Berlin/Boston: De Gruyter 2014. S. 107–123.
+Kressin, Britta u. Christine Rimland: Generation Z – eine qualitative Befragung zur Nutzung von
+Hochschulbibliotheken und Informationszentren. In: o-bib (2023), S. 1–16. https://doi.org/10.5282/obib/
+5906.
+Lüthi-Esposito, Gabriela: Makerspaces. Bibliotheksräume für Macher. In: Praxishandbuch Bibliotheksbau:
+Planung – Gestaltung – Betrieb. Hrsg. von Petra Hauke u. Klaus Ulrich Werner. Berlin, Boston: De
+Gruyter 2016. S. 238–249.
+Pfafferott, Milena: Brandschutz, Sicherheit und Notfallvorsorge. In: Praxishandbuch Bibliotheksbau:
+Planung – Gestaltung – Betrieb. Hrsg. von Petra Hauke u. Klaus Ulrich Werner. Berlin, Boston: De
+Gruyter 2016. S. 360–371.
+Stahl, Alexandra: Flexible und vielfältige Ausstattung – ein Schlüssel zur erfolgreichen Lernumgebung. In:
+O-bib (2016), S. 225–242. https://doi.org/10.5282/o-bib/2016H4S225-242.
+Vogt, Gerhard: Neue Sitzkojen in der UB Ilmenau. In: Bub (2017), S. 78–79.
+Wagner, Janet: Bewegung am Lernort: Ein stromerzeugendes Fahrradergometer in der Philologischen
+Bibliothek der Freien Universität Berlin. In: Bibliothek- Forschung und Praxis (2019), S. 417–420.
+Watty, Robert, Torsten Brix, Uwe Hirte u. Stephan Husung: Building agile product design competencies in
+student projects. 60th Ilmenau Scientific Colloquium. Ilmenau, 2023.

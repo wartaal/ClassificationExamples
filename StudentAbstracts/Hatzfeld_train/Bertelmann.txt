@@ -1,0 +1,261 @@
+Roland Bertelmann
+Open Science und die Rolle der Bibliothek
+Impulsbeitrag
+1 Digitale Transformation und Open Science
+Bibliotheken sind elementare Infrastrukturen im wissenschaftlichen Betrieb und unverzichtbare
+Dienstleister für Wissenschaftler:innen in vielen Belangen der Informationsversorgung.
+Sie stellen vielfältige Angebote zur Unterstützung wissenschaftlichen Arbeitens
+zur Verfügung. Die Digitalisierung hat aber seit vielen Jahren zu weitreichenden Veränderungen
+wissenschaftlichen Arbeitens geführt – ein dynamischer Prozess, der zu umfassender
+Digitalität der Wissenschaft führt und auf Jahre hinaus Umbrüche und neue
+Herausforderungen generiert. Ein breites Spektrum von Bereichen wird dabei berührt:
+Der Bogen spannt sich (nicht nur) von einer Neubestimmung dessen, was wissenschaftliche
+Information vor dem Hintergrund eines erweiterten Begriffs von Forschungsergebnissen
+ausmacht, über technologische Disruptionen bis hin zu forschungsethischen
+Fragen wie der ausstehenden Klärung, welche Anforderungen Wissenschaft zukünftig an
+die Souveränität über ihre Werkzeuge im gesamten Forschungszyklus hat.
+Aus der Gesellschaft werden an wissenschaftliche Akteur:innen zunehmend Fragen
+nach der Transparenz, der Reproduzierbarkeit und Zugänglichkeit wissenschaftlicher
+Ergebnisse gestellt. Verlässlichkeit, Qualität und daraus resultierendes Vertrauen
+in wissenschaftliche Ergebnisse markieren dabei zentrale Aspekte der Rolle der Wissenschaft
+im Gesellschaftsgefüge.
+Das Teilen wissenschaftlichen Wissens war und ist Kern wissenschaftlichen Selbstverständnisses.
+Teilen und entsprechende Zugänglichkeit als Voraussetzung für wissenschaftliche
+Zusammenarbeit und Nachnutzung, auch über die Wissenschaft hinaus,
+sind zentrale Anliegen, die heute unter dem Begriff Open Science zusammengefasst
+werden. Wissenschaftliches Wissen umfasst dabei alle Aspekte wissenschaftlicher Ergebnisse
+und Produkte. Neben der Textpublikation (siehe v. a. Kapitel 5.1 und 5.2) stehen
+aktuell Forschungsdaten (Kapitel 5.7) und Forschungssoftware (Kapitel 5.8) als Produkte
+im Fokus. Aber auch Methoden, Prozesse und ihre Infrastrukturen (Kapitel 5.3–5.6 und
+5.9) werden dabei zunehmend berücksichtigt. Dieses Verständnis von wissenschaftlichen
+Produkten als Global Public Good, befördert von Offenheit als zentralem Paradigma,
+ist ein elementarer Beitrag, um das System Wissenschaft auf dem Weg in die
+Digitalität zu unterstützen. Dies wird erfolgreich sein, wenn es als Prozess eines umfassenden
+kulturellen Wandels wissenschaftlichen Arbeitens begriffen wird.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-019
+Die UNESCO hat nach mehrjährigen vorbereitenden Diskussionen im November 2021
+die Recommendation on Open Science1 verabschiedet. Die dort gesetzte Definition von
+Open Science findet weltweit Unterstützung. Bemerkenswert ist bei dieser auch von
+Deutschland unterschriebenen Empfehlung, dass Open Science als Beitrag verstanden
+wird, um die UN Sustainable Development Goals (SDGs) bis 2030 umzusetzen. Die
+UNESCO beschreibt die Chancen von Open Science darin als „true game changer in
+bridging the science, technology and innovation gaps“2 Die folgende Beschreibung
+in der Recommendation definiert das gemeinsame Verständnis für Open Science der
+Mitgliedsstaaten der UNESCO:
+For the purpose of this Recommendation open science is defined as an inclusive construct that
+combines various movements and practices aiming to make multilingual scientific knowledge
+openly available, accessible and reusable for everyone, to increase scientific collaborations and
+sharing of information for the benefits of science and society, and to open the processes of scientific
+knowledge creation, evaluation and communication to societal actors beyond the traditional
+Abb 1: Open Science (Quelle: UNESCO 2021: Recommendation on Open Science, S. 8).
+ UNESCO 2021.
+ UNESCO 2023.
+306 Roland Bertelmann
+scientific community. It comprises all scientific disciplines and aspects of scholarly practices, including
+basic and applied sciences, natural and social sciences and the humanities, and it builds
+on the following key pillars: open scientific knowledge, open science infrastructures, science
+communication, open engagement of societal actors and open dialogue with other knowledge
+systems (vgl. Abb. 1).3
+Als Handlungsrahmen bei der Implementierung von Open Science werden verschiedene
+Schwerpunkte gesetzt, die wiederum Anknüpfungspunkte für Bibliotheken bieten:
+– Bewerben und Fördern eines gemeinsamen Verständnisses von Open Science
+unter Berücksichtigung der Vorteile und Herausforderungen sowie der verschiedenen
+Wege zu Open Science;
+– Entwicklung eines Open Science fördernden regulatorischen Umfelds;
+– Investition in Open Science-Infrastrukturen und -Dienstleistungen;
+– Investition in Personal, Training, Ausbildung, digitale Kompetenz und Aufbau
+von Fähigkeiten (capacity building) zu Open Science;
+– Förderung einer Kultur für Open Science und Harmonisierung von Anreizen für
+Open Science;
+– Förderung innovativer Entwicklungen für Open Science an allen Stellen des wissenschaftlichen
+Arbeitsprozesses;
+– Förderung der internationalen Kooperation und zwischen verschiedenen Stakeholdern
+im Kontext Open Science, besonders mit dem Ziel, digitale, technologische
+und Wissenslücken zu verringern.
+2 Die Rolle der Bibliotheken
+Nach ihrem Selbstverständnis spielen Bibliotheken in Hochschulen und außeruniversitären
+Institutionen und Organisationen von je her eine wichtige Rolle beim Sammeln,
+Erschließen und Zugänglichmachen, aber auch beim Erhalt (preserving) von
+wissenschaftlichem Wissen. Sie verstehen sich traditionell als zentrale Dienstleister
+für wissenschaftliches Arbeiten und vielfach als Hub für das Wissen ihrer Institution.
+An vielen Orten können sie bei der Ausübung ihrer Rolle als Dienstleister für die Wissenschaft
+darauf aufbauen, dass sie mit ihren Services als besonders wissenschaftsnah
+wahrgenommen werden. Das 2018 erschienene Positionspapier der Deutschen
+Forschungsgemeinschaft Förderung von Informationsinfrastrukturen für die Wissenschaft
+bekräftigt diese Rolle.4 Die Diskussion über die Notwendigkeit die Hoheit der
+Wissenschaft über ihre eigenen Daten zu sichern ist eng mit dem Betrieb von Infrastrukturen
+verbunden.
+ UNESCO 2021: S. 7.
+ Deutsche Forschungsgemeinschaft 2018.
+Open Science und die Rolle der Bibliothek 307
+Die angesprochenen Veränderungsprozesse digital geprägter wissenschaftlicher
+Arbeitsweisen bedingen neue Positionierungen der Wissenschaftsinfrastruktur Bibliothek.
+Machine-learning-Praktiken etablieren sich aktuell schnell als wissenschaftliche
+Basismethoden. Mit der breiten öffentlichen Wahrnehmung von Sprachmodellen wie
+ChatGPT im Herbst 2022 werden die Möglichkeiten von Methoden der künstlichen Intelligenz
+in der Wissenschaft auch für die gesellschaftliche Öffentlichkeit greifbarer.
+Die Relevanz von Bibliotheken im Wissenschaftssystem der Zukunft wird sich
+daran entscheiden, inwieweit die bibliothekarischen Akteur:innen diese Impulse aufnehmen
+und die Bibliotheken weiterentwickeln, um zur Bewältigung des anstehenden
+kulturellen Wandels mit den Mitteln von Open Science einen sichtbaren Beitrag
+zu leisten. Der Blick auf Open Science gibt Bibliotheken hier ein zentrales Werkzeug
+in die Hand, um ihre Rolle in wissenschaftlichen Institutionen zukunftsfähig anzupassen.
+Die genannten, in der UNESCO-Recommendation aufgelisteten Schwerpunkte zur
+Implementierung von Open Science können hier wie eine Handlungsanleitung zur
+Positionsbestimmung von wissenschaftlichen Bibliotheken gelesen werden.
+Zentral wird dabei sein, Stärken von Bibliotheken unter dem Paradigma Open
+Science auszubauen. Genauso wichtig ist hier die Kooperation mit Partnern in der Institution,
+die Öffnung der Bibliotheken zur Zusammenarbeit mit verschiedenen Akteursgruppen,
+um bei der Umsetzung von Open Science für die Wissenschaft den
+größten Effekt zu erzielen. Die Implementation von Open Science in einer Institution
+kann nicht von einer einzelnen Akteurin/einem einzelnen Akteur umgesetzt werden,
+sondern muss von wissenschaftlichen Gruppen, Wissenschaftsmanagement und Leitungen
+genauso wie von Infrastrukturen gemeinsam getragen werden. Bibliotheken
+sind nur ein, möglicherweise aber gewichtiger Spieler in diesem Gefüge. Sie haben
+das Potenzial, mit einer Ausrichtung auf Open Science zur Bewältigung des anstehenden
+kulturellen Wandels sichtbar beizutragen und können so ihren Platz in einem zukünftigen
+Wissenschaftssystem definieren.
+Bereits im 2018 veröffentlichten Papier Wissenschaftliche Bibliotheken 2025 der
+Sektion 4 Wissenschaftliche Universalbibliotheken im Deutschen Bibliotheksverband5
+wird folgenden Zielen als mittelfristige Perspektive bis 2025 zentraler Stellenwert
+zugewiesen:
+– Open Access und neue Formen der Lizenzierung,
+– Publikationsdienstleistungen,
+– Management von Forschungsdaten,
+– Überregionale Informationsversorgung für Fachcommunities,
+– Langfristige Nutzbarkeit digitaler Ressourcen,
+– Digitalisierung von Quellen des kulturellen Erbes,
+– Etablierung von Kreativräumen (Cultural Labs, community-orientierte Makerspaces),
+– Förderung digitaler Medien- und Informationskompetenz.
+ Deutscher Bibliotheksverband 2018.
+308 Roland Bertelmann
+Diese Ziele lassen sich unschwer den Handlungsschwerpunkten zuordnen, die in der
+UNESCO Recommendation für die Implementierung von Open Science vorgelegt wurden.
+Ebenfalls 2018 wurde im Kontext von LIBER (Ligue des Bibliothèques Européennes
+de Recherche) basierend auf der Strategie 2018–20226 in einer Open-Science-
+Roadmap der gesamte Forschungsprozess in den Mittelpunkt gestellt und daraus
+Handlungsfelder abgeleitet. Bei der Planung des Forschungsprozesses werden dabei
+persistente Identifier und Forschungsdatenmanagement angesprochen. Zur Unterstützung
+der Wissenschaftler:innen werden u. a. Datenbanken (library as one stop shop),
+Infrastruktur, Publikationsunterstützung (Repositorien und Training), Bewertung,
+sowie Nachnutzung (offene Lizenzen) angesprochen und im weiteren entsprechende
+Empfehlungen abgeleitet. Darauf aufbauend hat LIBER kürzlich seine Strategie für
+2023–20277 entwickelt. Dort werden übergreifend die Komplexe „Advancing Open Science“,
+„Engaged and trusted Hubs“ sowie „State-of-the-art-Services“ als zentrale Aspekte
+einer Vision für Forschungsbibliotheken in 2027 formuliert. Als extrinsisch
+wirkende Antriebskräfte für eine solche Entwicklungsperspektive für Bibliotheken
+wird die weitere Dynamik hin zu mehr Offenheit in der Wissenschaft, neue Technologien
+und weiter fortschreitende digitale Transformation benannt.
+3 Wissenschaftspolitik
+Punkte, die für Open Science relevant Punkte sind, finden sich als zentrale Anforderungen
+in den Ausschreibungen der Programme im Rahmen europäischer Forschungsförderung
+in Horizon Europe wieder. Publikationen und Forschungsdaten, die aus dieser
+Förderung entstehen, müssen offen zugänglich sein. Die Förderung der European Open
+Science Cloud (EOSC) ist zentrales wissenschaftspolitisches Ziel der EU. EOSC und Open
+Science werden in Verlautbarungen der EU nahezu synonym genannt. Für die Weiterentwicklung
+des Europäischen Forschungsraums (ERA) haben die Mitgliedsländer
+im November 2021 zwanzig Handlungsfelder benannt. Die zuerst genannte der als ERA
+Actions bezeichneten Maßnahmen lautet: „Enable the open sharing of knowledge and
+the re-use of research outputs, including through the development of the European
+Open Science Cloud (EOSC).“8 Dies wurde in den Schlussfolgerungen des Europäischen
+Rates vom Juni 2022 unter dem Titel Research assessment and implementation of Open
+Science noch einmal bestätigt.9
+ Ayris 2018.
+ LIBER 2022.
+ Council of the European Union 2021: S. 14.
+ Council of the European Union 2022.
+Open Science und die Rolle der Bibliothek 309
+4 Gute wissenschaftliche Praxis
+Ergänzend wird für Bibliotheken in diesem Umfeld hilfreich sein zu prüfen, inwieweit
+vor dem Hintergrund der Strukturen der eigenen Institution die Bibliothek einen Beitrag
+zur Umsetzung der guten wissenschaftlichen Praxis leistet. Der 2019 publizierte
+Kodex der Deutschen Forschungsgemeinschaft10 bietet bei seiner Umsetzung in der
+Institution hier vielfältige Ansätze. Das Helmholtz Open Science Office bietet dazu einige
+Anregungen.11 Open Science kann zur Integrität von Forschung beitragen. Der
+2023 überarbeitete European Code of Research Integrity12 bezieht sich explizit auf
+Open Science, dort wird formuliert: „The 2023 edition also takes account of changes in
+data management practices, the General Data Protection Regulation (GDPR), and recent
+developments in Open Science and research assessment.“ Der Code listet dazu
+die Themenkomplexe Forschungsumfeld, Ausbildung, Supervision und Mentoring,
+Forschungsverfahren, Kontrollmechanismen, Datenpraktiken und -management, gemeinsames
+Arbeiten, Veröffentlichung und Dissemination, Review, Evaluation und
+Edition. Die mögliche begleitende Rolle von Bibliotheken in vielen dieser Felder, wie
+beispielsweise Veröffentlichung und Dissemination, erschließt sich unmittelbar.
+5 Open Science ins Zentrum stellen
+In den folgenden Kapiteln werden einzelne für Open Science relevante Komplexe ausführlich
+behandelt. Einerseits werden sie explizit als forschungsnahe Dienstleistungen
+beschrieben, andererseits findet sich Open Science als typisches Querschnittsthema in
+vielen anderen Themen wie etwa Metadaten wieder.
+Grundsätzlich ist festzustellen, dass Bibliotheken von ihrem Herkommen und
+ihrer aktuellen Aufgabenstruktur her gute Voraussetzungen haben, um eine Rolle als
+aktive Agenten für einen kulturellen Wandel hin zu Open Science in einer wissenschaftlichen
+Institution übernehmen können. Sie können Handlungsfelder aus dem
+breiten Aufgabenspektrum bei Open Science aufgreifen und sie als forschungsnahe
+Dienstleistungen ausbauen. Sie haben darüber hinaus das Potenzial, ihre Stimme für
+Offenheit in der Wissenschaft in Strategie- und Policy-Entwicklungen in ihrer Institution
+deutlich zu machen und ihre zukünftige Rolle mit dieser Schwerpunktsetzung zu
+stärken. Dieses Potenzial geschickt genutzt kann die Bibliothek neben ihrer Rolle als
+Dienstleister zur starken Stimme bei der Implementierung von Open Science im Wissenschaftsprozess
+werden und sich als sichtbare Akteurin in der digitalen Transformation
+positionieren.
+ Deutsche Forschungsgemeinschaft o. J.
+ Helmholtz Open Science Office 2021.
+ ALLEA All European Academies 2023.
+310 Roland Bertelmann
+In der LIBER-Strategie wird ein Umdenken (change of mindsets) gefordert. Veränderte
+Einstellungen sind nicht nur für die Umsetzung von Open Science im Wissenschaftsbetrieb
+zentral. Um Bibliotheken in einem zukünftigen Wissenschaftssystem
+für ihre Aufgabe zu ertüchtigen, ist auch ein neues Denken in Bibliotheken selbst
+nötig. Open Science muss ein Fixpunkt im internen Leitbild wissenschaftlicher Bibliotheken
+werden. In internen Strategieprozessen muss Offenheit als Paradigma immer
+mitgedacht werden. Das bedeutet auch, sich von einer heute noch verbreiteten Engführung
+zu lösen, Open Science bedeutet für die Zukunft von Bibliotheken deutlich
+mehr, als nur Open Access und Forschungsdatenmanagement als Zusatz in das Portfolio
+aufzunehmen. Gefordert ist eine Neuorientierung der Organisationsstruktur, die
+Open Science in den Mittelpunkt stellt. Um mittelfristig als Ansprechpartnerin für die
+Implementation von Open Science im wissenschaftlichen Arbeiten in der Institution
+eine Rolle zu spielen, muss die Sprechfähigkeit erhöht werden. Dies geht einher mit
+dem Aufbau von breiter Expertise, gezielter Personalentwicklung und einer verstärkten
+Kommunikation dieser Expertise in wissenschaftlichen Arbeitsgruppen. Unter
+dem Aspekt Offenheit kooperieren Bibliotheken dabei proaktiv mit Partnerinnen und
+Partnern innerhalb der Institution wie Forschungsabteilungen, IT und Verwaltung.
+Open Science ist eine Chance für Bibliotheken, ihre Rolle als Partnerin und
+Dienstleisterin für die Wissenschaft zu verbessern und auszubauen. Diese Chance
+nicht zu ergreifen, birgt das Risiko für Bibliotheken, an Relevanz für die eigene wissenschaftliche
+Institution zu verlieren. Open Science in den Mittelpunkt ihrer internen
+Zukunftsstrategie zu stellen und die Organisationsentwicklung entsprechend
+auszurichten, sichert Bibliotheken ihren Platz in der digitalen Transformation der
+Wissenschaft.
+Literatur
+ALLEA All European Academies: The European Code of Conduct for Research Integrity – Revised Edition.
+Berlin 2023. https://doi.org/10.26356/ECOC.
+Ayris, Paul, Isabel Bernal, Valentino Cavalli, Bertil Dorch, Jeannette Frey, Martin Hallik, Kristiina Hormia-
+Poutanen u. a.: Liber Open Science Roadmap. In: Zenodo (2018). https://doi.org/10.5281/ZENODO.
+1303001.
+Council of the European Union: Council Conclusions on the Future Governance of the European Research
+Area (ERA). 2021. https://data.consilium.europa.eu/doc/document/ST-14308-2021-INIT/en/pdf
+(05.04.2023).
+Council of the European Union: Council Conclusions on Research assessment and Implementation of
+Open Science. 2022. https://www.consilium.europa.eu/media/56958/st10126-en22.pdf (05.04.2023).
+Deutsche Forschungsgemeinschaft: Leitlinien zur Sicherung guter wissenschaftlicher Praxis. o. J. https://
+wissenschaftliche-integritaet.de/kodex/ (05.04.2023).
+Deutsche Forschungsgemeinschaft: Förderung von Informationsinfrastrukturen für die Wissenschaft: ein
+Positionspapier der Deutschen Forschungsgemeinschaft. DFG 2018. https://www.dfg.de/resource/
+blob/173200/66e1e4296848c5f700b83898f7f48995/positionspapier-informationsinfrastrukturen-data.
+pdf (16.09.2024).
+Open Science und die Rolle der Bibliothek 311
+Deutscher Bibliotheksverband: Wissenschaftliche Bibliotheken 2025: beschlossen von der Sektion 4
+„Wissenschaftliche Universalbibliotheken“ im Deutschen Bibliotheksverband e. V. (dbv) im Januar
+2018. DBV 2018. https://www.bibliotheksverband.de/sites/default/files/2021-08/2018_02_27_WB2025_
+Endfassung_endg.pdf (05.04.2023).
+Helmholtz Open Science Office: Helmholtz Open Science Briefing: Gute (digitale) wissenschaftliche Praxis
+und Open Science: Support und Best Practices zur Umsetzung des DFG-Kodex „Leitlinien zur
+Sicherung guter wissenschaftlicher Praxis“ (Version 2.0). Helmholtz Open Science Office 2021.
+https://doi.org/10.48440/os.helmholtz.027.
+LIBER: LIBER Strategy 2023–2027. LIBER 2022. Verfügbar unter https://libereurope.eu/wp-content/uploads/
+2022/01/LIBER_STRAT_A5_digital-final-1.pdf (05.04.2023).
+UNESCO: UNESCO Recommendation on Open Science. UNESCO 2021. https://unesdoc.unesco.org/ark:/
+48223/pf0000379949 (05.04.2023).
+UNESCO: Open Science. UNESCO 2023. https://www.unesco.org/en/open-science (16.09.2024).

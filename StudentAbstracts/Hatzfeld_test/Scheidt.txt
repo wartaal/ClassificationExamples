@@ -1,0 +1,684 @@
+﻿Barbara Scheidt und Andreas Meier
+5.9 Bibliometrische Dienstleistungen
+
+1 Einleitung
+Bibliometrie als statistische Analyse von Publikationen findet schon seit den 1920er Jah-
+ren Anwendung in Bibliotheken, während der Begriff selbst erstmals 1969 genannt und
+„als Anwendung von Mathematik und statistischen Methoden auf Bücher und andere
+Kommunikationsmedien“ definiert wird.1 Die Bibliometrie hat durch die Entwicklung des
+Science Citation Index (SCI) seit den 1960er Jahren einen entscheidenden Bedeutungs-
+schub erlebt2 und mit der Erfindung des Internet und seiner alltäglichen Relevanz auch
+in der bibliothekarischen Berufswelt eine deutlich veränderte Anwendung erfahren.3
+
+Bibliometrische Dienstleistungen in Bibliotheken sind in der informationswissen-
+schaftlichen Fachwelt ein vielbeachtetes Thema. Dabei werden nicht nur die unter-
+schiedlichen bibliometrischen Angebote erläutert und diskutiert, sondern auch ganz
+grundsätzlich reflektiert, in welchem Rahmen diese Dienstleistung an Bibliotheken veran-
+kert ist und welche Kompetenzen Bibliotheken einsetzen können bzw. erwerben müssen,
+um den damit verbundenen Anforderungen gerecht zu werden.4
+
+2 Bibliometrie – der Bedarf wächst
+Die Bibliometrie galt lange als Randerscheinung, doch der Bedarf und das Interesse
+an dem Thema steigt kontinuierlich. Vor allem – jedoch nicht ausschließlich – Hoch-
+schulbibliotheken und Bibliotheken von Forschungseinrichtungen gelten mittlerweile
+als diejenigen Institutionen, an denen die Bibliometrie verortet ist. Das verwundert
+nicht angesichts der historischen Entwicklung dieses Spezialgebiets, welches zumin-
+dest teilweise als Teildisziplin der Bibliotheks- und Informationswissenschaft gesehen
+wurde.5
+
+ Prichard 1969. Übers. B. S./A. M.
+ Taubert. In: Ball 2021: S. 20. https://doi.org/10.1515/9783110646610-004.
+ Thelwall 2008: S. 746.
+ Vgl. z. B. Ball 2014; Ball u. Tunger 2006; Bladek 2014; Cabezas-Clavijo u. Torres-Salinas 2021; Cox et al.
+2019; Fühles-Ubach u. Albers. In: Ball 2021. https://doi.org/10.1515/9783110646610-042; Gumpenberger
+u. a. 2012, Jappe u. Heinze. In: Ball 2021. https://doi.org/10.1515/9783110646610-010; May 2014; Petersohn
+2016. In: Ball 2021. https://doi.org/10.1515/9783110646610-044; Sollmann u. Tunger 2022; Stisser et al.
+2022; Warmbrunn 2015.
+ De Bellis 2009.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-028
+
+
+
+456 Barbara Scheidt und Andreas Meier
+
+Der steigende Bedarf an bibliometrischer Expertise zeigt sich u. a. durch die Entste-
+hung des Kompetenznetzwerks Bibliometrie (KB) und seine jüngere Weiterentwicklung
+(siehe Abschnitt 6 „Kompetenzerwerb“). Denn es gibt gleich mehrere Interessengrup-
+pen an bibliometrischen Analysen: Forschende, um den Impact ihrer eigenen For-
+schung zu messen, Universitäten und Forschungseinrichtungen, um die bibliometrische
+Performance zu Managementzwecken zu messen und Forschungsförderer und Wissen-
+schaftsministerien, um Nutzen und Einfluss von Forschung zu quantifizieren.6
+
+Der wachsende Anspruch an die Bibliometrie wird auch durch die Entwicklung
+und Bereitstellung neuer Datenbanken, Datenquellen und neuartiger Metriken wie
+Altmetrics oder weiterentwickelte bibliometrische Indikatoren evident. Die zuneh-
+mende Komplexität der Bibliometrie steigert den Bedarf an entsprechender Vertie-
+fung des Fachwissens.7 Gleichzeitig wird der Ruf nach Rahmenbedingungen und
+Vorgaben zur praktischen Nutzung von bibliometrischen Indikatoren immer größer:
+Nicht selten wird bemängelt, dass das Feld in der Theorie ständig weiterentwickelt
+wird (etwa durch die Einführung neuer Indikatoren und Analysen von neuen Tools
+und Datenquellen). Jedoch fehlt an dieser Stelle oft die Brücke von der Theorie zur
+praktischen Anwendung: Was sind Best-Practice-Methoden um die Vielzahl der Indi-
+katoren korrekt zu verwenden?
+
+3 Vom Spezialgebiet zur bibliothekarischen
+Dienstleistung
+
+Wie das Gebiet der datenbasierten Forschungsevaluation insgesamt hat sich die biblio-
+metrische Dienstleistung speziell in wissenschaftlichen Bibliotheken erst durch die digi-
+tale Verfügbarkeit großer bibliometrischer Daten seit Ende der 1990er Jahre von einem
+spezialisierten Interessengebiet weniger Forschenden sowie Informationsspezialistin-
+nen und -spezialisten zu einem Geschäftsfeld mit wachsender Nachfrage entwickeln
+können.8 Im weiteren Entwicklungsprozess dieses Feldes erwiesen sich Bibliotheken als
+gut aufgestellte Orte für die mit der Bibliometrie einhergehenden Anforderungen, denn
+hier werden die Datenquellen mit den bibliographischen Daten als Basis bibliometri-
+scher Analysen verwaltet und genutzt. Es ist sicherlich kein Zufall, dass Eugene Gar-
+field, der Ersteller des Science Citation Index, ebenfalls Bibliothekar war. Anfangs noch
+in Papierform und mit dem Zweck, wissenschaftliche Publikationen zusammenzustel-
+len und zu katalogisieren, hat sich der SCI in der Zwischenzeit zu einer der bekanntes-
+ten und wichtigsten Literatur- und Zitationsdatenbanken gewandelt, integriert im Web
+
+ Jappe u. Heinze. In: Ball 2021: S. 93. https://doi.org/10.1515/9783110646610-010.
+ Cabezas-Clavijo u. Torres-Salinas 2021: S. 1.
+ Ball u. Tunger 2006: S. 564.
+
+
+
+5.9 Bibliometrische Dienstleistungen 457
+
+of Science (WoS), das zugleich eine der am häufigsten für bibliometrische Analysen ver-
+wendeten Quellen ist.9
+
+Zunächst unabhängig von Anforderungen bibliometrischer Dienstleistungen hat
+sich der Beruf wissenschaftlicher Bibliothekarinnen und Bibliothekare in den letzten
+Jahrzehnten besonders stark verändert. Gumpenberger u. a. (2012)10 haben insbeson-
+dere auf das Zusammenspiel einer elektronischen Informationsgesellschaft mit einem
+zunehmend konkurrierenden wissenschaftlichen Umfeld hingewiesen, wodurch in
+kürzester Zeit Anpassungen des bibliothekarischen Arbeitsalltags an die neue digitale
+und elektronische Umgebung erforderlich und internationale Trends zu berücksichti-
+gen waren.11 Die Bibliotheken haben sich insgesamt gewandelt, und bibliothekarische
+Arbeit geht weit über den analogen Aufbau und die Verwaltung der Bestände hinaus.
+In Bibliotheken sind zudem die jüngeren Bereiche Open Access und Forschungsdaten-
+management nach Aussage von Tunger u. a. (2020) mit dem Thema Bibliometrie
+durch den Umgang mit „Daten [...] in unterschiedlichen Formen“ verbunden und
+haben darüber hinaus gemeinsam, dass sie „die Art und Weise, wie Forschende arbei-
+ten“ und „wo sie veröffentlichen“ verändern.12 May (2014) verweist auf bibliothekari-
+sche Kernkompetenzen wie „den Umgang mit verschiedenen Publikationsformen und
+mit Publikationsdaten“, „Recherchekompetenz in Fachdatenbanken und Kenntnis im
+Umgang mit Zitationsdatenbanken“13 als relevante Voraussetzungen für den Umgang
+mit bibliometrischen Datenquellen und ihren Limitationen. Bladek (2014) sieht in der
+jahrelange Erfahrung von Bibliotheken im Sammeln, Kategorisieren und Analysieren
+von Daten und in der Vertrautheit mit Datenbanken ebenfalls ein wichtiges Fundament
+für die Anforderungen an bibliometrische Dienstleistungen.14 Bibliothekar:innen seien
+als Expert:innen „im Bereich Medien und Publikationen“ und zudem als „unbeteiligte
+Neutrale“ prädestiniert, um Datenbasen auf objektive Art quantitativ zu untersuchen,
+befand Warmbrunn (2015)15 – denn genau das soll die Bibliometrie auch leisten. U. a.
+Ball und Tunger (2006) vermuten in der Einführung bibliometrischer Dienstleistungen
+in Bibliotheken aber auch eine bewusste Entscheidung für ein neues Geschäftsfeld vor
+dem Hintergrund der bereits angesprochenen großen Veränderungen im bibliothekari-
+schen Berufsalltag.16
+
+ Sollmann u. Tunger 2022: S. 238; Jappe u. Heinze. In: Ball 2021: S. 95. https://doi.org/10.1515/
+9783110646610-010.
+ Gumpenberger et al. 2012.
+ Gumpenberger et al. 2012: S. 175.
+ Tunger et al. 2020: S. 243.
+ May 2014: S. 135.
+ Bladek 2014.
+ Warmbrunn 2015: S. 2.
+ Ball u. Tunger 2006: S. 64.
+
+
+
+458 Barbara Scheidt und Andreas Meier
+
+4 Analysen und Indikatoren
+Zunächst diente die Bibliometrie den Bibliotheken als Unterstützung im Bestandsma-
+nagement, handelt es sich doch um quantitative Auswertungen von bibliografischen
+Informationen mit mathematischen und statistischen Methoden. Bei der Anwendung
+und Beurteilung dieser Methode im Rahmen darüberhinausgehenden Fragestellung
+profitieren Bibliothekarinnen und Bibliothekare deshalb auch von einer sehr guten
+Kenntnis der (bibliografischen) Datenbasis und außerdem des teilweise sehr unter-
+schiedlichen Publikationsverhaltens in den Disziplinen. Zu bibliometrischen Frage-
+stellungen und Anforderungen sind jedoch unbedingt zusätzliche und teilweise sehr
+spezielle Kenntnisse, z. B. über die bibliometrischen Indikatoren und die kritische Be-
+urteilung ihrer Verwendung erforderlich, wie im folgenden Abschnitt aufgezeigt wer-
+den soll.
+
+Der wichtigste Bestandteil bibliometrischer Analysen ist die Erhebung von Publi-
+kations- und Zitationszahlen zu Fragestellungen aus bestimmten Perspektiven. Die Er-
+gebnisse werden als eine quantitative Bewertungsoption wissenschaftlichen Outputs
+neben einer qualitativen Möglichkeit der Bewertung, welche die Bibliometrie nicht
+leisten kann, genutzt. Wichtige Grundlage sind analysierbare Daten, die umfassende
+Informationen über die Publikationen liefern und einen möglichst großen Teil der
+wissenschaftlichen Fachgebiete abdecken. Dies variiert von Datenbank zu Datenbank
+und die Fachgebiete werden mitunter sehr unterschiedlich abgebildet: ein wichtiger
+Aspekt bei der Wahl der passenden Datenbasis für die gewünschten Analysen.
+
+Die Bibliometriedaten wurden viele Jahre fast ausschließlich von kommerziellen An-
+bietern in Form von Zitationsdatenbanken mit einer multidisziplinären Fächerabdeckung
+angeboten. Das Web of Science (Clarivate, vormals Thomson Reuters, ursprünglich ISI17)
+und ab 2004 Scopus (Elsevier18) dienen bis heute zunächst als Rechercheportale, ebenso
+wie neue, (teilweise) freie Angebote von Digital Science (Dimensions19) oder OurResearch
+(OpenAlex20). Die ebenfalls erfassten Referenzlisten der in diesen Portalen nachgewiese-
+nen wissenschaftlichen Beiträge bilden die Basis für die Zitationsverknüpfungen der ein-
+zelnen Publikationen untereinander und stellen bis heute eine wertvolle Unterstützung
+für das Auffinden relevanter Literatur zu bestimmten Forschungsthemen dar: Ausgehend
+von einem Artikel ist sowohl ein Blick zurück auf die Grundlagen oder Vorarbeiten der
+dort dargestellten Erkenntnisse möglich als auch ein Blick nach vorn auf eine Weiterver-
+wertung derselben in nachfolgenden Veröffentlichungen. Je mehr, wie wissenschaftliche
+Zeitschriften, Tagungsbände und Bücher, in der Datenbank mit ihren einzelnen Beiträgen
+indexiert sind, desto mehr Zitationsverknüpfungen sind möglich.
+
+ https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-
+solutions/webofscience-platform/ (05.09.2023).
+ https://www.elsevier.com/solutions/scopus (05.09.2023).
+ https://dimensions.ai (05.09.2023).
+ https://openalex.org/ (05.09.2023).
+
+
+
+5.9 Bibliometrische Dienstleistungen 459
+
+Die Bibliometrie hat auf Basis dieser Zitationsverknüpfungen eine Reihe von Indi-
+katoren entwickelt, welche für die Wahrnehmung der einzelnen Publikationen bzw.
+eines Publikationssatzes stehen: je häufiger eine Publikation zitiert wird, desto größer
+ist ihre Wahrnehmung in der wissenschaftlichen Gemeinschaft. Letzterer kann durch
+unterschiedliche Analyseebenen und Fragestellungen definiert werden: es werden die
+Publikationen einzelner Personen ausgewertet (Mikroebene), von Universitäten oder
+Forschungsinstitutionen (Mesoebene) oder von Ländern (Makroebene). Auch themati-
+sche oder zeitliche Perspektiven können für die Auswahl von Publikationen eine
+Rolle spielen. Über die üblichen bibliografischen Daten der Publikationen müssen
+dazu zusätzliche Informationen aus den Publikationen in den Datenbanken erfasst
+sein, wie z. B. die Adressen der Autorinnen und Autoren, um Analysen auf der Meso-
+und Makroebene zu ermöglichen. Auch Angaben über Forschungsförderung, wie
+z. B. die Nennung eines Förderprojekts und einer Förderorganisation, können erfasst
+und ausgewertet werden.
+
+Keywords und Abstracts stellen neben den Titeln die Basis für thematische Be-
+trachtungen dar und werden in den meisten Datenbanken um eigene Kategoriensys-
+teme ergänzt. In den klassischen Bibliometriedatenbanken Web of Science21 oder
+Scopus22 sind diese Systeme quellenbasiert, während z. B. Dimensions begonnen hat,
+den einzelnen Beiträgen Kategorien zuzuordnen.23
+
+Trotz dieser für die bibliometrische Analysen interessanten Datenanreicherungen
+wird der größte Teil der Daten direkt den Publikationen entnommen und in den jewei-
+ligen Datenbanksystemen erfasst. Die so importierten Daten sind allerdings sehr hetero-
+gen und werden nur teilweise vereinheitlicht. Während die Länder aus den Adressen
+der Autor:innen relativ gut normierbar sind, sind die vielfältigen Schreibvarianten von
+Institutionen nur mit großem Aufwand unter einer einheitlichen Benennung zusam-
+menzuführen. Personennamen dagegen können nicht nur unterschiedliche Formate
+und Schreibweisen haben, sondern sind auch selten eindeutig, so dass beim Zusammen-
+stellen des Publikationssatzes einer Person darauf geachtet werden muss, keine Publi-
+kationen einer namensgleichen Person auszuwählen.
+
+Mit eindeutigen Identifikatoren für Personen (etwa ORCID) oder für Institutionen
+(etwa ROR) sind in den letzten Jahren wertvolle Unterstützungssysteme entwickelt wor-
+den, die das Problem der Schreibvarianten bisher jedoch nicht komplett beheben konn-
+ten. Aber auch die Datenbankanbieter haben statistische Auswertungen durch eigene
+Analysetools im Angebot und Verfahren zur Datenbereinigung entwickelt, um die Aus-
+wertbarkeit der Daten zu verbessern. Diese Tools und somit auch ihre Daten und Daten-
+normierungen werden insbesondere für die Erstellung internationaler Rankings von
+
+ http://webofscience.help.clarivate.com/en-us/Content/wos-core-collection/wos-core-collection.htm?
+Highlight=Subject%20Categories (05.09.2023).
+ https://service.elsevier.com/app/answers/detail/a_id/15181/supporthub/scopus/kw/subject+area/
+(05.09.2023).
+ https://doi.org/10.5281/zenodo.3229757 (05.09.2023).
+
+
+
+460 Barbara Scheidt und Andreas Meier
+
+Ländern, Institutionen24 oder Wissenschaftler:innen sowie durch die Universitäten und
+Forschungseinrichtungen für das interne Monitoring wissenschaftlicher Ergebnisse ge-
+nutzt. Für die Beurteilung der Ergebnisse ist eine sehr gute Kenntnis der Datenbasis un-
+abdingbar – eine Kompetenz, die in Bibliotheken und ihren Bibliometrie-Abteilungen
+vorhanden ist oder sein sollte. Denn die genannten Analysetools werden auch von Perso-
+nen genutzt, die weder eine tiefgreifende Kenntnis der jeweiligen Datenbasis haben,
+noch mit bibliometrischen Indikatoren vertraut sind und die aufgrund dieses fehlenden
+Hintergrundwissens die Ergebnisse aus den Analysetools nicht ausreichend beurteilen
+können oder falsch interpretieren.25 Als Beispiel seien mit Verweis auf die oben beschrie-
+benen Probleme vom Umgang mit gleichen Namen die Rankings von Autor:innen nach
+Anzahl ihrer Publikationen oder erhaltenen Zitationen genannt. Wer kein Hintergrund-
+wissen zur jeweiligen Methodik und den genutzten Daten solcher Rankings hat, kann sie
+auch nicht auf Korrektheit prüfen.
+
+Die großen Zitationsdatenbanken ermöglichen nicht nur aufgrund ihrer Datenbe-
+reitstellung Forschungsevaluation anhand bibliometrischer Analysen, sondern geben
+dabei auch Standards vor, z. B. über die erwähnten Kategoriensysteme: feldnormali-
+sierte Indikatoren basieren z. B. häufig auf den Web of Science Categories. Jappe und
+Heinze (2021) bewerten diese als de-facto-Referenzstandard in der Bewertung von
+Forschungsleistung.26
+
+Die Anzahl der Publikationen und der damit verbundenen Zitationen, also die
+Anzahl an Zitierungen, die diese Publikationen durch andere Veröffentlichungen in
+derselben Datenbank erhalten haben, sind die Basisindikatoren bibliometrischer
+Auswertungen. Um die erhobenen Werte einordnen zu können, sind Vergleichswerte
+sinnvoll und über geeignete Indikatoren bereitzustellen. So können zwar z. B. Länder
+oder Universitäten und ihre jeweiligen Werte direkt miteinander verglichen werden,
+weitere Einflussfaktoren bleiben dabei aber oft außen vor. Ein einfacher Indikator
+wäre der durchschnittliche Zitationswert, ermittelt durch die Anzahl der Zitationen ge-
+teilt durch die Anzahl der Publikationen einer Einheit. Auf Einrichtungsebene lässt sich
+mit Hilfe der Bibliometrie ein thematisches Profil der Einrichtung oder einer ihrer Ein-
+heiten erstellen und im Zeitverlauf eine Entwicklung ablesen. Außerdem sind Aussagen
+über Kooperationen möglich, so dass allein das Zählen von Publikationen, Zitationen,
+Autorenadressen, Förderorganisationen oder der den Publikationen zugordneten Fach-
+begriffen (in den Keywords, Abstracts, Titeln oder Kategorien) weitere Erkenntnisse
+bringt. Publikations- und Zitationszahlen laden zum Vergleich ein und werden häufig
+als einer von vielen Faktoren in Hochschulrankings, auch international, verwendet. Die
+Auftraggeber sind in solchen Fällen unabhängige Betrachter, die Empfänger der Ran-
+
+ Z. B. Times Higher Education World University Rankings – THE. https://www.timeshighereduca
+tion.com/world-university-rankings/2023/world-ranking, oder The European Higher Education Sector
+Observatory, https://eter-project.com/ (18.09.2024).
+ Jappe u. Heinze. In: Ball 2021: S. 94. https://doi.org/10.1515/9783110646610-010.
+ S. Jappe u. Heinze. In: Ball 2021: S. 95.
+
+
+
+5.9 Bibliometrische Dienstleistungen 461
+
+king-Ergebnisse sind Studierende, Forschende, die Politik und natürlich die betroffenen
+Universitätsleitungen. Differenziertere Analysen können als Grundlage für strategische
+Entwicklungen genutzt werden und sind mittlerweile an vielen deutschen Einrichtun-
+gen fester Bestandteil im Bereich diverser Monitoring- und Entwicklungsabteilungen.
+Auch für Forschungsabteilungen oder Institute liefern die o. g. Daten wichtige Informa-
+tionen über erbrachte Publikationsleistungen und können die Basis für thematische Än-
+derungen oder Entwicklungen von Kooperationen in kleineren Einheiten sein.
+
+Einzelne Wissenschaftler:innen haben die Möglichkeit, die Basisindikatoren über
+ihren aktuellen Publikationsoutput als Zusatzinformation auf der eigenen Webseite
+darzustellen, in Bewerbungsverfahren für Jobs oder Projektmittel, aber auch im Rah-
+men von Projektevaluationen zu nutzen. Je nach Lebensalter und Karrierestand einer
+Person sind die Erkenntnisse bibliometrischer Auswertungen jedoch mit großer Vor-
+sicht zu bewerten, da teils nur eine geringe Zahl auswertbarer Publikationen in statis-
+tisch nicht relevanter Anzahl vorhanden ist. Die Vergleichbarkeit und Bewertung von
+bibliometrischen Analysen auf Personenebene ist besonders strittig. Anders als bei
+Analysen auf größerer Datenbasis ist der Zusatznutzen der statistischen Kenngrößen
+fraglich und eine inhaltliche qualitative Bewertung ist zu bevorzugen.27 Aber nicht
+nur die Wissenschaftler:innen selbst, sondern auch die Personalabteilungen von For-
+schungseinrichtungen und Hochschulen haben in der Vergangenheit bevorzugt bi-
+bliometrische Daten von Personen in ihre Entscheidungsprozesse mit eingebunden,
+was zu Recht kritisch diskutiert wird.
+
+Der kritische und objektive Umgang mit bibliometrischen Indikatoren wurde
+daher bereits in mehreren international anerkannten Leitfäden und Erklärungen be-
+handelt. Die Declaration on Research Assessment (DORA)28 aus dem Jahr 2012 kritisiert
+u. a. die Nutzung von Metriken auf Zeitschriftenebene, um damit den Impact einzel-
+ner Wissenschaftler:innen zu messen. Über 20 000 Personen und Einrichtungen aus
+164 Ländern haben die Erklärung unterschrieben und sich zu den Prinzipien eines
+verantwortungsvollen Umgangs bei der Evaluation von wissenschaftlichem Output
+bekannt, darunter aktuell 144 Einrichtungen aus Deutschland, Österreich und der
+Schweiz (Stand 11.09.2023). Das Leiden Manifesto29 aus dem Jahr 2015 nennt zehn Prin-
+zipen zum verantwortungsvollen Umgang mit bibliometrischen Indikatoren: u. a. sol-
+len Daten offen, transparent und einfach gehalten werden, damit eine Verifizierung
+und Nachnutzbarkeit der Indikatoren gewährleistet werden kann.
+
+ Mittermaier. In: Ball 2021. https://doi.org/10.1515/9783110646610-009.
+ https://sfdora.org/ (05.09.2023).
+ http://www.leidenmanifesto.org/ (05.09.2023).
+
+
+
+462 Barbara Scheidt und Andreas Meier
+
+5 Bibliometrische Dienstleistungen an Universitäten
+und Bibliotheken heute
+
+Die Bibliometrie hat sich als wissenschaftliche Disziplin etabliert und wird an unter-
+schiedlichen Einrichtungen, wie dem CWTS Leiden, der KU Leuven oder dem Unterneh-
+men Science-Metrix in Kanada, erforscht.30 Dadurch hat sich an diesen Einrichtungen
+auch ein Expertentum für quantitative Forschungsevaluation etabliert. Im Unterschied
+zur Forschungstätigkeit dieser Institutionen sind die Bibliotheken in der Regel mit Bera-
+tungen oder der Durchführung von weniger komplexen Analysen befasst, die aber
+trotzdem gute Kenntnisse über die Datenbasis und die Indikatoren erfordert, wie das
+folgende Beispiel zeigt: Die Vertreter eines Lehrstuhls möchten wissen, wie viele Publi-
+kationen und Zitationen dieser in einem bestimmten Zeitraum aufweisen kann. Im bes-
+ten Fall existiert ein Repositorium, in dem diese Publikationen samt eindeutiger
+Identifikatoren wie Digital Object Identifier (DOI) verzeichnet und dem Lehrstuhl
+zugeordnet sind. Auf dieser Grundlage kann ein Großteil der Publikationen31 in
+der gewünschten Zitationsdatenbank wie WoS oder Scopus gefunden werden, in
+denen Publikationen i. d.R. der obersten Organisationsebene, also z. B. einer Uni-
+versität, zugeordnet sind, aber nicht einzelnen Lehrstühlen. Da selten alle Einträge
+eine DOI verzeichnen und Publikationsnachweise im Repositorium aufgrund lückenhaf-
+ter Eintragung möglicherweise fehlen, können weitere Schritte notwendig sein, um bei
+der Abfrage alle Publikationen des Lehrstuhls berücksichtigen zu können. Dazu müssen
+die Affiliationen und die Namen der Autor:innen in einer größeren Ergebnismenge der
+gewählten Bibliometriedatenbank geprüft und identifiziert werden. Wie zuvor bereits be-
+schrieben, sollten vor allem bei den Affiliationen unterschiedliche Schreibweisen und Ab-
+kürzungen in Betracht gezogen werden – eine gute Kenntnis der Organisationsstruktur
+des gesuchten Lehrstuhls ist hier unbedingt erforderlich. Um keine namensgleichen Per-
+sonen aus derselben Universität mit einzubeziehen, hilft die Kombination mit eindeuti-
+gen Adressen, Personen-Identifikatoren oder ein Blick auf die Fachkategorien, in denen
+publiziert wurde. Erst nach dieser mehrstufigen und aufwändigen Methode der Datener-
+mittlung können die gewünschten bibliometrischen Indikatoren berechnet werden. Da
+eine zusammenhanglose Aufführung von Publikationszahlen und Zitationswerten selten
+den gewünschten Erkenntnisgewinn bringt, gilt es im Austausch zwischen Bibliothek
+und Lehrstuhl, geeignete Indikatoren auszuwählen und eine entsprechende Analyse
+durchzuführen und die Ergebnisse in einem Bericht sowohl inhaltlich als auch gra-
+phisch darzustellen.
+
+Doch wie viele Universitäten und wissenschaftlichen Bibliotheken bieten biblio-
+metrische Services tatsächlich an und um welche konkreten Dienstleistungen handelt
+
+ Taubert. In: Ball 2021: S. 21. https://doi.org/10.1515/9783110646610-004.
+ Da auch die Bibliometriedatenbanken nur eine Auswahl der weltweiten Publikationen enthalten,
+ist eine vollkommene Übereinstimmung von abgefragten und ermittelten Publikationen selten.
+
+
+
+5.9 Bibliometrische Dienstleistungen 463
+
+es sich? Stisser u. a. (2022) untersuchten die Webauftritte von insgesamt 104 deutschen
+Universitäten sowie Kunst- und Musikhochschulen mit mehr als 1 000 Studierenden
+um genau dieser Frage nachzugehen. Sie kamen zu dem Ergebnis, dass nahezu alle
+untersuchten deutschen Universitäten bzw. Universitätsbibliotheken auf ihren Web-
+seiten über das Thema Open Access, jedoch nur 28 der 104 Universitäten zum Thema
+Bibliometrie informieren oder entsprechende Services anbieten.32 Neun Jahre zuvor
+hatte bereits May (2014) die unterschiedlichen Angebote deutscher Bibliotheken ge-
+prüft und nennt beispielhaft mindestens sieben Bibliotheken mit Schulungsangebo-
+ten, Beratungen oder Auftragsangeboten.33 Einen internationalen Vergleich liefert
+eine Studie aus dem Jahr 2020 mit einer Umfrage unter 205 Bibliothekar:innen in Ka-
+nada: Sie kam zu dem Ergebnis, dass 26 % von ihnen in der Bibliometrie aktiv sind
+und bibliometrische Services anbieten. Damit steht die Bibliometrie bei den befragten
+Personen auf einer Ebene mit Aufgaben wie Unterstützung bei Förderanträgen (28 %)
+und Forschungsdatenmanagement (23 %).34
+
+In einer jüngeren Untersuchung bibliometrischer Fachkenntnisse von Bibliothe-
+kar:innen ermittelte Petersohn (2021), dass die Mehrheit der in der Literatur beschriebe-
+nen bibliometrischen Dienstleistungen an Bibliotheken Schulungen und bibliometrische
+Fortbildungen sind, gefolgt von Beratungen zu Berechnungen und der Nutzung von
+Autor:innen- und Zeitschriften-basierten Indikatoren. Leistungs- oder Kooperations-
+analysen und Vergleichsanalysen würden in unterschiedlicher Ausprägung und bei
+entsprechender personeller Besetzung ebenfalls durchgeführt.35
+
+Eine aktuelle stichprobenartige Internetrecherche zu bibliometrischen Dienstleis-
+tungen deutscher Bibliotheken bestätigt eine Reihe von Angeboten, die in die o. g.
+Hauptkategorien Didaktik und Beratung, sowie Evaluation und Trenderkennung fallen.
+Bibliometrische Studien, die sich auf Basis von teilweise sehr großen Datenmengen mit
+sehr speziellen Fragestellungen und mit zeitlich und geografisch übergreifenden Ent-
+wicklungen befassen, werden nur in Ausnahmefällen durch Bibliotheken ausgeführt,
+da zum einen die behandelten Fragen über die Interessen der jeweiligen Einrichtungen
+hinausgehen und auch nur wenige Bibliotheken ausreichende Ressourcen und Qualifi-
+kationen für derartige Aufgaben zur Verfügung haben. Zum anderen handelt es sich
+dabei häufig um Auftragsarbeiten.
+
+Bibliotheken, die Bibliometrie überhaupt im Dienstleistungsangebot haben, befinden
+sich an wissenschaftlichen Einrichtungen wie Hochschulen oder außeruniversitären For-
+schungseinrichtungen als Orte von Forschung und wissenschaftlicher Publikationstätig-
+keit. Mit wenigen Ausnahmen richten Bibliotheken ihre Angebote grundsätzlich an
+Mitarbeitende und Institutionen der eigenen Hochschule oder Forschungseinrichtung. Ex-
+terne Kund:innen werden nur selten mit Auftragsarbeiten bedient, zum Beispiel durch
+
+ Stisser et al. 2022: S. 277–278.
+ May 2014: S. 135–136.
+ Costello 2020.
+ Petersohn 2016: S. 489–490.
+
+
+
+464 Barbara Scheidt und Andreas Meier
+
+die Zentralbibliothek im Forschungszentrum Jülich.36 Dabei reichen die angebotenen
+Dienstleistungen von der Bereitstellung von Informationen über individuelle Beratungs-
+angebote bis hin zur Durchführung komplexer Analysen.
+
+Beispielhaft für zielgerichtete Angebote zum Thema Bibliometrie können die
+Dienstleistungen der Bibliotheken der Universitäts- und Stadtbibliothek Köln oder der
+Technischen Universität Hamburg (TUHH) genannt werden. Die Kölner Bibliothek bietet
+unter dem Schlagwort Publikationsranking verstehen eine Webseite mit Basisinformatio-
+nen zur Bibliometrie, ihren Fragestellungen, Möglichkeiten, Grenzen und Gefahren an.
+Bibliometrie ist dabei ein Unterbereich des Themenspektrums zum Publizieren und
+richtet sich mit weiteren Beratungen zum Open Access-Publizieren oder dem Anlegen
+von Autor:innen-Identifikatoren (ORCID) klar an die wissenschaftlichen Mitarbeitenden
+der Hochschule. Auch die Universitätsbibliothek der TUHH informiert ihre wissenschaft-
+lich arbeitenden und publizierenden Mitarbeitenden mit einer Informationsseite im In-
+ternet umfassend über das Thema Bibliometrie. Damit einher gehen Aufforderungen an
+Autor:innen wissenschaftlicher Publikationen, mit Hilfe von Personen-Identifikatoren
+ihren Teil zu einer möglichst vollständigen Datenbasis beizutragen: „Stellen Sie sicher,
+dass Ihre Publikationen Ihnen vollständig zugeordnet werden können.“37
+
+Im Kern zielen diese Angebote auf Aufklärung von teilweise unbewusst Betroffenen
+bibliometrischer Analysen ab. Das wird durch die einführenden Sätze der Informations-
+seite der Universitäts- und Stadtbibliothek Köln deutlich: „Viele Wissenschaftlerinnen
+und Wissenschaftler werden von Hochschulleitungen und Unterhaltsträgern mit biblio-
+metrischen Methoden evaluiert und beurteilt – ob sie dies wollen oder nicht. Es lohnt
+sich deshalb, sich mit bibliometrischen Fragestellungen auseinanderzusetzen.“38
+
+Die Bibliothek der RWTH Aachen39 bietet gezielt die Durchführung von Analysen
+an und spricht nicht nur einzelne Autor:innen als Zielgruppe an. Die auf den Informati-
+onsseiten jeweils thematisierten Fragestellungen, Indikatoren oder Quellen werden
+durch kurze Zusammenstellungen zu Vor- und Nachteilen ergänzt und bieten den Inter-
+essierten eine erste Orientierung zur Bewertung der Themen an. Die Informationen
+werden nicht ausschließlich deskriptiv aufbereitet, sondern es finden auch kritisch dis-
+kutierte Aspekte zum Thema Bibliometrie Beachtung.
+
+Die Universitätsbibliothek der Technischen Universität München (TUM) infor-
+miert auf ihrer Webseite über Fragestellungen und Indikatoren unterschiedlicher
+Perspektiven und über Nutzen und Grenzen und zu einem von der TUM lizenzierten
+Analysetool, das für individuelle Auswertungen zur Verfügung steht. Die über das ge-
+meinsame Thema wissenschaftliches Publizieren verbundenen Bereiche Open Access,
+
+ https://www.fz-juelich.de/de/zb/leistungen/bibliometrie (05.09.2023).
+ https://www.tub.tuhh.de/publizieren/bibliometrie/ (05.09.2023).
+ https://ub.uni-koeln.de/forschen-publizieren/publizieren/publikationsranking-verstehen
+(05.09.2023).
+ https://www.ub.rwth-aachen.de/cms/ub/Forschung/Wissenschaftliches-Publizieren/~hnlj/Bibliome
+trie/ (05.09.2023).
+
+
+
+5.9 Bibliometrische Dienstleistungen 465
+
+Autoren-Identifikatoren (Stichwort Akademisches Identitätsmanagement) und Publi-
+kationsrichtlinie finden wie an den anderen Hochschulbibliotheken ebenfalls Berück-
+sichtigung.40 Im Vergleich zu früheren Dienstleistungsangeboten zeigt sich mit der
+Bündelung dieser Themen ein neuer Trend, Bibliometrie mit den aktuellen Entwick-
+lungen im wissenschaftlichen Publikationsbereich als sich gegenseitig beeinflussen-
+den Faktoren zu einem gemeinsamen Beratungsangebot zu verbinden.
+
+Neben der Bibliometrie sind also auch andere aktuelle und für die Wissenschaft
+zukunftsweisende Themen wie Open Access und Forschungsdatenmanagement an Bi-
+bliotheken angesiedelt. Somit sind Bibliotheken in der gesamten Wertschöpfungskette
+einer Publikation als Experten und Dienstleister gefragt: Wo soll publiziert werden,
+wie kann ich meine Ergebnisse und Daten managen und wie ist der Impact meiner
+Publikation im Anschluss?
+
+6 Kompetenzerwerb
+Mehrfach wurde auf die notwendigen Kompetenzen verwiesen, die für ein Angebot
+an bibliometrischen Dienstleistungen an Bibliotheken erforderlich sind und die über
+die profunden Kenntnisse der Datenbasis und wissenschaftlicher Publikationstätigkeit
+hinausgehen. Zwar ist mathematisches und statistisches Grundwissen durch Anforde-
+rungen im Bestands- und allgemeinen Bibliotheksmanagements mitunter vorhanden,
+für die Durchführung bibliometrischer Analysen oder für das Verständnis von Indika-
+toren aber nicht ausreichend. Und ein sich ständig wandelndes Wissen über Indikato-
+ren, neue Datenbanken und Analysetools oder die kritischen Diskussionen in der
+Fachcommunity erfordern einen darüber deutlich hinausgehenden Wissenserwerb.
+
+Taubert (2021) konstatiert für die Forschungsevaluation insgesamt das Fehlen for-
+maler Qualifikationen41 und Petersohn (2016) weist auf die „nicht adäquate“ Berück-
+sichtigung der neuen Dienstleistung in der informationswissenschaftlichen Ausbildung
+hin.42 Allerdings könnten Bibliothekar:innen auf dieser Grundlage nicht nur auf prakti-
+sches Wissen zurückgreifen, sondern „durch professionellen Austausch und Lernstrate-
+gien würde zudem Wissen mit Bezug zu evaluativen bibliometrischen Anwendungen
+ausschließlich im Bibliothekskontext entwickelt“.43
+
+ https://www.ub.tum.de/bibliometrie (05.09.2023).
+ Taubert. In: Ball 2021: S. 20, 22. https://doi.org/10.1515/9783110646610-004.
+ Petersohn 2016: S. 166.
+ „This means it is composed of practical knowledge derived from an academic LIS education and
+made relevant in the application context of the provision of bibliometric services. More importantly,
+there is know-how being exclusively developed with relation to evaluative bibliometrics applications
+in the library context, via professional exchange and learning strategies.“ Petersohn 2016: S. 188.
+Übers. B. S./A. M.
+
+
+
+466 Barbara Scheidt und Andreas Meier
+
+Entsprechend werden ausreichende Kenntnisse zu bibliometrischen Fragestellun-
+gen im Rahmen einer informationswissenschaftlichen Aus- oder Weiterbildung oder
+durch die Teilnahme an Tagungen und Konferenzen erworben. Petersohn (2016) wirbt
+aufgrund ihrer Untersuchungsergebnisse dafür, die bibliometrische Ausbildung von
+Bibliothekar:innen eng an den professionellen Voraussetzungen dieser Berufsgruppe
+auszurichten. Der genaue inhaltliche Bedarf der Qualifikation ist durchaus variabel.
+Das vielfach hervorgehobene informationswissenschaftliche Basiswissen als ideale
+Grundlage für bibliometrische Dienstleistungen vermuten Cox u. a. (2019) in der Praxis
+gleichzeitig auch als Limitation für den Ausbau weiterer Kompetenzen: Beratungsange-
+bote und der Umgang mit proprietären Systemen würden überwiegen, strategische As-
+pekte oder die Auseinandersetzung mit Datenmanipulation eher vermieden.44 Auch die
+aktuellen Befunde der Webseitenrecherche zu den bibliometrischen Angeboten von Bi-
+bliotheken deuten darauf hin, dass komplexere Zitationsanalysen häufiger auf speziel-
+leres mathematisches und statistisches Vorwissen aufbauen und Bibliotheken sich
+besonders auf ein solides Beratungsangebot spezialisieren, das den Kundengruppen
+das notwendige Hintergrundwissen und Verständnis über bibliometrische Untersu-
+chungen liefert. Nicht selten eignen sich Bibliothekar:innen ihr Wissen im Selbstlern-
+prozess und über die Wahrnehmung entsprechender Angebote nach und nach an und
+passen die Dienstleistungsangebote dem jeweiligen Wissensstand an.45
+
+Die Angebote bibliometrischer Schulungen und Fortbildungen im deutschsprachigen
+Raum wurden von Fühles-Ubach & Albers (2021) untersucht und zusammengefasst.46 Es
+gab zu dem Zeitpunkt der Untersuchung 2019 insgesamt sechs deutschsprachige Ange-
+bote. Von den sechs Angeboten der TH Köln, der FU Berlin, von Hess-Fort (HeBIS), der
+Bibliotheksakademie Bayern und der Vereinigung österreichischer Bibliothekarinnen
+und Bibliothekare (VÖB) boten vier vor allem Basiswissen an und alle richteten sich,
+wenn auch nicht ausschließlich, an Bibliothekar:innen. Auch die Trainer:innen kamen
+mit nur einer Ausnahme aus wissenschaftlichen Bibliotheken.
+
+Im Format einer Intensivschulung besteht mit der European Summer School for
+Scientometrics bereits seit 2010 eine professionelle Veranstaltung durch gemeinsame
+Organisation der Universität Wien, der KU Leuven, der Berlin University Alliance, des
+Deutschen Zentrums für Hochschul- und Wissenschaftsforschung, der Sapienza Uni-
+versität Rom und der EC3metrics Group der Universität Grenada. Sie findet jährlich
+über fünf Tage in englischer Sprache statt und richtet sich an alle Interessierten, u. a.
+auch Bibliothekar:innen. Obwohl die Summer School aufgrund der sehr geringen An-
+zahl von Weiterbildungsangeboten zu bibliometrischen Themen schon vor über zehn
+Jahren erschaffen wurde, zeige die Bestandsaufnahme der angebotenen Trainings
+
+ Cox et al. 2019: S. 748.
+ Cox et al. 2019: S. 748.
+ Fühles-Ubach u. Albers 2021.
+
+
+
+5.9 Bibliometrische Dienstleistungen 467
+
+nach Ansicht von Fühles-Ubach & Albers (2021), dass die Herausforderungen zu besse-
+ren Qualifizierungsmöglichkeiten weiterhin bestehen.47
+
+Das Kompetenznetzwerk Bibliometrie (KB) ist ein BMBF-geförderter Verbund
+deutscher Einrichtungen mit bibliometrischer Expertise, der eine Dateninfrastruktur
+pflegt, bereitstellt und darüber hinaus das Fachwissen aus der bibliometrischen Com-
+munity bündelt. 2008 gestartet als Kompetenzzentrum Bibliometrie war zunächst nur
+ein kleiner Kreis von vier Einrichtungen beteiligt.48 Inzwischen wurde das 2022 neu
+formierte Kompetenznetzwerk auf 22 Mitglieder deutscher Hochschulen und For-
+schungseinrichtungen ausgeweitet.49 Diese Entwicklung des zu einem Netzwerk mit
+deutlich größerer Mitgliederzahl belegt nicht nur die wachsende Bedeutung des The-
+mas Bibliometrie in Deutschland, sondern auch einen großen Bedarf an Austausch
+und Information. Denn das Dienstleistungs- und Beratungsangebot des KB ist nicht
+nur auf seine Partner beschränkt, sondern beinhaltet auch den Transfer von Kompe-
+tenzen an Dritte – in Form von Vorträgen, offenen Forschungsseminaren, Analysen,
+Kollaborationen und Beratungen.50 Durch Beiträge von Expert:innen rund um das
+Thema Bibliometrie steht damit auch ein Angebot zur Vertiefung des Fachwissens
+und zum Austausch über aktuelle Themen zur Verfügung.
+
+7 Fazit
+Bibliometrie ist weltweit ein fest verankertes Thema in wissenschaftlichen Bibliotheken
+und auch in zahlreichen Einrichtungen im deutschsprachigen Raum als Angebot prä-
+sent. Als eigenes Forschungsthema ragt es jedoch häufig aus dem bibliothekarischen Ar-
+beitsalltag hinaus und grenzt sich von den Dienstleistungsangeboten der Bibliotheken
+ab. Insbesondere im Bereich der Evaluation von Forschungsleistung ist die Bibliometrie
+mit besonders spezialisierten Anforderungen konfrontiert. Das Dienstleistungsangebot
+der Bibliotheken richtet sich traditionell an die Angehörigen der eigenen Einrichtung:
+Wissenschaftlerinnen und Wissenschaftler, Forschungsabteilungen und Hochschulver-
+waltungen oder auch die Bibliothek selbst können bereits eine Vielfalt von Fragen an
+die Bibliometrieabteilungen herantragen. Für die zuständigen Bibliotheksmitarbeiten-
+den besteht daher der Bedarf nach dem entsprechenden Wissenserwerb und regelmäßi-
+gen Fortbildungen. Wie gezeigt werden konnte, ist das Angebot dazu zwar gewachsen,
+aber noch nicht ausreichend. Insgesamt scheinen die jüngeren Entwicklungen, nämlich,
+
+ Fühles-Ubach u. Albers 2021: S. 472.
+ Die vier Gründungsmitglieder, Institut für Forschungsinformation und Qualitätssicherung iFQ
+(heute DZHW), Universität Bielefeld, Fraunhofer-Institut für System- und Innovationsforschung ISI
+und FIZ Karlsruhe, gehören auch heute noch zu den Netzwerkpartnern.
+ https://bibliometrie.info/forschung/#netzwerkpartner (05.09.2023).
+ https://bibliometrie.info (05.09.2023).
+
+
+
+468 Barbara Scheidt und Andreas Meier
+
+dass in den Bibliotheken eine Expertise rund um das Thema wissenschaftliches Publizie-
+ren (Open Access, Beratung von Autor:innen, Forschungsdaten) entstanden ist, der Biblio-
+metrie in diesem Bereich und damit in den Bibliotheken insgesamt einen festen Platz zu
+garantieren und die Kompetenzen gleichzeitig zu bündeln und auszubauen.
+
+Literatur
+Ball, Rafael (Hrsg.): Handbook Bibliometrics. Berlin: De Gruyter 2021.
+Ball, Rafael: 6.10 Bibliometrische Dienstleistungen. In: Praxishandbuch Bibliotheksmanagement. Hrsg. von
+
+Rolf Griebel, Hildegard Schäffler u. Konstanze Söllner. Berlin: De Gruyter 2014. S. 556–575.
+https://doi.org/10.1515/9783110303261.556.
+
+Ball, Rafael u. Dirk Tunger: Bibliometric analysis – A new business area for information professionals in
+libraries? Support for scientific research by perception and trend analysis. In: Scientometrics 66
+(2006), H. 3, S. 561–577. https://doi.org/10.1007/s11192-006-0041-0.
+
+Bladek, Marta: Bibilometrics Services and the Academic Library: Meeting the Emerging Needs of the
+Campus Community. In: College & Undergraduate Libraries 21 (2014),H. 3–4, S. 330–344. https://doi.
+org/10.1080/10691316.2014.929066.
+
+Cabezas-Clavijo, Alvaro u. Daniel Torres-Salinas: Bibliometric Reports for Institutions: Best Practices in a
+Responsible Metrics Scenario. In: Frontiers in Research Metrics and Analytics, 6 (2021), June, 696470.
+https://doi.org/10.3389/frma.2021.696470.
+
+Costello, L.: Survey of Canadian Academic Librarians Outlines Integration of Traditional and Emerging
+Services. In: Evidence Based Library and Information Practice 15 (2020), H. 3, S. 184–186. https://doi.
+org/10.18438/eblip29789.
+
+Cox, Andrew, Elizabeth Gadd, Sabrina Petersohn u. Laura Sbaffi: Competencies for bibliometrics. In:
+Journal of Librarianship and Information Science 51 (2019), H. 3, S. 746–762. https://doi.org/10.1177/
+0961000617728111.
+
+De Bellis, Nicola: Bibliometrics and citation analysis: from the Science citation index to cybermetrics.
+Lanham, MD: Scarecrow Press 2009.
+
+Gumpenberger, Christian, Martin Wieland u. Juan Gorraiz: Bibliometric practices and activities at the
+University of Vienna. In: Library Management 33 (2012), H. 3, S. 174–183. https://doi.org/10.1108/
+01435121211217199.
+
+May, Monika: Bibliometrie – ein Aufgabengebiet von Bibliotheken? In: Bibliotheksdienst 48 (2014), H. 2,
+S. 132–147. https://doi.org/10.1515/bd-2014-0019.
+
+Petersohn, Sabrina: Professional competencies and jurisdictional claims in evaluative bibliometrics: The
+educational mandate of academic librarians. In: Education for Information 32 (2016), H. 2, S. 165–193.
+https://doi.org/10.3233/EFI-150972.
+
+Prichard, Alan: Statistical Bibliography or Bibliometrics? In: Journal of Documentation 25 (1969), H. 4,
+S. 348–349.
+
+Sollmann, Anett u. Dirk Tunger: Bibliometrie in Bibliotheken: Antworten auf häufige Fragen. In:
+Information – Wissenschaft & Praxis 73 (2022), H. 5–6, S. 237–244. https://doi.org/10.1515/iwp-
+2022-2235.
+
+Stisser, Anna, Najko Jahn u. Birgit Schmidt: Stand und Perspektiven bibliometriegestützter Open-Access-
+Services an Universitäten in Deutschland. In: Bibliothek Forschung und Praxis 46,2 (2022) 275–283.
+https://doi.org/10.1515/bfp-2021-0098.
+
+
+
+5.9 Bibliometrische Dienstleistungen 469
+
+Thelwall, Mike: Bibliometrics to webometrics. In: Journal of Information Science 34,4 (2008) 605–621.
+https://doi.org/10.1177/0165551507087238.
+
+Tunger, Dirk, Carolin Ahnert u. Birgid Schlindwein: Die bibliometrische Anwendercommunity an
+Bibliotheken im deutschen Sprachraum und der Einsatz von Bibliometrie als Dienstleistung in
+Bibliotheken. In: b.i.t.online 23,5 (2020) 509–519.
+
+Warmbrunn, Jürgen: Was ist Bibliometrie und was haben Bibliotheken damit zu tun? In: Bibliometrie –
+Praxis und Forschung 4 (2015) 1–4.

@@ -1,0 +1,933 @@
+﻿Claudia Fabian
+7.2 Erschließungsmanagement im Bereich
+
+kulturelles Erbe
+
+1 Einführung
+Die Erschließung des kulturellen Erbes steht nach wie vor hoch auf der Agenda des wis-
+senschaftlichen Bibliothekswesens, bieten doch die so verstandenen Bestände jene
+Alleinstellungsmerkmale, die dank der guten Kombination von nach wie vor unver-
+zichtbaren Metadaten (Katalogisierung) und immer häufiger über die Imagewiedergabe
+hinaus auswertbaren Digitalisaten der Originale (Digitalisierung) den Ruhm der be-
+standshaltenden Institution nicht nur in der analogen, sondern auch in der Welt der
+Daten und Portale, dem semantischen Universum, sicherstellen. Die Nachfrage und die
+Ansprüche der auf das kulturelle Erbe in seinen vielfältigen Aspekten rekurrierenden
+Wissenschaft wachsen stetig. Sie sind verstärkt auf digitale Nutzung, individuelle Aus-
+wertungs- und eigene Bearbeitungsmöglichkeiten von umfangreichen, möglichst voll-
+ständigen, idealerweise homogen erschlossenen und nach differenzierten Kriterien an
+einem Ort greifbaren Daten ausgerichtet, immer stärker aber auch objekt- undmaterial-
+bezogen interessiert. Bibliothek und Wissenschaft(en) interagieren in der Erschließung
+des kulturellen Erbes im immer stärker gemeinsam genutzten und gestalteten digita-
+len Raum.
+
+Die Bibliotheken, Forschungslabore der Geistes- und Sozialwissenschaften, und
+ihre seit Alters erbrachten Services in Bereitstellung und Erhalt des kulturellen Erbes
+und Zugriff darauf über verschiedene Kataloge, Nachweise und Präsentationen (Er-
+schließung) stehen vor den Herausforderungen nicht nur (nach wie vor) des Erhebens
+und der Bereitstellung von Daten zu ihren Beständen und deren durch neue Frage-
+stellungen und Möglichkeiten hervorgerufenen Erweiterung und Ergänzung, sondern
+immer mehr der Gewährleistung einer Kontextualisierung durch Normierung, Stan-
+dardisierung und Interoperabilität ihrer Daten. Dazu kommt die Generierung neuer,
+relevanter Daten auch durch Verfahren der künstlichen Intelligenz und die Heraus-
+forderungen durch Einbezug und nachhaltige Sicherung der von der Wissenschaft –
+und ggf. anderen Gedächtnisinstitutionen oder der Öffentlichkeit – generierten Daten.
+Dabei sind Art und Umfang des kulturellen Erbes in einer Institution für das Erschlie-
+ßungsmanagement besonders im Hinblick auf die langfristige Verantwortung für den
+bestandsübergreifenden Nachweis ausschlaggebend. Aber auch Anforderungen, die
+sich allein aus der Art des Bestands (und sei er noch so klein oder Teil eines speziellen
+Überlieferungs- und Erschließungskontexts etwa von Archiven und Museen) und des-
+sen institutionsübergreifenden, an der Aussagekraft und Bedeutung des Objekts ori-
+entierten Nachweises als kulturelles Erbe ergeben, sind in den Blick zu nehmen und
+prägen die Herausforderungen an den Nachweis.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-035
+
+
+
+586 Claudia Fabian
+
+2 Was gehört zum kulturellen Erbe?
+Der Begriff „kulturelles Erbe“ ist dabei weit zu verstehen: Es geht nicht nur um Alter,
+Seltenheit und Bedeutung, um jene Bestände, die man gern in Ausstellungen zeigt, son-
+dern in weitem Ansatz um all jene, die als primäre Forschungsquellen für die Wissen-
+schaft von Interesse sind und Wissen und Kultur in ihrer Entwicklung dokumentieren.
+Zum kulturellen Erbe gehören die alten Schriftzeugnisse, Keilschrifttafeln, Papyri, mit-
+telalterliche, aber auch neuzeitliche Handschriften (Codices und Fragmente), Autogra-
+phen, Inkunabeln, Drucke des 16. bis 19. Jahrhunderts. Hier weitet sich der zeitliche
+Rahmen bis zum Erscheinungsjahr 1950, wenn man etwa an die Bedeutung der Welt-
+kriegssammlungen denkt oder die Untersuchungen zu Erwerbungen der NS-Zeit. Die
+heute entstehenden Künstlerbücher zählen genauso wie die in Vor- und Nachlässen
+oder Spezialsammlungen zusammengefassten, vielfältig ausgewählten Materialien
+dazu. Neben der Textüberlieferung, die hier im Vordergrund steht, gehören zum kultu-
+rellen Erbe das visuelle Kulturgut mit Grafik, Fotos, Bildern aller Art, Filmen, das musi-
+kalische mit Noten, Schallplatten, Tonträgern, das kartographische mit Karten, Globen
+etc. Hinzuweisen ist auf die Vielfalt der Datenträger. Immer wichtiger werden Teilas-
+pekte der Objekte selbst, die sich in exemplarspezifischen Besonderheiten zeigen, die
+ihrerseits kontextualisiert werden: Einbände, Wasserzeichen, Provenienzen, Kolorie-
+rungen, Anmerkungen, Fragen des Layouts und der Sammelbände, etc. Sie verweisen
+auf eine individuelle, aber auch kontextualisierbare Sammlungs-, Überlieferungs- und
+auch Erschließungsgeschichte.
+
+Kulturelles Erbe ist keineswegs nur der Vergangenheit zuzuordnen. Auch die Ge-
+genwart birgt Herausforderungen, wenn bedeutende Einzelstücke zum Ankauf anste-
+hen, Sammlungen gezielt ausgebaut werden, größere Bestände über Nachlässe und
+Schenkungen, Auflösungen von Bibliotheken, Archiven und Klöstern in die Obhut
+einer wissenschaftlichen Bibliothek übergehen. Vor allem aber wachsen die neuen
+Formen des kulturellen Erbes: auf digitalen Datenträgern (Disketten, CD-ROM, USB-
+Sticks, Festplatten) oder bereits als genuin elektronische (born digital), aufgrund ihrer
+inhaltlichen Relevanz gesammelte Daten, wie digitale Publikationen, Websites etc.
+Daten entstehen auch durch die Überführung des analogen in digitales kulturelles
+Erbe, was eine substanzielle Erweiterung und Vertiefung der traditionellen Erschlie-
+ßung ermöglicht. Das digitale kulturelle Erbe wächst auch in Forschungsdaten, die in
+vielfältiger Form auf Sammlung und kontinuierliche Kuratierung durch Bibliotheken
+angewiesen sind, was wiederum die Aufgaben im Erschließungsmanagement signifi-
+kant vermehrt.
+
+Zum traditionellen kulturellen Erbe in wissenschaftlichen Bibliotheken gehören
+schließlich nicht nur die einschlägigen Bestände, sondern auch deren (tradierte) Er-
+schließung, also gedruckte oder handschriftliche Kataloge und Verzeichnisse, Zugangs-
+bücher, Repertorien unterschiedlicher Qualität, Ausführlichkeit und Vollständigkeit,
+Beschreibungen in Ausstellungskatalogen und auf Webseiten, auch Datenbanken, For-
+schungsdaten in Nachlässen, Zusammenstellungen von Daten in nationalen und inter-
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 587
+
+nationalen Kontexten. Vieles ist bereits elektronisch erschlossen, manches ist mehr-
+fach erschlossen, anderes wieder wartet noch auf die Hebung durch adäquate
+Erschließung möglichst in Verbindung mit Digitalisierung,1 eine Herausforderung
+für die Bibliotheken und eine dringende Forderung der Wissenschaft.
+
+3 Grundlagen der Erschließung des kulturellen
+Erbes in Bibliotheken
+
+Das Erschließungsmanagement für das kulturelle Erbe ist mit den zeitgemäßen Mög-
+lichkeiten kontinuierlich gefordert und fortzuführen. Es ist gekennzeichnet von Fülle
+und Heterogenität des Materials, von zahlreichen, ebenfalls heterogenen Erschlie-
+ßungsformen und, last but not least, von einer Vielzahl der an diese Materialien zu
+stellenden Fragen. Erschließung bleibt in Verbindung mit den Aufgaben der Bestands-
+erhaltung und erweitert um die Möglichkeiten der Digitalisierung der Originale ein
+Dauerthema. War letztere seit der Jahrtausendwende oft Katalysator für die Erschlie-
+ßung, da die (Image-)Digitalisate für Verwaltung und Nutzung Metadaten benötigen,
+ist sie heute integrativer Bestandteil der Erschließung und erlaubt eine vom physi-
+schen Bestand enthobene, institutionenübergreifende, vielfältige Vernetzung und er-
+weiterten Zugriff. Hier ist vor allem der offene IIIF-Standard2 (International Image
+Interoperability Framework) zukunftsweisend, der die Interoperabilität der Digitalisate
+ermöglicht. Über die Anwendung verschiedener Verfahren der künstlichen Intelligenz
+eröffnet die Digitalisierung neue Tiefendimensionen. Das reicht von der Volltexterken-
+nung der Texte (Optical Character Recognition/OCR und Handwritten Text Recognition/
+HTR) und Noten,3 über Begriffserkennung und -extraktionen (Tagging, Text and Data
+Mining, Named Entity Recognition bzw. Named Entity Extraction) und ihrer Nutzung
+für die Bildung von Thesauri, Wissensgraphen und die Anreicherung von Normdateien.
+Mit der Digitalisierung entsteht auch eine Fülle technischer und rechtlich relevanter
+Daten, deren Bedeutung für das Erschließungsmanagement und die Fragen der Daten-
+provenienz und Vertrauenswürdigkeit zunehmend wahrnehmbar wird. Dabei darf
+nicht übersehen werden, dass es einerseits noch lange (analoge) Bestände geben wird,
+für die eine Digitalisierung nicht in Frage kommt, die aber ebenfalls als relevante Ele-
+mente des kulturellen Erbes in ihrer Erschließung zu berücksichtigen sind, und ande-
+
+ Die DFG hat ihr langjähriges LIS-Förderprogramm „Erschließung und Digitalisierung“ in „Digitalisie-
+rung und Erschließung“ umbenannt; doch können beide Verfahren getrennt gesehen und unabhängig
+voneinander beantragt werden („und/oder“). https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/pro
+gramme/infrastruktur/lis/lis-foerderangebote/digitalisierung-erschliessung (19.06.2024).
+ https://iiif.io/ (25.01.2024).
+ Vgl. dazu die Music Encoding Initiative (MEI): https://music-encoding.org/ (25.01.2024).
+
+
+
+588 Claudia Fabian
+
+rerseits ein born digital kulturelles Erbe entsteht, das es in geeigneter Weise zu erschlie-
+ßen und bewahren gilt.4
+
+Die in allgemeinen und Spezialkatalogen erfassten und verwalteten Daten müssen
+in definierten Formaten an übergreifende Nachweissysteme und Portale, virtuelle For-
+schungsumgebungen, sowie an die Forschung selbst abgegeben und zunehmend für
+Vernetzung und Interoperabilität aufbereitet werden. Dafür ist die Dokumentation der
+Erschließungsrichtlinien wichtig und möglichst im Kontext des umfassend ansetzenden
+Regelwerks Resource Description and Access (RDA) vorzusehen. Im Rahmen des Er-
+schließungsmanagements sind die Entwicklungen der einschlägigen Nachweissysteme
+zu verfolgen. Dabei ist zu fragen, an welchem Ort welche Information besser aufbe-
+wahrt wird, wie Doppelerfassung und Doppelerschließung vermieden werden, welcher
+Datentransfer möglich und nötig ist.
+
+3.1 Erschließung und Nachweis im allgemeinen Katalog
+
+Die Grunderschließung aller Bibliotheksbestände ist heute über den allgemeinen Bib-
+liothekskatalog, mithin in der Regel einen Verbundkatalog und/oder ein lokales
+Bibliothekssystem, möglich. Seit den 1980er Jahren wurden dank der technischen und
+Regelwerks-Entwicklungen nach und nach alle möglichen Sondermaterialien in die-
+sen allgemeinen Nachweis integriert. Ein etabliertes und standardisiertes Datenfor-
+mat (MAchine-Readable Cataloging – MARC), eine flexibilisierte und komfortable
+Datenerfassung, eine gute Anbindung der inhaltlich immer reicheren Normdateien,
+differenzierte Verknüpfungen und Relationen (z. B. mehrbändige Strukturen, Angabe
+von enthaltenen und beigefügten Werken, Relationierungen zu verwandten Werken)
+erlauben die Nutzung der klaren, international kompatiblen Strukturen des allgemei-
+nen Katalogs auch für Sonderbestände des kulturellen Erbes. In Zusammenarbeit von
+Fach- und Erschließungsspezialist:innen können objektspezifische Feldbelegungen de-
+finiert und idealiter über RDA, auf jeden Fall aber intern, gut und nachvollziehbar
+dokumentiert werden. Der jeweilige Sonderbestand sollte klar (etwa durch eine Ko-
+dierung) identifizierbar sein.
+
+Die erfassten Daten sind automatisch in der Benutzeransicht und für die Benut-
+zungsstrukturen verfügbar. Sie gehen als Teil des Gesamtbestands in diesem ver-
+meintlich unter, können aber auch bei einer Suche zufällig mit entdeckt werden. Sie
+können über Sichten und Facetten spezifisch dargestellt werden. Die mit dem Katalog-
+system verbundenen Erwerbungs- und Recherchestrukturen kommen so auch für die
+Sondermaterialien zum Einsatz. Die Anbindung der Standardworkflowtools für die
+
+ Die DFG nennt in ihrem Förderprogramm: Dokumente der handschriftlichen und gedruckten Überlie-
+ferung, nichttextuelle Objektsammlungen inklusive audio- und/oder visueller Medien und auch genuin
+digitale Daten (born digital), bspw. digitale Kunstwerke, digitale Nachlässe (E-Mail-Korrespondenzen
+etc.), Bilddatensätze (z. B. dreidimensional dargestellte Mikro-CT-Daten).
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 589
+
+Digitalisierung ist gewährleistet, sie werden über den allgemeinen Katalog mit biblio-
+graphischen Metadaten versorgt, die wiederum in den Digitalen Sammlungen genutzt
+und in neuer Weise ausgewertet und präsentiert werden können.
+
+Ein erheblicher Mehrwert des Nachweises im allgemeinen Katalog liegt darin,
+dass die hier erfassten Daten des kulturellen Erbes selbstverständlicher Teil der stets
+notwendigen kontinuierlichen Pflege und Weiterentwicklung der Systeme und Ser-
+vices in Präsentation und Export sind. Die Daten stehen für die Datenweitergabe in
+den etablierten, allgemein bedienten Austauschformaten und auch für differenzierte
+Ziele mit eigenem Mapping zur Verfügung. So gelangen sie beispielsweise in den ver-
+bundübergreifenden Datentausch, in den WorldCat von OCLC, in die Heritage of the
+Printed Book Database (HPB)5 des Consortium of European Research Libraries (CERL),
+in die Deutsche Digitale Bibliothek und Europeana. Sie werden als RDF-Triples für das
+World Wide Web (WWW) aufbereitet oder für das Manifest in IIIF genutzt.
+
+Weiterführende Informationen können im allgemeinen Katalog über Katalogan-
+reicherung angebunden werden, als Images oder als indexierte Dokumente, die in
+eine Volltext- oder Freitextsuche integriert werden. Hier bieten sich interessante Op-
+tionen, z. B. die Einbindung von Beschreibungen eines Ausstellungskatalogs oder aus-
+führlicher gedruckter (oder handschriftlicher) Kataloge oder auch konventionell
+geführter Repertorien für Nachlässe. Immer stärker wird die Forderung, auch Einzel-
+aspekte zu einem Objekt bzw. Exemplar detailliert nachzuweisen, z. B. Materialanaly-
+sen, Restaurierungsdokumentationen, aber auch Provenienzen, Informationen zu
+Einbänden, Wasserzeichen, etc. Dabei ist sorgfältig zu prüfen, ob der richtige Ort für
+die Anbindung solcher Informationen der allgemeine Katalog oder nicht doch ein Spe-
+zialkatalog oder Sondernachweis ist, der über Link oder Vernetzung angesteuert wer-
+den kann.
+
+Natürlich erlaubt der allgemeine Katalog neben der Weitergabe von Daten auch
+die Verlinkung bzw. perspektivisch die Vernetzung mit fachspezifischen oder über-
+greifenden Informations-, Nachweis- und Präsentationssystemen. Hierfür sind neben
+den oft implementierten Verfahren wie OpenURL (Open Uniform Resource Locator),
+OAI (Open Archives Initiative) und SRU (Search/Retrieve via URL) die Verwendung
+und maschinelle Auswertung etablierter oder von der Bibliothek definierter Norm-
+nummern (s. Abschnitt 3.4 „Garanten der Interoperabilität“ in diesem Kapitel) von
+zentraler Bedeutung.
+
+Es ist bei Beständen kulturellen Erbes zu entscheiden, ob der Bestand im allgemei-
+nen Katalog einer Bibliothek überhaupt, allein und damit tendenziell vollständig, oder
+als Kurzaufnahme im Hinblick auf einen vertiefter erschließenden Spezialkatalog (s. Ab-
+schnitt 3.2 „Spezialkataloge“ in diesem Kapitel) nachgewiesen wird. Bei aller Bedeutung
+des allgemeinen Katalogs und seinem unbestrittenen Wert für die materialübergrei-
+fende Erschließung des Gesamtbestands einer Institution, ist er für Bestände des kultu-
+
+ https://www.cerl.org/resources/hpb/main (25.01.2024).
+
+
+
+590 Claudia Fabian
+
+rellen Erbes mitunter nicht die gegebene, oft nicht die einzige und schon gar nicht die
+vollständige oder wissenschaftlich einschlägige Erschließung. Das kann bereits bei der
+Definition der Daten für den allgemeinen Katalog eine Rolle spielen, aber auch bei der
+Frage nach dem Ort der Primärerfassung, den Möglichkeiten der Vernetzung und
+schließlich in der Definition von Art und Umfang einer vertieften Erschließung. Gerade
+in den sich abzeichnenden, intensiv vernetzten Kontexten und in Fällen, in denen
+Daten an verschiedene Systeme weitergereicht werden oder es zu einem Objekt ver-
+schiedene Formen der Erschließung in verschiedenen Datenbanken gibt, ist es – vor
+allem für die forschungsrelevante Nutzung von Daten – von zentraler Bedeutung, den
+Ort und den Standard für die Primärerschließung und Pflege von Datensätzen klar zu
+definieren und über Metadaten eindeutig nachvollziehbar festzuhalten.
+
+3.2 Spezialkataloge – Instrumente der Tiefenerschließung
+des kulturellen Erbes
+
+Zahlreiche elektronische Sonder- und Spezialkataloge sind zum Großteil lokal, aber auch
+regional, national, ja sogar international entstanden, um Bestände des kulturellen Erbes
+materialspezifisch adäquat nachzuweisen und verschiedene Nutzungsgruppen mit diffe-
+renzierten Informationen zu bedienen. Oft sind sie aus gedruckten Publikationen hervor-
+gegangen oder in deren Nachfolge entstanden. Sie stehen häufig in besonders enger
+Verbindung zur Wissenschaft, wurden von dieser ins Leben gerufen, begleitet oder umge-
+setzt. Gleichzeitig sind die Bibliotheken Garant einer Partikularinteressen übersteigenden
+Allgemeingültigkeit und Vollständigkeit, einer anschlussfähigen Strukturierung und einer
+belastbaren Nachhaltigkeit. Spezialkataloge haben, sofern sie sich als für eine Community
+einschlägig und ausbaufähig etabliert haben, einen durch einen allgemeinen Katalog
+nicht ersetzbaren Wert, z. B. ein objektspezifisch ausdifferenziertes Format, eine konsis-
+tente, klar definierte Erschließung, etwa in den retrospektiven Nationalbibliographien
+(s. Abschnitt 4.4 „Retrospektive Bibliographien“ in diesem Kapitel). Spezialkataloge entste-
+hen auch neu, um einen sehr spezifischen Erstnachweis bislang nicht oder nicht in dieser
+Hinsicht erschlossener Bestände zu erlauben, wie z. B. für die von der Bayerischen Staats-
+bibliothek erworbenen großen Fotoarchive. Viele Spezialdatenbanken beschäftigen
+sich mit buchhistorisch relevanten Einzelaspekten, wie z. B. Einbänden, Wasserzei-
+chen, Provenienzen.
+
+Eine differenziertere, vertiefte Erschließung des kulturellen Erbes in möglichst
+umfassenden nationalen bzw. auch internationalen Spezialdatenbanken ist statt oder
+in Synergie zu der Erschließung im allgemeinen Katalog unbedingt zu prüfen, da gut
+etablierte, fach-, themen- oder materialspezifische Spezialkataloge Antwort auf diffe-
+renzierte Erschließungsbedürfnisse geben. Hier ist gegebenenfalls der Ort für die An-
+bindung weiterer, noch spezifischerer Sondererschließung. Viele Spezialdatenbanken
+sind mit speziellen Thesauri verbunden, die für die Erschließung und Vernetzung des
+kulturellen Erbes übergreifend von Bedeutung sind. Hierbei ist eine intellektuelle und
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 591
+
+oft integrierte Nutzung der Gemeinsamen Normdatei (GND) bzw. die Definition von
+Zuständigkeiten in der Komplementarität wichtig.
+
+Kleinere, individuelle Spezialkataloge sind hingegen immer wieder auf ihre Exis-
+tenzberechtigung zu hinterfragen und in größere Einheiten, den allgemeinen Katalog
+oder einschlägige Spezialkataloge, zu integrieren, da jede Spezialdatenbank einer kon-
+tinuierlichen Betreuung und Pflege, vor allem im Hinblick auf Erweiterungen, Aktua-
+lisierung und Datenmigration bedarf, da sie sonst der Obsoleszenz anheimfällt. Eine
+nachträgliche Integration der Daten vor allem in den allgemeinen Katalog oder Spezi-
+alkataloge ist ein üblicher,6 aber durchaus aufwendiger Weg, bei dem gegebenenfalls
+auch Datenverluste hinzunehmen sind.
+
+Gepflegte, materialspezifisch effizient arbeitende Spezialdatenbanken sind idealiter
+institutionenübergreifend kooperativ zu betreiben, im Hinblick auf Pflege, Ausbau und
+Aktualisierung zu finanzieren und nachhaltig zu pflegen. Sie sind durch die Vernetzung
+und eine Verbindung, die weit über das traditionelle Verlinken hinausgeht, in der Welt
+der Linked (Open) Data zusammen mit allgemeinen Katalogen als gemeinsames seman-
+tisches Netz zu verstehen, zu nutzen und zu präsentieren. Diese Interaktion in der
+Cloud, die strukturell von Bibliotheksseite her definiert und durch Interoperabilität
+immer besser ermöglicht werden kann, erlaubt einerseits individuell verschiedene Be-
+nutzerinteressen zu verfolgen, stellt andererseits aber vor große Herausforderungen
+im Bereich der Präsentation und des souveränen Umgangs mit Daten. Dabei wachsen
+Erzeuger- und Nutzerseite, Bibliothek und Wissenschaft, aber auch die Bestände ande-
+rer Institutionen wie Archive und Museen immer stärker zusammen.
+
+Das sich in immer neuen Fragestellungen entwickelnde Interesse verschiedener
+wissenschaftlicher Ansätze an differenzierteren Auswertungen und den Aufbau ver-
+schiedener virtueller Forschungsumgebungen stellt vor die Herausforderung, die vor-
+handenen qualitätsvollen Daten, die als Forschungsdaten verstanden werden können,
+in geeigneter, nachnutzbarer und vernetzbarer Form aufzubereiten. Die Spezialdaten-
+banken haben die Aufgabe und das Potenzial, die bibliothekarische Erschließung inte-
+grativen Teil der (nationalen) Forschungsdateninfrastruktur (NFDI) werden zu lassen,
+deren Ziel es ist, „die Datenbestände von Wissenschaft und Forschung systematisch
+[zu] erschließen, nachhaltig [zu] sichern und zugänglich [zu] machen sowie (inter-)na-
+tional [zu] vernetzen“.7
+
+ Man denke nur an die Integration früher getrennter Altbestandsdatenbanken oder Sonderdaten-
+banken für Werke in nicht-lateinischen Schriften in den allgemeinen Nachweis, die sukzessive Erwei-
+terung der Zeitschriftendatenbank (ZDB) oder die Erschließung von Musikalien in RISM.
+ https://www.dfg.de/foerderung/foerderinitiativen/nfdi/ (23.05.2023).
+
+
+
+592 Claudia Fabian
+
+3.3 Sammlungen und Provenienzen
+
+Unter dem Vorzeichen der Sammlungen und Provenienzen rücken neben den Einzel-
+objekten und Ausgaben, denen vor allem bei Drucken traditionell die Aufmerksam-
+keit der Erschließung galt, auch verschieden konstituierte, oft auf mehrere Orte
+verteilte, thematisch, materialspezifisch auch übergreifend definierte Ensembles in
+das Blickfeld der Erschließung. Für die Definition von Sammlungen können Erschlie-
+ßungsdaten eine wichtige Rolle spielen, z. B. eine historisch relevante Sacherschlie-
+ßung. Auch aus anderen, kodierten oder mit Normdaten verknüpften Informationen
+können Sammlungen abgeleitet werden, man denke nur an die Personennamen, an
+Titel, Drucker:innen und Verleger:innen. Vor allem aber werden Provenienzen neu
+gewürdigt und fordern vor allem die bislang ausgabenspezifisch definierte Erschlie-
+ßung im Bereich der Drucke heraus. Immer wichtiger werden Provenienzen für die
+Rekonstruktion von alten Bibliotheken, von Institutionen und Personen genauso wie
+für die Ermittlung unrechtmäßig erworbenen Kulturguts. Provenienzen als besitzer-
+spezifische Merkmale dürfen nicht nur in lokalen Katalogen nachgewiesen werden,
+sie müssen auch übergreifend suchbar sein und mit Normdatensätzen verknüpft wer-
+den; ein eigenes MARC-Feld, das diese Verknüpfungen erlaubt, wurde 2023 definiert.
+Wegweisend ist hier der CERL-Thesaurus, der Provenienzen eigens markiert und
+katalogübergreifende Suchen erlaubt. Der T-PRO-Thesaurus der Provenienzbegriffe
+stellt eine einheitliche Nomenklatur in diesem Bereich zur Verfügung.
+
+3.4 Garanten der Interoperabilität – Normnummern
+und Normdaten
+
+Angesichts der vielfältigen Möglichkeiten der Verlinkung und Vernetzung spielen Norm-
+nummern eine immer wichtigere Rolle. Sie sind im Bereich des kulturellen Erbes ver-
+gleichsweise gut etabliert. Schon die ersten Normdateien galten der Vereinheitlichung
+von Orts- und Körperschaftsnamen, gefolgt von den Personennamen des Mittelalters
+und der Antike. Heute gibt es Normnummern für zahlreiche Aspekte des kulturellen
+Erbes, oft handelt es sich dabei um Identifikationsnummern von Spezialkatalogen. Ein-
+zelne Objekte können genauso mit Objektidentifikatoren definiert werden, wie Samm-
+lungen und die Manifestationen (Ausgaben) von Werken. Letzteres ist anhand der
+bibliographisch redigierten Verzeichnisse eine bibliothekarisch wichtige Infrastruktur-
+maßnahme, die die verschiedenen Ausgaben historischer Drucke klar greifbar macht. So
+können sie – wieder in bestandsübergreifenden Strukturen – etwa mit differenzierten
+Angaben zu einem Exemplar oder auch – aus immer einem konkreten Exemplar gewon-
+nenen – Volltexten verknüpft werden. Für unikale Materialien, vor allem Handschriften
+und Nachlässe, können Identifier auch zunächst temporär von der besitzenden Biblio-
+thek, z. B. durch Nutzung der Signaturen, festgelegt werden.
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 593
+
+Die Definition und vor allem die Nutzung von Normnummern ist für die Visibilität
+des eigenen Bestands über verschiedene Nachweis- und Zugriffsysteme von zentraler
+Bedeutung. Dabei sind immer öfter die verschiedenen etablierten Identifikatoren für
+gleiche Entitäten untereinander zu vernetzen. Im Hinblick auf die Interoperabilität und
+eine semantische Vernetzung, die über das Erfassen fester Links oder die systemspezifi-
+sche Definition fester Suchverbindungen hinausgeht, muss diesen Identifikatoren nun
+größte Aufmerksamkeit, sorgfältige Pflege und technische Entwicklung zukommen, um
+das hier angelegte Potenzial ausschöpfen zu können.
+
+Für die differenzierte Erschließung des kulturellen Erbes sind die vorhandenen
+Normdateien, insbesondere die GND, zu nutzen und sukzessive auszubauen und an-
+zureichern. Fach- und materialspezifische eigene Thesauri und Ontologien sind – so-
+weit erforderlich oder fachlich geboten – komplementär und bestmöglich mit der
+GND und den spezifischen Nachweissystemen verknüpft, aufzubauen, zu pflegen und
+wo immer möglich mittel- bzw. langfristig dem überregionalen Nachweis zuzuführen
+oder als solcher zu etablieren.
+
+Bei all dem gilt: Die Nutzung von spezifischen, überregional und international de-
+finierten und akzeptierten Ontologien bzw. logischen Datenmodellierungen bei der
+Erschließung ist jeder individuellen Logik und Terminologie vorzuziehen. Gerade in
+diesem Bereich sind Weiterungen und Ergänzungen über die Verfahren der künstli-
+chen Intelligenz und Extraktionen von Informationseinheiten aus Volltexten schon
+heute an der Tagesordnung. Synergien mit Forschungsprojekten stellen vor Heraus-
+forderungen in der Datenverwaltung, versprechen aber eine signifikante Erweiterung
+der bibliothekarischen Erschließung.
+
+3.5 Bilderschließung und Materialität
+
+Von der Digitalisierung profitiert nicht nur die Text-, sondern auch die Bilderschlie-
+ßung. Neben der Entwicklung automatisierter Bilderkennung, wie sie z. B. in dem Por-
+tal bavarikon8 integriert ist, sind traditionellere Erschließungsverfahren, wie etwa die
+Anwendung von Iconclass, zu berücksichtigen und für die Suche einzubinden. Eine
+Verbindung geleisteter Erschließung mit den Ergebnissen automatisierter Bildsuche
+könnte eine wirksame Verbesserung der Informationen zum kulturellen Erbe bieten.
+Zu denken wäre hier etwa an die Analyse der Provenienzen, z. B. über eingeklebte
+Exlibris, die Vergleiche von Einbänden oder die Untersuchung von Drucker- und Ver-
+legermarken. In diesen über Bilderkennung vorstrukturierbaren Bereichen können
+auch Verfahren des Crowdsourcing und von Citizen Science wirkungsvoll eingesetzt
+werden.
+
+ https://www.bavarikon.de/ (25.01.2024).
+
+
+
+594 Claudia Fabian
+
+Eine gewisse Tendenz zur Musealisierung des kulturellen Erbes und die Dynamik
+der technischen Möglichkeiten lenken in Verbindung mit der Digitalisierung auch ver-
+mehrtes Interesse auf Materialität und individuelle Merkmale der Objekte. Die Digitali-
+sierung sowie Verfahren der Thermographie und Spektroskopie, erlauben eine zuvor
+nicht denkbare Detailanalyse und einen vertieften Detailvergleich. So werden aber
+auch Fragen nach bislang oft nicht beschriebenen Merkmalen aufgeworfen: vom ge-
+nauen Format angefangen bis zur Lagenformel, den Wasserzeichen und Palimpsesten.
+
+3.6 Kulturportale – Schaufenster der Gedächtnisinstitutionen
+
+Der oft beschworene Wandel der Erschließungssysteme vom Nachweis zum Zugriff löst
+das kulturelle Erbe aus der kleinen, elitären Community von Wissenschaft und For-
+schung, deren Ansprüche traditionell die Erschließung prägte, macht es über das Inter-
+net der breiten Öffentlichkeit mit ihren vielfältigen Interessen zugänglich, die andere
+Bedürfnisse hat, mehr Erklärungen und bessere Kontextualisierung erwartet. Die Wei-
+tergabe der Erschließungsdaten an einschlägige Kulturportale erhöht seine Wahrnehm-
+barkeit, Auswertbarkeit und gesamtgesellschaftliche Relevanz. Kulturportale sind heute
+in ihren Optionen vom Erschließungsmanagement unbedingt mit zu berücksichtigen.
+Hier trifft das in den Bibliotheken vorhandene kulturelle Erbe auf die in Archiven, Mu-
+seen und anderen Gedächtnisinstitutionen verwalteten Kulturgüter. Kurze, allgemein
+verständliche Präsentationstexte für das einzelne Objekt sind genauso vorzusehen wie
+eine bessere Auswertung und Darstellung der Sacherschließung, der chronologischen
+und geographischen Ein- und Zuordnungen oder auch sinnvolle Angebote der Mehr-
+sprachigkeit. Den Weg weisen hier die Kulturportale wie die nicht mehr weiter ge-
+pflegte World Digital Library,9 Europeana,10 die Deutsche Digitale Bibliothek,11 vor
+allem aber eine Vielzahl lokaler, regionaler oder fachlicher Portale. Hier ist auch der
+bislang bevorzugte Ort für die Präsentation von 3D-Digitalisierungen, die zunehmend
+auch im Bibliotheksbereich eine Rolle spielen. Damit entstehen neue Synergien und
+Herausforderungen in der institutionenübergreifenden Vernetzung und zeitgemäßen
+Aufbereitung der über adäquate Austauschformate (Mappings) bereitgestellten Erschlie-
+ßungsdaten. Hier entwickeln sich neue Formen der Interaktion mit dem kulturellen
+Erbe, die auch seiner vertieften oder sogar erstmaligen Erschließung zugutekommen
+können. Crowd Sourcing und Citizen Science sind Stichwörter für oft schon erprobte Ver-
+fahren partizipativer Methoden, die in der Rezeption der Ergebnisse durch die Bibliothe-
+ken das Erschließungsmanagement herausfordern.
+
+ https://www.loc.gov/collections/world-digital-library/about-this-collection/ (25.01.2024).
+ https://www.europeana.eu/de (25.01.2024).
+ https://www.deutsche-digitale-bibliothek.de/ (25.01.2024).
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 595
+
+4 Spezialkataloge für Handschriften und Alte
+Drucke als Beispiele für bestandsübergreifende
+Tiefenerschließung
+
+Als Beispiele für große Spezialdatenbanken seien das Handschriftenportal, Kalliope,
+die Erschließung der Inkunabeln und die retrospektiven Bibliographien der im deut-
+schen Sprachraum erschienenen Drucke, VD 16, VD 17 und VD 18, in einer gegenüber
+der ersten Auflage des Praxishandbuchs aktualisierten Kurzform dargestellt. Manche
+dieser Spezialdatenbanken sind aus ursprünglich gedruckt veröffentlichten Katalogen
+entstanden und weniger von dem bibliothekarischen MARC-Format als von XML-
+Strukturen der Text Encoding Initiative (TEI) oder der Encoded Archival Description
+(EAD) geprägt. Sie sind somit in der Lage, sehr umfangreiche, wissenschaftliche Be-
+schreibungen der Tiefenerschließung zu verwalten.
+
+4.1 Handschriftenportal in Nachfolge von Manuscripta
+Mediaevalia
+
+Seit Ende 2015, mit einer ersten Projektphase seit 2018, löst das Handschriftenportal12
+die seit 1996 mit Förderung der Deutschen Forschungsgemeinschaft aufgebaute Hand-
+schriftendatenbank Manuscripta Mediaevalia ab. Es darf als derzeit innovativste Umset-
+zung im Erschließungsmanagement des kulturellen Erbes gesehen werden. Kernstück
+ist das Kulturobjektdokument (KOD) für eine Handschrift, ein unikales, mit Kerndaten
+beschriebenes und einem (eindeutigen und interoperablen) Identifier versehenes Ob-
+jekt. In der FRBR-Welt (Functional-Requirements-for-Bibliographic-Records-Welt) ein
+Exemplar bzw. eine Manifestation, von der es nur ein Exemplar gibt; in der GND-Welt
+ein Schriftdenkmal. Das KOD kann mit verschiedenen Beschreibungen und Digitalisaten
+verknüpft und annotiert werden. Der objektbezogene Identifier, der auf internationaler
+Ebene über einen in Planung befindlichen ISMI (International Standard Manuscript
+Identifier) definiert werden kann, soll sich als zentrales Normdatum für die Interopera-
+bilität unikaler Objekte (individueller Exemplare) im semantischen Netz erweisen.
+
+Im Handschriftenportal werden bereits vorliegende Beschreibungen aus Manu-
+scripta Mediaevalia und gedruckten Handschriftenkatalogen aufgenommen und zur
+Anzeige gebracht. Die wichtige Öffnung auf neuzeitliche Handschriften und der zen-
+trale Nachweis weiterer Handschriften, vor allem solcher, die im Rahmen des Master-
+plans Digitalisierung13 oder anderer Initiativen digitalisiert sind, wird vollzogen. Neben
+
+ https://handschriftenportal.de/ (25.01.2024).
+ https://handschriftenzentren.de/wp-content/uploads/2016/06/Priorisierungsfragen-Masterplan_pub.
+pdf (25.01.2024).
+
+
+
+596 Claudia Fabian
+
+der ganz auf IIIF basierenden Präsentation wird eine Erfassungskomponente bereitge-
+stellt, die von Bibliotheken und Wissenschaft bedient werden kann. Eine Vielzahl von
+handschriftenspezifischen Daten wird über Normdatenverknüpfung oder zum Teil auf-
+zubauende Thesauri interoperabel erschlossen. Die Forschung kann annotieren und
+virtuelle Sammlungen anlegen. Die Vernetzung zu anderen Forschungsumgebungen,
+Datenbanken und Portalen, vor allem dem Akademienprojekt Handschriftencensus,14
+aber auch dem Wasserzeicheninformationssystem,15 der Einbanddatenbank,16 elektro-
+nischen Forschungsdokumentationen etc. ist vorgesehen.
+
+Auch andere Portale, wie das Répertoire international des sources musicales
+(RISM),17 das Musikquellen in einer fachspezifischen, international akzeptierten Da-
+tenbank beschreibt, oder Qalamos,18 das sich parallel zum Handschriftenportal für
+den Nachweis orientalischer und asiatischer Handschriften etabliert, und natürlich
+Kalliope (vor allem im Hinblick auf die neuzeitlichen Handschriften) werden in die-
+sem Kontext als ergänzende Ressourcen im Blick behalten. Der von der Sache her ge-
+gebene exemplarspezifische Ansatz dieses Portals kann auch zu Vernetzungen in die
+Welt der Drucke führen, wenn etwa wie auch bisher in Handschriftenkatalogen illu-
+minierte Inkunabeln oder von Hand illustrierte Drucke späterer Zeit in ihrer kunst-
+historischen Bedeutung beschrieben werden.
+
+Der Neuaufbau des Portals sieht in der laufenden zweiten Projektphase auch eine
+Neudefinition der DFG-Richtlinien für die Handschriftenerschließung vor. In Arbeit
+ist auch die Dokumentation der handschriftenspezifischen Erschließungsregeln im
+Kontext des RDA-basierten DACH-Erschließungshandbuchs.19
+
+4.2 Kalliope
+
+Die nationale Datenbank für Nachlässe und Autographen Kalliope20 wurde in Fortfüh-
+rung der 1966 gegründeten Zentralkartei der Autographen (ZKA) mit Förderung
+durch die Deutsche Forschungsgemeinschaft von der Staatsbibliothek zu Berlin entwi-
+ckelt und wird seither von ihr gepflegt und heute in einem kooperativen Verbund
+fortgeführt. Neben der vollumfänglichen Abbildung der EAD-Strukturen sieht die Da-
+tenbank Kurznachweise für den Nachlass als Ganzes, die Anlage einer groben, hierar-
+chisch gegliederten und sukzessive differenzierbaren Struktur sowie die Erfassung
+von Einzelbriefen als Einzelaufnahmen vor. Auch können Links auf andere Informa-
+
+ https://handschriftencensus.de/ (25.01.2024).
+ https://www.wasserzeichen-online.de/wzis/index.php (25.01.2024).
+ https://www.hist-einband.de/ (25.01.2024).
+ https://rism.info/ (25.01.2024).
+ https://www.qalamos.net (25.01.2024).
+ https://blog.dnb.de/das-rda-erschliessungshandbuch-fuer-dach-bibliotheken/ (25.01.2024).
+ https://kalliope-verbund.info/ (25.01.2024).
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 597
+
+tionssysteme auf Basis der bereits unter dem Vorzeichen RDA aktualisierten Regeln
+für Nachlässe und Autographen (RNAB) erfasst werden. Besonders wichtig ist die Ver-
+knüpfung mit Personen- und Körperschaftsnormdaten unter Nutzung der GND. Die
+Weiterentwicklung des Präsentations- und Erfassungssystems und die Einbindung der
+Daten in andere Informationsumgebungen und Portale, z. B. das Schott-Portal,21 wer-
+den aktiv betrieben. Als einschlägiges Informationssystem für Nachlässe und Autogra-
+phen ist Kalliope gut bekannt und wird intensiv genutzt. Gerade angesichts der oft
+auf mehrere Institutionen verstreuten Nachlassteile ist die zentrale Verwaltung in
+einem übergreifenden, in weitere internationale und nationale Kontexte eingebunde-
+nen Datenpool angezeigt.
+
+Die Anbindung von Digitalisaten von Nachlassmaterialien ist noch deutlich ausbau-
+fähig. So erstrebenswert diese Digitalisierung, die in verschiedenen Projekten erprobt
+wird, ist, so sehr sind gerade diese Materialien im Hinblick auf urheberrechtliche Gren-
+zen und Fragen des Persönlichkeitsrechts problematisch. Auch scheitert sie oft an der
+bisherigen unvollkommenen Erschließung und Sichtung dieses sehr beweglichen, zu-
+nächst in eine verbindliche Ordnung zu bringenden Materials. Fragen des Sammelns
+und der Erschließung von genuin elektronischen Vor- und Nachlässen stehen im Hin-
+blick auf das genuin digitale kulturelle Erbe weiter an.
+
+4.3 Inkunabeln
+
+Seit über 200 Jahren hat die Inkunabelkunde ihr Augenmerk auf die frühesten Er-
+zeugnisse der Druckkunst, die zwischen 1450 und 1500 gedruckten Werke gelenkt. Seit
+1904 wird von der Staatsbibliothek zu Berlin der Gesamtkatalog der Wiegendrucke
+(GW) erarbeitet. Hier stehen die genaue Textanalyse, die Beschreibung der Druckty-
+pen und die Analyse der Druckverfahren im Vordergrund. Seit 2003 ist die Online-
+Datenbank zugänglich.22 Sie bietet zeitgemäße Neuerungen und Erweiterungen, so In-
+cipit- bzw. Initienregister, Georeferenzierung von Druckern und neuerdings einen
+Blog und ein Typenrepertorium.
+
+Seit den 1980er Jahren werden die weltweit vorhandenen Inkunabeln in der von
+der British Library betreuten Datenbank des Incunabula Short Title Catalogue (ISTC)23
+verzeichnet. Die von 1988 bis 2013 von der Deutschen Forschungsgemeinschaft geför-
+derte deutsche Redaktionsstelle ist an der Bayerischen Staatsbibliothek angesiedelt.
+Der ISTC bietet eine normierte bibliographische Kurzbeschreibung für die Ausgabe.
+Sie ist über die ISTC-Nummer eindeutig adressierbar. Für jede besitzende Institution
+werden die Zahl und der Status der zugehörigen Exemplare genannt, eine Erweite-
+
+ https://schottarchiv-digital.de/ (25.01.2024).
+ https://www.gesamtkatalogderwiegendrucke.de/ (25.01.2024).
+ https://data.cerl.org/istc/_search (25.01.2024).
+
+
+
+598 Claudia Fabian
+
+rung um Signaturen ist vorgesehen. Im ISTC sind auch Links auf digitalisierte Inkuna-
+beln über die ISTC-Nummer anzubinden, was auch im GW möglich ist. Für alle Bib-
+liotheken gilt, dass der Eintrag ihres Bestands im ISTC aktuell zu halten ist. Diese
+international solide ausgabenspezifische Aufbereitung der Inkunabeln mit eingeführten
+Identifiern, die allerdings noch interoperabel aufbereitet werden müssen, ergänzt
+eine reiche, wissenschaftsrelevante Tradition der exemplarspezifischen Erschließung,
+z. B. der Bayerischen Staatsbibliothek (BSB) für ihren weltweit an Exemplaren umfang-
+reichsten Inkunabelbestand in BSB-Ink. Er verzeichnet neben den Signaturen die Aus-
+stattung, beigebundene Werke, Provenienzen, Einband und Druckvarianten. Auch die
+BSB-Ink-Nummern, für die Ausgabe und individuell für jedes Exemplar, können als
+Normnummern im Bereich der Inkunabeln verstanden werden. Im Rahmen eines Digi-
+talisierungsprojekts wurden 2008 aus BSB-Ink abgeleitete Aufnahmen für Inkunabeln
+in den allgemeinen Katalog manuell transferiert. Hier sind neben der BSB-Ink-Nummer
+für die Ausgabe auch die ISTC- und GW-Nummern als Normnummern erfasst.
+
+Die Inkunabeln machen die weiteren zeitgemäßen Herausforderungen des Erschlie-
+ßungsmanagements ganz deutlich. Ein 2022 von der DFG initiiertes Rundgespräch konzen-
+trierte sich auf die Herausforderungen der exemplarspezifischen Digitalisierung und
+Erschließung sowie der forschungsinduzierten Anforderungen für Digitalisierung, Exem-
+plarerschließung und Volltexterkennung.24 Da die für Inkunabeln wichtigen, exemplar-
+spezifischen Informationen weder im ISTC noch im GW erfasst werden, entwickelten sich
+zahlreiche Sonderkataloge, die über das nun abzulösende Inkunabelportal INKA in
+Deutschland zusammengefasst wurden. Die aus einem und für ein Forschungsprojekt ent-
+standene internationale Datenbank Material evidence in incunabula (MEI),25 die das Con-
+sortium of European Research Libraries in engem Konnex zum ISTC, aus dem die
+bibliographischen Daten abgeleitet werden, aufbaut, hostet und pflegt, beschäftigt sich
+mit der Provenienzgeschichte, die sich in individuellen Merkmalen spiegelt.
+
+4.4 Retrospektive Bibliographien der im deutschen Sprachraum
+erschienenen Drucke: VD 16 und VD 17
+
+Das in den 1950er Jahren von der IFLA entwickelte Konzept des Universal Bibliographic
+Control wurde auch im Hinblick auf retrospektive Nationalbibliographien verfolgt. Seit
+Beginn der Förderung des VD 16 durch die DFG im Jahr 1969 ist Deutschland in diesem
+Bereich aktiv. Das VD 16 verzeichnet die im deutschen Sprachbereich erschienenen Dru-
+cke mit Erscheinungsjahren 1501 bis 1600, jedoch keine Einblattdrucke und sehr unvoll-
+ständig deutschsprachige Drucke, die außerhalb des deutschen Sprachbereichs gedruckt
+wurden. Die von 1983 bis 2004 publizierte Buchausgabe wurde seit 1999 sukzessive in
+
+ Vgl. Sommer, Fabian, Reif u. Düsterhöft 2022.
+ https://www.cerl.org/resources/mei/main (25.01.2024).
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 599
+
+eine kontinuierlich gepflegte, erheblich zunächst um den Supplementbestand, dann
+durch Nachmeldungen erweiterte Datenbank überführt, die seit 2006 als ALEPH-
+Datenbank geführt wird und über Gateway Bayern zu konsultieren ist.26 Pflege und
+Fortführung des VD 16 sind allein der Bayerischen Staatsbibliothek anvertraut. Die
+Erschließungsregeln sind aufgrund der Genese (noch vor RAK und MAB) und des
+Transformationsprozesses der Bibliographie zum Teil VD16-spezifisch individuell.
+
+Das VD 17, die Nationalbibliographie für Drucke von 1601 bis 1700 (inklusive Einblatt-
+drucke und deutschsprachige Drucke des Auslands) entstand seit 1996 als eigene Daten-
+bank unter Nutzung der Strukturen des nationalen Regelwerks und Datenformats mit
+Erweiterungen um eine Sacherschließung mit eigens definierten Gattungsbegriffen, den
+Fingerprint und normierte Angaben von Orten und Druckern. Schlüsselseiten wurden
+für jede Ausgabe anhand des ersten katalogisierten Exemplars digitalisiert. Die Daten-
+bank wird von der Verbundzentrale des Gemeinsamen Bibliothekverbunds in Göttingen
+(VZG) gehostet,27 die Fortführung ist den drei Trägerbibliotheken, der Staatsbibliothek zu
+Berlin, der Bayerischen Staatsbibliothek und der Herzog August Bibliothek in Wolfenbüt-
+tel anvertraut.
+
+Für den Aufbau von VD 16 und VD 17 wurden die einschlägigen Bestände ganzer
+Bibliotheken autoptisch rekatalogisiert, unabhängig von dem Nachweis der Titel in
+den Verbundkatalogen. Die Meldung neuer, d. h. bislang nicht nachgewiesener Titel
+und anhand der Bibliographien geprüfter Bestände, wird intensiv angeworben und
+hat sich als wissenschaftliches Desiderat erwiesen.
+
+Eine VD16- bzw. VD17-Nummer wird in diesen Spezialdatenbanken für die national-
+bibliographische Masteraufnahme vergeben. Diese gut etablierten Normnummern kön-
+nen in den allgemeinen Katalogen nach intellektuellem Datenabgleich als Normnummer
+verzeichnet werden. Die Normnummer sollte ursprünglich einmal zur Zusammenfüh-
+rung (ggf. auch Überschreibung bzw. Ergänzung) von Titelaufnahmen dienen, derzeit
+spielt sie eine wichtige Rolle im Datentransfer und in der Verlinkung aus den allgemei-
+nen Katalogen zur Nationalbibliographie. Die Interoperabilität dieser Nummern und der
+Hinweis auf die Qualität der jeweiligen Aufnahme, in der die Nummer vorhanden ist
+(Masteraufnahme der Originaldatenbank VD 16 bzw. VD 17 – oder Katalogaufnahme mit
+Verweis auf die Masteraufnahme) sind im Hinblick auf die Vernetzung und Nachnut-
+zung durch die Forschung weiter zu verfolgen. Weitere Bestandsdaten und Links auf Di-
+gitalisate können über die Normnummer in die Verzeichnisse eingespielt werden. Die
+Digitalisierung der Originale förderte Stellenwert, Aktualität und Zukunftsdimensionen
+der retrospektiven Bibliographien. Seit Februar 2006 unterstützte die DFG die Digitalisie-
+rung der im VD 16 nachgewiesenen Drucke, die Erweiterung des VD 17 um Links auf
+Volldigitalisate wird im Rahmen des 2010 erstellten Masterplans fortgeführt. Die retro-
+spektiven Bibliographien erlauben eine gezielte Digitalisierung unter Vermeidung von
+
+ https://bvbat01.bib-bvb.de/TP61/start.do?View=vd16&SearchType=2 (25.01.2024).
+ http://www.vd17.de/ (25.01.2024).
+
+
+
+600 Claudia Fabian
+
+Mehrfachdigitalisierung identischer Ausgaben und können somit als strukturgebende
+Wegweiser durch das digitale Universum genutzt werden.
+
+Ein DFG-gefördertes Rundgespräch im Jahr 2021 hat – fokussiert auf das VD 17 – die
+weiteren Aufgaben und Ansätze der bibliographischen Erschließung im Hinblick auf die
+Bedarfe der Forschung hervorgehoben.28 Dabei wurde auf die Bedeutung der Ergänzung
+noch nicht erschlossener Bestände genauso hingewiesen wie auf die der Qualitätskon-
+trolle, die Anbindung differenzierter exemplarspezifischer Erschließung, die Generierung
+von Volltexten, die Bereitstellung der Daten für die Forschung und die Kontextualisie-
+rung auch jenseits der Grenzen des jeweiligen Verzeichnisses in übergreifenden Suchen
+und Suchräumen. Dabei darf nicht aus dem Blick verloren werden, dass die Digitalisate,
+die derzeit über Links bei den Ausgaben nachgewiesen sind, in Wirklichkeit Exemplare
+wiedergeben. Auch die hier aufsetzende OCR-Erfassung ist exemplargebunden, wie in
+Verbindung der Projekte OCR-D und Zukunft der VD betont wurde.
+
+Die Daten der Nationalbibliographien sind auch im Hinblick auf Culturegraph
+und die GND auszuwerten, findet man hier doch z. B. einen guten Zensus sämtlicher
+im 16. bzw. 17. Jahrhundert im deutschen Sprachraum entstandenen Werke, eine ide-
+ale Grundlage für die Generierung einschlägiger Werknormsätze.
+
+4.5 VD 18
+
+Dank seines späten Entstehens ab 2009 bzw. 2014 wurde das VD 18 von Anfang an
+nicht nur als retrospektive Bibliographie, sondern auch als digitale Bibliothek der
+deutschen Drucke des 18. Jahrhunderts konzipiert. Im Prinzip soll jede Ausgabe nur
+anhand eines Exemplars redaktionell auf nationalbibliographischem Niveau in Anleh-
+nung an die Prinzipien des VD 17 verzeichnet, dieses Exemplar auch digitalisiert, mit
+gewissen Strukturdaten, perspektivisch auch Volltexten versehen und im Internet be-
+reitgestellt werden.
+
+Vom Erschließungsverfahren her beschritt das VD 18 neue Wege. Über eine Koor-
+dinierungsdatenbank wurden die in den Verbundkatalogen vorhandenen Aufnahmen
+in ihrer Relevanz für das VD 18 identifiziert, vermeintlich identische Ausgaben über
+eine aufwendig programmierte Ähnlichkeitsprüfung in Sets zusammengefasst und
+die Redaktions- und Digitalisierungslast unter Vorrang der von der Bayerischen
+Staatsbibliothek im Rahmen der Public-Private-Partnership mit Google digitalisierten
+Titel möglichst gleichmäßig auf die mitwirkenden Bibliotheken verteilt. Über die
+Koordinierungsdatenbank wurden auch vorläufige VD18-Nummern vergeben, eine
+identische Grundnummer mit unterschiedlichen dreistelligen Suffixen je nach Zahl
+der Titelaufnahmen in einem Set. Ist die Aufnahme redigiert, wird das Suffix der
+VD18-Nummer entfernt, VD18-Nummern ohne Suffix sind also verbindliche national-
+
+ Vgl. Beyer, Bubenik u. Scheibe 2022.
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 601
+
+bibliographische Normnummern. Die redigierten und mit Volldigitalisaten versehe-
+nen Aufnahmen werden im nun von der SUB Göttingen bereitgestellten VD18-Portal,29
+das auf der Koordinierungsdatenbank aufsetzt, nachgewiesen.
+
+Für das VD 18 waren erstmals Zeitschriften und Zeitungen in ihren vielfältigen,
+das Jahrhundert besonders prägenden Formen, speziell zu beachten. Daraus ergab
+sich eine intensive Partnerschaft mit der Zeitschriftendatenbank (ZDB). Das VD 18 ist
+geprägt durch den Verzicht auf eine eigene Katalogisierungsdatenbank, doch ist die
+ursprünglich geplante Verbunddurchdringung noch nicht überzeugend und zeigt,
+welch intensive Betreuung solche zentralen Projekte trotz verbesserter Datenstruktu-
+ren benötigen.
+
+5 Die Zukunft des Erschließungsmanagements für
+das kulturelle Erbe: Herausforderung des
+Datenmanagements
+
+Das Erschließungsmanagement im Bereich kulturelles Erbe wird auch in Zukunft kei-
+nen einfachen, auf alles anwendbaren Weg gehen können. Ein wirkmächtiger Faktor
+ist jede Bibliothek selbst mit ihren vor Ort unterschiedlichen Rahmenbedingungen,
+die gekennzeichnet sind von der Größe des Bestands, seiner historischen Bedeutung,
+seiner früheren Erschließung und der gegebenen Datenqualität. Entscheidend sind
+auch die Aufgabenstellung der Bibliothek, ihr Personalstand und ihre Vernetzung in
+das wissenschaftliche, kulturelle und bibliothekarische Umfeld. Letzteres stellt einer-
+seits eine Hilfe dar, insofern als für die Erschließung der verschiedenen Objekte und
+Materialien des kulturellen Erbes Leitlinien und differenziertes Spezialistenwissen ver-
+fügbar sind, andererseits verlangt es in seiner Vielfalt Entscheidungen und Vernetzun-
+gen. Aufwand, Interessen und Machbarkeit sind abzuwägen. Dabei können vielfältige
+Möglichkeiten einer Projekt- und Drittmittelfinanzierung genutzt werden, Forschungs-
+und Förderszenarien müssen im Blick behalten werden, geben aber auch wertvolle Hin-
+weise auf die Relevanz einer Maßnahme. Immer wichtiger für jede Planung wird eine
+Einschätzung technisch unterstützender, innovativer und zukunftsweisender Verfahren,
+die mitunter auch ein Abwarten, eine anderweitige Erprobung und das Verschieben
+eines Erschließungsdesiderats zur Folge haben können. Die künstliche Intelligenz eröff-
+net gerade Erschließungsverfahren und -ebenen, die bislang undenkbar waren.
+
+Jedes Erschließungsprojekt im Bereich des kulturellen Erbes, das sich als Teil und
+Baustein eines Ganzen versteht, das etablierte Standards und vernetzte Strukturen
+nutzt und bedienen kann, ist auf dem richtigen Weg. Jedes, das singulär und in sich
+
+ https://vd18.gbv.de/viewer/index/ (25.01.2024).
+
+
+
+602 Claudia Fabian
+
+geschlossen ein monolithisches Monument darstellen möchte, ist mit Skepsis zu
+betrachten.
+
+Nach wie vor aber gilt: das kulturelle Erbe wird seinen intrinsischen Wert, seine er-
+schließungsherausfordernde Dynamik behalten. Es kann und muss nicht alles auf ein-
+mal gemacht werden, langfristige Projekte sind in guter geisteswissenschaftlicher
+Tradition die Regel. Ständige Datenpflege und -erweiterung in Kontinuität seit den frü-
+hesten Zeiten der Bibliotheken und der Erschließung zeugen nicht so sehr von Defiziten
+der Vergangenheit, sondern von der Relevanz dieses Materials für die Zukunft. So eröff-
+net sich ein weites Zukunftsfeld für die Erschließung des kulturellen Erbes. Gleichberech-
+tigt zu den Objekten und ihrer zeitlosen, vielschichtigen, immer tiefer erschließbaren
+Bedeutung treten die Daten, die dieses Objekt beschreiben, präsentieren, vernetzen. So
+wie das kulturelle Erbe Forschungsgegenstand ist, so sind die darauf bezogenen Daten
+Forschungsdaten. Diese sind nach den etablierten Prinzipien von FAIR aber auch von
+CARE30 zu behandeln. Zu Datenerstellung und Datenmanagement tritt die Datenkuratie-
+rung. Sie ist, zumindest was aufwendig erhobene Daten wie die zum kulturellen Erbe
+angeht, deutlich langfristiger und nachhaltiger zu gewährleisten als das bisher mit fünf
+Jahren quantifizierte Überlebensspektrum von Daten in Forschungsrepositorien.
+
+Mit den Prozessen einer zunehmend fortschreitenden Technisierung und digita-
+len Vernetzung einhergehend stellen sich zudem neue Anforderungen an den vorhan-
+denen und stetig erweiterten Datenbestand, die nicht nur eine nachvollziehbare
+Datenhistorie, sondern gerade die Frage der Datenauthentizität berühren. Datenpro-
+venienz und Datenarchäologie spielen schon heute in Spezialdatenbanken wie dem
+Handschriftenportal eine wichtige Rolle. Mit der Zahl der an den Produktions- und
+Rezeptionsprozessen beteiligten Instanzen und Akteuren und durch die Menge der
+verfügbaren Daten wird diese Frage immer bedeutsamer werden. Insofern stimmt es
+zuversichtlich, dass das kulturelle Erbe und seine Erschließungsdaten auch in den na-
+tionalen Forschungsdateninfrastrukturen Verankerung finden werden.
+
+Literatur
+Beyer, Hartmut, Claudia Bubenik u. Michaela Scheibe: Rundgespräche zur Zukunft der
+
+nationalbibliographischen Verzeichnisse (VD) Bericht der veranstaltenden VD17-Trägerbibliotheken
+(Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Bayerische Staatsbibliothek München, Herzog
+August Bibliothek Wolfenbüttel). In: Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022),
+S. 82–91.
+
+Bubenik, Claudia u. Claudia Fabian: Alles Ephemera? Die Einblattdrucke des 16. Jahrhunderts und ihre
+Daten. In: Medium Buch. Wolfenbütteler interdisziplinäre Forschungen 3 (2021), S. 31–53.
+
+Bürger, Thomas: Die Digitalisierung der kulturellen und wissenschaftlichen Überlieferung – Versuch einer
+Zwischenbilanz. In: Zeitschrift für Bibliothekswesen und Bibliographie 58 (2011), S. 133–141.
+
+ Vgl. dazu https://www.fdm-bayern.org/forschungsdatenmanagement/ (25.01.2024).
+
+
+
+7.2 Erschließungsmanagement im Bereich kulturelles Erbe 603
+
+Early printed books as material objects: Proceedings of the conference organized by the IFLA Rare Books
+and Manuscripts Section, Munich, 19–21 August 2009. Berlin 2010 (IFLA Publications; 149).
+
+Fabian, Claudia: Alte Bücher – lebendige Daten: ein Vierteljahrhundert CERL. In: Bibliothek Forschung und
+Praxis 44 (2021), H. 2, S. 262–268.
+
+Fabian, Claudia: Nationalbibliographische Erschließung für das 18. Jahrhundert. Das VD 18. In:
+Zeitschriften, Journalismus und gelehrte Kommunikation im 18. Jahrhundert. Hrsg. von Claire Gantet
+u. Flemming Schock. Bremen: édition lumière 2014. S. 261–276.
+
+Fabian, Claudia: Retrospektive nationalbibliographische Erschließungsdaten als Forschungsdaten.
+Überlegungen zur Zukunftsbedeutung der Verzeichnisse der im deutschen Sprachraum
+erschienenen Drucke. In: Zeitschrift für Bibliothekswesen und Bibliographie 68 (2021), S. 72–82.
+
+Fabian, Claudia (Hrsg.): Faszination (Buch-)Handschriften im Jahr 2022: Tradition und Zukunft ihrer
+Erschließung in Bibliothek und Wissenschaft. Wiesbaden: Harrassowitz 2022 (Bibliothek und
+Wissenschaft; 55).
+
+Feuerstein-Herz, Petra: Neue Wege im VD 17 – Stand und Perspektiven in der nationalbibliografischen
+Verzeichnung. In: Bibliothek. Forschung und Praxis 35 (2011), H. 3, S. 411–414.
+
+Fieseler, Christian: Das Verzeichnis Deutscher Drucke des 18. Jahrhunderts. Ziele, Entwicklung und
+aktueller Stand. In: BUB Forum Bibliothek und Information 7 (2016), S. 402–405.
+
+Grothe, Ewald: Kooperative Erschließung von Handschriften und Nachlässen, Teil 2: Auf dem Weg zu
+Kalliope. Zur Erschließungssituation in deutschen Bibliotheken und Archiven seit 1945. In: Zeitschrift
+für Bibliothekswesen und Bibliographie 53 (2006), S. 291–299.
+
+Hartl, Nathalie,Lukas Jansen, Laura Bodmann, Hendrik Seitz-Moskaliuk, Elena Wössner, Eva Lübke u. York
+Sure-Vetter: Bibliotheken als Akteure bei NFDI: Herausforderungen, Chancen, Zukunftsaussichten. In:
+Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022), S. 18–25.
+
+Kett, Jürgen, Christoph Kudella, Andrea Rapp, Regine Stein u. Thorsten Trippel: Text+ und die GND –
+Community-Hub und Wissensgraph. In: Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022),
+S. 37–47.
+
+Rat für Informationsinfrastrukturen (RfII): Positionspapiere: Herausforderung Datenqualität (2019);
+Nutzung und Verwertung von Daten im wissenschaftlichen Raum (2021); RfII- Diskussionsimpuls zur
+wissenschaftlichen, wissenschaftsnahen und kulturellen Nutzbarkeit von Sammlungen (2021); RfII-
+Fachbericht zu aktuellen Entwicklungen im europäischen Raum (2022). https://rfii.de/download/da
+tenpolitik-open-science-und-dateninfrastrukturen-aktuelle-entwicklungen-im-europaeischen-raum-
+juli-2022/ (14.09.2024).
+
+Schmelze des barocken Eisbergs? Das VD 17. Bilanz und Ausblick. Beiträge des Symposiums in der
+Bayerischen Staatsbibliothek am 27. und 28. Oktober 2009. Wiesbaden 2010. (Bibliothek und
+Wissenschaft; 43).
+
+Schneider, Ulrich Johannes: Deutsche Nationalkataloge. Herausforderungen an das deutsche
+Bibliothekssystem. Was aus der Perspektive der Digital Humanities zu tun wäre. In: ABI Technik 40
+(2020), H. 1, S. 40–51.
+
+Schreiber, Carolin: Handschriftenerschließung im digitalen Zeitalter. Stand, Herausforderungen und
+Perspektiven. In: Bibliothek und Wissenschaft 55 (2022), S. 5–25.
+
+Seidensticker, Tilmann: Cataloguing Arabic Manuscripts for the Project ‚Katalogisierung der Orientalischen
+Handschriften in Deutschland‘. In: Exploring Written Artefacts. Berlin, Boston: De Gruyter 2021.
+S. 441–456.
+
+Sommer, Dorothea: Bibliotheken als Reallabor der Wissenschaft: Konzeption und Aktivitäten der
+Bayerischen Staatsbibliothek. In: Bibliothek Forschung und Praxis 47 (2023), S. 461–472.
+
+Sommer, Dorothea: VD 16, VD 17, VD 18. Diversität und Integration. In: ABI Technik 30 (2010), S. 120–129.
+Sommer, Dorothea, Claudia Fabian, Matthias Reif u. Stephanie Düsterhöft: Forschungsorientierte
+
+Inkunabelerschließung und -digitalisierung in deutschen Bibliotheken: Bedarfe und Perspektiven.
+
+
+
+604 Claudia Fabian
+
+DFG-Rundgespräch am 22. und 23. Februar 2022. Bericht der Bayerischen Staatsbibliothek. In:
+Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022), S. 338–350.
+
+Themenportale zum kulturellen Erbe. In: Zeitschrift für Bibliothekswesen und Bibliographie 70 (2023), H. 1.
+Frankfurt a. M.: Klostermann 2023.
+
+Wagner, Bettina: Von der Klosterbibliothek zum Gesamtkatalog der Wiegendrucke. Zur Geschichte der
+Inkunabelkatalogisierung in Bayern. In: Gutenberg-Jahrbuch 81 (2006), S. 168–178.
+
+Wagner, Bettina: Die ältesten Drucke im Internet. Vom lokalen Inkunabelkatalog zu einem koordinierten
+nationalen Digitalisierungsprojekt. In: Zeitschrift für Bibliothekswesen und Bibliographie 58 (2011),
+S. 19–27.
+
+Wagner, Bettina u. Claudia Bubenik: Einleitung (Wagner, Bettina: Illuminierte Inkunabeln in der BSB. Zum
+Konzept des Abbildungsteils, Forschungskontext und Bestandsprofil; Bubenik, Claudia:
+Neuerwerbungen der BSB 1986–2018 – Sammeltradition und Erwerbungsstrategien). In: Bayerische
+Staatsbibliothek: Inkunabelkatalog: BSB-Ink; Band 8: Bildband, Neuerwerbungen. Wiesbaden:
+Reichert 2021. S. 11–47.

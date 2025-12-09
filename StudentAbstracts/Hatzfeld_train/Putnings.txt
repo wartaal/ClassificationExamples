@@ -1,0 +1,512 @@
+Markus Putnings
+5.3 Infrastruktur rund um Open Access
+1 Einleitung
+Die bibliothekarische Open-Access-Community im deutschen Sprachraum ist sehr etabliert1
+und bietet sowohl mit den Open-Access-Tagen einen regelmäßigen Austausch als
+auch mit dem open-access.network eine ergiebige Plattform für Informationen, Fortbildungen
+und Services, auch rund um das Thema Infrastrukturen. Nichtsdestotrotz kann
+es für alle, die am Anfang ihrer Berufstätigkeit stehen, oder Externe schwierig sein, sich
+rasch einen Überblick zu verschaffen. Zudem haben die Förderprogramme des Bundesministeriums
+für Bildung und Forschung (BMBF) sowie der Deutschen Forschungsgemeinschaft
+(DFG) eine Reihe neuer Infrastrukturprojekte angestoßen, die sich zum Teil
+erst noch etablieren müssen.
+Im Kontext neuer und bestehender Projekte sind zudem Unterstützungsmechanismen
+zum nachhaltigen Betrieb der geschaffenen Infrastrukturen bedeutsam, da
+ansonsten die Community Gefahr läuft, diese wieder zu verlieren. So warnt z. B. The
+Global Sustainability Coalition for Open Science Services (SCOSS):
+[...] a vital infrastructure of non-commercial services supporting and enabling OA and OS has
+evolved. But many of these services we’ve come to rely on are not financially stable. [...]. Many
+key services that now comprise the existing infrastructure, which has evolved over time, are
+non-commercial and far from financially secure. Some could even be described as “at-risk.”
+Being that many of these services are now fundamental to implementing Open Access and Open
+Science policies and supporting these workflows, securing them has become a growing concern
+of the broader OA and OS community.2
+Zu einer ähnlichen Einschätzung kommt die „Erhebung zu offenen Infrastrukturen
+für Open Access“ von open-access.network. Sie formuliert u. a. mit Blick auf das Bibliotheksmanagement
+mehrere Handlungsempfehlungen:
+Es müssen nachhaltige Geschäftsmodelle für den Regelbetrieb von offenen Infrastrukturen entwickelt
+werden. Hier sind Infrastruktureinrichtungen und Bibliotheken [...] gefragt [...]. [...] Personalstellen
+sollten verstetigt und der Betrieb von Infrastrukturangeboten aus laufenden
+Haushaltsmitteln gesichert werden. [...] Die Betreibenden von Infrastrukturen sollten sich noch
+stärker vernetzen und miteinander kooperieren. [...] Bei der Entwicklung offener Infrastrukturen
+sollen offene Schnittstellen und Standards für den Austausch von Informationen eine hohe Priorität
+haben. Nicht nur einzelne Angebote, sondern auch die dezentrale, vernetzte Infrastrukturlandschaft
+sollte von den Akteuren betrachtet werden.3
+ Siehe Putnings 2024 zu den vielfältigen Rollen, Aufgaben und Kompetenzen wissenschaftlicher Bibliothekar:
+innen im Bereich Open Access.
+ SCOSS 2023b.
+ Schulz, Renziehausen und Rücknagel 2023: S. 10.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-022
+Auch die DFG beschäftigt das Thema. Sie hat die Technopolis Deutschland GmbH mit
+der Durchführung einer Studie zur Kartierung und Beschreibung relevanter Open-
+Access-Dienste und -Infrastrukturen beauftragt. Hierbei sollen Detailinformationen
+wie Reichweite, Nachfrage und Finanzierung erfasst sowie Handlungsempfehlungen
+zur Stärkung der Nachhaltigkeit der Publikationsinfrastrukturen im Sinne einer infrastrukturellen
+Souveränität Deutschlands formuliert werden.4 Die Studie liegt zum
+Zeitpunkt der Erstellung dieses Beitrags noch nicht vor.
+Im Folgenden werden die wichtigsten Infrastrukturen für Open Access, die im
+deutschen Sprachraum betrieben werden oder hierzulande große Relevanz haben,
+definiert, gruppiert und beschrieben. Dabei geht es sowohl um den Publikationsprozess
+im Open Access, als auch um die vor- und nachgelagerten Prozesse wie die Verlags-
+oder Zeitschriftenauswahl basierend auf Open-Access-Konsortialverträgen oder
+die nachfolgende Dissemination samt persistenter Identifikatoren, nutzbarer Metriken,
+Langzeitarchivierung und vieles mehr. Zudem werden mögliche Unterstützungsmechanismen
+für diese Infrastrukturen dargestellt.
+2 Definition von Infrastruktur rund um Open Access
+Die Invest in Open Infrastructure Initiative (IOI) hat eine sehr umfassende und flexible
+Definition erarbeitet,5 die im Folgenden aufgegriffen wird. Kernelement ist dabei
+die Förderlichkeit bzw. Unterstützungseigenschaft der Infrastruktur für die Open-
+Access-Community, die IOI nennt dies Infrastructureness:
+We propose to understand infrastructure as a property on a spectrum rather than a binary description.
+[...]. Instead of asking “what is an infrastructure project?” We are looking to identify
+those moments when projects, services, and tools start to act as infrastructure for the community.6
+Die Infrastruktur erfüllt dabei eine unterstützende Schlüsselfunktion, die von einer
+Reihe von Akteuren der Community in Anspruch genommen wird und dabei einen doppelten
+Nutzen daraus zieht, zum einen durch die Funktion selbst und zum anderen,
+indem sie die für die Erfüllung dieser Funktion erforderlichen Werkzeuge, Systeme,
+Prozesse, Personalkapazitäten etc. nicht selbst erstellen, anbieten oder aufrechterhalten
+muss.
+Infrastrukturen sind dabei nicht nur technisch, sondern auch soziotechnisch oder
+personell-aufgabentechnisch (z. B. Konsortialaktivität im deutschsprachigen Raum) zu
+verstehen. Infrastrukturen sind zudem dynamisch, und die verschiedenen Komponenten,
+aus denen sie bestehen, verändern sich, indem sie auf geeignete Weise auf
+ Stalla 2023.
+ Vgl. Invest in Open Infrastructure 2022b, Abschnitt „Infrastructure Definition“.
+ Invest in Open Infrastructure 2021.
+350 Markus Putnings
+die Bedürfnisse derjenigen reagieren, die die Infrastrukturen für die benötigten Funktionen
+bauen, warten und/oder nutzen.
+3 Auswahl und Gruppierung der Infrastrukturen
+Mit Blick auf die vorangegangene Definition kann die Auswahl gemäß infrastructureness
+dennoch nicht rein quantitativ mittels Nützlichkeit i. S.v. Nutzung durch die
+Community erfolgen, zum einen, weil die Nutzer:innen einer Infrastruktur nicht einfach
+zu bestimmen sind und zum anderen, weil es im Bereich Open Access viele Rollen,
+Aufgaben und Sub-Communities gibt, für die eine bestimmte Infrastruktur von
+hoher Relevanz sein kann, auch wenn die Zahl der Nutzer:innen dort gering ist.7
+Der Beitrag nimmt entsprechend eine gewichtete Auswahl vor, die die Bedeutung
+der Infrastruktur für die jeweiligen Rollen, Aufgabenverantwortlichen bzw. Sub-Communities
+aus der eigenen Erfahrung heraus berücksichtigt. Zudem werden äquivalente Auswahlprozesse,
+8 Studien9 oder Befragungen von Communities mit einbezogen, wie bspw.
+des OPERAS Konsortiums.10 Sollte dennoch eine maßgebliche Infrastruktur (im Folgenden
+fett hervorgehoben) übersehen worden sein, bittet der Beitragsautor um Entschuldigung
+und um Nachmeldung.11
+Die Gruppierung orientiert sich an einem möglichen, priorisierten Vorgehen,
+wenn ein Bibliotheksmanagement Open-Access-Services neu anbietet bzw. ausbaut
+und hierbei relevante Infrastrukturen heranzieht.
+In einem Gedankenexperiment wird anhand der Gründung einer neuen Technischen
+Universität in Bayern theoretisch durchdacht, welche Open-Access-Infrastrukturen
+für die Universität und ihre Bibliothek relevant sein werden.
+4 Konsortien
+Im ersten Schritt wird sich hierbei die Frage stellen, welchen Literaturbedarf die gegründeten
+Departments bzw. neu zu berufenden Professorinnen und Professoren in den Berufungsverhandlungen
+mit Blick auf Bücher und Zeitschriften benennen und in welchen
+Verlagen bzw. Zeitschriften sie Open Access publizieren. Je nachdem kann es sinnvoll
+ Z. B. Zahl aller im Bereich Open Access Tätigen vs. deutlich geringere Zahl des Personals in bibliotheksbetriebenen
+Open-Access-Universitätsverlagen.
+ Vgl. Invest in Open Infrastructure 2022a, SCOSS 2023a.
+ Vgl. Ficarra u. a. 2020.
+ OPERAS Consortium 2017.
+ Korrespondenzadresse: markus.putnings(at)fau.de. Eine versionierte Fassung dieses Beitrags wird
+auf Zenodo unter: https://doi.org/10.5281/zenodo.8205890, erscheinen.
+5.3 Infrastruktur rund um Open Access 351
+sein, entsprechenden Konsortien für Open-Access-Transformationsverträge bzw. reinen
+Open-Access-Verlagen beizutreten. Die German, Austrian and Swiss Consortia Organisation
+(GASCO)12 bündelt als Arbeitsgemeinschaft und Austauschforum die regionalen
+Konsortialaktivitäten im deutschsprachigen Raum beim gemeinsamen Erwerb von elektronischen
+Zeitschriften, Datenbanken und E-Books. Sie gibt zudem einen Überblick über
+ihre Mitglieder und ihre jeweiligen Ansprechpartner:innen. Die ersten werden die
+bundeslandspezifischen Ansprechpartner sein, in Bayern das Bayern-Konsortium,13 sowie
+die disziplinären. Für eine Technische Universität mit ihrem entsprechenden Interesse
+an IEEE, IOP etc. demnach primär die TIB-Konsortien:14 einen Überblick über die Lizenzen,
+die von GASCO-Mitgliedern angeboten werden, bietet der GASCO-Monitor15 mit der
+GASCO-Lizenzsuche.
+Mit Blick auf eine mögliche Förderfähigkeit durch das DFG-Förderprogramm „Open-
+Access-Publikationskosten“16 sollte bei konsortialen Open-Access-Transformationsverträgen
+darauf geachtet werden, dass diese im ESAC Transformative Agreement Registry17
+verzeichnet sind. Die DFG erkennt nur die dort gelisteten als „transformativ“ genug
+an, dass Publikationen, die daraus resultieren, im Rahmen des Programms förderfähig
+sind:18 „Plan S-konform“ sind die von cOAlition S19 gelisteten Plan S compliant Transformative
+Journals.20 Bei weiteren Fragen z.B. zur Bewertung von Open Access-
+Transformationsverträgen und Verlagsangeboten bietet sich zudem der Arbeitskreis
+Forum 13+21 an.
+Sollten die berufenden Professorinnen und Professoren in den Berufungsverhandlungen
+auffallend oft dieselben Gold-Open-Access-Verlage bzw. -Zeitschriften für
+geplante Publikationen und benötigte Mittel benennen, bietet sich gleichfalls die Prüfung
+entsprechender konsortialer Modelle für mögliche Kostenersparnisse oder Vereinfachungen
+der Prozesse an. Auch hier kann der GASCO-Monitor genutzt werden,
+um die verhandlungsführenden Einrichtungen als Ansprechpartner zu ermitteln. Da-
+ Vgl. Überblick über die GASCO-Mitglieder auf den Seiten des Hochschulbibliothekszentrums des
+Landes Nordrhein-Westfalen (hbz): https://www.hbz-nrw.de/produkte/digitale-inhalte/gasco (08.09.2023).
+ https://www.bsb-muenchen.de/kompetenzzentren-und-landesweite-dienste/landesweite-aufgabenund-
+dienste/bayern-konsortium/ (08.09.2023).
+ https://www.tib.eu/de/services/konsortien-an-der-tib/services-fuer-bibliotheken-und-einrichtungen
+(31.05.2024).
+ https://laser.hbz-nrw.de/gasco (08.09.2023).
+ https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/open_access_
+publikationskosten/ (08.09.2023).
+ https://esac-initiative.org/about/transformative-agreements/agreement-registry/ (08.09.2023).
+ https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/open_access_
+publikationskosten/oa_publikationskosten_faq/index.html (08.09.2023).
+ https://www.coalition-s.org/ (17.09.2024).
+ https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/
+(17.09.2024).
+ https://forum13plus.de/index.html (08.09.2023).
+352 Markus Putnings
+neben gibt es vielfältige weitere konsortiale bzw. kollaborative Modelle, die etwa Article
+Processing Charges (APC) vermeiden, wie KOALA (Konsortiale Open-Access-
+Lösungen aufbauen)22 oder die Subscribe to Open-Community,23 bei denen Zeitschriften
+auf Open Access umgestellt werden, solange Bibliotheken dies weiter durch
+ihre Abonnementzahlungen trotz Open Access unterstützen.
+Ähnliche Überlegungen können auf Open-Access-Bücher übertragen werden.
+Sollte die Technische Universität bspw. ein Technologiezentrum Wasser besitzen und
+viele Open-Access-Bücher bei International Water Association Publications veröffentlicht
+werden, wäre ggfs. eine Finanzbeteiligung beim entsprechenden „Pledging“24
+von Knowledge Unlatched sinnvoll. Knowledge Unlatched25 ist ein Crowdfunding-
+Modell, das ursprünglich nur Bücher im Open Access realisiert hat, inzwischen jedoch
+auch Zeitschriften bei der Transformation unterstützt. Ein anderer Ansatz sind die
+vertragslaufzeitgebundenen Unterstützungsmodelle vom Open Book Collective,26
+das von COPIM27 bzw. dem auf COPIM aufbauenden Projektkonsortium Open Book
+Futures28 ausgebaut wird.
+5 Beratung und Monitoring
+Unmittelbar mit den vorangegangenen Konsortialentscheidungen verbunden ist die
+Frage, inwieweit die neue Technische Universität bibliothekarische Beratung und Monitoring
+im Bereich Open Access anbieten möchte, und welche Infrastrukturen hierfür
+nötig sind. So sind die genauen Konditionen z. B. von Transformationsverträgen
+nicht immer leicht zu überblicken. Entsprechend kann für die Forschenden Beratung
+notwendig werden, etwa welche Zeitschriften inkludiert sind, welche APC fällig wird
+etc. Je nach Konsortialvertrag sind zudem Überprüfungsschritte im Rahmen eines Monitorings
+nötig, ob eine einreichende Autorin bzw. ein Autor unter den Vertrag fällt.
+ https://projects.tib.eu/koala/ (08.09.2023).
+ https://subscribetoopencommunity.org/ (08.09.2023).
+ Vgl. https://knowledgeunlatched.org/stem/ (31.05.2024), Reiter „IWA Publishing Frontlist Books
+2025–2027“.
+ https://knowledgeunlatched.org/ (08.09.2023).
+ https://openbookcollective.org/packages/ (08.09.2023).
+ https://www.copim.ac.uk/ (08.09.2023).
+ https://copim.pubpub.org/open-book-futures-project (17.09.2024).
+5.3 Infrastruktur rund um Open Access 353
+5.1 Infrastrukturen der Recherche-, Schreibund
+Publikationsberatung
+Die Publikationsberatung wird nachfolgend ganzheitlich verstanden. So sollten alle Phasen,
+auch die Publikationsvorbereitung und publikationsbezogene Nacharbeiten im
+Fokus stehen. Die Vorbereitung umfasst z. B. Schritte der Literaturrecherche, -sichtung,
+und -sammlung.
+Bibliotheksseitig zu empfehlende Infrastrukturen für die Open-Access-Literaturrecherche
+sind wissenschaftliche Such- und Discovery-Systeme wie die Bielefeld Academic
+Search Engine (BASE)29 oder CORE,30 eventuell auch Google Scholar,31 wobei
+hier keine eindeutigen Open-Access-Kennzeichnungen existieren, in der Regel kann
+man bei „[PDF] Name des Repositoriums“-Hinweisen auf den Text zugreifen. Bei Google-
+Scholar-Ergebnissen stellt sich für die ratsuchenden Forschenden die Frage, wie
+man bei Nicht-Open-Access-Dokumenten Zugriff erhält. Hilfe bietet dabei u. U. Unpaywall32
+oder der Open Access Button.33 Je nach Fachbereichen der Technischen Universität
+können zudem die wichtigsten Fachrepositorien via ROAR34 oder OpenDOAR35
+recherchiert und Forschenden für das Recherchieren und (z. B. Preprint-)Publizieren
+empfohlen werden, bspw. arXiv36 oder, für Medizintechnik, PubMed Central37 und Europe
+PMC.38
+Für das Funktionieren dieser Systeme (z. B. Deduplizieren, korrekte Zuordnung)
+und die nachfolgenden Imports z. B. in Literaturverwaltungssysteme wie Zotero39 und/
+oder ein persistentes Zitieren sind Identifikatoren wie CrossRef-40 und DataCite-41„Digital
+Object Identifiers“ (DOIs) von Bedeutung. Die Creative-Commons-Lizenzen42
+geben bei Open-Access-Publikationen Rahmenbedingungen vor, in welchem Umfang
+die Quellen beim Schreiben und Rezipieren über das Zitatrecht hinaus genutzt werden
+dürfen.
+Sobald die Autorin bzw. der Autor die Literatur recherchiert, gesichtet, rezipiert,
+relevante Stellen zitiert und das Werk geschrieben hat, stellt sich die Frage des Publika-
+ https://www.base-search.net/ (08.09.2023).
+ https://core.ac.uk (08.09.2023).
+ https://scholar.google.de (08.09.2023).
+ https://unpaywall.org (08.09.2023).
+ https://openaccessbutton.org (08.09.2023).
+ http://roar.eprints.org (08.09.2023).
+ https://v2.sherpa.ac.uk/opendoar/ (08.09.2023).
+ https://arxiv.org (08.09.2023).
+ https://www.ncbi.nlm.nih.gov/pmc/ (08.09.2023).
+ https://europepmc.org (08.09.2023).
+ https://www.zotero.org/ (08.09.2023).
+ https://www.crossref.org (08.09.2023).
+ https://datacite.org (08.09.2023).
+ https://creativecommons.org/about/cclicenses/ (08.09.2023).
+354 Markus Putnings
+tionsortes und -mediums. Sofern die Autorin bzw. der Autor nicht bereits eine Präferenz
+für eine bestimmte Zeitschrift haben, können ihnen sog. Recommender-Systeme
+ans Herz gelegt werden, etwa B!SON43 oder, z. B. für Medizintechnik, JANE.44 Anschließend
+ist ggfs. von Relevanz, ob die Publikation in den hier hoch gerankten Zeitschriften
+z. B. durch Transformationsverträge kostenlos oder vergünstigt ist. In oa.finder45 kann
+man die Organisation eingeben und erhält entsprechende Hinweise. Auch die Elektronische
+Zeitschriftenbibliothek (EZB)46 liefert vielfältige Open-Access-Hinweise wie
+eben auf Transformationsverträge, Subscribe to Open-Modelle, Indexed in DOAJ etc.
+Noch bessere Beratung können die Bibliothekarinnen und Bibliothekare selbst
+geben. Sie können komplexe Details direkt aus den Verträgen oder aus dem lokalen
+Electronic-Resource-Management-System wie LAS:eR47 (vgl. Kapitel 4.4 “Electronic-
+Resource-Management-Systeme (ERMS)”) ermitteln, Tipps zu institutionellen Mitgliedschaften
+geben oder prüfen, ob der Artikel durch etwaige Publikationsfonds förderfähig
+ist. Auch hier kommen vermehrt Identitäts-Prüfprozesse zum Tragen, z. B. ist
+die Autorin bzw. der Autor Angehöriger der eigenen Einrichtung, stimmen die Affiliationen
+und USt.-ID überein, so dass keine steuerlichen Probleme entstehen etc.
+Letzteres ist v. a. von Bedeutung, wenn für die Abwicklung von Publikationsgebühren
+durch das Bibliotheksmanagement zentralisierte Prozesse implementiert sind
+bzw. unterstützend wirken, z. B. mittels OA Switchboard,48 oable,49 ChronosHub50
+oder im Rahmen von Transformationsverträgen im Zusammenspiel z. B. mit der
+MPDL Services gGmbH51 im DEAL-Kontext oder mit Copyright Clearance Center
+RightsLink.52
+Die lokalen Finanzierungs-, Unterstützungs- und Abwicklungsprozesse zu Open-
+Access-Publikationen sind demnach ein großer Beratungskomplex. Nicht minder wichtig
+für die Forschenden sind fördererseitige Aspekte. Die Vorgaben der Förderer lassen
+sich i. d.R. in den Sherpa Services53 recherchieren und ebenfalls, ob eine bestimmte
+Zeitschrift diese erfüllt. Auch hier können Bibliothekarinnen und Bibliothekare intensiv
+beraten, z. B. hinsichtlich Qualitätsvorgaben der Förderer und heranzuziehende „Whi-
+ https://service.tib.eu/bison/ (08.09.2023).
+ https://jane.biosemantics.org (08.09.2023).
+ https://finder.open-access.network (08.09.2023).
+ https://ezb.uni-regensburg.de/ (08.09.2023).
+ https://laser.hbz-nrw.de (08.09.2023).
+ https://www.oaswitchboard.org (08.09.2023).
+ https://oable.org (08.09.2023).
+ https://chronoshub.io (08.09.2023).
+ https://mpdl-services.de (08.09.2023).
+ https://www.copyright.com/solutions-manage-agreements/ (08.09.2023).
+ https://beta.sherpa.ac.uk/ (08.09.2023).
+5.3 Infrastruktur rund um Open Access 355
+telists“ wie DOAJ54 bzw. DOAB55 oder zu nutzende Creative-Commons-Lizenzen.56
+Falls eine präferierte Zeitschrift die Vorgaben nicht erfüllt, da z. B. die Embargofrist zu
+lang ist, lässt sich dies u. U. durch ein Copyright Addendum der Scholar’s Copyright
+Addendum Engine57 heilen. Bei Zweifel an einer Zeitschrift, etwa in Punkto Qualitätsvorgaben
+der Förderer oder generell (z. B. bei Einladungen zum Publizieren) kann man
+QOAM58 und, sofern kostenpflichtig lizenziert, Cabells Predatory Reports59 konsultieren.
+Empfehlenswert sind zudem die Checklisten von Think. Check. Submit.60
+Für unsere neu gegründete Technische Universität stellen sich eventuell zudem
+Open-Science-Fragen. So sollen oftmals als Wunsch der Förderer auch Forschungsdaten
+als Open Data frei zugänglich sein. Relevante Informationsinfrastrukturen sind hier u. a.
+forschungsdaten.info61 und forschungsdaten.org,62 Re3Data63 zur Datenrepositoriensuche
+sowie als mögliche Repositorien Zenodo,64 Dryad,65 Havard Dataverse66 bzw.
+OSF67 (vgl. Kapitel 5.7 Forschungsdaten und ihr Management).
+Beim Einreichen in das letztlich gewählte Publikationsmedium ist es dann noch
+wichtig, die eigene ORCiD68 sowie, sofern möglich, die ROR69 anzugeben, die eigenen
+Universität und etwaige Drittmittelgeber in der Veröffentlichung korrekt zu würdigen,
+etwa gemäß vorgegebener Konvention oder Namenseintrag nach dem CrossRef
+Funder Registry,70 und sofern von Förderern bzw. Verlag gefordert, die zugehörigen
+Forschungsdaten als Open Data zu publizieren bzw. ein entsprechendes Data Availability
+Statement zu schreiben sowie alle weiteren publikationsbasierten Nacharbeiten
+(z. B. Zweitveröffentlichung in einem Repositorium, Ablieferung an OpenAIRE71 bei
+EU-Projekten etc.).
+ https://www.doaj.org/ (08.09.2023).
+ https://www.doabooks.org/ (08.09.2023).
+ Siehe Fn. 42.
+ https://labs.creativecommons.org/scholars/ (08.09.2023).
+ https://www.qoam.eu/ (08.09.2023).
+ https://cabells.com/solutions/predatory-reports (17.09.2024).
+ https://thinkchecksubmit.org/ (08.09.2023).
+ https://forschungsdaten.info/ und konkret zum Thema https://forschungsdaten.info/themen/findenund-
+nachnutzen/open-data-open-access-und-nachnutzung/ (08.09.2023).
+ https://www.forschungsdaten.org/ (08.09.2023), und konkret zum Thema https://www.forschungsda
+ten.org/index.php/Kategorie:Data_Publishing (08.09.2023).
+ https://www.re3data.org/ (08.09.2023).
+ https://zenodo.org/ (08.09.2023).
+ https://datadryad.org/stash (08.09.2023).
+ https://dataverse.harvard.edu/ (08.09.2023).
+ https://osf.io/ (08.09.2023).
+ https://orcid.org (08.09.2023), 2016 entstand zudem ein ORCID Deutschland Konsortium, https://
+www.orcid-de.org/konsortium/ueber-das-konsortium (08.09.2023).
+ https://ror.org (08.09.2023).
+ https://www.crossref.org/services/funder-registry/ (08.09.2023).
+ https://www.openaire.eu/ (08.09.2023).
+356 Markus Putnings
+5.2 Infrastrukturen des Monitorings
+Je nachdem, welche Konsortialentscheidungen die neu gegründete Technische Universität
+gemäß Abschnitt 4 trifft, welchen Transformationsverträgen sie beitritt und welche
+Servicelizenzen sie zur zentralisierten Abwicklung von Publikationsgebühren
+gemäß Abschnitt 5.1 abschließt, z. B. oable72 oder ChronosHub,73 kommen unterschiedliche
+Monitoring-Aufwände über die jeweiligen Dashboards auf sie zu. Abseits
+davon gibt es noch weitere Entscheidungen zu treffen, z. B. wie man Open-Access-
+Mittel und -Ausgaben vor dem Hintergrund lokaler Vorgaben und Herausforderungen
+(z. B. Verpflichtung zur verdichteten Titelstruktur gem. Art. 11 Abs. 1 Satz 1 Ziffer 1 b
+BayHIG in Bayern) monitoren kann.
+So empfiehlt die Austrian Transition to Open Access (AT2OA)74 hierzu u. a. die
+Einrichtung von Sachkonten/Kostenarten für Open Access im Buchhaltungssystem, auf
+die alle entsprechenden Kosten gebucht werden.75 In Deutschland widmen sich u. a. die
+DFG-Projekte Transform2Open76 sowie openCost77 dieser Weiterentwicklung des Kostenmonitorings
+an wissenschaftlichen Einrichtungen. Das openCost Metadatenschema
+sieht z. B. eine Unterscheidung zwischen APC, Hybrid-OA, vat, colour charges, cover,
+page charges, permission, publication charges, reprint, submission fee und weiteren Gebühren
+vor,78 was in die Überlegungen für nötige Kostenarten an der Technischen Universität
+und im Bibliothekssystem (z. B., falls zutreffend, in der FOLIO Open Access App,
+siehe FOLIO Open Access SIG79) mit einfließen könnte. Sobald dieser Erstaufwand geleistet
+ist, kann ein Reporting des Kostenmonitors erfolgen, konkret an lokale Stellen
+wie die Universitätsleitung oder an OpenAPC.80
+Die Technische Universität wird daraufhin bei steigenden Publikationsvolumina
+und -kosten beizeiten die Entscheidung treffen, Mittel im Förderprogramm „Open-
+Access-Publikationskosten“ der DFG81 zu beantragen. Eine essenzielle Infrastruktur für
+die entsprechenden Datenerhebungen und -meldungen wird vom Forschungszentrum
+Jülich geboten, u. a. mit dem open access monitor82, der dortigen „Auswertung für
+DFG-Antrag“83 sowie dem Monitoring des DFG-Förderprogramms „Open-Access-
+ Siehe FN 49.
+ Siehe FN 50.
+ https://www.at2oa.at/at2oa2_home.html (08.09.2023).
+ Vgl. Universität Wien (2020, 2).
+ https://www.transform2open.de/ (08.09.2023).
+ https://www.opencost.de/ (08.09.2023).
+ Vgl. Universität Regensburg 2023.
+ https://wiki.folio.org/display/OA/Open+Access+SIG+Home (08.09.2023).
+ https://treemaps.openapc.net/ (08.09.2023).
+ https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/open_access_
+publikationskosten/ (08.09.2023).
+ https://open-access-monitor.de/ (08.09.2023).
+ https://juser.fz-juelich.de/record/888366 (08.09.2023).
+5.3 Infrastruktur rund um Open Access 357
+Publikationskosten“84. Einrichtungen, die nicht am Förderprogramm der DFG teilnehmen,
+können das dortige Datenschema trotzdem für das eigene Monitoring nutzen, sofern
+gewünscht. Ein weiteres Monitoring-Instrument ist das Hybrid Open Access
+Dashboard.85 In der Regel melden Bibliotheken Open-Access-bezogene Daten zudem an
+die DBS – Deutsche Bibliotheksstatistik86 im Feld „151.1: Erwerbung, davon [...]: Kauf,
+darunter: Ausgaben für Open Access Publikationen“ sowie „178.4: Auf eigenen Repositorien
+bereitgestellte grüne und goldene Open-Access-Publikationen“. International versucht
+der cOAlition S Journal Comparison Service,87 die Open-Access-Gebühren zu den
+erbrachten Publikationsleistungen in ein Verhältnis zu setzen, um so eine größere Monitorbarkeit
+und Transparenz hinsichtlich der von den Verlagen angebotenen Dienstleistungen
+und der von ihnen erhobenen Gebühren zu schaffen.
+6 Library Publishing und
+Publikationsinfrastrukturen
+Früher oder später wird sich für die neue Technische Universität die Frage stellen, ob sie
+bzw. ihre Universitätsbibliothek ein Repositorium z. B. zur Open-Access-Publikation von
+Dissertationen oder zur Zweitveröffentlichung von Artikeln anbieten soll. Hierbei wird
+zu entscheiden sein, welche Funktionsbandbreite benötigt wird, z. B. möchte man ein
+Forschungsinformationssystem mit Repositorienfunktionalitäten, ein Repositorium rein
+für Publikationen oder daneben auch für Forschungsdaten und Open Educational Resources
+(OER); sollen URNs, DataCite und/oder CrossRef DOIs vergeben werden; möchte
+man das Repositorium selbst betreiben oder eine Hosting-Cloudleistung einkaufen etc.
+Gemäß OpenDOAR sind die häufigsten Repositoriensoftwares in Deutschland OPUS88
+(30 %), gefolgt von DSpace89 (14 %), EPrints90 (10 %), MyCoRe91 (6 %) und Invenio92
+(2 %).93
+ https://www.fz-juelich.de/de/zb/open-science/open-access/monitoring-dfg-oa-publikationskosten
+(08.09.2023).
+ https://subugoe.github.io/hoaddash/ (08.09.2023).
+ https://www.bibliotheksstatistik.de/ (08.09.2023).
+ https://www.coalition-s.org/journal-comparison-service/ (08.09.2023).
+ https://www.kobv.de/entwicklung/software/opus-4/ (08.09.2023).
+ https://dspace.lyrasis.org/ (08.09.2023). 2018 entstand zudem ein DSpace-Konsortium Deutschland,
+vgl. https://wiki.lyrasis.org/display/DSPACE/DSpace-Konsortium+Deutschland (08.09.2023).
+ https://www.eprints.org/uk/ (08.09.2023).
+ https://www.mycore.de/ (08.09.2023).
+ https://inveniosoftware.org/ (08.09.2023).
+ Vgl. Jisc 2023.
+358 Markus Putnings
+Nach Wahl und Implementierung des Repositoriums sollte sie im Sinne eines vertrauenswürdigen
+Repositoriums mit dem Repository Policy Generator (RePol)94
+und in Orientierung an dem DINI-Zertifikat für Open-Access-Publikationsdienste95
+eine Repository-Policy aufstellen. Nebst dem o. g. DINI-Zertifikat kann die Technische
+Universität ihr neues Repositorium auch mit dem nestor-Siegel für vertrauenswürdige
+digitale Langzeitarchive96 und/oder CoreTrustSeal97 zertifizieren lassen, sofern
+sie die jeweiligen Kriterien und Verfahren besteht. Zudem sollten zur raschen
+Befüllung des Repositoriums Datenlieferservices von Verlagen oder vom Lieferdienst
+DeepGreen98 angebunden werden.
+Repositorien sind oftmals auch der erste Startpunkt, um weiterführende Library Publishing
+Services aufzubauen. Sollte die Technische Universität z. B. einen Universitätsverlag
+gründen wollen, könnten die Publikationen dort veröffentlicht und langzeitarchiviert
+werden. Vernetzungsmöglichkeiten und Orientierung z. B. zu Qualitätskriterien für Universitätsverlage
+bietet die AG Universitätsverlage.99 Die neu gegründete Technische Universität
+sollte sich in dem Fall des Weiteren mit dem BMBF-Projekt TU9 Monos100 in
+Verbindung setzen. Bei einer Co-Publishing Partnerschaft entfallen nämlich ggfs. einige
+Aufgaben und Aufwände.
+Mit fortschreitender Professionalisierung können Tools wie Open Monograph
+Press (OMP), Open Journal Systems (OJS), Open Preprint Systems (OPS) etc., alle vom
+Public Knowledge Project,101 eingesetzt oder in einer Hostingvariante genutzt werden.
+Darüber hinaus gilt es, diverse Entscheidungen zu treffen, z. B. über die Produktionsworkflows
+und einzusetzende Satzsysteme hierbei, z. B. mittels LaTeX, Open
+Source Academic Publishing Suite (OS-APS),102 dem OA-STRUKTKOMM Out of the
+Box-Publikationsserver103 o. ä.
+Die Softwares können natürlich nicht nur für das Library Publishing genutzt werden,
+sondern auch für wissenschaftsbetriebene Open-Access-Zeitschriften an der
+Technischen Universität. Hier gilt es dann zu überlegen, inwieweit Unterstützung wie
+z. B. ein Hosting angeboten werden kann. Bei einem OJS-Hosting-Engagement bietet
+sich der Beitritt zu OJS-de.net104 an, das Netzwerk verbindet OJS-Dienstleister an
+deutschsprachigen Universitäten und Forschungseinrichtungen. Zudem lohnt es, bei
+ https://repol.ni4os.eu/ (08.09.2023).
+ https://dini.de/dienste-projekte/dini-zertifikat/ (08.09.2023).
+ https://www.langzeitarchivierung.de/Webs/nestor/DE/Zertifizierung/nestor_Siegel/siegel.html
+(08.09.2023).
+ https://www.coretrustseal.org/ (08.09.2023).
+ https://info.oa-deepgreen.de/ (08.09.2023).
+ https://ag-univerlage.de/ (08.09.2023).
+ https://www.bibliothek.kit.edu/ksp-projekt-oa-tu9.php (08.09.2023).
+ https://pkp.sfu.ca/software/ (08.09.2023).
+ https://os-aps.de/ (08.09.2023).
+ https://oa-struktkomm.htwk-leipzig.de/forschungsprojekt/publikationsserver (08.09.2023).
+ https://ojs-de.net/start (08.09.2023).
+5.3 Infrastruktur rund um Open Access 359
+CRAFT-OA105 die Updates im Blick zu behalten, und die Infrastruktursektion des
+Open Access Journal Toolkits106 von OASPA107 bzw. OA Books Toolkit108 von
+OAPEN.109
+7 Infrastrukturunterstützung
+Abschließend soll noch kurz auf Unterstützungsmechanismen für die vorgenannten
+Infrastrukturen eingegangen werden. Hier seien zunächst direkte finanzielle Unterstützungen
+genannt, z. B. Mitgliedschaften, die Teilnahme an Konsortien wie z. B.
+KOALA bzw. die Durchführung von „Pledgings“ sowie der Abschluss bestimmter Support-
+Modelle (z. B. Supporting DOAB – four options,110 Support DOAJ,111 The Public
+Knowledge Project Financial Contributors112) bzw. expliziter Fördermitgliedschaften
+(z. B. arXiv Membership113). Teils gibt es auch die Möglichkeit zu spenden (z. B. bei
+Creative Commons,114 Zenodo,115 Center for Open Science116). Neben Geld kann auch
+unmittelbar durch Leistungen beigetragen werden, z. B. indem man Datenlieferant
+wird (z. B. BASE, OpenAIRE, OpenAPC), seine Services registriert (z. B. das Repositorium
+in OpenDOAR, ROAR, Re3Data, DINI-Liste der Publikationsdienste), sich engagiert
+etwa in Redaktionen (z. B. forschungsdaten.info oder forschungsdaten.org), in
+Beiräten (z. B. open-access.network, EZB, OA-APS), in Arbeitsgruppen (z. B. openaccess.
+network Digitale Fokusgruppen, DINI Arbeitsgruppen, nestor Arbeitsgruppen,
+AG Universitätsverlage Themengruppen, FOLIO Open Access SIG) oder in Client bzw.
+Community Advisory Groups (z. B. OA Switchboard, ROR, DOAJ). Zudem können die
+Infrastrukturen natürlich auf der eigenen Homepage und in der Beratung sowie Öffentlichkeitsarbeit
+beworben und genannt bzw. verlinkt werden.
+ https://www.craft-oa.eu/ (08.09.2023). CRAFT-OA strebt neben anderen Projektzielen weitreichende
+technische Verbesserungen für Zeitschriftenplattformen und -software an.
+ https://www.oajournals-toolkit.org/infrastructure (08.09.2023).
+ Vgl. auch https://oaspa.org/information-resources/openaccessresources/ (08.09.2023), für weitere
+Ressourcen.
+ https://www.oabooks-toolkit.org/ (08.09.2023).
+ https://oapen.org/ (08.09.2023).
+ https://www.doabooks.org/en/librarians/how-to-become-a-doab-supporter (08.09.2023).
+ https://doaj.org/support/ (08.09.2023).
+ https://pkp.sfu.ca/about/sustainability/financial-contributors/ (08.09.2023).
+ https://info.arxiv.org/about/membership.html (08.09.2023).
+ https://www.classy.org/give/313412/#!/donation/checkout?c_src=website&c_src2=top-of-page-ban
+ner (08.09.2023).
+ https://donate.cernandsocietyfoundation.cern/zenodo/~my-donation?_cv=1 (08.09.2023).
+ https://www.cos.io/about/support-cos (08.09.2023).
+360 Markus Putnings
+Neben den direkten Unterstützungsmöglichkeiten gibt es außerdem mittelbare,
+über Mittler wie die Global Sustainability Coalition for Open Science Services (SCOSS)117
+oder die Invest in Open Infrastructure (IOI).118 Grundsätzlich erscheint ein solches Instrument
+national ebenfalls wünschenswert, um leichter Gelder einzusammeln und,
+priorisiert von der Open-Access-Community, deutschen Projekten den Übergang in den
+Regelbetrieb zu erleichtern und/oder um Infrastrukturen zeitgemäß fortzuentwickeln.
+Literatur
+Ficarra, Victoria, Mattia Fosci, Andrea Chiarelli, Bianca Kramer u. Vanessa Proudman: Scoping the Open
+Science Infrastructure Landscape in Europe 2020.
+Invest in Open Infrastructure: Exploring costs & characteristics of open infrastructure providers. 2021.
+https://investinopen.org/blog/costs-characteristics-oi-providers/ (15.03.2023).
+Invest in Open Infrastructure (2022a): Catalog of Open Infrastructure Services (COIs). 2022.
+https://investinopen.org/catalog/ (14.03.2023).
+Invest in Open Infrastructure (2022b): Research Update: COIs, Defining Infrastructure, and Exploring
+Utility Financing as a Useful Model. 2022. https://investinopen.org/blog/research-update-coisdefining-
+infrastructure-and-exploring-utility-financing-as-a-useful-model/ (15.03.2023).
+Jisc: OpenDOAR. Browse by Country and Region: Software Platforms Overview. 2023. https://v2.sherpa.ac.
+uk/view/repository_by_country/Germany.default.html (03.04.2023).
+OPERAS Consortium: Operas Design Study. In: Zenodo (2017). https://doi.org/10.5281/zenodo.1009543.
+Putnings, Markus: Publizieren und Open Access fördern. In: Praxishandbuch Wissenschaftliche
+Bibliothekar:innen: Wandel von Handlungsfeldern, Rollen und Perspektiven im Kontext der digitalen
+Transformation. Hg. Wilfried Sühl-Strohmenger u. Inka Tappenbeck. Berlin, Boston: De Gruyter 2024.
+https://doi.org/10.1515/9783110790375-020.
+Schulz, Katharina, Anna-Karina Renziehausen u. Jesko Rücknagel: Umsetzung von Open Access: Erhebung
+zu offenen Open-Access-Infrastrukturen. In: Zenodo (2023). https://zenodo.org/record/7534964
+(29.03.2023).
+SCOSS (2023a): Current funding calls. 2023. https://scoss.org/how-it-works/current-funding-calls/
+(14.03.2023).
+SCOSS (2023b): Help sustain open infrastructure. 2023. https://scoss.org/help-sustain-open-infra/
+(14.03.2023).
+Stalla, Maria: Invitation to the DFG detail survey for Open Access infrastructures and services. E-Mail vom
+28.02.2023 an ub-opus(at)fau.de.
+Universität Regensburg: openCost Metadata Schemes for Publication Cost Exchange. 2023. https://github.
+com/opencost-de/opencost/tree/main/doc (29.03.2023).
+Universität Wien: Empfehlung des Hochschulraum-Strukturmittel-Projektes „Austrian Transition to
+Open Access (AT2OA)“ zur Buchung von Open-Access-Publikationskosten. In: Zenodo (2020).
+https://zenodo.org/doi/10.5281/zenodo.3945952

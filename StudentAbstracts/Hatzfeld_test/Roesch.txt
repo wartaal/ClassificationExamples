@@ -1,0 +1,479 @@
+Henriette Rösch
+4.5 Auswirkungen der OA-Transformation
+auf die Erwerbungs- und Bestandspolitik
+von Bibliotheken
+1 Literaturversorgung als Kernaufgabe von
+Bibliotheken
+Über Bestands- und Erwerbungspolitik wird eine Kernaufgabe von wissenschaftlichen
+Bibliotheken realisiert, nämlich die einrichtungs- und zielgruppenspezifische Literaturversorgung.
+Die Open-Access-Transformation allerdings verändert die Rahmenbedingungen
+und damit die Anforderungen an Bestandsentwicklung und Erwerbungspolitik
+umfassend: Denn wenn – Open Access zu Ende gedacht – der überwiegende Teil der
+Literaturressourcen weltweit und unterschiedslos für alle frei zugänglich ist, erfährt
+der Bestandsbegriff, der lange verknüpft war mit einrichtungsspezifisch physisch vorhandenen
+oder erworbenen Ressourcen, eine notwendige Erweiterung. Ähnliches gilt
+für die Aufgabe von Erwerbungspolitik, die bisher unmittelbar auf den Literaturversorgungsauftrag
+aufsetzte und Zugänge (physisch und digital) durch Mitteleinsatz organisiert
+hat. Durch die Einführung publikationskostenbasierter Finanzierungsmodelle, die
+nicht mehr an der Rezeption, sondern der Produktion von Inhalten anknüpfen, erweitert
+beziehungsweise verändert auch Erwerbungspolitik ihren Scope.
+Dennoch zielen Bestandsaufbau und Erwerbungspolitik in ihrem Zusammenspiel
+weiterhin auf eine bedarfsorientierte Literaturversorgung, die durch einen planvollen,
+fachlich untersetzten Einsatz von Mitteln gewährleistet wird. Für die Open-Access
+-Transformation als Prozess des Übergangs bedeutet damit Bestands- und Erwerbungspolitik,
+bestehende Strukturen, Instrumente und Kompetenzen sukzessive anzupassen,
+damit sie den sich permanent ändernden Anforderungen nicht nur gerecht
+werden, sondern diese auch aktiv beeinflussen.
+Für die Bestandsentwicklung heißt das: Wenn wissenschaftliche Literatur grundsätzlich
+frei zugänglich ist, dann besteht die Operationalisierung des Literaturversorgungsauftrags
+nicht mehr primär darin, Zugänge zu kaufen, sondern darin, die verfügbaren
+Zugänge im Hinblick auf die einrichtungsspezifischen Bedarfe zu ordnen, zu organisieren,
+aufzubereiten und zu filtern. Der Ort, in dem das, beziehungsweise das Instrument,
+mit dessen Hilfe das geschieht, ist der Bibliothekskatalog. Ein kluger Bibliothekskatalog
+versammelt nicht nur die für die Einrichtung benötigte Literatur, sondern verfügt über
+zielgruppenspezifische Einstiegspunkte sowie Ordnungs- und Ausgabemöglichkeiten. Bestandsentwicklung
+wird so zur Katalogentwicklung – sowohl hinsichtlich der Frage, was
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-018
+im Katalog recherchierbar ist als auch, wie die Inhalte organisiert und präsentiert
+werden.1
+Mit diesem veränderten Zugriff auf Bestandsentwicklung verändert sich auch das
+Verhältnis von Erwerbung, Bestand und Katalog. Aspekte wie Aussonderungs- und
+Geschenkpolitiken außen vorgelassen, waren vor der Open-Access-Transformation
+Erwerbungspolitik, Bestandsaufbau und Nachweis unmittelbar gekoppelt (vgl. Abb. 1):
+Literatur, die benötigt wurde, wurde nach Möglichkeit gekauft und über den Katalog
+dokumentiert. Der Katalog war ein um Zugangsinformationen erweitertes Inventarverzeichnis
+erworbener, physischer und digitaler Bestände. Es bestand also ein
+unmittelbarer Zusammenhang von Literaturzugang (Ziel), Erwerbungsmitteln (Instrument)
+und Katalog (Repräsentation).
+ERWERBUNG
+Kauf, Lizenzierung
+BESTAND
+Literaturversorgung
+KATALOG
+Nachweis des Inventars
+MITTEL FUNKTION REPRÄSENTATION
+Abb. 1: Erwerbung und Bestandsentwicklung vor der Open-Access-Transformation.
+VERFÜGBARE RESSOURCEN
+Open-Access-Publikationen
+KATALOG
+Nachweis einrichtungsrelevanter
+Ressourcen
+REPRÄSENTATION FUNKTION MITTEL
+ERWERBUNG
+Finanzierung von
+Publikationen
+Abb. 2: Erwerbung und Bestandsentwicklung im Open-Access-Kontext.
+ Ausführlicher dazu Rösch 2023.
+292 Henriette Rösch
+Die Open-Access-Transformation löst diesen Konnex an beiden Stellen auf (vgl. Abb. 2).
+Erstens: Der über den Katalog repräsentierte Bestand ist sehr viel umfangreicher als
+der Nachweis der Produkte, für welche die Einrichtung eine Rechnung bezahlt hat.
+Zweitens: Der Einsatz von Mitteln (das Bezahlen einer Rechnung an Verlage) steht
+nicht mehr in unmittelbarem Zusammenhang mit dem damit ermöglichten Zugang zu
+Literatur, beziehungsweise bilden die über die Einrichtungen finanzierten Publikationen
+nur einen Bruchteil der Literaturversorgung ab.
+2 Rahmenbedingungen der Erwerbungspolitik
+unter Open-Access-Vorzeichen
+Vor der Open-Access-Transformation haben also Erwerbungspolitik und Bestandspolitik
+gegenseitig aufeinander verwiesen, weil der Mitteleinsatz sich direkt im Bestandsaufbau
+niedergeschlagen hat. Das heißt, eine festgelegte Summe wurde eingesetzt, um
+den Zugang zu einer ganz konkreten Ressource dauerhaft oder für einen bestimmten
+Zeitraum zu erwerben. Fehlender Mitteleinsatz führte dazu, dass dieser Zugang nicht
+(weiter) verfügbar war.
+Unter Open-Access-Bedingungen wird dieses Verhältnis deutlich komplizierter.
+Natürlich bleibt unter Open-Access-Vorzeichen das grundlegende Ziel der Erwerbungspolitik
+bestehen, also der planvolle Mitteleinsatz zur Gewährleistung der Literaturversorgung.
+Gleichzeitig bedeutet Open Access ja die freie Verfügbarkeit von
+Literatur, und damit ist der Literaturversorgungsauftrag erfüllt. Erwerbungspolitik
+und Open-Access-Transformation haben also natürlicherweise das gleiche Ziel oder
+den gleichen Effekt, je nach Perspektive.
+Im Kontext einer Open-Access-Transformation, die überwiegend auf publikationsbasierten
+Finanzierungsmodellen aufsetzt, bedeutet Erwerbungspolitik ein Spiel über
+Bande, in dem Abhängigkeiten zum Verhalten verschiedener anderer Akteure bestehen,
+was die Lage oft unübersichtlich oder zumindest sehr komplex macht. Wenn eine
+Einrichtung Zugang zu den Inhalten eines Closed-Access-Zeitschriftenpaketes erhalten
+wollte, musste sie bisher lediglich den aufgerufenen Preis zahlen können. Unbeeinflussbare
+Abhängigkeiten vom Verhalten anderer Einrichtungen bestanden mitunter beim
+Thema der Anzahl der Konsorten bei Konsortialangeboten zur Erreichung von Rabattstufen
+oder der anteiligen Förderung von Lizenzen durch die DFG. Mögliche Ausnahmen
+resultieren weiter aus der Geschäftspolitik der Anbieter, die College-Pakete nur im
+Hochschulbereich anbieten. Ist dieses Zeitschriftenpaket aber vollständig frei verfügbar
+als Gold Open Access, dann benötigt die Einrichtung zunächst gar keine eigenen Mittel,
+um den Zugang zu den Inhalten zu erhalten. Gleichzeitig aber ist sie davon abhängig,
+dass weltweit eine ausreichende Zahl von Einrichtungen die Publikationsgebühren
+ihrer Autor:innen in diesen Zeitschriften übernimmt.
+4.5 Erwerbungs- und Bestandspolitik 293
+Bei Transformationsverträgen sieht es noch einmal anders aus; hier kann der Zugang
+zu den Inhalten und auch die Open-Access-Publikationsmöglichkeit durch einen festgesetzten
+Preis erworben werden. Ob und wann der Verlag aber vollständig nach Gold
+Open Access wechselt, ist abhängig von der Teilnehmerzahl am Transformationsvertrag
+innerhalb eines Konsortiums, der Anzahl weltweit bestehender Transformationsverträge
+und der Zahl der Publikationen innerhalb der existierenden Transformationsverträge
+und nicht zuletzt auch vom Kalkül des Verlags.
+Je weiter die Open-Access-Transformation voranschreitet, desto voraussetzungsreicher
+wird die Gewährleistung einer angemessenen Literaturversorgung, weil diese
+darauf basiert, dass die überwiegende Zahl der Player ihre Erwerbungspolitiken und
+ihren Mitteleinsatz auf dieses Ziel hin ausrichten. Überspitzt gesagt: Eine Einrichtung
+kann ihre Erwerbungsmittel vollständig für Open-Access-Publikationen und diverse
+Open-Access-Modelle einsetzen – wenn sie die einzige weltweit ist, kommt sie damit
+dem Ziel einer Literaturversorgung via Open Access nur minimal näher. Umgekehrt:
+Eine Einrichtung kann keinen Cent für Open-Access-Gebühren ausgeben und trotzdem
+ihre Literaturversorgung über vorhandene Open-Access-Publikationen abdecken,
+wenn ausreichend andere Player ihre Erwerbungspolitik und Mitteleinsätze
+entsprechend ausrichten. Wir haben es also mit dem Phänomen einer notwendigen
+kritischen Masse an Akteuren zu tun, deren Zusammenspiel erst die Zielerreichung
+ermöglicht. Der eigene Mitteleinsatz – etwa die Finanzierung einer Article Processing
+Charge (APC) für eine Open-Access-Zeitschrift oder die Beteiligung an einem Pledging-
+Projekt für Open-Access-Bücher – ist erst im Zusammenspiel dieser Akteure ein Baustein
+für das Ziel der Literaturversorgung.
+Dieser Mechanismus basiert nicht, wie es ein häufiges Missverständnis suggeriert,
+auf Solidarität, sondern auf einem durchaus ökonomischen Kalkül: nämlich auf dem
+Vertrauen, dass alle relevanten Akteure das gemeinsame Verständnis teilen, dass
+diese Form der – wenn man so will – puzzleförmigen, sich addierenden Finanzierung
+von Open-Access-Modellen am Ende für alle kostengünstiger ist als das bisherige Subskriptionsmodell.
+2 Wie erwähnt, ist das Ganze sehr voraussetzungsreich, wobei die
+Gleichzeitigkeit von verschiedenen Finanzierungsmodellen und das Nebeneinander
+von Closed und Open Access die Komplexität noch einmal erhöhen.
+ Ein ähnlicher Mechanismus greift auch bei der der Beteiligung an der Entwicklung von Open-
+Source-Software. In beiden Fällen finden sich daneben Motivationen auf politischer und ethischer
+Ebene, wie z. B. die grundsätzliche Ablehnung des privatwirtschaftlichen Eigentums an Wissen bzw.
+Code oder die Ermöglichung des Zugangs für alle unabhängig von den finanziellen Ressourcen des
+Einzelnen.
+294 Henriette Rösch
+2.1 Subsidiäre Ziele der Erwerbungspolitik in der Open-Access-
+Transformation
+Da das Ziel (Literaturversorgung) und die zur Verfügung stehenden Instrumente der
+Erwerbungspolitik (Finanzierung von einzelnen Publikationen) so weit auseinanderliegen
+und die Zielerreichung über die verfügbaren Instrumente nur mittelbar steuerbar
+ist, sollten subsidiäre Ziele der Erwerbungspolitik entwickelt werden, deren Erreichung
+messbarer beziehungsweise besser ansteuerbar ist.3
+2.1.1 Den eigenen Open-Access-Output erhöhen
+Versteht man die eigene Einrichtung als Teil des Ganzen im Prozess der Open-Access-
+Transformation, dann lässt sich als ein Ziel ableiten, den eigenen Open-Access-Output
+zu erhöhen, um damit die Literaturversorgung durch Open-Access-Publikationen insgesamt
+zu steigern. Ein Nebeneffekt eines erhöhten Open-Access-Outputs besteht zudem
+darin, die Sichtbarkeit des Forschungsoutputs der Einrichtung zu erhöhen und den Anforderungen
+für Drittmittelförderungen, bei denen die Open-Access-Publikation der
+Forschungsergebnisse zunehmend zum Standard wird, zu entsprechen.
+Die Instrumente zur Erhöhung der Zahl der Open-Access-Publikationen sind bekannt
+und werden an anderer Stelle im Band näher erläutert:
+– Förderung von Gold Open Access für Monografien und Zeitschriftenartikel (Kapitel
+5.1 „Open Access bei Zeitschriften“ und 5.2 „Open Access bei Büchern“)
+– Umwandlung der Subskriptions- in Transformationsverträge (Kapitel 5.1 „Open
+Access bei Zeitschriften“)
+– Aufbau von Infrastrukturen für Diamond Open Access (Kapitel 5.3 „Infrastrukturen
+rund um Open Access“)
+– Dienstleistungen für Open-Access-Zweitveröffentlichungen (Kapitel 5.3 „Infrastrukturen
+rund um Open Access“)
+All das sollte unterlegt sein mit unkomplizierten Services und einem fachspezifischen
+Informations- und Beratungsangebot. Für dieses Ziel können in der Bibliothek, gemeinsam
+mit der Einrichtungsleitung oder mit einzelnen Disziplinen, Zielmarken festgelegt
+werden, die mit Maßnahmen unterfüttert werden.
+ Zu den einzelnen Zielen auf stärker operativer Ebene vgl. Rösch u. a. 2022.
+4.5 Erwerbungs- und Bestandspolitik 295
+2.1.2 Die Rezeption von Open-Access-Publikationen erhöhen
+Versteht man die Open-Access-Transformation ausgehend von ihrer ursprünglichen
+Zielsetzung, den Zugang zur wissenschaftlichen Literatur für alle zu ermöglichen,
+dann ist es nur konsequent, die Open-Access-Publikationen auch im Katalog sichtbar
+und damit den Mehrwert der Open-Access-Transformation für die eigenen Nutzer:innen
+unmittelbar erlebbar zu machen. Dieser Mehrwert besteht nicht nur darin,
+dass beispielsweise für die Teilnehmer:innen der DEAL-Verträge das gesamte Zeitschriften-
+Portfolio der beiden beteiligten Verlage zugänglich ist, sondern in der großen
+Vielfalt der bereits vorhandenen Open-Access-Publikationen.
+In jeden Bibliothekskatalog sollten daher die (fachlich relevanten) Zeitschriften
+gehören, die das DOAJ nachweist; das gleiche gilt für Open-Access-Bücher. Ebenso
+nachgewiesen werden sollten die Inhalte von Fachrepositorien und – je nach Fächerspektrum
+der Einrichtungen – relevanter Preprint-Server. Zudem sollten frei verfügbare
+Forschungsdaten nicht nur im Katalog nachgewiesen, sondern auch mit den
+dazugehörigen Publikationen verknüpft werden. Ein Bibliothekskatalog, der sich als
+Repräsentation des Literaturversorgungsauftrags versteht, benötigt daher Kriterien
+und Abläufe sowie fachliche Zuständigkeiten für die Sichtung und Auswahl von
+Open-Access-Publikationsquellen für den Nachweis im Katalog.
+2.1.3 Einen vielfältigen Publikationsmarkt mit gesunder Konkurrenz fördern
+Die Open-Access-Transformation hat ihren Ursprung in der Zeitschriftenkrise, in der
+sich die Bibliotheken übermächtigen Publikationskonzernen gegenübersahen, die
+immer höhere Phantasiepreise für ihre Produkte aufrufen konnten. Trotz des Einbaus
+von Hürden und dem Transparenzgebot für Open Access ist es nicht ausgeschlossen,
+dass auch auf dem Open-Access-Publikationsmarkt vergleichbare Mechanismen der
+Oligopolbildung und Preisspiralen entstehen. Bibliotheken sollten also auch oder gerade
+unter Open-Access-Vorzeichen ein Interesse an einem gesunden und vielfältigen
+Publikationsmarkt haben, und zwar sowohl was die Vielfalt der Anbieter und als
+auch die der Finanzierungsmodelle betrifft.
+Dazu beitragen können Bibliotheken zum einem, indem sie, wie im DEAL-Prozess4
+oder anderen Formaten,5 abgestimmt und mit definierten Kriterien transparente und
+fairere Verträge mit den großen Verlagen aushandeln. Zum anderen können sie gezielt
+einen vielfältigen Publikationsmarkt fördern. Dies ist möglich, indem die Bibliotheksmittel
+bewusst für die Open-Access-Modelle kleiner und mittlerer Verlage eingesetzt
+ https://deal-konsortium.de/ (06.09.2023). Vgl. auch Kapitel 4.3 „Lizenzierung elektronischer Medien“.
+ Wie z. B. der Arbeitskreis Forum 13 +, der abgestimmt Transformationsverträge weiterer nationaler
+und internationaler Verlage vorantreiben will: https://forum13plus.de (06.09.2023). Vgl. auch Kapitel 4.3
+„Lizenzierung elektronischer Medien“.
+296 Henriette Rösch
+werden oder neuartige, kooperative Finanzierungsmodelle unterstützt werden. Zudem
+können Bibliotheken als Partner für kleine Verlage auftreten und durch Beratung oder
+andere Formen der Kooperation bei der Etablierung von Open-Access-Angeboten helfen.
+6 Zur Vielfalt des Publikationsmarktes können Bibliotheken auch beitragen, indem
+sie selbst verlagsunabhängige, wissenschaftsgetriebene Publikationsformate betreiben.
+Für die Unterstützung verlagsunabhängiger Publikationen aus der Wissenschaft heraus
+sind, wie in Abb. 3 dargestellt, verschiedene Ausbaustufen möglich (vgl. auch Kapitel 5.4
+„Open-Access-Repositorien und Universitätsverlage für eine offene Wissenschaft“).
+Die genannten Ziele der Erwerbungspolitik sind damit längst nicht mehr ausschließlich
+durch den Einsatz von Mitteln des Erwerbungsetats zu erreichen, sondern in der
+Verschränkung mit Dienstleistungen und technischen Infrastrukturen zu denken. Der
+Erwerbungsetat, einst Kern der Erwerbungspolitik, wird dadurch zu einem Instrument
+unter vielen.
+2.2 Kostensteuerung unter Open-Access-Vorzeichen
+Doch auch wenn weitere Instrumente neben den Erwerbungstat treten, um die Literaturversorgung
+zu gewährleisten, so entwickelt sich dieser gleichzeitig zu einem wirkmächtigen
+Steuerungsinstrument im Kontext der Open-Access-Transformation,7 indem
+bisher für Subskriptionen gebundene Mittel sukzessive für die Finanzierung von Open-
+Access-Publikationskosten umgewidmet werden.
+Verfügbare Mittel sollten aber auch unter dieser Zielsetzung weiterhin effizient
+und zielführend eingesetzt werden. Wie aber misst man den Erfolg des Mitteleinsatzes
+und steuert diesen, wenn Erwerbungsetat und Literaturversorgung nicht mehr
+unmittelbar zusammenhängen, sondern der Erwerbungsetat für die Begleichung von
+einrichtungsspezifischen Publikationskosten genutzt wird?
+Beratung zu Publikationsmöglichkeiten Diamond OA
+Bereitstellung von Infrastrukturen für Herausgabe verlagsunabhängiger
+Publikationen (Publikationsserver, OJS…)
+Bereitstellung von Fördermöglichkeiten für verlagsunabhängiges Publizieren
+Betrieb eines nichtkommerziellen
+Universitätsverlags
+Abb. 3: Stufen der Förderung von Diamond Open Access.
+ S. dazu Knoche 2023.
+ S. dazu Schimmer 2012.
+4.5 Erwerbungs- und Bestandspolitik 297
+Ob die Erwerbungspolitik und deren Operationalisierung im konkreten Mitteleinsatz
+zielführend waren, das heißt, ob mit den eingesetzten Mitteln der Bedarf an Literaturzugängen
+gedeckt werden konnte, ließ sich, wie in Abb. 4 dargestellt, bisher
+empirisch prüfen, indem Nutzungen gezählt und mit den erworbenen Medien ins Verhältnis
+gesetzt wurden. Wie häufig wurden die Bücher ausgeliehen, die angeschafft
+wurden? Wie waren Zugriffszahlen auf Datenbanken? Wie war das Verhältnis der
+Downloads zu den Lizenzierungskosten bei elektronischen Produkten? Mit den Ergebnissen
+solcher Auswertungen konnten nachvollziehbare Maßnahmen für den Mitteleinsatz
+abgeleitet werden: Produkte abbestellen oder upgraden, das Erwerbungsprofil
+anpassen oder neue Erwerbungsformate, wie die der nutzergesteuerten Erwerbung,
+einführen. Ob diese Maßnahmen die gewünschten Effekte erzielten, konnte man wiederum
+rückwirkend messen und dann entsprechend nachjustieren.
+Wenn es nun aber darum geht, relevante Teile des Erwerbungsetats für die Finanzierung
+der Open-Access-Publikationen von Autor:innen der eigenen Einrichtung einzusetzen,
+funktionieren diese Mechanismen der Etatsteuerung nicht mehr. Zum einen ist der
+grundlegende Bedarf, auf dessen Erfüllung der Erwerbungsetat unmittelbar zielt, nicht
+mehr die Literaturversorgung, sondern die Ermöglichung einer ausreichenden Finanzierung
+von Publikationen für die Forscher:innen der Einrichtung. Zum anderen haben
+Publikationsgebühren eine andere Produktlogik; sie lassen sich weder genau planen,
+noch unterliegen sie den Kostenintervallen von Haushaltsjahren.
+Um aber den Erwerbungsetat dennoch zu steuern, d. h. so zu regulieren, dass die
+knappen Mittel für den Bedarf ausreichen, können, wie in Abb. 5 dargestellt, verschiedene
+Bedingungen einer Finanzierung von Publikationsgebühren eingeführt werden.
+Diese zielen im Wesentlichen darauf, die Anzahl der geförderten Publikationen zu reduzieren
+oder den Kostenanteil zu senken.
+STEUERUNGSMECHANISMEN
+BEDARF
+Zugang zu benötigter
+Literatur
+ERWERBUNGSETAT
+An- und Abbestellungen
+Down- und Upgrades
+Dokumentenlieferung als Alternative zu
+Lizenzen
+Abb. 4: Etatsteuerung unter Subskriptionsbedingungen.
+298 Henriette Rösch
+Die dargestellten Steuerungsmechanismen imitieren jedoch die Subskriptionslogik und
+haben nur begrenzte Effekte. Zum einen kommt die Steuerungsabsicht auf Produktebene
+(Publikationsgebühr) an ihre Grenzen, weil bei publikationsbasierten Finanzierungsmodellen
+die Autor:innen ihre Publikationsentscheidung mit den damit verbundenen Kosten
+unabhängig von der Bibliothek treffen. Und in der Regel spielen bei den Entscheidungen
+der Autor:innen nicht Kosten-Nutzen-Abwägungen im Sinne eines Preises, sondern fachliche
+und karrierestrategische Motive eine Rolle. Daher kann bei publikationskostenbasierten
+Modellen auch keine eindeutige empirische Messung des Mitteleinsatzes analog zur
+Kosten-Nutzung-Messung erfolgen, sondern der Erfolg einer Publikation ist deutlich differenzierter
+und mit langfristiger Perspektive zu beurteilen: haben die Publikation und der
+gewählte Publikationsort Auswirkung auf die Karriere des bzw. der jeweiligen Autor:in?
+Hat sie Auswirkungen auf Rankings oder Drittmitteleinwerbung? Wird sie zitiert; ist die
+Veröffentlichung Grundlage weiterer Forschung? Eine Rückkopplung der angeführten
+Steuerungsoptionen hinsichtlich ihrer Effekte ist daher kaum möglich.
+Vor allem aber greifen diese Steuerungsmechanismen nur unzureichend, weil sie
+weiterhin auf der Logik des einzelnen Produkts ansetzen – in diesem Fall der Publikationsgebühr.
+Eine Steuerung des Erwerbungsetats im Rahmen der Open-Access-
+Transformation muss aber auf einer Analyse jenseits der einzelnen Gebühr fußen. Erwerbungssteuerung
+bedeutet, verschiedene Kostenarten zueinander in Beziehung zu
+setzen und Mechanismen zu entwickeln, um sich verändernde Be- und Entlastungen
+sowohl innerhalb als auch außerhalb des Erwerbungsetats zu erfassen und auszugleichen.
+So kann die zentrale Übernahme einer APC für eine Veröffentlichung in einer
+Gold-Open-Access-Zeitschrift durch die Bibliothek eine Entlastung an andere Stelle bedeuten,
+wenn stattdessen diese Publikation in einer Subskriptionszeitschrift veröffentlicht
+worden wäre und dabei separate Kosten für Color Charges am Lehrstuhl angefallen
+wären.
+STEUERUNGSMECHANISMEN
+LITERATURVERSORGUNG
+ERWERBUNGSETAT
+BEDARF
+Ermöglichung &
+Finanzierung von
+Publikationen
+Preisgrenzen/ Eigenbeteiligung
+Qualitätskriterien
+(Indexierung in definierten Datenbanken)
+Limitierung der Anzahl der Publikationen
+pro Person
+Abb. 5: Etatsteuerung bei publikationskostenbasierten Finanzierungsmodellen.
+4.5 Erwerbungs- und Bestandspolitik 299
+Gleichzeitig verändert die Open-Access-Transformation auch die Preiskulturen
+der Disziplinen: während sich in einigen Fächern das Publizieren auf scholar-led Diamond
+Open Access konzentriert, geht die Entwicklung in anderen zu kostenintensiven
+Traditionsverlagen und -zeitschriften. Dies führt zu Verschiebungen in den Kostenbelastungen,
+auf die Antworten jenseits bibliotheksgesteuerter Verteilungsschlüssel gefunden
+werden müssen. Voraussetzung für eine solche Gesamtbetrachtung ist die
+Einrichtung eines Informationsbudgets.
+2.3 Publikationskostenmonitoring und Informationsbudget
+Mit dem Konzept des Informationsbudgets sollen, wie in Abb. 6 dargestellt, alle Kosten
+im Zusammenhang mit der Informationsversorgung und dem Publizieren zusammengedacht
+werden, unabhängig davon, ob sie innerhalb oder außerhalb des Erwerbungsetats
+finanziert wurden.8
+Die Interdependenzen der aufgeführten Kostenarten müssen bei der Bewertung und
+bei Entscheidungen im Kontext der Open-Access-Transformation daher immer mitgedacht
+werden.
+ZENTRALER
+ERWERBUNGSETAT
+DEZENTRALE
+FINANZIERUNG VIA
+HAUSHALTSMITTEL
+DEZENTRALE
+FINANZIERUNG VIA
+DRITTMITTEL
+Gold Open Access Gebühren
+(APCs, BPCs)
+Andere Publikationskosten
+(Color Charges, Druckkostenzuschüsse, Submission Fees…)
+Transformationsverträge
+Diamond Open Access
+(Finanzierung von Publikationsplattformen, konsortiale OA-Erwerbung, Infrastrukturen)
+Sekundäre Publikationskosten
+(Proofreading, Übersetzungen…)
+Kauf/Lizenzierung von
+Zugängen & Beständen
+Hybrid Open Access
+außerhalb von Transformationsverträgen
+Dokumentlieferdienste
+Abb. 6: Kostenarten und Finanzierungsquellen des Informationsbudgets (am Beispiel der Universität
+Leipzig).
+ Wissenschaftsrat 2022; Pampel 2019; Mittermaier 2022.
+300 Henriette Rösch
+Um ein Beispiel zu nennen: Für ein bestehendes Subskriptions-Zeitschriftenpaket
+mit einem Verlag wird ein Transformationsvertrag angeboten (Read & Publish), der
+neben dem unbegrenzten Open-Access-Publizieren in den Hybrid-Journalen des Verlags
+einen erweiterten lesenden Zugriff auf das Gesamtportfolio des Verlages erlaubt
+sowie einen Rabatt von 20 % auf die Gold-Open-Access-Zeitschriftenflotte enthält. Gegenüber
+den Kosten des Subskriptionsvertrags ist der Transformationsvertrag allerdings
+deutlich teurer. Im Sinne des Informationsbudgets ist es für eine Bewertung der
+Kosten nicht ausreichend, diese beiden Preise (Transformationsvertrag vs. Subskriptionsvertrag)
+nebeneinanderzulegen. Vielmehr müssen auch andere Kostenarten in
+den Blick genommen werden. Wie viele Hybrid-Gebühren wurden in der Vergangenheit
+zusätzlich an den Verlag gezahlt, die nun entfallen? Fallen mit dem Transformationsvertrag
+auch zusätzliche Publikationskosten wie Color Charges weg? Können
+durch das erweiterte Portfolio-Kosten für die Dokumentlieferung gespart werden? Gewinnt
+der Verlag durch die für die Autor:innen nun kostenfreie Möglichkeit des
+Open-Access-Publizierens eine neue Attraktivität, die dazu führt, dass weniger in
+Gold-Open-Access-Zeitschriften publiziert wird? Welche Kostenersparnis macht die
+Rabattierung im Gold-Open-Access-Segment aus?
+Nimmt man also diese Aspekte in den Blick, wird sich die Gegenrechnung der Kosten
+vermutlich verändern. Das große Problem für die Etatsteuerung ist jedoch, dass
+sich die möglichen Kostenreduktionen durch den Vertragswechsel kaum oder gar nicht
+im zentralen Erwerbungsetat der Bibliothek niederschlagen, sondern relativ kleinteilig
+andernorts anfallen: etwa im gegebenenfalls separat und drittmittelfinanzierten Publikationsfonds
+oder bei zentralen und dezentralen Sachmitteln und diversen Projektmitteln.
+Gleichzeitig aber müssen die Mehrkosten für den Transformationsvertrag aus dem
+Erwerbungsetat finanziert werden.
+Die Steuerung der Erwerbungspolitik auf dieser Ebene ist folglich anspruchsvoll.
+Zum einen setzt sie ein umfassendes Publikations- und Publikationskostenmonitoring an
+der Einrichtung voraus, was heißt, dass die technischen, administrativen und organisatorischen
+Bedingungen gegeben sein müssen, um alle Publikationskosten der Einrichtungen
+zu identifizieren, zu lokalisieren und zu kontextualisieren. Zum anderen müssen
+transparente und praktikable Prozesse entwickelt werden, um Ausgleiche für die an verschiedenen
+Stellen der Einrichtung identifizierten Mehrbelastungen und Minderbelastungen
+zu schaffen. Maßnahmen, um dies zu erreichen, könnten sein:
+(1) Konsequente Anwendung von definierten Standards und Kriterien bei der Aushandlung
+von Transformationsverträgen durch abgestimmte nationale Verhandlungen
+(DEAL, Arbeitskreis Forum 13+). Ein Standard sollte dabei die transparente Ausweisung
+der Berechnungsgrundlagen und Kostenanteile sein.
+(2) Strukturierter Abfluss von Drittmitteln in den Erwerbungsetat der Bibliothek, die
+damit zentral alle (drittmittelbasierten) Publikationskosten abwickelt und auf diesem
+Weg auch Mehrkosten von Transformationsverträgen finanzieren kann.
+4.5 Erwerbungs- und Bestandspolitik 301
+(3) Einbezug der Bibliotheken in Antragsprozesse für Drittmittelförderung, um angemessene
+Finanzierungsposten für Publikationen zu platzieren.
+(4) Aufhebung von Haushaltsjahren in der Mittelzuweisung und -verausgabung, da
+Be- und Entlastungen sich zeitverzögert niederschlagen können.
+Die Herausforderung besteht darin, bei der Einrichtungsleitung und -verwaltung ein
+Bewusstsein für die Notwendigkeit zu schaffen, diese Prozesse zu initiieren.
+2.4 Kriterien für die Finanzierung von Open Access
+Neben der Perspektive auf die Finanzierbarkeit der Open-Access-Transformation über
+das Instrument des Informationsbudgets gehört zur Erwerbungssteuerung auch, dass
+qualitative Kriterien entwickelt und angewendet werden, die jenseits der jeweils spezifischen
+Finanzierungsfrage zur Bewertung von Produkten und Verträgen herangezogen
+werden. Um beim Beispiel des oben genannten Umstiegs auf einen Transformationsvertrag
+zu bleiben, sollten bei der Entscheidung auch Aspekte wie Kostentransparenz bzw.
+Nachvollziehbarkeit der Kalkulation, die transformative Perspektive des Vertrags, aber
+auch die Einreichungsworkflows für die Autor:innen und die internen Bibliotheksabläufe
+eine Rolle spielen.9 Denn „gute“ Verträge bedeuten nicht zwangsläufig kurzfristig
+günstige Verträge; vielmehr sollten auch Nachhaltigkeitsaspekte (Journal Flipping) oder
+Personalaufwände zur Administration eine Rolle spielen, deren kostensparenden Effekte
+erst auf längere Sicht wirken.
+Auch bei der Gold-Open-Access-Finanzierung sollten Bewertungskriterien eingeführt
+werden. Diese sollten neben formalen Kriterien, wie etwa der Vergabe von CCLizenzen,
+auch Festlegungen enthalten, wie die Qualitätssicherung der finanzierten
+Publikationen erfolgt. Hier ist es durchaus hilfreich, Fachwissenschaftler:innen der
+Einrichtung systematisch in die Entwicklung und Weiterentwicklung dieser eher qualitativen
+Kriterien einzubinden.
+Durch die Integration von qualitativen Kriterien laufen Kostensteuerung und Erwerbungspolitik
+zusammen, denn sie dienen nicht nur dazu, den Mitteleinsatz zu regulieren,
+sondern gezielt Verträge, Formate und Modelle zu finanzieren, die auf die
+Etablierung eines transparenten und fairen Open-Access-Publikationsmarktes zielen.
+ Zur Bewertung von Transformationsverträgen siehe u. a. Arbeitskreis Forum 13+ 2022.
+302 Henriette Rösch
+3 Open-Access-Transformation als
+Bestandsentwicklung
+Die Open-Access-Transformation bedeutet einen Paradigmenwechsel, der umfassende
+Auswirkungen auf die Bestands- und Erwerbungspolitik von Bibliotheken hat. In der
+Praxis der bibliothekarischen Erwerbungspolitik und -steuerung heißt das, dass kein
+Stein auf dem anderen liegen bleibt, sondern jeder einzelne Stein in die Hand genommen
+werden muss, um zu prüfen, ob er in seiner Form oder in seinem Kontext noch
+passend ist. Daneben beinhalten die im Beitrag aufgeführten Ziele und Steuerungsoptionen
+eine komplexe Wechselwirkung von Vergrößerung und Einschränkung der bibliothekarischen
+Handlungs- und Gestaltungsspielräume auf verschiedenen Ebenen.
+Damit verbunden ist ein steigender kommunikativer Aufwand durch die wachsende
+Anzahl der beteiligten Akteure, die – schaut man etwa auf das Thema Informationsbudget
+– dazu gebracht werden müssen, an einem Strang zu ziehen.
+Die Open-Access-Transformation wird in der aktuellen Debatte nicht selten verkürzt
+als Anforderung an die Bibliotheken und Hochschulen diskutiert, den neuen Bedarf an
+anfallenden Publikationskosten durch die Anpassung von Prozessen und Verteilungsmechanismen
+zu decken. Dabei wird mitunter vergessen, dass das Ziel der Open-Access-
+Transformation nicht darin besteht, das Publizieren der Wissenschaftler:innen zu finanzieren;
+dies ist vielmehr nur ein Mittel zu ihrer Realisierung. Das eigentliche Ziel besteht
+in der Schaffung des freien Zugangs zu wissenschaftlicher Literatur – und dieses Ziel
+trifft die Kernfunktion von Bibliotheken, nämlich die Literaturversorgung.
+Literatur
+Arbeitskreis Forum 13+ (Hrsg.): „Forum 13+“ – Spektrum zur Bewertung von Open Access-
+Transformationsverträgen und Verlagsangeboten: Stand Oktober 2021. 2022. https://doi.org/10.
+3249/ugoe-publ-12.
+Knoche, Michael: DEAL ist ein Problem – Gespräch mit Thomas Stäcker über die Folgen der Digitalisierung
+für Bibliotheken (3). In: Aus der Forschungsbibliothek Krekelborn. 2023. https://biblio.hypotheses.
+org/5100 (01.04.2023).
+Mittermaier, Bernhard: Das Informationsbudget: Konzept und Werkstattbericht. In: O-Bib 9 (2022), H. 4,
+S. 1–17. https://doi.org/10.5282/o-bib/5864.
+Pampel, H.: Auf dem Weg zum Informationsbudget: zur Notwendigkeit von Monitoringverfahren für
+wissenschaftliche Publikationen und deren Kosten. 2019. https://doi.org/10.2312/os.helmholtz.006.
+Rösch, Henriette: Bestand entwickeln und auffindbar machen. In: Praxishandbuch Wissenschaftliche
+Bibliothekar:innen. Hg. von Wilfried Sühl-Strohmenger u. Inka Tappenbeck. Berlin, Boston: De
+Gruyter 2024.
+4.5 Erwerbungs- und Bestandspolitik 303
+Rösch, Henriette, Kai Geschuhn, Irene Barbers, Karolin Bove, Tobias Pohlmann u. Lea Satzinger: Open
+Access ermöglichen: Open Access-Transformation und Erwerbung in wissenschaftlichen
+Bibliotheken – ein praktischer Leitfaden. In: zenodo (2022). https://doi.org/10.5281/zenodo.6090208.
+Schimmer, Ralf: Open Access und die Re-Kontextualisierung des Bibliothekserwerbungsetats. In:
+Bibliothek – Forschung und Praxis 36 (2012), H. 3, S. 293–299. https://doi.org/10.1515/bfp-2012-0038.
+Wissenschaftsrat: Empfehlungen zur Transformation des wissenschaftlichen Publizierens zu Open Access.
+2022. https://doi.org/10.57674/fyrc-vb61.

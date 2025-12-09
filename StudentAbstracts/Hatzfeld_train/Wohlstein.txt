@@ -1,0 +1,779 @@
+﻿Christoph Wohlstein
+10.1 Steuer-, Haushalts- und Vergaberecht
+
+1 Einführung
+Auch Bibliotheken müssen und wollen wirtschaften: Sie erhalten finanzielle Mittel
+von der sie tragenden Institution oder als Drittmittel, nehmen – etwa über Benut-
+zungs- oder Mahngebühren – Gelder ein, bezahlen Mitarbeitende und Heizkosten, er-
+werben Medien oder Sitzmöbel, beauftragen Handwerker:innen für Renovierungen
+oder geben Studien in Auftrag. All diese finanzwirksamen Rechtsgeschäfte unterfallen
+rechtlichen Regeln, denen sich Bibliotheken zu stellen haben.
+
+Das in diesem Kapital Gesagte betrifft dabei alle Bibliotheken, die sich mindestens
+überwiegend in der Trägerschaft der Öffentlichen Hand befinden. Ob Bibliotheken
+dabei der unmittelbaren Kommunal-, Landes- oder Bundesverwaltung (wie z. B. die
+Bayerische Staatsbibliothek als Mittelbehörde des Freistaats Bayern) angehören oder
+als verselbstständigte Körperschaft Teil der mittelbaren Staatsverwaltung sind (wie
+z. B. die Deutsche Nationalbibliothek als Anstalt öffentlichen Rechts des Bundes), ist
+vor diesem Hintergrund unerheblich. Ganz außer Acht lassen können aber auch über-
+wiegend privat finanzierte Bibliotheken die folgenden Ausführungen nicht, soweit
+sie, etwa projektbezogen, Zuwendungen der öffentlichen Hand empfangen.
+
+Die vorgestellten Rechtsgebiete stellen jedes für sich genommen je eine umfang-
+reiche und komplexe Materie dar. Die folgende Einführung konzentriert sich daher
+auf wesentliche Grundsätze bzw. Grundlagen und soll einen ersten Einstieg in die
+Thematik ermöglichen.
+
+2 Haushaltsrecht
+2.1 Begriff und Gegenstand
+
+Das Haushaltsrecht umfasst alle Vorschriften, welche unmittelbar die Erhebung und
+Verwendung der öffentlichen Finanzmittel regeln, einschließlich der voraus liegenden
+Planung und der nachfolgenden Kontrolle des Kassen- und Rechnungswesens sowie der
+Vermögens- und Schuldenverwaltung.1 Haushaltsrecht ist in weitem Umfang Innenrecht
+des Staates ohne Außenwirkung. Es ist vom Abgaben- bzw. Steuerrecht abzugrenzen,
+das die Zahlungspflichten des Bürgers bzw. von sonstigen Körperschaften gegenüber
+
+ Kube 2021: Rn. 1.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-044
+
+
+
+768 Christoph Wohlstein
+
+dem Staat regelt. Weiter ist es abzugrenzen von den Rechtsmaterien, die sich mit dem
+Finanzausgleich im bundesstaatlichen sowie im kommunalen Rahmen befassen.2
+
+2.2 Rechtsgrundlagen
+
+Das Haushaltsrecht als Ordnungsrecht der öffentlichen Finanzen ist von elementarer
+Bedeutung für das Funktionieren des Staates und seiner Einrichtungen. Diese Bedeu-
+tung spiegelt sich darin wider, dass das Recht der öffentlichen Finanzen Verfassungs-
+rang genießt. Auf Bundesebene finden sich die entsprechenden Regelungen in den
+Art. 104a bis 115 Grundgesetz (GG). Die Bewilligung von staatlichen Ausgaben durch
+Aufstellung der Haushaltsgesetze, das Budget- oder Etatrecht, ist dabei das sogenannte
+Königsrecht des Parlaments und spielte historisch eine zentrale Rolle in der Auseinan-
+dersetzung mit den monarchischen Herrschern.3 Auch die Länder haben einige wesent-
+liche Punkte des staatlichen Finanzwesens deshalb in ihre Verfassungen aufgenommen
+(z. B. Art. 139–145 HessLV, Art. 58–65 S-H-LV).
+
+Nach Art. 109 Abs. 1 GG herrscht zwischen den Haushalten von Bund und Län-
+dern eine grundsätzliche Trennung, die als sog. Haushaltsautonomie bezeichnet wird.
+Art. 109 Abs. 4 GG gibt aber dem Bundesgesetzgeber die Befugnis, durch ein Bundes-
+gesetz gemeinsam geltende Grundsätze für das Haushaltsrecht, für eine konjunktur-
+gerechte Haushaltswirtschaft und für eine mehrjährige Finanzplanung aufzustellen.
+Von dieser Ermächtigung hat der Gesetzgeber mit dem Haushaltsgrundsätzegesetz
+(HGrG) Gebrauch gemacht.
+
+Nach dem Grundgesetz und den Landesverfassungen ist das HGrG damit eine
+weitere zentrale Norm des Haushaltsrechts. Es verpflichtet Bund und Länder zur Be-
+achtung zentraler hergebrachter haushaltsrechtlicher Grundsätze und sorgt damit für
+eine gewisse Einheitlichkeit des Haushaltsrechts im Föderalismus. Die Aufstellung
+und Durchführung des Haushaltsplans regeln im Konkreten dagegen die Bundes-
+haushaltsordnung (BHO) bzw. die Landeshaushaltsordnungen (LHO), die sich struktu-
+rell jeweils stark ähneln und nur in Details abweichende Regelungen treffen.
+
+Kreise und Gemeinden sind zwar eigenständige Rechtskörperschaften mit
+Selbstverwaltungsgarantie, allerdings im staatlichen Aufbau der Bundesrepublik gänz-
+lich den Ländern zugewiesen. Sie sind keine selbstständigen Haushaltsträger im Sinne
+des HGrG.4 Für kommunale Bibliotheken sind daher weder HGrG noch BHO oder LHO
+verbindlich. Vielmehr bemisst sich das Haushaltsrecht der Kommunen und damit auch
+ihrer Bibliotheken nach landesrechtlichen Regelungen von Gemeindeordnungen und
+Gemeindehaushalts(ver)ordnungen (auch Kommunalhaushaltsverordnungen). Mit Ein-
+
+ Kube 2021: Rn. 1.
+ Kube 2021: Rn. 9.
+ Vgl. Lewinski u. Burbat 2013: § 1 Rn. 4.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 769
+
+schränkungen enthalten diese Normen aber Regelungen, die denen der Haushaltsord-
+nungen von Bund und Ländern vergleichbar sind.
+
+Das Haushaltsgesetz als quantitative Festlegung des jährlichen Budgets ist dagegen
+nur für das darin geregelte Jahr wirksam. Es wird mangels Außenwirkung nicht formell
+bekannt gemacht, d. h. nicht im Bundes- bzw. den Landesgesetzblättern veröffentlicht.
+
+2.3 Haushaltsgrundsätze
+
+Für Bund und Länder sind die Grundsätze der Haushaltsaufstellung und -durchführung
+im HGrG ausdrücklich oder implizit normiert. Sie sind in der Folge auch in der BHO
+und den LHOen umgesetzt worden (z. B. in § 11 BHO). Obwohl die Gemeinden nicht
+Adressaten des HGrG sind, sind die folgenden Grundsätze auch in den kommunalen
+Haushaltsvorschriften in den Gemeindeordnungen berücksichtigt. Sie sind damit für
+alle Bibliotheken der öffentlichen Hand von Interesse.
+
+2.3.1 Grundsatz der Jährlichkeit und Vorherigkeit
+
+Der Haushaltsplan ist für genau ein Haushaltsjahr aufzustellen. Haushaltsjahr (Rech-
+nungsjahr) ist grundsätzlich das Kalenderjahr (§ 4 HGrG). Der Haushaltsplan muss vor
+Beginn des Haushaltsjahres und damit vor Beginn seiner eigenen Gültigkeit aufgestellt
+worden sein (Art. 110 Abs. 2 GG, § 1 BHO, auf Länderebene z. B. § 2 HessLHO). In der
+Staatspraxis wird der Aspekt der Vorherigkeit aber durchaus flexibel gehandhabt, ins-
+besondere nach Wahlen gegen Jahresende. In solchen Fällen ist die Verwaltung befugt,
+die notwendigen oder aus zwingenden rechtlichen Verpflichtungen erwachsenden Aus-
+gaben im Wege der vorläufigen Haushaltsführung zu tätigen (z. B. Art. 111 GG).
+
+Die bei den Ländern vielfach vorhandenen Doppelhaushalte stellen keine Aus-
+nahme von diesem Prinzip dar (§ 9 Abs. 1 HGrG); vielmehr ist auch hier der Haus-
+haltsplan innerhalb des Doppelhaushalts jeweils, verfassungsrechtlich abgesichert,
+für jedes Jahr getrennt aufzustellen (z. B. Art. 110 Abs. 2 GG; für die Länder z. B.
+Art. 139 Abs. 2 und 3 HessLV).5 Ebenso wenig ist die Hereinnahme sog. Verpflichtungs-
+ermächtigungen, also Verpflichtung zur Leistung (auch) in zukünftigen Jahren eine
+echte Ausnahme (§ 22 HGrG). Sie sind insbesondere bei Eingehung langfristiger Ver-
+träge notwendig, um dem Vertragspartner eine Sicherheit für die Erfüllung seiner An-
+sprüche zu bieten.
+
+Echte Ausnahmen vom Jährlichkeitsgrundsatz sind dagegen etwa die nur bei Vor-
+liegen eines entsprechenden Haushaltsvermerks zu bildenden Ausgabenreste für Aus-
+gaben aus nicht verbrauchten zweckgebundenen Einnahmen (§ 15 Abs. 1 S. 1 HGrG)
+
+ Vgl. Lewinski u. Burbat 2013: § 8 Rn. 3.
+
+
+
+770 Christoph Wohlstein
+
+oder Selbstbewirtschaftungsmittel (§ 12 Abs. 3 HGrG).6 Diese Instrumente sollen eine
+flexible und vorausschauende Haushaltsführung der Verwaltung ermöglichen. Sie sol-
+len auch Tendenzen entgegenwirken, veranschlagte Ausgaben am Ende eines Jahres
+auch dann zu tätigen, wenn dies nicht notwendig ist, um Mittel nicht verfallen zu las-
+sen (sogenanntes Dezemberfieber).7
+
+2.3.2 Grundsatz der Haushaltseinheit und Vollständigkeit
+
+Für jedes Haushaltsjahr ist nur ein Haushaltsplan aufzustellen (§ 8 Abs. 1 HGrG). In
+jedem Haushaltsjahr soll sich weiter anhand eines Haushaltsplanes absehen lassen,
+wie die finanziellen Verhältnisse einer Körperschaft sich darstellen. Er muss darum
+sämtliche Einnahmen, Ausgaben und auch eingegangene Verpflichtungsermächtigun-
+gen einzeln darstellen.8 Das schließt nicht aus, dass der Haushaltsplan aus mehreren
+Dokumenten (etwa Haupt- und Nebenplänen) besteht. Widersprechen würde dem
+Grundsatz aber die Einführung von Sonder- oder Nebenhaushalten, „Schwarzen Kas-
+sen“9 oder aber die Aufgliederung in Einnahmen und Ausgaben in separierte Pläne
+zur Verschleierung der finanziellen Situation.
+
+2.3.3 Grundsatz der Fälligkeit
+
+Im Haushaltsplan sollen nur solche Einnahmen und Ausgaben berücksichtigt werden,
+die im Haushaltjahr fällig, also kassenwirksam sind (§ 8 Abs. 2 HGrG). Es kommt nicht
+auf den Zeitpunkt der Begründung der Verpflichtung an, sodass der Haushaltsplan
+eine Übersicht des tatsächlichen Bedarfs der staatlichen Finanzmittel ist.10
+
+2.3.4 Grundsatz der Gesamtdeckung
+
+§ 7 S. 1 HGrG normiert, dass alle staatlichen Einnahmen zur Deckung aller staatlichen
+Ausgaben eingesetzt werden dürfen (Non-Affektation). Einnahmen dürfen damit
+grundsätzlich nicht zweckgebunden veranschlagt werden. Dieser Grundsatz sichert
+einerseits die Entscheidungshoheit des Gesetzgebers im Rahmen der Budgethoheit,
+indem er überhaupt erst eine kreative Gestaltung des Haushalts ermöglicht, anderer-
+
+ Vgl. Lewinski u. Burbat 2013: § 8 Rn. 4.
+ Vgl. Lewinski u. Burbat 2013: § 8 Rn. 3 (Hinweis).
+ Vgl. Lewinski u. Burbat 2013: § 8 Rn. 18.
+ Vgl. Lewinski u. Burbat 2013: § 8 Rn. 13.
+ Vgl. Lewinski u. Burbat 2013: § 8 Rn.18 ff.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 771
+
+seits soll er Ressortegoismen vorbeugen.11 Konkrete Ausnahmen können durch Gesetz
+(Ausnahme) oder Haushaltsvermerk (Regelfall) festgelegt werden, in dem eine Verbin-
+dung zwischen Einnahmen und Ausgaben hergestellt wird.
+
+2.3.5 Grundsatz der Einzelveranschlagung
+
+Nach dem Grundsatz der Einzelveranschlagung müssen Einnahmen nach ihrem Ent-
+stehungsgrund, die Ausgaben und Verpflichtungserklärungen nach ihrem Zweck se-
+parat veranschlagt werden. Soweit nötig, sind sie zu erläutern. (§ 12 Abs. 4 HGrG).
+Diese Regel ist ein wesentliches Werkzeug der Transparenz und Haushaltsklarheit.
+
+2.3.6 Grundsatz der Notwendigkeit der Ausgaben
+
+Erhebung und Verwendung staatlicher Mittel sind im demokratischen Rechtsstaat
+stets rechtfertigungsbedürftig. So sind nur solche Mittel in den Haushaltsplan einzu-
+stellen, die unbedingt zur Erfüllung staatlicher Aufgaben notwendig sind (§ 5 HGrG).
+Soweit Mittel darüber hinaus unvorhergesehen notwendig werden (was in der Praxis
+insbesondere bei Doppelhaushalten regelmäßig geschieht) sind Nachtragshaushalte
+im parlamentarischen Verfahren zu verabschieden. Für diese gelten, soweit anwend-
+bar, wiederum die Haushaltsgrundsätze. Nur im Falle eines unvorhergesehenen und
+unabweisbaren Mehrbedarfs ist ein Notbewilligungsrecht des jeweiligen Finanzminis-
+teriums vorgesehen (Art. 112 GG, § 37 BHO sowie § 37 LHOen), wobei die konkrete
+Ausgestaltung und Begrenzung auf Bundes- und Landesebene geringfügig abweicht.
+
+2.3.7 Grundsatz der staatlichen Doppik
+
+Die Haushaltsführung der öffentlichen Hand soll der Buchführung von Privatunterneh-
+men möglichst angeglichen werden, um eine wirtschaftlich realistische Einschätzung
+der Vermögensverhältnisse darzustellen (§ 7a HGrG). Dieser Haushaltsgrundsatz ist erst
+im Jahr 2009 für Bund und Länder in das HGrG eingefügt wurden und bezieht die Rege-
+lungen des Handelsgesetzbuchs (HGB) und der Grundsätze ordentlicher Buchführung
+aus dem handelsrechtlichen Kontext ins Haushaltsrecht ein. Auf kommunaler Ebene ist
+die hergebrachte Kameralistik als Gegenmodell mit abnehmender Tendenz noch vor-
+handen (so existieren auf Landesebene noch Gemeindehaushaltsordnungen zur kame-
+ralen Haushaltsführung – bspw. SchlHGemHVO-Kameral).
+
+ Vgl. Lewinski u. Burbat 2013: § 7 Rn. 2.
+
+
+
+772 Christoph Wohlstein
+
+2.3.8 Haushaltswahrheit und -klarheit
+
+Die Positionen des Haushaltsplanes sind inhaltlich – soweit nach Prognose möglich –
+so genau und richtig wie möglich einzuschätzen (materielle Wahrheit) und diesen
+auch formal übersichtlich und klar darzustellen (formale Klarheit).12 Dies ergibt sich
+aus §§ 10, 11 HGrG.
+
+2.3.9 Wirtschaftlichkeit und Sparsamkeit
+
+Auch dieser Grundsatz spiegelt die stete Rechtfertigungsnotwendigkeit staatlichen
+Mittelgebrauchs wider. Das Wirtschaftlichkeitsgebot, welches auf Bundesebene Ver-
+fassungsrang besitzt (Art. 114 Abs. 2 GG), hat in der Praxis der öffentlichen Hand auch
+jenseits des Haushaltsaufstellungsverfahrens größte Bedeutung und wirkt damit über
+das engere Haushaltsrecht hinaus. Er ist als Leitprinzip des gesamten Haushaltsrechts
+auch Prüfungsmaßstab für die Rechnungshöfe in Bund und Ländern.13 Dabei ist die
+rechtliche Überprüfung durch den Einzelnen nur sehr eingeschränkt möglich.
+
+Der Grundsatz soll die bestmögliche Nutzung aller öffentlichen Ressourcen be-
+zwecken. Er muss daher das beste Verhältnis zwischen Mitteleinsatz und bezweck-
+tem, sachlich gerechtfertigtem Ergebnis erzielen (Min-Max-Prinzip).14 § 30 HGrG leitet
+als Spezialgesetz in das Vergaberecht über und ist von seinem materiellen Gehalt her
+bereits in diese Rechtsmaterie einzuordnen. Er normiert, dass dem Abschluss von
+Verträgen über Lieferungen und Leistungen (soweit sich nicht etwas Anderes aus den
+Umständen ergibt) ein Vergabeverfahren in Gestalt der Öffentlichen Ausschreibung
+oder Beschränkten Ausschreibung mit Teilnahmewettbewerb vorauszugehen hat.
+
+2.4 Zuwendungsrecht
+
+Das Zuwendungsrecht ist ein Teilgebiet des Haushaltsrechts (§ 14 HGrG). Zuwendun-
+gen sind staatliche Geldleistungen, mit denen die Empfänger Aufgaben erfüllen, die
+im erheblichen öffentlichen Interesse liegen.15 Dies können sowohl echte Zuschüsse
+als auch Darlehen oder finanzielle Leistungen anderer Art an Stellen außerhalb der
+zuwendungsgebenden Institution sein. Dabei können Zuwendungsempfänger private
+
+ Vgl. Lewinski u. Burbat 2013: § 8 Rn. 26.
+ Vgl. Lewinski u. Burbat 2013: § 6 Rn. 6.
+ Vgl. Lewinski u. Burbat 2013: § 6 Rn. 2.
+ Mayer 2022: S. 33.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 773
+
+oder öffentliche Institutionen sein. Gerade bei wissenschaftlichen Bibliotheken spie-
+len Zuwendungen als Teil der Finanzierung von Forschungsprojekten eine ganz er-
+hebliche Rolle; dies gilt aber auch ganz allgemein für Zukunftsinvestitionen wie
+Digitalisierung oder Bestandserhaltung.
+
+Bei den Zuwendungsempfängern ist weiter zwischen institutionellen Zuwen-
+dungsempfängern (die Zuwendungen zur Deckung ihres gesamten oder eines nicht
+näher bestimmten Teils ihrer Ausgaben erhalten) und projektbezogenen Zuwen-
+dungsempfängern zu unterscheiden. Die Zuwendung kann dabei jeweils als Voll- oder
+Teilfinanzierung eines Vorhabens ergehen, wobei die Teilfinanzierung den Regelfall
+darstellt.16 Die Zuwendungsgeber legen ihrer Vergabeentscheidung in der Regel spezi-
+fische Förderrichtlinien zugrunde.
+
+Die Zuwendung wird den Empfängern in der Regel im Wege des Verwaltungsakts
+(Bescheides) und nur ausnahmsweise über einen Vertrag bewilligt. Mit der Finanzie-
+rungszusage werden dem Empfänger umfangreiche Verhaltens-, Dokumentations-
+und Nachweispflichten auferlegt, um die beabsichtigte Verwendung und deren Wirt-
+schaftlichkeit und Sparsamkeit abzusichern. Dies geschieht sowohl auf Bundes- als
+auch auf Landesebene im Wege von Nebenbestimmungen zum Verwaltungsakt (AN-
+Best-I/ANBest-P),17 die auch in den Vertrag eingebracht werden können. In beiden
+Fällen können Zuwendungen auch – soweit dies in der ursprünglichen Zuwendungs-
+bewilligung vorgesehen ist – an Dritte (Letztzuwendungsempfänger) weitergeleitet
+werden. Dabei ist es ratsam, dass auch der eigene Pflichtenkatalog weitergegeben
+wird. Verstöße gegen die Pflichten können dazu führen, dass die Zuwendung, auch
+soweit sie schon ausgegeben ist, zurückerstattet werden muss.
+
+Insbesondere sind Zuwendungsempfänger über die ANBest-I bzw. ANBest-P ab
+einer Förderungshöhe von 100 000 Euro und ab einem Schwellenwert von 25 000
+Euro zur Anwendung des Unterschwellen-Vergaberechts verpflichtet, soweit sie Auf-
+tragnehmer:innen zur Projekterfüllung benötigen.18
+
+ Mayer 2022: S. 81.
+ Anlage 1 zur VV Nr. 5.1 zu § 44 BHO – Allgemeine Nebenbestimmungen für Zuwendungen zur in-
+stitutionellen Förderung (ANBest-I, GMBl. Nr. 19/2019, S. 372; aktuell in der Fassung vom 13.06.2019)
+bzw. Anlage 2 zur VV Nr. 5.1 zu § 44 BHO – Allgemeine Nebenbestimmungen für Zuwendungen zur
+Projektförderung (ANBest-P, GMBl. Nr. 19/2019; aktuell in der Fassung vom 13.06.2019) bzw. Anlage 4
+zur VV Nr. 5.1 zu § 44 BHO – Allgemeine Nebenbestimmungen für Zuwendungen zur Projektförderung
+auf Kostenbasis (ANBest-P-Kosten, GMBl. Nr. 19/2019, S. 372, aktuell in der Fassung vom 13.06.2019).
+ Nr. 3.1 ANBest-I, Nr. 3.2 ANBest-P; das Gesagte gilt nur eingeschränkt für Zuwendungen auf Kosten-
+basis nach ANBest-P-Kosten.
+
+
+
+774 Christoph Wohlstein
+
+3 Vergaberecht
+3.1 Begriff und Gegenstand
+
+Das Vergaberecht umfasst die Gesamtheit aller Regeln und Vorschriften über die Ver-
+gabe von öffentlichen Aufträgen. Das Vergaberecht ist damit, vereinfacht gesagt, das
+Recht des Einkaufs der öffentlichen Hand. Dabei handelt es sich ausdrücklich um öf-
+fentliche Aufträge jeder Art, wie sie gerade auch in Bibliotheken vorkommen können:
+Es kann sich um klassische Beschaffungen wie den Einkauf neuer Sitzmöbel, eines
+Dienstfahrzeugs oder auch nur von Handtüchern für die Toiletten handeln. Genauso
+ist aber auch die Beauftragung von Dienstleistungen wie Reparaturen an den Regalen,
+eine arbeitspsychologische Beratung oder der externe Service an IT-Systemen um-
+fasst. Das gilt ebenso für einen Um-, An- oder Neubau des Bibliotheksgebäudes. Das
+Vergaberecht regelt damit Liefer-, Dienstleistungs- und Bauaufträge (§ 103 Abs. 1 Ge-
+setz gegen Wettbewerbsbeschränkungen – GWB).
+
+Die Beschaffung ist keine hoheitliche Aufgabe der Verwaltung, sondern hat ge-
+genüber der eigentlichen Verwaltungstätigkeit dienende Funktion und verschafft ihr
+die sachlichen Grundlagen. Nach außen hin tritt der Staat daher als Marktteilnehmer
+wie jeder andere auf und bedient sich des zivilrechtlichen Instruments des Vertrages.
+Dieses zivilrechtliche Handeln wird auch als Bedarfsdeckungsgeschäft oder fiskali-
+sches Hilfsgeschäft bezeichnet,19 was als Begriff den Blick auf die sehr hohe wirt-
+schaftliche Bedeutung verdeckt.20
+
+Das Vergaberecht regelt primär, auf welche Weise Auftragnehmer:innen durch
+die Öffentliche Hand ausgewählt werden. Während im Privatbereich und auch im un-
+ternehmerischen Verkehr grundsätzlich Vertragsfreiheit herrscht, hat die Verwaltung
+strenge Grundsätze bei der Auswahl von Vertragspartner:innen zu beachten. Diese
+Grundsätze werden durch die Anwendung bestimmter Verfahren zur Auswahl von
+Auftragnehmer:innen sichergestellt.
+
+3.2 Rechtsgrundlagen und Vergabegrundsätze, Zweiteilung
+des Vergaberechts
+
+Das Vergaberecht ist nicht zentral, sondern in einer Mehrzahl von Gesetzen auf unter-
+schiedlichen Normebenen geregelt. Das Vergaberecht hat sich historisch aus dem Haus-
+haltsrecht, insbesondere aus dem Grundsatz der Wirtschaftlichkeit und Sparsamkeit
+entwickelt.21 Aus der Geltung dieses Grundsatzes ergibt sich bis heute, dass der Preis
+
+ Stelkens u. Bonk et.al. 2023: § 1 Rn. 116.
+ Pünder u. Schellenberg 2019: § 97 GWB; Rn. 36.
+ Pünder u. Schellenberg 2019: § 97 GWB, Rn. 5 f.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 775
+
+des Angebots stets angemessene Berücksichtigung in der Wertung erfahren muss. Wei-
+tere wesentliche, das Vergaberecht prägende Grundsätze sind der Grundsatz der Ver-
+gabe im Wettbewerb, der Transparenz auf allen Ebenen der Vergabeentscheidung
+sowie der Gleichbehandlung und Nichtdiskriminierung von Marktteilnehmern.22 Letzte-
+res ergibt sich schon aus der fortdauernden Bindung der öffentlichen Auftraggeber an
+Art. 3 GG (Gleichbehandlungsgrundsatz), im Übrigen sind die Grundsätze in § 97 GWB
+ausdrücklich normiert.
+
+Die heutige Rechtslage ist geprägt von einer strikten formalen Zweiteilung (Dicho-
+tomie) des Vergaberechts in den sogenannten Unter- und Oberschwellenbereich.23
+Maßgeblich für die Trennung ist der (geschätzte) Auftragswert. Die Schwellenwerte
+werden von der EU-Kommission im Rahmen einer Verordnung europaweit einheitlich
+festgelegt und in regelmäßigen Abständen der Preisentwicklung angepasst, was in der
+Regel eine Erhöhung bedeutet. Im Baubereich sind, den hohen Kosten von Baumaß-
+nahmen Rechnung tragend, die Schwellenwerte stets wesentlich höher.
+
+Aktuelle Schwellenwerte (2023)24 sind nach einem vereinfachten Muster und in
+Netto-Beträgen:
+– Liefer- und Dienstleistungen für oberste und obere Bundesbehörden: 140 000 Euro
+– Liefer- und Dienstleistungen für sonstige öffentliche Auftraggeber: 215 000 Euro
+– Bauaufträge: 5 382 000 Euro
+
+Der Oberschwellenbereich ist stark europarechtlich geprägt.25 Die in diesem Bereich
+für inländische Stellen anwendbaren Normen sind der vierte Teil des GWB sowie die
+Vergabeverordnung (VgV). Man spricht im Oberschwellenbereich daher auch vom
+„GWB-Vergaberecht“ oder „Kartellvergaberecht“. In diesem Bereich ist der Gedanke
+des Wettbewerbs wegen der Marktwirkung von Großaufträgen besonders ausgeprägt,
+sodass er ausdrückliche gesetzliche Normierung gefunden hat (§ 97 GWB), was ebenso
+für die Verfahrenstransparenz gilt. Da das Vergaberecht im Unterschwellenbereich
+immer noch stark vom Haushaltsrecht geprägt ist und die BHO/LHO unmittelbar an-
+wendbar sind, bezeichnet man es zuweilen auch als Haushaltsvergaberecht. Es ist je-
+doch heute mittelbar ebenfalls stark vom EU-Recht geprägt.
+
+Für Bund und Länder mit Ausnahme von Sachsen (das die Einführung aber auch
+zeitnah plant) ist die Unterschwellenvergabeordnung (UVgO) neben den Haushalts-
+ordnungen die zentrale Norm der Unterschwellenvergabe. Die Vorgängerregelung
+der Vergabe- und Vertragsordnung für Leistungen – Teil A (VOL/A) wird damit mittel-
+fristig jede Bedeutung verlieren. Bei dem dazugehörigen Teil B (VOL/B) handelt es
+sich dagegen um Allgemeine Geschäftsbedingungen (AGB) der Öffentlichen Hand, die
+weiter anwendbar bleiben.
+
+ Willenbruch, Wieddekind u. Hübner 2023: § 97 GWB, R. 14, 19, 42.
+ Vgl. Lewinski u. Burbat 2013: § 30 Rn. 3.
+ Die neuen Schwellenwerte lagen bei Bearbeitungsschluss noch nicht vor.
+ Pünder u. Schellenberg 2019: § 97 GWB, Rn. 13.
+
+
+
+776 Christoph Wohlstein
+
+Die UVgO regelt ebenso wie die VgV die konkrete Vorgehensweise bei Beschaffun-
+gen. Dabei lehnt sie sich eng an die Vorgaben der VgV an, schafft aber flexiblere und
+vereinfachte Strukturen für die Beschaffungen. Das ist angesichts der Vielzahl an Alltags-
+geschäften der Öffentlichen Hand auch sachgerecht. Praktisch gesehen ist schließlich die
+weit überwiegende Mehrzahl an Aufträgen der Öffentlichen Hand im Unterschwellenbe-
+reich angesiedelt.26 Der gesamte Bereich der Bauvergabe wird über die Vergabe- und
+Vertragsordnung für Bauleistungen (VOB/A) abgedeckt, dass wiederum eine eigene Rege-
+lungssystematik aufweist, jedoch grundsätzlich vergleichbare Inhalte hat.
+
+Da im Übrigen nach dem in Deutschland geltenden Buchpreisbindungsgesetz
+(BuchPrG) ein Wettbewerb um den günstigsten Preis bei Büchern im Wesentlichen aus-
+geschlossen ist (§ 3, 5 BuchPrG), ist es wohl auch vertretbar, dass ein förmliches Verga-
+beverfahren in der Erwerbung im Unterschwellenbereich entfallen kann (§ 30 HGrG).27
+Allerdings unterfallen der Buchpreisbindung Zeitungen und Zeitschriften ebenso wenig
+(vgl. dazu § 30 GWB) wie elektronische Datenbanken. Fremdsprachige Medienwerke
+unterliegen der Preisbindung nur, wenn sie überwiegend für den Absatz in Deutsch-
+land bestimmt sind (§ 2 Abs. 2 BuchPrG).
+
+3.3 Vergabeverfahren
+
+Die Vergabe von Aufträgen, an deren Ende stets ein privatrechtlicher Vertragsschluss
+(Kauf-, Werk-, Miet-, Dienstvertrag o. ä.) steht, erfolgt nach gesetzlich festgelegten Ver-
+fahren. Diese unterscheiden sich im Ober- und Unterschwellenbereich. Gemeinsam
+ist allen Verfahren, dass der Auftraggeber seine Vorstellungen über die Beschaffung
+produktneutral in einer Leistungsbeschreibung festhält, deren Spiegelbild das Ange-
+bot des Bietenden sein soll.
+
+In der Hauptsache stehen dem Auftraggeber im Oberschwellenbereich das Offene
+Verfahren und das Nicht offene Verfahren mit Teilnahmewettbewerb zur Auswahl
+(§ 14 Abs. 1 VgV). Es handelt sich hierbei um die klassischen Ausschreibungen. Bei
+einem Teilnahmewettbewerb handelt es sich um ein der eigentlichen Vergabeentschei-
+dung vorgelagertes, transparentes Verfahren, bei dem der Auftraggeber nach öffentli-
+cher Aufforderung aus den eingegangenen Teilnahmeanträgen mehrere Unternehmen
+auswählt, die ein Angebot im Verfahren abgeben dürfen (§ 119 Abs. 4 GWB). Dies ge-
+schieht über den Nachweis der grundsätzlichen Eignung, ein bestimmtes Projekt durch-
+zuführen, etwa nach nachgewiesenen Kennzahlen oder über Referenzen.28
+
+ Vgl. Lewinski u. Burbat 2013: § 30 Rn. 4 (Hinweis).
+ Nach dem Zweiten Gesetz zur Änderung des Buchpreisbindungsgesetzes vom 01.09.2016 sind hier-
+von ausdrücklich auch E-Books umfasst; die hierum geführte Kontroverse (vgl. Katzenberger 2015,
+S. 909, FN 24) hat der Gesetzesgeber damit entschieden.
+ Pünder u. Schellenberg 2019: § 119 GWB, Rn. 29.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 777
+
+Ein anderes, vom Aufbau her simpler gelagertes Verfahren ist das Verhandlungs-
+verfahren, das wiederum mit oder ohne Teilnahmewettbewerb durchgeführt werden
+kann. Hier wird nur eine geringe Mehrzahl von Unternehmen angesprochen, die Teil-
+nahmeanträge und/oder Angebote abgeben darf. Diese Verfahren stehen jedoch nur
+in Sonderfällen offen (§ 14 Abs. 3 und 4 VgV). Den Verhandlungsverfahren ist eigen,
+dass über den Angebotsinhalt grundsätzlich verhandelt werden darf. In besonderen
+Fällen kann sich – z. B. bei technisch einzigartigen Lösungen – ein Verhandlungsver-
+fahren mit nur einem Bieter/einer Bieterin ergeben (etwa § 14 Abs. 4 Nr. 2 VgV).
+
+Den genannten Verfahrensweisen entsprechen im Unterschwellenbereich die Öf-
+fentliche Ausschreibung (§ 8 Abs. 2 UVgO – analog zum Offenen Verfahren), die Be-
+schränkte Ausschreibung mit Teilnahmewettbewerb (§ 8 Abs. 2 UVgO – analog zum
+Nicht offenen Verfahren) und die Verhandlungsvergabe, wiederum mit oder ohne
+Teilnahmewettbewerb (§ 8 Abs. 4 UVgO). Die Spielräume für die Verhandlungsver-
+gabe sind jedoch größer.
+
+Eine Sonderregel, die für Bibliotheken von Zeit zu Zeit Relevanz erlangen wird,
+betrifft freiberufliche Leistungen. Diese sind in § 18 Abs. 1 S. 1 Einkommenssteuerge-
+setz (EStG) normiert. Für Bibliotheken kommt insbesondere der Einkauf von Leistungen
+aus dem Bereich der Rechts- und Steuerberatung, des IT-Consultings, der Übersetzung,
+Redner:innen, Künstler:innen, Musizierenden und aus dem weiten Feld der Wissen-
+schaft (etwa für Gutachten oder zur wissenschaftlichen Erschließung von Beständen) in
+Betracht. Für diese Leistungen, die in besonderem Maße vom Vertrauen in die Fähigkei-
+ten des Leistenden als Individuum geprägt sind, schafft § 50 UVgO im Unterschwellenbe-
+reich eine vereinfachende Regelung zur Vergabe. Die Leistungen sind grundsätzlich im
+Wettbewerb zu vergeben, jedoch nur so weit, wie nach der Natur des Geschäfts oder
+den besonderen Umständen möglich ist. Dies wird in der Regel auf eine analoge Anwen-
+dung der Verhandlungsvergabe hinauslaufen.
+
+Der Direktauftrag für Kleinaufträge bis zu einem Beschaffungswert von 1 000
+Euro ohne Umsatzsteuer ist dagegen kein echtes Vergabeverfahren, sondern eine
+bloße Bestellung. Gleichwohl gilt die Bindung an den Grundsatz von Wirtschaftlich-
+keit und Sparsamkeit sowie das Gebot, von Zeit zu Zeit unter Auftraggebern zu wech-
+seln (§ 14 UVgO). Er entspricht damit grundsätzlich dem Vorgehen, das auch im
+Privaten gewohnt ist. Dem Direktauftrag entspricht im Rahmen der Bauvergabe wei-
+ter grob die sog. freihändige Vergabe (§ 3 Abs. 3 Vergabe- und Vertragsordnung für
+Bauleistungen – Teil A – VOB/A), die bis zum einem Wert von 10 000 Euro verein-
+fachte Bedingungen schafft. Hier sind in der Regel Vergleichsangebote einzuholen.29
+
+ Kapellmann u. Messerschmidt 2022: § 3b Rn. 26a.
+
+
+
+778 Christoph Wohlstein
+
+3.4 Rechtsschutzsystem
+
+Teilnehmer:innen oder Bietende eines Vergabeverfahrens gleich welcher Art müssen
+die Vergabeentscheidung der Bibliothek oder der Trägerkörperschaft keineswegs
+klaglos hinnehmen. Im Oberschwellenbereich stehen dabei zwei getrennte Rechts-
+wege zu Gebote, auf denen Primärrechtsschutz (also Einfluss auf das Vergabeverfah-
+ren selbst) oder Sekundärrechtsschutz (Schadensersatz) verfolgt werden kann.
+
+Das primärschützende Nachprüfungsverfahren ist grundsätzlich dem Oberschwel-
+lenbereich vorbehalten. Es gilt für alle Auftraggeber in diesem Bereich. Die Nachprü-
+fung ist ein gerichtsähnliches Verfahren, das bei den sogenannten Vergabekammern
+geführt wird (§ 155 ff. GWB). Diese sind allerdings Teil der Exekutive. Sie sind für den
+Bund etwa beim Bundeskartellamt eingerichtet (§ 158 Abs. 1 S. 1 GWB), bei den Ländern
+z. B. in Wirtschaftsministerien. Es handelt sich um ein maximal fünf Wochen dauerndes
+Eilverfahren (§ 167 GWB); dies soll einer unverhältnismäßigen Verzögerung der behörd-
+lichen Beschaffung entgegenwirken. Die Vergabekammern entscheiden über die Recht-
+mäßigkeit des Vergabeverfahrens und können Vergabeverfahren etwa zurückversetzen
+oder anordnen, dass eine Wertung neu und unter Berücksichtigung des Rechtsstand-
+punktes der Vergabekammer vorzunehmen ist (§ 168 Abs. 1 GWB). In zweiter Instanz
+sind die sog. Vergabesenate bei den Oberlandesgerichten zuständig (im Falle des Bun-
+des das OLG Düsseldorf, ansonsten das örtlich zuständige OLG, § 171 Abs. 3 GWB). Hier-
+bei handelt es sich nicht um Eilverfahren, sodass eine erhebliche zeitliche Verzögerung
+der Auftragserteilung droht.
+
+Besondere Wichtigkeit hat beim Primärrechtsschutz die Rügeobliegenheit der/des
+Bietenden. Was der/die Bietende an für sie/ihn erkennbaren Mängeln in den Vergabe-
+unterlagen nicht gegenüber dem Auftraggeber rechtzeitig gerügt hat, kann später im
+Nachprüfungsverfahren grundsätzlich nicht mehr mit Erfolg angegriffen werden (§ 160
+Abs. 3 GWB). Dabei sind die Anforderungen an eine Rüge sehr großzügig auszulegen.30
+
+Da auch bei rechtswidrigen Vergaben kein Vertragsabschlusszwang für die Öf-
+fentliche Hand besteht, kann ein Vertragsschluss im Wege des Rechtsschutzes grund-
+sätzlich nicht erlangt werden. Für ihr finanzielles Interesse sind Teilnehmer:innen
+oder Bietende daher auf Sekundäransprüche, das heißt auf Ansprüche auf Schadens-
+ersatz, verwiesen (§ 156 Abs. 3 GWB).31 Diese können je nach Anwendungsfall tatsäch-
+lich den entgangenen Gewinn,32 zumeist aber nur die Kosten der Angebotserstellung
+und etwaiger Rechtsvertretung umfassen (§ 181 GWB). Hier ist die Rüge zwar keine
+ausdrückliche Voraussetzung; wird sie unterlassen, kann dies aber als Mitverschul-
+den (§ 254 Bürgerliches Gesetzbuch – BGB) anspruchsmindernd ausgelegt werden.
+
+ Pünder u. Schellenberg § 160 GWB Rn, 58.
+ Gröpl 2019: § 55 Rn. 166.
+ Eingeschränkt jedenfalls seit BGH, Urteil v. 08.12.2020 Az. XIII ZR 19/19, der eine Aufhebungsabsicht
+der Vergabestelle zugunsten einer anderen Bieterin/eines anderen Bieters verlangt.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 779
+
+Im Unterschwellenbereich existiert kein einheitlicher separater Vergaberechts-
+zug. Auf Bundesebene ist eine Nachprüfung im oben genannten Sinne ausgeschlossen,
+Bietende sind daher auf das einstweilige Verfügungsverfahren vor den ordentlichen
+Zivilgerichten verwiesen.33 Einige Länder haben für Verfahren aus ihrem Bereich
+(also einschließlich der kommunalen Auftraggeber) jeweils Landesvergabeverordnun-
+gen bzw. -gesetze erlassen, die zumindest für Teile der Unterschwellenverfahren eine
+Nachprüfung zulassen (so z. B. Rheinland-Pfalz).34 Der Teilnehmerin, dem Teilnehmer
+oder Bietenden bleibt es unbenommen, bei den ordentlichen Gerichten Schadenser-
+satz zu erlangen. Die Anspruchsgrundlagen ergeben sich hier ausschließlich aus dem
+allgemeinen Zivilrecht (§ 280 Abs. 1, § 241 Abs. 2, § 311 Abs. 2 (BGB).
+
+4 Steuerrecht
+4.1 Begriff und Gegenstand des Steuerrechts
+
+Während die Regelungen des Haushalts- und Vergaberechts die Verwaltung und die
+Ausgabenseite bzw. die interne Verteilung des fiskalischen Vermögens umfassen,
+setzt das Steuerrecht die Grundsätze der Gewinnung von Einnahmen für die öffentli-
+che Hand fest. Nach der gesetzlichen Definition sind Steuern neben der Einnahmeer-
+zielungsabsicht grundsätzlich zweckfrei:
+
+Steuern sind Geldleistungen, die nicht eine Gegenleistung für eine besondere Leistung darstellen
+und von einem öffentlich-rechtlichen Gemeinwesen zur Erzielung von Einnahmen allen aufer-
+legt werden, bei denen der Tatbestand zutrifft, an den das Gesetz die Leistungspflicht knüpft; die
+Erzielung von Einnahmen kann Nebenzweck sein.35
+
+Der letzte Halbsatz dieser Definition gibt wieder, dass Steuern auch einen erheblichen
+Lenkungszweck verfolgen können, indem sie gewisse Verhaltensweisen mit finanziel-
+len Aufwänden verbinden, ohne dass ein staatliches Verbot ausgesprochen werden
+müsste.36
+
+Neben den Steuern stehen die Gebühren. Gebühren sind öffentlich-rechtliche
+Geldleistungen, die als Entgelt für konkrete, individuell zurechenbare staatliche Leis-
+tungen auferlegt werden und die dazu bestimmt sind, die Kosten der Leistung ganz
+oder teilweise zu decken („Verwaltungspreis“). Gebühren werden für die tatsächliche
+
+ So die ständige Rechtsprechung, vgl. KG Berlin Urteil v. 07.01.2020, Az. 9 U 79/19.
+ Landesverordnung über die Nachprüfung von Vergabeverfahren durch die Vergabeprüfstellen
+vom 26.02.2021.
+ § 3 Abs. 1 Abgabenordnung.
+ Vgl. auch Waldhoff 2021: § 67, Rn. 3 ff.
+
+
+
+780 Christoph Wohlstein
+
+Inanspruchnahme einer staatlichen Leistung erhoben.37 Hierzu gehören für Bibliothe-
+ken insbesondere Benutzungs- oder Mahngebühren.
+
+4.2 Rechtsgrundlagen
+
+Auch das Steuerrecht ist in der Verfassung verankert. Die Erhebung von Steuern
+selbst hat der Verfassungsgesetzgeber als staatliches Recht vorausgesetzt (Steuer-
+staat).38 Das Grundgesetz regelt daher nur die Gesetzgebungsbefugnis bezüglich ein-
+zelner Steuern (v. a. Art. 105 GG) und weist diese im Wege der ausschließlichen oder
+konkurrierenden Gesetzgebung primär dem Bund zu. Andererseits regelt das Grund-
+gesetz auch die Verteilung der Steuern im bundesstaatlichen Gefüge (Art. 106, 106a,
+106b, 107 GG).
+
+Zentrale Norm des Steuerrechts auf einfachgesetzlicher Ebene ist die Abgaben-
+ordnung (AO) von 1977, die die wesentlichen Grundsätze und Verfahrensweisen der
+Besteuerung einschließlich des außergerichtlichen Rechtsschutzes regelt und die we-
+sentlichen Definitionen, etwa die der Steuer und des Steuerpflichtigen selbst (§ 33
+AO), festlegt.
+
+Einzelne Steuerarten sind dagegen in Spezialgesetzen geregelt. So gelten nebeneinan-
+der etwa das Einkommenssteuergesetz (EStG), dessen praktisch wichtigster Anwendungs-
+fall die Lohnsteuer umfasst, das Umsatzsteuergesetz (UStG), welches die Steuerbelastung
+im unternehmerischen Geschäftsverkehr regelt, das Erbschaftssteuer- und Schenkungs-
+steuergesetz (ErbStG) zur Besteuerung von Nachlass- und Schenkungserwerb sowie das
+Körperschaftssteuergesetz (KStG) zur Besteuerung juristischer Personen und sonstiger ju-
+ristischer Rechtssubjekte.
+
+Das Steuerrecht ist – ähnlich wie das Haushaltsrecht – in seiner Anwendung
+durch die Finanzverwaltung in besonderem Maße durch Verwaltungsverordnungen
+und Anwendungserlasse geprägt. Diese haben wesentliche Auswirkungen, die aber in
+der Regel nur mittelbar sind.
+
+4.3 Bibliotheksspezifische Regelungen
+
+4.3.1 Umsatzsteuer
+
+Bei der Steuerpflicht spielt es – jedenfalls ganz grundsätzlich – zunächst keine Rolle,
+dass es sich bei Bibliotheken in der Regel um öffentlich-rechtliche Einrichtungen han-
+delt. Der Gedanke, dass staatliches Geld nur „von einer in die andere Tasche“ wandert,
+
+ Sauerland/Menzel 2022: Nr. 36.
+ Entscheidungen des Bundesverfassungsgerichts (BVerfGE) 82, 159, 178.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 781
+
+ist nur bei erstem Hinsehen zwingend: Zum einen wirtschaften auch Bibliotheken teil-
+weise in denselben Gebieten wie Privatunternehmen und sollen daher insofern keinen
+unbilligen Vorteil erlangen. Zum anderen sind die Empfänger von Steuererträgen nicht
+immer identisch mit den Rechtsträgern bzw. Mittelgebern der Bibliothek. Trotz dieses
+grundsätzlichen Gedankens bleibt festzuhalten, dass Bibliotheken in vielfacher Hinsicht
+einzelgesetzlich steuerlich privilegiert werden.39
+
+Das Umsatzsteuergesetz etwa knüpft für die Steuerbarkeit von Umsätzen an den
+Unternehmerbegriff an (§ 2 UStG). Danach ist Unternehmer:in, wer eine gewerbliche
+oder berufliche Tätigkeit selbstständig ausübt, unabhängig von einer Gewinnerzie-
+lungsabsicht (was sie von der Gewerbesteuer abgrenzt) oder von einer echten Markt-
+tätigkeit nach außen (§ 2 Abs. 1 UStG). Bibliotheken selbst oder die sie tragenden
+Institutionen werden diesem Begriff in aller Regel unterfallen.
+
+Das Gesetz nimmt jedoch in § 2b UStG juristische Personen öffentlichen Rechts
+(jPÖR) vom allgemeinen Unternehmerbegriff und damit ihre Umsätze von der Steuer-
+barkeit aus, soweit sie in Ausübung öffentlicher Gewalt Finanzmittel erwirtschaften
+(etwa als Gebühren, Beiträge etc.). Dies gilt wiederum nur, soweit dies nicht zu größe-
+ren Wettbewerbsverzerrungen führt (§ 2b Abs. 1 S. 2 UStG). Diese Ausnahme wird
+grundsätzlich für einen großen Teil der Bibliotheken oder der sie tragenden Körper-
+schaften als jPöR zutreffen, zumal für bibliothekstypische Leistungen wie die Medien-
+ausleihe keine relevante privatwirtschaftliche Alternative existiert und damit eine
+Marktverzerrung ausgeschlossen sein dürfte.
+
+Eine Gegenausnahme zum allgemeinen Steuerfreiheitsgrundsatz der jPöR liegt
+wiederum darin, dass Umsätze aus bestimmten, konkret benannten und jeweils nicht
+bibliothekstypischen Tätigkeiten der jPöR oberhalb einer Grenze von 17 500 Euro40
+steuerbar sind. Für Bibliotheken relevant ist etwa § 2b Abs. 4 Nr. 5 UStG iVm. Anhang 1
+zur Richtlinie 2006/112/EG Nr. 12, worin u. a. die Umsätze betriebseigener Kantinen
+oder Verkaufsstellen umfasst sind. Dies ist sachgemäß, da die Bibliothek hier in un-
+mittelbare Konkurrenz mit privaten Anbieter:innen tritt. Dieses Regelungsgefüge
+deckt sich exakt mit der Wertung des bereits von 1926 stammenden § 4 Nr. 20 UStG,
+der u. a. Archive und Bibliotheken generell von der Umsatzsteuer ausnimmt, herge-
+brachterweise aber einschränkend so ausgelegt wird, dass es sich hier nur um Um-
+sätze aus bibliothekstypischen Leistungen handeln kann.41 Ähnliche Ausnahmen
+ergeben sich für klassische Bücherflohmärkte (die unter § 4 Nr. 28 UStG subsumiert
+werden) und Veranstaltungen nichtgewerblicher Art (die von § 4 Nr. 22 lit. a UStG um-
+fasst sind).
+
+ Vgl. zum Ganzen DBV 2022; Wissenschaftlicher Dienst BT 2021.
+ Bunjes 2023: § 2b Rn. 53.
+ Treiber 2023: § 4 Nr. 20 (Fortsetzung) Rn. 25.
+
+
+
+782 Christoph Wohlstein
+
+4.3.2 Erbschafts- und Schenkungssteuer
+
+Erbschafts- und Schenkungssteuer sind gesetzlich gemeinsam und gleich geregelt, um
+die sonst offensichtlichen Umgehungsmöglichkeit durch vorgezogene Erbfolge zu
+Lebenszeit möglichst zu vermeiden. Grundsätzlich unterfällt der Erwerb aus Erb-
+schaften und Schenkungen der Steuerpflicht (§ 1 Abs. 1 Nr. 1 u. 2 Erbschafts- und
+Schenkungssteuergesetz – ErbStG). Von diesem Grundsatz gibt es wiederum viele
+Ausnahmetatbestände. Dabei dürften Erbschaften und Schenkungen, die Bibliotheken
+anfallen, in der Regel jedenfalls nicht voll zu versteuern sein. So ist ein Anfall an
+Bund, Länder, Gemeinden oder Gemeindeverbände nach § 13 Nr. 15 ErbStG steuerfrei.
+Diese Ausnahme betrifft Bibliotheken, soweit sie Teil der unmittelbaren Landesver-
+waltung sind. Solche Bibliotheken, die eigene Rechtspersönlichkeit aufweisen, werden
+in der Regel aber gemeinnützigen Charakter haben, was die Finanzverwaltung von
+Amts wegen festzustellen hat. Sie unterfallen damit der Steuerfreiheit gem. § 13 Nr. 16
+lit. b ErbStG. Hinzu kommt, dass der erb- oder schenkweise Erwerb von wissenschaftli-
+chen Sammlungen, Bibliotheken oder Archiven selbst (die in diesem Fall also Schenkge-
+genstand oder Teil der Erbmasse sind) ebenfalls nach § 13 Abs. 1 Nr. 2 lit. b ErbStG
+mindestens nur teilweise versteuert werden müssen.
+
+5 Fazit
+Die Kenntnis grundsätzlicher Strukturen der genannten Rechtsgebiete ist für die bib-
+liothekarische Praxis, soweit sie Berührung mit Finanzen hat, unabdingbar. Zwar
+sind die Rechtsgebiete komplex, die Regelungsmaterie vielgestaltig und die Rechtspre-
+chung gerade im Vergaberecht unübersichtlich. Dennoch muss das Handeln der Bib-
+liothek hier den Ansprüchen des Gesetzgebers und der Aufsichtsbehörden genügen,
+um eine tragfähige Zukunftsperspektive zu haben.
+
+Das gilt nicht weniger, wenn z. B. Beschaffungen durch eine zentrale Vergabe-
+stelle für mehrere Institutionen vorgenommen werden; hier sollten Vertreter:innen
+der Bibliothek souverän am Verfahren mitwirken können. Zur Vermeidung von finan-
+ziellen Nachteilen für ihre Bibliothek im Einzelfall sollten Handelnde jedoch stets die
+Option des Austauschs mit externer Beratung, so z. B. mit städtischen Rechtsämtern
+oder Beschaffungsstellen, der eigenen Rechtsaufsicht oder auch Anwaltskanzleien im
+Blick behalten. Ebenso gilt es, bei Mitarbeitenden aller Hierarchieebenen der Biblio-
+thek Sensibilität für die Grundgedanken etwa der Wirtschaftlichkeit und Sparsamkeit
+wachzuhalten. Dies ist schon ein Eigeninteresse der Bibliotheken, die mit knapper
+werdenden Mitteln ein möglichst breites Angebot an Leistungen aufrechterhalten
+wollen.
+
+
+
+10.1 Steuer-, Haushalts- und Vergaberecht 783
+
+Literatur
+Bunjes, Johann (Hrsg.): Umsatzsteuergesetz. 22. Aufl. München: C. H. Beck 2023.
+Deutscher Bundestag: Gutachten des Wissenschaftlichen Dienstes des Bundestags, Befreiung kultureller
+
+Einrichtungen und Dienstleistungen von der Umsatzsteuer – Unter besonderer Berücksichtigung der
+Bibliotheken – WD 4–30000 – 093/21 v. 10.11.2021. https://www.bundestag.de/resource/blob/
+871044/de1316300580b36545e7c3898210c098/WD-4-093-21-pdf-data.pdf (16.10.2023).
+
+Deutscher Bibliotheksverband: Umsatzsteuer und Öffentliche Bibliotheken. Stellungnahme vom
+22.08.2022. https://www.bibliotheksverband.de/sites/default/files/2022-08/20220822_Stellungnahme
+Umsatzsteuer und Öffentliche Bibliotheken.pdf (23.09.2024).
+
+Gröpl, Christoph (Hrsg.): Bundeshaushaltsordnung, Landeshaushaltsordnungen. 2. Aufl. München:
+C. H. Beck 2019.
+
+Kapellmann, Klaus u. Burkhard Messerschmidt (Hrsg.): Vergabe- und Vertragsordnung für Bauleistungen
+Teil A. 8. Aufl. München: C. H. Beck 2022.
+
+Katzenberger, Ruth: Haushalts- und Vergaberecht. In: Praxishandbuch Bibliotheksmanagement. Hrsg. von
+Rolf Griebel, Hildegard Schäffler u. Konstanze Söllner. Berlin, Boston: De Gruyter Sauer 2015.
+
+Kube, Hanno: Haushaltsrecht. In: Besonderes Verwaltungsrecht Bd. 3 – Kommunalrecht, Haushalts- und
+Abgabenrecht, Ordnungsrecht, Sozialrecht, Bildungsrecht, Recht des Öffentlichen Dienstes. Hrsg. von
+Dirk Ehlers, Michael Fehling u. Herrmann Pünder. 4. Aufl. Heidelberg: C. F. Müller 2021.
+
+von Lewinski, Kai u. Daniela Burbat: Haushaltsgrundsätzegesetz. 1. Aufl. Baden-Baden: Nomos-Verlag
+2013.
+
+Mayer, Volker: Zuwendungsrecht für die Praxis in Bund, Ländern und Gemeinden. 2. Aufl. Regensburg:
+Walhalla 2022.
+
+Pünder, Herrmann u. Martin Schellenberg (Hrsg.): Vergaberecht Handkommentar. 3. Aufl. Baden-Baden:
+Nomos 2019.
+
+Sauerland, Thomas u. Kai Menzel: Öffentliche Finanzwirtschaft. Stuttgart: Richard Boorberg 2022.
+Treiber, Andreas u. Ringleb Sölch: Umsatzsteuergesetz. Stand 98. München: C. H. Beck 2023.
+Sachs, Michael, Heribert Schmitz u. Ulrich Stelkens (Hrsg.): Verwaltungsverfahrensgesetz. 11. Auflage,
+
+München: C. H. Beck 2023.
+Waldhoff, Christian: Abgabenrecht. In: Besonderes Verwaltungsrecht. Bd. 3 – Kommunalrecht, Haushalts-
+
+und Abgabenrecht, Ordnungsrecht, Sozialrecht, Bildungsrecht, Recht des Öffentlichen Dienstes. 4.
+Aufl. Hrsg. von Dirk Ehlers, Michael Fehling u. Herrmann Pünder. Heidelberg: C. F. Müller 2021.
+
+Willenbruch, Klaus, Kristina Wieddekind u. Alexander Hübner (Hrsg.): Kompaktkommentar Vergaberecht.
+5. Aufl. Hürth: Werner 2023.

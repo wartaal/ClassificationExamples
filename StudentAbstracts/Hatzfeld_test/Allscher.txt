@@ -1,0 +1,1129 @@
+﻿Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+8.1 Bestandserhaltung
+
+1 Im Spannungsfeld von Benutzung und Bewahrung
+Mitten in der digitalen Transformation sehen sich Bibliotheken den Anforderungen ge-
+genüber, ihre historischen Bestände für Wissenschaft und interessierte Öffentlichkeit
+sowohl im Original bereitzustellen als auch digital zugänglich zu machen, letzteres bei
+rapide ansteigender Nachfrage. Mit der retrospektiven Digitalisierung historischer Be-
+stände ist auch die Bestandserhaltung als ein Akteur an der Transformation beteiligt,
+indem sie vorbereitend individuelle Maßnahmen am einzelnen Objekt oft sehr aufwen-
+dig durchführt und daneben immer häufiger Mengenverfahren an einer Vielzahl gleich-
+artiger Objekte und Schadensbilder anwendet, oder das Scannen empfindlicher und
+wertvoller Objekte begleitet. Doch vorzugsweise betreibt die Bestandserhaltung mit
+einer Reihe verschiedenster Maßnahmen die deutlich wirtschaftlichere Schadensprä-
+vention, die sich stets an den aktuellen Ergebnissen der internationalen Konservie-
+rungsforschung orientiert und durch technologische Entwicklungen weiter differenziert
+und professionalisiert wird. Völlig neuen Herausforderungen sieht sich die Bestandser-
+haltung durch die Auswirkungen des Klimawandels gegenüber, nimmt man den Ener-
+giebedarf eines klimatisierten Magazins, kulturgutvernichtende Naturkatastrophen und
+die zunehmende Ausbreitung von Schadinsekten in den Blick. Darüber hinaus führt die
+Abhängigkeit von konservatorisch geeigneten Materialien aus einem Nischenmarkt der
+globalen Wirtschaft immer wieder zu deutlichen Beschaffungsproblemen, wenn Kultur-
+gut zum Beispiel im Mengengeschäft mit Schutzhüllen zu versorgen ist.
+
+Das schriftliche Kulturerbe dauerhaft zu bewahren ist vor allem an Bibliotheken
+mit bedeutenden Beständen an Handschriften und Druckwerken eine besonders ver-
+antwortungsvolle Aufgabe. Im Zentrum steht, das Kulturerbe für seine wissenschaftli-
+che Erforschung und öffentliche Präsentation in der Gegenwart und Zukunft zu
+bewahren und zugänglich zu halten. Damit bleibt für die Wissenschaft der langfris-
+tige Zugriff auf die Originale gesichert, den sie aufgrund neuer Forschungsfragen und
+Technologien immer wieder benötigen und nachfragen wird. Nur am Original lassen
+sich Gestalt und Material, die im Abbild nur zum Teil oder gar nicht erkennbar sind,
+wirklich fassen und beschreiben. Die Unikalität eines Werkes erhöht seinen Zeugnis-
+wert innerhalb der Überlieferung und damit seine Bedeutung für gegenwärtige und
+zukünftige Generationen. Einzigartige Werke haben einen besonders hohen Stellen-
+wert innerhalb der Sammlungen, und insbesondere die mit namhaften Persönlichkei-
+ten oder mit der Aura der fernen Vergangenheit verbundenen, exklusiven Originale
+entfalten in Ausstellungen eine hohe Faszination und Attraktivität für das Publikum.
+
+Chemisch betrachtet besteht das schriftliche Kulturerbe mit wenigen Ausnahmen
+aus organischen Materialien, die naturgemäß altern, allerdings schneller oder langsa-
+mer, abhängig von mehreren Faktoren. Daher besteht die Kernaufgabe der Bestands-
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-039
+
+
+
+670 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+erhaltung darin, mit state-of-the-art Kenntnissen und Methoden der Konservierungs-
+wissenschaft retardierend auf die Alterungsprozesse der Materialien einzuwirken
+und damit die Zugänglichkeit der Objekte längstmöglich zu erhalten. Hierfür ist die
+genaue Kenntnis der abbaufördernden Faktoren essentiell, um für die Aufbewahrung,
+Lagerung und die verschiedenen Nutzungsszenarien die jeweils bestmögliche Ent-
+scheidung zu treffen. Fotografien, Filme und moderne Medien erfordern aufgrund
+ihrer Materialität eigene spezielle Bedingungen für Aufbewahrung, Benutzung und
+konservatorische Maßnahmen. Filme auf der Basis von Cellulosenitrat stellen auf-
+grund ihrer hohen Brandgefahr und Brandlast eine oftmals unterschätzte Bedrohung
+für Gedächtnisinstitutionen dar und machen die Kassation unausweichlich, es sei
+denn, die anspruchsvollen gesetzlichen Vorgaben zur baulichen Lagerung können
+vollumfänglich erfüllt werden.
+
+Das Portfolio der Bestandserhaltung umfasst präventive Maßnahmen im Umfeld
+der Bestände sowie Maßnahmen unmittelbar an den Objekten. Daher sind spezielle
+Kenntnisse der modernen und historischen Materialien und Techniken, der Methoden
+der Konservierung und Restaurierung sowie der Restaurierungsethik erforderlich. Die
+Bestandserhaltung betrifft in größeren Häusern als Querschnittsaufgabe alle Abteilun-
+gen, in deren Geschäftsgängen dauerhaft zu erhaltende Bestände und Sammlungen be-
+arbeitet werden. Daher werden die Maßnahmen abteilungsübergreifend entwickelt,
+priorisiert und koordiniert. Mit fachlicher Expertise werden Bedarfe festgestellt und
+Mittelverwendungen geplant. Als Daueraufgabe ist Bestandserhaltung auf ein kontinu-
+ierliches und angemessenes Budget angewiesen, um nachhaltiges Bestandsmanagement
+im Rahmen einer Bestandserhaltungsstrategie planen und umsetzen zu können. Und
+als fachübergreifende Führungsaufgabe vereint sie Restaurierung und das Buchbinder-
+handwerk, die Konservierungs- und Materialwissenschaften sowie die Chemie.
+
+Die Erhaltung des Kulturguts und seine Zugänglichkeit sind die beiden Maximen,
+zwischen denen die Bestandserhaltung permanent eine Balance und damit konserva-
+torisch vertretbare Kompromisse auf der Grundlage einer Risikoabwägung finden
+muss. Einschränkungen der Originalbenutzung transparent zu kommunizieren und Kon-
+fliktfälle zu lösen, verlangt eine differenzierte Argumentation und Überzeugungskraft.
+
+Die steigende Nachfrage nach dem digitalen Zugang zeigt, dass ein Digitalisat mit
+seinen entscheidenden Vorteilen für viele wissenschaftliche Fragestellungen an die
+Stelle des Originals treten kann, und komplementär entsteht ein verstärktes Interesse
+am Original gerade dort, wo das Buch als archäologisches und künstlerisches Objekt
+erforscht werden will. Zunehmend formulieren verschiedene Wissenschaftszweige
+genau diesen auf naturwissenschaftliche Methoden abhebenden Forschungsansatz, für
+den Messungen entweder selbst durchgeführt oder Messlabors beauftragt werden
+könnten.1 Um bei materialwissenschaftlichen und kunsttechnologischen Forschungsfra-
+gen beurteilen zu können, ob die Messmethoden für einzigartiges schriftliches Kultur-
+
+ Vgl. Allscher u. Ceynowa 2021.
+
+
+
+8.1 Bestandserhaltung 671
+
+gut geeignet sind, braucht es einschlägige Kompetenzen auf Seiten der Bibliothek. Nach-
+haltiges Kuratieren verlangt auch, wiederholte Messungen zu identischen Fragestellun-
+gen an den gleichen Objekten in späteren Projekten zu vermeiden.2 Dazu müssen
+zusätzlich zu den interpretierten Messergebnissen auch die zugrundeliegenden For-
+schungsprimärdaten uneingeschränkt verfügbar bleiben, damit sie weitergenutzt wer-
+den können.
+
+2 Öffentlichkeitsarbeit und Förderprogramme
+Der größte Teil der Bestandserhaltungsarbeit läuft in den Magazinen und Werkstätten
+„im Verborgenen“ ab und wird daher von der Öffentlichkeit zwangsläufig kaum wahrge-
+nommen. Insofern braucht Bestandserhaltung über die vorhandenen Fachkreise hinaus
+starke Fürsprecher:innen in Politik, Kultur und Wirtschaft, sie braucht Anerkennung und
+langfristige Unterstützung von den Trägern, sie braucht Vermittlung hinein in die Me-
+dien, um ihre Aufgaben, Ziele und Bedarfe darstellen zu können. Wesentliche Impulse
+gingen im Jahr 2001 von der „Allianz Schriftliches Kulturgut Erhalten“ aus, einer auf Initi-
+ative der Staatsbibliotheken in Berlin und München gegründeten Interessengemeinschaft
+von Archiven und Bibliotheken mit umfangreichen historischen Beständen. Mit ihrer
+„Denkschrift Zukunft Bewahren“ wendete sich die Allianz 2009 an die politischen Ent-
+scheidungsträgerinnen und Entscheidungsträger. 2011 wurde die „Koordinierungsstelle
+für die Erhaltung des schriftlichen Kulturguts“ (KEK) an der Stiftung Preußischer Kultur-
+besitz mit dem von Bund und Ländern finanzierten Förderprogramm „Modellprojekte“
+für Restaurierungen eingerichtet. 2015 publizierte die KEK das Strategiepapier „Bundes-
+weite Handlungsempfehlungen für die Beauftragte der Bundesregierung für Kultur und
+Medien (BKM) und die Kultusministerkonferenz (KMK)“. 2017 kam die Förderlinie des
+Bundes „Sonderprogramm zum Erhalt des schriftlichen Kulturguts“ hinzu. Einige Bundes-
+länder haben die Erhaltung des kulturellen Erbes als kulturpolitischen Auftrag im Rah-
+men eines Bibliotheksgesetzes festgeschrieben.
+
+3 Alterungsprozesse und Schadensfaktoren
+Das schriftliche Kulturerbe aus organischen Materialien unterliegt ab dem Zeitpunkt
+seiner Entstehung chemischen Alterungsprozessen wie der Oxidation oder sauren Hy-
+drolyse. Die Geschwindigkeit der Alterung hängt von endogenen und exogenen Ein-
+flüssen ab, die physikalischen, chemischen, klimatischen oder nutzungsbedingten
+Ursprungs sein können. Die Abbauprozesse werden ab einem bestimmten Zeitpunkt
+
+ Vgl. Ceynowa u. Allscher 2017.
+
+
+
+672 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+äußerlich wahrnehmbar durch Farbveränderungen, Flexibilitäts-/Stabilitätsabnahme
+und schließlich durch Materialzerfall. Eine Veränderung ist dann als ein Schaden ein-
+zustufen, wenn sie die physische und chemische Stabilität eines Objekts mindert.
+Meist sind die Schadensursachen multikausal und das Zusatzrisiko mechanischer
+Schäden durch Materialalterung stark erhöht. Die Einschätzung der Gefährdung be-
+ruht auf der profunden Kenntnis der Materialien und begründet Einschränkungen in
+der Benutzung des Originals, um irreversible Schäden zu vermeiden oder zumindest
+hinauszuzögern.
+
+Die endogenen Einflüsse auf die Alterung rühren von Defekten her, die ein Objekt
+infolge der Konzeption, des Herstellungsverfahrens oder der Beschaffenheit der ver-
+wendeten Materialien von Beginn an in sich trägt. Diese Mängel werden über die Zeit
+negativ wirksam und verantworten die abnehmende Stabilität eines Objekts. Beispiele
+für den herstellungsbedingten Abbau liefern das industriell sauer hergestellte Papier
+durch seine Kombination aus Säurebildung und schlechter Faserqualität, die che-
+misch instabile Filmherstellung sowie der Tinten- und Farbschaden durch Säurebil-
+dung und Metallionen. Bei mittelalterlichen illuminierten Handschriften kann die
+Malschicht in Kombination mit anderen Faktoren dadurch instabil werden, dass der
+Buchmaler die Farbmittel mit zu wenig Bindemittel angerieben oder der Abbau des
+Bindemittels einen kritischen Punkt erreicht hat.
+
+Die exogenen Einflüsse auf die Alterung aus dem Umfeld eines Objekts, wie ein
+ungünstiges Raumklima, können die Prozesse noch beschleunigen. Hier setzen die
+präventiven Maßnahmen des Umfeld- und Bestandsmanagements an.
+
+Filmmaterialien unterliegen aufgrund ihrer Zusammensetzung und ihres chemisch
+instabilen Charakters einem relativ schnellen Abbau. Daher erfordern fotografische
+Filme besondere Aufbewahrungsbedingungen, die ihrem kontinuierlichen Abbau ent-
+gegenwirken (s. Abschnitt 4.1 „Raumklima als maßgeblicher Umfeldfaktor“ in diesem
+Kapitel). Filme auf der Basis von Cellulosenitrat (Nitrofilme) stellen dabei aufgrund
+ihrer hohen Brandgefahr eine akute Bedrohung für Gedächtnisinstitutionen dar. Ab-
+hängig von den herstellungsbedingten individuellen Eigenschaften und den jeweiligen
+Aufbewahrungsbedingungen altern Nitrofilme bereits ab ihrer Herstellung, und das
+Brandrisiko nimmt zu. Mit dem Vorkommen von Nitrofilm ist in Beständen zu rechnen,
+die fotografische Filme oder Kinefilme aus dem Produktions- bzw. Verwendungszeit-
+raum von etwa 70 Jahren (ab ca. 1890) enthalten. Addiert man den Aufbewahrungszeit-
+raum an Gedächtnisinstitutionen hinzu, haben die frühesten Nitrofilme mittlerweile
+ein Alter von etwa 130 Jahren erreicht.3 Filme auf der Basis von Celluloseacetat (Acetat-
+filme) können nach ihrem Trägermaterial hauptsächlich in zwei Varianten unterschie-
+den werden: Cellulosediacetat und Cellulosetriacetat. Filme auf Diacetatbasis wurden
+zwischen den frühen 1920er Jahren bis etwa 1950 verwendet, Triacetatmaterial war
+erst nach dem Zweiten Weltkrieg kommerziell verbreitet. Die Abbaumechanismen bei
+
+ Vgl. Ceynowa u. a. 2022.
+
+
+
+8.1 Bestandserhaltung 673
+
+den verschiedenen Celluloseacetatträgern sind bekannt. Das erste Anzeichen für eine
+Zersetzung ist der Geruch der entstandenen Essigsäure. Lange Zeit ist man davon aus-
+gegangen, dass Acetatfilm unterhalb eines bestimmten Säurelevels langsam abbaut.
+Neuere Studien4 belegen aber eindeutig, dass der Abbau bei jeder Säurekonzentration
+mit einheitlicher Geschwindigkeit abläuft. Vergleichbar zum Nitrofilm ist auch der Ace-
+tatfilm über die vielen Jahrzehnte sehr unterschiedlich produziert worden, so dass die
+Filme sehr ungleich altern. Trotzdem kann man in Übereinstimmung mit experimentel-
+len Werten die Lebensdauer von Acetatfilm in Abhängigkeit der Lagerungsbedingun-
+gen gut simulieren.5
+
+Die Entfärbung oder Farbveränderung von Farbfilmen ist ebenfalls eine Folge
+der Säurebildung in Acetatfilmen. Die entstehende Essigsäure kann an den verschie-
+denen funktionellen Gruppen der eingesetzten Kuppler und Farbstoffe angreifen. So
+verlieren Farbnegative und Diapositive auch im Dunkeln ihre Farbigkeit und verblas-
+sen. Die als sehr beständig geltenden Ektachrome sind ebenfalls anfällig für Farbver-
+änderungen als Folge der Säureentwicklung.
+
+4 Präventive Konservierung und
+Umfeldmanagement
+
+Da Maßnahmen an den Objekten hohe Kosten verursachen, werden dem Umfeldma-
+nagement mit Vorkehrungen zur Vermeidung oder Minimierung von Schäden, Mate-
+rialabbau und folglich invasivem Eingriff zunehmend mehr Gewicht beigemessen.
+Die Prävention in der Aufbewahrung und Benutzung umfasst verschiedene Hand-
+lungsfelder, etwa die Überwachung und Steuerung der Einflussfaktoren wie Tempera-
+tur, relative Luftfeuchte, Licht und Luftschadstoffe sowie die Risikominimierung von
+Schimmel- und Schädlingsbefall in den Magazinen, Lesesälen und Ausstellungsräu-
+men. Dazu zählen auch die Routineprüfung von Neuzugängen auf Schimmel- oder
+Schädlingsbefall, die Versorgung mit Schutzhüllen und die konservatorische Betreu-
+ung besonders bedeutender und empfindlicher Sammlungsobjekte in Digitalisierungs-
+projekten und bei Nutzung.
+
+4.1 Raumklima als maßgeblicher Umfeldfaktor
+
+Von zentraler Bedeutung für die dauerhafte Erhaltung von organischen Materialien
+ist das Raumklima, das sich im Wesentlichen aus den Wechselbeziehungen zwischen
+
+ Vgl. Knight 2014.
+ Vgl. Al Mohrtar u. a. 2021.
+
+
+
+674 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+Lufttemperatur, Luftfeuchtigkeit und geringfügig Luftschadstoffen bildet. Als die rela-
+tive Luftfeuchte (rF) wird das prozentuale Verhältnis zwischen dem Dampfdruck und
+dem Sättigungsdampfdruck des Wassers bei einer bestimmten Lufttemperatur über
+einer reinen und ebenen Wasseroberfläche bezeichnet. Sie gibt an, zu welchem Grad
+die Luft bei aktueller Temperatur mit Wasserdampf gesättigt ist. Zum Beispiel enthält
+die Luft bei einer relativen Luftfeuchte von 50 % nur die Hälfte der Wasserdampf-
+menge, die sie bei der entsprechenden Temperatur maximal enthalten könnte. Bei
+100 % relativer Luftfeuchte ist die Luft vollständig mit Wasserdampf gesättigt. Wird
+die Sättigung von 100 % überschritten, schlägt sich die überschüssige Feuchtigkeit als
+Kondenswasser nieder. Warme Luft kann deutlich mehr Wasserdampf aufnehmen
+als kalte, und Luft kann abhängig von der Temperatur bei gleicher absoluter Luft-
+feuchte unterschiedliche relative Luftfeuchten aufweisen. Kurz gesagt: Wenn die
+Temperatur steigt, sinkt die relative Luftfeuchte, und umgekehrt.
+
+Das Raumklima ist direkt verantwortlich für die Art und Geschwindigkeit von Ab-
+baureaktionen und wirkt sich insbesondere bei chemisch instabilen Materialien wie
+saurem Papier oder Filmmaterialien aus. Forschungen am Canadian Conservation In-
+stitute6 haben gezeigt, dass sich die Reaktionsrate der sauren Hydrolyse bei Papier
+mit jeder Temperaturabsenkung um 5 °C etwa um 50 % reduziert. Die Aufbewahrung
+eines Objekts aus saurem Papier bei 20 °C halbiert demnach seine Lebenserwartung
+gegenüber einer Lagerung bei nur 15 °C. In gleicher Weise verdoppelt sich die Lebens-
+erwartung mit jeder Reduzierung der relativen Luftfeuchte um die Hälfte.
+
+Für die Langzeitkonservierung ist neben Temperatur und relativer Luftfeuchte
+das Vermeiden rascher Klimawechsel entscheidend. Jedes Material (Pergament, Pa-
+pier, Farb- und Bindemittel in Malschicht und Kolorierung, Tinte usw.) reagiert je
+nach seiner Oberfläche und Struktur unterschiedlich auf die Luftfeuchtigkeit. In der
+Folge nehmen die verschiedenen Materialien aus ihrer Umgebungsluft beispielsweise
+bei sinkender Temperatur Feuchtigkeit in unterschiedlichen Mengen und Geschwin-
+digkeiten auf und geben sie bei steigender Temperatur entsprechend wieder ab,
+wobei sich immer wieder von neuem ein Gleichgewicht einstellt. Dabei dehnen sich
+die Materialien zunächst aus und schrumpfen dann wieder. Durch schnellen Klima-
+wechsel können bei diesen Prozessen an den Oberflächen und Grenzflächen von Ma-
+terialien irreversible Spannungsschäden entstehen. Daher ist an erster Stelle für ein
+stabiles Klima zu sorgen. Klimaschäden beginnen unmerklich etwa mit feinsten Haar-
+rissen in einer Malschicht, die dem bloßen Auge nicht auffallen und nur unter dem
+Mikroskop erkennbar sind. Erst wenn es zusammen mit anderen Faktoren zu schol-
+lenförmigen Ausbrüchen und Verlusten in der bildlichen Darstellung kommt, sind sol-
+che Schäden leichter wahrnehmbar.
+
+Die Norm DIN ISO 11799 definierte in der Ausgabe von 2005 noch feste, nach Mate-
+rialtypen differenzierte Richt- und Grenzwerte für das Raumklima, um den beschriebe-
+
+ Vgl. Michalsky 2002.
+
+
+
+8.1 Bestandserhaltung 675
+
+nen Effekten entgegenzuwirken. Beispielsweise wurde für Papier und Pergament ein
+Temperaturmaximum von 18 °C beziehungsweise ein Temperaturminimum von 2 °C
+und eine Tagestoleranz von ± 1 °C empfohlen. Für die relative Luftfeuchte wurde ein
+Minimum bei 30 %, für Papier ein Maximum bei 45 % und für Pergament ein Maximum
+bei 60 % bei einer Tagestoleranz von ± 3 % festgelegt. Die Einhaltung dieser Sollwerte
+mit geringen Toleranzen ist je nach baulichen Bedingungen nur durch den energie-
+und kostenintensiven Betrieb einer raumlufttechnischen Anlage zu erzielen. Diese Lüf-
+tungsanlagen blasen gefilterte Außenluft in einen Raum und transportieren belastete
+Luft nach außen ab, eingestellt auf der Grundlage von Regeln für die Luftaustauschrate,
+die Luftgeschwindigkeit und den Schadstoffgehalt (DIN EN 15759-2).
+
+Das prognostizierte Ausmaß des Klimawandels bedeutet einen Anstieg der mittle-
+ren Jahrestemperatur in den nächsten 50 Jahren um mindestens 2 °C und eine weitere
+Zunahme von Witterungsextremen (Starkregenereignisse, Hitzeperioden und Stürme).
+Solche Wetterlagen mit ihren Extremniederschlägen haben bereits in den letzten Jah-
+ren Flutereignisse und in der Folge Kulturgutverluste verursacht. Neben der Gefähr-
+dung durch Oberflächenwasser ist auch ein möglicher Anstieg des Grundwassers zu
+berücksichtigen, der nur langsam abklingen und die Feuchtigkeit in Gebäuden lange
+ungünstig beeinflussen kann. Wetterlagen mit einer Häufung von Hitzetagen (Tages-
+höchsttemperatur über 30 °C) und/oder Tropennächten (Tagestiefsttemperatur nicht
+unter 20 °C) können merkliche Temperaturanstiege in Gebäuden verursachen.
+
+Mit Blick auf ansteigende Energiekosten und hohe CO2-Emissionen müssen Biblio-
+theken neue Konzepte entwickeln, um ihre Bestände bei verstärkten klimatischen
+Schwankungen und Wetterextremen sicher bewahren zu können. Ein Magazinneubau
+in Passivbauweise hat bereits ein relativ stabiles Raumklima, zu dessen Regulierung
+technische Maßnahmen nur in geringem Umfang erforderlich sind (DIN ISO 11799). Die
+Technische Regel DIN/TR 67702 informiert ausführlich über die neuen Handlungsemp-
+fehlungen. An die Stelle starrer Klimavorgaben treten breitere Klimakorridore, die den
+Verlauf jahreszeitlicher Schwankungen berücksichtigen und höhere Temperaturen mit
+einer höheren relativen Luftfeuchte im Sommer sowie niedrigere Temperaturen mit
+einer niedrigeren relativen Feuchte im Winter zulassen. Technische Maßnahmen zur
+Klimatisierung sollen nur noch Extremwerte und starke tägliche Klimaschwankungen
+verhindern. Begrenzt werden die Klimakorridore dort, wo unmittelbar negative Aus-
+wirkungen durch niedrige oder hohe Temperaturen und relative Luftfeuchten auf die
+chemische Reaktionsgeschwindigkeit und damit die Materialalterung zu erwarten sind.
+Bei Temperaturen unter 5 °C besteht die Gefahr von Frostschäden, ab einer relativen
+Luftfeuchte von 60 % ist die Grenze für beginnendes Schimmelpilzwachstum erreicht.
+Insgesamt zu beachten ist auch, dass niedrige Feuchtewerte organisches Material aus-
+trocknen und brüchig machen, wodurch das Risiko mechanischer Beschädigung steigt.
+Leder und Pergament etwa sollten daher unter einer relativen Luftfeuchte von 35 %
+nicht bewegt/benutzt werden. In der praktischen Umsetzung sind die Bestände hinsicht-
+lich ihres Werts und ihrer Empfindlichkeit zu beurteilen und dann in entsprechend kli-
+matisierten Magazinen aufzustellen. Die wertvollsten und empfindlichsten Sammlungen
+
+
+
+676 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+sollten weiterhin gemäß dem ursprünglich definierten Normklima aufbewahrt werden,
+für weniger empfindliche und weniger wertvolle Bestände wird ein breiterer Klimakor-
+ridor definiert.
+
+Das in Bibliotheken bewahrte Kulturerbe umfasst traditionell auch Fotografien
+und Negative, die als integrierter Bestandteil von Nachlässen, aber auch als eigenstän-
+diges Fotoarchiv erworben werden und aufgrund ihrer spezifischen Materialität ei-
+gene konservatorische Anforderungen an ihre dauerhafte Erhaltung stellen. Für die
+Lagerung von Filmmaterial, besonders von Farbfilmen, ist die Kühl- und Kaltlagerung
+in einem Spezialmagazin gemäß der Norm DIN ISO 18934 empfohlen. Die Norm defi-
+niert für die Kühllagerung einen Temperaturbereich zwischen 8 °C und 16 °C, für die
+Kaltlagerung 0 °C bis 8 °C. In der Bibliothekspraxis zielen die Kühl- und Kaltlagerung
+insbesondere auf Objekte mit geringer Benutzungsfrequenz, da diese im Nutzungsfall
+zunächst in einem Raum zwischen Magazin und Lesesaal über etwa 24 Stunden akkli-
+matisiert werden müssen. Diese Klimaschleuse verhindert Spannungsschäden durch
+unterschiedliche Reaktionen der Materialien auf den Klimawechsel und speziell bei
+Kalt zu Warm eine Feuchtekondensation. Die Norm gilt auch für die verschiedenen
+Multimedia-Materialien. Ebenso kann Kühl- und Kaltlagerung eine Erhaltungsstrate-
+gie für chemisch instabiles Material wie etwa saures Papier sein. Großbritannien und
+Dänemark etwa setzen traditionell auf die bei niedrigem Raumklima verminderte
+chemische Reaktionsgeschwindigkeit anstatt auf die Mengenentsäuerung.
+
+Für das Klimamonitoring dienen Datenlogger, nichtaufzeichnende Thermohygrome-
+ter oder traditionelle, wartungsintensive Thermohygrographen. Einfache Thermohygro-
+meter müssen regelmäßig überprüft und bei größeren Messabweichungen ausgetauscht
+werden, Datenlogger können in der Regel rekalibriert werden. Die Messdaten von Daten-
+loggern werden geräteweise ausgelesen und gespeichert, netzbasierte Systeme dagegen
+ermöglichen ein zentrales Monitoring in Echtzeit gerade auch in räumlich getrennten Ma-
+gazinen, bei Transporten und in dislozierten Ausstellungsräumen. Die Norm DIN EN 16242
+enthält Empfehlungen für genaue Messungen der Umgebungsbedingungen und des
+Feuchtigkeitsaustausches zwischen Luft und Kulturgut.
+
+4.2 Umgang mit mikrobiologischen Risiken
+
+Schimmelpilze stellen eine fundamentale Bedrohung für schriftliches Kulturgut dar.
+Die relative Luftfeuchte muss daher konsequent unterhalb der Grenze gehalten wer-
+den, die das Wachstum von Schimmelpilzen ermöglicht, denn die Sporen sind ubiqui-
+tär und keimen unter günstigen Klimabedingungen rasch aus. Bei entsprechenden
+Temperaturen und einer relativen Luftfeuchte ab 60 % im Raum oder bei einem er-
+höhten Wassergehalt ab ca. 12 % im Objekt infolge eines Wasserschadens besteht ein
+akutes Risiko für das Wachstum von Schimmel. Cellulose als Grundstoff von Papier
+und Proteine als Grundstoff von Leder, Pergament und Leimen bilden mit den darin
+enthaltenen Kohlenhydraten oder Aminosäuren einen geeigneten Nährboden für
+
+
+
+8.1 Bestandserhaltung 677
+
+Mikroorganismen. Die enzymatische Verstoffwechselung führt zum irreversiblen
+Abbau der Cellulose bzw. der Proteinstrukturen, in der Folge verlieren die Materia-
+lien ihre physische Stabilität.
+
+Für den Personenschutz im Umgang mit kontaminiertem Bibliotheksgut sollte fach-
+licher Rat zu Gesundheitsrisiken eingeholt werden. Den nachstehenden Verordnungen
+und Richtlinien unterliegen Bibliotheken aufgrund ihrer Tätigkeit im Gefährdungsbe-
+reich von Schimmelpilzsporen: „Verordnung über Sicherheit und Gesundheitsschutz
+bei Tätigkeiten mit Biologischen Arbeitsstoffen“ (Biostoffverordnung – BioStoffV vom
+15.07.2013 (BGBl. I S. 2514) und „Technische Regeln für Biologische Arbeitsstoffe: Schutz-
+maßnahmen bei Tätigkeiten mit mikrobiell kontaminiertem Archivgut (TRBA 240)“
+(GMBl, S. 566–576).
+
+Bei Schimmelpilzbefall ist die Ursache für das ungünstige Raumklima zu eruieren
+und zu beseitigen. Der Einbau einer Kompaktregalanlage oder dichtschließender Fens-
+ter, falsches Lüften und mangelnde Magazinhygiene können Schimmelwachstum auslö-
+sen. Überall dort, wo die Luft nicht frei zirkulieren kann, entstehen Bereiche mit einer
+hohen relativen Luftfeuchte und Schimmelrisiko. Befallene Bücher sind in einem sepa-
+raten Raum („Schwarzraum“) zu isolieren, um Übertragungswege zu unterbrechen.
+Dort können die Bücher bis zur Durchführung von Maßnahmen klimakontrolliert gela-
+gert werden. Auch durch die Übernahmen von Schriftgut mit einem früheren Befall
+können mikrobiologische Kontaminationen eingetragen werden. Die kontrollierte Tro-
+ckenreinigung gilt als die effektivste Maßnahme zur Reduktion der Keimzahlen und
+damit des Gesundheitsrisikos. Bestrahlung hingegen schädigt auch das Bibliotheksgut
+selbst auf molekularer Ebene, und die Begasung mit Ethylenoxid ist im Nachgang für
+den Menschen gesundheitsschädlich und karzinogen. Zudem bleibt auch nach einer Ste-
+rilisation das allergene Potenzial von Schimmelpilzen erhalten. Das Sterilisieren hat
+somit keine präventive Wirkung, und das Zurückstellen der gereinigten Bücher führt zu
+einem Neubefall, wenn das Raumklima vorher nicht reguliert wurde. Bei gegebenem
+Anlass, wie zum Beispiel nach einem extremen Befall, kann der Erfolg einer Schutzmaß-
+nahme geprüft und eine Gefährdungsbeurteilung des Arbeitsplatzes mittels Luftkeim-
+messung zur Erfassung der Raumsituation durchgeführt werden. Mit marktgängigen
+Testsystemen zum Lumineszenznachweis können Kontaminationen bestimmt werden.
+Diese Systeme bedienen sich einer Enzymkettenreaktion zur Messung der vorhandenen
+Konzentration an Adenosintriphosphat (ATP) und Adenosinmonophosphat (AMP), die
+Rückschlüsse auf biogene Verunreinigungen zulässt. Der Lumineszenznachweis von
+AMP und ATP wird über das Enzym-Substrat-System Luciferase-Luciferin geführt, wel-
+ches in Kombination mit der Probe eine Biolumineszenzreaktion zeigt. Das zugehörige
+Handgerät misst, wie stark die Flüssigkeit fluoresziert, und zeigt nach maximal 30 Sekun-
+den einen Messwert in der Einheit RLU an (Relative Light Unit). Diese Systeme lassen
+jedoch keine absoluten Aussagen über die Kontamination zu. Daher müssen die Ergeb-
+nisse immer in Relation zur vorab bestimmten Kontamination des Bestands gesetzt wer-
+den. Dies setzt voraus, dass Fachleute zur Anwendung des Nachweissystems vorab eine
+Kategorisierung der RLU-Werte erarbeiten, um den relativen Kontaminationsgrad be-
+
+
+
+678 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+stimmen und geeignete Maßnahmen ergreifen zu können. Bei der Trockenreinigung
+von kontaminiertem Bibliotheksgut ist die Überprüfung des Reinigungsergebnisses mit
+dem Lumineszenznachweis in Stichproben ein erprobtes Mittel zur Qualitätssicherung
+in Mengenverfahren.
+
+4.3 Integriertes Schädlingsmanagement
+
+Integriertes Schädlingsmanagement (Integrated Pest Management, IPM) ist ein inter-
+national etablierter Ansatz zur Vorbeugung, Überwachung und Bekämpfung von
+Schädlingsbefall in Gedächtnisinstitutionen. Bibliotheken bieten mit ihren lichtredu-
+zierten und wenig begangenen Magazinen ideale Lebensräume für lichtscheue oder
+nachtaktive Schädlinge vor allem dann, wenn die Räume ein für Bücher ungünstiges
+Klima haben und nur unregelmäßig gereinigt werden. Zudem stellen organische Ma-
+terialien eine ideale Nahrung für Schädlinge dar.
+
+Das IPM-Konzept setzt auf die Integration sämtlicher Möglichkeiten, Schädlingen
+ihre Lebensgrundlage zu nehmen und nimmt durch den weitgehenden Ausschluss che-
+mischer Mittel Rücksicht auf Mensch und Umwelt. IPM basiert auf der Kenntnis über
+die Lebenszyklen und -weisen von Schädlingen sowie auf Magazinhygiene in Kombina-
+tion mit konsequentem Monitoring und Früherkennung. Die Norm DIN EN 16790 be-
+schreibt die Leitlinien und Verfahren, um das Schadensrisiko durch Insekten, Nagetiere
+und Mikroorganismen zu reduzieren. Bei einem begründeten Verdacht auf Befall soll-
+ten Fachpersonal und Fachdienstleister einbezogen werden. Zum Monitoring, nicht zur
+Bekämpfung dienen handelsübliche Klebefallen, fallweise ausgestattet mit Pheromon-
+oder Fraßlockstoffen, um Schädlinge nachweisen, bestimmen und grob quantifizieren
+zu können. Befallene Bücher müssen isoliert und können mittels Sauerstoffentzug be-
+handelt werden. Dafür wird eine sauerstoffarme Atmosphäre in einem gasdichten Zelt
+erzeugt, entweder durch die Anwendung von Sauerstoffabsorbern oder durch die Zu-
+fuhr von Stickstoff, welcher als inertes Gas nicht mit Materialien reagiert. Unter sauer-
+stoffarmen Bedingungen können Bücher sicher, materialschonend und rückstandsfrei
+von Schädlingen befreit werden. Um auch die noch nicht geschlüpften Schädlinge abzu-
+töten, muss die Behandlungsdauer dem Lebenszyklus der Insekten angepasst werden.
+Mittels kommerziell erhältlichen Stickstofferzeugern kann man Stickstoff aus der Luft
+von Sauerstoff, Wasserdampf und anderen Gasen trennen. Der damit gewonnene, sehr
+reine Stickstoff weist jedoch einen niedrigen Feuchtigkeitsgehalt auf, was schädlich für
+die Behandlung empfindlicher Materialien wie Pergament sein kann. Daher muss der
+Stickstoffstrom konditioniert und die Luftfeuchtigkeit gezielt und gleichmäßig ange-
+passt werden, um Materialaustrocknung und nachfolgende Spannungsschäden zu
+vermeiden.
+
+
+
+8.1 Bestandserhaltung 679
+
+4.4 Lichtmanagement
+
+Werden Bücher, Grafiken, Fotografien usw. dem Tages- oder Kunstlicht ausgesetzt, be-
+fördert der mit der elektromagnetischen Strahlung verbundene Energieeintrag Ausblei-
+chen, Farbverschiebung und Brüchigkeit des Materials. Als sichtbares Licht wird die für
+das menschliche Auge wahrnehmbare elektromagnetische Strahlung mit Wellenlängen
+zwischen 380 nm (violett) bis 780 nm (rot) bezeichnet. Die angrenzenden, unsichtbaren
+Bereiche sind die kurzwellige Ultraviolett-Strahlung (UV) bei 100–380 nm und die lang-
+wellige Infrarot-Strahlung (IR) bei 780–3 000 nm. Mit Abnahme der Wellenlänge steigt
+das Schädigungspotential exponentiell an, und die Wahrscheinlichkeit irreversibler
+Veränderungen der Materialien nimmt zu. Daher wirkt UV-Strahlung schädlicher als
+sichtbares Licht ein, und auch die Strahlung der direkt angrenzenden Wellenlängen im
+sichtbaren Bereich führt noch zu irreversiblen Veränderungen am Material. IR-Strahlung
+löst keine photochemischen Abbauprozesse aus, erhöht aber die Temperatur der Ober-
+fläche, auf die die Strahlung auftrifft (Strahlungswärmeeffekt), was zu mechanischem
+Stress oder Austrocknung der Materialien führen kann. Das Schädigungspotenzial hängt
+demnach nicht nur von der spektralen Verteilung der Lichtquelle ab, sondern auch von
+ihrer Beleuchtungsstärke (in Lux), der Beleuchtungsdauer und der spektralen Empfind-
+lichkeit des jeweiligen Materials. Da jedes Material ein anderes Absorptionsspektrum
+hat, reagieren die einzelnen Materialien unterschiedlich auf die einfallende Strahlung.7
+Extrem lichtempfindlich sind Naturfarbstoffe zum Beispiel in Buchmalerei, Kolorierun-
+gen, Zeichnungen oder Aquarellen. Im Gegensatz dazu sind viele Pigmente zwar relativ
+stabil, aber die sie umgebenden organischen Bindemittel in der Malschicht sind empfind-
+lich. Während Hadernpapier relativ lichtstabil ist, vergilbt Holzschliffpapier und wird
+brüchig, wie es etwa bei Zeitungen innerhalb kürzester Zeit zu beobachten ist. Bei Leder
+und Pergament führt der photochemische Abbau der Kollagenstruktur zu einer geringe-
+ren Flexibilität, zu Verfärbung und Brüchigkeit des Materials.
+
+Um die schädliche Wirkung von Beleuchtung möglichst gering zu halten, müssen
+ihre Intensität und Dauer auf das notwendige Minimum begrenzt, und UV- sowie IR-
+Strahlung ausgeschlossen werden. Basierend auf dem Technischen Bericht CIE 157 emp-
+fiehlt die Norm DIN EN 16163 Grenzwerte für die Beleuchtungsstärke und jährliche Be-
+lichtung für Materialien, die in vier Empfindlichkeitskategorien in Anlehnung an den in
+der Konservierung häufig angewendeten Blauwollstandard (DIN EN ISO 105-B08) einge-
+stuft sind. Die empfohlenen Grenzwerte stellen einen Kompromiss zwischen Benutzung
+und Bewahrung dar, und ihre Einhaltung wird durch vielfältige Schutzmaßnahmen
+wie Tageslichtausschluss, UV/IR-Filter und -Schutzfolien unterstützt. Für die Beleuch-
+tung eignen sich am besten warmweiße LEDs unter 3 100 Kelvin ohne UV-Anteil oder
+UV-gefilterte Kaltlicht-Leuchtstoffröhren, die von Bewegungsmeldern gesteuert werden
+können. Da sich die Beleuchtungstechnologien und das Wissen über die photochemi-
+
+ Vgl. Villmann u. Weickhardt 2018.
+
+
+
+680 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+schen Eigenschaften von Materialien weiterentwickeln, bleibt es unerlässlich, sich
+damit auseinanderzusetzen und Anpassungen vorzunehmen.
+
+Um die Auswirkung einer Lichtquelle auf die Exponate direkt bestimmen zu kön-
+nen, hat sich in den letzten Jahren die invasive Microfading-Methode positioniert. Bei
+dieser Technik wird eine mikroskopische Testfläche (bis 0,5 mm Durchmesser) des
+Objekts mit einem starken Lichtstrahl beleuchtet, und die entstandene lokalisierte
+Farbveränderung in Echtzeit ermittelt.8 Ansätze für das Implementieren von Microfa-
+ding in das Lichtmanagement werden aktuell diskutiert.9
+
+4.5 Schadstoffprävention
+
+Luftschadstoffe befördern Abbauprozesse von organischem Material und wirken da-
+durch schädlich auf Menschen und Bestände ein. Der Eintrag von Schadstoffen aus der
+Außenluft wie zum Beispiel Feinstaub, Ozon, Kohlenstoff-, Stickstoff- und Schwefeloxide
+ist nur bedingt steuerbar, hat aber im Zuge der Umstellung der Energieträger und den
+Rückgang fossiler Brennstoffe an Bedeutung verloren. Für die Emission von Schadstof-
+fen sind heute vielmehr die Materialien im Innenraum verantwortlich, sowohl diejeni-
+gen aus Bau und Einrichtung, als auch das Kulturgut selbst mit seiner Eigenemission.10
+Die Anreicherung von Schadstoffen in Innenräumen ist jedoch grundsätzlich vermeid-
+bar, etwa durch geeignete Regale und Vitrinen sowie durch Luftzirkulation, Luftaus-
+tausch und Luftfiltersysteme. Im begrenzten Vitrineninnenraum kann die Konzentration
+von Luftschadstoffen zumal bei niedrigem Luftwechsel steigen. Daher ist es hier beson-
+ders wichtig, stark emittierende Materialien auszuschließen. Grundsätzlich ist bei den
+Materialien im direkten Kontakt mit Exponaten auf Schadstofffreiheit von flüchtigen or-
+ganischen Verbindungen (Volatile Organic Compounds, VOC) zu achten. Zu den typischen
+Quellen von VOCs gehören Lösemittel- und wasserbasierte Farben und Lacke, Dichtmas-
+sen und Klebstoffe, Holz und Holzwerkstoffe, instabile oder poröse Kunststoffe sowie
+Fußbodenbeläge.
+
+5 Bestandsmanagement
+Das Bestandsmanagement setzt die Strategie einer Gedächtnisinstitution für die nach-
+haltige Kuratierung ihrer Bestände um und legt Regelungen zur Sicherheit und zum
+Umgang mit Beständen, beispielsweise zu Ausstellung und Leihe, zu Transport sowie
+betriebliche Regeln für die Magazine fest. Definierte Abläufe sind entscheidend, um die
+
+ Vgl. Beltran 2019.
+ Vgl. Tse 2019; Pesme u. Dunne 2022.
+ Vgl. Schieweck u. Salthammer 2014.
+
+
+
+8.1 Bestandserhaltung 681
+
+Planungen umzusetzen und abzusichern. Die nachfolgend vorgestellten Handlungsfel-
+der gehören zu den zentralen Aufgaben des Bestandsmanagements, die DIN SPEC 67701
+informiert zu weiteren Verfahren. Eng verknüpft mit dem Bestandsmanagement ist die
+Qualitätssicherung der Maßnahmen im Rahmen eines Qualitätsmanagements. Grund-
+sätzlich ist bei der Wahl einer Maßnahme die Bedeutung eines Objekts oder einer
+Sammlung zu berücksichtigen. Insbesondere bei der Beauftragung von Dienstleistern
+mit Mengenverfahren verlangt die Qualitätssicherung gemäß der NormDIN EN ISO 9000,
+überprüfbare Qualitätskriterien zwischen Auftraggeber und Anbieter eindeutig festzule-
+gen. Die Effektivität und damit die Wirtschaftlichkeit der Maßnahme wird im Regelfall
+das zentrale Kriterium sein, während weitere wichtige Aspekte wie die Vollständigkeit,
+Fehlertoleranz oder Nebenwirkungen, aber auch die logistische Durchführung eines Auf-
+trages in zweiter Reihe rangieren. Um eine konstante Qualität sicherzustellen, müssen
+die festgelegten Anforderungen an die Dienstleistung kontinuierlich oder abschließend
+überprüft werden.
+
+5.1 Versorgung mit Schutzhüllen
+
+Schutzhüllen bewahren Objekte vor schädlichen Einwirkungen aus ihrer Umgebung am
+Magazin und in der Benutzung, wie etwa vor mechanischer Beschädigung, schnellem
+Feuchtigkeits- und Temperaturwechsel, Licht, Staub und Schmutz. Schutzhüllen müssen
+aber auch Luftaustausch ermöglichen, damit kein schädliches Mikroklima mit akkumu-
+lierten Schadstoffen aus der Materialalterung entsteht. Bei rapidem Temperaturwechsel
+etwa bei Bereitstellung aus der Kühl- und Kaltlagerung in einen Lesesaal muss zudem
+eine Kondensatbildung in der Schutzhülle vermieden werden. Für effektive und nach-
+haltige Schutzhüllen sind ein alterungsbeständiges Herstellungsmaterial und eine pass-
+genaue Form zu wählen.
+
+Die Formen von Schutzhüllen sind so vielfältig wie die zu schützenden Objekte.
+Adäquate Schutzformen für Bücher sind beispielsweise Klappdeckelboxen aus Well-
+pappe oder Kassetten aus gewebebezogener Vollpappe. Allseitig geschlossene Behält-
+nisse schützen am besten. Schutzhüllen für Einzelblätter bestehen in ihrer einfachsten
+Form aus Papier- oder Kartonumschlägen, die ein oder mehrere Einzelblätter aufneh-
+men können. Mappen mit Klappen nehmen mehrere solcher Umschläge auf und wer-
+den formatabhängig in Frontklappenboxen oder Planschränken gelagert. Im Gegensatz
+zu den individuellen Schutzhüllen für Bücher wählt man bei Mappen die gängigen DIN-
+Formate, historische Formate oder Planschrankformate und orientiert sich am jeweils
+nächstgrößeren Format, um das Original vollständig schützend aufzunehmen.
+
+Papier und Pappen von Schutzhüllen in direktem Objektkontakt müssen alterungs-
+beständig sein und dürfen auch langfristig keine schädlichen Verbindungen freisetzen,
+die das Original schädigen können. Für die Spezifikation von cellulosebasiertem Mate-
+rial für Schutzhüllen kommt die Norm DIN EN ISO 9706 zur Anwendung, die eigentlich
+ein alterungsbeständiges Papier für Schriftgut und Druckerzeugnisse definiert. Neben
+
+
+
+682 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+einem alkalischen pH-Wert zwischen 7,5–10,0 und einer definierten alkalischen Reserve
+unterscheidet sich dieses Papier von anderen alkalisch hergestellten Papieren insbeson-
+dere durch seine definierte Oxidationsbeständigkeit, die nur etwa 1 % Lignin zulässt.
+Demnach eignen sich Papiere, die nach den Vorgaben dieser Norm hergestellt werden,
+ideal zur Herstellung von Schutzhüllen.
+
+Schutzhüllen selbst sind Gegenstand der Norm DIN ISO 16245, die die Anforderun-
+gen an Schachteln und Archivmappen für die Langzeitlagerung von Schrift- und
+Druckgut aus Papier oder Pergament festlegt. Diese Norm ist für Schachteln aus Voll-
+oder Wellpappe und für Archivmappen aus Papier oder Karton anzuwenden und
+kann ebenso für andere Formen von Umhüllungen für die Langzeitlagerung ange-
+wendet werden, zum Beispiel für Schutzkassetten, Hülsen und Umschläge.
+
+Ergänzend zur DIN ISO 16245 stehen Normen zur Materialprüfung zur Verfügung.
+Ursprünglich für die Prüfung von Schutzhüllen für fotografische Materialien entwickelt,
+werden inzwischen nahezu alle Schutzhüllen standardmäßig zusätzlich mit dem PAT-
+Test (Photographic Activity Test nach ISO 18916) geprüft. Er zeigt den chemischen Ein-
+fluss eines Verpackungsmaterials auf verarbeitetes Fotomaterial und konkret schädli-
+che Verbindungen an, die aus einer Schutzhülle in ein Original diffundieren könnten.
+Während beim PAT-Test ein indirekter Kontakt zum Testmaterial nötig ist und nur Sub-
+stanzen detektiert werden können, die Fotomaterialien (Bildsilber und Gelatine) verän-
+dern, zielt die Norm DIN ISO 23404 auf die Messung der Auswirkungen flüchtiger
+Verbindungen auf Cellulose in Papier ab. Bei der Prüfung können gasförmige, aus dem
+Schutzhüllenmaterial austretende Verbindungen ermittelt werden, die zu einem be-
+schleunigten Abbau der Cellulose in Originalen führen können.
+
+Die Anforderungen an das Material von Schutzhüllen für Fotografien formuliert
+die Norm DIN 15549. Diese Schutzhüllen aus Papier müssen pH-neutral und dürfen kei-
+nesfalls alkalisch sein. Bei der Verwendung von Kunststoffhüllen ist darauf zu achten,
+dass diese nur aus Polyester, Polyethylen oder Polypropylen und keinesfalls aus weich-
+macherhaltigen Materialien wie Polyvinylchlorid bestehen dürfen. Bei der Wahl der
+Schutzhülle kann die Häufigkeit der Nutzung entscheidend sein. Bei geringer Nutzung
+sind Papierhüllen besser geeignet, da sich Kunststoffhüllen schnell statisch aufladen
+und die Entnahme erschweren. Bei transparenten Kunststoffhüllen dagegen bleiben die
+enthaltenen Originale sichtbar, was eine Nutzung ohne Entnahme ermöglicht.
+
+5.2 Magazinhygiene
+
+Staub, Schmutz und Unrat leisten Schimmel- und Schädlingsbefall Vorschub. Die regel-
+mäßige Feuchtreinigung von Böden und Regalen im Magazin sowie die Trockenreini-
+gung von Büchern ist ein häufig unterschätzter Beitrag zur Erhaltung. Damit die
+Luftfeuchtigkeit nicht sprunghaft ansteigt, sollte die Bodenreinigung nur nebelfeucht
+und abschnittsweise erfolgen. Dem Wasser sollten Detergenzien nur minimal zur Re-
+duktion der Oberflächenspannung zugesetzt werden, damit die Chemikalien nicht die
+
+
+
+8.1 Bestandserhaltung 683
+
+Raumluft belasten. Beim Einsatz von Staubsaugern für Böden, Schutzhüllen und Regale
+ist auf geeignete Abluftfilter zu achten. Es gibt verschiedene Klassen von Schwebstofffil-
+tern: EPA-Filter bis Klasse 12 filtern > 99,5 % der Partikel, HEPA-Filter bis Klasse 14 fil-
+tern > 99,995 % der Partikel. HEPA-Filter sind in der Lage, auch Partikel einer Größe
+von weniger als 0,5 μm zurückzuhalten, zum Beispiel neben regulärem Hausstaub auch
+Schimmelpartikel, Sporen und Feinstäube.
+
+5.3 Nutzung
+
+Jede Nutzung beginnt mit dem Ausheben des nachgefragten Objekts am Fach und endet
+mit seinem Zurückstellen. Daher sind die präventiven Aktivitäten weit gespannt und
+richten sich zum Beispiel auf die Zugangsbearbeitung, Katalogisierung, Digitalisierung
+und Schulungen zum sachgerechten Umgang mit Originalen. Über geeignete Materia-
+lien zur Medienbearbeitung informiert die Norm DIN ISO 11798. Für die Beschriftung
+von Schutzhüllen sind Bleistifte oder alterungsbeständige Schreibstoffe auf Pigmentba-
+sis, für Stempel alterungsbeständige, nichtblutende Farben auf Ölbasis geeignet. Im
+Weiteren sollten Etiketten im Altbestand mit wässrigen Kleistern auf Stärkebasis ver-
+klebt werden, bei selbstklebenden Etiketten sollte der Klebefilm auf Arcylat ohne
+Weichmacher basieren. Für den Transport von empfindlichem Bibliotheksgut eignen
+sich Wägen mit absenkbarem, gefedertem Boden und Luftbereifung, die gegen Erschüt-
+terung schützen. Bei Neubindungen im modernen Bestand bedarf es des fachkundigen
+Einsatzes geeigneter buchbinderischer Methoden und Materialien (nach DIN 33902), um
+die Medien nachhaltig und langfristig für die Nutzung bereitstellen zu können.
+
+5.4 Schadensprävention in Ausstellungen
+
+Während die Aufbewahrungsbedingungen für geschlossene Bücher am Magazin bei
+stabilem Klima mit passgenauer Schutzhülle ideal sind, um die exogenen Schadensein-
+flüsse auszuschließen oder zu mindern, werden Bücher in Ausstellungen einem schwie-
+riger zu steuerndem Vitrinenklima, Licht, gegebenenfalls Schadstoffen und anderen
+exogenen Einflüssen direkt ausgesetzt. Über die Ausstellungsdauer und mit fixiertem
+Öffnungswinkel exponieren beispielsweise geöffnete Bücher erheblich mehr Oberfläche
+den schädlichen Einflüssen und reagieren auf Wechsel von Temperatur, Luftfeuchtigkeit
+und thermischem Eintrag durch Beleuchtung sehr viel unmittelbarer als in geschlosse-
+nem Zustand. Dies kann insbesondere bei Ledereinbänden und Pergamenthandschriften
+dazu führen, dass die Bücher die neue, geöffnete Form annehmen und sich nach der
+Ausstellung nur schwer wieder in den ursprünglichen Zustand als geschlossenes Buch
+zurückführen lassen. Je länger der „Ausnahmezustand“ anhält, um so nachhaltiger sind
+die Veränderungen am Buch. Die Empfindlichkeit des schriftlichen Kulturerbes erfor-
+dert daher eng kontrollierte Bedingungen für Vitrinenklima, Beleuchtung und Schad-
+
+
+
+684 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+stoffemissionen von Vitrinen und Ausstattung in Ausstellungen. Dauer- und Wanderaus-
+stellungen sind ebenso wie Spotlicht auf Objekte zu vermeiden.
+
+Für das Raumklima in Ausstellungen gelten die gleichen Werte wie für Magazine,
+in besonderen Fällen können passiv oder aktiv klimatisierte Vitrinen Schwankungen
+der relativen Luftfeuchte im Tagesverlauf noch weiter abschwächen. Für ein Minimum
+an Beleuchtungsstärke zum Vermeiden von Lichtschäden dürfen nur UV-freie Leucht-
+mittel mit einer Lichtfarbe von max. 3 100 Kelvin eingesetzt werden, die auch die UV-
+nahen Blaubereiche ausschließen. International gilt eine Beleuchtungsstärke von 50 Lux
+bei einer Expositionszeit von maximal drei Monaten als konservatorisch vertretbar.
+Bewegungsmelder an Vitrinen können die Beleuchtungsdauer senken, und die interne
+Dokumentation der Schauseiten ist ein wichtiges Steuerungsinstrument. Chemisch insta-
+bile Materialien wie fortgeschritten abgebautes, saures Papier sowie Tinten- bzw. Farb-
+schaden erfordern kürzere Ausstellungszeiten, ebenso Fotografien mit besonders
+empfindlichen fotografischen Techniken. Nach einer Ausstellung gilt in Abhängigkeit
+vom Material generell eine mehrjährige Ruhezeit bis zur nächsten Exposition als Kom-
+promiss zwischen Zugänglichkeit und dauerhafter Erhaltung. Die empirisch gewonnene
+Erkenntnis, dass der Erhaltungszustand von denjenigen Seiten, die in Ausstellungen
+immer wieder präsentiert werden, signifikant schlechter ist, bestätigt den kumulativen
+Effekt einer beschleunigten Materialalterung auch bei zeitlich begrenzten Expositionen.
+Mit dem fortschreitenden Wechsel von klassischen Leuchtmitteln wie Halogenlampen
+und Leuchtstoffröhren hin zu moderner LED-Beleuchtung tritt auch die weit verbreitete
+Lux-Messung in den Hintergrund. Moderne Messgeräte können neben der Beleuchtungs-
+stärke auch die Bestrahlungsstärke und spektrale Zusammensetzung der Leuchtmittel
+bestimmen. Die bisher ausschlaggebende Beleuchtungsstärke beschreibt, wie viel Licht –
+lichttechnisch genauer, wie viel Lichtstrom – auf eine Fläche fällt. Lux (lx) gibt die Licht-
+leistung in einem bestimmten Bereich in Lumen pro Quadratmeter (lm/m2) an. Der Un-
+terschied zwischen Lumen und Lux besteht darin, dass bei Lux die Fläche berücksichtigt
+wird, über die sich der Lichtstrom (Lumen) verteilt. Ein Lichtstrom von 50 Lumen, kon-
+zentriert auf eine Fläche von einem Quadratmeter, beleuchtet diese mit einer Beleuch-
+tungsstärke von 50 Lux. Diese Näherung bei der Beurteilung der Ausstellungsbeleuchtung
+war bisher zulässig, da die spektrale Zusammensetzung klassischer Leuchtmittel weitest-
+gehend einheitlich und damit pauschal zu bewerten war.
+
+Im Unterschied dazu definiert die Bestrahlungsstärke – auch Strahlungsfluss-
+dichte – die gesamte Leistung der eingehenden elektromagnetischen Energie, die auf
+eine Oberfläche trifft, bezogen auf die Größe der Fläche in Watt pro Quadratmeter
+(W/m2). Moderne LED-Beleuchtungen haben eine individuelle spektrale Zusammen-
+setzung, und es greift zu kurz, wenn weiterhin pauschal nur der Lichtstrom gemessen
+wird. Vielmehr ist die spektrale Zusammensetzung und der damit einhergehende,
+von der Helligkeit völlig unabhängige, aber entscheidende Energieeintrag zu erfassen,
+der maßgebend für die Einschätzung der Lichtempfindlichkeit des Exponats und die
+dazu in Korrelation zu setzende Ausstellungsdauer ist.
+
+
+
+8.1 Bestandserhaltung 685
+
+Die Schadstoffbelastung in Vitrinen und Ausstellungsräumen lässt sich nur auf-
+wendig bestimmen, die Vermeidung von Schadstoffemissionen steht daher im Vorder-
+grund. Bereits bei der Materialauswahl für die Raumgestaltung, für Vitrinen und ihre
+Ausstattung muss auf geprüfte, schadstoffarme Materialien geachtet werden.11
+
+Die Kenntnis über die unvermeidbar negativen Folgen der Exposition wiegen
+schwer bei jeder Entscheidung über die Ausstellung eines Objekt des Patrimoniums,
+unabhängig davon, ob es sich um eine jahrhundertealte, illuminierte Pergamenthand-
+schrift oder ein wertvolles modernes Buch mit besonders empfindlichen Farben han-
+delt. Der Konflikt zwischen der Verantwortung zum Erhalt des kulturellen Erbes und
+dem Anspruch, Originale der Öffentlichkeit zugänglich zu machen und die kulturelle
+Überlieferung zu vermitteln, lässt sich trotz strengster konservatorischer Vorgaben
+nicht immer lösen, vor allem, wenn sich das Interesse auf wenige, prominente Origi-
+nale konzentriert. Hier bieten neue Technologien mit hochqualitativen Reproduktio-
+nen oder digitale Konzepte zur Präsentation, beispielsweise durch Einbinden von
+Filmen oder mikroskopischen Details, eine nahezu gleichwertige Alternative zum Ori-
+ginal, die aber nicht den restriktiven und oftmals schwer erfüllbaren Vorgaben der
+Bestandserhaltung unterliegt.
+
+Einen umfassenden Überblick über Anforderungen an Vitrinen gibt die zweiteilige
+Norm „Leitfaden für die Konstruktion von Schauvitrinen zur Ausstellung und Erhaltung
+von Objekten“ DIN EN 15999, die konservatorische und organisatorische Komponenten
+wie Planung, Aufbau, Materialien oder das Mikroklima in Vitrinen behandelt. Daneben
+relevant sind die VdS-Richtlinien für Museen und Ausstellungshäuser (VdS 3511), für ein-
+bruchhemmende Vitrinen (VdS 6029) sowie für Videoüberwachungsanlagen (VdS 2366).
+
+5.5 Notfallvorsorge
+
+Jede Bibliothek ist verpflichtet, für den Not- und Katastrophenfall vorzusorgen. Zen-
+trales Instrument ist der Notfallplan, den eine Bibliothek passgenau für sich erstellt
+und mit dem sie unter anderem Zuständig- und Erreichbarkeiten sowie Alarmie-
+rungs- und Evakuierungsabläufe regelt. Die Norm ISO 21110 enthält grundlegende In-
+formationen zur Notfallvorsorge und Gefahrenabwehr, die bei der Erstellung eines
+Notfallplans zu beachten sind.
+
+Für die Erstversorgung von wenigen Schadensfällen bei einem kleinen Wasser-
+schaden enthalten Notfallboxen Materialien, die regelmäßig zu kontrollieren und er-
+neuern sind. Geschulte Beschäftigte können die Materialien unmittelbar und schnell
+einsetzen, denn Schimmel entsteht bei entsprechender Temperatur bereits innerhalb
+von 48 Stunden und schädigt Einband und Papier fundamental und irreversibel. In
+einem solchen Notfall können Bücher aufgefächert und mittels verstärkter Luftzirku-
+
+ Vgl. Schieweck u. Salthammer 2014.
+
+
+
+686 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+lation durch Ventilatoren ohne zusätzliche Wärmezufuhr bei Raumtemperatur ge-
+trocknet werden. Im Gegensatz dazu müssen im Katastrophenfall viele Schadensfälle
+in kurzer Zeit geborgen, ggf. gereinigt, einzeln in Stretchfolie gewickelt und tiefgefro-
+ren werden, um Schimmel zu vermeiden. Spezialisierte Dienstleister können den Pro-
+zess routiniert beschleunigen. Für den Erfolg der Bergung elementar wichtig ist, dass
+die Objekte möglichst schnell ins Kühlhaus transportiert werden. Die spätere Vaku-
+umgefriertrocknung, die Trockenreinigung und Restaurierung können dann zeitunab-
+hängig erfolgen.
+
+Nach einer Reihe von Katastrophen mit Kulturgutverlusten wurden städtische und
+regionale Notfallverbünde gegründet, die sich spartenspezifisch oder spartenübergrei-
+fend aus Bibliotheken, Archiven und Museen auch unterschiedlicher Trägerschaft zu-
+sammensetzen und so Synergieeffekte bündeln. Informationen stellen beispielsweise
+das Portal der Notfallverbünde12 und der SicherheitsLeitfaden Kulturgut (SiLK) des Bun-
+desamts für Bevölkerungsschutz und Katastrophenhilfe (BBK) bereit.13
+
+5.6 Maßnahmen am Objekt: Restaurierung
+
+Ein historisches Buch erschließt sich erst, indem man es seiner genuinen Bestimmung
+gemäß benutzt, es aus dem Regal nimmt, öffnet, liest und weiterblättert, es schließt und
+zurück ins Regal stellt. Ist die Einsichtnahme nicht mehr möglich, ohne dass Schäden
+größer werden oder halb lose Bestandteile verloren gehen könnten, ist eine Restaurie-
+rung angezeigt. Restaurierung zielt im Kern darauf ab, die Wertschätzung eines histori-
+schen Werkes, sein Verständnis und seine Zugänglichkeit zu erleichtern. Während bei
+früheren Restaurierungen das Ziel der Benutzbarkeit im Vordergrund stand und Verän-
+derungen am Buch dafür akzeptiert wurden, werden heute unter dem Fachausdruck
+„Restaurierung“ Maßnahmen verstanden, die den überlieferten Zustand möglichst un-
+verändert bewahren. Nur in sehr seltenen Fällen ist das Ziel die Wiederherstellung
+eines früheren Zustands, wie es der Begriff „Re-staurierung“ (lat. restaurare, wiederher-
+stellen) eigentlich vorgibt. Eine Restaurierung basiert stets auf einer systematischen He-
+rangehensweise gemäß dem aktuellen Kenntnisstand der Konservierungswissenschaft
+und folgt den allgemeinen Prinzipien der Kulturguterhaltung, wie sie in den Chartas
+und Leitlinien internationaler Fachorganisationen niedergelegt sind.
+
+Originale sind als primäre Quellen in ihrer überlieferten Materialität und physi-
+schen Form als Ausdruck eines künstlerischen und gesellschaftlichen Schaffenspro-
+zesses anzuerkennen und zu sichern. Restaurierung erhält zwar die physische Form,
+allerdings bedeuten auch kleine Maßnahmen eine Veränderung der Überlieferung. In
+
+ https://notfallverbund.de (03.05.2023).
+ https://www.bbk.bund.de/DE/Themen/Schutz-Kulturgut/Wie-sichern-wir-Kulturgut/SiLK/silk_node.
+html (03.05.2023).
+
+
+
+8.1 Bestandserhaltung 687
+
+der internationalen Diskussion zur Restaurierungsethik wurde die Minimum Interven-
+tion zum Leitbild. Um die Integrität und Authentizität eines Werkes zu bewahren, wer-
+den beispielsweise fehlende Bestandteile nur dann ergänzt, wenn sie wichtig für die
+Funktionsfähigkeit und Zugänglichkeit eines Buches sind. Auf dem anspruchsvollen Ge-
+biet der Buchrestaurierung sind profunde Kenntnisse historischer Einbandtechniken und
+Materialien erforderlich, um die komplexe Funktionsweise des Buches und das Zusam-
+menspiel der gealterten Materialien zu gewährleisten. In ein Objekt eingebrachtes Mate-
+rial muss alterungsbeständig sein und in seinen Eigenschaften dem historischen Material
+möglichst entsprechen. Von der Restaurierung abzugrenzen ist die Reparatur, die den
+oben genannten Grundsätzen nicht oder nur teilweise folgt, indem etwa schadhafte Ein-
+bände durch neue Materialien ersetzt werden. Reparaturen kommen nur im modernen
+Bestand zur Anwendung und bleiben weitgehend undokumentiert. Dagegen besteht die
+Dokumentation von Restaurierungen aus Informationen, die für gegenwärtige und zu-
+künftige Maßnahmen sowie für Referenzzwecke erzeugt, gesammelt, vorgehalten und
+dauerhaft aufbewahrt werden. Das können zum Beispiel schriftliche Berichte, Zeichnun-
+gen, Fotografien und Untersuchungsergebnisse sein. Die Dokumentation erleichtert die
+unmittelbare Nachkontrolle und die künftige retrospektive Nutzung dieser Daten.
+
+5.7 Mengenverfahren: Entsäuerung
+
+Ein großer Teil der Bibliotheksbestände ab etwa 1850 ist vom Papierzerfall bedroht.
+Im Verlauf des 19. Jahrhunderts verändert sich die Papierherstellung grundlegend:
+Die Einzelblattproduktion aus textilen Fasern im Alkalischen verändert sich hin zur
+Massenproduktion aus Holzstoff und Zellstoff im Sauren. Die verstärkte Zugabe von
+säurebildendem Aluminiumsulfat zur Leimung des Papiers bei gleichzeitig schlechter
+Ausgangsqualität des Faserstoffes führt bereits ab dem Zeitpunkt der Herstellung zu
+saurem Papier und damit zum irreversiblen Abbau der Cellulose. Die säurekatalysierten
+Abbauprozesse lassen bereits unmittelbar nach der Herstellung den pH-Wert des Pa-
+piers weiter sinken. Diese autokatalytischen Prozesse laufen mit der Zeit und mit zuneh-
+mendem Säuregehalt im Papier immer schneller ab. Ungünstige Lagerungsbedingungen
+mit hoher Temperatur und relativer Luftfeuchte, starken Raumklimaschwankungen,
+Lichteinfall und Luftschadstoffen beschleunigen den Abbauprozess zusätzlich.
+
+Über Jahrzehnte galt die Mengenentsäuerung als Mittel der Wahl, die vom Zerfall
+gefährdeten Bestände durch eine Verlängerung der Lebensdauer im Original lange
+genug zu erhalten, um geeignete Verfahren zur dauerhaften Materialstabilisierung zu
+entwickeln. Etablierte Digitalisierungs- und Langzeitarchivierungsstrategien, Kalt-
+und Kühllagerung sowie veränderte Erhaltungsstrategien14 führten in den letzten Jah-
+ren zu einer Trendwende, bei der die Mengenentsäuerung an Bedeutung verliert.
+
+ Vgl. Boden u. a. 2023.
+
+
+
+688 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+Ein Entsäuerungsverfahren sollte nur zum Einsatz kommen, solange das saure
+Papier noch über eine ausreichende Stabilität verfügt. Eine Entsäuerung zielt dabei
+auf die vollständige Neutralisierung der Säuren und insbesondere auf die Bildung
+einer alkalischen Reserve im Papier ab, um den aktuellen Zustand des Papiers zu kon-
+servieren und so die Lebensdauer und Benutzbarkeit der Papiere zu verlängern.
+Üblicherweise beurteilt man die Wirksamkeit und damit die Nachhaltigkeit eines Ent-
+säuerungsverfahrens anhand des Faktors, um den sich die voraussichtliche Lebens-
+dauer des Buches verlängert.15
+
+Für die praktische Durchführung der Mengenentsäuerung legt die Norm DIN 32701
+Prüfverfahren zur Verfahrensvalidierung und Routinekontrolle von Verfahren zur
+Mengenentsäuerung anhand eines Testpapieres fest. Die Verfahrensvalidierung dient
+der Prüfung, ob das ausgewählte Mengenverfahren zur Papierentsäuerung seinen fest-
+gelegten Zweck erfüllt. Die Routinekontrolle dient der Prüfung, ob die durch die Verfah-
+rensvalidierung bestimmte Wirksamkeit in gleichbleibender Qualität erreicht wird.16
+Grundsätzliche Anforderungen an ein Entsäuerungsverfahren sind das Einbringen
+einer ausreichenden alkalischen Reserve sowie eine gleichmäßige Entsäuerung und
+Verteilung der alkalischen Reserve über das gesamte Blatt und Buch. Darüber hinaus
+darf ein Entsäuerungsverfahren keine Nebenwirkungen auf die Nutzer:innen und Be-
+schäftigten, die Umwelt und nur geringe auf das Buch haben. Die Anwendung der Norm
+im Routinebetrieb ersetzt aber nicht die Qualitätssicherung nach eigenen, individuell
+festgelegten Kriterien, sondern ist ein Basiselement des eigenen Qualitätsmanagements.
+
+5.8 Objektschonende Digitalisierung
+
+Digitalisate dienen der Wissenschaft und Öffentlichkeit zur komfortablen, zeit- und
+ortsunabhängigen Nutzung und damit zugleich dem Schutz der Originale. Die geplante
+Durchführung von Digitalisierungsprojekten kann darüber hinaus genutzt werden, um
+den Erhaltungszustand von Bestandsgruppen zu überprüfen und beurteilen und darauf
+basierend Konzepte für konservatorische oder restauratorische Maßnahmen zu entwi-
+ckeln. Die Digitalisierung darf nicht zu Schäden oder zum Verlust von Substanz und
+Information am Buch führen. Auch wenn Scanner, Hilfsmittel und Workflows optimiert
+wurden, bedeutet die Digitalisierung zusammen mit der prozessbegleitenden Vor- und
+Nachbereitung und den damit verbundenen Transporten insgesamt eine Belastung für
+die Originale. Bei jedem objektschonenden Digitalisierungsprojekt sind daher Maßnah-
+men der Bestandserhaltung ein integraler Bestandteil der Planung und Durchführung.
+Die Norm DIN 33910 legt weitere Anforderungen für die objektschonende Digitalisie-
+rung fest.
+
+ Vgl. Hubbe u. a. 2017, 2018.
+ Vgl. Allscher u. Ceynowa 2018.
+
+
+
+8.1 Bestandserhaltung 689
+
+Die Prüfung der Originale sowie ihre konservatorische und restauratorische Vorbe-
+reitung gehen dem Scannen voraus. Objekte dürfen nicht digitalisiert werden, wenn
+ein Risiko für Schäden beim Scannen besteht, die nicht durch vorangehende Maßnah-
+men verhindert werden können. Ebenso müssen sich die Scanverfahren und die damit
+verbundenen Abläufe und Schutzmaßnahmen beim Scannen immer an den Eigenschaf-
+ten und Schutzbedürfnissen der Objekte und den aus der Zustandserfassung resul-
+tierenden Vorgaben ausrichten. Zu den allgemeinen Vorgaben für eine buchschonende
+Digitalisierung gehören geeignete Umgebungsparameter hinsichtlich des Raumklimas
+und eine minimierte Beleuchtungsdauer und -stärke. Im Weiteren dürfen Scansysteme
+kein Beschädigungspotential für Bücher wie spitze Kanten und raue Flächen aufweisen,
+die eingesetzten Leuchtmittel müssen frei von UV- und IR-Strahlung sein. Dem histori-
+schen Buch mit seinen gealterten, wenig flexiblen Materialien kommen Scansysteme
+mit Buchwiegen entgegen, die sich den individuellen Vorgaben der Bücher anpassen
+lassen. Mitunter erlauben Bücher nur geringe Öffnungswinkel von etwa 80°–90°. Der
+maximale Öffnungswinkel ist in dem Moment erreicht, in dem ein Widerstand beim
+Öffnen des Buches zu spüren ist. Effektive Buchstützen können bereits aus einfachen
+Schaumstoffkeilen bestehen, die mit einem glatten Karton abgedeckt werden, um Ab-
+rieb bei empfindlichen Oberflächen zu verhindern.
+
+Günstig wären zwar Systeme, die doppelseitig aufnehmen, denn sonst müssen zu-
+nächst alle Recto-, dann alle Verso-Seiten des Buches gescannt werden. Derart konstru-
+ierte Scanner mit mittig geteilten Buchwippen sind in der Praxis aber oft nur für dünne
+Bücher geeignet, die einen Öffnungswinkel von 180° zulassen und keinen gewölbten
+Buchblock mit Text bis in den Falz aufweisen. Das geräteseitig vorgesehene Auflegen
+einer Glasplatte auf empfindliche Buchseiten ist konservatorisch nicht vertretbar und
+führt zudem gerade bei umfangreichen Büchern mit Text bis in den Falz nicht zum ge-
+wünschten Erfolg. Es haben sich daher vor allem für hochauflösende Digitalisate von
+empfindlichen Büchern Scanner mit sehr flexiblen, modularen Buchwiegen etabliert,
+die sich auf die möglichst optimale und schonende Digitalisierung von Einzelseiten kon-
+zentrieren. Diesen Systemen liegt die Scan-Philosophie zugrunde, dass sich nicht das
+Buch an relative starre Gegebenheiten des Geräts anzupassen habe, sondern umgekehrt
+das Gerät mit einem Maximum beweglicher Mechanik auf die jeweiligen Eigenheiten
+des Buches einzustellen ist. Hilfsmittel wie etwa der „Münchener Buchfinger“, ein spezi-
+ell geformter Acrylglasstab zum dezenten Niederhalten von Buchseiten, oder Gewichte
+wie „Bleischlangen“ zum sanften Beschweren unterstützen den Prozess. Um Mehrfach-
+digitalisierungen zu vermeiden, muss die Qualität der Digitalisate so hoch sein, dass
+diese vielfältig, etwa für Publikationen oder weitere digitale Anwendungen, und lang-
+fristig nutzbar sind. Die Digitalisate müssen dazu mindestens der Norm ISO 19264-1 ent-
+sprechen. ISO/TR 19263-1 sowie die DFG-Praxisregeln „Digitalisierung“ in ihrer jeweils
+aktuellen Ausgabe sind ergänzend zu beachten.
+
+
+
+690 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+6 Ausbildung
+Das Fach Bestandserhaltung ist in den Curricula der bibliothekarischen Ausbildungsein-
+richtungen integriert. Für den Bereich der Restaurierung/Konservierung sind Bachelor-,
+Master- und teilweise auch Promotionsstudiengänge an den Hochschulen und Akade-
+mien für Bildende Künste in Hildesheim, Köln, Stuttgart, Bern und Wien etabliert. Im
+Rahmen einer institutionellen Kooperation zwischen der Bayerischen Staatsbibliothek
+und der Technischen Universität München trägt das Institut für Bestandserhaltung und
+Restaurierung der Bayerischen Staatsbibliothek zur Restauratorenausbildung bei.
+
+7 Normen und Best Practices
+Fachnormen werden international bei der International Organization for Standardi-
+zation (ISO) oder europäisch beim Comité Européen de Normalisation (CEN) gemäß
+dem aktuellen Stand der Wissenschaft und Technik erarbeitet und spätestens alle
+fünf Jahre bestätigt oder revidiert. Das Deutsche Institut für Normung e. V. (DIN) ent-
+sendet Expert:innen zur Mitarbeit in den Ausschüssen, die aus den interessierten
+Kreisen gebildet werden. Zu europäischen Projekten führt das DIN sogenannte Spie-
+gelausschüsse. Europäische Normen werden automatisch in die nationalen Normen-
+werke aller Mitgliedsländer übernommen, internationale Normen können je nach
+Abstimmungsergebnis in den zuständigen Ausschüssen am DIN in das deutsche Nor-
+menwerk eingehen.
+
+Bibliothekarische und restauratorische Fachgremien erarbeiten Best Practices:
+die Kommission Bestandserhaltung des Deutschen Bibliotheksverbands e. V. (dbv),
+das in weltweiten Regionalzentren organisierte Kernprogramm Preservation and Con-
+servation (PAC) und die Sektion 19 Preservation and Conservation der International
+Federation of Library Associations and Institutions (IFLA), die Fachgruppe Graphik,
+Archiv- und Bibliotheksgut des Verbands der Restauratoren e. V. (VDR), die Internatio-
+nale Arbeitsgemeinschaft der Archiv-, Bibliotheks- und Graphikrestauratoren (IADA)
+sowie die Graphic Documents Working Group des Committee for Conservation am In-
+ternational Council of Museums (ICOM-CC).
+
+8 Fazit
+Auf allen hier dargestellten Arbeitsfeldern bewegt sich die Bestandserhaltung im
+Spannungsfeld von Bewahrung und Benutzung. Dieses Spannungsverhältnis sollte
+nicht als konfligierend oder gar antagonistisch verstanden werden. Die Bestandser-
+haltung darf nicht als Verknappungs- oder gar Verhinderungsinstanz der Vermittlung
+schriftlichen Kulturerbes angesehen werden. Im Gegenteil: Das bewahrende Handeln
+
+
+
+8.1 Bestandserhaltung 691
+
+steht ausschließlich im Dienste der Nutzung, da es darauf zielt, Benutzbarkeit (wie-
+der)herzustellen und Zugang dauerhaft zu erhalten. Genau hier liegen Legitimität
+und Auftrag der Bestandserhaltung, denn zukünftige Generationen haben genau wie
+die gegenwärtige das gleiche Recht kultureller Selbstverständigung und Selbstverge-
+wisserung, wie sie nur das Objekt im Original zu bieten vermag. In diesem Sinne für
+die Bewahrung möglichst für „ewige Zeit“ werden Restauratorinnen und Restaura-
+toren auch immer wieder „Nein“ zu sagen haben, etwa wenn Leihanfragen für Aus-
+stellungen auf die immergleichen Cimelien als verlässliche „Quotenbringer“ abzielen.
+Dieses „Nein“ steht stets im Interesse eines zukünftigen „Ja“ und ist damit konstitutiv
+für das Selbstverständnis der Bibliothek als Gedächtnisinstitution.
+
+Literatur
+Al Mohtar, Abeer, Moisés L. Pinto, Artur Neves, Sofia Nunes, Daniele Zappi, Gabriele Varani, Ana Maria
+
+Ramos u. a.: Decision making based on hybrid modeling approach applied to cellulose acetate based
+historical films conservation. In: Scientific Reports 11 (2021), H. 1, 16074. https://doi.org/10.1038/
+s41598-021-95373-0.
+
+Allscher, Thorsten u. Irmhild Ceynowa: Mengenentsäuerung – Verfahrensvalidierung, Evaluierung und
+Qualitätssicherung. Neue Einsichten und bleibende Fragen. In: ABI Technik 38 (2018), H. 1, S. 16–28.
+https://doi.org/10.1515/abitech-2018-0004.
+
+Allscher, Thorsten u. Irmhild Ceynowa: Strategien für spektrale Untersuchungen zur Lesbarmachung von
+Manuskripten. In: Zeitschrift für Bibliothekswesen und Bibliographie 68 (2021), H. 4, S. 184–195.
+https://doi.org/10.3196/186429502068420.
+
+Beltran, Vincent L.: Advancing microfading tester practice: A Report from an experts meeting organized by
+the Getty Conservation Institute, March 13-15, 2018. Los Angeles: Getty Conservation Institute 2019.
+https://www.getty.edu/conservation/publications_resources/pdf_publications/advancing_mft_prac
+tice.html (26.05.2023).
+
+Boden, Ragna,Christian Hänger, Jens Niederhut, Dirk Förstner u. Kristina John: Bestandserhaltung als
+Massengeschäft – Das neue Bestandserhaltungskonzept des Bundesarchivs. In: ABI Technik 43
+(2023), H. 1, S. 37–45. https://doi.org/10.1515/abitech-2023-0005.
+
+Ceynowa, Irmhild u. Thorsten Allscher: Analytisch betrachtet. Der neue materialwissenschaftliche und
+kunsttechnologische Forschungsschwerpunkt an der Bayerischen Staatsbibliothek. In: Zeitschrift für
+Bibliothekswesen und Bibliographie 64 (2017), H. 5, S. 234–248. https://doi.org/10.3196/
+186429501764526.
+
+Ceynowa, Irmhild, Diego Estupiñán Méndez u. Thorsten Allscher: Risiko Nitrofilm. Identifizierung,
+Digitalisierung und Vernichtung am Beispiel der Bayerischen Staatsbibliothek. In: Zeitschrift für
+Bibliothekswesen und Bibliographie 69 (2022), H. 4, S. 181–195. https://doi.org/10.3196/
+186429502069418.
+
+DFG-Praxisregeln „Digitalisierung“. https://www.dfg.de/resource/blob/176108/898bf3574ad0ff3b1db525
+fa7d04c86c/12-151-v1216-de-data.pdf (14.09.2024).
+
+Hubbe, Martin A., Richard D. Smith, Xuejun Zou, Svetozar Katuscak, Antje Potthast u. Kyujin Ahn:
+Deacidification of acidic books and paper by means of non-aqueous dispersions of alkaline particles:
+a review focusing on completeness of the reaction. In: BioResources 12 (2017), H. 2, S. 4410–4477.
+https://bioresources.cnr.ncsu.edu/resources/deacidification-of-acidic-books-and-paper-by-means-of-
+
+
+
+692 Thorsten Allscher, Irmhild Ceynowa und Diego Estupiñán Méndez
+
+non-aqueous-dispersions-of-alkaline-particles-a-review-focusing-on-completeness-of-the-reaction/
+(26.05.2023).
+
+Hubbe, Martin A., Ute Henniges, Antje Potthast, Kyujin Ahn, Richard D. Smith: Nonaqueous solution
+deacidification treatments to prolong the storage life of acidic books: A review of mechanistic and
+process aspects. In: BioResources 13 (2018), H. 3, S. 7096–7136. https://doi.org/10.15376/biores.13.3.
+Hubbe.
+
+Knight, Barry: Lack of evidence for an autocatalytic point in the degradation of cellulose acetate. In:
+Polymer Degradation and Stability 107 (2014), September, S. 219–222. https://doi.org/10.1016/j.poly
+mdegradstab.2013.12.002.
+
+Michalski, Stefan: Double the life for each five-degree drop, more than double the life for each halving of
+relative humidity, in: ICOM Committee for Conservation, Preprints of the 13rd Triennial Meeting, Rio
+de Janeiro, 22–27 September 2002, 1. London: James and James 2002. S. 66–72. https://www.icom-cc-
+publications-online.org/2187/Double-the-life-for-each-five-degree-drop-more-than-double-the-life-for
+-each-halving-of-relative-humidity (26.05.2023).
+
+Pesme, Christel u. Kirsten Dunne: The Continuing Development of Display Recommendations at the
+National Galleries of Scotland: Exploring a Value-based Decision Strategy for Light Risk Mitigation.
+In: Studies in Conservation 67 (sup1) (2022), S. 219–227. https://doi.org/10.1080/00393630.2022.
+2066319.
+
+Schieweck, Alexandra u. Tunga Salthammer: Schadstoffe in Museen, Bibliotheken und Archiven. Raumluft,
+Baustoffe, Exponate. 2., vollst. überarb. Auflage. Stuttgart: Fraunhofer IRB 2014.
+
+Tse, Season: Microfade Testing for Heritage Institutions: A Canadian Experience. In: Studies in
+Conservation 64 (2019), H. 6, S. 337–351. https://doi.org/10.1080/00393630.2018.1527984.
+
+Villmann, Beate u. Christian Weickhardt: Wavelength Dependence of Light Induced Changes in
+Reflectance Spectra of Selected Dyes and Pigments. In: Studies in Conservation 63 (2018), H. 2,
+S. 104–112. https://doi.org/10.1080/00393630.2017.1345088.
+
+Normen finden sich zusammengestellt in den
+folgenden DIN-Taschenbüchern
+Allscher, Thorsten u. Anna Haberditzl: Bestandserhaltung in Archiven und Bibliotheken. 7., überarbeitete
+
+und erweiterte Auflage. Berlin, Wien, Zürich: Beuth 2021.
+Goetz, Kornelius: DIN-Taschenbuch 409: Erhaltung des kulturellen Erbes, 1. Auflage. Berlin, Wien, Zürich:
+
+Beuth 2014.
+Goetz, Kornelius u. Irmhild Ceynowa: DIN-Taschenbuch 410: Erhaltung des kulturellen Erbes, Teil 2, 1.
+
+Auflage. Berlin, Wien, Zürich: Beuth 2018.

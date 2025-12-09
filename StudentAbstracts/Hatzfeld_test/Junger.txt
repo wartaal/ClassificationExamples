@@ -1,0 +1,378 @@
+﻿Ulrike Junger und Frank Scholze
+Perspektiven bibliothekarischer Erschließung
+und Datenpräsentation
+Impulsbeitrag
+
+1 Vorbemerkung
+Wie sieht die Erschließung in Bibliotheken in der Zukunft aus? Wie sieht bibliothekari-
+sche Erschließung der Zukunft aus? Wie sieht Erschließung in Bibliotheken zukünftig
+aus? Wenn man dem Chatbot ChatGPT diese leicht variierenden Fragen stellt,1 erhält
+man Antworten, die nicht deckungsgleich sind und je nach Fassung der Frage mögliche
+Trends in unterschiedlicher Konkretion benennen. ChatGPT verweist jedoch in allen
+Antworten darauf, dass die skizzierten Szenarien und Trends so eintreten könnten, je-
+doch abhängig sind von Faktoren, die ihrerseits nicht exakt vorhersagbar sind, wie
+etwa technologische Entwicklungen oder Ressourcensituationen.
+
+Gemäß einem häufig zitierten und paraphrasierten Satz „We cannot predict the
+future but we can invent it“2 wird anhand einiger Thesen im Folgenden beleuchtet,
+welche Entwicklungen unserer Einschätzung nach stärkere Bedeutung für eine künf-
+tige bibliothekarische Erschließung gewinnen werden. Illustriert werden diese Trends
+durch Beispiele aus dem Kontext der Deutschen Nationalbibliothek.
+
+2 Zweck und Funktionen bibliothekarischer
+Erschließungsdaten
+
+These 1: Herkömmliche Funktionen bibliothekarischer Erschließung sind nicht obso-
+let und werden auch in Zukunft benötigt.
+
+Bibliothekarische Erschließung dient generell dem Zweck, Menschen (und mehr
+und mehr auch Maschinen) die Information an die Hand zu geben, die sie benötigen,
+um Auskunft über und Zugang zu Publikationen zu bekommen. Der klassische Anlass
+und Verwendungszweck ist dabei die Erstellung von Katalogen und Bibliographien.
+Kataloge bilden den analogen, physischen und digitalen Bestand einer Bibliothek ab,
+d. h. sie geben Auskunft darüber, welche Medienwerke und Inhalte eine Einrichtung
+in ihrem Besitz hat oder zu welchen sie Zugriff gewährt.
+
+ Anfragen durch Ulrike Junger im Mai 2023 über http://chat.openai.com/.
+ Siehe Future –Wikiquote: https://en.wikiquote.org/wiki/Future#G (01.11.2023).
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-029
+
+
+
+472 Ulrike Junger und Frank Scholze
+
+Die damit verknüpften Anforderungen sind klassischerweise in den sog. Functio-
+nal Requirements for Bibliographic Records3 beschrieben worden:
+– finden (engl. find)
+– identifizieren (engl. identify)
+– auswählen (engl. select)
+– erhalten (engl. obtain)
+
+Regelwerke zur Erstellung von Erschließungsdaten wie etwa Resource Description and
+Access (RDA)4 sind entsprechend gestaltet. Nutzenden darüber Auskunft zu geben, wel-
+che Medienwerke im Bestand oder Zugriff einer Einrichtung für sie verfügbar sind, ist
+solange nötig, wie nicht alle Inhalte frei und digital verfügbar sind (universal open
+access)5.
+
+Daneben ist die Erstellung von Bibliographien und Literaturverzeichnissen ein tra-
+ditioneller Zweck bibliothekarischer Erschließung. In Bibliotheken erstellte Bibliogra-
+phien fußen zwar in der Regel gleichfalls auf dem Bestand der Einrichtung, haben
+jedoch nicht den primären Zweck des Bestandsnachweises, sondern dienen etwa
+dazu, das Publikationsgeschehen zu einem bestimmten Thema, in einem geographi-
+schen Raum oder an einer Einrichtung abzubilden. Die Selektionsmöglichkeiten mo-
+derner Datenbanksysteme und die Verfügbarkeit von Schnittstellen erlauben es auch,
+dass Nutzende selbst Bibliographien und Verzeichnisse erzeugen. Voraussetzung sind
+jedoch stets entsprechende Metadaten, die eine Vielfalt möglicher Zusammenstellun-
+gen potentiell erst ermöglichen.
+
+These 2: Bibliothekarische Erschließungsdaten müssen künftig zusätzliche Zwecke
+erfüllen.
+
+Ein zu den oben beschriebenen Funktionen verwandter Zweck ist die verstärkte
+Anforderung an Erschließungsdaten, große, insbesondere digitale Sammlungen zu
+strukturieren und die Bildung von Ausschnitten und Teilsammlungen zu ermöglichen.
+Diese können etwa als Korpora für Trainingszwecke im Bereich der maschinellen Er-
+schließung, für Text and Data Mining in Forschungsprojekten, als gezielte Angebote
+in Bibliotheksportalen oder für virtuelle Ausstellungen zur Verfügung gestellt werden.
+
+ Siehe Functional Requirements for Bibliographic Records (FRBR) – https://repository.ifla.org/handle/
+123456789/811 (14.09.2024).
+ Siehe About RDA | www.rdatoolkit.org: https://www.rdatoolkit.org/about (14.09.2024).
+ Die Unesco hat den 28. September zwar zum Tag des Universal Access to Information ausgerufen,
+die 30-jährige Geschichte des Open Access zeigt jedoch, wie weit wir noch von diesem Ziel entfernt
+sind. Vgl. open-access.network: Geschichte des Open Access. https://open-access.network/informieren/
+open-access-grundlagen/geschichte-des-open-access (01.11.2023).
+
+
+
+Perspektiven bibliothekarischer Erschließung und Datenpräsentation 473
+
+D. h., Erschließungsdaten nehmen verstärkt eine Vermittlungsfunktion ein, und sie
+dienen auch dazu, neue Daten zu erzeugen bzw. Daten in einen Kontext zu stellen.
+
+Neben den Daten zur bibliographischen und inhaltlichen Beschreibung der Medi-
+enwerke werden Kennzeichnungen für Sammlungen, aber auch Informationen zur
+Nutzbarkeit und Verarbeitbarkeit der beschriebenen Objekte etwa durch Angabe von
+Lizenzinformationen oder technischen Informationen immer wichtiger.
+
+Katalogdaten einer Einrichtung müssen darüber hinaus noch stärker als bisher
+als Teilmenge verschiedener Datenräume gesehen werden. Während dies seit vielen
+Jahren z. B. im Bereich von Bibliotheksverbünden mit ihren Verbundkatalogen zum
+Zweck der Arbeitsteilung und verbesserter Literaturbereitstellung (Fernleihe) Stan-
+dard ist, haben insbesondere die Entwicklungen webbasierter Dienste und Werk-
+zeuge, aber auch veränderte Ansprüche zur Verfügbarkeit von Daten (Open Data)
+dazu geführt, dass Datensammlungen potentiell für Zwecke genutzt werden, die über
+den Katalog hinausgehen. Dies wird in Zukunft noch deutlich zunehmen.
+
+Beispiele aus dem Kontext der DNB:
+– Während der Coronapandemie war es Nutzer:innen zeitweise nicht möglich, die
+
+DNB aufzusuchen und die Bestände vor Ort zu nutzen. Da aufgrund urheber-
+rechtlicher Beschränkungen nicht alle digitalen Bestände der DNB außerhalb der
+Lesesäle der DNB frei zugreifbar sind, war es essentiell anzuzeigen, bei welchen
+Objekten dies ohne Einschränkung möglich ist. Diese rund 2,5 Millionen Objekte
+wurden gezielt angeboten und rege genutzt.
+
+– Digitale Objekte einschließlich der zugehörigen Metadaten aus dem Bestand der
+DNB werden einen Teil der im Aufbau befindlichen Nationalen Forschungsdaten-
+infrastruktur (NFDI) bilden. Im geisteswissenschaftlichen Konsortium Text+, an
+dem die DNB beteiligt ist, geht es u. a. darum, digitale Textkorpora bereitzustel-
+len, die von Forschenden bearbeitet werden können. Die Bildung solcher Kor-
+pora, z. B. Heftromane, erfordert Kennzeichungen in den Metadaten, um die
+Objekte gezielt einem Korpus zuweisen zu können.
+
+3 Automatisierung und Autopsie
+These 3: Die autoptisch-intellektuelle Katalogisierung durch Bibliothekar:innen wird
+weiter zurückgehen bzw. durch andere Verfahren ersetzt und ergänzt.
+
+Kaum eine Bibliothek erschließt sämtliche Erwerbungen noch per Autopsie. Die
+Zusammenarbeit in Bibliotheksverbünden und die arbeitsteilige Datenerstellung bzw.
+die Nutzung von Dienstleistern sind seit vielen Jahren eingeübte Praxis. Daten werden
+in vielen Fällen ohne weitere Nachbearbeitung in das eigene Nachweissystem über-
+nommen. Allerdings handelt es sich in der Regel um Daten, die intellektuell erstellt
+wurden. In der Zukunft wird es eine Verschiebung von per Autopsie erzeugten hin zu
+(nur noch) maschinell erzeugten Daten geben, da sich die der maschinellen Erschlie-
+
+
+
+474 Ulrike Junger und Frank Scholze
+
+ßung zugrundeliegenden, auf künstlicher Intelligenz basierenden Verfahren weiter
+verbessern und die zu bearbeitenden Mengen an Medienwerken weiter vergrößern
+wird. Eine Herausforderung in diesem Zusammenhang ist die Frage, an welchen Stel-
+len eine intellektuelle Intervention notwendig ist, sei es als Qualitätskontrolle für
+z. B. maschinell erstellte Daten oder für die grundständige Erzeugung von Erschlie-
+ßungsdaten, etwa weil andere Verfahren keine verlässlichen Ergebnisse erbringen
+oder um Trainingsmaterial für automatisierte Verfahren zu gewinnen (Stichwort:
+Human in the Loop)6.
+
+These 4: Bibliothekarische Erschließungsdaten werden zunehmend durch andere Ak-
+teur:innen erzeugt.
+
+Neben der automatisierten Erzeugung durch maschinelle Verfahren werden mehr
+Erschließungsdaten auch durch Dritte erstellt. Die Nutzung von Daten, die durch Urhe-
+ber:innen oder Verlage erstellt werden, ist eine lang geübte Praxis im Bibliothekswesen.
+Die Erstellung von Daten zu digitalen und physischen Medienwerken durch Nutzende
+und ihre Integration in die bibliothekarischen Nachweissysteme findet bisher nur selten
+statt. Insbesondere Wissenschaftler:innen, die etwa im Rahmen von Digital-Humanities-
+Projekten digitale Bestände analysieren, erzeugen ggf. zusätzliche Erschließungsdaten,
+die in den Katalog zurückgeführt werden könnten, etwa Genrebezeichnungen.
+
+Aber auch das Stichwort „Citizen Science“ muss in diesem Zusammenhang ge-
+nannt werden. Bibliotheken bedienen sich gezielt der Unterstützung und Expertise
+von Nutzer:innen, z. B. für die Verbesserung von OCR-Ergebnissen.
+
+Dazu bedarf es technischer Plattformen, die entsprechende Möglichkeiten der Er-
+fassung und Interaktion erlauben sowie Schnittstellen in das jeweilige Bibliothekssys-
+tem hinein, um solche extern entstandenen Daten zu integrieren.
+
+Beispiel aus dem Kontext der DNB:
+– Die DNB hat bereits im Jahr 2010 mit der Einführung der Reihe O die intellektuelle
+
+Erschließung für digitale Objekte eingestellt und zwar zugunsten der Übernahme
+von Metadaten, die die Ablieferer erstellen. Ergänzend zu den abgelieferten Daten
+werden mit Hilfe maschineller Verfahren neue inhaltserschließende Daten erzeugt
+und die Nachweise damit angereichert.
+
+4 Dynamik und Verlässlichkeit
+These 5: Erschließungsdaten werden sich immer wieder verändern.
+
+Dass die Nachweise in einem Bibliothekskatalog üblicherweise nicht homogen
+sind, ist kein neues Thema – die Veränderung von Erschließungsregeln über die Zeit
+oder die Entscheidung, nicht alle Ressourcen auf die gleiche Weise zu erschließen,
+
+ Siehe Human-in-the-loop – Wikipedia: https://en.wikipedia.org/wiki/Human-in-the-loop (01.11.2023).
+
+
+
+Perspektiven bibliothekarischer Erschließung und Datenpräsentation 475
+
+sind bekannte Gründe dafür. Die zunehmende Vielfalt der Methoden zur Erstellung
+von Erschließungsdaten wird zu einer weiter wachsenden Heterogenität führen.
+Daten sehr unterschiedlicher Tiefe und unterschiedlichen Umfangs werden nebenein-
+ander im Katalog existieren, Basisnachweise neben spezieller Tiefenerschließung.
+
+Dank maschineller Verfahren können Erschließungsdaten sehr viel einfacher als
+früher angereichert oder vorhandene Daten durch neu erzeugte ersetzt werden. Dies
+kann für den gesamten Datenbestand einer Einrichtung erfolgen, vermutlich jedoch
+häufiger für Teilbestände. Inkrementelles, nicht immer systematisches Datenwachs-
+tum wird abhängig vom Fortschritt maschineller Verfahren der Normalfall werden.
+
+These 6: Bibliotheken stehen für vertrauenswürdige Daten.
+Sie machen einerseits transparent, wie Daten zustande kommen, andererseits
+
+sorgen sie durch Verfahren der Datenpflege und des Datenmanagements dafür, dass
+Erschließungsdaten trotz heterogener Herkunft, Tiefe und Qualität ihren Zweck erfül-
+len können und in einem sachlich korrekten Bezug zu dem Medienwerk stehen, das
+sie beschreiben. Bibliotheken stehen aber auch deshalb für vertrauenswürdige Daten,
+weil sie nicht werten und Daten nicht zu kommerziellen Zwecken erzeugt werden.
+
+Beispiele aus dem Kontext der DNB:
+– Die DNB setzt seit mehr als 10 Jahren maschinelle Verfahren zur Erzeugung in-
+
+haltserschließender Daten ein. Diese Verfahren werden fortlaufend gepflegt und
+angepasst mit dem Ziel, bessere und umfassendere Erschließungsergebnisse zu
+erzielen. Im Jahr 2021 hat die DNB größere Bestände digitaler Publikationen mit
+maschinell erzeugten Inhaltserschließungsdaten mit einem verbesserten Ver-
+fahren erneut erschlossen, die vorhandenen Daten ersetzt und zur Verfügung
+gestellt.
+
+– Vor allem bei maschinell erzeugten Daten erfasst die DNB Metainformationen zu
+den Erschließungsdaten wie etwa Konfidenzwerte oder die Benennung des einge-
+setzten maschinellen Verfahrens. Aber auch die Angabe, dass es sich um einen
+nach RDA erstellten Nachweis handelt, wird erfasst. Diese Informationen werden
+teils im DNB-Portal angezeigt, vor allem aber an Datenkunden übermittelt bzw.
+ausgeliefert. Auf diese Weise können diese selbst entscheiden, ob und wie sie mit
+Nachweisdaten aus der DNB umgehen.
+
+5 Vernetzung und Öffnung
+These 7: Die Verknüpfbarkeit bibliothekarischer Daten wird an Bedeutung gewinnen.
+
+Eine zentrale Rolle hierfür spielen Entitäten wie Personen, Werktitel, Konzepte
+u. a. m., die zur Beschreibung von Medienwerken benötigt werden oder selbst darin
+vorkommen. Ein wesentlicher Teil bibliothekarischer Erschließungsarbeit ist ihre Abbil-
+dung als Normdaten: Neben der Festlegung von Benennungen der Entität können wei-
+
+
+
+476 Ulrike Junger und Frank Scholze
+
+tere Informationen und insbesondere Relationen zu anderen Entitäten (bzw. den sie ab-
+bildenden Normdatensätzen) enthalten sein.
+
+Über die Brücke der Normdaten werden bibliothekarische Datenbestände nicht
+nur in sich verknüpft, sondern können auch mit vielfältigen anderen Datenbeständen
+in Beziehung gesetzt werden – seien es Forschungsdaten oder Nachweisdaten aus Mu-
+seen und Archiven.
+
+Verknüpfte und verknüpfbare Daten bilden auch das Rückgrat von Wissensgra-
+phen (Knowledge Graphen), die auch als semantisches Netzwerk bezeichnet werden.
+Sie stellen ein Netzwerk aus realen oder ideellen Entitäten – d. h. Objekten, Ereignis-
+sen, Situationen oder Konzepten – dar und veranschaulichen die Beziehungen zwi-
+schen ihnen. Wissensgraphen sind ein gut etabliertes Konzept, das derzeit durch die
+Entwicklung großer generativer Sprachmodelle (Large Language Model – LLM) einen
+neuen Entwicklungsschub erfährt.7
+
+Die Arbeit mit Entitäten und Normdaten sollte daher ins Zentrum bibliothekari-
+scher Erschließungsarbeit rücken. Dies schließt explizit den Einsatz maschineller Ver-
+fahren wie Named Entity Recognition, Empfehlungsdienste bzw. Vorschlagssysteme
+(Recommender) und LLM ein. Auch diese Verfahren benötigen, wie oben beschrieben,
+intellektuelle Intervention, sei es zur Qualitätssicherung oder zur Erzeugung von
+Trainingsdaten.
+
+These 8: Bibliothekarische Erschließungsdaten werden verstärkt zum Bestandteil
+eines Datenökosystems für Kultur und Wissenschaft.
+
+In den vergangenen beiden Jahrzehnten war die Diskussion zu Erschließung in
+Bibliotheken durch das Thema Internationalisierung geprägt. Mit der Anwendung
+von RDA und damit eines Standards mit globalem Anspruch8 ist eine Öffnung inner-
+halb der bibliothekarischen Community erfolgt, mit dem Ziel, Daten weltweit auszu-
+tauschen und zu nutzen.
+
+Der nächste Schritt ist die Öffnung des bibliothekarischen Datenraums für andere
+Communities, insbesondere um die Ergebnisse bibliothekarischer Erschließung mit an-
+deren Datenbeständen vernetzen zu können. Auch hier spielen maschinelle Verfahren
+wiederum eine Rolle, da rein manuelle Ansätze den weltweit vorhandenen und rasch
+wachsenden Mengen an Objekten nicht mehr gerecht werden. Trotzdem werden wei-
+terhin Erschließungsfachleute aus Bibliotheken, Archiven, Museen und Forschungs-
+einrichtungen benötigt, um gemeinsam Werkzeuge einzusetzen und zu verbessern.
+Intellektuelle Erschließungsarbeit wird sich damit wandeln, sie wird abwechslungs-
+reicher werden, aber niemals überflüssig.
+
+ Siehe: arxiv.org: LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and
+Future Opportunities. https://arxiv.org/abs/2305.13168 (01.11.2023).
+ Siehe RDA Board | https://www.rdatoolkit.org/: https://www.rdatoolkit.org/rdaboard (14.09.2024).
+
+
+
+Perspektiven bibliothekarischer Erschließung und Datenpräsentation 477
+
+Beispiele aus dem Kontext der DNB:
+– Im Projekt „Automatisches Erschließungssystem“ werden vielversprechende KI-
+
+Entwicklungen, die sich für die Erschließung textbasierter Medienwerke mit
+einem hochgradig differenzierten Vokabular eignen, daraufhin untersucht, ob sie
+zur maschinellen Verarbeitung und Analyse von Texten in natürlicher Sprache
+verwendet werden können, um möglichst vollständige und genaue Erschließungs-
+daten zur inhaltlichen Beschreibung zu erhalten. Ziel ist eine qualitätsgesicherte,
+semantische Verknüpfung der Medienwerke mit Schlagwörtern der Gemein-
+samen Normdatei (GND).9
+
+– Das Vorhaben GND für Kulturdaten (GND4C)10 stellt einen wichtigen Meilenstein
+im Hinblick auf die angestrebte Öffnung der GND für nichtbibliothekarische
+Anwendungsszenarien dar. Durch fachliche, organisatorische und technische
+Maßnahmen wird die GND zu einem spartenübergreifenden Produkt ausgebaut.
+
+– Der GND-Explorer ist eine Anwendung zur Visualisierung der in der Gemein-
+samen Normdatei enthaltenen Informationen.11 Entitäten werden mit ihren Rela-
+tionen und Verknüpfungen zu anderen Entitäten angezeigt und die Navigation
+durch teils komplexe Beziehungsgeflechte erleichtert (vgl. Abb. 1).
+
+6 Fazit
+Die Erstellung bibliothekarischer Erschließungsdaten wird sich weiter diversifizieren
+und differenzieren. Erschließungsdaten werden noch uneinheitlicher werden und ein
+unterschiedliches Qualitätslevel haben. Die Herausforderung für den Umgang mit und
+die Präsentation von Erschließungsdaten wird daher in steigendem Maße darin beste-
+hen, durch eine geeignete Zusammenführung und ein entsprechendes Datenmanage-
+ment dafür zu sorgen, dass die Daten im jeweiligen Anwendungskontext bestmöglich
+funktionieren. Das Datenmanagement wird dabei zunehmend automatisiert, jedoch
+einen intellektuellen Anteil behalten.
+
+Erschließungsarbeit beinhaltet mehr als die primäre Erstellung von Daten – ob
+intellektuell oder automatisiert – und umfasst ein fortlaufendes Datenmanagement,
+das auch mit einer wiederholten Veränderung von Erschließungsdaten einhergeht.
+Insbesondere im Kontext der wissenschaftlichen Nutzung von Objekten und Metada-
+
+ S. DNB – KI-Projekt: https://www.dnb.de/DE/Professionell/ProjekteKooperationen/Projekte/KI/ki_
+node.html (01.11.2023).
+ S. DNB – GND für Kulturdaten (GND4C): https://www.dnb.de/DE/Professionell/ProjekteKooperatio
+nen/Projekte/GND4C/gnd4c_node.html (01.11.2023).
+ S. https://explore.gnd.network/ (01.11.2023).
+
+
+
+478 Ulrike Junger und Frank Scholze
+
+Abb. 1: Darstellung des Normdatensatzes für die Deutsche Nationalbibliothek im GND-Explorer.
+
+
+
+Perspektiven bibliothekarischer Erschließung und Datenpräsentation 479
+
+ten können Datennutzer auch zu Datenproduzenten werden. Es gilt, solche Daten in
+die Nachweissysteme einzuspeisen.
+
+Erschließungsmodelle müssen flexibel genug sein, um auf neue Medientypen, aber
+auch auf Fortschritte bei der maschinellen Erschließung u. ä. reagieren zu können. Die
+Anwendung von Regelwerken wird flexibler werden – Daten werden weiterhin ausge-
+tauscht werden können, aber sie werden zunehmend entlang spezifischer Nutzungs-
+kontexte gestaltet und in multiplen Kontexten genutzt werden.
+
+Die Auffindbarkeit und Zugänglichmachung von Medienwerken wird auf ver-
+schiedene Weise erfolgen: über Metadaten, über auf digitalen Volltexten basierenden
+Suchindices und künftig auch über Chatbots, deren LLMs mit digitalen Volltexten und
+Knowledge Graphen trainiert werden – und möglicherweise auch über eine Kombina-
+tion dieser Möglichkeiten und Ansätze.
+
+Dies alles zeigt, dass die Perspektiven bibliothekarischer Erschließung und Daten-
+präsentation sehr gut und dynamisch sind, wenn sie kooperativ mit entsprechendem
+Werkzeugeinsatz ohne Angst vor Veränderung gestaltet werden.
+
+Literatur
+Inhaltserschließung im Zeitalter von Suchmaschinen und Volltextsuche. B.i.t. online-Gespräch mit
+
+Elisabeth Mödden. b.i.t.online 21 (2018), H. 1, S. 47–51. https://b-i-t-online.de/heft/2018-01-interview-
+moedden.pdf (01.11.2023).
+
+Kett, Jürgen, Christoph Kudella, Andrea Rapp, Regine Stein u. Thorsten Trippel: Text+ und die GND –
+Community-Hub und Wissensgraph. In: Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022),
+H. 1, S. 37–47. https://doi.org/10.3196/1864295020691262.
+
+Luo, Linhao u. a.: Unifying Large Language Models and Knowledge Graphs: A Roadmap. Preprint. Arxiv
+2023. https://arxiv.org/abs/2306.08302 (01.11.2023).
+
+Scholze, Frank: Bibliotheken 2040– mehr Utopien als Dystopien. In: BIBLIOTHEK – Forschung und Praxis
+47 (2023), H. 1, S. 46–48. https://doi.org/10.1515/bfp-2022-0063.

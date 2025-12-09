@@ -1,0 +1,713 @@
+Ladina Tschander
+3.2 Grundlage für Betriebskonzepte von
+wissenschaftlichen Makerspaces
+1 Einleitung
+Über Makerspaces wurde insbesondere zwischen 2014 und 2018 viel geschrieben. Auch
+in der Bibliothekscommunity wurde darüber während dieser Jahre intensiv diskutiert,
+und seitdem sind in verschiedenen Institutionen Makerspaces gegründet worden. Man
+findet sie in Schulen, in Unternehmen, bei gemeinnützigen Vereinen, Freizeiteinrichtungen
+oder auch in Bibliotheken. Zudem hat sich eine Maker-Community etabliert.
+Am Anfang stand eine Firma.1 Maker Media gründete 2005 die Plattform make.co,
+gab bzw. gibt das Magazin Make heraus und betreut die Veranstaltungsreihe Maker-
+Faire. Mit diesen Mitteln setzte die Maker Media die Bewegung in Gang und lockte die
+breite Öffentlichkeit in die Makerspaces. 2014 beschrieb Hatch mit The Maker Manifesto
+die Prinzipien der Maker-Bewegung. Essentiell menschlich sei, dass man Dinge
+kreiert und sich ausdrückt, sein Wissen über Herstellungsarten teilt und dass man
+von anderen lernt. Dafür brauche es eine Gemeinschaft, die den Austausch fördere,
+den Zugang zum benötigten Material bereitstelle und das benötigte Wissen teile.2 Das
+Manifest fand breite Beachtung auch in Bildungseinrichtungen, weil das von der
+Maker-Bewegung geforderte selbstständige Lernen gerade auch dort attraktiv ist. In
+Makerspaces wird während des Arbeitens und Gestaltens gelernt. Beides unterstützt
+das projektorientierte Lernen ideal, weshalb Makerspaces auch in Schulen und Hochschulen
+eingeführt wurden.
+Die Diskussion ist heute etwas abgeflaut bzw. hat ein Plateau der Aufmerksamkeit
+erreicht. Gemäß der Fab Charter3 gibt es heute weltweit über 2 000 FabLabs4 (wobei
+dies nur die dort gemeldeten Makerspaces sind). Die MakerFaire finden immer noch
+statt – aber nicht mehr in derselben Dichte wie in früheren Jahren. So fanden im
+D-A-CH-Raum 2023 lediglich sechs Veranstaltungen statt. In vielen öffentlichen Bibliotheken
+werden Makerspaces angeboten. Dahingegen fällt die Verbreitung in Hochschulbibliotheken
+im deutschsprachigen Raum geringer aus.5 In diesem Beitrag soll das Potenzial
+ Schuldt, Karsten: Anleitung und Vorschläge für Makerspaces in Bibliotheken. Sammelrezension. In:
+Ressi 2016. http://www.ressi.ch/num17/article_133 (21.04.2023); Bronkar 2021.
+ Hatch 2014.
+ The Fab Foundation: https://fabfoundation.org/#page-top (14.05.2023).
+ FabLabs (Kofferwort von engl. fabrication laboratory) unterscheiden sich von Makerspaces kaum.
+Mit beiden Begriffen wird auf offene Werkstätten referiert. Der Begriff „Makerspace“ kann breiter
+gefasst werden und FabLabs, Hackerspaces, GameLabs oder Ähnliches umfassen.
+ In der englischsprachigen Bibliothekscommunity hat sich gemäß Bronkar Making in allen Bibliothekstypen
+als festes Angebot durchgesetzt, siehe: Bronkar 2021. Ebenfalls findet man in den Datenban-
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-008
+von Makerspaces im Hochschulbereich ausgelotet6 sowie ein Geschäftsmodell beschrieben
+werden, das als Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces
+dienen kann. Am Ende findet sich eine Checkliste, die für das Erstellen von
+Betriebskonzepten genutzt werden kann.
+2 Bibliotheken als Orte der Wissensproduktion
+Bibliotheken waren schon immer Orte der Wissensaneigung und des Lernens. Dementsprechend
+reflektieren Bibliothekar:innen auch stets, wie die Raumausstattung
+aussehen soll, um das Lernen optimal zu unterstützen.7 Die Diskussion um Makerspaces
+fließt ab 2013 in die strategischen Überlegungen ein, wobei die Idee selbst,
+gemäß Cordula Nötzelmann von der Stadtbibliothek Köln, nicht neu ist. Angebote
+zum Basteln, Stricken, Musizieren, aber auch Videoschnittplätze, Film-Workshops
+oder Multimedia-Labore gibt es bereits seit den 1990er Jahren in Bibliotheken.8
+Zu Beginn des 21. Jahrhunderts ist die Aufmerksamkeit jedoch noch stärker auf
+den Bibliotheksraum gerichtet, weil dieser angesichts stetig voranschreitender Digitalisierung
+und schwindender Ausleihen9 eine Daseinsberechtigung von Bibliotheken
+zu liefern scheint. Denn neben ihrem Auftrag, Informationsressourcen bereitzustellen,
+agieren Bibliotheken auch als Begegnungsorte, Treffpunkte, Integrations- und
+Lernräume.10 Die Idee des gemeinsamen Lernens durch Machen in einem leicht zugänglichen
+Raum passt nur zu gut in diesen Diskurs. Das stille, konzentrierte Lesen
+und Lernen in Lesesälen und Lernräumen oder die kulturellen Veranstaltungen in
+den Bibliotheksräumen werden durch gemeinsames Ausprobieren, Diskutieren, Basteln
+und Werken ergänzt. Dies gilt mit unterschiedlicher Gewichtung für öffentliche
+und für wissenschaftliche Bibliotheken.
+ken LISA oder LISTA Literatur zu Makerspaces in Bibliotheken aus Afrika, Asien und Indien - ein Hinweis
+darauf, dass weltweit Makerspaces zum Angebot von Bibliotheken gehören.
+ Im Gegensatz zu Europa wird in den USA eine Community der akademischen Makerspaces gepflegt.
+Die Higher Education Makerspaces Initiative (https://hemi-makers.org/) ist eine Kooperation von sieben
+führenden amerikanischen Universitäten. Seit 2016 wird das International Symposium on Academic
+Makerspaces (ISAM: https://ijamm.pubpub.org/isam) durchgeführt und das International Journal
+of Academic Makerspaces and Making (IJAMM: https://ijamm.pubpub.org/) geführt. Ziel ist es, gemeinsam
+Herausforderungen im Bereich von wissenschaftlichen Makerspaces zu begegnen sowie Erfahrungen
+und Wissen auszutauschen. (Alle Webseiten 25.01.2024).
+ Hauke u. Werner 2016; Hauke 2009.
+ Nötzelmann 2013.
+ Insbesondere für wissenschaftliche Bibliotheken gezeigt u. a. in Helmkamp 2016 oder Stöber 2023.
+ Jochumsen u. a. (2012) entwickelten für die Neuausrichtung von Bibliotheken ein Vier-Räume-
+Modell, das heute immer noch zur Anwendung kommt. Ebenfalls einflussreich für ein neues Verständnis
+in der Bibliothekscommunity war Lankes und Newman: The new librarianship field guide. http://
+sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=book&isbn=9780262334600 (22.07.2017).
+124 Ladina Tschander
+Durch Machen soll Wissen erworben werden – wie Tiepmar u. a. im Titel ihres Aufsatzes
+über die Zukunft wissenschaftlicher Bibliotheken im Zeitalter der Digitalisierung
+festhalten.11 Sie weisen Makerspaces eine tragende Rolle bei der Neubestimmung des
+Aufgabenprofils wissenschaftlicher Bibliotheken zu. Auch wenn viele Menschen nicht
+auf den ersten Blick erkennen, was Werkstätten mit Bibliotheken zu tun haben, so läge
+das Machen quasi in der DNA von Bibliotheken: Recherchieren, Generieren von Ideen,
+Argumentieren oder das Produzieren von Texten sind Tätigkeiten, die in Bibliotheken
+traditionellerweise ausgeführt werden. So läge es auf der Hand, dass Bibliotheken das
+in ihren Räumen mögliche Tätigkeitsspektrum erweitern, damit hier auch technologische
+Fertigkeiten, die in der Gesellschaft immer stärker gefordert seien, erworben werden
+können. Es sei folgerichtig, dass sich Bibliotheken so entwickeln, dass sie ihre
+Benutzenden in die Lage versetzen können, mit den Entwicklungen Schritt zu halten
+und durch Learning-by-Doing Methodenkompetenz aufzubauen.12
+2.1 Verbreitung von Makerspaces in wissenschaftlichen
+Bibliotheken
+Das Thema Makerspace hat sich v. a. im öffentlichen Bibliothekswesen rasant entwickelt.
+Die Umgestaltung von Bibliotheksräumen mit einer Integration von Makerspaces
+verbreitet sich ab den 2010er Jahren. Geradezu zu einer Welle wurde diese Bewegung
+in den Jahren 2015 und 2016, wo zahlreiche Stadtbibliotheken einen Makerspace einrichteten.
+Zudem wurde das Angebot eines mobilen Makerspace entwickelt.13
+Auch im Hochschulkontext fließt der Begriff Makerspace in die Diskussion über die
+Ausgestaltung von Lernräumen oder unterschiedlichen Lernlandschaften ein. 2015
+führte Achim Bonte im Vorfeld seiner Präsentation am 104. Deutschen Bibliothekartag
+aus, dass die Kernaufgaben von Bibliotheken (Wissen zu sammeln, zu strukturieren
+und zu vermitteln) weit über den klassischen Publikationsbegriff hinausreichen und
+sich zunehmend auf vorwiegend nicht-textuell organisierte Wissensräume erstrecken.
+Gerade Letzteres legitimiere Hochschulbibliotheken, offene Werkstätten oder Labs einzurichten.
+Die SLUB Dresden legte mit ihrem Makerspace einen Grundstein für die weitere
+Entwicklung bei den Hochschulbibliotheken.
+Zwischen 2015 und 2017 wurden vermehrt Makerspaces in Hochschulen gegründet,
+14 wobei diese mehrheitlich an Technischen Universitäten oder in Fachbereichen
+der Technik, Architektur und Medizin angesiedelt sind. Bei den Geistes- und Sozialwissenschaften
+sind es v. a. die pädagogischen oder erziehungswissenschaftlichen
+ Tiepmar u. a. 2018.
+ Wie FN 11: S. 70.
+ Kovalik u. Schuldt 2021.
+ Gemäß der Studie von Späth u. a. hatten zu diesem Zeitpunkt 22 % (18 von 82) der deutschen Universitäten
+mindestens einen Makerspace. Späth u. a. 2019: S. 44.
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 125
+Fachbereiche, die einen Makerspace als Forschungsraum einrichten und pflegen. Begünstigt
+durch das Voranschreiten der Digital Humanities stellen in jüngerer Zeit
+auch geisteswissenschaftliche Fakultäten Makerspaces zur Verfügung.15 Dennoch: Betrachtet
+man die Ergebnisse der Untersuchung von Viktoria Heinzel, Tobias Seidl und
+Katharina Späth, die die Verbreitung von Makerspaces an Universitäten in Deutschland
+unter die Lupe genommen haben, sieht man, dass lediglich drei Makerspaces16
+an einer nicht-technisch ausgerichteten Universität angesiedelt sind. Diese sind als offene
+Forschungs- und Lehrinfrastruktur angelegt und an pädagogischen Lehrstühlen
+oder Instituten angesiedelt.
+Die Studie zeigt weiter, dass Makerspaces mehrheitlich nicht von den dortigen Bibliotheken
+betrieben werden.17 Noch 2020 liegt die organisatorische Anbindung innerhalb
+der Universitäten mehrheitlich bei Lehrstühlen, Fakultäten oder (zentralen) Instituten.
+Von den 18 Makerspaces in den insgesamt 82 Universitäten wird lediglich einer vollumfänglich
+von einer Hochschulbibliothek betrieben: der Makerspace der SLUB Dresden.18
+2.2 Nutzen von Makerspaces für wissenschaftliche Bibliotheken
+In Hochschulbibliotheken steht, neben Angeboten im Bereich Literaturversorgung für
+alle Zielgruppen, die Nutzung der Bibliotheksräume durch Studierende, Personen in
+Aus- und Weiterbildung und allgemeines Publikum zum Lernen und zur Diskussion
+in Kleingruppen im Zentrum. Insbesondere der Alltag von Studierenden ist (vermehrt
+seit der Bologna-Reform) geprägt durch Prüfungsrhythmen, für die sie sich Wissen
+aneignen müssen. Solange dieses Setting an Universitäten dominant ist, wird der klassische
+Lernplatz zum Selbststudium in Bibliotheken am meisten nachgefragt sein. Wird
+von den Studierenden in den Lernnachweisen kein projektorientiertes Arbeiten oder
+Experimentieren verlangt, werden sie nicht in Methoden wie Design Thinking eingeführt
+und werden sie wenig Zeit aufwenden, um im Makerspace Dinge auszuprobieren.
+Aber die Lehre ist ebenfalls von der digitalen Transformation betroffen, auch
+wenn in der Praxis häufig noch herkömmliche Lehr- und Lernsettings dominieren, die
+allerdings auch zunehmend hinterfragt werden. Aktuell werden die Diskussionen über
+die benötigten Veränderungen intensiv geführt.19 Neben Blended Learning wird immer
+mehr projektbasiertes Lernen eine Rolle spielen bzw. wird bereits angeboten. Leistungsnachweise
+werden auch zunehmend in Formen von Portfolios verlangt. Werden
+von der Hochschullehre mehr in Gruppen erarbeitete Ergebnisse, das Lernen in Projekten
+oder das Ausprobieren gefordert, dürfte der Bedarf an Kreativ- oder Experimentier-
+ https://makerspace.hypotheses.org/ (veröffentlicht am: 15.12.2022) (27.02.2023).
+ Die Makerspaces an den Universitäten Bremen, Berlin (Humboldt Universität) und Siegen.
+ Späth u. a. 2019.
+ Heinzel u. a. 2020.
+ van Ackern 2022.
+126 Ladina Tschander
+räumen rapide ansteigen. Zudem werden sich die Bedürfnisse der Studierenden der
+Geistes- und Sozialwissenschaften unter dem Einfluss von Digital Humanities entsprechend
+ändern. Sie benötigen weniger rein technisch orientierte Lernorte als vielmehr
+Orte mit digitalen Tools zum Ausprobieren und Erwerb von digitalen Fähigkeiten.20
+Gerade hier können Bibliotheken Unterstützung bieten, indem sie Makerspaces
+unterschiedlicher Art einrichten. Es eröffnet sich ein großes Potenzial, durch diese
+Angebotserweiterung Lehre und Studium effektiv zu unterstützen. Werden Bibliotheken
+in die strategischen Gespräche der Lehre einbezogen, kann geklärt werden, welcher
+Beitrag im Makerspace geleistet werden kann. Zudem kann das Angebot gut
+abgestimmt werden. Umgekehrt kann auch das Angebot im Makerspace den Mut zur
+Umsetzung neuer Lehrformen im Bereich der Lehre fördern.
+Gleichzeitig setzen Bibliotheken damit einen Imagewandel in Gang. Hochschulbibliotheken
+werden nicht mehr nur als Speicher von Informationsressourcen gesehen,
+sondern als ein lebendiger Ort des Austauschs. In Studienrichtungen, die das Erstellen
+von Objekten oder Prototypen enthalten (wie Technik, Kunst, Architektur), ist der Bedarf
+– neben den Lernplätzen – nach einem Raum mit Materialien und Gerätschaften
+schon lange vorhanden und wie oben erwähnt, kümmern sich bis dato meist Fakultäten
+oder Departemente darum. Bibliotheken werden eher ausschließlich als Orte des
+stillen Lernens und der Literaturversorgung gesehen.
+Schaffen es Hochschulbibliotheken jedoch, hier Kooperationen aufzubauen, sich als
+Anbieterin von Makerspaces im Hochschulwesen zu etablieren, so können Bibliotheken
+auch Disziplinen vermehrt wieder erreichen, die von den klassischen Bibliotheksangeboten
+immer weniger angesprochen sind.21 Mit digitalen Makerspaces weitet sich die
+Wahrnehmung von Bibliothekslernräumen aus. Es kann eine Verzahnung von Forschen
+und Lernen stattfinden und die Bibliotheksräume können zu tatsächlichen „Laboren der
+Geistes- und Sozialwissenschaften“ werden, in denen Forschende und Studierende an
+Projekten arbeiten. Mit der Aufnahme von Makerspaces in wissenschaftlichen Bibliotheken
+können sich diese als Raum-Anbieterin für das informelle Lernen in all seinen Facetten
+im Hochschulwesen positionieren.
+2.3 Typen wissenschaftlicher Makerspaces
+Bei Makerspaces sind verschiedene Raumtypen zu unterscheiden:
+– offene Werkstätten,
+– digitale Makerspaces und
+– Co-Workingspaces.
+ Siehe bspw. Universität Zürich, Initiative Zukunft der Lehre. Initiative Zukunft der Lehre an der
+UZH | Lehre und Lehrentwicklung | UZH: https://www.teaching.uzh.ch/de/initiative.html (29.05.2023).
+ Bonte und Oehm 2015.
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 127
+Prototypisch sind offene Werkstätten, die verschiedene Geräte anbieten. Dies können
+3D-Drucker, Lasercutter, Lasergravier- und Schneideanlage, Styroporcutter, Stichsägen,
+Standbohrer, Heißluftstation, Tischfräsen oder 3D-Objektscanner sein.22 Diese Werkstätten
+benötigen großzügige Flächen und wegen der Lärm- und Staubbelastung einen eigenen,
+abgeschlossenen Bereich.
+Möchte eine Bibliothek einen digitalen Makerspace einrichten, d. h. eine digitale
+Arbeitsumgebung schaffen, die den Zugang zu digitalen Ressourcen und Werkzeugen
+ermöglicht, benötigt man in erster Linie Rechner mit guten Grafikprozessoren, genügend
+RAM-Speicher und guter CPU. Interessant könnte auch sein, die virtuelle Umgebung
+so einzurichten, dass mit KI-Modellen experimentiert werden kann. Um dafür
+mit vielen Trainingsdaten arbeiten zu können, ist ein Katalog von Software erforderlich
+(CPU-Treiber, WSL2 (für Windows), Git, Code-Editor, Python-Umgebung, Docker,
+R/R Studio, JavaScript-Umgebung, Unity u. ä. m.). Diese Anwendungen lassen sich gut
+in ein Bibliotheks-Setting einbinden, wobei auch hier ein eigener Raum vorteilhaft ist
+(Zugangskontrolle, Gespräche). Soll zusätzlich mit VR-Brille gearbeitet werden, ist ein
+von den Selbststudienplätzen separierter Raum notwendig. Die Nutzenden bewegen
+sich im virtuellen Raum, ohne den analogen zu sehen. Hierfür ist genügend Fläche
+erforderlich, da spezifische Sicherheitsvorkehrungen (wie ein Geländer als Abgrenzung
+des Bewegungsraums) getroffen werden müssen.
+Mit geringem Aufwand können Gruppenräume zu Makerspaces im Sinne von Co-
+Workingspaces umgewandelt werden. Um Projekte oder Produkte mittels Design
+Thinking oder anderen kreativen Methoden angehen zu können, werden lediglich
+Flipcharts, Whiteboards, PostIts, Stifte, Bastelmaterial oder Lego benötigt. Die Aufgabe
+der Bibliothek ist es, dafür zu sorgen, dass das Material vorhanden ist und dass die
+Studierenden in die Methode eingeführt werden.
+3 Das Canvas-Modell als Grundlage für den Betrieb
+von Makerspaces
+Die verschiedenen Makerspace-Typen stellen unterschiedliche Anforderungen an den
+Betrieb. Steht die Bibliotheksleitung vor dem Entscheid, ob und welcher Typ von Makerspace
+eingeführt werden soll, benötigt sie im Vorfeld eine Umfeldanalyse, die die
+fokussierte Zielgruppe ermittelt und deren Bedürfnisse eruiert. Ggf. ergeben sich dadurch
+auch bereits Kooperationsmöglichkeiten. Zu entscheiden gilt es auch, wie intensiv
+die Einführung und Betreuung des Angebots angesetzt wird. Reicht lediglich ein
+gut gestaltetes Raum-Ressourcen-Angebot aus? Braucht es etablierte Strukturen zur
+Unterstützung vor Ort? Genügen herkömmliche Kommunikations- und Marketing-
+ Tiepmar u. a. 2018: S. 71.
+128 Ladina Tschander
+instrumente, um die erhoffte Nutzung zu erzielen? Ist zusätzlich ein spezifisches aktivierendes
+Marketing-Programm seitens der Betreiber erforderlich?
+Um den Betrieb des Makerspaces zu organisieren, wird das Bibliotheksmanagement
+ein Betriebskonzept aufstellen. Darin enthalten sind:
+– Prozesse und Rollen, Aufgaben, Tätigkeiten, Schnittstellen, Kostenfaktoren (wie
+Personal, Ausstattung, Hard- und Software),
+– Aufwandsermittlung für Administration, Wartung, Bereitstellung und
+– Klärung von rechtlichen und sicherheitsrelevanten Fragen für die Nutzung.
+Eine zentrale Rolle spielen ferner die jeweiligen lokalen räumlichen und strukturellen
+Gegebenheiten. Diese können an dieser Stelle nicht ausgeführt werden; die folgenden
+Erläuterungen umreißen vielmehr einen allgemeinen Rahmen für Planung
+und Organisation, die sich am Business Canvas Model23 orientieren. Mit Hilfe dieses
+Modells (vgl Abb. 1) können Faktoren zusammengetragen werden, die bei der Erbringung
+einer Dienstleistung oder beim Erstellen eines Produkts zu berücksichtigen
+sind und anschließend in entsprechende Betriebskonzepte einfließen. Zudem kann die
+Bibliotheksleitung das Canvas nutzen, um der Hochschulleitung das Geschäftsmodell
+„Makerspace“ vorzustellen.
+Wie in Abbildung 1 dargestellt, sind insgesamt neun Bereiche identifiziert, die wichtig
+für den Erfolg einer Geschäftsidee sind.24 Hierbei werden neben der Angebotsbeschreibung
+die anvisierten Kunden oder Nutzenden, die benötigte Infrastruktur wie
+auch die entstehenden Kosten betrachtet. Nachfolgend werden die Angaben zu den einzelnen
+Feldern in Bezug auf wissenschaftliche Makerspaces skizziert. Die Beschreibung
+startet mit der Produktbeschreibung oder dem Nutzenversprechen Nutzendenversprechen,
+schwenkt dann auf die Kundenseite (Kundenbindung, Zielgruppe, Kanäle) und
+auf die Leitungserbringung (Schlüsselaktivitäten, Schlüssel-Ressourcen, Schlüsselpartner),
+bevor die Kostenseite gestreift wird.
+3.1 Nutzendenversprechen
+Es gilt zu erläutern, welche Nutzendenbedürfnisse oder -probleme durch den Betrieb
+eines Makerspace erfüllt bzw. gelöst werden. Hierfür müssen die Anforderungen
+durch die Lehre an die Studierenden und die Bedürfnisse der Forschenden bekannt
+ Osterwalder u. Osterwalder 2010.
+ Benjes-Small u. a. fragen sich, welche Voraussetzungen gegeben sein müssen, damit Makerspaces
+im akademischen Umfeld erfolgreich sein können. Aus Interviews mit Bibliothekar:innen aus Bibliotheken,
+die von sich selbst sagen, erfolgreich einen Makerspace zu führen, ziehen sie fünf Faktoren
+heraus: Klare Zielbeschreibung, Kennen der Nutzendenbedürfnisse, der Umgang mit den Nutzenden,
+ein nachhaltiges Personalmodell und das Pflegen von Beziehungen und Partnerschaften. Siehe: Benjes-
+Small u. a. 2017.
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 129
+sein. In der Literatur werden verschiedene Werteangebote mit Makerspaces in Zusammenhang
+gebracht:
+– Besucher:innen wollen (Gegenstände, Korpora, Daten, Visualisierungen etc.) für
+ihre Forschung herstellen.
+– Besucher:innen wollen einen Raum, in dem sie projektorientiertes Lernen beobachten/
+erforschen können.
+– Besucher:innen wollen einen Raum, in dem sie projektorientiert arbeiten/lernen
+können.
+– Besucher:innen möchten kostenfreien oder zumindest einen kostengünstigen Zugang
+zu Geräten/Tools/Material.
+– Besucher:innen möchten ihr Wissen über die Herstellung von analogen oder digitalen
+Objekten erweitern.
+– Sie können Erklärungen zu Geräten/Tools erhalten.
+– Sie können sich mit anderen über Technologien austauschen und etwas lernen.
+Es muss klar sein, welche Ziele mit dem Makerspace verfolgt werden sollen, da sie
+entscheidend sind für ein adäquates Raumprogramm und die Festlegung entsprechender
+Erfolgskriterien.25 Dies kann bspw. lediglich der freie Zugang zu Fertigungstechnologien
+sein, wobei der Erfolg durch die reine Nutzung gemessen werden kann.
+7) Schlüsselpartner 6) Schlüsselaktivitäten 1) Nutzendenversprechen 4) Kundenbindung 2) Zielgruppe
+5) Schlüssel-Ressourcen 3) Kanäle
+8) Kostenstruktur 9) Einnahmen / Erfolgsindikatoren
+Abb. 1: Canvas. Modell nach “The Business Model Canvas” von Osterwalder und Osterwalder (2010).
+ Auch Teasdale untersucht, wie Erfolg von Makerspaces in öffentlichen Bibliotheken gemessen werden
+kann. Sie bestimmt mittels eines Literaturüberblicks und Interviews Bewertungskriterien. Es kön-
+130 Ladina Tschander
+Setzt man sich zum Ziel, dass die Besucher:innen lernen, die Technologien zu nutzen,
+und dass ihre Kreativität gefördert wird, können die entstandenen Produkte den Erfolg
+sichtbar und messbar machen. Diffiziler wird die Erfolgsüberprüfung, wenn das
+Ziel ist, eine Gemeinschaft zu bilden oder die intrinsische Belohnung durch das eigenständige
+Lernen in Makerspaces zu fördern. Um dies zu ermitteln, sind umfangreichere
+(stärker qualitativ ausgerichtete) Methoden nötig.
+3.2 Zielgruppe
+Das Werteversprechen ist auf Zielgruppen oder Zielkund:innen ausgerichtet. An
+Hochschulen sind verschiedene Gruppen tätig. Um erfolgreich zu sein, lohnt es sich
+zu überlegen, wer als Nutzer:in des Makerspace angesprochen werden soll, da sich
+dies auf die Infrastruktur und Lage des Makerspace auswirkt.
+Die größte Zielgruppe an Hochschulen sind die Studierenden. Zudem sind sie die
+Hauptnutzenden der bibliothekarischen Räume. Meist richtet sich das Angebot in Makerspaces
+an dieser Gruppe aus. Sollen auch Forschende und Dozierende als Zielgruppen
+angesprochen werden, ist deren Fachzugehörigkeit bei der Ausgestaltung des
+Makerspace zu berücksichtigen. Weiter ist die Lage relevant. Der Raum sollte sich in
+der Nähe der Forschenden bzw. in der Nähe von Lehrräumen befinden.
+3.3 Kanäle, oder wie man das Angebot nutzen kann
+Für die Nutzung der Makerspaces spielt deren Lokalisierung eine wichtige Rolle. Soll
+der Makerspace zentral im Gebäude der Hochschulbibliothek (sofern vorhanden)
+sein? Ist es sinnvoll, verschiedene Makerspaces in den Gebäuden von Fakultäten oder
+Instituten anzusiedeln? Oder gibt es bereits Makerspaces in den Instituten, die als
+Kooperationspartner gewonnen werden können?
+Die Wahl des Ortes hängt von der Ausrichtung des Makerspaces bzw. dessen Zielgruppe
+ab. Sollen v. a. Studierende in ihren Projekten unterstützt werden und angeregt
+werden, in Gruppen kreativ zu arbeiten, bietet sich ein großer Raum innerhalb
+der Bibliothek an, da dies ein bevorzugter Aufenthaltsort der Studierenden auf dem
+Campus ist.
+nen einige oder alle Kriterien herangezogen werden. D. h., nach Teasdale kann ein Makerspace als
+erfolgreich angesehen werden, wenn er (a) Zugang zu digitaler Fertigungstechnologie bietet, (b) unternehmerisches
+Denken und Handeln fördert, (c) Kreativität unterstützt, (d) Gemeinschaften und Familien
+stärkt, (e) die Realisierung von intrinsischen Vorteilen unterstützt und/oder (f) den Machern hilft,
+Geld zu sparen. Dies scheinen aber weniger Erfolgskriterien zu sein als mehr mögliche Ziele für Makerspaces.
+Siehe: Teasdale 2020.
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 131
+Sollen Forschende den Makerspace nutzen, ist es angezeigt, das Makerspace-
+Angebot in den Instituten abgestimmt auf die Bedürfnisse der Forschenden zu lokalisieren.
+Zu bedenken ist aber, dass die Dezentralität im Betrieb kostenintensiv ist. Eine
+Zergliederung des Angebots muss einen klaren Gewinn bzw. eine hohe Nutzung und
+hohe Zufriedenheit bringen.
+Um einem dezentralen Betrieb vorzubeugen, können Bibliotheken einen mobilen
+Makerspace einrichten, den sich Forschende für Projekte ausleihen können. Bei digitalen
+Makerspaces bietet sich dies an, da die Gerätschaften nicht so voluminös sind
+und deren Handhabung geringere Sicherheitsmaßnahmen erfordert als Werkstattgeräte.
+Ein gutes Setting mit VR-Brillen, Playstations, gut ausgerüsteten Rechnern oder
+auch 3D-Druckern lässt sich bedarfsorientiert via Kleintransporter in die Institute
+bringen, um dort an geeigneter Stelle als kleiner Makerspace zeitlich befristet (bspw.
+für ein Forschungsprojekt) aufgebaut zu werden.
+Neben der räumlichen Lage trägt das Benutzungskonzept zum Erfolg von Makerspaces
+bei. Erhalten Makerspace-Besucher:innen eine ausreichende Einführung und
+dürfen anschließend weitgehend eigenständig agieren, so fördert dies die Akzeptanz
+und Wertschätzung des Angebots. Wenn Student:innen mit möglichst großzügigen
+Öffnungszeiten den Raum nutzen können, um selbstständig zu arbeiten oder sich
+durch das Personal vor Ort helfen zu lassen, können positive Beziehungen zwischen
+Mitarbeitenden und Studierenden sowie zwischen Studierenden mit ähnlichen Interessen
+entstehen.26
+Für den Betrieb des Makerspace muss der Zugang spezifisch geregelt werden. Zu
+klären ist, ob die Nutzenden
+– Zugang nur mit Personalpräsenz,
+– freien Zugang (bspw. via Badge) oder
+– freien Zugang (bspw. via Badge) nach Geräteeinführung
+haben. Besteht der Zugang nur mit Personalpräsenz, steht die Nutzung während der
+Öffnungszeiten allen Zielgruppen offen. Sollen Hochschulangehörige zudem einen
+freien Zugang ohne Personalpräsenz erhalten, muss bei der Einrichtung des Makerspaces
+ein großes Augenmerk auf Sicherheitsvorkehrungen gelegt werden. Enthält
+der Makerspace Geräte, die einer Einführung bedürfen, und soll dennoch ein freier
+Zugang gewährt werden muss bspw. durch ein Buchungssystem sichergestellt werden,
+dass nur Berechtigte den Makerspace frei nutzen können.
+ Benjes-Small u. a. 2017.
+132 Ladina Tschander
+3.4 Kundenbindung
+Der Makerspace sollte so angeboten werden, dass Hochschulangehörige sich abgeholt
+fühlen und gerne wiederkommen. Zudem sollte er so eingerichtet sein, dass er weitestgehend
+selbsterklärend ist. Materialien sollten gut sortiert sein, Beschreibungen
+sowie Nutzungsbedingungen zu Geräten vorliegen und Tutorials zu Tools angeboten
+werden. Sollten Einführungen oder Geräteführerschein notwendig sein, sollten diese
+nach Möglichkeit buchbar sein.
+Überzeugende Beratungen tragen viel zur Kundenbindung bei. Das Personal muss
+kompetent sein (was eine Herausforderung sein kann) und sich auf die verschiedenen Fragen
+einlassen können. Einführungen, Workshops oder andere Veranstaltungen müssen
+auf die Hochschule abgestimmt sein. Ggf. bietet es sich an, in der Hochschule vorhandenes
+Knowhow einzubinden. Die Bibliothek kann den Forschenden im Makerspace eine Plattform
+bieten, die diese für Interaktionen mit Studierenden oder mit der Öffentlichkeit nutzen
+können. Damit wird der Ort für Forschende interessant und sie tragen zum Erfolg des
+Makerspace bei.
+Dezidiertes Ziel sollte sein, dass sich eine Community bildet. Interessant wäre,
+wenn sich im Makerspace Forschende und Studierende verschiedener Disziplinen
+treffen und ins Gespräch kommen können. Unterstützend dafür können verschiedene
+Austauschformate sein, wie Projektpräsentationen oder auch gemeinsame Kaffee-
+Pausen im Makerspace.27
+Zuletzt fördern spezifische Kommunikations- und Marketingmaßnahmen die Bindung.
+Hierbei können Hochschulbibliotheken ihre etablierten Kommunikationskanäle
+nutzen.
+3.5 Schlüssel-Ressourcen
+Frei benutzbare Geräte und Materialien – Raum – Personal: Das sind die Schlüsselressourcen,
+die für den Betrieb eines Makerspaces benötigt werden. Die Auswahl der Geräte
+hängt davon ab, welchen inhaltlichen Fokus der Makerspace haben soll, der wiederum
+durch die anzusprechende Zielgruppe und das vorhandene Budget bestimmt wird.
+Die Investition in Großgeräte, die in einer offenen Werkstatt zu finden sind, ist
+beträchtlich. Zudem sind Sägen oder Standbohrmaschinen mit einer starken Lärmemission
+und Staubbildung verbunden und benötigen einen separaten Raum. Ist der
+Platz nicht vorhanden, lässt sich dies kaum im üblichen organisatorischen Rahmen
+der Bibliotheken realisieren. Einfacher und günstiger hingegen sind die Geräte für die
+digitale Bearbeitung von Gegenständen, Video- oder Fotobearbeitung oder das Pro-
+ Strebt man diese Bindung an, ist es von Vorteil, keine dezentralen Makerspaces anzubieten, da
+dadurch die Durchmischung erschwert wird.
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 133
+grammieren, wie sie in Scholarly Makerspaces angeboten werden. Zudem sind diese
+Aktivitäten besser mit den sonstigen Anforderungen an Bibliotheksräume vereinbar.
+In der Literatur finden sich Hinweise zu „Shoppinglists“ (bspw. bei Bronkar, auf
+deren Liste sich Geräte für öffentliche Bibliotheken zwischen 500 US-Dollar und
+50 000 US-Dollar befinden28). Die zehn häufigsten Technologien und Aktivitäten in
+Makerspaces der Bibliotheken29 sind unten aufgeführt. Sie zeigen, dass Bibliotheken
+sich – wohl aus oben genannten Grund – mehr auf digitale Makerspaces spezialisieren
+und sich damit von den FabLabs unterscheiden:
+– Computer-Arbeitsplätze
+– 3D-Drucker
+– Kunsthandwerk
+– Computerprogramme/Software
+– 3D-Modellierung (Fotogrammmetrie, Töpfern o. ä.)
+– Fotobearbeitung
+– Videobearbeitung
+– Bastelei
+– Arduino/Raspberry Pi
+– Robotics
+In Hochschulen liegt der Fokus meist noch stärker auf der Förderung der digitalen
+Fähigkeiten der Studierenden, weshalb auf deren Listen Virtual Reality- und Augmented
+Reality-Tools ergänzt sind.30 Ein v. a. toolbasiertes Setting wird in den Digital Humanities
+benötigt31. Der Anspruch ist, dass in Makerspaces dieser Art das Angebot
+kuratiert und didaktisch aufbereitet ist. Gemäß Kaden und Kleineberg sollten sich
+Nutzende mit neuen Forschungsverfahren vertraut machen können. Es sollen Demos
+stattfinden und man soll mit Testdaten die Verfahren praktisch üben können.32 Das
+bedingt aber, dass das Personal in den Makerspaces über hinreichende Kompetenzen
+in den Digital Humanities und ihren Anforderungen verfügen.
+Generell bedeutet das Führen von Makerspaces eine Veränderung im Personalbestand.
+Damit die Studierenden ins Arbeiten mit dem Equipment hineinkommen, muss
+bei jedem Makerspace-Typ der Umgang damit vermittelt werden. Der Betrieb einer
+offenen Werkstatt ist personalintensiv, da die Geräte-Nutzung betreut werden sollte,
+auch wenn die Nutzenden nach Einführung die Geräte selbstständig benutzen. Zudem
+benötigt die Wartung der Geräte speziell ausgebildetes Personal. Für Scholarly Makerspaces
+oder Gaming Labs ist IT-affines Bibliothekspersonal notwendig. Meist ist aber
+das benötigte Wissen nicht vorhanden. Um gute Tool-Einführungen oder überzeu-
+ Kroski u. Kroski 2017.
+ Burke 2018: S. 6.
+ LaPierre 2022; Iglesias 2018.
+ https://makerspace.hypotheses.org/ (veröffentlicht am: 15.12.2022) (27.02.2023).
+ Kaden u. Kleineberg 2019.
+134 Ladina Tschander
+gende Beratungen geben zu können, wird Spezialwissen benötigt. Dieses über Weiterbildungen
+zu erwerben benötigt Zeit, und das Wissen muss stets aufgefrischt werden.
+Das Personal vor Ort trägt wesentlich zum Erfolg von Makerspaces bei. Gleichzeitig
+ist dieser Punkt aber auch eine Herausforderung für Hochschulbibliotheken. Wie
+oben erwähnt, bedingt das Betreuen von Makerspaces spezifisches Wissen und Fertigkeiten,
+die bald als überfordernd von Bibliotheksmitarbeitenden wahrgenommen
+werden können.33 Eine Variante ist, dass Bibliotheken Expert:innen einstellen. Eine
+andere ist, technik- oder toolaffine Studierende (wie Absolvent:innen von Digital-
+Humanities-Studiengängen, Computerlinguist:innen, 3D-Designer:innen oder Game-
+Designer:innen) mit der Unterstützung in Makerspaces zu beauftragen. Auf alle Fälle
+ist ein funktionierendes, nachhaltiges Personalmodell für den Betrieb von Makerspaces
+erforderlich.
+3.6 Schlüsselaktivitäten
+Die Grundidee von Makerspaces ist, dass diese frei benutzbar sind. Aber die Nutzung
+von Geräten oder Tools ist meist nicht selbsterklärend, weshalb Einführungen und
+Workshops zur Handhabung angeboten werden müssen. Zudem bieten sich Veranstaltungen
+im Makerspace an, um diesen selbst bekannt zu machen. Um die Nutzung
+zu steigern, ist eine stete Kommunikation über die Aktivitäten im Makerspace von
+Vorteil. Interessant sind auch Ausstellungen mit Produkten aus dem Makerspace.
+Zudem können – je nach Zugänglichkeit und strategischer Ausrichtung der Hochschule
+– folgende Aktivitäten im Makerspace genutzt werden, um den Austausch zwischen
+Forschung und Bevölkerung zu fördern:
+– Einführung in die Tools und Geräte, Geräteführerschein, wenn nötig,
+– Workshops in den Makerspaces,
+– Bekanntmachen des Angebots innerhalb der Hochschule oder
+– Veranstaltungen für die Bevölkerung.
+3.7 Schlüsselpartner – Kooperationen
+Wichtig ist, vor dem Aufbau eines eigenen, vollumfänglichen Makerspaces das Umfeld
+genau unter die Lupe zu nehmen. Gibt es im Umfeld der Universität bereits einen Makerspace,
+der allenfalls als Kooperationspartner in Frage käme? Oder hat eine andere
+Einheit der Hochschule bereits ein Angebot zu den Bedürfnissen der Forschenden
+ Dies gilt nicht nur für das Bibliothekspersonal, sondern auch für Nutzende von Makerspaces.
+Buchner und Ojo (2022) kritisieren, dass in Makerspaces ein großes Knowhow erwartet wird und dadurch
+Personen ausgeschlossen werden.
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 135
+oder Studierenden etabliert? Ggf. ist dieses aber nicht flächendeckend bekannt oder
+auch nicht für alle zugänglich. Hier könnte die Hochschulbibliothek in den Dialog mit
+der anbietenden Einheit treten, um auszuloten, wie die Dienstleistungen für die gesamte
+Hochschule zugänglich gemacht werden könnte.
+Es ist von Vorteil (wenn nicht sogar eine Win-Win-Situation), wenn die Bibliothek
+für die Veranstaltungen im Makerspace eng mit Forschenden und Dozierenden der
+Hochschule zusammenarbeitet. Zum einen muss die Bibliothek nicht das gesamte benötigte
+Knowhow beim eigenen Personal aufbauen. Zum anderen kennen die Forschenden
+und Dozierenden das Angebot im Makerspace bestens und tragen dazu bei,
+dass sich dieses weiterentwickelt.
+Weiter können Makerspaces, wie oben erwähnt, nicht losgelöst von Lehre und
+Forschung sein, da sonst die Nutzung zu gering wäre. Es bedingt eine gute Abstimmung
+vom Angebot im Makerspace. Dazu gehören:
+– Aufbauen von Kooperationen mit Knowhow-Trägern;
+– Gespräche mit Lehre: Wie kann das Angebot mit den Lehr-/Lerninhalten kombiniert
+werden?;
+– Gespräche mit Lehre und Forschung: Welche Settings werden aufgrund von Forschung
+und Lehre benötigt?
+3.8 Kosten und Einnahmen
+Makerspaces können kostenintensiv sein. Zum Start ist oft eine Umgestaltung, wenn
+nicht sogar ein Umbau der Räumlichkeiten notwendig. Falls Medien vorhanden
+sind, müssen diese reduziert und magaziniert werden, Regale abgebaut und neues Mobiliar
+besorgt werden. Das Material des Makerspace – unabhängig von dessen Typ –
+braucht Stauraum. Im Budget einzuberechnen sind die Kosten, um das benötigte Material
+und den Gerätepark nach einiger Zeit zu erneuern und so à jour zu halten.
+Wie bei den Schlüsselressourcen erwähnt, ist das Preisspektrum der anzuschaffenden
+Geräte breit. Auch fallen hier Wartungskosten an. Abhängig von der Größe
+der Hochschule müssen ggf. mehrere Geräte desselben Typs angeschafft werden. Dies
+ist insbesondere der Fall, wenn mobile Makerspaces angeboten werden, die auch Logistik-
+Kosten verursachen.
+Die höchsten Kosten sind die Personalkosten. Zum einem wird Personal zu Servicezeiten
+vor Ort benötigt, um die Geräte zu erklären oder auch nur für Sicherheit
+und reibungslosen Betrieb zu sorgen. Zum anderen wird eine stetige Weiterbildung
+des Personals vor Ort benötigt, damit dieses mit den technologischen Entwicklungen
+mithalten kann. Weiter muss ggf. Knowhow eingekauft werden, um spezifische Kurse
+anbieten zu können.
+Die meisten Hochschulbibliotheken müssen nicht separat für Raum- und Reinigungskosten
+aufkommen. Aber in Makerspaces wird der Reinigungsbedarf erhöht
+sein, sodass zusätzlich noch Reinigungskosten anfallen können. Gleiches gilt für allfäl-
+136 Ladina Tschander
+liges Sicherheitspersonal, das für einen Schließrundgang bei unbetreutem Betrieb
+notwendig sein kann.
+Auch müssen die Kosten für Kommunikation und Marketing einberechnet werden.
+Bei Veranstaltungen können Give-Aways gegeben werden. Events können mit
+Plakaten, Flyern oder in Social-Media-Kanälen beworben werden.
+Dem gegenüber stehen allfällige Einnahmen durch kostenpflichtige Veranstaltungen
+oder auch Nutzungsgebühren. Normalerweise werden diese nicht von Hochschulangehörigen
+eingezogen, wobei es bedenkenswert ist, bei zeitintensiven Dienstleistungen (wie
+Beratungen oder Ausführungen bzw. Mitwirkung in Projekten) eine Gebühr zu erheben.
+Neben Einnahmen können für den Unterhalt und Weiterentwicklung von Makerspaces
+Drittmittel für spezifische Projekte eingeworben werden, wie auch durch
+kluge Kooperationen mit Forschungsprojekten die Ausstattung des Makerspaces ergänzt
+werden kann.
+3.9 Führungsstruktur
+Aufbau und Wartung des Makerspaces, Planung der Personaleinsätze oder die Entscheidung,
+welche Dienstleistungen angeboten werden, bedingen eine Organisationsstruktur.
+Hochschulen benötigen aufgrund ihres Volumens schnell einen großen
+Makerspace, für dessen Betreuung ein Team oder eine Abteilung zuständig ist. Ein
+kleiner Makerspace hingegen braucht kein gesondertes Team. Ein eigenes Team ist
+abhängig vom Umfang der Aufgaben, und ob z. B. Makerspaces an verschiedenen
+Standorten aus einer Hand geführt werden.
+Verfügt die Bibliotheksleitung über reichlich Personalressourcen im Gesamtbetrieb,
+kann ein neues Team für den Betrieb des Makerspaces aufgebaut werden, in
+dem alle benötigten Kompetenzen vertreten sind und eine Führungsstruktur aufgebaut
+werden kann, die in keinem Konflikt zu bestehenden Einheiten steht. Meist wird
+aber für die Deckung des größeren Personalressoucenbedarfs eine Zusatzfinanzierung
+benötigt, sei es entweder durch Umschichtung/Priorisierung von Aufgaben innerhalb
+der Bibliothek oder durch Zusatzmittel des Trägers.
+Die Realität ist aber oft eine andere. Mitarbeitende aus bestehenden Einheiten
+(wie IT, Benutzung, Liaison Services oder Data Librarians) bilden ein neues Team, um
+den Makerspace zu betreuen. Die Führung kann einer bestehenden Abteilungs- oder
+Teamleitung überantwortet werden, wobei aber die Führungsspanne beachtet werden
+muss. Wird eine neue Führungsposition geschaffen, um das Portfolio bestehender
+Leitungspersonen nicht zu überfrachten, sollte jedes Teammitglied im Makerspace
+ausgewiesene Stellenprozente für die Arbeit darin haben.
+Während die fachlichen Expert:innen im Team die Nutzenden beraten oder
+Workshops durchführen und die Spezialist:innen die Gerätewartung übernehmen,
+kümmert sich das Team (oder die Leitung) um die strategische Ausrichtung des Makerspaces
+innerhalb der Bibliotheksbetriebs.
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 137
+4 Zusammenfassung
+Makerspaces bieten Hochschulbibliotheken die Möglichkeit, neue innovative Dienstleistungen
+einzuführen und sich auf dem Campus als Unterstützerin des informellen Lernens
+in all seinen Facetten zu positionieren. Mit Makerspaces können auch Kundengruppen,
+die Bibliotheken nicht mehr aufgesucht haben, zurückgewonnen werden. Bibliotheken
+haben dadurch die Möglichkeit, sich zukunftsorientiert weiterzuentwickeln und ihr
+Image zu verbessern. Insgesamt wurde gezeigt, dass Makerspaces für wissenschaftliche
+Bibliotheken eine große Chance sind, sich an zentraler Stelle neu zu positionieren, auch
+wenn die Investitionen in diese neuen Räume beträchtlich sein können. Um Makerspaces
+zum Erfolg zu führen, ist eine konsequente Nutzendenorientierung ebenso zentral wie
+auch das Eingehen von Kooperationen mit Forschung und Lehre. Es ist je nach Situation
+vor Ort angemessen, ein Team in der Bibliothek mit dem Betrieb des Makerspaces zu beauftragen,
+auch um Überlastungen beim Personal vorzubeugen. Die abschließende Checkliste
+enthält, die für ein Betriebskonzept zu klärenden Punkte.
+5 Checkliste
+Umfeldanalyse
+□ Bietet jemand im Umfeld einen Makerspace an?
+□ Welcher Makerspace-Typ bietet sich an?
+□ Welche Nutzung wird erwartet?
+Zielgruppe
+□ Wer soll den Makerspace nutzen? (Auswirkung auf Standort, Infrastruktur, Zugänglichkeit
+und Personalressourcen)
+Produkte/Dienstleistung
+□ Welche Bedürfnisse sollen mit dem Makerspace befriedigt werden?
+□ Welche Dienstleistungen finden die Nutzenden vor?
+Standort
+□ Wo befindet sich der Makerspace?
+Infrastruktur
+□ Welche Geräte werden benötigt?
+□ Welches Material wird benötigt?
+□ Flächenbedarf
+138 Ladina Tschander
+□ Werden bauliche Maßnahmen benötigt, um den Betrieb aufnehmen/optimieren
+zu können?
+□ Materialschränke?
+□ Steckdosen?
+□ Rechner festschrauben, VR-Brillen-Aufhänge-Vorrichtung
+□ WLAN
+□ Video-/Audioraum
+□ Wird eine Verpflegungsmöglichkeit benötigt? (abhängig von der Zugänglichkeit)
+Zugänglichkeit
+□ Kann der Raum nur genutzt werden, wenn Personal vor Ort ist?
+□ Welche Öffnungszeiten werden gewährleistet?
+□ Wie ist der Zugang geregelt, wenn der Raum ohne Personal benutzbar ist?
+Sicherheitskonzept
+□ Unfallvermeidung
+□ Brandschutz
+□ Diebstahlsicherung
+Kommunikation und Marketing
+□ Wie wird die Community-Bildung unterstützt?
+□ Wie werden Veranstaltungen publik gemacht?
+□ Social-Media-Auftritt
+□ Grafik und Druck
+Personalressourcen
+□ Wer betreut den Makerspace?
+□ Wer ist verantwortlich für Einführungen, Veranstaltungen, Workshops?
+□ Welche Anforderungen muss das benötigte Personal erfüllen?
+□ Sind Weiterbildungen erforderlich? Muss gesondert rekrutiert werden?
+Organisatorische Einbindung
+□ Teamzusammensetzung
+□ Mit neuen Mitarbeitenden besetzt?
+□ Aus verschiedenen anderen Teams zusammengesetzt?
+□ Zusatzaufgabe eines bestehenden Teams?
+□ Führungsstruktur
+□ Festes Team mit Leitung?
+□ Gesonderte Organisationseinheit oder Eingliederung in einer bestehenden
+Einheit?
+3.2 Grundlage für Betriebskonzepte von wissenschaftlichen Makerspaces 139
+Betriebsplan
+□ Einsatzplan □ Beratung
+□ Geräte-Updates
+□ Materialkontrolle und -beschaffung
+□ Reparaturen
+□ Veranstaltungsplanung
+□ Kommunikationsplanung
+Finanzen/Budget
+□ Umbaukosten
+□ Einrichtung
+□ Materialkosten
+□ Geräte oder Ausrüstung (Anzahl) eingeteilt nach:
+□ Notwendig
+□ Nützlich
+□ Wünschenswert
+□ Wartungs- oder Lizenzkosten
+□ Personalkosten
+□ Weiterbildung
+□ Externe Expert:innen
+□ Reinigung
+□ Sicherheit
+□ Druckkosten
+□ Logistik
+Mögliche Einnahmen
+□ Nutzungsgebühr für Öffentlichkeit
+□ Kostenpflichtige Veranstaltungen
+Literatur
+Ackern, Isabell van (Hrsg.): Lernwelt Hochschule 2030. Konzepte und Strategien für eine zukünftige
+Entwicklung. Lernwelt Hochschule 2030. Berlin: De Gruyter Saur 2022 (Lernwelten). https://doi.org/
+10.1515/9783110729221.
+Benjes-Small, Candice, Liz McGlynn Bellamy, Jennifer Resor-Whicker u. Lisa Vassady: Makerspace or Waste
+of Space: Charting a Course for Successful Academic Library Makerspaces. In: ACRL 18th National
+Conference, „At the Helm“. Baltimore, Maryland, March 22–25, 2017. S. 428–436.
+Bonte, Achim u. Lukas Oehm: Vorstoß in neue Wissensräume. Makerspaces im Leistungsangebot
+wissenschaftlicher Bibliotheken. Vortrag beim 104. Deutschen Bibliothekartag in Nürnberg. 2015.
+https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/1730 (25.01.2024).
+Bronkar, Cherie: The Current State of Library Makerspace. In: Makerspaces in practice: successful models
+for implementation. Hrsg. von Ellyssa Kroski. Chicago: ALA Editions 2021. S. 3–18.
+140 Ladina Tschander
+Buchner, Tobias u. Jelena Ojo: Making und Fähigkeit. Eine ableismkritische Analyse der Potenziale von
+Makerspaces in formalen Bildungseinrichtungen. In: Medienimpulse 60 (2022), H. 2, S. 40.
+https://doi.org/10.21243/mi-02-22-11.
+Burke, John: Makerspaces. A practical guide for librarians. Lanham, MD: Lexington Books 2018.
+Hatch, Mark: The maker movement manifesto: rules for innovation in the new world of crafters, hackers,
+and tinkerers. 1st edition. New York: McGraw-Hill Education 2014.
+Hauke, Petra: Bibliotheken bauen und ausstatten. Bad Honnef: Bock + Herchen 2009.
+Hauke, Petra u. Klaus Ulrich Werner: Praxishandbuch Bibliotheksbau. Planung – Gestaltung – Betrieb.
+Berlin: De Gruyter Saur 2016 (De Gruyter Reference). https://doi.org/10.1515/9783110403183.
+Heinzel, Viktoria, Tobias Seidl u. Katharina Späth: Makerspaces an Universitäten in Deutschland: Status
+quo und Entwicklungsperspektiven. In: Lernwelt Makerspace. Hrsg. von Viktoria Heinzel, Tobias Seidl
+u. Richard Stang. Berlin: De Gruyter 2020. S. 59–86. https://doi.org/10.1515/9783110665994-006.
+Helmkamp, Kerstin: Strategieprozesse zur Neuausrichtung von Universitätsbibliotheken und ihrer
+Organisationseinheiten im Zuge des digitalen Wandels. Das Beispiel der Niedersächsischen Staatsund
+Universitätsbibliothek Göttingen und ihrer Benutzungsabteilung. In: o-bib. Das offene
+Bibliotheksjournal/herausgegeben vom VDB, 3 (2016), H. 4, S. 32–46.
+Iglesias, Edward: Creating a Virtual Reality-Based Makerspace. In: Online Searcher 42 (2018), H. 1,
+S. 36–39.
+Jochumsen, Henrik, Rasmussen Casper Hvenegaard u. Dorte Skot‐Hansen: The four spaces – a new model
+for the public library. In: New Library World 113 (2012), H. 11/12, S. 586–597. https://doi.org/10.1108/
+03074801211282948.
+Kaden, Ben u. Michael Kleineberg: Scholarly Makerspaces. Ein Zwischenbericht zum DFG-Projekt FuReSH.
+In: LIBREAS. Library Ideas 35 (2019). https://doi.org/10.18452/20331.
+Kovalik, Claudia u. Karsten Schuldt: Makerspace-Toolboxen für Bibliotheken in der Schweiz. In: o-bib. Das
+offene Bibliotheksjournal/Herausgeber VDB 8 (2021), H. 4, S. 1–12. https://doi.org/10.5282/obib/
+5729.
+Kroski, Ellyssa u. Ellyssa Kroski: The makerspace librarian’s sourcebook. London: Facet Publishing 2017.
+LaPierre, Suzanne S.: How Libraries Can Leverage the Learning Potential of AR. In: Computers in Libraries
+42 (2022), H. 3, S. 19–23.
+Nötzelmann, Cordula: Makerspaces. Eine Bewegung erreicht Bibliotheken. In: Bibliotheksdienst 47 (2013),
+H. 11, S. 873–786. https://doi.org/10.1515/bd-2013-0099.
+Osterwalder, Alexander u. Yves Pigneur: Business model generation: a handbook for visionaries, game
+changers, and challengers. Hoboken, NJ: John Wiley 2010.
+Späth, Katharina, Tobias Seidl u. Viktoria Heinzel: Verbreitung und Ausgestaltung von Makerspaces an
+Universitäten in Deutschland. In: o-bib. Das offene Bibliotheksjournal 6 (2019), H. 3, S. 40–55.
+https://doi.org/10.5282/o-bib/2019H3S40-55.
+Stöber, Thomas: Welche Zukunft für die Benutzungsservices? Strategiefragen zwischen Printbestand und
+neuen Dienstleistungen. Vortragsfolien. 111. BiblioCon in Hannover, 23.–26. Mai 2023. https://opus4.
+kobv.de/opus4-bib-info/frontdoor/index/index/docId/18340 (30.05.2023).
+Teasdale, Rebecca M.: Defining success for a public library makerspace: Implications of participantdefined,
+individualized evaluative criteria. In: Library & Information Science Research 42 (2020), H. 4,
+101053. https://doi.org/10.1016/j.lisr.2020.101053.
+Tiepmar, Jonas, Jens Mittelbach, Melanie Kaiser, Daniela Dobeleit, Paul Schwanse, Uta Fröhner u. Maik
+Jähne: Wissen kommt von Machen. Zukunftsgestaltung in wissenschaftlichen Bibliotheken im
+Zeitalter der Digitalisierung. In: Bibliothek Forschung und Praxis 42 (2018), H. 1, S. 69–82. https://doi.
+org/10.1515/bfp-2018-0009.

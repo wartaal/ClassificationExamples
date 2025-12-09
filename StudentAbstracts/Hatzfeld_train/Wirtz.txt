@@ -1,0 +1,813 @@
+﻿Gudrun Wirtz
+5.5 Fachinformationsdienste für die
+
+Wissenschaft
+
+1 Einführung – Fachinformationsdienste im Kontext
+Fachinformationsdienste (FID) sind international gesehen einmalig. Sie dienen der
+Optimierung struktureller Rahmenbedingungen für die Forschung in Deutschland,
+agieren bedarfsorientiert und verfolgen innovative Ansätze. Als solche sind sie Gegen-
+stand der Infrastrukturförderung der Deutschen Forschungsgemeinschaft (DFG).1 FID
+sind an wissenschaftlichen Einrichtungen in öffentlich-rechtlicher Trägerschaft ange-
+siedelt, i. d. R. an Service- und Informationseinrichtungen: Universitäts-, Landes- und
+Staatsbibliotheken, Zentralen Fachbibliotheken, anderen Spezialbibliotheken, wissen-
+schaftlichen Instituten (oft Leibniz-Instituten) sowie – in Form von Kooperationen –
+an universitären Instituten, einzelnen Lehrstühlen, Forschungszentren und Museen.
+FID sind überregional tätig, wobei sie auf lokaler Ebene vorhandene Informations-
+infrastrukturen ergänzen. Da der Zugang zu einschlägigen Medien und Informationen
+durch ihre Services prinzipiell standortunabhängig ist, also in weitaus geringerem
+Ausmaß als etwa in den USA oder Frankreich von den finanziellen Möglichkeiten der
+Bibliothek vor Ort abhängt, sind FID ein wichtiges demokratisches Element in der
+deutschen Wissenschaftslandschaft.
+
+FID gibt es seit 2014, sie bauen von der Förderung her auf den ehemaligen
+Sondersammelgebieten auf, die nach dem Zweiten Weltkrieg geschaffen wurde (s. Ab-
+schnitt 6 „Geschichte und Zukunft der FID“ in diesem Kapitel). Aktuell befinden sich
+40 FID in der DFG-Förderung.2 Zahl und Zuschnitt der FID unterliegen Schwankun-
+gen: Einige wurden aufgegeben, zusammengelegt oder spalteten sich auf und es wer-
+den immer wieder neue FID ins Leben gerufen. Die Gründe liegen in konkreten
+Förderentscheidungen der DFG, in Veränderungen institutioneller Rahmenbedingun-
+gen, aber auch in Entwicklungen im universitären Fächerspektrum.
+
+Seit 2014 hat die DFG für die FID insgesamt knapp 145 Millionen Euro bewilligt,
+also durchschnittlich pro Jahr annähernd 15 Millionen.3 Die Summe setzt sich in erster
+Linie aus Personal- und Erwerbungsmitteln zusammen, sodann aus Mitteln für Work-
+
+ Laut Förderatlas der DFG wurden 2017–2019 die Wissenschaftliche Literaturversorgungs- und Informa-
+tionssysteme mit 171,1 Millionen Euro gefördert, was 1,8 % des Fördervolumens ausmacht, daneben die
+Gerätebezogene Forschungsinfrastruktur mit 403,6 Millionen (=4,2 % des Fördervolumens). S. DFG-
+Förderatlas: https://www.dfg.de/de/aktuelles/zahlen-fakten/foerderatlas/foerderatlas-2021 (17.09.2024), S. 28.
+ Übersicht über die geförderten FID: https://www.dfg.de/resource/blob/172118/284134aeafad9d779c68ff8b7f
+d286af/uebersicht-laufende-fid-projekte-data.pdf (17.09.2024).
+ Vgl. Michael Kassube: Bericht aus der DFG. 10. Mai 2023. https://wikis.sub.uni-hamburg.de/webis/ima
+ges/b/bb/Bericht_aus_der_DFG_2023.pdf (03.08.2023).
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-024
+
+
+
+378 Gudrun Wirtz
+
+shops, aus Sachmitteln für Reisen, Software u. ä. sowie ggf. Mitteln für wissenschaftli-
+che Geräte. Die Fördersummen mögen hoch erscheinen, doch wenden die tragenden
+Einrichtungen oft mehr für Konzeption und Pflege ihrer jeweiligen FID auf als sie an
+Drittmitteln bekommen.4
+
+Die FID bilden im DFG-Förderbereich Wissenschaftliche Literaturversorgungs-
+und Informationssysteme (LIS) mit sechs weiteren Programmen ein abgestimmtes
+System:5 Informationsinfrastrukturen für Forschungsdaten, E-Research-Technologien,
+Infrastrukturen für wissenschaftliches Publizieren, Open-Access-Publikationskosten, Di-
+gitalisierung und Erschließung sowie Verantwortung für Informationsinfrastrukturen
+gemeinsam organisieren (VIGO). In allen LIS-Programmen werden darüber hinaus
+Rundgespräche für strategische Planungen und überregionale Kooperationen sowie
+für die Weiterentwicklung von Fördermaßnahmen finanziert.6
+
+Da alle Förderprogramme dem übergeordneten Ziel der Schaffung bestmöglicher
+Bedingungen für die Wissenschaft durch umfassenden und freien Zugang zu analogen
+und digitalen Informationen sowie der Vernetzung von Wissen und Daten verpflichtet
+sind, stellen FID-Einrichtungen auch in den sechs genannten Programmen flankie-
+rende Förderanträge, bisweilen gemeinsam mit anderen Akteuren.7
+
+2 Das fachliche Spektrum der FID
+FID gibt es nahezu im gesamten universitären Fächerspektrum, von den Geisteswis-
+senschaften über die Rechts-, Wirtschafts- und Sozialwissenschaften bis hin zu den
+Natur- und Ingenieurwissenschaften. Ihre Mehrzahl – derzeit 27 – ist geistes- und
+kulturwissenschaftlich. Davon sind neun primär regional definiert und somit multi-
+disziplinär. Fünf FID gehören fachlich in den Bereich der Sozial- und Rechtswissen-
+schaften. Die Natur- und Angewandten Wissenschaften sind lediglich mit acht FID
+vertreten, wobei diese Gruppe am stärksten wächst. Allerdings sind auch die drei
+deutschen Zentralen Fachbibliotheken für Wirtschaftswissenschaften, für Medizin,
+
+ Förderbedingungen verlangen konkrete Eigenleistung bei Erwerbung von Print- und E-Medien
+(30 %/15 %). Sodann erfolgen Erschließung und Bereitstellung prinzipiell in Eigenleistung, bestimmte
+technische Infrastrukturen werden vorausgesetzt sowie festes Personal auch für die konzeptionelle
+FID-Betreuung; vgl. Deutsche Forschungsgemeinschaft: Merkblatt und ergänzender Leitfaden. Fachin-
+formationsdienste für die Wissenschaft. https://www.dfg.de/formulare/12_10/12_10_de.pdf (03.08.2023).
+ Für einen Überblick zum aktuellen Förderportfolio s. www.dfg.de/foerderung/programme/infra
+struktur/lis/index.html (03.08.2023).
+ Vgl. https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/rundgesprae
+che/index.html (03.08.2023). Von der DFG vorgesehen ist auch die Förderung von Brückenprojekten,
+die an der Schnittstelle zwischen Forschung und wissenschaftlicher Informationsinfrastruktur ange-
+siedelt sind. Sie fallen gleichermaßen in die LIS-Förderung wie in die Forschungsförderung.
+ Vgl. Lipp 2018: S. 235.
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 379
+
+sowie für Technik und deren Grundlagenwissenschaften Chemie, Informatik, Mathe-
+matik und Physik Teil des Systems der überregionalen Literatur- und Informations-
+versorgung und bieten ein teils ähnliches Serviceportfolio wie die FID.
+
+Einen Überblick über alle FID und ihre Vorläufer bietet die Hamburger Plattform
+Webis: Sammelschwerpunkte an deutschen Bibliotheken. Seit Mitte der 1990er Jahre
+dient sie Akteuren wie Nutzenden in dieser komplexen Informationslandschaft als
+Orientierung.8
+
+3 Das Serviceportfolio der FID
+Die Serviceportfolios der FID unterscheiden sich erheblich. Prinzipiell liegt es im Er-
+messen jedes FID, wo Schwerpunkte gesetzt und wie diese ausgestaltet werden. Idea-
+lerweise geschieht dies in enger Abstimmung mit den jeweiligen Fachcommunitys
+(dazu s. Abschnitt 5 „Zielgruppenkommunikation und Öffentlichkeitsarbeit“ in diesem
+Kapitel). Dementsprechend reagieren FID auf Trends in ihren Fächern und Publikati-
+onsmärkten sowie auf technische, gesellschaftliche und wissenschaftspolitische
+Entwicklungen.
+
+3.1 Überregionale Literaturversorgung
+
+3.1.1 Grundsätze
+
+Die meisten FID betrachten die überregionale Versorgung mit wissenschaftlich relevan-
+ter Literatur als ihre Kernaufgabe. Welche Medien sie dabei im Blick haben und wie sie
+diese überregional bereitstellen, variiert dabei stark. Gemein ist allen FID, dass sie aus
+DFG-Fördermitteln grundsätzlich keine Standardwerke oder Lehrbücher erwerben, die
+zur „Grundversorgung“ zählen und in Universitätsbibliotheken üblicherweise vorhan-
+den sind, vielmehr geht es um „Spezialbedarf“. Was genau das bedeutet, wurde intensiv
+diskutiert.9 Eine fächerunabhängige Festlegung erwies sich als nicht zielführend, so
+dass letztlich jeder FID darüber immer wieder aufs Neue entscheidet. Dabei können
+Kriterien wie Erscheinungsland und Publikationssprache eine Rolle spielen, aber auch
+die Budgets an anderen Einrichtungen: Wenn beispielsweise Universitätsbibliotheken,
+so verstärkt seit der Covid-19-Pandemie zu beobachten, ihre Budgets mehr und
+mehr für E-Medien(-Pakete) ausgeben, wird ausschließlich im Print erscheinende Li-
+
+ https://wikis.sub.uni-hamburg.de/webis/index.php/Webis_-_Sammelschwerpunkte_an_deutschen_Bi
+bliotheken (03.08.2023).
+ Zu Beginn der FID-Förderung war noch von „Spitzenbedarf“ vs. „Grundbedarf“ die Rede, was je-
+doch als irreführend verworfen wurde. Vgl. auch Lipp 2018: S. 240–241.
+
+
+
+380 Gudrun Wirtz
+
+teratur zunehmend zum Spezialbedarf. FID insgesamt verfolgen allerdings eine
+„e-preferred-policy“, d. h. wo immer im Sinne der überregionalen Bereitstellung möglich,
+geben sie einer digitalen Version den Vorzug vor einer Print-Publikation.10 Alle im Rah-
+men der FID erworbenen Print- und elektronischen Produkte müssen, so der DFG-
+Auftrag, von den zuständigen Bibliotheken grundsätzlich dauerhaft archiviert werden.
+
+FID sind prinzipiell für die Versorgung mit weltweit entstehenden Informationen zu
+ihrem Fach oder ihrer Region zuständig. In der Praxis ist allerdings bei fachlich definier-
+ten FID unter dem Aspekt des zu erwartenden Bedarfs eine Konzentration auf westeu-
+ropäische Sprachen zu beobachten. Ansonsten erwerben FID Text-Materialien i. d. R. in
+den jeweiligen Originalsprachen, nur in begründeten Ausnahmen auch in Übersetzung.
+Allerdings ist auch hier zu beobachten, wie sich FID-Erwerbungsprinzipien in Abhängig-
+keit von Wissenschaft und Technologie ändern, denn mit dem Vormarsch des Englischen
+nehmen andere Sprachkenntnisse im Wissenschaftsbetrieb seit geraumer Zeit ab, so dass
+Übersetzungen selbst bei den philologischen FID zwischenzeitlich auch zum „Spezialbe-
+darf“ gezählt werden.
+
+3.1.2 Inhalte und Formate
+
+Als wissenschaftlich relevante Literatur werden publizierte Forschungsergebnisse und
+Quellen erachtet: Je nach FID können dies Text-Materialien, Bilder, Tondokumente, au-
+diovisuelle Medien, in Verlagen erschienene oder graue Literatur, bibliographische Da-
+tenbanken und elektronische Editionen, Statistiken, Textkorpora, Forschungsdaten,
+Belletristik, Karten, Notendrucke, Libretti, Drehbücher u. v. m. sein.
+
+Wie intensiv ein FID sammelt, hängt von den Bedarfen seiner Fachcommunitys
+und von den jeweiligen Buchmärkten ab. Besonders umfassende Sammlungen bauen
+die „buchlastigen“ geisteswissenschaftlichen FID auf, insbesondere diejenigen, die
+über den deutschen und englischen Sprachraum hinausgehen und für die Literatur
+nicht „on demand“ beschaffbar ist (z. B. die FID Asien, Nahost, Afrikastudien, Roma-
+nistik). Hier ist eine vorausschauende, also eine von aktuellen Forschungstrends in
+Deutschland weitgehend unabhängige Erwerbung notwendig, um die Literaturbasis
+für künftige Forschungsvorhaben zu sichern. Einige FID sehen hingegen für ihre Fä-
+cher keinen Mehrwert darin, die Literaturgrundversorgung, die die lokalen Informa-
+tionsanbieter gewährleisten, durch FID-eigene Erwerbung zu ergänzen11 (z. B. FID
+Soziologie12), weisen relevante Publikationen aber in ihren Rechercheinstrumenten
+im Sinne der Information durchaus nach (z. B. FID Germanistik13). Der reine Nachweis
+wird von einigen FID zudem im Sinne der erwähnten „e-preferred-policy“ für nicht-
+
+ Vgl. DFG 2020.
+ Vgl. Lipp 2018: S. 241.
+ https://sociohub-fid.de (20.02.2024).
+ https://www.germanistik-im-netz.de (20.02.2024).
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 381
+
+kommerzielle Medien praktiziert (z. B. FID Buch-, Bibliotheks- und Informationswis-
+senschaft14). Die klassische Sammlung, die den physischen Besitz impliziert, tritt
+damit auch bei FID in diesen Fällen in den Hintergrund.
+
+Um die Literaturversorgung im Detail mit den Bedarfen der Fachcommunitys zu-
+sammenzubringen, betreiben nahezu alle FID Formen von Patron-Driven-Acquisition
+(PDA). So können Wissenschaftler:innen gezielt die Erwerbung und Bereitstellung be-
+stimmter Medien anstoßen. Einige FID nutzen PDA als zentrale Erwerbungsmethode
+und beschleunigen den Service für ihre Nutzenden, indem sie ihnen die gewünschten
+Publikationen direkt vom Buchhandel zusenden lassen und sie erst im Anschluss in
+den Bibliotheksbestand aufnehmen (so FID Medien-, Kommunikations- und Filmwis-
+senschaft15 und FID Politikwissenschaft16).
+
+3.1.3 Überregionale Bereitstellung
+
+Im Sinne der überregionalen Versorgung machen die FID prinzipiell sämtliche
+Medien möglichst allen interessierten wissenschaftlichen Nutzer:innen zugänglich.
+Dabei kommen verschiedene Bereitstellungsmethoden zum Einsatz. Für Papiermedien
+und transportable Datenträger (Mikrofilme, DVDs etc.) sind das Fernleihe und Doku-
+mentlieferung (s. Kapitel 3.4 „Überregionale Bibliotheksdienstleistungen: Fernleihe und
+Direktlieferdienste“), bisweilen auch eigens etablierte Direktlieferdienste (z. B. FID La-
+teinamerika, Karibik und Latino Studies,17 Kartographie und Geobasisdaten18 sowie
+Asien19). Für Lehrveranstaltungen werden deutschlandweit von FID bisweilen nicht
+nur einzelne Medien, sondern auch über mehrere Monate hinweg ganze Semesterappa-
+rate mit hochspezialisierter Literatur zur Verfügung gestellt (FID Nordeuropa20). Sofern
+gefragte Titel urheberrechtsfrei sind, ziehen FID-Einrichtungen der Versendung per
+Fernleihe oft die Digitalisierung und Open-Access-Bereitstellung vor. Bei vergriffenen
+oder verwaisten Werken werden nach Möglichkeit zu diesem Zweck die Rechte geklärt.
+
+3.1.4 Lizenzierung
+
+Die überregionale Literaturversorgung auch mit digitalen Publikationen zu sichern,
+war ein erklärtes Ziel bei der Etablierung der FID-Förderung 2013. Da Verlage für kom-
+
+ https://katalog.fid-bbi.de (20.02.2024).
+ https://katalog.adlr.link (20.02.2024).
+ https://www.pollux-fid.de (20.02.2024).
+ https://fid-lateinamerika.de (20.02.2024).
+ https://kartographie.staatsbibliothek-berlin.de (20.02.2024).
+ https://crossasia.org (20.02.2024).
+ https://portal.vifanord.de (20.02.2024).
+
+
+
+382 Gudrun Wirtz
+
+merzielle E-Medien meist auf den institutionellen Nutzerkreis beschränkte Zugangsbe-
+dingungen vorsehen, bestand ausgerechnet hier die Gefahr, dass Nutzer:innen, um in
+spezialisierten hochpreisigen Datenbanken zu recherchieren, wie im 19. Jahrhundert
+„Bibliotheksreisen“ unternehmen müssten. Um Abhilfe zu schaffen, sollten FID geeig-
+nete Geschäftsmodelle für eine überregionale Bereitstellung von E-Medien entwickeln
+und verhandeln. Zur Unterstützung von Modellentwicklung und Verhandlung, aber
+auch der Umsetzung der notwendigen organisatorischen und technischen Prozesse wie
+Registrierung, Freischaltung und Rechteverwaltung sowie des Managements von Meta-
+und Inhaltsdaten nahm bereits im Januar 2014 das Kompetenzzentrum für die Lizenzie-
+rung elektronischer Ressourcen (KfL) seine Arbeit auf. Es wird von der SUB Göttingen,
+der Bayerischen Staatsbibliothek und der Staatsbibliothek zu Berlin getragen, also Bi-
+bliotheken, die bereits im Rahmen der Sondersammelgebiete eingehende Erfahrung
+mit potenziellen Modellen der überregionalen Bereitstellung gesammelt hatten. Das KfL
+operiert sehr erfolgreich, insgesamt hat es seit 2014 im Zusammenspiel mit den FID 221
+Produkte bereitgestellt.21 Seit 2023 bietet es mit seinem Lizenzen-OPAC Fidelio ein In-
+strument an, das alle FID-Lizenzen und wo möglich auch die enthaltenen Metadaten
+nachnutzbar nachweist. FID katalogisieren lizenzierte Medien mit Beschreibung der Zu-
+gangsbedingungen zudem zentral in dem von allen wissenschaftlichen Bibliotheken ge-
+nutzten Datenbankinformationssystem (DBIS).
+
+Konkret werden unterschiedlichste Materialien lizenziert: Bibliographische Da-
+tenbanken, E-Book-Pakete, Zeitschriften- und Zeitungsarchive, Quellensammlungen
+und Korpora, Aggregatordatenbanken u. v. m. Für abgeschlossene Datenbanken er-
+werben FID üblicherweise dauerhafte Nutzungsrechte auf den Servern der Anbieter
+durch Einmalzahlung. Für Datenbanken und Aggregatoren, deren Inhalte laufend ak-
+tualisiert werden, erwerben sie – ebenfalls auf den Servern der Anbieter – i. d. R. Nut-
+zungsrechte für einen vertraglich festgelegten Zeitraum. Wo möglich und finanziell
+sinnvoll, werden Nationallizenzen verhandelt, die allen interessierten Nutzer:innen
+unabhängig von fachlicher und institutioneller Zugehörigkeit, den Zugriff erlauben.
+Andernfalls werden Lizenzen auf einen spezifischen Nutzendenkreis ausgerichtet.
+Die bisherige Erfahrung zeigt, dass die so gestaltete überregionale Versorgung mit
+spezialisierten E-Medien durch FID und KfL ein sehr wichtiger Service für alle Biblio-
+theken und damit für den Wissenschaftsstandort Deutschland ist. Insbesondere wäh-
+rend der Covid-19-Pandemie, die den Bedarf an digitalen Medien sprunghaft in die
+Höhe trieb, hat sie sich sehr bewährt.
+
+Insgesamt geben FID derzeit zwischen 0 % und 83 % ihrer Fördermittel für den Me-
+dienerwerb aus, wobei das Förderanliegen, Mittel ausschließlich für den (hoch-)speziali-
+sierten Bedarf vorzusehen, unvermeidlich ein gewisses Spannungsverhältnis zu dem
+Anliegen erzeugt, dass die erworbenen Medien möglichst viel genutzt werden sollen.
+
+ 35 von 40 FID lizenzieren über das KfL, alle FID melden ihre Lizenzen und ggf. Nutzungszahlen
+dorthin.
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 383
+
+3.2 Metadaten und mehr
+
+FID sehen sich den sogenannten FAIR-Prinzipien (engl. findable, accessible, interope-
+rable, reusable) verpflichtet, so dass Auffindbarkeit und Zugänglichkeit der erworbe-
+nen Medien ebenso im Fokus stehen, wie Interoperabilität und Nachnutzbarkeit der
+generierten Daten. Zu diesem Zweck pflegen die meisten FID Rechercheinstrumente
+mit qualitativ hochwertigen Metadaten, die auf Standards basieren. Diese speisen sie
+auch in allgemeine überregionale, internationale und fachlich spezialisierte Nach-
+weissysteme mit offenen Schnittstellen ein.
+
+Konkret geht es zunächst um konsequente Formalerschließung nach Standard
+Resource Description and Access (RDA) in den lokalen Katalogen, den Bibliotheksver-
+bünden sowie den überregionalen Nachweisinstrumenten Zeitschriftendatenbank
+(ZDB), Elektronische Zeitschriftenbibliothek (EZB) und Datenbankinfosystem (DBIS).
+Viele FID erschließen mit Regeln für die Schlagwortkatalogisierung (RSWK), einige
+praktizieren keine verbale Sacherschließung, andere nutzen Fachthesauri. Aus histori-
+schen wie fachlichen Gründen kommen verschiedene Klassifikationen zum Einsatz:
+Basisklassifikation, Regensburger Verbundklassifikation und vereinfachte Formen der
+Dewey-Dezimalklassifikation sind am weitesten verbreitet, hinzu kommen fachspezifi-
+sche Systematiken (s. Kapitel 6.2 „Inhaltserschließung und Kataloganreicherung“). Bei
+Formal- und Sacherschließung verwenden viele, aber nicht alle FID konsequent Norm-
+daten und tragen damit in ihren Bereichen wesentlich zur Qualitätssicherung der GND
+bei (s. Kapitel 6.3 „Normdaten, Linked Data“), ggf. auch zu Fachthesauri und Konkor-
+danzen. Eine gängige Methode zur Verbesserung ihrer Rechercheinstrumente ist zudem
+die Anreicherung der Datenbasis durch Zusatzinformationen wie Inhaltsverzeichnisse
+und Klappentexte oder Register.
+
+Basierend auf ihren Metadaten bieten FID, für die Medienerwerb zentral ist, Ser-
+vices an, um ihre wissenschaftliche und bibliothekarische Community aktiv über neue
+Bücher zu informieren – sei es in Form monatlich generierter Listen (z. B. FID Anglo-
+American Culture,22 FID Slawistik23), sei es als Datenbank mit Such-, Selektions- und
+Abonnementfunktionen (z. B. FID Theologie,24 FID Geschichtswissenschaft25). Manche
+FID bieten ähnliche Services auch für Aufsätze und Rezensionen (z. B. FID Ost-, Ostmit-
+tel- und Südosteuropa26). Problematisch für die Konsistenz dieser und anderer FID-
+Services ist eine gewisse „Löchrigkeit“ der Metadaten bei kommerziellen eBook-
+Paketen, deren Metadaten i. d. R. ohne Norm- und Sacherschließungsdaten geliefert
+werden und aus Kapazitätsgründen meist nicht händisch nachgearbeitet werden kön-
+
+ https://libaac.de (20.02.2024).
+ https://slavistik-portal.de (20.02.2024).
+ https://ixtheo.de (20.02.2024).
+ https://www.historicum.net (20.02.2024).
+ https://www.osmikon.de/servicemenue/ueber-uns/fachinformationsdienst-ost-ostmittel-und-sue
+dosteuropa (20.02.2024).
+
+
+
+384 Gudrun Wirtz
+
+nen. Ob hier Methoden der automatischen Generierung von Metadaten, die in einigen
+FID bereits Anwendung finden (z. B. multimediale Analyseverfahren zur Text-, Sprach-
+und Bilderkennung bei Videos in FID Mobilitäts- und Verkehrsforschung27 oder im FID
+Linguistik28), mittelfristig werden Abhilfe schaffen können, bleibt abzuwarten.
+
+Schien es vor wenigen Jahren noch so, als würden hochwertige Meta- und Normda-
+ten in den FID an Bedeutung verlieren, ist derzeit eher das Gegenteil der Fall: Die text-
+basierte Recherche spielt in den meisten Wissenschaften trotz großer Fortschritte von
+KI-Anwendungen (z. B. in der Bildsuche) nach wie vor eine zentrale Rolle und Normda-
+ten sind gerade im Zusammenspiel mit digitalen Methoden wesentlich. Aufgrund ihrer
+besonderen Expertise und Nähe zur Wissenschaft treiben FID immer wieder gezielt
+Neuerungen im Bereich der Erschließung voran, sei es bei der Modernisierung von
+Transliterationskonventionen oder der automatisierten Retrokonversion von Schriften
+(FID Jüdische Studien29), sei es bei der Dekolonisierung von Normdaten und Klassifika-
+tionen (FID Sozial- und Kulturanthropologie30), um nur zwei Beispiele zu nennen.
+
+3.3 Digitalisierung & Open Access, Repositorien
+
+Zentrales Anliegen aller FID ist es, ihre Materialien, wo immer möglich, im Open
+Access (OA) bereitzustellen. Je nach Publikationszeitraum beschreiten FID hier ver-
+schiedene Wege: Sie digitalisieren und sie publizieren. Dabei folgen sie etablierten
+Qualitätsstandards, verwenden möglichst freie Lizenzen (Creative Commons) und per-
+sistente Identifikatoren, um Nachnutzbarkeit sowie Identifizier- und Referenzierbar-
+keit der digitalen Objekte zu garantieren. Digitalisiert werden urheberrechtsfreie
+Materialien, sodann vergriffene und verwaiste Werke sowie solche Publikationen, für
+die die FID-Bibliotheken von Autor:innen und ggf. Verlagen Verwertungsrechte ein-
+werben können Hierbei kommen bisweilen in Zusammenarbeit mit dem KfL auch
+Crowdfunding-Modelle zu Einsatz.31 Zudem digitalisieren FID nicht veröffentlichte
+Materialien mit hohem Quellenwert, sei es hand- oder maschinenschriftliche Doku-
+mente, sei es Fotografien, Tondokumente, Filme oder auch Bauobjekte. Urheber-
+rechtsbehaftete Publikationen neuerer Zeit werden von FID häufig auf der Basis
+maschinenlesbarer Daten zweitveröffentlicht, wobei einige FID zu diesem Zweck
+auch Upload-Tools für Urheber:innen bereitstellen (z. B. FID Soziologie).
+
+Bisweilen bereiten FID Digitalisate weiter auf, indem sie Strukturdaten erstellen,
+Geonames-Referenzierung durchführen oder sie für Annotationen öffnen. Einige FID
+gehen weiter, indem sie etwa nachnutzbare Tools für Text-Mining entwickeln (z. B.
+
+ https://www.fid-move.de (20.02.2024).
+ https://www.linguistik.de (20.02.2024).
+ https://www.ub.uni-frankfurt.de/judaica3 (20.02.2024).
+ https://www.evifa.de (20.02.2024).
+ Zeitweise förderte die DFG auch den Open-Access-Freikauf.
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 385
+
+FID Biodiversitätsforschung32) oder indem sie Räume für standortunabhängige koope-
+rative Bearbeitung digitalisierter Texte bieten (FID Nordeuropa). Allerdings stellen
+sich insgesamt bislang wenige FID konsequent der Herausforderung, ihre maschinen-
+lesbaren Daten strukturell für die moderne Forschung zu optimieren.
+
+Originäres Open-Acess-Publizieren hat in den FID unterschiedliches Gewicht. Ei-
+nige FID stellen zentrale Fachzeitschriften bereit (z. B. FID Philosophie33), einige fun-
+gieren quasi als Verlage für Monographien und Sammelbände (z. B. FID Kunst34),
+andere bieten Infrastrukturen für digitale Editionen oder laufend aktualisierbare
+Themendossiers.
+
+Um im Open Access verfügbare Publikationen gebündelt anzubieten, betreiben
+FID in der Regel Repositorien. Deren Zuschnitte sind sehr unterschiedlich: Potenziell
+enthalten sie Monographien und Sammelbände, Preprints, ganze Zeitschriften, Auf-
+sätze und Rezensionen, die auf dem „goldenen“ oder „grünen“ Weg entstanden sind,
+sodann Forschungsdaten, Bild- und Objektsammlungen und andere digital(isiert)e
+Quellenmaterialien. Meist entscheiden sich FID aus fachlichen wie praktischen Grün-
+den für Teilmengen davon. FID bringen in ihre Repositorien u. U. auch einschlägige,
+unter offenen Lizenzen stehende Publikationen ein sowie digitalisierte Materialien,
+die über andere Drittmittelgeber, Private-Public-Partnerships oder aus Eigenmitteln
+finanziert sind. Ob FID überhaupt Repositorien betreiben, hängt von unterschiedli-
+chen Faktoren ab, darunter der Publikationskultur der jeweiligen Fachcommunitys
+und dem Vorhandensein einschlägiger institutioneller oder internationaler fachlicher
+Repositorien. Auch stehen FID-Repositorien in gewisser Konkurrenz zu kommerziel-
+len Dokumentenservern wie academia.edu oder researchgate, die u. a. durch ihre
+Niedrigschwelligkeit und Vernetzungselemente für viele Wissenschaftler:innen at-
+traktiv erscheinen. Dass sie keine echten Open-Access-Angebote darstellen und die
+präsentierten Zweitpublikationen nicht immer rechtskonform bereitgestellt werden,
+ist vielen Nutzer:innen nicht bewusst.
+
+3.4 Forschungsdatenmanagement
+
+Mit dem Aufkommen digitaler Technologien und der Möglichkeit zur schnellen Verar-
+beitung großer Datenmengen ist in den letzten Jahrzehnten in der Forschung das Be-
+wusstsein für die Notwendigkeit einer effizienten Datenerfassung, -verwaltung und -
+speicherung sowie Standards gewachsen, zuvörderst in den besonders datenintensiven
+Sparten wie den Natur-, Umwelt- und Sozialwissenschaften und derMedizin (s. Kapitel 5.7
+„Forschungsdaten und ihr Management“). Da Forschungsdaten im Sinne der Überprüf-
+
+ https://www.biofid.de (20.02.2024).
+ https://philportal.de (20.02.2024).
+ https://www.arthistoricum.net (20.02.2024).
+
+
+
+386 Gudrun Wirtz
+
+barkeit der Forschungsergebnisse und Nachnutzbarkeit der Daten zunehmend öffentlich
+zugänglich gemacht, d. h. publiziert werden, sind sie seit einigen Jahren auch Gegen-
+stand der Sammlungen und Services von (FID-)Bibliotheken. Einen gewissen Schub er-
+halten hat das Thema auch in den Geisteswissenschaften mit der offiziellen Etablierung
+der Nationalen Forschungsdateninfrastruktur 2020, in der viele FID als Co-Applicants
+oder Participants mitwirken.
+
+FID betätigen sich beim Forschungsdatenmanagement (FDM) auf folgenden Fel-
+dern: Beratung zum Datenmanagement, zur Konzeption von Drittmittelanträgen sowie
+Schulungen zu bewährten Praktiken im Umgang mit FD inklusive geeigneter Speicher-
+und Archivierungslösungen sowie rechtlicher und ethischer Richtlinien. FID unterstüt-
+zen oder übernehmen die Erstellung von Metadaten, sie speisen diese in ihre eigenen
+Rechercheinstrumente (Bibliothekskataloge, Repositorien oder Fachbibliographien),
+indem sie sie mit den zugehörigen Publikationen verknüpfen. Sie führen Diskussionen
+um die Standardisierung der Metadaten und beteiligen sich an der Ausarbeitung von
+Ontologien. Einige FID bieten eigene Forschungsdatenrepositorien an, in denen die
+Daten veröffentlicht und recherchierbar sind (z. B. FID Ost), und kümmern sich um deren
+langfristige Speicherung. Andere FID nutzen die eigenen institutionellen Forschungsda-
+tenrepositorien (z. B. HeiData35 für die FID Südasien,36 Kunst und Altertumswissen-
+schaften37) oder etablierte Dienste anderer Institutionen (z. B. GESIS38 für FID
+Politikwissenschaft und QualiService39 für den FID Sozial- und Kulturanthropologie).
+
+Wie genau Zusammenspiel und Abgrenzung der beiden Infrastrukturen NFDI
+und FID sowie der eigenen DFG Förderlinie Informationsinfrastrukturen für For-
+schungsdaten künftig aussehen wird, ist gegenwärtig noch im Aushandlungsprozess.
+
+3.5 Bibliographien, Aufsatzdatenbanken,
+Internetressourcenkataloge und mehr
+
+Für den zentralen Nachweis relevanter Publikationen pflegen FID nicht nur Kataloge,
+sondern auch Rechercheinstrumente für unselbständige Literatur. Bisweilen geschieht
+beides zugleich in Form umfassender Fachbibliographien (so z. B. durch die FID Theolo-
+gie, Religionswissenschaft,40 Erziehungswissenschaft und Bildungsforschung41 und Kri-
+minologie42). Einige FID führen zentrale Bibliographien ihrer Fächer fort, so z. B. der
+
+ https://heidata.uni-heidelberg.de (20.02.2024).
+ https://www.fid4sa.de (20.02.2024).
+ https://www.propylaeum.de (20.02.2024).
+ https://www.gesis.org (20.02.2024).
+ https://www.qualiservice.org (20.02.2024).
+ https://www.relbib.de (20.02.2024).
+ S. FN 40.
+ https://uni-tuebingen.de/index.php?id=157428 (20.02.2024).
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 387
+
+FID Geschichtswissenschaft mit der Deutschen Historischen Bibliografie und der FID
+Musikwissenschaft43 mit dem Répertoire International des Sources Musicales. Dabei
+kommen den FID verschiedenerlei Funktionen zu: in der Regel stellen sie die technische
+Infrastruktur für die Datenhaltung und die Recherche, übernehmen gegebenenfalls
+koordinatorische Funktionen und tragen Inhalte bei. Einige FID bieten im Sinne der
+Nachhaltigkeit kleinerer Spezialbibliographien in ihren Fächern grundsätzlich den Be-
+trieb technischer Infrastrukturen mit eigenen Rechercheoberflächen als Service an
+(z. B. FID Südasien). Verbreitet sind zudem Zeitschrifteninhaltsdienste (z. B. FID Darstel-
+lende Kunst44). Sie legen den Fokus auf Aktualität, es werden weniger Metadaten
+generiert als in Aufsatzdatenbanken, weshalb i. d. R. keine eigene thematische Suche
+existiert. Ein paar wenige FID widmen Rezensionen spezielle Services, sei es durch ge-
+zielte Verlinkung mit den rezensierten Werken in den FID-Rechercheinstrumenten, sei
+es in Form eigener Volltext-Aggregatoren (z. B. FID Geschichtswissenschaft).
+
+Neue Publikationsformate stellen die FID laufend vor neue Herausforderungen.
+Blogs etwa haben sich in den Wissenschaftslandschaften etabliert und werden entspre-
+chend auch als unselbständige Publikationen erschlossen. Seit der Corona-Pandemie
+haben zudem Podcasts und Videos in der Wissenschaft an Popularität gewonnen, so
+dass FID sich ihrer annehmen, sei es in Form von Erschließung oder Aggregation (z. B.
+FID Internationale und interdisziplinäre Rechtsforschung45), sei es in Kombination mit
+Bereitstellung und Langzeitarchivierung (z. B. das AV-Portal des FID BAUdigital46).
+Websites werden im System der überregionalen Literaturversorgung seit mehr als 20
+Jahren als wissenschaftlich relevant berücksichtigt. Ihre pauschale Erschließung wird
+i. d. R. jedoch nicht mehr von der DFG gefördert. Sofern FID Websites katalogisieren,
+nutzen sie dafür den Verbundkatalog Academic LinkShare, ihren regulären Katalog
+oder die ZDB. Gekoppelt ist dies bisweilen – etwa bei politischer Gefährdung – mit
+Langzeitarchivierung.
+
+3.6 Expert:innendatenbanken, Kollaborationsplattformen,
+Veranstaltungskalender
+
+FID stellen ihren Fachcommunitys nicht nur Rechercheinstrumente für Bibliotheks-
+materialien bereit, sondern unterstützen auch ihre Vernetzung und Kommunikation.
+Zu diesem Zweck haben eine Reihe von FID Expert:innendatenbanken aufgebaut
+(z. B. die FID Mobilitäts- und Verkehrsforschung, Allgemeine und Vergleichende Lite-
+
+ https://www.musiconn.de (20.02.2024).
+ https://www.performing-arts.eu (20.02.2024).
+ https://vifa-recht.de/ (20.02.2024).
+ https://www.fid-bau.de (20.02.2024).
+
+
+
+388 Gudrun Wirtz
+
+raturwissenschaft47 sowie Materialwissenschaft und Werkstofftechnik48). Diese ent-
+halten Profildaten von Wissenschaftler:innen mit Informationen zu Fachgebieten und
+Forschungsinteressen, Qualifikation und Veröffentlichungen, Koautor:innen, Zitatio-
+nen sowie Kontaktdaten und ORCID-IDs. Einige Expert:innendatenbanken (z. B. FID
+Soziologie) bieten zudem Präsentations- und Kollaborationsmöglichkeiten für For-
+schungsverbünde und Arbeitsgruppen sowie Nachrichten und Informationen aus
+dem Fach: Stellenangebote, Stipendienausschreibungen, Konferenzen, Calls for Pa-
+pers, Workshops, Seminare und andere Veranstaltungen, bei denen die Fachcommu-
+nitys involviert sind. FID, die keine Expert:innendatenbanken pflegen, nutzen oft
+systematisch ihre Portalwebsites oder Social Media zur Veröffentlichung solcher In-
+formationen (z. B. FID Benelux,49 FID Montan50).
+
+3.7 Portale
+
+Nahezu alle FID betreiben als zentrale Anlaufstelle für ihre Fachcommunitys Portale.
+Diese bündeln die FID-eigenen Angebote sowie weitere für die jeweiligen Communitys
+einschlägige Informationen und Rechercheinstrumente. Da die Einbindung heterogener
+Datenquellen aufwendig ist, wählen FID dabei sorgsam aus und richten sich nach Be-
+darfen und Forschungstrends ihrer Fachcommunitys. Wesentliches Merkmal von FID-
+Portalen ist eine leistungsstarke, für Nutzer:innen möglichst intuitive Suche, die unter-
+schiedlichste Rechercheeinstiege unterstützt – von der einfachen Suche nach Titeldaten
+über komplexe sachliche Suchen bis hin zu spezifischen Geo-, Personen- oder Bildersu-
+chen. Die Konzeption der Recherche hängt dabei stark von den durch Suchmaschinen
+geprägten Gewohnheiten ab. So wird inzwischen standardmäßig und bisweilen sogar
+ausschließlich als Einstieg die Einschlitzsuche angeboten. Auch dann, wenn die Metada-
+ten aller eingebundenen Datenquellen komplexere Suchen erlauben würden, werden
+diese eher für Filter genutzt (Facettierung). Wert gelegt wird auch auf komfortable
+Weiterverarbeitungsmöglichkeiten von Resultaten, etwa mit integrierten Funktionen
+zur Literaturverwaltung und Zitation sowie Informationsservices wie z. B. eigens entwi-
+ckelter Alerting-Dienste (z. B. FID Politikwissenschaft) oder Speichern komplexer Such-
+anfragen als RSS-Feeds. Manche FID experimentieren mit neuartigen Suchtools, so
+z. B. der FID Pharmazie,51 der einen „narrativen Service“ entwickelt, um die Detektion
+und Interaktion von Wirkstoffen und Arzneiformen zu ermöglichen. Die FID-Portale be-
+mühen sich insgesamt um möglichst hohen Suchkomfort, etwa durch Visualisierungs-
+elemente wie Zeitstrahle, Netzwerke, kartenbasierte Suche. Allerdings besteht hier ein
+
+ https://www.avldigital.de (20.02.2024).
+ https://www.materials-science.info (20.02.2024).
+ https://www.fid-benelux.de (20.02.2024).
+ https://montanportal.com (20.02.2024).
+ https://www.pubpharm.de/de (20.02.2024).
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 389
+
+gewisses Dilemma, denn die finanziellen und personellen Ressourcen für technische
+Entwicklungen reichen, zumal unter den Bedingungen projektförmiger Förderung und
+damit befristeter Stellen, nicht an die der privatwirtschaftlichen Konkurrenz heran.
+
+Anspruch der FID-Portale ist es, Nutzer:innen möglichst schnell und nah an die
+gewünschten Ressourcen zu führen – sei es zum unmittelbaren digitalen Zugriff im
+Open Access, zum mittelbaren via Lizenz oder zur Bestellmöglichkeit per Fernleihe
+oder Dokumentlieferung. Viele FID-Portale ermöglichen personalisierte Konten, so
+dass Nutzer:innen Lesezeichen setzen, Suchverläufe speichern, Benachrichtigungen
+erhalten und ihre Interaktion mit dem Portal verfolgen können. Eine datenschutzkon-
+forme und möglichst barrierefreie Gestaltung der FID-Portale ist selbstverständlich,
+auch wenn die nachgewiesenen Ressourcen selbst in den seltensten Fällen barriere-
+frei zu nutzen sind.
+
+Portale bestehen i. d. R. aus einem Suchsystem und einem Content-Management-
+System, da sie neben der Literaturrecherche immer auch der Information und Öffent-
+lichkeitsarbeit der FID dienen sowie der Präsentation von Angeboten, die nicht in die
+übergreifende Suche integriert sind.
+
+4 Qualitätssicherung und Technologie
+Die Akzeptanz der FID-Services setzt ihre stetige Qualitätssicherung und Anpassung an
+aktuelle fachliche und technische Entwicklungen voraus: Von den Buchhandelslieferun-
+gen über Metadaten bis hin zur Usability der Rechercheinstrumente – alles muss regel-
+mäßig geprüft, evaluiert und aktualisiert werden. FID führen zur Qualitätssicherung
+Bedarfsermittlungen durch, wobei sie informelle, qualitative und quantitative Metho-
+den verwenden: Auswertung von Anfragen und unmittelbaren Rückmeldungen von
+Nachwuchswissenschaftler:innen bei Schulungen, Lehrveranstaltungen und Vorträgen,
+Erstellung und Auswertung von Community-Umfragen, Auswertung von Nutzungssta-
+tistiken u. v. m. Alle FID haben darüber hinaus Beiräte etabliert, die ein bis zwei Mal
+jährlich tagen und – wiederum je nach FID unterschiedlich – aus etablierten Wissen-
+schaftler:innen, Nachwuchswissenschaftler:innen und Bibliothekar:innen bestehen.52
+Zudem pflegen FID i. d. R. Kontakt zu den einschlägigen Fachgesellschaften.
+
+FID-Services basieren auf verschiedensten technischen Lösungen. Allgemein lässt
+sich festhalten, dass, wo möglich, Open-Source-Software verwendet und auf Interopera-
+bilität, gute Dokumentation, Offenheit sowie standardisierte Schnittstellen und Daten-
+formate geachtet wird. Weit verbreitet sind beispielsweise VuFind für die Portalsuche,
+Typo3 als Content Management System, OpenRefine für die Datenanalyse, DSpace für
+Repositorien, Solr für Indexierung, Open Journals Systems für E-Zeitschriften, IIIF für
+die Präsentation, LDAP und Shibboleth für Authentifizierung. Softwarelösungen und
+
+ Ausführlicher in der neuen Studie Djanghiri 2023.
+
+
+
+390 Gudrun Wirtz
+
+Tools, für deren Entwicklung FID Fördermittel verwenden, stellen sie i. d. R. zur Nach-
+nutzung bereit. Oft sehen sich FID-Einrichtungen bei der Auswahl ihrer technischen Lö-
+sungen mit einem Balanceakt konfrontiert zwischen der Anpassung an andere FID und
+an die sonstigen – oft auch kommerziellen – Angebote der eigenen Einrichtung. Syner-
+gieeffekte bringen beide Wege, für die Verstetigung der Services sind jedoch im Zwei-
+felsfall letztere entscheidend.
+
+5 Zielgruppenkommunikation und
+Öffentlichkeitsarbeit
+
+Zielgruppenkommunikation und Öffentlichkeitsarbeit sind wesentliche Elemente der
+FID. Angesichts der allgemeinen Informationsflut, Fake-News und sich zunehmend ag-
+gressiv vermarktender kommerzieller Akteure müssen die gut strukturierten, qualitativ
+hochwertigen und kostenlos zugänglichen FID-Services proaktiv beworben werden.
+Welches die eigentlichen Zielgruppen der FID sind, wurde und wird immer wieder dis-
+kutiert. Die „Spitzenforschung“, hieß es zunächst in der FID-Förderlinie 2013, was Stu-
+dierende ausdrücklich ausschloss. Seither ist deutlich geworden, dass die Zielgruppen
+erheblich weiter zu fassen sind und dass sie sich von FID zu FID unterscheiden. Auch
+innerhalb eines FID differieren die intendierten Nutzungskreise von Service zu Service.
+Zugangsbeschränkt ist meist nur die Nutzung lizenzierter Produkte und spezieller Lie-
+ferdienste. Einige FID bieten diese nur promovierten und habilitierten Mitgliedern der
+Fachcommunitys an, andere treffen keine derartige Einschränkung in der Annahme,
+dass die Nutzung hochspezialisierter Angebote den Spezialbedarf impliziert. Primäre
+Zielgruppen der meisten FID sind jedenfalls Wissenschaftler:innen aller Qualifikations-
+stufen, wissenschaftliche Institute und Fachgesellschaften, sowie Bibliotheken, Biblio-
+thekar:innen und ihre speziellen fachlichen Organisationen. Hinzu kommen bei einigen
+FID Expert:innen bestimmter Berufsfelder wie z. B. Anwält:innen, Musiker:innen, Jour-
+nalist:innen, Ingenieur:innen. Zwar fördert die DFG die Fachinformationsdienste aus-
+drücklich als Infrastrukturen für die deutsche Wissenschaft, doch werden viele FID-
+Services, da sie im Open Access zugreifbar sind, darüber hinaus von einer interessier-
+ten Öffentlichkeit und auch international gern genutzt.
+
+Für ihre Öffentlichkeitsarbeit verwenden FID ein breites Instrumentarium: An
+erster Stelle ihre eigenen Portalseiten, auf denen sie Neuigkeiten aus der eigenen Ar-
+beit oder dem Fach präsentieren. Sodann bieten viele FID Newsletter an, sind auf den
+sozialen Medien (Twitter/X, Mastodon, Facebook) aktiv, bloggen oder schreiben Bei-
+träge in Fachzeitschriften, verteilen Flyer und Giveaways. Einige FID pflegen eigene
+Community-Listen zur gezielten Versendung von Informationen, andere nutzen hier-
+für ihre Kooperationen mit Fachverbänden.
+
+Zunehmend größeren Raum nehmen Schulungen und Beratung ein. Die Themen
+reichen je nach Zielgruppe und Serviceportfolio von Einführungen in die Portale oder
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 391
+
+spezifische FID-Angebote, in internationale Rechercheinstrumente, in Nutzung von
+Normdaten bis hin zum Urheber- und Verwertungsrecht, Open-Access-Publizieren,
+Forschungsdaten(management) und Konzeption von Digital-Humanities-Projekten. Je
+nach Adressat, ob einzelne Postgraduierte, Professor:innen, Studierende, Bibliothe-
+kar:innen oder aber Forscher:innengruppen, Projekte, Seminare, kommen dabei unter-
+schiedlichen Formate zur Anwendung: Vorträge (persönlich und virtuell), Webinare,
+Workshops, Roadshows, Coffee Lectures, Tutorials, individuelle Beratung, Experten-
+sprechstunden („book a librarian“), Chat u. a.
+
+6 Geschichte und Zukunft der FID
+Die Förderung der wissenschaftlichen Infrastruktur und damit auch von Bibliotheken
+war zentrales Anliegen der Notgemeinschaft der deutschen Wissenschaft, der Vorgän-
+gereinrichtung der DFG. Ihr rasch nach der Gründung 1920 ins Leben gerufener Biblio-
+theksausschuss53 sah es angesichts der Schwäche der deutschen Währung im Ausland
+und der zunehmenden Inflation als zentrale Aufgabe an, Universitäten bei der Beschaf-
+fung von ausländischen Monographien und Zeitschriften zu helfen. Die Notgemein-
+schaft erhielt aus dem In- und Ausland Spenden zur Unterstützung wissenschaftlicher
+Bibliotheken und etablierte darüber hinaus einen internationalen Tausch. Da nach dem
+Zweiten Weltkrieg viele Büchersammlungen zerstört oder durch Grenzverschiebungen
+nicht mehr Teil Deutschlands waren, entwickelte die DFG auf dieser Grundlage 1949
+das System der Sondersammelgebiete (SSG).54 Mit dem Ziel der Wiederherstellung und
+Stärkung der Forschungsinfrastruktur sollten angesichts des Fehlens einer Nationalbi-
+bliothek dezentral an leistungsstarken Bibliotheken umfassende Sammlungen wissen-
+schaftlicher Spezialliteratur für möglichst alle Disziplinen entstehen. Ins Leben gerufen
+wurden zunächst 75 SSG an 26 Staats- und Universitätsbibliotheken. Im Nachgang der
+deutschen Wiedervereinigung erfolgte 1997 eine Umstrukturierung und Verlagerung
+von SSG-Zuständigkeiten, die auch ostdeutsche Bibliotheken in das System miteinbezog.
+Zeitgleich gewannen digitale Technologien an Bedeutung. Die DFG setzte neue Förderli-
+nien auf, etwa für Retrodigitalisierung und die Etablierung Virtueller Fachbibliotheken.
+Im Gegensatz zur SSG-Förderlinie, die lediglich Sachmittel zum Erwerb von Büchern
+und Zeitschriften vorsah, konnten hier auch Mittel für Personal beantragt werden. Der
+Erweiterung der Möglichkeiten folgte ein zunehmender Anspruch an die SSG, der wie-
+derum Anfang der 2000er zu einer Reduktion der SSG führte, da einige Bibliotheken
+sich nicht mehr in der Lages sahen, die notwendigen Aufwände zu stemmen. Eine wei-
+tere Reduktion kam mit dem Übergang von SSG zu FID 2013–2015, da dieser ebenfalls
+
+ Kirchhoff 2007: S. 93.
+ Ausführlicher zur Geschichte des kooperativen Bestandsaufbaus in Deutschland s. Hundhammer
+2014: S. 13 ff.
+
+
+
+392 Gudrun Wirtz
+
+mit erheblich höheren Aufwänden bei gleichzeitiger unsicherer mittelfristiger Finanzie-
+rung für die tragenden Einrichtungen verbunden war: Nach einer externen Evaluie-
+rung durch die Firma Prognos 201155 hatte die DFG 2013 bis 2015 ihre Förderung der
+Sammelschwerpunkte einer grundsätzlichen und tiefgreifenden Umstrukturierung unter-
+worfen: aus den Sondersammelgebieten, deren primäre Aufgabe die möglichst lücken-
+lose Erwerbung und überregionale Bereitstellung wissenschaftsrelevanter Literatur war,
+wurden Fachinformationsdienste, deren Fokus auf den Spezialbedarfen ihrer wissen-
+schaftlichen Communitys liegen sollte.56 Der Übergang von SSG zu FID brachte dem-
+entsprechend die oben geschilderte Diversifizierung der FID-Serviceportfolios mit sich.
+Dabei wurden aus 104 SSGs 40 FID, wobei die zahlenmäßige Reduktion größtenteils auf
+Zusammenlegung sehr kleinteiliger SSGs beruhte, aber auch auf der Aufgabe von Fachge-
+bieten. Zudem nahmen viele FID aufgrund der neuen Vorgaben der Bedarfsausrichtung
+inhaltliche Schärfungen vor, so dass die FID im Gegensatz zu den SSG im Verbund mit
+den Zentralen Fachbibliotheken aus inhaltlicher Perspektive nicht mehr den Anspruch
+haben, ein die internationale Buchproduktion in allen Fachgebieten abdeckendes lücken-
+loses Gesamtsystem zu bilden.
+
+Die DFG sah für die FID, denen seitens der SSG-Bibliotheken und auch der wissen-
+schaftlichen Öffentlichkeit viel Skepsis entgegenschlug, zunächst eine Förderdauer von
+maximal acht, später zwölf Jahren vor, da eine langfristige finanzielle Unterstützung,
+wie sie die SSGs faktisch erhielten, mit ihren Statuten nicht zu vereinbaren war. Auch
+nach zehn Jahren Förderung und mehreren positiven Evaluierungen57 bleibt dieses
+„Strukturdilemma“ der „Finanzierungsperspektive für projektfinanziert aufgebaute
+überregionale Informationsinfrastrukturen“58 bestehen. Um dieses aufzufangen und
+eine weitere Förderung wissenschaftspolitisch zu legitimieren, hat die DFG einen Prozess
+eingeleitet, welcher eine zwar projektförmige, aber doch langfristige Unterstützung der
+FID erlauben würde. Voraussetzungen dafür ist die Etablierung einer FID-Gesamtstruktur
+mit einer Governance, die verbindliche Entscheidungswege beinhaltet und insbesondere
+auf wissenschaftlich-technologischer Ebene konsequent Synergiepotenziale ausschöpft.
+Diese FID-Struktur soll mit anderen nationalen Infrastrukturen kooperieren (z. B. der
+NFDI) und sich auch auf internationaler Ebene vernetzen. Sodann sollen die künftigen
+sogenannten FIDplus ihren Impact und zentralen Nutzen für die Forschung nachweisen
+und sich durch inhaltliche wie technologische Solidität und Maturität auszeichnen. Der-
+zeit arbeiten der Ausschuss für Wissenschaftliche Bibliotheken und Informationssysteme
+(AWBI) und die LIS-Geschäftsstelle gemeinsam mit Vertreter:innen der 2014 gegründeten
+Arbeitsgemeinschaft der Fachinformationsdienste (bestehend aus den für die FID an den
+jeweiligen Einrichtungen operativ Verantwortlichen und ihrer Mitarbeiter:innen) und
+des 2019 gegründeten FID-Lenkungsgremiums (bestehend aus den Leiter:innen der FID-
+
+ Vgl. DFG 2011.
+ Vgl. Kümmel u. Strohschneider 2013.
+ Vgl. DFG 2011; DFG 2019a; sowie Kreische 2019.
+ Vgl. DFG 2019b.
+
+
+
+5.5 Fachinformationsdienste für die Wissenschaft 393
+
+Einrichtungen und sechs Vertreter:innen der AG-FID) sowie einer eigens eingesetzten
+Expertenkommission Indikatorik mit Hochdruck an der entsprechenden Förderlinie.
+Deren Konzept soll 2024 fertiggestellt und den DFG-Gremien zur Entscheidung vorgelegt
+werden. Im Erfolgsfall wird das neue Förderprogramm im Frühjahr 2025 veröffentlicht,
+so dass ab 2026 die ersten Antragstellungen erfolgen können. Wie sich die wiederum er-
+höhten Anforderungen an die FID-Einrichtungen auswirken werden, ob es zu einer wei-
+teren Reduktion der FID kommt, und welche Services angesichts begrenzter Ressourcen
+von den FID aufrechterhalten und weiterentwickelt werden, wird sich erweisen.
+
+Literatur
+DFG 2011 = Astor, Michael, Georg Klose, Susanne Heinzelmann u. Daniel Riesenberg: Evaluierung des DFG-
+
+geförderten Systems der Sondersammelgebiete. Studie von prognos. Im Auftrag der Deutschen
+Forschungsgemeinschaft. Berlin 2011. https://www.dfg.de/resource/blob/170410/
+a469b5548d048374c59eeff748cf5234/evaluierung-ssg-data.pdf (17.09.2024).
+
+DFG 2019a = Heinzelmann, Susanne, Jan Biela, Michelle Andersson, Cordula Klaus u. Patrick Frankenbach:
+Evaluierung des Förderprogramms „Fachinformationsdienste für die Wissenschaft“. Studie von
+prognos. Im Auftrag der Deutschen Forschungsgemeinschaft. Berlin 2019. https://www.doi.org/10.
+5281/zenodo.3378232.
+
+DFG 2019b = Weiterentwicklung des Förderprogramms „Fachinformationsdienste für die Wissenschaft“.
+Stellungnahme der Kommission zur Evaluierung des Förderprogramms „Fachinformationsdienste für
+die Wissenschaft“. Deutsche Forschungsgemeinschaft. Bonn 2019. https://www.doi.org/10.5281/ze
+nodo.3378293.
+
+DFG 2020 = Grundsätze für den Erwerb von Publikationen in den DFG-geförderten
+Fachinformationsdiensten für die Wissenschaft. Bonn 2020. https://www.dfg.de/formulare/12_101/
+12_101_de.pdf (03.08.2023).
+
+Djahangilir, Keyvan: Chancen und Herausforderungen der Fachinformationsdienste unter besonderer
+Berücksichtigung ihrer wissenschaftlichen Beiräte. Berlin: Humboldt-Universität zu Berlin 2023.
+https://doi.org/10.18452/25862.
+
+Hundhammer, Katharina: Kooperativer Bestandsaufbau und überregionale Literaturversorgung in
+Deutschland. Berlin: Humboldt-Universität zu Berlin, Philosophische Fakultät I, Institut für
+Bibliotheks- und Informationswissenschaft 2014. https://doi.org/10.18452/2107.
+
+Kirchhoff, Jochen: Wissenschaftsförderung und forschungspolitische Prioritäten der Notgemeinschaft der
+Deutschen Wissenschaft 1920–1932. Dissertation, LMU München: Fakultät für Geschichts- und
+Kunstwissenschaften 2007.
+
+Kreische, Joachim: Bibliothekssystem reloaded. Die Neuausrichtung des Förderprogramms
+Fachinformationsdienste für die Wissenschaft. In: Zeitschrift für Bibliothekswesen und Bibliographie
+66 (2019), H. 4, S. 164–171. https://dx.doi.org/10.3196/186429501966427.
+
+Kümmel, Christoph u. Peter Strohschneider: Ende der Sammlung? Die Umstrukturierung der
+Sondersammelgebiete der Deutschen Forschungsgemeinschaft. In: Zeitschrift für Bibliothekswesen
+und Bibliographie 61 (2014), H. 3, S. 120–129. https://www.dx.doi.org/10.3196/186429501461324.
+
+
+
+394 Gudrun Wirtz
+
+Lipp, Anne: Zuerst Kooperation, dann Förderung. Kooperationslinien im Vorfeld der Förderung
+wissenschaftlicher Informationsinfrastrukturen durch die Deutsche Forschungsgemeinschaft. In:
+Kooperative Informationsinfrastrukturen als Chance und Herausforderung, Festschrift für Thomas
+Bürger zum 65. Geburtstag. Hrsg. von Achim Bonte u. Juliane Rehnolt. Berlin, Boston: De Gruyter
+Saur 2018. S. 235–243. https://doi.org/10.1515/9783110587524.

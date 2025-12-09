@@ -1,0 +1,581 @@
+﻿Klaus Ceynowa
+Kontextualisieren, Innovieren, Vermarkten –
+Bibliothekarisches Sammeln in der digitalen
+Transformation
+Impulsbeitrag
+
+Ein „Impuls“ beitrag in einem Praxishandbuch Bibliotheksmanagement möchte nicht
+„Wissen“ vermitteln, sondern einladen, zum pragmatisch-praktisch im Arbeitsalltag Ge-
+forderten Distanz zu nehmen und es mit „fremdem Blick“ zu betrachten – zumindest
+für die vergleichsweise kurze Lesedauer des „Impulses“. Im Ergebnis dieser Distanz-
+nahme wird man vielleicht etwas entspannter mit dem jeweils nächsten hochgejazzten
+Großthema umgehen und den gefühlt im Jahresrhythmus ausgerufenen „existenziel-
+len“ Herausforderungen der eigenen Berufsarbeit ein wenig gelassener begegnen. Tre-
+ten wir also einen Schritt zurück und fragen uns einmal ganz grundsätzlich: „Was
+macht eigentlich eine Bibliothek lebendig?“ – lebendig verstanden im Sinne von interes-
+sant, spannend, aufregend, und damit alles in allem the place to be? Die bündige Ant-
+wort auf diese Frage hat meines Erachtens der frühere Direktor der Bayerischen
+Staatsbibliothek, Franz Georg Kaltwasser, gegeben: „Eine Bibliothek ist nur lebendig,
+wenn sie wächst.“ Mit „Wachsen“meinte er natürlich: Sammeln und immer weiter sam-
+meln, so dass im Verlauf der Zeit – und das können sehr, sehr lange Zeitläufte sein –
+ein „Bestand“ entsteht, an dem niemand, der „mehr“ wissen und „besser“ informiert
+sein will, vorbeikommt – im Idealfall eine Sammlung, die in ihrem Zuschnitt und Profil
+einzigartig ist, am besten weltweit.
+
+Irgendwas mit Medien?
+„Aber Hallo“, werden Sie nun vielleicht sagen, „das fängt ja gut an, das hatten wir uns
+aber ganz anders vorgestellt!“ Sollten sich Bibliotheken nicht eher als „Dritte Orte“ auf-
+stellen, also irgendwo zwischen der Arbeitswelt und der privaten Lebenswelt changie-
+rend mit einem Ambiente hoher Aufenthaltsqualität? Sollten sie zwar noch „irgendwas
+mit Medien“ zu tun haben, dann aber bitte nur im Sinne eines gefühlt entgrenzten Auf-
+trags der Sicherstellung gesellschaftlicher Teilhabe und demokratischen Zusammen-
+halts „für alle“! Und wenn es doch noch primär um „Wissen“ und „Information“ geht,
+dann keinesfalls mehr in Form des als „autoritativ“ daher kommenden „Bereitstellens“
+oder „Anbietens“ von „Inhalten“, sondern als gleichberechtigte, gemeinschaftliche „Wis-
+sensarbeit“, in deren Geben und Nehmen die Bibliothek nicht mehr nur „sendet“, son-
+dern ebenso sehr „empfängt“. Meine Antwort hierauf ist: Ja, all das kann und darf die
+Bibliothek auch sein, aber spannend, interessant, aufregend wird sie nur sein, wenn sie
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-033
+
+
+
+550 Klaus Ceynowa
+
+zuallererst eine Sammlung im oben akzentuierten Sinne ist. Ohne diese Substanz depra-
+viert die Bibliothek zu einem x-beliebigen Kulturzentrum mit Lesezone, fehlt das Allein-
+stellungsmerkmal, das zum Aufenthalt an gerade diesem Ort motiviert, mangelt es an
+Objekten, an denen sich die Wissensarbeit allererst entfalten kann.
+
+Die Bibliothek als Sammlung – digital und analog
+Nun mag man einwenden, dass sich in der Rede vom „Sammeln“ und „Bewahren“
+nur die altzopfige Sehnsucht nach dem gedruckten Buch und zugleich die Furcht
+einer verstaubten Zunft vor den Zumutungen des Digitalen zum Ausdruck bringe,
+eben das Beharren auf dem „bedruckten Totbaum“ als vermeintlichem Arkanum un-
+seres abendländischen Kulturverständnisses. Diese Einschätzung könnte falscher
+kaum sein: Das Sammeln und Bewahren findet keineswegs sein privilegiertes Objekt
+im gedruckten Buch, sondern setzt sich Eins-zu-Eins in der digitalen Welt fort. Die
+„Sammlung“ als jahrhunderte-, ja jahrtausendelang grundlegende Kategorie bibliothe-
+karischen Handelns kann also ganz pragmatisch als systematisch angelegtes, fachlich
+oder thematisch strukturiertes Wissenskorpus verstanden werden, wobei die Materia-
+lität dieses Wissenskorpus der Bibliothek prinzipiell gleichgültig ist. Im Zuge der digi-
+talen Transformation verliert zudem – gerade auch in den Geisteswissenschaften –
+sowohl der „Text“ wie auch das „Buch“ seine privilegierte Rolle als alleiniger Bezugs-
+punkt der Bibliothek. Diese kann damit „ideologisch“ auch nicht mehr als Bollwerk
+gegen vermeintliche Verwerfungen der Buch- und Lesekultur durch empfundene digi-
+tale Bedrohungen konzipiert werden. Die Sammlungen der Bibliothek umfassen
+selbstverständlich Inhalte beliebiger Materialität: digitale und analoge, elektronische
+und gedruckte, textuelle und multimediale, statische und dynamische Informations-
+ressourcen. Die Trägermedien, in denen das Leben des Geistes überhaupt erst tradier-
+bar wird, sind der Bibliothek hingegen buchstäblich „gleichgültig“ und waren es im
+Kern schon immer: Palmblätter, Pergament, Papier, Petabyte – als Überlieferungs-
+form des Gedachten ist ihr alles recht.
+
+Bernhard Fabian hat bereits 1983 in seiner epochemachenden und auch heute
+noch unbedingt lesenswerten Studie Buch, Bibliothek und geisteswissenschaftliche For-
+schung den Anspruch des Sammlungshandelns insbesondere von Universalbibliotheken
+und geisteswissenschaftlichen Forschungsbibliotheken aus dem spezifischen Charakter
+des geisteswissenschaftlichen Arbeitsprozesses herzuleiten versucht:
+
+Als geisteswissenschaftliches Laboratorium muß die Forschungsbibliothek auf den prekären Cha-
+rakter des Forschungsprozesses abgestellt sein. Sie muß dem Forscher erlauben, seinen sponta-
+nen Einfall mit größtmöglicher Effizienz am empirischen Material zu überprüfen. Sie muß ihn
+
+
+
+Kontextualisieren, Innovieren, Vermarkten 551
+
+zudem in die Lage versetzen, eine Fragestellung durch die Primär- und Sekundärliteratur verfol-
+gen zu können – gleichviel wohin der Weg führt.1
+
+Fabian ist sehr bewusst, dass damit die Bereitschaft zur Übernahme einer langfristi-
+gen und nicht delegierbaren Ressourcenlast angesprochen ist: „Die Ausrichtung auf
+den Eventualfall, der in der Forschung der Normalfall ist, unterscheidet die For-
+schungsbibliothek von der gewöhnlichen wissenschaftlichen Bibliothek. Der Litera-
+turbedarf ist in Qualität und Quantität nicht vorhersehbar [...].“2
+
+Ressourcenlast des Sammelns
+Die Verfolgung einer Forschungsfrage „gleichviel, wohin der Weg führt“, ist jedoch
+nur möglich, wenn die Bibliothek hinsichtlich ihrer gedruckten wie digitalen Bestände in
+quantitativer wie qualitativer Hinsicht derart ausgestattet ist, dass sie ihren Nutzer:innen
+einen solchen „Weg“ überhaupt eröffnen, mehr noch: sie zu einer „Grand Tour“ einladen
+kann. Zu diesem Zweck muss das Sammlungshandeln der Bibliothek vorlaufend und ex-
+haustiv sein, nicht nachlaufend und substitutiv. Die Ausrichtung auf den „Eventualfall,
+der in der Forschung der Normalfall ist“, erzwingt ein Sammeln in größtmöglicher Breite
+und Tiefe gemäß des jeweiligen Bibliotheksprofils. Ein bloß „auf Nachfrage“ arbeitendes,
+auf aktuell gängige Forschungsparadigmen lediglich reagierendes oder auf das Füllen
+von Versorgungslücken abzielendes Erwerbungshandeln dagegen kann strukturell allen-
+falls für reine Gebrauchs- und Campusbibliotheken handlungsleitend sein, nicht jedoch
+für Forschungs- und Universalbibliotheken.
+
+Deutlich wird, dass das Verständnis der Bibliothek als Sammlung keinesfalls Selbst-
+verständliches artikuliert, sondern ein „Programm“mit beträchtlichen Ansprüchen und
+Anforderungen darstellt. Formal bedeutet das Commitment zum Bereithalten einer auf
+explorative Forschung angelegten Sammlungsumgebung nämlich immer und unaus-
+weichlich die Übernahme einer langfristigen Ressourcenverantwortung für die Samm-
+lungsgegenstände: Bücher werden gekauft und auf Dauer magaziniert, digitale Objekte
+und Datenbestände lizenziert, für den dauerhaften Zugriff gehostet und langzeitverfüg-
+bar archiviert (Stichwort: Forschungsdaten), offene, frei im Netz angebotene Inhalte ge-
+speichert, migriert und emuliert. Die Forschungsbibliothek definiert sich wesentlich
+über die Eignerschaft und permanente Verfügbarkeit ihrer Sammlungsobjekte. Denn
+immer geht es beim Sammeln (des Gedruckten wie Digitalen) um den Besitz, das Eigen-
+tum am Sammlungsinhalt im Interesse seiner „immerwährenden“ Verfügbarkeit und
+Abrufbarkeit in gegenwärtig oft noch gar nicht absehbaren Nutzungsszenarien. Samm-
+lungsfokussierte Bibliotheken kooperieren daher vorzugsweise – sei es ganz banal über
+
+ Fabian 1983. S. 34.
+ Fabian 1983. S. 34.
+
+
+
+552 Klaus Ceynowa
+
+Dokumentlieferdienste oder über anspruchsvolle digitale Shared Services – mit solchen
+Bibliotheken, die in vergleichbarer Form auf Nachhaltigkeit verpflichtet sind und damit
+die Permanenz des gemeinsam Unternommenen zusichern können.
+
+Entlastungsstrategien
+Damit verbieten sich auch die zurzeit – Stichwort: kooperative Aussonderungspoli-
+cies – viel diskutierten Entlastungsstrategien: Die Forschungsbibliothek ist kein Akteur
+der Externalisierung der Ressourcenlast des Sammelns. Das beschriebene Nachhaltig-
+keitsversprechen bedeutet nämlich monetär betrachtet nichts anderes als die Bereit-
+schaft zur Übernahme langfristig indisponibler Fixkosten. Dem entledigt man sich
+mancherorts gern durch den Verweis, dass im Netz doch Information und Wissen
+„frei“ und „offen“ verfügbar seien. Für Wissenschaftler:innen, Studierende, Lernende
+und die allgemeine Öffentlichkeit – also die „Nutzer:innen“ der Bibliothek – soll dies
+auch so sein. Für die Bibliothek selbst aber ist es keineswegs so, denn selbst der gehar-
+vestete „freie“ Webinhalt verursacht, wenn er in die Prozesse seiner Speicherung und
+Langzeitsicherung hineingezogen wird, signifikante Folgekosten. Jede Entlastungsstra-
+tegie, die sich dem mühsamen Geschäft des Sammelns entziehen möchte, unterschlägt
+genau dies: there’s no such thing as a free lunch, es wird eben nur „ein anderer“ in die
+Ressourcenverantwortung genommen.
+
+Nun reagieren spätestens hier nicht nur Rechnungshöfe und Finanzministerien bis-
+weilen ziemlich unentspannt. Der Bestandszuwachs (und die ihn vermeintlich treibende
+bibliothekarische Sammelwut), der nun das Gedruckte und Digitale umfasst, müsse sich
+doch irgendwie eindämmen lassen, es müsse doch Kriterien geben, die das Sammlungs-
+würdige vom Unwürdigen trennen. Derartige Kriterien mögen sich im Falle reiner Ge-
+brauchsbibliotheken und erst recht öffentlicher Bibliotheken, die durch die je aktuellen
+und einem permanentem Wandel unterworfenen Nutzer:innenbedürfnisse bestimmt
+sind, auch finden lassen. Universal-, Fach- und Spezialbibliotheken, insoweit sie sich ex-
+plizit als Gedächtnis- und Bewahrungsinstitutionen verstehen (und im Regelfall auch
+einen entsprechenden Auftrag ihrer Unterhaltsträger haben), können sich jedoch nicht
+derart pragmatisch und selbstentlastend aus der Verantwortung nehmen.
+
+Sammeln, „Wahrheit“ und „Fake News“
+Aber stellt denn nicht die Fokussierung auf wissenschaftliche Erkenntnis und Wahr-
+heit, so möchte man einwenden, ein selektierendes und damit die Flut des potentiell
+Sammelbaren kanalisierendes Motiv dar, so wie es bereits David Humes berühmtes
+Diktum in seiner Untersuchung über den menschlichen Verstand fordert:
+
+
+
+Kontextualisieren, Innovieren, Vermarkten 553
+
+Sehen wir [...] die Bibliotheken durch, welche Verwüstungen müssen wir da nicht anrichten?
+Greifen wir irgendeinen Band heraus, etwa über Gotteslehre oder Schulmetaphysik, so sollten
+wir fragen: Enthält er irgendeinen abstrakten Gedankengang über Größe und Zahl? Nein. Enthält
+er irgendeinen auf Erfahrung gestützten Gedankengang über Tatsachen und Dasein? Nein. Nun,
+so werft ihn ins Feuer, denn er kann nichts als Blendwerk und Täuschung enthalten.
+
+Statt von Blendwerk und Täuschung würde man heute wohl von Fake News sprechen,
+und hier zeigt sich, dass das Denken der Bibliothek als Sammlung keineswegs eine
+harmlos fachbibliothekarische Angelegenheit, sondern von nicht gering zu schätzen-
+der politischer Brisanz ist. Die von David Hume akzentuierten „Aussonderungsrichtli-
+nien“ würden nämlich den Tod der Bibliothek als Sammlung bedeuten, gleichgültig
+ob in der Druck- oder der Digitalwelt. Denn wer wirklich sammelt (fächerübergrei-
+fend, in maximaler „Tiefe“ und Vollständigkeit, medienneutral etc.), interessiert sich
+nicht für wahr oder falsch, recht oder unrecht, gut oder böse, empirisch begründet
+oder spekulativ deduziert, recht- oder irrgläubig, hermeneutisch „verstanden“ oder
+falsifikationistisch „getestet“, ihm ist im Kern alles gleichermaßen des Sammelns und
+Bewahrens würdig. Es geht ihm ernsthaft um das cultural record der Menschheit, um
+die Bewahrung alles jemals „Gedachten“ für eine potentiell „unendliche“ Zukunft.
+
+Der diesem Tun eingeschriebene Relativismus hält jedem erreichten „Wissens“-
+stand, jedem „rechten“ Glauben, jeder ethischen Norm entgegen, dass es eben auch
+ganz anders geht und dass auch zum Gegenteil des scheinbar Evidenten sich vielfältig
+Gedachtes und Überliefertes in den Magazinen und Datenspeichern der Bibliothek
+finden lässt. Diese „skandalöse“ Gleichgültigkeit gegenüber jedem einzelnen Samm-
+lungsobjekt ist der Bibliothek durch ihre bloße Existenz eingeschrieben: Der Bibliothek
+als Sammlung geht es eben nicht nur um das Gute, Schöne und Wahre, sondern um
+das kulturelle Gedächtnis insgesamt. Im Kontext der aktuellen Diskussionen um Fake
+News und „alternative Fakten“ hat dies ein britischer Kollege einmal so ausgedrückt:
+„It’s not the task of libraries to sanitize history.“
+
+Wenn die Bibliothek wirklich gewährleisten soll, dass wir zum Beispiel auch in 200
+Jahren noch wissen können, wie wir heute „getickt“ haben, muss sie daher selbstver-
+ständlich auch all das bewahren, was nach je aktueller Mehrheitsmeinung weit jenseits
+des Guten, Schönen und Wahren liegt: Snapshots aus den Tiefen des Darknet, waffentech-
+nische, pornographische und ideologisch motivierte Quellen und Materialien in digitaler
+und analoger Form sowie KI-generierte „fotografische“ Bilder sind selbstverständlich
+ebenfalls Teil unseres kollektiven „Mindsets“, auf den ein zukünftiges historisches Be-
+wusstsein weder verzichten kann noch will. Die bekannten und oft skurrilen Unsicherhei-
+ten im Umgang mit derartigen Sammlungsobjekten („Remota“, „Giftschränke“) zeigen
+dabei sehr schön, wie schwer sich die Bibliotheken selbst oft mit ihrem Verständnis als
+einer Institution tun, die jenseits von Gut und Böse, von Wahr und Falsch handelt – zu-
+mindest sofern und insoweit sie sich als Gedächtnisinstitution begreift.3
+
+ Vgl. Ceynowa 2021.
+
+
+
+554 Klaus Ceynowa
+
+Sammlung first, Nutzung second
+Spätestens hier nun drängt sich die Frage auf, wie sich die Fokussierung auf die Biblio-
+thek als Sammlung zum heute zu Recht selbstverständlichen Paradigma konsequenter
+Nutzer:innenorientierung bibliothekarischen Handelns verhält. Denn in der Tat gilt: Für
+die Bibliothek als Sammlung sind die Nutzer:innen zwangsläufig eine sekundäre Instanz.
+Eine Sammlung verdient ihren Namen nur, wenn sie gegenüber den je aktuellen Ansprü-
+chen ihrer Nutzer:innen völlig gleichgültig ist, denn paradoxerweise genügt sie diesen An-
+sprüchen genau dann am besten. Es ist gerade ihre prinzipielle und unhintergehbare
+Agnostizität, ihr geradezu fundamentalistischer Relativismus, der es ihr gestattet, das je-
+weils Currente, Geglaubte, Gewollte, Gewusste, „Richtige“, methodisch Korrekte und der
+„Wahrheit“ Verpflichtete genauso zuverlässig bedienen zu können wie das hierzu spätes-
+tens nach dem jeweils nächsten Paradigmenwechsel direkt im Widerspruch Stehende.
+
+Zumindest für Forschungs- und Universalbibliotheken kann daher argumentiert
+werden: Nichts ist unsinniger, als eine Bibliothek als Sammlung von den Bedürfnissen
+ihrer Nutzer:innen her aufbauen zu wollen. Es ist vielmehr der sehr lange Atem, der
+Geist des Bewahrens und die – gesehen auf ihren Sammlungsimpuls – prinzipielle Amo-
+dernität, die zu ihrem Wesen gehört und das jeweilige Interesse der Nutzer:innen
+immer nur in „zweiter Instanz“ bedienen kann: durch Indexierung, Filterung, Facettie-
+rung, Vernetzung, Linked Data – also durch nachlaufende Schnittmuster, die das Inte-
+resse auf Weniges fokussieren und damit zugleich (die sicherlich weit wichtigere
+Funktion) alles Andere gnädig ausblenden. Und hier haben wir dann in der Tat die Ver-
+pflichtung, unseren Nutzer:innen den besten Service zu bieten – was wiederum nicht
+heißt, dass allen unterschiedslos alles jederzeit zur Verfügung gestellt wird.4
+
+Noch einmal: Die Bibliothek, verstanden als Sammlung in einem emphatischen
+Sinne, ist eben keineswegs dem Wahren, Guten und Schönen verpflichtet, sondern
+allem jemals Gedachten. Diesen „Agnostizismus“ und „Relativismus“ sollte man daher
+nicht kleinreden, sondern in seiner ganzen Radikalität begreifen als das, was er
+(auch) ist: das wirksamste Gegengift gegen alle Ansprüche, aus einer „erkannten“
+Wahrheit, einer gefühlten Richtigkeit und einem gelebten Glauben eine Trennung
+zwischen dem, was bewahrenswert und was aussonderungsbedürftig sei, einzufor-
+dern. Und gerade in dieser Radikalität ist die Bibliothek als Sammlung eine unver-
+zichtbare Instanz unserer modernen Welt und darin in einem empathischen Sinne
+„nutzer:innenorientiert“.
+
+ Vgl. Ceynowa 2017.
+
+
+
+Kontextualisieren, Innovieren, Vermarkten 555
+
+Das Mantra des Sammelns: Content in Context
+Genauso wenig, wie Sammeln und Service Gegensätze darstellen, schließen Sammeln
+und Innovation einander aus. Im Gegenteil: für die als Sammlung verstandene Biblio-
+thek ist Innovation, und zwar primär technologische Innovation, essentiell. Ihre
+Sammlungsbestände – gleichgültig welcher Materialität – sind das eine, oft hochspezi-
+fische Dienste, mit denen Nutzer:innen insbesondere digitale Inhalte und Daten für
+sich „arbeiten lassen“ können, das andere. Hierzu zählen zum Beispiel Self-Service-
+Plattformen, die umfassende Korpora digitaler Volltexte für quantitative Textanalysen
+bereitstellen, virtuelle Forschungsumgebungen, die weltweit verteilte, digitalisierte
+Handschriften und Quellensammlungen an einem Arbeitsplatz zusammenführen,
+Software zur Bildähnlichkeitsanalyse, die in Sekundenschnelle Millionen illustrierter
+Buchseiten auswertet, oder anspruchsvolle Verfahren wie Hyperspectral-Imaging
+zur kunsttechnologischen Analyse mittelalterlicher Codices.5
+
+Die Bibliothek ist also, wenn man sie primär sammlungsbezogen denkt, durchaus
+eine dezidiert innovationsgetriebene Einrichtung. Als ihr Mantra kann die Formel vom
+Content in Context gelten, sei es als komfortabel ausgestatteter Arbeitsplatz vor Ort oder
+als anspruchsvolles Diensteportfolio zum forschenden Umgang mit der rapide wachsen-
+den Masse digitaler Inhalte. Auf diesem Feld werden zudem künftig die Mehrzahl der
+Strategie- und damit Ressourcenentscheidungen fallen, die die Zukunftsgestalt der Bib-
+liothek als Sammlung bestimmen. Das Profil der Bibliothek ist damit, gerade wenn sie
+auf eine Jahrhunderte alte Sammlungstradition zurückblicken kann, alles andere als
+statisch. Vielmehr überformen neue, von den Nutzer:innen erst tastend akzeptierte An-
+gebote und Dienste die vertrauten Aufgaben und Leistungen, beispielsweise wenn ein
+dezidierter Serviceschwerpunkt für die quantitativ arbeitenden Digital Humanities auf-
+gebaut oder Werkzeuge für dynamisches Publizieren entwickelt werden. Was jedoch
+bei aller Veränderung unverändert bleibt, ist das dem Anspruch der sammlungsfokus-
+sierten Bibliothek inhärente Nachhaltigkeitsversprechen: Dieses gilt für den „Content“
+ebenso wie für die Dienste, die ihn „kontextualisieren“.
+
+Sammlungen in digitalen Wissensräumen
+Gerade Bibliotheken, die über umfassende, unikale und wertvolle Sammlungen ver-
+fügen und diese sukzessive auch in digitalisierter Form bereitstellen, können diesen
+Mehrwert wirklich erfolgreich erst dann ausspielen, wenn sie ihren digitalen „Samm-
+lungsbesitz“ nicht im Zugang verknappen, sondern sich einer so liberal als möglich
+verstandenen Open-Data-Policy verpflichten. Hierbei geht es nicht mehr nur um offe-
+nen Zugang, sondern um das Bereitstellen der hochwertigen digitalen Masterdateien
+
+ Vgl. Brantl u. Schweter 2022; sowie Allscher u. Ceynowa 2021.
+
+
+
+556 Klaus Ceynowa
+
+selbst inklusive reicher Erschließungsdaten und Volltexte mit dem erklärten Ziel,
+diese primär außerhalb der Serviceumgebung der besitzenden Institution zur Wieder-
+und Weiterverwendung nutzbar zu machen.
+
+Ein Beispiel hierfür ist das von der Bayerischen Staatsbibliothek in einem globalen
+Konsortium mitgestaltete „International Image Interoperability Framework“ (IIIF). Diese
+Plattform erlaubt es den Nutzer:innen, an verschiedenen Institutionen (die weltweit ver-
+teilt sein können) aufbewahrte Digitalisate virtuell zusammenzuführen, direkt im eigenen
+Browser zu laden und in einer Mehrfensteransicht zu betrachten und zu bearbeiten
+(Kommentare, Annotationen, Verlinkung mit Forschungsdaten, Downloads etc.). So kön-
+nen verstreut in der Welt aufbewahrte Objekte, wenn sie einmal digitalisiert sind, virtuell
+vereint werden: Die Nutzer:innen werden zu Kurator:innen der eigenen, persönlichen
+Sammlung. In diesem Verständnis von Open Data wird die irreversible Lösung des Digita-
+lisats vom Ursprungsort seiner Aufbewahrung und Bereitstellung bewusst in Kauf ge-
+nommen. In der Fernperspektive zeigt sich hier dann ganz praktisch die globalisierte
+Entgrenzung der eigenen, immer partiellen Sammlung in einer digitalen Weltbibliothek.
+Diese und nur diese allein kann als der entscheidende politische Beitrag der Bibliotheken
+zur globalen Demokratisierung des Wissens gelten.
+
+An dieser Stelle sei eine kurze Abschweifung gestattet: Die weltweite Verfügbarkeit
+und Sichtbarkeit digitalisierter Sammlungen eröffnet und erzwingt einen grundsätzlich
+veränderten Umgang auch mit den Originalen, insbesondere soweit es sich um außer-
+europäische Bestände handelt, die im Verlauf einer oft Jahrhunderte währenden Samm-
+lungstätigkeit ihren Weg in die Bibliothek gefunden haben. Hierbei ist nicht mehr nur
+an Provenienzforschung im engeren Sinne und auch nicht nur an die Aufarbeitung der
+Historie einzelner Erwerbungen aus kolonialen Kontexten zu denken. Erforderlich ist
+vielmehr eine kritische Sammlungsgeschichte, die sich der Problematik von „Samm-
+lungsbesitz“ mit Blick auf die Stabilisierung und Selbstvergewisserung kultureller Iden-
+titäten bei gleichzeitig globaler „Eignerschaft“ des kulturellen Erbes der Menschheit
+stellt – auch und gerade für die in Bibliotheken bewahrte schriftliche Überlieferung.
+Achille Mbembe hat diese Herausforderung prägnant umrissen: „Wenn die Geschichte
+Europas über mehrere Jahrhunderte mit der Weltgeschichte, und die Weltgeschichte
+umgekehrt mit der Geschichte Europas gleichgesetzt wurde, folgt daraus nicht, dass die-
+ses Archiv nicht Europa allein gehört?“6
+
+Ent-Textualisierung des Sammlungshandelns
+Eine der wesentlichsten Herausforderungen für alle Einrichtungen, die sich mit der
+Sammlung, Vermittlung und Bewahrung von Wissensbeständen befassen, liegt nicht
+im Digitalen „an sich“, sondern im „Aufbrechen“ der Linearität von Wissensinhalten,
+
+ Mbembe 2017: S. 233.
+
+
+
+Kontextualisieren, Innovieren, Vermarkten 557
+
+das im digitalen Medium möglich wird und dabei en passant die traditionelle Domi-
+nanz des Textuellen verabschiedet – und mit ihr auch die traditionelle Figur des „Le-
+sers“, der Zeile für Zeile und Seite für Seite einem Argumentationsgang folgt. Man
+denke beispielsweise an Forschungsprimärdaten, graphische Visualisierungen, anato-
+mische Skizzen, Simulationen, Experimentbeschreibungen und Versuchsanordnun-
+gen – all diese Inhalte können im digitalen Medium als interaktive und multimediale
+Bestandteile der Publikation selbst gestaltet werden. Sie rücken damit ins Zentrum
+der Veröffentlichung, während der Text nurmehr einen Knoten in diesem vielfältig
+vernetzten Informationsraum darstellt.7
+
+Mit dem Text, bisher noch immer die strukturierende „Mitte“ auch digitaler Wis-
+sensobjekte, verschwindet zugleich tendenziell das traditionelle Bezugsobjekt einer
+Publikation. An die Stelle der monolithischen Einheit des gedruckten Buches oder der
+PDF-Datei als seines elektronischen Simulacrums tritt ein dynamischer, sich kontinu-
+ierlich wandelnder Informationsstrom. Heute weiß noch niemand genau, wie man
+derart fluide Wissensbestände verlässlich sammelt, referenziert, erschließt, konsis-
+tent vermittelt und über lange Zeiträume stabil bewahrt – auch dies ist eine Aufgabe,
+der sich jede Bibliothek, die sich ernsthaft als Sammlung begreift, nicht wird entzie-
+hen können.
+
+Sammeln im Spannungsfeld von Vergangenem und
+Zukünftigem
+Treiben wir nun die eingangs versprochene Distanznahme zum bibliothekarischen All-
+tagsgeschäft noch einen Schritt weiter. Die bisherigen Ausführungen zeigen deutlich:
+Eine dem Sammlungsgedanken verpflichtete Bibliothek bewegt sich unhintergehbar im
+Spannungsfeld von Vergangenem und Zukünftigem, von tradiertem Wissensgut und sei-
+ner Aktivierung für neue Erkenntnis. Damit aber trägt sie zugleich unauslöschlich die
+Signatur der Moderne, die Joachim Ritter in seinem epochemachenden Essay Hegel und
+die französische Revolution als „Entzweiung von Herkunft und Zukunft“8 begriffen hat:
+
+Das Wesen der modernen politischen Revolution [...] liegt für Hegel [...] in der Setzung von Ord-
+nungen, die ihrem Prinzip nach voraussetzungslos wie ein radikaler Neuanfang, dem nichts vor-
+ausgehen soll, alles Vorgegebene, Geschichtliche und Überlieferte von sich ausschließen.9
+
+Odo Marquard hat dieses Entzweiungstheorem aufgenommen und zu einer generel-
+len Diagnose der modernen Lebenswelt verdichtet: „Die moderne Welt beginnt dort,
+
+ Vgl. Ceynowa 2014.
+ Ritter 2003: S. 213.
+ Ritter 2003: S. 227.
+
+
+
+558 Klaus Ceynowa
+
+wo der Mensch methodisch aus seinen Traditionen heraustritt: wo sich seine Zukunft
+aus seiner Herkunft emanzipiert.“10 Angesichts der Dialektik von Herkunft und Zu-
+kunft ist die Frage nach der Entstehung des Neuen für Marquard allerdings wie folgt
+zu beantworten: „Mir scheint nun eine der wichtigsten Antworten auf die Frage – wie
+ist Neues überhaupt menschenmöglich? – diese zu sein: nicht ohne das Alte. Das ist
+hier meine These, die sich auch folgendermaßen formulieren lässt: Zukunft braucht
+Herkunft.“11
+
+Es ist unschwer zu erkennen, dass die Bibliothek, sofern und insoweit sie Samm-
+lung ist, genau diese Vermittlung leistet. Im Erwerben, Ordnen, Erschließen, Indexieren
+und Bewahren bekommt sie das stetig wachsende Wissensgebirge des Herkünftigen in
+den Griff und stellt es für den weiteren Ausgriff ins Zukünftige zur Verfügung. Im oft
+zitierten Kreislauf „Aus Forschung wird Bibliothek, aus Bibliothek Forschung“ ist sie
+damit eine entscheidende Aktivierungsinstanz des Wissens: Im bibliothekarischen (im
+Gegensatz zum bibliophilen) Sammeln wird das Gesammelte nicht dem toten Gedächt-
+nis überantwortet, sondern aktiviert für seine zukünftige Nutzung, Entwicklung und
+auch Überwindung.
+
+Dieser empathische Sammlungsbegriff gilt auch und gerade im Feld digitaler Res-
+sourcen: der Zugriff auf die vernetzte Datenwelt in Form ihrer Durchdringung mit
+Kommentaren, Annotationen, Verlinkungen, Anreicherungen, Kontextualisierungen
+und Nachnutzungen, deren Manifestationen wiederum Teil des Sammlungsgesche-
+hens werden, setzt immer die dauerhafte und verlässliche Verfügungsgewalt über die
+Inhalte voraus. Das Grundmotiv bibliothekarischen Sammelns bleibt im Analogen wie
+im Digitalen identisch: Es ist die niemals endende, vermittelnde Bewegung des im
+„Gestern“ Erreichten hin zu seiner Überschreitung ins „Morgen“, anders gesagt: die
+dauerhafte Ermöglichung der Auseinandersetzung mit schon Gedachtem, Erfahre-
+nem, Erprobtem und „Gewusstem“ im Interesse seiner Prüfung, hermeneutischen Be-
+fragung, empirischen Falsifizierung und dialektischen Überwindung durch das Neue.
+
+Sammlungsmarketing
+Bibliotheken, die umfassende und kontinuierlich mit langem Atem ausgebaute Samm-
+lungen besitzen, sind für ihre Nutzer:innen eine unschätzbare Ressource. Sie sind the
+place to be für Forschung und Wissenschaft, für Lehre und Studium, für Bildung und
+Beruf, egal ob dieser Ort nun ein realweltlicher Lesesaal oder ein digitaler Datenraum
+ist. Wenn Nutzer:innen aber von jeher wissen, was sie an ihrer Bibliothek haben,
+braucht es dann überhaupt ein Bibliotheks- beziehungsweise Sammlungsmarketing,
+eine „Vermittlung“ oder gar „Vermarktung“ dessen, was die Bibliothek als Sammlung
+
+ Marquard 2020: S. 237.
+ S. Ritter 2003: S. 236.
+
+
+
+Kontextualisieren, Innovieren, Vermarkten 559
+
+sein und leisten kann? In der Tat kann man hier Zweifel haben. All diejenigen, die
+uns für ihre wissenschaftliche Forschung, für ihr Studium, für ihre berufliche Arbeit,
+für schulisches Lernen oder ihre vielfältigen Bildungsziele brauchen und nutzen,
+„haben“ wir ohnehin – bei allen Optimierungsbedarfen und -chancen im Einzelnen.
+Diesen Klientelen mit Vermarktungskampagnen kommen zu wollen, würde als eher
+ridikül empfunden werden.
+
+Dennoch kann Sammlungsmarketing durchaus sinnvoll sein, wenn es darum
+geht, Sichtbarkeit auch bei gesellschaftlichen Gruppen zu erreichen, die die Bibliothek
+nicht nutzen – sofern man mit derartigen Aktionen nicht (oder zumindest nicht pri-
+mär) das Ziel verfolgt, sie zu Nutzer:innen zu machen. Diese auf den ersten Blick
+merkwürdige Einschränkung ist – zumindest für die Bayerische Staatsbibliothek –
+der mittlerweile mehrjährigen Erfahrung des Engagements in den Sozialen Medien
+geschuldet. Der von der Bayerischen Staatsbibliothek gestaltete Auftritt des Landes-
+kulturportals bavarikon auf TikTok beispielsweise ist eine unterhaltsame und auch
+gut angenommene Sache (in der Tat kann man Lola Montez in fünfzehn Sekunden
+„vermitteln“), aber zu glauben, die adressierten, nicht unbedingt hochkulturell affi-
+nen Jugendlichen würden im Nachgang nun die Bibliothek stürmen, um sich zur Ge-
+schichte der Wittelsbacher schlau zu machen, ist – zurückhaltend formuliert – naiv.
+
+Alle Anstrengungen, die auf outreach und awareness abzielen, sollten sich hier
+ehrlich machen: Es gibt viele Menschen, die die Bibliothek auch dann nicht nutzen
+würden, wenn sie nur endlich wüssten, was sie ihnen zu bieten hat. Vielmehr nutzen
+sie die Bibliothek schlicht deshalb nicht, weil sie für ihre individuelle Lebens- und Ar-
+beitswelt irrelevant ist. Dennoch – und das ist hier entscheidend – sind diese Men-
+schen ebenfalls „Träger“ der Bibliothek als öffentliche und damit steuerfinanzierte
+Einrichtung. Und ebenso, wie die meisten von uns die Existenzberechtigung eines
+Opernhauses nicht hinterfragen, obwohl sie vielleicht lieber ins Kabarett gehen, und
+die Legitimation des Theaterbetriebs nicht anzweifeln, weil sie lieber Serien strea-
+men, wird der Sinn und Nutzen von Bibliotheken auch von denjenigen nicht in Frage
+gestellt, die Nichtnutzer:innen bleiben werden. Dennoch ist es notwendig, dass Biblio-
+theken immer einmal wieder durch geeignete Aktionen deutlich machen, warum die
+Gesellschaft (also wir alle) es für gut und richtig hält, sich diese Institutionen zu leis-
+ten – ganz so wie dies auch Theater und Opernhäuser tun.
+
+Um nicht im Allgemeinen zu bleiben (denn schließlich ist dies ein Praxishandbuch),
+soll hier exemplarisch die über das ganze Jahr 2023 laufende Kampagne der Bayerischen
+Staatsbibliothek „Behind these walls“ vorgestellt werden, die schon im Titel die Frage evo-
+ziert, was denn eigentlich hinter den Mauern des palazzoartigen Großgebäudes an der
+Ludwigstraße stattfindet (s. Abb. 1). Hier werden – wie die abgebildete Übersicht zeigt –
+in vierzehntägigem Rhythmus die vielfältigen Sammlungen bewusst „plakativ“ auf jeweils
+ein einziges populäres Motiv hin verdichtet. Dies wird sowohl auf einem Großdisplay an
+der Ludwigstraße samt QR-Code präsentiert als auch über die Website der Bayerischen
+Staatsbibliothek und die von ihr bespielten Social-Media-Plattformen. Für das 2021 erwor-
+bene Fotoarchiv des Stern-Fotografen Volker Hinz mit 1,3 Millionen Aufnahmen zum
+
+
+
+560 Klaus Ceynowa
+
+Abb. 1: Kampagne „Behind these walls“, 2023.
+
+
+
+Kontextualisieren, Innovieren, Vermarkten 561
+
+Abb. 1 (fortgesetzt)
+
+
+
+562 Klaus Ceynowa
+
+Beispiel steht exemplarisch mit dem Aufmacher „Ganz schön Gaga!“ ein 2011 in Schloss
+Bensberg aufgenommenes Foto von Lady Gaga, das auf ein Interview-Zitat „Du wirst
+mich niemals in Flip-Flops und Schlabberhosen sehen. Ich bin Lady Gaga, 24 Stunden täg-
+lich“ führt. Von hier geht es weiter zur „Etymologie für Fortgeschrittene: Woher kommt
+der Künstlername ‚Lady Gaga‘“. Und erst dann kann, wer mag, Links zu mehr Informatio-
+nen über Volker Hinz und zu den digitalen Angeboten des Fotoarchivs der Bayerischen
+Staatsbibliothek folgen.
+
+Als „Impuls“ soll hier einfach einmal in den Raum gestellt werden: Für eine
+sammlungsstarke Bibliothek ist ein „Marketing“ primär für Nicht-Nutzer:innen, die
+auch Nicht-Nutzer:innen bleiben werden, ein sinnvolles Unterfangen. Hierbei geht es
+bewusst nicht um eine unangemessene „Pädagogisierung“ im Sinne des „Heranfüh-
+rens“ an irgendwelche Bildungsgüter. Es geht nicht um Kundenakquise, sondern um
+Markenprofilierung in dem schlichten Verständnis: „Es ist gut, dass es die Bayerische
+Staatsbibliothek gibt, auch wenn ich sie nie besuchen werde.“
+
+Sammeln als Strategie
+Der vorliegende Beitrag hat zu zeigen versucht, dass die auf den ersten Blick sehr tradi-
+tionelle Positionierung der Bibliothek als Sammlung durchaus das Potenzial hat, ihre zu-
+künftige Rolle in der modernen Welt und gerade auch in der digitalen Transformation
+zu beschreiben. Die großen Themen der Nutzer:innenzentrierung, des Innovationshan-
+delns, der Ressourcenallokation, des Bibliotheksmarketings und der Informationsethik
+lassen sich ausgehend vom Selbstverständnis der Bibliothek als Sammlung umstandslos
+zum strategischen Profil der Bibliothek der Zukunft verdichten. Es ist das Privileg und
+die Pflicht der Bibliothek als Sammlung, dieses umfassende Arbeitsfeld zu gestalten.
+Hier finden Bibliotheken als Gedächtnisinstitutionen ihr Alleinstellungsmerkmal gerade
+auch in der digitalen Welt, denn sie sind von der Gesellschaft bewusst zu dem Zweck
+installiert worden, Wissen und kulturelles Erbe „auf unbestimmte Zeit“ verfügbar und
+nutzbar zu erhalten. Dieser Auftrag ist in seinem Kern unbezweifelt und unverzicht-
+bar – denn in Erinnerung und Gedächtnis geht es nicht um die Vergangenheit, sondern
+die Gestaltbarkeit der Zukunft. Und hiermit entlasse ich Sie nun endlich aus den reflexi-
+ven Wendungen dieses Impulsbeitrags, zurück in die pragmatischen Welten des hand-
+festen Bibliotheksmanagements – denn schließlich ist es immer die Praxis, die über
+den möglichen Nutzen ihrer theoretischen „Überhöhung“ entscheidet.
+
+
+
+Kontextualisieren, Innovieren, Vermarkten 563
+
+Literatur
+Allscher, Thorsten u. Irmhild Ceynowa: Strategien für spektrale Untersuchungen zur Lesbarmachung von
+
+Manuskripten. In: Zeitschrift für Bibliothekswesen und Bibliographie 68 (2021), S. 184–195.
+Brantl, Markus u. Stefan Schweter: Neue Wege der Bildsuche an der Bayerischen Staatsbibliothek. In:
+
+Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022), S. 328–337.
+Ceynowa, Klaus: Der Text ist tot – Es lebe das Wissen! In: Hohe Luft – Philosophie-Zeitschrift 1 (2014),
+
+S. 52–57.
+Ceynowa, Klaus: Content ohne Context? Grenzen der „Offenheit“ digitaler Sammlungen. In: Zeitschrift für
+
+Bibliothekswesen und Bibliographie 64: Themenheft: Der „Giftschrank“ heute. Vom Umgang mit
+„problematischen“ Inhalten und der Verantwortung der Bibliotheken (2017), S. 181–187.
+
+Ceynowa, Klaus: Problematische Inhalte als Open Data? Das Beispiel des Fotoarchivs Hoffmann. In:
+Nationalsozialismus digital: die Verantwortung von Bibliotheken, Archiven und Museen sowie
+Forschungseinrichtungen und Medien im Umgang mit der NS-Zeit im Netz. Hrsg. von Markus
+Stumpf, Hans Petschar u. Oliver Rathkolb. Wien: Vienna University Press 2021. S. 267–276.
+
+Fabian, Bernhard: Buch, Bibliothek und geisteswissenschaftliche Forschung. Zu Problemen der
+Literaturversorgung und der Literaturproduktion in der Bundesrepublik Deutschland. Göttingen:
+Vandenhoek & Ruprecht 1983.
+
+Marquard, Odo: Zukunft braucht Herkunft. Philosophische Betrachtungen über Modernität und
+Menschlichkeit. In: Zukunft braucht Herkunft. Philosophische Essays. Odo Marquard. Stuttgart:
+Reclam 2020 (Original: 1988). S. 234–246
+
+Mbembe, Achille: Politik der Feindschaft. Frankfurt a. M.: Suhrkamp 2017.
+Ritter, Joachim: Hegel und die französische Revolution. In: Metaphysik und Politik. Studien zu Aristoteles
+
+und Hegel. Frankfurt a. M.: Suhrkamp 2003 (Original: 1957). S. 183–233.

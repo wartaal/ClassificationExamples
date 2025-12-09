@@ -1,0 +1,366 @@
+﻿Thomas Witzgall
+Rechtliche Grundlagen zum Umgang mit
+Medien „an den Rändern“
+
+1 Einleitung
+Das war ein Vorspiel nur, dort wo man Bücher verbrennt, verbrennt man auch am Ende Menschen.
+Heine 1821, 148
+
+Heinrich Heine setzt mit diesem Satz in seiner Tragödie Almansor eine Referenz auf
+eine historisch verbürgte Bücherverbrennung im Jahre 1499. Und gleichsam prophe-
+tisch kann der Satz auch als Hinweis auf die Bücherverbrennungen in Deutschland
+1933 gelesen werden.
+
+Absichtliche Bücherzerstörungen hat es in der Geschichte der Menschheit immer
+wieder gegeben. Dabei ist nur auf den ersten Blick das Vernichten des Buches in sei-
+ner Materialität so tragisch. Als Träger von Wissen, Ideen und Meinungen wird es
+nicht nur selbst beschädigt oder zerstört, sondern mit ihm auch die (missliebige) Posi-
+tion des anderen. Es ist also immer auch ein Kampf um Deutungshoheit, Diskursfähig-
+keit, um die „Köpfe“.
+
+Mit der deutschen Erfahrung mehrerer Diktaturen und ihrer Säuberungswellen,
+auch und gerade in Bibliotheken, sollte der Blick sensibilisiert sein für jedwede Form
+der Zensur und ungerechtfertigter Einschränkung der Meinungs- und Informations-
+freiheit. Denn diese betrifft beileibe nicht nur autoritäre Staaten und Diktaturen.
+
+Der Kampf um die Deutungshoheit politischer wie religiöser, sozialer wie sexuel-
+ler Fragen wird auch in Demokratien mit zunehmender Härte und teilweise fanati-
+schem Eifer geführt. Wenn die American Library Association für 2022 die höchste
+Zahl an „attempted book bans“ (also zumindest versuchten Buchverboten) in Biblio-
+theken seit Beginn der Aufzeichnungen vor über 20 Jahren dokumentiert, muss dies
+beunruhigen.1 Im Vereinigten Königreich formulierte das Chartered Institute of Libra-
+ry and Information Professionals (CILIP) in diesem Jahr, dass sich Beschäftigte in Bi-
+bliotheken einer Zensur – mit Ausnahme des Falles eines gesetzlichen Verbotes – ak-
+tiv entgegenstellen sollen: „Librarians, library staff and decision-makers are expected
+actively to oppose censorship for any purpose other than material that is proscribed
+
+1 https://uniteagainstbookbans.org/2022-book-bans/ (Abruf: 12.10.2023).
+
+Hinweis: Unter Medien „an den Rändern“ werden in diesem Beitrag tendenziöse Medien verstanden,
+Medien am rechten oder linken Rand des politischen Spektrums und auch solche mit anderen nicht kon-
+sensfähigen Positionen. Auf die Gattung der strafrechtlich relevanten wie auch jugendgefährdenden
+Schriften wird ebenfalls eingegangen. Der Beitrag bezieht sich ausschließlich auf gedruckte Medien und
+klammert die digitalen Medien und datenschutzrechtliche Implikationen bewusst aus.
+
+Open Access. © 2024 Thomas Witzgall, publiziert von De Gruyter. Dieses Werk ist lizenziert unter einer
+Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111229614-005
+
+
+
+72  Thomas Witzgall
+
+by law […]“ (2023, 8). Auch dies nicht von ungefähr. Die Liste der Kämpfe ums Wissen
+ließe sich beinah beliebig fortsetzen. Die Motive mögen unterschiedlich sein, die Wege
+von mutwilliger Zerstörung vor Ort in den Bibliotheken2 (Schmedding 2022), direkter
+Beschwerde bis hin zu unterschwelliger Einflussnahme und der Drohung mit dem
+Entzug der Finanzierung reichen. Im Ergebnis finden sich Bibliotheken in einer Ver-
+teidigungshaltung wieder, wenn sie „missliebige“ Titel im Bestand präsentieren, dies
+beabsichtigen oder eben gerade ablehnen.
+
+Dieser Beitrag beschränkt sich auf die rechtlichen Implikationen und gibt einen
+Überblick darüber, was den Bibliotheken gestattet und was verboten ist.
+
+2 Rechtslage
+Ein Ergebnis sei an dieser Stelle schon vorweggenommen: Aus rechtlicher Sicht sind
+die Titel „an den Rändern“ nicht so problematisch, wie es nach den tatsächlichen Dis-
+kussionen in den Bibliotheken vor Ort erwartet werden könnte.
+
+Die Entscheidung der Bibliothek, welche Medien erworben werden, ob und wie
+sie zugänglich gemacht werden und wann und wie sie auch wieder aus dem Bestand
+ausgesondert werden, ist eine weitgehend autonome. Nur in sehr engen Grenzen sind
+Einschränkungen rechtlich geboten. Diese gilt es darzustellen.
+
+2.1 Art. 5 Abs. 1 GG
+
+Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu ver-
+breiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten.
+
+Mit Art. 5 Abs. 1 Satz 1 des Grundgesetzes ist der Raum der Meinungs- wie Infor-
+mationsfreiheit durchmessen und ist eigentlich alles gesagt. Als Jedermannsrecht for-
+muliert, schützt er sowohl die Äußerung der eigenen Meinung wie auch die Möglich-
+keit, sich eine solche durch Studium beliebiger Quellen erst einmal zu bilden. Die Ge-
+währleistung dieser Informationsfreiheit ist dabei auch die Reaktion auf die
+Erfahrungen im Nationalsozialismus mit Informationsbeschränkungen und einer
+massiven staatlichen Meinungslenkung.3
+
+Das Bundesverfassungsgericht hat insoweit ausgeführt:
+
+Für die in Art. 5 Abs. 1 Satz 1 GG gewährleistete Informationsfreiheit sind danach zwei Kompo-
+nenten wesensbestimmend. Einmal ist es der Bezug zum demokratischen Prinzip des Art. 20
+Abs. 1 GG: Ein demokratischer Staat kann nicht ohne freie und möglichst gut informierte öffentli-
+che Meinung bestehen. Daneben weist die Informationsfreiheit eine individualrechtliche, aus
+
+2 So bereits geschehen in Berliner Bibliotheken (Schmedding 2022).
+3 BVerfGE 27, 71 (80).
+
+
+
+Rechtliche Grundlagen zum Umgang mit Medien „an den Rändern“  73
+
+Art. 1, Art. 2 Abs. 1 GG hergeleitete Komponente auf. Es gehört zu den elementaren Bedürfnissen
+des Menschen, sich aus möglichst vielen Quellen zu unterrichten, das eigene Wissen zu erweitern
+und sich so als Persönlichkeit zu entfalten. Zudem ist in der modernen Industriegesellschaft der
+Besitz von Informationen von wesentlicher Bedeutung für die soziale Stellung des Einzelnen.4
+
+Es geht also schlussendlich um nichts weniger als um die Überlebensfähigkeit der De-
+mokratie und die Teilhabe der in ihr Lebenden. Dass dieses Recht nur gewährleistet
+und genutzt werden kann, wenn die hierfür notwendigen Informationen möglichst
+niedrigschwellig und umfassend zur Verfügung stehen, leuchtet ein.
+
+Als geplant angelegte Sammlungen von Medien sind Bibliotheken – gleich ob mit
+eher wissenschaftlicher oder öffentlicher Ausrichtung – ein Hort des Wissens und ver-
+suchen einen möglichst barriere- und diskriminierungsarmen Zugang zu Informatio-
+nen jeder Art zu gewährleisten.5 Die Pluralität der Informationen, der vertretenen
+Meinungen und Ideen führt letztendlich zu einer Gesellschaft, in der der andere in sei-
+ner Position vielleicht nicht Zustimmung findet, aber zumindest doch Akzeptanz,
+wenn nicht gar Verständnis erwarten kann.
+
+Mit zunehmender Informiertheit erkennt der Bürger Wechselwirkungen in der Politik und ihre
+Bedeutung für seine Existenz und kann daraus Folgerungen ziehen; seine Freiheit zur Mitverant-
+wortung und zur Kritik wächst. Nicht zuletzt können die Informationen den Einzelnen befähigen,
+die Meinungen anderer kennenzulernen, sie gegeneinander abzuwägen, damit Vorurteile zu be-
+seitigen und Verständnis für Andersdenkende zu wecken,6
+
+bringt es das Bundesverfassungsgericht auf den Punkt.
+Art. 5 Abs. 1 GG bietet also insoweit die grundgesetzliche Absicherung für die Auf-
+
+gaben der Bibliotheken und steht jeder pauschalen Einschränkung ihrer elementaren
+Funktion, nämlich Medien zu sammeln und für jedermann nutzbar zu machen, entge-
+gen.
+
+Gleichwohl können und sollen Meinungs- wie Informationsfreiheit nicht grenzen-
+los gewährleistet werden. Dabei ist nicht an das in Art. 5 Abs. 1 Satz 1 GG statuierte
+Zensurverbot zu denken (denn dieses bezieht sich lediglich auf die Vorzensur), son-
+dern an Absatz 2 des Artikel 5 GG. Im Wortlaut: „Diese Rechte finden ihre Schranken
+in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum
+Schutze der Jugend und in dem Recht der persönlichen Ehre.“
+
+In einem Dreiklang werden die allgemeinen Gesetze, der Jugendschutz und das
+Recht der persönlichen Ehre als Schranken genannt. Diese gilt es näher zu betrachten.
+
+4 BVerfGE 27, 71 (80).
+5 Wenn zum Beispiel das Thüringer Bibliotheksgesetz in § 1 formuliert, dass Bibliotheken „in beson-
+derer Weise“ das Recht der Informationsfreiheit gewährleisten, so zeigt dies die Bedeutung der Biblio-
+theken.
+6 BVerfGE 27, 71 (82).
+
+
+
+74  Thomas Witzgall
+
+2.2 Strafrechtliche Regelungen
+
+Den Schwerpunkt der Einschränkung der Meinungs- wie Informationsfreiheit durch
+„allgemeine Gesetze“ bilden Regelungen des Strafgesetzbuches7. Dabei werden be-
+stimmte Inhalte (z. B. Propagandamittel verfassungswidriger und terroristischer Orga-
+nisationen, volksverhetzendes Schriftgut, Gewaltdarstellungen, Beschimpfungen von
+Religionsgemeinschaften, pornographische Schriften etc.) in Verbreitung oder Besitz
+beschränkt.8 Für Bibliotheken ist dabei zunächst das Merkmal der Verbreitung zu un-
+tersuchen. Ein Verbreiten liegt immer dann vor, wenn Inhalte einem unbegrenzten
+Kreis der Öffentlichkeit zugänglich gemacht werden. Dies ist zumindest dann der Fall,
+wenn Medien unreglementiert in Freihand zur Verfügung gestellt werden (Beger 2001,
+1650–1653). Sollten also tatsächlich Medien mit strafrechtlich relevanten Inhalten Teil
+des Bibliotheksbestandes sein, so müssen diese in Magazinflächen ohne öffentlichen
+Zugang aufbewahrt werden. Eine Aussonderungspflicht ergibt sich freilich daraus
+nicht.
+
+Wie ist nun mit dem Wunsch nach Benutzung umzugehen? Grundsätzlich ist die
+Einsichtnahme in derartige Medien in den Räumen der Bibliothek nicht als eine Ver-
+breitung anzusehen. Sie kann insoweit unschädlich erfolgen. Darüber hinaus ist zu-
+mindest bei einem nachgewiesenen wissenschaftlichem oder anderweitig privilegier-
+tem Gebrauch9 eine Ausleihe außer Haus möglich. Hier sollte jedoch in der bibliothe-
+karischen Praxis ausdrücklich darauf hingewiesen werden, dass eine Weitergabe der
+Medien an Dritte im Sinne einer Weiterverbreitung nicht gestattet ist. Im Gegensatz
+zu Medien mit Verbreitungsverbot dürfen solche mit einem Besitzverbot – also z. B.
+gewalt- und kinderpornographische Inhalte – weder zu Einsichtnahme bereitstellt
+noch an Benutzende ausgegeben werden. Gleichwohl sollten auch solche Medien nicht
+leichtfertig ausgesondert werden.
+
+2.3 Jugendgefährdende Schriften
+
+Gerade für Öffentliche Bibliotheken ist das Thema der jugendgefährdenden Schriften
+relevant. Hierbei ist nach § 15 Jugendschutzgesetz zwischen schwer jugendgefährden-
+den und jugendgefährden Schriften zu differenzieren. Jugendgefährdende Schriften
+dürfen Kindern und Jugendlichen, die das 18. Lebensjahr noch nicht vollendet haben,
+weder angeboten noch überlassen oder sonst zugänglich gemacht werden. Alle in Bi-
+
+7 Hier insbesondere die §§ 74d, 80a, 86, 86a, 130, 130a, 131, 166, 184 ff. StGB.
+8 Eine detaillierte Darstellung der einzelnen Straftatbestände würde den Umfang dieser Darstellung
+übersteigen.
+9 § 86 Abs. 4 StGB z. B. spricht von „staatsbürgerlicher Aufklärung, der Abwehr verfassungswidriger
+Bestrebungen, der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung
+über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken“.
+
+
+
+Rechtliche Grundlagen zum Umgang mit Medien „an den Rändern“  75
+
+bliotheken üblichen Arten der Zurverfügungstellung10 sind insoweit ausgeschlossen.
+Organisatorisch ist dafür Sorge zu tragen, dass allein schon eine optische Wahrneh-
+mung durch Kinder und Jugendliche unterbleibt.
+
+Für die schwer jugendgefährdenden Schriften nach dem Katalog des § 15 Abs. 2
+Nr. 1–5 JuSchG wird die Jugendgefährdung gesetzlich vermutet. Dies betrifft nach
+Nr. 1 insbesondere die oben bereits erwähnten strafrechtlichen Regelungen. Daneben
+aber auch besonders realistische oder grausame Gewaltdarstellungen, unnatürliche
+und geschlechtsbetonte Darstellungen von Kindern und allgemein Medien, die offen-
+sichtlich geeignet sind Kinder in ihrer Entwicklung schwer zu gefährden.
+
+Für die Einstufung als jugendgefährdende Schrift ist hingegen eine aktive Ent-
+scheidung der Bundeszentrale für Kinder- und Jugendmedienschutz notwendig, § 15
+Abs. 1 JuSchG. Eine entsprechende Liste der jugendgefährdenden Medien nach § 24
+JuSchG wird in geeigneter Weise kommuniziert.11
+
+2.4 Verbreitungsverbot aus anderen Gründen
+
+Neben strafrechtlichen Verbreitungsverboten kommen auch solche in Frage, die sich
+aufgrund einer gerichtlichen Entscheidung ergeben.12 Regelmäßig ist die Grundlage
+hier eine Verletzung des Persönlichkeitsrechts oder z. B. auch falsche Behauptungen.
+Adressat eines Verbreitungsverbotes ist zwar im Regelfall derjenige, der die Behaup-
+tung aufgestellt hat. Gleichwohl würde eine unreglementierte Weiterverbreitung in
+der Form, dass vorab legal durch eine Bibliothek erworbene Exemplare nun weiterhin
+frei zur Verfügung gestellt werden, dem Sinn und Zweck einer solchen Entscheidung
+widersprechen.13 Die Verbreitung in Freihand ist demnach einzustellen. Für die Frage
+der Einsichtnahme vor Ort bzw. die Entleihe kann analog zu einem strafrechtlichen
+Verbreitungsverbot vorgegangen werden.14 Eine Aussonderung ist auch hier nicht an-
+gezeigt.
+
+10 Aufstellung im Regal, Einsichtnahme vor Ort, Kopiermöglichen, Ausleihe.
+11 Die Veröffentlichung der Indizierungen erfolgt im Bundesanzeiger. Zusätzlich können Bibliothe-
+ken auf Anfrage kostenfrei die Fachzeitschrift BzKJAKTUELL beziehen, die die öffentliche Liste aller
+indizierten Medien enthält.
+12 Also eine einstweilige Verfügung oder ein Gerichtsurteil.
+13 Regelmäßig wird die Bibliothek von den anwaltlichen Vertretern einer Partei über das Verbrei-
+tungsverbot unterrichtet. Dabei wird häufig auch die Aussonderung des Mediums und die Tilgung des
+Katalognachweises gefordert. Diesem Verlangen sollte ohne Rücksprache mit einem Rechtskundigen
+keinesfalls nachgekommen werden.
+14 So auch Beger a. a. O.
+
+
+
+76  Thomas Witzgall
+
+2.5 Zwischenergebnis
+
+Die dargestellten Gründe für ein Verbreitungsverbot mögen inhaltlich komplex und
+im Einzelfall für die Bibliothek vor Ort schwer nachzuvollziehen sein.15 Tatsächlich
+wird nach Einschätzung des Verfassers aber nur ein verschwindend geringer Teil der
+in Bibliotheken diskutierten Fälle von Literatur „an den Rändern“ einem gesetzlichen
+Verbot unterfallen. Für das Gros der Medien bleibt es bei einer Entscheidung der Bi-
+bliothek, falls sich nicht tatsächlich aus anderer gesetzlicher Grundlage ein Erwer-
+bungs- wie Ausleihverbot ergeben sollte. Einige mögliche Regelungen sollen im An-
+schluss dargestellt werden.
+
+3 Weitere gesetzliche Regelungen
+
+3.1 Hochschulgesetze
+
+Für den Bereich der Hochschulbibliotheken könnten die Hochschulgesetze des jeweili-
+gen Bundeslandes eine entsprechende Regelung treffen. Hierbei ist jedoch zu berück-
+sichtigen, dass die Hochschulbibliotheken als Einrichtungen der jeweiligen Hochschu-
+le die Medienversorgung sicherzustellen und dabei die spezifischen Bedarfe für For-
+schung und Lehre zu berücksichtigen haben.16 Im Hinblick auf die sich aus Art. 5
+Abs. 3 GG ergebende Freiheit von Wissenschaft, Forschung und Lehre wäre es gerade-
+zu kontraproduktiv hier die Bibliothek von einer Erwerbung vermeintlich missliebi-
+ger Literatur abzuhalten. Es ist vielmehr so, dass sich gerade aus lokalen Forschungs-
+wie Lehrschwerpunkten17 ein besonderer Bedarf an entsprechender Literatur ergeben
+kann. Dieser Fakt sollte in etwaigen Diskussionen dann mit Nachdruck vertreten wer-
+den.
+
+3.2 Bibliotheksgesetze
+
+Insbesondere für den Bereich der Öffentlichen Bibliotheken spielen die in fast allen
+Bundesländern inzwischen erlassenen Bibliotheksgesetze18 eine Rolle. Als kulturelle
+
+15 Auch hier ist der Rat des Verfassers, im Zweifelsfall ggf. Rechtsrat einzuholen.
+16 So exemplarisch § 100 Sächsisches Hochschulgesetz: „Die Hochschulbibliothek beschafft, erschließt
+und verwaltet die für Lehre, Studium und Forschung erforderlichen Medien und macht sie im Rahmen
+der Bibliotheksordnung öffentlich zugänglich.“
+17 So z. B. an der Friedrich-Schiller-Universität Jena das „Zentrum für Rechtsextremismusforschung,
+Demokratiebildung und gesellschaftliche Integration“.
+18 Eine Übersicht unter https://www.bibliotheksverband.de/bibliotheksgesetze (Abruf: 22.11.2023).
+
+
+
+Rechtliche Grundlagen zum Umgang mit Medien „an den Rändern“  77
+
+Einrichtungen der Kommune sind Bibliotheken sogenannte freiwillige Leistungen. Im
+Zuge der kommunalen Selbstverwaltung kann eine Gemeinde also eine Bibliothek vor-
+halten, sie muss es aber nicht. Da dem Landesgesetzgeber insoweit wenig rechtliche
+Einflussmöglichkeit bleibt, erschöpfen sich die entsprechenden Regelungen regelmä-
+ßig in eher deklaratorischen Formulierungen. Eine Rechtspflicht zur Sammlung nur
+der „richtigen“ Literatur lässt sich ihnen ebenso wenig entnehmen wie ein Recht auf
+Aufnahme eines bestimmten Titels in den Bestand der Bibliotheken.
+
+Vielmehr lässt sich in einzelnen Bibliotheksgesetzen durchaus die Formulierung
+finden, dass der Bestand in politischer, religiöser oder auch kultureller Hinsicht „aus-
+gewogen“ 19 sein und die Bibliothek sich „im Rahmen des Grundgesetzes“20 „unabhän-
+gig“21 dem Bestandausbau widmen soll. Auf Grundlage solcher Formulierung ist jed-
+weder Einflussnahme in den Bestandsaufbau der Bibliothek argumentativ entgegen-
+zutreten.
+
+3.3 Pflichtexemplarbibliotheken
+
+Kein Verbot zur Sammlung und Präsentation von Literatur „an den Rändern“, son-
+dern vielmehr ein gegenteiliger aktiver Sammelauftrag lässt sich dem Gesetz über die
+Deutsche Nationalbibliothek und den einschlägigen Regelungen22 der Pflichtexemplar-
+bibliotheken in allen Bundesländern entnehmen. Hier geht es gerade um die dauer-
+hafte Archivierung und Zurverfügungstellung der kulturellen Überlieferung. Hinter
+dieser Funktion haben Zweifel und Bedenken über den „Wert“ tendenziöser Medien
+zurückzustehen.
+
+4 IFLA Code of Ethics
+Auch wenn dem „Code of Ethics for Librarians and other Information Workers“ der
+IFLA (2012) keine gesetzgeberische Kraft zukommt, bietet er doch eine wichtige Argu-
+mentationsgrundlage für das Berufsbild und die im Bestandsaufbau der Bibliotheken
+vorherrschenden Maximen. „Librarians and other information workers reject the de-
+nial and restriction of access to information and ideas most particularly through cen-
+
+19 So z. B. § 3 HessBiblG „Bibliotheken ermöglichen die demokratische Teilhabe an der politischen
+Willensbildung, indem sie den Zugang zu allgemeinen Informationsquellen durch einen politisch, welt-
+anschaulich und religiös ausgewogenen Bestand gewährleisten. […] Sie sind in der Auswahl ihrer Me-
+dien und Informationsmittel unabhängig.“
+20 So § 2 Abs. 4 BremBibG.
+21 § 3 HessBiblG.
+22 https://www.dnb.de/SharedDocs/Downloads/DE/Professionell/Sammeln/regelungLandesebene-
+Pflichtexemplar.pdf?__blob=publicationFile&v=2 (Abruf: 22.11.2023).
+
+
+
+78  Thomas Witzgall
+
+sorship whether by states, governments, or religious or civil society institutions.“
+(IFLA 2012). Er macht deutlich, dass sich Bibliotheken weltweit gegen Zensur und Zu-
+gangsbeschränkungen stark machen.
+
+5 Fazit
+Rechtliche Gründe, die gegen eine Aufnahme von Medien „an den Rändern“ in Biblio-
+theksbestände bestehen, sind tatsächlich selten. Einem Verbreitungsverbot sind enge
+gesetzliche Grenzen gesetzt. In der überwiegenden Zahl der Fälle wird diese Grenze
+nicht überschritten und so obliegt es den Bibliotheken vor Ort die Entscheidung für
+oder gegen Medien auf Grundlage der fachlichen Notwendigkeiten und ohne Einflüsse
+von außen zu treffen. Auch wenn eine solche Entscheidung im Einzelfall als diskussi-
+onswürdig eingestuft wird, Beschwerden hervorruft und harsche Reaktionen befürch-
+ten lässt – die Bibliotheken stehen hier auf dem Boden des Grundgesetzes, sichern
+Vielfalt und Informationsfreiheit und sollten den Konflikt nicht scheuen.
+
+Literatur
+Beger, Gabriele. Zensur oder Informationsfreiheit? Rechtslage bei Medien mit strafrechtlich relevanten, ju-
+
+gendgefährdenden und tendenziösen Inhalten. In: Bibliotheksdienst 35,12 (2001): 1650–1656.
+Chartered Institute of Library and Information Professionals (CILIP). Managing safe and inclusive public
+
+library services. A Practical Guide. 2023. – https://www.cilip.org.uk/page/safe-and-inclusive-guide
+(Abruf: 11.10.2023).
+
+Heine, Heinrich. Tragödien, nebst einem lyrischen Intermezzo. Dümmler: Berlin 1823.
+International Federation of Library Associations and Institutions (IFLA). IFLA Code of Ethics for Librarians
+
+and Other Information Workers. 2012. – https://repository.ifla.org/handle/123456789/1850 (Abruf:
+11.10.2023).
+
+Schmedding, Nina. dbv gegen Entfernung missliebiger Bücher. „Wir schreiben den Leuten nicht vor, was
+sie zu lesen haben“. In: Cicero. 20. September 2022. – https://www.cicero.de/kultur/dbv-gegen-ent-
+fernung-missliebiger-bucher-wir-schreiben-den-leuten-nicht-vor-was-sie-zu-lesen-haben (Abruf:
+11.10.2023).

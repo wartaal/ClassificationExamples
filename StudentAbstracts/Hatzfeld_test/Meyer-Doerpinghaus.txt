@@ -1,0 +1,667 @@
+Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+1.2 Digitale Transformation und Agilität
+1 Wissenschaftliche Bibliotheken in der digitalen
+Transformation
+Die Veröffentlichung von ChatGPT am 30. November 2022 hat schlaglichtartig das disruptive
+Potenzial von digitalen Technologien, die auf Künstlicher Intelligenz (KI) basieren,
+für praktisch alle Lebens- und Wissensbereiche deutlich gemacht. Die Tragweite des
+weit über das konkrete Sprachmodell der Firma OpenAI hinausreichenden technologischen
+Innovationssprungs ist – auch jenseits des unvermeidlichen medialen Hypes –
+sehr schnell in den Mittelpunkt öffentlicher Diskussionen gerückt. Auch das Wissenschaftssystem
+war betroffen: Bald begannen Diskussionen um Konsequenzen, Chancen
+und Risiken von KI-Anwendung für die Wissenschaftspraxis, sei es für Studium und
+Lehre, Forschungsverfahren oder die Wissenschaftskommunikation. Berichte über die
+Co-Autorenschaft von ChatGPT bei Fachveröffentlichungen lösten schnell Fragen nach
+den Konsequenzen von KI für die wissenschaftliche Integrität aus und führten zu Positionierungen
+von Verlagen oder den Editorial Boards von wissenschaftlichen Zeitschriften.
+Bibliotheken blieben von der Diskussion nicht lange unberührt. Das Thema KI in
+Bibliotheken, mit dem sich zuvor nur wenige Expert:innen intensiver beschäftigt hatten,
+rückte auf einmal in den Fokus von Diskussionen innerhalb bibliothekarischer Communities,
+aber auch darüber hinaus, wie folgende Beispiele aus der RWTH Aachen im Jahr
+2023 zeigen: Hochschulleitungen erwarten die Beteiligung von Bibliothekar:innen in universitären
+Arbeitsgruppen zum Thema KI in Studium und Lehre, wissenschaftliche
+Nachwuchsprogramme bitten um Unterstützung der Bibliothek bei Veranstaltungen
+zum Thema wissenschaftliche Integrität und KI, und die Erwerbungsleitung erhält
+wöchentlich neue Werbemails oder Anrufe zu KI-gestützten Anwendungen zur Recherche
+und Zusammenfassung von Literatur oder zur wissenschaftlichen Schreibunterstützung.
+Bibliotheken sind damit herausgefordert, schnell Sprechfähigkeit zu
+den Möglichkeiten und Auswirkungen von KI herzustellen. Dies gilt insbesondere
+bei Themen, bei denen sie sich traditionell ganz oder teilweise als Themenführerin
+betrachten, wie etwa bei der Literatur- und Informationsrecherche und der Vermittlung
+von Informationskompetenz.
+Einleitend ist mit dieser Konstellation eine typische Herausforderung für wissenschaftliche
+Bibliotheken in der digitalen Transformation grob skizziert: Technologische
+Innovationen verändern Medien, Methoden und Fragestellungen in der Wissenschaft
+und damit die Servicebedürfnisse der Forschenden, Lehrenden und Studierenden, während
+gleichzeitig traditionelle bibliothekarische Kompetenzen und Services in Frage gestellt
+werden. Auch in der Vergangenheit haben Bibliotheken wiederholt vor der
+Aufgabe gestanden, sich als Reaktion auf innovative Technologien, neue Medienformen
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-003
+und veränderte Bedürfnisse ihrer Nutzenden neu zu erfinden. Es dürfte jedoch auch in
+historischer Hinsicht kaum zu bezweifeln sein, dass die Situation am Ende des ersten
+Viertels des 21. Jahrhunderts sich für Bibliotheken als fundamental herausfordernd darstellt.
+Bereits sprachlich wird deutlich: In der digitalen Transformation geht es nicht
+mehr allein um die Digitalisierung vormals analoger Medienformen oder Prozesse, sondern
+um einen tiefgreifenden Wandel, einen Umbau, der in größerer Perspektive die
+gesamte Gesellschaft, Ökonomie, Politik, Bildung und Kultur umfasst und dabei mit der
+KI auch potenziell neue Akteure hervorbringt.
+Für Bibliotheken bedeutet dies: Es wird nichts Geringeres neu verhandelt als ihre
+Funktionsweise und ihr Auftrag sowie das Selbstverständnis der Bibliothekar:innen, die
+ihre traditionelle Position als „Gatekeeper der Wissenschaft“1 durch die Allgegenwärtigkeit
+des Internets längst verloren haben. Vereinfacht ausgedrückt: Im Printzeitalter stellten
+wissenschaftliche Bibliotheken ihre gedruckten Bestände lokal zur Verfügung und
+warteten darauf, dass die Nutzenden, denen wenig Anderes übrigblieb, zur Bibliothek
+kamen und die Literatur entweder vor Ort oder per Ausleihe rezipierten. Die bibliothekarische
+Expertise bestand nicht zuletzt darin, durch vorausschauende Erwerbung und
+gezielte Sammlungstätigkeit lokale Bestände aufzubauen, zu erschließen und verfügbar
+zu machen, von denen man annehmen konnte, dass diese den Nutzenden eine fundierte
+Teilhabe an Forschung, Lehre und Studium ermöglichten. Idealerweise (aber eben nicht
+notwendigerweise) erfolgte dies im engen Austausch mit den Nutzenden, von denen
+man wusste, dass sie von der Bibliothek in wesentlichen Teilen ihrer Arbeit abhängig
+waren. Die Bibliothek war der Ort, den sie aufsuchen mussten, um Zugang zu dem
+dort – zum Teil nur dort – vorhandenen Wissensschatz zu erlangen, und die Bibliothekar:
+innen waren diejenigen, die den Zugang eröffneten.
+Der Unterschied zu der aktuellen Realität an vielen wissenschaftlichen Bibliotheken
+ist augenfällig: Forschende ganzer Fachkulturen sind auf die Bibliothek als Ort de
+facto nicht mehr angewiesen, wohl aber auf die Bibliothek als digitale Infrastruktur, die
+über Expertise und Ressourcen in den Bereichen Lizenzierung, Publikationsunterstützung,
+Forschungsdatenmanagement und Open Science verfügt und in den Forschungskreislauf
+einbringt. Weiterhin und in beeindruckender Zahl auf die Bibliothek als Ort
+angewiesen sind jedoch die Studierenden, die die Bibliothek häufig ausschließlich als
+eine Art „Learning Center“ nutzen, ohne einen Literaturbedarf zu haben, der wesentlich
+über die in den Lernmanagementsystemen bereitgestellten Texte hinausgeht.
+Ein wesentlicher Effekt der digitalen Transformation für wissenschaftliche Bibliotheken
+lässt sich folglich stark vereinfachend beschreiben als die zunehmende
+Entkoppelung der ortsunabhängigen Services zur Forschungsunterstützung und der
+ortsgebundenen Services zur Lernunterstützung. Oder zugespitzt formuliert: Forschende
+benötigen überwiegend die digitale Infrastruktur im Netz, Studierende
+ Knoche 2015: S. 79.
+26 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+überwiegend die physische und soziale Infrastruktur vor Ort. Und beide benötigen
+Bibliothekar:innen, die ihre Bedürfnisse verstehen und auf sie eingehen können, obwohl
+die traditionellen Schnittmengen und Berührungsflächen geringer geworden
+sind. Mussten sich Bibliothekar:innen im Printzeitalter beispielsweise nur sehr eingeschränkt
+oder gar nicht darum kümmern, wie Forschende ihre Daten archiviert haben
+oder wie und zu welchen Bedingungen sie ihre Manuskripte beim Verlag eingereicht
+haben, so sieht dies in der digitalen Transformation anders aus, da bibliothekarische
+Services wieder stärker und an zusätzlichen Stellen mit dem Forschungskreislauf verwoben
+sind. Digitales Knowhow, Organisationsgrad, Servicebereitschaft und Ausstattung
+einer Bibliothek haben unmittelbar Einfluss nicht nur auf die Informationsversorgung,
+sondern auch auf das Datenmanagement oder die Publikationsmöglichkeiten in einem
+Projekt. Wollen Bibliotheken weiterhin den Anspruch stellen können, den Forschungskreislauf
+kompetent als infrastrukturelle Servicepartner der Forschenden zu unterstützen,
+so müssen sie sich in diese Prozesse einbringen, die spezifischen Bedürfnisse der
+Forschenden, aber auch der Lehrenden und Studierenden erkunden und auf dieser Basis
+die Dienstleistungen der Bibliothek beständig verändern und anpassen. Dies ist eine
+fordernde und hochkomplexe Aufgabe, weil sich wissenschaftliches Arbeiten und wissenschaftliche
+Kommunikation im Zuge der Digitalisierung weitreichend verändert
+haben und sich stetig weiter verändern. Komplexitätssteigernd kommt hinzu, dass wissenschaftliche
+Bibliotheken nicht mehr als Solitäre agieren können, sondern sich als
+Teil einer komplexen internationalen – und teils auch kommerziellen – Servicelandschaft
+wissenschaftlicher Information verstehen, um erfolgreich agieren zu können.
+Damit müssen sie auch jene im großen Rahmen verteilte Angebotsstruktur und ihre
+eigene Rolle stets berücksichtigen, wenn sie Kompetenzen und Dienstleistungen weiterentwickeln,
+ab- oder neu aufbauen. Das Konzept des institutionellen Informationsbudgets
+macht dies exemplarisch deutlich: Budgets der verschiedenen Stakeholder,
+darunter auch der Bibliothek, die für die Versorgung einer Einrichtung mit wissenschaftlicher
+Information und Publikationsmöglichkeiten wesentlich sind, müssen
+strukturell zusammengedacht werden, was wiederum ein transparentes Agieren und
+diplomatisch geschicktes aktives Kommunizieren seitens der Bibliothek erfordert.
+Ist der hier skizzierte komplexe Zusammenhang für sich genommen schon fordernd
+genug für das Management von Bibliotheken, so wird dies noch deutlich verstärkt
+durch die hohe Dynamik, Radikalität und Unübersichtlichkeit, mit der die
+Prozesse der digitalen Transformation ablaufen. Im persönlichen Erleben von Bibliotheksmitarbeiter:
+innen und Bibliotheksmanager:innen schlägt sich dies in einer Konstellation
+nieder, für die in allgemeiner Hinsicht das Akronym VUCA geprägt wurde.2
+Damit ist eine Lebens- und Arbeitswelt gemeint, die durch den digitalen Wandel, aber
+auch durch die vielen sich überlagernden Krisen und Wandlungsprozesse der Gegen-
+ Bennet u. Lemoine 2014.
+1.2 Digitale Transformation und Agilität 27
+wart immer stärker als durch Volatilität (Unbeständigkeit, engl. volatility), Unsicherheit
+(engl. uncertainty), Komplexität (engl. complexity) und Ambiguität (Mehrdeutigkeit,
+engl. ambiguity) gekennzeichnet erfahren wird – natürlich nicht nur, aber eben auch in
+Bibliotheken. Unter diesen Bedingungen die digitale Transformation erfolgreich zu bewältigen
+– sich also zu transformieren, ohne unter dem Druck von Volatilität, Unsicherheit,
+Komplexität und Ambiguität handlungsunfähig zu werden –, stellt Bibliotheken,
+die als sammelnde, ordnende und bewahrende Einrichtungen in zumeist öffentlicher
+Hand oft eher hierarchisch oder behördlich ausgerichtete Führungskulturen ausgeprägt
+haben, vor vielfältige Herausforderungen – nicht zuletzt die der Adaption agiler Organisations-
+und Handlungsformen. Ohne „agile Durchdringung“,3 so eine immer wieder geäußerte
+These, d. h. ohne die weitgehende Integration von Konzepten der Agilität sind
+traditionelle Konzepte des Change Managements nicht wirklich geeignet, auf die Herausforderungen
+der VUCA-Welt erfolgreich zu reagieren.
+Im Folgenden werden zwei miteinander zusammenhängende Managementanforderungen
+betrachtet, die als zentral für eine erfolgreiche Positionierung von Bibliotheken
+im Transformationsprozess gelten können: das für die jeweilige Organisation
+zum angemessenen Zeitpunkt richtige Maß an Agilität herauszubilden und das dafür
+notwendige Personal zu entwickeln bzw. zu gewinnen.
+In der bibliotheks- und informationswissenschaftlichen Literatur der letzten
+Jahre sind diese Zusammenhänge anhand von Beispielen und Erfahrungsberichten zu
+agilen Lösungsansätzen in wissenschaftlichen Bibliotheken immer wieder beschrieben
+worden, wobei sich der – durchaus folgerichtige – Eindruck aufdrängt, dass es so
+viele Wege zur Agilität gibt, wie es Bibliotheken gibt.4 Im Folgenden wird der Versuch
+gemacht, wesentliche Züge einer idealtypischen agilen Bibliothek zu entwickeln und
+darzulegen, wie sich diese von einer herkömmlichen bzw. traditionellen Bibliothek
+unterscheiden könnte. Der Begriff „idealtypisch“ hat dabei einen utopischen Kern: es
+gibt eine solche Bibliothek nicht und es wird sie niemals geben. Allerdings könnten
+Bibliotheken, die mehr Agilität im Alltag anstreben, der Vorstellung von der idealtypischen
+agilen Bibliothek bestimmte Anregungen entnehmen, die zu ihrer spezifischen
+Situation und Ausprägung passen, damit experimentieren und diese gegebenenfalls
+erfolgreich implementieren. Zunächst wird zu diesem Zweck der Begriff der Agilität
+selbst kurz genauer betrachtet, bevor dann einzelne Aspekte des Begriffs auf die Bibliothek
+bezogen werden.
+ Kaune u. a. 2021: S. 130.
+ Siehe zum Beispiel Vonhof (2018), Lee et al. (2020) und die Aktivitäten der 2020 ins Leben gerufenen
+Community of Practice „Agilität in Bibliotheken“. https://www.agile-bibliothek.org (28.02.2024).
+28 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+2 Agilität
+Als Geburtsstunde der Agilität gilt ein bestimmtes Wochenende im Februar 2001. Damals
+trafen sich 17 Programmierer in Snowbird (Utah, USA), um über die Zukunft der
+Softwareentwicklung zu diskutieren. Die Teilnehmer einte ihre Unzufriedenheit mit
+den Entscheidungsstrukturen und Prozessen in ihren jeweiligen Unternehmen. Sie
+kritisierten, dass die Zyklen der Softwareentwicklung zu detailliert im Voraus geplant
+und in der Folge zu unflexibel umgesetzt wurden. Lerneffekte, die sich erst im Verlauf
+der Softwareentwicklung ergaben, ließen sich nicht in den Prozess integrieren. Auch
+waren darüber die aktuellen Bedürfnisse und Ansprüche der Kund:innen aus dem
+Blick geraten. Am Ende der Prozesse wurde deutlich, dass die Ergebnisse auch mit
+einem geringeren Aufwand hätten erzielt werden können und eigene Ressourcen vergeudet
+worden waren. Das Ergebnis des Treffens war das sogenannte Agile Manifest
+(Manifesto for Agile Software Development, kurz: Agile Manifesto). Dieses sei nachfolgend
+im vollen Wortlaut wiedergegeben, da es bereits wichtige Grundzüge dessen enthält,
+was später zum agilen Managementparadigma werden sollte:
+Wir erschließen bessere Wege, Software zu entwickeln, indem wir es selbst tun und anderen
+dabei helfen. Durch diese Tätigkeit haben wir diese Werte zu schätzen gelernt:
+– Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge.
+– Funktionierende Software ist wichtiger als umfassende Dokumentationen.
+– Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlungen.
+– Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans.
+Das heißt, obwohl wir die Werte auf der rechten Seite wichtig finden, schätzen wir die Werte auf
+der linken Seite höher ein.5
+Die im Agile Manifesto ausgedrückten Werte waren der Sache nach nicht neu.6 Die Ursprünge
+des agilen Managementparadigmas lassen sich bis in die 1950er Jahre zurückverfolgen.
+Damals wurde es erstmals im Kontext der Systemtheorie von Organisationen
+geprägt. Die vier Funktionen, die nach dem amerikanischen Soziologen Talcott Parsons
+jedes System erfüllen muss, um seine Existenz zu erhalten, ergeben mit ihren Anfangsbuchstaben
+das Akronym „agil“: auf sich verändernde äußere Bedingungen reagieren
+(engl. adaptation), Ziele definieren und verfolgen (engl. goal attainment), Kohäsion und
+Inklusion herstellen und absichern (engl. integration) und grundlegende Strukturen
+und Wertmuster aufrechterhalten (engl. latency). Nachdem der Begriff Agilität in den
+1970er Jahren in verschiedener Hinsicht theoretisch weiterentwickelt wurde, hatte er
+im Zuge der Digitalisierung in den 1990er Jahren besonders unter dem Schlagwort agile
+ https://agilemanifesto.org/iso/de/manifesto.html (28.02.2024).
+ Zum Folgenden kurz: Gloger u. Margetich 2018: S. 5–11.
+1.2 Digitale Transformation und Agilität 29
+manufacturing Konjunktur. Dieser Begriff stellte die schnelle Produktentwicklung (engl.
+simultaneous engineering), multifunktionale Teams und die ständige Optimierung der
+Produktionsabläufe in den Mittelpunkt. Aktuell wird der Begriff Agilität oft in Anlehnung
+an die Formel „Industrie 4.0“ diskutiert. Zudem wird er als Managementparadigma auf
+alle denkbaren Organisationsformen ausgeweitet: Nicht nur auf (Software-)Unternehmen,
+sondern auch auf Behörden, Gewerkschaften, Kirchen, Vereine oder eben Bibliotheken
+wird er angewandt. Dabei wird der Begriff nicht selten eng gekoppelt mit bestimmten
+Techniken und Methoden wie Scrum, Design Thinking, Kanban etc. In gewisser Weise
+hat Agilität den Status einer „Universalantwort“7 auf die Fragestellungen und Erfordernissen
+der VUCA-Welt erlangt und taucht in verlässlicher Nachbarschaft mit Begriffen auf,
+die kurz Konjunktur haben, ohne sich jedoch allgemein zu etablieren, wie z. B. Digital
+Leadership, Plural Leadership, Leadership Embodiment oder Facilitation. Auch wenn es
+sich nach wie vor um einen schillernden Begriff handelt, sind mit Agilität bestimmte
+Kernelemente und Hinsichten verknüpft, von denen einige wesentliche im Folgenden
+vorgestellt werden: Haltung(en), Organisation, Führung, Kommunikation und Öffnung.
+2.1 Haltung(en)
+Dem aktuellen Leitbild der Universitäts- und Landesbibliothek Bonn, das die Überschrift
+„Digitalisierung als Chance – Unsere Haltung in der Transformation“ trägt, ist
+als Motto ein chinesisches Sprichwort vorangestellt: „Wenn die einen Mauern gegen
+den Wind bauen, bauen die anderen Windmühlen.“8 Damit ist angesprochen: Agilität
+öffnet sich den von außen kommenden Energien der Veränderung und verwandelt
+diese zum eigenen Vorteil. Agilität ist keine Technik, sondern eine Haltung. Agile Techniken
+bzw. Methoden können zwar helfen, Agilität in einer Organisation zu stärken
+und zu verankern, aber sie können allein eine Organisation nicht agil(er) machen. Es
+kommt vielmehr vor allem darauf an, dass die Mitarbeitenden dieser Einrichtung sich
+für agile Haltungen interessieren, sie möglichst bejahen und im Idealfall in der Praxis
+beherzigen. Je stärker dies der Fall ist, desto agiler kann eine Organisation werden.
+Worin bestehen die agilen Haltungen? Die Basis von Agilität ist Vertrauen. Oder
+umgekehrt ausgedrückt: Ohne Vertrauen ist Agilität schlichtweg unmöglich. Einerseits
+ist es das Vertrauen des Individuums in sich selbst: Ich kenne mich, weiß um meine
+Stärken und Schwächen, und ich bin in der Lage, durch meine Persönlichkeit und mit
+meinen fachlichen Kompetenzen einen wertvollen Beitrag zum Erfolg der Organisation
+beizusteuern. Andererseits geht es um das gegenseitige Vertrauen der Mitarbeitenden.
+Prägend sollten Respekt, Wertschätzung und Anerkennung sein. Ich muss nicht mit den
+ So in kritischer Absetzung Kaune et al. (2021) 103.
+ https://www.ulb.uni-bonn.de/de/die-ulb/leitbild, zugegriffen am 28.2.2024.
+30 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+Kollegen:innen konkurrieren und sie nicht kontrollieren. Ich erkenne an, dass sie fähig
+und in der Lage sind, sehr gute Leistungen aus eigenem Antrieb, selbstständig und
+selbstorganisiert zu erbringen. Hinzu kommt die sogenannte Fehlerkultur: Eigene Fehler
+werden weder verdrängt noch verschwiegen, sondern man gibt Fehler offen zu und
+scheut sich nicht, sie mit den Kolleg:innen offen zu besprechen, damit man sie künftig
+besser vermeiden kann. Im Klima des Vertrauens wächst das Wissen umeinander und
+die Bereitschaft, füreinander einzustehen. Zu den agilen Haltungen gehört außerdem,
+sich auf die VUCA-Welt grundsätzlich positiv einzustellen. Der Blick ist maßgeblich auf
+das gerichtet, was außerhalb der eigenen Organisation vor sich geht. Diese wird als Teil
+eines Ökosystems verstanden, mit dem jene in ständiger Interaktion ist. Entsprechend
+gilt beim Wahrnehmen und Denken das Primat der Makroebene, des big picture: Man
+erfasst die großen Trends und Veränderungen der Umwelt, bei den wissenschaftlichen
+Bibliotheken die Bibliotheks- und Informationslandschaft sowie die sich wandelnden
+Bedarfe der Nutzenden. Aus diesen Beobachtungen werden fortlaufend die Maßnahmen
+abgeleitet, die notwendig sind, damit die Bibliothek ihrer angestammten Funktion
+entsprechend, also z. B. als verlässlicher Informationsdienstleister in der Hochschule,
+agieren kann.
+Dieser Blick impliziert die Grundeinstellung, dass der Wandel normal und Beharren
+nur die Ausnahme sein kann. Veränderungen entsprechen den willkommenen Störungen
+im Luhmann’schen Sinne. Erst diese ermöglichen es dem System, sich zu
+erhalten, indem es sich an die Veränderungen der Umwelt anpasst. Agile Mitarbeitende
+erkennen früh, was auf die eigene Organisation zukommt. Sie antizipieren die Zukunft,
+werden so zu Treibenden, nicht Getriebenen.9 Sie sind lernbereit, neugierig und risikoorientiert.
+Sie haben Freude an Innovationen, am Ausprobieren und Experimentieren.
+Ihre Lieblingsfrage lautet: Wie kommt das Neue in die Bibliothek? Entsprechend „drehen
+sie jeden Stein um“, überprüfen Strukturen, Abläufe und Dienstleistungen fortlaufend
+auf ihre Sinnhaftigkeit und modifizieren sie. Sie erhalten, was morgen noch Sinn
+macht, und trennen sich von dem, was heute obsolet ist. Sie verabschieden sich von
+Konzepten von gestern, um sie heute durch bessere zu ersetzen.
+2.2 Organisation
+Weil Agilität eine Haltung ist, kann man sie nicht quasi automatisiert herbeiführen,
+indem man die Aufbau- oder die Ablauforganisation umstrukturiert. Die sogenannten
+flacheren Hierarchien etwa, die oft im Kontext von Agilität zitiert werden, gehen
+nicht von selbst mit einem Mehr an Agilität einher. Hierarchische Strukturen können
+auch dann weiterbestehen, wenn Agilität in der Organisation intensiv gelebt wird.
+ Neuhausen 2016.
+1.2 Digitale Transformation und Agilität 31
+Entscheidend ist, dass hierarchische Strukturen und die mit diesen verknüpften Vorstellungen
+in signifikanten Situationen keine Bedeutung mehr haben: In der internen
+Entscheidungsfindung etwa gilt nicht mehr das, was eine ranghöhere Person sagt, als
+per se gewichtiger, sondern das, was die zur speziellen Frage kompetentere Person im
+Raum sagt. Es zählt allein die Kraft der Argumente. In solchen Momenten ist auch belanglos,
+ob die Chefin oder der Chef am Ende einer Einigung „den Segen von oben“
+erteilt. Der Konsens im besagten Moment genügt, um die Entscheidung verbindlich zu
+machen. Die hierarchischen Strukturen verlieren aber immer auch dann an Bedeutung,
+wo Mitarbeitende und Teams grundsätzlich selbstständig entscheiden und
+handeln.
+Der entsprechende Wandel lässt sich in organisationssoziologischer Hinsicht am
+besten in gegensätzlichen Metaphern ausdrücken: Um besser für die Anforderungen
+der sich wandelnden Umwelt gerüstet zu sein, verabschiedet sich eine agile Organisation
+vom vertikalen Kaskaden- oder Wasserfallmodell. Sie wird zu einem neuronalen
+horizontalen Netzwerk. Die Zellen dieses Netzwerks – seien es Mitarbeitende oder
+Teams – agieren maximal selbstständig und eigenorganisiert. Interferenzen und Interventionen
+von höheren Ebenen sind so weit wie möglich ausgeschlossen. Jene sind nur
+dann notwendig, wenn die Mitarbeitenden bzw. das Team trotz intensiver eigener
+Bemühungen an der Lösung eines Problems gescheitert sind und auch die Beratschlagung
+mit anderen betroffenen Bereichen keinen Fortschritt gebracht haben. Dann delegieren
+sie das Problem nach oben.10 Je mehr Vertrauen die Mitarbeitende in solche
+agilen Praktiken im Laufe der Zeit gewinnen, desto wahrscheinlicher dürfte es sein,
+dass am Ende auch die Organisationsstrukturen agiler und die Hierarchien flacher werden.
+Es erscheint plausibel, dass in einer solchen Organisation auch unterschiedliche
+organisationale Steuerungselemente wie z. B. der Aktenplan, der Geschäftsverteilungsplan,
+die Tätigkeitsdarstellung, „Ordnungsgemäßheit von Geschäftsgängen“ oder das
+Jahresbudget tendenziell weniger Relevanz haben, weil der Anspruch an Reaktionsfähigkeit
+und Flexibilisierung Raum für entsprechende neue Lösungen gibt.
+2.3 Führung
+Gerade weil Agilität einer Organisation nicht von oben verschrieben werden kann, ist
+die Rolle von Führung in agilen Organisationen essentiell. Führungskräfte können den
+Raum geben und „halten“,11 in dem sich Agilität besser entfalten kann. Sie können insbesondere
+auch für Mitarbeitende, die sich auf Agilität einlassen, einen Schutzraum gegenüber
+den Widerständen aus der eigenen Organisation zur Verfügung stellen. Am
+ Vgl. Laloux 2015: S. 79: „Die allgemeine Philosophie folgt einer umgekehrten Delegation. Es gilt die
+Erwartung, dass die Teams vor Ort alles übernehmen, außer den Dingen, die sie aus eigener Entscheidung
+nach ‚oben’ abgeben.”
+ Zum Begriff des ‚Raum Haltens‘ siehe: Laloux 2015: S. 239.
+32 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+wichtigsten ist jedoch, dass Führungskräfte die agilen Werte persönlich vorleben. Sie
+fördern eine Kultur des gegenseitigen Vertrauens, geben Kontrolle und ermutigen zum
+selbstständigen Handeln. Agile Führungskräfte halten sich weder für allwissend noch
+unfehlbar, sie legen die Grenzen ihrer Kompetenz und Ihres Wissens den Mitarbeitenden
+gegenüber offen. Sie stehen zu eigenen Fehlern.12 Sie verabschieden sich vom Ideal
+der heroischen Führung, sind nicht mehr die Alleskönner:innen und brauchen sich
+nicht mehr „auf die Zehenspitzen zu stellen“, um sich größer zu machen als sie sind.13
+Agile Führungskräfte sind nicht mehr die, auf die allein es ankommt. Sie zeigen, dass sie
+auf ihre Mitarbeitenden und deren Leistungen angewiesen sind. Sie gehen davon aus,
+dass ihre Mitarbeitenden in der Regel die größere Expertise als sie selbst mit Bezug auf
+ihren speziellen Tätigkeitsbereich haben. Den Werkzeugkasten der sogenannten „transaktionalen
+Führung“,14 in dem sich z. B. Aufträge, Anweisungen, Vorgaben, Genehmigungen,
+Richtlinien, Dienstanweisungen, Ermahnungen, Abmahnungen, Zeiterfassung etc.
+befinden, lassen sie, soweit es geht, geschlossen. Agile Führungskräfte verzichten außerdem
+auf den Habitus des klassischen Chefs bzw. der klassischen Chefin. Sie halten ihr
+Wissen nicht geheim, um aus Wissensvorsprüngen Machtvorsprünge zu generieren. Sie
+legen ihre Überlegungen und ihre Wege der Entscheidungsfindung offen, Irrtümer, Widersprüche
+und Aporien eingeschlossen. Sie praktizieren eine partizipative Führungskultur
+und begründen die von ihnen getroffenen Entscheidungen gegenüber ihren
+Mitarbeitenden.
+Agile Führungskräfte gehen außerdem davon aus, dass es vor allem die gemeinsamen
+Orientierungen, Grundüberzeugungen und Werte sind, die den Erfolg des Arbeitsbereichs
+bzw. der Organisation wahrscheinlicher machen. Demgegenüber verlieren
+Planung, Budgetierung und feste Vorgaben als Führungsinstrumente tendenziell an Bedeutung.
+Um es im Bild einer Wanderung zu beschreiben: Der Kurs der Wanderung
+wird nicht vorab exakt in eine Karte eingezeichnet, sondern man vertraut auf den Kompass
+der gemeinsamen Orientierungen, Grundüberzeugungen und Werte. Man plant
+den künftigen Kurs nicht weit im Voraus, sondern vertraut darauf, den Weg zum Ziel
+besser zu finden, wenn man auf unerwartete Herausforderungen einvernehmlich,
+schnell und angemessen reagiert. Nicht externalisierte Planung, sondern internalisierte
+Mustererkennung führt in der VUCA-Welt am besten zum Ziel.15
+ Das Lernen am Scheitern ist Kernidee von Formaten wie Fail Camps oder Fuck-up-Fridays, an denen
+sich auch Universitäten beteiligen.Vgl. https://www.fuckupstoriesaachen.de/ oder https://www.uni-bonn.
+de/de/studium/organisation-des-studiums/studienverlauf/studienzweifel/fun (beide 28.02.2024).
+ Als Gegenbeispiel sei Guido Westerwelle zitiert, der am 5. Mai 2001 als frisch gebackener FDPVorsitzender
+gesagt hat: „Auf jedem Schiff, das dampft und segelt, gibt’s einen, der die Sache regelt –
+und das bin ich.“ Zitiert nach: https://www.auswaertiges-amt.de/de/newsroom/100905-bm-wams/
+226060 (28.02.2024). Zur postheroischen Führung in Bibliotheken siehe: Baecker 2018.
+ Zur transaktionaler und transformationaler Führung vgl. Heidbrink u. Debnar-Daumler 2023:
+S. 25 ff.
+ Nassehi 2019.
+1.2 Digitale Transformation und Agilität 33
+Agile Führungskräfte beschränken sich schließlich auf ihre wesentlichen Aufgaben:
+Sie sind ihren Mitarbeitenden Ratgeber, Coach und Mentor (servant leadership).16
+Sie praktizieren die „transformationale Führung“17 und sehen in ihrer Mitarbeiterin
+bzw. ihrem Mitarbeiter den ganzen Menschen, der den berechtigten Anspruch hat,
+sinnerfüllt zu arbeiten, und der dann am motiviertesten ist, wenn man ihm ein Maximum
+an Freiräumen lässt. Sie stehen persönlich dafür ein, dass die agilen Prinzipien
+auch von ihren Mitarbeitenden respektiert und beherzigt werden. Sie verantworten
+die Strategieentwicklung ihres Bereichs/ihrer Einrichtung und sorgen dafür, dass die
+Strategie nicht nur klar kommuniziert, sondern auch beachtet wird. Sie kommunizieren
+schließlich für ihren Bereich nach außen und stehen insbesondere mit den externen
+Stakeholdern kontinuierlich in Beziehung, um die Entwicklungen mit deren
+Wünschen und Bedürfnissen in Einklang zu bringen.
+2.4 Kommunikation
+Weil agile Kommunikation stark auf Vertrauen beruht, zeichnet sie sich durch eine
+starke Tendenz zur Deformalisierung aus: Agile Mitarbeitende kommunizieren umstandslos,
+unkompliziert und effizient. Der mündlichen Kommunikation kommt dabei
+ein entscheidendes Gewicht zu: Eine informelle und spontane mündliche Kommunikation
+im Stehen (stand-up meetings) und ihre verschiedenen Ausprägungen (daily,
+weekly etc.) haben eine wichtige Bedeutung in der Agilität. Hinter diesen Formaten
+steht ein besonders ausgeprägtes Vertrauen in die menschliche Intuition. Das Wissen
+und der Erfahrungsschatz des Einzelnen gelten als machtvolle Ressourcen. Intuition
+ist ein geeignetes Instrument, um komplexe Problemlagen zu begreifen und entsprechend
+maßgeschneiderte, ebenfalls hochkomplexe Antworten zu finden. Eine besondere
+Wirksamkeit wird dabei der Intuition in der Gruppe, d.h. der gemeinsamen
+Intuition, zugemessen, die anhand bestimmter agiler Techniken in Szene gesetzt werden
+kann.18 Entsprechend verliert das kollektive dokumentierte Wissen einer Organisation
+tendenziell an Bedeutung, um in Krisensituationen adäquate Entscheidungen
+zu entwickeln. Aus dem Vorwissen lassen sich keine Entscheidungen für das Jetzt automatisch
+deduzieren. Die agile Kritik an solchen traditionellen Verfahren argumentiert,
+dass die Entscheidung dieselbe gewesen wäre, auch wenn man nicht auf das
+dokumentierte Vorwissen zurückgegriffen hätte. Gerade die Statistik und die Excel-
+Tabelle sind in der Agilität nicht mehr Ausdruck unfehlbarer Entscheidungsfindung,
+oder wie es Hermann Josef Abs ausgedrückt hat: „Eine Statistik ist wie eine Laterne
+im Hafen. Sie dient dem betrunkenen Seemann mehr zum Halt als zur Erleuchtung.“19
+ Laloux 2015: S. 33.
+ Heidbrink u. Debnar-Daumler 2023. Für das Folgende siehe auch Wunderer 2011.
+ Kruse 2008.
+ Fink 2007: S. 103.
+34 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+Auch der rechtfertigende Rekurs aufs Protokoll verliert in der Agilität an Legitimationskraft,
+auch allein schon deshalb, weil die Welt sich seit dem letzten Protokoll weitergedreht
+hat. Protokolle werden im Übrigen kürzer und entformalisiert. Zudem gibt
+es in der agilen Organisation weniger feste Gremien, die durch Einladung, Agenda
+und Protokoll formalisiert werden. Dauerhafte Arbeitsgruppen weichen stärker den
+ad hoc-Arbeitsgruppen, die nur auf ein kurzfristig erreichbares Ziel gerichtet sind,
+nach dessen Erreichung sie ihre Arbeit einstellen.
+2.5 Öffnung
+Ein zentrales Leitbild der agilen Organisationen ist Öffnung. Enge institutionelle
+Identitäten und Grenzen nach Innen und Außen spielen in der Vorstellung agiler
+Mitarbeitender keine Rolle. Im Innern nimmt die Bindung von Mitarbeitenden zu
+einem bestimmten Arbeitsbereich tendenziell an Bedeutung ab, weil der Blick über
+den eigenen Tellerrand prägend ist, vermehrt der Brückenschlag zu anderen Arbeitsbereichen
+gesucht und entsprechend in übergreifenden Projekten kooperiert
+wird. Da auch die Rollen, die Mitarbeitende in unterschiedlichen Projekten ausfüllen,
+verschieden sind, kann dies die herkömmliche Zuschreibung auf eine bestimmte
+Rolle oder feste Tätigkeitsbeschreibung in Frage stellen. Zugleich nimmt
+die Bedeutung von Identität und Außengrenzen einer agilen Organisation im Verhältnis
+zu ihrer Umwelt ab. Kern ihres Selbstverständnisses ist weniger, sich und
+die eigenen Angebote im Schwerpunkt weiter zu perpetuieren („weiter so“), allenfalls
+zu modifizieren. Dagegen sind die agile Organisation bzw. ihre Mitarbeitenden
+höchst sensitiv für die Impulse ihrer Außenwelt und reagieren kontinuierlich auf
+diese. Die maßgeblichen Veränderungsimpulse kommen weniger von innen als von
+außen. Es geht darum, auf die Ansprüche von Stakeholdern zu reagieren und die
+Verfahrenswege daraufhin flexibel anzupassen.
+Mit Blick auf die wissenschaftlichen Bibliotheken impliziert dies, dass auch
+Universalbibliotheken den Anspruch aufgeben, das gesamte Portfolio der möglichen
+Services anzubieten. Die agile Bibliothek versteht sich als Teil eines Ökosystems, das
+sich durch funktionale Diversifizierung auszeichnet: Abhängig von der Analyse der eigenen
+Stärken und Schwächen positioniert sich die agile wissenschaftliche Bibliothek
+in Netzwerken, indem sie bestimmte eigene Funktionen ausbaut (von denen die Partner
+in den Netzwerken profitieren) und wiederum andere abbaut (die sie stattdessen
+von den anderen Partnern bezieht).20 Die agile Bibliothek öffnet sich zunehmend
+auch nicht-bibliothekarischen Professionen. Je diverser die Bibliothek mit Blick auf
+ Beispiele solcher Netzwerke sind die Nationalen Forschungsdateninfrastrukturen, die Fachinformationsdienste
+oder die länderweiten Netzwerke wie die Digitale Hochschule NRW, Hochschule.digital
+Niedersachsen oder die Virtuelle Hochschule Bayern.
+1.2 Digitale Transformation und Agilität 35
+den Ausbildungshintergrund, natürlich aber auch mit Blick auf andere Merkmale ist,
+desto größer ist ihre Anpassungsfähigkeit an die Umwelt. Die ideale agile Bibliothek
+ist kein abgeschlossener Kosmos mehr, sie ist Teil einer offenen, diversen, vielfältigen
+und demokratischen Gesellschaft. Ihre Mitarbeitenden sehen sich als Teil der Gesellschaft
+und begründen unter Umständen ihr berufliches Engagement mit Hinweis auf
+ein demokratisches Ethos für die zertifizierte gute Information und – im weiteren
+Sinne – für die Wissenschaftsfreiheit.
+2.6 Zwischenfazit: Ambidextrie
+Eines ist völlig klar: Die zuvor skizzierte agile Bibliothek wird es nie in Reinform
+geben, sie ist ein utopisch aufgeladener Idealtypus. Ein wesentlicher Grund dafür
+liegt auf der Hand: Menschen benötigen immer auch Sicherheit und sind auf Strukturen
+angewiesen, die einen mehr, die anderen weniger, und jede Person zu verschiedenen
+Zeiten in einem je unterschiedlichen Maß. Die Veränderungen der Umwelt und
+der eigenen Organisation verursachen bei den einen mehr Ängste und Sorgen als bei
+den anderen. Es wird deshalb immer zunächst nur ein Teil der Belegschaft und des
+Managements in der Lage sein, agile Haltungen mehr oder weniger beherzt leben zu
+können. Vor diesem Hintergrund ist es sinnvoll, sich an das Konzept der Ambidextrie
+(„Beidhändigkeit“) aus der Organisationstheorie zu erinnern.21 Demnach werden Individuen
+und Organisationen mithilfe eines bipolaren Spannungsfeldes betrachtet, das
+von dem einem Pol der Normalität und Routine bis hin zum anderen Pol der Innovation
+und Kreativität reicht. Jedes Individuum und jede Organisation trägt sich irgendwo
+zwischen den beiden Polen ein, Veränderungen sind jederzeit möglich.
+Ambidextrie bedeutet auch, dass die Gleichzeitigkeit unterschiedlich schneller Veränderungsgeschwindigkeiten
+in derselben Organisation nicht nur möglich, sondern
+auch notwendig ist. Entscheidend ist, dass sowohl die eher veränderungsbereiten als
+auch die weniger veränderungsbereiten Mitarbeitenden dieselbe Wertschätzung erhalten.
+Die Erfahrung zeigt, dass es in Bibliotheken viele Kolleg:innen gibt, die sich
+für sich persönlich einen Arbeitszuschnitt wünschen, der beide Aspekte enthält: hohe
+Veränderungsdichte mit spannender Innovation einerseits und gleichzeitig ein Arbeitsbereich,
+der Sicherheit gibt und einen zeitweise zur Ruhe kommen lässt, bevor es
+wieder in die Veränderung geht. Durch eine gesunde Mischung mit einem ausreichend
+hohen Anteil an agilen Personen hat die Organisation die Chance, auch im
+Wandel bestehen zu können. Nach soziologischen Untersuchungen braucht eine Organisation
+eine kritische Masse von mindestens ca. 25 % der Mitarbeitenden, die dafür
+sorgen kann, den tipping point zu erreichen, d. h. hier den Punkt, an dem die Organi-
+ Frey u. Töpfer 2021.
+36 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+sation im Ganzen agil ist.22 Dies zu ermöglichen ist eine zentrale Aufgabe des Personalmanagements
+und der Leitung der Einrichtung.
+3 Personal
+Wenn Bibliotheken sich in der digitalen Transformation neu erfinden, wie agil auch
+immer, so verlangt dies dem Bibliothekspersonal auf allen Ebenen viel ab, von den
+Leitungspersonen bis hin zu den Auszubildenden. Die Wichtigkeit des Personalmanagements
+und der Personalentwicklung für einen erfolgreichen Transformationsprozess
+ist daher kaum zu überschätzen: Wie agil wissenschaftliche Bibliotheken im
+digitalen Wandel agieren können, hängt nicht nur davon ab, dass das für die Transformation
+notwendige fachliche und soziale Knowhow entwickelt wird, sondern auch
+davon, wie es fruchtbar in den Prozess eingebracht werden kann. Die Qualifizierung
+und Gewinnung von Personal und das Schaffen dafür förderlicher Arbeitsbedingungen
+sind damit vordringliche Aufgaben des Bibliotheksmanagements.
+Spätestens seit Mitte der 2010er Jahre, verstärkt seit Beginn der 2020er Jahre,
+stellt die Bewältigung des vielbeschworenen Fachkräftemangels auch für Bibliotheken
+ein manifestes Problem dar. Ausgeschriebene Stellen adäquat zu besetzen ist schwierig
+geworden und gelingt nicht immer. Die Anzahl von Bewerbungen auf bibliothekarische
+Stellen, auch unbefristeten und der Einschätzung der suchenden Bibliothek
+nach attraktiven, liegt häufig im einstelligen Bereich, wobei nicht davon ausgegangen
+werden kann, dass alle Bewerbungen dem geforderten Profil ohne Weiteres entsprechen.
+Auf einem Arbeitsmarkt, der längst ein Arbeitnehmer:innenmarkt geworden
+ist, auf dem sich Arbeitgeber:innen bei potenziellen Mitarbeitenden bewerben, stehen
+Bibliotheken zunehmend in einem harten Wettbewerb mit privaten Firmen und mit
+anderen Einrichtungen des öffentlichen Dienstes. Die Gründe dafür liegen in einer
+komplexen Gemengelage, die gekennzeichnet ist durch den demografischen Wandel
+einerseits und die digitale Transformation der Arbeitswelt einerseits. Das Bibliothekswesen
+teilt diese Bedingungen mit vielen anderen Berufsbereichen, muss jedoch
+seine spezifischen Antworten auf diese Herausforderungen geben.
+Der demografische Faktor lässt sich grob beschreiben als die Situation, die durch
+das schrittweise Ausscheiden der geburtenstarken Babyboomer-Jahrgänge der 1950er
+und 1960er Jahre aus dem Berufsleben eintritt: Es kommt zu einem Rückgang der dem
+Arbeitsmarkt zur Verfügung stehenden Erwerbspersonen, der nicht mehr durch nachwachsende
+Generationen kompensiert werden kann. Seit Beginn der 2020er Jahre fällt
+die Zahl der Schulabsolvent:innen und damit der potenziellen zukünftigen Fachkräfte
+hinter die der Renteneintritte zurück, während gleichzeitig die zunehmende Ausdifferenzierung
+der Studiengänge trotz steigender Studierquote zu einer Verknappung an
+ Centola u. a. 2018.
+1.2 Digitale Transformation und Agilität 37
+Studieninteressenten für viele Fächer führt, darunter auch die Informationswissenschaften.
+Auch wenn andere Faktoren wie der Bologna-Prozess ebenfalls eine Rolle
+spielen, lässt sich die Ausdifferenzierung von Studiengängen und Ausbildungswegen
+unter anderem auch als eine Folge der digitalen Transformation der Berufswelt verstehen,
+in der informationstechnische Kompetenzen sowie digitale Geschäftsmodelle und
+Services in den Vordergrund rücken und durch entsprechend spezialisierte Studiengänge
+adressiert werden. Für die informationswissenschaftlichen Studiengänge hat
+diese Diversifizierung zu einem deutlichen Rückgang an neuen Studierenden geführt,
+so dass diesbezüglich von einer „Bewerberkrise“23 gesprochen worden ist, die gemäß
+der Auslastungslogik des Hochschulbetriebs wiederum zu einer Reduzierung von Studienplätzen
+führt. Eine Idee, dieser Problematik zu begegnen ist das Duale Studium, von
+dem alle Beteiligten wie in einer „Win-Win-Situation“24 profitieren könnten: Studierende
+von der Praxisnähe und einem Einkommen, Bibliotheken durch eine frühzeitige
+Arbeitnehmer:innenbindung und -prägung und Ausbildungshochschulen durch eine
+höhere Konkurrenzfähigkeit des Studienganges. Mittelfristig sind hierbei sicherlich interessante
+Entwicklungen zu erwarten, nicht jedoch eine grundständige Lösung des
+Problems.
+Bibliotheken und Ausbildungseinrichtungen haben in dieser Situation die zusätzliche
+Herausforderung, dass sich aus der digitalen Transformation Anforderungsprofile
+und Berufsbilder ergeben, die nicht leicht zu kommunizieren und mit traditionellen Vorstellungen
+über das Berufsfeld in Übereinstimmung zu bringen sind. Anders gesagt:
+während wissenschaftliche Bibliotheken für eine erfolgreiche Gestaltung der digitalen
+Transformationen auf Kompetenzen von Datenkurator:innen, Softwareentwickler:innen
+oder Spezialist:innen für Open Science oder Digital Humanities angewiesen sind, fällt es
+ihnen zunehmend schwer zu vermitteln, worum es dabei geht. Das Berufsbild ist längst
+fluide geworden, während ein Teil der Studien- oder Ausbildungsinteressierten sich
+eher an traditionellen Vorstellungen des Berufsfeldes orientiert.
+Das Employer Branding wird in diesem Wettbewerb immer wichtiger, also die
+Schaffung eines attraktiven Markenbildes mit Wiedererkennungswert, das geeignet
+ist, Menschen mit den benötigten Kompetenzen und Potenzialen anzuziehen und an
+sich zu binden. Die Kampagne „Mein Job Bibliothek“,25 die der Berufsverband Bibliothek
+und Information (BIB) und der Verein deutscher Bibliothekarinnen und Bibliothekare
+(VDB) 2023 gemeinsam mit dem Deutschen Bibliotheksverband (dbv) gestartet
+haben, verfolgt dieses Ziel und versucht ein attraktives Bild des Arbeitens in öffentlichen
+bzw. wissenschaftlichen Bibliotheken zu vermitteln. Die verschiedenen Wege in
+ Pfeffer 2022: S. 422.
+ Meier u. Schmunk 2022: S. 393. Am 7. Februar 2024 hat dieselbe Hochschule jedoch den Stopp von
+Neuimmatrikulationen in den informationswissenschaftlichen Studiengängen und die Empfehlung
+zur künftigen Aufhebung dieser Studiengänge kommuniziert: https://h-da.de/meldung-einzelansicht/hda-
+stellt-informationswissenschaftliche-studiengaenge-neu-auf (06.03.2024).
+ https://meinjob-bibliothek.de/ (28.02.2024).
+38 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+den Beruf (Ausbildung, Studium, Quereinstieg) sowie Möglichkeiten der Weiterqualifikation
+innerhalb des Berufes werden transparent dargestellt, die offene Jobbörse BiblioJobs26
+wird verlinkt. Die im Januar 2024 gelaunchte Kampagne „Weiter Wissen“27
+richtet sich zwar vornehmlich an die Träger der wissenschaftlichen Bibliotheken und
+generell an die verschiedenen Akteure der Wissenschaftscommunity, verfolgt aber
+einen durchaus ähnlichen Zweck, nämlich ein besseres Verständnis für die Leistungen
+wissenschaftlicher Bibliotheken zu etablieren. Auch dadurch soll eine Arbeitgebermarke
+kreiert werden, die gezielt mit Themen der digitalen Transformation wie
+Open Access, Forschungsdatenmanagement, digitaler Langzeitarchivierung oder Forschung
+und Entwicklung konnotiert ist.
+Wie sich solche Imagekampagnen auswirken werden, bleibt abzuwarten. Sie können
+dazu beitragen, ein leichter fassbares Bild von den Themen, Chancen und Herausforderungen
+von Bibliotheken in der digitalen Transformation zu zeichnen und dabei
+traditionelle Vorstellungen von Bibliotheken und Bibliothekar:innen zu korrigieren.
+Und sie können helfen, einen ganz wesentlichen Aspekt zu transportieren, der auch
+für das Paradigma einer idealtypischen Bibliothek von hoher Relevanz ist, nämlich
+die hohe Sinnhaftigkeit des Arbeitens in einem Bildungs- und Wissenschaftskontext
+mit dem Antrieb, den Zugang zu gesellschaftlich und wissenschaftlich relevantem
+Wissen sicherzustellen, das offene Publizieren zu ermöglichen und Informationskompetenz
+im digitalen Zeitalter zu vermitteln.
+Neben der Sinnhaftigkeit des Arbeitens stellt auch die Sicherheit des Arbeitsplatzes
+und der Versorgung einen Aspekt dar, den von der öffentlichen Hand getragene
+wissenschaftliche Bibliotheken potenziell als Vorteil verbuchen können, was insbesondere
+in der Corona-Pandemie sehr deutlich geworden ist. Dieser Aspekt hat aber
+im Hinblick auf die Agilisierung von Bibliotheken auch eine Problemseite, da öffentliche
+Einrichtungen sich nicht per se in einem agilen Umfeld bewegen. Das Verhältnis
+von Agilität und öffentlichem Dienstrecht ist spannungsreich und teilweise widersprüchlich.
+28 Das öffentliche Dienstrecht ist immer noch von Voraussetzungen geprägt,
+die aus dem 19. Jahrhundert stammen. Es befestigt in mehrfacher Hinsicht
+Vorstellungen und Praktiken, die der Agilität entgegengesetzt sind: Erstens geht es
+davon aus, dass die Mitarbeitenden Tätigkeiten ausführen, die von höherer Stelle „gesetzt“
+sind. Vorgesetzte definieren eine zu erreichende Zielvorstellung und „setzen“
+das Personal zu dessen Erreichung instrumentell „ein“. Entsprechend erfüllen die Mitarbeitenden
+die Vorgaben und verfügen über relativ begrenzte Möglichkeiten einer
+selbstverantwortlichen Aufgabensetzung und -erledigung. Des Weiteren geht das öffentliche
+Dienstrecht grundsätzlich davon aus, dass die Tätigkeiten von Dauer sind.
+Bei den Angestellten werden die Tätigkeiten in der Tätigkeitsdarstellung umfassend
+ https://bibliojobs.eu/ (28.02.2024).
+ https://weiterwissen-kampagne.de/ (28.02.2024).
+ Siehe dazu das Forum Agile Verwaltung: https://agile-verwaltung.org (28.02.2024), Knorre (2020)
+und Vonhof (2018) sowie die anderen Beiträge desselben Sammelbandes.
+1.2 Digitale Transformation und Agilität 39
+beschrieben, wodurch eine Flexibilisierung im Sinne der Agilität erschwert wird. Es
+wird implizit vorausgesetzt, dass die Tätigkeiten auf zumindest mittlere Frist festgelegt
+sind und dass die Tätigkeiten auf ein bestimmtes Gesamtniveau der Schwierigkeit
+und Bedeutung hin ausgerichtet und entsprechend konvergent sein müssen. Verstärkt
+wird diese Tendenz dadurch, dass bestimmte Tätigkeitsbereiche als Ämter ausgestaltet
+werden können, was später gegebenenfalls die Umorganisation erschwert. Der
+Umstand, dass das kontinuierliche Umschreiben und erneute Abstimmen der mitbestimmungspflichtigen
+Tätigkeitsdarstellung ein aufwendiger und bürokratischer Akt
+ist, trägt zur Immobilität der Tätigkeitsprofile bei.
+Die hier nur angedeuteten Strukturen und Kulturen sind langlebig und prägen
+als Betriebskultur die Mentalität vieler Bibliotheken sowie von Bibliothekar:innen,
+die zumeist – auch wenn matrixartige Organisationsformen mittlerweile in einigen
+Bibliotheken Einzug gehalten haben – in einer klassischen Linienorganisation verfasst
+sind. Die Agilisierung solcher Einrichtungen in dem für sie zu einem gegebenen
+Zeitpunkt passenden Maße, mit dem Ziel, sie für die Neuerfindung in der digitalen
+Transformation in Bewegung zu bringen und einen Kultur- und Haltungswechsel herbeizuführen,
+stellt eine zentrale Herausforderung für das Management von wissenschaftlichen
+Bibliotheken dar.
+4 Schlussbemerkung
+Agilität ist kein Allheilmittel und kein Selbstzweck. Vielmehr ist sie eine Haltung bzw.
+ein konsistenter Zusammenhang von Haltungen, von denen man bestimmte Aspekte
+in bestimmten Situationen anwenden kann, um in einer digitalisierten dynamischen
+Welt bessere Entscheidungen zu treffen. Die zentrale agile Haltung ist Vertrauen. Da
+sich dieses nicht planen oder „wollen“ lässt, muss man Zeit und Raum für sein Wachstum
+geben. Eine besondere Verantwortung tragen dabei die Führungskräfte: an ihnen
+ist es, den Raum zu geben, der notwendig für eine erfolgreiche Transformation der
+Bibliothek ist.
+Literatur
+Baecker, Dirk: Postheroisches Management in Bibliotheken. In: Bibliothek – Forschung und Praxis 42
+(2018), H. 3, S. 399–402. https://doi.org/10.1515/bfp-2018-0051.
+Bennett, Nathan u. G. James Lemoine: What a difference a word makes: Understanding threats to
+performance in a VUCA world. In: Business Horizons 57 (2014), S. 311–317. http://dx.doi.org/10.1016/j.
+bushor.2014.01.001.
+Centola, Damon, Joshua Becker, Devon Brackbill u. Andrea Baronchelli: Experimental evidence for tipping
+points in social convention. In: Science 360 (2018), S. 1116–1119. https://doi.org/10.1126/science.
+aas8827.
+40 Ulrich Meyer-Doerpinghaus und Jochen Johannsen
+Fink, Klaus-J. (Hrsg.): 888 Weisheiten und Zitate für Finanzprofis. Die passenden Worte für jede Situation
+im Beratungsgespräch. Wiesbaden: Gabler 2007.
+Frey, Christoph u. Gudrun L. Töpfer: Ambidextrie in Organisationen: Das Praxishandbuch für eine
+beidhändige Zukunft. Freiburg: Schäffer-Poeschel 2021.
+Gloger, Boris u. Jürgen Margetich: Das Scrum-Prinzip: Agile Organisationen aufbauen und gestalten. 2.
+Aufl. Stuttgart: Schäffer-Poeschel 2018.
+Heidbrink, Marcus u. Sebastian Debnar-Daumler: Selbstführung: Innere Klarheit für chaotische Zeiten. 3.
+Aufl. Freiburg, München, Stuttgart: Haufe 2023.
+Hofert, Svenja: Agiler führen. Einfache Maßnahmen für bessere Teamarbeit, mehr Leistung und höhere
+Kreativität. 3. Aufl. Wiesbaden: Springer Gabler 2021.
+Kaune, Axel, Niko Glaubke u. Therese Hempel: Change Management und Agilität. Aktuelle
+Herausforderungen in der VUCA-Welt, Wiesbaden: Springer Gabler.
+Knoche, Michael (2015): Haben wissenschaftliche Bibliotheken noch einen Sammelauftrag? In: o-bib – Das
+offene Bibliotheksjournal 2 (2021), H. 4, S. 78–84. http://dx.doi.org/10.5282/o-bib/2015H4S78-84.
+Knorre, Susanne: Agiles Verwaltungsmanagement und interne Kommunikation: Neue Perspektiven einer
+kommunikationszentrierten Führung in der öffentlichen Verwaltung. In: Öffentliche Verwaltung –
+Verwaltung in der Öffentlichkeit: Herausforderungen und Chancen der Kommunikation öffentlicher
+Institutionen. Hrsg. von Klaus Kocks, Susanne Knorre u. Jan Niklas Kocks. Wiesbaden: Springer VS
+2020. S. 39–55. https://doi.org/10.1007/978-3-658-28008-6.
+Kruse, Peter: Wie reagieren Menschen auf wachsende Komplexität? Gespräch mit Lutz Berger und Ulrike
+Reinhard auf der SCOPE_O8-Konferenz. 2008. https://youtu.be/m3QqDOeSahU (28.02.2024).
+Laloux, Frederic: Reinventing Organizations. Ein Leitfaden zur Gestaltung sinnstiftender Formen der
+Zusammenarbeit. München: Vahlen 2015.
+Meier, Berthold u. Stefan Schmunk: Herausforderungen und Perspektiven für die Studienrichtung Library
+Science/Bibliothekswissenschaft der Studiengänge Information Science (BA u. MA) an der
+Hochschule Darmstadt. In: Bibliothek – Forschung und Praxis 46 (2022), H. 3, S. 389–393. https://doi.
+org/10.1515/bfp-2022-0040.
+Lee, Martin, Daniela Poth, Friederike Sablowski, Isabelle Tannous, Frauke Untiedt, Cornelia Vonhof, Maik
+Arensmann u. Karin Glatzel: Führung und agiles Arbeiten. Modell für ein stabiles und dynamisches
+Grundgerüst in einer komplexeren und digitaleren Zukunft. In: BuB – Forum Bibliothek und
+Information 72 (2020), H. 2–3, S. 111–115.
+Nassehi, Armin: Muster. Theorie der digitalen Gesellschaft. München: C. H. Beck 2019.
+Neuhausen, Hubertus: „Treiben wir oder werden wir getrieben“: Wissenschaftliche Bibliotheken im
+Wandel. In: ABI Technik 36 (2016), H. 4, S. 238–251. https://doi.org/10.1515/abitech-2016-0049.
+Pfeffer, Magnus: No Future? Konsequenzen der Bewerberkrise der informationswissenschaftlichen
+Studiengänge. In: Bibliothek – Forschung und Praxis 46 (2022), H. 3, S. 422–430. https://doi.org/10.
+1515/bfp-2022-0044.
+Vonhof, Cornelia: Bibliotheken und Agilität – Welten begegnen sich? In: Agile Verwaltung. Wie der
+Öffentliche Dienst aus der Gegenwart die Zukunft entwickeln kann. Hrsg. von Martin Bartonitz,
+Veronika Lévesque, Thomas Michl, Wolf Steinbrecher, Cornelia Vonhof u. Ludger Wagner. Berlin,
+Heidelberg: Springer-Gabler 2018. S. 169–183. https://doi.org/10.1007/978-3-662-57699-1_17
+Wunderer, Rolf: Führung und Zusammenarbeit: Eine unternehmerische Führungslehre, 9. Aufl. Köln:
+Luchterhand 2011.
+1.2 Digitale Transformation und Agilität 41

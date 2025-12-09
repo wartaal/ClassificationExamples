@@ -1,0 +1,595 @@
+Anke Quast
+3.3 Entwicklungen bei den
+Basisdienstleistungen (Ausleihe,
+Scandienste, Logistik)
+1 Einleitung
+Über Jahrhunderte war der Hauptservice einer Bibliothek der Zugang zu ihren physischen,
+vor Ort einsehbaren Beständen und Sammlungen. Im 19. Jahrhundert wurden
+Bibliotheken zu wichtigen Bestandteilen der öffentlichen Bildungssysteme, und die
+Ausleihe von Büchern in vielen Bibliotheken gehörte zum Standardangebot. Die Entwicklung
+von der Präsenzbibliothek mit klassischen Lesesälen zur modernen wissenschaftlichen
+Bibliothek mit unterschiedlichen Zonierungen für verschiedene Arbeitsweisen und
+Zielgruppen und vor allem der Erweiterung zu digitalen Services und Angeboten haben
+daran bisher nicht wirklich etwas geändert.
+Qualitativ ist der Ausleihservice von physischen Beständen/Medien und von Non-
+Book-Materialien, mittlerweile bis hin zur Ausleihe von Bohrmaschinen oder Gemälden,
+breit aufgestellt. Aber auch bei langsam sinkenden Ausleihzahlen deutscher
+wissenschaftlicher Bibliotheken seit 20131 gehört er nach wie vor zum Basisservice,
+der allerdings mit erheblichen technischen und organisatorischen Aufwänden verbunden
+ist.
+Im Bereich der Logistik der Bestände reicht die Entwicklung vom Transport bestellter
+Medien mit Kisten und Bücherwagen hin zu vollautomatisierten, RFID-gesteuerten
+Magazinanlagen. Die Automatisierung in Form von Ausleih- und Rückgabeautomaten
+sowie angeschlossenen Bezahlsystemen verlagert die Tätigkeiten mehr und mehr zu
+den Nutzer:innen, die diese Automaten im Ausleihprozess selbst bedienen, eine Voraussetzung
+für längere Öffnungszeiten auch ohne Bibliothekspersonal.
+Neben dem möglichst barrierefreien Zugang zu den physischen Beständen gehört
+die Organisation des sicheren Zugangs zu lizenzierten Online-Ressourcen wie
+E-Journals, E-Books sowie elektronischen Fachdatenbanken ebenfalls zum festen
+Angebot heutiger Bibliotheken.
+Zu ihrem Service zählen klassischerweise auch die Druck-, Kopier- und Scanangebote.
+So können direkt vor Ort in Selbstbedienung Auszüge aus Medien vervielfältigt,
+kopiert und weiter genutzt werden. Darüber hinaus bieten Bibliotheken Bestellmöglichkeiten
+für Kopien respektive Scans von Artikeln und Aufsätzen aus den eigenen
+Bibliotheksbeständen an. Letzteres ergänzt den Bibliotheksservice von Hochschulbi-
+ Deutsche Bibliotheksstatistik Gesamtauswertungen Berichtsjahre 2010–2021: Entleihungen in öffentlichen
+und wissenschaftlichen Bibliotheken in Deutschland (2022).
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-009
+bliotheken, die Zusammenstellung von Semesterapparaten für Lehrveranstaltungen,
+die heute zumeist auch elektronisch angeboten werden.2
+2 Ausleihe
+Hinter dem Ausleihservice einer Bibliothek steht ein erheblicher Verwaltungs- und
+Logistikaufwand: Die Ausleihen müssen dokumentiert, den Entleihenden zugeordnet
+und Ausleihfristen überwacht werden. Gegebenenfalls entstehen bei Überschreitung
+von Ausleihzeiten Gebühren, die eingenommen, verbucht und bis hin zum Vollstreckungsverfahren
+nachverfolgt werden müssen.3 Die Organisation von Bestellungen
+auf Bestände umfasst das Ausheben, Bereitstellen und Zurückordnen der Medien.
+Kommen noch Transportwege zwischen verschiedenen Standorten hinzu, muss auch
+die Lieferung organisiert werden.
+Neben den ausleihbaren Printmedien werden zudem Non-Book-Materialien wie
+Karten, Notenmaterial, Mikrofiches oder technische Geräte bis hin zu Kopfhörern, Ladekabeln
+usw. ausgeliehen. Auch lässt sich die Nutzung von abschließbaren Bücherwagen
+oder -boxen, um Arbeitsmaterial über einen längeren Zeitraum in der Bibliothek
+zu belassen, über die Entleihung regeln.
+Organisatorisch gehören die Verwaltungstätigkeiten im Zusammenhang mit der
+Ausleihe zum Bereich der Leihstellen- und Magazintätigkeiten. Das hier eingesetzte
+Personal organisiert die Anmeldung, Bereitstellung und Ausgabe bestellter Medien,
+die Abwicklung der Gebührenvorgänge, Ersatzbeschaffungen und die Beratung und
+Auskunft zu allen Fragen rund um das Bibliothekskonto.
+2.1 Verwaltung von Bibliothekskonten
+Voraussetzung für viele Bibliotheksservices ist die Registrierung, d. h. die Einrichtung
+eines Bibliothekskontos im Bibliotheksmanagementsystem und die Ausstellung eines
+Bibliotheksausweises. Damit verbunden ist die Übernahme bestimmter persönlicher
+Angaben in die Datenverwaltung der Bibliothek. Dies ist notwendig, um z. B. das bei
+der Ausleihe entliehene Medium mit dem Benutzungskonto zu verbinden. Oft gibt es in
+den Bibliotheken verschiedene Kategorien von Nutzer:innen und damit verbundene
+unterschiedliche Servicebedingungen. Einzelne Dienstleistungen können so auf be-
+ Zu folgenden Themen gibt es eigene Beiträge in diesem Band: Kapitel 3.4 „Überregionale Bibliotheksdienstleistungen:
+Fernleihe und Direktlieferdienste“, Kapitel 3.1 „Lernraumentwicklung und
+Lernraumverwaltung in wissenschaftlichen Bibliotheken“ sowie Kapitel 3.5 „Bibliothekarische Auskunft
+und Informationsdienstleistungen“.
+ Vgl. Gantert u. Hacker 2016: S. 295 f.
+144 Anke Quast
+stimmte Gruppen beschränkt sein, etwa die Ausleihe von Titeln der Lehrbuchsammlung
+auf die eigenen Hochschulangehörigen. Dafür können u. a. urheberrechtliche oder
+auch Vertragsregelungen mit den Verlagen ausschlaggebend sein. Besondere Bedingungen,
+wie verlängerte Leihfristen, können für Menschen mit Behinderung und chronischen
+Krankheiten gelten, um damit den gesetzlichen Anspruch auf Teilhabe für alle zu
+gewährleisten, verankert in der 2006 von den Vereinten Nationen verabschiedeten,
+2009 von Deutschland ratifizierten UN-Behindertenrechtskonvention. Dieser gesetzlich
+verankerte Anspruch auf Nachteilsausgleich4 gilt auch für Studierende mit Behinderungen
+und chronischen Krankheiten im Studium und bei Prüfungen und ist in das Hochschulrahmengesetz5
+und in der Folge in die Landeshochschulgesetze eingegangen.6
+Für die Ausstellung der Bibliotheksausweise können in Bibliotheken Gebühren
+anfallen. In diesem Fall gelten zumeist ermäßigte Gebühren für verschiedene Personenkreise
+(z. B. Minderjährige, Menschen mit Behinderung, eigene Hochschulangehörige).
+Zahlreiche wissenschaftliche Bibliotheken verzichten mittlerweile ganz auf
+diese Gebühren.
+Die Übernahme der notwendigen Daten erfolgt in aller Regel durch einen Anmeldevorgang,
+entweder direkt vor Ort oder über eine Online-Registrierung. Spätestens
+bei der Ausgabe des Bibliotheksausweises müssen Personaldokumente, i. d. R. Personalausweis
+oder Pass mit der Meldebescheinigung, vorgelegt werden, um die Adressdaten
+zu verifizieren und die eindeutige Identifikation zu gewährleisten. An den
+Universitätsbibliotheken haben sich u. a. automatisierte Verfahren der Datenübertragung
+immatrikulierter Studierender in das Bibliotheksmanagementsystem etabliert.
+Damit gelten die Studierendenausweise zumeist gleichzeitig als Bibliotheksausweise.
+Im Zuge der Erweiterung der Funktionen der Studierendenausweise zu Campuscards
+lassen sich darüber hinaus die Bezahlfunktionen für Mensa und Bibliotheksgebühren
+oder das Ticket für den öffentlichen Nahverkehr verbinden.
+Verschiedentlich existieren Ausleihverbünde von Bibliotheken, wie z. B. HOBSY
+(Hannoversches Online-Bibliothekssystem), ein Zusammenschluss öffentlicher und
+wissenschaftlicher Bibliotheken Hannovers, die einen einheitlichen Ausweis und
+damit erweiterten Service, etwa die Rückgabemöglichkeit an anderen Bibliotheken
+des Verbundes, bieten.7 Die Schweiz ermöglicht mit dem BibliOpass die Nutzung von
+gleich 600 Schweizer Bibliotheken. Die in einer dieser Bibliotheken registrierten Personen
+können den Ausleihservice in jeder der anderen Bibliotheken nutzen, ohne
+ Sozialgesetzbuch (SGB) IX – Rehabilitation und Teilhabe von Menschen mit Behinderungen, Artikel
+1 (2016).
+ Hochschulrahmengesetz (HRG) § 2 Abs. 4.
+ Vgl. Nachteilsausgleiche: Gesetzliche Verankerung (2014). Deutsches Studierendenwerk. https://
+www.studentenwerke.de/de/content/nachteilsausgleiche-gesetzliche-verankerung (26.02.2023).
+ Vgl. Tempel 2020.
+3.3 Entwicklungen bei den Basisdienstleistungen (Ausleihe, Scandienste, Logistik) 145
+eine neue Bibliothekskarte zu erwerben oder Benutzungsgebühren zu entrichten.8
+Das seit 2020 eingeführte Schweizer swisscoverysystem ermöglicht nicht nur die Recherche
+in den Beständen von rund 500 Schweizer Bibliotheken, es können auch Ausleihen
+und ggf. Kurierdienste für die Lieferung von Bestellungen genutzt werden, die
+Anmeldung ist kostenfrei.9
+Verbunden mit der Ausleihe ist die Regelung von Ausleihfristen und damit auch
+die Verfahrensweise bei Fristverlängerungen und Überziehungen der Ausleihzeiten.
+Ausleihfristen können für verschiedene Bestände unterschiedlich geregelt sein. Für
+den normalen Ausleihbestand gilt zumeist eine Leihfrist von vier Wochen mit mehrfacher
+Verlängerungsmöglichkeit. Für Sonderbestände können verkürzte Leihfristen
+gelten.
+Die Ausleihfristen für die verschiedenen Bestandsgruppen sind im Bibliotheksmanagementsystem
+mit Erinnerungs- und/oder kostenpflichtigen Mahnschreiben hinterlegt.
+Aus Datenschutzgründen müssen spezifische Fristen für Löschroutinen der in den
+Benutzungskonten gespeicherten Ausleihdaten und Gebührenvorgänge festgelegt sein,
+sofern keine Forderungen mehr bestehen. Die Gebühren für Erst-, Zweit- und weitere
+Mahnungen sind in den jeweiligen Benutzungs- und Gebührenordnungen festgelegt. Gemeinhin
+wird von der Erhebung von Mahngebühren erwartet, dass diese die „Ausleihdisziplin“
+beeinflussen und Medienverluste verringern sollen. Dabei unterscheiden sich
+Gebührenhöhe und Mahnrhythmen der Bibliotheken erheblich.10 Diskutiert wird, ob es
+eine sinnvolle und zielgruppenorientierte Serviceverbesserung wäre, die Leihfristzeiten
+über die üblichen meist vier Wochen mit zweimaliger Verlängerungsmöglichkeit z. B. auf
+die Dauer eines Semesters zu verlängern oder automatische Verlängerungen zu etablieren,
+falls keine Vormerkungen auf die entliehenen Medien bestehen. Dagegen stehen Befürchtungen,
+dass dadurch die Rückgabe von Medien unterbleiben könnte und diese
+über lange Zeit nicht mehr für andere zur Verfügung stünden. Auch die Auswirkungen
+des Verzichts auf Mahngebühren werden in diesem Zusammenhang diskutiert und auf
+positive Beispiele US-amerikanischer Bibliotheken verwiesen.11
+2.2 Automatisierung der Ausleihvorgänge
+Die mit der Ausleihe verbundenen Vorgänge wurden mehr und mehr durch technische
+Entwicklungen automatisiert und von personalintensiven Arbeitsschritten in die Selbstbedienung
+überführt. Technische Voraussetzungen dafür sind, neben maschinell auslesbaren
+Bibliotheksausweisen und Mediendatensätzen der ausleihbaren Bestände, die
+Mediensicherung bei Entnahme aus den Freihandbereichen, Sicherungsgates an den
+ Vgl. Rivier u. Rod 2006.
+ Vgl. https://swisscovery.slsp.ch (13.02.2024).
+ Vgl. Christensen 2017: S. 254.
+ Vgl. Wilson u. a. 2015.
+146 Anke Quast
+Bibliothekszugängen, leicht bedienbare Ausleih- und Rückgabeautomaten, ggf. verbunden
+mit einem automatischen Buchtransport, und Bezahlmöglichkeiten über Kassenautomat
+oder Cashsysteme.
+In den meisten Bibliotheken können die ausleihbaren Bestände in den frei zugänglichen
+Bereichen selbständig entnommen und entliehen werden. Magazinbestände
+bzw. Bestände, die nicht unmittelbar im Zugriff sind, müssen dagegen bestellt werden.
+Die in analogen Zeiten auszufüllenden Bestellscheine wurden von den meisten Bibliotheken
+standardmäßig von elektronischen Bestell- und Ausleihverfahren abgelöst. Für
+die Bestellung ist, nach der Recherche im Online-Katalog bzw. Discovery-System oder
+Suchportal der Bibliothek, eine Anmeldung im Bibliothekssystem notwendig, um mit
+der Bestellung die Exemplardaten des gewünschten Mediums mit dem Benutzungskonto
+zu verknüpfen. Die Bestellinformation wird an die entsprechende Ausgabestelle
+gesandt, das Medium herausgesucht und zur Abholung bereitgestellt. An vielen wissenschaftlichen
+Bibliotheken gibt es Bereitstellungsregale, aus denen die Bestellungen direkt
+von den Nutzer:innen entnommen und durch das Bibliothekspersonal an den
+Ausleihstellen oder an Ausleihautomaten in Selbstbedienung verbucht werden können.
+Dadurch wird die definierte Ausleihfrist für das Medium mit dem Benutzungskonto
+verknüpft, was notwendig ist, um bei Überziehung der Leihfristen die Mahnvorgänge
+zu starten, ggf. die Konten mit Mahngebühren zu belasten und daran anschließende
+Mahnverfahren in Gang zu setzen. Etabliert hat sich vielfach die automatisierte Benachrichtigung
+per Mail, sobald bestellte Medien zur Abholung bereitstehen, und auch Erinnerungsmails,
+wenn die Leihfrist endet.
+Nicht abgeholte Medien werden innerhalb eines definierten Zeitraums, meist
+5–7 Tage, vom Personal abgeräumt.
+2.3 Eingesetzte Technik bei der Selbstverbuchung, Rückgabe
+und Mediensicherung
+Grundlage für den Einsatz automatisierter Verfahren ist die individuelle, maschinell
+auslesbare Kennzeichnung der Ausleihbestände und der Bibliotheksausweise. Dafür
+können verschiedene Verfahren eingesetzt werden, wie das seit den 1970er Jahren
+etablierte Barcodeverfahren, bei dem die Bibliotheksausweis- und Mediennummern
+optisch gespeichert und durch Scanner einlesbar sind. Seit Mitte der 2000er Jahre
+kommt zunehmend RFID-Technologie (Radio Frequency Identification) mit über den
+Standardausleihprozess erweiterten Möglichkeiten zum Einsatz.12
+Für die Sicherung der ausleihbaren Bestände hat sich lange Zeit die EM-Sicherung
+(Elektromagnetische Sicherung) mit Magnetstreifen etabliert. Durch Magnetisierung
+und Entmagnetisierung lassen sich die schmalen Magnetreifen, die auch verdeckt im
+ Vgl. Kern 2011.
+3.3 Entwicklungen bei den Basisdienstleistungen (Ausleihe, Scandienste, Logistik) 147
+Printmedium angebracht werden können, aktivieren oder deaktivieren. Sie lösen im aktivierten
+Status beim Passieren der entsprechenden EM-Sicherungsgates einen Alarm
+aus. Aber auch die RFID-Technologie bietet die Möglichkeit der Mediensicherung über
+die eingesetzten Transponder mit Funktechnik. Die RFID-Tags können mit der Magnetstreifensicherung
+kombiniert werden. Unabhängig von der jeweiligen Sicherungstechnik
+bieten Sicherungsgates verschiedener Firmen außerdem die Möglichkeit einer
+integrierten Besucherzählung. Mit Einsatz einer entsprechenden Gate-Software lassen
+sich Statistiken erstellen, um z. B. die Zugangszahlen und Aufenthaltsdauer während
+der Öffnungszeiten zu ermitteln; eine wichtige Grundlage auch für die Verteilung der
+Personalkapazitäten.
+Auf Barcode-Technologie basierende Ausleihgeräte erfordern das Einlesen des
+Bibliotheksausweises über ein Barcode-Lesegerät und aus Sicherheitsgründen die Eingabe
+eines Passwortes zur Identifizierung. Die zu entleihenden und ebenfalls mit Barcodes
+ausgestatteten Medien werden unter einen optischen Scanner gehalten und die
+Ausleihe gestartet. Dieser Prozess muss mit jedem Medium wiederholt werden. Über
+einen integrierten Drucker können die entliehenen Medien mit Angabe der Fristen
+quittiert werden. Bei der Rückgabe sind die gleichen Schritte notwendig. Rückgaben
+außerhalb von Öffnungs- und Servicezeiten, z. B. über Rückgabeboxen, werden ohne
+Quittierung der Rückgaben für die Bibliothekskund:innen angeboten.
+Bei Einsatz von RFID-Technologie werden die Daten per Funk zwischen Lesegerät
+und RFID-Etikett berührungslos ausgelesen und schreibend übertragen. Vorteil dieser
+Technologie ist, dass Ausleihe und Entsicherung der Medien in einem Vorgang stattfinden.
+Die Technik erlaubt zudem das gleichzeitige Auslesen mehrerer Transponder und
+ermöglicht damit eine Stapelverbuchung der Medien. Die Bedienung der Geräte ist unkompliziert,
+da eine Sichtverbindung zwischen dem Funketikett im Medium nicht notwendig
+ist. Bei der Ausleihe und auch bei der Rückgabe kann ein Quittungsausdruck
+angeboten werden. Ist der Rückgabeautomat mit angeschlossenem Förderband und
+Sortierstation versehen, werden die Medien nach ihrem jeweiligen Standort vorsortiert
+und bei einem angeschlossenen Transportsystem an den entsprechenden Ausgabeort
+transportiert. Bei RFID-gesicherten Medien kann das Sicherungsgate im Durchgang auslesen,
+welche und wie viele Medien die Schranke passieren, bzw. kann identifizieren,
+welches nichtentsicherte Medium angeschlagen hat.
+Zwischen den Ausleih- und Rückgabeautomaten ist über eine Schnittstelle, in der
+Regel über SIP2, die Verbindung zum Bibliotheksmanagementsystem gegeben. Als Datenstandard
+für die Beschreibung der Chips hat sich das von einem internationalen
+Konsortium entwickelte Dänische Datenmodell etabliert.13 Ausleihe und Rückgabe sind
+so unabhängig von Personal 24/7 möglich. Die in Bibliotheken eingesetzten passiven
+Chips arbeiten mit einer Frequenz von 13,56 MHz und einer Reichweite von maximal
+45 cm, wodurch ein unbemerktes Auslesen der Tags durch Unbefugte unwahrscheinlich
+ Vgl. ISO-Norm 28560.
+148 Anke Quast
+ist. Der Datenschutz ist zusätzlich dadurch gewährleistet, dass keine personenbezogenen
+Daten und auch keine Titeldaten auf den Chips gespeichert sind.
+Eine weitere Möglichkeit des RFID-Einsatzes ist die Verlängerung der entliehenen
+Medien direkt am Ausleihgerät, wenn das Ende der Ausleihfrist erreicht ist. Zudem
+können mit der Technologie Automaten betrieben werden, z. B. für die Bereitstellung
+von bestellten Medien oder Fernleihbestellungen, bei denen die Nutzer:innen sich mit
+ihrem Bibliotheksausweis am Gerät anmelden und sich das entsprechende Fach mit
+der Bestellung öffnet.14 Nach dem gleichen Prinzip funktioniert auch die Schlüsselausgabe
+für Schließfächer oder technische Geräte.
+Mit RFID-Technologie ausgestattete Bibliotheksausweise oder als Bibliotheksausweis
+nutzbare Karten, wie z. B. die Campus-Karten in verschiedenen Universitäten,
+bieten auch die Möglichkeit, Bezahlfunktionen zu integrieren oder darüber die Eingangskontrolle
+zu Bibliotheksräumen zu steuern.15
+Das bei den öffentlichen Bibliotheken immer mehr Verbreitung findende Konzept
+der „Open Library“ basiert darauf, dass die Ausleihe und Rückgabe von Medien und
+anderen ausleihbaren Beständen in Selbstbedienung durchgeführt werden können,
+plus der Möglichkeit des Zugangs in das Bibliotheksgebäude mit dem Bibliotheksausweis
+bzw. Chipkarte. Mit diesem zunächst in Dänemark entwickelten Konzept können
+registrierte Nutzer:innen die Bibliotheken vor Ort aufsuchen, unabhängig davon, ob
+Bibliothekspersonal vor Ort ist. Damit sind durchgängige Zugangszeiten bis zu sieben
+Tagen in der Woche möglich.16 Aber auch an einigen Universitäts- und Hochschulbibliotheken
+wurden bereits mit Beginn der 2000er Jahre den eigenen Hochschulangehörigen
+uneingeschränkter Zugang außerhalb der regulären, personalgestützten Öffnungszeiten
+geboten.17
+Spannend sind die technischen Möglichkeiten die NFC-fähige Geräte18 wie Smartphones
+und Tablets bieten mit denen Bibliotheksnutzer:innen sich zukünftig verstärkt
+über ihre mobilen Geräte authentifizieren könnten, um mit ihren Geräten gewünschte
+Medien direkt zu entleihen oder auch die RFID-Technologie als Orientierungs- und Leitsystem
+zu nutzen.
+ Vgl. Kern 2011: S. 86 f.
+ Zu den verschiedenen erweiterten Anwendungsmöglichkeiten der RFID-Technologie in Bibliotheken
+vgl. Stoyanova 2015.
+ Vgl. die verschiedenen Artikel zu dem Thema in der Publikation von Hauke 2019; insbesondere
+zur Situation in Dänemark vgl. Thorhauge 2019: S. 44 f.
+ Hasenmüller und Seeliger 2017: S. 81.
+ „Near Field Communication“, eine auf RFID basierende Technik zum kontaktlosen Austausch von
+Daten per elektromagnetischer Induktion.
+3.3 Entwicklungen bei den Basisdienstleistungen (Ausleihe, Scandienste, Logistik) 149
+3 Logistik
+Im Gegensatz zu öffentlichen Bibliotheken befindet sich in wissenschaftlichen Bibliotheken
+oft ein Großteil der entleihbaren Medien in geschlossenen, nicht öffentlich zugänglichen
+Magazinen. Durch den Zeitverzug zwischen Bestellung und tatsächlicher
+Verfügbarkeit des Mediums droht der Bedeutungsverlust von Magazinbeständen für
+die wissenschaftliche Nutzung; dies insbesondere im Vergleich zu den Vorteilen des
+unmittelbaren Zugangs zu online verfügbaren Informationsressourcen. Insofern liegt
+der Fokus beim Ausleihservice auf effizienter und schneller Bereitstellung.19 Magazinund
+Lagerräume können sich an unterschiedlichen Orten, auch außerhalb der Bibliothek
+befinden, wie z. B. in Ausweichmagazinen oder in mit anderen Bibliotheken gemeinsam
+genutzten Speicherbibliotheken. In manchen Fällen kann mit der Bestellung
+von Medien ein Abholort gewählt werden, z. B. für die Nutzung in einem Lesesaal
+oder die Abholung aus einer Zweigbibliothek. In jedem dieser Fälle sind verschiedene
+Logistikabläufe notwendig.
+Bestellungen auf frei zugängliche Bestände in den Freihandbereichen werden klassischerweise
+nicht angeboten, sondern müssen selbständig aus dem Regal entnommen
+und dann entliehen werden. Allerdings können in dezentralen Systemen durchaus auch
+Bestellungen und Lieferservices aus Freihandbestand an andere Standorte möglich sein.
+Die Aufstellung in Magazinen erfolgt zumeist nach dem Prinzip der bestmöglichen
+Platzausnutzung nach Größe der Medien, kombiniert mit einem Numerus-
+Currens-Verfahren in Kompaktregalanlagen. Neuzugänge erhalten immer einen höheren
+Numerus Currens und stehen daher am Ende der jeweiligen Signaturengruppe.
+Die Aushebung von bestellten Medien und Bereitstellung für die Entleihung sowie
+das Zurücksortieren kann erhebliche Personalkapazitäten binden. Neuere Konzepte beinhalten
+dagegen eine auf Nachfrage optimierte Magazinbewirtschaftung.20 Häufig
+nachgefragte Medien sollen bei dieser Idee besonders effizient und schnell geliefert
+werden können, d. h. mit möglichst geringen Aushebungszeiten und Transportwegen.
+Technische Lösungen aus dem Logistik- und Warenhausbereich, wie z. B. die
+chaotische Lagerhaltung in Kombination mit Hochregalen und dem Einsatz von RFIDTechnologie,
+kommen auch in Bibliotheken mit großem Magazinbestand (häufig Außenmagazinen)
+zum Einsatz. Dabei werden den Medien keine festen Standorte mehr
+zugewiesen, wie in der klassischen Magazin-Aufstellung mit Numerus Currens, sondern
+lediglich ein beliebiger, für das Objekt geeigneter Standort. Der Aufstellungsort
+ist über ein Lagerverwaltungssystem kombiniert mit dem eingesetzten Bibliotheksmanagementsystem
+ermittelbar. In Kombination mit der Einrichtung von verschiedenen
+Zonen für Bestände mit hoher, mittlerer und niedriger Nachfrage können die gelagerten
+Objekte je nach Schnelligkeit der Aushebung zugewiesen werden. Erste Magazin-
+ Vgl. Depping 2018: S. 529.
+ Vgl. Janello 2013.
+150 Anke Quast
+verwaltungen mit Hochregalanlagen (noch mit Barcode-Technologie) wurden in den
+1970/1980er Jahren von der Erasmus Universität in Rotterdam, allerdings mit größeren
+technischen Schwierigkeiten, eingerichtet.21 1986 folgte das Harvard Depository.22
+Hier werden die mit Barcodes ausgestatteten Bücher in ebenfalls mit Barcode gekennzeichneten
+Kartonboxen magaziniert. Bestellungen werden vom Magazinpersonal direkt
+am Lagerort aus der Box geholt, wobei das Ausführen und Zusammenstellen von
+Bestellungen nach dem Person-zur-Ware-Prinzip erfolgt.23
+In den 1990er Jahren wurden erste automatisierte Lager im Bibliotheksbereich konzipiert.
+Hier verhält es sich umgekehrt zu dem gerade beschriebenen Vorgehen: Die bestellten
+Medien werden in ihren Behältnissen von Regalbediengeräten aus den Regalen
+entnommen und zum Magazinpersonal gebracht, das die Bestellungen aus der Box entnimmt
+und bereitstellt. In Europa eröffnete die Norwegische Nationalbibliothek ihr automatisiertes
+Magazin 2003 und die British Library 2009 eines an ihrem zweiten
+Standort in Boston Spa.24 Neben der besseren Effizienz liegt der Vorteil im geringeren
+Platzbedarf. Zudem können die Magazinräume nach konservatorischen Gesichtspunkten
+optimiert werden, da kein Personal in den vollautomatisierten Bereichen eingesetzt
+wird. So hat das Magazin der British Library einen gesenkten, tiefen Sauerstoffgehalt
+von 12–14 %, womit eine einfache und kostengünstige Brandverhütung gewährleistet
+ist.25 Allerdings bewirken die hohen Investitions- und Wartungskosten, dass sich nur
+wenige Bibliotheken im deutschsprachigen Raum für komplett vollautomatisierte Lösungen
+entscheiden. Die Kooperative Speicherbibliothek der Schweiz stellt hierbei eine
+Ausnahme dar.26 Teilautomatisierungen sind dagegen durchaus verbreitet, z. B. die Verbindung
+eines Rückgabeautomaten mit angeschlossener Sortierstation, die die Medien
+verschiedenen Aufstellungsorten zuweist, z. B. Freihandbereichen einer Bibliothek auf
+verschiedenen Etagen oder geschlossenen Magazinen. Die Sortierstation ist direkt an
+die Transportanlage angeschlossen, die die Medien über Fahrstuhl- und Rollbandanlagen
+in entsprechenden Transportbehältnissen an ihren Zielort verbringt, um dort vom
+Bibliothekspersonal entnommen und eingestellt zu werden.
+Die RFID-Technologie erlaubt neue Konzepte in Richtung fluider Möglichkeiten der
+Bestandsaufstellung.27 Dieses Modell bezieht sich zunächst auf die Regalpräsentation
+physischer Medien, die keinem eindeutigen Standort mehr zugeordnet werden, sondern
+flexiblere, nutzungsgesteuerte Optionen im Freihandbereich ermöglichen, etwa
+Zusammenstellungen für Ausstellungen oder wechselnde thematische Aufstellungen.
+Durch die digitale Kennzeichnung mittels RFID-Chip kann der Aufstellungsort des Medi-
+ Vgl. Meyboom 1990.
+ Vgl. Niederer 2016: S. 346.
+ Vgl. ten Hompel u. a. 2019: S. 128 f.
+ Vgl. Niederer 2016: S. 351.
+ Vgl. Niederer 2016: S. 353.
+ Vgl. Niederer 2016.
+ Vgl. Eigenbrodt 2014.
+3.3 Entwicklungen bei den Basisdienstleistungen (Ausleihe, Scandienste, Logistik) 151
+ums jederzeit über das Bibliothekssystem ermittelt und auch geändert werden. Für den
+Ausleihservice und damit zusammenhängende logistische Anforderungen einer Bibliothek
+beschreibt Ralf Depping weitere Möglichkeiten fluider Aufstellungsweise.28 So können
+Ausleihmedien anhand ihrer Ausleihzahlen verschiedenen Standorten zugeordnet
+werden. Dabei ist der Regalplatz variabel und wird vom System vergeben. Erreicht beispielsweise
+ein Medium eine definierte Ausleihanzahl, erhält es einen Standort im Freihandbereich
+der Bibliothek, wird es hingegen selten oder gar nicht entliehen, was im
+Hinblick auf die Gesamtbestände im hohen Maße zutrifft, kommt es ins geschlossene
+Magazin oder ggf. ein Außenmagazin mit längeren Bereitstellungszeiten. Der Aufstellungs-
+bzw. Lagerort kann sich dabei während des Lebenszyklus eines Mediums mehrfach
+verändern. Für die Aufstellung in den Freihandbereichen sind für dieses Konzept
+Smart Shelves, Regale mit RFID-Transponder-Ausstattung notwendig, die jedes Einstellen
+oder Entnehmen eines Bandes registrieren. Über dieses System kann sowohl fluid
+aufgestellt, als auch eine Nutzungsstatistik für die Präsenznutzung gezogen werden.
+Diese dynamische Aufstellung lässt unterschiedliche Möglichkeiten zu. So können ausleihstarke
+Medien in bestimmten, schnell zugänglichen Bereichen dynamisch aufgestellt
+stehen, im Magazin aber nach statischer Aufstellung mit Numerus Currens. Da
+nur der wirklich ausleihstarke Bestand in den frei zugänglichen Bereichen präsentiert
+wird, ergeben sich Raumgewinne, die z. B. für die Erweiterung von Arbeits- und
+Gruppenarbeitsbereichen eingesetzt werden können.
+4 Zugang zu elektronischen Ressourcen
+Der Zugang zu den elektronischen Ressourcen, E-Books, E-Journals, Datenbanken usw. ist
+ein unmittelbarer Basisservice moderner Bibliotheken.29 Im Gegensatz zu der etablierten
+Onleihe von E-Books der öffentlichen Bibliotheken für Belletristik und populärwissenschaftliche
+Literatur,30 die bei Entleihung einer Leihfrist unterliegen, bieten wissenschaftliche
+Bibliotheken in der Regel einen direkten Zugang zu den Volltexten, der zumeist
+auch einen Download, oft auf Kapitel begrenzt, und Ausdruck ermöglicht. Wissenschaftliche
+Online-Publikationen werden wegen der Zitierfähigkeit gemeinhin im PDF-Format in
+enger Anlehnung an die Printprodukte angeboten. Die Zugangsmodalitäten zu den elektronischen
+Ressourcen unterscheiden sich je nach erworbener Lizenz und rechtlichen Bestimmungen
+und stehen beispielsweise allen oder nur bestimmten Nutzungsgruppen zur
+Verfügung und beinhalten eine uneingeschränkte oder beschränkte Zahl gleichzeitiger
+ Vgl. Depping 2018.
+ Dieser Service soll der Vollständigkeitshalber in diesem Artikel zu den Basisservices erwähnt sein,
+ohne dass im Detail auf die verschiedenen technischen Ausprägungen tiefer eingegangen werden
+kann.
+ Vgl. Mittrowann 2011.
+152 Anke Quast
+Zugriffe. Ziel ist es aber zumeist, allen registrierten Nutzer:innen die Möglichkeit zu
+geben, ortsunabhängig auf lizenzierte Online-Ressourcen der Bibliothek zuzugreifen. Notwendig
+ist dafür die rollenbasierte Zugangsorganisation mit einem Identitätsmanagement.
+Das kann über das Bibliotheksmanagementsystem oder die Identitätsverwaltung
+der Hochschule erfolgen. Dabei haben sich verschiedene Zugangswege zu den Ressourcen
+etabliert.31 Im Hochschulkontext ist der Zugang über VPN (Virtual Private Network) üblich,
+der IP-adressengesteuert Hochschulangehörigen ermöglicht, auf lizenzierte elektronische
+Ressourcen zuzugreifen. Auf Basis der Shibboleth-Technologie wurde ab 2005 eine
+deutschlandweite Infrastruktur zur Authentifizierung und Autorisierung eingeführt, die
+in einem Single Sign-on-Verfahren den Zugang zu den freigegebenen Ressourcen ermöglicht.
+Als kommerzielle Produkte werden z. B. HAN (Hidden Automatic Navigator) der
+Firma H+H Software32 oder EZProxy von OCLC33 eingesetzt.
+5 Kopier-, Druck- und Scandienste
+Das Angebot von Kopier-, Druck- und Scanmöglichkeiten für das Bibliothekspublikum
+hat sich in seiner Bedeutung in den letzten Jahren stark verändert. Standen zunächst
+die Kopiermöglichkeiten im Vordergrund, verschiebt sich das Angebot mehr und mehr
+zur Bereitstellung von Scanmöglichkeiten. Die Zurverfügungstellung und Betreuung der
+entsprechenden Geräte und damit verbundene Dienstleistung wurde an größeren Einrichtungen
+häufig outgesourct, so dass die Abwicklung der Zahlungsmodalitäten und
+Technikbetreuung durch den Dienstleister gewährleistet ist. Die Organisation von Druckservices
+und Anmeldung und Kostenverwaltung wird an Hochschulen häufig auch von
+den IT-Abteilungen gesteuert, so dass beispielsweise Ausdrucke an allen im System hinterlegten
+Druckorten für den dafür freigegebenen Personenkreis möglich sind. Die Gebühren
+für Kopien und Drucke können an Münzgeräten oder bei Personalbetreuung bar
+bezahlt werden. Bevorzugt wird aber die bargeldlose Abwicklung über Studierendenkarten,
+Bibliotheksausweise mit Bezahlfunktion, Mensakarten oder aufladbare Kopierkarten.
+Im Zuge der Technikentwicklung, insbesondere in Bezug auf den Einsatz von
+Buchaufsicht-Scannern und die Möglichkeit, mit den eigenen mobilen Geräten qualitativ
+ausreichende Abzüge der gewünschten Literatur herzustellen, nehmen die Kopierzahlen
+beim herkömmlichen Service ab. Für externe Dienstleister ist das Geschäft oft
+nicht mehr lukrativ genug. Die verwaltungstechnische und haushaltsrechtliche Seite ist
+für die Bibliotheken zu aufwändig, so dass mehr und mehr Einrichtungen den Kopier-
+ Vgl. Bohne-Lang 2012.
+ HAN Produktblätter und Anwenderberichte. HAN wird z. B. von der Bayerischen Staatsbibliothek
+genutzt.
+ EZproxy: Führende Software für Zugang und Authentifizierung. https://www.oclc.org/de/ezproxy.
+html (12.02.2024).
+3.3 Entwicklungen bei den Basisdienstleistungen (Ausleihe, Scandienste, Logistik) 153
+und Druckservice nicht mehr anbieten und auf die zumeist kostenfreien Scanmöglichkeiten
+verweisen. Die Einstellung des Service wird häufig mit einer verstärkten Marketingstrategie
+für die Möglichkeit kostenfreier Scans oder Angeboten wie Scanzelten für
+das Scannen mit dem eigenen mobilen Gerät verbunden. Auch der Hinweis auf die
+Nachhaltigkeit in Bezug auf papierlose Speicherung spielt hier eine Rolle.34
+Die Dienstleistung von Scan- und Reproservices auf Wunsch der Benutzer:innen bezieht
+sich zumeist auf Printbestände der eigenen Einrichtung, für die kein elektronisches
+Angebot vorliegt oder die mit einem Kopierverbot versehen sind, auf Sondermaterialien
+wie Karten oder großformatige Bücher oder wenn ein erhöhter Qualitätsbedarf z. B. für
+Druckvorstufen benötigt wird. Dieser Service, unter Beachtung der urheberrechtlichen
+Beschränkungen, ist oft kostenpflichtig und kann auch die Abgabe von Belegexemplaren
+beinhalten. Die Kosten sind zumeist in den Benutzungs- und Gebührenordnungen
+der Bibliotheken festgelegt. Beim Einsatz von externen Dienstleistern werden in Abstimmung
+mit der Bibliothek die Abläufe und der Kostenrahmen vom Dienstleister
+festgelegt.
+Viele Hochschulbibliotheken bieten den Angehörigen der eigenen Hochschule
+Campus-Lieferdienste für Artikel und Aufsätze aus eigenen Print-Beständen an. Dieser
+meist kostenlose Service richtet sich dezidiert an Wissenschaftler:innen und Promovierende
+oder Examenskandidat:innen. Die angefertigten Kopien werden auf Servern
+zum Download bereit- oder per E-Mail-Attachment zugestellt. Die Auftragsmenge ist
+an vielen Bibliotheken pro Person eingeschränkt. Diese Serviceleistung wurde während
+der Corona-Pandemie aufgrund der eingeschränkten Zugänglichkeit der Bibliotheken
+vielfach auf die Studierenden ausgeweitet.
+6 Semesterapparate, elektronische
+Semesterapparate und Co.
+Ein bibliothekarischer Standardservice für Bildungseinrichtungen ist die Zusammenstellung
+der Literatur für bestimmte Lehrveranstaltungen, die ggf. um Kopiervorlagen
+ergänzt wird. Die Lehrenden übermitteln der Bibliothek ihre Literaturliste und die
+Bibliothek stellt die Medien in einem Semesterapparat an gesonderten Standorten zur
+Verfügung. Diese Medien sind dort für die Dauer des Semesters einsehbar, aber nicht
+ausleihbar. In diesem Zusammenhang bearbeitet die Bibliothek Anschaffungsvorschläge
+für notwendige Kursliteratur und übernimmt Kopieraufträge auf Artikel und
+Aufsätze.
+ Vgl. z. B. „Let’s Scan!“ – Neue Publikumsscanner für die Bibliotheken. https://www.fu-berlin.de/
+sites/ub/newsletter-extern/2023_1/aktuelles/08_neue-scanner.html (01.04.2023)
+154 Anke Quast
+Mit Einführung von elektronischen Lernplattformen wie Ilias oder Moodle werden
+die Informationen zu den jeweiligen Lehrangeboten, z. B. Literaturlisten, mehrheitlich
+dort aufgeführt. Der Service von Bibliotheken kann sich hier auf Bereitstellung digitaler
+Dokumente, Lizenzierung von E-Medien, Digitalisierung für elektronische Semesterapparate,
+aber auch auf Hilfestellung bei Fragen des Urheberrechts oder die
+Weiterverarbeitung kompletter Literaturlisten für die Zusammenstellung in elektronischen
+Semesterapparaten beziehen. Grundlage für die elektronische Bereitstellung ist
+das Urheberrechts-Wissenschaftsgesellschafts-Gesetz,35 das die Zurverfügungstellung
+von maximal 15 % eines urheberrechtlich geschützten Werkes für Unterricht und Lehre
+erlaubt. Die so zusammengestellten Semesterapparate dürfen ausschließlich einem definierten,
+abgegrenzten Kreis von Personen für die Dauer einer Lehrveranstaltung
+zugänglich gemacht werden. Letzteres ist über die Einschränkungsfunktionen der
+Lernplattformen auf die Kursteilnehmenden gegeben.
+Der Bibliotheksservice kann sich auch auf die komplette Weiterverarbeitung von
+Literaturlisten für Lehrveranstaltungen beziehen und die Überführung in eine elektronische
+Literaturliste im Bibliothekssystem oder der Lernplattform bedeuten, die in den
+entsprechenden Online-Kurs eingebunden werden kann. So hat die Universitäts- und
+Stadtbibliothek Köln eigene Plugins entwickelt, mit der Lehrende ihre Bestellungen aus
+der Lernplattform heraus für ihre elektronischen Semesterapparate auslösen können.36
+Verschiedene kommerzielle Softwarelösungen für die Erstellung von Literatur-/Ressourcenlisten
+(Reading-List-Managementsysteme) sind leicht integrierbar in gängige Lernplattformen
+und können sowohl mit dem Bibliothekssystem verknüpft werden und
+darüber lizenzierte Ressourcen in die Literaturliste einbinden, als auch die Standorte
+der physischen Bestände anzeigen und nicht in den Bibliothekskatalogen vorhandene
+Ressourcen wie Webseiten, Dateien, Videos, digitalisierte Aufsätze und Artikel einbinden.
+Die Listen können von den Lehrenden mit Kommentaren versehen und Titel als
+prüfungsrelevant oder empfohlen getaggt werden. Darüber hinaus können über diese
+Systeme direkt Workflows in Kooperation mit den Bibliotheken angestoßen werden.
+Das betrifft Digitalisierungsaufträge, Anschaffungsvorschläge oder auch die Kommunikation
+zu urheberrechtlichen Fragen. Diese Systeme sind im anglo-amerikanischen
+Raum bereits stark verbreitet.37 In Großbritannien nutzten 2018 bereits über 70 % der
+höheren Bildungseinrichtungen solche Reading-List-Managementsysteme.38 Im deutschsprachigen
+Raum setzen bisher nur wenige Hochschulen diese Verfahren ein, obwohl
+es Hinweise gibt, dass das Angebot kommentierter, strukturierter Literaturlisten für die
+Lehre den Lernerfolg der Studierenden stärkt.39
+ UrhWissG, § 60a ff.
+ Vgl. Kostädt 2014.
+ Hier sind z. B. die Produkte von Ex Libris „Leganto“, Talis „Aspire“, KeyLinks von CLA zu nennen.
+Vgl. Massey u. Sødring 2021.
+ Vgl. Chad 2018.
+ Vgl. Chad 2018: S. 10.
+3.3 Entwicklungen bei den Basisdienstleistungen (Ausleihe, Scandienste, Logistik) 155
+7 Fazit
+Wie in diesem Artikel skizziert, sind auch klassische Basisservices von Bibliotheken
+permanentem Wandel unterworfen. Neue Technologien, veränderte Bedingungen
+von Lehre, Studium und Forschung, ein veränderter Umgang mit Informationsressourcen
+insgesamt greifen in die Schwerpunktsetzungen der Bibliotheksarbeit ein.
+Personalkapazitäten und neue Qualifikationen werden zur Entwicklung neuer Services
+und Etablierung von Infrastrukturen für Forschungsdatenmanagement, Open
+Access, Open Educational Ressources (OER) benötigt. Dabei bleiben grundlegende Aufgaben
+erhalten. Es muss jeweils neu entschieden werden, wie Personalkapazitäten
+sinnvoll dort eingesetzt werden, wo Automatisierung und Selbstbedienung die Qualität
+der Services nicht einschränken.
+Unabhängig von solchen Überlegungen müssen Regelungen und Abläufe stets auf
+ihre Sinnhaftigkeit, unter der Prämisse der Zielgruppenorientierung, geprüft werden.
+Fragestellungen wie „Sind Mahngebühren notwendig?“, „Können Leihfristen anders
+geregelt werden?“ sollten auf Grundlage des Bedarfs und der tatsächlich nachweisbaren
+Auswirkungen beantwortet werden.
+Technologien wie der Einsatz von RFID eröffnen, neben der ursprünglich gedachten
+Grundfunktionalität der effizienteren Gestaltung der Ausleihe, neue Möglichkeiten
+von Bestandspräsentation in der hybriden Bibliothekswelt. Weitere Entwicklungsmöglichkeiten
+sind in einigen Bibliotheken bereits angedacht, auch wenn sie bisher noch
+keine weite Verbreitung finden.
+Die Möglichkeiten veränderter digitaler Lehre, verstärkt durch die Erfahrungen
+während der Pandemiezeit, machen die direkte Einbindung der Bibliotheksressourcen
+und des Bibliotheks-Knowhows in die digitalen Lernräume und -plattformen
+immer relevanter. Beispiele von Eigenentwicklungen, aber auch kommerziellen Produkten
+sollten von den Hochschulen und Bibliotheken als Chance für die Zukunft erkannt
+werden, für einen produktiven Prozess, der die Fertigkeiten der Studierenden
+fördert, in dem sie die konstruktiven Möglichkeiten offener und vernetzter Systeme
+für ihre Arbeit nutzen können.
+Spannend wird sein, welche Erfahrungen aus der Pandemiezeit dauerhafte Veränderungen
+in der Nutzung von physischen und digitalen Informationsressourcen bewirken
+werden. Sicher ist, dass Bibliotheken darauf reagieren und ihre Services auf
+den Bedarf bestmöglich ausrichten werden.
+156 Anke Quast
+Literatur
+Beagrie, Charles: Ensuring perpetual access: establishing a federated strategy on perpetual access and
+hosting of electronic resources for Germany. Deutsche Forschungsgemeinschaft on behalf of the
+Alliance of German Science Organisations. 2010. https://gfzpublic.gfz-potsdam.de/rest/items/item_
+2949918_2/component/file_2949917/content (01.04.2023).
+Bohne-Lang, Andreas: Technische Möglichkeiten des Zugriffs auf lizenzierte Verlagsinhalte durch
+Bibliotheksnutzer. In: ABI-Technik 32 (2012), H. 2, S. 62–67.
+Chad, Ken: The rise of library centric reading list systems. In: Higher Education Library Technology
+(HELibTech) briefing paper (No. 5). July 2018. https://doi.org/10.13140/RG.2.2.12337.89445.
+Christensen, Anne: Benutzungsdienste zwischen Automation, Bau und Technik. In: ABI Technik 37 (2017),
+H. 3–4, S. 249–255.
+Depping, Ralf: Das Konzept der fluiden Bibliothek an der USB Köln. In: Bibliotheksdienst 52 (2018), H. 7,
+S. 527–539.
+Deutsche Bibliotheksstatistik: Gesamtauswertungen Berichtsjahre 2010–2021: Entleihungen in öffentlichen
+und wissenschaftlichen Bibliotheken in Deutschland. https://service-wiki.hbz-nrw.de/display/DBS/01.
++Gesamtauswertungen+-+Kerndaten%2C+dt.+ab+1999 (01.04.2023).
+Eigenbrodt, Olaf: Auf dem Weg zur Fluiden Bibliothek: Formierung und Konvergenz in integrierten
+Wissensräumen. In: Formierungen von Wissensräumen. Hrsg. von Olaf Eigenbrodt und Richard
+Stang. Berlin, Boston: De Gruyter Saur 2014. S. 207–220.
+Gantert, Klaus u. Rupert Hacker: Bibliothekarisches Grundwissen. 9., Vollständig neu bearbeitete und
+erweiterte Auflage. Berlin, Boston: De Gruyter Saur 2016.
+Hasenmüller, Monika u. Frank Seeliger: Der Kunde allein im Haus : mit der personallosen Öffnung zur 24/
+7-Bibliothek? Ein Überblick über Open-Library-Konzepte. In: BuB: Forum für Bibliothek und
+Information 69 (2017), H. 2.
+Hauke, Petra (Hrsg.): Öffentliche Bibliothek 2030: Herausforderungen – Konzepte – Visionen. Bad Honnef:
+Bock + Herchen 2019.
+Hompel, Michael ten, Volker Sadowsky u. Sebastian Mühlenbrock: Kommissioniersysteme. In:
+Innerbetriebliche Logistik. Hrsg. von Thorsten Schmidt. Berlin, Heidelberg: Springer 2019
+(Fachwissen Logistik). S. 113–152.
+Janello, Christoph: Effizienz durch Chaos: Nachfrageabhängig optimierte Magazinbewirtschaftung in
+wissenschaftlichen Universalbibliotheken. In: Perspektive Bibliothek 2 (2013), H. 1, S. 31–58.
+Kern, Christian: RFID für Bibliotheken. Berlin, Heidelberg: Springer 2011.
+Kostädt, Peter: Elektronische Semesterapparate mit ILIAS und MyBib eDoc®. In: BIT online 2 (2014),
+S. 142–145.
+Massey, David u. Sødring, Thomas: Conspectus: A Syllabi Analysis Platform for Leganto Data Sources. In:
+The Code4Lib Journal 52 (2021), September. https://journal.code4lib.org/articles/15995?utm_source=
+feedburner&utm_medium=feed&utm_campaign=Feed%3A+c4lj+%28The+Code4Lib+Journal%
+29#note4 (02.04.2023).
+Meyboom, Leen: The Randtriever at Erasmus University, Rotterdam – 1969–1990. Two decades of change
+in mechanical books storage. In: Library Hi Tech 8 (1990), H. 3, S. 83–85.
+Mittrowann, Andreas: Die Onleihe – eine Plattform zur Ausleihe digitaler Medien. In: Bibliothek –
+Forschung und Praxis 35 (2011), Heft 3, S. 362–368.
+Niederer, Ulrich: Hochregallager – ein neuer Weg der Magazinierung: Die Kooperative Speicherbibliothek
+Schweiz. Eine Luzerner Fallgeschichte mit Exkursen. In: Praxishandbuch Bibliotheksbau. Hrsg.
+v. Petra Hauke u. Klaus Ulrich Werner. De Gruyter Saur 2016. S. 345–359.
+Rivier, Alexis u. Rod, Jean-Marc: BibliOpass – An Open Library Network in Switzerland. In: Liber Quarterly
+16 (2006), H. 1. https://dspace.library.uu.nl/handle/1874/241444, (11.03.2023).
+Stoyanova, Tonka: Anwendung von RFID in Bibliotheken. In: Perspektive Bibliothek 4 (2015), H. 1, S. 68–92.
+3.3 Entwicklungen bei den Basisdienstleistungen (Ausleihe, Scandienste, Logistik) 157
+Tempel, Bernhard: Lebendige Kooperation : das Hannoversche Online-Bibliothekssystem (HOBSY). In:
+BuB: Forum Bibliothek und Information 72 (2020), H. 6, S. 359–361.
+Thorauge, Jens: Identitätsfindung zwischen Literathek, Aktivithek und Online-Bibliothek. In: Öffentliche
+Bibliothek 2030. Hrsg. von Petra Hauke. Bad Honnef: Bock + Herchen 2019. S. 41–52.
+Wilson, Duane, Cynthia Frazier u. Diana Harter: Circulation Policies in Major Academic Libraries. In: Journal
+of Academic Librarianship 41 (2015), H. 6, S. 798–803.

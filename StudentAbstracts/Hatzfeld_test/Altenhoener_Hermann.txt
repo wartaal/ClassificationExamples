@@ -1,0 +1,1036 @@
+﻿Reinhard Altenhöner und Martin Hermann
+7.4 Digitalisierung von Kulturgut: Werkzeuge
+
+und Verfahren
+
+Die Digitalisierung1 von Kulturgut umfasst neben organisatorischen Fragestellungen und
+der Präsentation, wie sie in Kapitel 7.3 „Digitalisierung von Kulturgut: Organisationsformen,
+Akteure, Zugang“ behandelt werden, viele technische Aspekte, die die (Nach-)Nutzbarkeit
+und Qualität der Ergebnisse sowie Aufwände und Kosten der Digitalisierung steuern.
+
+1 Technische Rahmenbedingungen
+Die Deutsche Forschungsgemeinschaft (DFG) hat mit den Praxisregeln zur Digitalisie-
+rung2 bei den von ihr geförderten Digitalisierungsprojekten im Förderbereich Litera-
+tur- und Informationsversorgung eine einheitliche Vorgehensweise festgelegt und
+damit einen Quasistandard auch für andere Vorhaben gesetzt. Dieser Standard fokus-
+sierte lange Zeit weitestgehend auf handschriftliche und gedruckte Überlieferung. Fol-
+gend auf die Ausweitung des Förderprogramms „Digitalisierung und Erschließung“
+auf alle wissenschaftlich relevanten Objekte hat die DFG 2021 die Weiterentwicklung
+der Praxisregeln „Digitalisierung“ in dezentraler Selbstverantwortung durch die han-
+delnden Akteure auf den Weg gebracht. Erstes Ergebnis war die 2023 mit Arbeitsstand
+2022 veröffentlichte Aktualisierung der DFG-Praxisregeln.3 Dort werden die im Fol-
+genden angesprochenen Punkte ausführlicher behandelt.
+
+1.1 Digitalisierungsvorgang
+
+Digitalisierung bedeutet Überführung einer analogen Vorlage in eine digitale Version.
+Die Vorlagen können sowohl statische zweidimensionale Druckwerke wie Buchseiten,
+
+ Zum Begriff der Digitalisierung vgl. Kapitel 7.3 „Digitalisierung von Kulturgut: Organisationsformen,
+Akteure, Zugang“.
+ https://www.dfg.de/resource/blob/176108/898bf3574ad0ff3b1db525fa7d04c86c/12-151-v1216-de-data.pdf
+(14.09.2024).
+ Altenhöner u. a. 2023. Eine gemeinschaftlich erarbeitete, echte Neufassung ist im Rahmen des DFG-
+Förderprogramms „Verantwortung für Informationsinfrastrukturen gemeinsam organisieren“ (VIGO)
+beantragt.
+
+Anmerkung: Dieses Kapitel ist eine auf Werkzeuge und Verfahren fokussierte Überarbeitung des 2014 ver-
+fassten Beitrags „Digitalisierung von Kulturgut“ von Reinhard Altenhöner, Tobias Beinert, Markus Brantl, Ro-
+bert Luckfiel und Uwe Müller ✝ aus der ersten Auflage des Praxishandbuchs Bibliotheksmanagement.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-037
+
+
+
+632 Reinhard Altenhöner und Martin Hermann
+
+Briefe oder Fotografien als auch audiovisuelle (Ton- oder Videoträger) oder dreidi-
+mensionale Objekte wie Skulpturen sein. Ziel der Digitalisierung ist die möglichst voll-
+ständige und detailgetreue Übertragung der vorhandenen Information des analogen
+Objekts in eine digitale Form. Mit Verlust ist dabei aber immer zu rechnen. Allein die
+physischen Eigenschaften wie Haptik und Geruch eines Buchs oder Objekts gehen un-
+weigerlich verloren. Vorrang hat die Information auf dem Trägermedium, nicht das
+Trägermedium selbst, also die aufgedruckte Schrift und die Abbildung oder der Ton.
+
+Vorteil der digitalen Information ist allgemein der schnellere und beliebig häufige
+parallele Zugriff auf einzelne Objekte weltweit über das Internet. Bei 2D-Digitalisaten
+kann je nach Aufbereitung der Digitalisate, z. B. durch Texterkennung oder Bildana-
+lyse, eine über die Möglichkeiten des analogen Mediums hinausgehende Recherche
+ermöglicht werden. 3D-Digitalisate können im Gegensatz zur Vorlage ohne physikali-
+sche Einschränkungen und Konsequenzen manipuliert werden, z. B. kann man sie
+drehen, bewegen oder (bei fehlenden Bereichen) ergänzen. Die digitale Information
+kann ohne Verlust aufbewahrt werden. Allerdings stellt die Archivierung digitaler
+Ressourcen für sich eine neue Herausforderung dar.
+
+1.2 Digitalisierungsparameter
+
+Die Parameter zur Digitalisierung unterscheiden sich je nach Medium. Anhand der
+gewählten Digitalisierungsparameter wird definiert, wie fein die analoge Vorlage er-
+fasst wird und wie viele Informationen digital gespeichert werden. Grundsätzlich gilt:
+Je mehr Informationen vorliegen, desto höher sind die Qualität und damit die poten-
+ziellen Möglichkeiten der Nachnutzung. Allerdings muss auch die analoge Vorlage
+eine entsprechende Qualität besitzen. Daneben wirken sich die Parameter direkt auf
+die entstehenden Datenmengen und damit auch auf die Kosten aus.
+
+Der Fokus liegt im Folgenden auf der Digitalisierung von gedruckten Werken, gilt
+aber von den grundsätzlichen Aussagen her auch für andere Medien, z. B. Tonträger.
+Bei der Digitalisierung von gedruckten oder handgeschriebenen Werken ist zu berück-
+sichtigen, wie groß die Vorlage, respektive wie klein die Information darauf ist, d. h.
+insbesondere die kleinste relevante bedeutungstragende Information, die in der digita-
+len Version noch gut erkennbar sein muss. Darüber hinaus spielt die Farbigkeit der
+Vorlage eine Rolle: Sind farbige Informationen vorhanden? Ist nur das Trägermedium
+im Laufe der Zeit farbig geworden, weil es vergilbt ist?
+
+Aus diesen Erwägungen ergibt sich die Auswahl geeigneter Geräte zur Digitalisie-
+rung, da bei besonders großen Vorlagen, z. B. größer als DIN A3, viele Scanner bereits
+an ihre Grenzen stoßen oder andere Geräte keine genügend hohe Auflösung bieten.
+Die Auflösung ist ein elementarer Parameter bei der Digitalisierung. Sie definiert, wie
+viele Informationen aus der analogen Vorlage digital erhoben werden. Als Digitalisat
+entsteht eine Rastergrafik, also eine Matrix von A mal B Bildpunkten. Je mehr Bild-
+punkte es gibt, desto mehr Information ist enthalten und desto detailgetreuer kann
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 633
+
+ein Bild angezeigt werden. Jeder Bildpunkt wird von der analogen Vorlage erfasst
+und über die Auflösung definiert. Diese wird in Pixel pro Inch (ppi) oder Dots per
+Inch (dpi) angegeben. So bedeutet 300 ppi, dass pro Inch (= 2,54 cm) 300 Bildpunkte
+aufgenommen werden, pro mm also 11,8 Bildpunkte. Bei 600 ppi sind es entsprechend
+mit 23,6 Punkten auf einem Millimeter doppelt so viele Informationen, und da das so-
+wohl für die Vertikale als auch die Horizontale gilt, sogar die vierfache Menge an In-
+formationen. Daher wirkt sich die Auflösung stark auf die spätere Speichergröße des
+Digitalisats aus.
+
+Bei der 3D-Digitalisierung gelten hinsichtlich der Auflösung zunächst die gleichen
+physikalischen Grundsätze (der optischen Messtechnik) wie bei der 2D-Digitalisierung.
+Der größte Unterschied bei der 3D-Digitalisierung ist jedoch, dass das Verhältnis von
+Abstand zum Objekt und Auflösung nicht über den gesamten Digitalisierungsprozess
+hinweg einheitlich beibehalten wird, sondern sich häufig am Objekt und dessen Form
+und Eigenschaften ausrichtet. Der Scanoperator trifft je nach Digitalisierungsziel indivi-
+duelle Entscheidungen, sodass letztlich jede 3D-Digitalisierung ein Unikat hervorbringt.
+
+Die Farbtiefe des Digitalisats entscheidet über die Anzahl der erfassten und gespei-
+cherten Farben aus der Vorlage, das gilt für 2D- und 3D-Digitalisate gleichermaßen.
+Hier sind minimal zwei Werte möglich (schwarz und weiß), die für die Wiedergabe von
+schwarzer Schrift auf weißem Grund bereits ausreichen. Erfassbar ist auch eine redu-
+zierte Farbigkeit von 256 unterschiedlichen Farben oder Graustufen bis zu zig Millionen
+unterschiedlicher Farben. Pro Bildpunkt wird je eine Farbe erfasst. Die Farbtiefe wird
+in Bit angegeben: Bitonal benötigt nur ein Bit an Information (schwarz oder weiß), zur
+Speicherung von 256 Farben werden 8 Bit (2 hoch 8) benötigt, für 16,7 Millionen Farben
+24 Bit oder theoretisch möglich auch 4,2 Milliarden Farben bei 32 Bit. Auch die Farbtiefe
+wirkt sich auf die Speichergröße des Digitalisats aus. Bei einem 3D-Objekt spielt sie aber
+eine untergeordnete Rolle, da hier die Anzahl der Messpunkte/Polygone vorrangig ent-
+scheidend für die Dateigröße sind.
+
+Die unkomprimierte Speichergröße eines Digitalisats in Byte kann man aus den
+Parametern Höhe mal Breite des Ausgangsobjekts (in Inch) mal Farbtiefe in Bit und
+Auflösung in ppi zum Quadrat berechnen:4
+
+ 
+Höhe×Breite×Auflösung2 × Farbtiefe =8 = Größe in Byte
+
+Beispiel für ein DIN-A4-Blatt (21 cm x 29,7 cm, entsprechend 8,28 inch x 11,7 inch), 300
+ppi Auflösung und 24 Bit Farbtiefe:
+
+
+8, 28× 11,7× 3002
+
+
+× 24 =8= 26.156.520 Byte=∼25MB
+
+Die Auswirkungen auf den Speicherplatz sind deutlich. Die Unterschiede, die diese Pa-
+rameter auf den Grad der ins Digitale übertragenen Informationen haben, sollen an
+Beispielen gezeigt werden.
+
+ Siehe auch IAIS 2007: S. 87.
+
+
+
+634 Reinhard Altenhöner und Martin Hermann
+
+Aus diesen Parametern ergeben sich die Anforderungen an die Speichergröße
+von Digitalisaten, vgl. Tab. 1, in der einige Beispiele eingetragen sind:
+
+Tab. 1: Übersicht unkomprimierte Speichergröße des Digitalisats eines
+DIN-A4-Blatts bei verschiedenen Auflösungen und Farbtiefen in MB.
+
+Auflösung Farbtiefe
+
+ Bit  Bit  Bit
+
+ ppi , MB , MB , MB
+ ppi , MB , MB , MB
+ ppi , MB , MB , MB
+ ppi , MB , MB , MB
+
+Die Auswirkungen auf den Speicherplatz sind deutlich. Die Unterschiede, die diese Pa-
+rameter auf den Grad der ins Digitale übertragenen Informationen haben, sollen an
+Beispielen gezeigt werden. Die nachstehenden Abbildungen zeigen zunächst als
+Ausschnitt ein Schärfetarget in den Auflösungen 600, 400, 300 und 200 ppi (Abb. 1,
+v.l.n.r.) bei einer Ansicht von 1:1. Abb. 2 veranschaulicht durch die Vergrößerung
+eines anderen Details in den gleichen Auflösungen, dass die Digitalisierungsparame-
+ter immer auch von der Vorlage abhängen und selbst bei der höchsten Auflösung
+nichts extrahiert werden kann, was nicht schon in der Vorlage abgebildet wurde.
+
+Abb. 1: Schärfetarget, in den Auflösungen 600, 400, 300 und 200 ppi (v.l.n.r.).
+
+Abb. 2: Vergrößerung eines Details in den gleichen Auflösungen wie in Abb. 1.
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 635
+
+Abschließend folgt in Abb. 3 eine starke Vergrößerung von 600 und 300 ppi zur Ver-
+anschaulichung des Prinzips Rastergrafik: Das Bild besteht aus einzelnen Pixeln; je
+höher die Auflösung, desto granularer ist die Information.
+
+Abb. 3: Starke Vergrößerung von 600 und 300 ppi zur
+Veranschaulichung des Prinzips Rastergrafik.
+
+Die gewählten Parameter können nachträglich auch am Digitalisat heruntergerechnet
+werden, niemals aber hinauf. Aus einem farbigen Bild kann ein bitonales erzeugt
+werden, auch die Auflösung kann reduziert werden. Jedoch lässt sich aus einem
+schwarz-weißen Bild kein Bild mit 16,7 Millionen Farben reproduzieren. Bei einer Er-
+höhung der Auflösung wird lediglich interpoliert, also softwareseitig zusätzliche In-
+formation hinzugerechnet, die nicht mit der analogen Vorlage übereinstimmen muss.
+
+Die grundsätzliche Empfehlung für die Auflösung bei der Digitalisierung von Bü-
+chern sind 300 ppi, bei Vorlagen mit entsprechend kleinen Zeichen können auch 400
+ppi gerechtfertigt sein.5 Diese Auflösungen ermöglichen einen guten Detailgrad, alle
+Informationen bleiben lesbar erhalten und es werden dabei Dateien erzeugt, die von
+ihrem Umfang her noch handhabbar bleiben. Als Farbtiefe wird in der Regel 24 Bit
+verwendet, da hierbei wenig Farbinformationen verloren gehen und beim Digitalisie-
+ren nicht darauf geachtet werden muss, ob farbige Abbildungen vorkommen, die bei
+Graustufendigitalisierung eine Umstellung der Parameter erfordern.
+
+1.3 Dateien
+
+Die Digitalisate werden über die Digitalisierungssoftware nach definierten Schritten
+eines Workflows aufbereitet und gespeichert. Für die Nutzbarkeit, Speichergröße und
+Langzeitarchivierung ist hierbei das Dateiformat entscheidend. Es sollte von gängigen
+Betriebssystemen und entsprechender Software verarbeitet werden können, möglichst
+weit verbreitet, gut dokumentiert und quelloffen sein, um seine Nutzung auch in der
+Zukunft gewährleisten zu können. In Hinblick auf den Speicherplatz ist zu entscheiden,
+ob die Dateien komprimiert werden oder nicht. Kompression kann sowohl verlustfrei
+als auch verlustbehaftet erfolgen. Beides ist in gängigen Formaten möglich. Verlustfreie
+Kompression organisiert die Information in der Datei effektiver, bei bitonalen Digitali-
+saten etwa wird dann nicht die Information über die Farbe (schwarz oder weiß) pro
+Bildpunkt abgespeichert, sondern z. B. die Information, dass die nächsten 823 Bild-
+punkte weiß sind, dann 25 schwarze Punkte folgen usw. Das kann die zu speichernde
+
+ Siehe auch Altenhöner u. a. 2023: S. 21.
+
+
+
+636 Reinhard Altenhöner und Martin Hermann
+
+Informationsmenge erheblich reduzieren. Der Grad der Kompression hängt von der
+Vorlage ab: Je einheitlicher sie ist, desto besser lässt sie sich komprimieren. Bei bitona-
+len Bildern ist der Kompressionsgrad daher gegenüber einer unkomprimierten Speiche-
+rung enorm: Weniger als 100 KB bei Kompression mit dem auch für Fax verwendeten
+G4-Algorithmus für eine DIN-A4-Seite gegenüber 25 000 KB bei unkomprimierter Spei-
+cherung. Bei Farbbildern können etwa 30 bis 40 % verlustfrei eingespart werden,
+z. B. durch die Verwendung von Formaten wie PNG oder TIFF mit Kompression ZIP
+oder LZW (mit horizontal differencing). Die Kompression birgt jedoch ein größeres Ri-
+siko, da die Dateien beim „Kippen” eines Bits auf einer Festplatte im schlechtesten Fall
+unbrauchbar werden, während bei unkomprimierten Dateien möglicherweise nur ein
+Bildpunkt fehlerhaft ist. Ein weiteres Format zur verlustfreien Speicherung bietet
+JPEG2000, das über verschiedene Vorteile wie einen guten Kompressionsgrad verfügt
+und auch Vorschauversionen des Bildes umfassen kann, jedoch für die Langzeitarchi-
+vierung in Gedächtnisorganisationen noch keine so große Verbreitung gefunden hat6
+wie das seit 1986 existierende TIFF-Format.7
+
+Verlustbehaftete Speicherung ist am bekanntesten durch die JPEG-Kompression.
+Sie kann durch Verallgemeinerung von Informationen in acht mal acht Pixel großen
+Blöcken starke Kompression erzeugen. Den Grad der Verallgemeinerung kann man bei
+vielen Bildbearbeitungsprogrammen einstellen und so Einfluss auf die Qualität neh-
+men. Durch starke Kompression kommt es zu sehr deutlich sichtbaren Klötzchen in
+den Bildern, die sich stark gegeneinander abgrenzen. Bei hoher Qualität ist die Kom-
+pression zwar nicht mehr so stark, aber die Veränderungen sind visuell kaum sichtbar.
+Zur Analyse kann hier ein Differenzbild von verlustfreiem Original und verlustbehaftet
+komprimierter Variante dienen, die zeigt, welche Pixel geändert wurden. JPEG kann bei
+guter Qualität auf etwa 10 % der Ausgangsgröße verkleinern. Jedes Neuspeichern nach
+einer Bearbeitung kann aber erneut zu Verlusten führen, wie bei der analogen Kopie
+einer Kopie. Das Format wird daher selten als Archivformat genutzt, ist jedoch gängig
+bei Derivaten (abgeleiteten, qualitativ minderwertigen Dateien) für die Präsentation.8
+
+Begleitende Informationen zu den Digitalisaten werden in der Regel in strukturierter
+Form, etwa in der Auszeichnungssprache XML, abgelegt, z. B. OCR-Ergebnisse oder techni-
+sche Metadaten. Wichtig ist eine innerhalb des späteren Archivsystems eindeutige und
+möglichst aussagekräftige Benennung der Dateien. Die Verwendung eines eindeutigen
+Identifiers – etwa der Identifikationsnummer (ID) eines Nachweissystems oder von Signa-
+turen – in Kombination mit einer Laufnummer für die einzelnen Bestandteile ist gängige
+Praxis. Die gleiche Benennung bei fortlaufender Nummerierung entsprechend der Reihen-
+folge der Scans ermöglicht eine sinnvolle Sortierung auf Dateiebene.
+
+ Siehe auch Altenhöner u. a. 2023: S. 19.
+ Zum TIFF-Format siehe Spezifikation von Adobe: https://web.archive.org/web/20160306201233/http://
+partners.adobe.com/public/developer/tiff/index.html#spec (12.06.2023).
+ Siehe auch IAIS 2007: S. 83.
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 637
+
+Für Dateien, die bei der 3D-Digitalisierung entstehen, sind die Aussagen zu Dateifor-
+mat, Kompression und begleitenden Information grundsätzlich zunächst gleichermaßen
+gültig. Im Gegensatz zu den im Digitalisierungsprozess produzierten Fotos sind 3D-Daten
+im ersten Schritt immer nur Rohdaten, die ohne weitere Verarbeitung kaum nutzbar
+sind. Erst im Rahmen der Postprozessierung werden aus den Rohdaten unterschiedliche
+3D-Modelle, die sich dann vielfältig einsetzen lassen. Hierbei haben sich für die 3D-
+Digitalisierung noch keine Standards für ein Master- und Präsentationsformat breitflä-
+chig durchgesetzt. Das Format OBJ eignet sich aufgrund seiner Kompatibilität mit vielen
+3D-Grafikprogrammen grundsätzlich für die Weitergabe von 3D-Modellen. Als Präsentati-
+onsderivat haben die DFG-Praxisregeln zudem glTF/GLB9 als Mindeststandard definiert.
+
+1.4 Scannerhardware
+
+Digitalisierungshardware umfasst neben Rechnern zur Bearbeitung und Speicherung
+der Ergebnisse vor allem Geräte zur Überführung der Vorlage in eine digitale Version.
+Die Hardware muss immer nach konservatorischen Gesichtspunkten, entsprechend
+den zu digitalisierenden Medien und deren jeweiligem Erhaltungszustand, gewählt
+werden. Die Geräte unterscheiden sich in vielen Aspekten.
+
+Bei der 2D-Digitalisierung können Vorlagen Zeile für Zeile mit einem Scanner ab-
+getastet oder mittels fest arretierter Digitalkamera auf einmal erfasst werden. Dabei
+kann die Vorlage plan aufliegen, also 180° geöffnet sein oder buchschonender in
+einem geringeren Winkel von bis zu 45° wie beim Wolfenbütteler Buchspiegel. Die
+ausgewählte Hardware wirkt sich entscheidend auf die Durchsatzgeschwindigkeit
+aus, insbesondere bei sehr fragilen Vorlagen, für die es verschiedene buchschonende
+Vorlagenhalterungen gibt. Weitere Unterscheidungspunkte sind Anschaffungs- und
+Betriebskosten, Qualität der Aufnahmen, Ausgabeformate, die maximale Aufnahme-
+fläche und Auflösung. Hier sollte darauf geachtet werden, dass mit hoher Auflösung
+gescannt und nicht nachträglich interpoliert wird.
+
+Quantitativ gute Ergebnisse sind mit Durchzugsscannern zu erreichen, die automa-
+tisch Blatt für Blatt verarbeiten. Ihre Nutzung erfordert aber eine Auflösung des Buch-
+blocks, so dass sie in der Regel nur bei Einzelblättern, z. B. aus dem Nachlassbereich, zur
+Anwendung kommen. Bei diesem Scannertyp ist unbedingt auf die Bildqualität zu achten,
+da die hohe Geschwindigkeit bei manchen Anbietern durch eine verlustbehaftete Kom-
+pression der Digitalisate erreicht wird. Flachbettscanner, bei denen die Vorlage wie bei
+Kopierern auf die Scanfläche gelegt werden muss, kommen in der Buchdigitalisierung
+kaum zum Einsatz, weil sie das Objekt stark beanspruchen und nicht effektiv sind.
+
+Verwendung finden daher zumeist Aufsichtscanner, bei denen das Objekt von oben
+abgebildet wird und der Scanoperator zwischen den Aufnahmen jeweils eine Seite um-
+
+ Siehe auch: https://www.iso.org/standard/83990.html (12.06.2023)
+
+
+
+638 Reinhard Altenhöner und Martin Hermann
+
+blättert. Um Verzerrungen im Bild durch Wölbungen, die die Bindung der Vorlage ver-
+ursacht, zu reduzieren, kann eine (möglichst schonende) Fixierung z. B. per Glasplatte
+erfolgen oder, falls größere softwareseitige Manipulationen an den Archivmastern ak-
+zeptiert werden, auf diese Weise eine nachträgliche Begradigung stattfinden.
+
+Scanroboter führen zu einem deutlich höheren Durchsatz, sind jedoch mit höheren
+Anschaffungskosten verbunden und nicht für alle Materialien und Formate geeignet.
+Angesichts der besonderen Herausforderungen der Originalwerke – große Unter-
+schiede in Format, Materialität und konservatorischem Zustand – erfordert die Praxis
+ein gestuftes Verfahren mit Einsatz unterschiedlicher Scantechniken.10
+
+Auch bei der 3D-Digitalisierung kommen für die Erstellung der Objektdaten entwe-
+der spezielle 3D-Scanner oder herkömmliche Digitalkameras zum Einsatz. Die 3D-
+Digitalisierung mittels 3D-Scanner liefert üblicherweise die präziseren Messergebnisse,
+und das unabhängig von der zu digitalisierenden Vorlage. Streifenlichtscanner erreichen
+eine Genauigkeit im Millimeter- bis Submillimeterbereich, Laserscanner dagegen nur im
+Zentimeter- bis Millimeter-Bereich. Die Kosten für die zu beschaffende Hardware sind
+allerdings erheblich. Die 3D-Digitalisierung mit Digitalkameras mittels Photogrammetrie
+bietet aus finanzieller und technischer Perspektive einen niedrigschwelligeren Einstieg.
+Hochwertige Kameras sowie das notwendige Fachwissen, sie einzusetzen, sind oftmals
+im Rahmen der 2D-Digitalisierung bereits vorhanden. Zudem besticht Photogrammetrie
+durch einen hohen Fotorealismus. Die Güte der 3D-Digitalisierung ist im Wesentlichen
+von der Qualität der eingesetzten Optik und der Auflösung des Sensors abhängig. Aller-
+dings ist nicht jedes Objekt für das photogrammetrische Verfahren uneingeschränkt
+geeignet.
+
+Bei der Produktion ist zur farbverbindlichen Wiedergabe der Digitalisate hard-
+wareseitig auf das Farbmanagement11 zu achten, wenn die Scanner dies unterstützen.
+Entsprechend sind die Scanner regelmäßig zu warten, zu kalibrieren und zu profilie-
+ren. Ebenso sind geeignete Lichtquellen vorzusehen, die eine bestandsschonende, für
+Scanoperateure und die Erfassungswerkzeuge aber optimale Ausleuchtung der Vorla-
+gen ermöglichen. Bildschirme zur Beurteilung der Scans sollten kalibrierbar und
+blickwinkelstabil sein. Das gilt für jede Art der Digitalisierung.
+
+2 Metadaten und Inhaltsanalyse
+Ein Digitalisat besteht zunächst aus der Information, die ein Digitalisierungsgerät von
+einer analogen Vorlage erfasst und in Form einer oder mehrerer Binärdateien gespei-
+chert hat. Diese Dateien umfassen bereits einige Metadaten, bspw. im TIFF-Tag im Datei-
+header oder EXIF- bzw. IPTC-Metadaten in JPEG. Da diese Information immer direkt in
+
+ Brantl u. a. 2009: S. 334 f.
+ Siehe auch IAIS 2007: S. 77.
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 639
+
+der Datei selbst enthalten sind, sollte davon Gebrauch gemacht werden, damit unabhän-
+gig von Datenbanken erkannt werden kann, worum es sich bei diesem Teil eines Digitali-
+sats handelt. Der Umfang dieser Metadaten ist aber begrenzt und ein formatspezifischer
+Ansatz ist für deren Nutzung jeweils nötig. Mehr Informationen können formatunabhän-
+gig in XML-Dateien abgelegt werden. Dazu muss mindestens ein Schema gewählt werden,
+das geeignet für die gewünschten Informationen ist. Verwendet werden sollten gängige
+Standards, damit die Daten austauschbar mit anderen Institutionen werden oder Digitali-
+sierungs- und Präsentationssoftware diese bereits unterstützen.
+
+2.1 XML-Metadaten des Digitalisats
+
+Zunächst ist zu entscheiden, welche Informationen zu welchem Zweck erfasst und ge-
+speichert werden sollen. Grundsätzlich gibt es eine enorme Menge an Informationen
+zu einer analogen Digitalisierungsvorlage, zum Digitalisierungsprozess selbst und den
+entstandenen digitalen Daten. Die Festlegung sollte berücksichtigen, dass diese Infor-
+mationen später für jedes zu digitalisierende Werk zu erheben sind. Dies gilt zumin-
+dest für Daten, die auch als Suchfilter angeboten werden sollen. Erfolgt dies nicht
+automatisch, bedeutet das zusätzlichen Aufwand. Jede Information sollte deshalb
+einen konkreten, absehbaren Nutzen haben. So könnte die Raumtemperatur beim Di-
+gitalisieren zwar theoretisch Auswirkungen haben, praktisch wird diesem Wert je-
+doch kein Nutzen beigemessen und diese Information nicht erhoben.
+
+Im Folgenden werden verschiedene Arten von Informationen und typische Erfas-
+sungsarten kurz dargestellt:
+– Bibliographische und exemplarbezogene Metadaten: Die Informationen insbesondere
+
+über Inhalt, Urheber:in, Entstehungsjahr, Medientyp der analogen Vorlage liegen in
+der Regel bereits in einer Datenbank vor. Ihre Erfassung muss jedoch spätestens bei
+der Digitalisierung erfolgen. Von den bibliographischen Daten kann ein Ab- oder Aus-
+zug den Metadaten hinzugefügt werden. Besitzt die Datenbank eine Schnittstelle wie
+OAI-PMH12 oder SRU,13 kann dies automatisiert erfolgen. Für bibliographische Infor-
+mationen existiert eine Vielzahl von XML-Schemata, die häufig speziell auf einen be-
+stimmten Anwendungskontext oder eine bestimmte Domäne zugeschnitten sind; für
+Bibliotheken sind das z. B. MARC XML,14 MODS15 oder Dublin Core.16
+
+ Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). https://www.openarchives.
+org/pmh/ (12.06.2023).
+ Search/Retrieval via URL (SRU). https://www.loc.gov/standards/sru/ (12.06.2023).
+ Machine-Readable Cataloging (MARC). https://www.loc.gov/marc/ (12.06.2023).
+ Metadata Object Description Schema (MODS) ist weniger komplex als MARC21, aber umfassender
+als Dublin Core. https://www.loc.gov/standards/mods/ (12.06.2023).
+ https://www.dublincore.org/specifications/ (12.06.2023).
+
+
+
+640 Reinhard Altenhöner und Martin Hermann
+
+– Technische Metadaten: Informationen über die digitalen Dateien werden als tech-
+nische Metadaten erfasst. Diese Angaben lassen sich häufig automatisch aus den
+Bilddateien auslesen und können für die Langzeitarchivierung wichtig sein. Sie
+umfassen Angaben zum Dateiformat (möglich auch mit einem eindeutigen Identi-
+fier aus einer Formatdatenbank wie PRONOM17), zur Dateigröße und eine Prüf-
+summe, die eindeutig diese Datei beschreibt und anhand derer eine Änderung an
+der Datei nachgewiesen werden kann.
+
+– Daten über den Digitalisierungsprozess: Wichtig ist die Beschreibung des Digitali-
+sierungsprozesses, durch den das Digitalisat entstanden ist; nur so lassen sich Feh-
+ler auch später entdecken und gegebenenfalls beheben. Dabei sind vor allem die
+verwendeten Systeme und deren Hard- und Softwarekomponenten möglichst
+genau zu benennen. Hier werden auch Angaben zum Erstellungsdatum, zu den
+Digitalisierungsparametern sowie zur Hardware gegeben (etwa maximale Auflö-
+sung, aber zur besseren Identifizierung auch Modellnummer und Seriennummer
+des Geräts). Dafür eignet sich bei Bilddateien der Standard MIX der Library of Con-
+gress (LoC) bzw. ANSI/NISO Z39.87-2006.18 Für Audiodateien gibt es einen Standard
+der Audio Engineering Society (AES57-201119). Für 3D-Objekte gibt es noch keine eta-
+blierten Standards. Hier bzw. in einem vom Langzeitarchiv gegebenenfalls vorgege-
+benen Schema kann auch eine Bearbeitungshistorie festgehalten werden, die die
+einzelnen Workflowschritte des Digitalisats bis zur Abspeicherung dokumentiert.
+An dieser Stelle können auch spätere Schritte wie die Konversion in ein neues For-
+mat, d. h. der Lebenszyklus des Digitalisats, dokumentiert werden.
+
+– Strukturelle Metadaten: Das Digitalisat besteht aus vielen einzelnen Bilddateien.
+Die Ordnung der Dateien analog der physischen Vorlage sollte sich bereits durch
+Laufnummern (gegebenenfalls mit Sprunglücken für das nachträgliche Einfügen
+von Inhalten) aus der alphanumerischen Sortierung der Dateinamen ergeben. Da-
+rüber hinaus sollte aber eine Klammer um das Digitalisat gebildet werden, die
+wie der Bucheinband die Seiten in der korrekten Reihenfolge zusammenhält.
+Dafür bietet sich der ebenfalls von der LoC spezifizierte Standard METS20 an, in
+den auch die oben genannten XML-Schemata integrierbar sind. In METS können
+den einzelnen Dateien Identifier zugeordnet und diese in eine Reihenfolge ge-
+bracht werden. Diese Reihenfolge kann auch mit Bezeichnungen unabhängig von
+einer reinen Durchnummerierung der Scans versehen werden, etwa indem den
+Scans die tatsächliche Seitenbezeichnung zugeordnet wird. Weiterhin kann eine
+Abbildung einer logischen Struktur, also eines Inhaltsverzeichnisses, erstellt wer-
+
+ Von den UK National Archives gepflegte Online-Datenbank für Formatinformationen: https://www.
+nationalarchives.gov.uk/PRONOM/ (12.06.2023).
+ NISO Metadata for Images in XML. https://www.loc.gov/standards/mix/ (12.06.2023).
+ https://www.aes.org/publications/standards/search.cfm?docID=84 (19.11.2023).
+ Metadata Encoding and Transmission Standard (METS). https://www.loc.gov/standards/mets/
+(12.06.2023).
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 641
+
+den. Hierbei wird jedem logischen Abschnitt der Identifier des ersten zugehörigen
+Scans mitgegeben. Die Erfassung dieser inhaltlichen Metadaten verbessert die Nut-
+zung des Digitalisats, da eine gezieltere Navigation innerhalb des Objekts möglich
+wird. Ihre Erfassung erfordert aber je nach Detaillierungsgrad teils erhebliche zu-
+sätzliche Aufwände bei oder nach der Digitalisierung.
+
+– Administrative Metadaten: Zu den administrativen Metadaten zählen Rechtein-
+formationen zum Digitalisat und Angaben zum Zugriff auf das digitale Objekt.
+Die Zugriffsinformation kann in Form eines persistenten Identifiers, z. B. Uniform
+Resource Name (URN), oder einer Adresse, z. B. Uniform Resource Locator (URL),
+ausgedrückt werden.
+
+2.2 Bibliographische Metadaten zum Digitalisat
+
+Bei einem Digitalisat handelt es sich nach Resource Description and Access (RDA) um
+eine Reproduktion, also um eine exakte Kopie des Inhalts einer Ressource, die mit me-
+chanischen oder elektronischen Mitteln erstellt ist. Dabei wird unterschieden zwischen
+Reproduktionen in gleicher physischer Form (z. B. Faksimiles, Nachdrucke) und Repro-
+duktionen in anderer physischer Form, zu denen u. a. auch Digitalisate gehören. Bei
+der Erschließung elektronischer Reproduktionen stellen die Anwendungsrichtlinien für
+den deutschsprachigen Raum unterschiedliche Optionen zur Auswahl. Entweder erhält
+das Digitalisat eine eigene bibliographische Beschreibung, die mit der Beschreibung des
+Originals in Beziehung gesetzt wird. Oder es wird auf eine eigene Aufnahme verzichtet
+und stattdessen die Aufnahme des Originals um die Angaben frei zugänglicher Digitali-
+sate angereichert. Die Festlegung, welche Variante angewandt wird, trifft die jeweilige
+Bibliothek bzw. der entsprechende Bibliotheksverbund.
+
+Die gedruckte Vorlage, die vor der Digitalisierung im Katalog verzeichnet sein
+sollte, wird neben dem generellen Anliegen einer digitalen Bereitstellung und digitalen
+Nachnutzung (z. B. für Data Mining) mitunter auch aus einem bestimmten Grund digita-
+lisiert, so zum Bestandsschutz, weil ein Werk z. B. auf stark säurehaltigem Papier ge-
+druckt wurde, das aus technischen Gründen keiner Entsäuerung unterzogen werden
+kann. Sind diese Informationen für die Bestandserhaltung bereits im Katalog verzeich-
+net, können sie beim Workflow hilfreich sein. Aus bestimmten Zuständen ergeben sich
+verschiedene Bestandsschutzmaßnahmen, von denen eine die Digitalisierung des Wer-
+kes sein kann. Die Bearbeitung eines Exemplars in einer Bestandsschutzmaßnahme
+sollte dokumentiert werden. Dies kann mit relativ wenigen, möglichst standardisierten
+Angaben wie Art der Maßnahme, Datum und Status abgebildet werden. Wie detailliert
+Zustands- und Bestandsschutzinformationen verzeichnet werden, hängt immer von
+den Ressourcen, den Beständen und der Bestandserhaltungsstrategie des jeweiligen
+Hauses ab.
+
+Es gibt verschiedene, weitere Informationen, die in Bibliothekskatalogen zu Digitali-
+saten verzeichnet werden können. Dazu zählen Links für die Präsentation, Zugriffs-
+
+
+
+642 Reinhard Altenhöner und Martin Hermann
+
+rechte für elektronische Ressourcen, material- oder projektspezifische Angaben, Lang-
+zeitarchivierungsinformationen und persistente Identifier. Sinnvoll kann auch die Ver-
+zeichnung von Informationen zum Importzeitpunkt sowie zur Anzahl der importierten
+Dateien sein, z. B. für Statistiken oder die Kontrolle von Rechnungen. Praktisch ist
+zudem die Verwendung von Projektcodes innerhalb eines abgegrenzten Digitalisierungs-
+projekts. Hierüber können alle zugehörigen Digitalisate bzw. deren Datensätze identi-
+fiziert werden. Da die Ergebnisse von Digitalisierungsprojekten sich aus verschiedenen
+Gründen durchaus unterscheiden, ist auch eine nachträgliche Differenzierung der Da-
+tensätze sinnvoll, z. B. für Nacharbeiten.
+
+2.3 Inhaltsinformationen des Digitalisats
+
+Neben den vorliegenden bibliographischen und den technischen Angaben über das
+Digitalisat, die während des Digitalisierungsprozesses entstehen, können aus einer di-
+gitalen Version zusätzliche Informationen zum Inhalt extrahiert werden, die über die
+bibliographischen Angaben und gegebenenfalls inhaltsbeschreibende Schlagwörter
+hinausgehen. In einer entsprechend aufbereiteten digitalen Version kann der mit Op-
+tical Character Recognition (OCR) erkannte Text durchsucht werden. Ebenso können
+maschinelle Verfahren aus den Texten zusätzliche Informationen generieren und die
+bibliographischen Informationen anreichern.
+
+Grundlage für zusätzliche Inhaltsinformationen zur Recherche oder maschinellen
+Bearbeitung ist die Erkennung des Textes. Die Digitalisierung liefert zunächst nur Ras-
+tergrafiken der gedruckten Vorlage. Das Buch kann damit am Bildschirm betrachtet
+werden und das Digitalisat wie die Vorlage durchgeblättert und gelesen werden. Die
+Bedeutung der Zeichen in den Bildern erschließt sich zwar menschlichen Nutzer:innen,
+nicht aber einer Maschine.
+
+Durch Verfahren zur OCR können Texte in diesen Bildern erkannt und extrahiert
+und damit auch als Zeichenketten von Maschinen für die Suche verwendet werden.
+Die Qualität der Erkennung der Zeichen in der Vorlage ist abhängig vom Zustand der
+Druckvorlage, von der Sprache, der Schriftart, den Digitalisierungsparametern und
+der verwendeten Software zur Volltextgewinnung. Stark vergilbte und wellige Seiten
+mit Inhalten in verschiedenen Sprachen und ungewöhnlichen Schrifttypen, die mit
+geringer Qualität digitalisiert wurden, führen zu entsprechend schlechten Ergebnis-
+sen. Im schlechtesten Fall ist kein Zeichen richtig erkannt. Hier empfiehlt sich eine
+akkurate Digitalisierung oder gegebenenfalls eine Vorverarbeitung, etwa das Heraus-
+rechnen von Krümmungen. Je besser die Objekte für eine OCR geeignet sind, so durch
+guten Kontrast zwischen Papier und Schrift, bekannte Sprachen und sauber gesetzte
+Typen bei einer qualitativ guten Digitalisierung, desto besser ist das Ergebnis bis hin
+zu vollständig richtig erkannten Zeichen. Eine hundertprozentige Korrektheit ist aller-
+dings selten zu erwarten. Dabei ist zu berücksichtigen, dass die meisten Fehler nur
+dazu führen, dass weniger korrekte Treffer gefunden werden, es aber kaum zu Fehl-
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 643
+
+treffern kommt, weil die falsch erkannten Zeichen in der Regel zu unsinnigen Wör-
+tern führen. Klassische OCR-Fehler sind z. B. die fehlerhafte Unterscheidung zwischen
+den Kleinbuchstaben i und l oder bei Frakturschriften zwischen f und s. Ist eine sehr
+hohe Erfassungsgenauigkeit nötig, sollten manuelle Nachkorrekturen eingeplant wer-
+den. Als Alternative können spätere Nutzer:innen OCR-Fehler selbst korrigieren und
+diese Änderungen direkt in die Datenbank übernommen werden.21
+
+OCR-Software kann neben der reinen Erkennung der Zeichen auch weitere Infor-
+mationen extrahieren, z. B. die Position der Zeichen innerhalb des Bildes (wichtig für
+eine spätere Markierung von Treffern im Text), Schrifteigenschaften (fett gedruckt,
+Schriftgröße) und Sicherheit der Erkennung. Diese Informationen können in verschie-
+denen XML-Schemata ausgegeben werden, darunter dem Standard ALTO,22 der sich
+wiederum in das METS-Format integrieren lässt oder TEI-P5,23 einem Format für ma-
+schinenlesbare Texte mit Auszeichnung linguistischer Elemente, das insbesondere in
+den Geisteswissenschaften verbreitet ist.
+
+Die Bearbeitung von Digitalisaten durch OCR-Software ist ein Faktor, der für die
+Bearbeitungsdauer von Digitalisaten sowie die Kosten von Projekten zu berücksichti-
+gen ist, insbesondere bei Frakturschriften, die nicht von jeder Software verarbeitet
+werden oder zusätzliche Kosten verursachen. Vor der Nutzung von OCR für große Be-
+stände sollten Tests mit repräsentativen Materialien erfolgen, um eine Einschätzung
+zu ermöglichen, ob die Qualität der OCR für die angestrebten Ziele ausreicht.
+
+Neben der Erkennung von Textinhalten für eine Volltextsuche kann das Ergebnis
+einer OCR in Kombination mit den Bildern auch für die Erkennung von Layout und
+Strukturen genutzt werden. Dies bietet sich z. B. bei der Digitalisierung von Zeitungen
+an, bei denen für die gezielte Recherche der Zugriff auf einzelne Artikel entscheidend
+ist. Ebenso kann Überschriften oder Bildunterschriften bei einer Suche eine besondere
+Relevanz beigemessen werden, z. B. zur Berücksichtigung bei Ranking-Algorithmen.
+Denkbar sind auch die Erkennung von Bildern, Tabellen, Grafiken oder Sonderforma-
+ten innerhalb von Digitalisaten und eine Rückspielung dieser Informationen in die bi-
+bliographischen Daten des Katalogs.
+
+Neben strukturellen Elementen kann innerhalb eines Volltexts auch versucht wer-
+den, besonders bedeutungstragende Begriffe wie Entitäten (Personen, Institutionen,
+Orte) zu erkennen und ihnen ebenfalls eine höhere Relevanz bei der Suche zuzuweisen.
+Die erkannten Entitäten können auch Verbindungen zwischen verschiedenen Werken
+herstellen, die bislang nicht sichtbar waren. Zusätzliche Informationen, die aus einer
+digitalen Ressource gewonnen und ergänzend in den Katalog aufgenommen werden
+
+ Z. B. bei den digitalisierten Zeitungen der australischen Nationalbibliothek: https://trove.nla.gov.
+au/newspaper/ (14.09.2024).
+ Analyzed Layout and Text Object (ALTO): https://www.loc.gov/standards/alto/ (12.06.2023), ebenfalls
+gut in METS-XML integrierbar.
+ Text Encoding Initiative (TEI), Guidelines Version 5 (P5) von 2007: https://tei-c.org/Guidelines/P5/
+(12.06.2023).
+
+
+
+644 Reinhard Altenhöner und Martin Hermann
+
+könnten, sind z. B. Größenangaben der Druckvorlage (die sich näherungsweise aus Pi-
+xelanzahl und Auflösung ergeben) und verwendete Sprachen (aus der OCR).
+
+Für Digitalisierung betreibende Einrichtungen stellen die Entwicklung und der Be-
+trieb maschineller Verfahren zur Volltextgenerierung, zur Anreicherung der Objekt-Me-
+tadaten, aber auch zur semantischen Vernetzung und Anreicherung von Inhalten
+Herausforderungen dar. Die eingesetzten Verfahren und die dabei entstehenden Daten
+verbessern nicht nur die Suchmöglichkeiten für den Zugang zu solchen Objekten, son-
+dern werden selbst wiederum zu Daten bzw. Gegenständen der Forschung – ebenso
+wie die Methoden selbst, mit denen sie erzeugt wurden.24 Wesentlich ist diesen Prozess-
+schritten auch, dass diese – mit über Zeit verbesserten Methoden zum Beispiel bei der
+Vervolltextung – regelmäßig reprozessiert werden können, idealerweise als Teil eines
+etablierten Workflows, ggf. auch im Rahmen gezielter wissenschaftlicher Vorhaben.
+
+3 Digitalisierungsworkflow
+3.1 Vorbedingungen
+
+Vor dem konkreten Digitalisieren von Medien sind Vorarbeiten am Bestand nötig. Di-
+gitalisiert, archiviert und bereitgestellt werden kann nur, was vorher bereits in einem
+bibliographischen Nachweisinstrument beschrieben wurde. Allein über Verzeichnis-
+strukturen auf Dateiebene sind große Datenmengen nicht mehr handhabbar. Unter-
+schiedliche Strukturen, Lücken oder Fehler in den bibliographischen Metadaten
+sollten möglichst früh erkannt werden, da ihre Korrektur sehr zeit- und personalauf-
+wendig ist und die Digitalisierung verzögern kann. Korrekturen nach der Digitalisie-
+rung sollten vermieden werden.
+
+Schnittstellen, über die Metadaten abgefragt werden können, erleichtern die Nach-
+nutzung von Daten. So können z. B. bibliographische Daten für den Digitalisierungspro-
+zess übernommen oder Metadaten für den Nachweis von Digitalisaten in Portalen wie
+der DDB oder Europeana bereitgestellt werden. Wichtig ist eine Verbindung zwischen
+den bibliographischen Daten und dem zu digitalisierenden Objekt. Hierzu wird pro
+Digitalisierungsauftrag ein eindeutiger Identifikator (Digitalisierungs-ID) geprägt, der
+dann verwendet wird, um die verschiedenen Bestandteile miteinander in Beziehung zu
+setzen: Digitalisierungsauftrag, zu digitalisierendes Kulturobjekt, Digitalisat und zum
+Digitalisat gehörige Dateien und Informationseinheiten. Dazu kann die Digitalisierungs-
+ID als Bestandteil eines Metadatensatzes oder auch als Teil der Dateibenennung ver-
+wendet werden.
+
+ Vgl. beispielsweise das Projekt Mensch.Maschine.Kultur als Baustein der nationalen KI-Strategie,
+in dem Werkzeuge zur Datenanalyse auf der Basis von Digitalisaten entstehen, s. https://mmk.sbb.ber
+lin/ (12.06.2023).
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 645
+
+Daneben ist natürlich zu klären, ob ausreichend Ressourcen für die verschiedenen
+Arbeitsschritte, die Finanzierung und auch die Langzeitarchivierung zur Verfügung ste-
+hen. Die IT-Infrastruktur muss sowohl bei Beauftragung eines Dienstleisters als auch
+bei Inhouse-Digitalisierung für die laufende Verarbeitung, Präsentation und dauerhafte
+Archivierung entsprechender Datenmengen ausgelegt sein.
+
+3.2 Bestandsauswahl und Vorbereitungen
+
+Für die Digitalisierung müssen einzelne Objekte oder Bestandsgruppen ausgewählt
+werden. Auswahlkriterien können sein: Grundsätzliche Eignung zur Digitalisierung
+im Hinblick auf Objektbeschaffenheit und Erhaltungszustand, akuter oder präventi-
+ver Bestandsschutz, Digitalisierung einzelner Titel auf Nutzerwunsch oder Digitalisie-
+rung ausgewählter Bestände. Die Auswahl kann direkt am Regal erfolgen, wenn ein
+zusammenhängend aufgestellter Teilbestand digitalisiert werden soll oder die Massen-
+digitalisierung großer Bestände durchgeführt wird. Vielfach erfolgt die Auswahl über
+die bibliographischen Daten im Katalog, etwa nach Vermerken, die eine Digitalisierung
+als Bestandsschutzmaßnahme nötig machen, oder anhand inhaltlicher Kriterien wie
+z. B. Zeiträumen, beteiligten Personen oder Themen.
+
+Nach dem Ausheben werden die Bestände im Ausleihsystem verbucht und in ein
+Workflow-Managementsystem eingebucht. Eine Software zur Unterstützung des Digi-
+talisierungsworkflows bietet eine Übersicht über die jeweiligen Bearbeitungsschritte
+und den Status der Digitalisierung. Sie kann Digitalisate an die verschiedenen beteilig-
+ten Softwarekomponenten, z. B. OCR, Bildbearbeitung und Metadatengenerierung,
+weiterreichen. Sie sollte Schnittstellen für den Import oder Export, z. B. zum Katalog,
+bieten. Manche Tools verfügen zusätzlich auch über Präsentationswerkzeuge/Viewer
+für die Digitalisate. Für den 3D-Bereich ist eine solche Software zur Unterstützung des
+Digitalisierungsworkflows noch die Ausnahme.25
+
+Geprüft werden sollte – möglichst automatisiert – je nach Zielsetzung, ob nicht be-
+reits andere Institutionen ein Exemplar dieses Werks digitalisiert haben. Bestehende
+Urheber- und Leistungsschutzrechte sind vorab zu prüfen respektive zu klären; hier ist
+gegebenenfalls mit erheblichen Aufwänden zu rechnen.26
+
+ Die Software Smithsonian Cook bietet hier einen ersten Ansatz: https://3d.si.edu/open-source-re
+sources (12.06.2023).
+ Kreutzer 2011.
+
+
+
+646 Reinhard Altenhöner und Martin Hermann
+
+3.3 Ausschreibung einer Dienstleistung oder interne Bearbeitung
+
+Grundsätzlich muss anhand der Gegebenheiten der Bibliothek und des Digitalisie-
+rungsvorhabens entschieden werden, ob die Digitalisierung durch die Bibliothek
+selbst erfolgt oder ob sie als Dienstleistung ausgeschrieben und vergeben wird. Beides
+bietet Vor- und Nachteile: Bei Beauftragung eines Dienstleisters kann die Bibliothek
+auf die Anschaffung von Hard- und Software zur Digitalisierung verzichten, sie benö-
+tigt kein eigenes Personal und kann auf die Erfahrungen und die Personalressourcen
+eines Dienstleisters zurückgreifen. Nachteile sind die Aufwände für die Ausschrei-
+bung, Sachkosten, Dienstleisterbegleitung inkl. Qualitätssicherung, vor allem aber der
+Verzicht auf den Aufbau eigener Kompetenz.
+
+Am Markt gibt es viele Anbieter von Dienstleistungen rund um die Digitalisierung
+mit jeweils eigenen Lösungen. Wichtig ist, in einer Ausschreibung möglichst detailliert
+und präzise die Anforderungen des Vorhabens und die Besonderheiten des zu digitalisie-
+renden Bestandes darzustellen. Insbesondere im Falle von Sonderformaten und besonde-
+ren Materialien sowie problematischen Erhaltungszuständen sollte das angemessene
+Vorgehen im Vorfeld differenziert überlegt werden, um späteren Abstimmungsaufwand
+zu vermeiden und realistische Angebote zu erhalten. Vorab zu klären ist, ob der Dienst-
+leister in der Bibliothek arbeiten muss oder ob die Bestände auch außerhalb der Biblio-
+thek und gegebenenfalls des Landes bearbeitet werden dürfen.
+
+Die Ausschreibung sollte alle Digitalisierungsvorgaben und vor allem auch Work-
+flowschritte umfassen. Dazu gehören u. a. die Dokumentation der Übernahme und
+Rückgabe von Beständen, die kontinuierliche Berichterstattung über die Abwicklung
+des Auftrags, Möglichkeiten zur Qualitätssicherung inkl. Reklamation, Kommunikati-
+onswege, Vorgaben für technische Metadaten, laufender Transfer finaler Daten bis hin
+zur Rechnungsstellung und -kontrolle. Während der Angebotsphase kann ein Informati-
+onstag vor Ort sowohl für die Anbieter als auch die Bibliothek hilfreich sein. In den An-
+geboten haben sich Referenzdigitalisate als hilfreich erwiesen, um die Qualität der zu
+verwendenden Geräte und das Verständnis der Bieter für die Anforderungen (z. B. Da-
+teivorgaben oder Metadaten) vorab einschätzen zu können.
+
+Bei einer Digitalisierung im eigenen Hause sollte, sofern die Infrastruktur nicht
+bereits besteht, eine langfristige Strategie zur Digitalisierung vorliegen, für die dann
+eine entsprechende Digitalisierungsinfrastruktur dimensioniert werden kann. Dazu
+gehören neben qualifiziertem Personal für die Bearbeitung der geplanten Mengen so-
+wohl Geräte, die für die Medien geeignet sind, als auch Software, die die Anforderun-
+gen an die Digitalisierungsparameter, Metadaten und Verarbeitungsschritte wie OCR
+oder den Transfer in ein Repository unterstützt.
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 647
+
+3.4 Qualitätssicherung
+
+Die Ergebnisse der Digitalisierung müssen, unabhängig ob intern oder extern erstellt,
+einer Qualitätssicherung unterzogen werden.27 Bilddigitalisate eignen sich besonders
+für visuelle Stichproben, aus denen schnell erkannt werden kann, ob korrekt digitali-
+siert wurde, d. h. beispielsweise Zuschnitte korrekt und gerade sind, Seitenreihenfol-
+gen eingehalten wurden oder alle Seiten vorhanden sind. Solche Fehler können
+maschinell nur schwer erkannt werden. Maschinell überprüfbar ist jedoch, ob Digita-
+lisierungsparameter wie Auflösung und Farbtiefe eingehalten wurden oder Dateifor-
+mate und Metadaten valide und Benennungen der Dateien korrekt sind. Bei der 3D-
+Digitalisierung fehlen hierzu weitestgehend noch geeignete Workflows und Software-
+instrumente. Eine große Abweichung in den Bilddimensionen bei einem Bild kann
+wiederum als Indikator für eine intellektuelle Kontrolle dienen, da hier evtl. falsch
+zugeschnitten wurde oder ein Sonderformat vorliegt, das eine kurze visuelle Kon-
+trolle erfordert.
+
+Regelmäßig sollten auch die Farbwerte einer Kontrolle unterzogen werden, um
+das Farbmanagement zu überprüfen und zu große Abweichungen festzustellen. Dazu
+sollten Farbstandardkarten als Referenz mitdigitalisiert werden.
+
+3.5 Archivierung
+
+Für die Archivierung der Digitalisierungsergebnisse muss definiert werden, welche
+Daten in welcher Struktur und auf welchem Wege in das Archiv übernommen wer-
+den.28 In der Praxis ist eine Differenzierung zwischen einem digitalen Archivmaster
+und der Bereitstellungskopie zwingend erforderlich. Das Archivsystem muss die
+Daten so ablegen, dass sie einem Katalogeintrag zugeordnet werden können, von dem
+aus das Digitalisat bereitgestellt werden kann. Für andere Anwendungen wie eine
+Suchmaschine für einen Volltextindex muss ebenfalls Zugriff auf den OCR-Teil der
+Daten gegeben sein. Und das Archiv sollte u. a. dokumentieren, welche Daten es ent-
+hält und welche Dateitypen abgeliefert wurden. Beim Import können auch automati-
+sche Verarbeitungen stattfinden, z. B. Bereitstellungsmetadaten erzeugt werden oder
+der Katalogeintrag um persistente Identifier und den Status, dass das Digitalisat ab
+jetzt zur Verfügung steht, ergänzt werden.
+
+Beim Transfer in das Archiv sollten immer Checksummen mitgeliefert und kont-
+rolliert werden, um zu verhindern, dass durch Transferprobleme korrupt gewordene
+Daten ins Archiv gelangen. Beim Transfer von Digitalisaten sind auch immer die enor-
+men Datenmengen zu berücksichtigen, die bisweilen sehr lange Übertragungszeiten
+
+ Siehe auch IAIS 2007: S. 78 f.
+ Siehe auch IAIS 2007: S. 100 ff.
+
+
+
+648 Reinhard Altenhöner und Martin Hermann
+
+in Anspruch nehmen. Dabei ist es wichtig, dass nachvollzogen werden kann, welche
+Daten abschließend und korrekt verarbeitet wurden und wo es welche Fehler gab.
+Wenn sie nicht valide sind, fallen spätestens beim Import der korrigierten Datensätze
+ins Katalogsystem Nacharbeiten an.
+
+3.6 Präsentation
+
+Digitalisate erfordern je nach Format eine gesonderte Präsentation. Liegen die Bildda-
+teien in einem PDF-Container vor, kann diese Datei mit gängigen PDF-Betrachtern
+wiedergegeben werden. Bei Einzelbildern, deren Zusammenhang über eine XML-
+Datei hergestellt wird, ist eine Applikation notwendig, die die Bilder darstellt und
+Funktionen zur Navigation anbietet. Dazu gehören in der Regel Blättern, Vergrößern
+und das Springen zu bestimmten Seiten. Eine Volltextrecherche kann – immer abhän-
+gig von den vorhandenen Daten – gegebenenfalls mit Anzeige aller Treffer angeboten
+werden, ebenso wie eine Übersicht der inhaltlichen Struktur. Ersichtlich sein sollte
+auch, wer der Ersteller des Digitalisats ist, zudem sollte ein Link auf die Katalogdaten
+vorhanden sein.
+
+Es gibt verschiedene Präsentationslösungen,29 vielfach auch als Open Source. Ein
+gemeinsamer Nenner aller DFG-Digitalisierungsprojekte ist der DFG-Viewer,30 mit
+dem alle Metadaten der Digitalisate aus diesen Projekten kompatibel sein müssen.
+Das könnte in Zukunft auch für die 3D-Digitalisierung gelten, sobald der 3D-DFG-
+Viewer einen entsprechenden Reifegrad erreicht hat.
+
+Nutzer:innen sollte ein persistenter Identifier (PI) zur dauerhaften Identifizierung
+und zuverlässigen Zitierfähigkeit für diese Quelle angeboten werden. Dies kann
+z. B. ein URN sein, der die gesamte digitale Ressource oder granularer nur eine spezi-
+fische Seite referenziert. Im Gegensatz zu URLs bieten PIs eine eindeutige und bestän-
+dige Identifikation von Objekten, unabhängig vom Ort der Speicherung. Dies dient
+der dauerhaften Erreichbarkeit und Zitierbarkeit einer digitalen Ressource.
+
+3.7 Rechtliche Aspekte
+
+Gemeinfreie Werke können ohne Einschränkung digitalisiert werden. Für alle urheber-
+rechtsbehafteten Werke müssen Bibliotheken vor der Digitalisierung die Zustimmung
+der Rechteinhaber:innen einholen oder von den sonstigen gesetzlich erlaubten Nutzun-
+gen gemäß § 60–§ 61 UrhG Gebrauch machen. So dürfen Bibliotheken bspw. auch ohne
+
+ Ausführlich dazu Kapitel 7.3 „Digitalisierung von Kulturgut: Organisationsformen, Akteure,
+Zugang“.
+ https://dfg-viewer.de/, insbesondere den Demonstrator zum Test der Bereitstellungsmetadaten:
+https://dfg-viewer.de/demo/ (alle 12.06.2023).
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 649
+
+vorherige Klärung eine öffentlich nicht zugängliche Archivkopie zum Zweck der Be-
+standserhaltung anfertigen. Die gesetzlichen Regelungen zu nicht verfügbaren bzw. ver-
+griffenen Werken sowie verwaisten Werken eröffnen weitere Optionen, wobei die
+praktische Anwendung im einen Fall aufgrund gesetzlicher Änderungen seit 2021 pau-
+siert (nicht verfügbare Werke), im anderen Fall sich als nicht alltagstauglich erwiesen
+hat.31
+
+3.8 Kosten
+
+In Digitalisierungsprojekten werden die Kosten natürlich maßgeblich durch die Menge
+der zu digitalisierenden Objekte beeinflusst. Relevant ist aber auch der Zustand und die
+Beschaffenheit der Objekte, aus denen sich die Bearbeitungsaufwände ergeben. Fragiles
+Material, an dem konservatorische Vorarbeiten stattfinden müssen und das eine beson-
+ders buchschonende Digitalisierung erfordert, oder etwa Sammlungen mit verschiede-
+nen Materialien wie Büchern, Einblattdrucken und Fotos, jeweils in unterschiedlichen
+Formaten, erfordern höhere Aufwände.
+
+Effizienzgewinne können in der Digitalisierung realisiert werden, wenn die Scan-
+robotik und die Produktion in Handauflage bei entsprechenden Vorlagen komplemen-
+tär eingesetzt werden, sodass konservatorische Belange weiter Beachtung finden.
+Unerheblich für zu berechnende Kostenaufwände scheint die Entscheidung zwischen
+Inhouse-Produktion oder Outsourcing an einen Dienstleister zu sein. Bei einem Kos-
+tenvergleich gab es bei der Digitalisierung der Drucke des 16. Jahrhunderts keine si-
+gnifikanten Unterschiede.32 Erhebliche Abweichungen im reinen Scanpreis pro Image
+ergaben sich aber in Abhängigkeit vom eingesetzten Verfahren, das wiederum auf-
+grund der Beschaffenheit des jeweiligen Buchs auszuwählen ist.
+
+Bei Public-Private-Partnership-Abkommen wie dem Google Books Library Project
+übernimmt der kommerzielle Partner die anfallenden Digitalisierungskosten für die
+Bibliothek vollständig, d. h. insbesondere die Kosten für Transport und Versicherung,
+für das Scannen sowie für die Volltexterfassung und die entsprechende technische
+Infrastruktur.33 Zugleich fallen jedoch auch auf Seiten der Bibliotheken umfangreiche
+Aufgaben an, die nur mit erheblichem zusätzlichen Ressourceneinsatz bewältigt wer-
+den können und teilweise gar nicht mehr vollständig durch die Bibliothek geleistet
+werden, z. B. im Hinblick auf die Qualitätssicherung.34 Abzuwägen ist hier auch, wie
+kaum monetär bemessbare Kosten, die sich aufgrund mangelnder Einflussnahme auf
+den Digitalisierungsprozess, auf Qualitätsmaßstäbe, aber auch die Verfügbarkeit der
+Objekte selbst ergeben, wiegen.
+
+ Vgl. dazu Kapitel 7.5 „Rechtliche Rahmenbedingungen“.
+ Opitz u. Stäcker 2009: S. 363
+ Kaiser u. Majewski 2013.
+ Baumgartner u. a. 2008.
+
+
+
+650 Reinhard Altenhöner und Martin Hermann
+
+Bei der 3D-Digitalisierung sind optische Eigenschaften wie z. B. Glanz, Transpa-
+renz und Kontrast der Oberfläche sowie die Formstabilität der Objekte von Bedeu-
+tung. Die Digitalisierungsparameter wirken sich auf die Kosten aus, z. B. bei der
+Speicherung und Langzeitverfügbarkeit. Die Ausgaben für Speicher, Infrastruktur
+und Sicherung der Langzeitverfügbarkeit fallen dauerhaft an und gehen damit weit
+über den Kostenrahmen eines Digitalisierungsprojekts hinaus. Sie sollten daher schon
+in der Planung ausreichend berücksichtigt werden.
+
+Auf Bibliotheksseite sind auch immer die Aufwände für die – je nach Verzeich-
+nungsqualität mehr oder weniger umfangreichen – Arbeiten am Katalog, für die Qua-
+litätssicherung der Digitalisate sowie für die Betreuung von Sonderfällen und Fehlern
+im Prozess zu berücksichtigen. Werden die Digitalisate tiefer erschlossen, etwa um den
+Nutzer:innen eine Navigation über ein Inhaltsverzeichnis zu bieten oder auch automa-
+tisch durch Texterkennung, so stellt dies einen weiteren Kostenfaktor dar. Zuletzt muss
+auch die Präsentation der Daten finanziert werden, sowohl in Hinblick auf die Netzan-
+bindung als auch auf die Software. Einsparpotenziale durch die nicht mehr notwendige
+Bereitstellung aus dem Magazin sind bislang nicht systematisch untersucht worden.
+
+4 Zukunftsperspektiven der Digitalisierung
+Sowohl für die handwerklich-technischen als auch die organisatorischen Aspekte der
+Digitalisierung existieren erprobte Vorgehensweisen und beispielhafte Anwender. Ob
+die Digitalisierung in Eigenregie, durch Einrichtungen in öffentlich-rechtlicher Träger-
+schaft oder im Auftragsverfahren durch privatwirtschaftliche Dienstleister durchge-
+führt wird, ist letztlich unter praktischen Gesichtspunkten und der Betrachtung des
+Kostenaspekts von der Einrichtung zu entscheiden. Für gängige Materialien wie Texte
+und Bilder gibt es ebenso akzeptierte und bekannte Festlegungen wie für Metadaten
+und für die technische Qualität der Digitalisate; die Qualitätssicherung ist auf dieser
+Basis ohne Expertenwissen durchführbar. Verschiedene Tools, zum Teil mit Fördermit-
+teln entwickelt, unterstützen die Prozesskette der Digitalisierung für diese Objektgrup-
+pen. Für andere Objektgruppen wie zum Beispiel Audio-, Video- und Filmdigitalisierung
+gibt es ausreichendes Erfahrungswissen zu geeigneten Verfahren, allerdings sind hier
+häufig noch intensive Voranalysen und Evaluationsprojekte erforderlich, insbesondere
+dann, wenn es darum geht, größere Mengen zu verarbeiten und massentaugliche
+Qualitätssicherungsmechanismen aufzusetzen. Die Scantechnik macht insgesamt konti-
+nuierlich Fortschritte, stößt allerdings aus anderen Gründen an Grenzen: Technisch
+machbare Steigerungen der Auflösung erzeugen nur noch in definierten Fällen Mehr-
+wert; das damit verknüpfte Wachstum des Speicherbedarfs erhöht die Kosten und limi-
+tiert so die Reichweite dieser Verbesserungen.
+
+Ein wichtiges Ziel ist die Optimierung der Workflows, allerdings sind auch hier,
+jedenfalls bei der 2D-Digitalisierung, schon viele Synergien gehoben und die Abläufe
+
+
+
+7.4 Digitalisierung von Kulturgut: Werkzeuge und Verfahren 651
+
+auch mit der entsprechenden Werkzeugunterstützung beschleunigt und die Fehler-
+rate gesenkt.
+
+Auf der Basis dieser Erfahrungen und Werkzeuge ist es gelungen, die 2D-Digitalisie-
+rung quantitativ Schritt für Schritt auszuweiten. Die in den Google-Projekten erreichten
+Durchsatzzahlen industrieller Dimension werden allerdings in den üblichen Projekten,
+deren Ziel häufig die Digitalisierung einzelner abgegrenzter Sammlungen ist, nicht er-
+reicht. Mit Blick auf die zur Verfügung stehenden Werkzeuge und Erfahrungen ist –
+entsprechende Ressourcen vorausgesetzt – eine deutliche Ausweitung möglich. Bei
+allen Ansätzen – sei es der Neueinstieg in die Digitalisierung oder eine Steigerung der
+Durchsatzzahlen in einer Einrichtung, in der die Digitalisierung bereits eingeführt ist –
+muss damit gerechnet werden, dass die Aufwände hoch sind. Das betrifft grundsätzlich
+die mitunter auch längere Phase bis zum Rundlaufen eines Workflows. Es kann bei
+qualitativ hochwertige Massendigitalisierung auch auf den darauffolgenden Regelbe-
+trieb mit seinen arbeitsintensiven vor- und nachbereitenden Aufgaben zutreffen. Die
+dafür einzusetzenden Ressourcen sind in den mengenmäßig überschaubaren Einzel-
+projekten nicht so gravierend und dürften deshalb für die Massendigitalisierung unter-
+schätzt werden. Dazu zählen z. B. die Durchsicht des Buchs vor dem Scannen (für die
+spätere Qualitätskontrolle), das Anlegen von Digitalisierungsaufträgen, Workflowblät-
+tern und Scanjobs, die fortlaufende Feinjustierung des Scanners, Qualitätskontrolle,
+strukturelle Erschließung und schließlich Vorbereitung der Web-Bereitstellung und
+Langzeitarchivierung.
+
+Deutlichere Optimierungsmöglichkeiten gibt es in anderen Kontexten: Gerade
+weil viele Projekte separat voneinander durchgeführt werden, aber auch wenn sie
+unter einer größeren thematischen Klammer stehen (z. B. VD 18) und von vielen Ein-
+richtungen kooperativ betrieben werden, ist die Abstimmung der Metadaten und
+ihrer Struktur sowie die Verfügbarkeit und Anwendung einheitlicher Profile von gro-
+ßer Bedeutung. Nur so ist es möglich, die Daten ohne Informationsverluste und mit
+überschaubaren Anpassungsaufwänden in einer übergreifenden Rechercheplattform
+zu integrieren. Auch der Austausch der Digitalisate selbst, ihre persistente Identifizie-
+rung, durchgängige Verknüpfungsstrukturen bis auf die Ebene der einzelnen Seite
+oder auch einzelner Textstellen sind wichtige Funktionen, die die Recherche und Nut-
+zung der Digitalisate verbessern.
+
+Die Erschließung kann erheblich von der Digitalisierung und den nachfolgenden
+Verarbeitungsschritten profitieren: Aus OCR-prozessierten Texten können Software-
+tools Strukturelemente wie Autoren- und Titelinformationen erkennen oder Bildunter-
+schriften und Überschriften ausweisen. Andere Werkzeuge identifizieren Entitäten wie
+z. B. Personen, Orte oder Ereignisse und bieten so einen Ausgangspunkt für weitere Ver-
+knüpfungen. Gerade auf diesem Arbeitsfeld ist kontinuierlich mit weiteren qualitativen
+Verbesserungen zu rechnen. Von der Anreicherung der Digitalisate durch diese Infor-
+mationen profitiert auch die Präsentation. Hier gibt es eine Vielfalt von Werkzeugen,
+deren Funktionen häufig vergleichbar sind; es kann erwartet werden, dass sich – ähn-
+lich wie bei Web-Browsern geschehen – Grundprinzipien der Bedienung einander noch
+
+
+
+652 Reinhard Altenhöner und Martin Hermann
+
+weiter angleichen und die Benutzung leichter wird. Auch bei der flexiblen Nutzung auf
+mobilen Endgeräten gibt es noch Entwicklungsbedarf. Um die Digitalisate darüber hi-
+naus in anderen Kontexten wie virtuellen Forschungsumgebungen nutzen zu können,
+werden allerdings neben den genannten ergänzenden Informationen definierte (ma-
+schinelle) Zugangsschnittstellen auf die Objekte selbst benötigt. Die APIs nach IIIF-
+Standards stehen hier bereits zur Verfügung und werden z. B. bereits vom DFG-
+geförderten Handschriftenportal für die Einbindung in die dortige Arbeitsumgebung
+vorausgesetzt.
+
+Bei der 3D-Digitalisierung stellt sich bisher noch ein gänzlich anderes Bild dar. Hier
+haben sich für die Kulturgutdigitalisierung in Deutschland noch keine allgemein gelten-
+den oder weithin akzeptierten Standards durchgesetzt, nicht für Datenformate, nicht
+für die technische Qualität der Digitalisate, nicht für Softwareinstrumente zur Unter-
+stützung des Workflows und auch nicht hinsichtlich der Viewer für die Präsentation.
+Die Entwicklung wird vielmehr individuell durch einige nationale (z. B. Digitales Kultur-
+und Sammlungsmanagement der ThULB Jena im Förderprojekt NFDI4Culture)35 oder
+internationale Akteure (z. B. Smithsonian Institute) vorangetrieben.
+
+Literatur
+Altenhöner, Reinhard, Andreas Berger, Christian Bracht, Paul Klimpel, Sebastian Meyer, Andreas
+
+Neuburger, Thomas Stäcker u. Regine Stein: DFG-Praxisregeln „Digitalisierung“. Aktualisierte
+Fassung 2022. In: Zenodo (2022). https://doi.org/10.5281/zenodo.7435724 (12.06.2023).
+
+Baumgartner, Martin, Michael Beer, Berthold Gillitzer, Rosmarie Leichtl, Gabriele Meßmer, Karsten
+Trzcionka, Thomas Wolf-Klostermann u. Wilhelm Hilpert: Zur Workflowsteuerung der
+Massendigitalisierung – Der Weg der Bücher und der Digitalisate. In: B.I.T. online 11 (2008),
+S. 266–271
+
+Brantl, Markus, Klaus Ceynowa, Claudia Fabian, Gabriele Meßmer u. Irmhild Schäfer:
+Massendigitalisierung deutscher Drucke des 16. Jahrhunderts – Ein Erfahrungsbericht der
+Bayerischen Staatsbibliothek. In: Zeitschrift für Bibliothekswesen und Bibliographie 56 (2009), H. 6,
+S. 327–338.
+
+IAIS: Bestandsaufnahme zur Digitalisierung von Kulturgut und Handlungsfelder. Erstellt vom Fraunhofer-
+Institut für Intelligente Analyse-und Informationssysteme IAIS im Auftrag des BKM 2007.
+
+Kaiser, Max u. Stefan Majewski: Austrian Books Online: Die Public Private Partnership der
+Österreichischen Nationalbibliothek mit Google: Rahmenbedingungen und Herausforderungen. In:
+Bibliothek – Forschung und Praxis 37 (2013), H. 2, S. 197–208.
+
+Kreutzer, Till: Digitalisierung von gemeinfreien Werken durch Bibliotheken. Ein Leitfaden. Hrsg. vom
+Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen. Köln 2011.
+
+Opitz, Andrea u. Thomas Stäcker: Workshop der Massendigitalisierungsprojekte der DFG an der Herzog
+August Bibliothek Wolfenbüttel. In: Zeitschrift für Bibliothekswesen und Bibliographie 56 (2009),
+H. 6, S. 363–373.
+
+ https://nfdi4culture.de/de/index.html (24.06.2024).

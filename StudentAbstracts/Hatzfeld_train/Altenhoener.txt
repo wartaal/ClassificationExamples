@@ -1,0 +1,1044 @@
+﻿Reinhard Altenhöner, Peter Leinen, Svenia Pohlkamp,
+Sabine Schrimpf und Tobias Steinke
+8.2 Langzeitarchivierung digitaler
+
+Ressourcen: Strategie, Organisation
+und Techniken
+
+1 Einleitung: Problemstellung, Auftrag und
+Handlungsrahmen
+
+Weitgehend unabhängig von der Organisation des Arbeitsfelds Bestandserhaltung ist
+die Verfügbarkeit digitaler Ressourcen über lange Zeiträume hinweg zu einer wichtigen
+Fragestellung im wissenschaftlichen Bibliothekswesen geworden. Das hat zunächst vor
+allem mit der starken Zunahme der sogenannten Born-Digital-Materialien zu tun, also
+jenen Objekten, die originär digital entstehen und verteilt werden. Aber auch die gro-
+ßen Investitionen in die Digitalisierung des kulturellen Erbes haben die Frage, wie der
+Zugriff auf diese Ressourcen dauerhaft gesichert werden kann, wichtiger werden las-
+sen. Damit ist nicht nur die prinzipielle Verfügbarkeit der Daten gemeint, sondern ihre
+Nutzbarkeit in einer von heute aus gesehen nicht bekannten Benutzungsumgebung
+und mit einer aus heutiger Sicht offenen Zweckbestimmung. Diese erweiterte Anforde-
+rung und ihre Umsetzung haben bei den damit befassten Einrichtungen zu einer deutli-
+chen Veränderung ihres Profils geführt.
+
+In der Bestandserhaltung geht es traditionell um den Substanzerhalt des jeweili-
+gen Objekts, also zum Beispiel um Restaurierungsarbeiten an einer vom Tintenfraß
+betroffenen Manuskriptsammlung, deren Nutzbarkeit (Blättern) wiederhergestellt
+wird.1 Der Verfallsprozess wird zwar teilweise revidiert oder je nach Maßnahme auf-
+gehalten, der Zustand des Objekts verschlechtert sich aber kontinuierlich weiter. Die
+Herstellung einer vollkommen identischen Kopie ist (nahezu) ausgeschlossen, substi-
+
+ Dies setzt die Fähigkeit des Lesens als Kulturtechnik respektive Kenntnisse der jeweiligen Sprache
+voraus; gegebenenfalls noch besondere Fähigkeiten, um eine Schreiberhandschrift des 16. Jahrhun-
+derts zu entziffern. Auch Kontextwissen zum Dokument ist notwendig.
+
+Anmerkung: Dieser Beitrag ist eine Überarbeitung des Textes der ersten Auflage (von Reinhard Altenhö-
+ner und Sabine Schrimpf) unter dem Titel Bestandserhaltung und Langzeitverfügbarkeit digitaler Ressourcen:
+Strategie, Organisation und Techniken. Das neue Autorenteam hat sich entschieden, den Begriff „Langzeitar-
+chivierung“ (LZA) zu verwenden und damit der Tatsache Rechnung zu tragen, dass sich der von den bei-
+den Autor:innen in der ersten Auflage eingeführte Begriff „Langzeitverfügbarkeit“ nicht durchgesetzt hat.
+Auf diese Weise soll Eindeutigkeit in den Begrifflichkeiten erzeugt werden; die grundsätzlichen Überlegun-
+gen zur Terminologie und zur Bedeutungsdimension verlieren dadurch nicht an Bedeutung und werden
+im Verlauf des Beitrags aufgegriffen.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-040
+
+
+
+694 Reinhard Altenhöner et al.
+
+tuierende Konversionen auf andere Träger (Mikrofilm, auch das Digitalisat) sind
+Hilfsstrategien, die das Original vor dem Benutzungsstress schützen können und we-
+sentliche Informationsbestandteile sichern, aber selbst ein neues Medium darstellen.
+
+Demgegenüber ist im Bereich der digitalen Ressourcen die Herstellung einer
+Kopie in aller Regel technisch völlig unkritisch, ihre Verteilung und Bereitstellung
+sind gängige Elemente der digitalen Kommunikations- und Publikationskette. Die digi-
+tale Bestandserhaltung birgt andere Herausforderungen, denn hier setzt die Nutzung
+das Vorhandensein geeigneter Lesewerkzeuge voraus. Es muss eine aufeinander ab-
+gestimmte Kombination aus Hard- und Software zur Verfügung stehen, um das digi-
+tale Objekt benutzbar zu machen. Fehlen einzelne Elemente, steht die Ressource
+unter Umständen nicht oder nur mit einem eingeschränkten Funktionsumfang zur
+Verfügung. Diese Abspielmöglichkeit – die Bezeichnung „Bereitstellungsumgebung“
+ist üblich – beinhaltet einerseits Technik (eine Maschine), andererseits aber auch Soft-
+ware: Ein geeigneter Reader oder unter Umständen auch mehrere und gegebenenfalls
+sehr spezielle Softwarewerkzeuge müssen, wenn es zum Beispiel um Beigaben in
+einem Medienbundle geht, verfügbar sein.
+
+Eine zusätzliche Komplexitätsdimension wird dadurch erreicht, dass die prinzipiell
+je Datei spezifische Bereitstellungsumgebung einer fortschreitenden technischen und
+funktionalen Weiterentwicklung unterworfen ist und von den technisch und kaufmän-
+nisch getriebenen Innovationszyklen des Marktes abhängt. Unter Umständen führt dies
+dazu, dass das technische Umfeld für ein bestimmtes Dateiformat auf einer aktuellen
+Computerumgebung nicht mehr betrieben werden kann und damit ganze Objektgrup-
+pen nicht mehr genutzt werden können. Ein Totalverlust ist zunächst einmal zwar eine
+theoretische Annahme, und in der Tat sind die Beispiele für einen vollständigen Verlust
+bisher selten und stammen zumeist aus der Frühzeit der Datenverarbeitung.
+
+Dennoch gilt unbestritten, dass insbesondere in den frühen Jahren des digitalen
+Zeitalters viele experimentelle, hard- und softwaregebundene digitale Objekte entstan-
+den sind, deren Erhaltung aufwendige Einzelmaßnahmen erfordert – vorausgesetzt,
+die Objekte sind noch verfügbar bzw. wurden überhaupt gesichert. Inzwischen haben
+die Gesetzmäßigkeiten des Marktes aber dafür gesorgt, dass das Gros der digitalen Res-
+sourcen Quasistandards (also breit akzeptierten und eingehaltenen Regeln) oder normier-
+ten Standards folgt und so im Rahmen gängiger Bereitstellungsumgebungen nutzbar ist.
+Die Vielfalt digitaler Ressourcen bzw. die im Publikations- und Kommunikationsprozess
+von Wissenschaft und Forschung entstehenden Materialien reichen dabei über textge-
+bundene Publikationen weit hinaus und umfassen unterschiedlichste Medien der netzba-
+sierten Kollaboration ebenso wie Bild- und Bewegtbildmaterial, Audioquellen, Mess- und
+aggregierte Forschungsdaten oder Simulationen und interaktive Anwendungen wie zum
+Beispiel Datenbanken.
+
+Jenseits dieser vielleicht theoretisch anmutenden Überlegungen wächst in der Pra-
+xis aber ohne Zweifel mit zunehmendem Alter einer digitalen Ressource das Risiko
+ihres vollständigen oder teilweisen Verlustes. „Verlust“ meint hier zunächst die fakti-
+sche Nichtnutzbarkeit, d. h. nur mit einem sehr erheblichen Aufwand ist die digitale
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 695
+
+Ressource in einer Bereitstellungsumgebung nutzbar und die Unsicherheit darüber,
+dass ggf. auch partielle Verluste schon eingetreten sind oder eintreten, ist hoch. Das be-
+trifft einerseits unmittelbar die physische Verfügbarkeit der Daten, andererseits aber
+auch die Verfüg- und Nutzbarkeit der entsprechenden technischen Lese- und Schreibge-
+räte: Hardware im Bereich der Informationstechnik altert und ist in der Regel nach
+zehn Jahren nicht mehr einsetzbar. Für die digitale Ressource bedeutet dies, dass ent-
+weder funktionierende alte Gerätschaften noch zur Verfügung stehen müssen oder
+aber sie auf einer neuen technischen Umgebung betrieben werden muss, für die sie
+nicht gemacht wurde. Aber nicht nur die Hardware verändert sich, auch Software-
+Produkte verschwinden vom Markt und mit ihnen die Werkzeuge, die nötig waren, um
+bestimmte Formate zu nutzen. Verfügt man über eine alte, noch funktionierende
+Bereitstellungsumgebung, besteht das Problem vielleicht nicht, die alten Werkzeuge
+laufen jedoch auf einer neueren technischen Umgebung nicht ohne Weiteres.
+
+Für die Bibliothek ergibt sich aus dieser Situation eine ganze Reihe von Anforde-
+rungen: Um die zukünftige Verfügbarkeit von Informationsobjekten sicherzustellen,
+muss sie zunächst die aktuelle Benutzbarkeit prüfen und die technischen Merkmale
+der digitalen Ressourcen ermitteln. Und sie muss den wesentlichen semantischen Ge-
+halt eines Informationsobjekts kennen und dokumentieren, um festlegen zu können,
+welche Charakteristika des Objekts unbedingt bewahrt sein müssen (z. B. farbige Ab-
+bildungen, Schriftgröße, Ablaufgeschwindigkeit). Ferner muss sie zukünftige Risiken
+und mögliche Gegenstrategien antizipieren. Auf dieser Basis trifft sie ihre Vorberei-
+tungen, die im Regelfall zunächst darin bestehen, die technischen Eigenschaften
+genau zu dokumentieren und die technische Korrektheit eines Objekts zu überprü-
+fen.2 Vielleicht muss die Bibliothek in der Folge gar nicht eingreifen, aber sie muss in
+der Lage sein, den Handlungsbedarf angemessen zu beurteilen und sicherstellen, dass
+die Nutzbarkeit kontinuierlich gewährleistet ist. Eine fallweise Prüfung auf Anforde-
+rung hin ist nicht ausreichend.
+
+Damit ist deutlich geworden, worum es bei der digitalen Langzeitarchivierung
+(LZA) geht. Eine gängige Definition beschreibt die Langzeitarchivierung als „die Erfas-
+sung, die langfristige Aufbewahrung und die Erhaltung der dauerhaften Verfügbarkeit
+von Informationen“.3 Die Aufgabe erfordert permanente Aktivitäten der Einrichtung,
+die die Verantwortung für den Erhalt der dauerhaften Verfügbarkeit einer digitalen
+Ressource übernommen hat. Einer vielleicht zunächst relativ geringen Anfangsinvesti-
+tion steht eine kontinuierlich zu erbringende und zeitlich unabsehbare weitere An-
+strengung gegenüber. In der Hauptsache besteht diese Anstrengung nach der einmal
+erfolgten Übernahme der digitalen Ressource in das Archiv in der Beobachtung der Ent-
+
+ Vgl. nestor-Leitfaden Digitale Bestandserhaltung. Vorgehensmodell und Umsetzung,Version 2.0
+(2012): https://nbn-resolving.org/urn:nbn:de:0008-2012092400 (03.05.2023).
+ Liegmann 2004.
+
+
+
+696 Reinhard Altenhöner et al.
+
+wicklungen der Informationstechnik, kontinuierlicher Risikoabschätzung und fortwäh-
+render Qualitätssicherung.
+
+Aus dem bislang über die digitale LZA Gesagten wird deutlich, dass eine einzelne
+Einrichtung insbesondere bei den langfristig anfallenden Aufgaben überfordert ist.
+Sie muss Kooperationen mit anderen vergleichbar aktiven Einrichtungen und mit
+Informationsproduzenten eingehen.
+
+Nur in seltenen Fällen begreifen Autor:innen von Publikationen oder Urheber:in-
+nen von Daten die LZA als ihre originäre Aufgabe. Sie erwarten von einer Infrastruk-
+tur wie etwa ihrer Bibliothek, dass sie geeignete Vorkehrungen trifft. Umgekehrt – also
+in der Rolle von Nutzenden – erwarten sie, dass die Infrastruktur, die sie für ihre Infor-
+mationsversorgung nutzen, für die angemessene Persistenz und Nutzbarkeit der von
+ihnen gebrauchten Daten sorgt. Aus der (doppelten) Nutzungsperspektive also sind es
+vermittelnde Instanzen – Bibliotheken, Archive, Museen, Forschungseinrichtungen
+usw. –, an die implizit die Erwartung gerichtet ist, sie würden langfristig für die Verfüg-
+barkeit der jeweiligen Publikationen oder Datenbestände sorgen.
+
+Eine besondere Situation tritt bei lizenzierten Verlagspublikationen auf, die nicht
+in das Eigentum und die Verantwortung der lizenzierenden Einrichtung übergehen,
+sondern für die oft nur dauerhafte Nutzungsrechte vereinbart sind. Wer übernimmt
+hier die Absicherung ihrer dauerhaften Verfügbarkeit? Da die jeweiligen Anbieter die
+langfristige Verfügbarkeit in der Regel selbst nicht garantieren, suchen Bibliotheken
+nach Möglichkeiten, diese über die Leistungen von Pflichtexemplarbibliotheken hi-
+naus zu ermöglichen. Im Projekt NatHosting4 wurde dafür eine Nutzung der Dienst-
+leistungen von Portico5 für deutsche Bibliotheken konzipiert und im Rahmen einer
+Überführung in ein Betriebsmodell auch umgesetzt.
+
+Diese Aktivitäten dienen allerdings primär dazu, für eine kurzfristig greifende
+Ausfallsicherung zu sorgen, die Probleme im Bestand oder der Infrastruktur des An-
+bieters auffängt. Dennoch gibt es einen Zusammenhang mit der LZA: Ein langfristig
+wirksames Angebot zur LZA braucht mit zunehmendem Zeitverlauf einen Dienst, der
+die Ressourcen so vorhält, dass sie in einer aktuellen Nutzungsumgebung aufgerufen
+werden können. Dies kann über die Einrichtung selbst erfolgen, die ihre Kunden zu-
+sätzlich mit einer Dienstleistung zur LZA bedient; häufig wird es aber eine speziali-
+sierte Institution sein, die diese Aufgabe erfüllt und die dafür mandatiert wird.
+
+Im Regelfall werden entsprechende Beauftragungen durch den Staat ausgespro-
+chen. Im Fall von Deutschland ist dies zunächst die Deutsche Nationalbibliothek (DNB),
+die seit 2006 gesetzlich mandatiert die Aufgabe hat, Medienwerke auf Dauer zu sichern
+und für die Allgemeinheit nutzbar zu machen.6 Neben ihr sind es zunehmend Einrich-
+tungen auf Landesebene oder aber auch Einrichtungen, die von ihren Trägern explizit
+
+ https://de.wikipedia.org/wiki/NatHosting (14.09.2024).
+ https://www.portico.org/ (12.02.2024).
+ DNB 2006.
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 697
+
+beauftragt werden. So verfügen inzwischen fast alle Landesbibliotheken über einen
+entsprechenden legislativen Auftrag. Hinzu treten Interessen der Forschungsinfrastruk-
+tur, die zu entsprechenden Aktivitäten der Infrastruktureinrichtungen führen.
+
+2 Grundstrategien und Komponenten zur
+Langzeitarchivierung digitaler Ressourcen
+
+Der Aufbau von Langzeitarchiven ist ganz wesentlich geprägt durch eine ISO-Norm,
+nämlich das Referenzmodell für ein Offenes Archiv-Informations-System (OAIS). Die-
+ser Standard wurde seit Mitte der 1990er Jahre im Kontext der Luft- und Raumfahrt
+unter Beteiligung von Archiv- und Bibliotheksvertreter:innen erarbeitet, zunächst im
+Jahr 2002 als Empfehlung des Consultative Committee for Space and Data Systems
+(CCSDS) und ein Jahr später als ISO 14721:2003 veröffentlicht. 2012 folgte eine revi-
+dierte, inhaltlich leicht ergänzte Fassung als ISO 14721:2012. Das Referenzmodell wird
+seither in dieser Fassung von 2012 genutzt, eine weitere Revision ist derzeit in Arbeit.
+Seit Erscheinen des OAIS-Referenzmodells steht ein normiertes Vokabular zur Ver-
+fügung, mit dessen Hilfe sich organisatorische und technische Abläufe und Umsetzun-
+gen in der LZA beschreiben lassen. Das OAIS-Referenzmodell beschreibt die Rollen
+und Verantwortlichkeiten im Langzeitarchiv sowie in seinem Umfeld. Große Bekannt-
+heit hat die abstrakte Darstellung der sechs wichtigsten Funktionsbereiche innerhalb
+eines Langzeitarchives erlangt (s. Abb. 1).
+
+Hervorgehoben werden soll hier die Definition des OAIS, also der Institution, die
+Verantwortung für die langfristige Erhaltung digitaler Daten trägt: eine „Organisation
+aus Menschen und Systemen, die das Ziel verfolgen, Informationen zu erhalten und
+einer vorgesehenen Zielgruppe zugänglich zu machen“.7 Diese Definition ist deswegen
+bemerkenswert, weil sie die rein technische Ebene verlässt und das Zusammenspiel
+aus Menschen und Systemen betont. Sie stimmt mit der Einschätzung vieler Expert:innen
+überein, dass die LZA keine rein technische Herausforderung ist, sondern viele organi-
+satorische und rechtliche Fragestellungen berührt.
+
+Des Weiteren ist insbesondere das von OAIS vorausgesetzte Informationsmodell
+grundlegend für das Verständnis jeglicher LZA-Strategie. Information wird in OAIS
+konzeptionell gesehen als „[j]ede Art von Wissen, das ausgetauscht werden kann.
+Während des Austauschs wird es durch Daten repräsentiert [...]“.8 Daten sind dem-
+nach nur der Träger von Information. Erst vermittelt durch Wiedergabeprogramme
+entfaltet sich ihre Bedeutung für den Empfänger. Ziel aller Erhaltungsmaßnahmen ist
+
+ Referenzmodell für ein Offenes Archiv-Informations-System – Deutsche Übersetzung, Version 2.0.
+2013 (nestor-materialien 16). https://nbn-resolving.org/urn:nbn:de:0008-2013082706 (03.05.2023).
+ S. FN 7.
+
+
+
+698 Reinhard Altenhöner et al.
+
+Abb. 1: OAIS-Funktionseinheiten: SIP = Submission Information Package (Übergabeinformationspaket),
+AIP = Archival Information Package (Archivinformationspaket), DIP = Dissemination Information Package
+(Auslieferungsinformationspaket) (aus: Referenzmodell für ein Offenes Archiv-Informations-System –
+Deutsche Übersetzung, S. 33).
+
+die Bewahrung des bedeutungstragenden, zur Anzeige (oder auch zu Gehör) gebrach-
+ten Informationsobjekts. Die Erhaltung der Daten ist insofern lediglich ein Mittel zum
+Zweck. OAIS unterscheidet weiterhin die Arten von Daten, die benötigt werden, um
+ein sinntragendes Informationsobjekt zur Anzeige zu bringen. Neben den Inhaltsda-
+ten sind dies diverse technische und administrative Informationen, die zum Beispiel
+Aufschluss über Dateiformat, das dazu passende Wiedergabeprogramm, Zugriffs-
+rechte usw. geben.
+
+Das PREMIS Data Dictionary,9 in dem OAIS-Konzepte konkretisiert wurden, nennt
+das sinntragende Informationsobjekt auch „intellektuelle Entität“ und unterscheidet
+verschiedene Arten von digitalen Objekten: Den Bitstream, die Datei (engl. file) und die
+Repräsentation (engl. representation). Dabei wird eine intellektuelle Entität immer
+durch eine konkrete Repräsentation verkörpert. Jede Repräsentation besteht wiederum
+aus einer bestimmten Menge von Dateien, die wiederum aus Bitstreams bestehen. Ana-
+log zu OAIS gilt auch hier: Ziel der Erhaltungsbemühungen ist die Repräsentation der
+intellektuellen Entität. Die zugrundeliegende Datei darf – und muss sich gegebenen-
+falls – im Lauf der Zeit verändern.
+
+ https://www.loc.gov/standards/premis/ (12.02.2024).
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 699
+
+Voraussetzung für jede LZA-Strategie ist jedoch immer die Bitstream-Archivierung.
+Diese setzt eine sichere und kontrollierte Speicherumgebung voraus. Da physischen Da-
+tenträgern über die Zeit Materialermüdung droht, empfiehlt sich als erster Schritt zur
+Langzeitsicherung, Daten von Trägern wie CDs und DVDs in eine sichere Massenspei-
+cherumgebung zu überführen. Strategien wie redundante Datenhaltung, eventuell an
+mehreren geografisch verteilten Orten, erhöhen die Datensicherheit. Dass dabei diejeni-
+gen Dateien logisch zusammengehalten werden, die zusammen eine intellektuelle Entität
+repräsentieren, ist eine Frage der Archivorganisation. Unterstützung bieten Containerfor-
+mate wie .zip und .tar und spezielle Metadatenschemata wie der Metadata Encoding and
+Transmission Standard (METS).10
+
+Da sich Dateiformate und Wiedergabeprogramme im Lauf der Zeit verändern,
+muss damit gerechnet werden, dass die originalen Dateien irgendwann nicht mehr in
+gängigen Hard- und Softwareumgebungen repräsentiert werden können. Für diesen
+Fall stehen nach dem Stand der Technik im Wesentlichen zwei Strategien zur Ver-
+fügung, die Formatmigration und die Emulation.
+
+Bei der Formatmigration wird das veraltete Dateiformat in ein neues, vom Archiv
+auf der Basis des dann aktuellen Stands der Technik als absehbar zukunftssicher aus-
+gewähltes Format überführt. Dazu werden Informationen über das Dateiformat an
+sich, die zur Erstellung verwendete Software und die enthaltenen Informationen be-
+nötigt. Auf dieser Grundlage ist zu entscheiden, ob und in welches Format die Datei
+migriert werden sollte. Kontinuierlich ist zu beobachten, welche Formate obsolet wer-
+den und welche Formate als zukunftssicher gelten, um diese Entscheidung fundiert
+treffen zu können. Dabei ist unter Umständen abzuwägen, ob und in welchem Um-
+fang Informationsverluste akzeptiert werden können.
+
+Bei der Emulation werden in der aktuellen Systemumgebung die ursprünglichen
+Systembedingungen nachgeahmt, so dass die originalen Dateien unverändert wiederge-
+geben werden können. Emulation erfordert somit, dass umfangreiche Informationen
+über die Bedingungen vorliegen, unter denen die Datei entstanden ist. Mit spezialisier-
+ter Software auf aktuellen Systemen werden dann die Systemvoraussetzungen geschaf-
+fen, in denen das digitale Objekt verwendet werden kann. Dabei ist zu beachten, dass die
+dauerhafte Funktionsfähigkeit von Emulatoren ebenso von kontinuierlicher Pflege und
+Aktualisierung abhängig ist wie die anderer Software.
+
+Migration und Emulation haben gemein, dass technische Metadaten zur Umset-
+zung benötigt werden. Deren Umfang und Qualität beeinflussen maßgeblich die Ent-
+scheidung für eine der beiden Strategien, die Auswahl der einzusetzenden Tools
+sowie das Endergebnis – und damit auch die Nachnutzbarkeit der Informationen.
+
+Beide Strategien haben Vor- und Nachteile, die im Bedarfsfall, in dem Informations-
+objekten die Obsoleszenz droht, gegeneinander abgewogen werden müssen. Pauschal
+
+ https://www.loc.gov/standards/mets/ (12.02.2024).
+
+
+
+700 Reinhard Altenhöner et al.
+
+lässt sich allerdings sagen, dass die Migration ihre Stärken bei statischen Einzelobjekten
+hat und sich die Emulation eher für komplexe Multimedia-Objekte mit Programmcha-
+rakter anbietet, bei denen die Verlustgefahr bei der Formatmigration zu groß wäre. So
+setzt die Computerspielbranche verstärkt auf Emulation;11 für Bild- und Textobjekte
+werden eher Migrationsstrategien erprobt.12
+
+Beide Strategien bergen das Grundrisiko, dass nicht alle Inhalte und Funktiona-
+litäten der Archivobjekte vollständig erhalten werden können. In der Praxis werden
+Langzeitarchive mit den Migrationswerkzeugen und Emulatoren, die auf dem Markt
+verfügbar sind, arbeiten oder in kostspielige Eigenentwicklungen investieren müssen.
+So wird das Spektrum dessen, was an Erhaltungsmaßnahmen überhaupt möglich ist,
+durch das vorhandene Angebot und den Entwicklungsaufwand, den ein Langzeitar-
+chiv mit seiner finanziellen und personellen Ausstattung betreiben kann, begrenzt.
+
+Die Entscheidung für eine Erhaltungsstrategie kann so unter Umständen den
+Verzicht auf bestimmte originale Funktionalitäten bedeuten. Auch hier wird man
+abwägen müssen, unter welchen Umständen eine Migrations- oder Emulationsmaß-
+nahme überhaupt sinnvoll ist. Hilfreich ist in diesem Kontext das Konzept der „signifi-
+kanten Eigenschaften“.13 Sie bezeichnen diejenigen Eigenschaften eines digitalen Objekts,
+die auf jeden Fall erhalten werden müssen, damit der Charakter bzw. der relevante In-
+formationskern des digitalen Objekts gewahrt bleibt. Das kann je nach Objekt und
+Anwendungsfall z. B. die Reihenfolge und Anzahl der verwendeten Textzeichen
+sein, die Funktionsfähigkeit von eingebetteten Links, die Farbe von Bilddateien usw.
+oder auch die Tatsache, dass Nutzer:innen mit einer digitalen Anwendung interagie-
+ren können, z. B. die Abfragbarkeit einer Datenbank, die Steuerung von Agenten in
+Computerspielen usw.
+
+Einen allgemeinen Konsens, welche Arten von digitalen Objekten welche signifi-
+kanten Eigenschaften haben, gibt es nicht, obgleich der nestor-Leitfaden Digitale Be-
+standserhaltung14 eine Grundlage zur Definition bietet, die als Ausgangspunkt genutzt
+werden kann. Einen übergreifenden Konsens kann es hier vermutlich aber gar nicht
+geben. Zu sehr hängt die Bestimmung der Signifikanz von der angenommenen Nutzer-
+gruppe der digitalen Objekte ab, und diese kann sich selbst für ähnliche digitale Objekt-
+arten von Institution zu Institution stark unterscheiden. Diese Aussage gilt für viele
+Teilgebiete in der LZA: Während die Grundproblematik für alle Einrichtungen mit
+einem langfristigen Archivierungsauftrag die gleiche ist, ist die Lösungsfindung jeweils
+von den institutionellen Gegebenheiten beeinflusst.
+
+ Vgl. Lange 2013.
+ Vgl. Kulovits 2009.
+ Vgl. nestor-Leitfaden Digitale Bestandserhaltung. Vorgehensmodell und Umsetzung,Version 2.0
+(2012): https://nbn-resolving.org/urn:nbn:de:0008-2012092400 (03.05.2023).
+ Vgl. FN 13.
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 701
+
+Um bei aller Unterschiedlichkeit doch eine gewisse Vergleichbarkeit der gewählten
+Ansätze herstellen zu können, wurden Community-getrieben gemeinsame Bezugssys-
+teme entwickelt. In Form von abprüfbaren Kriterienkatalogen manifestiert sich ein
+Konsens, welchen Anforderungen ein Langzeitarchiv auf jeden Fall zu genügen hat.
+Drei sich an OAIS orientierende, jedoch anhand der Anforderungen unterschiedlicher
+Communities individuell ausgestaltete Kriterienkataloge haben sich durchgesetzt, und
+auf ihrer Basis wurden wiederum Zertifizierungsansätze entwickelt (CoreTrustSeal,15
+nestor-Siegel16 nach DIN 31644 und Zertifizierung nach ISO 16363:201217). Sie alle stellen
+abstrakte Kriterien zur Verfügung, die ein Langzeitarchiv angemessen umgesetzt haben
+muss, um als vertrauenswürdig zu gelten. Das Prinzip der Angemessenheit berücksich-
+tigt, dass „keine absoluten Maßstäbe möglich sind, sondern dass sich die Bewertung
+immer an den Zielen und Aufgaben des jeweiligen digitalen Langzeitarchivs ausrich-
+tet“.18 Im Rahmen des Zertifizierungsprozesses wird die konkrete Umsetzung von ge-
+schulten Fachleuten evaluiert und mit dem Siegel anerkannt. Auf diesem Wege werden
+Qualitätsstandards eingeführt und sichtbar gemacht.
+
+3 Technische Aspekte: Anforderungen
+und Werkzeuge
+
+In der Natur der Sache liegt es, dass die LZA digitaler Objekte einen starken technischen
+Hintergrund hat. Wann immer digitale Objekte genutzt werden, sind Softwarewerkzeuge
+im Einsatz. Und je komplexer die Anforderungen sind, desto komplexer werden auch
+Herstellung und laufende Unterhaltung dieser Werkzeuge ausfallen. Hinzu kommt noch,
+dass die LZA in vielen Teilschritten Berührungspunkte mit anderen Abläufen einer Bib-
+liothek und demzufolge den wiederum hier zum Einsatz kommenden technischen Werk-
+zeugen hat.
+
+In der Praxis spielt daher die systematische Analyse der jeweiligen Anforderungen
+eine wichtige Rolle.19 Die Reichweite der Erhebung reicht dabei von den prinzipiellen
+Anforderungen der Einrichtungen (respektive ihrer Nutzer:innen) bis zu konkreten
+technischen Bedingungen, die von einzelnen Objekten gesetzt werden. Aber auch ihr
+Entstehungskontext, ihre Auswahl, vorhandene (Metadaten-) Beschreibungen, verwen-
+
+ CoreTrustSeal: https://www.coretrustseal.org/ (12.02.2024).
+ nestor-Siegel: https://www.langzeitarchivierung.de/nestor-siegel (12.02.2024).
+ ISO16363: https://www.iso.org/standard/56510.html (12.02.2024). Die Zertifizierung nach diesem
+Standard nimmt das Primary Trustworthy Digital Repository Authorisation Body vor: http://www.
+iso16363.org/ (12.02.2024).
+ nestor Kriterienkatalog vertrauenswürdige digitale Langzeitarchive, Version 2, 2008 https://nbn-re
+solving.org/urn:nbn:de:0008-2008021802 (03.05.2023).
+ Vgl. Neuroth 2009.
+
+
+
+702 Reinhard Altenhöner et al.
+
+dete Standards und Schnittstellen und weitere technische Rahmenbedingungen aus
+dem Erzeugungsprozess gehören dazu.
+
+Mit zunehmender Etablierung der LZA in die Abläufe umfasst die Anforderungs-
+analyse daher auch die Anbindung bereits vorhandener Werkzeuge und Methoden in
+der Betriebsumgebung einer Bibliothek. Beispielsweise existieren bereits Abläufe zur
+automatischen Übernahme digitaler Objekte aus einem Publikationsworkflow, die nun
+um Komponenten zur LZA funktional ergänzt werden müssen. Das kann auch die Nut-
+zung von ganz generellen Methoden der Informationstechnik betreffen: So stellt der
+Einsatz von Checksummen ein gängiges Verfahren der Informationstechnik dar, das die
+Unversehrtheit von Dateien belegt. Diese Technik kann sinnvoll genutzt werden, um
+bei der Übergabe eines digitalen Objektes vom Datenproduzenten oder -anbieter an die
+für LZA zuständige Einrichtung nachzuweisen, dass keine Veränderung eingetreten ist.
+
+Die ersten Schritte in Richtung LZA beginnen bereits mit der Übernahme der Da-
+teien vom Produzenten. Auch hierzu gilt es, technische Absprachen zu treffen und
+Schnittstellen zu definieren: Welche Formate sind aus Sicht der archivierenden Insti-
+tution besonders langzeitstabil, das heißt, wo ist die Wahrscheinlichkeit hoch, dass es
+auch auf lange Sicht passende Bereitstellungswerkzeuge geben wird? Welche Infor-
+mationen können zu den Objekten mitgeliefert werden? Wie wird die Unversehrtheit
+der Datenübertragung nachgewiesen, z. B. mit der Hilfe von definierten Werkzeugen
+zur Checksummengenerierung?
+
+Essentielle Voraussetzung für alle Erhaltungsstrategien ist die genaue Kenntnis der
+zu bewahrenden Dateien. Daher ist die Gewinnung technischer Metadaten ein zentraler
+Baustein einer jeden LZA-Strategie. Nur in Kenntnis der genauen Dateiformate und For-
+matversionen der Objekte in seiner Obhut kann ein Langzeitarchiv entscheiden, ob und
+wann es an der Zeit ist, Erhaltungsmaßnahmen einzuleiten. So kommt der Entwicklung
+entsprechender Validierungs- und Auswertungswerkzeuge im Rahmen der LZA eine be-
+sondere Bedeutung zu. Für nahezu alle gängigen Dateiformate existieren inzwischen
+entsprechende Erkennungsmodule, die wiederum in Rahmenprogramme wie JSTOR/
+Harvard Object Validation Environment20 (JHOVE) eingebunden werden. Die Open Pre-
+servation Foundation pflegt mit ihren Mitgliedern neben JHOVE auch Format Identifica-
+tion for Digital Objects (fido). Als Meta-Tool integriert das File Information Tool Set
+(FITS) mehrere Werkzeuge zur Formaterkennung.21 Die Tools jpylyzer und veraPDF
+wurden zielgerichtet für die Erkennung und Validierung von JP2 und PDF/A entwickelt.
+Die breite Nutzerschaft weltweit garantiert, dass für relevante Dateiformate entspre-
+chende Werkzeuge entstehen.
+
+Der Bedarf, eine Erhaltungsstrategie einzusetzen, ergibt sich aus der regelmäßigen
+Beobachtung der Technologieentwicklung außerhalb des Langzeitarchivs. Wenn sich
+
+ https://jhove.openpreservation.org/ (12.02.2024).
+ Die Dokumentation informiert über die in FITS inkludierten Tools: https://projects.iq.harvard.edu/
+fits/home (12.02.2024). Derzeit berücksichtigt FITS zwölf Tools, darunter JHOVE, Apache Tika, DROID
+und ExifTool.
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 703
+
+abzeichnet, dass die Verbreitung von oder die Unterstützung für bestimmte Formate
+oder für Wiedergabewerkzeuge, die zum Zugriff auf die archivierten Objekte benötigt
+werden, rapide nachlässt, muss das für das Archiv ein Zeichen sein, seinen Archivbe-
+stand anhand der von ihm gehaltenen Metadaten zu überprüfen. Ergibt sich hieraus
+Handlungsbedarf, beginnt je nach Strategie die Suche nach einem geeigneten Zielfor-
+mat und dem für die Konvertierung geeigneten Werkzeug. Um diese mühsamen
+Arbeitsschritte möglichst zu vereinfachen und weltweit zu koordinieren, entstand die
+Idee der Format Registries, in denen systematisch Informationen zu Dateiformaten hin-
+terlegt werden (Versionen, Status, Viewer, spezielle Merkmale, Konversionstools). Das
+führende Instrument ist sicherlich das PRONOM-Register, das von den britischen Natio-
+nal Archives gehostet wird.22
+
+Die Entscheidung für die Anwendung einer konkreten Erhaltungsstrategie – also die
+Festlegung auf ein geeignetes Zielformat und die Auswahl von Migrationstools oder die
+Entscheidung für ein Emulationsprojekt – ist diffizil, weil sich hierzu kaum aus Erfah-
+rungswerten schöpfen lässt. Theoretische Vorgehenspläne, von LZA-Initiativen wie vom
+Dutch Digital Heritage Network in den Niederlanden23 entwickelt, unterstützen die syste-
+matische Erhebung der Anforderungen und die Evaluierung von Handlungsalternativen.
+
+Das Zusammenspiel vieler Werkzeuge macht die LZA einzelner digitaler Objekte
+aus. Sie alle sind eingebunden in den Archivierungsworkflow. Dabei kann noch einmal
+unterschieden werden zwischen Werkzeugen, die fest in die Abläufe eingebunden
+werden müssen, wie den Formaterkennungswerkzeugen, und solchen, die ereignis-
+oder projektbasiert zum Einsatz kommen, wie Konversions- oder Migrationstools.
+
+Es wird deutlich, dass es sich bei der Entwicklung und dem Betrieb von Lösungen
+zur LZA um technisch komplexe Aufgaben handelt. Es kann sinnvoll sein, dabei ex-
+terne Dienstleister einzubinden, und viele Einrichtungen verfahren so. Trotzdem
+muss aber der Auftraggeber (in diesem Fall somit die Einrichtung, die mit der Siche-
+rung der LZA beauftragt ist) dafür sorgen, dass entsprechende Regelungen getroffen
+und dokumentiert sind. Es bedarf also einer bewussten Entscheidung und Festlegung
+auf beiden Seiten. Denn je präziser der Status definiert ist, je klarer die Eigenschaften
+eines Dienstes bestimmt sind, desto wahrscheinlicher ist es, dass die LZA auch gelingt.
+Beispielsweise müssen für die technische Absicherung der LZA exakte Festlegungen ge-
+troffen werden: Wie oft und wie stark räumlich verteilt werden einzelne Objekte paral-
+lel vorgehalten, welchen Regeln folgt der kontinuierlich zu erfolgende Konsistenzcheck,
+welchen Algorithmen folgt der Abgleich zwischen den einzelnen vorgehaltenen Kopien.
+Noch eine Stufe grundlegender: Wie oft im Jahr wird umkopiert, wann erfolgt ein Aus-
+tausch von Bestandteilen der Hardware, welche Regeln gelten für den Abgleich ver-
+schiedener Versionen bei Abweichungen voneinander usw.
+
+ https://www.nationalarchives.gov.uk/PRONOM/ (12.02.2024).
+ https://kia.pleio.nl/cms/view/1fac32d1-1999-49f4-9363-79dba386f599/kennisindex-preservation
+(12.02.2024).
+
+
+
+704 Reinhard Altenhöner et al.
+
+Im Hinblick auf konkrete Implementierungen wurde das Thema digitale Langzeit-
+archivierung im Kontext des Bibliotheks- und Informationswesens in Deutschland erst-
+malig 1995 klar dokumentiert, von der Deutschen Forschungsgemeinschaft aufgegriffen
+und im Positionspapier Elektronische Publikationen24 als bibliothekarischer Aufgaben-
+bereich benannt. Seitdem haben Bibliotheken in zahlreichen, häufig öffentlich kofinan-
+zierten Projekten die Grundlagen geschaffen, ihre stetig wachsenden digitalen Bestände
+langfristig verfügbar zu halten. Art und Umfang der digitalen Bestände variieren von
+Bibliothek zu Bibliothek; sie ergeben sich aus den Anforderungen der Institutionen wie
+beispielsweise aus Retrodigitalisierungsprojekten oder der Pflichtabgabe elektronischer
+Publikationen.
+
+Ab den 2000er Jahren entwickelten sowohl die DNB als auch die Bayerische Staats-
+bibliothek in geförderten Projekten Lösungen für die LZA ihrer digitalen Bestände. Das
+System der DNB „KOPAL“ basierte auf einer kommerziellen Lösung für die Nationalbi-
+bliothek der Niederlande und war bis 2017 in Betrieb. Es wurde dann durch das gemein-
+sam mit der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen
+(GWDG) entwickelte LZA-System koala ersetzt, das konzeptionell an das Vorgänger-
+system anknüpfte. Die Bayerische Staatsbibliothek und der Bibliotheksverbund
+Bayern entschieden sich 2009 gemeinsam für den Einsatz der Software Rosetta des
+internationalen Bibliothekssystemproviders ExLibris, die ursprünglich zusammen
+mit der Nationalbibliothek von Neuseeland konzipiert wurde. Rosetta ist heute nati-
+onal und international in einer Reihe von Bibliotheken im Einsatz, so z. B. ebenfalls
+in kooperativer Weise bei TIB – Leibniz-Informationszentrum Technik und Natur-
+wissenschaften, ZB MED – Informationszentrum Lebenswissenschaften und ZBW –
+Leibniz-Informationszentrum Wirtschaft.
+
+Auch in anderen Bibliotheken liefen und laufen entsprechende Projekte mit dem
+Ziel, Lösungen für die LZA zu schaffen. Konzeptionell orientieren sich diese Lösungen
+nach wie vor am OAIS-Standard, um die wesentlichen Grundkomponenten des Sys-
+tems zu beschreiben. Dem Prinzip der OpenSource verpflichtete Eigenentwicklungen,
+die in der Zusammenarbeit von Bibliotheken mit Dienstleistern, aber auch in anderen
+Sparten international entstanden sind, existieren mittlerweile parallel zu kommerziel-
+len Lösungen, deren Weiterentwicklung durch die in Anwendergruppen organisier-
+ten Nutzenden begleitet wird. Generell ist zu beobachten, dass die LZA-Lösungen in
+kooperativen Szenarien angewendet werden und Bibliotheken als Dienstleister für
+LZA auftreten. Die LZA kann somit ein zwischen mehreren Partnern und Dienstleis-
+tern aufgeteiltes Vorhaben sein, das spartenübergreifende Organisation und Kommu-
+nikation erfordert. Auch innerhalb der Bibliothek ist im Rahmen der Verlagerung
+regulärer Bibliotheksdienste auf externe Anbieter auf die technische und organisato-
+rische Einbindung der LZA in die vorhandenen Abläufe der Bibliothek zu achten.
+
+ DFG 1995.
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 705
+
+Während die ersten technischen Umsetzungen von LZA-Systemen den OAIS-
+Standard als Blaupause für die Architektur der Software verstanden, wird heute in
+der Regel deutlicher zwischen der abstrakten Modellierung der Funktionen und der
+Umsetzung in einem System unterschieden. Dies berücksichtigt auch ausgereiftere
+technische Möglichkeiten, Services interoperabel in föderierten Infrastrukturen funk-
+tional zu verknüpfen. Auf diese Weise gelingt es, bislang solitäre, sehr aufwändig er-
+stellte und betriebene Systeme, zielgerichteter, integrierter und damit effizienter
+auszurichten. Dieser wachsende Pragmatismus bei der Umsetzung der grundlegenden
+Forderungen des OAIS-Standards zeigt sich auch in der Praxis der Zertifizierung, in
+der nicht technische Prüfungen, sondern primär die Qualität der Organisation der
+LZA, der vereinbarten Policies und Verpflichtungszusagen bewertet werden. Dazu ge-
+hört auch die Überlegung, dass für manche Dateiformate, die aufgrund ihres hohen
+Verbreitungsgrades und ihrer sehr guten Dokumentation (zum Teil auch als Gegen-
+stand von ISO-Standards), Aufwände bei der Analyse und Erfassung qualifizierender
+Metadaten kleiner gehalten werden und der Schwerpunkt auf der sicheren Speiche-
+rung liegt. Dabei mag auch eine Rolle spielen, dass die benannten Systeme bislang
+nicht einmal in Einzelfällen bei der Wiederherstellung der Nutzbarkeit obsolet gewor-
+dener digitaler Objekte oder bei der Migration großer Objektmengen zum Einsatz ge-
+kommen sind.
+
+4 Organisatorische und rechtliche Aspekte
+Neben der prinzipiellen Verfügbarkeit von geeigneten Systemen und Werkzeugen, Stan-
+dards und Methoden sind für die LZA weitere Rahmenbedingungen wichtig bzw. klä-
+rungsbedürftig: Sind Zuständigkeiten festgelegt? Und welche Anforderungen ergeben sich
+daraus an die praktische Organisation der LZA in der einzelnen Einrichtung, aber auch
+im Zusammenspiel mehrerer? Besteht für die Wahrnehmung der Aufgaben Rechtssicher-
+heit – sowohl was die konkrete Mandatierung als auch was die Handhabung der über-
+nommenen digitalen Objekte angeht? Ist die Ressourcenausstattung angemessen, ist eine
+mittel- und langfristige Arbeitsperspektive gegeben? Sind geeignete Bewertungsverfahren
+für Leistungen vorhanden, und existieren darauf aufsetzende Abrechnungs- oder Ver-
+rechnungsmechanismen? Ist das Vorgehen der beteiligten Akteure transparent und über
+den Kreis der unmittelbar Betroffenen hinaus vermittelbar?
+
+Nur in einem verbindlich definierten Gesamtrahmen, der verlässliche Abläufe und
+Qualitätssicherungsmechanismen vorhält, können sich die einzelnen Akteure, also Bi-
+bliotheken als Anbieter von Leistungen und Datenerzeuger mit ihrem jeweiligen Ange-
+bot bzw. ihren Anforderungen, verorten und im Zusammenspiel die LZA von Objekten
+und Daten sicherstellen. Eine rein projektbasierte, institutionelle Umsetzung ist in die-
+sem Sinn als stark risikobehaftet, per se befristet und solitär anzusehen.
+
+
+
+706 Reinhard Altenhöner et al.
+
+Instrumente und Aspekte dieses Gesamtrahmens, in dem Einrichtungen kooperie-
+ren, sind die Überprüfung und Zertifizierung von Dienstanbietern, die Existenz und
+kontinuierliche Weiterentwicklung von Standards und die Möglichkeit, die Einhaltung
+dieser Standards bei Anbietern neutral überprüfen zu können. Hinzu kommen koope-
+rativ betriebene Instrumente zur Risikobeobachtung und -dokumentation (z. B. format
+registries), zum organisierten Erfahrungsaustausch im Rahmen eines kooperativen Sys-
+tems der Aufgabenteilung, Community building, ferner gemeinsam getragene und wei-
+ter entwickelte Regeln zur Ermittlung von Kosten.
+
+Dieser Rahmen reicht über die Bibliothekssparte hinaus: Je mehr Abläufe digital
+erfolgen, desto wichtiger wird die LZA ausgewählter digitaler Objekte auch über ge-
+setzlich definierte Aufbewahrungsfristen für den unmittelbaren Vorgang. Aber auch
+im Bereich von Kunst, Kultur und Wissenschaft entstehen digitale Objekte (born digi-
+tal, digitalisierte Objekte), deren LZA gesichert werden muss. Dies betrifft letztlich
+auch die jeweils in den verschiedenen Sparten (Bibliotheken, Archive, Museen und
+Forschungseinrichtungen) zum Einsatz kommenden Nachweissysteme.
+
+Die LZA digitaler Objekte ist, so sollte man meinen, eine gesamtgesellschaftliche Auf-
+gabe. In der Realität zeigt sich jedoch, dass sich im privatwirtschaftlichen Sektor jenseits
+der gesetzlichen Vorschriften zur revisionssicheren Archivierung nur wenig Marktakti-
+vitäten entwickelt haben. Dies hat sicher mit den gesetzlich definierten Vorhaltungsver-
+pflichtungen zu tun, die konkrete Bedingungen setzen, die im Zusammenspiel mit die
+LZA begünstigenden Entwicklungen – zum Beispiel die Dateiformatentwicklung (PDF/A),
+Quellcodeoffenheit im Softwarebereich oder auch Verzicht auf technische Mechanismen
+des Digital Rights Managements (DRM) –, mit konventionellen Mitteln erfüllbar erschei-
+nen und in der Tat das Risiko eines Daten- und Informationsverlustes deutlich minimie-
+ren. Damit ist die LZA weitgehend eine Aufgabe der öffentlich-rechtlichen Einrichtungen,
+die – namentlich im Bereich des Kulturerbes – der nicht limitierten Verfügbarkeit digi-
+taler Objekte verpflichtet sind. Die Aufgabenzuweisung an die entsprechenden Einrich-
+tungen erfolgt zum Beispiel über Neuregelungen der Pflichtexemplarrechte, direkte
+Mandatierung oder auch veränderte Förderbedingungen. Auch im Bereich der öffentli-
+chen Hand gilt aber, dass Aufwands- und Nutzenabwägungen insbesondere mit Blick
+auf die steigenden Mengen mehr Gewicht erhalten werden und zum Beispiel systemati-
+sche Auswahlentscheidungen nötig machen.
+
+Häufig kämpfen die betreffenden Einrichtungen aber damit, dass entsprechende
+Ressourcenzuweisungen fehlen, angemessen ausgebildetes Personal nicht vorhanden
+ist und insgesamt Aufgaben und Angebote von Dienstleistern nicht hinreichend trans-
+parent sind und so verlässliche, auf Dauer angelegte Strukturen fehlen. Insbesondere
+die dauerhafte Finanzierung der Aufwände für die LZA, die als Aufgabe der Bibliothe-
+ken von den Unterhaltsträgern und den Trägern der Informationsinfrastruktur aner-
+kannt wird, bedarf einer verbindlicheren Absicherung.
+
+Die LZA digitaler Objekte benötigt einen klar definierten rechtlichen Rahmen.
+Dies ergibt sich daraus, dass wesentliche technische Methoden, die in der Langzeitar-
+chivierung zum Einsatz kommen, Bestimmungen des Urheberrechts berühren: die
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 707
+
+Notwendigkeit digitale Kopien anzufertigen einerseits und andererseits der Bedarf,
+(technische) Veränderungen an den digitalen Objekten durchzuführen. Unter Umstän-
+den kommt noch das Erfordernis hinzu, am jeweiligen Objekt haftende rechtliche Be-
+schränkungen aufheben zu müssen.
+
+Hier hat es mit der Reform des Urheberrechts in Deutschland im Jahr 2018 erheb-
+liche Verbesserungen gegeben. So erlauben die Schrankenregelungen in § 60e und
+§ 60f UrhG den Bibliotheken, Archiven, Museen und Bildungseinrichtungen „ein
+Werk aus ihrem Bestand oder ihrer Ausstellung für Zwecke der Zugänglichmachung,
+Indexierung, Katalogisierung, Erhaltung und Restaurierung [zu] vervielfältigen oder
+vervielfältigen [zu] lassen, auch mehrfach und mit technisch bedingten Änderungen“.
+Andererseits zeigt eine aktuelle Diskussion innerhalb der IFLA,25 dass unklare rechtli-
+che Rahmenbedingungen auch heute noch ein echtes Hindernis bei der Langzeitarchi-
+vierung darstellen.
+
+Unabhängig von sich ändernden rechtlichen Rahmenbedingungen bedeutet die
+Aufgabe der Langzeitarchivierung für jede einzelne Bibliothek, dass über die Realisie-
+rung der technischen Anwendung und der damit verknüpften Abläufe hinaus organi-
+satorische Voraussetzungen auch in der Einrichtung geklärt sein müssen. Hier sind
+Verantwortlichkeiten zu beschreiben und in Organisationsstrukturen abzubilden,
+es müssen Abläufe definiert und dokumentiert werden. Anpassungsaufwände sind
+unumgänglich: Beispielsweise müssen Validierungswerkzeuge für digitale Ressourcen
+in den Workflow integriert werden, Fehler- und Problemmeldungen systematisch be-
+arbeitet werden und Systemmeldungen bewertet und beantwortet werden. Unter Ums-
+tänden ergeben sich sogar Neubewertungen eingeführter Abläufe, wenn beispielsweise
+die Archivfähigkeit von digitalen Objekten ein Kriterium bei der Auswahl von Inhalten
+wird. Viele dieser Festlegungen sind nur individuell zu treffen und bedürfen eines in-
+tensiv begleiteten längeren Einführungsprozesses.
+
+Auch unter den veränderten rechtlichen Rahmenbedingungen bleibt die LZA so-
+wohl auf der technischen wie organisatorischen Ebene eine anspruchsvolle Aufgabe,
+die nur in einem Netzwerk von Akteur:innen gelingen kann. Viele der genannten Rah-
+menbedingungen, aber auch Hilfsmittel zur Ausgestaltung der Organisation entstehen
+kooperativ und werden von nationalen Kompetenznetzwerken wie nestor, die wie-
+derum international verknüpft agieren, getragen.
+
+ https://repository.ifla.org/handle/123456789/2539 (12.02.2024).
+
+
+
+708 Reinhard Altenhöner et al.
+
+5 Kooperations- und Organisationsmodelle zur
+Sicherung der Langzeitarchivierung digitaler
+Ressourcen
+
+Die Problemstellung der LZA erfordert ein arbeitsteiliges und kooperatives Vorgehen.
+Einerseits hat die Digitalisierung der Produktionsumgebungen zu einer Diversifizierung
+des Medienangebots geführt, die neue Abstimmungen auf dem Gebiet der Sammlung
+erfordert (Beispiel Websites: Inwieweit fallen sie in die Zuständigkeit von Archiven
+bzw. von Bibliotheken?) und zu Spezialisierungen im Bereich der Erhaltungsplanung
+einlädt (nicht jede Institution kann Knowhow zu allen von ihr archivierten Dateiforma-
+ten aufbauen; Spezialisierung und gegenseitige Beratung scheinen sinnvoller). Anderer-
+seits sind viele Teilprobleme der digitalen Langzeitarchivierung – seien sie technischer,
+organisatorischer oder rechtlicher Art – für alle betroffenen Institutionen die gleichen
+und bergen daher ein hohes Kooperationspotenzial.
+
+Schon die ersten Langzeitarchivierungsinitiativen ab Mitte der 1990er Jahre waren,
+überall auf der Welt, kooperativ geprägt. Kooperation war 1995 ein Grundgedanke in
+der Strategie der Australischen Nationalbibliothek (ANL), einer Vorreiterin in der digi-
+talen Archivierung: „The cooperation of all with a role in the generation, use, manage-
+ment, distribution and preservation of digital objects is essential.“26 Darauf liefen auch
+erste Überlegungen in Großbritannien hinaus, die später zur Gründung der Digital Pre-
+servation Coalition führten: „[...] we must ensure that we do not duplicate efforts; we
+must combine to work together, to share the responsibility for preserving our cultural
+heritage [...]“.27
+
+Tatsächlich verfolgten einige Länder die Idee von national verteilten Sammlun-
+gen mit mehr oder weniger formalisierten Rollen und Verantwortlichkeiten der Sek-
+toren. Dies bot sich besonders bei der Sammlung von Webseiten an. In Australien
+betreibt die Nationalbibliothek die technische Infrastruktur für Australiens kooperati-
+ves Webarchiv; die Zuständigkeit für die Auswahl sammlungsrelevanter Inhalte teilt
+sie sich mit mehreren Staatsbibliotheken, den National Film and Sound Archives und
+anderen Gedächtnisorganisationen. Einen ähnlichen Ansatz hat die British Library
+für das UK Web Archive gewählt: In Sammlungsfragen kooperiert sie mit unterschied-
+lichen britischen Gedächtnisorganisationen und seit 2013 führt sie Sammlungen der
+gesamten .uk-Domain in Kooperation mit den fünf weiteren Pflichtexemplarbibliothe-
+ken des Vereinigten Königreichs und Irlands durch (National Library of Scotland, Na-
+tional Library of Wales, Cambridge University Library, Bodleian Library in Oxford
+und die Bibliothek des Trinity College Dublin). Mit der oben genannten Digital Preser-
+
+ ANL 1995.
+ Foot 1995.
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 709
+
+vation Coalition (DPC)28 besteht in Großbritannien zudem eine Dachorganisation für
+die Belange der digitalen LZA, welche sich zunehmend international versteht.
+
+In Deutschland ist ein wichtiges Element in dieser Entwicklung nestor,29 das Kompe-
+tenznetzwerk zur digitalen LZA. Seit seiner Gründung 2003 bringt es spartenübergreifend
+von der Langzeitarchivierung betroffene Institutionen und Expert:innen zusammen. Re-
+gelmäßige Veranstaltungen, Arbeitsgruppen zu den unterschiedlichsten Themen von
+Emulation über Kosten zu rechtlichen Fragen sowie ein breites virtuelles Informationsan-
+gebot fördern den Austausch von Information und Wissen und erleichtern die Nutzung
+von Synergieeffekten. Gemeinsame Initiativen wie die Überführung von kooperativ
+erarbeiteten Empfehlungsdokumenten in die Normungswelt, eine breite Palette an
+Publikationen, Checklisten und die internationale Kooperation ergänzen die Aktivi-
+täten. Ursprünglich vom Bundesministerium für Bildung und Forschung kofinan-
+ziert, ist nestor heute ein eingetragener Verein mit derzeit 18 Partnerinstitutionen.
+Die DNB unterhält die Geschäftsstelle. Wachsende Bedeutung in der Infrastruktur
+der LZA haben einige strukturbildende Elemente, von denen das wichtigste sicher-
+lich das Zertifizierungsangebot für vertrauenswürdige digitale Archive ist.
+
+Gemeinsame Interessen haben neben der schon genannten Digital Preservation
+Coalition in Großbritannien und nestor in Deutschland auch zur Gründung weiterer
+Organisationen und Konsortien geführt. Typisch für sie ist, dass die beteiligten Part-
+ner sich in der Annahme zusammentun, dass sich eine Lösung besser mit vereinten
+Kräften realisieren lässt. Zu nennen sind zum Beispiel das International Internet Pre-
+servation Consortium, die LOCKSS Alliance (LOCKSS – „Lots of Copies Keep Stuff
+Safe“), Portico und die Open Preservation Foundation.
+
+Das International Internet Preservation Consortium (IIPC)30 wurde 2003 von elf
+Nationalbibliotheken und dem Internet Archive gegründet, um sich über die Archivie-
+rung von internetspezifischen Inhalten auszutauschen und gemeinsam Werkzeuge
+und Lösungsansätze für die spezielle Problematik der Webarchivierung zu entwi-
+ckeln. Heute umfasst das IIPC über 50 Mitglieder mit Webarchiven, vielfach National-
+bibliotheken, aber auch Archive, Universitäten und Firmen. Sie partizipieren in
+Arbeitsgruppen und finanzieren u. a. die (Weiter-)Entwicklung von Open Source Tools
+zur Webarchivierung und Forschungsprojekte in dem Themenbereich. Es werden
+zudem gemeinsame Sammlungen zu international relevanten Themen koordiniert.
+Das IIPC wird von einem Steering Committee gesteuert, das strategische Schwer-
+punkte setzt und über die Finanzierung konkreter Entwicklungsprojekte entscheidet.
+
+In der LOCKSS Alliance31 haben sich Bibliotheken und Verlage zusammenge-
+schlossen, um eine mehrfach redundante Speicherung von wissenschaftlichen Publi-
+kationen unter Zugrundelegung günstiger IT-Ausstattung zu organisieren. Die dazu
+
+ https://www.dpconline.org (12.02.2024).
+ https://www.langzeitarchivierung.de (12.02.2024).
+ https://netpreserve.org (12.02.2024).
+ https://www.lockss.org (12.02.2024).
+
+
+
+710 Reinhard Altenhöner et al.
+
+verwendete Technologie wurde zunächst auf Projektbasis entwickelt. Nach Produktiv-
+setzung des Systems 2004 wurde die LOCKSS Alliance als Mitgliederorganisation von
+LOCKSS-Anwendern gegründet, um die Pflege und Weiterentwicklung der Technolo-
+gie zu sichern und die Lösung weiter zu vermarkten. Die Bibliotheksteilnehmer unter-
+halten miteinander vernetzte sogenannte LOCKSS-Boxen, in der die Verlagsinhalte
+mehrfach redundant gespeichert werden. Basierend auf der LOCKSS-Technologie gibt
+es mit Controlled LOCKSS (CLOCKSS)32 ein zentral verwaltetes, als Dark Archive ange-
+legtes Netzwerk.
+
+Eine ähnliche Zielsetzung – wissenschaftliche Literatur (vor allem von Verlagen li-
+zenziert) langfristig verfügbar zu halten – verfolgt mit einem anderen Betriebsmodell
+Portico.33 Ebenfalls auf Projektbasis mit öffentlicher Förderung entwickelt geht Portico
+auf eine Initiative von ITHAKA zurück, einem Non-Profit-Informationsinfrastruktur-
+Dienstleister mit Sitz in den USA. 2005 wurde Portico durch die Ausgründung als Non-
+Profit-Organisation geschäftsfähig. Die teilnehmenden Bibliotheken und Verlage schlie-
+ßen Lizenzverträge mit Portico ab und zahlen jährliche Teilnahmegebühren zur Wartung
+und Weiterentwicklung des zentralen Archivsystems.
+
+Die beschriebenen Zusammenschlüsse zeichnen sich durch ihr klares Profil aus: Es
+steht jeweils eine Hauptmotivation im Mittelpunkt, die alle beitragenden Partner an-
+treibt. Aufgrund der disparateren Interessenslage ist es vergleichsweise schwieriger,
+die Bemühungen um gemeinsame Formaterkennungswerkzeuge und Format Registries
+zu verstetigen. Tools wie JHOVE wurden in Projekten entwickelt und anschließend als
+Open Source Software der Community zur Verfügung gestellt. Ihre Weiterentwicklung
+und Pflege beruht komplett auf freiwilligen Beiträgen von Anwender:innen. Genauso
+ist das Formate-Register PRONOM abhängig von freiwilligen Zuarbeiten.
+
+Mit der Open Preservation Foundation (OPF)34 besteht seit 2010 allerdings ein or-
+ganisierter Zusammenschluss, der versucht, ebensolche Beiträge zu Open-Source-
+Werkzeugen zu bündeln und zu koordinieren. Die OPF wurde 2010 nach Abschluss
+des EU-Projekts „PLANETS“ (2006 bis 2010 von der EU-Kommission kofinanziert) von
+ehemaligen Projektpartnern gegründet. Ursprünglich von europäischen Mitgliedern
+getragen, hat die in Großbritannien als Non-Profit-Organisation registrierte OPF in-
+zwischen Mitglieder weltweit. Dabei versteht sie sich als Kooperation zur LZA, die
+Veranstaltungen, Workshops und Fortbildungen organisiert.
+
+Ausgehend von verschiedenen nationalen Initiativen ist so eine internationale
+Kooperationsstruktur entstanden, die Anwender:innen und Nutzer:innen regelmäßig zu-
+sammenführt und dafür sorgt, dass Forschung und Entwicklung einerseits und praktische
+Umsetzungs- und Erprobungsszenarien andererseits sich wechselseitig befruchten. Diese
+Situation sorgt dafür, dass technisch gesehen zunehmend ausgereifte Werkzeuge und
+
+ https://clockss.org (12.02.2024).
+ https://www.portico.org (12.02.2024).
+ https://openpreservation.org (12.02.2024).
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 711
+
+Methoden zur Verfügung stehen und damit der Schritt in eine internationale
+Infrastruktur möglich wird. Ein ganz wesentliches Merkmal dieser Entwicklung,
+in der Kooperationen wie DPC, OPF oder nestor eine besondere Bedeutung bekommen,
+ist die Verstetigung und Stabilisierung von bislang häufig nur in Projekten verfolgten
+isolierten Ansätzen zu stabilen und kontinuierlich verfügbaren Diensten.
+
+6 Perspektiven der Langzeitarchivierung
+Mit der wachsenden Bedeutung von Informationsinfrastrukturen in Kultur und Wis-
+senschaften wird die Bedeutung der LZA als ein wesentlicher Bestandteil dieser Infra-
+strukturen weiter zunehmen. Dabei geht es nicht darum, ob die Apologeten der
+papierlosen Informationsgesellschaft letztlich Recht behalten oder nicht, sondern um
+die schlichte Feststellung, dass immer mehr Publikationen primär oder zeitlich paral-
+lel digital erscheinen. Dies hat zur Konsequenz, dass die Frage der Persistenz des digi-
+talen Materials immer mehr auf die Agenda rückt. Gleichzeitig wächst der Anteil des
+historischen Informationsmaterials, das auch in digitalisierter Form vorliegt. Dass
+diese Veränderungen Auswirkungen auf die Organisation der Informationslandschaft
+haben, ist schon heute erkennbar.
+
+Dabei ist die LZA digitaler Ressourcen nicht nur eine abgrenzbare technische Fra-
+gestellung, sondern sie spiegelt sich auch in Fragen der Sammlungskoordination, der
+prinzipiellen Sammelbarkeit, der Entwicklung geeigneter Kooperationsmodelle, der
+Qualitätssicherung und der öffentlichen Wahrnehmung von Bibliotheken.
+
+Die schiere Menge an digitalem Material und die Anforderungen an die Qualität
+der Abläufe (und hohe Folgekosten) lassen den Anpassungsdruck wachsen und den
+Bedarf für Absprache und Kooperation steigen. Wenn heute noch die Bestandsaus-
+wahl einer Bibliothek im Bereich gedruckter Materialien auf Ebene des Einzelobjekts
+erfolgt, sind implizit auch die (logistischen) Kosten der mittel- bis langfristigen Vorhal-
+tung im Blick. Im E-Book- oder E-Journal-Bereich geschieht dies überwiegend auf Pa-
+ketebene und häufig ohne eigene Infrastruktur der Bibliotheken, sodass letztlich die
+Nutzer:innen aus einem Gesamtangebot heraus unmittelbar auf die Angebote der Ver-
+lage zugreifen. Mit Blick auf die Notwendigkeit einer langfristigen Sicherung des Ma-
+terials in der Gesamtperspektive der Infrastruktur wächst der Zwang zu entscheiden,
+welche der digitalen Objekte in die LZA eingehen – dies gilt insbesondere für die He-
+rausforderung des World Wide Web als Informationsraum.
+
+In Deutschland gibt es bislang keine Ansätze zu einer explizit national verteilten
+digitalen Sammlung, wie das etwa in Australien oder Großbritannien der Fall ist. Mit
+dem Gesetz über die DNB und Regelungen zu digitalen Pflichtexemplaren in fast allen
+Bundesländern sind viele Zuständigkeiten zwar grundlegend geklärt, und es laufen Ab-
+
+
+
+712 Reinhard Altenhöner et al.
+
+stimmungen zwischen den deutschen Pflichtexemplarbibliotheken.35 In diese Überle-
+gungen werden die Archive bereits einbezogen. Abstimmungen mit weiteren Biblio-
+thekssparten und Akteuren anderer Sparten wie Museen, Medienarchiven und
+Forschungseinrichtungen werden perspektivisch folgen müssen. Auch die Informa-
+tionsproduzenten und -anbieter müssen in diese Überlegungen und Abstimmungen
+einbezogen werden. Häufig übernehmen sie für einen bestimmten Zeitraum selbst
+Verantwortung für die Verfügbarkeit ihres Materials und sind an der langfristigen
+Erhaltung interessiert. Anders als in Einrichtungen, deren primärer Zweck die lang-
+fristige Verfügbarhaltung von digitalen Publikationen ist, ergibt sich die Priorität
+der digitalen Bestandserhaltung hier aber aus wirtschaftlichen und strategischen
+Zielen, die sich jederzeit ändern können, wenn sich beispielsweise mit Inhalten kein
+Verwertungsinteresse mehr verbindet, ein Verlag den Markt verlässt oder wissen-
+schaftliche Projekte enden. Initiativen wie die Nationale Forschungsdateninfrastruktur
+(NFDI)36 bieten hier die Chance, Desiderate bei der Langzeitarchivierung von For-
+schungsdaten zu beheben und auch die Vernetzung der einzelnen Sparten anzuregen.
+
+Auch wenn in der aktuellen Gesetzgebung bereits Schrankenregelungen enthal-
+ten sind, darf nicht vergessen werden, dass die Langzeitarchivierung als solche und
+auch die Bereitstellung von Werken aus den Langzeitarchiven immer in einen rechtli-
+chen Rahmen eingebettet sein muss, der den Stand der Technik adäquat absichert,
+wie z. B. die unterschiedlichen Schranken im Urheberrechtsgesetz zeigen. Dort regeln
+die § 60e und § 60f z. B. die Rechte zur mehrfachen Vervielfältigung zum Zwecke der
+Erhaltung und erlauben auch technische Änderungen am Objekt. § 60d erlaubt die
+Vervielfältigung und Bereitstellung für Text und Data Mining im Kontext der wissen-
+schaftlichen Forschung.
+
+Neben der rechtlichen Absicherung und der stabilen, auf Kontinuität angelegten
+Finanzierung der in den Bibliotheken erfolgenden LZA und aller damit verknüpften
+Aufgaben ist die Absicherung der technischen Weiterentwicklung und die laufende
+Anpassung der Werkzeuge bedeutsam. Dabei stehen die wesentlichen Werkzeuge, um
+digitale Langzeitarchive zu betreiben, heute im Prinzip zur Verfügung. Am Markt gibt
+es komplette, allerdings meist monolithische Systeme zu kaufen. Eine wachsende, in-
+ternationale Community nutzt Open Source Tools, die modular in Workflows zur
+Langzeitsicherung eingebaut werden können, und sie stellt ihre notwendige Weiter-
+entwicklung sicher. Die große Herausforderung besteht darin, solche Systeme und
+Werkzeuge in die Abläufe von Bibliotheken zu integrieren und sie so zu skalieren,
+dass sie großen und stetig wachsenden Informationsmengen gerecht werden. Per-
+spektivisch werden Aspekte der LZA jedoch mehr und mehr ein selbstverständlicher
+Aspekt in den Abläufen von Bibliotheken werden, dedizierte Systeme oder auch orga-
+
+ Vgl. Jendral 2013. Hier ist die AG Regionalbibliotheken des dbv aktiv, die eine „Synopse von NP-
+Sammelrichtlinien“ entwickelt hat (dbv 2010).
+ Nationale Forschungsdateninfrastruktur: https://www.nfdi.de (12.02.2024).
+
+
+
+8.2 Langzeitarchivierung digitaler Ressourcen: Strategie, Organisation und Techniken 713
+
+nisatorische Bereiche werden aufgehen in den Abläufen rund um digitale Ressourcen,
+wobei je nach Aufgabenstellung der Bibliothek die Auswirkung auf die Organisations-
+struktur weiterreichend oder geringer sein werden.
+
+Dabei ist zu berücksichtigen, dass bestimmte Materialgruppen wie Software,
+Webseiten, aber auch digitale Filmbestände noch schwer zu greifen bzw. technisch
+nicht beherrscht sind. Hier tauchen zunächst Zuständigkeitsfragen auf: Einerseits
+sind die Informationsanbieter/-erzeuger, die als ein Teil ihres Angebots auch Verant-
+wortung für bestimmte Materialgruppen übernehmen müssen (und gleichzeitig auch
+als Nutzer:innen auftreten), betroffen, andererseits sind es die Akteure, die primär
+den Auftrag zur Langfristabsicherung von digitalen Objekten übernommen haben.
+Beide Perspektiven müssen in einer zukünftigen Infrastruktur zusammengeführt wer-
+den und ihre jeweiligen Anforderungen aufeinander abbilden. Gleichzeitig besteht
+auch weiterhin Bedarf an intensiver Evaluations- und Forschungsaktivität.
+
+Vor dem Hintergrund der begrenzten finanziellen Möglichkeiten öffentlicher Haus-
+halte ist es nach wie vor wahrscheinlich, dass sich auch beim aktuellen Entwicklungs-
+stand von LZA-Lösungen in Zukunft nur eine kleinere Zahl von Einrichtungen mit dem
+Betrieb vollständiger Archive auseinandersetzen wird. Angesichts des Komplexitäts-
+grads einzelner Materialgruppen ist zudem eine funktionale Ausdifferenzierung zu er-
+warten und sinnvoll. Umso wichtiger ist es, dass diese in einen kooperativen Verbund
+eingebettet sind, in dem Rollen und Verantwortlichkeiten geklärt sind. Dabei werden in
+vielen Bibliotheken Beratungs- und Betreuungsaufgaben im Vordergrund stehen, für
+die die Nähe zu Kunden (Nutzer:innen oder auch Datenproduzent:innnen) wichtig ist,
+während die Erbringung der technischen Dienstleistung vermutlich von einer kleineren
+Zahl von Einrichtungen in einem kooperativen Verbund übernommen wird.
+
+Literatur
+ANL: Statement of Principles for the Preservation of and Long-Term Access to Australian Digital Objects.
+
+Issued by the Australian National Library. 1995. https://web.archive.org/web/20001023082726/
+https://www.nla.gov.au/preserve/digital/princ.html (01.09.2023).
+
+Beagrie/Charles Beagrie Inc.: Dauerhaften Zugriff sicherstellen: Auf dem Weg zu einer nationalen
+Strategie zu Perpetual Access und Hosting elektronischer Ressourcen in Deutschland. Deutsche
+Übersetzung des editierten Abschlussberichtes (öffentliche Version) Februar 2010. https://www.re
+searchgate.net/publication/48693667_Dauerhaften_Zugang_sicherstellen_Auf_dem_Weg_zu_einer_
+nationalen_Strategie_zum_dauerhaften_Zugriff_elektronischer_Ressourcen_in_Deutschland
+(03.05.2023).
+
+Deutsche Forschungsgemeinschaft: Ausschreibung „Literaturversorgung und Information/
+Informationsmanagement. Langzeitverfügbarkeit im Rahmen der „Neuausrichtung überregionaler
+Informationsservices“. https://www.dfg.de/resource/blob/171102/9d00fc32dff2a11c9646
+dabb983b9062/ausschreibung-ueberregionale-informationsservices-131115-data.pdf (14.09.2024).
+
+Digital Preservation Coalition: Digital Preservation Handbook. 2nd Edition. 2015. https://www.dpconline.
+org/handbook (03.05.2023).
+
+
+
+714 Reinhard Altenhöner et al.
+
+DNB: Gesetz über die Deutsche Nationalbibliothek (DNBG). Ausfertigungsdatum: 22.06.2006. http://www.
+gesetze-im-internet.de/dnbg/BJNR133800006.html (03.05.2023).
+
+Foot, Mirjam: A Preservation Policy for Digital Material: A Librarians Point of View. Contribution to a JISC/
+British Library Workshop („Long Term Preservation of Electronic Materials“). 27./28. November 1995.
+http://www.ukoln.ac.uk/services/papers/bl/rdr6238/paper.html (03.05.2023).
+
+Garret, John, u. Donald Waters: Preserving Digital Information. Report of the Task Force on Archiving of
+Digital Information commissioned by The Commission on Preservation and Access and The Research
+Libraries Group. 1996.
+
+Jendral, Lars: Die elektronische Pflicht in den Bundesländern. In: Bibliotheksdienst 47 (2013), S. 592–596.
+Keitel, Christian: Zwölf Wege ins Archiv. Umrisse einer offenen und praktischen Archivwissenschaft.
+
+Stuttgart: Franz-Steiner 2018.
+Kulovits, Hannes, Andreas Rauber, Anna Kugler, Markus Brantl, Tobias Beinert u. Astrid Schoger: From
+
+TIFF to JPEG 2000? Preservation Planning at the Bavarian State Library Using a Collection of Digitized
+16th Century Printings. In: D-Lib Magazine 15 (2009). http://webdoc.sub.gwdg.de/edoc/aw/d-lib/dlib/
+november09/kulovits/11kulovits.html (03.05.2023).
+
+Lange, Andreas: Die Gaming-Community als Pionier der digitalen Bewahrung. In: Was bleibt?
+Nachhaltigkeit der Kultur in der digitalen Welt. Hrsg. von Paul Klimpel u. Jürgen Keiper. Berlin:
+iRights.Media 2013. S. 109–118. https://files.dnb.de/nestor/weitere/collab_was_bleibt.pdf
+(03.05.2023).
+
+Laux, Susanne: DIMAG. Programmpaket zur digitalen Langzeitarchivierung im Verbund. In: ABI Technik 39
+(2019), H. 3, S. 202–212. https://doi.org/10.1515/abitech-2019-3004 (04.05.2023).
+
+Liegmann, Hans u. Ute Schwens: Langzeitarchivierung digitaler Ressourcen. In: Grundlagen der
+praktischen Information und Dokumentation. 5., völlig neu gefasste Ausgabe. Hrsg. von Rainer
+Kuhlen, Thomas Seeger u. Dietmar Strauch. München: Saur 2004. https://files.dnb.de/nestor/be
+richte/digitalewelt.pdf (03.05.2023).
+
+Maniatis, Petros, Mema Roussopoulos, T. J. Giuli, David S. H. Rosenthal u. Mary Baker: The LOCKSS peer-to
+-peer digital preservation system. In: ACM Transactions on Computer Systems(TOCS) 23 (2005), H. 1.
+
+Neuroth, Heike, Achim Oßwald, Regine Scheffel u. a. (Hrsg.): Eine kleine Enzyklopädie der digitalen
+Langzeitarchivierung. Boizenburg: Werner Hülsbusch 2009. Aktualisierte Onlineversion (2.3) unter:
+http://www.nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf (03.05.2023).
+
+Rosenthal, David S. H.: Bit Preservation: A Solved Problem? In: International Journal of Digital Curation 5
+(2010), H. 1. http://www.ijdc.net/index.php/ijdc/article/view/151 (03.05.2023).
+
+Seadle, Michael: Archiving in the Networked World: LOCKSS and National Hosting. Library Hi Tech 28
+(2010), H. 4, S. 710–717.
+
+York, Yeremy: HathiTrust: The Elephant in the Library. In: Library Issues 32 (2012), H. 3. http://www.hathit
+rust.org/documents/HathiTrust-LI-201201.pdf (03.05.2023).

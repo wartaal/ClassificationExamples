@@ -1,0 +1,869 @@
+﻿Arne Upmeier
+10.4 Rechtliche Rahmenbedingungen der
+
+Bibliotheksbenutzung
+
+1 Einleitung
+Jede Bibliothek steht im Mittelpunkt eines Netzwerks von rechtlichen Verbindungen.
+Sie pflegt Beziehungen zu ihren Nutzenden, zu ihren Lieferanten, zum Unterhalt-
+sträger, zu anderen Bibliotheken und anderen Einrichtungen. Diese Beziehungen kön-
+nen alle störungsanfällig sein. Entscheidend sind die Details der Verbindungen, die
+das Miteinander gestalten. Durch die Vielzahl der Fälle und möglichen Fallkonstella-
+tionen kommt es zwischen der Bibliothek einerseits und ihren Nutzer:innen anderer-
+seits häufig zu Konflikten.
+
+Eine entscheidende Frage ist, ob es sich um einen zivilrechtlichen oder um einen
+öffentlich-rechtlichen Konflikt handelt. Die allermeisten Bibliotheken gehören direkt
+oder indirekt der öffentlichen Hand. Staatliche Institutionen können wählen, wie sie
+den Bürger:innen begegnen wollen: im öffentlich-rechtlichen Verhältnis durch Ver-
+waltungsakt – typische Beispiele sind ein Strafmandat oder Steuerbescheid – oder
+aber „auf Augenhöhe“ wie eine Bürgerin zur anderen oder zum anderen. Letzteres ist
+beispielsweise der Fall, wenn die Bibliothek Bücher oder Bleistifte bei einem Lieferan-
+ten kauft.
+
+Die Entscheidung der Bibliothek, ob sie das Verhältnis zu ihren Nutzenden zivil-
+rechtlich „auf Augenhöhe“ oder öffentlich-rechtlich als Behörde regeln will, wird häufig
+bereits durch die gewählte Organisationsform bestimmt. Zivilrechtlich organisierte Bi-
+bliotheken (in der Regel als GmbH, als Verein oder als Stiftung privaten Rechts), können
+nur zivilrechtlich handeln – selbst wenn die Bibliothek zu 100 Prozent der öffentlichen
+Hand gehört. Ist die Bibliothek dagegen öffentlich-rechtlich organisiert, kommt es in
+der Regel darauf an, wie das Nutzungsverhältnis konkret geregelt ist. Die meisten Bi-
+bliotheken sind unselbstständige, d. h. nicht-rechtsfähige Anstalten des öffentlichen
+Rechts.1 Sie besitzen keine eigene Rechtspersönlichkeit, sondern sind Teil einer größe-
+ren öffentlichen Einrichtung, die die Bibliothek rechtlich nach außen vertritt. Dank der
+Selbstverwaltung der Gemeinden sind sie berechtigt, die Rechtsverhältnisse ihrer Bib-
+liothek im Rahmen der allgemeinen Gesetze frei zu regeln. Das gilt auch für die Benut-
+zungsordnung und die damit verbundenen Entscheidungen, etwa zur Erhebung von
+Benutzungsgebühren oder der Zulassung von Minderjährigen. Ähnliches gilt für die
+
+ Zu den unterschiedlichen Organisationsformen unverändert aktuell: Beger 1995.
+
+Anmerkung: Ich danke meiner Kollegin, Frau Linda Sefrin, für ihre wertvollen Hinweise und ihre sachkun-
+dige Unterstützung.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-047
+
+
+
+814 Arne Upmeier
+
+etwas mehr als 200 Hochschulbibliotheken in Deutschland. Als besondere Ausprägung
+der allgemeinen Hochschulautonomie besitzen die Hochschulen Satzungsautonomie.
+Konkret bedeutet das, dass Hochschulen ihre eigenen Angelegenheiten durch Satzung
+frei regeln dürfen. Sie können die rechtliche Organisation ihrer Bibliotheken frei be-
+stimmen, soweit der Landesgesetzgeber keine eigenen Regelungen getroffen hat.2 Im
+Idealfall ist in der Benutzungsordnung explizit geregelt, ob sich das Benutzungsverhält-
+nis nach den Regeln des öffentlichen oder des privaten Rechts richtet. Üblich sind For-
+mulierungen wie „Das Benutzungsverhältnis unterliegt dem öffentlichen Recht“.3 Falls
+es keine explizite Regelung gibt, muss aus dem Zusammenhang geschlossen werden, ob
+es sich bei der „Benutzungsordnung“ um eine Rechtsverordnung (und damit öffentli-
+ches Recht) handelt oder um Allgemeine Geschäftsbedingungen (Privatrecht). Bei einer
+Gerichts- oder einer Behördenbibliothek wird der Zugang zur Bibliothek immer öffent-
+lich-rechtlicher Natur sein.4
+
+Tab. 1: Öffentlich-rechtlich vs. zivilrechtlich.
+
+Merkmale Vorteile Nachteile
+
+Öffentlich- – Mahnungen sind – Klare Regeln – Weniger flexibel
+rechtliche Verwaltungsgebühren – Wahlrecht der – Gebühren müssen dem
+Organisation – Schreiben Bibliothek, ob im Äquivalenzprinzip
+
+(Mahnungen) ergehen Einzelfall zivilrechtlich folgen
+als Bescheid gehandelt werden soll – Bestimmte
+
+– Benutzungsordnung ist – Verjährungsfristen Formvorschriften
+Rechtsverordnung (drei Jahre analog (Widerspruchs-
+
+– Verwaltungsrechtsweg §§ 195 ff.BGB, im belehrung etc.)
+Zweifel sollte auch von müssen beachtet
+einer analogen werden
+Anwendung des § 606
+BGB ausgegangen
+werden)5
+
+– Direkte
+Vollstreckbarkeit von
+Forderungen
+
+ Bayern hat eine „Allgemeine Benützungsordnung der Bayerischen staatlichen Bibliotheken“ erlassen.
+Die Hochschulen dürfen hiervon nicht abweichen, wohl aber Detailfragen durch eigene Regelungen
+konkretisieren. In den meisten Bundesländern (u. a. Thüringen und Sachsen) gibt es auch zentrale Ge-
+bührenordnungen für Hochschulbibliotheken. Eine Übersicht findet sich bei Michalke 2004: S. 1631–
+1633. Auch hier sind die Hochschulen dann nicht mehr frei, abweichende Regelungen zu erlassen.
+ vgl. § 2 Benutzungsordnung der Universitätsbibliothek der Technischen Universität Ilmenau (Stand
+18. Januar 2019); Juraschko 2019: S. 30.
+ 1 KG Berlin 1. Zivilsenat, AZ.:1 VA 1006/20.
+ MüKoBGB/Grothe BGB § 195 Rn. 16–18.
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 815
+
+Tab. 1 (fortgesetzt)
+
+Merkmale Vorteile Nachteile
+
+Zivilrechtliches – Mahngebühren sind – Bibliothek kann – Bibliothek kann nicht
+Benutzungs- Vertragsstrafen, flexibler agieren bei Bedarf auf
+verhältnis Benutzungsgebühren – Erhobene öffentliches Recht
+
+Entgelte Entgelte müssen nicht ausweichen
+– Benutzungsordnungen dem Äquivalenzprinzip – Differenzierte
+
+sind Allgemeine folgen, sie können also Verjährungsfristen
+Geschäftsbedingungen im Prinzip frei (Rückgabeanspruch
+(AGB) festgelegt werden verjährt gemäß §§ 195,
+
+– Ordentliche – Das Zivilrecht ist vielen 199 BGB nach drei
+Gerichtsbarkeit Bibliothekar:innen Jahren; für Ansprüche
+
+vertrauter, da sie es des Verleihers wegen
+aus dem Alltag Veränderung oder
+kennen. Daher weniger Verschlechterung der
+Fehlerquellen als bei verliehenen Sache gilt
+falsch abgefassten eine kurze
+Verwaltungsakten etc. Verjährungsfrist von 6
+
+Monaten gemäß § 606
+BGB)
+
+– Forderungen können
+nicht direkt vollstreckt
+werden
+
+2 Die Benutzungsordnung
+Die Benutzungsordnung steht neben der Bibliotheksordnung und sollte nicht mit ihr
+verwechselt werden. Letztere regelt die interne Verfassung der Bibliothek, ihre Aufga-
+ben und die Stellung im Verhältnis zum Unterhaltsträger. Die Benutzungsordnung da-
+gegen bestimmt das Rechtsverhältnis zwischen Bibliothek und ihren Nutzenden.
+
+Unabhängig davon, ob es sich bei der Benutzungsordnung tatsächlich um eine öf-
+fentlich-rechtliche Verordnung handelt oder um Allgemeine Geschäftsbedingungen,
+gilt die Ordnung nicht erst durch deren ausdrückliche Anerkennung bei der Anmel-
+dung, einer Buchausleihe oder der Beantragung eines Bibliotheksausweises. Bereits
+das Betreten der Räumlichkeiten der Bibliothek stellt eine Anerkennung dar, wenn
+die Benutzungsordnung wirksam erlassen wurde und die Nutzenden die Möglichkeit
+der Kenntnisnahme hatten.6 Wenn also zufällige Passanten die Bibliothek betreten,
+um sich vor einem Regenguss zu schützen, gilt für sie die Benutzungsordnung und
+sie müssen sich so verhalten, dass der Bibliotheksbetrieb nicht gestört wird. Die
+
+ Juraschko 2019: S. 30.
+
+
+
+816 Arne Upmeier
+
+Besuchenden müssen allerdings wenigstens einmal die naheliegende Möglichkeit ge-
+habt haben, die Benutzungsordnung zur Kenntnis zu nehmen. Dies kann insbeson-
+dere durch gut sichtbaren Aushang oder Auslegen an der Theke und Veröffentlichung
+auf der Homepage der Bibliothek geschehen. Bei vergleichbaren Situationen gelten
+die Regelungen des BGB im Falle von öffentlich-rechtlichen Ordnungen analog.7 Die
+Benutzungsordnung darf daher z. B. keine für die Nutzer:innen überraschenden Rege-
+lungen enthalten, sondern sollte verständlich formuliert, transparent und sachlich
+nachvollziehbar sein.8 Unklare Formulierungen gehen zu Lasten der Bibliothek.
+
+Die Bibliothek stellt ihre Medienbestände, ihre technische Infrastruktur und ihre
+Räumlichkeiten nach Maßgabe ihrer Benutzungsordnung zur Verfügung. Hier ist ge-
+regelt, wer die Bibliothek wie nutzen darf. In der Benutzungsordnung sollte mindes-
+tens geregelt sein:9
+– die Legitimation zum Erlass der Ordnung,
+– die Voraussetzungen zum Erwerb der Benutzungsberechtigung (Zulassung, Bi-
+
+bliotheksausweis etc.),
+– Bestimmungen über die der Nutzerin oder dem Nutzer gewährten Leistungen
+
+(Öffnungszeiten, Ausleihe, Fernleihe, Internetzugänge etc.),
+– Regelungen zum Verhalten in der Bibliothek,
+– Schadensersatzpflichten (eine verschuldensunabhängige Haftung des Entleihers
+
+für verlorene oder beschädigte Medien geht über das BGB hinaus und muss
+daher ausdrücklich geregelt werden!),
+
+– Hausrecht,
+– Datenschutz,
+– eine Berechtigung der Bibliotheksleitung, ausführende Bestimmungen zu erlassen.
+
+Gebühren oder Entgelte können ebenfalls in der Benutzungsordnung geregelt wer-
+den. Es ist empfehlenswert, die Gebühren immer separat zu regeln: Im Falle einer Ge-
+bührenanpassung ist es weniger aufwendig, eine reine Gebührenordnung zu ändern
+als die Benutzungsordnung.
+
+3 Zulassung Minderjähriger
+Kinder und Jugendliche sind insbesondere für Öffentliche Bibliotheken eine wichtige
+Zielgruppe. Da Kinder und Jugendliche erst mit dem 18. Geburtstag volljährig und
+
+ BeckOK VwVfG | VwVfG § 62 Rn. 1–38, vgl. Juraschko 2019: S. 30; vgl. v. Westphalen, Thüsing VertrR
+u. AGB-Klauselwerke Abonnementvertrag Rn. 5, 6, beck-online.
+ Vgl. Juraschko 2019: S. 30 f.
+ Vgl. Kirchner u. Wendt 1990 und Beger 2003a.
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 817
+
+damit voll geschäftsfähig werden, stellt sich die Frage, ob und wie sie zur Bibliotheks-
+benutzung zugelassen werden können.10
+
+Bis zum siebenten Lebensjahr sind Kinder generell nicht geschäftsfähig. Sie kön-
+nen nicht unmittelbar zur Benutzung zugelassen werden, weil sie die mit der Biblio-
+theksnutzung einhergehenden Verpflichtungen nicht wirksam übernehmen können
+(Pflicht zur fristgerechten Rückgabe und zu sorgsamem Umgang mit den entliehenen
+Medien etc.). Geschäftsunfähige können keine rechtsverbindlichen Erklärungen abge-
+ben.11 Manche Bibliotheken verlangen für Kinderkonten eine Bürgschaft der Eltern,
+um den Kindern eine Ausleihe „aus eigenem Recht“ zu ermöglichen. Eine Bürgschaft
+ist aber rechtlich nicht ausreichend, denn es wird damit nur für ein Rechtsgeschäft
+gebürgt, das rechtlich gar nicht zustande kommt, weil sich Kinder gar nicht verpflich-
+ten können. Im Zweifel bliebe die Bibliothek auf ihren Forderungen sitzen. Sinnvoller
+ist es, die Eltern direkt zuzulassen, die dann für ihr Kind entleihen und auch für die
+Verbindlichkeiten haften. Das kann auch so organisiert sein, dass Kinder trotzdem
+eine (vergünstigte) Leihkarte mit ihrem Namen darauf ausgehändigt bekommen –
+aber die Ausleihe auf diese Karte muss direkt auf die Eltern erfolgen.
+
+Schwieriger ist die Situation bei Jugendlichen, die älter als sieben Jahre, aber
+noch nicht volljährig sind. Ihre Willenserklärungen sind im Zweifel „schwebend un-
+wirksam“, soweit sie rechtlich nachteilhaft sind und bedürfen der Zustimmung oder
+Genehmigung der gesetzlichen Vertreter (§§ 106, 108 BGB). Jugendliche sollten also
+nur mit Zustimmung der Eltern zugelassen werden. Dabei ist darauf zu achten, dass
+das jeweilige Elternteil zugleich auch die Haftung für alle aus dem Nutzungsverhält-
+nis gegebenenfalls entstehenden Kosten übernimmt. Sonst kann es passieren, dass die
+Bibliothek zwar eine wirksame Forderung gegen Jugendliche hat, die – anders als
+ihre Eltern – aber im Zweifel über keine finanzielle Mittel verfügen, aus denen die
+Forderung beglichen werden könnte.12
+
+4 Gebühren und Entgelte
+Ein besonders konfliktträchtiger Teil des Benutzerverhältnisses sind die Gebühren
+und Entgelte, die im Rahmen der Bibliotheksbenutzung anfallen. Wenn das Benut-
+zungsverhältnis öffentlich-rechtlich ausgestaltet ist, sind alle anfallenden Gebühren
+Verwaltungsgebühren, die in einer Gebühren- oder Verwaltungskostenordnung
+genau geregelt werden müssen. Ist das Benutzungsverhältnis zivilrechtlich ausge-
+staltet, handelt es sich nicht um Verwaltungsgebühren, sondern um Entgelte aus
+Vertrag. Auch in diesem Fall müssen die Entgelte schon vorher genau festgelegt und
+
+ Juraschko 2019: S. 38.
+ Juraschko 2019: S. 38.
+ vgl. LG Bremen vom 24. 10.1996, Az. 2 A 133/95 und BVerwG vom 24.04.1998, Az. 3 B 23/98.
+
+
+
+818 Arne Upmeier
+
+den Bibliotheksnutzenden bekannt gemacht werden. Eine öffentlich einsehbare Ent-
+geltordnung ist hierbei die Regel. Wie bereits erwähnt, ist eine Entgeltregelung in
+der Benutzungsordnung möglich, die aufgrund der damit verbundenen fehlenden
+Flexibilität jedoch nicht ratsam ist.
+
+Die bei einer verspäteten Rückgabe fälligen Säumnisgebühren sind dagegen keine
+Entgelte im eigentlichen Sinn, sondern Vertragsstrafen. Wären sie Entgelte, wäre es den
+Nutzenden erlaubt, ein entliehenes Medium über die eigentliche Leihfrist hinaus zu
+behalten, solange dabei die Bereitschaft besteht, das vorgeschriebene Entgelt für die
+zusätzliche Leihfrist zu bezahlen. Tatsächlich sind Entleihende, die ein Medium
+nicht fristgerecht zurückgegeben haben, mit Ablauf der Leihfrist im Verzug (§ 286
+Abs. 2 Nr. 2 BGB). In der Entgeltordnung sind für diesen Fall bestimmte Vertragsstra-
+fen (= Mahngebühren) vorzusehen.
+
+Bei öffentlich-rechtlichen Verwaltungsgebühren ist zu beachten, dass diese Ge-
+bühren stets dem sogenannten „Äquivalenzprinzip“ entsprechen müssen, das für alle
+öffentlich-rechtlichen Abgaben gilt. Das Äquivalenzprinzip wird aus dem verfassungs-
+rechtlichen Übermaßverbot hergeleitet. Danach sind Gebühren in den Grenzen der
+Praktikabilität sowie unter Beachtung des Gleichbehandlungsgrundsatzes und des
+Grundsatzes der Verhältnismäßigkeit so zu bemessen, dass für die Inanspruchnahme
+öffentlicher Leistungen eine annähernd angemessene Gegenleistung erbracht wird.13
+Dabei geht es nicht unbedingt um eine strikte Äquivalenz zwischen der Leistung der
+Bibliothek und der erhobenen Gebühr (Kostendeckungsprinzip). Wenn mit der Ge-
+bühr eine legitime Verhaltenslenkung bezweckt wird, kann die Gebühr auch höher
+sein als die tatsächlich entstandenen Verwaltungskosten.14 In der Regel ist dies bei
+Mahngebühren der Fall. Mit den Gebühren darf allerdings keine Gewinnerzielungsab-
+sicht verbunden sein, denn sonst handelt es sich um versteckte Steuern.
+
+Unabhängig davon, ob es sich um Verwaltungsgebühren, Entgelte oder Vertrags-
+strafen handelt, gibt es zwei unterschiedliche Prinzipien der Erhebung bei verspäteter
+Rückgabe. Entweder werden Gebühren pro Mahnung oder aber im Sinne einer Säum-
+nisgebühr pro Zeitablauf ab Fristende, z. B. als bestimmter Betrag pro Tag oder
+Woche nach Fristende erhoben. Beide Systeme haben Vor- und Nachteile. Vorteil
+einer Berechnung pro Mahnung ist – insbesondere bei öffentlich-rechtlichen Gebüh-
+ren – dass die Gebühr eng mit der Verwaltungsleistung verknüpft ist. Die Gebühr bil-
+det den Verwaltungsaufwand der Mahnung ab. Bei einer Säumnisgebühr ist die
+Mahnung dagegen unerheblich. Die Gebühr entsteht automatisch mit Fristablauf. Im
+Streitfall muss die Bibliothek nicht nachweisen, ob tatsächlich eine Mahnung erstellt
+wurde. Auf den Zugang einer Mahnung bei den Nutzenden kommt es in beiden Fällen
+nicht an: Im ersten Fall entsteht die Gebühr durch die Erstellung der Mahnung in der
+
+ Entscheidungen des Bundesverfassungsgerichts Bd 50: 226 f.
+ Vgl. die Entscheidung des Bundesverfassungsgerichts NVwZ 2003, 715–720.Oberverwaltungsgericht
+NRW, 15 A 4408/18.
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 819
+
+Bibliothek (hierin liegt der Verwaltungsaufwand), im zweiten Fall durch bloßen Frist-
+ablauf. In der Praxis sollte beachtet werden, dass nicht jede Bibliothekssoftware jede
+Form abbilden kann.
+
+5 Internetrecht
+Unbeschadet der zahlreichen Vorteile und der neuen Möglichkeiten der Informations-
+versorgung bringt die Digitalisierung doch auch einige zusätzliche rechtliche Herausfor-
+derungen, denen sich Bibliotheken stellen müssen. Das Recht der digitalen Medien
+manifestiert sich beispielweise im Urheber-, Straf-, Datenschutz-,15 Jugendschutzrecht-
+oder dem Telemediengesetz (TMG), dem Telekommunikationsgesetz (TKG) sowie dem
+Telekommunikations-Telemedien-Datenschutz-Gesetz (TTDSG), den wichtigsten Geset-
+zen im Telekommunikationsrecht. Ebenso ist der „Staatsvertrag zur Modernisierung
+der Medienordnung in Deutschland“ (Medienstaatsvertrag, MSTV) für Bibliotheken
+relevant.16 Für das Urheberrecht kann dabei auf Urheberrecht für Bibliothekare17
+und Bibliothekserlaubnisse im Urheberrecht18 verwiesen werden. Es gibt jedoch einige
+Regelungen im Telekommunikationsbereich, die in Bibliotheken bekannt sein sollten.
+
+Das TKG soll im Kern den Wettbewerb im Telekommunikationssektor gewährleis-
+ten und betrifft nur indirekt Bibliotheken, weil diese nicht als marktwirtschaftliche
+Wettbewerber auftreten. Einige Bestimmungen im TKG sind im Rahmen des TTDSSG
+geregelt worden.
+
+Das Bundesverfassungsgericht hat in einer wegweisenden Entscheidung19 das
+Grundrecht auf informationelle Selbstbestimmung nach Art. 2 Abs. 1 i.V.m. Art 1 Abs. 1
+GG geprägt und den Datenschutz zum Grundrechtsschutz erklärt. Seit 2018 gilt die
+Datenschutzgrundverordnung (DSGVO) in allen EU Mitgliedstaaten unmittelbar. Durch
+eine Öffnungsklausel hat die DSGVO den Weg für zusätzliche bereichsspezifische Rege-
+lungen freigemacht.20 Mit dem TTDSG liegt eine solche bereichsspezifische Regelung
+vor. Nach technischer und wirtschaftlicher Zumutbarkeit haben Dienstanbietende nach
+
+ Vgl. Gollan 2022: 10.5, und Hoeren 2023.
+ Telemediengesetz vom 26. Februar 2007 (BGBl. I S. 179, 251; 2021 I S. 1380), das zuletzt durch Arti-
+kel 3 des Gesetzes vom 12. August 2021 (BGBl. I S. 3544) geändert worden ist (TMG)¸ Telekommunikati-
+onsgesetz vom 23. Juni 2021 (BGBl. I S. 1858), das zuletzt durch Artikel 5 des Gesetzes vom 14. März
+2023 (BGBl. 2023 I Nr. 71) geändert worden ist (TKG), Telekommunikation-Telemedien-Datenschutz-
+Gesetz vom 23. Juni 2021 (BGBl. I S. 1982; 2022 I S. 1045), das zuletzt durch Artikel 4 des Gesetzes vom
+12. August 2021 (BGBl. I S. 3544; 2022 I 1045) geändert worden ist (TTDSG) sowie der Medienstaatsver-
+trag vom 27.23.2021. https://www.die-medienanstalten.de/fileadmin/user_upload/Rechtsgrundlagen/Ge
+setze_Staatsvertraege/Medienstaatsvertrag_MStV.pdf (27.06.2023).
+ Beger 2019.
+ Talke 2021.
+ BVerfG, Urteil vom 15. Dezember 1983 – 1 BvR 209/83 –, BVerfGE 65, 1–71.
+ vgl. von Franckern-Welz u. Hartmann 2022.
+
+
+
+820 Arne Upmeier
+
+§ 19 Abs. 4 TTDSG technische und organisatorische Sicherungsmaßnahmen zu treffen.
+Für die Mitarbeitenden von Bibliotheken kann das Behörden-IT-Sicherheitstraining
+(BITS) empfehlenswert sein.21 Bei dem Einsatz von Cookies unterscheidet § 25 Abs. 2
+TTDSG, ob es sich um notwendige zwingende oder komfortable Unterstützung handelt.
+Im Falle der notwendigen und zwingenden Cookies soll keine Einwilligung der Nutzen-
+den notwendig sein.22
+
+Sehr wichtig für die Bibliotheken ist auch das TMG. Besonders relevant ist die
+Frage nach der Haftung für Rechtsverstöße von Online-Diensten. Hier müssen drei
+Stufen unterschieden werden, nämlich Content-Provider (§ 7 Abs. TMG), Access-
+Provider (§ 8,9 TMG) und Host-Provider (§ 10 Abs. 1 TMG).23
+
+5.1 Die Bibliothek als Content-Provider
+
+Content-Provider ist die Bibliothek, wenn sie eine eigene Homepage betreibt. Bei der
+Einrichtung einer Homepage sind einige rechtliche Vorgaben zu beachten, wie etwa
+die Impressumspflicht, Datenschutzerklärung und Disclaimer. Es gibt dafür eine
+Reihe guter Anleitungen im Internet,24 so dass an dieser Stelle nicht näher auf diese
+Fragen eingegangen werden muss. Selbst wenn diese wichtigen Formalien alle beach-
+tet wurden, haftet die Bibliothek trotzdem für eigene Inhalte auf ihrer Homepage,
+wenn darin gegen Rechtsnormen verstoßen wird.
+
+Problematisch ist dabei die Abgrenzung, was eigene Inhalte und damit eigene
+Verantwortlichkeiten sind. Viele Bibliotheken betreiben soziale Medien, auf denen
+sich Besucher:innen mit eigenen Inhalten äußern können, oder sie lassen sonstige
+fremde Informationen (Buchrezensionen etc.) als Teil des eigenen Internetauftritts zu.
+Hier haftet die Bibliothek im Zweifel auch für die Inhalte der Dritten, weil sie sich die
+Inhalte zu eigen macht, wenn sie den eigenen Internetauftritt hierfür zur Verfügung
+stellt. Nur wenn die Bibliothek sich „nicht pauschal, sondern konkret und ausdrück-
+lich“25 distanziert, entfällt die Haftung. Ein Pauschalausschluss der Haftung durch
+ABG scheidet daher aus.
+
+Aus den Umständen muss also klar erkennbar sein, was eigener Inhalt der Biblio-
+thek ist und was nicht. Dies wird besonders bei Digitalisierungsprojekten relevant.
+Wenn in großem Umfang Texte digitalisiert und im Rahmen des Internetauftritts einer
+Bibliothek zur Verfügung gestellt werden, hat die Bibliothek keine realistische Chance
+
+ https://bits-training.de/ (27.06.2023).
+ BGH, Urt. v. 26.11.2015 – I ZR 174/14 mit Anmerkung von Neidinger 2016.
+ vgl. Hoeren 2023: S. 463 f.
+ IHK Wiebaden: https://www.ihk.de/wiesbaden/recht/rechtsberatung/internetrecht-und-werbung/in
+ternetauftritt-rechtliche-anforderungen-und-pflichten-1255572 (27.06.2023).
+ Hoeren 2023.
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 821
+
+zur Inhaltskontrolle. Es ist also nicht ausgeschlossen, dass einige der digitalisierten
+Texte zum Beispiel gewaltverherrlichende Inhalte haben oder darin Patent- oder Per-
+sönlichkeitsrechte verletzt werden. Damit keine Haftung der Bibliothek für die Verbrei-
+tung solcher Inhalte entsteht, müssen zwei Kriterien erfüllt sein: Zum einen muss auf
+den ersten Blick erkennbar sein, dass die Bibliothek sich die Texte nicht inhaltlich zu
+eigen macht. Das wird sich in der Regel aus dem Zusammenhang der Homepage in Ver-
+bindung mit einem deutlichen Warnhinweis ergeben.26 Die Bibliothek tritt dann näm-
+lich wie ein Host-Provider auf, der fremde Informationen speichert. Zum anderen muss
+die Bibliothek anstößige Inhalte, von denen sie Kenntnis erlangt, unverzüglich entfernen,
+um nicht für eine wissentliche Verbreitung von rechtswidrigen Inhalten in Haftung ge-
+nommen zu werden (§ 10 TMG). Eine Überprüfung mit einer gängigen Suchmaschine
+sollte sicherstellen, dass durch eine Unterlassungserklärung betroffene Inhalte nicht
+mehr auf der eigenen Webseite auffindbar sind.
+
+In der Regel gibt es keine Haftung für Links auf Inhalte auf fremden Homepages.
+Erst wenn sich eine Bibliothek auch den rechtswidrigen Teil des fremden Inhaltes zu
+eigen macht (zum Beispiel indem wissentlich auf eine illegale Kopiersoftware verlinkt
+wird), könnte es theoretisch zu einer Haftung kommen. In der Praxis dürfte das aber
+eher abwegig sein.
+
+5.2 Die Bibliothek als Access-Provider
+
+Access-Provider ist nach §§ 8, 9 TMG die Bibliothek, wenn sie ihren Nutzer:innen draht-
+gebunden auf Computern der Bibliothek oder über drahtlose Netze (WLAN) Zugang zu
+fremden Inhalten gewährt. Abgesehen vom Jugendschutz trifft die Bibliothek hier in
+der Regel keine Haftung. Die Bibliothek leitet nur über die eigene technische Infrastruk-
+tur fremde Inhalte weiter. Sie kann entsprechend nur sehr begrenzt dafür verantwort-
+lich sein, was ihre Nutzer:innen sich im Internet ansehen und welcher Missbrauch
+dabei eventuell betrieben wird. Eine urheberrechtliche Störerhaftung kommt nach dem
+BGH nur dann in Betracht, wenn der verletzte Rechtsinhaber alle zumutbaren Anstren-
+gungen unternommen hat, gegen den Rechtsverletzer selbst vorzugehen.27 Das Haf-
+tungsprivileg endet jedoch, wenn die Bibliothek Kenntnis von konkreten Verstößen hat
+und – obwohl das technisch möglich wäre – diese nicht unterbindet. Bibliotheken soll-
+ten daher sicherheitshalber an den öffentlich zugänglichen Rechnern und im WLAN-
+Netz einige zumutbare Maßnahmen gegen Missbrauch treffen. Dies betrifft insbeson-
+dere die Sperrung des Anschlusses für bekannte Tauschbörsen, die Reduzierung des
+Downloadvolumens und die Einrichtung einer Firewall, die die Nutzung von Filesha-
+
+ Hoeren 2023.
+ Vgl. zum Access Provider: Hoeren 2023.
+
+
+
+822 Arne Upmeier
+
+ring-Angeboten unterbindet.28 Die Bibliothek kann das Risiko, für Missbrauch des Inter-
+netanschlusses in Haftung genommen zu werden, auch „outsourcen“, indem sie die In-
+ternetanschlüsse gar nicht selbst betreibt, sondern einen Dienstleister damit beauftragt,
+der dann auch das rechtliche Risiko trägt. Einer der Marktführer in diesem Bereich ist
+hotsplots.29
+
+5.3 Die Bibliothek als Host-Provider
+
+Host-Provider nach § 10 TGM ist eine Bibliothek, wenn sie Inhalte von Dritten, bei-
+spielsweise von gewerblichen Datenbankbetreibern, selbst anbietet. Sie stellt also die
+technische Infrastruktur bereit, über die die Inhalte angeboten werden. Besonders
+konfliktträchtig sind dabei öffentliche Foren, die die Bibliothek betreibt und auf
+denen sich Nutzer beispielweise volksverhetzend oder beleidigend äußern könnten.
+Auch hier muss die Bibliothek erst reagieren, wenn sie Kenntnis von einem Rechts-
+verstoß erhält, dann aber unverzüglich. Eine ständige Überwachung der fremden In-
+halte ist nicht erforderlich. Bei einem gut genutzten Internetforum sollte die Bibliothek
+die eingestellten Beiträge aber regelmäßig lesen, um gegebenenfalls einschreiten zu
+können.30
+
+6 Jugendschutz
+
+Kinder und Jugendliche sind insbesondere für Öffentliche Bibliotheken eine wichtige
+Zielgruppe. Auch in wissenschaftlichen Bibliotheken gibt es – unter anderem durch
+neue Angebote für Frühstudierende und das zwölfjährigen Abitur – immer mehr min-
+derjährige Nutzende. Die altersgemäße Bereitstellung der Medien ist eine Kernaufgabe
+der Bibliotheken. Dabei sollten die rechtlichen Vorgaben aus den Jugendschutzgesetzen
+nur den äußeren Rahmen bilden, der durch sinnvolle medienpädagogische Maßnah-
+men ergänzt wird.
+
+Eine wichtige Grundlage für den Kinder- und Jugendschutz ist das Jugendschutzge-
+setz (JuSchG).31 Zum ersten wird dort der Jugendschutz in der Öffentlichkeit geregelt.
+Die Funktion des Jugendschutzrechts besteht in der Bewahrung junger Menschen vor
+schädigenden Einflüssen. Zum Jugendschutzrecht gehören daher zum Beispiel auch die
+Gesetze, die den Verkauf von Alkohol oder Tabak an Kinder und Jugendliche reglemen-
+tieren oder die Teilnahme an Glücksspielen und Tanzveranstaltungen begrenzen. Diese
+
+ Vgl. zum Access Provider: Hoeren 2023.
+ https://hotsplots.com/ (27.06.2023).
+ Vgl. zum Host Provider: Hoeren 2023: S. 475 ff.
+ Jugendschutzgesetz vom 23. Juli 2002 (BGBl. I S. 2730), das zuletzt durch Artikel 1 des Gesetzes vom
+9. April 2021 (BGBl. I S. 742) geändert worden ist (JuSchG).
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 823
+
+Teile des Jugendschutzrechts sind in Bibliotheken selten relevant. Zum zweiten gibt es
+in nahezu jeder Bibliothek Medien, die Kinder oder Jugendliche in einem bestimmten
+Alter negativ beeinflussen und im Extremfall ihre gesunde Entwicklung beeinträchtigen
+können. Jede Bibliothek hat als Anbieterin solcher Medien dafür Sorge zu tragen, dass
+sie „üblicherweise“ von Kindern und Jugendlichen der betreffenden Altersstufe nicht
+wahrgenommen werden können (§ 5 Abs. 1 Jugendmedienschutz-Staatsvertrag –
+JMStV32). Medien im Sinne dieses Gesetzes sind Trägermedien und Telemedien (§ 1
+Abs. 1a JuSchG). Auf die konkrete Form der Medien kommt es bei diesem allgemei-
+nen Grundsatz zunächst nicht an. Es kann sich also um Bücher, (Computer-)Spiele,
+Comics, Filme oder auch Internetmedien handeln. In den Details gibt es aber eine
+Reihe von wesentlichen Unterschieden, die bei den unterschiedlichen Medienformen
+zu beachten sind. Aufgrund des föderalen Systems in Deutschland ist der Jugendmedi-
+enschutz in zwei sich ergänzenden Säulen geregelt. Das JuSchG als Bundesgesetz regelt
+die „Trägermedien“, der JMStV die „Telemedien“. Dabei sind Trägermedien „Medien
+mit Texten, Bildern oder Tönen auf gegenständlichen Trägern“ (§ 1 Abs. 2 JuSchG), also
+Bücher, Zeitschriften, CDs, DVDs etc. Im Unterschied dazu sind Telemedien alle reinen
+Online-Medien, also insbesondere alle Angebote aus dem Internet.
+
+Durch die umfassende Novellierung wurde mit Wirkung zum 1. Mai 2021 eine Er-
+weiterung der Jugendschutzbestimmungen auf den Online-Bereich vorgenommen.33
+Hier sind insbesondere die Alterskennzeichnungspflicht für Film und Spielplattfor-
+men im Internet (§ 14a JuSchG) und die Sorgepflichtmaßnahmen durch Host-Provider
+zu nennen.
+
+Seit dem 1. Mai 2021 wird die Liste jugendgefährdender Medien grundsätzlich öffentlich geführt.
+Würde die Bekanntmachung eines Mediums in der öffentlichen Liste jedoch der Wahrung des
+Kinder- und Jugendschutzes schaden, so ist dieses Medium in einem nichtöffentlichen Teil der
+Liste zu führen.34
+
+Die Indexierung von Medien wird im Bundesanzeiger und in der Fachzeitschrift
+BzKJAktuell bekanntgemacht und veröffentlicht.
+
+Die jugendschutzrechtlichen Vorgaben werden in absolute oder relative Verbote
+sowie Verbreitungsbeschränkungen (Altersfreigabebeschränkungen) unterteilt.35 Unter
+die absoluten Verbote fallen unter anderem die Straftatbestände §§ 86, 86a, 130, 130a,
+131, 184a-c im StGB und § 4 Abs. 1 S. Nrn. 7–9 JMStV. Eine Strafbarkeit liegt nicht vor,
+wenn der staatsbürgerlichen Aufklärung, der Abwehr verfassungswidriger Bestrebun-
+gen, der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstat-
+
+ Jugendschutzgesetz vom 23. Juli 2002 (BGBl. I S. 2730), das zuletzt durch Artikel 1 des Gesetzes vom
+9. April 2021 (BGBl. I S. 742) geändert worden ist (JuSchG).
+ Liesching 2022: 10/6.2.
+ Jugendschutzgesetz vom 23. Juli 2002 (BGBl. I S. 2730), das zuletzt durch Artikel 1 des Gesetzes vom
+9. April 2021 (BGBl. I S. 742) geändert worden ist (JuSchG).
+ Liesching 2022: 10/6.3.
+
+
+
+824 Arne Upmeier
+
+tung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken
+gedient werden soll.
+
+Medien, die schwer jugendgefährdend sind, dürfen ebenfalls nicht zugänglich ge-
+macht werden, selbst wenn sie nicht auf der Liste stehen (§ 15 Abs. 2 JuSchG). Oft er-
+füllen solche Medien Straftatbestände und schon der Besitz kann strafbar sein. Hier
+gibt es keine klare Abgrenzung und jede Bibliothek muss im Zweifel selbst entschei-
+den, ob es sich um einen solchen Fall handelt. Schwer jugendgefährdend sind Medien,
+wenn sie36
+– Propagandamittel im Sinne des § 86 des Strafgesetzbuches darstellen, deren In-
+
+halt gegen die freiheitliche demokratische Grundordnung oder den Gedanken der
+Völkerverständigung gerichtet ist,
+
+– Kennzeichen verfassungswidriger Organisationen im Sinne des § 86a des Strafge-
+setzbuches verwenden,
+
+– zum Hass gegen Teile der Bevölkerung oder gegen eine nationale, rassische, reli-
+giöse oder durch ihr Volkstum bestimmte Gruppe aufstacheln, zu Gewalt- oder
+Willkürmaßnahmen gegen sie auffordern oder die Menschenwürde anderer da-
+durch angreifen, dass Teile der Bevölkerung oder eine vorbezeichnete Gruppe be-
+schimpft, böswillig verächtlich gemacht oder verleumdet werden,
+
+– eine unter der Herrschaft des Nationalsozialismus begangene Handlung der in
+§ 6 Abs. 1 des Völkerstrafgesetzbuches bezeichneten Art in einer Weise, die geeig-
+net ist, den öffentlichen Frieden zu stören, leugnen oder verharmlosen, oder den
+öffentlichen Frieden in einer die Würde der Opfer verletzenden Weise dadurch
+stören, dass die nationalsozialistische Gewalt- und Willkürherrschaft gebilligt,
+verherrlicht oder gerechtfertigt wird,
+
+– grausame oder sonst unmenschliche Gewalttätigkeiten gegen Menschen in einer
+Art schildern, die eine Verherrlichung oder Verharmlosung solcher Gewalttätig-
+keiten ausdrückt oder die das Grausame oder Unmenschliche des Vorgangs in
+einer die Menschenwürde verletzenden Weise darstellt; dies gilt auch bei virtuel-
+len Darstellungen,
+
+– als Anleitung zu einer in § 126 Abs. 1 des Strafgesetzbuches genannten rechtswid-
+rigen Tat dienen,
+
+– den Krieg verherrlichen,
+– gegen die Menschenwürde verstoßen, insbesondere durch die Darstellung von
+
+Menschen, die sterben oder schweren körperlichen oder seelischen Leiden ausge-
+setzt sind oder waren, wobei ein tatsächliches Geschehen wiedergegeben wird,
+ohne dass ein berechtigtes Interesse gerade für diese Form der Darstellung oder
+Berichterstattung vorliegt; eine Einwilligung ist unbeachtlich,
+
+ § 4 Staatsvertrag über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und
+Telemedien (Jugendmedienschutz-Staatsvertrag – JMStV) in der Fassung des Neunzehnten Staatsver-
+trages zur Änderung rundfunkrechtlicher Staatsverträge (Neunzehnter Rundfunkänderungsstaatsver-
+trag). Vgl. Definitionen bei BeckOK JMStV/Liesching JMStV § 4 Rn. 1–16.
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 825
+
+– Kinder oder Jugendliche in unnatürlich geschlechtsbetonter Körperhaltung dar-
+stellen; dies gilt auch bei virtuellen Darstellungen,
+
+– kinderpornografisch im Sinne des § 184b Abs. 1 des Strafgesetzbuches oder ju-
+gendpornografisch im Sinne des § 184c Abs. 1 des Strafgesetzbuches sind oder
+pornografisch sind und Gewalttätigkeiten oder sexuelle Handlungen von Men-
+schen mit Tieren zum Gegenstand haben; dies gilt auch bei virtuellen Darstellun-
+gen, oder
+
+– in die Liste jugendgefährdender Medien nach § 18 Abs. 1 des Jugendschutzgesetzes
+aufgenommen sind und eine Feststellung nach § 18 Abs. 5 des Jugendschutzgesetzes
+oder eine bejahende Einschätzung nach § 18 Abs. 6 des Jugendschutzgesetzes er-
+folgt ist oder sie mit einem in diese Liste aufgenommenen Werk, für das eine
+Feststellung nach § 18 Abs. 5 des Jugendschutzgesetzes oder eine bejahende Ein-
+schätzung nach § 18 Abs. 6 des Jugendschutzgesetzes erfolgt ist, ganz oder im
+Wesentlichen inhaltsgleich sind. Zu den relativ verbotenen Angeboten gehören
+vor allem einfache „pornografische“ Medien (§ 184 StGB), Träger- und Teleme-
+dien, die von der Bundesprüfstelle wegen Jugendgefährdung indiziert worden
+sind (§ 15 Abs. 1 JuSchG) und offensichtlich schwer jugendgefährdende Träger-
+medien sowie entsprechende Internetangebote (§ 15 Abs. 2 JuSchG).
+
+6.1 Trägermedien, Filme und Spiele
+
+Bei den Trägermedien nehmen Computerspiele37 und Filme eine Sonderstellung ein,
+weil die Unterhaltungssoftware Selbstkontrolle (USK) und die Freiwillige Selbstkontrolle
+der Filmwirtschaft (FSK) auch für Bibliotheken verbindliche Alterseinstufungen gibt. In
+der Regel sind diese Einstufungen gut sichtbar auf den Verpackungen angebracht. Es
+gibt eine einheitliche Farbstruktur der Kennzeichnungen (weiß: keine Altersbeschrän-
+kung, gelb: ab sechs Jahre, grün: ab 12 Jahre, blau: ab 16 Jahre, rot: ab 18 Jahre).38
+
+Nicht gekennzeichnete Trägermedien dürfen, ebenso wie mit „Keine Jugendfrei-
+gabe“ gekennzeichnete Filme, ausschließlich Erwachsenen zugänglich gemacht bzw.
+
+ Download-Computerspiele und Download-Filme sind streng genommen Telemedien und unterfal-
+len nicht direkt dem JuSchG, sondern dem JMStV. Sie spielen jedoch in Bibliotheken bisher keine
+große Rolle. Zudem ist die getrennte juristische Einstufung als Telemedien eher ein akademisches
+Problem: Die USK- und FSK-Einstufungen der gleichen Spiele oder Filme auf Trägermedien werden
+auf die Download-Versionen übertragen (usk.online und fsk.online). Medien, die auf einem Trägerme-
+dium nicht für eine bestimmte Altersgruppe zugelassen sind, dürfen entsprechend auch online nicht
+zugänglich gemacht werden. Das oben zu Computerspielen auf Trägern Gesagte gilt für Download-
+Spiele und Filme entsprechend.
+ Beachte: Ende 2008 wurden die Kennzeichen optisch umgestellt. Seit 2010 dürfen keine Medien
+mehr mit den alten Kennzeichen neu in Umlauf gebracht werden. Das hat zur Frage geführt, ob Biblio-
+theken ältere Bestände umetikettieren müssen. Dem ist nicht so. Die obersten Landesjugendbehörden
+
+
+
+826 Arne Upmeier
+
+ihnen vorgeführt werden. Der Verstoß dagegen stellt eine Ordnungswidrigkeit dar.
+Bitte beachten: Selbst bei fahrlässiger Unkenntnis ist das der Fall.39
+
+Selbst wenn eine weitergehende Einwilligung der Erziehungsberechtigten vorlie-
+gen sollte, muss sich jede Bibliothek an die Kennzeichen halten und darf nicht an min-
+derjährige Nutzer:innen ausleihen, die die Altersbeschränkung unterschreiten. Es ist
+allerdings erlaubt, an die Eltern direkt auszuleihen, die die Medien dann im Rahmen
+ihres elterlichen Erziehungsrechts auch jüngeren Kindern zugänglich machen dürfen.
+
+Nicht etikettierte Filme und Spiele auf Bildträgern dürfen nach dem Gesetzes-
+wortlaut nur dann ausgeliehen werden, wenn sie entweder vom Anbieter als „Info-
+programm“ oder „Lehrprogramm“ gekennzeichnet worden sind (§ 14 Abs. 7 JuSchG)
+oder es sich um reine Beiwerke zu Büchern handelt (beispielsweise eine CD-ROM mit
+Rechenspielen, die zu einem Mathematikbuch für Grundschüler gehört). Im Zweifel
+sollte beim Anbieter nachgefragt werden. Es gibt jedoch Restfälle, bei denen tatsäch-
+lich keine Einstufung vom Anbieter zu bekommen ist (ausländische DVDs etc.). Dem
+Grunde nach sind „nicht gekennzeichnete Filme“ erst „ab 18“40 zugelassen. Wenn al-
+lerdings eindeutig feststeht, dass definitiv keine Jugendgefährdung besteht, gibt es
+gute Gründe, von den strengeren Vorgaben des Gesetzes abzuweichen und pragmati-
+sche Lösungen zu finden, die trotzdem dem Gedanken des Jugendschutzes Genüge
+tun.41 In solchen eindeutigen Fällen, bei denen es nach objektiver Betrachtung keine
+Gefährdung von Kindern gibt („Angel- und Voltigier-DVDs“42) muss das Grundrecht
+nach Art. 5 Abs. 1 Satz 1 GG (Informationsfreiheit) dem Wortlaut des JuSchG vorgehen.
+Die Bibliothek sollte solche Medien dann selbstständig als „Infoprogramm gemäß Pa-
+ragraf 14 JuSchG“ kennzeichnen, bevor sie an Kinder und Jugendliche ausgeliehen
+werden. Sobald an der Unbedenklichkeit aber auch nur ein geringer Zweifel besteht
+und keine Kennzeichnung des Anbieters oder von USK oder FSK vorliegt, darf ein
+Medium Minderjährigen nicht zugänglich gemacht werden. Bei der öffentlichen Wie-
+dergabe von Filmen in Bibliotheken gelten unbeschadet der Voraussetzungen des
+§ 11 Abs. 1 und 2 JuSchG die Begleitungsanforderung des § 15 Abs. 3 JuSchG.
+
+unter Federführung des rheinland-pfälzischen Kultusministeriums haben dem Deutschen Bibliotheks-
+verband mit Schreiben vom 2. Oktober 2009 mitgeteilt, dass die alten Etiketten ihre Gültigkeit behalten.
+Bibliotheken müssen also nicht umetikettieren.
+ Liesching 2022: 10/6.4.1.
+ Liesching 2022: 10/6.4.1.
+ Vorbildlich ist hier das pragmatische Verfahren der Bücherhallen Hamburg: Untiedt 2010: S. 426.
+ Untiedt 2010: S. 424–426
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 827
+
+6.2 Printmedien wie Bücher, Zeitschriften etc. sowie Musik-
+und Tonaufnahmen auf Trägermaterialien
+
+Bei Büchern, Zeitschriften oder Musik- und Tonaufnahmen etc. gibt es keine deutliche
+Alterskennzeichnung wie bei Filmen oder Computerspielen. Trotzdem dürfen auch solche
+Materialien nicht in jedem Fall frei herausgegeben werden. Die Bundesprüfstelle für ju-
+gendgefährdende Medien (BPjM)43 führt eine amtliche Liste von Medien, die als jugendge-
+fährdend eingestuft sind. Eingetragene Medien dürfen Minderjährigen nicht zugänglich
+gemacht werden. Besonders problematisch ist der Umgang mit Schriften aus dem „Drit-
+ten Reich“ und teilweise auch aus der DDR, die nach freiheitlich-demokratischen Grund-
+sätzen als jugendgefährdend einzustufen sind. Gerade bei solchen Schriften besteht oft
+ein berechtigtes Forschungsinteresse und die kritische Auseinandersetzung muss möglich
+sein. Daher muss in der Praxis jeweils abgewogen werden, ob nach den konkreten Ums-
+tänden gewährleistet ist, dass ein legitimer Zweck (Wissenschaft) schwerer wiegt. Das
+grundsätzliche Ziel von Bibliotheken, die Informationsfreiheit zu gewährleisten, hat auch
+Grenzen.44 Wenn beispielsweise eine sechzehnjährige Schülerin im Rahmen einer Schul-
+arbeit das Buch Mein Kampf einsehen möchte, kann die Bibliothek dies unter Auflagen
+erlauben (naheliegende Auflagen wären: schriftliche Bestätigung der Lehrkraft, schriftli-
+che Einwilligung der Eltern, nur Präsenznutzung in den Räumen der Bibliothek). 70 Jahre
+nach dem Tode Adolf Hitlers hat das Institut für Zeitgeschichte eine Gesamtausgabe vor-
+gelegt, die von einem Historikerteam wissenschaftlich kommentiert wurde. So wurde
+eine kritische Kommentierung geschaffen, die eine praktikable Alternative für den Be-
+reich Schule und Lehre darstellt.45 Hier könnte zur Auflage gemacht werden, dass nur
+diese kritisch kommentierte Ausgabe genutzt wird.
+
+Im Einzelfall sind die konkrete Gefährdung, die Nutzungssituation und der jewei-
+lige Nutzungszweck gegeneinander abzuwägen Um die Gefährdung anderen Rechtsgü-
+ter so gering wie möglich zu halten, kann die Bibliothek von Steuerungsmöglichkeiten
+Gebrauch machen und so eine vollständige Literaturversorgung auch bei Problemfällen
+ermöglichen. Ein paar praktische Hinweise, die sehr hilfreich sein können:
+– Keine Ausleihe außer Haus
+– Nutzung nur unter Aufsicht, etwa in einem Sonderlesesaal
+– Unterschriebene Erklärung zur Nutzung ausschließlich zu den in § 86 Abs. 3 StGB
+
+genannten Zwecken
+– Bei Studierenden: Bestätigung des Forschungsprojekts durch eine:n Professor:in
+
+der Einrichtung
+
+ https://www.bzkj.de/bzkj/indizierung/wie-laeuft-ein-indizierungsverfahren-ab/listenfuehrung
+(27.06.2023).
+ Rösch u. Sühl-Strohmenger 2015.
+ https://www.ifz-muenchen.de/mein-kampf (27.06.2023).
+
+
+
+828 Arne Upmeier
+
+– Keine Bewerbung
+– Alterskontrolle
+
+Bei Kindern und Jugendlichen zusätzlich:
+– Einwilligung der Erziehungsberechtigten, Bestätigung des Lehrers oder der
+
+Lehrerin46
+
+6.3 Internet
+
+Bibliotheken sind einer der größten Anbieter von freien Internetzugängen in Deutsch-
+land. Die meisten Bibliotheken ab einer gewissen Größe bieten ihren Nutzenden In-
+ternetzugänge in den Räumen der Bibliothek. Diese großzügigen Zugänge stellen eine
+Herausforderung für den Jugendschutz dar, denn bekanntlich sind nicht alle Seiten
+im Internet für Kinder und Jugendliche geeignet. Auch eine Einwilligung der Eltern in
+die Internetnutzung hilft nur bedingt weiter, denn die Verpflichtung des Jugendschut-
+zes gilt unabhängig vom elterlichen Erziehungsrecht: Kinder und Jugendliche dürfen
+keinen Zugang zu Medien bekommen, die sie in ihrer Entwicklung beeinträchtigen
+könnten. Das gilt selbst dann, wenn eine Einwilligung der Eltern vorliegen sollte.
+Trotz dieses starken Grundsatzes im Jugendschutz ist aber klar, dass ein völliges Aus-
+schalten aller Risiken nicht möglich ist. Jede Filtersoftware kann entweder umgangen
+werden oder sie ist so streng („whitelist“), dass viele wichtige Seiten zu Unrecht ge-
+blockt werden. Insofern ist von der Bibliothek nur zu verlangen, in sinnvollem Maße
+Vorkehrungen zu treffen, dass ihre minderjährigen Nutzenden vor schädlichen Inter-
+netseiten geschützt werden.
+
+Gelegentlich taucht die Frage auf, ob Bibliotheken einen Jugendschutzbeauftragten
+brauchen, weil sie Telemedien anbieten. Dem ist nicht so. § 7 JMStV sieht die Einsetzung
+von Jugendschutzbeauftragten nur bei gewerblichen Anbietern vor. Mit „Anbietern“
+sind in diesem Fall ausschließlich die Content-Provider gemeint. Content-Provider ist
+eine Bibliothek aber nur für ihre eigene Homepage und die wird in aller Regel nicht
+jugendgefährdend sein. Zudem sind Bibliotheken bis auf ganz wenige Ausnahmen
+(Werksbibliotheken) nicht gewerblich tätig.
+
+Nach § 11 JMStV können Anbieter von Telemedien (also hier die Bibliothek) den
+Anforderungen an den Jugendschutz dadurch genügen, dass eine von der Kommission
+für Jugendmedienschutz der Landesmedienanstalten (KJM) anerkannte Filtersoftware
+eingesetzt wird.47 Einen Überblick über anerkannte Jugendschutzprogramme steht bei
+FSM, einem gemeinnützigen Verein für die freiwillige Selbstkontrolle Multimedia-
+
+ Upmeier 2015.
+ Vgl. https://www.jugendschutzprogramm.de/ (27.06.2023).
+
+
+
+10.4 Rechtliche Rahmenbedingungen der Bibliotheksbenutzung 829
+
+Diensteanbieter zur Verfügung.48 Dort sind die anerkannten Jugendschutzprogramme
+aufgeführt und differenziert dargestellt.
+
+Zusätzlich zu dem Einsatz einer Filtersoftware sollte durch gelegentliche Kontrollen
+vor Ort Missbrauch vorgebeugt werden. Das kann zum Beispiel dadurch geschehen,
+dass die Bildschirme von der Auskunftstheke der Bibliothek einsehbar sind, oder auch
+durch einen gelegentlichen Blick beim Rundgang durch die Bibliothek. Eine ständige
+Überwachung ist weder nötig noch aus persönlichkeitsrechtlichen Gründen erlaubt.
+Sollte der Verdacht bestehen, dass jugendgefährdende Seiten angesehen werden, muss
+die Bibliothek – ungeachtet eventuell eingesetzter Filtersoftware – einschreiten.
+
+Literatur
+Beger, Gabriele: Rechts- und Betriebsformen für öffentliche Bibliotheken. Berlin: Deutsches
+
+Bibliotheksinstitut 1995 (Handreichungen).
+Beger, Gabriele (2003a) Rechtsfragen der Bibliotheksbenutzung. Ein Überblick. In: Erfolgreiches
+
+Management von Bibliotheken und Informationseinrichtungen. Hrsg. von Hans-Christoph Hobohm
+u. Konrad Umlauf. Hamburg: Dashöfer 2002 ff. Abschnitt 10.7 (Stand 12/2003).
+
+Beger, Gabriele (2003b): Bibliotheksbenutzung. Gebühren und Entgelte. In: Erfolgreiches Management
+von Bibliotheken und Informationseinrichtungen. Hrsg. von Hans-Christoph Hobohm und Konrad
+Umlauf. Hamburg: Dashöfer 2002 ff. Abschnitt 10.7.8 (Stand: 12/2003).
+
+Beger, Gabriele: Urheberrecht für Bibliothekare: eine Handreichung von A bis Z. Mit einer Einführung in
+das Urheberrechts-Wissenschafts-Gesetz. 3. Aufl. 2019.
+
+Gollan, Lutz: Online-Recht. In: Erfolgreiches Management von Bibliotheken und
+Informationseinrichtungen. Hrsg. von Hans-Christoph Hobohm u. Konrad Umlauf. Hamburg:
+Dashöfer 2002 ff. Abschnitt 10.5 (Stand 03/22).
+
+Hoeren, Thomas: Urheberrecht und Internetrecht. In: Grundlagen der praktischen Information und
+Dokumentation. Hrsg. von Rainer Kuhlen, Wolfgang Semar u, Dietmar Strauch. 6. Aufl. Berlin: De
+Gruyter Saur 2013. S. 39–55.
+
+Hoeren, Thomas: Internetrecht. 2023. https://www.itm.nrw/wp-content/uploads/Internetrecht_30.03.
+2023.pdf (04.03.2024).
+
+Kirchner, Hildebrandt u. Rosa Maria Wendt: Bibliotheksbenutzungsordnungen. Regelungsgegenstände,
+Formulierungshilfen, Rechtsgutachten. Berlin: Deutsches Bibliotheksinstitut 1990 (dbi-materialien 93).
+
+IHK Wiesbaden: Internetauftritt. Rechtliche Anforderungen und Pflichten www.ihk-wiesbaden.de/p/recht/
+rechtsberatung/Werbung/2118462/Internetauftritt_Rechtliche_Anforderungen_und_Pflichten.html
+(30.06.2023).
+
+Juraschko, Bernd: Praxishandbuch Recht für Bibliotheken und Informationseinrichtungen, 2nd. Ed. Berlin:
+De Gruyter Saur 2019.
+
+Lieberknecht, Sabine: Die neuen Regelungen zum Jugendschutz in den Medien. In: Bibliotheksdienst
+(2003), H. 10, S. 1311–1314.
+
+Liesching, Marc: Jugendschutz. In: Erfolgreiches Management von Bibliotheken und
+Informationseinrichtungen. Hrsg. von Hans-Christoph Hobohm u. Konrad Umlauf. Hamburg:
+Dashöfer 2002 ff. Abschnitt 10.5 (Stand 06/22).
+
+Liesching, Marc: BeckOK JMStV/Liesching JMStV § 4 Rn. 1–33.
+
+ https://www.fsm.de/online-jugendschutz/jugendmedienschutz-in-der-praxis/ (27.06.2023).
+
+
+
+830 Arne Upmeier
+
+Michalke, Karin: Soll die Erhebung von Säumnisgebühren in die Verantwortung von Bibliotheken
+übergehen? In: Bibliotheksdienst (2004), H. 12, S. 1627–1636.
+
+Rösch, Hermann u. Wilfried Sühl-Strohmenger: „Giftschränke“ und Benutzungseinschränkungen aus
+berufsethischer Sicht. Eine Betrachtung aus Anlass der urheberrechtlichen Freigabe von „Mein
+Kampf“. In: BuB (2015), S. 755–759.
+
+Talke, Armin: Abschaffung der „Störerhaftung“ für Betreiber von freiem WLAN (Stand 12.07.2017). www.
+bibliotheksverband.de/fachgruppen/kommissionen/recht/rechtsinformationen.html (30.12.2013).
+
+Talke, Armin: Bibliothekserlaubnisse im Urheberrecht. Berlin: Universitätsverlag der TU Berlin 2021.
+Untiedt, Frauke: Angel- und Voltigier-DVDs erst ab 18? In: BuB Forum Bibliothek und Information (2010),
+
+H. 6, S. 424–426.
+Upmeier, Arne: „Spiel nicht mit den Schmuddelkindern, sing nicht ihre Lieder.“ Der rechtskonforme
+
+Umgang mit Problemtexten in Bibliotheken. In: BuB (2015), S. 760–763. https://publikationen.biblio
+thek.kit.edu/1000119740 (04.03.2024):
+
+von Francken-Welz, Marion u. Thomas Hartmann: Datenschutzrechtliche Grundlagen für Bibliotheken. In:
+BuB (2022), S. 478–481.
+
+Liesching, Marc: Jugendschutz. In: Erfolgreiches Management von Bibliotheken und
+Informationseinrichtungen. Hrsg. von Hans-Christoph Hobohm u. Konrad Umlauf. Hamburg:
+Dashöfer 2002 ff. Abschnitt 10.6.2 (Stand 06/2022).

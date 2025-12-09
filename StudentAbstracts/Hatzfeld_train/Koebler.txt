@@ -1,0 +1,649 @@
+﻿Judith Köbler
+7.5 Rechtliche Rahmenbedingungen
+
+1 Einleitung
+Die Kenntnis der rechtlichen Rahmenbedingungen zur Digitalisierung von Kulturgut
+sowie zur Verwertung und Nutzung stellt neben den technischen, personellen und sons-
+tigen Voraussetzungen ein wesentliches Element dar, um Digitalisierungsprojekte erfolg-
+reich durchführen und die Ergebnisse online präsentieren zu können. Im Folgenden
+werden daher einige zentrale rechtliche Aspekte thematisiert.1 Dabei spielt es zunächst
+eine wichtige Rolle, unter welchen Umständen das zu digitalisierende Werk in die jewei-
+lige Kulturerbe-Einrichtung bzw. Bibliothek gelangt ist. Die Provenienz und damit den
+rechtmäßigen Besitz nachweisen zu können, sollte nicht nur in kritischen Fällen wie ver-
+mutetem NS-Raubgut, sondern auch und gerade in Bezug auf bestehende vertragliche
+Vereinbarungen mit Herausgebern, Verlagen oder Aggregatoren vorab geprüft werden.
+Bei älteren Werken oder bestimmten Werkarten ist möglicherweise kein urheberrechtli-
+cher Schutz (mehr) gegeben (siehe Abschnitt 2.1 „Geschützte Werke“ und 2.2 „Schutzfrist“
+in diesem Kapitel) und eine Digitalisierung daher leichter möglich. Für ein erfolgreiches
+Digitalisierungsprojekt ist es ebenfalls entscheidend zu bestimmen, zu welchem Ziel die
+Digitalisierung durchgeführt werden soll, d. h. welche Nutzungen damit verbunden sein
+sollen und auf welche rechtlichen Grundlagen man sich dabei stützen kann (siehe Ab-
+schnitt 2.3 „Verwertung und Nutzung“ in diesem Kapitel). Bei der technischen Durchfüh-
+rung sind auch Persönlichkeitsrechte der Urheberinnen und Urheber zu bedenken
+(siehe Abschnitt 3 „Persönlichkeitsrechte“ in diesem Kapitel). Verwaiste und vergriffene
+Werke unterfallen eigenen rechtlichen Regelungen (siehe Abschnitt 4 „Verwaiste
+Werke“ und 5 „Nicht verfügbare Werke“). Nicht zuletzt sind auch strafrechtliche Rege-
+lungen zu beachten. Über rechtliche Ge- und Verbotsnormen hinaus sind schließlich
+auch ethische Überlegungen in der Darstellung der Digitalisierung anzustellen.
+
+2 Urheberrechtliche Grundlagen
+Allgemein gesprochen schützt das Urheberrecht die Rechte der Verfasser und Verfas-
+serinnen geistiger Schöpfungen sowie die wirtschaftliche Ausbeutung dieser geistigen
+Schöpfungen. Betrachtet man dies nun genauer, so soll einerseits die schöpferische
+Leistung der Urheberinnen und Urheber durch Rechte geschützt werden, andererseits
+
+ Stand des Beitrags: 26. August 2023. Der Beitrag spiegelt die persönliche Ansicht der Autorin wider.
+Eine Haftung für die Richtigkeit und Vollständigkeit der Darstellung wird nicht übernommen.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-038
+
+
+
+654 Judith Köbler
+
+aber auch die Leistung der Erzeugung gewisser sich nicht durch Kreativität auszeich-
+nender Werke (z. B. eines einfachen Lichtbilds) und schließlich auch bloße unterneh-
+merische Leistungen (z. B. Herstellung von Produkten, die Werke enthalten wie
+Tonträger, Funksendungen oder Bildträger).2 Hierfür bestehen verschiedene Grundla-
+gen auf Ebene des internationalen, des europäischen und des nationalen Rechts.
+
+2.1 Geschützte Werke
+
+Das Urheberrecht sowie der Leistungsschutz werden in Deutschland im Gesetz über
+Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz, UrhG) vom 9. Sep-
+tember 1965 geregelt. Das Urheberrechtsgesetz schützt nach § 2 (1) bestimmte Werke
+wie literarische, künstlerische oder wissenschaftliche Geistesschöpfungen, aber auch
+Computerprogramme und Datenbankwerke. Der dem Urheberrecht verwandte und
+auch im Urheberrechtsgesetz geregelte Leistungsschutz umfasst dagegen beispiels-
+weise wissenschaftliche Ausgaben, einfache Fotografie-Erzeugnisse oder Leistungen
+der Filmproduzenten und Sendeunternehmen. Es muss sich nach § 2 (2) UrhG jeweils
+um persönliche geistige Schöpfungen handeln. Das bedeutet, dass ein Mensch eine in-
+dividuelle geistige Leistung erbracht haben muss, die eine gewisse Gestaltungshöhe
+erreicht. In der aktuellen Diskussion um Künstliche Intelligenzen – vereinfacht ausge-
+drückt Computer-Algorithmen, die menschliches Verhalten nachahmen – geht die
+herrschende Meinung (noch) davon aus, dass deren Werke nach dem derzeitigen Ge-
+setzesstand keinen urheberrechtlichen Schutz genießen und dieser Schutz ihnen auch
+künftig nicht zugebilligt werden sollte.3 Inwiefern diese Einschätzung auch in den
+nächsten Jahrzehnten noch Bestand haben wird, bleibt abzuwarten. Verordnungen,
+Gesetze, Entscheidungen und Leitsätze hierzu sowie amtliche Erlasse und Bekanntma-
+chungen besitzen diesen Schutz gemäß § 5 (1) UrhG nicht.
+
+2.2 Schutzfrist
+
+Liegt ein geschütztes Werk vor, so ist im nächsten Schritt zu prüfen, ob die zeitliche
+Dauer des Schutzes abgelaufen ist. Grundsätzlich erlischt das Urheberrecht gemäß
+§ 64 UrhG 70 Jahre nach dem Tod des Urhebers oder der Urheberin. Nach Ablauf der
+gesetzlichen Schutzfrist tritt die Gemeinfreiheit des Werks ein, sodass die Rechte
+daran erlöschen und das Werk von jedem verwertet werden kann; zudem erlischt
+auch der Schutz der Urheberpersönlichkeitsrechte.4 Bei der Berechnung der Frist
+
+ Rehbinder u. Peukert 2022: Rn. 2–4.
+ Thum: § 7 UrhG Urheber. In: Wandtke u. Bullinger 2022: Rn. 1–47 (16, 17) m.w.N.; Wirth: § 69a UrhG.
+In: Eichelberger, Wirth u. Seifert 2022: Rn. 1–6 (2).
+ Lüft: § 64 UrhG Allgemeines. In: Wandtke u. Bullinger 2022: Rn. 1–15 (13).
+
+
+
+7.5 Rechtliche Rahmenbedingungen 655
+
+kommt es nach § 69 UrhG auf den Ablauf des Kalenderjahres an, in dem das Ereignis
+eingetreten ist. Das Ende der urheberrechtlichen Schutzfristen lässt sich somit auf
+den Ablauf des 31.12. festlegen (z. B. Tod der Urheberin im Jahr 1970, Fristbeginn am
+01.01.1971, Fristende am 31.12.2040). Das Urheberrechtsgesetz enthält noch einige Son-
+derbestimmungen zur Fristberechnung für bestimmte Konstellationen, z. B. nach § 65
+UrhG bezüglich Miturheberinnen und Miturhebern. Bei verwandten Schutzrechten ist
+die Schutzfrist in der jeweiligen Norm angegeben, die das verwandte Schutzrecht ein-
+räumt, z. B. in den §§ 70 (3), 71 (3), 72 (3), 85 (3), 87d, 87j oder 94 (3) UrhG. Die genann-
+ten Normen betreffen wissenschaftliche Ausgaben, nachgelassene Werke, Lichtbilder,
+die Verwertungsrechte der Hersteller von Tonträgern, Datenbankhersteller, Presse-
+verleger und den Schutz der Filmhersteller. Für die Praxis ist zusätzlich jedoch die
+Beachtung von Übergangsregelungen notwendig. Diese finden sich in den §§ 129 ff
+UrhG. Nach einer Entscheidung des Landgerichts München I vom 14. 06. 2007 (7 O
+6699/06) ist es jedoch möglich, dass vertraglich eingeräumte Rechte über den Ablauf
+der gesetzlichen Schutzfrist hinauswirken. In diesem Fall ging es um die vertraglich
+vereinbarte Erlösbeteiligung an acht Opern, für die Hugo von Hofmannsthal den Text
+bzw. Libretti verfasst und Richard Strauss die Musik komponiert hatte.5 Die Klärung
+anderweitig vertraglich eingeräumter Rechte ist daher für den Fall, dass es Hinweise
+darauf gibt, vor Beginn der Digitalisierung notwendig. Schließlich ist noch zu beach-
+ten, dass nach dem im Urheberrecht geltenden Territorialitätsprinzip die Schutzfris-
+ten grundsätzlich nur im nationalen Gebiet gelten.
+
+Nach dem Tod des Urhebers oder der Urheberin geht das Urheberrecht als Gan-
+zes gemäß § 28 UrhG auf die Erben über, die grundsätzlich nach dem § 30 UrhG die
+volle Rechtsstellung der Urheberin oder des Urhebers erlangen, jedoch an deren oder
+dessen Verfügungen über Nutzungsrechte gebunden sind. Bei mehreren Erben gelten
+die Regelungen über die Erbengemeinschaft nach den §§ 2032 ff. BGB. Auch ver-
+wandte Schutzrechte sind vererblich6. Der oder die Erben sind daher berechtigt, Nut-
+zungsrechte an einem Werk einzuräumen und sollten daher insbesondere bei der
+geplanten Nutzung eines Werkes mitbedacht werden.
+
+2.3 Verwertung und Nutzung
+
+Im Grundsatz stehen die Verwertungsrechte dem Urheber oder der Urheberin eines
+Werks zu. Das bedeutet, dass sie vor allem von der finanziellen Nutzbarmachung des
+von ihnen Geschaffenen profitieren sollen. Durch die lange Schutzfrist von 70 Jahren
+kann überdies auch die erste Erbengeneration in den Genuss der aus den Werken
+
+ Gramespacher, Thomas: LG München I, Urteil vom 14.06.2007 – 7 O 6699/06. In: Medien Internet
+und Recht. Onlinepublikation zum Medien- und Internetrecht (MIR 2007, Dok. 245). http://medien-inter
+net-und-recht.de/volltext.php?mir_dok_id=1267 (10.09.2013): 2, 10, 11, 12.
+ S. Fn. 2: Rn. 988–993 m. w. N.
+
+
+
+656 Judith Köbler
+
+fließenden Zahlungen kommen. Die Verwertungsrechte sind in den §§ 15–23 UrhG ge-
+regelt. Zwei dieser Rechte sind für die Digitalisierung besonders bedeutsam: das Her-
+stellen einer Vervielfältigung und das Recht der öffentlichen Zugänglichmachung.
+
+§ 16 UrhG regelt das Vervielfältigungsrecht, d. h. „[...] das Recht, Vervielfältigungs-
+stücke des Werkes herzustellen [...]“; die Frage, was eine Vervielfältigung darstellt, ist
+wichtig, da technische Möglichkeiten rechtlich unterschiedlich bewertet werden. Das
+Digitalisieren (z. B. Scannen), der Ausdruck einer Datei, Down- und Upload, das Zwi-
+schenspeichern im Arbeitsspeicher des PC sowie Browsing und Caching oder das Ver-
+senden per E-Mail stellen etwa Vervielfältigungen dar, nicht aber Routing oder die
+Leseanzeige auf dem Bildschirm (anders als auf dem Speicher der Grafikkarte).7 Bei
+Streaming, Push-Diensten, Links und Vorschaubildern ist nach Art der technischen
+Durchführung zu unterscheiden.8 § 19a UrhG betrifft das Recht der öffentlichen Zu-
+gänglichmachung. Beide Normen sind wichtig, da zwischen der legalen Herstellung
+eines Digitalisats und der Zurverfügungstellung unterschieden werden muss.
+
+Sollen also Druckwerke digitalisiert und elektronisch angeboten werden, müssen
+die Herstellung der elektronischen Vervielfältigung und das öffentliche Anbieten recht-
+lich zulässig sein. Eine Möglichkeit dafür ist bei Werken, die noch dem Urheberrechts-
+schutz unterliegen, die Einräumung der erforderlichen Nutzungsrechte durch den
+Urheber oder die Urheberin nach § 31 UrhG. Eine andere Möglichkeit sind gesetzliche
+Schrankenbestimmungen, die eine Nutzung ohne Zustimmung der Urheberin oder des
+Urhebers zulassen: §§ 44a–53 UrhG enthalten Tatbestände im Interesse Einzelner oder
+der Allgemeinheit; §§ 55–60 beziehen sich auf die Nutzung gewisser Werke für Ein-
+zelne oder im Sinne der Informationsfreiheit; §§ 60a–60h regeln die gesetzlich er-
+laubten Nutzungen für Unterricht, Wissenschaft und Institutionen, unter ihnen
+Bibliotheken, Archive, Museen und Bildungsreinrichtungen. Daneben gibt es noch
+vereinzelte Tatbestände im UrhG (z. B. §§ 69d und 69e für Computerprogramme).9
+§ 95b UrhG verpflichtet die Rechtsinhaber, die technische Schutzmaßnahmen anwen-
+den, den Berechtigten (z. B. nach § 60d UrhG) die notwendigen Mittel zur Verfügung zu
+stellen, um die Schrankenbestimmungen zu ihren Gunsten gebrauchen zu können.
+Nach Abs. 3 gelten die Absätze 1 und 2 nur in eingeschränktem Maß für Werke, die auf-
+grund vertraglicher Vereinbarungen nach § 19a UrhG öffentlich zugänglich gemacht
+werden. § 95b UrhG sorgt somit für die Durchsetzung von Schrankenbestimmungen.
+Andererseits bestehen nach § 97 UrhG Unterlassungs-und Schadensersatzansprüche bei
+widerrechtlicher Verletzung des Urheberrechts. Nach § 98 UrhG kann der Verletzte die
+Vernichtung, den Rückruf oder die Überlassung des rechtswidrig hergestellten Verviel-
+fältigungsstücks verlangen. Nach § 106 UrhG ist die unerlaubte Verwertung urheber-
+
+ S. Heerma: § 16 Vervielfältigungsrecht. In: Wandtke u. Bullinger 2022: Rn. 1–26 (13–21, 26).
+ Für technische Verfahren und deren Einordnung s. Fn. 7 (13–21, 26) sowie zum Eigentumserwerb
+mittels Push-Dienste § 17 Verbreitungsrechte Rn. 1–50 (22).
+ Lüft: Vorbemerkung vor §§ 44 a ff. In: Wandtke u. Bullinger 2022: Rn. 1–20 (3–5).
+
+
+
+7.5 Rechtliche Rahmenbedingungen 657
+
+rechtlich geschützter Werke strafbar. Nach § 107 UrhG ist auch das unzulässige Anbrin-
+gen der Urheberbezeichnung strafbar.
+
+Von der Kulturerbe-Einrichtung sollte daher vorher festgelegt werden, welcher
+Nutzungskontext, angestrebt wird (z. B. wissenschaftliche Forschung, Darstellung für
+die Allgemeinheit, Langzeitarchivierung, Anschlussnutzung eines hergestellten Digitali-
+sats) und welches Verwertungsrecht betroffen ist (z. B. Herstellen einer Vervielfälti-
+gung). Dann kann die dafür geeignete rechtliche Grundlage (vertragliche Vereinbarung,
+gesetzliche Schrankenregelung) gewählt werden.
+
+Im Folgenden werden gesetzliche Grundlagen für die wissenschaftliche Forschung
+(§ 60c), Text und Data Mining (§ 60d) und die Arbeit von Bibliotheken (§ 60 e) näher
+betrachtet. Nach § 60 c (1) UrhG können für nicht kommerzielle Forschung bis zu 15%
+eines Werkes vervielfältigt, verbreitet und öffentlich zugänglich gemacht werden, für
+einen abgegrenzten Personenkreis für deren eigene wissenschaftliche Forschung oder
+für einzelne Dritte für Qualitätsüberprüfung wissenschaftlicher Forschung. Für die ei-
+gene wissenschaftliche Forschung erhöht sich der Anteil der Vervielfältigung nach
+§ 60c (2) UrhG auf bis zu 75% eines Werkes, wobei diese Vervielfältigungen nicht
+weitergegeben werden dürfen.10 Genutzt werden dürfen dabei auch unveröffent-
+lichte Werke11, die Veröffentlichung des Werkes selbst wird damit nicht erlaubt.12
+Computerprogramme sind generell ausgenommen.13 Es müssen auch wirksame
+Sicherheitsmaßnahmen getroffen werden, damit der Personenkreis beschränkt bleibt.14
+Somit ist eine technische Barriere (z. B. Log-in) ratsam, die den aktuellen Sicherheitsan-
+forderungen genügt.
+
+Für die wissenschaftliche Arbeit in Kulturerbe-Einrichtungen kann auch § 60d
+UrhG (Text und Data Mining) einschlägig sein, wenn die vorliegenden Texte erst in
+eine durchsuchbare Form gebracht werden sollen. Data Mining bedeutet vereinfacht
+ausgedrückt die automatisierte Analyse von digitalen oder digitalisierten Werken zur
+Mustererkennung bzw. zur Suche nach Daten und Zusammenhängen.15 Die Aufbe-
+wahrung der hergestellten Vervielfältigung nach § 60d (5) UrhG steht für Institutionen
+unter dem Vorbehalt, dass sie erforderlich und mit Sicherheitsvorkehrungen gegen
+unbefugte Nutzung geschützt ist.
+
+Die typischen Tätigkeiten in Bibliotheken sollen durch § 60e UrhG abgedeckt wer-
+den. In der Formulierung des § 60e Abs. 1 UrhG sind mehrere Erleichterungen für Bi-
+bliotheken zu finden: die Durchführung einer Vervielfältigung durch Dritte, die
+
+ Lüft: § 60c Wissenschaftliche Forschung. In: Wandtke u. Bullinger 2022: Rn. 1–18 (17).
+ S. Fn. 10 (10) m. w. N.
+ Bundestag: Gesetzentwurf der Bundesregierung, Entwurf eines Gesetzes zur Angleichung des Urhe-
+berrechts an die aktuellen Erfordernisse der Wissensgesellschaft (Urheberrechts-Wissensgesellschafts-
+Gesetz – UrhWissG), BT-Drs. 18/12329, https://dserver.bundestag.de/btd/18/123/1812329.pdf (18. 02. 2023), 39.
+ Lüft: § 60c Wissenschaftliche Forschung. In: Wandtke u. Bullinger 2022: Rn. 1–18 (4) m. w. N.
+ S. Fn. 13 (13) m. w. N.
+ S. Fn. 2: Rn. 542; s. zu verschiedenen Arten des Data Mining BT-Drs. 18/12329, 40.
+
+
+
+658 Judith Köbler
+
+mehrfache Vervielfältigung, die Zulassung technischer Änderungen und die Erhal-
+tung, d. h. die – vielfach diskutierte und u. a. wegen der technisch bedingten Änderun-
+gen problembehaftete – Langzeitarchivierung analoger und digitaler Bestände16. Die
+genannten Zwecke entsprechen dabei typisch bibliothekarischen Aufgabenstellungen.
+Erfasst werden sollen auch digitale Bestände, die die Bibliotheken lizenziert haben;
+allerdings bestehen hier vielfach technische Schutzmaßnahmen, die nicht umgangen
+werden dürfen.17
+
+Die ehemaligen elektronischen Leseplätze zur Zugänglichmachung von Werken
+aus ihrem Bestand in den Räumlichkeiten der Bibliothek für Forschung oder private
+Studien findet sich inzwischen in § 60e (4) UrhG wieder. Für die Ausgestaltung der
+dort genannten Terminals kommen verschiedene technische Lösungen in Betracht
+(z. B. Server-Client), sofern sie sich in den Räumen der Bibliothek befinden, nicht aber
+in den Räumen anderer Institute der Einrichtung.18 Darüber hinaus müssen in jeder
+Einrichtung die technischen Voraussetzungen geschaffen werden, damit eine unbe-
+rechtigte Nutzung durch Anschlusskopien (z. B. keine Tageszeitungsartikel zum Aus-
+drucken) unterbleibt, ein bloßer Hinweis ist sehr kritisch zu sehen.19 Die Planung und
+technische Ausführung der Nutzungsterminals ist daher eine Aufgabe, die in der Pra-
+xis durch die Inanspruchnahme entsprechender Spezialistinnen und Spezialisten aus-
+geführt werden sollte.
+
+§ 60 f UrhG dehnt die Schrankenregelung des § 60e UrhG auf Archive, Einrichtun-
+gen des Film- oder Tonerbes, öffentlich zugängliche Museen und Bildungseinrichtun-
+gen im Sinne des § 60a (4) UrhG (z. B. Schulen und Hochschulen) aus.
+
+Gemäß § 60h (1) UrhG hat der Urheber oder die Urheberin Anspruch auf Zahlung
+einer angemessenen Vergütung für bestimmte Nutzungen nach den gesetzlichen
+Schrankenbestimmungen der §§ 60a-f UrhG. Nähere Festlegungen zu angemessenen
+Gebühren und den Abschluss von Gesamt- und Rahmenverträgen für die nach den
+§ 60a ff UrhG gesetzlich erlaubten, aber einer Vergütungspflicht unterliegenden Nut-
+zungen lassen sich §§ 34 VVG entnehmen20. In der Praxis empfiehlt sich beispiels-
+weise die Kontaktaufnahme mit der jeweiligen Verwertungsgesellschaft, etwa der VG
+WORT21, um die Konditionen zur Vergütung für die getätigten Nutzungshandlungen
+zu bestimmen.
+
+ Amtliche Begründung BT-Drs. 18/12329, 42; Jani: § 60e, f Bibliotheken, Archive, Museen, Bildungs-
+einrichtungen. In: Wandtke u. Bullinger 2022: Rn. 1–94 (19); Wirth: § 60e UrhG. In: Eichelberger, Wirth
+u. Seifert 2022: Rn. 1–10 (3).
+ S. Jani: § 60e, f Bibliotheken, Archive, Museen, Bildungseinrichtungen. In: Wandtke u. Bullinger
+2022: Rn. 1–94 (14).
+ Für Universitäten, s. Wirth: § 60e UrhG. In: Eichelberger, Wirth u. Seifert 2022: Rn. 1–10 (7).
+ Dreier: § 60e Bibliotheken. In: Dreier u. Schulze 2022: Rn. 1–32 (23).
+ Lüft: § 60h Angemessene Vergütung der gesetzlich erlaubten Nutzungen. In: Wandtke u. Bullinger
+2022: Rn. 1–11 (8).
+ VG WORT, Merkblatt zur Betreibervergütung, https://www.vgwort.de/fileadmin/vg-wort/pdf/inhalt/
+Merkblatt_zur_Betreiberverguetung.pdf (12. 02. 2023).
+
+
+
+7.5 Rechtliche Rahmenbedingungen 659
+
+Kurz soll an dieser Stelle noch die Archivierung von im Internet frei zugänglichen
+Werken angesprochen werden. Sonderbestimmungen gelten für die Deutsche Natio-
+nalbibliothek und die Landesbibliotheken als Pflichtexemplarbibliotheken nach §§ 16,
+21 S. 2 des Gesetzes über die Deutsche Nationalbibliothek für das Webharvesting von
+im Internet frei und kostenlos zugänglichen Werke und deren Nutzung nach § 60e
+UrhG.22
+
+3 Persönlichkeitsrechte
+Neben den Verwertungsrechten besteht auch das sogenannte Urheberpersönlichkeits-
+recht. Durch die Digitalisierung werden Manipulationen einfacher, sodass das Integritäts-
+interesse der Schöpferinnen und Schöpfer steigt.23 Das Urheberpersönlichkeitsrecht
+besteht dabei in Wirklichkeit aus einer Reihe von Rechten, die das Urheberrechtsgesetz
+den Urhebern und Urheberinnen zugesteht. Sie sind in den §§ 12–14 UrhG genannt. Nach
+§ 12 (1) UrhG steht es dem Urheber oder der Urheberin zu, über das Ob und Wie der
+Veröffentlichung seines Werks zu entscheiden. Ein weiterer zu beachtender Punkt ist die
+Anerkennung der Urheberschaft nach § 13 UrhG. Eine zentrale Fragestellung im Zusam-
+menhang mit Digitalisierungen ist die sogenannte technisch bedingte Beeinträchtigung,
+die im Licht des § 14 UrhG (Entstellung des Werkes) bedacht werden muss. Stimmt die
+Urheberin oder der Urheber einer Wiedergabe im Internet zu, muss er kleinere tech-
+nisch bedingte Beeinträchtigungen hinnehmen. Liegt die Qualität jedoch unter den übli-
+chen Anforderungen, kann eine Entstellung des Werks vorliegen. Hierbei muss aber
+abgewogen werden, ob man davon ausgehen kann, dass der Urheber oder die Urheberin
+diese Beeinträchtigung im Gegenzug gegen eine bessere Verbreitung über das Medium
+Internet hinnehmen möchte.24 Werden technische Mindeststandards wesentlich unter-
+schritten, könnte eine Entstellung vorliegen. Bei der Digitalisierung muss daher darauf
+geachtet werden, den aktuellen Stand der Technik nicht zu unterschreiten.
+
+In aller Kürze sei noch auf die §§ 22, 23 Gesetz betreffend das Urheberrecht an
+Werken der bildenden Künste und der Photographie (KUG) hingewiesen, die sich auf
+das Recht am eigenen Bild beziehen. Sollen demnach Photographien von Personen di-
+gitalisiert werden, müssen neben den allgemeinen datenschutzrechtlichen Bestim-
+mungen diese speziellen Regelungen beachtet werden.
+
+ S. Fn. 2: Rn. 546 m. w. N.
+ Seifert/Wirth: Vor §§ 12 ff UrhG. In: Eichelberger, Wirth u. Seifert 2022: Rn. 1–3 (3).
+ Bullinger: § 14 Entstellung des Werkes. In: Wandtke u. Bullinger 2022: Rn. 1–65 (65).
+
+
+
+660 Judith Köbler
+
+4 Verwaiste Werke
+Bei der Durchführung von Digitalisierungsvorhaben kann ein praktisches Problem
+auftauchen: verwaiste Werke, also vereinfacht Werke, die zwar noch unter Urheber-
+recht stehen, für die jedoch keine Rechteinhaber auffindbar sind. Zur Umsetzung der
+entsprechenden Richtlinie EU 2012/28 wurden die §§ 61–61c UrhG geschaffen, die eine
+Nutzung trotz bestehenden Urheberrechts ermöglichen. § 61 Abs. 2 UrhG definiert,
+was als verwaistes Werk gilt. Zu beachten ist hier die Übergangsregelung des § 137n
+UrhG, nach der § 61 Abs. 4 UrhG (nicht erschienene oder nicht gesendete Bestandsin-
+halte) nur auf Bestandsinhalte anzuwenden ist, die vor dem 29.10.2014 überlassen
+wurden. Damit wird in Deutschland die Privilegierung zur Digitalisierung für unver-
+öffentlichte Werke, die bei einer Einrichtung hinterlegt und mit Zustimmung der
+Rechteinhaber der Öffentlichkeit zugänglich gemacht wurden und für die vernünfti-
+gerweise anzunehmen ist, dass die Rechteinhaber sich einer Nutzung im Sinne der
+Richtlinie nicht widersetzen entsprechend der Wahlmöglichkeit in Art. 1 (3) S. 2 Richt-
+linie EU 2012/28 zeitlich begrenzt. Allerdings ist bei eingebetteten Werken Vorsicht ge-
+boten, denn sie müssen in Schriften enthalten sein.25 Damit fallen insbesondere in
+Sammlungen von Gedächtnisinstitutionen enthaltene Fotografien, Lichtbildwerke, Il-
+lustrationen oder Abbildungen in der Praxis oft aus dem Anwendungsbereich der
+Norm.26 Die zu digitalisierten Werke sollten daher unter Zuhilfenahme der Norm aus-
+gewählt werden. Auch die weiteren Fallgestaltungen der § 61 (3–5) UrhG bedürfen
+einer genauen Beachtung.
+
+§ 61a UrhG regelt die Art und Weise, in der eine Suche nach den Rechtsinhabern
+durchgeführt werden muss, sowie eine Anlage mit Mindeststandards für die jeweilige
+Werkart. Eine gewisse Erleichterung bietet mittlerweile das Verfahren über die Doku-
+mentation der Suche und Weiterleitung dieser Information an das Deutsche Patent-
+und Markenamt, welches die Nachricht über die erfolglose Suche dann an das Amt
+der Europäischen Union für Geistiges Eigentum (EUIPO) weiterleitet, weil die in der
+dortigen Datenbank als verwaist registrierten Werke über die EUROPEANA in der EU
+bis auf Widerruf genutzt werden dürfen27, um aufwändige Doppelsuchen zu vermei-
+den.28 Die Nutzung ist zu unterlassen, wenn ein Rechtsinhaber nach § 61b UrhG nach-
+träglich festgestellt oder ausfindig gemacht wird. Der Rechtsinhaber hat Anspruch auf
+Zahlung einer angemessenen Vergütung für die erfolgte Nutzung. Die Höhe der Ver-
+gütung soll insbesondere die nichtkommerzielle Nutzung durch die privilegierten Ein-
+
+ Staats: § 61 Verwaiste Werke. In: Wandtke u. Bullinger 2022: Rn. 1–35 (24); Dreier: § 61 Verwaiste
+Werke. In: Dreier u. Schulze 2022: Rn. 1–27 (12).
+ S. Fn. 25 (24) m. w. N.; s. Fn. 25 (12).
+ S. Fn. 2: Rn. 566; DMPA, Datenbank verwaister Werke, https://www.dpma.de/dpma/wir_ueber_uns/wei
+tere_aufgaben/verwertungsges_urheberrecht/verwaiste_werke/index.html (06. 02. 2023); EUROPEANA, eu-
+ropeana, https://www.europeana.eu/de (06. 02.2023).
+ Dreier: § 61a Sorgfältige Suche und Dokumentationspflichten. In: Dreier u. Schulze 2022: Rn. 1–9 (9).
+
+
+
+7.5 Rechtliche Rahmenbedingungen 661
+
+richtungen berücksichtigen, kann aber aufgrund der Vorgaben der entsprechenden
+EU-Richtlinie nicht automatisch mit Null beziffert werden.29 Die Institutionen sind
+demnach gut beraten, die unter der Privilegierung für verwaiste Werke getätigten
+Nutzungen einem ständigen Monitoring zu unterziehen.
+
+5 Nicht-verfügbare Werke
+Im Bereich der ehemals vergriffenen Werke ist es durch die Richtlinie EU 2019/790 zu
+einem Paradigmenwechsel gekommen. Nach § 51 Verwertungsgesellschaftengesetz
+(VGG) alte Fassung galt die Vermutung, dass Verwertungsgesellschaften Nutzern ge-
+wisse Rechte an Werken nichtvertretener Schöpferinnen und Schöpfer einräumen dür-
+fen, wenn die Werke in ein Register für vergriffene Werke eingetragen waren und die
+Rechtsinhaber nicht innerhalb von sechs Wochen widersprachen. Bis zum 06.06.2021
+führte das Deutsche Patent- und Markenamt (DPMA) das Register. Nach dem neuen
+§ 141 (1) VGG sind §§ 51–52a VGG in der bis 06.06.2021 geltenden Fassung bis einschließ-
+lich 31.12.2025 auch weiter anzuwenden, die auf deren Grundlage erteilten Nutzungs-
+rechte enden allerdings nach § 141 (3) VGG mit diesem Datum. Eine Eintragung beim
+DPMA ist nach § 141 (2) VGG nicht mehr zulässig. Das Register beim DPMA muss nach
+§ 141 (6) VGG mit 31.12.2025 geschlossen werden.
+
+Für Nutzungen, die aufgrund der bisherigen Bestimmungen erlaubt waren und die
+nach den neuen Vorschriften des §§ 52 bis 52e VGG erlaubt worden oder nach den
+§§ 61d und 61e UrhG erlaubt sind, gilt § 141 (4) VGG. Demnach muss dieser Umstand,
+d. h. der Wechsel von altem Recht zu neuem Recht30, dem DPMA mitgeteilt werden. Zu-
+ständig ist entweder die Verwertungsgesellschaft oder – im Fall der gesetzlichen Aus-
+nahmeregelung – die Kulturerbe-Einrichtung selbst. In der Literatur wird vertreten,
+dass § 141 Abs. 4 VGG voraussetzt, dass ein Verfahren nach neuem Recht durchgeführt
+werden muss (z. B. Einholung einer kollektiven Lizenz oder Privilegierung nach § 61d
+UrhG). Damit wäre eine Frist von sechs Monaten ab Bekanntmachung beim EUIPO vor
+öffentlicher Zurverfügungstellung einzuhalten (siehe unten). Da innerhalb der Über-
+gangsfrist eine Nutzung aufgrund der alten Rechtslage für diese sechs Monate möglich
+ist, wird eine sechsmonatige Unterbrechung in der Literatur aber als nicht sachgerecht
+angesehen.31
+
+Gemäß dem neuen § 61d UrhG dürfen Kulturerbe-Einrichtungen nicht verfügbare
+Werke aus ihrem Bestand vervielfältigen oder vervielfältigen lassen sowie der Öffent-
+
+ Staats: § 61b Beendigung der Nutzung und Vergütungspflicht. In: Wandtke u. Bullinger 2022: Rn. 1–
+6 (4) m. w. N.
+ Staats: § 141 Übergangsvorschriften für vergriffene Werke; Verordnungsermächtigung. In: Wandtke
+u. Bullinger 2022: Rn. 1–11 (8).
+ S. Fn. 30 (7).
+
+
+
+662 Judith Köbler
+
+lichkeit zugänglich machen. Erfasst werden digitale und analoge Werke, sämtliche
+Werkarten und per Verweisung auch auf sonstige Schutzgegenstände32 und gegebe-
+nenfalls auch unveröffentlichte Werke, weshalb im Gesetz nunmehr der Begriff
+„nicht verfügbar“ anstelle des bisher gebräuchlichen Begriffs „vergriffen“ gewählt
+wurde.33 Es muss sich jedoch um ein Werk handeln, das die betreffende Kulturerbe-
+Einrichtung in ihrem Bestand – im Sinne von Eigentum oder Dauerleihgabe an einem
+Werkexemplar34 – hat, welches nicht verfügbar ist.
+
+Nicht verfügbar ist ein Werk gemäß § 52b VGG, wenn ein Werk der Allgemeinheit
+auf keinem üblichen Vertriebsweg in einer vollständigen Fassung angeboten wird.
+Nach Abs. 2 wird die Nichtverfügbarkeit unwiderleglich vermutet, wenn die Kultur-
+erbe-Einrichtung zeitnah vor der Information gemäß § 52a (1) S. 1 Nr. 4 VGG mit
+einem vertretbaren Aufwand, aber ohne Erfolg versucht hat, Angebote nach Maßgabe
+des Abs. 1 zu ermitteln. Die Information in § 52a (1) S. 1 Nr. 4 VGG betrifft die Eintra-
+gung einer Rechteeinräumung im Online-Portal des EUIPO. Eingetragen werden das
+betroffene Werk, die Vertragsparteien, die betroffenen Nutzungsrechte und ihr Gel-
+tungsbereich sowie das Recht des Außenstehenden zum Widerspruch. Die für die alte
+Rechtslage geltende Orientierung am Verzeichnis lieferbarer Bücher ist zwar in man-
+chen Fällen hilfreich, nicht jedoch in Streitfällen wie Archivgut.35 Ein gewisser Doku-
+mentationsaufwand wird in allen Fällen zu betreiben sein. Für bestimmte Werke
+gelten nach § 52b Abs. 3 VGG zudem verschärfte Anforderungen. Für eingebettete
+Werke ist zwar unklar, ob es auf den Status des eingebetteten Werks oder den des
+Hauptwerks ankommt, sie können aber unter § 52b Abs. VGG fallen.36
+
+Besteht eine repräsentative Verwertungsgesellschaft, kann die Kulturerbe-
+Einrichtung eine Lizenz von dieser gemäß § 52 (1) VGG erwerben, auch wenn das Werk
+von einem Außenstehenden nach § 7a VGG, d. h. einem „Rechtsinhaber, der im Hinblick
+auf die betreffende Nutzung nicht in einem vertraglichen Wahrnehmungsverhältnis zu
+einer Verwertungsgesellschaft steht“, stammt. Die erweiterte Wirkung gegenüber Nicht-
+mitgliedern erwirkt über eine gesetzliche Fiktion ein wirksames Vertragsverhältnis zwi-
+schen Kulturerbe-Einrichtung und Verwertungsgesellschaft, obwohl das grundlegende
+Vertragsverhältnis zwischen Rechteinhaber und Verwertungsgesellschaft gerade nicht
+
+ Für Computerprogramme nach § 69a Abs. 4, 69d, 69 f und 69g UrhG; für Datenbanken aus § 87c
+UrhG, s. Wirth: Vorbemerkungen zu §§ 61d UrhG. In: Eichelberger, Wirth u. Seifert 2022: Rn. 1–5 (1)
+und Raue: § 61d Nicht verfügbare Werke. In: Dreier u. Schulze 2022: Rn. 1–12 (1).
+ Bundestag: Gesetzentwurf der Bundesregierung. Entwurf eines Gesetzes zur Anpassung des Urhe-
+berrechts an die Erfordernisse des digitalen Binnenmarktes, BT-Drs. 19/27426, https://dserver.bundes
+tag.de/btd/19/274/1927426.pdf (22. 01. 2023), 49; Einzelheiten, s. Staats: § 61d Nicht verfügbare Werke. In:
+Wandtke u. Bullinger 2022: Rn. 1–36 (8) sowie die näheren Ausführungen zu § 52b VGG Nicht verfüg-
+bare Werke. In: Wandtke u. Bullinger 2022: Rn. 1–22 (7,8) m. w. N.
+ Für Einzelheiten Raue: § 61d Nicht verfügbare Werke. In: Dreier u. Schulze 2022: Rn. 1–12 (3) m. w. N.
+ S. Fn. 34 (15) m. w. N.
+ Staats: § 52b VGG Nicht verfügbare Werke. In: Wandtke u. Bullinger 2022: Rn. 1–22 (5,18) m.w.N.
+
+
+
+7.5 Rechtliche Rahmenbedingungen 663
+
+besteht. Existiert keine repräsentative Verwertungsgesellschaft, so kann die gewünschte
+Nutzungshandlung möglicherweise auf § 61d UrhG gestützt werden, was jedoch einer ge-
+nauen weiteren Prüfung bedarf. Nach § 61d (3) UrhG ist es dann auch notwendig, dass
+die Einrichtung während der gesamten Nutzungsdauer über die Nutzung und betref-
+fende Nutzungsrechte im Onlineportal des EUIPO, informiert. § 61 f UrhG erlaubt die ent-
+sprechende Nutzung zur Erfüllung dieser Informationspflicht.
+
+Zu beachten sind grundsätzlich die unterschiedlichen Fristen für die Herstellung
+der Vervielfältigung und die öffentliche Zugänglichmachung. Die Vervielfältigung ist ab
+Bekanntmachung, die öffentliche Zugänglichmachung erst nach dem Ablauf von sechs
+Monaten seit Bekanntgabe der Informationen gemäß dem Online-Portal des EUIPO
+möglich37, wenn der Rechtsinhaber nicht widersprochen hat. Widersprüche der Rechte-
+inhaber sind aber nicht nur in den ersten sechs Monaten, sondern nach § 61d (2) UrhG
+die ganze Nutzungsdauer hindurch möglich. Wird ein Widerspruch erklärt, ist die künf-
+tige Nutzung zu unterlassen. Erstellte Vervielfältigungen dürften zulässig bleiben, die
+öffentliche Zugänglichmachung ist jedoch innerhalb angemessener Frist zu beenden.
+Das EUIPO informiert die betroffene Einrichtung über den Widerspruch.38
+
+Durch § 61e UrhG und § 52d VGG wird das Bundesministerium der Justiz und für
+Verbraucherschutz ermächtigt Rechtsverordnungen zu erlassen. Die entsprechende
+Verordnung über ergänzende Bestimmungen zur Nutzung nicht verfügbarer Werke
+wurde am 15. März 2023 im Bundesgesetzblatt verkündet. Geregelt werden darin
+unter anderem nach § 1 die Informationspflichten im Online-Portal des EUIPO bei
+nicht verfügbaren Werken (z. B. in der Regel kein gesondertes Anführen von Werken,
+die in Zeitschriften enthalten sind), nach § 2 die Nichtverfügbarkeit von nicht für den
+Handel bestimmten Werken, nach § 3 die Wahrung der Urheberpersönlichkeitsrechte
+bei nicht veröffentlichten Werken per Einzelfallabwägung und gemäß den §§ 4 und 5
+die Rechtsfolgen von Widersprüchen. Handelt es sich um ein nach § 52 VGG lizenzier-
+tes Werk, ist die Verwertungsgesellschaft nach § 4 (1) für die Prüfung des Wider-
+spruchs zuständig, bei § 61d UrhG nach § 5 (1) die Kulturerbe-Einrichtung selbst. Ist
+der Widerspruch berechtigt, ist die Nutzung innerhalb eines Monats einzustellen; ist
+er unberechtigt, darf die Kulturerbe-Einrichtung die Nutzung fortsetzen. Kann der Wi-
+derspruch nicht innerhalb eines Monats geklärt werden, ist die begonnene Nutzung
+innerhalb von 2 Monaten vorläufig einzustellen. Damit wurden konkrete rechtliche
+Schritte unternommen, um Kulturerbe-Einrichtungen hinsichtlich des digitalen Be-
+standsaufbaus zu unterstützen.
+
+Zwei praxisrelevante Punkte seien zum Schluss noch angemerkt: zum einen ist
+die Quelle bei dem Digitalisat anzugeben und zum anderen darf es wegen der Nicht-
+
+ Raue: § 61d Nicht verfügbare Werke. In: Dreier u. Schulze 2022: Rn. 1–12 (11); Bundestag: BT-Drs.
+19/27426, https://dserver.bundestag.de/btd/19/274/1927426.pdf (22.01.2023), 102.
+ Staats: § 61d Nicht verfügbare Werke. In: Wandtke u. Bullinger 2022: Rn. 1–36 (23–26) m. w. N.
+
+
+
+664 Judith Köbler
+
+kommerzialität nicht auf einer werbefinanzierten Internetseite angeboten werden.39
+Diese Grenzen müssen bei der Auswahl und Gestaltung der Art und Weise, wie nicht
+verfügbare Werke zugänglich gemacht werden (z. B. Online-Abruf), beachtet werden.
+
+6 Ethische Gesichtspunkte
+Die Digitalisierung hat den Kulturerbe-Einrichtungen nicht nur Möglichkeiten ver-
+schafft, ihre Bestände für die Zukunft auf neuen Trägermedien zu speichern und
+somit einer digitalen Umgebung anzupassen und in ihr zu bewahren, sondern auch
+den Kreis der Nutzerinnen und Nutzer erheblich zu erweitern. Durch das Internet
+können viele Personen erreicht werden, die ansonsten eine Kulturerbe-Einrichtung
+nicht besuchen würden. Somit tragen diese weit über ihre physischen Grenzen zum
+kulturellen Verständnis der Bevölkerung bei.
+
+Durch diesen großen Einfluss sind die Kulturerbe-Einrichtungen zu einem reflek-
+tierten Umgang mit dem ihnen anvertrauten Kulturerbe verpflichtet. Besonders ist
+dabei der Umgang mit Kulturgut gemeint, das aus bestimmten Zeiten der deutschen
+Geschichte stammt. Das kann etwa die Digitalisierung von Schriften aus dem Dritten
+Reich betreffen, aber auch die Digitalisierung von Objekten aus der kolonialen Expan-
+sion des deutschen Kaiserreiches oder der DDR. Die Inhalte dieser Bestände können
+rassistisch, diskriminierend, entwürdigend und vieles mehr sein, was sowohl rechtli-
+che Konsequenzen nach sich ziehen als auch moralisch angreifbar machen kann.
+
+Neben den üblichen urheberrechtlichen Fragestellungen können sich dabei auch
+Fragen in Bezug auf strafrechtliche Bestimmungen ergeben. So bestraft etwa § 86 des
+deutschen Strafgesetzbuches (StGB) das Verbreiten von Propagandamitteln verfas-
+sungswidriger Organisationen und § 86a StGB das Verwenden von Kennzeichen ver-
+fassungswidriger und terroristischer Organisationen. Gemäß § 86 (4) StGB gelten die
+Strafnormen der Abs. 1 und 2 nicht bei „Handlungen der staatsbürgerlichen Aufklä-
+rung ... oder der Wissenschaft, der Forschung oder der Lehre“. Daher sind bei der Di-
+gitalisierung von Beständen stets auch die geltenden strafrechtlichen Bestimmungen
+zu beachten. Nähere Informationen zur sogenannten Sozialadäquanzklausel, verbote-
+nen Organisationen sowie einzelnen Symbolen sind beispielsweise beim Bundesamt
+für Verfassungsschutz veröffentlicht.40
+
+ Raue: § 61d Nicht verfügbare Werke. In: Dreier u. Schulze 2022: Rn. 1–12 (7 und 9); Wirth: § 61d
+UrhG. In: Eichelberger, Wirth u. Seifert 2022: Rn. 1–5 (2); Staats: § 61d Nicht verfügbare Werke. In:
+Wandtke u. Bullinger 2022: Rn. 1–36 (11) m. w. N.
+ Bundesamt für Verfassungsschutz, Rechtsextremismus: Symbole, Zeichen und verbotene Organisa-
+tionen, https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/rechtsextremismus/2022-02-
+rechtsextremismus-symbole-zeichen-organisationen.pdf?__blob=publicationFile&v=10 (16.01.023).
+
+
+
+7.5 Rechtliche Rahmenbedingungen 665
+
+Sofern die rechtlichen Voraussetzungen vorliegen, sodass eine Digitalisierung
+prinzipiell zulässig wäre, ist es dennoch geboten, abzuwägen, ob und wie kritische
+Inhalte digitalisiert ins Netz der jeweiligen Einrichtung gestellt werden können. Die
+schlichte Auslassung kritischer Bestände bei der Digitalisierung wäre problematisch
+und nicht mit der Aufgabe von Gedächtnisinstitutionen zu vereinen. Die historische
+Forschung ist unbestreitbar auf Quellen angewiesen. Die Aufarbeitung von dunklen
+Zeiten der deutschen Geschichte ist notwendig. Eine lebendige Erinnerungskultur soll
+vor der Wiederholungsgefahr warnen. Diese Rolle auszufüllen ist jedoch nicht immer
+einfach. Die jeweilige Einrichtung muss sich daher auch im Klaren darüber sein, dass
+der Diskurs über die präsentierten Digitalisate über ihre jeweilige Homepage etc.
+stattfinden wird. Ein moderiertes Forum auf der institutionseigenen Homepage ist
+demnach empfehlenswert.
+
+Im Zuge einer geplanten Digitalisierung sind unter Umständen auch besonders
+problematische Fragen der Provenienz zu klären. Die Restitution von Kulturgütern (z. B.
+Büchern), die Verfolgten in der Zeit des Nationalsozialismus entzogen wurden, stellt Kul-
+turerbe-Einrichtungen teilweise vor nicht unerhebliche Schwierigkeiten. Die Lost Art-
+Datenbank des Deutschen Zentrums Kulturgutverluste will die Erben und Erbinnen und
+die heutigen Besitzer und Besitzerinnen von NS-Raubkunst in praktischer Weise zusam-
+menbringen, um faire und völkerrechtlich tragfähige Lösungen zu finden.41
+
+Bestimmte, digitalisierte Bestände sollten durch Metadaten angereichert und damit
+kontextualisiert werden. Für andere Bestände ist eine Digitalisierung derart problema-
+tisch, dass sie am besten nur vor Ort eingesehen werden können. Eine Hinterlegung
+der Kontaktdaten der Nutzerinnen und Nutzer, mit der sie sich vor Benutzung der Be-
+stände einverstanden erklären müssen, stellt eine zusätzliche Sicherheitsmaßnahme
+dar.42 Dadurch können Kulturerbe-Einrichtungen mitverhindern, dass Bestände unkon-
+trolliert weiterverbreitet werden.
+
+Auch wenn Digitalisierungsvorhaben damit in der Summe der rechtlich und ethisch
+zu prüfenden Voraussetzungen komplex sind, besteht für Kulturerbe-Einrichtungen
+durch die Digitalisierung die Chance, insbesondere das Wissen des 20. Jahrhunderts für
+künftige Generationen zu bewahren.
+
+ Deutsches Zentrum Kulturgutverluste, Lost Art Datenbank, https://www.lostart.de/de/start (21.05.2023).
+ Der Standard: Dilemma: Was tun mit digitalisiertem NS-Material? https://www.derstandard.at/
+story/2000111581421/was-tunmit-digitalisiertem-ns-material, veröffentlicht: 27.11.2019 (03.03.2023).
+
+
+
+666 Judith Köbler
+
+Literatur
+Czychowski, Christian u. Jan Bernd Nordemann: Höchstrichterliche Rechtsprechung und Gesetzgebung im
+
+Urheberrecht 2012. In: Neue Juristische Wochenschrift (2013), H. 11, S. 756–761.
+De la Durantaye, Katharina u. Linda Kuschel: Regelungen zu nicht verfügbaren Werken. In: ZUM (2020),
+
+H. 10, S. 717–728.
+Dreier, Thomas, Gernot Schulze, Benjamin Raue u. Louisa Specht- Riemenschneider (Hrsg.):
+
+Urheberrechtsgesetz. Kommentar. 7. Aufl. München: Beck 2022.
+Eichelberger, Jan, Thomas Wirth u. Fedor Seifert (Hrsg.): Urheberrechtsgesetz. Handkommentar. 4. Aufl.
+
+Baden-Baden: Nomos 2022.
+Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie vom
+
+09.01.1907 (RGBl. S. 7), zuletzt geändert durch Gesetz vom 16.02.2001 (BGBl. I S. 266).
+Rehbinder, Manfred u. Alexander Peukert (Hrsg.): Urheberrecht und verwandte Schutzrechte. (Juristische
+
+Kurz-Lehrbücher). 18. Aufl. München: Beck 2022.
+Richtlinie 2012/28/EU des Europäischen Parlaments und des Rates v. 25.10.2012 über bestimmte zulässige
+
+Formen der Nutzung verwaister Werke, ABl EU Nr. L 299 v. 27.10.2012. S. 5.
+Richtlinie 2019/790/EU des Europäischen Parlaments und des Rates vom 17. April 2019 über das
+
+Urheberrecht und die verwandten Schutzrechte im digitalen Binnenmarkt und zur Änderung der
+Richtlinien 96/9/EG und 2001/29/EG (Text von Bedeutung für den EWR.), ABl. L 130 v. 17 5.2019. S. 92.
+
+Strafgesetzbuch in der Fassung der Bekanntmachung vom 13. November 1998 (BGBl. I S. 3322), das
+zuletzt durch Artikel 4 des Gesetzes vom 4. Dezember 2022 (BGBl. I S. 2146) geändert worden ist.
+Neugefasst durch Bek. v. 13.11.1998 I 3322; zuletzt geändert durch Art. 4 G v. 4.12.2022 I 2146.
+Urheberrechtsgesetz vom 9. September 1965 (BGBl. I S. 1273), das zuletzt durch Artikel 25 des
+Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, Stand: Zuletzt geändert durch Art.
+25 G v. 23.6.2021 I 1858.
+
+Verordnung über ergänzende Bestimmungen zur Nutzung nicht verfügbarer Werke nach dem
+Urheberrechtsgesetz und dem Verwertungsgesellschaftengesetz (Nicht-verfügbare-Werke-
+Verordnung – NvWV), BGBl. 2023 I Nr. 65 vom 15.03.2023.
+
+Verwertungsgesellschaftengesetz vom 24. Mai 2016 (BGBl. I S. 1190), das zuletzt durch Artikel 2 des
+Gesetzes vom 31. Mai 2021 (BGBl. I S. 1204) geändert worden ist, Stand: Zuletzt geändert durch Art. 2
+G v. 31.5.2021 I 1204.
+
+Wandtke, Artur-Axel u. Winfried Bullinger (Hrsg.): Urheberrecht. Praxiskommentar. 6. neubearb. und
+erweiterte Aufl. München: Beck 2022.

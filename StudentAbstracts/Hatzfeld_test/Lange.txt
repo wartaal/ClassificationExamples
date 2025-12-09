@@ -1,0 +1,625 @@
+Marc Lange und Robert Wiese
+5.2 Open Access bei Büchern
+1 Einleitung
+Der Bereich Open-Access-Bücher ist mit unterschiedlichen Umsetzungsansätzen, dem
+Aufbau neuer Publikationsstrukturen und den damit verbundenen Entwicklungen äußerst
+dynamisch. Allerdings hängen der Entwicklungsstand und die Diskussionen von
+Open Access bei wissenschaftlichen Büchern denen von Open Access bei wissenschaftlichen
+Zeitschriftenartikeln (vgl. Kapitel 5.1) deutlich hinterher.1 Das Publikationswesen
+bei Büchern ist äußerst heterogen und Lösungen aus dem Bereich von Open-Access-
+Zeitschriften können nur bedingt auf Bücher angewendet werden. Die Realisierung von
+Open Access bei Büchern wird aufgrund anderer Rahmenbedingungen häufig als deutlich
+schwieriger angesehen. Hier spielen unter anderem zwei Entwicklungen eine wichtige
+Rolle: Zum einen sind die Etats wissenschaftlicher Bibliotheken größtenteils durch
+überproportional gestiegene Kosten für Zeitschriftensubskriptionen und Transformationsverträge
+gebunden, zum anderen werden für die Umsetzung eines Open-Access-
+Buches in der Regel deutlich höhere und ebenfalls steigende Publikationsgebühren veranschlagt
+als bei Zeitschriftenaufsätzen. Die Etablierung von Open Access bei Büchern ist
+daher zwar schwieriger, sollte jedoch nicht als weniger erstrebenswert oder weniger
+wichtig angesehen werden, sondern als das herausforderndere Ziel.
+In diesem Kapitel wird zunächst der Stellenwert von Büchern in Bezug auf verschiedene
+Fachdisziplinen kontextualisiert, danach die Verlagslandschaft, die Rolle
+von Bibliotheken sowie die Finanzierung und Förderung bei Open-Access-Büchern
+dargestellt, bevor ausgewählte Herausforderungen und Potenziale erläutert werden.
+Zu bedenken ist, dass der Stand der Umsetzung sowie die Einflussfaktoren und Rahmenbedingungen
+von Open Access bei Büchern im internationalen Vergleich deutlich
+variieren.2 Dieses Kapitel beschränkt sich, wo es inhaltlich notwendig ist, auf die Situation
+im deutschsprachigen Raum, mit einem Fokus auf Deutschland.
+ Als Bücher werden hier insbesondere Monografien und Sammelbände verstanden, ferner aber
+auch andere Langtextformate wie Editionen und neuere textbasierte Publikationsformate; vgl. Jubb
+2017: S. 23–26.
+ Ferwerda u. a. 2017.
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-021
+2 Der Stellenwert von Büchern in verschiedenen
+Fachdisziplinen
+In den verschiedenen wissenschaftlichen Fachdisziplinen haben die unterschiedlichen
+Publikationstypen unterschiedliche Stellenwerte hinsichtlich der Rezeption sowie der
+Publikation. Es besteht eine deutlich größere Relevanz von Monografien und Sammelbänden
+gegenüber Zeitschriftenartikeln in den Geistes- und Sozialwissenschaften im
+Vergleich zu anderen Wissenschaftsbereichen.3
+Insbesondere die Monografie gilt als Format, das überhaupt erst den Raum bietet für
+eine umfassende Diskussion und Kontextualisierung eines Themas sowie für eine ausführliche
+Analyse und Argumentation, wie es in den meisten geistes- und sozialwissenschaftlichen
+Disziplinen notwendig ist. Kurzum: Die Monografie erlaubt eine Tiefe und Breite der
+wissenschaftlichen Abhandlung, die in einem Zeitschriftenartikel nicht möglich ist. Bei
+Monografien kommt hinzu, dass zu deren Erarbeitung Anstrengung und zeitlicher Aufwand
+wesentlich größer sind als für die Erstellung eines Aufsatzes für eine Zeitschrift
+oder einen Sammelband. Wissenschaftler:innen wollen ihr Werk daher in der Regel von
+einem Verlag mit entsprechender Erfahrung und Expertise sowie allem voran Reputation
+publizieren lassen, erwarten sie für ihren Aufwand doch vor allem eine Vergütung in
+Form symbolischen Kapitals durch die Verlagsreputation.4 Im Vergleich zu wissenschaftlichen
+Artikeln, bei denen häufig die Reputationswahrnehmung einer Zeitschrift in die
+Publikationsentscheidung einfließt, ist bei Büchern der Verlag selbst von zentraler Bedeutung.
+Bevorzugt gewählt werden daher entweder Verlage, die ein breites Fachspektrum
+abdecken und als angesehen gelten – häufig sind dies große Verlage, die mitunter auch
+verschiedene Unterverlage oder Marken (Imprints) im Verlagsprogramm führen. Oder es
+werden Verlage gewählt, die sich durch ein disziplinär oder thematisch eng definiertes
+Verlagsprogramm auszeichnen und in diesen einen guten Ruf genießen. Viele Autor:innen
+in den Sozial- und Geisteswissenschaften haben darüber hinaus eine enge Bindung zu Verlagen,
+bei denen sie oder Kolleg:innen bereits publiziert und gute Erfahrungen gemacht
+haben. Zugespitzt lässt sich sagen, dass Wissenschaftler:innen bei der Verlagswahl markenabhängig
+sind. Es besteht bei der Verlagswahl für ein Buch – ebenso wie bei der
+Auswahl einer Zeitschrift – nur eingeschränkt ein realer Markt mit einem freien Wettbewerb,
+bei dem Wissenschaftler:innen kompromisslos zu einem alternativen Mitbewerber
+und Produkt greifen können. Im Zeitschriftenbereich lässt sich dies noch
+prägnanter zuspitzen: Wer in Nature und Science nicht publizieren kann, kann nicht
+einfach zu einem gleichwertigen Mitwettbewerber gehen. Ähnlich ist dies auch bei
+Buchverlagen. Deshalb lässt sich nicht folgern, dass die in einem Fach führenden Verlage
+auch die besten verlegerischen Leistungen und gute Preisleistungsverhältnisse bieten
+oder die beste wissenschaftliche Auswahl treffen.
+ Crossick 2015.
+ Eve 2014: S. 121.
+334 Marc Lange und Robert Wiese
+Im Unterschied zu Zeitschriftenartikeln lassen sich seitens der Autor:innen mit
+der Publikation von Büchern potenziell finanzielle Gewinne durch ausgeschüttete Honorare
+oder Tantiemen verdienen. Dieser Umstand wird daher auch als erschwerendes
+Hindernis für die Umsetzung von Open Access bei Büchern angesehen.5 Dies ist
+nicht falsch, allerdings sind Gewinnbeteiligungen durch Verlage zur Seltenheit geworden
+und Ausschüttungen durch Verwertungsgesellschaften für die meisten Autor:
+innen ebenfalls nicht besonders hoch.6 Eine Ausnahme stellen Lehrbücher dar, die
+einer deutlich überdurchschnittlichen Nutzung unterliegen und oftmals nach gewisser
+Zeit in aktualisierten Neuauflagen erscheinen, und die daher auch eine besondere
+Herausforderung hinsichtlich der Umstellung zu Open Access darstellen.
+3 Verlage
+Es gibt verschiedene Typen von Verlagen und Publikationsdiensten.7 Unterschieden und
+beschrieben werden hier einerseits profitorientierte Verlage – also Verlage, die auch mit
+der Publikation von Open-Access-Büchern Gewinne erzielen möchten und sich daher
+mit Publikationsgebühren den vermeintlichen Profitausfall gegenfinanzieren lassen –
+sowie andererseits nicht-profitorientierte Verlage und Universitätsverlage. Darüber hinaus
+gibt es zahlreiche Publikationsdienste, die in wissenschaftseigene Infrastrukturen
+und Bibliotheken eingebettet sind, aber mitunter nur einen Teil des Dienstleistungsspektrums
+abdecken, das von Verlagen erwartet wird.
+Viele Verlage und Publikationsdienstleister, die im Open-Access-Modell publizieren,
+sind Mitglieder der Open Access Scholarly Publishing Association (OASPA), einer
+nicht-profitorientierten Vereinigung mit dem Ziel der Förderung des Open-Access-
+Publizierens und des Austauschs der Mitglieder sowie der Definition von Mindestpublikationsstandards
+und -praktiken. Weitere Zusammenschlüsse sind die Arbeitsgemeinschaft
+Universitätsverlage (siehe unten), die Association of European University
+Presses, und die Library Publishing Coalition.
+ Suber 2012: S. 106.
+ Hier sei angemerkt, dass es bei der Veröffentlichung wissenschaftlicher Texte im Open Access für
+Autor:innen, die Ausschüttungen von einer Verwertungsgesellschaft (in Deutschland in der Regel die
+VG Wort) beziehen, außerdem zu Fragen der Vereinbarkeit von beidem kommen kann. Für eine Erläuterung
+bezogen auf Open Access und die VG Wort, vgl. Lange u. Wiese 2024.
+ Der englische Begriff Publishers beschreibt daher besser, was hier mit Verlage überschrieben ist. Im
+deutschsprachigen Raum wird mittlerweile vermehrt der Begriff Publikationsdienstleister verwendet.
+5.2 Open Access bei Büchern 335
+3.1 Profitorientierte Verlage
+Kommerzielle, vor allem auf Profit ausgelegte Verlage agieren auch heute noch häufig
+nach einem konventionellen Verständnis, das den Fokus auf printbasierte Publikationen
+legt und publizierte Werke als verlegerisches Eigentum betrachtet. Die Einräumung
+von ausschließlichen, mitunter ausufernd umfangreichen Nutzungsrechten zur
+Sicherung einer exklusiven kommerziellen Verwertung ist die Regel. Jedoch ist festzustellen,
+dass im kommerziellen und profitorientierten Verlagswesen die angebotenen
+Dienstleistungen und Produktionsschritte vermehrt ausgelagert werden und der Leistungsumfang
+insbesondere hinsichtlich der formalen, gestalterischen und inhaltlichen
+Aufbereitung und Qualitätssicherung abnimmt. So ist es nicht unüblich, dass die
+Urheber:innen nahezu druckfertige Manuskripte abliefern sollen. Diese werden vom
+Verlag oder von externen Dienstleistern nur noch rudimentär geprüft und überarbeitet,
+bevor sie produziert werden. Die Produktion sowohl von Printexemplaren (die
+zum Teil extern gedruckt werden) als auch der elektronischen Ausgaben steht somit
+am Ende eines immer kleiner werdenden Dienstleistungsspektrums. Zugleich steigen
+aber die Bedarfe nach Publikationszuschüssen oder Publikationsgebühren. Zwar
+bauen die Verlage ihre Plattformen und Lösungen im digitalen Bereich aus, spezifisch
+auf Open Access ausgerichtete innovative Publikationsformate und -lösungen, die
+diese Kostenentwicklungen erklären könnten, sind hingegen selten.
+3.2 Nicht-profitorientierte Verlage und Universitätsverlage
+Universitätsverlage und Verlage außeruniversitärer Forschungseinrichtungen haben im
+deutschsprachigen Raum eine lange Tradition.8 Viele Einrichtungen ermöglichen ihren
+Angehörigen die Publikation wissenschaftlicher Ergebnisse in einer wissenschaftseigenen
+Infrastruktur. Viele von ihnen engagieren sich darüber hinaus bereits seit langer
+Zeit für die Open-Access-Transformation. Durch gemeinsame Kataloge oder den automatisierten
+Nachweis in Verzeichnissen ist die Reich- und Sichtweite über die eigene Einrichtung
+hinaus ein fester Bestandteil des Geschäftsmodells von Universitätsverlagen.
+Es ist jedoch wichtig festzuhalten, dass Universitätsverlag nicht gleich Universitätsverlag
+ist. Die Bandbreite und Umsetzung der Leistungen, die angeboten werden können,
+sind ausgesprochen heterogen. Dies betrifft sowohl das Spektrum an publizierten Formaten
+– nicht alle Verlage veröffentlichen sowohl Bücher als auch Zeitschriften – als auch
+den Umfang der Verlagsleistungen selbst. Je nach personeller Ausstattung werden Lektoratsaufgaben
+entweder inhäusig durch den Universitätsverlag übernommen oder an externe
+Dienstleister vermittelt. Das Verlagsprogramm wird zum Teil in Zusammenarbeit
+ Hierzu ausführlich Kapitel 5.4 „Open-Access-Repositorien und Universitätsverlage für eine offene
+Wissenschaft“.
+336 Marc Lange und Robert Wiese
+mit einem wissenschaftlichen Beirat erarbeitet, der sich aus der Einrichtung angehörigen
+Forschenden zusammensetzt, in anderen Verlagen ist hierfür die Bibliothek allein verantwortlich.
+An manchen Einrichtungen ist der Universitätsverlag ein fester Bestandteil bei
+der Veröffentlichung von Dissertationen, die in Schriftenreihen zum Erlangen des Doktorgrades
+publiziert werden können. Einige wissenschaftliche Institutionen kooperieren
+auch mit kommerziellen Verlagen zur Etablierung einer Universitätsverlagsmarke, der
+verlagsseitig dann meist als zusätzliches Imprint geführt wird.
+Allen Universitätsverlagen ist jedoch gemein, dass sie unabhängig von einer finanziellen
+Direktive und nicht profitorientiert handeln und publizieren können. Sie bieten
+Publikationsdienstleistungen für die Angehörigen ihrer jeweiligen Einrichtung und sind
+dabei nicht an potenzielle Absatzzahlen gebunden. So kann in der Regel der gesamte
+Fächerkanon einer Einrichtung im Verlag abgebildet werden, unabhängig von der zu
+erwartenden Reichweite. Universitätsverlage sind daher wichtige Akteure bei der Etablierung
+von offenen Publikationsstrukturen in der Wissenschaft. Zur Sicherstellung dieser
+Zielsetzung und für die Vernetzung untereinander besteht seit dem Jahr 2004 die
+Arbeitsgemeinschaft Universitätsverlage (AG Universitätsverlage). Darin engagieren
+sich Verlage wissenschaftlicher Einrichtungen aus Deutschland, Österreich, der Schweiz
+und Italien, um den Forschenden ihrer Einrichtungen eine Alternative zu kommerziellen
+Verlagen zu bieten.
+Die AG Universitätsverlage hat im Jahr 2018 Qualitätsstandards für Open-Access-
+Monografien und -Sammelbände veröffentlicht und diese zuletzt im Jahr 2022 als Qualitätsstandards
+für Open-Access-Bücher aktualisiert.9 Die Qualitätsstandards richten
+sich an die Mitglieder der AG, darüber hinaus aber auch an andere Verlage und Publikationsdienste
+als Orientierung für gute Praxis für verlegerische Dienstleistungen bei
+Büchern. Im Förderprogramm Open-Access-Publikationskosten der Deutschen Forschungsgemeinschaft
+(DFG) ist die Beachtung der Qualitätsstandards für geförderte
+Open-Access-Bücher eine einzuhaltende Förderbedingung.
+Im englischsprachigen Publikationsraum hat sich innerhalb der Universitätsverlage
+eine eigene Strömung entwickelt, die unter dem Begriff New University Presses (NUP)
+firmiert. Hiermit sind Verlage gemeint, die zwar an den wissenschaftlichen Einrichtungen,
+meist sogar ebenfalls an den Bibliotheken angesiedelt sind, deren Lenkungs- und
+Steuerungsgremien aber von Wissenschaftler:innen ausgefüllt werden. Hierbei handelt
+es sich auch um wissenschaftseigene – oder vielmehr – wissenschaftsgeleitete Publikationsdienste,
+im Gegensatz zu den klassischen Universitätsverlagen (bzw. University
+Presses) ist die Bibliothek hier aber somit eine Dienstleisterin für die zugrunde liegende
+Infrastruktur, jedoch nicht an den inhaltlichen Entscheidungen oder dem Aufbau des
+Verlagsprogramms beteiligt.10
+ Arbeitsgemeinschaft Universitätsverlage 2022.
+ Wenn Publikationsdienstleistungen durch Personen aus der Wissenschaft übernommen oder geleitet
+werden, wird dies auch als Scholar-led Publishing bezeichnet. Dies bedeutet jedoch nicht, dass die genutzten
+Strukturen vollständig selbst aufgebaut werden müssen; auch hier werden meist Angebote und
+5.2 Open Access bei Büchern 337
+3.3 Publikationsdienste von Bibliotheken
+Mitunter bieten auch Bibliotheken Publikationsdienstleistungen an, in der Regel ohne
+dabei die gesamte Palette an Verlagsdienstleistungen abzudecken. So werden zum Beispiel
+von Universitäten meist institutionelle Repositorien betrieben, die durch die Bibliotheken
+betreut werden (vgl. Kapitel 5.3). Neben der Nutzung für die Bereitstellung von
+Zweitveröffentlichungen, und damit des grünen Wegs des Open Access (vgl. Kapitel 5.1),
+können hier auch Hochschulschriften (bspw. Dissertationen) und andere wissenschaftliche
+Texte publiziert werden. Welche damit assoziierten Dienstleistungen hierbei angeboten
+werden, ist ebenfalls sehr unterschiedlich. Von der Ausstattung der Publikationen mit
+persistenten Identifikatoren und der Betreuung der Autor:innen bis zur formalen Qualitätssicherung
+werden zahlreiche Dienste angeboten. Neben der Publikation wissenschaftlicher
+Bücher wird auch der Betrieb wissenschaftlicher Zeitschriften ermöglicht.
+Die Tatsache, dass sich entsprechende Dienstleistungen an den Einrichtungen nicht unter
+dem Begriff „Verlag“ versammeln, hat mitunter rein hochschulpolitische Gründe und ist
+unabhängig von den erbrachten Leistungen.
+Die Publikationsdienste von Bibliotheken zeigen bereits, dass Bücher grundsätzlich
+auch auf Repositorien publiziert werden können, da der technische Publikationsprozess,
+die Auffindbarkeit und die Langzeitarchivierung gewährleistet sind (vgl. Kapitel 5.4). Da
+Repositoriumsveröffentlichungen indexiert und damit auch langfristig zitier- und auffindbar
+sind, handelt es sich um vollwertige wissenschaftliche Publikationen. In vielen Fällen
+sind die erwähnten bibliothekseigenen Publikationsdienste daher bereits ausreichend,
+um dem wissenschaftlichen Zweck des jeweiligen Publikationsprojektes gerecht zu werden.
+Repositorien sollten daher innerhalb der fachwissenschaftlichen und bibliothekarischen
+Communities noch weiter gestärkt werden. So kann die derzeit noch bestehende
+Lücke zwischen Reputation und wissenschaftlicher Qualität geschlossen werden.
+Zusätzliche Leistungen wie Korrektorat oder Lektorat sowie anspruchsvolle Gestaltung
+können optional von den Publizierenden selbst übernommen werden – sie werden
+auch von profitorientierten Verlagen oft nicht mehr geleistet – oder werden, falls
+vorhanden, in gewissem Rahmen von den Bibliotheken übernommen. Es steht aber sicherlich
+außer Frage, dass für viele wissenschaftliche Bücher die Veröffentlichung in
+einem Verlag mit bestimmten dazugehörigen Leistungen dennoch notwendig ist. Hierzu
+gehören die technische und formale Qualitätssicherung, aber auch die Auszeichnung
+der Publikation in den gängigen Datenbanken zur besseren Verbreitung. In manchen
+Fällen gehört hier nach wie vor die Herstellung einer gedruckten Version dazu, deren
+Vertrieb ein Verlag gewährleistet. Durch den Aufbau von Verlagsstrukturen, die in die
+öffentlichen, wissenschaftseigenen Strukturen eingebettet sind (Universitätsverlage,
+Leistungen (bspw. das Webhosting oder die Bereitstellung von Software) genutzt, die von öffentlich finanzierten
+und in der Regel wissenschaftlichen Einrichtungen gestellt werden.
+338 Marc Lange und Robert Wiese
+New University Presses; siehe oben), können diese Dienstleistungen mehr und mehr
+von nicht-kommerziellen Verlagen übernommen werden.
+Aufgrund der langen Tradition bei der Begleitung von Publikationen und dem genuinen
+Angebot an forschungsnahen Services, deren Zweck die Finanzierung und Realisierung
+von Publikationen ist, ist an wissenschaftlichen Bibliotheken ohnehin von einer
+gewissen Verlagsexpertise auszugehen. Daher ist es wenig überraschend, dass Universitätsverlage
+meistens an den Bibliotheken angesiedelt sind und selbst, wenn die strategischen
+Positionen nicht mit Bibliothekar:innen besetzt sind, auf bibliotheksinterne Infrastrukturen
+zurückgegriffen wird. Wissenschaftliche Bibliotheken haben daher eine große Bedeutung
+bei der Umsetzung von Open Access bei Büchern.11 Ihre zentrale Position innerhalb
+der Wissenschaftslandschaft, die über Jahre gewachsenen Erfahrungen im wissenschaftlichen
+Publikationsbetrieb und damit verbundenen Dienste machen Bibliotheken auf dem
+Sektor des Open-Access-Publizierens zu idealen Kooperationspartnern für Forschende. Gemeinsam
+können so nicht-kommerzielle Alternativen zu profitorientiert agierenden und
+damit häufig nicht in erster Linie den inhärenten Zwecken der Wissenschaft verschriebenen
+Verlagen etabliert werden. Solche wissenschaftseigenen oder wissenschaftsgeleiteten
+Publikationsinfrastrukturen und -dienste werden zunehmend wichtiger.
+4 Finanzierung und Förderung
+Bei der Publikation von Open-Access-Büchern steht für die Publizierenden meistens
+die Frage der Finanzierung und möglicher Förderung von Publikationskosten an erster
+Stelle. Dies liegt maßgeblich am vorherrschenden Geschäftsmodell der Publikationsgebühren,
+die von Autor:innen gezahlt oder aufgebracht werden müssen, wofür
+sich mittlerweile verschiedene Fördermöglichkeiten etabliert haben. Allerdings stellt
+insbesondere bei der Realisierung von Open Access bei Monografien die Finanzierung
+nicht das einzige Hindernis dar. Es besteht auch ein Mangel an Bereitschaft für ein
+Überdenken der traditionellen Publikationsweise von Monografien als gedrucktes
+Buch, dessen Relevanz sich an Verkaufszahlen bemisst, häufig gepaart mit einem fehlenden
+Verständnis für die Vorteile der Umstellung auf Open Access.12
+Grundsätzlich gilt aber: Wissenschaftliche Fachbücher wenden sich vorrangig an
+das wissenschaftliche Fachpublikum, sodass Verlage – insbesondere kleine und mittelgroße
+Fachverlage, und in Abgrenzung zum Unterhaltungsbuchmarkt – meist in einem
+Nischenmarkt agieren. Verkaufserlöse decken meist nicht die Produktions- und Vertriebskosten,
+weshalb zur Deckung dieser Kosten und dem Erzielen von Gewinnen häufig
+finanzielle Zuschüsse zur Realisierung einer Buchpublikation notwendig sind. In
+ Morka u. Gatti 2021.
+ Ferwerda u. a. 2017: S. 20.
+5.2 Open Access bei Büchern 339
+Deutschland ist dies oft noch der sogenannte Druckkostenzuschuss, der begrifflich im
+Printzeitalter verhaftet ist. Im europäischen Vergleich ist dieser Finanzierungsweg in
+Deutschland besonders üblich, hingegen in anderen Ländern selten bis gar nicht etabliert.
+13 Solche Zuschüsse müssen von den Autor:innen aufgebracht werden, sodass
+selbst im Closed-Access-Modell, bei dem die Verlage die Bücher exklusiv kommerziell
+und nicht frei zugänglich vertreiben, Kosten und Aufwand für die Publizierenden anfallen.
+Auch deshalb stellen nicht-kommerzielle Verlage und wissenschaftseigene Verlagsstrukturen
+und Publikationsdienstleistungen wichtige Alternativen und zunehmend ein
+Gegengewicht dar. Sie können durch ihr von vornherein auf Open Access ausgelegtes
+Geschäftsmodell dazu beitragen, dass auch kommerzielle Verlage ihre bereits vorhandenen
+Open-Access-Angebote anpassen und hinsichtlich des für das wissenschaftliche
+Publizieren relevanten Leistungsumfangs ausbauen.
+4.1 Kosten- und Finanzierungsmodelle
+Das am weitesten verbreitete Geschäftsmodell für Bücher über den goldenen Weg des
+Open Access ist die Erhebung von Publikationsgebühren (Book Processing Charges,
+BPC).14 Hierbei werden meist pauschale Beträge für die Herstellung der Online-Version
+eines Buches erhoben. Das Maß an Transparenz, mit dem die erforderlichen Dienstleistungen
+und deren Kosten von einzelnen Verlagen dargestellt werden, ist ebenso heterogen
+wie die Höhe der Pauschalbeträge, welche zwischen wenigen hundert Euro bis hin
+zu fünfstelligen Summen reichen können (siehe unten).15 Die von kommerziellen
+Verlagen für die Publikation eines Open-Access-Buches veranschlagten Pauschalbeträge
+werden je nach Verlag in unterschiedlichem Detailgrad nach Dienstleistungen
+aufgeschlüsselt. Bei Universitätsverlagen sind inhäusige Leistungen für die Angehörigen
+der eigenen Einrichtung hingegen in der Regel kostenfrei. Zusätzliche
+Dienstleistungen wie Satz und Layout werden direkt mit den jeweiligen Dienstleistern
+verhandelt. Die durch die Autor:innen für die Publikation eines Buches gezahlte
+Summe wird somit ohne eine verlagsseitige Gewinnabsicht an die Dienstleister gezahlt.
+Die Preisentwicklung für Open-Access-Publikationen auf dem kommerziellen
+Buchmarkt ist Forscher:innen meist nur schwer zu vermitteln. Einen Überblick über
+tatsächliche BPC bei verschiedenen Verlagen bieten die laufend aktualisierten Daten
+des Projekts OpenAPC.16 Im Datenzeitraum 2014 bis 2023 finden sich BPC von rund
+ Ferwerda u. a. 2017: S. 60.
+ Crossick 2015.
+ Aspekte wie die Kalkulation und Transparenz von Publikationsgebühren, tatsächliche Produktionskosten
+und dahinterstehende Verlagsleistungen können hier nicht ausführlich behandelt werden.
+Vgl. dazu u. a. Maron u. a. 2016; Jubb 2017; Ferwerda u. a. 2017; Stone u. Marques 2018; Nordhoff 2019.
+ Siehe https://treemaps.openapc.net (16.06.2024); BPC-Datensatz (Stand: 16.06.2024) Jedoch können die
+Daten aufgrund methodischer Limitierungen in der Erhebung nur eine Annäherung bieten. Den Daten
+340 Marc Lange und Robert Wiese
+500 Euro bis hin zu 22.000 Euro (mehrbändige Werke ausgenommen), die durchschnittliche
+BPC beträgt rund 6.580 Euro (allerdings mit einer Standardabweichung
+von immerhin rund 4.630 Euro), mit einer Tendenz zur Steigerung. Für den aktuelleren
+und datenreicheren Vierjahreszeitraum 2020 bis 2023 ergibt sich ein Durchschnitt
+von rund 7.400 Euro (Standardabweichung: rund 4.160 Euro).
+Um bei den BPC nicht derselben Kostenspirale anheimzufallen wie zunächst bei den
+Zeitschriftenabonnements und anschließend bei den Article Processing Charges (APC) für
+Zeitschriftenartikel, gibt es verschiedene Initiativen mit dem Ziel der Etablierung von
+Publikationsstrukturen, deren Nutzung für Autor:innen und Herausgeber:innen kostenfrei
+ist. Dieses Modell wird auch als Diamond Open Access bezeichnet. Der Begriff wird
+innerhalb der Bibliotheks- und Verlagswelt jedoch bisher unterschiedlich verwendet.17
+Weitere übliche und teils mit der Erhebung von Publikationsgebühren kombinierte
+Finanzierungsmodelle sind die Querfinanzierung über Printverkäufe sowie
+Freemium-Modelle, bei denen kostenfreier Zugang zum Hauptinhalt gewährt wird
+(bspw. als HTML-Version) und gleichzeitig bestimmte Funktionsumfänge oder digitale
+Publikationsformate (bspw. PDF und EPUB) gegen Bezahlung erhältlich sind. Ein Geschäfts-
+und Finanzierungsmodell ist auch das der institutionellen Mitgliedschaften,
+bei dem ein Open-Access-Verlag durch Mitgliedsbeiträge von Institutionen finanziert
+oder subventioniert wird, was meist im Gegenzug zu bestimmten Vorteilen oder Leistungen
+führt (bspw. geringerer Publikationskosten oder Preisrabatte für Printexemplare
+für die Angehörigen der Institution). Ein prominentes Beispiel hierfür ist der
+2008 gegründete Verlag Open Book Publishers.
+Ein weiteres wichtiges Modell ist das der kollektiven oder kollaborativen Finanzierung.
+18 Hier muss für eine festgelegte Anzahl an Buchpublikationen ein definierter Gesamtbetrag
+von einer zu erreichenden Mindestanzahl an Beitragenden, in der Regel
+wissenschaftliche Einrichtungen oder Bibliotheken, aufgebracht werden. Diese beteiligen
+sich jeweils mit einem meist festgelegten Teilbetrag und sobald die erforderliche
+Zahl der Beitragenden und damit die Gesamtfinanzierung gesichert ist, können die
+Open-Access-Bücher publiziert werden oder, im Falle von Freikäufen von Closed-Access-
+Büchern, auf Open Access umgestellt werden. Gibt es mehr Beitragende als notwendig,
+verringern sich die Einzelfinanzierungbeiträge für alle, denn der notwendige Gesamtbeliegt
+zwar ein dokumentiertes Datenschema für die Meldung durch die teilnehmenden Institutionen zugrunde,
+jedoch ist dieses vom Datenschema für APC adaptiert und für BPC unzureichend geeignet. Es
+berücksichtigt nicht die verschiedenen Kostenunterarten. Zudem melden einige Institutionen lediglich
+die von ihnen geförderten Kostenanteile anstelle der Gesamtkosten, mit der Folge einer Verfälschung
+der Gesamtdaten nach unten. Erschwerend kommt hinzu, dass Verlage grundsätzlich keine transparenten
+Kalkulationen von Publikationsgebühren vornehmen – illustrativ daran zu erkennen, dass die BPC
+nicht selten den Maximalförderbetrag bestimmter Förderorganisationen ausschöpfen.
+ Es gibt aktuell keinen Konsens darüber, ob mit Diamond Open Access genuin nicht-kommerzielle
+Angebote bezeichnet werden oder ob sich der Begriff auf wissenschaftseigene Publikationsstrukturen
+bezieht, vgl. Dellmann u. a. 2022. Siehe zu Diamond Open Access auch Kapitel 5.4.
+ Eve 2014: S. 134.
+5.2 Open Access bei Büchern 341
+trag bleibt gleich. Angesichts der Finanzierungsmethode wird dieses Modell auch als
+Crowdfunding bezeichnet oder als konsortiale Finanzierung, wenn die Finanzierung
+durch bestehende oder sich dafür bildende Konsortien erfolgt. Die Organisation, Koordination
+und Akquise werden häufig durch vermittelnde Akteure geleistet. Prominentestes
+Beispiel ist der 2012 gegründete Dienstleister Knowledge Unlatched, der sich durch eingepreiste
+Gebühren finanziert und den Weg für dieses Modell für Open-Access-Bücher bereitet
+hat. Vergleichbare Initiativen nicht-kommerzieller Natur wurden auch aus der
+Wissenschaft und von Bibliotheken etabliert.19
+4.2 Förderung durch Forschungseinrichtungen
+und Förderorganisationen
+Um Forschende bei der Open-Access-Publikation zu unterstützen, haben viele Forschungseinrichtungen,
+aber auch Forschungsverbände oder Bundesländer Fonds eingerichtet,
+aus denen die Publikationskosten ganz oder teilweise finanziert werden
+können. Gespeist werden solche Open-Access-Publikationsfonds zum Teil aus Drittmitteln,
+häufig wenden die Einrichtungen hierfür aber auch Haushaltsmittel auf. Auf
+Bundesland-Ebene haben Brandenburg, Bremen und Niedersachsen Publikationsfonds
+auch für Open-Access-Bücher für die landeseigenen Hochschulen eingerichtet.
+Die Leibniz-Gemeinschaft hat eine ähnliche Förderstruktur für ihre bundesweiten
+Einrichtungen aufgebaut. Dass solche Fonds auch für Open-Access-Bücher bestehen,
+ist im Vergleich zu Publikationsfonds für Zeitschriften eine jüngere Entwicklung.
+Auch in den Förderprogrammen der DFG spiegelt sich dies wider. Im von 2010 bis
+2020 bestehenden Förderprogramm Open Access Publizieren konnten nur Mittel für
+die Förderung von Open-Access-Zeitschriftenartikeln beantragt werden.20 Erst seit
+2021 können im Nachfolgeprogramm Open-Access-Publikationskosten erstmalig auch
+Mittel für die Förderung von Open Access bei Büchern beantragt werden;21 hier fördert
+die DFG Open-Access-Bücher, die aus DFG-geförderten Projekten hervorgehen,
+mit jeweils bis zu 5.000 Euro. In Österreich und der Schweiz fördern die nationalen
+Forschungsförderorganisationen Österreichischer Wissenschaftsfonds (FWF) bzw.
+Schweizerischer Nationalfonds (SNF), die beide Open Access für begutachtete Buchpublikationen
+vorschreiben (goldener oder grüner Weg), entsprechende Publikationskosten
+mit bis zu 22.000 Euro bzw. mit regulär 15.000 Schweizer Franken.22
+ Ein Beispiel hierfür ist das BMBF-geförderte Projekt KOALA (Konsortiale Open-Access-Lösungen
+aufbauen). Auch viele Fachinformationsdienste unterstützen ihre Fachgemeinschaften bei der Open-
+Access-Publikation.
+ DFG 2020.
+ DFG 2023.
+ Stand der Angaben dieses Absatzes: 16.06.2024.
+342 Marc Lange und Robert Wiese
+Die anfängliche, überproportionale Fokussierung auf Zeitschriftenartikel ist aber
+keineswegs nur bei der DFG zu finden. Im von der European Science Foundation publizierten
+Plan S zur Förderung von Open Access ist nur einer von zehn Punkten der
+Publikation von Büchern gewidmet; die Open-Access-Transformation für Bücher wird
+als länger dauernd prognostiziert.23 Auch in Richtlinien zum Publizieren oder zu
+Open Access von Forschungseinrichtungen fanden Bücher oft nur wenig oder gar
+keine Beachtung.24 Lange Zeit lag der Fokus der Open-Access-Förderung also beinahe
+ausschließlich auf Publikationen in wissenschaftlichen Zeitschriften. Bedeutung gewann
+die Finanzierung von Open-Access-Buchpublikationen vor allem durch zahlreiche
+Untersuchungen, Bedarfserhebungen und Initiativen, die gezeigt haben, dass eine
+echte Open-Access-Transformation ohne den Buchbereich nicht möglich ist.25 Und so
+folgte in den letzten Jahren eine deutlichere Berücksichtigung von Büchern in wichtigen
+wissenschaftspolitischen Positionierungen und Stellungnahmen zu Open Access.
+4.3 Initiativen und Projekte
+Es existieren zahlreiche Initiativen und Projekte im Bereich von Open Access bei Büchern,
+von denen hier nur eine Auswahl genannt und erläutert werden kann. Bedeutsam
+ist das Directory of Open Access Books (DOAB), eine Indexierungsplattform für Open-
+Access-Bücher äquivalent zum Directory of Open Access Journals (DOAJ). Betrieben wird
+das DOAB von der nicht-profitorientierten OAPEN Foundation, die mit der OAPEN Library
+desweiteren ein zentrales Repositorium für Open-Access-Bücher sowie ein Open
+Access Books Toolkit anbietet. Das Public Knowledge Project (PKP) entwickelt neben
+Open Journal Systems (OJS) und Open Conference Systems (OCS) mit Open Monograph
+Press (OMP) auch eine Open-Source-Software für die Publikation von Open-Access-
+Büchern, die vor allem von Publikationsdiensten und unabhängigen, kleineren Verlagen
+eingesetzt wird. COPIM ist ein Verbund aus unabhängigen und vorwiegend kleinen
+Open-Access-Verlagen, Universitäten, Bibliotheken und Infrastrukturdiensten, mit dem
+Ziel der Initiierung und Förderung einer gemeinnützigen Infrastruktur für das Publizieren
+von Open-Access-Büchern; Beispiele sind das Open Book Collective und die Metadatenplattform
+Thoth. Auch das europäische Verbundprojekt OPERAS hat Projekte zur
+Förderung von Open Access bei Büchern gestartet, darunter HIRMEOS zur Konsolidierung
+von Open-Access-Monografien und PALOMERA mit dem Ziel der Harmonisierung
+und Stärkung der Vorgaben zur Open-Access-Publikation von Büchern in Richtlinien von
+Förderorganisationen und Forschungseinrichtungen. Im Projekt AuROA wurde u. a. ein
+Generator für rechtsgültige Musterpublikationsverträge für Open-Access-Bücher entwi-
+ cOAlition S 2019.
+ Ferwerda u. a. 2017: S. 19–39.
+ Stone und Marques 2018; Graf u. a. 2020: S. 39 ff.
+5.2 Open Access bei Büchern 343
+ckelt. Zum Austausch verschiedener Akteure im deutschsprachigen Raum bestehen die
+Fokusgruppen des open-access.network, darunter auch eine allgemein zu Open-Access-
+Büchern sowie eine für Publikationsfonds für Open-Access-Bücher. Die Schwerpunktinitiative
+Digitale Information der Allianz der deutschen Wissenschaftsorganisationen hat
+darüber hinaus eine Handreichung erarbeitet, um die disparate Landschaft an institutionellen
+Strategien der Open-Access-Förderung bei Büchern in einen gemeinsamen, übergeordneten
+Standard zu überführen.26
+5 Herausforderungen und Potenziale
+Nach der Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen gelten
+Publikationen nur dann als Open-Access-konform, wenn sie über den freien Zugang
+hinaus auch frei und für jeden verantwortungsvollen Zweck nachnutzbar sind.27 In der
+Praxis bedeutet dies die Veröffentlichung unter einer Open-Access-konformen Creative-
+Commons-Lizenz (CC-Lizenz), also den Lizenzvarianten CC BY oder CC BY-SA. Was bei der
+Publikation von Zeitschriftenartikeln mittlerweile gängige Praxis ist, wird bei Büchern
+häufig sehr skeptisch betrachtet. Die bereits zuvor genannte, längere Erarbeitungsdauer
+einer Monografie führt zu einer noch größeren Identifikation mit dem Werk seitens der
+Autor:innen und damit zwangsläufig zu größeren Befürchtungen vor ungewünschter
+Nachnutzung. Diesen Sorgen muss aufgeschlossen begegnet werden, möglicherweise besteht
+ein größerer Beratungsbedarf als bei Zeitschriftenartikeln. So ist zum Beispiel die
+Mitlizenzierung von Inhalten Dritter bei Büchern von größerer Bedeutung. Auch wenn
+das Recht zur Nachnutzung und Veröffentlichung der Inhalte vorher eingeholt wurde, ist
+die Mitlizenzierung unter einer CC-Lizenz nicht automatisch möglich. Die nachgenutzten
+Inhalte müssen daher mitunter von der Lizenz ausgenommen werden, was die Nachnutzung
+des Buchs streng gesehen wiederum einschränkt. Darüber hinaus gibt es Bedenken,
+die aus Sicht von Autor:innen gegen eine CC-Lizenzierung ihrer Bücher sprechen. Häufig
+ist zum Beispiel die Sorge vor Plagiaten in mangelnder Kenntnis des Urheberrechts begründet.
+Aufklärende Beratungsgespräche schaffen häufig Abhilfe, bspw. mit dem Hinweis,
+dass unerwünschte kommerzielle Nachnutzungen meist auch mit der Lizenz CC BYSA
+verhindert werden können. Ebenfalls weit verbreitet ist die Sorge vor unautorisierten
+oder zumindest unprofessionellen Übersetzungen. Dies führt dazu, dass die Vergabe des
+ND-Moduls gewünscht und die freie Nachnutzung dadurch eingeschränkt wird. Dass
+damit auch andere von Forscher:innen gewünschte Anwendungsszenarien eingeschränkt
+sind, bspw. die Nutzung einzelner Kapitel in Lehrmaterialien, ist oft unbekannt und spielt
+eine viel größere Rolle als bei Zeitschriftenartikeln. Im Zweifel muss die Entscheidung
+über die Lizenz aber bei den Autor:innen liegen.
+ Godel u. a. 2020.
+ Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities 2003.
+344 Marc Lange und Robert Wiese
+Zudem kann die Rechteeinholung für die Reproduktion von Abbildungen und anderen
+Inhalten, die nicht über das Zitatrecht möglich ist,28 für Open-Access-Bücher erschwert,
+teurer oder gar unmöglich sein. Dies liegt zum einen an dem eben ausgeführten
+Aspekt der Mitlizenzierung der Inhalte. Zum anderen liegt dem aber auch die oft noch
+übliche Praxis der auflagenbasierten Berechnung der Kosten für Reproduktionsrechte zugrunde,
+die bei frei zugänglichen E-Books so nicht mehr funktioniert und sodann in der
+Annahme einer quasi unbegrenzten Auflage die Kosten deutlich höher ausfallen.29
+Großes Potenzial für Open Access und zugleich eine Herausforderung besteht bei Dissertationen.
+Diese entstehen wie alle akademischen Texte heutzutage in elektronischer
+Form und könnten anders als bspw. Zeitschriftenartikel unkompliziert grundsätzlich auf
+den universitätseigenen Repositorien, (zugleich Hochschulschriftenservern), veröffentlicht
+und zugänglich gemacht werden. Daher müsste Open Access hier eigentlich leichtes
+Spiel haben,30 aber die vorherrschenden fachlichen Reputations- und Anerkennungslogiken
+stehen dem noch entgegen. Deshalb sollte für Dissertationen – ebenso wie für Habilitationsschriften,
+also alle Hochschulschriften ab der Promotion – die in Deutschland
+übliche Veröffentlichungspflicht zu einer Open-Access-Veröffentlichungspflicht über
+Hochschulschriftenserver weiterentwickelt werden. So wäre der Zugang zu den in
+Promotionen erarbeiteten wissenschaftlichen Ergebnissen, einem beträchtlichen
+Teil der wissenschaftlichen Forschung, gewährleistet. Die Veröffentlichungspflicht für
+Dissertationen, die ja mit einem erwarteten Erkenntnisgewinn und einer entsprechenden
+Relevanz einer solchen langwährenden wissenschaftlichen Auseinandersetzung begründet
+ist, wäre damit ins 21. Jahrhundert gebracht sowie den technischen Möglichkeiten
+und der Publikationsrealität der Gegenwart angepasst.31 Forscher:innen stünde es frei,
+ihre Dissertationen weiterhin zur Publikation bei Verlagen einzureichen oder anderweitig
+zu publizieren. Diese Veränderung wäre gewinnbringend für die Wissenschaft: Dissertationen
+wären zügig für alle frei zugänglich und besser auffindbar, zudem wäre der
+Anreiz für Verlage gesenkt, unveränderte und oftmals lediglich für ein kleines Fachpublikum
+verfasste Dissertationen zu publizieren. Stattdessen würden Verlage idealerweise
+nur noch herausragende, streng qualitätsgeprüfte Dissertationen nach inhaltlicher und
+stilistischer Überarbeitung in monografischer Form publizieren. Auch lange Wartezeiten
+zwischen Abschluss und Verteidigung einer Dissertation und dem erst nach Veröffentlichung
+erfolgenden Verleih des Doktorgrads würden entfallen.
+ Die Problematik tritt vor allem bei Bildzitaten (Großzitaten) auf. Gedeckt durch das Zitatrecht sind
+diese nur, wenn der Argumentation ohne sie nicht gefolgt und der Text nicht ohne das (Bild-)Zitat verstanden
+werden kann. Bildzitate sind darüber hinaus nur dann erlaubt, wenn am Bild keine Veränderungen
+vorgenommen werden. Vgl. Kreutzer u. Fischer 2023: S. 11–13, 46–47.
+ Eve 2014: S. 119; Crossick 2015.
+ Suber 2016.
+ Ausnahmen von einer solchen Veröffentlichungspflicht sollten möglich sein, jedoch nur in gut begründeten
+und durch unabhängige Universitätsinstanzen genehmigten Fällen, wie zum Schutz vertraulicher
+oder patentrelevanter Daten und Forschungsergebnisse, bspw. mithilfe von temporären Zugangssperren.
+5.2 Open Access bei Büchern 345
+Unabhängig von ihrem Publikationszweck werden Open-Access-Bücher in den meisten
+Fällen als PDF publiziert. Das liegt primär daran, dass PDF als gängiges Leseformat in
+der Wissenschaft gut etabliert und weit verbreitet ist, u. a. weil es nicht mit der Konvention
+seitengebundener Literaturzitationen bricht. Darüber hinaus ist aber auch die Herstellung
+von PDF im Zuge des Publikationsprozesses aufgrund ihrer Einfachheit sehr
+beliebt bei Publikationsdienstleistern. Für E-Book-Reader ist das Format jedoch nicht
+immer geeignet. Es entstehen Darstellungsfehler oder das Öffnen eines Titels ist auf dem
+Endgerät im schlimmsten Fall gar nicht möglich. Gängige E-Book-Formate wie EPUB oder
+MOBI werden bei weitem nicht von allen Verlagen angeboten. Es arbeiten bereits einige
+Verlage sowie Initiativen und Projekte daran, den Herstellungsprozess vom Ausgabeformat
+zu entkoppeln, um eine medienneutrale Publikation zu ermöglichen. Ziel ist es, ein
+einzelnes Eingabeformat in beliebig viele Ausgabeformate exportieren zu können (Single-
+Source-Publishing). Auch hier ist die Entwicklung bei Zeitschriftenartikeln bereits weiter
+fortgeschritten als bei Büchern.
+Die Publikation von Büchern ist in ihrer Komplexität häufig aufwändiger als ein einzelner
+Artikel, es müssen deutlich mehr Elemente ausgezeichnet werden. Diese Entwicklungwird
+in den nächsten Jahren sicherlich noch genauer zu beobachten sein, es ist aber
+davon auszugehen, dass die Formate, in denen Open-Access-Bücher in Zukunft angeboten
+werden, zunehmen werden. Mit der Etablierung eines XML-basierten Workflows als häufigste
+Form des Single-Source-Publishings, dann auch XML-First-Workflow genannt, sind
+außerdem weitere Publikationsformate denkbar, deren Umsetzung als PDF nur schwer
+oder gar nicht möglich wäre. Enhanced Publications oder Living Documents, bei denen
+innerhalb des Textes auf weitere Texte, Daten oder Inhaltselemente verwiesen wird oder
+die beständig erweitert werden, sind nur einige bekannte Beispiele.
+Neben der technischen Herausforderung der Herstellung von innovativen Publikationsformaten
+ist auch die Zitierbarkeit von dynamischen Dokumenten nicht trivial.
+Für deren Referenzierbarkeit ist eine transparente Versionierung unumgänglich.
+Der Publikationsprozess wird dadurch nicht nur technisch anspruchsvoller, sondern
+auch auf das Leben eines Titels nach seiner Erstpublikation erweitert.
+Eine Alternative zum Aufbau eigener Strukturen für die Realisierung technisch
+immer aufwändigerer Formate ist die Nutzung offener Software oder Portale. Beim Community
+Publishing, wie es bspw. die Plattform Pubpub anbietet, können Autor:innen und
+Herausgeber:innen ihre Dokumente in einer bereits vorhandenen Nutzungsoberfläche
+selbst erstellen und erweitern. Durch die offene Struktur der Software ist es möglich,
+Funktionsbedarfe selbst zu implementieren oder an die Community zu kommunizieren.
+6 Fazit
+Seit der Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen
+haben sich das Verständnis und die Akzeptanz der Notwendigkeit von Open Access
+346 Marc Lange und Robert Wiese
+enorm gewandelt. Als die aktivsten Akteurinnen und effektivsten Treiber dieses Prozesses
+werden Bibliotheken wahrgenommen und diese stehen damit im Zentrum der
+Open-Access-Transformation.32 Als Folge ist Open Access mittlerweile bei Zeitschriftenartikeln
+weit verbreitet und wächst wesentlich stärker als Closed Access.33 Bei Büchern
+sieht dies jedoch anders aus. Auch wenn der Anteil an freien Inhalten steigt,
+werden die meisten wissenschaftlichen Bücher nach wie vor nicht als Open-Access-
+Publikationen veröffentlicht.
+Durch zahlreiche Initiativen und großes Engagement, vor allem aus den Bibliotheken
+aber auch aus der Forschung selbst, hat sich Open Access bei Büchern in den letzten
+Jahren zu einem dynamischen Feld entwickelt. Durch eine Verlagerung der Publikationsstrukturen
+in öffentliche Einrichtungen, verbesserte Fördermöglichkeiten und die Entkopplung
+von Publikation und angenommenem Renommee können Lücken in der
+Informationsversorgung verhindert werden. Einer Kostenspirale bei der Erwerbung von
+Büchern kann durch die Umschichtung von Etats, hin zu wissenschaftseigenen Publikationsdiensten,
+ebenso entgegengewirkt werden (vgl. Kapitel 4.5). Etabliert sich der Gedanke
+eines freien Zugangs auch bei Monografien weiter, kann Open Access tatsächlich
+der überraschende Ausweg aus der vielbeschworenen Monografienkrise sein. Um die
+Akzeptanz von Open Access bei Büchern sowie die wissenschaftseigenen und nicht-profitorientierten
+Publikationsinfrastrukturen und -dienste noch weiter zu stärken, müssen
+jedoch intransparente Publikationskosten und die weiterhin stark vertretene Reputationslogik
+sowie der markenabhängige Vertrauensvorschuss überwunden werden.
+Durch eine Zusammenarbeit zwischen Verlagen, die nicht zuallererst ein profitorientiertes
+Geschäftsmodell verfolgen, und wissenschaftseigenen Publikationsdiensten können
+hierfür wichtige Synergien erzeugt werden. Da Universitätsverlage in der Regel
+ebenso an den Informationseinrichtungen der jeweiligen Forschungseinrichtung angesiedelt
+sind wie Publikationsfonds, ist auch in Zukunft davon auszugehen, dass viele der für
+die Open-Access-Bewegung wichtigen Impulse aus den Bibliotheken kommen werden.
+Literatur
+Arbeitsgemeinschaft Universitätsverlage: Qualitätsstandards für Open-Access-Bücher. 2022. https://doi.
+org/10.5281/zenodo.7075761.
+Barbers, Irene u. Philipp Pollack: Open Access in Deutschland: Entwicklung in den Jahren 2005–2019.
+Jülich: Forschungszentrum Jülich 2021. http://hdl.handle.net/2128/27849 (16.06.2024).
+Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities. 2003.
+https://openaccess.mpg.de/Berlin-Declaration (16.06.2024).
+cOAlition S: Plan S: Principles and Implementation. Plan S/cOAlition S 2019. https://www.coalition-s.org/adden
+dum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation
+(16.06.2024).
+ Stone u. Marques 2018.
+ Barbers u. Pollack 2021; sowie Kapitel 5.1 „Open Access bei Zeitschriften“.
+5.2 Open Access bei Büchern 347
+Crossick, Geoffrey: Monographs and Open Access: A Report to HEFCE. London: Higher Education Funding
+Council for England 2015. https://dera.ioe.ac.uk/id/eprint/21921 (16.06.2024).
+Dellmann, S., X. Van Edig, J. Rücknagel u. S. Schmeja: Facetten eines Missverständnisses: Ein
+Debattenbeitrag zum Begriff „Diamond Open Access“. In: o-bib 9 (2022), H. 3. https://doi.org/10.
+5282/o-bib/5849.
+Deutsche Forschungsgemeinschaft (DFG) (Hrsg.): Das DFG-Förderprogramm Open Access Publizieren:
+Bericht über die Förderung. Bonn: Deutsche Forschungsgemeinschaft 2020. https://doi.org/10.5281/
+zenodo.4486411.
+Deutsche Forschungsgemeinschaft (DFG): Wie unterstützt die DFG Open Access in der
+Infrastrukturförderung? Deutsche Forschungsgemeinschaft. Veröffentlicht am 15.06.2023.
+https://www.dfg.de/foerderung/programme/infrastruktur/lis/open_access/infrastrukturfoerderung/
+index.html (16.06.2024).
+Eve, Martin Paul: Open Access and the Humanities: Contexts, Controversies and the Future. Cambridge:
+Cambridge University Press 2014. https://doi.org/10.1017/CBO9781316161012.
+Ferwerda, Eelco, Frances Pinter u. Niels Stern: A Landscape Study on Open Access and Monographs:
+Policies, Funding And Publishing In Eight European Countries. Knowledge Exchange. 2017.
+https://doi.org/10.5281/zenodo.815932.
+Godel, R., U. Herb, K. Hillenkötter, A. Holzer, S. Nordhoff, H. Schäffler u. O. Siegert: Förderung
+wissenschaftlicher Buchpublikationen im Open Access (Open-Access-Bücher): Standards und
+Richtlinien für die Gestaltung infrastruktureller Rahmenbedingungen und die Vergabe von
+Fördermitteln durch wissenschaftliche Einrichtungen. 2020. https://doi.org/10.3249/allianzoa.014.
+Graf, Dorothee, Yuliya Fadeeva u. Katrin Falkenstein-Feldhoff (Hrsg.): Bücher im Open Access: Ein
+Zukunftsmodell für die Geistes- und Sozialwissenschaften? Opladen: Barbara Budrich 2020.
+https://doi.org/10.17185/duepublico/72237.
+Jubb, Michael (2017): Academic Books and their Future. London: Academic Book of the Future Project.
+https://academicbookfuture.wordpress.com (17.09.2024).
+Kreutzer, Till u. Georg Fischer: Urheberrecht in der Wissenschaft: Ein Überblick für Forschung, Lehre und
+Bibliotheken. Berlin: Bundesministerium für Bildung und Forschung 2023. https://doi.org/10.5281/ze
+nodo.8284551.
+Lange, Marc u. Robert Wiese: Open Access und die VG Wort. Handreichung. Berlin Universities Publishing.
+2024. https://doi.org/10.5281/zenodo.12391654.
+Maron, Nancy, Christine Mulhern, Daniel Rossman u. Kimberly Schmelzinger: The Costs of Publishing
+Monographs: Toward a Transparent Methodology. New York: Ithaka S+R 2016. https://doi.org/10.
+18665/sr.276785.
+Morka, Agata u. Rupert Gatti: Academic Libraries and Open Access Books in Europe: A Landscape Study.
+2021. https://doi.org/10.5281/zenodo.4483773.
+Nordhoff, Sebastian: Warum kostet ein wissenschaftliches Buch 28.000 EUR? In: LIBREAS 35 (2019).
+https://doi.org/10.18452/20329.
+Stone, Graham u. Mafalda Marques: Knowledge Exchange Survey on Open Access Monographs.
+Knowledge Exchange. 2018. https://doi.org/10.5281/zenodo.1475446.
+Suber, Peter: Open Access. Cambridge, Massachussetts: The MIT Press 2012. https://doi.org/10.7551/mit
+press/9286.001.0001.
+Suber, Peter: Open Access to Electronic Theses and Dissertations (ETDs). In: Knowledge Unbound:
+Selected Writings on Open Access, 2002–2011. Hrsg. von Peter Suber. Cambridge, Massachusetts:
+The MIT Press 2016 (2006). S. 357–370. https://doi.org/10.7551/mitpress/8479.003.0048.

@@ -1,0 +1,880 @@
+﻿Peter Rempis
+5.6 OER an Bibliotheken
+Eine Annäherung
+
+1 Entstehung des Begriffes der OER und deren
+Definition
+
+Die Vorstellung von online frei verfügbaren digitalen Lehr-/Lernmaterialien,1 die
+von jeder Person für jegliche Zwecke eingesetzt werden können, bildete sich im Jahr
+2002. Der Anstoß dazu wurde vom Massachusetts Institute for Technology (MIT) gege-
+ben. Das MIT stellte Tausende von Lehr-/Lernmaterialien im Rahmen der Open-
+Courseware-Initiative (OCW-Initiative) kostenfrei online. Andere US-Universitäten
+zogen nach.2
+
+Die OCW-Aktivitäten führten zur Entwicklung des Begriffes von den Open Educatio-
+nal Resources (OER). Er wurde im Jahr 2002 am Rande des von der UNESCO veranstalte-
+ten „Forum on the Impact of Open Courseware for Higher Education in Developing
+Countries“ (1. bis 3. Juli 2002 in Paris) geprägt.3 „The open provision of educational re-
+sources, enabled by information and communication technologies, for consultation, use
+and adaptation by a community of users for non-commercial purposes.“4 Eine erste
+Definition von offenen (online) verfügbaren Lernmaterialien war entstanden. Inspiriert
+durch Ideen aus Entwicklungsländern wurde der nicht-kommerzielle Aspekt betont.
+
+Doch die OER-Definition entwickelte sich weiter. 2012 fand in Paris der „Weltkon-
+gress zu Open Educational Resources (OER)“ statt. Die häufig zitierte Pariser Erklä-
+rung zu OER ( 2012), die den Staaten empfiehlt, OER auf vielfältige Weise zu fördern,5
+wurde verabschiedet. 2012 definierte die UNESCO den Begriff von OER auf etwas an-
+dere Art als im Jahre 2002:
+
+[OER sind] Lehr-, Lern- und Forschungsressourcen in Form jeden Mediums, digital oder ander-
+weitig, die gemeinfrei sind oder unter einer offenen Lizenz veröffentlicht wurden, welche den
+kostenlosen Zugang, sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch
+
+ Der vorliegende Text ist aus der Perspektive eines zentralen OER-Repositoriums verfasst, das OER
+für die Hochschulen eines Bundeslandes publiziert. Viele andere Blickwinkel auf das Thema OER
+sind möglich und gleich relevant. Eine völlige Generalisierung dieses umfassenden Gegenstandes er-
+scheint im Umfange eines Handbuchartikels aber weder möglich noch sinnvoll.
+ Neumann 2013: S. 807, und vgl. Johnson, Larry u. a. 2015: S. 14.
+ Alquézar Sabadie u. a. 2014: S. 3. Jelitto 2005: S. 1.
+ Unesco (Hrsg.): Forum on the Impact of Open Courseware for Higher Education in Developing Coun-
+tries – Final Report. Forum 1.–3. Juli 2002. 24. http://unesdoc.unesco.org/images/0012/001285/128515e.
+pdf (01.07.2023).
+ Butcher 2013: S. 4.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-025
+
+
+
+396 Peter Rempis
+
+Andere ohne oder mit geringfügigen Einschränkungen erlaubt. Das Prinzip der offenen Lizenzie-
+rung bewegt sich innerhalb des bestehenden Rahmens des Urheberrechts, wie er durch ein-
+schlägige internationale Abkommen festgelegt ist, und respektiert die Urheberschaft an einem
+Werk.6
+
+Zur Konkretisierung und Operationalisierung hat David Wiley 2014 mit seinen „5 Rs
+of Openness“7 (5R) die Nutzungsmethoden, die im besten Falle auf OER anwendbar
+sein sollen, definiert:
+Retain – das Recht, Kopien zu erstellen und zu besitzen mit Kontrolle über deren
+Vervielfältigungsprozess;
+Reuse – das Recht, den unveränderten Inhalt vielfältig weiter zu verwenden (z. B. im
+Klassenraum, in einer Studiengruppe, auf einer Webseite, in einem Video);
+Revise – das Recht, den Inhalt anzupassen, zu bearbeiten, zu modifizieren und zu ver-
+ändern (z. B. auch Übersetzung in eine andere Sprache);
+Remix – das Recht, den unveränderten oder veränderten Inhalt mit anderen offenen
+Inhalten zu kombinieren, um etwas Neues zu erschaffen;
+Redistribute – das Recht, Kopien des unveränderten oder veränderten Inhalts, der Be-
+arbeitungen, der Remixes mit anderen zu teilen.8
+
+Lizenzmodelle müssen den Kanon der 5R sinnvoll abbilden können. Dies geschieht
+meist durch Sets von vordefinierten Urheberrechtslizenzen. Mit den Creative-Commons-
+Lizenzen9 (CC-Lizenzen) hat sich im OER-Gebiet ein „Quasi-Standard“10 etabliert. Idealer-
+weise sollten für OER die Lizenzen CC BY11 (Namensnennung) und CC BY-SA12 (Namens-
+nennung –Weitergabe unter gleichen Bedingungen) benutzt werden.
+
+Die offene Lizenzierung eines Materials ist sicher ein wesentliches Charakteristi-
+kum einer OER. Doch gibt es weitere OER-Merkmale:
+– Inhaltliche Zuordnung: Alle Arten von Inhaltsobjekten können OER sein. Aus
+
+allen Bildungslandschaften und Wissensgebieten. Alle Organisationsformen kom-
+men in Frage, vom klassischen Lehrbuch bis zum einzelnen Unterrichtsblatt.
+Doch es geht nicht nur um Lehr-/Lernmaterial. Wissenschaftliche Publikationen,
+Forschungsdaten aber auch zu Lehr-/Lernzwecken geeignete Informationen aus
+der gesamten Lebenswelt, wie Gegenstände der Literatur und Kunst, können
+OER sein.
+
+ UNESCO (Hrsg.): Weltkongress zu Open Educational Resources (OER). Kongress, Paris, 20.–22. Juni 2012.
+Paris, Unesco 2012. S. 1. https://unesdoc.unesco.org/ark:/48223/pf0000246687_gerf (17.09.2024).
+ Wiley 2014.
+ Nach Wiley 2014, Übersetzung P. R.
+ https://creativecommons.org/licenses/?lang=de (01.07.2023).
+ Kreutzer 2013: S. 7. „Quasi-Standard“. BMBF 2023: S. 2.
+ https://creativecommons.org/licenses/by/4.0/legalcode.de (01.07.2023).
+ https://creativecommons.org/licenses/by-sa/4.0/legalcode.de (01.07.2023).
+
+
+
+5.6 OER an Bibliotheken 397
+
+– Dokumentarten: Open Educational Resources können ganze Kurse, Kursmateria-
+lien, Module, Lehrbücher, Streamingvideos, Tests, Software sowie Werkzeuge,
+Material oder Technik sein, die den Zugang zu Wissen unterstützen. Aber auch
+einzelne Bilder, Grafiken oder kurze Textstücke gehören als „atomare“ OER zu
+den willkommenen Inhalten.
+
+– Technische Formate: Texte, Bilder, Videos und sämtliche Mischformen kommen
+für OER in Frage. Diese sollten im Idealfall in offenen, nicht proprietären, digita-
+len Datenformaten vorliegen. OER, die mit Hilfe proprietärer Formate produziert
+wurden und daher nur wieder mit kostenpflichtiger kommerzieller Software ver-
+wendbar sind, sind keine OER. Sie durchbrechen das Prinzip der kostenfreien
+Nutzung von OER.
+
+– Adaptierbarkeit: OER sollten nicht nur als selbstständige Inhaltsmaterialien gese-
+hen werden, sondern auch als in ein Lehrszenario mit spezifischen Funktionen
+eingebettete Lehr-/Lernobjekte. OER sollten daher zunehmend so gestaltet wer-
+den, dass sie an verschiedene didaktische Situationen angepasst werden können.
+
+2 Motivation für den Einsatz von OER allgemein
+„Freien Bildungsmaterialien – ‚Open Educational Resources‘, kurz OER – kommt eine
+wichtige Funktion bei einem chancengerechten Wandel in der Bildung, der Bildungs-
+ziele und -praktiken umfasst und verstärkt individuelle Lernangebote adressiert, zu.“13
+So wird in der im Juli 2022 erschienen OER-Strategie – Freie Bildungsmaterialien für die
+Entwicklung digitaler Bildung des Bundesministeriums für Bildung und Forschung
+(BMBF) die Bedeutung der OER für das Bildungswesen in Deutschland bewertet.
+
+Anders formuliert können OER diese Vorteile14 bieten: Sie ermöglichen allen Men-
+schen freien Zugang zu qualifizierten Bildungsinhalten. OER greifen in gewisser
+Weise die Grundidee der sozialen Medien auf, in denen jeder beitragen und eigene
+Materialien veröffentlichen kann. OER erlauben alle Gestaltungsformen und sind
+durch ihre offene Lizenzierung zur Nutzung für jeden Zweck und an jedem Ort unab-
+hängig von kommerziellen Plattformen geeignet. OER sind somit das ideale Inhalts-
+und Austauschmedium für Bildungsinhalte. Offene Bildungsressourcen lassen jeder-
+zeit Aktualisierungen und Verbesserungen zu. Wie bei Open-Source-Software ist bei
+OER eine schnelle Fehlerbehebung durch Dritte möglich. Die offene Lizenzierung der
+OER begründet eine leichte Veränderbarkeit, Anpassbarkeit und Adaptierbarkeit.
+
+Die Nutzung der OER erfordert weder individuelle Lizenzverträge noch Beschaf-
+fungskosten. Die Nachnutzerinnen und Nachnutzer müssen sich nicht mit Formalien
+aufhalten. OER können schnell an unterschiedliche Lernsettings angepasst werden.
+
+ BMBF 2023: S. 2.
+ Schreiber 2019: S. 5 f.
+
+
+
+398 Peter Rempis
+
+Studierende und andere gesellschaftliche Gruppen können an OER mitarbeiten. Die
+Materialien stellen somit nicht nur die Unterlagen für Lernen und Lehren dar. Die
+gemeinsame Arbeit an OER in Gruppen oder Teams ermöglicht neue Kommunikati-
+ons- und Lehr-/Lernmethoden. An den Hochschulen können Wissenschaftlerinnen
+und Wissenschaftler mit der Produktion von OER ihre Lehrtätigkeit illustrieren und
+mit der Publikation ihres Materials ihre Lehre parallel zu den Veröffentlichungen
+ihrer Forschungsergebnisse sichtbar machen. Dies ist insbesondere dann der Fall,
+wenn die OER in der bibliothekarischen Erschließung gleich wie andere wissenschaft-
+liche Veröffentlichungen bearbeitet werden.
+
+3 Begründung des Themas OER als
+Bibliotheksaufgabe
+
+Für die wissenschaftlichen Bibliotheken ist es historisch betrachtet naheliegend ihrem
+Angebotsportfolio auch einen gut entwickelten und laufend gepflegten OER-Bestand
+hinzuzufügen. In den letzten 25 Jahren haben wissenschaftliche Bibliotheken zahlreiche
+institutionelle Repositorien für Hochschulschriften und andere wissenschaftliche Publi-
+kationen aufgebaut.15 Sie haben Online-Zeitschriftenbestände im Open Access (OA)
+entwickelt, in Medienservern freie AV-Medien präsentiert und schließlich zahlreiche
+(OA-)Universitätsverlage gegründet. Quasi als Schlussstein dieser furiosen Aufbauleis-
+tung an Online-Publikationsdiensten steht nun die Weiterentwicklung der Lehrbuch-
+sammlungen und digitalen Bestände kommerziellen Lehr-/Lernmaterials durch
+kuratierte OER-Sammlungen an – gleich ob diese fachlich oder regional orientiert
+sind. Mit Blick auf die mit den OER verbundenen offenen Lizenzen sind sie aus Bi-
+bliothekssicht eng mit den OA-Angeboten verwandt, die, besonders an den wissen-
+schaftlichen Bibliotheken, seit Jahren systematisch aufgebaut werden.
+
+Es gibt auch ideelle Gründe für Bibliotheken sich mit OER zu beschäftigen. Die
+Bundesvereinigung Deutscher Bibliotheksverbände e. V. formuliert diese in ihrem Pa-
+pier Ethische Grundsätze von Bibliothek & Information Deutschland (BID) so:
+
+Wir handeln nach dem Grundsatz der Offenheit (Openness), wie er sich u. a. in Open Access,
+Open Source, Open Educational Resources und Open License konkretisiert, um einen bestmögli-
+chen Zugang zu Informationen zu ermöglichen und die Prinzipien der Partizipation und Kollabo-
+ration zu verwirklichen.16
+
+ Als frühe Beispiele aus Süddeutschland sind die institutionellen Repositorien der Universitäten
+Stuttgart, Heidelberg und Tübingen zu nennen, die seit den späten 1990er Jahren in Betrieb sind.
+ BID 2017: S. 2.
+
+
+
+5.6 OER an Bibliotheken 399
+
+Dabei ist zu bedenken, dass die Open-Strategien vieler wissenschaftlicher Bibliothe-
+ken auch eine Reaktion darauf sind, dass besonders kleinere Wissenschaftsfächer
+mittlerweile existentielle Probleme damit haben ihre Ergebnisse angemessen zu pub-
+lizieren. Dies gilt auch für die Ausbildungsmaterialien dieser Fachgebiete. Lehr- und
+Handbücher für das Bachelor-Studium sind vielfach veraltet. Neuproduktionen durch
+Verlage sind schlicht unwirtschaftlich. Hier können OER niedrigschwellig und kosten-
+günstig produzierbaren Ersatz bieten.
+
+4 Überblick über die Aufgaben der Bibliotheken
+4.1 Werbung für die OER-Idee
+
+Der erste Schritt beim Engagement der Bibliotheken für OER besteht darin, OER-
+Interessierte durch Werbung zu gewinnen. Das „Produkt OER“ muss in den Markt ge-
+bracht werden.
+
+Informationen zu OER sind leicht zusammenzutragen. Als ein Beispiel für ein
+OER-Informationsportal ist im deutschsprachigen Raum „OERinfo | Informationsstelle
+Open Educational Resources“17 anzuführen. OERinfo liefert vielfältige Inhalte und
+kümmert sich um „Transfer und Vernetzung“ für OER. Das Portal gibt neben OER-
+Einführungsinformationen auch Anleitungen zum Finden, Produzieren, Verbreiten
+sowie zum Lernen und Lehren mit OER. Einrichtungen wie die OER-Repositorien der
+Länder18 bieten ebenfalls zahlreiche Informationsmaterialien zu OER an.
+
+Meta-Recherche-Systeme wie der OER Search Index (OERSI)19 oder die Such-
+Oberflächen größerer OER-Repositorien ermöglichen einfache Zusammenstellungen
+von Themen-Portfolios aus OER als Muster-Angebote. Diese OER-Werbe-Kollektionen
+sind heute mit geringem Zeitaufwand zu realisieren.
+
+Wissenschaftliche Bibliotheken können tiefer in die OER-Werbung einsteigen.
+Schon nach einer kurzen Zielgruppenanalyse werden sich viele Anknüpfungspunkte
+in der Hochschule (Fachbereiche mit Bedarf an neuem Lehr-/Lernmaterial) und sogar
+in der Bibliothek selbst (Bezüge zu Open Access, Open Science, Forschungsdaten) fin-
+den. Die an den größeren Bibliotheken vorhandenen Online-Publikationsdienste kön-
+nen OER leicht in ihre Werbungs- und Informationskonzepte integrieren.
+
+ OERinfo | Informationsstelle Open Educational Resources | Information – Transfer – Vernetzung.
+https://open-educational-resources.de/ (01.07.2023).
+ Website der bundesländerübergreifenden Arbeitsgemeinschaft der OER-Repositorien und OER-Re-
+feratorien im Hochschulbereich. https://www.oer-repo-ag.de/ (23.06.2024).
+ Hochschulbibliothekszentrum NRW (hbz), Technische Informationsbibliothek (TIB): OERSI – ein
+Suchindex für Open Educational Resources in der Hochschullehre – Zugangsseite. 2023. https://oersi.
+org/resources/ (01.07.2023).
+
+
+
+400 Peter Rempis
+
+4.2 Beratung zu OER
+
+Die Einrichtung eines Beratungsangebotes zu OER, womöglich verbunden mit Schu-
+lungen und kleineren Dienstleistungen für die OER-Produktion, erfordert im Ver-
+gleich zur OER-Werbung etwas höheren Ressourceneinsatz. Mit dem Einstieg in die
+Beratung wird in größeren Bibliotheken die Einrichtung eines neuen Geschäftsgebie-
+tes „OER“ gerechtfertigt sein.
+
+Welche Bibliotheksmitarbeiterinnen und -mitarbeiter eignen sich nun dafür, an
+OER Interessierte zu beraten? Eine aktuelle OER-Beratung verlangt Personalressour-
+cen, die es wenigstens mit kleinen Stellenanteilen ermöglichen, die Entwicklungen
+um OER zu verfolgen. Neuerungen im Gebiet müssen laufend in die Beratungsarbeit
+einfließen können. Zeitanteile für Vernetzung und Kommunikation mit anderen OER-
+Unterstützern werden benötigt. Zumindest sollte die Möglichkeit bestehen, kontinu-
+ierlich an regionalen OER-Communities zu partizipieren. Oftmals ist damit eine zeitlich
+aufwendigere mehrseitige Vernetzung vermeidbar. Als Beispiel für eine solche Commu-
+nity ist die „OER Community Baden-Württemberg“20 zu nennen. In Zusammenarbeit mit
+zentralen OER-Repositorien und anderen Dienstleistern wie E-Learning-Services oder
+Hochschuldidaktik kann so die beginnende Professionalisierung der OER-Beratung
+schnell und zielgerichtet erreicht werden.
+
+Im Übrigen funktioniert Beratung meist nur, wenn die Beratenden in irgendeiner
+Form im betreuten Gebiet praktisch arbeiten. Es bietet sich an, dass Mitarbeitende
+der Online-Publikationsdienste auch das OER-Gebiet übernehmen. Sie können aus
+den Arbeitsgebieten Online-Redaktion, Publikation oder Erschließung/Katalogisierung
+von Online-Medien kommen. Optimales Knowhow wäre bei OER-Beratung verfügbar,
+wenn sie von Personen geleistet würde, die zumindest bei einzelnen Vorhaben immer
+wieder praktisch in der OER-Produktion arbeiten.
+
+Weiter ist zu fragen, welche Dimensionen eine OER-Beratung umfassen kann. Am
+Anfang steht die Begründung der OER-Idee, deren Definition und die Vorstellung ge-
+lungener OER. Ebenso die Recherche nach OER.
+
+Dann sollte zum kompletten OER-Produktionszyklus beraten werden können: Von
+den ersten Überlegungen bis zum Abschluss der OER-Produktion mit der Veröffentli-
+chung, ja bis zu Überlegungen zur Weiterbearbeitung. Es beginnt mit Hinweisen zur
+Materialsammlung, mit Empfehlungen und Schulungen geeigneter Produktionstools, ge-
+gebenenfalls mit Hinweisen zu Rechteabklärungen von Basis-Materialien. Weiter folgen
+die Inhaltsgliederungen für neue Inhaltsobjekte. Auf technische Formate und OER-
+Dokumentarten sollte eingegangen werden. Auch auf die Möglichkeiten der „Adaptier-
+barkeit“ neuer OER. Dies bedeutet, dass mit den Produzierenden in einem frühen Bera-
+
+ In der Community versammeln sich OER-Spezialisten aus Bibliotheken, Medien- und Rechenzen-
+tren sowie aus der Hochschuldidaktik zum Informationsaustausch und zur Weiterbildung zum
+Thema OER. Siehe: www.zoerr.de (01.07.2023).
+
+
+
+5.6 OER an Bibliotheken 401
+
+tungsstadium geklärt wird, ob die Inhalte als großes selbstständiges Modul oder eher
+als mehrere kleine Objekte geplant werden, die wiederum anderen OER-Produktionen
+als „adaptierbare“ Bausteine dienen sollen. Im Kontext der Weiterverwendung muss
+bei der Beratung auch festgelegt werden, mit welchen (möglichst offenen) Lizenzen
+eine neue OER ausgestattet wird. Zur Beratung gehören Hinweise auf didaktische Bera-
+tungsmöglichkeiten21 und andere externe Unterstützungsangebote durch Einrichtungen
+wie Medien- oder Rechenzentren.
+
+Am Ende dieses Abschnittes ist zu berichten, dass nicht nur an der Universitätsbi-
+bliothek Tübingen, an der das Zentrale OER-Repositorium der Hochschulen in Baden-
+Württemberg22 (ZOERR) betrieben wird, OER-Beratungen und -Schulungen angeboten
+werden. Auch an anderen Bibliotheken ist dies der Fall. In Niedersachsen ist das OER-
+Portal twillo23 an einer wissenschaftlichen Bibliothek, hier an der Technischen Informa-
+tionsbibliothek Hannover (TIB),24 angesiedelt. Wie das ZOERR macht auch twillo ein
+laufendes Angebot an Schulungen und Veranstaltungen zu OER.25 Als weiteres Beispiel
+ist die OER-Beratung der Universitätsbibliothek Stuttgart26 zu nennen.
+
+4.3 Unterstützung der OER-Produktion
+
+Oftmals geht die OER-Beratung fließend in die Unterstützung der Produktion über.
+Dennoch ist eine auch nur teilweise Unterstützung von OER-Produktionen ein großer
+Entwicklungsschritt bei den OER-Dienstleistungen, den nicht viele Bibliotheken tun
+werden. Und wenn, dann wohl nur, wenn weitere Infrastrukturen wie Medienabtei-
+lungen oder Makerspaces vorhanden sind, in denen an Lernmaterial- bzw. Medien-
+produktionen gearbeitet werden kann.
+
+Selbst wenn an größeren Bibliotheken Personal zur Verfügung steht, das auf OER-
+Themen spezialisiert ist, kann im Regelfall nicht davon ausgegangen werden, dass Bi-
+bliotheken in breitem Umfange Autorinnen und Autoren bzw. Produzentinnen und
+Produzenten bei der Herstellung von OER unterschiedlicher Granularität27 unterstüt-
+
+ Z. B. an den Universitäten in Baden-Württemberg ist hier an die lokalen Geschäftsstellen des Hoch-
+schul-Didaktik Zentrums (HDZ) zu denken: https://www.hdz-bawue.de/. Für die Hochschulen im Land
+steht die Geschäftsstelle der Studienkommission für Hochschuldidaktik an Hochschulen für Ange-
+wandte Wissenschaften in Baden-Württemberg (GHD) zur Verfügung: https://www.hochschuldidaktik.
+net/ (alle 01.07.2023).
+ Universitätsbibliothek Tübingen: Zugangsseite ZOERR. https://www.zoerr.de (01.07.2023).
+ https://www.twillo.de/oer/web/ (01.07.2023).
+ https://www.tib.eu/de/ (01.07.2023).
+ https://www.twillo.de/oer/web/veranstaltungen/ (01.07.2023).
+ https://www.beschaeftigte.uni-stuttgart.de/lehre/oer/ (01.07.2023).
+ Menzel 2020: S. 6. Dort Abschnitt „general › aggregationlevel“: Damit wird die Granularität der
+OER beschrieben, die sehr unterschiedlich ausfallen kann. Die Einordnung wird direkt von LOM v1.0
+übernommen, die definierten Werte sind:
+
+
+
+402 Peter Rempis
+
+zen werden. Basierend auf vielen verschiedenen Dokumentarten und unterschied-
+lichsten technischen Formaten ist eine bunte Vielzahl an OER-Objekten denkbar. Die
+Lösung für dieses Komplexitätsproblem kann in der Begründung von Partnerschaften
+mit anderen Informations- und Bildungseinrichtungen bestehen.
+
+Selbstverständlich ist nicht davon die Rede, dass die Bibliotheken zusammen mit
+anderen Einrichtungen systematisch und laufend OER produzieren sollen. Aber größere
+Bibliotheken sollten im Stande sein, immer wieder prototypische OER zu verfertigen
+und zu veröffentlichen. Sie können Bearbeiterinnen und Bearbeiter oder Nachahmerin-
+nen und Nachahmer dieser Prototypen ihre Infrastrukturen bereitstellen, die Anwen-
+dung verbreiteter Werkzeuge unterstützen und auf die Benutzung offener technischer
+Formate hinwirken.
+
+Die Muster-OER sollten als Ko-Produktionen zwischen den Autorinnen und Au-
+toren und der Bibliothek verstanden werden. Die Bibliothek fungiert dabei als eine
+Art Agentur. Sie vermittelt den Kontakt zwischen Autorinnen und Autoren sowie den
+Bibliothekspartnern, die bei den Produktionen mitarbeiten. Sie bringt möglichst ei-
+gene Arbeitsanteile ein.
+
+Bei größeren OER-Produktionen stellt sich irgendwann die Frage nach finanziel-
+ler Unterstützung. Größere Bibliotheken sollten im Rahmen des Agenturgedankens
+nicht nur Zuarbeit zur OER-Produktion leisten oder vermitteln. Ebenfalls sollten Sie
+Informationen zu OER-Förderausschreibungen sammeln und diese an alle Interessier-
+ten kontinuierlich weiterleiten. Dies kann in Zusammenarbeit mit den regionalen
+OER-Communities erfolgen. Fördergeber sind vielfach Ministerien oder Stiftungen.
+Die Antragstellungen sollten durch die Bibliothek begleitet werden, um mit wachsen-
+der Erfahrung nachfolgenden Antragstellerinnen und Antragstellern bei der Ausar-
+beitung von Förderanträgen helfen zu können.
+
+Üblicherweise stammen die OER-Inhalte von Lehrenden, doch kann die Bibliothek
+auch zu eigenen Themen OER produzieren28, die durch eine verbesserte Aufbereitung
+und offene Lizenzierung gleichzeitig zur Sichtbarkeit der Bibliothek beitragen. Von die-
+sen verbesserten Lehr-/Lernmaterialien profitiert nicht nur die Nutzerschaft. Nachhal-
+tige mit einer gewissen formalen und inhaltlichen Qualität versehene OER, z. B. zu
+Themen der Informationskompetenz, eignen sich hervorragend zum Austausch mit Kol-
+leginnen und Kollegen anderer Bibliotheken. OER können die Zusammenarbeit der
+Bibliotheken untereinander bei Fachthemen weiter befördern, indem diese stand-
+ortübergreifend gemeinsam produziert, überarbeitet, erweitert oder aktualisiert
+werden.
+
+1 – für einzelne, atomare Materialien, z. B. Schaubilder;
+2 – für eine Anzahl zusammengehöriger atomarer Materialien, z. B. eine HTML-Seite mit eingefügten
+Bildern oder ein Übungsblatt mit Erläuterungen und Lösungen;
+3 – für eine Sammlung von Lernobjekten des 2. Levels, z. B. ein Webportal oder ein Lernkurs;
+4 – höchster Level, z. B. für einen ganzen Satz von Kursen, die zu einem Abschluss führen.
+ Fachstelle Öffentliche Bibliotheken NRW 2021: kompletter Text. Auch Fahrenkrog 2016: S. 12 f.
+
+
+
+5.6 OER an Bibliotheken 403
+
+Mit jedem betreuten OER-Projekt gewinnt die Bibliothek mehr Erfahrungen mit
+Produktionen. Vielleicht ergeben sich sogar häufig wiederkehrende OER-Formate. So
+könnte die Unterstützung von OER-Produktionen mit Effekten aus Synergien und Ratio-
+nalisierungen zunehmend wirtschaftlicher werden. Es würden immer besser struktu-
+rierte OER-Produktionsprozesse entstehen, die einfache Qualitätsprüfungen beinhalten
+könnten. Eine die OER-Herstellung begleitende Qualitätsentwicklung würde möglich.
+
+Doch wie kann ein vollständiger Produktionsprozess aussehen? Bei größeren Vor-
+haben empfiehlt es sich mit den OER-Produzentinnen und -Produzenten die meisten
+der nachfolgenden Schritte zu durchlaufen, die durch die Bibliothek immer wieder
+mit Beratung oder praktischer Produktionshilfe flankiert werden können.
+1) Aus der Themenfindung und Zielsetzung erfolgt die Definition des OER-Bedarfes.
+2) Festlegung des Einsatzzweckes (Informationsmaterial, Selbststudium, Material
+
+zur Nutzung in Präsenz-, hybriden oder Online-Lehre etc.)
+3) Festlegung der Zielgruppen (Öffentlichkeit, Schulart, berufliche Bildung, Hoch-
+
+schule etc.).
+4) Nach dieser Findungsphase zunächst inhaltliche Grobgliederung mit zunehmen-
+
+der Verfeinerung; dies kann bei größeren multimedialen Objekten bis zur Abfas-
+sung regelrechter Drehbücher führen.
+
+5) Wahl der Dokumentart und der technischen Formate.
+6) Auswahl der zu Grunde liegenden Basis-Materialien.
+7) Eine wichtige Hilfe können Bibliotheken bei der lizenzrechtlichen Überprüfung
+
+des Materials leisten. Eventuell kann die Bibliothek als weitere Leistung sogar die
+Recherche nach verwendbarem möglichst offen lizenziertem Basis-Material über-
+nehmen. Im Idealfall kann sie die Klärung von Rechten an Bildern, Grafiken und
+Tabellen mit den Rechteverwertern aktiv unterstützen, diese womöglich weitge-
+hend übernehmen.29 Bei großen OER-Produktionen für Hochschulen bzw. beim
+Aufbau von Material-Basisbeständen für einzelne Fachbereiche, könnte der Frei-
+kauf von kommerziellem Material durchaus ein Bibliotheksthema sein.
+
+8) Mitwirkung bei der Arbeitsplanung. Einbringen praktischer Arbeitspakete der
+Bibliothek bei der Produktion. Z. B. Screencaming oder formales Text-Lektorat.
+
+9) Mitwirkung beim Testen der neuen OER.
+10) Die eigentliche OER-Produktion – Bibliothek kann Arbeitsanteile einbringen.
+11) Zusammen mit den Produzentinnen und Produzenten Festlegung der OER-Lizenz.
+
+Um die Mehrwerte einer OER optimal nutzen zu können, sollte das Ziel eine offene
+Lizenz wie Creative Commons-Lizenzen CC-BY (nur Namensnennung) oder CC-BY-SA
+(Namensnennung und Weitergabe unter gleicher Lizenz) sein. Im Hochschulbereich
+wird eine solch offene Lizenzierung aber nicht immer durchsetzbar sein.
+
+ Wenn Bibliotheken hier die Rechteklärung bei Basis-Materialien leisten können, empfiehlt es sich
+diese Abklärungen zu sammeln und so einen Pool an Verhandlungsergebnissen aufzubauen. Es ist
+davon auszugehen, dass die Zahl der immer wieder zu kontaktierenden Rechteverwerter überschau-
+bar ist.
+
+
+
+404 Peter Rempis
+
+4.4 Publikation und Zusammenarbeit mit den OER-Repositorien
+
+Der mit der Produktion wichtigste Abschnitt im Lebenszyklus einer OER ist die Veröf-
+fentlichung. Nur eine OER, die eine niederschwellige gut sichtbare Zugangsmöglich-
+keit besitzt, erweitert den Pool an offenen Lehr-/Lernmaterialien für den öffentlichen
+Nutzen. Die erste Maßnahme der Bibliothek besteht darin, über die OER-Publikations-
+möglichkeiten breit zu informieren.
+
+Prinzipiell kann die Person, die die OER produziert hat, diese veröffentlichen, wo
+und wie sie es will. Das Inhaltsobjekt wird durch die gut sichtbar angebrachte Lizenzie-
+rung sowie durch seine formale und (einfache) technische Struktur zur OER; nicht durch
+den Ort der Veröffentlichung im Netz. Eine OER kann auf einer beliebigen Webseite
+einer Privatperson oder einer Einrichtung erscheinen. Eine solchermaßen publizierte
+OER wird im Internet aber wenig sichtbar sein, auch wenn sie nach einer gewissen Zeit
+von Suchmaschinen geharvestet wird. Genaugenommen ist die OER in diesem Moment
+nur für Personen auffindbar, die von deren konkreter Existenz oder speziellen Termini
+wissen, mit deren Hilfe sie danach suchen können. Es erweist sich als Problem, dass das
+Wissen um normierte Vokabularien unter Autorinnen und Autoren bzw. Nutzerinnen
+und Nutzern von OER äußerst dünn gesät ist. Dies gilt für den ganzen Wissenschafts-
+und Hochschulbereich. Und wenn jemandem ein Treffer mit einer allgemeinen Such-
+maschine gelungen ist, dann weiß er noch nichts über die Qualität der OER bzw. darü-
+ber, für welche Zielgruppe sie gemacht wurde. Um diese Fragen zu klären, wird er Zeit
+aufwenden müssen, die er sich eigentlich mit der Nachnutzung von OER ersparen
+wollte.
+
+Alle, die OER produzieren, sollten also ihre OER auf einer bekannten, bestens ver-
+netzten und auf die Veröffentlichung von offenen Lehr-/Lernmaterialien spezialisier-
+ten Plattform publizieren. Bibliotheken können den Weg zu solchen Diensten weisen,
+die häufig als OER-Repositorien und/oder OER-Referatorien bezeichnet werden.30
+
+Ist das passende OER-Repositorium gefunden, kann die Einreichung einer OER
+zur Veröffentlichung beginnen. Die meisten Repositorien bieten via Webformular den
+Upload neuer oder überarbeiteter OER an.
+
+ Der Begriff „OER-Repositorium“ bezeichnet eine Plattform auf der die Datendateien einer OER di-
+rekt angelegt werden und von dort jederzeit heruntergeladen können. Der Bestand der Daten wird
+vom Repositorium garantiert und gepflegt.
+
+Ein „OER-Referatorium“ verzeichnet nur die Metadaten einer OER. Die eigentlichen Inhaltsdaten
+werden auf externen Systemen gehalten. Damit können Referatorien häufig keine sichere Aussage
+über die Verfügbarkeit der nur nachgewiesenen OER machen. Viele größere OER-Repositorien besit-
+zen gleichzeitig eine Referatoriumsfunktion. Es ist naheliegend, dass zur Sicherung des Datenangebo-
+tes die OER auf einem Repositorium direkt angelegt werden sollten.
+
+Hinweis: Im Text werden die Begriffe Repositorium und Referatorium synonym genutzt bzw. wird
+bei OER-Repositorium eine auf externe Angebote verweisende Referatoriumsfunktion mitverstanden.
+
+
+
+5.6 OER an Bibliotheken 405
+
+Entweder können Bibliotheken für die OER-Einreichung Hilfe zur Selbsthilfe für
+Produzentinnen und Produzenten bieten, indem sie eigene oder von den Plattformen
+angebotene Hilfematerialien anbieten. Oder sie können den Einreichungsprozess für die
+OER-Autorinnen und -Autoren übernehmen und dabei direkt mit den Repositoriumsbe-
+treibern zusammenarbeiten. Den Autorinnen und Autoren wird Frustration und großer
+Zeitaufwand bei den Formalien der Veröffentlichung erspart. So statten sie häufig aus
+Unkenntnis, Zeitmangel oder Desinteresse ihre OER nur mit minimalen oder auch fehler-
+haften Metadaten aus: Werden beim Upload der OER wenigstens ein paar Titeldaten mit-
+geliefert, sind die meisten Repositoriumsbetreiber zwar schon froh, aber nicht zufrieden.
+Für die Öffentlichkeit wird die OER aber erst durch einen Metadatensatz, der alle Aspekte
+des Lehr-/Lernmaterials umfänglicher beschreibt, gut auffindbar und nachnutzbar. Aus
+Aufwandsgründen können die Betreiber vieler OER-Repositorien die Metadaten
+neuer OER nicht systematisch ergänzen und erweitern. Dies obwohl die Qualität
+und Normierung der Metadaten wesentlich zur Nachnutzung von OER beiträgt.
+Hinzu kommt, dass OER als Lehr-/Lernmaterialien in vielfältigsten technischen, inhalt-
+lichen und gestalterischen Formen über umfänglichere Beschreibungsaspekte (wie
+technische Bedingungen der Nutzung oder didaktischer Kontext) verfügen, als dies zum
+Beispiel bei Büchern der Fall ist.
+
+Um die große Vielfalt abzubilden, basieren die Metadaten der OER zumeist auf
+dem Learning Object Metadata-Standard (LOM).31 LOM erweitert die rein bibliografi-
+sche Vorstellung von Metadaten mit weiteren Beschreibungskategorien, die in einer
+Vielzahl von Attributen ausdefiniert werden, deutlich. Für LOM32 existieren auch Abbil-
+dungen auf bibliothekarische Metadaten-Schemata wie Dublin Core.33 Viele der Be-
+schreibungselemente werden aus normierten Vokabularien gespeist. In deutschen OER-
+Repositorien werden feste Schlagwörter oft unter Verwendung der GND34 vergeben.
+Auch andere Systematiken wie die „Destatis-Systematik der Fächergruppen, Studienbe-
+reiche und Studienfächer“35 sind zu finden. In diesem Umfeld können Bibliothekarin-
+nen und Bibliothekare die Autorinnen und Autoren effizient unterstützten. Schon bei
+der Einreichung einer OER beim Repositorium können sie mit ihrer Erfahrung in der
+Formal- und Sacherschließung bessere und umfänglichere Metadaten erzeugen als dies
+die Autorinnen und Autoren können. Die Repositorien profitieren von weniger fehler-
+haften Metadaten. Die Öffentlichkeit erhält in kürzerer Zeit durch bessere Metadaten
+
+ Der ursprüngliche LOM-Standard wurde vom IEEE – Institute of Electrical and Electronics Engi-
+neers – entwickelt. Siehe „1484.12.1-2020 – IEEE Standard for Learning Object Metadata“ unter IEEE.
+org 2020. Ein schematischer Überblick über das ursprüngliche LOM-Metadaten-Set findet sich unter
+Wikipedia – Die freie Enzyklopädie: https://de.wikipedia.org/wiki/Learning_Objects_Metadata#/media/
+Datei:LOM_base_schema.png (01.07.2023).
+ Zu LOM in der Verwendung auf OER-Hochschulrepositorien Menzel 2020: S. 1 ff.
+ Dublin Core 2023.
+ Dies ist u. a. beim ZOERR der Fall.
+ Scohub Vocabs: https://skohub.io/dini-ag-kim/hochschulfaechersystematik/heads/master/w3id.org/
+kim/hochschulfaechersystematik/scheme.de.html (01.07.2023).
+
+
+
+406 Peter Rempis
+
+leichter auffindbare OER. Nach der Einlieferung der OER ist für die Produzentinnen
+und Produzenten der Publikationsprozess abgeschlossen.
+
+In diesem Prozess folgt nun die redaktionelle Bearbeitung der OER in den Reposi-
+torien. In den Redaktionen größerer OER-Repositorien arbeiten Bibliothekarinnen
+und Bibliothekare mit. Häufig sind dies Kolleginnen und Kollegen, die mit kleineren
+Arbeitsanteilen die OER ihrer jeweiligen Einrichtung bearbeiten und damit die OER-
+Idee und die jeweiligen Repositorien fördern. Es sind beide Szenarien möglich: Biblio-
+thekarinnen und Bibliothekare unterstützen bei der Publikation Autorinnen und Au-
+toren und/oder arbeiten in Repositorien direkt mit. An dieser Stelle soll darauf
+hingewiesen sein, dass größere OER-Repositorien in ihren Redaktionen immer Bedarf
+an bibliothekarischem Fachwissen haben.
+
+So weit bekannt, verfügen in Deutschland sämtliche OER-Repositorien ab der Länder-
+ebene über Redaktionen. Sogenannte „self-publishing-repositories“ sind im Hochschulbe-
+reich unüblich, da Redaktionen zur Sicherstellung eines minimal qualitätsgesicherten
+Niveaus der OER und der Metadaten für die Katalogisierung einfach nötig sind. Nach Ab-
+schluss der Redaktionsarbeiten steht am Ende des Publikationsprozesses die Veröffentli-
+chung der OER auf dem Repositorium.
+
+4.5 Qualitätssicherung
+
+Vorauszuschicken ist, dass für digitale Lehr-/Lernmaterialien kein eindeutiger Qualitäts-
+begriff36 existiert. Der Begriff variiert nach eingenommener Perspektive. Er besitzt meh-
+rere Dimensionen, für die noch keine nähere Standardisierung stattgefunden hat. Beim
+OER-Repositorium Twillo37 werden OER in Verwendung der Vorarbeit von Olaf Zawacki-
+Richter und Kerstin Mayrberger38 nach sieben Qualitätskriterien39 bewertet: Fachwissen-
+schaftliche Fundierung; Wiederverwertbarkeit; Anwendung und Transfer; Hilfestellung
+und Support; Motivation und Didaktik; Struktur, Navigation und Orientierung; Design,
+Lesbarkeit und Barrierearmut. Dies als erster Anhalt.
+
+Die Bibliotheken können an verschiedenen Stellen bei der Qualitätssicherung von
+OER mitwirken. Sie arbeiten von alters her an der Einschätzung, an der Relevanzprü-
+fung von Dokumenten für ihre Zielgruppen. Diese Arbeit können Bibliotheken auch
+bei der Überprüfung von OER-Qualität leisten. Unter Offenlegung der benutzten
+Untersuchungskriterien können die Bibliotheken OER auf Validität nach verschiede-
+nen Aspekten prüfen und bei entsprechendem Anspruch sogar auszeichnen. Dies
+würdigt engagierte OER-Autorinnen und -Autoren und macht die Bibliotheken weit-
+hin sichtbar. Fachbibliotheken oder wissenschaftliche Bibliotheken, die Fachinforma-
+
+ https://www.twillo.de/oer/web/qualitaet/ (01.07.2023).
+ https://www.twillo.de/oer/web/ (01.07.2023).
+ Zawacki-Richter u. Mayrberger 2017: S. 44 f.
+ S. FN 36.
+
+
+
+5.6 OER an Bibliotheken 407
+
+tionsdienste betreiben, können für ihre Spezialgebiete, im Sinne einer Kuratierung,
+themenspezifische OER-Sammlungen aufbauen.40 Eventuell können die aufgenomme-
+nen Materialien dann auch mit einer Art Sigel oder „Badge“41 ausgezeichnet werden.
+Generell bürgen von Bibliotheken sorgfältig gepflegte OER-Sammlungen für Qualität.
+
+Selbstverständlich können nur wenige Bibliotheken sämtliche formalen, didakti-
+schen und inhaltlichen Qualitätskriterien prüfen. Eine Gesamtprüfung, was man auch
+immer darunter verstehen möchte, wird kaum zu leisten sein – außer in Zusammen-
+arbeit mit Partnern wie OER-Repositorien oder anderen Bibliotheken, die die Prüfauf-
+gaben unter sich aufteilen. Es empfiehlt sich aus Aufwandsgründen das Engagement
+einer Bibliothek in der Qualitätssicherung für OER immer in Kooperation mit einem
+OER-Landesrepositorium oder einer ähnlichen Einrichtung zu planen.
+
+Doch wie wird OER-Qualität geschaffen, gesichert oder wie wird sie festgestellt?
+Wie können Bibliotheken agieren? Zunächst können sie OER-Autorinnen und -Au-
+toren an das Themengebiet der Qualität heranführen, sie über Qualitätsaspekte infor-
+mieren und diese für Qualität bei der OER-Produktion sensibilisieren. Dann können
+Bibliotheken OER-Qualität regelrecht schaffen, indem sie sich am Produktionsprozess,
+z. B. durch Korrektur-/Lektoratsarbeiten oder kleinen Digitalisierungsaufgaben, betei-
+ligen und beim Produktionsprozess laufend auf Qualität hinwirken. Die ersten zwei
+Möglichkeiten bedeuten, dass die OER-Autorinnen und -Autoren bei der Produktion
+in Kontakt mit der Bibliothek stehen. D. h. betreuende Bibliotheken müssten vor Pro-
+duktionsbeginn von einer OER-Entwicklung erfahren.
+
+Schließlich können Bibliotheken vorhandene OER, die ihnen erst nach Fertigstel-
+lung bekannt werden, auswählen, in (kuratierten) Sammlungen zusammenstellen
+und auf Qualität prüfen. Ob dies nach den für twillo genannten oder nach anderen
+Kriterien geschieht, sei dahingestellt. Aber geprüfte Kriterien machen nicht nur die
+Qualität einer OER besser sichtbar, sie erleichtert und beschleunigt auch für Nachnut-
+zende den Entscheidungsprozess, ob er sich mit einer OER näher beschäftigen soll
+oder nicht.
+
+Mit rein bibliothekarischen Mitteln kann eine Prüfung schon begonnen werden.
+Die Richtigkeit und Umfänglichkeit der OER-Metadaten ist Teil von Qualität. Bibliothe-
+ken können diese korrigieren und ergänzen. Sie können die Passung für die benannte
+Zielgruppe und das Fachgebiet (Sacherschließung) prüfen oder ergänzen. Mit ein-
+fachsten PC-Kenntnissen kann die technische Nutzbarkeit der OER bzw. die Gültigkeit
+
+ Ein in der Zeit der Erarbeitung des vorliegenden Artikels noch im Aufbau befindliches Beispiel
+gibt Propylaeum, der Fachinformationsdienst der Altertumswissenschaften 2023, im Bereich „E-
+learning“: www.propylaeum.de (01.07.2023).
+ Die Idee, OER zu kennzeichnen, ist in der Community durchaus verbreitet. Siehe J&K – Jöran und
+Konsorten: #OERcampus – Was sind Badges? 2023. https://campus.oercamp.de/lessons/was-sind-bad
+ges/; oder weniger auf OER als mehr auf Konsumenten/Lernende/Schüler bezogen, siehe OERinfo:
+Open Badges – die unterbeleuchtete Seite von Open Education. 2017. https://open-educational-resour
+ces.de/buchem-open-badges/ (alle 01.07.2023).
+
+
+
+408 Peter Rempis
+
+der technischen Metadaten geprüft werden. Mit Stichproben auf Verwendung lizenz-
+geschützten Materials in einer OER können Bibliothekare das Vertrauen in die offene
+Nutzung von OER fördern. Dies gilt auch bei einer näheren Prüfung der von Autorin
+oder vom Autor vergebenen Lizenz in Bezug auf „Offenheit“. Das sind nur ein paar
+Beispiele dafür, wie man ohne weitergehende fachliche oder didaktische Expertise
+wichtige Qualitätsgesichtspunkte einer OER ermitteln kann. Größere wissenschaftli-
+che Bibliotheken können mit Fachreferentinnen und Fachreferenten sowie anderen
+Spezialistinnen und Spezialisten weitere Qualitätsaspekte prüfen.
+
+4.6 Katalogisierung/Erschließung
+
+Wie Lehrbücher, Unterrichtswerke und anderes Lernmaterial, müssen auch OER in
+Bibliothekskatalogen nachgewiesen werden. Denn, wenn OER nur über Internetrecher-
+chen greifbar sind, werden diese von der Öffentlichkeit häufig als von den Bibliotheken
+nicht „offiziell“ angebotenes Material wahrgenommen. Wenn Bibliotheken die Publika-
+tion von OER unterstützen, sollten Katalognachweise mit überschaubarem Aufwand zu
+leisten sein. In diesem Fall ist es naheliegend, dass auch die einer Katalogisierung zu
+Grunde liegenden Metadaten unter bibliothekarischer Mitwirkung entstehen und pro-
+fessionellen Anforderungen gerecht werden. Verfügen OER-Repositorien ausreichend
+über bibliothekarisches Fachpersonal, so dass sämtliche Metadaten professionell erfasst
+oder geprüft werden können, dann kann eine direkte automatische Lieferung von Kata-
+logisaten aus den Repositorien an die Verbünde realisiert werden. Häufig steht den
+OER-Repositorien das bibliothekarische Fachpersonal aber (noch) nicht im dazu nötigen
+Umfang zur Verfügung. Einmal mehr machen folglich auch an dieser Stelle Kooperatio-
+nen zwischen Bibliotheken und OER-Repositorien Sinn.
+
+Wie bereits gesagt, können OER-Katalognachweise in gewissem Maße Anreize für
+wissenschaftliches Lehrpersonal sein. Formal erschlossene OER können aus den Katalo-
+gen auf von einem Dozenten individuell gestaltete Lehrgegenstände hinweisen. So wird
+die Lehrtätigkeit von Wissenschaftlerinnen und Wissenschaftler neben Forschungspu-
+blikationen und anderen Veröffentlichungen in den Katalogen sichtbar. Wissenschaftli-
+che Bibliotheken können mit treffenden Fach- und Sachschlagwörtern Nachnutzenden
+leicht und eindeutig erkennbare OER liefern.
+
+Es soll an dieser Stelle nicht verschwiegen werden, dass Katalogisierung und Er-
+schließung von OER, bedingt durch die sehr hohe Variabilität bei Dokumentarten,
+Granularität,42 Technik und anderen Aspekten, für Bibliotheken bis heute nicht hin-
+länglich geklärte Probleme mit sich bringen. Mit der Granularität von OER und deren
+fortwährender Bearbeitbarkeit und Veränderbarkeit sollen zwei dieser schwierigen
+Umstände exemplarisch angesprochen werden.
+
+ Menzel 2020: S. 6.
+
+
+
+5.6 OER an Bibliotheken 409
+
+Leider ist nicht schematisch festlegbar, ab welcher Granularitätsstufe eine OER in
+einen Katalog aufgenommen werden soll. Selbstverständlich werden kleine „atomare“
+OER wie Abbildungen, Fotos oder kleine Textteile, kaum sinnvoll Platz in Bibliothekskata-
+logen finden. Diese werden eher in den Nachweissystemen der Repositorien verbleiben.
+Ausnahmen für essenzielle kleine Inhaltsobjekte wird es aber immer geben müssen. Das
+baden-württembergische OER-Repositorium ZOERR versucht mit dem Begriff der „be-
+deutsamen OER“ diese verbleibende Unschärfe zu umschreiben. Es werden größenunab-
+hängig OER katalogisiert, die für Fachgebiet und Öffentlichkeit längerfristig bedeutsam,
+also „nachhaltig“, sind.
+
+Bislang waren Bibliotheksangebote dadurch gekennzeichnet, dass es sich um abge-
+schlossene Werke handelte. Diese abgeschlossenen Werke besaßen ein Erscheinungsda-
+tum. Bald folgte die Katalogisierung mit Titel- und Lokaldatensatz. Wurden Publikationen
+umfänglich verändert, wurde z. B. bei Büchern eine neue Auflage des Werkes veröffent-
+licht. Diese schon „kanonisch“ zu nennende Abfolge gibt es in dieser klaren Form bei
+OER nicht mehr. OER definieren sich ganz wesentlich über ihre unbegrenzte Veränder-
+barkeit und Bearbeitbarkeit. Das Konzept der mit Bedacht und Vorlaufzeit vorgenom-
+menen Neuauflagen eines Werkes funktioniert bei offen lizenzierten OER nicht. Die
+ausgereifte Idee der Auflagen eines Werkes wird bei OER von „Versionierungen“ ab-
+gelöst, von denen aber noch kein klares Verständnis vorhanden ist. Es kann sogar
+noch die Frage gestellt werden, was unter einer Versionierung überhaupt zu verste-
+hen ist: Neue Autorinnen und Autoren können jederzeit bei einer OER-Bearbeitung
+dazu kommen. Müssen auch kleine Änderungen oder Aktualisierungen abgebildet
+werden? Wo besteht eine Schwelle? Sind dauernde, auch größere Änderungen an
+einer OER überhaupt sinnvoll und wirtschaftlich in Katalogen nachzuführen? Wann
+ist ein Katalogisat „veraltet“? Bei welchen Änderungen ist womöglich eine neue OER
+entstanden, die ein neues eigenes Katalogisat nötig macht?
+
+Zur Katalogisierung von OER sind in der Bibliothekswelt noch viele Regelungen
+nötig. Die Arbeit an einvernehmlichen Lösungen hat an deutschen Bibliotheken aber
+noch nicht begonnen. Auch Zweifel am Sinn der OER-Katalogisierung sind nicht unange-
+bracht: Sollte die Forderung OER zu katalogisieren womöglich überzogen sein? Sollten
+OER mit den klassischen Geschäftsprozessen der Bibliotheken nicht kompatibel sein?
+Aber welche längerfristigen Konsequenzen hätte es für die Bedeutung der Bibliothekska-
+taloge, eine, wenn auch zunächst noch kompliziert zu handhabende, Dokumentart vom
+Nachweis auszunehmen? Schließlich sollen die Kataloge dem Anspruch gerecht werden,
+Angebote aus allen Nutzungs- und Wissensgebieten umfänglich zu dokumentieren.
+
+
+
+410 Peter Rempis
+
+Anhang: Zugang zu OER und zu Informationen
+über OER
+Über das OERinfo-Angebot können Bibliotheken leicht in die Recherche nach OER ein-
+steigen.43 Ergänzend dazu werden hier ohne jeden Anspruch auf Vollständigkeit wei-
+tere Informationen zu OER-Diensten und -Beständen zusammengestellt (Stand Juni
+2023), die einen Einstieg in das Thema erleichtern sollen:
+– OERinfo bietet weiter eine Kurzvorstellung der Hochschul-OER-Repositorien, die
+
+in den verschiedenen deutschen Bundesländern und auch in Östereich verfügbar
+sind.44
+
+– Die Arbeitsgemeinschaft der OER-Repositorien und OER-Referatorien der Länder
+im Hochschulbereich (OER Repo AG) informiert über die Plattformen aus erster
+Hand.45
+
+– Das Informationsportal e-teaching.org46 zum Einsatz digitaler Medien in der
+Hochschullehre bietet vielfältige Informationen rund um OER.
+
+– Der deutsche Bildungsserver informiert an vielen Stellen zu OER.47
+– Wegen seiner Wichtigkeit wird an dieser Stelle nochmals auf den Suchindex für
+
+Open Educational Resources in der Hochschullehre OERSI hingewiesen.48
+– Die Virtuelle Hochschule Bayern bietet unter der Marke OER@vhb „OER aus
+
+Bayern“49 für den Hochschulbereich an.
+– Das Medienportal der Siemens-Stiftung50 stellt zahlreiche OER für MINT-Fächer zur
+
+Verfügung. Besonderheit dieses OER-Repositoriums ist seine internationale Ausrich-
+tung. Viele Materialien sind mehrsprachig verfügbar. Nach Eigenauskunft51 der Sie-
+mens-Stiftung nutzen Menschen aus 120 Ländern die OER der Stiftung.
+
+ OERinfo: OER-Verzeichnisse und -Services. 2023. https://open-educational-resources.de/materialien/
+oer-verzeichnisse-und-services/ (01.07.2023).
+ OERinfo: OER-Repositorien und -Referatorien für die Hochschule – auf einem Blick. 2023. https://
+open-educational-resources.de/oer-repositorien-und-referatorien-an-hochschulen/, und zum österrei-
+chischen Angebot open education austria: https://www.openeducation.at/ (alle 01.07.2023).
+ OER Repo AG: https://www.oer-repo-ag.de/. Über die Repo AG: OERinfo: Vereint für OER – Die OER
+Repo AG stellt sich vor. 2021. https://open-educational-resources.de/vereint-fuer-oer-die-oer-repo-ag-
+stellt-sich-vor/ (alle 01.07.2023).
+ Stiftung Medien in der Bildung (SbR) – Leibniz-Institut für Wissensmedien (IWM): https://www.e-
+teaching.org/ (01.07.2023).
+ Leibniz-Institut für Bildungsforschung und Bildungsinformation (DIPF): https://www.dipf.de/de
+(01.07.2023).
+ S. FN 18.
+ https://oer.vhb.org/edu-sharing/components/oer?viewType=1 (01.07.2023).
+ Siemens Stiftung: Medienportal für den MINT-Unterricht. 2023. https://medienportal.siemens-
+stiftung.org/de/home (01.07.2023).
+ Siemens Stiftung: Über das Medienportal. 2023. https://medienportal.siemens-stiftung.org/de/ueber
+(01.07.2023).
+
+
+
+5.6 OER an Bibliotheken 411
+
+– Multimedia Education Resource for Learning and Online Teaching (MERLOT)52
+ist ein Repositorium/Referatorium für Lehr-/Lernmaterial und eine internatio-
+nale Vereinigung von Einrichtungen aus dem Hochschulbereich, der Industrie
+sowie beruflicher Organisationen und einzelner Personen. Das Merlot-System
+bietet mehr als 100 000 meist offene Lehr-/Lernmaterialien zur Nutzung an. Die
+Inhalte sind englischsprachig und häufig auf das nordamerikanische Bildungs-
+system ausgerichtet.
+
+– OER Commons53 ist eine öffentliche digitale Bibliothek für OER. Sie arbeitet welt-
+weit mit Lehrpersonal zusammen. Die OER sind meist englischsprachig. Träger
+des Repositoriums, ist das in den USA ansässige Institute for the Study of Know-
+ledge Management in Education (ISKME).54
+
+Literatur
+Alquézar, Sabadie u. a.: OER: A European policy perspective. In: Journal of Interactive Media in Education
+
+(JiME), Reusing Resources – Open for Learning (Special Issue) 1,5 (2014) 1–12. https://doi.org/10.
+5334/2014-05 (17.09.2024).
+
+Bibliothek & Information Deutschland (BID): Ethische Grundsätze von Bibliothek & Information
+Deutschland (BID) – Bundesvereinigung Deutscher Bibliotheksverbände e. V. 2017.
+https://bideutschland.de/wp-content/uploads/2021/11/Ethische-Grundsaetze.pdf (01.07.2023).
+
+Bundesministerium für Bildung und Forschung (BMBF): OER-Strategie – Freie Bildungsmaterialien für die
+Entwicklung digitaler Bildung. 2023. https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/3/
+691288_OER-Strategie.html (01.07.2023).
+
+Butcher, Neil: Was sind Open Educational Resources? Und andere häufig gestellte Fragen zu OER,
+deutsche Fassung bearbeitet von Barbara Malina und Jan Neumann. Hrsg. von Deutsche Unesco-
+Kommission. Bonn 2013. Bearbeitete Übersetzung von Neil Butcher: A Basic Guide to Open
+Educational Resources (OER). Hrsg. von Commonwealth of Learning und UNESCO. 2011. https://www.
+unesco.de/fileadmin/medien/Dokumente/Bildung/Was_sind_OER__cc.pdf (01.07.2023).
+
+California State University Center for Distributed Learning: MERLOT: Multimedia Educational Resource for
+Learning and Online Teaching. 2023. https://www.merlot.org/merlot/ (01.07.2023).
+
+Dublin Core: Memorandum of Understanding between the Dublin Core™ Metadata Initiative and the IEEE
+Learning Technology Standards Committee. 2023. https://www.dublincore.org/collaborations/ieee/
+mou/ (01.07.2023).
+
+Fachstelle Öffentliche Bibliotheken NRW: OER in Bibliotheken – Was bedeutet das eigentlich? 2021.
+https://fachstelle-oeffentliche-bibliotheken.nrw/2016/03/oer-in-bibliotheken-was-bedeutet-das-
+eigentlich/ (01.07.2023).
+
+Fahrenkrog, Gabriele: Lernort Öffentliche Bibliothek und Open Educational Resources (OER) –
+Zusammenbringen, was zusammen gehört. In: Informationspraxis 2 (2016), H. 1. http://nbn-
+resolving.de/urn:nbn:de:bsz:16-ip-266286.
+
+ California State University Center for Distributed Learning 2023.
+ ISKME – Institute for the Study of Knowledge Management in Education: OER Commons – Explore.
+Create. Collaborate. 2023. https://www.oercommons.org/ (01.07.2023).
+ ISKME: Designing the Future of Education. 2023. https://www.iskme.org/ (01.07.2023).
+
+
+
+412 Peter Rempis
+
+IEEE.org: IEEE Standard for Learning Object Metadata. In: IEEE Std 1484,12 (2020), H. 1, S. 1–50.
+https://doi.org/10.1109/IEEESTD.2020.9262118.
+
+Jelitto, Marc: Open Educational Resources und deren Verbreitung in Repositorien und Referatorien.
+Forschungsberichte des Fachbereichs Elektrotechnik & Informationstechnik. FernUniversität Hagen.
+2005. https://www.fernuni-hagen.de/imperia/md/content/fakultaetfuermathematikundinformatik/
+forschung/berichteetit/forschungsbericht_6_2005.pdf (01.07.2023).
+
+Johnson, Larry u. a.: NMC Horizon Report: 2015 Higher Education Edition. Deutsche Ausgabe.
+Übersetzung: Helga Bechmann, Multimedia Kontor Hamburg. Austin, TX: The New Media Consortium
+2015. http://cdn.nmc.org/media/2015-nmc-horizon-report-HE-DE.pdf (01.07.2023).
+
+Kreutzer, Till: Open Educational Resources (OER), Open-Content und Urheberrecht. Frankfurt am Main:
+Deutsches Inst. für Internationale Pädagogische Forschung (DIPF) 2013. http://nbn-resolving.de/urn:
+nbn:de:0111-opus-80084.
+
+Menzel, Michael: LOM for Higher Education OER Repositories: Ein Metadatenprofil für Open Educational
+Resources im Hochschulbereich zur Förderung der Interoperabilität von OER-Länderrepositorien. In:
+o-bib 7 (2020), H. 1, S. 1–10. https://doi.org/10.5282/o-bib/5579.
+
+Neumann, Jan: Open Educational Resources (OER) – Neue Herausforderungen für Bibliotheken. In:
+Bibliotheksdienst 47 (2013), H. 11, S. 805–819. https://doi.org/10.1515/bd-2013-0094.
+
+Schreiber, Anja: Open Educational Resources (OER) – Informationen für Hochschullehrende zur Nutzung
+und Veröffentlichung von OER. 2019. http://hdl.handle.net/10900.3/OER_QQVSTQDW (01.07.2023).
+
+Wiley, David: The Access Compromise and the 5th R, in: improving learning. Weblog. 5. März 2014.
+https://opencontent.org/blog/archives/3221 (01.07.2023).
+
+Zawacki-Richter, Olaf u. Kerstin Mayrberger: Qualität von OER – Internationale Bestandsaufnahme von
+Instrumenten zur Qualitätssicherung von Open Educational Resources (OER) – Schritte zu einem
+deutschen Modell am Beispiel der Hamburg Open Online University. Sonderband zum Fachmagazin
+Synergie. 2017. https://www.synergie.uni-hamburg.de/media/sonderbaende/qualitaet-von-oer-2017.
+pdf (01.07.2023).

@@ -1,0 +1,1274 @@
+﻿Michael Franke-Maier
+6.2 Inhaltserschließung und
+
+Kataloganreicherung
+
+1 Definition und Positionsbestimmung
+im bibliothekarischen Dienstleistungsspektrum
+
+Die Inhaltserschließung1 gehört zu den Kernaufgaben im bibliothekarischen Service-
+Portfolio. Sie ist neben anderen Aufgaben, wie z. B. Bestandsaufbau, Vermittlung von
+Informationskompetenz oder Forschungsdatenmanagement, Garant für die im Code
+of Ethics der International Federation of Library Associations and Institutions (IFLA)
+definierte zentrale Mission von Bibliotheken, Zugang zu Information „für alle sicher-
+zustellen – zur persönlichen Weiterentwicklung, zu Bildungszwecken, zur kulturellen
+Bereicherung, für die Freizeit, für wirtschaftliche Aktivität, für eine informierte Teil-
+habe an einer Demokratie und für deren Weiterentwicklung“.2 Hierbei kommt ihr die
+zentrale Funktion zu, inhaltliche Merkmale publizierten Wissens unter Einsatz von
+Wissensorganisationssystemen (Knowledge Organization Systems – KOS) und Norm-
+daten in Fachkontexte einzuordnen, aufzubereiten, thematisch zu clustern – im wei-
+testen Sinne Nutzenden das Auffinden signifikanter Publikationen schnell und präzise
+zu ermöglichen und den Einstieg in spezifische Wissensgebiete zu erleichtern.3 Sowohl
+im Kontext der Heterogenität von Norm- und Metadaten in immer größer werdenden
+Publikationsindices (Mega-Indices) von Suchwerkzeugen als auch hinsichtlich des wach-
+senden Interesses an Kultur- und Forschungsdaten hat die Inhaltserschließung wegen
+der durch sie ermöglichten Vernetzung unterschiedlichster Ressourcen eine nicht zu
+unterschätzende Bedeutung in der Wertschöpfungskette von Autor:innen und Urhe-
+ber:innen bis zu Lesenden und Nutzenden.
+
+ Die Begriffe Inhaltliche Erschließung, Inhaltserschließung und Sacherschließung werden in diesem
+Text synonym verwendet.
+ https://www.ifla.org/de/publications/ifla-ethik-kodex-fur-bibliotheks-und-andere-informationsfach
+leute-kurzfassung/ (24.03.2023).
+ Vgl. z. B. Bertram 2005, Gantert 2016 und Stumpf 2013.
+
+Anmerkung: Der Beitrag von Gerhard Stumpf in der ersten Auflage des Praxishandbuchs Bibliotheksma-
+nagement diente strukturell als Grundlage für den vorliegenden Text: https://doi.org/10.1515/9783110303261.
+357. Gerhard Stumpf hat der Verwendung einzelner Teile seines Beitrages ausdrücklich zugestimmt.
+Weiterhin möchte ich den folgenden Personen für Diskussion, Beratung und Korrektur danken: Gerhard
+Stumpf, Martin Völkl, Sina Menzel, Peter Thiessen, Hans Schürmann, Jakob Voß, Armin Kühn, Umamaheswari
+Balakrishnan, Guido Bee, Heidrun Alex und Anna Kasprzik.
+
+Open Access. © 2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-031
+
+
+
+500 Michael Franke-Maier
+
+Damit eine qualitätvolle Inhaltserschließung gelingen und sie ihre zentralen Funk-
+tionen „Zugang zu und Orientierung über Dokumentinhalte“4 erfüllen kann, ist ihre
+dauerhafte Verankerung in der Aufbau- und Ablauforganisation von Bibliotheken mit
+den dafür notwendigen Ressourcen erforderlich. Die damit verbundene Ausstattung
+mit Sach- und Personalmitteln ist zu gewährleisten. Auch die Hinwendung zu maschi-
+nellen, ggf. lernenden Verfahren der Indexierung ist personalintensiv, sofern man sie
+als Daueraufgabe mit verlässlichen Ergebnissen betreiben möchte. Positiv hervorzuhe-
+ben sind hier beispielsweise die Aktivitäten der ZBW – Leibniz-Informationszentrum
+Wirtschaft sowie der Deutschen Nationalbibliothek (DNB). Dort ist es gelungen, den
+Einsatz maschineller Verfahren der Inhaltserschließung aus dem Projektcharakter her-
+auszulösen und in die Bibliotheksstrukturen nachhaltig zu integrieren.5 Die Automati-
+sierung erfordert dabei weiterhin menschlichen Input, z. B. durch die Generierung
+von Trainings- und Normdaten sowie durch intellektuell vollzogene Qualitätskontrolle.
+Ebenso bedürfen die für die maschinelle Indexierung eingesetzten Verfahren einer
+kontinuierlichen Weiterentwicklung.
+
+Zur Verständigung über Pflege und Aufbau der Regelwerke und der Normdaten-
+erfassung braucht die Inhaltserschließung die Einbettung in lokale, regionale, natio-
+nale und internationale Gremienstrukturen. Diese Einbettung gewährleistet die
+Weiterentwicklung sowie den Austausch über konkrete Fragestellungen, die andere
+bibliothekarische Felder berühren. Das betrifft vor allem die Datenformate und
+deren Optimierung sowie das Design von Suchwerkzeugen. Letzteres ist entschei-
+dend, wenn neben einer gut funktionierenden Known-item-Suche, die als Verfügbarkeits-
+recherche von bekannten Daten (Literaturangaben) ausgeht, auch die ergebnisoffene
+Suche nach Publikationen zu bestimmten Themen erfolgreich sein soll. Diese Art der Re-
+cherche ist vom Interesse an Inhalten geleitet, wobei hier neben den Zugang zu und die
+Orientierung über Dokumentinhalte eine dritte Funktion der Inhaltserschließung tritt,
+die der Exploration: „Gemeint sind damit das Navigieren, Browsen und Entdecken von
+Nützlichem – ohne ein von vornherein festgelegtes Ziel (Serendipität).“6 Dieser Aspekt
+der vernetzten Darstellung, z. B. als Wissensgraph oder als Einbindung von More-like-this-
+Funktionalitäten, ist in Suchwerkzeugen immer noch eher selten zu finden.
+
+Weiterhin sind geeignete Regelwerke für die Erfassung und Verwendung von Norm-
+daten, die Weiterentwicklung dieser Regelwerke sowie die Vernetzung unterschiedlicher
+Wissensorganisationssysteme für die Erzeugung inhaltserschließender Metadaten von
+zentraler Bedeutung. Die normdatenbasierte Inhaltserschließung unterscheidet sich
+fundamental von Verstichwortung oder von maschinellen Verfahren, die auf linguis-
+tisch-statistischer Termextraktion basieren, da eine terminologische Kontrolle erfolgt,
+die abstrakte oder Individualbegriffe und ihre vielfältigen Benennungen (Synonyme)
+
+ Bertram 2005: S. 18 f.
+ Vgl. Kasprzik u. Tochtermann 2022 und https://www.dnb.de/ki-projekt (24.03.2023).
+ Vgl. Wiesenmüller in Franke-Maier u. a. 2021: S. 282; und Wiesenmüller 2022: Min. 1:41.
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 501
+
+zusammenführt. In dieser Hinsicht ist in den letzten Jahren einiges passiert; exempla-
+risch zu nennen ist der Auftrag des Standardisierungsausschusses (STA)7 an das Exper-
+tenteam RDA-Anwendungsprofil für die verbale Inhaltserschließung (ET RAVI),8 ein
+neues modulares Regelwerk für die verbale Inhaltserschließung zu entwickeln. Ferner
+zu nennen sind die Weiterentwicklung der Regensburger Verbundklassifikation (RVK)
+im Jahr 2015 zur echten Normdatei mit persistenten Identifiern9 sowie die Anstrengun-
+gen der DNB im Projekt GND-mul,10 die Gemeinsame Normdatei (GND) mit anderen
+Normdateien zu mappen, wie z. B. mit den Library of Congress Subject Headings
+(LCSH) oder den Medical Subject Headings (MeSH) der National Library of Medicine.
+Hervorzuheben ist in diesem Zusammenhang außerdem das Engagement der Verbund-
+zentrale (VZG) des Gemeinsamen Bibliotheksverbundes (GBV), mit coli-conc Werkzeuge
+zur „Verwaltung und Bereitstellung von Konkordanzen zwischen bibliothekarischen
+Wissensorganisationsystemen“ in der Bibliothekslandschaft zu etablieren.11
+
+Möchte man einen Idealzustand für die inhaltliche Erschließung im Kontext eines
+(Verbund-)Katalogs umreißen, so lassen sich die folgenden Eckpunkte herausstellen:
+Jede verzeichnete Einheit in einem Katalog ist inhaltlich erschlossen (Erschließungs-
+dichte); alle Einheiten sind mindestens mit ein und demselben, sich kontinuierlich ak-
+tualisierenden und wissenschaftsnahen KOS erschlossen (Homogenität), idealerweise
+einmal verbal (natürlichsprachig) und einmal klassifikatorisch; gleiche Werke sind
+gleich erschlossen und Werke mit ähnlichen Themen sind gemeinsam auffindbar. Wei-
+terhin: Alle Titel sind durchgängig mithilfe maschineller Verfahren mit zusätzlichen
+Suchtermen angereichert, die auch Teilaspekte von Publikationen suchbar machen.
+Und sie besitzen ein maschinenlesbares, im Datenformat verankertes und im Katalog
+indiziertes Inhaltsverzeichnis. Entgegen dieser Idealvorstellung zeigt ein genauerer
+Blick auf die Realität von Katalogdaten, dass trotz der kooperativen Verbundkatalogisie-
+rung, dem verstärkten Einsatz digitaler Assistenzsysteme (z. B. DA-312) und dem seit Jah-
+ren gut etablierten Datentausch der Verbünde der visionierte Idealzustand nicht
+erreicht wird. Statistiken zur inhaltlichen Erschließungsdichte in Verbundkatalogen zei-
+gen dies deutlich: In den Jahren 2019 bzw. 2020 wurden drei Verbundkataloge dahinge-
+hend untersucht, wie viele der in ihnen verzeichneten Einheiten mit Notationen der
+Regensburger Verbundklassifikation (RVK) bzw. der Basisklassifikation (BK) sowie mit
+GND-Schlagwörtern erschlossen waren, die nach den Regeln für die Schlagwortkatalogi-
+sierung (RSWK) vergeben wurden. Im Ergebnis liegen die Anteile der nicht mit RVK
+
+ https://www.dnb.de/DE/Professionell/Standardisierung/Standardisierungsausschuss/standardisie
+rungsausschuss_node.html (29.08.2023)
+ https://wiki.dnb.de/x/HsXOCw (24.03.2023).
+ https://rvk.uni-regensburg.de/aktuelles/laufende-projekte/145-rvk-als-normdatei (24.03.2023).
+ https://wiki.dnb.de/x/ZV5ND (24.03.2023).
+ https://coli-conc.gbv.de/de/ (24.03.2023).
+ https://www.eurospider.com/de/relevancy-produkt/digitaler-assistent-da-3 (12.05.2023).
+
+
+
+502 Michael Franke-Maier
+
+bzw. BK und der nicht mit GND-Schlagwörtern erschlossenen Einheiten bei über 50 %.13
+Andererseits sind viele dieser nicht mit RVK, BK oder GND-Schlagwörtern erschlosse-
+nen Titelsätze immerhin nach anderen Wissensorganisationssystemen erschlossen,
+bspw. nach den LCSH oder der Dewey Decimal Classification (DDC). Zu berücksichtigen
+ist weiterhin, dass nach den RSWK die inhaltliche Erschließung schöner Literatur nur
+optional ist, dass die Verbundkataloge auch vermehrt Aufsätze nachweisen, die häufig
+unerschlossen bleiben, und dass bei der Einspielung von E-Book-Paketen auf die oft-
+mals sehr heterogene inhaltliche Erschließung der Verlage zurückgegriffen wird.
+
+Auch ist nicht abzusehen, dass je eine echte Kollaboration zu erreichen ist, bei wel-
+cher nicht der Bestand der eigenen Bibliothek maßgeblich für den Erschließungsfokus
+ist. Eine solche Kollaboration müsste bestandsunabhängig fachwissenschaftliche Kom-
+petenzen, die bibliothekarischen Kenntnisse von Regelwerken und Datenformaten
+sowie die Transferkompetenz der Inhaltsanalyse (Ad-hoc-Texterfassung und deren Wie-
+dergabe durch Wissensorganisationssysteme) bündeln und dann als zentrale Leistung
+für die gesamte Bibliothekslandschaft bzw. die Wissenschaft anbieten.
+
+Unabhängig davon muss eine Inhaltserschließung, die praktisch relevant sein
+will, vom engen Zusammenwirken von Metadatenerzeugung (Input), Metadatendar-
+stellung und -nutzung (Output) und Outcome geleitet sein. Während der Input relativ
+gut anhand quantitativer Analysen zu messen ist, ist die Messung des Outputs schon
+schwieriger, da sie abhängig ist von den Auswertungsmöglichkeiten der unterschiedli-
+chen Suchwerkzeuge, der Kompetenzen informationsvermittelnder Personen und
+nicht zuletzt der Recherchekompetenz der Suchenden. Die Ermittlung des Outcomes
+bzw. das Zusammenbringen von Bibliometrie mit der erfolgreichen Nutzung inhaltli-
+cher Metadaten scheint wenig untersucht zu sein. Nichtsdestotrotz sollte das aktive
+Erzeugen inhaltlicher Metadaten immer ein Element im Erschließungsworkflow sein:
+Gerade die Entwicklungen im Bereich der Kultur- und Forschungsdaten, das Interesse
+und die Hinwendung von Kultureinrichtungen wie Museen, Archiven und anderen
+Forschungseinrichtungen zur GND und die daraus entstehenden neuen Strukturen
+auf nationaler Ebene (Arbeitsgruppen beim STA; GND für Kulturdaten, GND4C14; Nati-
+onale Forschungsdateninfrastruktur, NFDI15) sind ein Indiz dafür, dass die inhaltliche
+Erschließung und die damit verbundene normdatenbasierte Vernetzung unterschied-
+licher Kulturobjekte zukünftig eine erhebliche Rolle spielen wird.
+
+Die inhaltliche Erschließung von Publikationen war schon immer ein Feld, in dem
+sich Bibliotheken aktiv betätigten. So können z. B. die LCSH auf eine mehr als 100 Jahre
+andauernde Anwendung (seit 1898) zurückblicken und sind mittlerweile in der 44. Auf-
+lage erschienen.16 Auch die Schlagwortnormdatei (SWD), die mit Einführung der RSWK
+1986 als Schlagwortliste veröffentlicht wurde und 2012 in der GND aufgegangen ist, blickt
+
+ Vgl. Albrecht, Block, Kratzer u. Thießen in Franke-Maier u. a. 2021
+ https://wiki.dnb.de/x/dIf9Bw (24.03.2023).
+ https://www.nfdi.de/ (24.03.2023).
+ https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html (24.03.2023).
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 503
+
+damit auf eine mehr als 35-jährige Geschichte zurück.17 Die RVK ist in den 1960er Jahren
+an der Universitätsbibliothek Regensburg entwickelt worden.18 Diese drei Beispiele ver-
+deutlichen zugleich die beiden in der Bibliotheksdomäne dominierenden Methoden der
+intellektuellen Inhaltserschließung um physische oder digitale Bibliotheksbestände nach
+inhaltlichen Gesichtspunkten zu organisieren: einerseits die regelbasierte Zuweisung
+von standardisierten Schlagwörtern und andererseits die Klassierung durch Zuordnung
+von Klassen (Systemstellen, Notationen) einer Klassifikation. Klassifikationen wie etwa
+die RVK erfüllen dabei nicht nur die Funktion, Nutzenden im Rahmen einer themati-
+schen Recherche Zugang zu Informationsressourcen zu bieten, sondern eignen sich
+zudem für die Aufstellung und Präsentation von Printpublikationen in Lesesälen.
+
+Während die Inhaltserschließung in prä-digitalen Zeiten in Sach-, Schlagwort- und
+systematischen Zettelkatalogen erfolgte, werden seit den 1980er/1990er Jahren inhalts-
+erschließende Metadaten unter Einbezug geeigneter Datenformate mittels Bibliotheks-
+managementsoftware erfasst und gemeinsam mit formalen Metadaten in Online-
+Katalogen präsentiert. Vor allem die Ablösung der Online-Kataloge durch Discovery-
+Systeme, der damit verbundene technologische Wandel und das sich verändernde, von
+der Google-Suchmaschine dominierte Suchverhalten auf Seiten der Bibliotheksnutzen-
+den hat (nicht nur) die Inhaltserschließung herausgefordert: Während sich Online-
+Kataloge mit dem „exact match“ und dem Angebot von Schlagwort-Indices noch an den
+Strukturen von Zettelkatalogen orientieren, arbeiten Discovery-Systeme mit dem best-
+match-Verfahren und mit einer Relevanzsortierung. Weiterhin aggregieren sie im Ge-
+gensatz zu den bestandsorientierten Online-Katalogen Metadaten aus den unterschied-
+lichsten Quellen und zeichnen sich insofern durch eine hohe Heterogenität der Daten
+aus. Daraus resultiert, dass nur noch Teile der in einem Discovery-System angezeigten
+Informationsressourcen mit normiertem Vokabular erschlossen sind. Eine verlässliche
+Treffermenge unter Berücksichtigung der Messgrößen recall und precision ist damit
+kaum zu erzeugen, da entweder, je nach Konfiguration, durch eine nicht erfolgte Norm-
+datenverknüpfung Ergebnisse fehlen und/oder auf Grund von String-basierter Suche zu
+viele Ergebnisse zurückgeliefert werden. Der jüngst veröffentlichte GND-Explorer19
+zeigt exemplarisch bzw. technologisch die Richtung auf, in die sich eine normdatenba-
+sierte Suche entwickeln kann, bei der ein deutlicher Mehrwert zu erwarten ist. Im Ver-
+gleich zu gängigen Trefferlisten basieren Wissensgraphen auf den Verlinkungen von
+Entitäten. Diese sind interaktive Sprungmarken, die die Funktion der Exploration maß-
+geblich unterstützen. Gerade diese technische Entwicklung zeigt, wie wichtig es ist, dass
+inhaltliche Erschließung und die Gestaltung von Discovery-Systemen in beide Richtun-
+gen „produktiv miteinander interagieren“.20
+
+ https://prezi.com/p/i86nojr2q6rs/geschichte-der-gnd/ (24.03.2023).
+ https://rvk.uni-regensburg.de/2-uncategorised/141-rvk (24.03.2023).
+ https://explore.gnd.network/ (24.03.2023).
+ Vgl. z. B. Maas in Franke-Maier u. a. 2021.
+
+
+
+504 Michael Franke-Maier
+
+2 Verbale Inhaltserschließung
+Die gängigste Methode, nach Informationsressourcen zu recherchieren, deren Inhalt
+ein bestimmtes Thema repräsentiert, ist die Verwendung von natürlichsprachigen Ter-
+men. Gerade vor dem Hintergrund der Magazinierung von Beständen einerseits und
+vor allem des Zuwachses an (z. T. nur noch) elektronisch verfügbarer Literatur anderer-
+seits bietet die verbale inhaltliche Erschließung einen Mehrwert – und das selbst vor
+dem Hintergrund des voranschreitenden Einsatzes der Technologie der Volltextindexie-
+rung. Zum einen liegen nicht alle Publikationen als Volltexte vor, zum anderen ermög-
+licht der Einsatz einer normierten Dokumentationssprache die Zusammenführung von
+Synonymen (bzw. abweichenden Benennungen), in multilingualen Publikationsdaten-
+banken die Reduktion auf eine gewünschte Sprache, die Anzeige der verbalen Indexate
+als eine Art Kurzabstract sowie deren Auswertung für Themenfacetten.
+
+2.1 Schlagwortvergabe in deutscher Sprache nach den Regeln
+für die Schlagwortkatalogisierung (RSWK)
+
+Die im D-A-CH-Raum (Deutschland, Österreich, Schweiz) gängigste Art der verbalen
+Inhaltserschließung beruht nach wie vor auf der Verwendung der Regeln für die
+Schlagwortkatalogisierung unter Zuhilfenahme der GND. Dabei sind vier Grundprin-
+zipien handlungsleitend: 1) Dokumente werden als Ganzes erschlossen, d. h., dass
+nicht nur einzelne Teile oder besonders relevante Aspekte erschlossen werden. 2)
+Weiterhin werden Dokumente so spezifisch wie möglich erschlossen, wobei abhängig
+vom jeweiligen Inhalt des vorliegenden Dokuments allgemeinere oder speziellere
+Schlagwörter für die Erschließung Verwendung finden. 3) Der Dokumenteninhalt und
+die Gesamtheit der Schlagwörter sollen deckungsgleich sein, so dass die genutzten
+Schlagwörter bzw. Schlagwortfolgen nicht über den Dokumenteninhalt hinausgehen.
+Und schließlich 4) gleiche Themen werden gleich erschlossen. Das Regelwerk sieht die
+Bildung von ein oder mehreren Schlagwortfolgen (früher: Schlagwortketten) vor,
+wobei die Einzelschlagwörter i. d. R. einer formalen Abfolge unterliegen (Person, Kör-
+perschaft, Werk, Geografikum, Sache, Zeit). Alternativ können sie syntaktisch in eine
+Reihenfolge gebracht werden, um so den betreffenden inhaltlichen Sachverhalt ver-
+ständlicher zu repräsentieren. Für die praktische Nutzung der GND sind darüber hi-
+naus die in den GND-Datensätzen vermerkten Definitionen (wenn vorhanden), die
+Einordnung von Schlagwörtern in die GND-Systematik sowie die Verwendungshin-
+weise von zentraler Bedeutung. Sie geben Auskunft darüber, in welchem Kontext und
+auf welche Weise das betreffende Schlagwort konkret einzusetzen ist.
+
+Die Voraussetzung zur Verwendung der GND für den Prozess der Verschlagwor-
+tung ist die Erfassung von Schlagwörtern in der GND. Fehlende Schlagwörter werden
+bedarfsorientiert in die GND aufgenommen, wobei nach dem Nachschlagewerkprin-
+zip verfahren wird: Die zu nutzenden Referenzwerke sind in der Liste der fachlichen
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 505
+
+Nachschlagewerke für die Gemeinsame Normdatei21 aufgeführt. Die Erfassung von
+Personen, Geografika, Werktiteln, Körperschaften und Konferenzen folgt dem Regel-
+werk Resource Description and Access (RDA), darüber hinaus finden auch die RSWK
+Berücksichtigung.22 Einzig die Erfassung von Sachbegriffen ist komplett in den RSWK
+geregelt. Dabei spielt die Zerlegungskontrolle von Komposita eine wichtige Rolle. Ob-
+wohl ggf. der zusammengesetzte Begriff der einschlägigste und in der Fachcommunity
+gebräuchlichste ist, werden viele Komposita in ihre Einzelelemente zerlegt, um diese
+variabler kombinieren zu können.
+
+Die RSWK sind erstmals 1986 als Regeln für den Schlagwortkatalog erschienen und
+liegen seit 2017 in der 4. Auflage vor.23 Sie werden im D-A-CH-Raum spätestens seit 1998
+flächendeckend eingesetzt. Mit Erscheinen der RSWK wurde ebenfalls die Schlagwort-
+normdatei veröffentlicht; in ihr waren 2011 knapp 1 Mio. Datensätze enthalten. Sie ist,
+wie auch die Personennamendatei (PND) und die Gemeinsame Körperschaftsdatei
+(GKD), in der GND aufgegangen, die heute für die Formal- und Inhaltserschließung ein-
+gesetzt wird. Mit dem Aufkommen von RDA entstand auch der Bedarf, ein zeitgemäßes
+Regelwerk für die verbale Inhaltserschließung nutzen zu können. Eigens dafür wurde
+vom STA das Expertenteam RDA-Anwendungsprofil für die verbale Inhaltserschließung
+einberufen, welches sich seit Ende der 2010er Jahre damit beschäftigt, ein Konzept für
+modular aufgebaute Erschließungsregeln für die verbale Inhaltserschließung zu entwi-
+ckeln.24 Dabei sollen einerseits verbindliche Erfassungsregeln für Normdaten ausgear-
+beitet werden und andererseits mehr Freiheit in der Anwendung möglich sein. Zentrale
+Themen der Diskussionen um dieses neue Regelwerk sind die Grundprinzipien der in-
+haltlichen Erschließung: Spezifität, Themenbildung und Vollständigkeit. Ein weiteres
+Thema ist die Erweiterung des Datenformats für die Einführung von Rollenoperatoren.
+Darunter ist die Qualifizierung eines Schlagwortes unter einer konkreten Funktion in
+Bezug auf ein Werk zu verstehen. Da z. B. im Grunde alle Schlagwörter der GND Motiv
+eines literarischen oder künstlerischen Werkes werden können, ist es ökonomisch
+nicht sinnvoll, vorhandene Schlagwörter zu klonen und mit dem Zusatz Motiv in der
+GND zu erfassen. Geeigneter ist hier die Lösung über die Rolle „Motiv“ im Datenformat.
+Weiterhin soll das neue Regelwerk ermöglichen, fachbezogene, zielgruppenorientierte
+und ressourcenbasierte Regelbausteine zu integrieren. Diskutiert werden überdies An-
+forderungen an die Qualität inhaltserschließender Metadaten.25
+
+ https://d-nb.info/1037142683 (29.08.2023). Diese Liste wird jährlich aktualisiert, der derzeitige Stand
+ist der 1. April 2023.
+ Vgl. die Erfassungs- und Verwendungshilfen für RSWK-spezifische Sachverhalte: https://wiki.dnb.
+de/x/LIjwBg (24.03.2023).
+ https://d-nb.info/1126513032 (24.03.2023).
+ https://www.dnb.de/SharedDocs/Downloads/DE/Professionell/Standardisierung/Protokolle/Standar
+disierungsausschuss/pSta20181211Abg.pdf (24.03.2023).
+ Bzgl. der Qualitätsaspekte vgl. das Thesenpapier des ET RAVI: https://doi.org/10.1515/9783110691597-
+007.
+
+
+
+506 Michael Franke-Maier
+
+2.2 Datenverarbeitung bzw. -format und RSWK
+
+Wie oben bereits betont, spielen geeignete bibliothekarische Datenformate für das Ge-
+lingen einer qualitätvollen Inhaltserschließung eine zentrale Rolle. Sie müssen in der
+Lage sein, anhand geeigneter Feldstrukturen standardisiert und maschinenlesbar die
+Komplexität der Inhaltserschließung abzubilden. Bzgl. der Anwendung der RSWK
+unter Nutzung der GND müssen Unterfelder für z. B. identifizierende Zusätze und
+Normdatennummern vorgehalten werden.
+
+Im D-A-CH-Raum werden dabei unterschiedliche Internformate eingesetzt (z. B.
+PICA+ oder ASEQ/MAB); für den Datentausch zwischen Verbünden setzt man auf
+den internationalen Standard Machine-Readable Cataloging (MARC 21). Letzteres wurde
+im Rahmen der Internationalisierung im Jahr 2004 für den deutschen Sprachraum als
+einheitliches Austauschformat festgelegt und löste das Maschinenlesbare Austauschfor-
+mat für Bibliotheken (MAB) ab.26 Während das MAB2-Format27 für die Erfassung von
+Schlagwörtern nach RSWK/GND eine Feldstruktur mit zehn Schlagwortfolgen mit je
+zehn Einzelschlagwörtern anbot, war dies im (offiziellen) MARC-21-Standard zunächst
+nicht vorgesehen. Die Feldstrukturen von MAB2 und MARC 21 unterscheiden sich hier
+fundamental: MAB2 codiert die Schlagwortkategorien (wie Personen, Geografika, Sach-
+begriffe) innerhalb einer Schlagwortfolge über die Unterfeldtypen, während MARC 21
+dafür eigens Feldnummern vorsieht. Die Abbildung von Schlagwortfolgen ist in MARC
+21 nur umständlich über eine Verlinkung mit und eine Sequenzierung in einem ande-
+ren Feld möglich. Um der Praxis der Inhaltserschließung nach RSWK diesbezüglich ge-
+recht zu werden, entschied 2016 die damalige Expertengruppe Datenformate ein eigens
+dafür implementiertes Feld für den D-A-CH-Raum beizubehalten.
+
+Der eben geschilderte Sachverhalt zeigt exemplarisch die Interdependenzen zwi-
+schen Inhaltserschließung und Datenformaten. Umso mehr ist es zu begrüßen, dass im
+D-A-CH-Raum Formatfragen in mehrfacher Hinsicht in den Gremienstrukturen veran-
+kert sind, so z. B. in der Arbeitsgruppe kooperative Verbundanwendungen (AG KVA)28
+und in der Fachgruppe Datenformate.29 International ist dies durch die Partizipation
+der DNB an der MARC Steering Group gewährleistet.30 Trotz der Kritik an MARC 21
+wegen seiner mangelnden Flexibilität bzgl. Erweiterbarkeit seit Beginn der 2000er hat
+es sich bisher als zentrales Datenformat gehalten und seine (endgültige) Ablösung
+durch modernere Formate wie BIBFRAME ist noch nicht abzusehen. Inwieweit ein sol-
+cher Wechsel dann auch Auswirkungen auf die inhaltliche Erschließung haben wird
+und welche neuen Erschließungsoptionen und Optimierungen dann möglich werden,
+bleibt abzuwarten.
+
+ https://www.dnb.de/marc21 (24.03.2023).
+ Die erweitere Version MAB2 erschien 1995: https://format.gbv.de/mab (24.03.2023).
+ https://www.dnb.de/agv (24.03.2023).
+ https://wiki.dnb.de/x/lcTOCw (24.03.2023).
+ https://www.loc.gov/marc/mac/advisory.html (24.03.2023).
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 507
+
+Große Auswirkungen auf die Präsentationsebene von Schlagwortfolgen indes
+hatte der Wechsel von klassischen Online-Katalogen auf Discovery-Systeme. Während
+sich Online-Kataloge noch viel stärker an den Bibliotheksformaten orientieren, erfolgt
+bei Discovery-Systemen eine suchmaschinenoptimierte Transformation der Daten
+z. B. in flache XML-Formate mit dem Resultat, dass Schlagwortfolgen oft nicht mehr
+als solche präsentiert werden. Darunter leidet die Orientierungsfunktion der Inhalts-
+erschließung, da sich der Fokus auf die Anzeige von Einzelschlagwörtern verlagert,
+wodurch sie aus dem nach RSWK intendierten und in den Katalogisaten abgebildeten
+Sinnzusammenhang gerissen werden. Dabei ist es nicht unbedingt wichtig, ob sich Su-
+chende der in den RSWK angedeuteten Funktion von Schlagwortfolgen als Kurzab-
+stracts bewusst sind, der Mehrwert der Anzeige von strukturierten Schlagwortfolgen
+im Gegensatz z. B. zu chaotisch sortierten Listen von Einzelschlagwörtern liegt auf
+der Hand: Die Leserichtung von links nach rechts stellt jedes in einer Schlagwortfolge
+präsentiertes Einzelschlagwort in einen unmittelbaren Sinnzusammenhang mit den
+in seiner Nachbarschaft präsentierten anderen Schlagwörtern.
+
+2.3 Freie Deskriptoren, Schlagwörter gemischter Provenienz,
+Fachthesauri und anderssprachige verbale
+Inhaltserschließung
+
+Die Analyse von Bibliothekskatalogen zeigt, dass eine Vielzahl inhaltlicher Informatio-
+nen heterogenen Ursprungs anzutreffen ist, die sich durch den Erschließungsaufwand
+und den Beschreibungsgrad unterscheiden. Unter Qualitätsaspekten ist zu betrachten
+und zu bewerten, inwieweit sie sich für die Auswertung in Suchwerkzeugen eignen.
+Dies impliziert z. B. unter Berücksichtigung der Funktionen der Inhaltserschließung,
+ob und wo man sie in Suchwerkzeugen (Suchindices, Anzeige, Facette) einbinden will.
+
+Freie Deskriptoren, wie sie z. B. von Autor:innen selbst oder von Verlagen gelie-
+fert werden, sind meist nicht normiert, unterliegen keinem differenzierten Regelwerk
+und werden keiner Synonymkontrolle unterzogen. Trotzdem können sie sich in Such-
+werkzeugen als wertvolle zusätzliche Sucheinstiege oder beim Prozess der Verschlag-
+wortung mit normiertem Vokabular zur inhaltlichen Orientierung eignen. Gleiches gilt
+für Schlagwörter gemischter Provenienz und aus Fachthesauri.31 Letztere stammen
+
+ Das Basic Register of Thesauri, Ontologies & Classifications verzeichnet mit Stand 03/2023 rund
+3 500 unterschiedliche Wissensorganisationssysteme, die in unterschiedlichen Kontexten Anwendung
+finden. Das Register ist damit eine der zentralen Datenbanken zur Dokumentation von Thesauri, On-
+tologien, Klassifikationen und Normdaten: https://bartoc.org/ (24.03.2023). Eine weitere Übersicht bie-
+tet z. B. das Verzeichnis Subject Heading and Term Source Codes der LoC. Die dort genannten Codes
+dienen Bibliotheken gleichsam dafür, die Schlagwörtern zugrundeliegenden Vokabulare in den Daten
+zu referenzieren und damit zu identifizieren: https://www.loc.gov/standards/sourcelist/subject.html
+(24.03.2023).
+
+
+
+508 Michael Franke-Maier
+
+oftmals aus Forschungsinstitutionen und wissenschaftlichen Spezialbibliotheken und
+können in ihrer Granularität und Spezifik sehr fein sein. Sie sind allerdings begrenzt
+auf einen bestimmten Fachkontext, konzentrieren sich auf die Verzeichnung von Sach-
+begriffen und unterscheiden sich hierin maßgeblich von der GND, die als einheitliches
+Vokabular zur Beschreibung aller Arten von Literatur in Formal- und Sacherschlie-
+ßung benutzt wird. Weiterhin versuchen Fachthesauri Themen und Gegenstände
+eines Faches vollständig abzudecken und unterscheiden sich auch hier von der GND,
+die sich bedarfsorientiert abhängig von vorliegenden Dokumenten aktualisiert. Struk-
+turell unterscheidet sie sich, obwohl die GND das Wort „Thesaurus“ selbst nicht im
+Namen trägt, nicht maßgeblich. Sie folgt z. B. den Strukturierungsprinzipien der Syn-
+onymerfassung, der Hierarchisierung mit Oberbegriffen und der Relationierung ver-
+wandter Begriffe sowie der Homonym- und Polysemkontrolle.32
+
+Für den deutschsprachigen Raum sind exemplarisch für Fachthesauri der Standard-
+Thesaurus Wirtschaft (STW) der ZBW,33 der Thesaurus Sozialwissenschaften (TheSoz) der
+GESIS – Leibniz-Institut für Sozialwissenschaften,34 der frauenthemenorientierte Thesau-
+rus mit dem Schwerpunkt Österreich, ThesaurA, von frida (Verein zur Förderung und
+Vernetzung frauenspezifischer Informations- und Dokumentationseinrichtungen in Öster-
+reich)35 oder die Gattungsbegriffe der Arbeitsgemeinschaft Alte Drucke36 zu nennen.
+
+Unter dem Aspekt der Multilingualität ist zu beobachten, dass Bibliothekskataloge
+einen hohen Anteil an Dokumenten enthalten, die mit Schlagwörtern in anderen
+Sprachen erschlossen sind. Maßgebliche Anteile bilden hierbei englische Schlagwör-
+ter. Vornehmlich handelt es sich dabei um LCSH, die über Fremddatenübernahmen
+aus der Library of Congress kommen, sowie um Schlagwörter aus dem Vokabular der
+Faceted Application of Subject Terminology (FAST)37 der British Library. Weiterhin ist
+der WorldCat eine Quelle für die Versorgung mit englischen Schlagwörtern und selbst
+Verlage liefern mittlerweile in den Metadaten ihrer eBook-Pakete eine, wie die Erfah-
+rung zeigt, meist wenig granulare inhaltliche Erschließung mit LCSH. Gerade für
+schweizerische Kataloge ist die Anreicherung und/oder aktive Erschließung mit fran-
+zösischen Schlagwörtern aus den Identifiants et Référentiels (IdRef),38 dem Répertoire
+
+ Weitere Hinweise zur standardisierten Gestaltung von Thesauri gibt die ISO 25964-1:2011: https://
+www.iso.org/standard/53657.html (24.03.2023).
+ https://zbw.eu/stw/version/latest/about (24.03.2023).
+ https://lod.gesis.org/thesoz/de/ (24.03.2023).
+ https://frida.at/projekte/thesaura (24.03.2023).
+ Die Arbeitsgemeinschaft Alte Drucke ist ein gemeinsames Kompetenz- und Kontrollgremium des Ge-
+meinsamen Bibliotheksverbunds (GBV) und des Südwestdeutschen Bibliotheksverbundes (SWB), siehe:
+https://verbundwiki.gbv.de/x/B4AiAw sowie http://uri.gbv.de/terminology/aadgenres/ (24.03.2023).
+ https://www.bl.uk/more/collection-metadata-services/ (14.09.2024). Zu erwähnen ist hier, dass die
+British Library seit Juli 2022 von LCSH auf FAST umgestiegen ist.
+ https://www.idref.fr/ (24.03.2023).
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 509
+
+d’autorité-matière encyclopédique et alphabétique unifié (RAMEAU)39 und italieni-
+schen Schlagwörtern nach dem Nuovo Soggettario40 für die multilinguale Recherche
+unentbehrlich. Das ist allerdings nicht weniger im Interesse von (wissenschaftlichen)
+Bibliotheken im deutschsprachigen Raum, sofern sie ihr Medienangebot auch einem
+internationalen Publikum öffnen möchten. Dies hat fraglos Auswirkungen auf die
+Funktionalitäten der Suchwerkzeuge. Diese müssen ihre Bedienoberflächen dann
+auch in anderen Sprachversionen zur Verfügung stellen und die hinterlegten Suchin-
+dices entsprechend der gewählten Sprache konfigurieren.
+
+Eine Übertragung bzw. Übersetzung von Schlagwörtern in eine andere Sprache wird
+dabei dem Anspruch einer semantisch konsistenten inhaltlichen Erschließung nicht ge-
+recht: In vielen Fällen sind sprachliche Terme nicht 1:1 zu übersetzen, da sich das damit
+in der Zielsprache verbundene inhaltliche Konzept vom Bedeutungsumfang in der Aus-
+gangssprache unterscheidet. Übersetzen wäre nur akzeptabel, wenn Terme vom Bedeu-
+tungsumfang deckungsgleich sind. Die praktische Konsequenz dieses Sachverhaltes ist,
+dass entweder zusätzlich zur Erschließung mit deutschen Schlagwörtern eine Erschlie-
+ßung mit Schlagwörtern anderssprachiger Systeme erfolgt oder die Normdaten selbst
+unter Angabe der Äquivalenzbeziehung miteinander in Crosskonkordanzen verlinkt
+sind. Letzteres ist zunächst aufwändiger, da auf Normdatenebene der semantische De-
+ckungsgrad (intellektuell) ermittelt werden muss, auf lange Sicht aber lohnender als das
+Kumulieren verschiedensprachiger Deskriptoren auf Ebene von Einzeltiteln. Dieses Vor-
+gehen wurde im europäischen Raum im Projekt Multilingual access to subjects (MACS)41
+erprobt, in welchem eine Konkordanz zwischen GND, LCSH und RAMEAU erstellt wurde.
+Weiterhin hat in neuester Zeit (2021–2022) die DNB in ihrem Projekt GNDmul— multilin-
+guale Crosskonkordanzen zur GND die Ergebnisse aus MACS „nachhaltig in die Struktur
+der GND integriert“.42 Dies implizierte u. a. auch die formattechnische Definition eines
+GND-Datensatztyps für Konkordanzen (sogenannte Tc-Datensätze). Mittlerweile liegen
+mehrere Konkordanzen zwischen der GND und anderen Thesauri vor.43 Mit der Einbin-
+dung der Konkordanzen in Suchsysteme kann der Recall maßgeblich erhöht werden, da
+unter Berücksichtigung der Verlinkungen anderssprachig erschlossene Titel ebenfalls zu
+finden sind.
+
+ https://rameau.bnf.fr/ (24.03.2023).
+ https://thes.bncf.firenze.sbn.it/index.html (24.03.2023).
+ Vgl. https://www.dnb.de/voclink; Landry 2004 sowie https://web.archive.org/web/20151017235537/
+http://www.nb.admin.ch/nb_professionnel/projektarbeit/00729/00733/index.html?lang=de (24.03.2023).
+ https://gnd.network/Webs/gnd/DE/Projekte/GNDmul/GNDmul_node.html (24.03.2023).
+ https://wiki.dnb.de/x/MQy6Dw (24.03.2023).
+
+
+
+510 Michael Franke-Maier
+
+3 Klassifikatorische Inhaltserschließung
+Die Methode des Einordnens von Wissen in systematisch aufgebaute Wissensorganisa-
+tionssysteme und ihre Weiterentwicklung zu hierarchisch strukturierten bibliothekari-
+schen Klassifikationssystemen kann als einer der ältesten Wege der Wissensorganisation
+gelten.44 Klassifikationssysteme eignen sich dabei zunächst vor allem für den in Freihand
+präsentierten gedruckten Bestand, da sie Publikationen nach Wissenschaftsgebieten und
+deren Segmentierungen ordnen. Mit dem massiven Anstieg des gedruckten Bestandes
+und dem Aufkommen von Magazinbibliotheken Anfang des 19. Jahrhunderts45 wurde der
+themenorientierte Zugang weiterhin mittels systematischer Kataloge bzw. Sachkata-
+loge46 gewährleistet. Auch in digitalen Kontexten haben Klassifikationen ihre Berechti-
+gung, da sich ihre Baumstruktur in Recherchewerkzeugen gut visualisieren lässt und
+sie sich in einer sehr groben Form ideal für die Einbindung als Facette zum themenori-
+entierten Drill-Down bzw. zur Verfeinerung der Trefferliste eignen. Herausfordernd
+sind letztlich zwei Aspekte ihrer Einbindung in Suchwerkzeuge: Zum einen ihre An-
+zeige, da die kunstsprachigen Notationen in eine verständliche verbale Benennung um-
+gesetzt werden müssen, und zum anderen die Indexierung dieser Benennungen in
+geeigneter Form für die Suche, da meist nur ein Suchindex für die Notationen als solche
+angeboten wird.
+
+Im Unterschied zur verbalen Inhaltserschließung, die sehr spezifisch auf den Inhalt
+von Dokumenten eingehen kann, bündelt die klassifikatorische Erschließung Themen
+und fasst Ähnliches zusammen. Klassifikationen sind durch ihre strukturierenden Prinzi-
+pien der Über- und Unterordnung und ihrer Orientierung an den klassischen Wissen-
+schaftsdisziplinen starrer als verbale Systeme, was sie vor allem bei umfassenden
+Aktualisierungen von Wissensgebieten vor große Herausforderungen stellen kann. Dabei
+stellen sich Fragen, wie Änderungen, Ausdifferenzierungen oder Löschungen an in der
+Vergangenheit bereits zugeordneten Ressourcen (gerade bei großen Mengen) nachgear-
+beitet werden können. Auch in interdisziplinär arbeitenden Kontexten, z. B. Regionalstu-
+dienfächern, die sich mit Themen aus verschiedenen Wissensgebieten beschäftigen, kann
+der Einsatz von Universalklassifikationen problematisch werden, da ihr spezifischer
+Fokus z. B. auf Regionen nicht adäquat abgebildet werden kann. Auch in dekolonialen
+Kontexten werden Klassifikationen immer wieder kritisch beäugt, da sie eine eurozentri-
+sche oder anglo-amerikanische Prägung der Weltsicht reproduzieren.47
+
+ Vgl. Dahlberg 2014: S. 19 ff.
+ Vgl. Lorenz 2018: S. 1 f.
+ Als Beispiel ist hier der Alte Realkatalog der Staatsbibliothek zu Berlin zu nennen, https://staatsbib
+liothek-berlin.de/recherche/kataloge-der-staatsbibliothek/alter-realkatalog-und-historische-systematik/
+geschichte-und-aufbau-ark. Dieser ist in den Online-Katalog der Staatsbibliothek eingebunden und er-
+möglicht eine strukturierte Suche zu Beständen aus den Jahren 1501–1955.
+ Vgl. Critical Library Perspectives, 027.7, Vol. 9(4), 2022.
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 511
+
+3.1 Im deutschsprachigen Raum verwendete
+Universalklassifikationen
+
+Auch im 21. Jahrhundert ist zu attestieren, dass nach wie vor ein beachtlicher Anteil von
+Bibliotheken Haussystematiken für die Klassierung48 ihrer Ressourcen nutzen.49 Das kann
+historisch in den erfolglosen Bemühungen der Einführung einer deutschen Einheitsklassi-
+fikation begründet sein,50 andererseits, da mit der Regensburger Verbundklassifikation
+ein im D-A-CH-Raum weit verbreitetes Ordnungssystem vorliegt, am Aufwand der Reklas-
+sierung von vor allem in Freihand präsentiertem Bestand. Im Zusammenhang mit Biblio-
+theksneubauten und der Zusammenführung von Teilbibliotheken an neuen gemeinsamen
+Standorten wurde allerdings oftmals der Umstieg auf die RVK gewählt. Die Regensburger
+Verbundklassifikation wird mit Stand 2019 von über 170 Bibliotheken angewendet, 124 Bi-
+bliotheken beteiligen sich vertraglich an der Finanzierung des Betriebs und sind somit
+ebenfalls berechtigt, an ihrer Weiterentwicklung mitzuwirken.51 Die Koordination obliegt
+der UB Regensburg, sie organisiert jährlich ein Anwendertreffen, übernimmt die techni-
+sche Pflege der RVK (Webportal, Wiki, Datenbank, Schnittstellen) sowie ihre vierteljährli-
+che Aktualisierung. Die maßgebliche, d. h. aktuelle Version der RVK ist als Online-Version
+frei zugänglich. Einzelne Fachsystematiken sind in die englische und/oder italienische
+Sprache übersetzt, die Umstellung des RVK-Registers auf GND-Begriffe wurde 2015 fertigge-
+stellt und das 2021 für zahlende Anwenderbibliotheken geöffnete Register kann seitdem
+im Kollektiv gepflegt werden.52
+
+Historisch ist sie in den 1960er Jahren mit der Neugründung der Universität Regens-
+burg als Haussystem für die Präsentation von Beständen in Lesesälen entstanden, ein
+Thema, das sie in ihrem Selbstverständnis zwischen standortunabhängiger Klassifikation
+und Aufstellungssystematik heute noch beschäftigt. Vor allem für die selbst postulierte
+Wissenschaftsnähe hat dieser hybride Charakter für die Weiterentwicklung enorme Kon-
+sequenzen, da größere Eingriffe in die Grundstruktur den Aufwand der Reklassierung
+von Printbeständen mit sich bringen. Auf Ebene der Titeldatensätze hingegen könnten
+
+ In Anlehnung an Dahlberg 2014, S. 58, wird das Wort Klassieren für „das Zuordnen von Klassen zu
+Gegenständen oder zu Themen der Literatur“ genutzt. In der Bibliotheksdomäne hat sich dafür auch
+das Wort Klassifizieren etabliert, das Dahlberg allerdings als „das Bilden von Klassen von Begriffen
+nach gemeinsamen Merkmalen“ definiert.
+ Vgl. die Analysen im SWB/GBV 2019 sowie im Bibliotheksverbund Bayern (BVB)/Kooperativen Bi-
+bliotheksverbund Berlin-Brandenburg (KOBV) 2020: https://opus.k10plus.de/frontdoor/index/index/
+docId/464 und https://wiki.dnb.de/download/attachments/217540739/Sacherschlie%C3%9Fung%20im%
+20BVB%20Workshop%20Computerunterst%C3%BCtzte%20Inhaltserschlie%C3%9Fung.pdf (31.03.2023).
+Im SWB/GBV gaben von 124 Bibliotheken ca. 60 Bibliotheken an, eine Haussystematik zu verwenden,
+im KOBV/BVB waren es von 126 Bibliotheken 48,4 %.
+ Dbi-Materialien 175: S. 13.
+ https://rvk.uni-regensburg.de/?view=category&id=44 (14.09.2024).
+ Zur umfassenden Beschäftigung mit der RVK siehe Lorenz 2017.
+
+
+
+512 Michael Franke-Maier
+
+solche Änderungen bei Vorliegen einer 1:1-Relation zwischen Altnotation und Neunota-
+tion automatisiert in den entsprechenden Metadatenfeldern erfolgen. Letztlich ließe sich
+das nur durch eine Historisierung auffangen, d. h. im Notationsdatensatz müsste die Alt-
+notation mitgeführt werden.53
+
+Neben RVK-Notationen sind im deutschsprachigen Raum in Metadaten häufig No-
+tationen der weltweit stark verbreiteten DDC anzutreffen. Namensgeber der DDC ist
+der amerikanische Bibliothekar Melvil Dewey (1851–1931), sie wurde 1876 erstmalig
+veröffentlicht und liegt seit 2011 in der 23. Ausgabe54 sowie in mehr als 30 Übersetzun-
+gen vor.55 Die deutsche Übersetzung der DDC wurde auf Basis der 22. Ausgabe 2005
+von Der Deutschen Bibliothek (ab 2006 DNB) veröffentlicht und liegt mittlerweile
+ebenfalls in der 23. Ausgabe vor. Sie wird kontinuierlich aktualisiert und in dem web-
+basierten, bei der DNB lizenzierbaren Tool WebDewey Deutsch ist jeweils der aktuelle
+Stand eingepflegt.56 Für die Synthese von DDC-Notationen liegt mit WebDewey ein
+komfortables Tool vor, integriert sind darin alle Hilfs- und Anhängetafeln sowie zahl-
+reiche Verwendungshinweise. Das frei zugängliche WebDewey Search57 bietet die
+Möglichkeit der Recherche in Bibliotheksbeständen, die mit der DDC erschlossen wur-
+den. Mit coli-ana,58 welches von der VZG zur Verfügung gestellt wird, liegt außerdem
+ein webbasiertes Tool zur Zerlegung, Analyse und damit Validierung von synthetisier-
+ten DDC-Notationen vor.
+
+Im deutschsprachigen Raum wird die DDC meist passiv nachgenutzt, einige wenige
+Bibliotheken verwenden sie aber auch z. B. für die Aufstellung.59 Federführend bei der
+aktiven Vergabe von Notationen in Deutschland ist die DNB, die seit 2007 für Publikatio-
+nen des Verlagsbuchhandels (Reihe A)60 vollständige DDC-Notationen vergibt. Auch die
+seit 2004 für die Deutsche Nationalbibliografie verwendeten Sachgruppen basieren auf
+
+ Die Historisierung der RVK über das zugrundeliegende Datenmodell zur Überwindung des Hybrid-
+charakters der RVK wurde in dem 2016 gewählten RVK-Beirat mehrfach diskutiert mit dem Resultat,
+dass zumindest künftig eine „Abfrage nach früheren Bedeutungen einer Notation“ möglich sein wird,
+s. Schröder 2022: https://rvk.uni-regensburg.de/images/stories/Conf2022/RVK_Technik_DrSchroeder_
+RVK_Anwendertreffen_2022.pdf (Authentifizierung notwendig, 11.04.2023).
+ Seit 1988 liegen die Rechte der DDC beim Online Computer Library Center (OCLC). OCLC obliegt
+die Pflege und Weiterentwicklung.
+ Vgl. Alex 2018 (mit weiteren umfangreichen Informationen zur DDC, insb. im deutschsprachigen
+Raum).
+ https://www.dnb.de/ddcwebdewey (28.04.2023).
+ https://deweysearchde.pansoft.de/webdeweysearch/ (12.05.2023).
+ https://coli-conc.gbv.de/de/coli-ana/ (04.05.2023).
+ https://www.dnb.de/ddcausserhalb (17.04.2023).
+ Bis 2017 wurde sie auch für Reihe B vergeben.
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 513
+
+der DDC.61 Diese DDC-Sachgruppen stellen eine Kurzversion dieser Klassifikation dar,
+die auf eine festgelegte Auswahl von ca. 100 Notationen beschränkt ist.62
+
+Durch Übernahmen aus Fremddaten aus dem anglo-amerikanischen Raum und
+von der LoC als aktiver Produzentin von DDC-Notationen seit 193063 erhöht sich die
+Dichte an nach DDC erschlossenen Dokumenten in Katalogen, weiterhin durch die
+Einbindung der DDC-Sachgruppen in das DINI-Zertifikat.64 Insofern ist in Katalogen
+im deutschsprachigen Raum eine hohe Abdeckung mit DDC-Notationen hergestellt –
+auch wenn die Erschließungstiefe der im Katalog vorgefundenen DDC-Notationen
+sehr heterogen sein kann.
+
+Der Vollständigkeit halber verdient die im deutschsprachigen Raum vor allem im
+GBV eingesetzte Basisklassifikation Erwähnung. Sie wurde 1989 in den Niederlanden
+als Grobklassifikation eingeführt und 1995 durch den GBV übernommen.65 Ihr Fokus
+liegt dabei weniger auf der Aufstellung von Freihandbeständen, vielmehr eignet sie
+sich auf Grund ihrer Grobstruktur mit derzeit rund 2 087 Klassen,66 ähnlich zu den
+DDC-Sachgruppen, im Retrieval zur fachlichen Kontextualisierung von verbalen Such-
+anfragen. In öffentlichen Bibliotheken spielen vor allem die Allgemeine Systematik
+für Öffentliche Bibliotheken (ASB) und die Klassifikation für Allgemeinbibliotheken
+(KAB) eine große Rolle.67 Sie werden von der Systematikkooperation des Berufsver-
+bands Information Bibliothek e. V. (BIB), des Deutschen Bibliotheksverbands e. V.
+(dbv) und der ekz.bibliotheksservice GmbH (ekz) herausgegeben und gepflegt.68
+
+3.2 Fach- und Spezialklassifikationen
+
+Im Gegensatz zu den vorgestellten Universalklassifikationen beschränken sich Fach-
+bzw. Spezialklassifikationen auf Wissensausschnitte und organisieren Ressourcen aus
+einer spezifischen Perspektive, z. B. aus Sicht von Fachdisziplinen, wie die Mathema-
+tics Subject Classification (MSC)69 für die Mathematik, sowie zur Beschreibung von
+
+ Auch die Österreichische und Schweizerische Nationalbibliothek setzen die DDC-Sachgruppen seit
+2004 respektive 2006 für ihre Nationalbibliografien ein.
+ Meist sind es dabei dreistellige Notationen, wobei es vereinzelt aber auch Notationen mit mehr als
+drei Ziffern gibt, wenn es das Literaturaufkommen verlangt, wie z. B. 333.7 für Natürliche Ressourcen,
+Energie und Umwelt. Ein Leitfaden zur Vergabe von DDC-Sachgruppen der deutschsprachigen Natio-
+nalbibliografien findet sich hier: https://d-nb.info/1052700705 (12.05.2023).
+ https://www.loc.gov/aba/dewey/ (17.04.2023).
+ DINI-Zertifikat 2022: https://doi.org/10.18452/24678.
+ Dbi-Materialien 175: S. 54 ff.
+ https://wiki.k10plus.de/x/RQANGg (04.05.2023).
+ https://asb-kab-online.de/ (04.05.2023).
+ https://www.bib-info.de/berufspraxis/systematikkooperationen (04.05.2023).
+ https://zbmath.org/classification/ (04.05.2023).
+
+
+
+514 Michael Franke-Maier
+
+Objekten oder Objektinhalten, wie z. B. Iconclass für die Erschließung von Bildinhal-
+ten.70 Sie spielen dann auch eine überragende Rolle für das Retrieval: Beide genann-
+ten Beispiele sind entsprechend in die zentralen Nachweisinstrumente eingebunden,
+die MSC in die Literaturdatenbank zbMATHopen71 und Iconclass in die Bildersuche
+von arthistoricum.net des Fachinformationsdienstes (FID) Kunst, Fotografie, Design.72
+Sie gehen sachverhaltsbezogen in ihrer inhaltlichen Spezifität über Universalklassifi-
+kationen dort hinaus, wo Letztere Themen nicht ausreichend abdecken können, und
+sind für die entsprechenden Fachcommunities von immenser Bedeutung.
+
+4 Kataloganreicherung mit Inhaltsverzeichnissen
+und Abstracts, durch Datenprozessierung
+und Konkordanzen
+
+Die bisher beschriebenen Verfahren der Inhaltserschließung werden seit geraumer Zeit
+durch weitere Verfahren des Catalogue Enrichments ergänzt. Die Kataloganreicherung
+basiert dabei methodisch weniger auf der Inhaltsanalyse, die den intellektuellen Verfah-
+ren zugrunde liegt, sondern beruht vor allem auf Datennachnutzung und -prozessierung.
+Mittlerweile ist es – auch auf Grund der vertraglichen Einigung zwischen dem Deutschen
+Bibliotheksverband und dem Börsenverein des Deutschen Buchhandels73 – gang und
+gäbe, dass z. B. Klappentexte und Inhaltsverzeichnisse eingescannt, von Verbünden oder
+der DNB vorgehalten werden und als Hyperlinks in Titelaufnahmen Einzug in Biblio-
+thekskataloge finden. Aus Nutzungsperspektive unterstützen sie dabei maßgeblich die
+Orientierungsfunktion der Inhaltserschließung: Während Schlagwörter und Notationen
+in ihrer komprimierten bzw. stark abstrahierten Form nur Hinweise auf eine mögliche
+Brauchbarkeit in Bezug auf eine konkrete thematische Fragestellung sind, begünstigen
+vor allem Inhaltsverzeichnisse die Einschätzung der tatsächlichen Relevanz für die kon-
+krete Fragestellung der Nutzenden. Bei Klappentexten mag das weniger der Fall sein, da
+sie unter dem Aspekt der Verwertung und Bewerbung entstehen und insofern ihre Aus-
+sagekraft über den tatsächlichen Inhalt einer Publikation heterogen ist.
+
+Die Präsentation von Inhaltsverzeichnissen und Klappentexten erfolgt sehr häufig
+in Form von separaten (PDF-)Dateien; eine direkte, strukturierte und maschinenlesbare
+
+ https://iconclass.org/help/about (04.05.2023).
+ https://zbmath.org/ (04.05.2023).
+ https://www.arthistoricum.net/suchen/bildquellen (04.05.2023).
+ https://www.bibliotheksverband.de/vertraege-und-vereinbarungen, vor allem aber https://www.
+bibliotheksverband.de/sites/default/files/2021-06/2007_Boersenverein_110707_Kataloganreicherung.pdf
+(04.05.2023).
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 515
+
+Einbindung in die Titeldatensätze ist noch nicht so häufig anzutreffen. Etablierte Praxis
+ist andererseits, dass die gescannten Objekte mittels Texterkennung aufbereitet und voll-
+textindexiert sind, um so auch im Rahmen der Recherche durchsucht werden zu kön-
+nen. Die Bibliotheksverbünde arbeiten hierbei eng zusammen und tauschen Scans von
+Inhaltsverzeichnissen untereinander aus.74 Außerdem spielt die DNB als Lieferant eine
+große Rolle: Bei rund 110 000 jährlichen Neuzugängen werden Inhaltsverzeichnisse digi-
+talisiert und zur Nachnutzung angeboten, weiterhin werden retrospektiv die Lücken der
+Jahre 1945–2012 geschlossen.75 Auch externe Dienstleister bieten diesen Service seit Jah-
+ren an. Während die Workflows bei gedruckten Medien etabliert sind, ist die Situation
+bei Einzel-E-Books und E-Book-Paketen eher diffus und abhängig von Verbund, Verlag
+und Systemanbieter sowie von der bibliografischen Nachweisstrategie der Einzelbiblio-
+theken.76 So liefern manche Verlage in ihren Metadaten maschinenlesbare Inhaltsver-
+zeichnisse in unstrukturierter Form oder strukturiert in den sogenannten Angaben zum
+Inhalt mit. Weiterhin weisen z. T. Bibliotheken, die Bibliotheksmanagementsysteme neu-
+erer Generation wie Alma von Ex Libris nutzen, die Titeldaten von eBook-Paketen nicht
+mehr in Verbundkatalogen nach und beziehen beispielsweise strukturierte Metadaten
+auf Kapitelebene aus der jeweiligen Knowledge Base.
+
+Ferner unterstützt die Methode des Abstractings maßgeblich die Orientierungs-
+funktion der Inhaltserschließung und, sofern das Wortmaterial indexiert wird, durch
+zusätzliche Sucheinstiege auch die Zugangsfunktion. Meist sind ihre Ergebnisse, die
+Abstracts (oder Kurzreferate), bereits ein Bestandteil der Textproduktion und werden
+von den Autor:innen selbst, z. T. auch erst nachgeordnet von Dokumentationseinrich-
+tungen, erstellt. Insofern liegen die Rechte im Gegensatz zu Klappentexten und In-
+haltsverzeichnissen urheberrechtlich nicht bei den Verlagen, weswegen z. B. der
+Börsenverein sie in seinem Vertrag nicht pauschal freigibt. Abstracts unterliegen do-
+kumentarischen Qualitätskriterien und repräsentieren den spezifischen Inhalt eines
+Werkes in kompakter und sprachlicher Form.
+
+Eine sehr einfache Methode der Anreicherung mit inhaltserschließenden Metada-
+ten ist in Titeldatensätzen auf Basis der Angabe zu Ausgaben in anderer physischer
+Form möglich. Dabei werden reziprok Titelaufnahmen von Print- und E-Versionen glei-
+cher Publikationen mittels ISBN verknüpft und Einzelschlagwörter, Schlagwortfolgen und
+Notationen gegenseitig angereichert. Diese Anreicherung wurde im B3Kat, dem gemein-
+samen Verbundkatalog des BVB und des KOBV, seit Anfang 2022 mehrfach für RVK-
+
+ Vgl. z. B. die Praxis im SWB: https://wiki.bsz-bw.de/display/SWB/Kataloganreicherung+mit
++SWBplus oder im GBV: https://www.gbv.de/informationen/Verbundzentrale/Datenbankstatistik/Daten
+bankstatistik_4160 (04.05.2023).
+ https://www.dnb.de/kataloganreicherung (04.05.2023).
+ Zum Thema Anreicherung mit Inhaltsverzeichnissen bei eBooks findet sich im Grunde keine
+neuere Literatur, die hier gemachten Aussagen beruhen insofern einerseits auf Gesprächen sowie an-
+dererseits auf eigener Erfahrung. Eine aktuelle Untersuchung und Empfehlungen für die Situation bei
+E-Books wäre von großem Interesse.
+
+
+
+516 Michael Franke-Maier
+
+Notationen, Schlagwortfolgen und Formangaben durchgeführt und mittlerweile in eine
+vierteljährliche Routine überführt.77 Eine weitere Möglichkeit bietet der Erstkatalogisie-
+rungs-Identifier (EKI), der seit 2006/2007 zum Einsatz kommt. Er ermöglicht die reziproke
+maschinelle verbundübergreifende Nachführung u. a. von inhaltserschließenden Metada-
+ten. Leider konnte der EKI bislang nicht seine volle Wirkung entfalten.78
+
+Auch die Entwicklung von culturegraph,79 einem Werkcluster-Verfahren, bietet die
+Möglichkeit, Metadaten von einer Manifestation eines Werks auf andere Manifestatio-
+nen desselben Werks zu übertragen. Unterschiedliche Auflagen, Ausgaben in unter-
+schiedlichen Verlagen und Übersetzungen profitieren dabei voneinander. Die inhaltliche
+Erschließung eines Elements eines Werkclusters reicht dabei aus, um den ganzen Werk-
+cluster zu erschließen. Das Verfahren funktioniert bei der überwiegenden Mehrheit der
+Werkcluster einwandfrei, dennoch kann es zu systematischen Fehlern dort kommen, wo
+z. B. Werkcluster sehr groß sind und fälschlicherweise verschiedene Werke darin Einzug
+finden. Fehler treten außerdem dort auf, wo eine falsche intellektuelle Inhaltserschlie-
+ßung vorliegt, z. B. wenn Aspekte von Expressionen bei der Erschließung berücksichtigt
+wurden. Das Verfahren wurde in einem ersten Projekt mit Schlagwortfolgen und Form-
+angaben im August 2021 im B3Kat durchgeführt: Dabei konnten rund 2,2 Millionen Daten-
+sätze angereichert werden.80 Die angereicherten Elemente wurden dabei mit einer
+Provenienzkennung versehen, damit nachträgliche Rücknahmen zur Fehlerkorrektur
+möglich sind.81
+
+Weiterhin lassen sich inhaltserschließende Elemente aus Mappings bzw. Konkor-
+danzen zwischen unterschiedlichen Wissensorganisationssystemen anreichern. Zwei
+zentrale Instanzen hierfür sind das Projekt GNDmul der DNB sowie coli-conc der VZG
+des GBV. Für das bereits früher im Text beschriebene Projekt GNDmul liegen mittler-
+weile zahlreiche Konkordanzen zu anderen Wissensorganisationssystemen wie z. B.
+LCSH, RAMEAU, STW, AGROVOC und weiteren vor.82 Je nach Richtung des Mappings
+kann aus einem Normdatensatz eines anderen Systems ein GND-Normdatensatz (oder
+umgekehrt) erzeugt und in den Titeldaten angereichert werden. Das ermöglicht vor
+allem dort, wo keine eigene GND-Erschließung vollzogen wird, diese z. B. aber über
+Fremddaten vorliegt, eine Erhöhung der Erschließungsdichte. Auch hier liegt der
+praktische Fokus von coli-conc: Im Jahr 2021 konnten aus der Konkordanz von RVK
+zu Basisklassifikation etwas mehr als 300 000 Titel mit Notationen der Basisklassifika-
+
+ https://www.bib-bvb.de/web/ag-se/protokolle (04.05.2023).
+ Albrecht, Block, Kratzer u. Thießen in Franke-Maier u. a. 2021.
+ https://www.dnb.de/DE/Professionell/Standardisierung/AGV/_content/culturegraph_akk.html
+(10.05.2023).
+ Bee u. a. 2022.
+ Zu Einzelheiten der Rücknahmen vgl. die Protokolle der Arbeitsgruppe für Sacherschließung
+(AGSE) des BVB/KOBV: https://www.bib-bvb.de/web/ag-se/protokolle (10.05.2023).
+ https://wiki.dnb.de/x/MQy6Dw (10.05.2023).
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 517
+
+tion angereichert werden.83 Coli-conc hat mittlerweile 62 Konkordanzen mit mehr als
+375 000 Mappings gesammelt.84
+
+5 Computergestützte Verfahren der
+Inhaltserschließung
+
+Die Digitalisierung hat, wie in allen anderen Branchen, die Bibliotheksdomäne maßgeb-
+lich beeinflusst, auch mit Blick auf Verfahren der (semi-)automatischen Inhaltserschlie-
+ßung. In Bibliotheken haben diese in den letzten beiden Jahrzehnten Fuß gefasst. Die
+Entwicklung schreitet indes nur langsam voran, wobei das weniger an der vielleicht
+noch mancherorts zu findenden Skepsis gegenüber solchen Verfahren liegt, sondern
+eher an der Mittelausstattung für Personal, Rechner- und Serverkapazitäten, die in der
+IT-Branche genuin höher ist als in Bibliotheken. Computergestützte Verfahren lassen
+sich auf das im vorherigen Abschnitt genannte Textmaterial ebenso anwenden wie auf
+Volltexte, wobei bei Volltexten die möglichen Limitierungen durch urheberrechtliche
+Rahmenbedingungen zu beachten sind.
+
+Der Einsatz maschineller Verfahren richtet sich dabei stark am Fokus der Erschlie-
+ßungsstrategie aus, was Auswirkungen auf die Wahl der einzusetzenden Algorithmen
+und Workflows hat: Möchte man lediglich die Abdeckung an Sucheinstiegen für das Ret-
+rieval erhöhen, können klassische linguistische, lexikalische oder textstatistische Verfah-
+ren zum Einsatz kommen, die sich wenig für eine Anzeige in Suchwerkzeugen eignen.85
+Es werden dabei aus dem vorliegenden Textmaterial wie Titel, Untertitel, Inhaltsverzeich-
+nis, Klappentext, Abstract und auch aus den Volltexten Indexterme extrahiert, die je nach
+Grad der Automatisierung mit oder ohne Nachkontrolle in Suchindices eingespielt wer-
+den. Für die Erkennung und Extraktion von Eigennamen, wie z. B. Personen, Körper-
+schaften oder Geografika, eignen sich Verfahren der Named-Entity Recognition (NER).
+
+Auch die Einbindung von normiertem Vokabular ist möglich und wurde an der
+DNB in den letzten zehn Jahren mit der GND, zunächst mit der Software Averbis Ex-
+traction Platform (AEP), seit 2020 mit der von der Finnischen Nationalbibliothek ent-
+wickelten Software Annif86 erprobt.87 Die DNB limitiert dabei die maximale Anzahl
+an extrahierten GND-Begriffen auf sieben Schlagwörter, außerdem findet eine auf
+Stichproben basierte Qualitätskontrolle statt. Die Einzelergebnisse werden dabei mit
+
+ Vgl. den Jahresbericht der VZG aus dem Jahr 2021: https://www.gbv.de/informationen/Verbundzen
+trale/Publikationen/PDF/jahresbericht_2021.pdf (10.05.2023).
+ https://coli-conc.gbv.de/de/concordances/ (10.05.2023).
+ Lepsky 2023 oder https://www.nltk.org/ (11.05.2023).
+ https://annif.org/ (11.05.2023); Suominen 2019.
+ Mödden u. a. 2018; https://wiki.dnb.de/download/attachments/181751388/2-3_Automatische-Ver
+gabe-von-GND-Schlagw%C3%B6rtern_Uhlmann_2020-12-03_final.pdf (11.05.2023).
+
+
+
+518 Michael Franke-Maier
+
+den Kategorien „sehr nützlich“, „nützlich“, „weniger nützlich“ und „falsch“ bewertet
+und erreichen eine Quote von 43 % sehr nützlichen Ergebnissen.88 Obwohl der Wech-
+sel von AEP zu Annif zu einer merklichen Verbesserung der Ergebnisse geführt hat,
+besteht weiterhin die Notwendigkeit, die bisher erzielte Quote zu optimieren. Dies ist
+mit der modularen Softwarearchitektur von Annif möglich, da sprachunabhängig un-
+terschiedliche Normdateien eingesetzt werden können und die implementierten Algo-
+rithmen miteinander kombinierbar (Fusion-Ansatz) sind. Überdies werden lernende
+Verfahren eingesetzt und der Aufbau der Softwarearchitektur ermöglicht flexibel das
+Einbinden neuer Algorithmen.89
+
+Die ZBW befasst sich seit Anfang der 2000er Jahre mit maschinellen Verfahren, der
+Durchbruch zum Produktivbetrieb erfolgte mit AutoSE im Jahr 2021. Mittlerweile wird
+ebenfalls Annif für die automatische Erschließung von wirtschaftswissenschaftlicher Li-
+teratur unter Nutzung des STW eingesetzt. Der anfängliche experimentelle Projektcha-
+rakter wurde in einen Dauerbetrieb mit entsprechenden Personal- und Sachmitteln
+überführt. Es werden zwei Anwendungsszenarien bedient: das stündliche Abgreifen
+neuer Metadatensätze und deren automatisierte inhaltliche Erschließung sowie die Nut-
+zung der gewonnenen Indexate als Vorschläge im Digitalen Assistenten DA-3 der Firma
+Eurospider. Zur Qualitätssicherung und zur Bewertung der Indexate wird auf die Ver-
+bindung von Mensch und Maschine (engl. human-in-the-loop) gesetzt. Durch einen nach-
+geordneten Vergleich der maschinellen Indexate mit den beim intellektuell erfolgten
+Erschließungsprozess vergebenen Schlagwörtern können Aussagen über die Qualität
+der maschinellen Indexate erfolgen. Insofern liegt hier eine geschickte Kombination
+zweier Tools sowie der intellektuellen mit der maschinellen Inhaltserschließung vor.90
+
+Der DA-3, ein webbasiertes Assistenzwerkzeug für die Inhaltserschließung, wird
+derzeit im SWB, GBV und im Österreichischen Bibliothekenverbund (OBV) eingesetzt,
+der BVB hat den DA-3 2019 evaluiert, eine Entscheidung zum Einsatz steht bislang
+aus. Der DA-3 vereint dabei die Funktionen der Recherche in den Normdatenpools wie
+z. B. GND, DDC, RVK und BK, er aggregiert titelbasiert in Bibliotheks- und Verbundkata-
+logen vorhandene inhaltserschließende Metadaten und bietet diese den Erschließer:in-
+nen in der Weboberfläche zur Auswahl an. Ergänzt wird dieses Angebot durch Norm-
+daten, die über sogenannte Vorschlagsgeneratoren erzeugt werden. Dabei greift der
+DA-3 vorhandene Mappings aus Konkordanzen (z. B. coli-conc) oder aus Normdaten ab
+(z. B. in der GND gehaltene Mappings zwischen GND und LCSH etc.). Die intellektuell
+erfolgte Auswahl inhaltserschließender Metadaten wird schließlich automatisiert in die
+jeweiligen Kataloge in den Titeldaten nachgetragen.91
+
+ Stichprobengröße lag bei 434 Datensätzen, nützlich sind 26 %, wenig nützlich 22 % und falsch 9 %.
+ Suominen 2019: S. 21.
+ Kasprzik u. Tochtermann 2022; https://wiki.dnb.de/download/attachments/181751388/2-2_Werkstatt
+bericht_Annif_ZBW.pdf (22.05.2023).
+ https://www.da-3.de/ (12.05.2023). Detaillierte Informationen bspw. zu eingebundenen Katalogen und
+Mappings finden sich im Datenblatt: https://services.eurospider.com/da3/factsheet.html (12.05.2023).
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 519
+
+In jüngster Zeit haben Technologien der sogenannten Künstlichen Intelligenz und
+spezifischer des Deep Learning für die Verarbeitung von natürlicher Sprache großes
+Aufsehen erregt (z. B. Generative Pre-trained Transformer – GPT92). Diese Verfahren
+sind vor allem mit Hilfe von riesigen Mengen an Trainingsdaten in der Lage, Texte
+ähnlich wie ein Mensch zu übersetzen, zusammenzufassen und zu generieren. Sie eig-
+nen sich insofern z. B. für die automatisierte Erstellung von Abstracts. Nichtsdestotrotz
+sind sie nicht in der Lage, semantische Zusammenhänge zu erkennen, sie rekombinie-
+ren letztlich probabilistisch sprachliche Formen, die in den Trainingsdaten vorliegen.
+Sie sind gewissermaßen „stochastische Papageien“.93 Wissen wird nur implizit (oder
+subsymbolisch) repräsentiert. Einen tatsächlichen Mehrwert für die Inhaltserschlie-
+ßung und Visualisierung können sie erst dann haben, wenn sie mit Semantic-Web-
+Technologien unter Einsatz von Normdaten verknüpft werden. Letztere repräsentie-
+ren Wissen explizit (oder symbolisch) auf der Basis von Beschreibungslogiken und
+eignen sich insofern gut für die Darstellung von Informationen und Zusammenhän-
+gen in Wissensgraphen (engl. knowledge graphs).94
+
+Abschließend lässt sich sagen, dass eine (semi-)automatisierte Inhaltserschlie-
+ßung nur dann gut funktionieren kann, wenn sie beim Management als Daueraufgabe
+anerkannt wird und entsprechend Personal- und Sachmittel zur Verfügung stehen.
+Überdies müssen auch positive lizenzrechtliche Rahmenbedingungen vorliegen, die
+es Bibliotheken erlauben, nicht nur das Textmaterial der Metadaten auszuwerten,
+sondern auch die Volltexte. Es empfiehlt sich die Einbindung von intellektuell kura-
+tierten Goldstandards oder die menschliche Qualitätskontrolle (engl. human-in-the-
+loop) zur stetigen Verbesserung der Qualität der Indexate. Außerdem ist der flexible
+und kombinierte Einsatz unterschiedlicher Methoden je nach Fachgebiet und Daten-
+korpus notwendig, ebenso wie die Berücksichtigung der Fragestellung, in welchen
+Kontexten die Einbindung der Ergebnisse ihre volle Wirkung für die Recherche ent-
+falten kann. Für den Informations- und Erfahrungsaustausch im Zusammenhang mit
+maschinellen Verfahren wurde 2019 das „Netzwerk maschinelle Verfahren in der Er-
+schließung“ von der DNB initiiert. In diesem Kontext werden jährlich Fachtagungen
+und Workshops angeboten.95
+
+ https://openai.com/ (12.05.2023). Einen kurzen Abriss zur Entwicklung des maschinellen Lernens
+findet sich bei Sack in Franke-Maier u. a. 2021: S. 387–390.
+ Bender u. a. 2021: S. 617.
+ Vgl. Sack in Franke-Maier u. a. 2021: S. 390 f.
+ https://wiki.dnb.de/x/GwfmC (12.05.2023).
+
+
+
+520 Michael Franke-Maier
+
+6 Bibliothekarische Inhaltserschließung
+im 21. Jahrhundert
+
+6.1 Wirtschaftlichkeit und Heterogenität
+
+Zur Bewertung der Wirtschaftlichkeit der Inhaltserschließung fließen meist nur Kosten-
+aspekte des Erschließungsprozesses ein, leider gibt es jedoch kaum verlässliche Anga-
+ben zum tatsächlichen Kostenaufwand. Letztlich steht oftmals nur die Aussage im
+Raum, dass die (intellektuelle) Inhaltserschließung „verhältnismäßig teuer“ sei.96 Mit
+der Automatisierung der Inhaltserschließung geht oftmals auch die Erwartung einher,
+dass Kosten gespart werden könnten, ohne dass dabei reflektiert wird, was sie am Ende
+tatsächlich kostet, sofern man sie gewissenhaft auf hohem Niveau betreiben möchte.
+
+Sinnvoller ist die Verschiebung des Fokus der Wirtschaftlichkeitsbetrachtung auf das
+Erfolgserlebnis beim Retrieval, also auf die Perspektive der Nutzenden, da dann der Wert
+differenzierter unter einschlägigen Nutzungsszenarien (z. B. Studienanfänger:innen, Ex-
+pert:innen etc.) bewertet werden kann.97 Ein wichtiger Faktor für die Bewertung ist der
+beim Retrieval entstehende Zeitaufwand. Fehlende oder suboptimal gestaltete Funktiona-
+litäten von Recherchewerkzeugen wirken sich immens auf den Sucherfolg aus, vor allem
+dann, wenn sie nicht in der Lage sind, die vorhandenen Meta- und Normdaten korrekt
+für die (Weiter-)Suche, die Anzeige und Facettierung zu verarbeiten.
+
+Trotzdem bleibt die Kostenfrage des Erschließungsprozesses aus weiteren Grün-
+den virulent: Die Ressourcen des klassischen Bibliotheksgeschäfts bzw. der Fachrefe-
+ratsarbeit werden zunehmend verschoben in andere wichtige neue Bereiche wie
+bspw. Forschungsdatenmanagement oder Digital Humanities. Auch der Anstieg der
+Anzahl der Publikationen setzt Bibliotheken ökonomisch unter Zugzwang, vor allem
+die Menge an Netzpublikationen ist für Bibliotheken mit Web-Archivierungsauftrag
+wie die DNB eine große Herausforderung.98
+
+Dieser Situation wird vielfältig begegnet: Einerseits setzt man auf Einsatz und
+Weiterentwicklung von Assistenzsystemen wie dem DA-3 (Universitätsbibliothek
+Stuttgart, Staatsbibliothek zu Berlin, GBV, SWB, ... )99 oder zur Beschleunigung des Er-
+schließungsprozesses auf die Fremddatenanreicherung mittels FRED100 (Zentralbiblio-
+thek Zürich, Universitätsbibliotheken Basel und Bern). Die DNB konzentriert sich bei
+der verbalen Inhaltserschließung seit 2019 auf die Gruppe sogenannter buchaffiner
+
+ Scheven 2005: S. 748. Ansätze für Rückschlüsse auf die Personalkosten könnten aus dem Artikel
+von Fischer u. Wiesenmüller (2016) abstrahiert werden.
+ Wiesenmüller: https://www.vdb-online.org/veranstaltungen/843/Wiesenmueller_Verbale-Sacher
+schliessung-und-ihr-Wert.pdf, Folie 10–12.
+ Schürmann 2015: S. 75.
+ Beckmann u. Hinrichs: https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/3635
+(22.05.2023).
+ Bucher u. a. 2018.
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 521
+
+Fächer der Reihe A,101 flankiert mit maschinellen Verfahren für z. B. Netzpublikatio-
+nen. Andere Bibliotheken fokussieren sich auf die Auswahl von Fachgebieten – wie
+z. B. die Universitätsbibliothek Johann Christian Senckenberg (Frankfurt a. M.), die
+seit 2018 verbale Inhaltserschließung nur noch für die Literatur ihrer sieben Fachin-
+formationsdienste betreibt102 – oder auf Bestandsgruppen, wie z. B. die Universitäts-
+bibliothek der Freien Universität Berlin, die vorzugsweise Hochschulschriften und
+wissenschaftliche Literatur, die an der eigenen Universität entstehen, verbal er-
+schließt. Auch wenn die Einzelbibliotheken dabei aus ihrer Sicht lokal wirtschaftlich
+sinnvoll agieren, entsteht eine unübersichtliche heterogene Erschließungssituation,
+die Auswirkungen auf den Sucherfolg hat, gerade wenn der lokale Recherchekontext
+verlassen wird und Nutzende in Verbundkatalogen oder globalen Katalogen ihre in-
+haltlichen Fragestellungen bearbeiten.
+
+Allerdings zeigt diese Heterogenität auch in Katalogen einzelner Bibliotheken ihre
+Wirkung, da bei der derzeit gängigen Praxis der kooperativen Erschließung die in Ver-
+bundkatalogen vorhandene Erschließungsleistung anderer Bibliotheken in die jeweiligen
+Lokalkataloge zurückfließt. Schließlich haben unterschiedliche Sammelschwerpunkte
+und Bestandsgrößen Einfluss auf die Erschließungstiefe und -qualität.103 Als Matrix zur
+Analyse und Bewertung der Heterogenität von inhaltserschließenden Elementen in bi-
+bliografischen Datenbeständen eignet sich nach wie vor das von Krause bereits 1996 be-
+schriebene Schalenmodell.104 Ausgehend von einem Kern an intellektuell hochwertig
+erschlossenen Dokumenten, die mittels Autopsie, regelbasiert und unter Zuhilfenahme
+von Normdaten erschlossen sind, bilden sich konzentrische Datenschichten, die sich – je
+weiter sie vom Kern entfernt sind – durch eine Absenkung von Relevanz, Spezifität und
+Qualität auszeichnen und z. B. nur Elemente aus Grobklassifikationen oder maschinelle
+Indexate enthalten. Eine Operationalisierung und Anwendung des Schalenmodells in
+Suchsystemen unter Berücksichtigung des jeweiligen Katalogkontextes (Verbund- oder
+Lokalkatalog) kann nur dann gut umgesetzt werden, wenn inhaltserschließende Metada-
+ten über (häufig bisher nicht vorhandene) Marker verfügen, die eine entsprechende In-
+terpretation der Datenschichtzuordnung oder für das Relevanzranking erlauben. Dabei
+könnten z. B. Aussagen über die Spezifität einer Erschließungsleistung, Konfidenzwerte
+maschineller Erzeugnisse oder Provenienzangaben als Angabe über die Herkunft (z. B.
+Konkordanzen oder Werkclusterverfahren105) herangezogen werden.
+
+ https://www.dnb.de/SharedDocs/Downloads/DE/Professionell/Erschliessen/veraenderungenInhalt
+serschliessungDnbJuli2019.pdf (16.05.2023).
+ https://www.hebis.de/downloads/protokoll-fag-sacherschliessung-und-recherche-2018-06-07/
+(15.05.2023).
+ Schürmann 2015: S. 78.
+ Krause 1996: S. 17 f sowie Krause 2004.
+ Z. B. werden die im GBV aus der Konkordanz zwischen RVK und BK entstandenen Notation ent-
+sprechend gekennzeichnet, im BVB werden via culturegraph angereicherte Schlagwortfolgen eben-
+falls mit einer Kennung markiert.
+
+
+
+522 Michael Franke-Maier
+
+6.2 Qualität
+
+Qualitätsaspekte der Inhaltserschließung spielen schon seit jeher eine wichtige Rolle.106
+Eine sachliche Auseinandersetzung mit Anforderungen und Faktoren, die diese Qualität
+beeinflussen, findet spätestens seit 2017 mit der Veröffentlichung des künftigen Er-
+schließungskonzepts der DNB107 und der anschließenden Diskussion z. B. während des
+Bibliothekartags 2018 statt. Der Fokus der Fragestellung hat sich seitdem stark erweitert
+und bewertet Qualität als multidimensional.108 Neben den Dimensionen Qualität der
+Normdaten und der Regelwerke spielen weiterhin die Qualität der Werkzeuge und Al-
+gorithmen, die Qualität der Datenformate und des Datentauschs, der Erschließungs-
+dichte in Katalogen (Quantität) sowie die Qualität der Suchwerkzeuge eine Rolle.109 Im
+Zusammenhang mit der Definition verfahrensunabhängiger Qualitätskriterien sind
+2019 auch die bereits zu Beginn zitierten Empfehlungen des ET RAVI entstanden. Ein
+wichtiger Baustein beim Umgang mit der o. g. Heterogenität bildet die Transparenz im
+Sinne der „Offenlegung von Regeln und Standards, die genaue Herkunftskennzeich-
+nung von Daten (Erschließungsmethode, Erschließungslevel, Konfidenz) sowie das Ver-
+deutlichen von Erschließungslücken und heterogenen Erschließungssituationen“.110
+
+6.3 Perspektiven
+
+Beschäftigt man sich mit den Perspektiven der Inhaltserschließung, lohnt ein Blick zu-
+rück auf die Entwicklungen der letzten zehn Jahre. Die oftmals salopp getätigte Aus-
+sage, dass eine intellektuelle Inhaltserschließung nicht mehr notwendig sei, da diese
+maschinell mittels Computern sehr viel besser und schneller vollzogen werden könne,
+hat sich bislang nicht bewahrheitet. Dies zeigt z. B. der prozentuale Anteil an „falscher“
+(9 %) und „wenig nützlicher“ (22 %) Erschließung der maschinellen Verfahren der DNB.
+Es ist davon auszugehen, dass sich diese Anteile durch Weiterentwicklung der Verfah-
+ren in den kommenden Jahren weiter verringern werden.
+
+Es gibt weitere Argumente dafür, dass in der nahen Zukunft weiterhin intellek-
+tuelle und maschinelle Verfahren kombiniert werden: Digitale Volltexte liegen nicht
+immer vor, die Digitalisierung von Altbestand wird vermutlich noch Jahre dauern.
+Bei nativ digitalem Content stellt sich die Frage, ob die lizenzrechtlichen Rahmenbe-
+dingungen vorliegen, damit Bibliotheken diesen mit maschinellen Verfahren bearbei-
+
+ Einen historischen Abriss zur Diskussion von Qualität in den letzten 50 Jahren findet sich bei
+Ledl: https://doi.org/10.1515/9783110691597-002.
+ https://www.dnb.de/SharedDocs/Downloads/DE/Professionell/Erschliessen/konzeptWeiterentwick
+lungInhaltserschliessung.pdf (16.05.2023).
+ Franke-Maier u. a. 2021: S. 8 ff.
+ Franke-Maier 2018, Folie 9–12.
+ ET RAVI: s. Franke-Maier u. a. 2021: S. 115.
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 523
+
+ten können. Ist dies nicht der Fall und maschinelle Indexate werden von Verlagen
+oder von Systemanbietern angeboten, fehlt die Hoheit über die erzeugten Daten bzw.
+die Algorithmik. Außerdem ist es fraglich, ob das Wortmaterial von (historischen) Alt-
+beständen in Einklang gebracht werden kann mit dem aktuellen Sprachgebrauch, vor
+allem, wenn normiertes Vokabular zum Einsatz kommt. Weiterhin ist anzunehmen,
+dass „[e]ine preisgünstige universelle und umfassende Out-of-the-Box-Lösung zur au-
+tomatischen Inhaltserschließung für Bibliotheken und Archive [...] aktuell noch auf
+sich warten lassen“ wird.111
+
+Insofern bleibt abzuwarten, welcher Grad der Automatisierung unter Beibehal-
+tung von bestimmten Anforderungen an Qualität in den nächsten Jahren erreicht
+werden kann. Zentrale Entwicklungen im Umfeld von Bibliotheken wie ökologische
+Nachhaltigkeit und Energiekonsum von Algorithmen der Künstlichen Intelligenz wer-
+den ebenfalls eine wichtige Rolle spielen.112 Letztlich auch, ob solche Systeme in der
+Lage sind, demokratiefördernd zu sein und ob sich Bibliotheken eine Vollautomatisie-
+rung aus Kostenperspektive überhaupt leisten können.
+
+Dort, wo eine möglichst spezifische Inhaltserschließung gewollt und für die Wissen-
+schaft wie z. B. in Spezialbibliotheken notwendig ist, wird sicherlich weiterhin intellektuell-
+unter Einbezug von fachwissenschaftlich ausgebildetem Bibliothekspersonal erschlossen
+werden. Weiterhin ist anzunehmen, dass Assistenzsysteme zur semi-automatischen Inhalts-
+erschließung weiter an Zulauf gewinnen und die Fachreferatsarbeit verändern werden.
+Prinzipien des human-in-the-loop werden zur Qualitätskontrolle eingesetzt werden und mit
+Anwachsen der Trainingsdaten die Basis für eine gute maschinelle Erschließung bilden.
+Die maschinellen Verfahren werden sich dahingehend zu entwickeln haben, dass bei
+fehlender oder zu geringer Trainingsbasis von der Maschine zwingend menschliche In-
+teraktion eingefordert wird. Weiterhin werden sie bei Publikationen, die maßgeblich
+neues Wissen enthalten, Vorschläge für bisher nicht vorhandene Normdaten generieren.
+Fachreferatsaufgaben werden hier anknüpfen und sich vom konkreten Akt der Inhaltser-
+schließung entfernen hin zur Kuratierung von Wissensorganisationssystemen, damit ma-
+schinelle Verfahren bessere Grundlagen haben. Die nahe Zukunft wird sich durch einen
+Mix an Methoden auszeichnen. Zentrale Aufgabe des Designs von Suchwerkzeugen wird
+dabei sein zu entscheiden, welche Metadaten für welche Zwecke genutzt werden, um ein
+optimales Sucherlebnis zu gewährleisten, welches maßgeblich die Interessen der Suchen-
+den widerspiegelt. Im Gegensatz zur known-item-search, die derzeit in der Regel bereits
+sehr gut funktioniert, sind die Funktionalitäten für thematische Suchen sehr ausbaufä-
+hig.113 Letztlich muss es gelingen, die Komplexität der Metadaten gewinnbringend zu vi-
+sualisieren sowie das Navigieren in semantischen Netzen zu ermöglichen.
+
+ Siehe Sack in Franke-Maier u. a. 2021: S. 402 f.
+ Vgl. z. B. Strubell u. a. 2019.
+ Wiesenmüller in Franke-Maier u. a. 2021.
+
+
+
+524 Michael Franke-Maier
+
+Literatur
+Alex, Heidrun, Guido Bee u. Ulrike Junger (Hrsg.): Klassifikationen in Bibliotheken. Theorie – Anwendung –
+
+Nutzen. Berlin, Boston: De Gruyter Saur 2018. https://doi.org/10.1515/9783110299250.
+Bee, Guido, Veronika Plößnig u. Christoph Steiner: 5. Workshop Computerunterstützte
+
+Inhaltserschließung. Bericht und thematischer Überblick zu den Beiträgen. In: O-Bib. Das offene
+Bibliotheksjournal 9 (2022), H. 1, S. 1–8. https://doi.org/10.5282/o-bib/5788.
+
+Bender, Emily M., Timnit Gebru, Angelina McMillan-Major u. Shmargaret Shmitchell (2021): On the
+Dangers of Stochastic Parrots. Can Language Models Be Too Big? In: FAccT ‘21: Proceedings of the
+2021 ACM Conference on Fairness, Accountability, and Transparency, März 2021. S. 610–623.
+https://doi.org/10.1145/3442188.3445922.
+
+Bertram, Jutta: Einführung in die inhaltliche Erschließung. Grundlagen – Methoden – Instrumente.
+Würzburg: Ergon 2005.
+
+Bucher, Priska,Alice Spinnler u. Marcus Zerbst: FRED: Synergien in der Sacherschliessung nutzen. In:
+Zentralbibliothek Zürich. In: Bibliotheken der Schweiz: Innovation durch Kooperation. Hrsg. von Alice
+Keller u. Susanne Uhl. Berlin, Boston: De Gruyter Saur 2018. S. 200–215. https://doi.org/10.1515/
+9783110553796-011.
+
+Dahlberg, Ingetraut: Wissensorganisation. Entwicklung, Aufgabe, Anwendung, Zukunft. Würzburg:
+Ergon 2014.
+
+Fischer, Kristina u. Heidrun Wiesenmüller: Der Einsatz der Personalgruppen in der Sacherschließung an
+wissenschaftlichen Bibliotheken – Ergebnisse einer Umfrage In: O-Bib. Das offene Bibliotheksjournal
+3 (2016), H. 2, S. 56–77. https://doi.org/10.5282/o-bib/2016H2S56-77.
+
+Franke-Maier, Michael: Qualitätsanforderungen zwischen intellektueller und algorithmisierter
+Inhaltserschließung. Vortrag gehalten auf der 22. Verbundkonferenz des Gemeinsamen
+Bibliotheksverbundes. Kiel 2018. https://verbundkonferenz.gbv.de/wp-content/uploads/2018/09/
+Franke-Maier_Qualit%C3%A4t_MFM_final.pdf (22.05.2023).
+
+Franke-Maier, Michael, Anna Kasprzik, Andreas Ledl u. Hans Schürmann (Hrsg.): Qualität in der
+Inhaltserschließung. Berlin, Boston: De Gruyter Saur 2021. https://doi.org/10.1515/9783110691597.
+
+Gantert, Klaus: Bibliothekarisches Grundwissen. 9., vollständig neu bearbeitete und erweiterte Auflage.
+Berlin, Boston: De Gruyter Saur 2016. https://doi.org/10.1515/9783110321500.
+
+Kasprzik, Anna u. Klaus Tochtermann: Auf Augenhöhe mit Forschungspartnern aus der Wissenschaft –
+Anwendung von Künstlicher Intelligenz in der ZBW. In: BuB – Forum Bibliothek und Information 74
+(2022), H. 6, S. 306–311. https://www.b-u-b.de/fileadmin/archiv/imports/pdf_files/2022/bub_2022_
+06_306_311.pdf (22.05.2023).
+
+Krause, Jürgen: Informationserschließung und -bereitstellung zwischen Deregulation, Kommerzialisierung
+und weltweiter Vernetzung – Schalenmodell. IZ-Arbeitsbericht Nr. 6. 1996. https://www.gesis.org/fi
+leadmin/upload/forschung/publikationen/gesis_reihen/iz_arbeitsberichte/ab6.pdf (23.05.2023).
+
+Krause, Jürgen: D 16 Standardisierung und Heterogenität. In: Grundlagen der praktischen Information und
+Dokumentation: Band 1: Handbuch zur Einführung in die Informationswissenschaft und -praxis – Band 2:
+Glossar. Hrsg. von Rainer Kuhlen, Thomas Seeger u. Dietmar Strauch. Berlin, Boston: K. G. Saur 2004.
+S. 635–642. https://doi.org/10.1515/9783110964110.635.
+
+Landry, Patrice: Multilingual Subject Access: The Linking Approach of MACS. In: Cataloging & Classification
+Quarterly 37 (2004), H. 3–4, S. 177–191. https://doi.org/10.1300/J104v37n03_11.
+
+Lepsky, Klaus: B 3 Automatisches Indexieren. In: Grundlagen der Informationswissenschaft. 7., völlig neu
+gefasste Ausgabe. Hrsg. von Rainer Kuhlen, Dirk Lewandowski, Wolfgang Semar u. Christa Womser-
+Hacker. Berlin, Boston: De Gruyter Saur 2023. S. 171–182. https://doi.org/10.1515/9783110769043-015.
+
+Lorenz, Bernd u. a.: Handbuch zur Regensburger Verbundklassifikation. Materialien zur Einführung. 3.,
+überarbeitete Auflage. Wiesbaden: Harrassowitz Verlag 2017.
+
+
+
+6.2 Inhaltserschließung und Kataloganreicherung 525
+
+Mödden, Elisabeth, Christa Schöning-Walter u. Sandro Uhlmann: Maschinelle Inhaltserschließung in der
+Deutschen Nationalbibliothek. In: BuB – Forum Bibliothek und Information 70 (2018), H.1, S. 30–35.
+https://www.b-u-b.de/fileadmin/archiv/imports/pdf_files/2018/bub_2018_01_030_035.pdf.
+
+Lorenz, Bernd: Zur Theorie und Terminologie der bibliothekarischen Klassifikation. In: Klassifikationen in
+Bibliotheken: Theorie – Anwendung – Nutzen. Hrsg. von Heidrun Alex, Guido Bee u. Ulrike Junger.
+Berlin, Boston: De Gruyter Saur 2018. S. 1–22. https://doi.org/10.1515/9783110299250-001.
+
+Scheven, Esther: Effiziente Sacherschließung in schwierigen Zeiten: Gedanken zur Zukunft der SWD. In:
+Bibliotheksdienst 39 (2005), H.6, S. 748–773. https://doi.org/10.1515/bd.2005.39.6.748.
+
+Schürmann, Hans: Sacherschließung nach RDA. In: 027.7 Zeitschrift für Bibliothekskultur / Journal for
+Library Culture 2 (2015), S. 74–80. https://doi.org/10.12685/027.7-3-2-64.
+
+Strubell, Emma, Ananya Ganesh u. Andrew McCallum: Energy and Policy Considerations for Deep Learning
+in NLP. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
+Florenz 2019. S. 3645–3650. https://doi.org/10.18653/v1/P19-1355.
+
+Suominen, Osma: Annif: DIY automated subject indexing using multiple algorithms In: LIBER Quarterly:
+The Journal of the Association of European Research Libraries 29 (2019), H.1, S. 1–25. https://doi.org/
+10.18352/lq.10285.
+
+Wiesenmüller, Heidrun: Orientieren und Explorieren. Die Präsentation von verbaler Inhaltserschließung in
+deutschsprachigen Katalogen. Vortrag beim 8. Bibliothekskongress in Leipzig am 31.05.2022
+(nachträglich eingesprochen). TIB AV-Portal 2022. https://doi.org/10.5446/57594.

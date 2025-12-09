@@ -1,0 +1,639 @@
+Heinz Pampel und Bernhard Mittermaier
+5.1 Open Access und Zeitschriften
+1 Historie
+Mitte der 1990er Jahre begannen Forschende digitale Zeitschriften zu etablieren, die
+den Open Access (OA) zu ihren Artikeln sicherstellen.1 Vor dem Hintergrund der
+„BBB-Definition“ von OA, die auf drei Konferenzen in Budapest, Bethesda und Berlin
+in den Jahren 2001, 2002 und 2003 entwickelt wurde,2 begannen wissenschaftsgeleitete
+und nicht kommerzielle Initiativen, wie die Public Library of Science (PLOS), sowie
+privatwirtschaftliche Publikationsdienstleister, wie BioMed Central (BMC), das Geschäfts-
+und Finanzierungsmodell der Article Publication Charge (APC)3 zu etablieren.
+Nach Laakso u. a.4 kann die frühe Entwicklung der OA-Zeitschriften in Pionierjahre,
+(1993–1999), Innovationsjahre (2000–2004) und Konsolidierungsjahre (2005–
+2009) eingeteilt werden. Die Konsolidierungsjahre sind durch den Aufkauf von BMC
+durch Springer (heute: Springer Nature) im Jahr 2008 charakterisiert. Mit dieser Verlagsübernahme
+wurde deutlich, dass das Geschäftsmodell der APC für einen privatwirtschaftlichen
+Publikationsdienstleister eine rentierende Einnahmequelle darstellt.
+Bereits 2004 hatte Springer mit dem Programm Open Choice begonnen, mit Open
+Access bei der Herausgabe von Subskriptionszeitschriften zu experimentieren5 und
+das sogenannte hybride Modell zu erproben (vgl. Abschnitt 2 „Typologie“ in diesem
+Kapitel). Dieses Modell wurde von etablierten Wissenschaftsverlagen ab 2010 breit
+ausgerollt.6
+Mit dem Compact for Open Access Publishing Equity (COPE)7 begannen wissenschaftliche
+Einrichtungen in den USA und in Europa ab 2009, das APC-Modell als
+gleichberechtigtes Finanzierungs- und Geschäftsmodell zur Subskriptionsgebühr anzuerkennen
+und interne Prozesse zur Kostenübernahme zu etablieren. Hierzu wurden
+z. B. in Deutschland von der Deutschen Forschungsgemeinschaft (DFG) geförderte
+Publikationsfonds an den wissenschaftlichen Einrichtungen geschaffen.8 Auch begannen
+Förderorganisationen Open-Access-Policies zu verankern9 und im Rahmen ihrer
+ https://eprints.soton.ac.uk/250742 (04.06.2023).
+ Suber 2012.
+ Im Deutschen häufig Publikationsgebühr genannt.
+ Laakso u. a. 2011.
+ Laakso u. a. 2011.
+ Björk 2017.
+ http://www.oacompact.org/news/2009/9/14/compact-for-open-access-publishing-equity-announce
+ment.html, veröffentlicht am 14.09.2009 (19.03.2023).
+ Fournier u. Weihberg 2013.
+ Eine Übersicht über OA-Policies bietet das Verzeichnis Registry of Open Access Repository Mandates
+and Policies (ROARMAP) https://roarmap.eprints.org/ (04.06.2023).
+Open Access. ©2024 bei den Autorinnen und Autoren, publiziert von De Gruyter. Dieses Werk ist
+lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz.
+https://doi.org/10.1515/9783111046341-020
+Drittmittelförderung Mittel für anfallende Publikationsgebühren bereitzustellen, so
+z. B. die Europäische Kommission ab dem siebten Forschungsrahmenprogramm.
+Um die Transformation von Subskription zu OA voranzutreiben, formulierten führende
+Wissenschaftsorganisationen in Europa 2019 in einem Strategiepapier zur Gestaltung
+des Europäischen Forschungsraums10 das Ziel eines „move toward Full Open
+Access.“ Dies soll durch eine Transformation vom „reader-paid publication system“ auf
+das „author- or institution-paid“ System erreicht werden. Mit dieser Erklärung begann
+eine Institutionalisierung der Open-Access-Transformation in Europa, die in Initiativen
+wie DEAL und Plan S mündet (vgl. Abschnitt 3 „Open-Access-Transformation“ in diesem
+Kapitel).
+Daneben sind es wissenschaftsgeleitete Initiativen, mit denen versucht wird, Open
+Access fachspezifisch zu gestalten. Herauszuheben sind hier die Konsortien Open Library
+of Humanities (OLH) im Bereich der Geisteswissenschaften11 und SCOAP3 in der
+Hochenergiephysik.12 Während bei SCOAP3 die Transformation unter Einbeziehung von
+kommerziellen Verlagsdienstleistern adressiert wird, widmet sich die OLH dem Open-
+Access-Publizieren in akademischer Trägerschaft.
+Die Relevanz der wissenschaftsgeleiteten Initiativen betonten auch das „Joint
+COAR-UNESCO Statement on Open Access“ im Jahr 201613 und der „Jussieu-Appell für
+offene Wissenschaft und Bibliodiversität“ im Jahr 2017.14 Diese Erklärungen betonen
+die Notwendigkeit von Finanzierungs- und Geschäftsmodellen jenseits des APC-Modells.
+2 Typologie
+Die nachfolgende Beschreibung verschiedener Typen von OA legt den Schwerpunkt
+auf die jeweilige Bedeutung für Bibliotheken.15 Dabei sind zunächst die Farben Green
+OA und Gold OA zu unterscheiden.16 Hinzu kommen weitere Typen von Gold OA.17
+ http://www.esf.org/fileadmin/user_upload/esf/EUROHORCs-ESF-Road-Map-Report_2009.pdf
+(04.06.2023).
+ Eve, Vega u. Edwards 2020.
+ Kohls u. Mele 2018.
+ https://www.unesco.org/en/articles/joint-coar-unesco-statement-open-access (04.06.2023).
+ https://jussieucall.org/jussieu-appell/ (04.06.2023).
+ Eine noch wesentlich detaillierte Typologie enthält das Open Access Directory unter https://oad.sim
+mons.edu/oadwiki/OA_journal_business_models (04.06.2023). Für einen alternativen Ansatz vgl. Taubert
+u. a. 2019.
+ Suber 2012: S. 52–64.
+ „Bronze Open Access“, die zum Teil zeitlich befristete freie Zugänglichmachung von Artikeln auf
+der Verlagswebseite z. B. zu Werbezwecken umfasst keine Nutzungsrechte und wird nicht als OA
+betrachtet.
+316 Heinz Pampel und Bernhard Mittermaier
+2.1 Green Open Access
+Green OA bedeutet die Veröffentlichung eines Manuskripts, das bei einem Verlag eingereicht
+wurde oder zur Einreichung vorgesehen ist, auf einem institutionellen oder fachlichen
+OA-Repositorium. Eine Übersicht über OA-Repositorien bietet auf internationaler
+Ebene das Registry of Open Access Repositories (ROAR)18 und auf nationaler Ebene die
+DINI-Liste der Publikationsdienste19 der Deutschen Initiative für Netzwerkinformation
+(DINI). Die mit dem Betrieb eines Repositoriums (Publikationsservers) verbundenen
+Aufgaben sind in Kapitel 5.4 „Open-Access-Repositorien und Universitätsverlage für
+eine offene Wissenschaft“ beschrieben. Beim Green OA können verschiedene Fassungen
+des Manuskripts unterschieden werden, mindestens „eingereichte Fassung“ (vor
+Peer-Review; auch pre-print genannt), „akzeptierte Fassung“ (nach Peer-Review, auch
+author accepted manuscript genannt) und „publizierte Fassung“ (nach Peer-Review, im
+Layout des Verlags; auch version of record genannt).
+Wenn dem Verlag ausschließliche Nutzungsrechte am Manuskript übertragen
+wurden, sind die Publizierenden bei der Publikation im Green OA auf das Wohlwollen
+des Publikationsdienstleisters angewiesen. Oftmals erlauben diese Green OA nur nach
+einer Embargofrist. Deren Länge und weitere Bedingungen können in der Datenbank
+Sherpa Romeo20 recherchiert werden. Ein Vorteil für Publizierende besteht, wenn das
+Urheberrecht ein unabdingbares Zweitveröffentlichungsrecht vorsieht, wie es in
+Deutschland und Österreich der Fall ist (§ 38(4) dUrhG bzw. § 37a öUrhG), wobei auch
+hier eine Embargofrist gilt. Ein alternativer Weg OA rechtssicher umzusetzen, ist die
+Verankerung von „Harvard-Style Open Access Policies“,21 bei denen die Angehörigen
+einer Einrichtung dieser pauschal ein einfaches Nutzungsrecht an allen zukünftigen
+Publikationen übertragen.22
+Verlagsseitige Befürchtungen,23 wonach Green OA zu massiven Abbestellungen von
+Abonnements führen würde, haben sich nicht realisiert. Gründe sind die Schwierigkeit,
+die Verfügbarkeit der Artikel einer bestimmten Zeitschrift im Green OA festzustellen
+(in jüngerer Zeit allerdings erleichtert durch den Dienst Unsub24), die Einbindung vieler
+Zeitschriften in Big Deals, welche eine Abbestellung unmöglich macht und die Zurückhaltung
+von Bibliotheken, ihre Nutzer:innen auf Angebote zu verweisen, bei denen die
+exakte Übereinstimmung mit der Verlagspublikation nicht garantiert werden kann.
+ http://roar.eprints.org/ (04.06.2023).
+ https://dini.de/dienste-projekte/publikationsdienste/ (04.06.2023).
+ https://v2.sherpa.ac.uk/romeo/ (04.06.2023), vgl. auch Kapitel 5.3 „Infrastrukturen rund um Open
+Access“.
+ https://osc.hul.harvard.edu/assets/files/model-policy-annotated_12_2015.pdf (04.06.2023).
+ Vgl. auch die Plan S Rights Retention Strategy https://www.coalition-s.org/rights-retention-strategy/
+(04.06.2023).
+ https://web.archive.org/web/20170205004756/http://boersenverein.de/sixcms/media.php/976/Stellung
+nahme_Dritter_Korb_Endfassung.pdf/ (04.06.2023).
+ https://unsub.org/ (04.06.2023).
+5.1 Open Access und Zeitschriften 317
+2.2 Gold Open Access
+Gold OA bedeutet, dass die Publikation über das Webangebot des Publikationsdienstleister
+mit dem Erscheinen dauerhaft offen zugänglich und mit juristischen Nachnutzungsrechten
+versehen ist, meist mit der Creative-Commons-Lizenz CC BY.25 Diese
+Definition setzt auf der Artikelebene an; aus bibliothekarischer Perspektive ist jedoch
+die Zeitschriftenebene von noch größerer Bedeutung: Nur wenn grundsätzlich alle Artikel
+in einer Zeitschrift Gold OA sind – die Zeitschrift wird dann selbst als „Gold
+Open Access Journal “ oder „Fully Open Access Journal“ bezeichnet –, sind keine
+Subskriptionsgebühren zu bezahlen. Die technische Nachnutzung von Artikeln wird
+durch die Maschienenlesbarkeit der Artikel, z. B. unter Anwendung der Journal Article
+Tag Suite (JATS),26 ermöglicht.
+Wenn die Zeitschrift APCs erhebt, so müssen diese von der Person bezahlt werden,
+die den Artikel eingereicht hat. Faktisch zahlen aber in den allerwenigsten Fällen die
+Autor:innen selbst, sondern deren Einrichtung oder eine Förderorganisation. Für die
+Finanzierung gibt es verschiedene Möglichkeiten; deren Bandbreite reicht von der Bezahlung
+aller Artikel durch die Bibliothek der/des Corresponding Authors bis zur Bezahlung
+aller Artikel durch die Organisationseinheit der Autor:innen oder auch aus
+Drittmitteln. Auch Mischformen sind möglich, so gibt es z. B. Einrichtungen, bei denen
+die Bibliothek nur anteilig oder nur bis zu einer Höchstgrenze bezahlt oder nur dann
+bezahlt, wenn sie einen Rahmenvertrag mit dem betreffenden Verlag abgeschlossen
+hat. Im Sinne eines Informationsbudgets ist es notwendig, dass die Ausgaben an einer
+Einrichtung zentral verzeichnet werden und es ist zumindest wünschenswert, dass sie
+auch zentral durch die Bibliothek administriert werden. Wenn die Bibliothek bezahlt,
+dann steht vor der sachlich-richtig-Prüfung der Rechnung die sogenannte „Autor:innenverifikation“,
+d. h. die Überprüfung, ob der/die Corresponding Author tatsächlich zur eigenen
+Einrichtung gehört und ob ggf. einrichtungsspezifische Anforderungen wie die
+korrekte Angabe der Affiliation erfüllt sind.
+Im deutschen Sprachraum wurde mit BMC 2003 der erste OA-Rahmenvertrag abgeschlossen.
+Der Vorteil eines solchen Vertrags liegt für den Verlag darin, dass er sämtliche
+Zahlungen aus einer Einrichtung über eine einzelne, professionelle Stelle (die Bibliothek)
+abwickeln kann und er oftmals eine Vorauszahlung (Pre-Payment, „Mitgliedsgebühr“27)
+erhält. Vorteil für die Bibliothek ist der eingeräumte Rabatt von bis zu 20 %. Es gibt auch
+„Flat Fee“-Modelle, z. B. bei PLOS, bei denen für eine Pauschalzahlung beliebig viele Artikel
+publiziert werden können. Bei „klassischen“ Verlagen wie Springer Nature und
+Wiley, bei denen OA-Zeitschriften nur ein Teil des Portfolios darstellen, sind Gold-OAZeitschriften
+oftmals Bestandteil von Publish & Read-Verträgen.
+ Zur Verbreitung siehe: https://oaspa.org/analysis-shows-further-growth-in-oaspa-member-journalsoutput/
+(04.06.2023).
+ https://jats.nlm.nih.gov (04.06.2023).
+ Der Begriff „Mitgliedschaft“ suggeriert einen unzutreffenden Sachverhalt und sollte vermieden werden.
+318 Heinz Pampel und Bernhard Mittermaier
+2.3 Diamond Open Access
+Diamond OA ist ein Spezialfall von Gold OA, bei dem keine Publikationsgebühren zu
+entrichten sind. Dabei ist es mit Blick auf die Zahl der Zeitschriften sogar der Normalfall
+(etwa zwei Drittel der Zeitschriften im DOAJ erheben keine Publikationsgebühr28),
+bezogen auf die Zahl der erschienenen Artikel aber nach wie vor die Ausnahme
+(vgl. Abschnitt 4 „Stand“ in diesem Kapitel). Aus bibliothekarischer Perspektive ist die
+Behandlung als eigene „OA Farbe“ sicher gerechtfertigt, denn die damit verbundenen
+Aufgaben sind von Gold OA deutlich verschieden: Einerseits entfallen die Autorenverifikation
+und die Bezahlung von Publikationsgebühren. Andererseits können je nach
+Finanzierungsmodell der Zeitschrift andere Aufgaben entstehen:
+– Herausgabe von Zeitschriften durch die Bibliothek, z. B. Journal of Large-Scale Research
+Facilities,29 was Redaktionsarbeit mit einschließt
+– Hosting von Zeitschriften, z. B. LIBREAS30 (vgl. dazu auch Kapitel 5.4 „Open-
+Access-Repositorien und Universitätsverlage für eine offene Wissenschaft“)
+– Finanzielle Unterstützung von Zeitschriften, die durch Crowdfunding (mit-)finanziert
+werden, z. B. SciPost31
+Daneben gibt es weitere Finanzierungsmodell für Diamond OA, bei denen Bibliotheken
+in unterschiedlichen Ausprägungen mehr oder weniger stark involviert sind:
+– Betrieb von Zeitschriften und Publikationsplattformen durch
+– Einzelpersonen, z. B. 027.7: Zeitschrift für Bibliothekskultur32
+– Fachgesellschaften, z. B. o-bib: das offene Bibliotheksjournal33
+– Wissenschaftliche Einrichtungen und Vereine, z .B. libreas34
+– Forschungsförderer, z. B. Open Research Europe35
+– Herausgabe von Zeitschriften durch kommerzielle Verlage, die für Fachgesellschaften
+etc. als Publikationsdienstleister fungieren, z. B. Polarforschung36
+ Im August 2023 erheben 68 % der im DOAJ gelisteten Zeitschriften keine Publikationsgebühr.
+Siehe: https://doaj.org (20.08.2023).
+ https://jlsrf.org/index.php/lsf (04.06.2023). Weitere Zeitschriften unter: https://oad.simmons.edu/oad
+wiki/OA_journals_published_by_libraries (04.06.2023).
+ https://edoc.hu-berlin.de/handle/18452/149 (04.06.2023).
+ https://scipost.org/sponsors/ (04.06.2023).
+ https://0277.pubpub.org/ (04.06.2023).
+ https://www.o-bib.de/bib (04.06.2023). Das Hosting erfolgt durch die LMU München.
+ https://libreas.eu/ (04.06.2023).
+ https://open-research-europe.ec.europa.eu/ (04.06.2023).
+ https://www.polarforschung.net (04.06.2023). Die Zeitschrift wird herausgegeben von der Deutschen
+Gesellschaft für Polarforschung und dem Alfred-Wegener-Institut; der Verlag ist Copernicus.
+5.1 Open Access und Zeitschriften 319
+2.4 Subscribe2Open
+Das Subscribe2Open-Modell (S2O) kann als Sonderfall von Diamond OA betrachtet
+werden, bei dem die finanzielle Unterstützung der Zeitschrift durch Bibliotheken allerdings
+nicht mehr freiwillig ist: Das Modell wandelt eine existierende Subskriptionszeitschrift
+in eine Diamond-OA-Zeitschrift um. Die Finanzierung erfolgt dadurch, dass
+ein Großteil der bisher subskribierenden Einrichtungen sich bereit erklären, weiterhin
+Mittel an den Verlag zu entrichten, damit dieser den Betrieb der Zeitschrift OA
+ohne APCs auf Artikelebene organisiert. S2O ist bislang auf kleine und mittlere Verlage
+beschränkt und noch ein experimentelles Modell –allerdings mit großer Dynamik.
+37 Das Open Access Directory unterhält eine Liste der S2O-Zeitschriften.38
+2.5 Hybrid Open Access
+Beim Hybrid OA werden in einer Subskriptionszeitschrift einzelne Artikel durch Bezahlung
+einer Publikationsgebühr im OA freigeschaltet. Dies kann beispielsweise individuell
+durch Entscheidung der Autor:innen erfolgen, wobei hier das „Double Dipping“-
+Problem39 evident ist: Zusätzlich zu den Subskriptionsausgaben müssen so Hybrid-APCs
+bezahlt werden, welche aus gutem Grund durch Bibliotheken zumeist nicht übernommen
+werden.
+Es gibt jedoch auch vertragliche Vereinbarungen zwischen Bibliotheken und Verlagen,
+die Hybrid OA Publizieren ermöglichen. Bei diesen steht die Verrechnung der
+Kostenelemente Publizieren und Lesen im Fokus. Zunächst wurden diese als „Offsetting-
+Verträge“ gestaltet, bei denen man für die Subskriptionsgebühr neben dem lesenden
+Zugang zu den Zeitschriften auch in begrenztem Umfang die Möglichkeit erhält,
+ohne artikelbezogene Zusatzkosten Hybrid OA zu publizieren. Inzwischen werden
+meist „Read & Publish“-Verträge (Kosten orientieren sich am Lesen, also insbesondere
+an den bisherigen Subskriptionsausgaben) und Publish & Read-Verträge (Kosten orientieren
+sich am Publikationsaufkommen) abgeschlossen, die zumeist unlimitiertes
+OA-Publizieren an einer Einrichtung erlauben. Prominentes Beispiel hierfür sind die
+DEAL-Verträge. Solche Verträge werden auch als „Transformationsverträge“ bezeich-
+ https://docs.google.com/document/d/1Me7X0HtV4n4Q-KWIu7HxORMGg8aWfC6mSGo8hRvlF5k
+(05.09.2023). Der Verlag De Gruyter will ca. 85 % der aktuell 320 Subskriptionszeitschriften bis 2028 in
+das S2O-Modell überführen https://www.degruyter.com/publishing/ueber-uns/presse/pressemitteilun
+gen/open-access-strategie-de-gruyter-setzt-auf-subscribe-to-open-um-transformation-zu-beschleuni
+gen?lang=de (05.09.2023).
+ https://oad.simmons.edu/oadwiki/Subscribe_to_Open_(S2O)_journals (04.06.2023).
+ Mittermaier 2015.
+320 Heinz Pampel und Bernhard Mittermaier
+net, da sie die Transformation von der Subskriptionszeitschrift zur OA-Zeitschrift
+(„Flipping“) befördern sollen (vgl. Abschnitt 3 „Open-Access-Transformation“).40
+Publish & Read-Verträge werden einzelnen Bibliotheken nur selten angeboten, sondern
+sind oftmals nur in Konsortien zu realisieren (Kapitel 4.3 „Lizenzierung elektronischer
+Medien“). Während somit die Aufgabe der Vertragsverhandlung für die einzelne
+Bibliothek meist entfällt, obliegt ihr wie bei Gold OA die Aufgabe der Autorenverifikation
+sowie die u. U. aufwändige Kontrolle der Publikationslisten, aus denen sich letztlich
+die Zahlungsverpflichtung ergibt. Des Weiteren werden Einrichtungen, die die Finanzierung
+der Zeitschriftensubskriptionen nach einem Etatverteilungsmodell (Kapitel 4.1 „Erwerbungspolitik,
+Etatplanung und Mittelallokation in wissenschaftlichen Bibliotheken“)
+organisiert haben, diese Modelle oftmals auf den Prüfstand stellen müssen: Die Verteilung
+der Publikationen auf die einzelnen Fachbereiche etc. kann sich deutlich von der
+bisherigen Verteilung der finanziellen Beiträge unterscheiden. Diese Umstellung zu moderieren
+ist eine herausfordernde Aufgabe für die Bibliothek, die sinnvollerweise mit
+der Etablierung eines Informationsbudgets einhergeht (vgl. Abschnitt 5 „Aktuelle Herausforderungen“
+in diesem Kapitel).
+3 Open-Access-Transformation
+Das Anliegen, die Transformation hin zu OA zu fördern, wird durch eine Vielzahl
+wissenschaftspolitischer Initiativen unterstützt. Herauszuheben ist die Empfehlung
+über den Zugang zu wissenschaftlichen Informationen und deren Bewahrung der EUKommission
+von 2012 und 2018. Die Mitgliedstaaten sollten dafür sorgen, dass „spätestens
+ab 2020 alle wissenschaftlichen Veröffentlichungen von Ergebnissen öffentlich finanzierter
+Forschung frei zugänglich gemacht werden“.41 Dieses Anliegen wird auch
+durch den Rat der Europäischen Union unterstützt, der „den offenen Zugang zu wissenschaftlichen
+Publikationen als Standardoption für die Veröffentlichung der Ergebnisse
+von mit öffentlichen Mitteln geförderter Forschung“ begrüßt.42 Bis 2020 sollte
+OA der Standard des wissenschaftlichen Publizierens in Europa werden, dies ist jedoch
+auch einige Jahre später noch nicht erreicht (vgl. Abschnitt 4 „Stand“ in diesem
+Kapitel). Die 2023 vorgestellten „Schlussfolgerungen zu Wegen des hochwertigen,
+transparenten, offenen, vertrauenswürdigen und fairen wissenschaftlichen Publizie-
+ Anzumerken ist, dass dieses Flipping durch viele der Publish & Read-Verträge bisher nicht erreicht
+wurde. Siehe dazu Mittermaier 2021.
+ https://eur-lex.europa.eu/DE/legal-content/summary/access-to-and-preservation-of-scientific-infor
+mation.html bzw. https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018H0790:DE:
+HTML (16.09.2024).
+ https://data.consilium.europa.eu/doc/document/ST-9526-2016-INIT/de/pdf (04.06.2023).
+5.1 Open Access und Zeitschriften 321
+rens“ betonen die Bedeutung von wissenschaftsgeleiteten OA-Modellen jenseits von
+APCs in Europa.43
+In Deutschland veröffentlichte das Bundesministerium für Bildung und Forschung
+(BMBF) 2016 eine Open-Access-Strategie. Teil dieser Strategie war die Verankerung von
+Förderbedingungen im Rahmen der ministeriellen Forschungsförderung.44 Ziel des
+BMBF ist es, bis 2025 einen Open-Access-Anteil von 70 % in Deutschland zu erreichen.
+In Österreich ist eine Umstellung zu OA bis 2025 geplant.45 In der Schweiz sollen bis
+2024 alle Publikationen OA veröffentlicht werden.46 In Deutschland haben darüber hinaus
+einzelne Bundesländer und auch wissenschaftliche Einrichtungen spezifische OAZielmarken
+verankert. In den 2023 von Bund und Ländern beschlossenen gemeinsamen
+Leitlinien „Open Access in Deutschland“ ist keine Zielmarke genannt.47
+Der Begriff der OA-Transformation wird unterschiedlich verwendet.48 Die hier genannten
+politischen Initiativen beziehen sich auf die Transformation des Publikationsaufkommens
+eines Landes oder der EU hin zu OA. Mit der 2016 gestarteten
+OA2020-Initative49 wird das Vorhaben, „to transform a majority of today’s scholarly
+journals from subscription to OA publishing“,50 auf globaler Ebene adressiert. Im
+Kern steht hier nicht die Transformation des Publikationsoutputs wissenschaftlicher
+Einrichtungen, Förderorganisationen oder Staaten, sondern das Ziel der großflächigen
+Umstellung von Zeitschriften von Subskription zu OA.
+Eine Initiative, die dieses Vorhaben auf nationaler Ebene unterstützt, ist das Projekt
+DEAL der Allianz der deutschen Wissenschaftsorganisationen. Die international
+beachtete Initiative verfolgt das Ziel, mit den drei Verlagen Elsevier, Springer Nature
+und Wiley Publish & Read-Verträge (vgl. Abschnitt 2 „Typologie“ in diesem Kapitel) zu
+verhandeln.51 Die Verhandlung mit Elsevier begann 2016 und führte erst 2023 zu
+einem Vertragsabschluss.52 Die Art, in der die Verhandlungen geführt wurde, hat
+nachhaltige Auswirkungen auf das Verhältnis zwischen Bibliotheken und Verlagen
+ https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/de/pdf (04.06.2023).
+ Bundesministerium für Bildung und Forschung 2016: https://www.bmbf.de/SharedDocs/Publikatio
+nen/de/bmbf/1/24102_Open_Access_in_Deutschland.pdf?__blob=publicationFile&v=5 (04.06.2023).
+ Bauer u. a. 2015.
+ swissuniversities und Swiss National Science Foundation 2017: https://www.swissuniversities.ch/fi
+leadmin/swissuniversities/Dokumente/Hochschulpolitik/Open_Access/Open_Access__strategy_final_DE.
+pdf (01.07.2023).
+ Bundesministerium für Bildung und Forschung 2023: https://www.bmbf.de/SharedDocs/Publikatio
+nen/de/bmbf/1/772960_Open_Access_in_Deutschland (01.07.2023).
+ Vgl. Pampel 2021.
+ Die Initiative wird weltweit von über 150 Wissenschaftsorganisationen unterstützt, darunter alle
+großen deutschen Wissenschaftsorganisationen, aus Österreich der FWF und aus der Schweiz SNF
+sowie swissuniversities.
+ https://oa2020.org/mission/ (04.06.2023).
+ Mittermaier 2023.
+ https://doi.org/10.17617/2.3523659.
+322 Heinz Pampel und Bernhard Mittermaier
+weltweit.53 Der über Jahre hinweg vertragslose Zustand hat gezeigt, dass ein leistungsfähiger
+Wissenschaftsstandort, wie Deutschland, auch bei den großen Verlagen nicht
+zwingend Zugang zu den Zeitschriftenportfolios benötigt. Mit Wiley54 und Springer
+Nature55 wurden 2019 bzw. 2020 erste Verträge abgeschlossen. Diese stellen sicher,
+dass Autor:innen an wissenschaftlichen Einrichtungen in Deutschland in den Portfolios
+der beiden Verlage OA publizieren. An den Verträgen sind rund 500 wissenschaftliche
+Einrichtungen beteiligt. 2024 werden sie mit Anschlussverträgen fortgesetzt.
+Neben DEAL wird über das Forum 13 +56 die Abstimmung und das kooperative Handeln
+der Bibliotheken im Bereich der Transformation gefördert. Das ESAC Registry57
+verzeichnet im August 2023 aus Deutschland neben den DEAL-Verträgen 54 laufende
+konsortiale Transformationsverträge mit 32 verschiedenen Verlagen, zumeist aus den
+Reihen des Forum 13 + verhandelt.
+In Österreich wird im Rahmen der Kooperation E-Medien Österreich (KEMÖ) zentral
+mit Verlagen verhandelt,58 daneben gibt es auch Verträge einzelner Hochschulen.
+Die Verbindung von OA und Subskription wird in Österreich sehr konsequent und
+schon seit langer Zeit verfolgt: Die ersten Publish & Read-Verträge waren bereits im
+Jahr 2014 aktiv. Als direkte Konsequenz hat Österreich eine höhere OA-Quote als
+Deutschland (vgl. Abschnitt 4 „Stand“ in diesem Kapitel).
+In Umsetzung der nationalen OA-Strategie für die Schweiz werden durch das
+Konsortium der Schweizer Hochschulbibliotheken Transformationsverträge mit Verlagshäusern
+verhandelt. Aktuell sind etwa zwei Drittel der schweizerischen Publikationen
+in Hybrid-Zeitschriften von Transformationsverträgen erfasst.59 Mit SCOAP3
+nahm eine große internationale Initiative zur OA-Transformation in der Hochenergiephysik
+den Ausgang in der Schweiz.
+Während Publish & Read-Verträge den Anteil der OA-Publikationen steigern können,
+haben sie nur einen sehr begrenzten Einfluss auf die tatsächliche Transformation von
+Zeitschriften von Subskription zu OA. Deren Transformation hängt von den Verlagen und
+deren Geschäftsstrategien ab. Um den Prozess der Umstellung von Zeitschriften zu fördern,
+widmet sich die cOAlition S, eine Gruppe von Förderorganisationen, in ihrem Plan S
+von 2018 (aktualisiert in 2019) der Entwicklung von gemeinsamen Anforderungen, mit
+denen auf die Verlage Einfluss genommen werden soll. Über diese Einflussnahme hinaus
+soll sichergestellt werden, dass Publikationen, die im Rahmen geförderter Projekte der
+Förderorganisationen entstehen, ab dem Jahr 2021 nur noch nach den Kriterien des Plan S
+ Vgl. Hunter 2018.
+ https://dx.doi.org/10.17617/2.3027595.
+ https://dx.doi.org/10.17617/2.3174351.
+ https://forum13plus.de (04.06.2023).
+ https://esac-initiative.org/about/transformative-agreements/agreement-registry/ (20.08.2023).
+ Vgl. Fenz-Kortschak 2020.
+ Quelle: ESAC-Registry (04.06.2023).
+5.1 Open Access und Zeitschriften 323
+verlegt werden.60 Bislang findet die Transformation von Zeitschriften nur in sehr begrenztem
+Umfang statt, so hat Springer Nature von den Subskriptionszeitschriften, die
+2019 im Portfolio waren, bis 2023 lediglich 1 % in OA-Zeitschriften umgewandelt.61
+Neben den hier skizzierten Vorhaben, die auf das Handeln von kommerziellen
+Verlagsdienstleistern abzielen, ist ein Wachstum der wissenschaftsgeleiteten Aktivitäten
+zu beachten. U. a. formieren sich Konsortien, die OA-Zeitschriften kooperativ finanzieren.
+Für Deutschland ist hier das Projekt KOALA herauszuheben.62 Daneben
+beginnen Förderorganisationen eigene Publikationsplattformen zu gründen und so
+das OA-Publizieren für geförderte Forschende zu erleichtern. Um die Einflussnahme
+auf die OA-Dienstleistungen von Verlagen zu stärken haben z. B. die Wissenschaftsorganisationen
+2022 in Deutschland „Empfehlungen für transformative Zeitschriftenverträge
+mit Publikationsdienstleistern“63 vorlegt.
+4 Stand
+Die Entwicklung von OA mit Stand Juni 2023,64 die in den nachstehenden Abbildungen
+getrennt für die Länder Deutschland (Abb. 1), Österreich (Abb. 2) und Schweiz (Abb. 3)
+dargestellt ist, lässt sich wie folgt beschreiben:
+– Die Publikationszahl steigt in allen Ländern stetig an und liegt nun etwa drei-bis
+viermal so hoch wie im Jahr 2000.65
+– Anfangs ist Closed Access mit 70 % (Schweiz) bis 80 % (Deutschland und Österreich)
+klar dominierend. Hinzu kommen länderübergreifend 9 % Bronze und
+10 % (Deutschland und Österreich) bis 20 % (Schweiz) Green OA. Letzteres kann
+mit der Preprint-Kultur in der Hochenergiephysik (CERN) zusammenhängen.
+Weitere Publikationsarten spielen anfangs praktisch keine Rolle.
+– Die Artikelzahl in diesen drei Publikationsarten steigt bis zum Jahr 2013 an und erreicht
+ein bis zum Jahr 2018 reichendes Plateau. Ihr Anteil am gesamten Publikationsaufkommen
+beträgt im Jahr 2013 noch immer über 80 %, wobei in den Folgejahren
+eine Verschiebung weg von Closed Access und hin zu Green OA stattfindet.
+– In den Jahren 2013–2018 ist der Gesamtzuwachs der Publikationszahl vor allem
+dem Anstieg bei Gold OA geschuldet; hinzu kommt auch ein wachsender Anteil
+ https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/
+principles-and-implementation/ (04.06.2023).
+ Mittermaier 2023.
+ Vgl. Oberländer u. Tullney 2021.
+ Pampel u. a. 2022.
+ Alle Daten stammen aus dem Open Access Monitor Deutschland https://open-access-monitor.de/.
+Datenquelle: Dimensions (Digital Science & Research Solutions, Inc.); Datenstand 20.08.2023.
+ Der Rückgang 2022 („COVID-slump“) erklärt sich durch den außergewöhnlich starken Anstieg im
+Jahr 2020 und vor allem 2021 („COVID-bump“).
+324 Heinz Pampel und Bernhard Mittermaier
+Hybrid OA. Der Zuwachs bei Hybrid setzt in Österreich früher ein, weil hier
+schon relativ früh Transformationsverträge abgeschlossen wurden.
+– Seit 2019 nimmt Closed Access deutlich ab und Hybrid verzeichnet überall deutliche
+Zuwächse.
+– In den letzten Jahren ist auch Diamond OA mit ca. 3 % nennenswert vertreten;
+Subscribe2Open (sowieso erst nachweisbar seit 2020) spielt mit derzeit ca. 0,5 %
+Anteil noch ein Nischendasein, wobei sich die Artikelzahlen seither jedes Jahr
+verfünffacht haben.
+– Zum Ende des Betrachtungszeitraums ist die Publikationswelt eine deutlich andere
+als am Anfang: Anfangs erschien jeder hundertste Artikel in einer OA-Zeitschrift, nun
+ist es jeder Dritte (Gold und Diamond). Anfangs waren 78 % (Schweiz) bis 89 % (Österreich)
+der Artikel hinter einer Paywall oder nicht nachnutzbar (Closed und Bronze),
+nun sind es nur jeder vierte Artikel (Schweiz) bis jeder dritte (Deutschland).66
+0
+20,000
+40,000
+60,000
+80,000
+1,00,000
+1,20,000
+1,40,000
+1,60,000
+1,80,000
+Anzahl Publikationen
+Publikationsjahr
+Entwicklung von Open Access in Deutschland
+Abb. 1: Entwicklung der Publikationsmodi in Deutschland (Quelle: Dimensions via Open Access Monitor;
+Datenstand 20.08.2023).
+ Die im Vergleich zu Deutschland besseren Werte von Österreich liegen am Hybrid Open Access
+und mithin an der größeren Zahl von Transformationsverträgen. Die Schweiz hat dagegen bei allen
+OA-Typen höhere Werte als Deutschland.
+5.1 Open Access und Zeitschriften 325
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+Anzahl Publikationen
+Publikationsjahr
+Entwicklung von Open Access in Österreich
+Abb. 2: Entwicklung der Publikationsmodi in Österreich (Quelle: Dimensions via Open Access Monitor).
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+Anzahl Publikationen
+Publikationsjahr
+Entwicklung von Open Access in der Schweiz
+Abb. 3: Entwicklung der Publikationsmodi in der Schweiz (Quelle: Dimensions via Open Access Monitor).
+326 Heinz Pampel und Bernhard Mittermaier
+5 Aktuelle Herausforderungen
+Die aktuellen Herausforderungen bei der Förderung von OA im Bereich wissenschaftlicher
+Zeitschriften lassen sich für Bibliotheken in folgende Themenfelder ordnen, die
+Teil umfangreicher Maßnahmen zur Förderung von Open Access an wissenschaftlichen
+Einrichtungen sind.67
+5.1 APC-Management
+Mit der Teilnahme an Transformationsverträgen wie z. B. den DEAL-Verträgen haben
+wissenschaftliche Bibliotheken die Aufgabe zu überprüfen, ob die Corresponding Authors
+von Publikationen der eigenen Einrichtung zurecht zugeordnet wurden und die
+Einrichtung somit zahlungspflichtig ist. Der Zeitpunkt der Überprüfung ist idealerweise
+möglichst früh im Publikationsprozess, zum Teil findet die Verifikation aber erst retrospektiv
+bei der Rechnungsbearbeitung statt. Neben direkter Mitteilung in jedem Einzelfall
+z. B. per E-Mail richten Verlage zunehmend Dashboards ein, in denen die Verifikation
+stattfindet. Angesichts der Vielzahl von Verlagen, bei denen typischerweise Publikationen
+erfolgen, skaliert aber auch dieser Ansatz nur bedingt. Es entstanden daher verlagsübergreifende
+Dashboards wie ChronosHub und oable, an die Verlage die Daten liefern
+und die Bibliotheken an einer Stelle die Verifikation durchführen können. Darüber hinaus
+erfolgt dort auch die Bezahlung der APCs. Insgesamt stellt das APC-Management
+eine Änderung im Aufgabenspektrum von Bibliotheken dar, die mit der Umstellung
+von gedruckten Zeitschriften auf E-Journals vergleichbar ist. Verbunden ist damit auch
+eine geringere Planbarkeit der Ausgaben: Im Unterschied zu den Zahlungen für Zeitschriftenabonnements,
+die zu Jahresbeginn bekannt sind, sind Publikationen kaum
+planbar und steuerbar.68 Einige Einrichtungen nutzen ihre OA-Repositorien zum Management
+der APC.69
+5.2 Informationsbudget
+Über das APC-Management hinaus gilt es, einen zentralen Blick auf alle Einnahmen
+und Ausgaben für die wissenschaftlichen Informationen an Institutionen sicherzustellen.
+Dieses Vorhaben wird unter dem Begriff Informationsbudget diskutiert.70 Neben
+den Mitteln, die über Publikationsfonds an den Bibliotheken administriert werden, be-
+ Eine umfassende Beschreibung der Handlungsfelder zur Förderung von Open Access an wissenschaftlichen
+Einrichtungen findet sich bei Pampel (2023).
+ Vgl. Herb 2022.
+ Vgl. Wagner 2018.
+ Pampel 2019.
+5.1 Open Access und Zeitschriften 327
+trachtet das Informationsbudget auch Gelder, die Förderorganisationen für das OAPublizieren
+bereitstellen, Mittel, die in den Organisationseinheiten der Forschenden bewirtschaftet
+werden, sowie Erwerbungsausgaben. Anliegen des Informationsbudgets ist
+es, die Transparenz über die Mittelflüsse zwischen wissenschaftlichen Einrichtungen
+und Publikationsdienstleistern zu fördern und darüber hinaus die Ausgaben und Einnahmen
+für Publikationsdienstleistungen an den Einrichtungen in den Blick zu nehmen
+damit die Transparenz der Finanzen im Bereich der digitalen Wissenschaftskommunikation
+gefördert wird.71 In Deutschland empfiehlt der Wissenschaftsrat72 die Implementierung
+solcher Informationsbudgets an außeruniversitären Einrichtungen und Hochschulen
+und auch die DFG hat ihre Förderungen auf diese Thematik ausgerichtet.73 Je nach Organisationsstruktur
+kann ein Informationsbudget entweder als virtuelles oder als reales
+Informationsbudget umgesetzt werden. Während das virtuelle Informationsbudget, im
+Sinne des Controllings, eine Gesamtübersicht über die verteilten Mittel (über den Bibliotheksetats
+hinaus) gewährleistet, bedeutet das reale Informationsbudget die zentrale
+Bewirtschaftung dieser Mittel. Die praktische Umsetzung ist jedoch mit großen Herausforderungen
+an der Einrichtung verbunden.74
+5.3 Wissenschaftsgeleitetes Publizieren
+Eine zentrale Herausforderung, die die Diskussion rund um OA seit mehr als 20 Jahren
+prägt, ist die Frage, wie Wissenschaft und Bibliotheken das Publikationswesen
+aktiv gestalten können. Während die einen die Rolle kommerzieller Publikationsdienstleister
+gänzlich in Frage stellen und die Forderung nach Selbstorganisation des
+Publikationswesens in den Mittelpunkt von OA stellen,75 setzen Initiativen wie DEAL
+und SCOAP3 OA pragmatisch um und versuchen, durch breite Bündnisse von wissenschaftlichen
+Einrichtungen die Wirkung der Wissenschaft im Bereich des digitalen
+Publizierens zu steigern. Das wissenschaftsgeleitete Publizieren, bei dem wissenschaftliche
+Einrichtungen die Parameter der Publikation steuern und gestalten, wird
+von wissenschaftlichen Einrichtungen seit vielen Jahren gefördert. So werden weltweit
+über 34 000 OA-Zeitschriften an wissenschaftlichen Einrichtungen mithilfe der
+Open-Source-Software Open Journal Systems (OJS) betrieben.76 Hierbei übernehmen
+Bibliotheken in unterschiedlichen Ausprägungen die Rolle eines Publikationsdienst-
+ Pampel u. a. 2022.
+ Wissenschaftsrat 2022: https://doi.org/10.57674/FYRC-VB61.
+ Vgl. DFG-AWBI 2022: https://doi.org/10.5281/ZENODO.5901799.
+ Vgl. Mittermaier 2022.
+ Brembs u. a. 2023.
+ Quelle: https://rpubs.com/saurabh90/ojs-stats-2021 (04.06.2023)
+328 Heinz Pampel und Bernhard Mittermaier
+leisters. Ab 2016 begannen auch Förderorganisationen wie der Wellcome Trust mit
+Wellcome Open Research,77 die Gates Foundation mit Gates Open Research78 sowie
+die Europäische Kommission mit Open Research Europe79 eigene OA-Plattformen zu
+etablieren und damit eine aktive Rolle bei der Weiterentwicklung des wissenschaftsgeleiteten
+Publizierens zu übernehmen. Die Initiatoren der Budapest Open Access Initiative
+(BOAI) empfehlen zum 20-jährigen Jubiläum ihrer Erklärung: „We recommend
+hosting and publishing OA texts, data, metadata, code, and other digital research outputs
+on open, community-controlled infrastructure.”80
+Möchte die Wissenschaft, unterstützt durch ihre Bibliotheken, die Weiterentwicklung
+von OA anhand dieser Forderung gestalten, dann sind zukünftig stärkere Aktivitäten
+in diese Richtung nötig. Durch das Angebot von Publikationsdienstleistungen
+und OA-Infrastrukturen sowie korrespondierende Policies und Beratungsangebote
+können Bibliotheken hier, auch mit dem Betrieb von Eigenverlagen, eine viel aktivere
+Rolle übernehmen. Die wachsende Kritik am APC-Modell, auch aus den Reihen der
+Bibliotheken,81 könnte das OA-Publizieren unter aktiver Mitarbeit der Bibliotheken in
+den kommenden Jahren einen deutlichen Aufschwung bekommen.
+6 Ausblick
+Die Publikation von Zeitschriften im OA-Paradigma wirkt auf vielfältige Weise auf
+den Betrieb von wissenschaftlichen Bibliotheken. Einige Bibliotheken haben bereits
+eine aktive Rolle bei der Gestaltung des Publikationswesens durch den Betrieb eigener
+Publikationsinfrastrukturen eingenommen. Daneben sind für Bibliotheken die
+Übernahme und das damit verbundene Management von APCs sowie die Beteiligung
+und Mitgestaltung von Konsortien im Bereich OA zentrale Handlungsfelder im Bereich
+der wissenschaftlichen Zeitschriften. Mit der steigenden wissenschaftspolitischen
+Bedeutung von Open Science gewinnt das Tätigkeitsfeld OA in Bibliotheken an
+Relevanz. Als Querschnittsthema tangiert OA über den Zeitschriftenbereich hinaus diverse
+Aspekte des Bibliotheksmanagements.82 Es ist wünschenswert, dass Bibliotheken
+ihre Aktivitäten in diesem Bereich weiter ausbauen. Die Empfehlungen des
+Wissenschaftsrates zur OA-Transformation83 sowie die Empfehlungen des EU-Rates
+ https://wellcomeopenresearch.org/ (04.06.2023).
+ https://gatesopenresearch.org/ (04.06.2023).
+ https://open-research-europe.ec.europa.eu/ (04.06.2023).
+ https://www.budapestopenaccessinitiative.org/boai20/ (04.06.2023).
+ Siehe hierzu das Statement der Ivy Plus Libraries Coalition, die das APC-Modell als Widerspruch
+zu den Werten ihrer Einrichtungen bezeichnet https://ivpluslibraries.org/2023/03/iplc-letter-to-the-of
+fice-of-science-technology-policy/ (04.06.2023).
+ Vgl. hierzu ausführlich Pampel 2021.
+ Wissenschaftsrat 2022: https://doi.org/10.57674/FYRC-VB61.
+5.1 Open Access und Zeitschriften 329
+aus 2023 benennen einige der vielfältigen Handlungsfelder. Dabei gilt es, auch Beratungsaktivitäten
+auszubauen und die Formulierung von Policies an den wissenschaftlichen
+Einrichtungen zu begleiten. In all diesen Bereichen, deren Zusammenwirken
+der Einrichtungen, auch im engen Dialog mit Förderorganisationen, von zentraler Bedeutung
+ist, ergeben sich für Bibliotheken Handlungsoptionen zur Weiterentwicklung
+des Publikationswesens. Bibliotheken sollten für ihre Institutionen die Formulierung
+von OA-Transformationsstrategien leiten und im Dialog mit der Wissenschaft Strategien
+zur Gestaltung eines nachhaltigen Publikationswesens formulieren.
+Literaturverzeichnis
+Bauer, Bruno, Guido Blechl, Christoph Bock, Patrick Danowski, Andreas Ferus, Anton Graschopf, Thomas
+König, Katja Mayer, Falk Reckling, Katharina Rieck, Peter Seitz, Herwig Stöger u. Elvira Welzig:
+Empfehlungen für die Umsetzung von Open Access In Österreich. 2015. https://doi.org/10.5281/ze
+nodo.33178.
+Björk, Bo-Christer: Growth of hybrid open access 2009–2016. In: PeerJ (2017), H. 5, e3878. https://doi.org/
+10.7717/peerj.3878.
+Brembs, Björn, Philippe Huneman, Felix Schönbrodt, Gustav Nilsonne, Toma Susi, Renke Siems, Pandelis
+Perakakis, Varvara Trachana, Lai Ma u. Sara Rodriguez-Cuadrado: Replacing academic journals. 2023.
+https://doi.org/10.5281/ZENODO.7643806, veröffentlicht am 15.02.2023.
+Eve, Martin Paul, Paula Clemente Vega u. Caroline Edwards: Lessons From the Open Library of
+Humanities. In: LIBER Quarterly 30 (2020), H. 1, S. 1–18. https://doi.org/10.18352/lq.10327.
+Fenz-Kortschak, Ulrike: Vom Lizenzerwerb zu neuen Geschäftsmodellen – die Kooperation E-Medien
+Österreich (KEMÖ) im 2. Jahrzehnt des 21. Jahrhunderts. In: Künstliche Intelligenz in Bibliotheken. 34.
+Österreichischer Bibliothekartag Graz 2019. Hrsg. von Christina Köstner-Pemsel, Elisabeth Stadler
+u. Markus Stumpf. Graz: Unipress Verlag 2020 (Schriften der Vereinigung Österreichischer
+Bibliothekarinnen und Bibliothekare [VÖB] 15). S. 207–217. https://dx.doi.org/10.25364/guv.2020.
+voebs15.16.
+Fournier, Johannes u. Roland Weihberg: Das Förderprogramm „Open Access Publizieren“ der Deutschen
+Forschungsgemeinschaft. Zum Aufbau von Publikationsfonds an wissenschaftlichen Hochschulen in
+Deutschland. In: Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB) 60 (2013), H. 5, S. 236–243.
+http://dx.doi.org/10.3196/186429501360528.
+Herb, Ulrich: APC-Verwaltung in Bibliotheken. Keynote anlässlich des achten Bibliothekskongresses in
+Leipzig. Thema: Das Management von Open-Access-Publikationsgebühren (Article Processing
+Charges, APCs) in Bibliotheken. 2022. https://dx.doi.org/10.22028/D291-36329.
+Hunter, Philip: A DEAL for open access. The negotiations between the German DEAL project and
+publishers have global implications for academic publishing beyond just Germany. EMBO report
+(2018), H. 19, e463172018. https://doi.org/10.15252/embr.201846317.
+Kohls, Alexander u. Salvatore Mele: Converting the Literature of a Scientific Field to Open Access through
+Global Collaboration: The Experience of SCOAP3 in Particle Physics. In: Publications 6 (2018), H. 2,
+S. 15. https://doi.org/10.3390/publications6020015.
+Laakso, Mikael, Patrik Welling, Helena Bukvova, Linus Nyman, Bo-Christer Björk u. Turid Hedlund: The
+development of open access journal publishing from 1993 to 2009. In: PloS one 6 (2011), H. 6,
+e20961. https://dx.doi.org/10.1371/journal.pone.0020961.
+Mittermaier, Bernhard: Double Dipping beim Hybrid Open Access – Chimäre oder Realität? In:
+Informationspraxis 1 (2015), H. 1. https://doi.org/10.11588/ip.2015.1.18274.
+330 Heinz Pampel und Bernhard Mittermaier
+Mittermaier, Bernhard: Transformationsverträge – Stairway to Heaven oder Highway to Hell? In: 027.7
+Zeitschrift für Bibliothekskultur / Journal for Library Culture 8 (2021), H. 2. https://dx.doi.org/10.
+21428/1bfadeb6.d80f0652.
+Mittermaier, Bernhard. Das Informationsbudget: Konzept und Werkstattbericht. O-Bib. Das Offene
+Bibliotheksjournal 9 (2022), H. 4, S. 1–17. https://doi.org/10.5282/o-bib/5864.
+Mittermaier, Bernhard: DEAL: Wo stehen wir nach 10 Jahren? (Teil 2). In: B.I.T.online 26 (2023), H. 3,
+S. 217–25. https://www.b-i-t-online.de/heft/2023-03-fachbeitrag-mittermaier.pdf.
+Oberländer, A. u. M. Tullney: Gemeinschaftliche Open-Access-Finanzierung als Aufgabe für Bibliotheken.
+Zenodo (29. April 2021). https://doi.org/10.5281/zenodo.47308832021.
+Pampel, Heinz: Auf dem Weg zum Informationsbudget: zur Notwendigkeit von Monitoringverfahren für
+wissenschaftliche Publikationen und deren Kosten. Arbeitspapier. Potsdam: Helmholtz Open Science
+Koordinationsbüro 2019. https://doi.org/10.2312/os.helmholtz.006.
+Pampel, Heinz: Strategische und operative Handlungsoptionen für wissenschaftliche Einrichtungen zur
+Gestaltung der Open-Access-Transformation. Dissertation. Humboldt-Universität zu Berlin 2021.
+https://doi.org/10.18452/22946
+Pampel, Heinz, Roland Bertelmann, Kristine Hillenkötter, Bernhard Mittermaier, Dirk Pieper, Hildegard
+Schäffler, Stefanie Seeh u. Marco Tullney: Empfehlungen für transformative Zeitschriftenverträge mit
+Publikationsdienstleistern: Handreichung der Schwerpunktinitiative „Digitale Information“ der
+Allianz der deutschen Wissenschaftsorganisationen vor dem Hintergrund der Umsetzung der Open-
+Access-Strategie 2021–2025 der Allianz der deutschen Wissenschaftsorganisationen. 2022.
+https://doi.org/10.48440/ALLIANZOA.045.
+Pampel, Heinz. Promoting Open Access in Research-Performing Organizations: Spheres of Activity,
+Challenges, and Future Action Areas. Publications 11 (2023), H. 3, S. 44. https://doi.org/10.3390/
+publications11030044.
+Suber, Peter: MIT Press Essential Knowledge: Open Access. Cambridge: MIT Press 2012 (MIT Press
+Essential Knowledge Series). https://dx.doi.org/10.7551/mitpress/9286.001.0001.
+Taubert, Niels, Anne Hobert, Nicolas Fraser, Najko Jahn u. Elham Iravani: Open Access – Towards a nonnormative
+and systematic understanding. arXiv 2019. https://dx.doi.org/10.48550/arXiv.1910.11568.
+Wagner, Alexander: AGMB-Jahrestagung in Oldenburg 2018. In: GMS Med Bibl Inf 18 (2018), H. 3, Doc. 21.
+http://dx.doi.org/10.3205/mbi000422.
+5.1 Open Access und Zeitschriften 331
